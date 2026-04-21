@@ -1,0 +1,1004 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 25, 2022              Decided July 15, 2022
+
+                       No. 21-1049
+
+    TRANSPORTATION DIVISION OF THE INTERNATIONAL
+      ASSOCIATION OF SHEET METAL, AIR, RAIL AND
+    TRANSPORTATION WORKERS AND BROTHERHOOD OF
+        LOCOMOTIVE ENGINEERS AND TRAINMEN,
+                     PETITIONERS
+
+                             v.
+
+ FEDERAL RAILROAD ADMINISTRATION AND UNITED STATES
+          DEPARTMENT OF TRANSPORTATION,
+                   RESPONDENTS
+
+          ASSOCIATION OF AMERICAN RAILROADS,
+                      INTERVENOR
+
+
+           On Petition for Review of a Final Rule
+           of the Federal Railroad Administration
+
+
+
+    Lawrence M. Mann argued the cause for petitioners. With
+him on the briefs were Kevin Brodar and Joshua D. McInerney.
+James Petroff entered an appearance.
+
+    Amanda L. Mundell, Attorney, U.S. Department of Justice,
+argued the cause for respondents. With her on the brief were
+                                  2
+Brian M. Boynton, Acting Assistant Attorney General at the
+time the brief was filed, Abby C. Wright, Attorney, John E.
+Putnam, Deputy General Counsel, U.S. Department of
+Transportation, Paul M. Geier, Assistant General Counsel for
+Litigation and Enforcement, Joy K. Park, Senior Trial
+Attorney, Allison Ishihara Fultz, Chief Counsel, Federal
+Railroad Administration, and Rebecca S. Behravesh, Senior
+Attorney.
+
+    Thomas H. Dupree Jr. argued the cause for intervenor
+Association of American Railroads in support of respondent.
+With him on the brief was Kathryn D. Kirmayer.
+
+    Before: MILLETT, WILKINS, and JACKSON*, Circuit
+Judges.
+
+     Opinion for the Court filed by Circuit Judge MILLETT.
+
+     MILLETT, Circuit Judge: In 2020, the Federal Railroad
+Administration (“Administration”) issued a broad-ranging rule
+revising the regulations governing freight railroad safety. See
+Miscellaneous Amendments to Brake System Safety Standards
+and Codification of Waivers (“Final Rule”), 85 Fed. Reg.
+80,544 (Dec. 11, 2020). Two unions representing employees
+of freight railroads—the Transportation Division of the
+International Association of Sheet Metal, Air, Rail, and
+Transportation Workers and the Brotherhood of Locomotive
+Engineers and Trainmen (together, “Unions”)—have
+petitioned for review. The Unions principally argue that the
+Administration fell short in numerous respects in its statutory
+obligation to prioritize safety in regulatory decisionmaking.
+They also contend that the Administration impermissibly
+
+     *
+       Circuit Judge, now Justice, Jackson was a member of the panel
+at the time the case was argued but did not participate in the opinion.
+                                 3
+denied them an opportunity to seek reconsideration, and that
+the Final Rule was untimely issued.
+
+      We agree with the Unions that the portion of the Final Rule
+lifting calibration requirements for certain telemetry devices
+did not grapple with the Administration’s safety obligation.
+But all their other challenges fail either on the merits or for lack
+of jurisdiction. As a result, we grant the petition in part, deny
+the petition in part, dismiss the petition in part, and remand part
+of the Final Rule.
+
+                                 I
+
+                                 A
+
+     Federal law charges the Administration with
+“prescrib[ing] regulations and issu[ing] orders for every area of
+railroad safety[.]” 49 U.S.C. § 20103(a); 49 C.F.R. § 1.89(a),
+(b). Congress has directed that, “[i]n carrying out its duties, the
+Administration shall consider the assignment and maintenance
+of safety as the highest priority, recognizing the clear intent,
+encouragement, and dedication of Congress to the furtherance
+of the highest degree of safety in railroad transportation.” 49
+U.S.C. § 103(c).
+
+     To permit “industry stakeholders” to test “novel
+transportation technologies,” Final Rule, 85 Fed. Reg. at
+80,546, the Administration “may waive[] or suspend the
+requirement to comply with[] any part of a regulation” if doing
+so “is in the public interest and consistent with railroad
+safety[,]” 49 U.S.C. § 20103(d)(1); 49 C.F.R. § 1.89(a); see
+also Brotherhood of Locomotive Eng’rs & Trainmen v. Federal
+R.R. Admin., 972 F.3d 83, 90 (D.C. Cir. 2020). The hope is
+that “[a]ctivity under a waiver of regulatory compliance may
+generate sufficient data and experience to support” its
+                                4
+codification into regulation. 85 Fed. Reg. at 80,546. In the
+Administration’s view, “[c]odifying a waiver, and thereby
+making its exemptions and requirements universally
+applicable, allows the entire industry to benefit from the
+regulatory relief the waiver provides[.]” Id. Congress has
+recently endorsed this regulatory approach. See Infrastructure
+Investment and Jobs Act, Pub. L. No. 117-58, § 22411, 135
+Stat. 429, 742 (2021) (codified at 49 U.S.C. § 20103(d)(4)(A))
+(“Not later than 1 year after the first day on which a waiver
+* * * has been in continuous effect for a 6-year period, the
+Secretary shall complete a review and analysis of such waiver
+* * * to determine whether issuing a rule that is consistent with
+the waiver is * * * (i) in the public interest; and (ii) consistent
+with railroad safety.”).
+
+                                B
+
+    In December 2020, the Administration issued new
+regulations that revised procedures for the testing, inspection,
+and operation of freight train brake systems. Final Rule, 85
+Fed. Reg. 80,544.
+
+     To understand the regulations, some background is
+needed. Train brakes are controlled by compressed air. This
+air flows from the locomotive to each rail car through a brake
+pipe that runs the length of the train. To apply the brakes, a
+train’s engineer uses the locomotive’s brake valve to release air
+from the brake pipe. The consequent reduction in air pressure
+causes air stored in reservoirs in each car to enter the car’s
+brake mechanisms, pressing the brake shoes against the wheels.
+To release the brakes, the engineer severs this connection by
+positioning the brake valve to feed air back into the brake pipe,
+stabilizing the brake pipe air pressure. See generally
+Amendments to Brake System Safety Standards Governing
+Operations Using an Electronic Air Brake Slip System
+                                  5
+(“Proposed Brake Amendments”), 86 Fed. Reg. 3,957, 3,959–
+3,960 (proposed Jan. 15, 2021); Railroad Power Brakes and
+Drawbars, 50 Fed. Reg. 35,640, 35,641 (Sept. 3, 1985).
+
+     The 2020 Final Rule made a panoply of changes to the
+Administration’s brake system safety regulations. At issue in
+this case are the Final Rule’s revisions to (i) brake testing and
+inspection requirements and (ii) the rules governing so-called
+end-of-train devices.
+
+                                  1
+
+     Railroad brake systems must, by law, be tested regularly.
+A comprehensive brake test, which is known as a Class I initial
+terminal inspection, is required when a train has been “off-
+air”—disconnected from a source of compressed air—for a
+specified period of time. 49 C.F.R. § 232.205(a)(3). The Final
+Rule increased from four to 24 hours the maximum permissible
+off-air time before a new Class I brake test is required. Final
+Rule, 85 Fed. Reg. at 80,553.1
+
+     Among other things, Class I tests measure the leakage of
+air from the brake pipe. 49 C.F.R. § 232.205(c)(1). In trains
+with multiple locomotives—so-called “distributed power
+trains”—each locomotive feeds air into the brake pipe.
+Proposed Brake Amendments, 86 Fed. Reg. at 3,960.
+Likewise, some trains contain air repeater units that do the
+same. 49 C.F.R. § 232.5.
+
+
+
+
+     1
+        The Administration also increased to 24 hours the off-air
+periods that factor into the timing of other brake tests. See 49 C.F.R.
+§ 232.209(a)(1) (Class II brake tests); id. § 232.211(a)(3)–(a)(5)
+(Class III brake tests); id. § 232.217(c)(1) (yard air brake tests).
+                                6
+     For trains whose brake pipes are supplied by multiple
+sources, the Final Rule increased the maximum permissible
+“air flow”—a measure of brake pipe leakage quantifying the
+amount of air the brake valve must feed into the brake pipe to
+maintain proper pressure—from 60 to 90 cubic feet per minute.
+Final Rule, 85 Fed. Reg. at 80,554–80,555. Air flow is
+measured by a device called an air flow method indicator. 49
+C.F.R. § 232.5.
+
+     Individual freight cars also undergo brake tests. The Final
+Rule prescribed that the brakes of freight cars on shop or repair
+tracks need not be tested if they have received an automated
+test within the previous 24 or 48 months (depending on the type
+of test used). 85 Fed. Reg. at 80,559.
+
+    The Administration took several other relevant actions
+concerning brake testing.
+
+    First, it declined to classify air repeater units and air flow
+method indicators as locomotive appurtenances subject to the
+same safety standards as locomotives themselves. 85 Fed. Reg.
+at 80,555–80,556 (air repeater units); id. at 80,557 (air flow
+method indicators).
+
+    Second, the Final Rule allowed the operators of extended
+haul trains, which are permitted to travel up to 1,500 miles
+between brake tests, to forgo reporting the type of equipment
+such trains haul and to designate alternative testing and
+inspection locations for them in emergencies. 85 Fed. Reg. at
+80,557.
+
+     Third, the Final Rule reworked the regulations governing
+brake testing and inspections for tourist, scenic, historic, and
+excursion railroads, which generally use older, heritage rail
+cars and locomotives. 85 Fed. Reg. at 80,562–80,564.
+                                 7
+
+                                 2
+
+     The Final Rule also changed the regulation of end-of-train
+devices. An end-of-train device pneumatically seals the brake
+pipe. Proposed Brake Amendments, 86 Fed. Reg. at 3,959.
+Using radio telemetry, the device also communicates the air
+pressure level at the end of the brake pipe to the locomotive.
+See 49 C.F.R. § 232.403(b). The Final Rule eliminated a
+requirement that end-of-train devices’ telemetry equipment be
+calibrated at least once every 368 days. 85 Fed. Reg. at 80,561.
+
+     Certain end-of-train devices serve an additional “critical”
+role in brake functioning. 85 Fed. Reg. at 80,551. In an
+emergency, the train crew can rapidly apply the train’s brakes
+by directing the end-of-train device to vent air from the brake
+pipe. See 49 C.F.R. § 232.405(a)–(c). For this system to work,
+though, a radio connection must be maintained between the
+end-of-train device’s rear unit, which is attached to the brake
+pipe, see id. § 232.403(b), and its front unit, which transmits
+commands         from        the      locomotive,        see      id.
+§§ 232.403(f), 232.405(a); 85 Fed. Reg. at 80,551. Under
+current regulations, if a rear unit loses contact with its front unit
+for 16 minutes and 30 seconds, the front unit alerts the crew,
+which must reduce the train’s speed until the radio connection
+is restored. 49 C.F.R. § 232.407(g). In the Final Rule, the
+Administration rejected proposals from the Unions and the
+National Transportation Safety Board to reduce that time
+period. 85 Fed. Reg. at 80,551.
+
+     End-of-train devices also contain a lamp that is visible to
+trains approaching from behind. See 49 C.F.R. § 221.13. The
+Final Rule decreased the minimum height at which these lights
+must be displayed from 48 inches above the top of the rail to
+                              8
+“above the [rail car’s] coupler”—approximately 40 inches
+above the top of the rail. 85 Fed. Reg. at 80,550.
+
+     Additionally, the Final Rule codified a waiver providing
+that when certain railroad employees enter the tracks to change
+the battery of an end-of-train device, the train crew is not
+required under certain circumstances to institute “blue signal
+protection”—a protocol under which markers are used to alert
+other workers and nearby trains that a person is present on the
+tracks. 85 Fed. Reg. at 80,548–80,549.
+
+      Lastly, the Final Rule codified waivers exempting end-of-
+train devices using air-powered generators from certain battery
+life requirements applicable to other devices. 85 Fed. Reg. at
+80,559–80,560.
+
+                          *   *    *
+
+     Because the Final Rule “reliev[ed] * * * regulatory
+restrictions,” the Administration “ma[d]e the rule effective
+upon publication.” 85 Fed. Reg. at 80,544; see 5 U.S.C.
+§ 553(d), (d)(1) (“The required publication * * * of a
+substantive rule shall be made not less than 30 days before its
+effective date, except * * * a substantive rule which grants or
+recognizes an exemption or relieves a restriction[.]”).
+
+    The Unions timely petitioned for review, arguing that the
+Final Rule (i) disregarded the Administration’s statutory
+mandate to prioritize safety, (ii) deprived them of an
+opportunity to seek reconsideration of the rule, and (iii) was
+untimely issued.
+
+    We have jurisdiction under 28 U.S.C. § 2342(7) and 49
+U.S.C. § 20114(c).
+                               9
+                               II
+
+                               A
+
+     We review the Administration’s Final Rule using the well-
+established standards of the Administrative Procedure Act
+(“APA”). Burlington N. Santa Fe Ry. Co. v. Department of
+Transp., 566 F.3d 200, 203 (D.C. Cir. 2009). “[T]he APA
+requires agencies to reasonably explain” the bases for their
+actions and conclusions, Brotherhood of Locomotive Eng’rs &
+Trainmen, 972 F.3d at 115, and it directs courts to “hold
+unlawful and set aside agency action” that is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law[,]” 5 U.S.C. § 706(2), (2)(A). “A rule is
+arbitrary and capricious if an agency fails to consider a factor
+[it] must consider under its organic statute[.]” Lindeen v. SEC,
+825 F.3d 646, 657 (D.C. Cir. 2016) (formatting modified and
+citation omitted).
+
+     Here, Congress has established—in no uncertain terms—
+a “statutory requirement to prioritize safety” in the regulatory
+process. Transportation Div. of the Int’l Ass’n of Sheet Metal,
+Air, Rail & Transp. Workers v. Federal R.R. Admin., 10 F.4th
+869, 876 (D.C. Cir. 2021). Recall that “[i]n carrying out its
+duties, the Administration shall consider the assignment and
+maintenance of safety as the highest priority, recognizing the
+clear intent, encouragement, and dedication of Congress to the
+furtherance of the highest degree of safety in railroad
+transportation.” 49 U.S.C. § 103(c).
+
+    An agency with such a “broad mandate” to “assign[],
+maintain[], and enhanc[e] safety * * * as the highest priorit[y]”
+must affirmatively consider and give substantial weight to any
+“plausible * * * safety concern[s]” a policy proposal
+implicates. Flyers Rights Educ. Fund, Inc. v. Federal Aviation
+                              10
+Admin., 864 F.3d 738, 741, 744 (D.C. Cir. 2017) (citation
+omitted); see also Mozilla Corp. v. FCC, 940 F.3d 1, 60 (D.C.
+Cir. 2019) (an agency charged with regulating in an area that
+Congress has “deemed important to protecting public safety
+* * * must take into account its duty to protect the public”)
+(citation omitted). Like all its “findings[] and conclusions[,]”
+5 U.S.C. § 706(2), the Administration’s safety determinations
+must be “support[ed]” by the record and “reasonably
+explained[,]” Transportation Div., 10 F.4th at 876.
+
+                               B
+
+     The record before us shows that the Administration acted
+“consistent[ly] with consideration of ‘safety as the highest
+priority[,]’” Transportation Div., 10 F.4th at 876 (quoting 49
+U.S.C. § 103(c)), in all respects but one involving the
+calibration of older-generation end-of-train devices.
+
+                               1
+     The Unions raise several safety objections to the Final
+Rule’s provisions governing brake testing and inspection for
+trains and rail cars. None of these claims succeeds.
+
+                               a
+
+     The Unions first claim that the Administration’s decision
+to increase the maximum permissible off-air period from four
+to 24 hours violates its safety mandate. They are mistaken.
+The Administration took careful account of the safety
+implications of this change, and reasonably concluded that
+increasing the off-air period would not pose a safety risk in
+light of “technological improvements to the air brake
+systems[.]” Final Rule, 85 Fed. Reg. at 80,553.
+                               11
+    The Administration grounded its judgment on a
+comparison of brake safety records in the United States and
+Canada, where the maximum off-air period was already 24
+hours. That study “show[ed] fewer undesired and unintended
+emergency brake applications occurring in Canada than in the
+U.S.” 85 Fed. Reg. at 80,553. Buttressing that conclusion was
+a study from the Association of American Railroads’
+Transportation Technology Center testing a 24-hour off-air
+period and finding no adverse safety consequences. Id.
+
+     The Unions do not directly question this data or the
+Administration’s conclusion that extending the off-air period
+to 24 hours would not adversely affect safety. Instead, they
+take issue with, among other things, the Administration’s
+“expect[ation]” that decreasing the frequency of tests would
+reduce workplace injuries such as “slips, trips, and falls” by
+those conducting the brake tests. 85 Fed. Reg. at 80,553.
+Specifically, the Unions fault the Administration’s failure to
+quantify this reduction and its lack of “reliable supporting
+data.” Unions Opening Br. 13.
+
+     Neither objection holds up. The Administration relied on
+data supplied by the Association of American Railroads
+“quantifying slips, trips, and falls incurred[,]” 85 Fed. Reg. at
+80,553, by workers “bending or stooping” over, “stepping
+on[,]” and “walking” on train tracks while on the job, J.A. 276–
+277 (Association of American Railroads’ data report). The
+Administration reasonably found this data reliable because it
+was initially “submitted by [the Unions’] own constituents to
+their employing railroads[,]” and in turn to the
+Administration’s accident database. 85 Fed. Reg. at 80,553.
+Consequently, the Administration considered the data “to be of
+the type the agency routinely relies upon to inform its
+rulemakings[.]” Id. From that information, the Administration
+made a “reasonable predictive judgment based on the
+                               12
+evidence” before it that fewer brake tests—and hence fewer
+occasions for workers to be on the tracks—would lead to fewer
+injuries. FCC v. Prometheus Radio Project, 141 S. Ct. 1150,
+1160 (2021).
+
+     The Unions worry that this rationale, if taken to its logical
+conclusion, would justify “doing away with inspections
+altogether.” Unions Opening Br. 14. We need not go down
+that slippery slope. Here, the Administration had persuasive
+evidence before it that lengthening the off-air time would both
+reduce risks to workers and maintain a high level of railway
+safety. Nothing in the Administration’s rulemaking or our
+decision forecloses a different balance from occasioning a
+different outcome.
+
+     The Unions also allude to a prior rulemaking in which the
+Administration surmised that a lengthy off-air period might
+pose safety problems in areas where vandalism is common.
+The Administration directly responded to that point by
+explaining that (i) the Unions did “not submit[] any data to
+support [their] concerns[,]” (ii) “no other commenters provided
+any information on vandalism[,]” and (iii) its own “accident
+database contains no information indicating that vandalism of
+air brakes has had any significant relationship to air brake–
+caused accidents.” 85 Fed. Reg. at 80,553.
+
+     The Unions next offer a grab bag of meritless objections
+to the Administration’s decisional process. Their concern that
+the off-air period change was made in response to the
+Association of American Railroads’ rulemaking petition is
+beside the point as the Administration is authorized to act in
+response to a rulemaking petition. See 49 C.F.R. §§ 211.7,
+211.9; see also 5 U.S.C. § 553(e) (“Each agency shall give an
+interested person the right to petition for the issuance * * * of
+a rule.”). Their complaint that the Administration relied on
+                               13
+“old data * * * which had already been rejected[,]” Unions
+Opening Br. 16, overlooks that the Final Rule relied heavily on
+newly submitted safety data from freight rail operations in
+Canada under a 24-hour off-air rule. Finally, their assertion
+that the Administration was concerned only with “the
+economic interests of the railroad[,]” Unions Opening Br. 16
+(citation omitted), blinks away the Administration’s
+affirmative safety findings.
+
+                               b
+
+     The Unions challenge the Administration’s decision to
+increase the maximum permissible combined brake pipe
+leakage—defined in terms of air flow—from 60 to 90 cubic
+feet per minute (“CFM”) on distributed power trains and trains
+with air repeater units. They contend that this change will
+allow brake pipes to leak more than the “long-standing” limit
+of five pounds per square inch per minute. Unions Opening Br.
+17; see 49 C.F.R. § 232.205(c)(1) (“Brake pipe leakage shall
+not exceed 5 [pounds per square inch] per minute or air flow
+shall not exceed 60 * * * CFM[].”).
+
+     The Administration, though, reasonably found that the
+leakage limit could safely be raised. It noted that “since 2011,
+Canadian railroads ha[d] operated with the higher air flow
+limit[,]” and “railroads in the U.S. ha[d] tested and operated
+with air flow limits of 90 CFM” on distributed power trains
+under a seven-year waiver, essentially without incident. 85
+Fed. Reg. at 80,555. The Unions do not dispute the reliability
+of this evidence or its direct relevance here.
+
+     The Administration also soundly laid out the technical
+basis for its judgment: “Because use of [distributed power]
+locomotives and [air repeater units] provide[s] multiple sources
+of air, the total leakage from the brake pipe can be greater than
+                               14
+60 CFM, as long as each individual source of air is controlling
+a portion of the brake pipe that leaks less than 60 CFM,” as
+required by 49 C.F.R. § 232.205(c)(1). 85 Fed. Reg. at 80,554–
+80,555; see also 49 C.F.R. § 232.205(c)(1)(ii)(B) (“A train
+equipped with at least one distributed power unit or an air
+repeater unit providing a source of brake pipe control air from
+two or more locations must not exceed a combined flow of 90
+cubic feet per minute[.]”) (emphasis added). The Unions have
+no answer to that logic.
+
+                               c
+
+     The Unions also challenge as unsafe the Administration’s
+decision to allow a 24- or 48-month interval between brake
+tests of individual rail cars if those tests are conducted with
+automated devices. The Administration reasonably concluded
+otherwise.
+
+    The Administration grounded its judgment on both real-
+world test results obtained during a seven-year waiver that
+allowed certain railroads to perform automated tests on rail cars
+every 24 months, and on the ability of automated testing
+devices to “provide a more comprehensive testing of the
+braking system[.]” 85 Fed. Reg. at 80,558–80,559.
+
+     The Unions, for their part, have never questioned the
+accuracy of the data gathered under the waiver. See Unions
+Comment 7, J.A. 365 (“[T]he data speaks for itself[.]”).
+Neither do they dispute the effectiveness of the more modern
+automated devices. Nor have they offered any other reason to
+think that the Administration’s testing intervals pose a safety
+concern. See Union Pac. R.R. Co. v. Pipeline & Hazardous
+Materials Safety Admin., 953 F.3d 86, 90 (D.C. Cir. 2020) (A
+petitioner “must point to some evidence to substantiate its
+claim.”); Unions Comment 7–8, J.A. 365–366. And as long as
+                                  15
+the rule ensures safety—which the record supports—any
+“windfall” the Final Rule might also grant to the railroads is
+neither here nor there. Unions Opening Br. 26.2
+
+    The Unions broadly object to the Administration’s
+decision to codify waivers without retaining certain oversight
+measures such as “recordkeeping and transparency
+requirements[,]” and “a testing committee[.]” Unions Opening
+Br. at 17, 25. But because the Unions did not raise these
+objections during the rulemaking, see Unions Comment 1–10,
+J.A. 359–368, they are forfeited, Advocates for Highway &
+Auto Safety v. Federal Motor Carrier Safety Admin., 429 F.3d
+1136, 1150 (D.C. Cir. 2005).
+
+                                  d
+
+
+     The Unions argue that the Administration erred by
+declining to classify air repeater units and air flow method
+indicators as locomotive appurtenances.        A locomotive
+appurtenance is “an integral or essential part of a completed
+locomotive[.]” Southern Ry. Co. v. Lunsford, 297 U.S. 398,
+402 (1936); accord Straub v. Burlington N. Santa Fe Ry. Co.,
+909 F.3d 1280, 1288 n.9 (10th Cir. 2018). By statute and
+regulation, a “locomotive * * * and its parts and
+appurtenances” must be “in proper condition and safe to
+operate without unnecessary danger of personal injury[,]” 49
+
+     2
+        We note that the Unions did not object to the automated test
+interval in their comment, see Unions Comment 7–8, J.A. 365–366,
+although another labor organization did, 85 Fed. Reg. at 80,559. For
+that reason, we treat the issue as not forfeited. See Natural Res. Def.
+Council, Inc. v. EPA, 824 F.2d 1146, 1151 (D.C. Cir. 1987) (en banc)
+(“[C]ourts have waived exhaustion if the agency has had an
+opportunity to consider the identical issues * * * raised by other
+parties[.]”) (internal quotation marks and citation omitted).
+                                 16
+U.S.C. § 20701, (1); accord 49 C.F.R. § 229.7(a), (a)(1), and
+so are subject to rigorous safety requirements, see generally 49
+C.F.R. Part 229.
+
+     In the Final Rule, the Administration concluded that air
+flow method indicators used to measure brake pipe leakage are
+not locomotive appurtenances because their use is “optional[,]”
+and thus “unnecessary for a locomotive to be in proper
+condition and safe to operate.” 85 Fed. Reg. at 80,557 (internal
+quotation marks omitted). And the Administration declined to
+classify air repeater units that feed additional air into the train’s
+brake pipe as locomotive appurtenances because they are more
+“akin to” end-of-train devices that “receive[] commands but
+[are] not a component of a locomotive.” Id. at 80,555–80,556.
+The Administration also pointed out that the use of air repeater
+units, like air flow method indicators, is “optional[.]” Id. at
+80,555. This was a textually rooted and logically sound
+explanation.
+
+     The Unions maintain that the Administration “simply
+ignored” their comment that air repeater units should be
+subjected to the same inspection standards as locomotives.
+Unions Opening Br. 28. That is incorrect. The Administration
+observed that an air repeater units “share[] features with both
+locomotives and freight cars,” and so decided that while the
+units themselves are not locomotive appurtenances, their
+“components that are similar to * * * locomotive
+[appurtenances],” such as those that “compress air, modulate
+the brake pipe, or otherwise control the train’s movement[,]”
+“must be inspected in accordance” with the standards
+governing locomotives. 85 Fed. Reg. at 80,556.
+                                17
+                                e
+
+     The Final Rule revised two rules governing extended haul
+trains—that is, trains that may travel up to 1,500 miles between
+brake tests and inspections. 85 Fed. Reg. at 80,557. First, the
+Final Rule lifted the requirement that operators disclose what
+equipment those trains haul. Id. Second, it gave railroads
+flexibility to designate different inspection and test locations in
+emergencies. Id. The Administration explained that (i) there
+was no safety reason to require operators to report the
+equipment in extended haul trains, and (ii) permitting railroads
+to designate new inspection and test locations in emergencies
+promotes “flexib[ility]” and “regulatory certainty,” while
+maintaining the status quo “would provide no safety benefit.”
+Id.
+
+     The Unions contend that those changes arbitrarily made
+“oversight more difficult.” Unions Opening Br. 28. But they
+forfeited this objection by failing to raise it before the agency.
+Advocates for Highway & Auto Safety, 429 F.3d at 1150; see
+Unions Comment 6–7, J.A. 364–365.
+
+                                 f
+
+     Finally, the Unions object to certain changes the
+Administration made to the rules governing brake tests for
+tourist, scenic, historic, and excursion railroads. We lack
+jurisdiction to hear this challenge because the Unions have not
+established their standing to raise it.
+
+    “[S]tanding is an essential and unchanging part of the case-
+or-controversy requirement of Article III.” Lujan v. Defenders
+of Wildlife, 504 U.S. 555, 560 (1992). The “‘irreducible
+constitutional minimum’ of standing consists of three
+elements”: injury in fact, causation, and redressability.
+                                 18
+Spokeo, Inc. v. Robins, 578 U.S. 330, 338 (2016) (quoting
+Lujan, 504 U.S. at 560). A union “assert[ing] associational
+standing on behalf of its members” must demonstrate that “at
+least one [u]nion member meets all three requirements for
+individual standing.” Utility Workers Union of America Loc.
+464 v. FERC, 896 F.3d 573, 577 (D.C. Cir. 2018). When
+petitioning for review of agency action, the petitioner “must
+either identify in th[e] record evidence sufficient to support its
+standing” or “submit additional evidence to the court of
+appeals.” Sierra Club v. EPA, 292 F.3d 895, 899 (D.C. Cir.
+2002).
+
+     Here, the Unions have failed to demonstrate that any of
+their members were injured by the Administration’s changes to
+the brake test rules for tourist, scenic, historic, and excursion
+railroads. They have neither identified record evidence nor
+submitted new evidence to this court showing that they have
+members who work on these railroads. Quite the opposite, at
+oral argument, the Unions conceded that it was “probably
+accurate” that they lacked standing “[a]s to the tourist
+railroads[.]” Oral Arg. Tr. 11:5–6. To be sure, the Unions
+assert in their reply brief that their members work on these
+railroads. See Unions Reply Br. 7. But such a “bare
+assertion[]” is insufficient to demonstrate standing to obtain
+relief through a petition for review. Utility Workers, 896 F.3d
+at 578.3
+
+
+
+
+    3
+        For this same reason, counsel’s statement at argument that
+Union members work on “short-line railroads,” Oral Arg. Tr. 11:1–
+2, is too little too late to demonstrate standing, even assuming such
+railroads are affected by the regulatory changes for tourist, scenic,
+historic, and excursion railroads.
+                               19
+                               2
+
+     Next, the Unions challenge parts of the Final Rule related
+to end-of-train devices, with a bit more success.
+
+                               a
+
+     The Unions object to the Administration’s decision to no
+longer cap the time interval between calibration tests
+performed on end-of-train devices’ telemetry equipment, and
+“instead to require telemetry equipment be tested and
+calibrated in accordance with its manufacturer’s specifications
+and procedures[.]” 85 Fed. Reg. at 80,561. Specifically, the
+Unions argue that the Administration fell short of its safety
+mandate by eliminating the calibration interval not only for
+end-of-train devices with automatic self-calibration
+technology, but also for older, legacy devices without such
+capabilities.
+
+    We agree that the Administration acted arbitrarily and
+capriciously by failing to address the safety consequences of its
+decision for end-of-train devices that lack self-calibration
+technology.
+
+     End-of-train devices “must be tested in some fashion to
+verify that they are operating within the manufacturer’s
+specification with regard to radio frequency, signal strength,
+and modulation and do not require recalibration.” Brake
+System Safety Standards for Freight and Other Non-Passenger
+Trains and Equipment, 66 Fed. Reg. 4,104, 4,184 (Jan. 17,
+2001). After all, reliable “radio communication between the
+controlling locomotive and the [end-of-train] device is critical
+to proper brake functioning.” Final Rule, 85 Fed. Reg. at
+80,551.
+                               20
+     In the face of the safety concern posed by telemetry
+equipment in need of calibration, the Administration made no
+express findings at all regarding the safety of its regulatory
+change as applied to legacy devices, even though its prior
+calibration rule had “attained” and maintained a high “level of
+safety[.]” 85 Fed. Reg. at 80,561. Yet “[w]hen Congress
+requires an agency to consider something, we ask whether the
+agency has reached an express and considered conclusion
+pursuant to the statutory mandate.” Cigar Ass’n of America v.
+FDA, 964 F.3d 56, 61 (D.C. Cir. 2020) (internal quotation
+marks and citation omitted). The Administration failed to give
+safety any apparent consideration at all in this part of the Final
+Rule, let alone afford safety the “highest priority,” as the law
+requires. 49 U.S.C. § 103(c).
+
+     To be sure, the Administration concluded that self-
+calibrating devices, in light of their advanced technology and
+record of success under a waiver from the calibration interval,
+“ensure[] better overall safety” than human calibration. 85
+Fed. Reg. at 80,561. But the Administration made no similar
+findings for non-self-calibrating end-of-train devices, which is
+equally affected by its rule change. See id.
+
+    The Administration offered three reasons for its decision,
+none of which is sufficient to show it prioritized safety.
+
+     First, the Administration said that it “d[id] not expect
+manufacturers to change [calibration] intervals significantly”
+for legacy devices. 85 Fed. Reg. at 80,561. Maybe. But that
+fails to explain how abandoning a calibration requirement that
+had achieved a high “level of safety[,]” id., continues to ensure
+safe railroad operations.
+
+    Second, the Administration noted that manufacturers must
+“submit an annual report to [the Administration] on inoperative
+                              21
+or malfunctioning equipment.” Admin. Br. 15; see also 85 Fed.
+Reg. at 80,561; 49 C.F.R. § 232.409(f)(2). While reporting
+safety problems after they arise may help reduce them going
+forward, it does nothing to prevent them in the first place.
+
+     Third, the Administration observed that “the number of
+legacy devices * * * is consistently dwindling over time.” Oral
+Arg. Tr. 15:13–15; see also 85 Fed. Reg. at 80,561 (describing
+end-of-train devices without self-calibration capabilities as “a
+technology the industry no longer produces”). That may be
+true. But thousands of these devices remain in operation,
+which means there are thousands of potential safety risks on
+the rails. See Oral Arg. Tr. 15:17–16:4.
+
+     Nothing in the Administration’s explanation amounts to an
+“express and considered conclusion” regarding this safety
+issue, let alone a reasonable one. Cigar Ass’n of America, 964
+F.3d at 61 (citation omitted). And the Administration offered
+no other explanation for how jettisoning a safety rule in favor
+of manufacturers’ self-regulation promotes safe rail operations.
+On the contrary, the Administration touted “the level of safety
+attained with calibrations performed at least every
+368[ ]days”—that is, the safety achieved under its abandoned
+rule. 85 Fed. Reg. at 80,561.
+
+     Because the Administration failed to “reasonably address”
+the safety concerns implicated by its decision to eliminate the
+calibration interval for legacy telemetry equipment, see Flyers
+Rights Educ. Fund, 864 F.3d at 744, it did not act
+“consistent[ly] with consideration of ‘safety as the highest
+priority[,]’” Transportation Div., 10 F.4th at 876 (quoting 49
+U.S.C. § 103(c)). So we remand this portion of the Final Rule
+to the Administration to address the safety consequences of its
+rule change for non-self-calibrating end-of-train devices.
+                               22
+                               b
+
+     The Unions next object to the Administration’s decision
+not to shorten the amount of time an end-of-train device’s rear
+unit can be out of communication with its front unit before the
+device triggers an alert to the crew to reduce the train’s speed.
+We find no error in the Administration’s decision not to make
+such a change.
+
+     At the Administration’s request, the National
+Transportation Safety Board and the Unions submitted
+proposals to shorten the length of a communication loss
+between the end-of-train device and the locomotive necessary
+to alert the crew. 85 Fed. Reg. at 80,551. The Administration,
+however, declined to adopt these proposals. Id. It instead
+imposed additional training requirements “to ensure that
+employees who operate [end-of-train] equipment are trained in
+the limitations and proper use of the equipment’s emergency
+application signal and loss of communications indicator.” Id.
+Although the Administration “agree[d] in principle with the
+desire * * * to minimize the potential impact of
+communications losses[,]” the “thousands of telemetry systems
+in use throughout the railroad industry” meant “the costs of
+requiring * * * a change” of the sort proposed by the Board and
+the Unions “would be significant[,]” and, on the other side of
+the ledger, the Administration “d[id] not currently have
+sufficient data to determine the likely resulting benefits.” Id.
+The Administration concluded that, “because the potential
+impacts” of the proposals were “not yet understood[,]” it would
+be “premature” to adopt them. Id.
+
+    The Administration reasonably elected to hold off on
+changing the rule in the absence of adequate information to
+properly assess the safety benefits and disadvantages of doing
+so.    The Unions’ argument that the Administration
+                                23
+“abdicat[ed]” its safety duty just assumes that the Board’s and
+the Unions’ proposals would, in fact, promote safety—a
+conclusion the Unions failed to substantiate, and the
+Administration was not able to reach on the record before it.
+Unions Opening Br. 29.
+
+                                c
+
+     The Unions also assert that the Administration failed to
+respond to a comment they made regarding the agency’s
+decision to decrease the minimum height of marker lamps on
+end-of-train devices from 48 inches above the top of the rail to
+“above the coupler,” approximately 40 inches above the top of
+the rail. 85 Fed. Reg. at 80,550. The Unions are mistaken.
+
+     Agencies must “respond[] to significant points raised by
+the public” during rulemaking. Home Box Off., Inc. v. FCC,
+567 F.2d 9, 35–36 (D.C. Cir. 1977) (per curiam) (footnote
+omitted); accord Carlson v. Postal Regul. Comm’n, 938 F.3d
+337, 345 (D.C. Cir. 2019). In their comment, the Unions
+proposed that marker lamps be visible from 1.5 miles away,
+given the distance long freight trains require to come to a stop.4
+
+      The Administration acknowledged and responded to the
+Unions’ concern. It said that “[b]ased on * * * testing, the data
+developed through * * * waivers, and [its] experience, * * * on
+flat, tangent track, [end-of-train] marker lights at 48 inches and
+40 inches are visible from 1.5 miles away.” 85 Fed. Reg. at
+80,549. It then acknowledged that “there can * * * be some
+vertical undulation in the track or curves that could reduce the
+    4
+        An agency need only respond to comments “that can be
+thought to challenge a fundamental premise underlying the proposed
+* * * decision.” Carlson, 938 F.3d at 344 (internal quotation marks
+and citation omitted). We assume for argument’s sake that the
+Unions’ comment required a response.
+                               24
+visibility below 1.5 miles.” Id. Nevertheless, based on five
+years of operations under waivers, the Administration found
+“no discernable visibility difference” for marker lamps at lower
+heights, adding that “no accidents attributed to the lowered
+marker lamp height * * * have been reported through the
+[agency’s] accident reporting system.” Id.
+
+     That was an adequate response. Beyond that, the Unions
+have affirmatively waived any substantive challenge to the
+marker lamp height because, in their comment, they said they
+had “no quarrel” with the agency’s proposal. Unions Comment
+3, J.A. 361.
+
+                                d
+    Next, the Unions object on safety grounds to the
+Administration’s inclusion of battery changes for end-of-train
+devices on the list of functions that certain railroad workers can
+perform without blue signal protection.
+
+     The Administration, however, reasonably concluded that
+this change would be consistent with safety because it
+“incorporates two longstanding waivers granted * * * over a
+decade ago and under which each Class I railroad has operated
+successfully, with no reports of related injuries or incidents.”
+85 Fed. Reg. at 80,549.
+
+     The Unions maintain that the Administration “summarily
+and arbitrarily” dismissed their argument that a worker
+replacing an end-of-train device’s battery without blue signal
+protection might face risk from another moving train. Unions
+Opening Br. 21. But, as the Administration explained, the
+Unions offered no reason “why the alleged risk associated with
+a utility employee replacing an [end-of-train] device’s battery
+is any different from the risks associated with a utility
+                                25
+employee performing any of the * * * functions” already
+exempted by regulation from blue signal protection. 85 Fed.
+Reg. at 80,548. That sufficed.
+
+                                e
+
+     Finally, the Unions argue that the Administration’s
+codification of waivers regarding power sources for end-of-
+train devices was “so slipshod as to be arbitrary and capricious”
+because, they say, the Final Rule contains certain incorrect
+citations, and a comment by one of the Unions opposing one of
+the waivers does not appear online. Unions Opening Br. 19–
+20.
+
+     That argument is meritless. Such purported technical
+missteps have no logical connection to the consideration of on-
+the-ground safety that the statute mandates.
+
+                               III
+    The Unions claim that the entire rule must be set aside
+because, in their view, the Administration improperly denied
+them an opportunity to petition for reconsideration of the Final
+Rule. Even assuming an error occurred, it was harmless.
+
+     In general, a petition for reconsideration of an
+Administration rule “must be submitted not later than 60 days
+after publication of the rule in the Federal Register, or 10 days
+prior to the effective date of the rule, whichever is the earlier.”
+49 C.F.R. § 211.29(a). But because the Administration made
+the Final Rule effective immediately upon publication, 85 Fed.
+Reg. at 80,544, it was impossible for the Unions to file a timely
+petition.
+                              26
+     The Administration responds that the Unions could have
+filed an untimely reconsideration petition, which the
+Administration could have allowed if “good cause [were]
+shown,” 49 C.F.R. § 211.29(a), and it suggests that
+“impossibility of compliance” with the deadline would furnish
+good cause. Admin. Br. 44.
+
+     Because the Unions have not shown that they were
+prejudiced in any way by not being able to seek timely
+reconsideration, we need not resolve either whether the Unions
+could have filed an untimely petition for reconsideration or
+whether the Administration erred in denying them an
+opportunity to petition.
+
+     The APA instructs courts to take “due account * * * of the
+rule of prejudicial error.” 5 U.S.C. § 706; see also PDK Labs.
+Inc. v. DEA, 362 F.3d 786, 799 (D.C. Cir. 2004). So we will
+not set aside agency action “based on procedural error unless
+the errors alleged could have affected the outcome.” Zevallos
+v. Obama, 793 F.3d 106, 115 (D.C. Cir. 2015). “The burden to
+demonstrate prejudicial error is on the party challenging
+agency action.” Jicarilla Apache Nation v. Department of
+Interior, 613 F.3d 1112, 1121 (D.C. Cir. 2010).
+
+     The Unions have failed to show any harm from this
+supposed agency misstep. They submitted a lengthy comment
+on the proposed rule that the Administration fully considered.
+Their briefs identify no “additional [argument] that they would
+have made” on rehearing that they did not or could not have
+included in their comments. United States Telecom Ass’n v.
+FCC, 400 F.3d 29, 41 (D.C. Cir. 2005). Nor do they argue that
+“repeating the comments [they] made” would have changed the
+outcome. Portland Cement Ass’n v. EPA, 665 F.3d 177, 192
+(D.C. Cir. 2011) (per curiam). Because the Unions have not
+shown that the filing of a reconsideration petition would have
+                                   27
+changed anything, any procedural error was harmless and
+vacatur is unwarranted.
+
+                                  IV
+
+     Lastly, the Unions claim that the Final Rule must be
+vacated because it was issued after the statutory deadline. Not
+at all.
+
+     Because the statute provides that “[t]he time limit for
+disposition of a proceeding” to regulate railroad safety “may
+not be more than 12 months after the date it begins[,]” 49
+U.S.C. § 20103(b), the Administration must complete
+“rulemaking proceedings” within a year, 49 C.F.R. § 211.13.
+For rulemaking proceedings “initiated as the result of the
+granting of a rulemaking petition,” the clock starts when “the
+petition [is] filed[.]” Id. Proceedings in this matter began when
+the Association of American Railroads filed its rulemaking
+petition on July 12, 2018. The Final Rule, which granted that
+petition, issued on December 11, 2020—more than two years
+later.5
+
+    We recently held, however, that “[m]issing this procedural
+deadline * * * does not require vacating the rule.”
+Transportation Div., 10 F.4th at 873. That is because,
+
+     5
+        The Administration suggests the Final Rule was timely. It
+observes that its deadline is “12 months after the petition was filed”
+only for actions “initiated as the result of the granting of a rulemaking
+petition[.]” 49 C.F.R. § 211.13. In its view, this provision does not
+apply here because “the rulemaking was not initiated solely because
+of [the Association’s] petition[,]” Admin. Br. 45–46, and so the
+deadline instead was 12 months after notice of the proceeding was
+published in the Federal Register, 49 C.F.R. § 211.13, which it met.
+We do not address this argument because even if the Final Rule was
+untimely issued, that is not grounds for vacatur.
+                              28
+“[a]lthough the Act uses language suggesting the deadline is
+mandatory[,]” id. at 874, “the Supreme Court has declined to
+treat a statutory direction that an agency shall act within a
+specified time, without more, as a jurisdictional limit
+precluding action later” by the agency, National Petrochemical
+& Refiners Ass’n v. EPA, 630 F.3d 145, 154 (D.C. Cir. 2010)
+(internal quotation marks omitted) (quoting Barnhart v.
+Peabody Coal Co., 537 U.S. 149, 158 (2003)). Here, the
+“statutory language” and “the relevant context” neither
+“specify the consequences for missing a deadline” nor
+otherwise “suggest[] that vacatur should be the remedy for the
+agency’s failure to wrap up a regulatory action within twelve
+months.” Transportation Div., 10 F.4th at 874 (internal
+quotation marks omitted) (quoting Dolan v. United States, 560
+U.S. 605, 610 (2010)). In such a situation, “the federal courts
+will not in the ordinary course impose their own coercive
+sanction.” Barnhart, 537 U.S. at 159 (citation omitted). The
+Unions have not identified any basis for departing from that
+rule here.
+
+    We nonetheless repeat what we said in Transportation
+Division: “When Congress provides * * * a short period for
+rulemaking, it indicates that the agency should move with
+dispatch.” 10 F.4th at 874. If the agency fails to do so, the
+proper remedy is for an aggrieved party to seek a court order
+“compel[ling] agency action unlawfully withheld or
+unreasonably delayed[.]” 5 U.S.C. § 706(1).
+
+                               V
+
+     The petition for review is granted in part, denied in part,
+and dismissed in part. The Final Rule is remanded in part to
+the Federal Railroad Administration.
+
+                                                    So ordered.
+

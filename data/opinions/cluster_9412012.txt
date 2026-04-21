@@ -1,0 +1,1040 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 20, 2023                 Decided July 7, 2023
+
+                        No. 22-1107
+
+           AMERICAN PUBLIC GAS ASSOCIATION,
+                     PETITIONER
+
+                             v.
+
+         UNITED STATES DEPARTMENT OF ENERGY,
+                     RESPONDENT
+
+               AMERICAN GAS ASSOCIATION,
+                      INTERVENOR
+
+
+
+            Consolidated with 22-1111, 22-1117
+
+
+                On Petitions for Review of a
+          Final Action of the Department of Energy
+
+
+
+     Barton Day and Jason Neal, argued the causes for
+petitioners. With them on the joint briefs were John P. Gregg
+and Christopher J. Wright.
+
+    John Starcher, Attorney, U.S. Department of Justice,
+argued the cause for respondent. With him on the brief were
+                               2
+Brian M. Boynton, Principal Deputy Assistant Attorney
+General, and Michael S. Raab, Attorney.
+
+     Michelle Wu, Ian Fein, Aaron Colangelo, Timothy D.
+Ballo, Letitia James, Attorney General, Office of the Attorney
+General for the State of New York, Brian Lusignan, Assistant
+Solicitor General, Lisa S. Kwong, Assistant Attorney General,
+Kwame Raoul, Attorney General, Office of the Attorney
+General for the State of Illinois, Elizabeth Dubats, Assistant
+Attorney General, Aaron M. Frey, Attorney General, Office of
+the Attorney General for the State of Maine, Katherine E.
+Tierney, Assistant Attorney General, Brian E. Frosh, Attorney
+General, Office of the Attorney General for the State of
+Maryland, at the time the brief was filed, John B. Howard, Jr.,
+Special Assistant Attorney General, Maura Healey, Attorney
+General, Office of the Attorney General for the
+Commonwealth of Massachusetts, at the time the brief was
+filed, Turner Smith, Assistant Attorney General, Keith Ellison,
+Attorney General, Office of the Attorney General for the State
+of Minnesota, Peter N. Surdo, Special Assistant Attorney
+General, Aaron Ford, Attorney General, Office of the Attorney
+General for the State of Nevada, Heidi Parry Stern, Solicitor
+General, Matthew J. Platkin, Attorney General, Office of the
+Attorney General for the State of New Jersey, Paul Youchak,
+Deputy Attorney General, Ellen F. Rosenblum, Attorney
+General, Office of the Attorney General for the State of
+Oregon, Paul Garrahan, Attorney in Charge, Steve Novick,
+Special Assistant Attorney General, Karl A. Racine, Attorney
+General, Office of the Attorney General for the District of
+Columbia, at the time the brief was filed, Caroline S. Van Zile,
+Solicitor General, and Christopher Gene King were on the
+brief for amici curiae State, Municipal, and Non-Profit in
+support of respondent. Barbara D. Underwood, Solicitor
+General, Office of the Attorney General for the State of New
+York, entered an appearance.
+                               3
+
+   Before: HENDERSON and WILKINS, Circuit Judges, and
+ROGERS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge WILKINS.
+
+     WILKINS, Circuit Judge: Last year our Court ordered
+Respondent United States Department of Energy (“DOE” or
+“Agency”) to address three different categories of comments
+raised during its informal rulemaking establishing more
+stringent energy efficiency standards for commercial packaged
+boilers. See Am. Pub. Gas Ass’n v. DOE, 22 F.4th 1018 (D.C.
+Cir. 2022) [hereinafter “APGA I”]; see also Energy
+Conservation Program: Energy Conservation Standards for
+Commercial Packaged Boilers, 85 Fed. Reg. 1592 (Jan. 10,
+2020) [hereinafter “Final Rule”]. On remand, the DOE
+published a supplement to the Final Rule responding to our
+order.      See Energy Conservation Program: Energy
+Conservation Standards for Commercial Packaged Boilers;
+Response to United States Court of Appeals for the District of
+Columbia Circuit Remand in American Public Gas Association
+v. United States Department of Energy, 87 Fed. Reg. 23421
+(Apr. 20, 2022) [hereinafter “Supplement”]. Petitioners are
+trade associations and natural gas utilities who assert that they
+are negatively affected by the Final Rule as supplemented and
+contend that the Agency failed yet again on remand to properly
+support its reasoning. They argue further that the DOE failed
+to provide notice and comment as required under the
+Administrative Procedure Act (“APA”), see 5 U.S.C. § 553(b),
+(c), despite relying upon additional literature and new
+empirical evidence in the Supplement.
+
+     We agree that the DOE should have provided notice and
+comment given its reliance on new literature and evidence and
+that the DOE again failed to offer a sufficient explanation in
+                               4
+response to the comments challenging a key assumption in its
+analysis. Accordingly, we grant the petitions and vacate the
+Final Rule and Supplement.
+
+                               I.
+
+     “The Energy Policy and Conservation Act, as amended in
+1992, prescribes energy efficiency standards for certain
+commercial and industrial equipment.” APGA I, 22 F.4th at
+1022 (citing 42 U.S.C. § 6313). Under the Act, the Secretary
+of Energy is authorized to amend the national efficiency
+standards to correspond to the industry standards developed by
+the American Society of Heating, Refrigerating and Air-
+Conditioning Engineers (“ASHRAE”), a private professional
+association that writes standards and guidelines for the heating,
+air conditioning, and refrigeration industry. ASHRAE’s
+standards are known as the ASHRAE/IES Standard 90.1. The
+Act also allows the Secretary to adopt a more stringent standard
+than what ASHRAE provides if she determines that there is
+“clear and convincing evidence” that “adoption of a uniform
+national standard more stringent than the amended
+ASHRAE/IES Standard 90.1 for the product would result in
+significant additional conservation of energy and is
+technologically feasible and economically justified.” 42
+U.S.C. § 6313(a)(6)(A)(ii)(II).
+
+    Originally, the Secretary could not amend the national
+“energy efficiency standard[s] for equipment covered by
+Section 6313” except “in response to a corresponding
+amendment of Standard 90.1 by the ASHRAE.” APGA I, 22
+F.4th at 1022. Congress amended the Act in 2007, adding a
+“lookback” provision that required the Secretary to “evaluate
+whether a more stringent standard is necessary for [any]
+category of equipment” for which AHSRAE had failed to
+provide an updated standard for six years. Id. (citing
+                               5
+42 U.S.C. § 6313(a)(6)(C)(i)). “[E]ven under the ‘lookback’
+provision, the Secretary may establish a more stringent
+standard only if she determines by clear and convincing
+evidence that the standard will result in significant
+conservation of energy, is technologically feasible, and is
+economically justified.” Id. As provided in APGA I:
+
+       In determining whether a more stringent
+       standard is “economically justified,” the
+       Secretary is required to consider “to the
+       maximum extent practicable” (1) “the economic
+       impact of the standard on the manufacturers and
+       on the consumers of the products subject to the
+       standard”; (2) “the savings in operating costs
+       throughout the estimated average life of the
+       product in the type (or class) compared to any
+       increase in the price of, or in the initial charges
+       for, or maintenance expenses of, the products
+       that are likely to result from the imposition of
+       the standard” or, in other words, the difference
+       in the life-cycle cost (LCC) of equipment with
+       and without a more stringent standard; (3) “the
+       total projected quantity of energy savings likely
+       to result directly from the imposition of the
+       standard”; and other factors not relevant here.
+
+Id. (quoting 42 U.S.C. § 6313(a)(6)(B)(ii)).
+
+    This case concerns a rule promulgated by the DOE under
+the Act’s “lookback” provision which modified the national
+energy efficiency standards for commercial packaged boilers.
+
+                               A.
+
+   Commercial packaged boilers are commonly used to heat
+commercial and institutional buildings such as schools, hotels,
+                                 6
+office and apartment buildings, and hospitals. To be defined as
+a commercial packaged boiler under DOE regulations, a boiler
+must meet certain criteria, including having “a rated input of at
+least 300 kBtu/h.” APGA I, 22 F.4th at 1023 (citing 10 C.F.R.
+§ 431.82). “Rated input means the maximum rate at which the
+commercial packaged boiler has been rated to use energy.” 10
+C.F.R. § 431.82. As provided in the Final Rule, “[t]he DOE
+categorizes packaged boilers based upon their size (small,
+large, and very large), the type of fuel they use (gas-fired or oil-
+fired), and their heating medium (hot water or steam).” APGA
+I, 22 F.4th at 1023.
+
+     ASHRAE updated the standards for commercial packaged
+boilers in January 2008 with the release of ASHRAE Standard
+90.1-2007. See Energy Conservation Program for Certain
+Industrial Equipment: Energy Conservation Standards and Test
+Procedures for Commercial Heating, Air-Conditioning, and
+Water-Heating Equipment, 74 Fed. Reg. 36312, 36315 (July
+22, 2009). In 2009, “the DOE promulgated a Final Rule for
+commercial packaged boilers” that adopted the ASHRAE
+amendment. APGA I, 22 F.4th at 1023. More than six years
+passed after the release of ASHRAE Standard 90.1-2007
+without updates to the ASHRAE standards for commercial
+packaged boilers, leading to the DOE’s proposal for “new,
+more stringent energy efficiency standards for eight of the
+twelve categories of commercial packaged boilers” in 2016.
+Id. (citing Energy Conservation Program: Energy Conservation
+Standards for Commercial Packaged Boilers (Proposed Rule),
+81 Fed. Reg. 15836 (Mar. 24, 2016) [hereinafter “2016
+Proposed Rule”]).
+
+    In the 2016 Proposed Rule, the DOE “tentatively
+concluded that there [was] . . . clear and convincing evidence
+to support more stringent standards for most types of
+commercial packaged boilers.” Id. (quotation marks omitted).
+                               7
+After notice and comment, the DOE “published its Final Rule
+[in 2020], which was, as relevant here, substantively equivalent
+to its Proposed Rule.” Id. at 1024. The Final Rule expanded
+the different classes of commercial packaged boilers from 10
+to 12 and amended the standards to “prescribe [more stringent]
+minimum thermal efficiencies (ET) or combustion efficiencies
+(EC)” that “apply to all equipment listed in [the Rule] and
+manufactured in, or imported into, the United States on and
+after the compliance dates” set by the Agency. 85 Fed. Reg. at
+1594. Compliance was mandated for the boilers subject to the
+amended energy conservation standards by January 10, 2023,
+three years after the Final Rule was published. Id.
+
+     As discussed above, the Act requires the DOE to account
+for “‘the economic impact of the proposed standard . . . on the
+consumers of the products subject to the standard’ and the
+difference in [life-cycle cost] savings the standard would bring
+about.”        APGA I, 22 F.4th at 1023 (quoting
+42 U.S.C. § 6313(a)(6)(B)(ii)(I)–(II)). In the Final Rule, the
+DOE sought to meet this statutory obligation by developing a
+statistical model to compare a valuation of the life-cycle cost
+assuming the Agency did not impose a new standard (the “Base
+Case”) with a valuation of the life-cycle cost that the market
+would bear should the Agency impose a new standard (“New
+Standards Case”). Id. “The [life-cycle cost] of any piece of
+equipment is the sum of (a) the purchase price (including
+installation cost and sales tax) and (b) the lifetime cost of
+operating it (fuel, maintenance, and repair), discounted to
+present value.” Id. The DOE also calculated the payback
+period to further understand the costs and savings associated
+with the proposed standards. The payback period is expressed
+in years and “is the amount of time it takes the consumer to
+recover       the      additional      installed     cost     of
+more-efficient equipment, compared to baseline equipment,
+through energy cost savings.” 81 Fed. Reg. at 15875.
+                              8
+     As provided in the DOE’s Technical Support Document,
+the Agency’s statistical model used “Microsoft Excel®
+spreadsheets combined with Crystal Ball®, a commercially
+available simulation add-in, to conduct probability analyses”
+that employed a “Monte Carlo simulation and probability
+distributions.” J.A. 351. A “Monte Carlo simulation . . .
+randomly generates values for uncertain variables again and
+again to simulate a model.” Id. at 352. These simulations “can
+consist of as many trials (or scenarios) as desired—hundreds or
+even thousands.” Id. “During a single trial, Crystal Ball
+randomly selects a value from the defined possibilities (the
+range and shape of the probability distribution) for each
+uncertain variable and then recalculates the spreadsheet.” Id.
+The DOE’s “Monte Carlo simulation consists of 10,000 [life-
+cycle cost] and [payback period] calculations using input
+values that are either sampled from probability distributions
+and building samples or characterized with single point
+values.” 85 Fed. Reg. at 1626.
+
+     The     Agency      used    the    Energy      Information
+Administration’s 2012 Commercial Building Energy
+Consumption Survey and the 2009 Residential Energy
+Consumption Survey to compile a representative sample of
+commercial and residential buildings. 87 Fed. Reg. at 23422.
+“[B]oth are national sample surveys that collect information on
+the stock of commercial and residential buildings, including
+both building characteristics and energy usage data (including
+consumption and expenditures).” Resp’t Br. 17–18 (quotation
+marks omitted). Next, the DOE had to “estimate . . . the
+efficiency of the boilers that would be sold absent the Rule.”
+Id. at 16–17. It used shipment data provided by Petitioner Air-
+Conditioning, Heating, and Refrigeration Institute (“AHRI”)
+“to analyze trends within equipment classes, as it relate[d] to
+efficiency levels, to determine the anticipated [Base Case]
+efficiency distribution in 2020, the assumed compliance year
+                                9
+for amended standards.” 85 Fed. Reg. at 1635. Since “the
+DOE had historical shipping data for only two of the eight
+relevant categories of boilers . . . it assumed the distribution of
+efficiency levels in shipped equipment was the same as the
+distribution of efficiency levels among models listed in the
+database maintained by the AHRI.” APGA I, 22 F.4th at 1023.
+In APGA I, we held that “DOE’s reliance upon th[is] proxy
+data” was reasonable since it had been “empirically validated”
+by the Agency. Id. at 1030.
+
+     With both the representative market and an estimate of the
+various boilers of different efficiency levels that would be sold
+in the Base Case, the Agency had to predict which boilers—
+based on efficiency level—would be purchased for each
+sample building. To do so, the DOE randomly assigned boilers
+to the sample buildings given the share of boilers that would be
+sold, such that, for example, “[a]n efficiency level associated
+with 30 per cent of the models listed in the AHRI data base had
+a 30 per cent chance of being selected for any given
+boiler/building combination.” Id. at 1024. Accordingly, the
+assignment, while random, was “constrained by the shipment
+and model data collected by DOE and submitted by AHRI.” 87
+Fed. Reg. at 23423.
+
+     The DOE also made several other assumptions and
+analytical choices to calculate costs. The Agency assumed for
+“the heat load (the amount of heat energy per unit of time that
+is needed to maintain a certain temperature in a defined space)
+of the sample buildings” “that for every square foot of heated
+area, a building uses an average of 30 Btu/h.” APGA I, 22 F.4th
+at 1024 (citing 85 Fed. Reg. at 1624). This assumption allowed
+the DOE “to calculate the burner operating hours and the
+energy use of a given boiler in any boiler/building
+combination” for both the Base Case and New Standards Case.
+Id. The DOE also assumed that the lifetime of a boiler would
+                                10
+be 24.8 years and used “energy prices forecasted in the Energy
+Information Administration’s 2016 Annual Energy Outlook”
+to “estimate the operating cost associated with energy use for
+any given boiler/building combination.” Id. “For electricity
+and natural gas prices, the DOE . . . applied ‘seasonal marginal
+price factors’ to obtain marginal fuel prices, which it said better
+represent the cost to the consumer of changes in energy
+consumption.” Id. at 1028. “For oil, however, the DOE used
+the average prices, because it did not have sufficient data to
+convert average prices into marginal prices.” Id.
+
+     The Agency found that “[t]he average [life-cycle cost]
+savings [were] positive for all equipment classes, and the
+[payback period] [was] less than the average lifetime of the
+equipment.” 85 Fed. Reg. at 1594. The Agency’s analysis,
+including a discussion of the DOE’s various assumptions and
+analytical methods, is explained in further detail in the Final
+Rule and Technical Support Document.
+
+                                B.
+
+     Petitioners American Public Gas Association (“APGA”)
+and AHRI are both trade associations. APGA represents retail
+natural gas distribution entities owned by local governments,
+and AHRI’s members manufacture commercial packaged
+boilers. Petitioner Spire, Inc. owns and operates natural gas
+distribution companies, and its subsidiaries—Petitioners Spire
+Alabama Inc. and Spire Missouri Inc.—are natural gas utilities
+that serve residential, commercial, and institutional customers
+in Alabama and Missouri. Originally, Petitioners, excluding
+Spire Alabama Inc., submitted several challenges to the Final
+Rule, the “most meritorious” of which “target[ed] the
+assumptions and data the DOE used to conclude that more
+                               11
+stringent efficiency standards were economically justified by
+clear and convincing evidence.” APGA I, 22 F.4th at 1026.
+
+     First, Petitioners challenged the Agency’s random
+assignment of boilers to sample buildings, arguing that “the
+DOE failed to recognize that a purchaser of commercial
+packaged boilers would rationally consider the costs and
+benefits of its investment and is likely to buy the boiler that
+produces the best economic performance for its building.” Id.
+at 1027. In the Final Rule, the Agency “noted that
+‘development of a complete consumer choice model, to support
+an alternative to random assignment in the no-new-standards
+case, for boiler efficiency would require data that are not
+currently available, as well as recognition of the various factors
+that impact the purchasing decision.’” Id. (quoting 85 Fed.
+Reg. at 1638). The DOE also “list[ed] several possible market
+failures as ‘problems that this standards [sic] address.’” Id.
+(second alteration in original) (quoting 85 Fed. Reg. at 1676).
+The Court found that “[t]he significant concerns the petitioners
+raised about [random] assignment . . . demand[ed] a more
+complete response,” especially given the importance of boiler
+assignment to the life-cycle cost analysis. Id. The Court
+faulted the DOE for “essentially sa[ying] it did the best it could
+with the data it had” “[i]nstead of producing evidence of some
+market failure in this specific market.” Id. Given the lack of
+“a cogent and reasoned response to the substantial concerns the
+petitioners raised about this crucial part of its analysis,” the
+Court held that it “[could not] say it was reasonable for the
+DOE to conclude that clear and convincing evidence
+support[ed] the adoption of a more stringent standard.” Id. at
+1028.
+
+    Second, Petitioners challenged the DOE’s prediction of
+energy prices, claiming “the average prices the DOE used d[id]
+not reflect the marginal prices paid by purchasers of
+                               12
+commercial packaged boilers.” Id. Petitioners noted that
+“operators of commercial packaged boilers . . . receive volume
+discounts and enter into hedging contracts, and therefore pay
+significantly less” because they “are among the largest
+purchasers of fuel from energy utilities.” Id. They asserted
+that “DOE significantly overstated the savings associated with
+promulgation of a stricter standard” since the use of “predicted
+average energy prices” did not capture the significantly lower
+cost paid by purchasers of commercial packaged boilers. Id.
+“The DOE responded that the data sets it used ‘[were] the best
+aggregate sources for energy prices currently available’ and it
+‘incorporated many adjustment factors to the average price data
+and the price trend data to account for the price differences due
+to variations in locations, seasons, and market sectors and to
+ensure that the energy prices are properly accounted for in the
+economic analysis.’” Id. (quoting 85 Fed. Reg. at 1632). The
+Court found the DOE’s response to be “conclusory, not
+explanatory.” Id. Specifically, the Court noted that the
+response failed to address “the lower prices for fuel allegedly
+paid by those who operate commercial packaged boilers.” Id.
+
+     Finally, as relevant here, Petitioners “challenge[d] the
+DOE’s estimates for burner operating hours.” Id. at 1029.
+Since it lacked actual burner operating hour data, the Agency
+estimated them based on certain building data “and
+assumptions about heat load, including the adoption of a rule
+of thumb that for every square foot of heated area, a building
+uses 30 Btu/h.” Id. During notice and comment, the following
+“purported anomalies in the DOE’s estimates” were raised by
+a consultant for AHRI, as discussed in APGA I:
+
+       “[C]ommercial buildings are generally cooling
+       load dominated so it would be highly unusual to
+       have one thousand system operating hours per
+       year,” yet according to DOE’s estimates, the
+                               13
+       median burner operating hours for six of eight
+       categories of burners was more than 1000
+       hours, the 90th percentile of two of the eight
+       categories was more than 2000 operating hours,
+       and the maximum burner operating hours in all
+       categories was well over 2000 hours. Further,
+       DOE “surprisingly,” he said, estimated that the
+       median, 90th percentile, and maximum burner
+       hours for large boilers are lower than the
+       median, 90th percentile, and maximum burner
+       hours for small boilers of the same type. These
+       results, the consultant argued, should have
+       alerted the DOE to the possibility that either its
+       assumption about heat load or the data from
+       [Commercial Building Energy Consumption
+       Survey] were faulty.
+
+Id. While the DOE “twice acknowledged these comments in
+the Final Rule,” it “did not respond to them.” Id. Without
+providing a reason, “DOE reiterated that it ‘ha[d] high
+confidence that its building load estimation is representative of
+the building loads in the field.’” Id. (quoting 85 Fed. Reg. at
+1624). Similar to aforementioned responses, the Agency
+“explained that ‘[it] ha[d] not identified a source of
+comprehensive burner operating hour data for commercial
+boilers that could be used for such an analysis nor was such
+identified to DOE by stakeholders.’” Id. (quoting 85 Fed. Reg.
+at 1637). The Court noted that “[u]sing data ill-suited to the
+task is not excused by failure—even good faith failure—to
+locate suitable data, particularly considering that the Congress
+here required clear and convincing evidence before the
+Secretary can disturb the regulatory status quo.”             Id.
+Accordingly, we ordered the DOE to provide a “reasoned
+response to these concerns as well.” Id.
+                                14
+     The Court characterized the “deficiencies of the [Final
+Rule] . . . as failures to explain, the type of deficiency most
+readily remedied on remand.” Id. at 1031. Accordingly, the
+Court found that “remanding the Final Rule to the DOE to
+reevaluate it within a limited time [was] the proper remedy.”
+Id. at 1030–31. The opinion issued on January 18, 2022, and
+gave the DOE 90 days “to take appropriate remedial action” or
+“the Final Rule [would] automatically be vacated unless the
+agency demonstrate[d] within ten days of the issuance of th[e]
+decision the need for additional time.” Id. at 1031. We
+originally withheld issuance of the mandate to allow time for
+the parties to petition for rehearing, and—after no petition
+materialized—issued the formal mandate to the DOE on March
+14, 2022.
+
+     On March 23, 2022, Petitioners filed a joint submission on
+the DOE docket, discussing their view on “the issues DOE
+faced on remand” and requesting that the Agency defer
+enforcement of the new standards or stay the Rule pending
+judicial review arising from any appeal of the DOE’s final
+action. Pet’rs Br. 11; see also J.A. 497–98. On April 20, 2022,
+the Agency published the Supplement to the Final Rule. While
+the Supplement did not discuss the Petitioners’ March 2022
+request, it did respond to the three challenges raised in AGPA
+I.
+
+     Initially, Petitioners tried to challenge the Final Rule as
+supplemented by filing a motion to vacate in the original appeal
+docket. See Joint Mot. to Vacate, Am. Pub. Gas. Ass’n v. DOE,
+No. 20-1068 (D.C. Cir. Apr. 28, 2022). The Court denied the
+motion since the case was remanded and our rules require “a
+new . . . petition for review . . . [for] . . . a party [to] seek[]
+review of the proceedings conducted on remand.” D.C. CIR. R.
+41(b); see also Order, Am. Pub. Gas. Ass’n v. DOE, No. 20-
+1068 (D.C. Cir. June 1, 2022) (per curiam). APGA filed its
+                               15
+petition on June 14, 2022, and AHRI and Spire filed separate
+petitions for review on June 15, 2022, and June 16, 2022,
+respectively. After the petitions were consolidated, Petitioners
+unsuccessfully moved the Court to stay the enforcement of the
+Final Rule pending appeal. See Order, Am. Pub. Gas. Ass’n v.
+DOE, No. 22-1107 (D.C. Cir. Aug. 17, 2022) (per curiam).
+
+      Petitioners assert that the DOE failed to adequately explain
+its reasoning as required on remand. Further, they contend the
+Agency should have provided an opportunity for notice and
+comment prior to filing the Supplement and, regardless, that
+the Final Rule as supplemented fails to meet the clear and
+convincing standard required by the Energy Policy and
+Conservation Act.
+
+                               II.
+
+     This Court has jurisdiction to review the Final Rule as
+supplemented pursuant to 42 U.S.C. §§ 6306(b) and 6316.
+Petitioners have demonstrated standing through declarations
+attesting to their expectations of economic losses caused by the
+Final Rule that may be remedied by vacatur of the rule. See
+generally Sierra Club v. Morton, 405 U.S. 727, 733–34 (1972).
+The Court reviews the Final Rule and Supplement under the
+APA. See APGA I, 22 F.4th at 1024–25 (citing 5 U.S.C. §
+706(2)(A)).
+
+     The APA “requires [the Court] to hold unlawful agency
+action that is ‘arbitrary, capricious, an abuse of discretion, or
+otherwise not in accordance with law.’” Susquehanna Int'l
+Grp., LLP v. SEC, 866 F.3d 442, 445 (D.C. Cir. 2017) (quoting
+5 U.S.C. § 706(2)(A)). Under this standard, “this Court is
+highly deferential to the agency’s decision and presumes that
+the agency action is valid.” Oceana, Inc. v. Ross, 920 F.3d 855,
+863 (D.C. Cir. 2019) (quotation marks omitted). The Court is
+“not a ‘rubber stamp,’” however, and “must ensure the agency
+                               16
+considered all of the relevant factors.” Id. (quoting Ethyl Corp.
+v. EPA, 541 F.2d 1, 34 (D.C. Cir. 1976) (en banc)). “[T]he
+focal point for judicial review should be the administrative
+record already in existence, not some new record made initially
+in the reviewing court.” Camp v. Pitts, 411 U.S. 138, 142
+(1973) (per curiam).
+
+     Under the Energy Policy and Conservation Act, “the
+Secretary is not authorized to establish a more stringent
+efficiency standard for commercial packaged boilers . . . unless
+there is clear and convincing evidence that the standard would
+result in significant additional conservation of energy, would
+be technologically feasible, and is economically justified.”
+APGA I, 22 F.4th at 1025 (citing 42 U.S.C.
+§ 6313(a)(6)(C)(i)(I)–(II)). “[C]lear and convincing evidence
+requires a factfinder (in this case the Secretary) to have an
+‘abiding conviction’ that her findings (in this case that a more
+stringent standard would result in significant additional
+conservation of energy, would be technologically feasible, and
+is economically justified) are ‘highly probable’ to be true.” Id.
+(quoting Colorado v. New Mexico, 467 U.S. 310, 316 (1984)).
+“Even where clear and convincing evidence is required before
+an agency can act, however, judicial review of agency action
+remains deferential.” Id. at 1025–26. “The court asks itself
+only whether it was reasonable for the agency to determine it
+met the standard.” Id. at 1026.
+
+    We discuss each of Petitioners’ challenges in turn.
+
+                               A.
+
+     APGA I required the DOE to provide a cogent and
+reasoned response to Petitioners’ challenges to the Agency’s
+use of random assignment to model boiler purchases in its life-
+cycle cost model. See APGA I, 22 F.4th at 1027–28.
+Petitioners contend that the DOE should have provided notice
+                                17
+and comment since the DOE’s response to our order relied on
+new studies and documentation. We agree.
+
+     On remand, the DOE supported its use of random
+assignment with a more detailed explanation of the various
+market failures and behavioral biases it contends lead to
+“irrational” energy investment decisions in the market for
+commercial packaged boilers, such as purchasing a less
+efficient boiler even when a more efficient model might have
+lower upfront or lifetime costs. In the Supplement, the Agency
+referenced studies that it claimed “demonstrate the existence of
+market failures preventing the adoption of energy-efficient
+technologies in a variety of commercial sectors around the
+world, including office buildings, supermarkets, and the
+electric motor market.” 87 Fed. Reg. at 23425. It also cited
+corroborating datasets to demonstrate that boilers of various
+efficiency levels “are installed in a variety of building types and
+that the building characteristics do not correlate strongly with
+the existing boiler efficiency.” Id. at 23427. These datasets
+included: (1) “data from the Federal Energy Management
+Program (‘FEMP’) on commercial gas-fired hot water boiler
+installations in government buildings from 2000 to 2013”; (2)
+“recent installation data and case studies for areas within the
+North region”; and (3) a regional study published in 2020
+“characterizing the energy consumption and building
+characteristics of commercial buildings throughout the
+Northwest region of the country.” Id. at 23425–23426.
+
+     Generally, “the ‘technical studies and data’ upon which the
+agency relies” “must be revealed for public evaluation.”
+Chamber of Com. of U.S. v. SEC, 443 F.3d 890, 899 (D.C. Cir.
+2006) (quoting Solite Corp. v. EPA, 952 F.2d 473, 484 (D.C.
+Cir. 1991)). This requirement remains binding on the agency
+even after our Court has remanded a rule for further
+explanation, including when an “agency determines that
+                                18
+additional fact gathering is necessary” on remand. Id. at 900.
+While we have recognized certain exceptions to this
+requirement, see id. (collecting cases), none apply here.
+
+     First, the DOE contends that notice and comment was
+unnecessary on remand because the Final Rule merely
+“advanced ‘a hypothesis’ and some supporting explanation,”
+and the Supplement “provided additional support for that
+hypothesis . . . but . . . did not reject or modify the hypothesis
+such that additional comment was necessary.” Resp’t Br. 56
+(quoting Bldg. Indus. Ass’n of Superior Cal. v. Norton, 247
+F.3d 1241, 1246 (D.C. Cir. 2001)). As we held in Building
+Industry, “a final rule that is a logical outgrowth of the proposal
+does not require an additional round of notice and comment
+even if the final rule relies on data submitted during the
+comment period.” 247 F.3d at 1246. In Building Industry,
+however, the agency provided more than an unsupported
+explanation to bolster its hypothesis. Instead, the agency’s
+“proposal advanced for comment a hypothesis and some
+supporting data.” Id. (emphasis added). The additional study
+relied upon, “released after the proposal,” id. at 1245, provided
+“additional support for that hypothesis—indeed, better support
+than was previously available,” id. at 1246.
+
+      Such was the case in International Fabricare Institute v.
+EPA, another authority cited by the DOE. 972 F.2d 384 (D.C.
+Cir. 1992) (per curiam). In that case, the petitioner challenged
+the EPA’s newly adopted “regulations establish[ing]
+permissible concentration levels for contaminants occurring in
+drinking water.” Id. at 387. The agency had to determine
+which method it would use to “ascertain how low a
+concentration of [a regulated] chemical reliably [could] be
+measured when testing water to determine compliance with the
+limit.” Id. at 398. In its original notice of the rulemaking, “the
+EPA acknowledged . . . that [the chosen method’s] accuracy
+                               19
+had been verified in only one laboratory” and sought comments
+on the proposed approach. Id. at 399 (citations omitted). After
+receiving comments challenging the reliability of the method,
+the EPA promulgated the regulations, relying upon additional
+studies “conducted by private laboratories [that] [i]n the EPA’s
+view . . . adequately confirmed the reliability of [its chosen
+method].” Id. As in Building Industry, the EPA’s original
+notice referenced some documentation in support of the
+challenged approach, specifically the verification of the chosen
+method by one laboratory. We held that notice and comment
+was unnecessary since the Fabricare “petitioners had fair
+notice of, and full opportunity to comment on, the issue
+actually decided by the EPA.” 972 F.2d at 399.
+
+     Here, the new studies and datasets referenced in the
+Supplement did not “address[] ‘alleged deficiencies’ in [any]
+pre-existing data.” Solite Corp., 952 F.2d at 484 (quoting
+Cmty. Nutrition Inst. v. Block, 749 F.2d 50, 58 (D.C. Cir.
+1984)). Instead, the additional materials referenced in the
+Supplement provided “entirely new information ‘critical’ to the
+[Agency’s] determination” of life-cycle costs. Block, 749 F.2d
+at 58. In APGA I, we explained that “we [could not] say it was
+reasonable for the DOE to conclude that clear and convincing
+evidence support[ed] the adoption of a more stringent
+standard” absent a “cogent and reasoned response to the
+substantial concerns the petitioners raised” about the Agency’s
+use of random assignment. APGA I, 22 F.4th at 1028. Absent
+the cited studies and corroborating documentation, the DOE
+fails to adequately explain how there is a “rational relationship”
+between their model and the purchasing behavior in the market
+for commercial packaged boilers. Am. Iron & Steel Inst. v.
+EPA, 115 F.3d 979, 1004 (D.C. Cir. 1997) (per curiam)
+(quoting Chem. Mfrs. Ass’n v. EPA, 28 F.3d 1259, 1265 (D.C.
+Cir. 1994)). The cited materials were necessary to respond to
+our order and justify a key input in the life-cycle cost analysis.
+                              20
+Because they were relied upon for the first time on remand, the
+Agency should have provided an opportunity for notice and
+comment as required by the APA. See 5 U.S.C. § 553(b), (c).
+
+     Second, the DOE argues that it should be excused from the
+APA’s notice and comment requirements because Petitioners
+have failed to demonstrate that they were “prejudiced by [the]
+lack of opportunity to comment.” Chamber of Com., 443 F.3d
+at 904. Specifically, the Agency contends that Petitioners fail
+to “specify what objectionable new information the
+Department relied on” and “what they would have submitted in
+response to that information beyond what was already
+submitted during earlier notice and comment.” Resp’t Br. 62–
+63 (citing 5 U.S.C. § 706 and Chamber of Com., 443 F.3d at
+904).
+
+      Petitioners do not have a high burden in demonstrating
+“prejudice in notice-and-comment cases.” Chamber of Com.,
+443 F.3d at 904. In general, “an utter failure to comply with
+notice and comment cannot be considered harmless if there is
+any uncertainty at all as to the effect of that failure.” Sugar
+Cane Growers Co-op. of Fla. v. Veneman, 289 F.3d 89, 96
+(D.C. Cir. 2002). Accordingly, those objecting to an agency’s
+late reference to critical documents can demonstrate prejudice
+by creating “enough ‘uncertainty [as to] whether petitioner’s
+comments would have had some effect if they had been
+considered.’” Chamber of Com., 443 F.3d at 904 (quoting
+McLouth Steel Prods. Corp. v. Thomas, 838 F.2d 1317, 1324
+(D.C. Cir. 1988)).
+
+     Petitioners make several objections to the studies and
+datasets cited in the Supplement. They note that the referenced
+studies are too “generic” to apply to the market for commercial
+packaged boilers. Pet’rs Br. 37. Petitioners also contend that
+the datasets which the DOE references to “demonstrate[] [the]
+                                21
+relevant market failures would—at most—have incremental
+impacts insufficient to justify random assignment.” Id. at 38.
+Petitioners have “indicate[d] with ‘reasonable specificity’”
+“the nature of [their] objection[s]” and “how [they] might have
+responded if given the opportunity.” Air Transp. Ass’n of Am.
+v. FAA, 169 F.3d 1, 8 (D.C. Cir. 1999) (quoting Air Transp.
+Ass’n of Am. v. CAB, 732 F.2d 219, 224 n.11 (D.C. Cir. 1984)).
+These objections provide enough uncertainty as to whether the
+Petitioners’ comments would have influenced the Agency’s
+decision had they been given the opportunity to comment.
+Further, Petitioners “had no knowledge of the new information
+until” the Supplement was published “and had no subsequent
+opportunity to provide comments.”           Id.   Under these
+circumstances, Petitioners have demonstrated prejudice from
+the DOE’s failure to provide notice and comment.
+
+     Third, the Agency contends that the APA’s “good cause”
+exception to notice and comment should apply. It claims that
+“a new round of notice and comment was not expected by this
+Court and would have been impracticable” given the court-
+imposed 90-day deadline with only the first 10 days after the
+mandate issued made available for the Agency to request an
+extension. Resp’t Br. 59. It compares the situation to
+Methodist Hospital of Sacramento v. Shalala, an appeal in
+which this Court held that notice and comment was
+impracticable due, in part, to the tight deadlines imposed by
+Congress. 38 F.3d 1225, 1237 (D.C. Cir. 1994). The Agency
+contends that our “Court has found good cause where there is
+no indication that the agency ‘had a substantial period of time
+within which to propose regulations’ or that the agency abused
+the deadline by ‘simply waiting until the eve of . . . the deadline,
+then raising up the “good cause” banner.’” Resp’t Br. 60
+(quoting Methodist, 38 F.3d at 1237) (emphasis omitted).
+                              22
+     The Agency misreads our holding in Methodist. In that
+case, we reiterated that “strict congressionally imposed
+deadlines, without more, by no means warrant invocation of the
+good cause exception.” Methodist, 38 F.3d at 1236 (quoting
+Petry v. Block, 737 F.2d 1193, 1203 (D.C. Cir. 1984)).
+However, we found the good cause exception applied since the
+“congressional deadlines [were] very tight and . . . the statute
+[was] particularly complicated.” Id. Among other things, we
+noted that the situation in Methodist differed from other “cases
+where the court has found strict deadlines alone insufficient to
+establish good cause” because in the relevant statutory scheme
+“Congress ha[d] expressed its clear intent that APA notice and
+comment procedures need not be followed.” Id. at 1237
+(citations omitted). The DOE makes no claim that the Energy
+Policy and Conservation Act imposes a similarly complex set
+of procedures as in Methodist. A tight “statutory, judicial, or
+administrative deadline” alone, Council of S. Mountains, Inc.
+v. Donovan, 653 F.2d 573, 581 (D.C. Cir. 1981) (per curiam),
+“by no means warrant[s] invocation of the good cause
+exception,” Methodist, 38 F.3d at 1236.
+
+     “[T]he good cause exception is to be narrowly construed
+and only reluctantly countenanced.” Mack Trucks, Inc. v. EPA,
+682 F.3d 87, 93 (D.C. Cir. 2012) (quotation marks omitted).
+We have typically applied the good cause exception to
+“excuse[] notice and comment in emergency situations, where
+delay could result in serious harm, or when the very
+announcement of a proposed rule itself could be expected to
+precipitate activity by affected parties that would harm the
+public welfare.” Chamber of Com., 443 F.3d at 908 (citations
+omitted).     Here, where none of the aforementioned
+circumstances applied and the Agency declined to seek an
+available extension of its compliance deadline, the DOE lacked
+good cause to adopt the Final Rule as supplemented absent
+public comment on the new studies and documentation it relied
+                               23
+upon. Since we find that the DOE lacked good cause to
+dispense with the required notice and comment procedures, we
+do not reach Petitioners’ alternative argument that the Agency
+failed again on remand to provide a cogent and reasoned
+response to the concerns raised about the DOE’s use of random
+assignment.
+
+                               B.
+
+     In APGA I, the Court required the DOE to address
+Petitioners’ concerns with the Agency’s use of certain fuel
+prices that informed its life-cycle cost analysis, specifically
+whether the data sets it used captured “the lower prices for fuel
+allegedly paid by those who operate commercial packaged
+boilers.” 22 F.4th at 1028. The Court characterized the DOE’s
+original response as “conclusory, not explanatory,” specifically
+describing the response as follows:
+
+       The DOE responded that the data sets it used
+       “are the best aggregate sources for energy prices
+       currently available” and it “incorporated many
+       adjustment factors to the average price data and
+       the price trend data to account for the price
+       differences due to variations in locations,
+       seasons, and market sectors and to ensure that
+       the energy prices are properly accounted for in
+       the economic analysis.”
+
+Id. (quoting 85 Fed. Reg. at 1632).
+
+     On remand, the Agency did more than simply say the U.S.
+Energy Information Administration (“EIA”) data it relied on
+was “the best aggregate source[] for energy prices.” Id. It
+explained specifically how the data captured the prices paid by
+all consumers. In the Supplement, the DOE “emphasize[d] that
+the EIA data provide[d] complete coverage of all utilities and
+                                24
+all customers, including larger commercial and industrial
+utility customers that may have discounted energy prices.” 87
+Fed. Reg. at 23428. Though the DOE conceded that it “was
+unable to identify data to provide a basis for determining a
+potentially lower price for larger commercial and industrial
+utility customers, either on a state-by-state basis or in a
+nationally representative manner,” the Supplement explained
+that “the historic data on which DOE did rely includes such
+discounts.” Id. at 23429. The DOE finally asserted that any
+adjustment to its analysis—such as “to adjust downward the
+marginal energy price for a small subset of individual
+customers in the [life-cycle cost] Monte Carlo sample as
+suggested by commenters”—would “yield[] substantially the
+same overall average [life-cycle cost] savings result as DOE’s
+current estimate” since that data already includes “actual utility
+rates paid by all customers.” Id. In our view, the Agency
+provided a “cogent response” that adequately addressed
+Petitioners’ concerns about “the lower prices for fuel allegedly
+paid by those who operate commercial packaged boilers.”
+APGA I, 22 F.4th at 1028.
+
+     For the first time in rebuttal, however, Petitioners fault the
+natural gas prices data used by the DOE for failing to include
+one category of large consumers in its analysis: industrial and
+manufacturing facilities. They point to the Final Rule’s citation
+to an EIA website describing that the natural gas pricing data
+used by the DOE “indicate[s] that it is limited to
+‘nonmanufacturing establishments.’” Pet’rs Reply Br. 14 n.4
+(citing J.A. 360–61); see also J.A. 373.
+
+    “We require petitioners and appellants to raise all of their
+arguments in the opening brief to prevent ‘sandbagging’ of
+appellees and respondents and to provide opposing counsel the
+chance to respond.” Corson & Gruman Co. v. NLRB, 899 F.2d
+47, 50 n.4 (D.C. Cir. 1990). There is an exception to this
+                                25
+general rule allowing a petitioner, “in a reply brief, [to] respond
+to arguments raised for the first time in the [respondent’s]
+brief.” United States v. Powers, 885 F.3d 728, 732 (D.C. Cir.
+2018) (quotation marks omitted). This exception applies when
+a petitioner could not be “required to assume in [their] opening
+brief that the [opposing party] would rely on” a specific
+argument. Id. Here, however, the DOE’s argument was
+foreseeable since the Supplement provided that the “DOE’s
+current approach . . . captures the impact of actual utility rates
+paid by all customers, including those that enjoy lower
+marginal rates for whatever reason, in an aggregated fashion.”
+87 Fed. Reg. at 23429. Petitioners did not have to “assume”
+the Agency’s argument, because they had it right before them
+from the start. Powers, 885 F.3d at 732.
+
+     Accordingly, Petitioners have forfeited this argument. We
+find that the Final Rule as supplemented provides a sufficient
+response to Petitioners’ concerns about the fuel prices used in
+the DOE’s life-cycle cost analysis.
+
+                                C.
+
+     In APGA I, the Court required the DOE to address
+Petitioners’ concerns that the estimated burner operating hours
+used in the life-cycle cost analysis were anomalous and the
+“possibility that either [the DOE’s] assumption about heat load
+or the data from [the Commercial Building Energy
+Consumption Survey] were faulty.” 22 F.4th at 1029.
+Petitioners argue that the Final Rule as supplemented still
+ignores these comments by failing to address its “energy-use
+assumption” and erroneously suggesting that “burner operating
+hours have minimal impact on the results of its analysis.”
+Pet’rs Br. 43–44.
+
+    On remand, the Agency provided a more detailed
+description of how the underlying Commercial Building
+                              26
+Energy Consumption Survey data reflects real-world building
+energy use. See 87 Fed. Reg. at 23429–23430. It also
+described how the seemingly anomalous burner operating hour
+results were actually reflective of real world conditions in
+which both boiler size and other factors like the climate or the
+age of the building require longer and higher burner operating
+hours. Id. at 23430. At the same time, however, the DOE
+failed to address the impact of its underlying assumption “that
+for every square foot of heated area, a building uses an average
+of 30 Btu/h.” APGA I, 22 F.4th at 1024. In a colloquy with the
+Court, the DOE’s counsel conceded that there was no
+explanation at all in the Supplement to support the Agency’s
+30 Btu/h assumption. Oral Arg. Tr. 28.
+
+     Even if burner operating hours may be a “derived
+quantity” as the Agency argues, see Resp’t Br. 51 (quoting 87
+Fed. Reg. at 23430), the “30 Btu/h” figure is an input into the
+DOE’s calculation that commenters complained caused
+erroneous building load estimations separate from the concerns
+raised about the Commercial Building Energy Consumption
+Survey data. See, e.g., J.A. 202, 389. In APGA I, we held that
+these concerns required a “reasoned response,” yet DOE
+provided no additional explanation for the assumption on
+remand. 22 F.4th at 1029.
+
+     We review the DOE’s “rulemaking under the ‘lookback’
+provision” under the APA, id. at 1024, with the “further
+wrinkle” that “clear and convincing evidence is required before
+[the] [A]gency can act,” id. at 1025. The Court must
+“ask[] . . . whether it was reasonable for the agency to
+determine it met the [clear and convincing evidence] standard.”
+Id. at 1026. “The ‘scope of review’ provisions of the APA, 5
+U.S.C. § 706(2), are cumulative.” Ass’n of Data Processing
+Serv. Orgs., Inc. v. Bd. of Governors of Fed. Rsrv. Sys., 745
+F.2d 677, 683 (D.C. Cir. 1984). “Thus, an agency action which
+                               27
+is supported by the required substantial evidence may in
+another regard be ‘arbitrary, capricious, an abuse of discretion,
+or otherwise not in accordance with law’—for example,
+because it is an abrupt and unexplained departure from agency
+precedent.” Id. Similarly, the Court may find the DOE’s
+failure to explain and justify the “30 Btu/h” assumption on
+remand to be “arbitrary and capricious” without determining
+whether that omission demonstrated the Agency acted without
+the requisite “clear and convincing” evidence.
+
+     Again, the DOE has “fail[ed] to engage the arguments
+raised before it.” APGA I, 22 F.4th at 1027 (quotation marks
+omitted).
+
+                              III.
+
+      “‘[V]acatur is the normal remedy’ when a rule is found
+unlawful.” APGA I, 22 F.4th at 1030 (quoting Allina Health
+Servs. v. Sebelius, 746 F.3d 1102, 1110 (D.C. Cir. 2014)).
+Under certain circumstances, however, the Court may remand
+without vacatur and allow the agency to “fix the deficient rule.”
+Id. “The decision to vacate depends on two factors: the
+likelihood that ‘deficiencies’ in an order can be redressed on
+remand, even if the agency reaches the same result, and the
+‘disruptive consequences’ of vacatur.” Black Oak Energy, LLC
+v. FERC, 725 F.3d 230, 244 (D.C. Cir. 2013) (quoting Allied-
+Signal v. Nuclear Regul. Comm’n, 988 F.2d 146, 150–51 (D.C.
+Cir. 1993)).
+
+     For the first factor, we have discussed two significant
+deficiencies with the Final Rule as supplemented. The Agency
+failed to provide notice and comment despite its reliance on
+new studies and data critical to supporting its use of random
+assignment to assign boilers in the life-cycle cost analysis. The
+DOE also failed to address challenges to its 30 Btu/h
+                              28
+assumption in calculating burner operating hours for the life-
+cycle cost analysis for the second time.
+
+     As to the second factor, the DOE contends that vacatur of
+the Final Rule would result in “significant disruption of the
+status quo” since the Final Rule went into effect on January 10,
+2023, and some consumers and manufacturers would have to
+manage switching back to the prior standards after several
+years of preparing to comply with the new, more stringent
+standards. Resp’t Br. 65–66. Further, the Agency argues that
+vacatur would harm the public given the loss of the significant
+environmental and health benefits expected from the new
+efficiency standards. It contends that the harm of losing these
+benefits would be “long-lived” since noncompliant boilers,
+with an expected lifetime use of approximately 25 years, would
+be manufactured and sold. Id. at 67–68. Even should the
+Agency repromulgate the rule, it asserts that there is little
+chance noncompliant boilers manufactured and sold in the
+interim would be replaced with compliant boilers in the near
+term. Petitioners also concede that the effect of the Final Rule
+has resulted in “[s]ome manufacturers hav[ing] already
+suffered irreparable injuries.” Pet’rs Reply Br. 28.
+
+     The disruptive consequences of vacatur are apparent, and
+we are “sensitive to the risk of interfering with environmental
+protection, which is one potential disruptive consequence”
+raised by the DOE. North Carolina v. EPA, 531 F.3d 896, 929
+(D.C. Cir.) (per curiam), modified on reh’g in part, 550 F.3d
+1176 (D.C. Cir. 2008). However, none of the DOE’s
+arguments demonstrate that “[t]he egg has been scrambled and
+there is no apparent way to restore the status quo ante,” namely
+the state of affairs under the prior, less stringent standards.
+Sugar Cane Growers, 289 F.3d at 97. As Petitioners state,
+vacatur would allow “manufacturers to resume production of
+boilers” that meet either standard, and it is undisputed that
+                              29
+“many manufacturers already sell, and a significant number of
+consumers already purchase, boilers that meet DOE’s
+more-stringent standard.” Pet’rs Reply Br. 28. Separately,
+even though we have found the DOE’s explanation regarding
+fuel prices sufficient, “leaving the regulations in place during
+remand would ignore [P]etitioners’ potentially meritorious
+challenges” related to the use of random assignment, which we
+have chosen not to reach given the lack of notice and comment,
+and regarding the 30 Btu/h assumption that the DOE failed to
+explain. Cement Kiln Recycling Coal. v. EPA, 255 F.3d 855,
+872 (D.C. Cir. 2001) (per curiam).
+
+     “[T]he [C]ourt typically vacates rules when an agency
+entirely fails to provide notice and comment.” Daimler Trucks
+N. Am. LLC v. EPA, 737 F.3d 95, 103 (D.C. Cir. 2013)
+(quotation marks omitted). The DOE’s “fail[ure] to comply
+with our remand order” also counsels toward vacatur, since it
+has yet again “come up with insufficient support” for the 30
+Btu/h assumption. Tex Tin Corp. v. EPA, 992 F.2d 353, 356
+(D.C. Cir. 1993). We see no reason to break from our
+established practice when for the second time “we are not
+persuaded it was reasonable for the Secretary to conclude the
+Final Rule was supported by clear and convincing evidence.”
+APGA I, 22 F.4th at 1022.
+
+    In sum, we grant the petitions and vacate the Final Rule as
+supplemented. We remand to DOE for further proceedings
+consistent with this opinion.
+
+                                                    So ordered.
+

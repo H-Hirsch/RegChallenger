@@ -1,0 +1,698 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued May 13, 2021                   Decided March 4, 2022
+
+                        No. 20-1033
+
+    LONG ISLAND POWER AUTHORITY AND LONG ISLAND
+            LIGHTING COMPANY, D/B/A LIPA,
+                     PETITIONERS
+
+                             v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+AMERICAN ELECTRIC POWER SERVICE CORPORATION, ET AL.,
+                   INTERVENORS
+
+
+
+            Consolidated with 20-1035, 20-1273
+
+
+              On Petitions for Review of Orders
+        of the Federal Energy Regulatory Commission
+
+
+     Michael F. McBride argued the cause for petitioners Long
+Island Power Authority, et al. Eric J. Konopka argued the
+cause for petitioner Linden VFT, LLC. On the briefs were
+Richard P. Bress, David L. Schwartz, and Joseph B. Nelson.
+
+   Anand R. Viswanathan, Attorney, Federal Energy
+Regulatory Commission, argued the cause for respondent.
+                               2
+With him on the brief were Matthew R. Christiansen, General
+Counsel, and Robert H. Solomon, Solicitor.
+
+     John Longstreth argued the cause for respondent-
+intervenors. With him on the brief were Gary E. Guy, Donald
+A. Kaplan, Cara J. Lewis, Richard P. Sparling, Bradley R.
+Miliauskas, Morgan E. Parke, Evan K. Dean, Pauline Foley,
+Paul M. Flynn, Miles H. Mitchell, Stacey Burbure, Robert
+Adkins, David Yost, Attorney General, Office of the Attorney
+General for the State of Ohio, Werner L. Margard, Assistant
+Attorney General, Steven D. Hughey and Spencer A. Sattler,
+Assistant Attorneys General, Office of the Attorney General
+for the State of Michigan, Daniel E. Frank, Allison E. Speaker,
+Kriss E. Brown, Aspassia V. Staevska, Christian A. McDewell,
+Gurbir S. Grewal, Attorney General, Office of the Attorney
+General for the State of New Jersey, Paul Youchak, Deputy
+Attorney General, Christopher R. Jones, Molly Suda, and
+Christopher J. Barr. William M. Keyser III, Steven M. Nadel,
+and Alex Moreau, Deputy Attorney General, Office of the
+Attorney General for the State of New Jersey, entered
+appearances.
+
+    Before: HENDERSON, KATSAS, and WALKER, Circuit
+Judges.
+
+    Opinion of the Court filed by Circuit Judge KATSAS.
+
+     KATSAS, Circuit Judge: This case arises from a long-
+running dispute over how to allocate the costs of high-voltage
+facilities to transmit electricity within the mid-Atlantic
+planning region. The question is difficult because high-voltage
+projects afford two different kinds of benefits—local benefits
+that accrue primarily to utilities close to the project at issue,
+and regional benefits that accrue throughout the grid. The
+Seventh Circuit has twice set aside cost allocations that ignored
+                               3
+the local benefits, Illinois Commerce Comm’n v. FERC, 576
+F.3d 470 (7th Cir. 2009) (Illinois Commerce I); Illinois
+Commerce Comm’n v. FERC, 756 F.3d 556 (7th Cir. 2014)
+(Illinois Commerce II), and we have set aside cost allocations
+that ignored the regional benefits, Old Dominion Elec. Coop.
+v. FERC, 898 F.3d 1254 (D.C. Cir. 2018).
+
+     This case involves a contested settlement covering high-
+voltage projects approved between 2007 and 2013. The
+settlement allocates their costs through hybrid formulas that
+account for both local and regional benefits. In that respect, it
+tracks the allocation formula for high-voltage projects
+approved after 2013, which is not challenged here.
+
+      The Federal Energy Regulatory Commission approved the
+settlement over the objection of two utilities that transmit
+electricity from the mid-Atlantic region to New York. These
+utilities argue that the approval was inconsistent with the
+Seventh Circuit’s decisions, with FERC’s own precedent, and
+with an underlying cost-causation principle. One of the utilities
+also argues that FERC erroneously assigned it costs based on a
+flawed interpretation of the settlement. We agree with the
+second contention but not the first.
+
+                                I
+
+                               A
+
+     The Federal Power Act requires utilities to charge “just
+and reasonable” rates for the transmission of electricity in
+interstate commerce. 16 U.S.C. § 824d(a). To be just and
+reasonable, rates must “reflect to some degree the costs actually
+caused by the customer who must pay for them.” Midwest ISO
+Transmission Owners v. FERC, 373 F.3d 1361, 1368 (D.C. Cir.
+2004) (cleaned up). This “cost causation principle” requires
+“comparing the costs assessed against a party to the burdens
+                                4
+imposed or benefits drawn by that party.” Id. If FERC
+determines that a particular rate is unjust or unreasonable, it
+must “determine the just and reasonable rate.” 16 U.S.C.
+§ 824e(a).
+
+                                B
+
+     PJM Interconnection, LLC is the regional transmission
+organization (RTO) for an area encompassing much of the mid-
+Atlantic and part of the Midwest. PJM takes its name from
+Pennsylvania, New Jersey, and Maryland, the first three states
+in which it operated, but its territory now extends as far west as
+Illinois. As an RTO, PJM coordinates the movement of
+electricity across the region. It operates transmission facilities
+owned by member utilities, approves the construction of new
+facilities, and files tariffs allocating among its members the
+costs of the facilities.
+
+     This case involves high-voltage transmission facilities
+within the PJM region. For over a decade, member utilities
+disputed how to allocate the cost of these projects, which
+provide both local and regional benefits. The facilities most
+obviously benefit nearby utilities that use them directly, but
+they also provide “backbone infrastructure” that improves
+reliability and reduces congestion regionwide.                PJM
+Interconnection, L.L.C., 119 FERC ¶ 61,063, P 80 (2007)
+(Opinion No. 494). A geographic asymmetry exacerbated the
+dispute: Given the location of generators, electricity must flow
+longer distances to reach consumers in the eastern part of PJM
+than to reach their western counterparts. And because high-
+voltage facilities work best to transmit electricity over long
+distances, they are more useful in the eastern part. See Ill. Com.
+II, 756 F.3d at 558; Ill. Com. I, 576 F.3d at 475.
+
+     Initially, PJM allocated the cost of its high-voltage
+facilities based on what FERC calls the violation method (or,
+                                5
+less concisely, the violation-based distribution-factor method).
+This method assumes that new projects are approved in
+response to violations of reliability standards at overburdened
+facilities. And it allocates costs based on use of those facilities
+at the time of each violation. The violation method thus deems
+utilities using overburdened facilities to have “cause[d]” the
+relevant problem and to “benefit from” upgrades that eliminate
+it. See Opinion No. 494, 119 FERC ¶ 61,063, P 2 n.3.
+
+     In 2007, FERC ordered PJM to replace its violation
+method with a “postage stamp” method. This method allocates
+the cost of a new facility in proportion to each utility’s sale of
+electricity, regardless of where the facility is located or how
+much each utility uses it. The Commission reasoned that the
+postage-stamp method accounts for the regional benefits of
+high-voltage facilities, incentivizes their development, and
+avoids the trouble of quantifying the specific benefits that each
+facility provides to each utility. Opinion No. 494, 119 FERC
+¶ 61,063, PP 79–82.
+
+     In Illinois Commerce I, the Seventh Circuit set aside
+FERC’s order. It reasoned that FERC had failed to make “even
+the roughest of ballpark estimates” of the regional benefits said
+to justify the postage-stamp method and had also failed to
+explain why quantifying the local benefits—as it continued to
+do for low-voltage projects—was now too difficult. 576 F.3d
+at 475–78. Moreover, PJM’s geographic asymmetry made the
+distinction between local and regional benefits important:
+Because nearly all the high-voltage facilities were built in the
+eastern part of the grid, fully regionalizing their costs would
+substantially overcharge the western utilities. Id. at 475–76.
+
+    On remand, FERC again ordered the postage-stamp
+method. PJM Interconnection L.L.C., 138 FERC ¶ 61,230
+(2012) (Remand Order). It concluded that the violation method
+                                6
+was unjust and unreasonable because it ignores both regional
+benefits and the changing use of individual facilities over time.
+Id. PP 38–41. The Commission then concluded that the
+postage-stamp method was just and reasonable because it
+accounts for the significant, though difficult to quantify,
+“system-wide benefits” to the PJM grid. Id. P 49. On the
+record before it, FERC considered only the violation and
+postage-stamp methods, but it encouraged PJM stakeholders to
+develop “hybrid” or other allocation methods. Id. P 2.
+
+     The Seventh Circuit set aside the Remand Order in Illinois
+Commerce II. The court again faulted FERC for giving neither
+a cost-benefit analysis nor an explanation of why such an
+analysis was infeasible. 756 F.3d at 561. And it again
+concluded that the postage-stamp method was “guaranteed to
+overcharge the western utilities, as they will benefit much less
+than the eastern utilities from eastern projects that are designed
+to improve the electricity supply in the east.” Id.
+
+                                C
+
+     While the Illinois Commerce litigation was ongoing,
+FERC promulgated a regulation known as Order No. 1000,
+which restructured arrangements for the coordinated
+transmission of electricity. Transmission Planning and Cost
+Allocation by Transmission Owning and Operating Public
+Utilities, 136 FERC ¶ 61,051 (2011). Among other things,
+Order No. 1000 requires RTOs and their member utilities to
+establish tariff formulas allocating the costs of new
+transmission facilities in advance. Id. P 558.
+
+    In response, PJM and its utilities proposed a hybrid
+formula for new high-voltage facilities: allocate half the costs
+under the postage-stamp method and half under a new, flow-
+based method (also called a solution-based distribution-factor
+method). The flow-based method assigns costs based on how
+                                7
+much each utility uses the facility in question over time.
+Approving the hybrid formula, FERC concluded that it struck
+a “reasonable balance” between the “broad regional benefits
+and specifically identifiable benefits” of high-voltage facilities.
+PJM Interconnection, L.L.C., 142 FERC ¶ 61,214, P 417
+(2013) (Compliance Order). FERC also noted that the proposal
+reflected a “reasonable compromise” to resolve the “intensely
+practical difficulties” that had provoked extended discord
+within PJM. Id. P 420 (cleaned up). All the member utilities
+supported the compromise, and no party challenged it in court.
+
+     The new formula applied only to high-voltage projects that
+PJM approved on or after February 1, 2013. See id. PP 1, 381,
+433. The Compliance Order thus narrowed the Illinois
+Commerce litigation to projects approved between FERC’s
+2007 postage-stamp order and January 31, 2013. The parties
+dub these 32 projects the “Vintage Projects.” Twenty-nine of
+them remain in service, and three have been cancelled. Their
+total cost was about $2.7 billion.
+
+                                D
+
+     Following the Compliance Order and Illinois Commerce
+II, FERC encouraged interested parties to reach a settlement on
+how to allocate the costs of the Vintage Projects. PJM
+Interconnection, L.L.C., 149 FERC ¶ 61,233, P 10 (2014). In
+2016, several parties proposed a settlement that uses three
+formulas to assign the costs. Each of them, like the formula
+approved for post-2013 projects, has a hybrid structure
+including a postage-stamp component and a usage-based
+component. Which formula applies depends on when the costs
+were incurred and whether PJM had cancelled the project.
+
+     First, for Vintage Project costs incurred in 2016 or later,
+the settlement uses the same formula that FERC had approved
+for new transmission projects—i.e., allocate half the costs
+                              8
+through the postage-stamp method and half through the flow-
+based method. For convenience, we refer to this approach as
+the “going-forward formula.”
+
+    Second, the settlement makes a series of adjustments for
+Vintage Project costs incurred before 2016, which PJM
+previously had allocated under the postage-stamp method. The
+adjustments seek to bring the allocations in line with “what
+would have been credited or paid” had PJM adopted the going-
+forward formula from the start. J.A. 181. We refer to these
+adjustments as the “historical formula.”
+
+    Third, for the cancelled projects, the settlement allocates
+half the costs through the postage-stamp method and half
+through the violation method. We refer to this approach as the
+“cancelled-projects formula.”
+
+    This proposal received wide support from PJM
+stakeholders. All the Illinois Commerce petitioners joined it,
+as did many other transmission owners and state regulatory
+agencies. Together, the supporting or unopposed stakeholders
+account for virtually all the energy consumption within PJM.
+
+     The petitioners here opposed the settlement. Linden VFT,
+LLC owns a merchant transmission facility that transmits
+power from PJM to New York. The Long Island Power
+Authority and its affiliate the Long Island Lighting Company
+(collectively, LIPA) hold long-term transmission rights over a
+similar facility. Under the settlement’s hybrid allocations,
+these parties would pay about $30 million more for the Vintage
+Projects than they would pay under a pure postage-stamp
+method. Linden and LIPA argued that the settlement was
+inconsistent with Illinois Commerce, with FERC’s Remand
+and Compliance Orders, and with the cost-causation principle.
+                              9
+     FERC approved the settlement over these objections. PJM
+Interconnection, L.L.C., 163 FERC ¶ 61,168 (2018)
+(Settlement Order). Incorporating the reasoning from its
+Compliance Order, FERC concluded that the going-forward
+formula allocates costs consistent with the regional and local
+benefits that each transmission owner receives from each
+individual facility. Id. P 39. FERC approved the historical
+formula because it roughly recreates the cost allocations that
+would have occurred had PJM used the going-forward formula
+from the start of each project. Id. P 40. And the Commission
+concluded that the cancelled-projects formula appropriately
+substitutes the violation method for the flow-based method
+because no ongoing usage data existed for cancelled projects.
+Id. P 45. Finally, FERC concluded that the settlement does not
+make the petitioners worse off relative to the expected outcome
+of further litigation, which would not likely have replaced the
+hybrid allocations with a pure postage-stamp method. Id. PP
+41–43.
+
+    LIPA and Linden moved for rehearing of the Settlement
+Order. Linden also asked FERC to clarify that it was not liable
+to pay adjustments under the historical formula. The
+Commission denied both motions. PJM Interconnection,
+L.L.C., 169 FERC ¶ 61,238 (2019) (Rehearing Order).
+
+     LIPA and Linden petitioned for judicial review. Several
+transmission owners and state regulatory commissions, as well
+as PJM, have intervened in support of FERC. We have
+jurisdiction to review the petitions under 16 U.S.C. § 825l(b).
+
+                              II
+
+     The Administrative Procedure Act requires us to set aside
+FERC orders that are “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.” 5 U.S.C.
+§ 706(2)(A). A decision is not arbitrary if the agency has
+                               10
+“examined the relevant considerations and articulated a
+satisfactory explanation for its action, including a rational
+connection between the facts found and the choice made.” Old
+Dominion, 898 F.3d at 1260 (cleaned up). Because ratemaking
+is imprecise and APA review is deferential, we do not require
+the Commission to allocate costs with “exacting precision.” Id.
+(cleaned up). But we do set aside cost allocations that are either
+unreasonable or inadequately explained. See id.
+
+      Illinois Commerce and Old Dominion illustrate these
+principles in the context of high-voltage transmission projects.
+As explained above, the Seventh Circuit twice has set aside a
+pure postage-stamp allocation, on the ground that it
+unreasonably ignores the significant local benefits accruing to
+eastern PJM utilities but not to western ones. In Old Dominion,
+we confronted a PJM tariff amendment that would have
+required a pure flow-based allocation for certain high-voltage
+projects. 898 F.3d at 1257–59. We set it aside as unreasonably
+ignoring the significant regional benefits accruing throughout
+the PJM grid. Id. at 1261–63. Both courts described the
+contested cost allocations as “grossly disproportionate” to the
+benefits received by individual utilities. Id. at 1261 (quoting
+Ill. Com. II, 756 F.3d at 565).
+
+     LIPA and Linden contend that the Settlement Order and
+its hybrid allocations are likewise arbitrary. We disagree.
+
+                                A
+
+     FERC may approve a contested settlement “if the record
+contains substantial evidence upon which to base a reasoned
+decision or the Commission determines there is no genuine
+issue of material fact.” 18 C.F.R. § 385.602(h)(1)(i). FERC
+reads this language to allow approval when the “overall result
+of the settlement is just and reasonable,” even if “individual
+aspects” of it “may be problematic.” Trailblazer Pipeline Co.,
+                                 11
+85 FERC ¶ 61,345, 62,342 (1998). In that circumstance, FERC
+must further conclude that the challenger “would be in no
+worse position” under the settlement “than if the case were
+litigated.” Trailblazer Pipeline Co., 87 FERC ¶ 61,110, 61,439
+(1999). FERC found each of the three hybrid cost allocations
+here to be just and reasonable, but it also invoked the
+Trailblazer framework and found that LIPA and Linden would
+not have been better off litigating the merits. We uphold all
+these findings, which is more than enough to justify the overall
+settlement. 1
+
+     FERC adequately justified its approval of each formula.
+Start with the going-forward formula, which allocates costs
+through a mix of the postage-stamp and flow-based methods.
+FERC approved the formula based on reasoning in its 2013
+Compliance Order, which had approved the same formula for
+future high-voltage transmission projects. Settlement Order,
+163 FERC ¶ 61,168, P 39; Rehearing Order, 169 FERC
+¶ 61,238, PP 41–45. Doing so was not arbitrary. As FERC had
+earlier explained, the postage-stamp component takes account
+of “the full spectrum of benefits associated with high-voltage
+facilities, including difficult to quantify regional benefits” such
+as improved reliability, reduced congestion, and greater
+carrying capacity. Compliance Order, 142 FERC ¶ 61,214,
+P 414. We too have recognized that high-voltage transmission
+systems provide “significant regional benefits” to the PJM
+network. Old Dominion, 898 F.3d at 1260. As for the flow-
+based component, FERC reasonably looked to usage data as a
+proxy for specific benefits—in other words, it looked to this
+data “to identify the subset of customers that benefit from a
+
+    1
+        We thus need not consider whether FERC may approve a
+settlement without addressing the merits of each contested rate, even
+though the Federal Power Act requires “[a]ll rates and charges made”
+to be just and reasonable, 16 U.S.C. § 824d(a).
+                               12
+facility simply through electrical proximity.” Compliance
+Order, 142 FERC ¶ 61,214, P 417. And FERC’s decision to
+approve a hybrid formula incorporating both measures was
+undoubtedly reasonable given the various benefits of high-
+voltage facilities. Indeed, it is compelled by precedents finding
+it arbitrary either to ignore local benefits by using a pure
+postage-stamp method (Illinois Commerce) or to ignore
+regional benefits by using a pure flow method (Old Dominion).
+As for the selection of a 50:50 ratio for the hybrid formula, the
+materials we have cited make clear that regional and local
+benefits are both substantial, thus requiring a significant weight
+for each component of the formula. And any debate over the
+choice between a 50:50 ratio and, say, a ratio of 60:40 one way
+or the other would “amount to a quibble about exacting
+precision,” rather than “a wholesale departure from the cost-
+causation principle.” Old Dominion, 898 F.3d at 1261 (cleaned
+up).
+
+    The historical formula follows neatly from the going-
+forward formula. As FERC explained, the historical formula
+requires adjustments to approximate the cost allocations that
+would have occurred had PJM applied the going-forward
+formula from the start of each Vintage Project. Settlement
+Order, 163 FERC ¶ 61,168, P 40; Rehearing Order, 169 FERC
+¶ 61,238, P 48. LIPA and Linden do not challenge this finding.
+And because the going-forward formula reasonably matches
+costs to benefits, so does the historical formula.
+
+     Finally, FERC reasonably approved the cancelled-projects
+formula. For these projects, there was no ongoing usage data
+to support application of the flow-based method. Unable to
+measure changing usage over time, the parties substituted the
+violation method to measure which utilities caused the
+reliability violations that necessitated the projects. Settlement
+Order, 163 FERC ¶ 61,168, P 45; Rehearing Order, 169 FERC
+                                13
+¶ 61,238, P 52. Under the circumstances, that was a reasonable
+way to assess usage issues, for the cost-causation principle
+compares costs to “the burdens imposed or the benefits drawn”
+by individual utilities. Midwest ISO Transmission Owners,
+373 F.3d at 1368. And as explained above, the 50:50 weighing
+of local burdens and benefits (as measured by the violation
+method) and regional benefits (as measured by the postage-
+stamp method) was also reasonable.
+
+     Our determination that each formula in the settlement is
+just and reasonable is reason enough to uphold it, but we also
+note that FERC reasonably concluded LIPA and Linden would
+not have done better through litigation. The challengers do
+their best to obscure this point, but what they seek is application
+of a pure postage-stamp method—or at least a hybrid formula
+with a more heavily weighted postage-stamp component. The
+Seventh Circuit has twice set aside a pure postage-stamp
+formula for the Vintage Projects. We have little doubt that, if
+faced once again with a pure or almost pure postage-stamp
+formula, it would call strike three.
+
+                                B
+
+    LIPA and Linden make several attacks on FERC’s
+reasoning, but none is persuasive.
+
+     First, LIPA and Linden contend that the settlement
+violates Illinois Commerce II, which they say requires a cost-
+benefit analysis to quantify project benefits. It does not. The
+Seventh Circuit discussed cost-benefit analysis at length, but
+its holding was narrower. The court set aside the postage-
+stamp method because, in treating all benefits as regional, it
+was “guaranteed to overcharge the western utilities” and to
+produce a “grossly disproportionate” cost allocation. 756 F.3d
+at 561, 564–65. As we later explained, the Illinois Commerce
+decisions hold that a postage-stamp regime goes “too far” in
+                               14
+weighing regional benefits over local ones, but “nothing in
+those decisions casts doubt on” FERC’s view that high-voltage
+projects have substantial regionwide benefits. Old Dominion,
+898 F.3d at 1261. And given that view, FERC had at least “an
+articulable and plausible reason to believe” that a hybrid, 50:50
+formula would make project costs “at least roughly
+commensurate with” project benefits—which is good enough
+under Illinois Commerce II. See 756 F.3d at 562 (cleaned up).
+
+     Second, LIPA and Linden contend that FERC could not
+approve the going-forward formula simply because it matches
+the one used for new high-voltage projects. Instead, they
+contend, the Commission had to separately consider the
+formula as applied to each Vintage Project. But while FERC
+may create different rules for different kinds of projects, see
+Pub. Serv. Elec. & Gas Co. v. FERC, 989 F.3d 10, 18 (D.C.
+Cir. 2021), “a regulator need not always carve out exceptions
+for arguably distinct subcategories of projects,” Old Dominion,
+898 F.3d at 1262. Nor must a regulator always consider cost-
+allocation rules on a project-by-project basis, which would
+unravel the framework of ex ante tariffs established by Order
+No. 1000 and approved by this Court. S.C. Pub. Serv. Auth. v.
+FERC, 762 F.3d 41, 82–83 (D.C. Cir. 2014). Instead, FERC
+must ensure only that there is “some resemblance” between
+costs and benefits. Pub. Serv. Elec. & Gas Co., 989 F.3d at 13–
+14. And without evidence that the Vintage Projects are
+different from other high-voltage transmission facilities within
+PJM, the Commission could reasonably extend to the Vintage
+Projects the previously approved, unchallenged formula that
+now generally governs newer projects. 2
+
+
+    2
+        Linden has filed a separate challenge to that formula as
+applied to two of the newer projects. Consol. Edison Co. v. FERC,
+No. 15-1183 (D.C. Cir. filed June 25, 2015). We express no view on
+the merits of that case.
+                               15
+     Third, LIPA and Linden contend that the Settlement Order
+failed to explain what they characterize as a departure from the
+decision to make the Compliance Order purely prospective.
+The Compliance Order applied to projects approved after
+January 2013, and it stated that “administrative complications
+created by implementing the hybrid method should be limited,
+since this method will apply on a prospective basis only.” 142
+FERC ¶ 61,214, P 433. But the order did not disfavor any
+further applications of the same formula. Instead, it stressed
+that the Order No. 1000 compliance process remained ongoing,
+and the governing formulas remained subject to change. Id. PP
+431–32. So there was no inconsistency when FERC, after five
+years of experience with the hybrid formula, allowed the
+parties to extend it to the Vintage Projects. See Settlement
+Order, 163 FERC ¶ 61,168, P 39. Nor was there any lack of
+explanation on this point. As FERC later noted, the
+Compliance Order’s “prospective application” did “not
+preclude the parties and the Commission from using a just and
+reasonable cost method in a settlement to resolve a remanded
+proceeding.” Rehearing Order, 169 FERC ¶ 61,238, P 46.
+
+     Fourth, LIPA and Linden contend that the Settlement
+Order impermissibly departed from the 2012 Remand Order,
+which rejected the violation method “as the sole basis for
+allocating costs” of high-voltage projects. 138 FERC ¶ 61,230,
+P 37. That decision reasoned that the violation method does
+not account for either (1) the specific benefits that utilities
+receive from using the facilities over time or (2) the facilities’
+regionwide benefits. Id. PP 37–47. In approving the
+settlement, FERC reasonably addressed both points. As it
+explained, accounting for ongoing usage over time is
+impossible for cancelled projects, and the postage-stamp
+component of the hybrid formula adequately accounts for
+regionwide benefits. Settlement Order, 163 FERC ¶ 61,168, P
+45; Rehearing Order, 169 FERC ¶ 61,238, P 54.
+                              16
+     Finally, LIPA and Linden contend that FERC prevented
+them from contesting the settlement in a live hearing. But
+FERC has discretion to resolve disputed issues on a written
+record. Minisink Residents for Envt’l Pres. & Safety v. FERC,
+762 F.3d 97, 114 (D.C. Cir. 2014). Here, the Commission
+relied on the extensive written records compiled in this
+proceeding and in the Order No. 1000 compliance proceeding.
+Moreover, LIPA and Linden had ample opportunity to object
+through written submissions, which they did in nearly 20
+filings including five expert affidavits. FERC did not abuse its
+discretion in approving the settlement on a written record.
+
+                              III
+
+    Linden further contends that, under the settlement, it need
+not make any of the payments set forth in the historical
+formula. We agree.
+
+     The historical formula imposes monthly Transmission
+Enhancement Charge adjustments (TEC adjustments)
+beginning in January 2016 and continuing through December
+2025. The “[e]ffective [d]ate” of these TEC adjustments is
+January 1, 2016. J.A. 100. For merchant transmission
+facilities, the TEC adjustments are based on “Firm
+Transmission Withdrawal Rights,” which are guaranteed rights
+to transmit electricity. PJM Tariff, sched. 12(b)(x)(B)(2).
+Linden surrendered its withdrawal rights on January 1, 2018,
+almost five months before FERC approved the settlement. The
+parties agree that Linden thus need not pay TEC adjustments
+for 2018 to 2025. They disagree over whether Linden must pay
+TEC adjustments for 2016 and 2017.
+
+     Section 4(c) of schedule 12-C of the PJM tariff imposes
+the TEC adjustments. Section 4(c)(i)(2) provides the following
+“adjustment” to the adjustments:
+                              17
+    If all Responsible Customers in a Zone or Merchant
+    Transmission Facility are no longer subject to
+    Transmission Enhancement Charges under the PJM
+    Tariff during the period in which Transmission
+    Enhancement Charge Adjustments are collected, then,
+    during the portion of that period that such Responsible
+    Customers are not subject to Transmission
+    Enhancement Charges, the payments from or credits
+    to such Responsible Customers shall cease .…
+
+J.A. 101–02. Linden is the only responsible customer in its
+merchant facility. According to Linden, the “period in which
+[TEC] Adjustments are collected” began when FERC approved
+the settlement, because PJM did not and could not collect any
+payments before then. Therefore, Linden reasons, it was “no
+longer subject to” TEC adjustments during any of that period,
+and so its “payments … shall cease.” FERC responds that TEC
+adjustments began to accrue—and thus were “collected”—as
+soon as the settlement became effective in January 2016. In
+resolving this dispute over tariff interpretation, we must
+enforce unambiguous tariff language, but defer to FERC’s
+reasonable interpretation of ambiguous text. Colo. Interstate
+Gas Co. v. FERC, 599 F.3d 698, 701 (D.C. Cir. 2010).
+
+     The plain meaning of “collected” unambiguously supports
+Linden.      Section 4(c)(i)(2) concerns the collection of
+“adjustments”—i.e., financial liabilities for which payment can
+be obtained. In that context, “collect” means “[t]o call for and
+obtain payment of.” Collect, American Heritage Dictionary
+(5th ed. 2018); accord Collect, Oxford English Dictionary (2d
+ed. 1989) (“[t]o gather (contributions of money, or money due,
+as taxes, etc.) from a number of people”). FERC has not
+identified a single example, in a dictionary or otherwise, where
+“collect” means to accrue liability. Nor have we found any.
+                              18
+This strongly suggests that “collect” simply cannot bear that
+meaning. See DHS v. MacLean, 574 U.S. 383, 394 (2015).
+
+     Context confirms that “collect” here means collect. As
+FERC notes, schedule 12-C imposes liability for TEC
+adjustments beginning on its “[e]ffective [d]ate” of January 1,
+2016. PJM Tariff, sched. 12-C §§ 2–3. But schedule 12-C also
+plainly distinguishes the concepts of accrual and collection.
+For although it imposes liability beginning on the effective
+date, it permits collection only after an “implementation date”
+defined as “the date of a FERC order … authorizing PJM to
+begin collecting” TEC adjustments. Id. § 3 (emphasis added).
+
+     Schedule 12-C’s procedures underscore this distinction.
+During the interim period between the effective and
+implementation dates, PJM had to “track and accumulate the
+differences between” what it was collecting under the existing
+rate and what the settlement would require if FERC approved
+it. PJM Tariff, sched. 12-C § 3. After the implementation date,
+PJM would issue “credits or charges” that equaled “the
+aggregate of such differences.” Id. Schedule 12-C thus
+recognizes that utilities began accruing liability as of the
+settlement’s effective date, but that PJM would not “begin
+collecting” until FERC approved the settlement.
+
+     FERC contends that the settlement agreement, which
+states that “PJM shall collect” adjustments “[e]ffective as of
+January 1, 2016,” J.A. 86–88, shows that collection began as
+of then. But this language was not incorporated into PJM’s
+tariff, and it is flatly inconsistent with the tariff provisions
+expressly linking collection to the implementation date rather
+than the effective date. Because the tariff is unambiguous on
+this point, it is controlling. See Colo. Interstate, 599 F.3d at
+701.
+                              19
+                              IV
+
+     Linden asks us to vacate FERC’s order holding it liable for
+TEC adjustments. Vacatur is the normal remedy under the
+APA, which provides that a reviewing court “shall … set aside”
+unlawful agency action. 5 U.S.C. § 706(2). Nonetheless, we
+have held that remand without vacatur is sometimes
+appropriate, depending on the seriousness of the agency error
+and the disruptive consequences of vacatur. See Allied-Signal,
+Inc. v. NRC, 988 F.2d 146, 150–51 (D.C. Cir. 1993).
+
+     For the legal error identified above, vacatur is clearly
+warranted. The “seriousness” of agency error turns in large
+part on “how likely it is the agency will be able to justify its
+decision on remand.” Heartland Reg’l Med. Ctr. v. Sebelius,
+566 F.3d 193, 197 (D.C. Cir. 2009) (cleaned up). And
+disruptive consequences matter “only insofar as the agency
+may be able to rehabilitate its rationale.” Comcast Corp. v.
+FCC, 579 F.3d 1, 9 (D.C. Cir. 2009). Here, because the
+controlling tariff provision is unambiguous, FERC cannot
+rehabilitate its preferred interpretation on remand.
+
+     The intervenors contend that a remand without vacatur
+would have been warranted had we set aside the entire
+settlement on the ground that FERC’s approval was
+inadequately reasoned. Having upheld the settlement, we need
+not consider that argument. We note only that the concerns
+raised by the intervenors, positing a highly disruptive judicial
+intervention based on a likely curable agency error, have no
+application to the narrow legal error that we have identified.
+
+                               V
+
+   For these reasons, we set aside FERC’s ruling that Linden
+must pay TEC adjustments, and we remand for any further
+                             20
+proceedings that may be necessary to implement this ruling. In
+all other respects, we deny the petitions for review.
+
+                                                  So ordered.
+

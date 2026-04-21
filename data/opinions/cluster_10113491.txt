@@ -1,0 +1,1418 @@
+                                RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 24a0215p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                  FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ CHAMBER OF COMMERCE OF THE UNITED STATES;
+                                                             │
+ BUSINESS ROUNDTABLE; TENNESSEE CHAMBER OF
+                                                             │
+ COMMERCE AND INDUSTRY,
+                                                             │
+                          Plaintiffs-Appellants,             │
+                                                              >        No. 23-5409
+                                                             │
+        v.                                                   │
+                                                             │
+ SECURITIES AND EXCHANGE COMMISSION; GARY                    │
+ GENSLER, in his official capacity as Chairman of the        │
+ Securities and Exchange Commission,                         │
+                                Defendants-Appellees.        │
+                                                             ┘
+
+ Appeal from the United States District Court for the Middle District of Tennessee at Nashville.
+                  No. 3:22-cv-00561—Aleta Arthur Trauger, District Judge.
+
+                                   Argued: October 26, 2023
+
+                            Decided and Filed: September 10, 2024
+
+                    Before: GIBBONS, BUSH, and DAVIS, Circuit Judges.
+
+                                      _________________
+
+                                            COUNSEL
+
+ARGUED: Jeffrey B. Wall, SULLIVAN & CROMWELL LLP, Washington, D.C., for
+Appellants. Daniel E. Matro, SECURITIES AND EXCHANGE COMMISSION, Washington,
+D.C., for Appellees. ON BRIEF: Jeffrey B. Wall, Elizabeth A. Rose, Leslie B. Arffa,
+Stephanie M. Kelly, SULLIVAN & CROMWELL LLP, Washington, D.C., Matthew A.
+Schwartz, SULLIVAN & CROMWELL LLP, New York, New York, for Appellants. Daniel E.
+Matro, SECURITIES AND EXCHANGE COMMISSION, Washington, D.C., for Appellees.
+Donald B. Verrilli, Jr., Elaine J. Goldenberg, MUNGER, TOLLES & OLSON LLP, Washington,
+D.C., Virginia Grace Davis, MUNGER, TOLLES & OLSON LLP, San Francisco, California,
+Christopher A. Bates, OFFICE OF THE UTAH ATTORNEY GENERAL, Salt Lake City, Utah,
+Paul W. Hughes, MCDERMOTT WILL & EMERY LLP, Washington, D.C., Jonathan F. Cohn,
+LEHOTSKY KELLER COHN LLP, Washington, D.C., for Amici Curiae.
+ No. 23-5409            Chamber of Com. of the United States v. SEC                       Page 2
+
+
+         GIBBONS, J., delivered the opinion of the court in which DAVIS, J., concurred. BUSH,
+J. (pp. 23–41), delivered a separate dissenting opinion.
+
+                                      _________________
+
+                                           OPINION
+                                      _________________
+
+       JULIA SMITH GIBBONS, Circuit Judge. The United States Chamber of Commerce,
+Business Roundtable, and the Tennessee Chamber of Commerce and Industry sued the Securities
+and Exchange Commission and its Chairman, alleging that the Commission’s partial rescission
+of a prior regulation failed to meet the procedural and substantive demands of the Administrative
+Procedure Act. The district court granted summary judgment to the Commission, and we affirm.
+
+                                                I.
+
+                                               A.
+
+       Under state law, shareholders of public companies enjoy the right to vote their shares at
+annual shareholder meetings on a variety of corporate governance issues, including the election
+of board members, the approval or disapproval of proposed mergers and acquisitions, and the
+implementation of environmental-, social-, and governance-related initiatives. In recent years,
+this theoretically simple process has grown increasingly complex. The range of issues subject to
+shareholder approval has expanded, and in turn, the range of issues on which shareholders must
+educate themselves has grown in equal measure. Further complicating matters, institutional
+investors like broker-dealers and mutual funds have amassed an increasingly large share of the
+market for publicly traded companies. Because these institutional investors today hold millions
+of shares in scores of companies, they must cast votes at “potentially hundreds, if not thousands,
+of shareholder meetings and on thousands of proposals that are presented at these meetings each
+year.” Amendments to Exemptions From the Proxy Rules for Proxy Voting Advice (“2019
+Proposed Rule”), 84 Fed. Reg. 66518, 66519 (Dec. 4, 2019). To make matters even more
+difficult, most of these votes are condensed into an approximately three-month period from mid-
+March to early June each year. Concept Release on the U.S. Proxy System (“2010 Concept
+Release”), 75 Fed. Reg. 42982, 43009 (July 22, 2010).         During that interval, institutional
+ No. 23-5409            Chamber of Com. of the United States v. SEC                       Page 3
+
+
+investors must organize voting materials, study their portfolio companies and the proposals
+slated for a vote, catalogue the many votes they need to cast, and ultimately submit votes for
+counting.
+
+       One partial solution to these complexities is the widespread use of proxy voting, under
+which shareholders forgo attending annual company meetings in person and instead participate
+and vote through proxies. Exemptions From the Proxy Rules for Proxy Voting Advice (“2020
+Rule”), 85 Fed. Reg. 55082, 55082 (Sept. 3, 2020). Under this “proxy voting” system, state law
+authorizes shareholders to appoint a third party (a “proxy”) who is empowered to vote their
+shares on their behalf at shareholder meetings. The major national securities exchanges like the
+New York Stock Exchange and the Nasdaq facilitate proxy voting by “generally requir[ing] their
+listed companies to solicit proxies for all meetings of shareholders.” 2010 Concept Release, 75
+Fed. Reg. at 42,984. And given what is now near-ubiquitous use of proxy voting, the proxy
+solicitation process has “become the forum for shareholder suffrage.” Roosevelt v. E.I. Du Pont
+de Nemours & Co., 958 F.2d 416, 422 (D.C. Cir. 1992) (emphasis added) (quoting Proposed
+Amendments to Rule 14a–8, Exchange Act Release No. 19135, 47 Fed. Reg. 47420, 47420–21
+(Oct. 26, 1982)).
+
+       Yet proxy voting is not a panacea, and many of the logistical and substantive challenges
+of voting at shareholder meetings remain. So Proxy Voting Advice Businesses, or PVABs, the
+focus of the instant litigation, play a role in the process. PVABs help institutional investors by
+“manag[ing] their substantive and procedural proxy voting needs,” primarily through the voting
+recommendations that they curate and sell. 2020 Rule, 85 Fed. Reg. at 55083. Substantively,
+PVAB voting recommendations assist institutional investors by substituting for the research and
+analysis that investors would otherwise be required to undertake themselves when voting on
+thousands of shareholder proposals. Procedurally, PVABs take their voting recommendations a
+step further by offering to “[a]ssist[] with the administrative tasks associated with voting,”
+including casting their clients’ votes on their behalf (like ordinary proxies) and, if desired,
+automatically casting votes aligned with PVAB recommendations. Id. at 55,123.
+ No. 23-5409                Chamber of Com. of the United States v. SEC                                 Page 4
+
+
+        The influence of PVAB recommendations in the proxy solicitation process is
+considerable.1 Yet the rise of PVABs itself presents challenges for the proxy voting system:
+first, PVABs’ relationships with public companies and investors often create conflicts of interest.
+Second, PVABs’ advice sometimes contains inaccurate information, although the prevalence of
+errors is disputed. Companies that identify an inaccuracy or mischaracterization in PVAB advice
+have little time to notify investors during the weeks between investors’ receipt of the
+recommendation and the shareholder meeting.
+
+        These difficulties intersect with the Commission’s regulatory ambit because proxy voting
+advice is considered a form of “proxy solicitation” subject to regulation under the Exchange Act
+of 1934. Section 14(a) of the Exchange Act delegates the regulation of proxy solicitations to the
+SEC and provides that it is “unlawful for any person . . . in contravention of such rules and
+regulations as the Commission may prescribe as necessary or appropriate in the public interest or
+for the protection of investors to solicit any proxy . . . in respect of any [registered] security.”
+15 U.S.C. § 78n(a)(1) (2022). The Commission in turn imposes procedural and substantive
+requirements on proxy solicitors by requiring certain public disclosures and prohibiting false
+statements or omissions in proxy statements.                17 C.F.R. § 240.14a-3–15, 14a-19 (2022).
+Because the SEC has informally recognized that PVAB advice constitutes a “solicitation” under
+the Exchange Act, the advice is governed by Rule 14a-9’s prohibition of false and misleading
+statements. However, PVABs have historically avoided Rule 14’s procedural and substantive
+requirements by qualifying for an exemption under Rule 14a-2(b)(1) or (b)(3).
+
+        Over the course of the 2010s, the SEC undertook a “comprehensive review of the proxy
+voting infrastructure.” Mary L. Schapiro, Speech by SEC Chairman: Opening Statement at the
+SEC Open Meeting (July 14, 2010), https://www.sec.gov/news/speech/2010/spch071410mls.htm.
+In 2010, the Commission issued a concept release seeking public comment about “the role and
+legal status of proxy advisory firms within the U.S. proxy system”; in 2013 and 2018, the
+
+        1
+           Additionally, the PVAB market is unique in that there are only two dominant firms in the United States.
+Institutional Shareholder Services and Glass Lewis & Co. together control approximately 97% of the market. The
+concentration of the PVAB market in these two firms significantly influences corporate decision-making: for
+example, in a study of “175 asset managers with more than $5 trillion in assets under management,” managers
+“historically voted with ISS on both management and shareholder proposals more than 95% of the time.” DE 35-5,
+Rose & Walker Comment on Proposed Proxy Voting Advice Amendments, Page ID 405 n.16.
+ No. 23-5409            Chamber of Com. of the United States v. SEC                       Page 5
+
+
+Commission hosted roundtables to discuss the role of PVABs in 2013 and 2018; and in 2014, the
+Commission issued a legal bulletin clarifying how PVABs may qualify for exemptions under
+Rule 14a2(b). Commission Interpretation and Guidance Regarding the Applicability of the
+Proxy Rules to Proxy Voting Advice, 84 Fed. Reg. 47416-01, 47416 (Sept. 10, 2019).
+
+       In December 2019, the SEC released a Notice of Proposed Rulemaking amending the
+application of the proxy rules to PVABs. The SEC explained that the regulation would “enhance
+the accuracy, transparency of process, and material completeness of the information provided to
+clients of [PVABs] . . . [and would] enhance disclosures of conflicts of interest that may
+materially affect [PVAB] voting advice.” 2019 Proposed Rule, 84 Fed. Reg. at 66,520. Notice
+of the proposed rules was published to the Federal Register on December 4, 2019, and the SEC
+provided 60 days for public comment. The SEC received 650 comments on the proposed
+regulation, and Commission staff held 84 meetings with interested parties.
+
+       By a three-to-one vote, the SEC adopted an amended version of its proposed regulation in
+September 2020, with the effect of implementing the Rule’s three key provisions. First, the 2020
+Rule codified the SEC’s informal view that PVAB advice constitutes a “solicitation” under
+Section 14(a) of the Exchange Act. Second, the Rule provided two conditions that PVABs must
+meet to gain exemption from Rule 14a’s filing and information requirements. Under the first
+condition, PVABs had to “include in their voting advice to clients [certain] conflicts of interest
+disclosure[s]” (the “Conflict-disclosure Condition”). 2020 Rule, 85 Fed. Reg. at 55,098. Under
+the other condition, PVABs were required to “adopt policies and procedures reasonably
+designed” to notify companies of their advice “at or prior to the time when such advice is
+disseminated to [PVAB] clients,” and to “provide clients with a mechanism by which they can
+reasonably be expected to become aware of any written response” by a company (the “Notice-
+and-Awareness Conditions). Id. at 55,117. Finally, the 2020 Rule added an explanatory note
+(Note (e)) to Rule 14a-9, which provided examples of material misstatements that were
+prohibited under Rule 14a-9. Id. at 55,155.
+
+       The SEC acknowledged that compliance with the 2020 Rule would burden PVABs.
+However, the Commission concluded that any burdens of the regulation were outweighed by its
+benefits, emphasizing that the Notice-and-Awareness Conditions would increase transparency
+ No. 23-5409              Chamber of Com. of the United States v. SEC                  Page 6
+
+
+and “facilitate[e] the ability of clients of [PVABs] to make informed voting determinations,”
+which would “ultimately lead to improved investment outcomes.” Id. at 55,142. The 2020 Rule
+also reflected certain changes made in response to commenter concerns. In the 2019 Proposed
+Rule, the Commission had initially considered requiring PVABs to share voting advice with
+companies before sending it to their clients, so that companies could have “time to review and
+provide feedback on the advice” (the “Pre-Dissemination Requirement”). 2019 Proposed Rule,
+84 Fed. Reg. at 66,531. Several commenters opposed that requirement because sharing proposed
+recommendations with companies prematurely could compromise PVAB independence and
+cause delays. Based on that feedback, the SEC amended the Notice-and-Awareness Conditions
+to require that PVABs notify companies at the same time they provide advice to their clients.
+Additionally, recognizing that “the burden [on PVABs] would be greatest in the first year after
+adoption,” the Commission proposed delaying enforcement of the rule until December 1, 2021.
+Id. at 66,554.
+
+       After an administration change, Gary Gensler assumed the office of SEC Chair in April
+2021. On June 1, 2021, Chair Gensler issued a statement directing the Commission to “revisit”
+the 2020 Rule, and the Commission’s Division of Corporate Finance announced on the same day
+that it would “not recommend enforcement action based on [the 2020 Rule while] . . . the
+Commission is considering further regulatory action in this area.” SEC Division of Corporation
+Finance, Statement on Compliance with the Commission’s 2019 Interpretation and Guidance
+Regarding the Applicability of the Proxy Rules to Proxy Voting Advice and Amended Rules 14a-
+1(1), 14a-2(b), 14a-9 (June 1, 2021), https://www.sec.gov/news/public-statement/corp-fin-proxy-
+rules-2021-06-01. On June 11, 2021, Chair Gensler held a closed-door meeting with several
+groups who “expressed concerns about the costs associated” with the regulation. Proxy Voting
+Advice (“2021 Proposed Rescission”), 86 Fed. Reg. 67383, 67386 (Nov. 26, 2021).
+
+       On November 17, 2021, the SEC proposed amending the 2020 Rules by (1) removing the
+Notice-and Awareness-Conditions and (2) removing explanatory Note (e) to Rule 14a-9. The
+Commission also proposed rescinding supplemental guidance that clarified application of the
+2020 Rule.       The Commission explained that the revisions did “not represent a wholesale
+ No. 23-5409             Chamber of Com. of the United States v. SEC                       Page 7
+
+
+reversal” of the 2020 Rule, but instead were “tailored adjustments” responding to concerns about
+the prior regulation. Id. at 67384.
+
+       Notice of the 2021 Proposed Rescission was published in the Federal Register on
+November 26, 2021, and the deadline to submit comments was 30 days later, December 27,
+2021. Several interested parties, including the CEO of the American Securities Association,
+Senator Pat Toomey, and Congressman Patrick McHenry expressed concerns about the brief
+comment period and requested that the Commission extend the deadline. Their requests were
+denied. Ultimately, the Commission received 61 comments on the proposed 2022 Rescission
+and held three meetings with interested parties.
+
+       The SEC adopted the amendments to the 2020 Rule, as proposed, on July 13, 2022, by a
+3-2 vote.   In the accompanying release, the Commission stated that it had “revisited [its]
+analysis” in the 2020 Rule and was “now striking a different and improved policy balance.”
+Proxy Voting Advice (“2022 Rescission”), 87 Fed. Reg. 43168, 43170 (July 19, 2022). The
+Commission explained that it removed the Notice-and-Awareness Conditions because they
+“d[id] not sufficiently justify the risks they pose to the cost, timeliness, and independence of
+proxy voting advice.” Id. Its decision was made, in part, due to comments from PVAB clients
+who were concerned about the impact of the conditions. The Commission further reasoned that
+the conditions were largely unnecessary in light of voluntary PVAB practices that “provid[e]
+PVAB clients with some of the benefits that those conditions were expected to produce while
+avoiding the potentially significant associated costs.” Id. It discounted concerns that rescinding
+the conditions would prevent PVAB clients from discovering inaccuracies in proxy advice,
+noting that it was not convinced that errors in PVAB advice “establish[ed] the necessity” of the
+conditions. Id. at 43,176
+
+       The SEC also discussed the estimated burdens and benefits of the 2022 Rescission. The
+Commission relied on the estimated compliance burdens presented in the 2020 Rule and
+concluded that the 2022 Rescission would, “at a minimum, eliminate these estimated PRA
+burdens, which took into consideration that some PVABs may have systems and practices in
+place that could substantially mitigate any overall burden increases.” Id. at 43,186. Similarly, it
+cited the estimated paperwork burdens resulting from the 2020 Rule and predicted that the partial
+ No. 23-5409            Chamber of Com. of the United States v. SEC                      Page 8
+
+
+rescission would cause those burdens to “decrease . . . by the same amount.” Id. at 43192. It
+acknowledged, however, that at bottom it was “unable to quantify the full range of PVABs’ costs
+resulting from the [2020 Rule], which would vary depending on each PVAB’s current practices
+and how they implement the new conditions.” Id. at 43,186.
+
+       The Commission recognized that rescinding the Notice-and-Awareness Conditions would
+burden companies “by potentially reducing the overall mix of information available to [PVAB]
+clients as they assess proxy voting advice and make determinations about how to cast their
+votes.” Id. at 43,187. It acknowledged that any costs “may be mitigated, however, by the
+practices and standards that PVABs have voluntarily adopted.” Id.
+
+                                               B.
+
+       The United States Chamber of Commerce, Business Roundtable, and the Tennessee
+Chamber of Commerce and Industry (collectively, the “plaintiffs”) filed this action in July 2022.
+They claim that the Commission violated the APA’s procedural and substantive requirements
+when it adopted the 2022 Rescission. Relevant to this appeal, the plaintiffs allege that the SEC
+violated the APA’s procedural demands when it allowed only 31 days for public comment on the
+2022 Rescission. Their remaining counts on appeal allege that the Commission’s reasoning for
+the 2022 Rescission was substantively deficient in two respects—namely, (1) that its explanation
+for the rule was arbitrary and capricious and (2) that it failed to analyze the rule’s economic
+consequences, in violation of the Exchange Act.
+
+       On cross-motions for summary judgment, the district court granted summary judgment to
+the defendants. The district court explained that even if the shortened comment period was
+“somewhat troubling,” it was nonetheless legally permissible under the APA and Supreme Court
+precedent. Chamber of Com. v. SEC, 670 F. Supp. 3d 537, 552 (M.D. Tenn. 2023). The court
+also held that the Commission’s decision to rescind the Notice-and-Awareness Conditions was
+not arbitrary and capricious. It determined that the APA did not require the Commission to
+provide an analysis of similar length to its 2020 analysis, and that the Commission reasonably
+explained its change in policy by identifying that the benefits of the Notice-and-Awareness
+Conditions were outweighed by their costs. Finally, the district court rejected the plaintiffs’
+ No. 23-5409             Chamber of Com. of the United States v. SEC                        Page 9
+
+
+Exchange Act claim, finding that the Commission adequately compared the benefits of the
+Notice-and-Awareness Conditions to its compliance burdens. Plaintiffs timely appealed.
+
+                                                II.
+
+         When a district court grants summary judgment and upholds agency action under the
+APA, we review its decision de novo. City of Cleveland v. Ohio, 508 F.3d 827, 838 (6th Cir.
+2007).    The APA instructs that this court must set aside agency action if it is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in accordance with law[.]”           5 U.S.C.
+§ 706(2)(A). Under this “deferential” standard, “[a] court simply ensures that the agency . . . has
+reasonably considered the relevant issues and reasonably explained the decision.”           FCC v.
+Prometheus Radio Project, 592 U.S. 414, 423 (2021). “Even when an agency explains its
+decision with less than ideal clarity, a reviewing court will not upset the decision on that account
+if the agency’s path may reasonably be discerned.” Oakbrook Land Holdings, LLC v. Comm’r,
+28 F.4th 700, 720 (6th Cir. 2022) (quotation omitted). Part and parcel to this review is ensuring
+that the agency complied with the APA’s procedural requirements. See Chrysler Corp. v.
+Brown, 441 U.S. 281, 313 (1979). So, if an agency acted “without observance of procedure
+required by law,” its action must also be set aside. 5 U.S.C. § 706(2)(D).
+
+                                                A.
+
+         We begin with the substantive element of the 2022 Rescission, which the plaintiffs
+contend was arbitrary and capricious (because it represented an unexplained about-face from the
+Commission’s 2020 Rule) and not in accordance with law (because it failed to adequately assess
+economic costs and benefits as required under the Exchange Act).
+
+                                                 1.
+
+         The APA provides that courts should set aside any agency decision that is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in accordance with law.”             5 U.S.C.
+§ 706(2)(A). Under this standard, the agency is required to “examine the relevant data and
+articulate a satisfactory explanation for its action including a rational connection between the
+facts found and the choice made.” Motor Vehicle Mfrs. Ass’n of U.S., Inc., v. State Farm Mut.
+ No. 23-5409             Chamber of Com. of the United States v. SEC                      Page 10
+
+
+Auto Ins. Co., 463 U.S. 29, 43 (1983) (internal quotation omitted). A court evaluating the
+substance of an agency action may not “substitute its judgment for that of the agency,”
+Department of Homeland Security v. Regents of the University of California, 591 U.S. 1, 16
+(2020) (quotation omitted), and it should vacate a challenged regulation only if it “had no
+rational basis or . . . it involved a clear and prejudicial violation of applicable statutes or
+regulations.” McDonald Welding v. Webb, 829 F.2d 593, 595 (6th Cir. 1987).
+
+       In FCC v. Fox Television Stations, Inc., the Supreme Court clarified that the APA “makes
+no distinction . . . between initial agency action and subsequent agency action undoing or
+revising that action.” 556 U.S. 502, 514–15 (2009). For an action representing a policy change
+to survive arbitrary-and-capricious review, the agency need not demonstrate that “the reasons for
+the new policy are better than the reasons for the old one.” Id. at 515. Instead, the agency must
+show that “that the new policy is permissible under the statute, that there are good reasons for it,
+and that the agency believes it to be better, which the conscious change of course adequately
+indicates.” Id. The agency must also “display awareness that it is changing position.” Id.
+
+       The 2022 Rescission satisfied Fox’s requirements. The Commission candidly recognized
+that the 2022 Rescission constituted a shift from the approach it had taken in 2020. And it
+acknowledged that although the SEC had previously found that the benefits of the 2020 Rule
+outweighed its costs, it now “weigh[ed] these competing concerns differently.” 2022 Rescission,
+87 Fed. Reg. at 43175. The Commission also identified “good reasons” for the change in
+position. Fox, 556 U.S. at 515. It stated that it reconsidered its prior rulemaking due to PVAB
+clients’ concerns that the Notice-and-Awareness Conditions “would have adverse effects on the
+cost, timeliness, and independence of proxy voting advice.” 2022 Rescission, 87 Fed. Reg. at
+43,169. The Commission further noted that it was no longer convinced that the prevalence of
+errors in proxy voting advice justified the Notice-and-Awareness Conditions, but that to the
+extent there were errors, rescinding the Conditions would not affect companies’ ability to
+“identify [] issues and respond [to proxy voting advice] using pre-existing mechanisms.” Id. at
+43,176. Finally, the Commission fully explained why it believed that rescinding the Notice-and-
+Awareness Conditions would ameliorate burdens on PVABs without negatively impacting the
+quality of proxy advice or efficiency of the proxy system.           Its thoughtful and thorough
+ No. 23-5409              Chamber of Com. of the United States v. SEC                   Page 11
+
+
+explanation of these considerations was “hardly arbitrary and capricious.” Nat’l Ass’n of Home
+Builders v. EPA, 682 F.3d 1032, 1038–39 (D.C. Cir. 2012) (finding the repeal of a regulation
+was not arbitrary and capricious where the agency explained that the prior rule “did not
+sufficiently account for” countervailing factors and that the amended rule “promotes, to a greater
+extent, [its] statutory directive” (cleaned up)).
+
+        Nothing the plaintiffs assert changes this analysis.      The Commission did not act
+arbitrarily merely because the 2022 Rescission immediately followed a change in administration.
+As the Supreme Court has recognized, an agency may rescind a prior rule based solely on a
+change in the agency’s policy preferences, so long as the change is reasonably explained. See
+State Farm, 463 U.S. at 43. Nor did the Commission err by relying on the same set of facts that
+gave rise to the 2020 Rule. Indeed, administrative agencies are free to reevaluate old facts to
+reach new policy conclusions. See Nat’l Ass’n of Home Builders, 682 F.3d at 1038 (recognizing
+that “Fox makes clear that this kind of reevaluation is well within an agency’s discretion”); see
+also Organized Vill. of Kake v. USDA, 795 F.3d 956, 968–69 (9th Cir. 2015) (acknowledging
+that the agency “was entitled in 2003 to give more weight to socioeconomic concerns than it had
+in 2001, even on precisely the same record”). Accordingly, the SEC’s reliance on “precisely the
+same record” was not arbitrary or capricious, particularly given that it explained why its
+reevaluation of the competing factors was more effective in 2022 than it had been in 2020. See
+Organized Vill., 795 F.3d at 968–69.
+
+        That the 2022 Rescission did not equal the 2020 Rule in length is a similarly deficient
+reason to declare the 2022 regulation arbitrary and capricious. See Fox, 556 U.S. at 514 (noting
+that the Court has “neither held nor implied that every agency action representing a policy
+change must be justified by reasons more substantial than those required to adopt a policy in the
+first instance”). As the district court correctly observed, the Commission was not writing on a
+blank slate when issuing the 2022 Rescission. It had discussed the same factual and regulatory
+background when promulgating the 2020 Rule, it is indeed “unremarkable that [the 2022
+Rescission] would, therefore, include significantly less background discussion.” Chamber of
+Com., 670 F. Supp. 3d at 554. In fact, page length is itself an entirely arbitrary metric by which
+to judge the quality of an agency rule, and the Supreme Court has wisely instructed that we
+ No. 23-5409             Chamber of Com. of the United States v. SEC                      Page 12
+
+
+should instead focus on whether we can “reasonably . . . discern[]” the Commission’s logical
+path. Bowman Transp., Inc. v. Ark.–Best Freight Sys., Inc., 419 U.S. 281, 286 (1974); see also
+Encino v. Motorcars, LLC v. Navarro, 579 U.S. 211, 221 (2016) (finding that a policy change
+was arbitrary and capricious where the agency provided only “conclusory statements” and “gave
+almost no reasons at all” for the change). Because we can do so here, the Rescission’s word
+count is of no moment in our analysis.
+
+       Finally, although Fox requires that an agency provide a more detailed explanation for
+decisions that either threaten the “serious reliance interests” generated by a prior policy or
+“disregard” the “facts and circumstances” supporting an earlier regulation, neither of these
+concerns are at play in this case. 556 U.S. at 516. The 2020 Rule did not engender serious
+reliance interests because the regulation had not gone into effect at the time Chair Gensler halted
+enforcement of the regulation in 2021. And the SEC was not required to provide a more
+thorough explanation of the facts supporting the 2022 Rescission because the Commission did
+not alter or disregard the factual findings underlying the 2020 Rule.
+
+       The district court thought otherwise, finding that the Commission in fact changed its
+“understanding of the relevant factual circumstances” when it rebalanced the “various costs and
+benefits” of the 2020 Rule. Chamber of Com., 670 F. Supp. 3d at 557. But this finding
+misunderstands the nature of the Commission’s 2022 Rescission.            As several courts have
+recognized, an agency may “reevaluat[e]” its position with respect to the weight it assigns to
+countervailing facts without making new factual findings, see, e.g., Nat’l Ass’n of Home
+Builders, 682 F.3d at 1038, and that is precisely what occurred here. The Commission struck a
+balance between regulatory burdens and benefits when it promulgated the 2020 Rule, and it
+thought better of that same balance when issuing the 2022 Rescission. See 2022 Rescission, 87
+Fed. Reg. at 43175 (“We weigh these competing concerns differently today . . .”). The APA
+does not authorize us to second-guess that policy choice.
+
+       The plaintiffs’ efforts to paint the Commission’s policy choice as a factual reversal fail to
+persuade. They first argue that the Commission found contradictory facts because the 2022
+Rescission stated that the Notice-and-Awareness Conditions posed a risk of “adverse effects on
+the cost, timeliness, and independence of proxy voting advice,” Id. at 43169, while the 2020 Rule
+ No. 23-5409             Chamber of Com. of the United States v. SEC                     Page 13
+
+
+claimed that those same Conditions “d[id] not create the risk that [proxy voting] advice would be
+delayed or that the independence thereof would be tainted,” 2020 Rule, 85 Fed. Reg. at 55112.
+But this ostensible contradiction in fact arises from selective quotation. Stated in full, the 2020
+Rule found that the Notice-and-Awareness Conditions, as adopted, “d[id] not create the risk that
+[proxy voting] advice would be delayed or that the independence thereof would be tainted as a
+result of a [company’s] pre-dissemination involvement.” Id. (emphasis added). In other words,
+because the final 2020 Rule eliminated the Pre-Dissemination Requirement that the Commission
+had included in its 2019 Proposed Rule, the Commission found that the Pre-Dissemination
+Requirement no longer posed risks to the timeliness and independence of proxy voting advice.
+Id. This finding said nothing about the risks posed by the Notice-and-Awareness Conditions that
+remained in the 2020 Rule, which required PVABs to provide notice to registrants concurrent
+with their dissemination of proxy voting advice.        The plaintiffs’ effort to manufacture a
+contradiction on this issue is misleading at best.
+
+       The plaintiffs also claim that the Commission changed its factual views on “the
+effectiveness of PVAB voluntary practices.” CA6 R. 15, Appellant Br., at 50–52. However, as
+with the prior claim, there is no factual inconsistency between the Commission’s statements in
+2020 and 2022. In the 2020 Rule, the SEC explained that it “d[id] not believe” that PVABs’
+current practices were “alone sufficient” to ensure that companies received proxy advice in a
+timely manner. 2020 Rule, 85 Fed. Reg. at 55108. By contrast, it concluded in 2022 that those
+same voluntary practices would allow for “some of the opportunities and access to information”
+provided by the Notice-and-Awareness Conditions. 2022 Rescission, 87 Fed. Reg. at 43171.
+Those statements are not contradictory factual findings, but differing judgments on the value of
+PVABs’ self-regulation. In 2020, the SEC took the position that voluntary practices were not of
+sufficient value to compensate for the Notice-and-Awareness Conditions; two years later, it
+found that the value of those practices did compensate for the Conditions.            Because the
+Commission’s change of opinion does not amount to a contradictory factual finding, it was not
+required to provide a more thorough explanation under Fox. 556 U.S. at 515.
+
+       In sum, the 2022 Rescission was not arbitrary and capricious because the Commission
+acknowledged that it was changing course, provided good reasons for the change, and explained
+ No. 23-5409              Chamber of Com. of the United States v. SEC                   Page 14
+
+
+why it believed that its new rule struck a “different and improved policy balance.” 2022
+Rescission, 87 Fed. Reg. at 43170. Moreover, the Commission was not required to provide a
+more thorough explanation because the 2022 Rescission did not rest upon factual findings
+contrary to the findings contained in the 2020 Rule.
+
+                                                2.
+
+        Plaintiffs next argue that the 2022 Rescission was adopted in a manner “not in
+accordance with law,” 5 U.S.C. § 706(2)(A), because the SEC failed to adequately analyze the
+economic consequences of the 2022 Rescission as required under the Exchange Act.              See
+15 U.S.C. § 78c(f). We find that this complaint is equally unfounded.
+
+        The Exchange Act provides that “[w]henever . . . the Commission is engaged in
+rulemaking” it has a unique duty to “consider, in addition to the protection of investors, whether
+the action will promote efficiency, competition, and capital formation.” 15 U.S.C. § 78c(f); see
+also Bus. Roundtable v. SEC, 647 F.3d 1144, 1148 (D.C. Cir. 2011) (stating that the Exchange
+Act requires that the SEC “apprise itself — and hence the public and the Congress — of the
+economic consequences of a proposed regulation” (quoting Chamber of Com. v. SEC, 412 F.3d
+133, 144 (D.C. Cir. 2005))). While the Exchange Act does not require that the SEC “base its
+every action upon empirical data,” the Commission must, at a minimum, “determine as best it
+can the economic implications of the rule it has proposed.” Chamber of Com., 412 F.3d at 142;
+see also Pub. Citizen v. Fed. Motor Carrier Safety Admin., 374 F.3d 1209, 1221 (D.C. Cir. 2004)
+(recognizing that the agency must “exercise its expertise to make tough choices about which of
+the competing estimates is most plausible, and to hazard a guess as to which is correct, even
+if . . . the estimate will be imprecise”).
+
+        Here, the Commission adequately estimated the benefits of rescinding the Notice-and-
+Awareness Conditions. It explained that the 2022 Rescission would benefit PVABs by reducing
+the “direct costs associated with modifying their current systems and methods” to comply with
+the Notice-and-Awareness Conditions. 2022 Rescission, 87 Fed. Reg. at 43186. It also noted
+that to the extent increased compliance costs “could be passed on to [PVAB] clients,” rescinding
+the Conditions could also benefit clients by “revers[ing] those increases,” which would lead to
+ No. 23-5409            Chamber of Com. of the United States v. SEC                      Page 15
+
+
+“greater efficiencies in the proxy voting process” and increased demand for PVAB advice. Id. at
+43189. Relying on its prior analysis, the Commission reasonably explained how the benefits of
+rescinding the Notice-and-Awareness Conditions would affect efficiency and competition in the
+market. That reasonable explanation was sufficient for purposes of the Exchange Act.
+
+       Plaintiffs claim that the Commission should not have relied on data collected in
+anticipation of the 2020 Rule when assessing the benefits of the 2022 Rescission, but as the
+district court correctly noted, “[n]othing about 15 U.S.C. § 78c(f) required the SEC to forget that
+its earlier analysis ever happened.” Chamber of Com., 670 F. Supp. 3d at 555. Instead, because
+the Commission had already estimated the cost of complying with the 2020 Rule, it was entitled
+to rely on that analysis and infer the benefits of a partial rescission accordingly. See Chamber of
+Com., 412 F.3d at 144 (recognizing that “depending upon the nature of the problem, an agency
+may be ‘entitled to conduct ... a general analysis based on informed conjecture’” (quoting
+Melcher v. FCC, 134 F.3d 1143, 1158 (D.C. Cir. 1998))).
+
+       Additionally, the Commission’s discussion of the mitigating effects of PVAB voluntary
+practices was not inherently contradictory. The Commission recognized that rescinding the
+Notice-and-Awareness Conditions would benefit PVABs by reducing compliance costs, although
+it acknowledged that any benefits “would vary depending on each PVAB’s current practices and
+how they implement the new conditions.” 2022 Rescission, 87 Fed. Reg. at 43,192. That
+recognition mirrors the Commission’s statement in 2020 that PVABs could “leverage their
+existing practices” to “reduc[e] compliance burdens” associated with the notice-and-awareness
+conditions. 2020 Rule, 85 Fed. Reg. at 55,140. By acknowledging the effects of PVABs
+voluntary practices, the Commission was not assuming that the Rescission would save PVABs
+“every dollar imposed on them by the 2020 Rule[s].” CA6 R. 15, Appellant Br. at 56. Instead,
+the Commission provided a more holistic account of the consequences of rescission and
+explained why its estimate of benefits was “imprecise.” Pub. Citizen, 374 F.3d at 1221; Lindeen
+v. SEC, 825 F.3d 646, 658 (D.C. Cir. 2016) (upholding regulation where SEC explained that
+“[s]everal factors could mitigate” the risks of its rule); Chamber of Com., 412 F.3d at 143
+(recognizing that when multiple variables affect the costs of compliance, the SEC may be
+ No. 23-5409             Chamber of Com. of the United States v. SEC                     Page 16
+
+
+capable of “determin[ing] only the range within which a [participant’s] cost of compliance will
+fall”).
+
+          The Commission also adequately assessed the costs of the Rescission. The SEC stated
+that rescinding the Notice-and-Awareness Conditions could “potentially reduc[e] the overall mix
+of information available to [PVAB] clients as they assess proxy voting advice.”               2022
+Rescission, 87 Fed. Reg. at 43196. The Commission also acknowledged that rescission could
+“limit a [company’s] ability to timely identify errors and mischaracterizations in proxy voting
+advice,” and that companies may instead be required to “solely rely upon internal resources to
+research, analyze, and execute proxies.” Id. at 43,187–88. The qualitative assessment was
+sufficient, given that the Commission lacked data enabling it to conduct a quantitative analysis.
+
+          The plaintiffs claim that the SEC’s assessment of costs was insufficient because the
+Commission did not attempt to quantify the costs to PVAB clients. They contend that the
+Commission’s statement that the Rescission could potentially reduce the variety of information
+available to investors is too vague to satisfy the Exchange Act. Additionally, they claim that the
+Commission could have provided a more concrete analysis by thoroughly addressing the
+prevalence of errors in PVAB advice or gathering additional data on the costs that companies
+incur in attempting to correct those errors. However, the SEC’s qualitative analysis of costs was
+sufficient because the potential costs that the plaintiffs identify are not easily quantified. See
+Lindeen, 825 F.3d at 658 (noting that Commission was not required to “conduct a rigorous,
+quantitative economic analysis of every potential cost and benefit” to satisfy Exchange Act
+requirements (quotation omitted)).
+
+          As the Commission explained in 2020, the purported benefit of the Notice-and-
+Awareness Conditions was to increase transparency in the proxy voting system, which would
+“facilitate[e] the ability of clients of [PVABs] to make informed voting determinations” and
+“ultimately lead to improved investment outcomes.” 2020 Rule, 85 Fed. Reg. at 55,142. The
+value of informed decisionmaking is not a benefit that can be readily quantified, but instead
+lends itself to a qualitative analysis. Just as the Commission qualitatively assessed the value of
+informed decisionmaking that resulted from the Notice-and-Awareness Conditions in 2020, it
+was equally entitled to rely on its qualitative assessment of the predicted “reduc[tion] [in] the
+ No. 23-5409             Chamber of Com. of the United States v. SEC                     Page 17
+
+
+overall mix” of information resulting from the 2022 Rescission. See Nat’l Ass’n of Mfrs. v. SEC,
+748 F.3d 359, 369 (D.C. Cir. 2014) (finding that agency was not required to quantify
+“compelling social benefits” resulting from regulation where “doing so would be pointless
+because the costs of the rule—measured in dollars—would create an apples-to-bricks
+comparison”).
+
+       Moreover, as the district court recognized, it is not clear that the additional data the
+plaintiffs request would have permitted the Commission to assign a number to the costs of
+rescission. See Chamber of Com., 670 F. Supp. 3d at 555. But see Bus. Roundtable, 647 F.3d at
+1150 (finding Exchange Act analysis insufficient where agency “did nothing to estimate and
+quantify the costs it expected companies to incur; nor did it claim estimating those costs was not
+possible, for empirical evidence . . . was readily available”). Even if the parties could establish
+with certainty the prevalence of errors in proxy advice during a given year, that number would
+not impact the Commission’s cost assessment because companies respond to erroneous advice
+with or without the Notice-and-Awareness Conditions. See 2019 Proposed Rule, 84 Fed. Reg. at
+66,533 (recognizing that companies “are able, under the existing proxy rules, to file
+supplemental proxy materials to respond to . . . proxy voting recommendations and to alert
+investors to any disagreements they have identified with a [PVABs’] voting advice”). And
+because companies respond to erroneous advice regardless, it is not clear why the resources
+spent preparing their responses should count as a cost of rescission.         Plaintiffs have not
+established how compiling data on these factors would enable the Commission to quantify the
+costs of rescission.
+
+       In sum, the district court correctly held that the Commission’s economic analysis
+satisfied the Exchange Act. The SEC properly relied on the compliance burdens established in
+the 2020 Rule when evaluating the benefits of rescinding the Notice-and-Awareness Conditions,
+and its assessment was not inconsistent for acknowledging the mitigating effects of current
+PVAB practices. The Commission’s analysis of costs was also reasonable given that the nature
+of the costs of rescission do not support a quantitative assessment.
+ No. 23-5409            Chamber of Com. of the United States v. SEC                     Page 18
+
+
+                                               B.
+
+       We are left with the plaintiffs’ purely procedural objection, which complains that the
+thirty-one-day comment period accompanying the 2021 Proposed Rescission failed to provide
+interested parties with a meaningful opportunity to comment, as required under the APA.
+Because accepting this argument would require holding the Commission to an erroneously
+heightened procedural standard, we decline to vacate the 2022 Rescission on such grounds.
+
+       The APA sets forth no minimum duration over which executive agencies must solicit
+public comment, instead requiring that the public’s opportunity to comment be a “meaningful”
+one. Rural Cellular Ass’n v. FCC, 588 F.3d 1095, 1101 (D.C. Cir. 2009). Under that standard,
+courts by and large accept thirty-day comment periods as procedurally sound absent extenuating
+circumstances. See Nat’l Lifeline Ass’n v. FCC, 921 F.3d 1102, 1117 (D.C. Cir. 2019); Chem.
+Mfrs. Ass’n v. EPA, 899 F.2d 344, 347 (5th Cir. 1990); see also Fleming Cos. v. USDA, 322 F.
+Supp. 2d 744, 764 (E.D. Tex. 2004) (“[A] thirty-day notice and comment period is sufficient.”),
+aff’d, 164 F. App’x 528 (5th Cir. 2006); Conn. Light & Power Co. v. NRC, 673 F.2d 525, 534
+(D.C. Cir. 1982) (30-day comment period for “technical[ly] complex[]” rules satisfied the APA).
+
+       Here, as the SEC points out, the plaintiffs critique the thirty-one-day comment window
+accompanying the 2021 Proposed Rescission as insufficient without identifying a party that
+would have commented or a substantive argument that would have been made had the comment
+window been longer. Instead, the plaintiffs argue that thirty-one days proved inadequate because
+of largely formalistic and arbitrary considerations. Yet the cases that the plaintiffs cite prove
+readily distinguishable, and the augmented explanation that they demand from the SEC is simply
+not required by the APA. We fully concur with the district court’s reasoning in rejecting the
+plaintiffs’ arguments on this issue, and we expand upon that explanation only to underscore a
+few important points.
+
+       First, the plaintiffs analogize this suit to the administrative agency rescissions that the
+Fourth Circuit and the Northern District of California found procedurally invalid in North
+Carolina Growers’ Ass’n, Inc. v. United Farm Workers, 702 F.3d 755 (4th Cir. 2012), and
+Becerra v. Dep’t of the Interior, 381 F. Supp. 3d 1153 (N.D. Cal. 2019). But while superficially
+ No. 23-5409             Chamber of Com. of the United States v. SEC                    Page 19
+
+
+compelling, such comparisons ultimately prove inapt, and a close reading of the above two cases
+reveals that the primary procedural shortcoming animating the Fourth Circuit’s and the Northern
+District of California’s decisions is absent here.
+
+       In Carolina Growers and Becerra, as here, the agency’s rescission of an earlier rule
+featured a comment window shorter than the window that accompanied the initial rulemaking.
+In Carolina Growers, the original rule provided for a sixty-day comment window while the
+rescission allowed for only ten days of comments. 702 F.3d at 770. In Becerra, the original
+rulemaking provided for 120 days of comments and the rescission allowed for only thirty. 381 F.
+Supp. 3d at 1176–77. In both suits, the court highlighted this disparity as a factor that weighed
+in favor of finding the challenged rulemaking process procedurally deficient. See Carolina
+Growers, 702 F.3d at 770; Becerra, 381 F. Supp. 3d at 1176–77. Given that the SEC’s 2020
+Rule provided for a sixty-day comment period and the 2022 Rescission allowed for only thirty-
+one days of comments, Carolina Growers and Becerra would thus seem to counsel in favor of
+vacating the Rescission as procedurally defective.
+
+       A closer reading, however, reveals that the lack of parity between initial and subsequent
+comment periods, while “underscor[ing]” or “further . . . support[ing]” those court’s conclusions,
+was not the procedural shortcoming that either the Fourth Circuit or the Northern District
+identified as incompatible with the APA. Carolina Growers, 702 F.3d at 770; Becerra, 381 F.
+Supp. 3d at 1176. Instead, the feature of the challenged rescissions that ran afoul of the APA in
+both Carolina Growers and Becerra was the agency’s imposition of content restrictions on the
+comments that interested parties could submit during the comment window.             In Carolina
+Growers, the Department of Labor “prevent[ed] any discussion of the ‘substance or merits’ of
+either [the initial rule or its recission]” by instructing commenters that it “would only consider
+comments concerning the suspension action itself, and not regarding the merits of either set of
+regulations.” 702 F.3d at 761, 770. In Becerra, the Office of Natural Resources Revenue
+“effectuated a de facto [content restriction] by deferring consideration of substantive comments
+regarding the regulations at issue” to a separate notice of proposed rulemaking, which had the
+practical effect of segregating germane comments from the rescission on which they
+substantively opined. 381 F. Supp. 3d at 1176. These content restrictions loomed large in the
+ No. 23-5409                  Chamber of Com. of the United States v. SEC                                      Page 20
+
+
+courts’ analyses; indeed, they were the chief procedural shortcoming that both courts identified.
+Here, on the other hand, the Commission imposed no content restriction on the comments that it
+solicited. The plaintiffs’ effort to analogize the instant case to Carolina Growers and Becerra
+therefore lacks persuasive force.2
+
+         The plaintiffs further argue that the Commission’s thirty-one-day comment period proved
+procedurally flawed where it “violated the Commission’s and the Executive Branch’s own
+declared policies.” CA6 R. 15, Appellant Br., at 35. The first half of this contention rests on a
+false premise, as the plaintiffs misconstrue the testimony on which they rely for the proposition
+that the SEC, as a policy, provides sixty days for comment on proposed rules. The plaintiffs
+characterize Chair Gensler’s testimony to Congress as stating that the Commission “‘always’
+provides ‘at least two months’ to comment on rule proposals.” CA6 R. 15, Appellant Br., at 44.
+Yet a brief review of the quoted testimony makes clear what Chair Gensler intended to
+communicate—namely, that the SEC strives to publish proposed rules on its website, not the
+federal register, at least sixty days prior to the comment deadline. Nothing in Chair Gensler’s
+testimony intimates that the SEC maintains a sixty-day comment period as a policy.
+
+         As to the second half of the plaintiffs’ contention, the SEC correctly notes that it need not
+specifically explain a departure from the executive branch’s non-binding recommendation that
+“significant regulatory actions” allow for a comment period of at least sixty days. DE 35-30,
+Admin. Conf. U.S. Recommendation, Page ID 791. And in any event, the Commission in fact
+provided a reason for the thirty-one-day comment window: “the targeted nature” of the 2022
+Rescission, which withdrew only select elements of the multifaceted 2020 Rule.
+2022 Rescission, 87 Fed. Reg. at 43173 n.71. Thus, the argument that the SEC failed to offer
+any explanation for the departure from executive branch policy falls flat. And further, in
+
+         2
+           Even taking the plaintiffs’ cited cases at face value, their facts are distinguishable from the instant case. In
+Carolina Growers, the recessional rule’s comment window ran for one-sixth the duration of the initial rulemaking;
+in Becerra, that fraction equaled one-fourth. Here, the latter comment period ran for just over half the length of the
+original rule’s comment window. Thus, to the extent that parity between initial and subsequent rulemaking is
+relevant, the comment windows in this case sit on more equal footing than those in Carolina Growers and Becerra.
+Moreover, the ten-day comment window provided for in Carolina Growers fell twenty days short of the APA’s
+widely acknowledged, albeit uncodified, thirty-day minimum, further distancing that suit’s facts from the facts at
+issue here. See Azar v. Allina Health Servs., 139 S. Ct. 1804, 1808 (2019) (60-day comment period was “twice the
+APA minimum of 30 days”).
+ No. 23-5409                 Chamber of Com. of the United States v. SEC                                   Page 21
+
+
+response to the argument that the Commission’s justification for its shortened comment period
+proved inadequate, the district court correctly observed that “[P]laintiffs’ own briefing . . . makes
+an overwhelming case that the parties on all sides of these issues were well-prepared to comment
+quickly and effectively” on the proposed rescission, particularly given the extensive process that
+accompanied the initial regulation and the “detailed arguments in favor of and against the
+[regulation]” that “had already been assembled.” Chamber of Com., 670 F. Supp. 3d at 553.
+Here, as at every turn, the district court properly redirected the plaintiffs’ formalistic objections
+concerning the quantity of days in the comment period towards the more suitable subject of
+concern: the substantive quality of the comments that that thirty-one-day window allowed.
+
+         Finally, we also see no merit to the plaintiffs’ contention that because “several parties
+requested that the Commission extend the comment period,” the Commission’s failure to do so
+amounted to procedural error. CA6 R. 15, Appellant Br., at 37. This contention again elevates
+form over substance, and putting aside that the plaintiffs marshal only a single district court case
+in support of this argument (and a distinguishable one at that3), the plaintiffs fail to identify any
+novel substantive arguments they would have made or specific data they would have presented
+had the comment window been extended.4 As the SEC notes, the plaintiffs’ contention that
+additional time would have yielded a quantitative analysis of the 2022 Rescission’s costs strains
+credulity where the lengthy and robust process accompanying the 2020 Rule notably failed to
+
+
+         3
+           In Estate of Smith v. Bowen, 656 F. Supp. 1093 (D. Colo. 1987), the plaintiffs identified specific parties
+that could not provide responsive comments due to both the brevity of the comment window and three
+accompanying roadblocks: (1) the agency’s failure to adequately describe the substance of proposed rule change in
+the NPRM; (2) the agency’s failure to include in the NPRM the results of a “comprehensive study” of the to-be-
+regulated industry that it had relied upon in crafting the rule (and which did not become available to the public until
+after the comment window closed); and (3) the complexity of several “interested . . . organizations” whose internal
+bureaucratic processes slowed their ability to comment. 656 F. Supp. at 1097–98. This showing far exceeds what
+the plaintiffs have shown here, as they fail to identify a single party that wished to comment yet could not, much less
+a similar confluence of non-timing-related factors that precluded meaningful comment.
+         4
+           The dissent combats this argument by noting that “establishing prejudice does not require Plaintiffs to
+demonstrate that, absent the procedural deficiency, the substance of the 2022 Rescission would have changed.”
+Dissent at 16 (citing United States v. Stevenson, 676 F.3d 557, 565 (6th Cir. 2012)). While true, this argument
+remains nonresponsive to the SEC’s point. The Commission does not assert that the plaintiffs fail to demonstrate
+that the substance of the rescission would have changed given a longer comment window. Instead, the SEC asserts,
+correctly, that the plaintiffs fail to highlight any substantive change to the rule they would have recommended had
+the comment window been extended. All told, the plaintiffs fail to identify any argument that the “shortened” thirty-
+day comment window prevented them from making. This failure fatally undermines their contention that the length
+of the comment window precluded a meaningful opportunity to give their input.
+ No. 23-5409            Chamber of Com. of the United States v. SEC                    Page 22
+
+
+produce a quantitative analysis of the Rule’s benefits. At bottom, highlighting the SEC’s refusal
+to extend the comment window without identifying how an extended comment period would
+have enhanced the substantive record is an empty gesture.
+
+                                               III.
+
+       For the foregoing reasons, we affirm.
+ No. 23-5409               Chamber of Com. of the United States v. SEC                   Page 23
+
+
+                                       _________________
+
+                                            DISSENT
+                                       _________________
+
+       JOHN K. BUSH, Circuit Judge, dissenting. As the Majority explains, proxy voting
+advice businesses (PVABs), also called proxy advisors, make recommendations to shareholders
+regarding voting “by proxy” (as opposed to in person) at shareholder meetings of publicly traded
+companies. A proxy advisor and the company it analyzes may not see eye to eye on every issue.
+When the PVAB recommends a vote to the shareholder, the PVAB shares its views on the
+matter. At stake in this appeal is whether the Securities and Exchange Commission will require
+proxy advisors to facilitate communication of a company’s views to shareholders as well.
+The Majority says that the SEC did enough to rescind its rule mandating these disclosures.
+I respectfully disagree.
+
+       Following almost a decade of research during both Democratic and Republican
+administrations, the SEC issued a regulation in 2020 (the “2020 Rule”) with two components.
+First, the Commission required PVABs to disclose conflicts of interest (the “Conflict-Disclosure
+Condition”). Second, it mandated that proxy advisors notify companies of the content of proxy
+voting advice and provide shareholders with any company response (the “Notice-and-Awareness
+Conditions”). But less than a year later, and following an administration change, the SEC
+substantially reversed course. While it implemented the Conflict-Disclosure Condition, the
+Notice-and-Awareness Conditions never went into effect.
+
+       The agency’s rescission of the Notice-and-Awareness Conditions (the “2022 Rescission”)
+is legally deficient for three reasons. First, the SEC violated the Administrative Procedure Act
+(APA) because the abbreviated comment period was inadequate for the agency to fully comply
+with its obligation to “give interested persons an opportunity to participate” in the rulemaking.
+5 U.S.C. § 553. Second, another APA violation occurred because, as the Fifth Circuit recently
+held, the agency’s rationale for rescinding the Notice-and-Awareness Conditions does not
+survive arbitrary-and-capricious review. See Nat’l Ass’n of Mfrs. v. SEC, 105 F.4th 802, 811–15
+(5th Cir. 2024). Third and finally, the SEC failed to adequately estimate the costs and benefits of
+ No. 23-5409             Chamber of Com. of the United States v. SEC                      Page 24
+
+
+its dramatic policy shift—an economic review that is required by the Securities Exchange Act of
+1934.   See 5 U.S.C. § 706; 15 U.S.C. § 78c(f).          The 2022 Rescission is therefore both
+procedurally and substantively invalid. It should be vacated in its entirety.
+
+                                                 I.
+
+        PVABs have been around for about 40 years. Amendments to Exemptions From the
+Proxy Rules for Proxy Voting Advice (“2019 Proposed Rule”), 84 Fed. Reg. 66,518, 66,543
+(proposed Dec. 4, 2019). They provide services related to the proxy voting process, such as
+researching shareholder voting proposals, providing voting recommendations, and assisting in
+casting proxy votes. As the Majority explains, of the five PVABs in the United States, two of
+them—ISS and Glass Lewis—control approximately 97% of the market for proxy advice.
+Majority Op. at 4 n.1; 2019 Proposed Rule, 84 Fed. Reg. at 66,543; see also Sagiv Edelman,
+Proxy Advisory Firms: A Guide for Regulatory Reform, 62 Emory L.J. 1369, 1374 (2013). As
+could be expected from their substantial market shares, ISS and Glass Lewis have significant
+influence over proxy voting decisions.
+
+        Critics of PVABs argue that proxy advisors “play[] the role of quasi-regulator, whereby
+boards feel compelled to make decisions in line with proxy advisors’ policies due to their impact
+on voting.” Timothy Doyle, The Realities of Robo-Voting, Harv. L. Sch. Forum on Corp.
+Governance (Nov. 29, 2018), https://corpgov.law.harvard.edu/2018/11/29/the-realities-of-robo-
+voting/. Leo E. Strine, Jr.—a former chief justice of Delaware Supreme Court and chancellor of
+the Delaware Court of Chancery, now in private practice—had this to say about the influence of
+one PVAB, ISS, in particular: it had become commonplace for “powerful CEOs to come on
+bended knee . . . to persuade the managers of ISS of the merits of their views.” Leo E. Strine, Jr.,
+The Delaware Way: How We Do Corporate Law and Some of the New Challenges We (and
+Europe) Face, 30 Del. J. Corp. L 673, 688 (2005). Some have argued that PVABs use their
+leverage as proxy advisors to win consulting contracts from companies that do not want to fall
+from the advisor’s good graces.       See, e.g., Garmin, Comment Letter on Proposed Rule:
+Amendments to Exemptions From the Proxy Rules for Proxy Voting Advice, at 2 (Jan. 27, 2020)
+(noting that PVABs purposefully assign low ratings to companies and use those ratings “as a tool
+to sell consulting services to purportedly fix the ratings”). Companies also may use consulting
+ No. 23-5409             Chamber of Com. of the United States v. SEC                                Page 25
+
+
+arrangements to influence the advisor to support the company’s position. See Exemptions From
+the Proxy Rules for Proxy Voting Advice (“2020 Rule”), 85 Fed. Reg. 55,082, 55,096 (Sept. 3,
+2020) (questioning the “objectivity and independence” of proxy advice where PVABs give
+voting recommendations to shareholders regarding the same matters on which they had advised
+companies).
+
+         When the PVAB and the company disagree, investors in a few notable instances have
+voted against PVAB recommendations after the company voiced its disapproval. For example,
+earlier this year shareholders voted to approve a pay award of over $45 billion for Elon Musk,
+even though Glass Lewis urged investors to vote down the package as excessive. Jack Ewing &
+Peter Eavis, Tesla Shareholders Approve Big Stock Package for Musk, N.Y. Times (June 13,
+2024),     https://www.nytimes.com/2024/06/13/business/tesla-shareholder-vote-elon-musk.html.
+Tesla publicly criticized Glass Lewis’s report on the compensation issue, claiming that it “omits
+key considerations, uses faulty logic, and relies on speculation and hypotheticals.” Steven
+Russolillo, Tesla Blasts Glass Lewis’s Report Urging Against Musk’s Pay Package, Wall St. J.
+(May 30, 2024, 9:01 AM), https://www.wsj.com/business/autos/tesla-glass-lewis-elon-musk-
+pay-package-d50b63df.
+
+         In another example from earlier this year, ExxonMobil publicly disagreed with Glass
+Lewis’s recommendation to oppose the re-election of the company’s lead director,
+Joseph Hooley.    See Kevin Crowley, Exxon Says Glass Lewis Has Conflict of Interest on
+Proxy, Bloomberg News (May 15, 2024, 3:18 PM), https://news.bloomberglaw.com/esg/exxon-
+says-proxy-adviser-glass-lewis-has-conflict-of-interest. Hooley         had       backed        a     lawsuit
+preventing investors from introducing allegedly climate-friendly shareholder proposals that
+shareholders had twice voted to reject.         Id.   Exxon argued that Glass Lewis should have
+recused from making recommendations regarding Exxon’s leadership because of the firm’s
+alleged conflicted interests:   Glass   Lewis     belongs   to    Interfaith     Center    on       Corporate
+Responsibility, a network of organizations that supports proposals to address climate-
+change matters    and    that   opposed Hooley’s       lawsuit.       See      id.;   David     Blackmon,
+ExxonMobil Proxy Fight Looms Despite Record Financial Success, Forbes (May 24, 2024,
+8:03 AM),      https://www.forbes.com/sites/davidblackmon/2024/05/24/exxonmobil-proxy-fight-
+ No. 23-5409             Chamber of Com. of the United States v. SEC                         Page 26
+
+
+seems-motivated-by-too-much-success/. Shareholders        ultimately    rejected     Glass     Lewis’s
+advice and re-elected Hooley.     See Ross Kerber & Arunima Kumar, Top Exxon directors
+cruise to re-election despite   activist   opposition,    Reuters      (May    29,     2024,      3:45
+PM), https://www.reuters.com/markets/commodities/exxon-shareholders-re-elect-two-directors-
+targeted-by-activists-2024-05-29/.
+
+       As this latter example suggests, proxy voting advice pertains to not only traditional issues
+affecting a company’s bottom line, but also more recent stakeholder topics, including
+“Environmental, Social, and Governance” matters, also known as “ESG” issues. Some critics of
+PVABs express concern that proxy advisors may base their voting advice on ideological agendas
+that do not always align with the corporate fiduciary objective of maximizing shareholder value.
+2020 Rule, 85 Fed. Reg. at 55,125. Also, apart from any particular value judgment, PVABs face
+criticism that they do not always get their facts right about shareholder proposals and the affected
+companies. Id. at 55,103. According to these critiques, there is need for a shareholder to receive
+the company’s response to the proxy advisor’s voting recommendation because it helps ensure a
+fully balanced and accurate understanding of the issue before a proxy vote is cast. Id. at 55,102–
+03.
+
+       PVABs have rejoinders to all of these arguments. Perhaps their strongest point, as the
+examples from Tesla and ExxonMobil demonstrate, is that companies can overcome a PVAB’s
+adverse recommendation through independent messaging of their own—that is, without the
+involvement of the proxy advisor in delivering the company’s views. Id. at 55,108. But for a
+company besieged by an adverse shareholder proposal that has a PVAB’s endorsement, the
+timing of the company’s message in response and its access to the shareholder can be everything.
+How far the company’s voice carries will depend on (1) how soon the company learns of the
+PVAB’s position, and (2) how quickly and effectively the company then communicates to the
+shareholders its rebuttal of the PVAB’s recommendation. Id. at 55,108 & n.329 (explaining that
+although companies can file a response to proxy advice voicing any disagreements, “the efficacy
+of these responses may be limited, particularly given the high incidence of voting that takes place
+very shortly after a PVAB’s voting advice is released to clients and before such supplemental
+proxy materials can be filed” (internal quotation marks and citation omitted)).
+ No. 23-5409              Chamber of Com. of the United States v. SEC                   Page 27
+
+
+        Not every company has the resources of Tesla or ExxonMobil. A smaller company may
+find itself losing a battle against a PVAB not because the company’s position has less merit, but
+rather because the PVAB has too much of a headstart and more direct involvement in the
+shareholder’s decision making on proxy votes.        See Br. for The Biotechnology Innovation
+Organization as Amicus Curiae Supporting Appellants 2–4, ECF No. 23 (explaining that
+PVABs’ “one-size-fits-all” approach harms smaller companies who lack resources to respond to
+inaccuracies in proxy advice, or to voice their disagreement).
+
+        All companies, regardless of size, must deal with PVABs that understandably oppose
+corporate management that questions proxy advice. So, there is an inherent incentive for PVABs
+to resist any SEC requirement that might make it easier for a company to communicate more
+effectively to shareholders its response to the proxy advisor’s recommendation. See generally
+Glass Lewis & Co., Comment Letter on Proposed Rule: Amendments to Exemptions From the
+Proxy Rules for Proxy Voting Advice, at 12 (Feb. 3, 2020) (expressing PVABs’ concern that
+companies’ involvement in the proxy process could have a “‘chilling effect,’” and noting that if
+“‘every disagreement over a subjective determination like a say-on-pay vote is likely to lead to a
+messy confrontation with management, [PVABs] may be less inclined to issue negative
+advice’”) (internal citation and quotation marks omitted). This adversarial dynamic between
+PVABs and companies has long existed, and corporate concern about proxy-advisor influence
+over shareholder voting has increased over time. The rapid growth of PVABs and the scope of
+their activities have led to calls for reform.
+
+        Beginning in 2010, during President Obama’s administration, the SEC conducted a
+“comprehensive review” of the proxy system. Mary L. Schapiro, Opening Statement at the SEC
+Open Meeting (July 14, 2010), https://www.sec.gov/news/speech/2010/spch071410mls.htm.
+That almost decade-long process culminated in the 2020 Rule, which, among other things,
+required PVABs to alert companies of their voting recommendations and to notify shareholders
+of the companies’ response. 85 Fed. Reg. at 55,117. But, as noted above, the 2020 Rule never
+went into effect.
+
+        The relevant events were these: on June 1, 2021, the Commission announced it would not
+enforce the Notice-and-Awareness Conditions, and ten days after that, the new SEC Chair and
+ No. 23-5409            Chamber of Com. of the United States v. SEC                     Page 28
+
+
+members of the Commission held a closed-door meeting with opponents of the conditions. SEC
+Div. of Corp. Fin., Statement on Compliance with the Commission’s 2019 Interpretation and
+Guidance Regarding the Applicability of the Proxy Rules to Proxy Voting Advice and Amended
+Rules   14a-1(1),   14a-2(b),   14a-9   (June   1,   2021),   https://www.sec.gov/news/public-
+statement/corp-fin-proxy-rules-2021-06-01; Proxy Voting Advice (“2021 Proposed Rescission”),
+86 Fed. Reg. 67,383, 67,383 (proposed Nov. 26, 2021). What was discussed at the meeting was
+never disclosed, but following the meeting, the SEC continued its nonenforcement of the
+conditions. The Commission’s inaction, however, was challenged in court, resulting in a ruling
+that if the agency wanted to eliminate the Notice-and-Awareness Conditions, it could not do so
+simply through their non-enforcement. See Nat’l Ass’n of Mfrs. v. SEC, 631 F. Supp. 3d 423,
+427 (W.D. Tex. 2022). Instead, the Commission had to amend the 2020 Rule through new
+notice-and-comment rulemaking under the APA. See id. So, the SEC belatedly issued a notice
+of proposed rulemaking and solicited public comment on whether to withdraw the conditions.
+2021 Proposed Rescission, 86 Fed. Reg. at 67,384.
+
+        The new comment period was only half of what it had been for the 2020 Rule, and it
+produced less than a tenth of the number of comments received for the prior regulation. See
+2021 Proposed Rescission, 86 Fed. Reg. at 67,383; Comments on Proposed Rule: Proxy Voting
+Advice, Release No. 34-93595, https://www.sec.gov/comments/s7-17-21/s71721.htm. Plaintiff-
+Appellant Chamber of Commerce and others asked for the same 60-day length afforded for the
+2020 Rule. They complained that the reduced comment period, which fell over the end-of-the-
+year holidays and when comments for several other SEC proposed rules were due, did not
+provide sufficient opportunity for public input.     See, e.g., Chamber of Com. of the U.S.,
+Comment Letter on Proposed Rule: Proxy Voting Advice, at 5 (Nov. 30, 2021); Bus.
+Roundtable, Comment Letter on Proposed Rule: Proxy Voting Advice, at 3 (Dec. 23, 2021). The
+Chamber and others also noted that 60 days is typically the amount of time that federal agencies
+allow for comments during rulemaking. Chamber of Com. of the U.S., Comment Letter, at 10.
+The SEC denied the extension request, citing no emergency or exigent circumstances to justify
+an abbreviated comment period. The Commission issued the amended regulation in July 2022.
+Proxy Voting Advice (“2022 Rescission”), 87 Fed. Reg. 43,168, 43,168 (July 19, 2022).
+ No. 23-5409            Chamber of Com. of the United States v. SEC                   Page 29
+
+
+                                              II.
+
+       The first reason why the 2022 Rescission should be vacated is procedural: the SEC failed
+to provide an adequate opportunity for comment on the proposed 2022 Rescission. The APA
+requires an agency to “give interested persons an opportunity to participate in the rulemaking
+through submission of written data, views, or arguments with or without opportunity for oral
+presentation.” 5 U.S.C. § 553(a), (c). Here, the period that the SEC afforded for such public
+input did not last long enough.
+
+       So, how much time was needed? The APA does not explicitly say. Instead, courts must
+assess an agency’s allotment of time for comments based on the particular circumstances of the
+proposed regulation at issue, including how complex it is, how much impact it will have, how
+much public interest it has generated, and whether emergency or exigent conditions justify a
+shorter comment period. See Nat’l Lifeline Ass’n v. FCC, 921 F.3d 1102, 1117 (D.C. Cir. 2019)
+(considering length of the period and details provided in the notice of proposed rulemaking);
+N.C. Growers Ass’n v. United Farm Workers, 702 F.3d 755, 770 (4th Cir. 2012) (10-day
+comment period that yielded 800 comments was invalid in part because the agency’s prior
+rulemaking had a 60-day comment period generating 11,000 comments); Rural Cellular Ass’n v.
+FCC, 588 F.3d 1095, 1101 (D.C. Cir. 2009) (“The opportunity for comment must be a
+meaningful opportunity.”).
+
+       As the Majority points out, some courts interpreting the APA have concluded that 30
+days for comment can be sufficient. Majority Op. at 20 n.2. But that shorter period is not the
+typical practice, and it is disfavored particularly where, as here, the proposed rulemaking was
+intended to overturn an earlier rule that had a longer comment period. See Petry v. Block, 737
+F.2d 1193, 1202 (D.C. Cir. 1984) (30 days for comment “cuts the comment period to the bone”).
+For example, in Prometheus Radio Project v. FCC, 652 F.3d 431, 453 (3d Cir. 2011), the Third
+Circuit held that a comment period was inadequate where the agency “gave only 28 days for
+response, not the usual 90 days” afforded in prior rulemaking. See also Becerra v. Dep’t of the
+Interior, 381 F. Supp. 3d 1153, 1177 (N.D. Cal. 2019) (invalidating 30-day period because
+agency’s prior rulemaking included 120 days for comment); N.C. Growers Ass’n, 702 F.3d at
+ No. 23-5409            Chamber of Com. of the United States v. SEC                    Page 30
+
+
+770 (finding that 10-day comment period was deficient where prior rulemaking included 60 days
+for comment).
+
+       Applying the principle from that precedent, a comparison of the two comment periods
+here demonstrates that the period accompanying the 2022 Rescission was inadequate. For the
+2020 Rule, the SEC afforded a 60-day period. It was consistent with the longstanding view, held
+by the White House under both Democratic and Republican administrations and by the U.S.
+Administrative Conference, that “a meaningful opportunity to comment . . . should include a
+comment period of not less than 60 days.” R. 35-26 (Exec. Order No. 12866 (Sept. 30, 1993) at
+771; R. 35-27 (Exec. Order 13258 (Feb. 26, 2002)); R. 35-28 (Exec. Order No. 13563 (Jan. 18,
+2011)); R. 35-29 (86 Fed. 7223 (Jan. 20, 2021)); R. 35-30 (Admin. Conf. of the U.S.,
+Recommendation No. 2011-2; Rulemaking Comments (June 16, 2011) at 791 (recommending on
+fewer than 60 days for public comment). Chair Gensler purported to share this view. Hearing
+on FTC, SEC FY 2023 Budget Requests Before the H. Appropriations Subcomm. On Fin. Servs.
+& Gen. Gov’t (May 18, 2022) (statement from Gary Gensler that the SEC will “always [give] at
+least two months” for public comment).
+
+       But here, Chair Gensler’s SEC gave only 31 days for the 2022 Rescission, bucking
+tradition and its own precedent affording a 60-day comment period. The Commission cited no
+emergency or exigent circumstances as justification for its decision. Instead, it pointed only to
+the fact that it had already solicited input from the public on the Notice-and-Awareness
+Conditions in 2019, so interested parties did not need as much time to assemble their arguments.
+But the agency’s prior rulemaking was reason to retain, not reduce, the 60-day comment period.
+That is because the SEC’s proposed 2022 Rescission would overrule the agency’s prior factual
+determinations that supported the Notice-and-Awareness Conditions. Where an agency
+announces a new rule based on “factual findings that contradict those which underlay its prior
+policy,” the agency must provide “more substantial justification,” not less. Hicks v. Comm’r of
+Soc. Sec., 909 F.3d 786, 808 (6th Cir. 2018) (quoting FCC v. Fox Television Stations, 556 U.S.
+502, 515 (2009)). Additionally, by short-changing the time for comment, the SEC suggested that
+its mind was already made up and that the comment period was just for show. In fact, the law
+requires that the Commission remain open to the possibility that comments could persuade it to
+ No. 23-5409             Chamber of Com. of the United States v. SEC                   Page 31
+
+
+retain the Notice-and-Awareness Conditions. Rural Cellular Ass’n, 588 F.3d at 1101 (“[I]n
+order to satisfy [APA requirements], an agency must also remain sufficiently open-minded.”).
+For these reasons, the comment period of the proposed 2022 Rescission at the very least should
+have been the same length as the comment period afforded for the 2020 Rule.
+
+       The Majority contends that the SEC was not required to match the comment period of the
+2020 Rule for the 2022 Rescission to be procedurally valid. To be sure, complying with
+procedural requirements is not merely a numbers game, and the 31-day comment period was not
+deficient simply because it was short. But here, the agency has not presented any emergency or
+exigent circumstances that would require shortening the 60-day period normally afforded. To
+the contrary, the SEC conceded at oral argument that it was in no rush to issue the 2022
+Rescission. The agency took six months after the comment period closed to consider revising
+the proposed rule in response to public comments. Argument Audio at 25:40–25:45. Putting
+aside the fact that the SEC did not, in fact, make any substantive changes addressing those
+comments, the agency’s devotion of six months for its response to comments undermines any
+claim that it was forced to act quickly.
+
+       Moreover, the “targeted nature” of the 2022 Rescission does not justify a shorter period
+in 2022. Majority Op. at 20–21. Interested parties could not simply recycle their comments on
+the 2020 Rule because the Notice-and-Awareness Conditions discussed in the 2022 Rescission
+were different from the conditions proposed in 2020. As will be discussed in more detail below,
+the 2020 Rule required PVABs to notify companies of their voting recommendations before
+disseminating advice to investors. However, because the agency removed the Pre-Dissemination
+Requirement when adopting the 2020 Rule, PVABs’ expected burdens of compliance—and
+conversely, the benefits that they would experience if the conditions were rescinded—had
+changed by 2022. Considering those substantive changes, interested parties should have been
+given a fulsome period to respond to the SEC’s proposal.
+
+       Finally, the Majority holds that even if the comment period was deficient, any procedural
+error was harmless. Majority Op. at 21–22. It maintains that Plaintiffs cannot succeed on their
+procedural challenge because they failed to identify information that they would have provided if
+given additional time, or to show how the agency would have issued a different rule in response
+ No. 23-5409            Chamber of Com. of the United States v. SEC                      Page 32
+
+
+to their comments. But the record, in fact, discloses that Plaintiffs have established harm.
+Multiple interested parties asked the SEC to extend the comment period, but the agency denied
+their requests without explanation. And contrary to the Majority’s claim, Plaintiffs identified
+other information that could have been presented if the comment period was extended: for
+example, companies could have gathered data related to the costs they would incur in obtaining
+copies of PVAB recommendations. See, e.g., Nasdaq, Comment Letter on Proposed Rule: Proxy
+Voting Advice, at 4 (Dec. 27, 2021) (reporting that to receive a copy of voting advice from Glass
+Lewis, companies are required to “purchase [their] annual report[s] from Glass Lewis and pay a
+$2,000 fee”). The agency also could have received data on internalization costs: the SEC
+recognized that to the extent rescinding the Notice-and-Awareness Conditions decreases the
+quality and variety of PVAB advice, shareholders may instead decide to “solely rely upon
+internal resources to research, analyze, and execute proxies.” 2022 Rescission, 87 Fed. Reg. at
+43,188. Of note, the agency could use this data to bolster its economic analysis under the
+Exchange Act, rather than concluding that the costs and benefits of rescission were not easily
+quantifiable.
+
+       In any event, establishing prejudice does not require Plaintiffs to demonstrate that, absent
+the procedural deficiency, the substance of the 2022 Rescission would have changed. Instead,
+Plaintiffs were only required to show that the procedural error deprived them of a meaningful
+opportunity to comment. See United States v. Stevenson, 676 F.3d 557, 565 (6th Cir. 2012).
+They have satisfied that requirement here.
+
+       The circumstances surrounding the issuance of the 2022 Rescission demonstrate that the
+SEC needlessly shortened the comment period, and Plaintiffs have shown that the procedural
+error was not harmless. Because the Commission’s conduct fell short of the APA’s procedural
+standards, the 2022 Rescission should be vacated.
+
+                                               III.
+
+       Vacatur is also required on substantive grounds. Plaintiffs assert that the 2022 Rescission
+violates the APA’s arbitrary-and-capricious standard because the agency inadequately explained
+its changed position on the underlying facts. They also claim that the regulation does not satisfy
+ No. 23-5409             Chamber of Com. of the United States v. SEC                   Page 33
+
+
+Exchange Act requirements because the SEC failed to articulate the economic implications of its
+new rule. The Majority holds that the 2022 Rescission relies on the same factual findings as
+those supporting the 2020 Rule, and that the SEC reasonably articulated why it chose the new
+policy. Majority Op. at 9–14. The record shows otherwise. It demonstrates that the SEC’s
+reasoning, as a substantive matter, violated both the APA and the Exchange Act.
+
+       A. APA Claim
+
+       The APA provides that courts should set aside any agency decision that is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in accordance with law.”          5 U.S.C.
+§ 706(2)(A). Under this standard, the agency is required to “examine the relevant data and
+articulate a satisfactory explanation for its action including a rational connection between the
+facts found and the choice made.” Motor Vehicle Mfrs. Ass’n of U.S., Inc., v. State Farm Mut.
+Auto Ins. Co., 463 U.S. 29, 52 (1983). Because the 2022 Rescission represents a policy change,
+to survive arbitrary-and-capricious-review, the SEC must “display awareness that it is changing
+position” and show that its “new policy is permissible under the statute, that there are good
+reasons for it, and that the agency believes it to be better.” Fox, 556 U.S. at 515.
+
+       Plaintiffs claim that under Fox, the SEC was required to provide a more detailed
+explanation for the 2022 Rescission than for the 2020 Rule because its new rule was based on
+contradictory factual findings. The district court found the same, explaining that when the
+agency changed how it “balance[ed] [the] various costs and benefits,” of the 2020 Rule, the shift
+was based on a changed “understanding of the relevant factual circumstances.” Dist. Ct. Op., R.
+74, PageID 2035.
+
+       Plaintiffs and the district court are correct.     The SEC previously explained that by
+eliminating the Pre-Dissemination Requirement, the 2020 Rule did “not create the risk that
+[proxy] advice would be delayed or that the independence thereof would be tainted as a result of
+a registrant’s pre-dissemination involvement.” 2020 Rule, 85 Fed. Reg. at 55,112. But in
+adopting the 2022 Rescission, the agency reversed course, explaining that eliminating the Pre-
+Dissemination Requirement did not “adequately mitigate[]” timeliness and independence
+concerns. 2022 Rescission, 87 Fed. Reg. at 43,175. The SEC’s changed position as to whether
+ No. 23-5409                 Chamber of Com. of the United States v. SEC                                  Page 34
+
+
+the Notice-and-Awareness Conditions posed a significant, or an insignificant, risk is itself a
+factual finding. As the Fifth Circuit explained, “risk is measured on a continuum, and the
+determination whether a risk is high or low . . . is a factual finding drawn from the record
+available to an agency or court.”1 Because the agency changed its position on the degree of risk
+posed by the Notice-and-Awareness Conditions, it was required to give a “more detailed
+justification” for the change, which it failed to do. Fox, 556 U.S. at 515. That failure alone
+renders the 2022 Rescission arbitrary and capricious.
+
+         Even without applying Fox’s heightened standard, the SEC’s rationale fails to survive
+arbitrary-and-capricious review because the agency did not adequately address the consequences
+of the rescission. As explained above, under the APA an agency must examine “relevant data”
+and reasonably explain its decision in light of the information it possesses. Motor Vehicle Mfrs.,
+463 U.S. at 42. Relevant data include issues raised by commenters “‘that can be thought to
+challenge a fundamental premise’ underlying the proposed agency decision.” Carlson v. Postal
+Regul. Comm’n, 938 F.3d 337, 344 (D.C. Cir. 2019) (quoting MCI WorldCom, Inc. v. FCC, 209
+F.3d 760, 765 (D.C. Cir. 2000)).
+
+         Plaintiffs identify two issues that the SEC failed to adequately consider: (1) whether the
+Notice-and-Awareness Conditions posed a risk to the timeliness, cost, and independence of
+PVAB advice; and (2) whether PVABs’ voluntary efforts compensate for the Notice-and-
+Awareness Conditions. Appellants’ Br. at 46–52. Both considerations constitute key aspects of
+the rescission that the agency inadequately addressed.
+
+         Take the first factor. The SEC stated that it adopted the 2022 Rescission, in part, because
+commenters had “reiterated [their] concerns” that the Notice-and-Awareness Conditions would
+“impair the independence of proxy voting advice, impede the timeliness of proxy voting advice,
+
+         1
+           Nat’l Ass’n of Mfrs., 105 F.4th at 812. In support of its holding that the “quantum of risk assessed by an
+agency [i]s a factual finding,” the Fifth Circuit cited cases involving APA challenges and those from other legal
+contexts. See id. at 811 (citing Organized Vill. of Kake v. U.S. Dep’t of Agric., 795 F.3d 956, 968 (9th Cir. 2015);
+Ball v. LeBlanc, 792 F.3d 584, 592 (5th Cir. 2015) (“The predicate findings of a substantial risk of serious harm and
+officials’ deliberate indifference to the risk are factual findings.”)). This circuit has similarly recognized that
+assessing the amount of risk is a factual determination. See United States v. Johnson, 116 F.3d 163, 165 (6th Cir.
+1997) (determining whether a “defendant’s actions created a substantial risk of death or serious bodily injury” is a
+“fact-intensive inquir[y]”); Taylor v. Mich. Dep’t of Corr., 69 F.3d 76, 82 (6th Cir. 1995) (question of “whether or
+not there existed a pervasive risk of harm in” a particular location “is an open question of fact”).
+ No. 23-5409            Chamber of Com. of the United States v. SEC                     Page 35
+
+
+and increase PVABs’ compliance costs.” 2022 Rescission, 87 Fed. Reg. at 43,171. But by
+simply reciting the complaints lodged against the 2020 Rule, the agency failed to consider how
+the 2020 Rule as proposed differed from the regulation as adopted.
+
+       Commenters acknowledged in 2020 that by including the Pre-Dissemination
+Requirement, companies could exert undue influence over PVABs in formulating their
+recommendations. See, e.g., N. Am. Sec. Admins. Ass’n, Inc., Comment Letter on Proposed
+Rule: Amendments to Exemptions From the Proxy Rules for Proxy Voting Advice, at 9 (Feb. 3,
+2020). They also expressed concern that forcing PVABs to interact with companies before
+disseminating their advice to investors would cause undue delay, which could increase costs for
+investors. See Inv. Co. Inst., Comment Letter on Proposed Rule: Amendments to Exemptions
+From the Proxy Rules for Proxy Voting Advice, at 2 (Feb. 3, 2020). However, those comments
+did not address how omitting the Pre-Dissemination Requirement would impact the timely
+dissemination of proxy advice or PVAB independence.            Even those supporting the 2022
+Rescission acknowledged this inconsistency: one commenter acknowledged that the final 2020
+Rule “made substantial modifications to the proposal,” and that the public could not comment on
+the regulation as adopted. See N.Y. State Comptroller, Comment Letter on Proposed Rule:
+Proxy Voting Advice, at 2 (Dec. 27, 2021).
+
+       Rather than meaningfully address the changes to Notice-and-Awareness Conditions, the
+SEC merely regurgitated comments from 2020. With respect to timeliness, it vaguely referred to
+“additional compliance burdens” that could “muddle the timely delivery of materials to fund
+managers.” 2022 Rescission, 87 Fed. Reg. at 43,171. Regarding independence, the agency cited
+the concerns of one interested party who opined that the Notice-and-Awareness Conditions
+might “draw out the voting process,” which could cause PVABs to “feel pressure to tilt voting
+recommendations in favor of management.” Id. at 43,175 n.118 (citing Council of Institutional
+Investors, Leading Investor Group Dismayed by SEC Proxy Advice Rules (July 22, 2020),
+https://www.cii.org/july22_sec_proxy_advice_rules).     But by only acknowledging concerns
+related to timeliness and independence, without explaining how those concerns differed under a
+prior version of the 2020 Rule, the agency failed to articulate a “rational connection between the
+facts found and the choice made.” State Farm, 463 U.S. at 43 (citation omitted).
+ No. 23-5409             Chamber of Com. of the United States v. SEC                      Page 36
+
+
+       Notably, it is not clear that the Commission could have identified how the 2020 Rule
+negatively impacted timeliness or independence. As the Fifth Circuit explained, it is “wholly
+implausible” to find that directing PVABs to share proxy advice with companies at the same
+time they shared it with clients would delay the delivery of the firms’ recommendations. See
+Nat’l Ass’n of Mfrs., 105 F.4th at 813. And while requiring communication with companies
+could incentivize PVABs to adopt pro-management recommendations, the agency could not rely
+on comments from the 2020 Rule to support that proposition. See id. at 813–14.
+
+       Additionally, as to the second factor mentioned above, the SEC failed to address how
+PVABs’ voluntary practices would affect compliance burdens. In support of its conclusion that
+the Notice-and-Awareness Conditions were no longer necessary, the agency found that six major
+PVABs adhere to standards imposed by the Best Practices Principles Group (BPPG). 2022
+Rescission, 87 Fed. Reg. at 43,187; see also 2021 Proposed Rescission, 86 Fed. Reg. at 67,386–
+88. But commenters to the proposed rule claimed that PVABs’ efforts to comply with BPPG
+standards did not justify rescinding the Notice-And-Awareness Conditions for several reasons:
+namely, because (1) PVABs’ voluntary practices impose significant costs on public companies,
+(2) BPPG standards do not expressly require PVABs to disseminate advice to companies, and (3)
+the agency deemed those same voluntary efforts inadequate in 2020. See Nasdaq, Comment
+Letter on Proposed Rule: Proxy Voting Advice, at 2 (Dec. 27, 2021) (noting that Glass Lewis
+provides drafts of proxy advice at a fee); Soc’y for Corp. Governance, Comment Letter on
+Proposed Rule: Proxy Voting Advice, at 9 (Dec. 27, 2021) (stating that BPPG standards are
+nonbinding and do not require public company review).
+
+       The SEC did not meaningfully address commenters’ concerns about the efficacy of
+PVABs’ voluntary practices. On the one hand, having recognized that most PVABs are already
+meeting the requirements of the Notice-And-Awareness Conditions voluntarily, the agency did
+not explain how the rule as adopted created additional compliance burdens. See Nat’l Ass’n of
+Mfrs., 105 F.4th at 814 (recognizing that “there is no change in the potential threat of litigation”
+under the 2020 Rule because “ISS and Glass Lewis voluntarily provide some registrants with
+their proxy advice at the time of its dissemination to clients”).
+ No. 23-5409             Chamber of Com. of the United States v. SEC                    Page 37
+
+
+         On the other hand, the agency failed to respond to commenters’ concerns that PVABs’
+voluntary efforts to disseminate advice were just that—voluntary—such that they would not
+yield the same transparency and information benefits as the 2020 Rule. The SEC asserted that
+even if PVABs’ voluntary efforts “do not perfectly replicate the requirements of the [Notice-
+And-Awareness Conditions],” they posed less of a risk to the “cost, timeliness, and
+independence” of proxy advice than those conditions. 2022 Rescission, 87 Fed. Reg. at 43,177.
+But that explanation fails to articulate exactly how proxy advisors are less burdened under a
+voluntary regime, or why the agency had reached a different conclusion just two years earlier.
+The agency cannot simply invoke a “timeliness, independence, and cost mantra” to survive
+arbitrary-and-capricious review, without providing further explanation. Argument Audio at
+13:35–13:45.
+
+         In adopting the 2022 Rescission, the SEC insisted that the Notice-And-Awareness
+Conditions would threaten the timeliness, cost, and independence of PVAB advice without
+explaining its changed view of the underlying facts, accounting for changes to the 2020 Rule as
+adopted, or acknowledging the mitigating effects of PVABs’ voluntary practices. In light of the
+significant holes in the SEC’s reasoning, Plaintiffs should prevail on their substantive APA
+claim.
+
+         B. Exchange Act Claim
+
+         Plaintiffs’ Exchange Act claim also has merit. As the Majority notes, the Exchange Act
+imposes a unique statutory obligation on the SEC to “apprise itself . . . of the economic
+consequences of a proposed regulation,” Chamber of Com. v. SEC, 412 F.3d 133, 144 (D.C. Cir.
+2005).    The Fifth Circuit recently recognized that the Exchange Act vests the SEC with
+“discretion to determine the mode of analysis that most allows it ‘to determine as best it can the
+economic implications of the rule it has proposed.’” Chamber of Com. v. SEC, 85 F.4th 760, 774
+(5th Cir. Oct. 31, 2023); cf. Inv. Co. Inst. v. CFTC, 720 F.3d 370, 379 (D.C. Cir. 2013)
+(upholding agency’s qualitative analysis where benefits were “unquantifiable”).        But while
+reliance on quantitative data is not mandatory, the agency may not rely on “mere speculation”
+when analyzing the economic consequences of its proposed rule, particularly where empirical
+evidence is “readily available.” Bus. Roundtable v. SEC, 647 F.3d 1144, 1150 (D.C. Cir. 2011);
+ No. 23-5409                Chamber of Com. of the United States v. SEC                               Page 38
+
+
+Chamber of Com. v. SEC, 412 F.3d 133, 143 (D.C. Cir. 2005) (invalidating a SEC regulation
+where the agency claimed that it lacked a “reliable basis” for estimating the costs of its proposed
+rule, finding that the agency could have at least provided “the range within which [the] cost of
+compliance will fall”).
+
+        The SEC did not make a good-faith effort to approximate either the costs or benefits of
+rescinding the 2020 Rule. For starters, the Commission failed to adequately estimate the burdens
+that companies would experience because of the rescission. The agency acknowledged that its
+analysis would rely on only qualitative data because it had “not received information or data that
+would permit a quantitative analysis.”2 But this is not a case where “empirical evidence”
+regarding the costs of rescission was not “readily available.” Bus. Roundtable, 647 F.3d at 1150.
+Here, certain consequences of rescinding the 2020 Rule were quantifiable, such as the costs
+associated with correcting errors in PVAB recommendations. In the final release adopting the
+2022 Rescission, the Commission recognized that errors in proxy advice do not pose sufficient
+risks to the proxy system to justify keeping the Notice-and-Awareness Conditions because
+companies are able to correct any errors through supplemental filings. 2022 Rescission, 87 Fed.
+Reg. at 43,176. However, that finding fails to account for the resources that companies will be
+forced to divert to make those filings during a compressed time period. Nat’l Ass’n of Mfrs.
+Outlook Survey, Fourth Quarter 2018, R. 35-10, PageID 643, 648 (reporting that 56% of
+companies surveyed “divert[ed] resources from . . . core business functions” to respond to PVAB
+recommendations).         Also, the fact that companies can correct misinformation through
+supplemental filings does not mean that their filings will sway shareholders, or that those filings
+will even reach shareholders prior to a vote. Am. Council for Cap. Formation, Comment Letter
+on Proposed Rule: Proxy Voting Advice, at 7 (Dec. 22, 2021) (noting that supplemental filings
+“are often ineffective”).
+
+        Additionally, as discussed above, the SEC found that companies may rely on internal
+resources to provide shareholder recommendations following the rescission. 2022 Rescission, 87
+
+        2
+          2022 Rescission, 87 Fed. Reg. at 43,186. This claim is suspect, given that the agency likely could have
+amassed data relevant to its Exchange Act inquiry if it had extended the comment period. This court should not
+sanction the SEC’s attempt to rely on its procedural deficiency as justification for giving short shrift to its
+substantive analysis.
+ No. 23-5409            Chamber of Com. of the United States v. SEC                     Page 39
+
+
+Fed. Reg. at 43,188. The agency could have provided data on how internalizing costs would
+impact registrants, or how that impact could differ depending on the size of the company. See
+J.W. Verret, Comment Letter on Proposed Rule: Proxy Voting Advice, at 10 (Dec. 21, 2021)
+(noting that “the impact of this rule on the market more broadly,” rather than on PVABs, is a
+“more appropriate focus” under the Exchange Act). Instead, its conclusion that the rescission
+“could increase costs to investors and registrants” by “reducing the overall mix of information
+available to PVABs’ clients” had “no basis beyond mere speculation.” 2022 Rescission, 87 Fed.
+Reg. at 43,187; Bus. Roundtable, 647 F.3d at 1150.
+
+       With respect to the benefits of rescission, the agency merely referred to its assessment of
+the costs of complying with the 2020 Rule and stated that the rescission would benefit PVABs by
+reducing those direct costs. 2022 Rescission, 87 Fed. Reg. at 43,186. That cursory analysis is
+insufficient, in part because the agency did not consider how PVABs had implemented practices
+to comply with the Notice-and-Awareness Conditions since the 2020 Rule were adopted. The
+SEC could not rely on comments to the 2020 Rule when assessing PVABs’ voluntary efforts,
+because the nature of those voluntary efforts had changed since 2020. Ctr. on Exec. Comp.,
+Comment Letter on Proposed Rule: Proxy Voting Advice, at 7 (Dec. 27, 2021) (noting that since
+publication of the 2020 Rule, ISS has become more resistant to addressing errors or
+misstatements in proxy advice).
+
+       Nor could the SEC simply state that it was “unable to quantify the full range” of benefits
+to PVABs because the precise costs of the Notice-and-Awareness Conditions would “vary
+depending on each PVAB’s current practices and how they implement the new conditions.”
+2022 Rescission, 87 Fed. Reg. at 43,186. Instead, the agency should have attempted to specify
+the nature of PVABs’ voluntary efforts, or address how those efforts could impact the benefits of
+rescission. The SEC did not satisfy the Exchange Act by simply stating that the benefits of
+rescission will vary, particularly where data that would have enabled the agency to give a more
+precise estimate was readily available.
+ No. 23-5409                 Chamber of Com. of the United States v. SEC                                  Page 40
+
+
+                                                        IV.
+
+         Because the 2022 Rescission violates the APA and the Exchange Act, the regulation
+should be vacated.3 The APA requires courts to “hold unlawful and set aside” any agency action
+that violates the statute’s requirements. 5 U.S.C. § 706(2). “When a rule is contrary to law, the
+‘ordinary practice is to vacate it.’” Am. Bankers Ass’n v. Nat’l Credit Union Admin., 934 F.3d
+649, 673–74 (D.C. Cir. 2019) (quoting United Steel v. Mine Safety & Health Admin., 925 F.3d
+1279, 1287 (D.C. Cir. 2019)); see Allina Health Servs. v. Sebelius, 746 F.3d 1102, 1110 (D.C.
+Cir. 2014) (stating that “vacatur is the normal remedy” for unlawful agency action). But in
+“‘rare cases,’” a court may exercise its equitable authority and remand without vacating the rule,
+“so that the agency can ‘correct its errors.’” Am. Bankers Ass’n, 934 F.3d at 674 (quoting United
+Steel, 925 F.3d at 1287). In determining whether to vacate a regulation, we look to “(1) the
+seriousness of the deficiencies of the action, that is, how likely it is the agency will be able to
+justify its decision on remand; and (2) the disruptive consequences of vacatur.” United Steel,
+925 F.3d at 1287.
+
+         Vacatur is appropriate here for two reasons. First, the SEC’s failure to provide an
+adequate comment period is a “fundamental flaw” that alone justifies vacating the regulation.
+See Heartland Reg’l Med. Ctr. v. Sebelius, 566 F.3d 193, 199 (D.C. Cir. 2009) (“Failure to
+provide the required notice and to invite public comment . . . ‘normally’ requires vacatur of the
+rule.”). Second, the Commission failed to make a “strong showing” that the deficiencies in its
+reasoning are not sufficiently serious, such that vacatur is not required. Am. Bankers Ass’n, 934
+F.3d at 674. Even if the agency received additional comments to its proposed rule, it is unlikely
+that it could explain why the Notice-and-Awareness Conditions negatively impacted the
+timeliness and independence of proxy advice to such a degree that they should be rescinded. The
+agency’s bare assertion that it could “further explain its policy choice” is unpersuasive.
+Appellees’ Br. at 52.
+
+
+         3
+           Although the Fifth Circuit held that SEC’s rationale for the 2022 Rescission was arbitrary and capricious,
+the court did not vacate the entire regulation. Instead, the court severed the Notice-and-Awareness Conditions from
+the remainder of the regulation, vacated only that provision, and remanded the case to the agency. See Nat’l Ass’n
+of Mfrs., 105 F.4th at 815–16. Because the Fifth Circuit did not vacate the regulation in its entirety—which is the
+relief sought by Plaintiffs here—the dispute before our panel remains live.
+ No. 23-5409             Chamber of Com. of the United States v. SEC                    Page 41
+
+
+        That the 2022 Rescission contains a severability clause does not alter this conclusion.
+A court may sever an unlawful provision of an agency regulation if it finds that (1) “the agency
+would have adopted the same disposition regarding the unchallenged portion [of the regulation]
+if the challenged portion were subtracted,” and (2) “the parts of the regulation that remain [are]
+able to function sensibly without the stricken provision.” Carlson v. Postal Regul. Comm’n, 938
+F.3d 337, 351 (D.C. Cir. 2019) (internal citations and quotation marks omitted).              The
+Commission claims that the Notice-and-Awareness Conditions can be severed from the
+remainder of the regulation, but it does not explain how its procedural deficiencies affect only
+the challenged conditions. Nor does it claim that it would have promulgated the 2022 Rescission
+without the Notice-and-Awareness Conditions. The regulation therefore should be vacated in its
+entirety.
+
+                                                V.
+
+        The SEC is entitled to shift its policy priorities following a change in leadership—even
+where that change is made for purely political reasons. That said, the APA provides neutral
+requirements that the agency must satisfy, regardless of its policy goals or prior positions. The
+SEC must give the public adequate opportunity to provide input on its proposed rule, reasonably
+respond to that input when explaining its decision, and adequately estimate the economic impact
+of its regulation. Because the SEC failed to comply with any of these statutory requirements in
+adopting the 2022 Rescission, I respectfully dissent.
+

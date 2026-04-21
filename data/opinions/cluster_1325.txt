@@ -1,0 +1,1279 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 8, 2010                 Decided April 6, 2010
+
+                         No. 08-1291
+
+                 COMCAST CORPORATION,
+                     PETITIONER
+
+                             v.
+
+   FEDERAL COMMUNICATIONS COMMISSION AND UNITED
+               STATES OF AMERICA,
+                  RESPONDENTS
+
+                 NBC UNIVERSAL, ET AL.,
+                     INTERVENORS
+
+
+             On Petition for Review of an Order
+        of the Federal Communications Commission
+
+
+
+    Helgi C. Walker argued the cause for petitioner. With
+her on the briefs were Eve Klindera Reed, Elbert Lin, David
+P. Murray, James L. Casserly, and David H. Solomon.
+
+    Howard J. Symons argued the cause for intervenors
+National Cable & Telecommunications Association and NBC
+Universal. With him on the briefs were Neal M. Goldberg,
+Michael S. Schooler, and Margaret L. Tobey. Richard Cotton
+entered an appearance.
+                              2
+    Kyle D. Dixon was on the brief for amici curiae
+Professors James B. Speta and Glen O. Robinson and The
+Progress and Freedom Foundation in support of petitioner.
+
+    Austin C. Schlick, General Counsel, Federal
+Communications Commission, argued the cause for
+respondents. With him on the brief were Catherine G.
+O'Sullivan and Nancy C. Garrison, Attorneys, U.S.
+Department of Justice, Joseph R. Palmore, Deputy General
+Counsel, Federal Communications Commission, Richard K.
+Welch, Deputy Associate General Counsel, and Joel Marcus,
+Counsel. Daniel M. Armstrong III, Associate General
+Counsel, entered an appearance.
+
+    Marvin Ammori argued the cause for intervenors Free
+Press, et al. in support of respondents. With him on the brief
+were Henry Goldberg, Harold Feld, and Andrew Jay
+Schwartzman.
+
+    John F. Blevins was on the brief for amici curiae
+Professors Jack M. Balkin, et al. in support of respondents.
+
+    Before: SENTELLE, Chief Judge, TATEL, Circuit Judge,
+and RANDOLPH, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge TATEL.
+
+     TATEL, Circuit Judge: In this case we must decide
+whether the Federal Communications Commission has
+authority to regulate an Internet service provider’s network
+management practices. Acknowledging that it has no express
+statutory authority over such practices, the Commission relies
+on section 4(i) of the Communications Act of 1934, which
+authorizes the Commission to “perform any and all acts, make
+such rules and regulations, and issue such orders, not
+                              3
+inconsistent with this chapter, as may be necessary in the
+execution of its functions.” 47 U.S.C. § 154(i). The
+Commission may exercise this “ancillary” authority only if it
+demonstrates that its action—here barring Comcast from
+interfering with its customers’ use of peer-to-peer networking
+applications—is “reasonably ancillary to the . . . effective
+performance of its statutorily mandated responsibilities.” Am.
+Library Ass’n v. FCC, 406 F.3d 689, 692 (D.C. Cir. 2005).
+The Commission has failed to make that showing. It relies
+principally on several Congressional statements of policy, but
+under Supreme Court and D.C. Circuit case law statements of
+policy, by themselves, do not create “statutorily mandated
+responsibilities.” The Commission also relies on various
+provisions of the Communications Act that do create such
+responsibilities, but for a variety of substantive and
+procedural reasons those provisions cannot support its
+exercise of ancillary authority over Comcast’s network
+management practices. We therefore grant Comcast’s petition
+for review and vacate the challenged order.
+
+                              I.
+     In 2007 several subscribers to Comcast’s high-speed
+Internet service discovered that the company was interfering
+with their use of peer-to-peer networking applications. See
+Peter Svensson, Comcast Blocks Some Internet Traffic,
+ASSOCIATED PRESS, Oct. 19, 2007. Peer-to-peer programs
+allow users to share large files directly with one another
+without going through a central server. Such programs also
+consume significant amounts of bandwidth.
+
+    Challenging Comcast’s action, two non-profit advocacy
+organizations, Free Press and Public Knowledge, filed a
+complaint with the Federal Communications Commission
+and, together with a coalition of public interest groups and
+law professors, a petition for declaratory ruling. Compl. of
+                               4
+Free Press & Public Knowledge Against Comcast Corp., File
+No. EB-08-IH-1518 (Nov. 1, 2007) (“Compl.”); Pet. of Free
+Press et al. for Decl. Ruling, WC Docket No. 07-52 (Nov. 1,
+2007) (“Pet.”). Both filings argued that Comcast’s actions
+“violat[ed] the FCC’s Internet Policy Statement.” Compl.
+at 1; Pet. at i. Issued two years earlier, that statement
+“adopt[ed] the . . . principles” that “consumers are entitled to
+access the lawful Internet content of their choice . . . [and] to
+run applications and use services of their choice.” In re
+Appropriate Framework for Broadband Access to the Internet
+Over Wireline Facilities, 20 F.C.C.R. 14,986, 14,988, ¶ 4
+(2005). Comcast defended its interference with peer-to-peer
+programs as necessary to manage scarce network capacity.
+Comments of Comcast Corp. at 14, WC Docket No. 07-52
+(Feb. 12, 2008).
+
+     Following a period of public comment, the Commission
+issued the order challenged here. In re Formal Compl. of
+Free Press & Public Knowledge Against Comcast Corp. for
+Secretly Degrading Peer-to-Peer Applications, 23 F.C.C.R.
+13,028 (2008) (Order).        The Commission began by
+concluding not only that it had jurisdiction over Comcast’s
+network management practices, but also that it could resolve
+the dispute through adjudication rather than through
+rulemaking. Id. at 13,033–50, ¶¶ 12–40. On the merits, the
+Commission ruled that Comcast had “significantly impeded
+consumers’ ability to access the content and use the
+applications of their choice,” id. at 13,054, ¶ 44, and that
+because Comcast “ha[d] several available options it could use
+to manage network traffic without discriminating” against
+peer-to-peer communications, id. at 13,057, ¶ 49, its method
+of bandwidth management “contravene[d] . . . federal policy,”
+id. at 13,052, ¶ 43. Because by then Comcast had agreed to
+adopt a new system for managing bandwidth demand, the
+Commission simply ordered it to make a set of disclosures
+                               5
+describing the details of its new approach and the company’s
+progress toward implementing it. Id. at 13,059–60, ¶ 54. The
+Commission added that an injunction would automatically
+issue should Comcast either fail to make the required
+disclosures or renege on its commitment. Id. at 13,060, ¶ 55.
+
+     Although Comcast complied with the Order, it now
+petitions for review, presenting three objections. First, it
+contends that the Commission has failed to justify exercising
+jurisdiction over its network management practices. Second,
+it argues that the Commission’s adjudicatory action was
+procedurally flawed because it circumvented the rulemaking
+requirements of the Administrative Procedure Act and
+violated the notice requirements of the Due Process Clause.
+Finally, it asserts that parts of the Order are so poorly
+reasoned as to be arbitrary and capricious. We begin—and
+end—with Comcast’s jurisdictional challenge.
+
+                               II.
+     Through the Communications Act of 1934, ch. 652, 48
+Stat. 1064, as amended over the decades, 47 U.S.C. § 151 et
+seq., Congress has given the Commission express and
+expansive authority to regulate common carrier services,
+including landline telephony, id. § 201 et seq. (Title II of the
+Act); radio transmissions, including broadcast television,
+radio, and cellular telephony, id. § 301 et seq. (Title III); and
+“cable services,” including cable television, id. § 521 et seq.
+(Title VI). In this case, the Commission does not claim that
+Congress has given it express authority to regulate Comcast’s
+Internet service. Indeed, in its still-binding 2002 Cable
+Modem Order, the Commission ruled that cable Internet
+service is neither a “telecommunications service” covered by
+Title II of the Communications Act nor a “cable service”
+covered by Title VI. In re High-Speed Access to the Internet
+Over Cable and Other Facilities, 17 F.C.C.R. 4798, 4802, ¶ 7
+                               6
+(2002), aff’d Nat’l Cable & Telecomms. Ass’n v. Brand X
+Internet Servs., 545 U.S. 967 (2005). The Commission
+therefore rests its assertion of authority over Comcast’s
+network management practices on the broad language of
+section 4(i) of the Act: “The Commission may perform any
+and all acts, make such rules and regulations, and issue such
+orders, not inconsistent with this chapter, as may be necessary
+in the execution of its functions,” 47 U.S.C. § 154(i). Order,
+23 F.C.C.R. at 13,036, ¶ 15.
+
+     Courts have come to call the Commission’s section 4(i)
+power its “ancillary” authority, a label that derives from three
+foundational Supreme Court decisions: United States v.
+Southwestern Cable Co., 392 U.S. 157 (1968), United States
+v. Midwest Video Corp., 406 U.S. 649 (1972) (Midwest
+Video I), and FCC v. Midwest Video Corp., 440 U.S. 689
+(1979) (Midwest Video II). All three cases dealt with
+Commission jurisdiction over early cable systems at a time
+when, as with the Internet today, the Communications Act
+gave the Commission no express authority to regulate such
+systems. (Title VI, which gives the Commission jurisdiction
+over “cable services,” was not added to the statute until 1984.
+See Cable Communications Policy Act of 1984, Pub. L. No.
+98-549, 98 Stat. 2779.)
+
+     In the first case, Southwestern Cable, the Supreme Court
+considered a challenge to a Commission order restricting the
+geographic area in which a cable company could operate. 392
+U.S. at 160. At that time, cable television, then known as
+“community antenna television” (CATV), functioned quite
+differently than it does today. Employing strategically
+located antennae, these early cable systems simply received
+over-the-air television broadcasts and retransmitted them by
+cable to their subscribers. Id. at 161–62. Although they
+rarely produced their own programming, they improved
+                               7
+reception and allowed subscribers to receive television
+programs from distant stations. Id. at 162–63. Seeking to
+protect Commission-licensed local broadcasters, the
+Commission adopted rules limiting the extent to which cable
+systems could retransmit distant signals and, in the order at
+issue in Southwestern Cable, applied this policy to a particular
+company.      The Supreme Court sustained that order,
+explaining     that    even     though     the    then-existing
+Communications Act gave the Commission no express
+authority over cable television, the Commission could
+nonetheless regulate cable television to the extent “reasonably
+ancillary to the effective performance of the Commission’s
+various responsibilities for the regulation of television
+broadcasting.” Id. at 178. Four years later, in Midwest
+Video I, the Court again sustained the Commission’s use of its
+ancillary authority, this time to support issuance of a
+regulation that required cable operators to facilitate the
+creation of new programs and to transmit them alongside
+broadcast programs they captured from the air. 406 U.S. at
+670.     In Midwest Video II, the Court rejected the
+Commission’s assertion of ancillary authority, setting aside
+regulations that required cable systems to make certain
+channels available for public use. 440 U.S. at 708–09.
+
+     We recently distilled the holdings of these three cases
+into a two-part test. In American Library Ass’n v. FCC, we
+wrote: “The Commission . . . may exercise ancillary
+jurisdiction only when two conditions are satisfied: (1) the
+Commission’s general jurisdictional grant under Title I [of the
+Communications Act] covers the regulated subject and (2) the
+regulations are reasonably ancillary to the Commission’s
+effective performance of its statutorily mandated
+responsibilities.” 406 F.3d at 691–92; see also Order, 23
+F.C.C.R. at 13,035, ¶ 15 n.64 (citing the American Library
+test). Comcast concedes that the Commission’s action here
+                               8
+satisfies the first requirement because the company’s Internet
+service qualifies as “interstate and foreign communication by
+wire” within the meaning of Title I of the Communications
+Act. 47 U.S.C. § 152(a). Whether the Commission’s action
+satisfies American Library’s second requirement is the central
+issue in this case.
+
+                              III.
+    Before addressing that issue, however, we must consider
+two threshold arguments the Commission raises. First, it
+asserts that given a contrary position Comcast took in a
+California lawsuit, the company should be judicially estopped
+from challenging the Commission’s jurisdiction over the
+company’s network management practices. Second, the
+Commission argues that even if Comcast’s challenge can
+proceed, we need not go through our usual ancillary authority
+analysis because a recent Supreme Court decision, National
+Cable & Telecommunications Ass’n v. Brand X Internet
+Services, 545 U.S. 967, makes clear that the Commission had
+authority to issue the Order.
+
+                              A.
+     Courts may invoke judicial estoppel “[w]here a party
+assumes a certain position in a legal proceeding, . . . succeeds
+in maintaining that position, . . . [and then,] simply because
+his interests have changed, assume[s] a contrary position.”
+New Hampshire v. Maine, 532 U.S. 742, 749 (2001) (internal
+quotation marks omitted). For judicial estoppel to apply,
+however, “a party’s later position must be ‘clearly
+inconsistent’ with its earlier position.” Id. at 750 (quoting
+United States v. Hook, 195 F.3d 299, 306 (7th Cir. 1999)).
+“Doubts about inconsistency often should be resolved by
+assuming there is no disabling inconsistency, so that the
+second matter may be resolved on the merits.” 18B CHARLES
+                               9
+ALAN WRIGHT, ARTHUR R. MILLER & EDWARD H. COOPER,
+FEDERAL PRACTICE AND PROCEDURE §4477, at 594 (2d ed.
+2002).
+
+     The Commission’s estoppel argument rests on the
+position Comcast took while defending against a civil action
+in a California federal court. In that case, one of Comcast’s
+Internet customers challenged the company’s interference
+with peer-to-peer programs at the same time Free Press and
+Public Knowledge were pressing their own challenges before
+the Commission. Comcast responded by moving to stay the
+litigation pending resolution of the Commission proceedings.
+In support, it invoked the “primary jurisdiction doctrine,”
+arguing that “a court is ‘obliged to defer’ to an agency where
+the ‘issue brought before a court is in the process of litigation
+through procedures originating in the [agency].’” Def.’s
+Mem. of Law in Supp. of Mot. for J. on Pleadings at 10, Hart
+v. Comcast of Alameda, Inc., No. 07-6350 (N.D. Cal. 2008)
+(“Comcast Cal. Mem.”) (quoting Fed. Power Comm’n v. La.
+Power & Light Co., 406 U.S. 621, 647 (1972)). In language
+the Commission now emphasizes, Comcast continued: “Any
+inquiry into whether Comcast’s [peer-to-peer] management is
+unlawful falls squarely within the FCC’s subject matter
+jurisdiction.” Id. Persuaded, the district court granted the
+requested stay.
+
+    According to the Commission, when Comcast argued that
+the Commission has “subject matter jurisdiction” over its
+disputed network management practices, it was saying that
+any action by the Commission to prohibit those practices
+would satisfy both elements of the American Library test and
+thus lie within the Commission’s ancillary authority.
+“Because Comcast prevailed . . . on [that] theory,” the
+Commission contends, “it should be estopped from arguing
+the opposite here.” Resp’t’s Br. 30. For its part, Comcast
+                               10
+insists it never argued that the Commission could justify
+exercising ancillary authority over its network management
+practices.    Instead, it claims that in saying that the
+Commission possesses “subject matter jurisdiction” over
+those practices, it was arguing no more than what it concedes
+here, namely that its Internet service constitutes
+“communication by wire” within the meaning of American
+Library’s first requirement. Interpreted that way, Comcast’s
+California position does not conflict with the argument it
+makes here, which rests on American Library’s second
+requirement: that the Commission must show that its
+regulation of Comcast’s Internet service is “reasonably
+ancillary to the Commission’s effective performance of its
+statutorily mandated responsibilities.” 406 F.3d at 692.
+
+     Although the parties’ competing interpretations of
+Comcast’s California argument are both plausible, Comcast’s
+is more so. For one thing, its interpretation comports with the
+overall primary jurisdiction argument it advanced in that case.
+As a leading administrative law treatise explains, “The
+question of whether an issue is within [an] agency’s primary
+jurisdiction is different from the question of whether the
+agency actually has exclusive statutory jurisdiction to resolve
+an issue.” 2 RICHARD J. PIERCE, JR., ADMINISTRATIVE LAW
+TREATISE § 14.1, at 1162 (5th ed. 2010). Specifically, for an
+issue to fall within an agency’s primary jurisdiction, the
+agency need not possess definite authority to resolve it; rather,
+there need only be “sufficient statutory support for
+administrative authority . . . that the agency should at least be
+requested to . . . proceed[]” in the first instance. Ricci v.
+Chicago Mercantile Exch., 409 U.S. 289, 304, 300 (1973)
+(holding that a dispute fell within the Commodity Exchange
+Commission’s primary jurisdiction where the Commodity
+Exchange Act “at least arguably protected or prohibited” the
+conduct at issue). Given this standard, and given that then, as
+                               11
+now, the Commission claimed ancillary authority over
+Comcast’s network management practices, the company
+could plausibly argue in the California case (as it claims it
+did) that deference to the Commission’s primary jurisdiction
+was appropriate merely because the disputed practices
+involved “communication by wire”—American Library’s first
+requirement. And as Comcast emphasized in the California
+case, the Commission was already “actively investigating” the
+company’s network management practices, Comcast Cal.
+Mem. at 11, increasing the risk that the civil case could
+disrupt the regulatory process. See PIERCE, ADMINISTRATIVE
+LAW TREATISE § 14.1, at 1162 (“[D]etermination of the
+agency’s primary jurisdiction involves a . . . pragmatic
+evaluation of the advantages and disadvantages of allowing
+the agency to resolve an issue in the first instance.”).
+Therefore, the California court could have fairly concluded
+under the primary jurisdiction doctrine that the Commission
+should determine in the first instance whether regulating
+Comcast’s network management practices would be
+“reasonably ancillary to the Commission’s effective
+performance of its statutorily mandated responsibilities”—
+American Library’s second requirement. 406 F.3d at 692.
+
+     Reinforcing Comcast’s interpretation, the Commission
+itself generally uses “subject matter jurisdiction” to refer only
+to the first part of the American Library test rather than the
+test as a whole. For example, in an earlier Internet-related
+order (cited by Comcast in its California brief), the
+Commission wrote that it “may exercise its ancillary
+jurisdiction when Title I of the Act gives the Commission
+subject matter jurisdiction over the service to be regulated
+and the assertion of jurisdiction is reasonably ancillary to the
+effective performance of its various responsibilities.” In re
+Appropriate Framework for Broadband Access to the Internet
+Over Wireline Facilities, 20 F.C.C.R. 14,853, 14,913–14,
+                             12
+¶ 109 (2005) (emphasis added) (internal quotation marks and
+alteration omitted); accord In re Consumer Information and
+Disclosure, 24 F.C.C.R. 11,380, 11,400, ¶ 62 (2009); In re IP-
+Enabled Services, 24 F.C.C.R. 6039, 6044–45, ¶ 9 (2009); In
+re High-Cost Universal Service Support, 24 F.C.C.R. 6475,
+6540, ¶ 101 (2008).
+
+     We thus do not interpret Comcast’s California argument
+as “inconsistent” with its argument here, let alone “clearly”
+so. New Hampshire, 532 U.S. at 750 (internal quotation
+marks omitted). Because Comcast never clearly argued in the
+California litigation that the Commission’s assertion of
+authority over the company’s network management practices
+would be “reasonably ancillary to the Commission’s effective
+performance of its statutorily mandated responsibilities”
+(American Library’s second requirement), 406 F.3d at 692,
+that question remains for us to answer.
+
+                             B.
+     The Commission’s second threshold argument is that the
+Supreme Court’s decision in Brand X “already decided the
+jurisdictional question here.” Resp’t’s Br. 20. In that case,
+the Court reviewed the Commission’s 2002 Cable Modem
+Order, supra at 5–6, which removed cable Internet service
+from Title II and Title VI oversight by classifying it as an
+“information service.” See Brand X, 545 U.S. at 978.
+Challenging that determination, Brand X argued that cable
+Internet actually comprises a bundle of two services: an
+“information service” not subject to Commission regulation
+and a “telecommunications service” subject to mandatory
+Title II regulation. Id. at 990–91. Brand X pressed this
+argument because if Title II applied to cable Internet, then,
+under its view, cable companies would have to unbundle the
+components of their Internet services, thus allowing Brand X
+and other independent Internet service providers (ISPs) to use
+                               13
+the telecommunications component of those bundles to offer
+competing Internet service over cable company wires. Brand
+X Resp’ts’ Br. at 10, Brand X, 545 U.S. 967 (No. 04-277)
+(“[I]f the telecommunications component of cable modem
+service is a ‘telecommunications service,’ and hence common
+carriage, . . . [c]ustomers then will be able to choose their
+provider of Internet services.”).
+
+     Although the Supreme Court acknowledged that cable
+Internet service does contain a telecommunications
+“component,” it deferred to the Commission’s determination
+that this component is “functionally integrated” into a single
+“offering” properly classified as an “information service.”
+545 U.S. at 991. Using language the Commission now
+emphasizes, the Court went on to say that “the Commission
+remains free to impose special regulatory duties on [cable
+Internet providers] under its Title I ancillary jurisdiction.” Id.
+at 996.     In particular, the Court suggested that the
+Commission could likely “require cable companies to allow
+independent ISPs access to their facilities” pursuant to its
+ancillary authority, rather than using Title II as Brand X
+urged. Id. at 1002. According to the Commission, this means
+that “the FCC has authority over [information service
+providers] under its Title I ancillary jurisdiction.” Resp’t’s
+Br. 20.
+
+     Comcast insists that the references to ancillary
+jurisdiction in Brand X are dicta: “Brand X presented the
+question whether the FCC had permissibly classified cable
+Internet services as ‘information services,’ not whether any
+particular regulation of such services was within the agency’s
+statutory authority.” Pet’r’s Br. 53. Although Comcast may
+well be correct, “carefully considered language of the
+Supreme Court, even if technically dictum, generally must be
+treated as authoritative.” United States v. Oakar, 111 F.3d
+                               14
+146, 153 (D.C. Cir. 1997) (internal quotation marks and
+alteration omitted). In the end, however, we need not decide
+whether the Court’s discussion of ancillary authority in Brand
+X qualifies as “authoritative,” for even if it does the
+Commission stretches the Court’s words too far. By leaping
+from Brand X’s observation that the Commission’s ancillary
+authority may allow it to impose some kinds of obligations on
+cable Internet providers to a claim of plenary authority over
+such providers, the Commission runs afoul of Southwestern
+Cable and Midwest Video I.
+
+     In Southwestern Cable, in which the Court first
+recognized the Commission’s ancillary authority, it expressly
+reserved for future cases the question whether particular
+regulations fall within that power. Although the Court upheld
+the cable television order at issue, it declined “to determine in
+detail the limits of the Commission’s authority to regulate
+CATV.” 392 U.S. at 178. Then in Midwest Video I, the
+Court made clear that the permissibility of each new exercise
+of ancillary authority must be evaluated on its own terms.
+That is, the Court asked whether the particular regulation at
+issue was “reasonably ancillary to the effective performance
+of the Commission’s various responsibilities for the
+regulation of television broadcasting.” 406 U.S. at 670
+(plurality opinion) (internal quotation marks omitted); see
+also id. at 675 (Burger, C.J., concurring). Contrary to the
+kind of inference the Commission would have us draw from
+Brand X, nothing in Midwest Video I even hints that
+Southwestern Cable’s recognition of ancillary authority over
+one aspect of cable television meant that the Commission had
+plenary authority over all aspects of cable.
+
+     We made just this point in National Ass’n of Regulatory
+Utility Commissioners v. FCC, 533 F.2d 601 (D.C. Cir. 1976)
+(NARUC II). There we reviewed a series of Commission
+                              15
+orders that preempted state regulation of non-video uses of
+cable systems, including precursors to modern cable modem
+service. See id. at 616 (“[T]he point-to-point communications
+. . . involve one computer talking to another . . . .”). Leaning
+on its recent victories in Southwestern Cable and Midwest
+Video I, the Commission argued—similar to the way it uses
+Brand X here—that the combined force of those two
+“affirmances of FCC powers over cable must be seen as
+establishing a jurisdiction over all activities of cable
+operators.” Id. at 611. We rejected that argument, explaining
+that Southwestern Cable and Midwest Video I foreclosed the
+Commission’s broad view of ancillary authority. We pointed
+out that in Southwestern Cable the Court “stated explicitly
+that its holding was limited to . . . reasonably ancillary
+activities, and expressly declined to comment on ‘the
+Commission’s authority, if any, to regulate CATV under any
+other circumstances or for any other purposes.’” Id. at 612–
+13 (quoting Southwestern Cable, 392 U.S. at 178). We
+similarly noted that in Midwest Video I the plurality “relied
+explicitly on the Southwestern reasoning, and devoted
+substantial attention to establishing the requisite
+‘ancillariness’ between the Commission’s authority over
+broadcasting and the particular regulation before the Court.”
+Id. at 613. Neither case, we concluded, “recogniz[ed] any
+sweeping authority over [cable] as a whole.” Id. at 612.
+Instead, they “command[ed] that each and every assertion of
+jurisdiction over cable television must be independently
+justified as reasonably ancillary to the Commission’s power
+over broadcasting.” Id. (emphasis added).
+
+    Echoing this interpretation, the Supreme Court in
+Midwest Video II described Southwestern Cable “as
+conferring on the Commission a circumscribed range of
+power to regulate cable television,” a determination
+“reaffirmed” in Midwest Video I. 440 U.S. at 696. “The
+                             16
+question now before us,” the Court continued, “is whether the
+[Communications] Act, as construed in these two cases,
+authorizes the capacity and access regulations that are here
+under challenge.” Id. The Court ultimately concluded that it
+did not, thus reinforcing the principle that the Commission
+must defend its exercise of ancillary authority on a case-by-
+case basis.
+
+     To be sure, Brand X dealt with the Internet, not cable
+television. Nothing in Brand X, however, suggests that the
+Court was abandoning the fundamental approach to ancillary
+authority set forth in Southwestern Cable, Midwest Video I,
+and Midwest Video II. Accordingly, the Commission cannot
+justify regulating the network management practices of cable
+Internet providers simply by citing Brand X’s recognition that
+it may have ancillary authority to require such providers to
+unbundle the components of their services. These are
+altogether different regulatory requirements. Brand X no
+more dictates the result of this case than Southwestern Cable
+dictated the results of Midwest Video I, NARUC II, and
+Midwest Video II. The Commission’s exercise of ancillary
+authority over Comcast’s network management practices
+must, to repeat, “be independently justified.” NARUC II, 533
+F.2d at 612. It is to that issue that we now turn.
+
+                             IV.
+     The Commission argues that the Order satisfies
+American Library’s second requirement because it is
+“reasonably ancillary to the Commission’s effective
+performance” of its responsibilities under several provisions
+of the Communications Act. These provisions fall into two
+categories: those that the parties agree set forth only
+congressional policy and those that at least arguably delegate
+regulatory authority to the Commission. We consider each in
+turn.
+                                17
+                                A.
+     The Commission relies principally on section 230(b), part
+of a provision entitled “Protection for private blocking and
+screening of offensive material,” 47 U.S.C. § 230, that grants
+civil immunity for such blocking to providers of interactive
+computer services, id. § 230(c)(2). Setting forth the policies
+underlying this protection, section 230(b) states, in relevant
+part, that “[i]t is the policy of the United States . . . to promote
+the continued development of the Internet and other
+interactive computer services” and “to encourage the
+development of technologies which maximize user control
+over what information is received by individuals, families,
+and schools who use the Internet.” Id. § 230(b). In this case
+the Commission found that Comcast’s network management
+practices frustrated both objectives. Order, 23 F.C.C.R. at
+13,052–53, ¶ 43.
+
+     In addition to section 230(b), the Commission relies on
+section 1, in which Congress set forth its reasons for creating
+the Commission in 1934: “For the purpose of regulating
+interstate and foreign commerce in communication by wire
+and radio so as to make available, so far as possible, to all the
+people of the United States . . . a rapid, efficient, Nation-wide,
+and world-wide wire and radio communication service . . . at
+reasonable charges, . . . there is created a commission to be
+known as the ‘Federal Communications Commission’ . . . .”
+47 U.S.C. § 151. The Commission found that “prohibiting
+unreasonable network discrimination directly furthers the goal
+of making broadband Internet access service both ‘rapid’ and
+‘efficient.’” Order, 23 F.C.C.R. at 13,036–37, ¶ 16.
+
+    Comcast argues that neither section 230(b) nor section 1
+can support the Commission’s exercise of ancillary authority
+because the two provisions amount to nothing more than
+congressional “statements of policy.” Pet’r’s Br. 46. Such
+                              18
+statements, Comcast contends, “are not an operative part of
+the statute, and do not enlarge or confer powers on
+administrative agencies. As such, they necessarily fail to set
+forth ‘statutorily mandated responsibilities’” within the
+meaning of American Library. Id. at 47 (citations, internal
+quotation marks, and alteration omitted).
+
+     The Commission acknowledges that section 230(b) and
+section 1 are statements of policy that themselves delegate no
+regulatory authority. Still, the Commission maintains that the
+two provisions, like all provisions of the Communications
+Act, set forth “statutorily mandated responsibilities” that can
+anchor the exercise of ancillary authority. “The operative
+provisions of statutes are those which declare the legislative
+will,” the Commission asserts. Resp’t’s Br. 39 (internal
+quotation marks and alteration omitted).           “Here, the
+legislative will has been declared by Congress in the form of a
+policy, along with an express grant of authority to the FCC to
+perform all actions necessary to execute and enforce all the
+provisions of the Communications Act.” Id.
+
+     In support of its reliance on congressional statements of
+policy, the Commission points out that in both Southwestern
+Cable and Midwest Video I the Supreme Court linked the
+challenged Commission actions to the furtherance of various
+congressional “goals,” “objectives,” and “policies.” See, e.g.,
+Southwestern Cable, 392 U.S. at 175; Midwest Video I, 406
+U.S. at 665, 669 (plurality opinion). In particular, the
+Commission notes that in Midwest Video I, the plurality
+accepted its argument that the Commission’s “concern with
+CATV carriage of broadcast signals . . . extends . . . to
+requiring CATV affirmatively to further statutory policies.”
+406 U.S. at 664 (plurality opinion) (emphasis added) (internal
+quotation marks omitted). According to the Commission,
+since congressional statements of policy were sufficient to
+                             19
+support ancillary authority over cable television, it may
+likewise rely on such statements—section 230(b) and
+section 1—to exercise ancillary authority over the network
+management practices of Internet providers.
+
+     We read Southwestern Cable and Midwest Video I quite
+differently. In those cases, the Supreme Court relied on
+policy statements not because, standing alone, they set out
+“statutorily mandated responsibilities,” but rather because
+they did so in conjunction with an express delegation of
+authority to the Commission, i.e., Title III’s authority to
+regulate broadcasting. In Southwestern Cable, the
+Commission argued that restricting the geographic reach of
+cable television was necessary to fulfill its Title III
+responsibility to foster local broadcast service. The Court
+agreed, explaining that “Congress has imposed upon the
+Commission the ‘obligation of providing a widely dispersed
+radio and television service,’ with a ‘fair, efficient, and
+equitable distribution’ of service among the ‘several States
+and communities.’ The Commission has, for this and other
+purposes, been granted authority to allocate broadcasting
+zones or areas, and to provide regulations ‘as it may deem
+necessary’ to prevent interference among the various
+stations.” 392 U.S. at 173–74 (citation and footnote omitted)
+(quoting S. REP. NO. 86-923, at 7 (1959), 47 U.S.C. § 307(b),
+303(f)). The Court concluded that “the Commission has
+reasonably found that the successful performance of these
+duties demands prompt and efficacious regulation of
+community antenna television systems.”          Id. at 177.
+Nonetheless, the Court “emphasize[d] that the authority which
+we recognize today . . . is restricted to that reasonably
+ancillary to the effective performance of the Commission's
+various responsibilities for the regulation of television
+broadcasting.” Id. at 178 (emphasis added).
+                              20
+     In Midwest Video I, the Court again made clear that it
+was sustaining the challenged regulation—requiring cable
+companies to originate their own programming—only
+because of its connection to the Commission’s Title III
+authority over broadcasting. A four-Justice plurality agreed
+with the Commission that the challenged rule would “further
+the achievement of long-established regulatory goals in the
+field of television broadcasting by increasing the number of
+outlets for community self-expression and augmenting the
+public’s choice of programs and types of services.” 406 U.S.
+at 667–68 (plurality opinion) (internal quotation marks
+omitted). Because the regulation “preserve[d] and enhance[d]
+the integrity of broadcast signals” it satisfied Southwestern
+Cable, i.e., it was “reasonably ancillary to the effective
+performance of the Commission's various responsibilities for
+the regulation of television broadcasting.” Id. at 670
+(emphasis added) (internal quotation marks omitted). Chief
+Justice Burger made the same point in a controlling
+concurring opinion: “CATV is dependent totally on broadcast
+signals and is a significant link in the system as a whole and
+therefore must be seen as within the jurisdiction of the Act.”
+Id. at 675 (Burger, C.J., concurring). That said, he warned,
+“candor requires acknowledgment . . . that the Commission’s
+position strains the outer limits of” its authority. Id. at 676.
+
+     The Commission exceeded those “outer limits” in both
+NARUC II and Midwest Video II. In NARUC II, the
+Commission defended its exercise of ancillary authority over
+non-video cable communications (as it does here with respect
+to Comcast’s network management practices) on the basis of
+section 1’s “overall statutory mandate to make available, so
+far as possible, to all the people of the United States a rapid,
+efficient, [N]ation-wide, and world-wide wire and radio
+communications service.” 533 F.2d at 606 (internal quotation
+marks and alteration omitted). The Commission “reasoned
+                              21
+that this language called for the development of a nationwide
+broadband communications grid in which cable systems
+should play an important part.” Id. (internal quotation marks
+omitted).     We rejected that argument.          Relying on
+Southwestern Cable and Midwest Video I, we began by
+explaining that the Commission’s ancillary authority “is really
+incidental to, and contingent upon, specifically delegated
+powers under the Act.” Id. at 612 (emphasis added).
+Applying that standard, we found it “difficult to see how any
+action which the Commission might take concerning two-way
+cable communications could have as its primary impact the
+furtherance of any broadcast purpose.” Id. at 615. Because
+the regulations had not been “justified as reasonably ancillary
+to the Commission’s power over broadcasting,” id. at 612, we
+vacated them.
+
+     In Midwest Video II, the Supreme Court rejected the
+Commission’s assertion of ancillary authority to impose a
+public access requirement on certain cable channels because
+doing so would “relegate[] cable systems . . . to common-
+carrier status.” 440 U.S. at 700–01. Pointing out that the
+Communications Act expressly prohibits common carrier
+regulation of broadcasters, id. at 702, the Court held that
+given the derivative nature of ancillary jurisdiction the same
+prohibition applied to the Commission’s regulation of cable
+providers. The Commission had opposed this logic, arguing
+that it could regulate “so long as the rules promote statutory
+objectives.” Id. The Court rejected that broad claim and,
+revealing the flaw in the argument the Commission makes
+here, emphasized that “without reference to the provisions of
+the Act directly governing broadcasting, the Commission's
+[ancillary] jurisdiction . . . would be unbounded.” Id. at 706
+(emphasis added). “Though afforded wide latitude in its
+supervision over communication by wire,” the Court added,
+                               22
+“the Commission was not delegated unrestrained authority.”
+Id.
+
+      The teaching of Southwestern Cable, Midwest Video I,
+Midwest Video II, and NARUC II—that policy statements
+alone cannot provide the basis for the Commission’s exercise
+of ancillary authority—derives from the “axiomatic” principle
+that “administrative agencies may [act] only pursuant to
+authority delegated to them by Congress.” Am. Library, 406
+F.3d at 691. Policy statements are just that—statements of
+policy. They are not delegations of regulatory authority. To
+be sure, statements of congressional policy can help delineate
+the contours of statutory authority. Consider, for example, the
+various services over which the Commission enjoys express
+statutory authority. When exercising its Title II authority to
+set “just and reasonable” rates for phone service, 47 U.S.C.
+§ 201(b), or its Title III authority to grant broadcasting
+licenses in the “public convenience, interest, or necessity,” id.
+§ 307(a), or its Title VI authority to prohibit “unfair methods
+of competition” by cable operators that limit consumer access
+to certain types of television programming, id. § 548(b), the
+Commission must bear in mind section 1’s objective of
+“Nation-wide . . . wire and radio communication service . . . at
+reasonable charges,” id. § 151. In all three examples, section
+1’s policy goal undoubtedly illuminates the scope of the
+“authority delegated to [the Commission] by Congress,” Am.
+Library, 406 F.3d at 691—though it is Titles II, III, and VI
+that do the delegating.         So too with respect to the
+Commission’s section 4(i) ancillary authority. Although
+policy statements may illuminate that authority, it is Title II,
+III, or VI to which the authority must ultimately be ancillary.
+
+    In this case the Commission cites neither section 230(b)
+nor section 1 to shed light on any express statutory delegation
+of authority found in Title II, III, VI, or, for that matter,
+                              23
+anywhere else. That is, unlike the way it successfully
+employed policy statements in Southwestern Cable and
+Midwest Video I, the Commission does not rely on section
+230(b) or section 1 to argue that its regulation of an activity
+over which it concededly has no express statutory authority
+(here Comcast’s Internet management practices) is necessary
+to further its regulation of activities over which it does have
+express statutory authority (here, for example, Comcast’s
+management of its Title VI cable services). In this respect,
+this case is just like NARUC II. On the record before us, we
+see “no relationship whatever,” NARUC II, 533 F.2d at 616,
+between the Order and services subject to Commission
+regulation. Perhaps the Commission could use section 230(b)
+or section 1 to demonstrate such a connection, but that is not
+how it employs them here.
+
+     Instead, the Commission maintains that congressional
+policy by itself creates “statutorily mandated responsibilities”
+sufficient to support the exercise of section 4(i) ancillary
+authority. Not only is this argument flatly inconsistent with
+Southwestern Cable, Midwest Video I, Midwest Video II, and
+NARUC II, but if accepted it would virtually free the
+Commission from its congressional tether. As the Court
+explained in Midwest Video II, “without reference to the
+provisions of the Act” expressly granting regulatory authority,
+“the Commission’s [ancillary] jurisdiction . . . would be
+unbounded.” 440 U.S. at 706. Indeed, Commission counsel
+told us at oral argument that just as the Order seeks to make
+Comcast’s Internet service more “rapid” and “efficient,”
+Order, 23 F.C.C.R. 13,036–37, ¶ 16, the Commission could
+someday subject Comcast’s Internet service to pervasive rate
+regulation to ensure that the company provides the service at
+“reasonable charges,” 47 U.S.C. § 151. Oral Arg. Tr. 58–59.
+Were we to accept that theory of ancillary authority, we see
+no reason why the Commission would have to stop there, for
+                              24
+we can think of few examples of regulations that apply to
+Title II common carrier services, Title III broadcast services,
+or Title VI cable services that the Commission, relying on the
+broad policies articulated in section 230(b) and section 1,
+would be unable to impose upon Internet service providers. If
+in Midwest Video I the Commission “strain[ed] the outer
+limits of even the open-ended and pervasive jurisdiction that
+has evolved by decisions of the Commission and the courts,”
+406 U.S. at 676 (Burger, C.J., concurring), and if in
+NARUC II and Midwest Video II it exceeded those limits, then
+here it seeks to shatter them entirely.
+
+     Attempting to avoid this conclusion, the Commission
+argues that in several more recent cases we upheld its use of
+ancillary authority on the basis of policy statements alone. In
+each of those cases, however, we sustained the exercise of
+ancillary authority because, unlike here, the Commission had
+linked the cited policies to express delegations of regulatory
+authority.
+
+      The Commission places particular emphasis on Computer
+and Communications Industry Ass’n v. FCC, 693 F.2d 198
+(D.C. Cir. 1982) (CCIA). There we considered a challenge to
+the Commission’s landmark 1980 Computer II Order, in
+which the Commission set forth regulatory ground rules for
+common carriers that provided so-called enhanced services,
+i.e., precursors to modern information services like cable
+Internet. See In re Amend. of § 64.702 of the Comm’n’s Rules
+and Regulations (Second Computer Inquiry), 77 F.C.C.2d
+384, 385–89, ¶¶ 1–13 (1980). The petitioners argued that two
+aspects of the Computer II Order exceeded the Commission’s
+ancillary authority. First, the Commission had ruled that
+AT&T, then the monopoly telephone provider throughout
+most of the nation, could offer enhanced services only
+through a separate subsidiary. CCIA, 693 F.2d at 205.
+                             25
+Second, the Commission had mandated that all common
+carriers unbundle charges for “consumer premises equipment”
+(CPE)—i.e., telephones, computer terminals, and other
+similar devices—from their regulated tariffs. Id. We
+sustained both requirements. Emphasizing, as we do here,
+that Southwestern Cable “limited the Commission’s
+jurisdiction to that which is reasonably ancillary to the
+effective performance of the Commission’s various
+responsibilities,” we explained that “[o]ne of those
+responsibilities is to assure a nationwide system of wire
+communications services at reasonable prices.” Id. at 213
+(internal quotation marks omitted).      According to the
+Commission, this latter language demonstrates that section 1
+describes “statutorily mandated responsibilities.” But the
+Commission reads our statement out of context.
+
+     The crux of our decision in CCIA was that in its
+Computer II Order the Commission had linked its exercise of
+ancillary authority to its Title II responsibility over common
+carrier rates—just the kind of connection to statutory
+authority missing here. Thus, with respect to the AT&T
+component of the order, we relied on the Commission’s
+finding that “[r]egulation of enhanced services was . . .
+necessary to prevent AT&T from burdening its basic
+transmission service customers with part of the cost of
+providing competitive enhanced services.” Id. “Given [the]
+potentially symbiotic relationship between competitive and
+monopoly services,” we concluded that “the agency charged
+with ensuring that monopoly rates are just and reasonable can
+legitimately exercise jurisdiction over the provision of
+competitive services.” Id. We made the same point with
+respect to the order’s CPE component: “[E]xercising
+jurisdiction over CPE was necessary to carry out [the
+Commission’s] duty to assure the availability of transmission
+services at reasonable rates.” Id. So, when we wrote that
+                              26
+“[o]ne of [the Commission’s] responsibilities is to assure a
+nationwide system of wire communications services at
+reasonable prices,” id., we were using section 1’s language in
+just the way required by Southwestern Cable, Midwest
+Video I, Midwest Video II, and NARUC II: for the light it
+sheds on the Commission’s Title II ratemaking power. In
+other words, we viewed the Commission’s Computer II
+Order—like the Supreme Court had viewed the regulations at
+issue in Southwestern Cable—as regulation of services
+otherwise beyond the Commission’s authority in order to
+prevent frustration of a regulatory scheme expressly
+authorized by statute.
+
+     The Commission’s reliance on Rural Telephone
+Coalition v. FCC, 838 F.2d 1307 (D.C. Cir. 1988), fares no
+better. There we upheld the Commission’s creation of a
+Universal Service Fund to provide subsidies for telephone
+service in rural and other high-cost areas. Again borrowing
+the language of section 1, we held that “[a]s the Universal
+Service Fund was proposed in order to further the objective of
+making communication service available to all Americans at
+reasonable charges, the proposal was within the
+Commission’s statutory authority.” Id. at 1315. Contrary to
+the Commission’s argument, however, Rural Telephone, like
+CCIA, rested not on section 1 alone, but on the fact that
+creation of the Universal Service Fund was ancillary to the
+Commission’s Title II responsibility to set reasonable
+interstate telephone rates. True, as the Commission observes,
+our discussion of ancillary authority never cites Title II. But
+any such citation would simply have restated the obvious
+given that the Commission established the Universal Service
+Fund for the very purpose of “‘ensur[ing] that telephone rates
+are within the means of the average subscriber in all areas of
+the country.’” Id. at 1311–12 (emphasis added) (quoting In re
+                              27
+Amend. of Pt. 67 of the Comm’n’s Rules and Establishment of
+a Joint Bd., 96 F.C.C.2d 781, 795, ¶ 30 (1984)).
+
+     Next the Commission cites New York State Commission
+on Cable Television v. FCC, 749 F.2d 804 (D.C. Cir. 1984),
+in which we considered a challenge to a Commission order
+preempting state regulation of early satellite television.
+Because petitioner there never argued that the Commission’s
+exercise of ancillary authority lacked sufficient grounding in
+express statutory authority, New York State Commission did
+not address the issue we now face. See id. at 808 (describing
+petitioner’s challenge). Still, in sustaining the Commission’s
+action, we noted that “[i]n its preemption order the
+Commission based its authority over [satellite television]
+upon the federal interest in ‘the unfettered development of
+interstate transmission of satellite signals.’” Id. at 808
+(quoting In re Earth Satellite Commc’ns, Inc., 95 F.C.C.2d
+1223, 1230, ¶ 16 (1983)). According to the Commission, this
+language demonstrates that ancillary authority may be
+grounded in policy alone. Not so. Our statement does
+nothing more than clearly and accurately describe what the
+Commission actually did, i.e., supply a policy justification for
+its decision. Significantly for the issue before us here, the
+Commission’s preemption order also expressly linked its
+exercise of ancillary authority over satellite television to its
+Title III authority over users of radio spectrum. The
+Commission noted that the reception facilities that states
+sought to regulate (satellite dishes on hotel and apartment
+building roofs) “initially were subject to Commission
+licensing,” calling these receivers “absolutely essential
+instrumentalities of radio broadcasting.” Earth Satellite
+Commc’ns, 95 F.C.C.2d at 1231, ¶ 17 (internal quotation
+marks omitted). The Commission also cited section 303,
+which provides that “the Commission . . . as public
+convenience, interest, or necessity requires, shall . . .
+                                28
+[c]lassify radio stations; . . . [p]rescribe the nature of the
+service to be rendered by each class of licensed stations and
+each station within any class; . . . [a]ssign bands of
+frequencies to the various classes of stations,” and so on. 47
+U.S.C. § 303. These express delegations of authority contrast
+sharply with the general policies set forth in section 230(b)
+and section 1.
+
+     The Commission next relies on National Ass’n of
+Regulatory Utility Commissioners v. FCC, 880 F.2d 422
+(D.C. Cir. 1989) (NARUC III), in which we considered a
+challenge to its decision to preempt state regulation of “inside
+wiring”—“telephone wires within a customer’s home or place
+of business.” Id. at 425. The Commission had found inside
+wiring to be beyond the scope of its Title II regulation and
+simultaneously preempted state regulation of such wiring.
+We held that the Commission had authority to issue the
+preemption orders insofar as necessary “to encourage
+competition in the provision, installation, and maintenance of
+inside wiring.” Id. at 429–30. Although we did “agree with
+the FCC that this policy [was] consistent with the goals of the
+Act, and that it [had] the authority to implement this policy
+with respect to interstate communications,” id. (citation
+omitted), petitioners in that case had conceded that “inside
+wiring installation and maintenance . . . are integral to
+telephone communication,” id. at 427 (emphasis added)—a
+fact critical to the Commission’s exercise of preemption
+authority. In its orders, the Commission had emphasized that
+“[o]ur prior preemption decisions have generally been limited
+to activities that are closely related to the provision of services
+and which affect the provision of interstate services.” In re
+Detariffing the Installation and Maintenance of Inside Wiring,
+1 F.C.C.R. 1190, 1192, ¶ 17 (1986). The term “services”
+referred to “common carrier communication services” within
+the scope of the Commission’s Title II jurisdiction. Id. “In
+                               29
+short,” the Commission explained, “the interstate telephone
+network will not function as efficiently as possible without the
+preemptive detariffing of inside wiring installation and
+maintenance.” Id. (emphasis added). The Commission’s
+preemption of state regulation of inside wiring was thus
+ancillary to its regulation of interstate phone service, precisely
+the kind of link to express delegated authority that is absent in
+this case.
+
+     The Commission cites several additional cases, but none
+support its expansive view of ancillary authority. Two
+decisions, like the many we have already discussed, upheld
+the Commission’s exercise of ancillary authority because,
+unlike here, the Commission had linked its action to a
+statutory delegation of regulatory authority. See United
+Video, Inc. v. FCC, 890 F.2d 1173, 1182–83 (D.C. Cir. 1989)
+(upholding rules that, like those upheld in Southwestern
+Cable, limited the ability of cable companies to import
+programming into a broadcaster’s market); GTE Serv. Corp.
+v. FCC, 474 F.2d 724, 729–30 (2d Cir. 1973) (upholding
+Commission regulation of “data processing activities of
+common carriers” based on the Commission’s concern “that
+the statutory obligation of the communication common carrier
+to provide adequate and reasonable services could be
+adversely affected”). In another case, we rejected the
+Commission’s argument, similar to the one it makes here, that
+it could exercise ancillary authority on the basis of policy
+alone. Motion Picture Ass’n of Am. v. FCC, 309 F.3d 796,
+806–07 (D.C. Cir. 2002) (finding the Commission’s
+“argument that [its] video description rules are obviously a
+valid communications policy goal and in the public interest”
+insufficient to justify its exercise of ancillary authority
+(internal quotation marks omitted)). And in two decisions,
+ancillary authority was either never addressed, Nat’l Broad.
+Co. v. United States, 319 U.S. 190 (1943) (reviewing the
+                              30
+Commission’s exercise of its express licensing power over
+broadcasting stations under section 303, 47 U.S.C. § 303), or
+addressed only in passing, AT&T Corp. v. Iowa Utils. Bd.,
+525 U.S. 366, 379–80 (1999) (mentioning the existence of the
+Commission’s ancillary authority in the course of interpreting
+another provision of the Act).
+
+                              B.
+     This brings us to the second category of statutory
+provisions the Commission relies on to support its exercise of
+ancillary authority. Unlike section 230(b) and section 1, each
+of these provisions could at least arguably be read to delegate
+regulatory authority to the Commission.
+
+       We begin with section 706 of the Telecommunications
+Act of 1996, which provides that “[t]he Commission . . . shall
+encourage the deployment on a reasonable and timely basis of
+advanced telecommunications capability to all Americans . . .
+by utilizing . . . price cap regulation, regulatory forbearance,
+measures that promote competition in the local
+telecommunications market, or other regulating methods that
+remove barriers to infrastructure investment.” 47 U.S.C.
+§ 1302(a). As the Commission points out, section 706 does
+contain a direct mandate—the Commission “shall encourage
+. . . .”  In an earlier, still-binding order, however, the
+Commission ruled that section 706 “does not constitute an
+independent grant of authority.” In re Deployment of
+Wireline Servs. Offering Advanced Telecomms. Capability, 13
+F.C.C.R. 24,012, 24,047, ¶ 77 (1998) (Wireline Deployment
+Order). Instead, the Commission explained, section 706
+“directs the Commission to use the authority granted in other
+provisions . . . to encourage the deployment of advanced
+services.” Id. at 24,045, ¶ 69.
+                              31
+     The Commission now insists that this language refers
+only “to whether section 706(a) supported forbearance
+authority,” Resp’t’s Br. 41, i.e., the Commission’s authority to
+free regulated entities from their statutory obligations in
+certain circumstances, see 47 U.S.C. § 160. According to the
+Commission, it “was not opining more generally on the effect
+of section 706 on ancillary authority.” Resp’t’s Br. 41. But
+the order itself says otherwise: “[S]ection 706(a) does not
+constitute an independent grant of forbearance authority or of
+authority to employ other regulating methods.” Wireline
+Deployment Order, 13 F.C.C.R. at 24,044, ¶ 69 (emphasis
+added). Because the Commission has never questioned, let
+alone overruled, that understanding of section 706, and
+because agencies “may not . . . depart from a prior policy sub
+silentio,” FCC v. Fox Television Stations, Inc., 129 S. Ct.
+1800, 1811 (2009), the Commission remains bound by its
+earlier conclusion that section 706 grants no regulatory
+authority.
+
+    Implying that this court has done what the Commission
+has not, the Commission points to a recent decision in which
+we wrote, “The general and generous phrasing of § 706
+means that the FCC possesses significant, albeit not
+unfettered, authority and discretion to settle on the best
+regulatory or deregulatory approach to broadband.” Ad Hoc
+Telecomms. Users Comm. v. FCC, 572 F.3d 903, 906–07
+(D.C. Cir. 2009). In that case, however, we cited section 706
+merely to support the Commission’s choice between
+regulatory approaches clearly within its statutory authority
+under other sections of the Act, and upheld the Commission’s
+refusal to forbear from certain regulation of business
+broadband lines as neither arbitrary nor capricious. Nowhere
+did we question the Commission’s determination that section
+706 does not delegate any regulatory authority.           The
+Commission’s reliance on section 706 thus fails. As in the
+                              32
+case of section 230(b) and section 1, the Commission is
+seeking to use its ancillary authority to pursue a stand-alone
+policy objective, rather than to support its exercise of a
+specifically delegated power.
+
+     The Commission’s attempt to tether its assertion of
+ancillary authority to section 256 of the Communications Act
+suffers from the same flaw. Section 256 directs the
+Commission to “establish procedures for . . . oversight of
+coordinated network planning . . . for the effective and
+efficient interconnection of public telecommunications
+networks.” 47 U.S.C. § 256(b)(1). In language unmentioned
+by the Commission, however, section 256 goes on to state that
+“[n]othing in this section shall be construed as expanding . . .
+any authority that the Commission” otherwise has under law,
+id. § 256(c)—precisely what the Commission seeks to do
+here.
+
+     The Commission next cites section 257. Enacted as part
+of the Telecommunications Act of 1996, that provision gave
+the Commission fifteen months to “complete a proceeding for
+the purpose of identifying and eliminating, by regulations
+pursuant to its authority under this chapter (other than this
+section), market entry barriers for entrepreneurs and other
+small businesses in the provision and ownership of
+telecommunications services and information services.” 47
+U.S.C. § 257(a). Although the section 257 proceeding is now
+complete, that provision also directs the Commission to report
+to Congress every three years on any remaining barriers. See
+In re § 257 Proceeding to Identify and Eliminate Mkt. Entry
+Barriers for Small Bus., 12 F.C.C.R. 16,802 (1997)
+(completing original proceeding); 47 U.S.C. § 257(c)
+(requiring ongoing reports). We readily accept that certain
+assertions of Commission authority could be “reasonably
+ancillary” to the Commission’s statutory responsibility to
+                               33
+issue a report to Congress. For example, the Commission
+might impose disclosure requirements on regulated entities in
+order to gather data needed for such a report. But the
+Commission’s attempt to dictate the operation of an otherwise
+unregulated service based on nothing more than its obligation
+to issue a report defies any plausible notion of “ancillariness.”
+See Motion Picture Ass’n of Am., 309 F.3d at 801–02 (holding
+that an order requiring that broadcasters incorporate “video
+descriptions” into certain television programs fell outside the
+Commission’s ancillary authority even though it had been
+directed to produce a report on the subject).
+
+     Next the Commission argues that its exercise of authority
+over Comcast’s network management practices is ancillary to
+its section 201 common carrier authority—though the section
+201 argument the Commission sets forth in its brief is very
+different from the one appearing in the Order. As indicated
+above, section 201 provides that “[a]ll charges, practices,
+classifications, and regulations for and in connection with
+[common carrier] service shall be just and reasonable.” 47
+U.S.C. § 201(b). In the Order, the Commission found that by
+blocking certain traffic on Comcast’s Internet service, the
+company had effectively shifted the burden of that traffic to
+other service providers, some of which were operating their
+Internet access services on a common carrier basis subject to
+Title II. Order, 23 F.C.C.R. at 13,037–38, ¶ 17. By
+marginally increasing the variable costs of those providers,
+the Commission maintained, Comcast’s blocking of peer-to-
+peer transmissions affected common carrier rates.            Id.
+Whatever the merits of this position, the Commission has
+forfeited it by failing to advance it here. See United States ex
+rel. Totten v. Bombardier Corp., 380 F.3d 488, 497 (D.C. Cir.
+2004) (“Ordinarily, arguments that parties do not make on
+appeal are deemed to have been waived.”).
+                              34
+     Instead, the Commission now argues that voice over
+Internet Protocol (VoIP) services—in essence, telephone
+services using Internet technology—affect the prices and
+practices of traditional telephony common carriers subject to
+section 201 regulation. According to the Commission, some
+VoIP services were disrupted by Comcast’s network
+management practices. We have no need to examine this
+claim, however, for the Commission must defend its action on
+the same grounds advanced in the Order. SEC v. Chenery
+Corp., 318 U.S. 80, 87–88 (1943).
+
+     The same problem undercuts the Commission’s effort to
+link its regulation of Comcast’s network management
+practices to its Title III authority over broadcasting. The
+Commission contends that Internet video “has the potential to
+affect the broadcast industry” by influencing “local
+origination of programming, diversity of viewpoints, and the
+desirability of providing service in certain markets.” Resp’t’s
+Br. 43. But the Commission cites no source for this argument
+in the Order, nor can we find one.
+
+     Finally, the Commission argues that the Order is
+ancillary to its section 623 authority over cable rates. 47
+U.S.C. § 543. Although the Order never mentions section
+623, and although, as far as we can tell, no commenter
+suggested section 623 as a basis for the Commission’s
+exercise of ancillary authority, the Commission argues that its
+reliance on this provision is implicit in its section 1 finding.
+That finding included the following explanation:
+
+    [E]xercising jurisdiction over the complaint would
+    promote [section 1’s] goal of achieving “reasonable
+    charges.” For example, if cable companies such as
+    Comcast are barred from inhibiting consumer access
+    to high-definition on-line video content, then, as
+                              35
+    discussed above, consumers with cable modem
+    service will have available a source of video
+    programming (much of it free) that could rapidly
+    become an alternative to cable television. The
+    competition provided by this alternative should result
+    in downward pressure on cable television prices,
+    which have increased rapidly in recent years.
+
+Order, 23 F.C.C.R. at 13,037, ¶ 16. Laying the foundation for
+this theory earlier in the Order, the Commission found that
+“video distribution poses a particular competitive threat to
+Comcast’s video-on-demand (‘VOD’) service. VOD operates
+much like online video, where Internet users can select and
+download or stream any available program without a schedule
+and watch it any time . . . .” Id. at 13,030, ¶ 5 (internal
+quotation marks and alteration omitted).
+
+     The Commission’s argument that we should read its
+invocation of section 1 as a reference to its section 623
+authority over cable rates fails because, unlike its Title II
+authority over common carrier rates, its section 623 authority
+is sharply limited. Indeed, section 623 expressly prohibits the
+Commission from regulating rates for “video programming
+offered on a . . . per program basis,” i.e., video-on-demand
+service.     47 U.S.C. § 543(l)(2), (a)(1). Although the
+Commission once enjoyed broader authority over cable rates,
+see id. § 543(c)(4), its current authority is limited to setting
+standards for and overseeing local regulation of rates for
+“basic tier” service on certain cable systems. See id. § 543(b).
+In the Order, the Commission does not assert ancillary
+authority based on this narrow grant of regulatory power.
+Instead, the Order rests on the premise that section 1 gives the
+Commission ancillary authority to ensure reasonable rates for
+all communication services, including those, like video-on-
+demand, over which it has no express regulatory authority.
+                              36
+As explained above, Southwestern Cable, Midwest Video I,
+Midwest Video II, and NARUC II bar this expansive theory of
+ancillary authority.
+
+                              V.
+     It is true that “Congress gave the [Commission] broad
+and adaptable jurisdiction so that it can keep pace with rapidly
+evolving communications technologies.” Resp’t’s Br. 19. It
+is also true that “[t]he Internet is such a technology,” id.,
+indeed, “arguably the most important innovation in
+communications in a generation,” id. at 30.                 Yet
+notwithstanding the “difficult regulatory problem of rapid
+technological change” posed by the communications industry,
+“the allowance of wide latitude in the exercise of delegated
+powers is not the equivalent of untrammeled freedom to
+regulate activities over which the statute fails to confer . . .
+Commission authority.” NARUC II, 533 F.2d at 618 (internal
+quotation marks and footnote omitted).            Because the
+Commission has failed to tie its assertion of ancillary
+authority over Comcast’s Internet service to any “statutorily
+mandated responsibility,” Am. Library, 406 F.3d at 692, we
+grant the petition for review and vacate the Order.
+
+                                                    So ordered.
+

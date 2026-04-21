@@ -1,0 +1,558 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued December 10, 2020           Decided August 20, 2021
+
+                       No. 20-1024
+
+         LOUISIANA PUBLIC SERVICE COMMISSION,
+                      PETITIONER
+
+                             v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+ ENTERGY SERVICES, LLC AND ARKANSAS PUBLIC SERVICE
+                    COMMISSION,
+                    INTERVENORS
+
+
+          On Petition for Review of Orders of the
+          Federal Energy Regulatory Commission
+
+
+    Michael R. Fontham argued the cause for petitioner. With
+him on the briefs were Dana M. Shelton and Justin A. Swaim.
+
+    Lona T. Perry, Deputy Solicitor, Federal Energy
+Regulatory Commission, argued the cause for respondent.
+With her on the brief were David L. Morenoff, Acting General
+Counsel, and Robert H. Solomon, Solicitor.
+
+     Glen Ortman, Dennis Lane, Gregory W. Camet, Mark
+Strain, and Marnie A. McCormick were on the brief for
+intervenors Entergy Services, LLC and Arkansas Public
+                               2
+Service Commission in support of respondent. Jennifer S.
+Amerkhail and Marie Denyse Zosa entered appearances.
+
+    Before: HENDERSON, PILLARD, and KATSAS, Circuit
+Judges.
+
+    Opinion of the Court filed by Circuit Judge KATSAS.
+
+    KATSAS, Circuit Judge: The Federal Energy Regulatory
+Commission required Entergy Corporation’s five operating
+companies to roughly equalize their electricity production
+costs. In determining which costs must be equalized, FERC
+excluded purchased-power costs that a Louisiana affiliate
+incurred in 2005 and amortized in 2008 and 2009. The agency
+reasoned that the governing tariff excluded the disputed
+amortization expenses.      The Louisiana Public Service
+Commission (LPSC) challenges this exclusion.
+
+                               I
+
+     Entergy, a public-utility holding company, owns five
+operating companies that sell electricity in four states,
+including Louisiana. The companies have been governed by a
+system agreement requiring them to act as a “single economic
+unit.” LPSC v. FERC, 184 F.3d 892, 894 (D.C. Cir. 1999)
+(LPSC I). The agreement provided for the companies to
+operate power facilities jointly, and it required a “rough
+equalization” of their production costs. LPSC v. FERC, 522
+F.3d 378, 383–84 (D.C. Cir. 2008) (LPSC II) (cleaned up).1
+
+     FERC has long reviewed the operating companies’
+allocation of production costs, which affect electricity rates.
+See LPSC II, 522 F.3d at 389–90. In 2005, FERC determined
+
+    1
+       The agreement terminated in August 2016, after the events
+underlying this petition.
+                              3
+that the production costs were not roughly equal and imposed
+a “bandwidth remedy” to achieve rough equalization after the
+fact: Whenever the yearly production costs of an individual
+operating company deviated from the average by more than
+11%, companies with lower costs were required to pay
+companies with higher costs as necessary to bring all five
+companies within that range. LPSC, 111 FERC ¶ 61,311,
+PP 28, 145 (2005). Although FERC initially made the
+bandwidth remedy effective in 2006, we set aside that effective
+date in 2008. See LPSC II, 522 F.3d at 400. In 2011, on
+remand from this Court, FERC extended the bandwidth remedy
+to production costs incurred on or after June 1, 2005. See
+LPSC, 137 FERC ¶ 61,047, P 34 (2011).
+
+     In the meantime, Entergy filed a tariff establishing a
+formula to calculate production costs subject to the bandwidth
+remedy, which FERC largely accepted. LPSC, 117 FERC
+¶ 61,203, P 75 (2006). The formula incorporated cost data
+from the operating companies’ annual Form 1 reports, which
+classify assets and expenses according to FERC’s Uniform
+System of Accounts. See 18 C.F.R. pt. 101. The bandwidth
+formula was keyed mostly to these FERC accounts. The
+formula included a variable for purchased-power expenses
+(PURP), which utilities incur when buying power on wholesale
+markets. PURP incorporated expenses recorded in FERC
+Account 555, which covers purchased-power expenses. See id.
+pt. 101, acct. 555.
+
+     The bandwidth remedy led to annual compliance
+proceedings. In April of each year, the operating companies
+would report production-cost data for the preceding year on
+Form 1. Using that data, Entergy would determine whether any
+of its operating companies fell outside the 11% bandwidth and
+report the results to FERC.
+                                4
+     This petition concerns how the bandwidth formula
+accounts for deferred production costs. Utilities often must
+spread over many years their recovery of large, non-recurring
+costs. To do this, a company offsets those costs by creating a
+regulatory asset—a type of credit. The company then
+amortizes the asset in later years, creating debits chargeable to
+customers. Over time, FERC and Entergy have taken different
+positions on whether the bandwidth formula should recognize
+these production costs when an operating company incurs them
+or in later years as it amortizes the associated regulatory asset.
+
+     Historically, the Entergy companies recorded regulatory
+assets and their related amortization expenses in two FERC
+accounts not referenced in the bandwidth formula—Account
+407.3 (Regulatory Debits) and Account 407.4 (Regulatory
+Credits). Entergy continued this practice in its first bandwidth
+filing, the 2007 filing concerning 2006 production data. In
+excluding regulatory assets and their amortization from the
+bandwidth calculation, Entergy effectively accounted for
+deferred production costs when they were incurred, rather than
+when the related amortization expenses were recorded. But
+FERC rejected this approach. It prohibited the companies from
+recording regulatory assets and amortization expenses in
+Accounts 407.3 and 407.4 when the assets and expenses could
+be traced to another account. See Entergy Servs., Inc., 130
+FERC ¶ 61,023, PP 261–65 (2010). And when the assets and
+expenses could be traced to accounts incorporated into the
+bandwidth formula, it ordered Entergy to treat amortization
+expenses as production costs for purposes of the formula. See
+LPSC, 132 FERC ¶ 61,253, P 34 (2010).
+
+    Perhaps anticipating these rulings, Entergy revised its
+accounting for deferred purchased-power costs during the 2008
+bandwidth proceedings for 2007 cost data. Because the
+regulatory assets and related amortization expenses could be
+                               5
+traced to Account 555, Entergy began recording them there,
+rather than in Accounts 407.3 and 407.4. And because the
+bandwidth formula defined purchased-power expenses by
+reference to Account 555, this approach included amortization
+expenses in the bandwidth calculation. Entergy thus counted
+deferred purchased-power costs when the associated regulatory
+assets were amortized, rather than when the underlying costs
+actually were incurred.
+
+     LPSC challenged this approach, and the parties reached a
+settlement. See Entergy Servs., Inc., 128 FERC ¶ 61,181
+(2009). It required Entergy to amend the bandwidth formula
+“starting with the 2009 Bandwidth Calculation (i.e., effective
+May 31, 2009) to provide that all purchased power costs will
+be included in the Bandwidth Calculation in the year the costs
+are incurred, regardless of whether they are deferred on the
+individual Operating Company’s books.” J.A. 1298.
+
+     Pursuant to the settlement, Entergy proposed amending the
+definition of PURP. Under the amendment, PURP still would
+include most purchased-power expenses recorded in Account
+555, but it would “exclud[e] the effects, debits and credits,
+resulting from a regulatory decision that causes the deferral of
+the recovery of current year costs or the amortization of
+previously deferred costs.” J.A. 1327. FERC accepted the
+proposal and made the amendment effective May 31, 2009,
+before the 2009 bandwidth proceedings. See Entergy Servs.,
+Inc., 128 FERC ¶ 61,069, P 11 (2009). Under the amendment,
+the bandwidth formula again considered deferred purchased-
+power costs when the operating companies incurred them, not
+when the companies amortized the relevant regulatory assets.
+
+    This petition concerns application of the amendment to the
+2009 and 2010 bandwidth proceedings, which involve
+production costs for 2008 and 2009. FERC reopened these
+                               6
+proceedings after it discovered accounting errors in the delayed
+bandwidth proceeding for 2005 production costs. There, an
+administrative law judge ruled that the operating companies
+had erroneously recorded certain regulatory assets and their
+associated amortization expenses in Accounts 407.3 and 407.4.
+LPSC, 157 FERC ¶ 63,018, P 101 (2016). One of these
+deferrals is at issue—a $56.3 million purchased-power cost that
+Entergy Louisiana, one of the operating companies, incurred in
+2005. To blunt its impact on ratepayers, LPSC had ordered the
+company to establish a regulatory asset and amortize it over
+four years. Id. The ALJ ruled that Entergy Louisiana should
+have recorded the asset and its amortization in Account 555,
+and that Entergy had to revise the bandwidth calculation
+accordingly. Id. PP 113–14. FERC agreed, but stressed that
+any corrections “should be limited to accounting adjustments
+that have been shown to have a bandwidth implication.” LPSC,
+163 FERC ¶ 61,116, PP 119–20 (2018) (Recalculation Order).
+Recognizing that the error implicated the bandwidth
+calculations for later years, FERC ordered Entergy Louisiana
+to refile its Form 1 report and ordered Entergy to adjust
+bandwidth payments for subsequent years “to ensure that
+legitimate production costs are properly accounted for on the
+FERC Form 1 reports and reflected in rates under the filed
+formula.” Id. P 121.
+
+    Entergy corrected the accounting and bandwidth
+calculations for the $56.3 million regulatory credit that Entergy
+Louisiana received in 2005 and the associated amortization
+expenses that it recorded in 2006 and 2007. But Entergy did
+not change its calculations for the amortization expenses
+recorded in 2008 and 2009. It reasoned that those expenses
+would not affect the bandwidth remedy under the 2009
+amendment, which expressly excluded amortization expenses
+from the calculation of purchased-power costs.
+                               7
+     Entergy’s calculation locked a portion of Entergy
+Louisiana’s $56.3 million production cost out of the bandwidth
+remedy. When Entergy Louisiana incurred that cost in 2005,
+the bandwidth formula recognized deferred purchased-power
+costs only upon amortization, so the bandwidth calculation for
+2005 did not account for the costs. But for amortization
+expenses realized in 2008 and 2009, Entergy read the amended
+bandwidth formula to recognize deferred purchased-power
+costs only when they were actually incurred, so its revised
+calculations excluded those amortization expenses. As a result,
+Entergy Louisiana never received bandwidth credit for portions
+of the 2005 production cost that it amortized in 2008 and 2009.
+
+     FERC agreed with Entergy that the 2009 amendment
+excluded these amortization expenses. LPSC, 167 FERC
+¶ 61,186, PP 23–25 (2019) (Compliance Order). It reasoned
+that because the amended bandwidth formula was part of the
+filed rate, FERC could not include the amortization expenses
+in the bandwidth calculation. Id. P 29. On rehearing, FERC
+rejected LPSC’s proposed interpretation of the 2009
+amendment and its fallback arguments for departing from the
+amendment. See LPSC, 169 FERC ¶ 61,247 (2019) (Rehearing
+Order).
+
+     LPSC now seeks review of FERC’s ruling. We have
+jurisdiction to consider its petition under 16 U.S.C. § 825l(b).
+
+                               II
+
+    We review FERC orders under the Administrative
+Procedure Act, which requires us to set aside decisions that are
+“arbitrary, capricious, an abuse of discretion, or otherwise not
+in accordance with law.” 5 U.S.C. § 706(2)(A); see Verso
+Corp. v. FERC, 898 F.3d 1, 7 (D.C. Cir. 2018). In a “technical
+area like electricity rate design,” we give FERC a significant
+degree of deference. FERC v. Elec. Power Supply Ass’n, 577
+                               8
+U.S. 260, 292 (2016). We must accept FERC’s factual findings
+if they are “supported by substantial evidence.” 16 U.S.C.
+§ 825l(b). We must also defer to FERC’s reasonable
+interpretation of tariffs, PSEG Energy Res. & Trade LLC v.
+FERC, 665 F.3d 203, 208 (D.C. Cir. 2011), and of its own prior
+orders, NSTAR Elec. & Gas. Corp. v. FERC, 481 F.3d 794, 799
+(D.C. Cir. 2007).
+
+      The Federal Power Act requires electric utilities to charge
+“just and reasonable” rates. 16 U.S.C. § 824d(a). If FERC
+finds that a rate is unreasonable, it may establish a just and
+reasonable rate. Id. § 824e(a). Under this authority, FERC
+may reallocate production costs under the Entergy system
+agreement, including by ensuring compliance with the
+bandwidth remedy. LPSC II, 522 F.3d at 390–91. But because
+the bandwidth formula is part of a filed rate, FERC’s discretion
+is significantly limited. See LPSC v. FERC, 771 F.3d 903, 910
+(5th Cir. 2014) (LPSC III); LPSC v. FERC, 606 F. App’x 1, 4
+(D.C. Cir. 2015) (LPSC IV). Under the filed-rate doctrine, a
+utility “may not charge, or be forced by [FERC] to charge, a
+rate different from the one on file.” SFPP, L.P. v. FERC, 967
+F.3d 788, 801–02 (D.C. Cir. 2020) (cleaned up); see also 16
+U.S.C. § 824d(c), (d) (requiring regulated utilities to
+prospectively file rates with FERC). As a corollary, FERC may
+adjust rates only prospectively. See id. § 824e(a). It cannot
+alter rates to retroactively correct for a past under-collection.
+Verso Corp., 898 F.3d at 10.
+
+                               A
+
+     Because this case turns on the effect of the 2009
+amendment, we first decide what it means. We review FERC’s
+tariff interpretations with a “Chevron-like analysis.” PSEG,
+665 F.3d at 208 (cleaned up). Under that framework, we must
+                               9
+enforce unambiguous tariff language, but we defer to FERC’s
+reasonable interpretation of ambiguous text. Id.
+
+     The 2009 amendment added the emphasized language to
+the definition of the PURP variable in the bandwidth formula:
+
+    PURP = Purchased Power Expense recorded in FERC
+    Account 555, but excluding payments made pursuant
+    to Section 30.09(d) of this Service Schedule and
+    excluding the effects, debits and credits, resulting
+    from a regulatory decision that causes the deferral of
+    the recovery of current year costs or the amortization
+    of previously deferred costs.
+
+J.A. 1327 (emphasis added). The parties dispute whether the
+amendment applies to costs that are amortized after its adoption
+but rest on deferral decisions that predate it. FERC and Entergy
+contend that the amendment does so apply, while LPSC
+contends that it does not.
+
+     We agree with FERC, for nothing in the amendment turns
+on the timing of a deferral decision. The amendment does not
+target deferral decisions as such, but rather their “effects.” So
+long as a purchased-power expense arises after the
+amendment’s effective date and results from a deferral
+decision, the amendment applies by its terms. And when a
+regulatory decision orders a company to amortize a previously
+incurred cost over several years, the ensuing amortizations
+plainly qualify as such “effects.”
+
+    In response, LPSC highlights the phrase “debits and
+credits.” It argues that the amendment applies only if it would
+exclude both the debits and credits associated with a particular
+deferral decision. And so, LPSC concludes, the amendment
+does not exclude the “debits” of a preexisting deferral decision
+                               10
+because the related “credits” occurred at the time of the
+deferral—before the amendment had become effective.
+
+     LPSC’s interpretation defies grammar. As nouns set off
+by commas, “debits and credits” are “explanatory
+equivalent[s]” of “effects,” the immediately preceding noun.
+Appositives, The Chicago Manual of Style § 6.28 (17th ed.
+2017); see R. Huddleston & G. Pullum, The Cambridge
+Grammar of the English Language 1357–58 (1st ed. 2002). In
+this context, “and” assumes its “distributive sense”—i.e., it
+means “A and B, jointly or severally.” Or and And, Garner’s
+Dictionary of Legal Usage (3d ed. 2011) (emphasis added); see
+also Huddleston & Pullum, supra, at 1281 (distributive sense
+is the “default”). The amendment treats debits and credits as
+distinct classes of excluded “effects.” After all, an effect is
+“[s]omething brought about by a cause or agent; a result.”
+Effect, American Heritage Dictionary (5th ed. 2018). And no
+fair reading of that term requires both a debit and a credit to
+constitute an effect resulting from a deferral decision. Instead,
+debits that arise from a deferral decision are “effects” of the
+decision regardless of whether the amendment also happens to
+cover a related credit.
+
+     LPSC’s interpretation is also in tension with the rest of the
+amendment, which contemplates decisions that create only
+debits or only credits. Recall that the amendment excludes the
+effects of regulatory decisions that cause “the deferral of the
+recovery of current year costs or the amortization of previously
+deferred costs.” J.A. 1327 (emphasis added). A decision that
+requires a company to defer cost recovery causes only a credit,
+while a decision that permits the company to amortize
+previously deferred costs causes only debits. By listing these
+causes disjunctively, the amendment confirms its extension to
+regulatory decisions that cause only credits or only debits. In
+contrast, to apply only to decisions that cause both a credit and
+                                  11
+a debit, the amendment would have had to cover regulatory
+decisions that cause “the deferral of the recovery of costs and
+the amortization of those costs.”
+
+     LPSC next argues that other evidence, such as trial
+testimony and the settlement agreement that precipitated the
+amendment, show an intent to limit the amendment to later
+deferral decisions. According to LPSC, the settlement
+agreement is particularly important because it too is part of the
+filed rate. But because the amendment “unambiguously
+addresses the matter at issue,” its language controls. PSEG,
+665 F.3d at 208 (cleaned up). As for the settlement agreement,
+it simply required Entergy to amend the definition of the PURP
+variable in the future; the agreement itself did not alter the
+bandwidth formula, so it is not part of the filed rate.2
+
+    In sum, the 2009 amendment is not limited to deferral
+decisions that postdate it. So long as an amortized purchased-
+power expense “result[s] from” a deferral decision, the
+amendment applies.
+
+                                  B
+
+     Our construction of the 2009 amendment largely resolves
+this appeal. As noted, the bandwidth formula is part of the filed
+rate. See LPSC III, 771 F.3d at 910; LPSC IV, 606 F. App’x at
+4. In the proceedings below, FERC found that the amendment
+was part of the bandwidth formula—and thus the filed rate—
+
+     2
+        To the extent LPSC contends that the settlement agreement
+should control over the amendment, we cannot consider its
+argument. The 60-day deadline to challenge FERC’s order
+approving the 2009 amendment has long expired. See 16 U.S.C.
+§ 825l(b). Challenging the validity of that amendment would
+constitute an untimely collateral attack on the order approving it. See
+Pac. Gas & Elec. Co. v. FERC, 533 F.3d 820, 825 (D.C. Cir. 2008).
+                              12
+for the 2009 and 2010 proceedings. See Rehearing Order, 169
+FERC ¶ 61,247, P 29; Compliance Order, 167 FERC ¶ 61,186,
+P 25. This ruling, which no party disputed below, is consistent
+with FERC’s order accepting the amendment and ruling that it
+was effective for the 2009 bandwidth proceedings. Entergy
+Servs., Inc., 128 FERC ¶ 61,069, P 11.
+
+     This finding obligated Entergy to exclude the disputed
+expenses from the bandwidth calculation. Even though the
+purchased-power expenses that Entergy Louisiana amortized
+in 2008 and 2009 were recorded in Account 555, they were also
+“effects” (or “debits”) “resulting from a regulatory decision
+that causes the deferral of the recovery of current year costs.”
+The 2009 amendment thus unambiguously excluded them from
+the bandwidth calculation. And FERC was bound to enforce
+the amendment as part of the filed rate, which it could not
+waive or retroactively amend. See NSTAR, 481 F.3d at 800.
+
+                               C
+
+     LPSC raises three fallback arguments to support including
+the amortized expenses in the bandwidth formula despite the
+2009 amendment. They are unpersuasive.
+
+     First, LPSC contends that FERC failed to follow its
+Recalculation Order, which required Entergy to adjust
+bandwidth payments after correcting the accounting errors
+uncovered in the 2005 bandwidth proceeding. 163 FERC
+¶ 61,116, P 121. LPSC claims that this required Entergy to
+include amortization expenses in its subsequent bandwidth
+calculations for later years. But the Recalculation Order
+mandated corrections to ensure that Entergy Louisiana’s
+expense was “reflected in rates under the filed formula.” Id.
+And beginning with bandwidth calculations for 2008 expenses,
+the “filed formula” included the 2009 amendment, which
+FERC was bound to apply. See NSTAR, 481 F.3d at 800.
+                              13
+     Second, LPSC contends that applying the amendment to
+expenses that stem from the 2005 deferral decision would
+violate the prohibition on retroactive ratemaking. According
+to LPSC, the 2005 rate must govern because it was effective
+when LPSC ordered Entergy Louisiana to defer recovering the
+$56.3 million expense. By changing the applicable rate, LPSC
+reasons, FERC retroactively removed a benefit that Entergy
+Louisiana could reasonably expect to receive.
+
+     LPSC misunderstands the rule against retroactive
+ratemaking. As discussed, the bandwidth remedy turns on
+production costs recorded in the preceding year. At most, the
+rule prohibited FERC from changing the rate for expenses that
+the companies had already recorded. See NSTAR, 481 F.3d at
+800. For example, as the ALJ in these proceedings held, the
+rule prohibited applying the 2009 amendment to 2005
+production costs, which would have allowed Entergy
+Louisiana to fully account for its costs. LPSC, 157 FERC
+¶ 63,018, P 111. Although LPSC’s 2005 deferral decision led
+to the amortization expenses at issue, Entergy Louisiana
+incurred those expenses in 2008 and 2009. And the rule against
+retroactive ratemaking does not protect a utility’s expectation
+that a rate will not change in the future. By seeking to change
+the rate that would otherwise govern production expenses
+recorded in 2008 and 2009, LPSC itself asks for an improper
+retroactive rate increase. As FERC correctly concluded, it
+cannot adjust current rates to make up for “over- or under-
+collection in prior periods.” Old Dominion Elec. Coop. v.
+FERC, 892 F.3d 1223, 1227 (D.C. Cir. 2018) (cleaned up).
+
+     Alternatively, LPSC contends that the rule against
+retroactive ratemaking at least prohibited FERC from applying
+the 2009 amendment to expenses that the operating companies
+had incurred before FERC approved the amendment—that is,
+to production costs between January 2008 and May 2009.
+                               14
+Because LPSC did not raise this argument before FERC, we
+cannot consider it. See 16 U.S.C. § 825l(b). In its rehearing
+motion, LPSC argued only that the rule required the 2005 rate
+to govern all amortization expenses related to the deferral. It
+did not seek to apply the filed rate for the year in which
+expenses were amortized. Indeed, LPSC asserted to the ALJ
+that the amendment was “effective beginning with the 2009
+Bandwidth filing for the 2008 test year.” J.A. 90. And it told
+FERC that the settlement agreement “unambiguously applies
+to costs and deferrals going forward, beginning in the 2008 test
+year used for the 2009 Bandwidth Calculation.” J.A. 1335.
+LPSC cannot now pivot to new arguments that it previously
+conceded. See Cal. Dep’t of Water Res. v. FERC, 306 F.3d
+1121, 1125 (D.C. Cir. 2002).3
+
+     Third, LPSC contends that FERC arbitrarily declined to
+account for the amortized expenses under 16 U.S.C. § 825h,
+which allows FERC to “perform any and all acts . . . as it may
+find necessary or appropriate” to enforce the Federal Power
+Act. But the filed-rate doctrine “restrict[s] the remedies that
+FERC may order” under § 825h, Verso Corp., 898 F.3d at 10,
+by depriving it of “discretion to waive the operation of a filed
+rate or to retroactively change or adjust a rate for good cause or
+for any other equitable considerations,” Old Dominion, 892
+F.3d at 1230. And, to reiterate, the filed rate required FERC to
+exclude the disputed expenses from the bandwidth calculation.
+
+   LPSC objects that the filed-rate doctrine does not apply
+“when judicial invalidation of Commission decisions has
+
+    3
+          Given our disposition, we need not consider FERC’s
+alternative ruling that LPSC consented to any retroactive rate.
+Rehearing Order, 169 FERC ¶ 61,247, P 30; see also NSTAR, 481
+F.3d at 801 (parties can “agree[] to make a rate effective
+retroactively” (cleaned up)).
+                              15
+resulted in retroactive changes in rates.” W. Deptford Energy,
+LLC v. FERC, 766 F.3d 10, 22 (D.C. Cir. 2014). But the
+exception LPSC invokes is narrow: FERC can retroactively
+correct for legal error only where, among other requirements,
+the parties “were aware in advance of the risk of litigation-
+induced change.” Id. at 23. To create notice, there must be a
+close link between the claimed error and the change
+retroactively imposed on remand. Usually this means that the
+rate itself is subject to challenge, though in one case the
+challenge concerned the lawfulness of a rate in a settlement
+agreement that a party had accepted “in reliance on an unlawful
+FERC order.” Pub. Utils. Comm’n of Cal. v. FERC, 988 F.2d
+154, 162–66 (D.C. Cir. 1993).
+
+     Here, there was no notice that the rate set by the 2009
+amendment was subject to change. The validity of the
+amendment itself has never been questioned. Instead, LPSC
+offers an attenuated chain of causation between an unrelated
+legal error and approval of the amendment: This Court
+invalidated FERC’s decision to make the bandwidth remedy
+effective in 2006, which led FERC to extend the remedy to
+some costs incurred in 2005, which led an ALJ to discover that
+the operating companies had mistakenly recorded amortization
+expenses in non-bandwidth accounts. Had the arbitrary
+effective date not substantially delayed bandwidth proceedings
+for the 2005 production costs, LPSC continues, Entergy would
+have discovered the error in time to propose a different 2009
+amendment permitting all deferred-production costs to be
+recognized in the bandwidth calculation. Even assuming that
+LPSC’s inferences are true and that legal errors unrelated to
+underlying rates can trigger the exception, more than bare, but-
+for causation is required to overcome the “nearly impenetrable
+shield” against retroactive ratemaking. Old Dominion, 892
+F.3d at 1230. The litigation over the bandwidth’s start date
+could not have given notice that an ALJ would find accounting
+                              16
+errors significant enough to affect settlement negotiations over
+the 2009 amendment. The notice exception to the filed-rate
+doctrine does not apply. And because the filed-rate doctrine
+does apply, LPSC’s § 825h argument is without merit. See
+Verso Corp., 898 F.3d at 10.
+
+                              III
+
+    For these reasons, we deny the petition for review.
+
+                                                    So ordered.
+

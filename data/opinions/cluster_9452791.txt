@@ -1,0 +1,1450 @@
+Case: 23-60167      Document: 00517004299         Page: 1    Date Filed: 12/15/2023
+
+
+
+
+           United States Court of Appeals                                United States Court of Appeals
+
+                for the Fifth Circuit                                             Fifth Circuit
+
+                                                                                FILED
+                                 ____________                           December 15, 2023
+
+                                   No. 23-60167                            Lyle W. Cayce
+                                                                                Clerk
+                                 ____________
+
+   Illumina, Incorporated; GRAIL, Incorporated, now known
+   as GRAIL, L.L.C.,
+
+                                                                      Petitioners,
+
+                                       versus
+
+   Federal Trade Commission,
+
+                                                                     Respondent.
+                   ______________________________
+
+                   Appeal from the Federal Trade Commission
+                                Agency No. 9401
+                   ______________________________
+
+   Before Clement, Graves, and Higginson, Circuit Judges.
+   Edith Brown Clement, Circuit Judge:
+          The Federal Trade Commission determined that Illumina, Inc.’s
+   acquisition of Grail, Inc. violated Section 7 of the Clayton Act, and therefore
+   ordered that the merger be unwound. Because the Commission applied an
+   erroneous legal standard at the rebuttal stage of its analysis, we VACATE
+   the Commission’s order and REMAND for further proceedings.
+Case: 23-60167      Document: 00517004299          Page: 2   Date Filed: 12/15/2023
+
+
+
+
+                                    No. 23-60167
+
+
+                                         I.
+                                         A.
+          Founded in 1998, Illumina is a publicly traded, for-profit corporation
+   that specializes in the manufacture and sale of next-generation sequencing
+   (“NGS”) platforms. NGS is a method of DNA sequencing that is used in a
+   variety of medical applications. In September 2015, Illumina founded a
+   wholly-owned subsidiary, Grail, which was so-named because its goal was to
+   reach the “Holy Grail” of cancer research—the creation of a multi-cancer
+   early detection (“MCED”) test that could identify the presence of multiple
+   types of cancer from a single blood sample.
+          Grail was incorporated as a separate entity in January 2016. Illumina
+   maintained a controlling stake in the company until February 2017 when, to
+   raise the capital needed to move Grail’s MCED test from concept to clinical
+   trials, Illumina decided to bring in outside investors. This spin-off reduced
+   Illumina’s equity stake in Grail to 12%. By September 2020, Grail had raised
+   $1.9 billion through a combination of venture capital and strategic partners.
+   Then, on September 20, 2020, Illumina entered into an agreement to re-
+   acquire Grail for $8 billion, with the goal of bringing Grail’s now-developed
+   MCED test to market.
+          The MCED-test industry had changed dramatically between
+   February 2017—when Illumina spun Grail off—and September 2020—when
+   Illumina agreed to re-acquire Grail. Grail’s MCED test—which it named
+   Galleri—had acquired a breakthrough device designation from the U.S. Food
+   and Drug Administration (“FDA”), and Grail had published promising
+   results from a clinical study concerning the initial version of Galleri and was
+   undergoing additional clinical studies to validate its updated version.
+   Meanwhile, Thrive Earlier Detection Corporation had announced that the
+   initial version of its own MCED test—CancerSEEK—had also been
+
+
+
+
+                                         2
+Case: 23-60167        Document: 00517004299             Page: 3      Date Filed: 12/15/2023
+
+
+
+
+                                         No. 23-60167
+
+
+   clinically validated. And other MCED tests—including Singlera Genomics,
+   Inc.’s PanSeer—were in development. All of the MCED tests in
+   development—including Galleri, CancerSEEK, and PanSeer—relied on
+   Illumina’s NGS platforms for sequencing, and there were no available
+   alternatives.
+             Given their reliance on Illumina’s NGS platforms, Illumina’s
+   customers—both within and without the MCED-test industry—expressed
+   concern about whether they would be able to continue to purchase Illumina’s
+   NGS products post-merger on the same terms and conditions as pre-merger.
+   So, Illumina developed a standardized supply contract (the “Open Offer”)
+   that it made available to all for-profit U.S. oncology customers on March 30,
+   2021. The Open Offer is irrevocable, may be accepted by a customer at any
+   time until August 18, 2027, became effective as of the merger’s closing, and
+   will remain effective until August 18, 2033. Among other terms, the Open
+   Offer requires Illumina to provide its NGS platforms at the same price and
+   with the same access to services and products that is provided to Grail.
+             Grail first offered Galleri for commercial sale in April 2021 as a
+   laboratory-developed test.1 While Galleri is the only NGS-based MCED test
+   currently available on the market, others expect to go to market soon and to
+   directly compete with Galleri. Illumina’s NGS platforms are still the only
+   means of sequencing MCED tests and will remain so for the foreseeable
+   future.
+
+
+
+             _____________________
+             1
+             The FDA does not review or validate safety or efficacy data of tests sold as
+   laboratory-developed tests. Rather, independent labs self-certify the quality of their own
+   product under the regulatory framework set forth under the Clinical Laboratory
+   Improvement Amendments. For this reason, laboratory-developed tests have lower
+   adoption rates than FDA-approved tests.
+
+
+
+
+                                               3
+Case: 23-60167       Document: 00517004299           Page: 4     Date Filed: 12/15/2023
+
+
+
+
+                                      No. 23-60167
+
+
+                                           B.
+          On March 30, 2021—the same day Illumina released its Open Offer—
+   the FTC’s Complaint Counsel issued a complaint alleging that the Illumina-
+   Grail merger agreement, if consummated, would violate Section 7 of the
+   Clayton Act.2 The merger was, in fact, consummated on August 18, 2021,
+   but, due to ongoing regulatory review by the European Commission, Illumina
+   held—and continues to hold—Grail as a separate company.
+          The FTC’s Chief Administrative Law Judge (“ALJ”) convened an
+   evidentiary hearing on August 24, 2021. In the coming months, the parties
+   developed an extensive evidentiary record consisting of over 4,500 exhibits
+   and the live or deposition testimony of fifty-six fact witnesses and ten experts.
+   Based on this record, the ALJ issued his initial decision on September 1,
+   2022. The ALJ found that Complaint Counsel failed to prove that the merger
+   was likely to cause a substantial lessening of competition in the market for the
+   research, development, and commercialization of MCED tests. Specifically,
+   the ALJ concluded that Complaint Counsel had not shown a likelihood that
+   Illumina would foreclose against Grail’s rivals because Grail has no current
+   competitors in the market to be foreclosed, the MCED tests in development
+   would not be a good substitute for Grail’s test, and any foreclosing activities
+   would cause harm to Illumina’s NGS-sales business. In any event, the ALJ
+   determined, the Open Offer “effectively constrains Illumina from harming
+   Grail’s alleged rivals and rebuts the inference that future harm to Grail’s
+   alleged rivals, and thus future harm to competition, is likely.”
+
+
+          _____________________
+          2
+             For clarity, we use “FTC” when discussing the Federal Trade Commission
+   generally, “Complaint Counsel” when describing the FTC’s actions as a party to these
+   adversary proceedings, and “Commission” when referring to the FTC’s actions as an
+   adjudicatory body.
+
+
+
+
+                                            4
+Case: 23-60167     Document: 00517004299          Page: 5   Date Filed: 12/15/2023
+
+
+
+
+                                   No. 23-60167
+
+
+         Complaint Counsel appealed the ALJ’s decision to the Commission,
+   and, after oral argument, the Commission reversed. Upon its de novo review,
+   the Commission concluded that the merger was likely to substantially lessen
+   competition in the market for the research, development, and
+   commercialization of MCED tests. The Commission found that the ALJ had
+   factually erred in discussing the capabilities of Grail and other MCED tests
+   in development, improperly focused on foreclosure harm to MCED tests on
+   the market today as opposed to tests in development, and failed to recognize
+   that any losses to Illumina’s NGS sales would be more than offset by
+   Illumina’s expected gains in clinical testing. The Commission also held that
+   the Open Offer was a remedy that should not be factored into the liability
+   analysis. But the Commission evaluated the Open Offer as rebuttal evidence
+   anyway, finding that the Open Offer failed to rebut Complaint Counsel’s
+   prima facie case because it would not “eliminate the effects” of the merger.
+   Finally, the Commission rejected Illumina’s constitutional defenses. The
+   Commission therefore ordered Illumina to divest Grail. Illumina now
+   appeals.
+                                       II.
+         We review the Commission’s decision, not that of the ALJ. Impax
+   Laboratories, Inc. v. FTC, 994 F.3d 484, 491 (5th Cir. 2021). All legal
+   questions pertaining to the Commission’s order are reviewed de novo while
+   the Commission’s factual findings are reviewed for “substantial evidence.”
+   Chicago Bridge & Iron Co. N.V. v. FTC, 534 F.3d 410, 422 (5th Cir. 2008).
+   Under this standard, we are bound by the Commission’s factual
+   determinations so long as they are supported by “such relevant evidence as
+   a reasonable mind might accept as adequate.” FTC v. Ind. Fed’n of Dentists,
+   476 U.S. 447, 454 (1986) (citation omitted). This is so “even if suggested
+   alternative conclusions may be equally or even more reasonable and
+
+
+
+
+                                        5
+Case: 23-60167        Document: 00517004299          Page: 6     Date Filed: 12/15/2023
+
+
+
+
+                                      No. 23-60167
+
+
+   persuasive.” N. Tex. Specialty Physicians v. FTC, 528 F.3d 346, 354 (5th Cir.
+   2008) (internal quotation marks and citation omitted).
+                                           III.
+          Because, as explained below, resolution of Illumina’s statutory claims
+   does not “obviate the need to consider” the constitutional issues raised,
+   United States v. Wells Fargo Bank, 485 U.S. 351, 354 (1988), we begin with
+   Illumina’s four constitutional challenges. Each is foreclosed by Supreme
+   Court authority.
+                                           A.
+          First, Illumina contends that the Commission proceedings were the
+   result of an unconstitutional delegation of legislative power in violation of
+   Article I. Specifically, Illumina claims that Congress delegated to the FTC
+   the power to decide whether to bring antitrust enforcement actions in an
+   administrative proceeding, pursuant to Section 5(b) of the FTC Act, 15
+   U.S.C. § 45(b), or to bring this same enforcement action in an Article III
+   court pursuant to Section 13(b) of the FTC Act, 15 U.S.C. § 53(b), without
+   providing “any guidance for purposes of deciding between administrative
+   proceedings and federal court.”
+          But as the Supreme Court recently clarified, federal-court actions
+   under Section 13(b) are not the same as administrative proceedings under
+   Section 5(b). Rather, when the FTC goes to federal court under Section
+   13(b), it is limited to pursuing injunctive relief; to obtain other forms of relief,
+   such as monetary damages, the FTC must resort to administrative
+   proceedings under Section 5(b). AMG Cap. Mgmt., LLC v. FTC, 141 S. Ct.
+   1341, 1348–49 (2021).
+          Moreover, to the extent that Illumina argues that Congress’s directive
+   for the FTC to commence an enforcement action when such a proceeding
+
+
+
+
+                                            6
+Case: 23-60167      Document: 00517004299           Page: 7   Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+   would be “in the interest of the public” does not provide an “intelligible
+   principle,” we disagree. To the contrary, the Supreme Court has repeatedly
+   “found an ‘intelligible principle’ in various statutes authorizing regulation in
+   the ‘public interest.’” Whitman v. Am. Trucking Ass’ns, 531 U.S. 457, 474
+   (2001) (collecting cases).
+                                         B.
+          Second, Illumina claims that the FTC unconstitutionally exercised
+   executive powers while insulated from presidential removal in violation of
+   Article II. But Humphrey’s Executor v. United States held that the FTC’s
+   enabling act did not run afoul of Article II because, essentially, the FTC was
+   vested with quasi-legislative/quasi-judicial authority rather than purely
+   executive authority. 295 U.S. 602, 626–32 (1935). While the Supreme Court
+   has cabined the reach of Humphrey’s Executor in recent years, it has expressly
+   declined to overrule it. See Seila Law LLC v. CFPB, 140 S. Ct. 2183, 2206
+   (2020); accord Collins v. Yellin, 141 S. Ct. 1761, 1783 (2021). Thus, although
+   the FTC’s powers may have changed since Humphrey’s Executor was
+   decided, the question of whether the FTC’s authority has changed so
+   fundamentally as to render Humphrey’s Executor no longer binding is for the
+   Supreme Court, not us, to answer. Lefebure v. D’Aquilla, 15 F.4th 650, 660
+   (5th Cir. 2021) (“[T]he only court that can overturn a Supreme Court
+   precedent is the Supreme Court itself.”).
+                                         C.
+          Third, Illumina argues that the FTC violated Illumina’s due process
+   rights by serving as both prosecutor and judge. But the Supreme Court has
+   held that administrative agencies can, and often do, investigate, prosecute,
+   and adjudicate rights without violating due process. Withrow v. Larkin, 421
+   U.S. 35, 47, 56 (1975). Of course, if there is evidence that a decisionmaker has
+   “actual bias” against a party, that raises due process concerns. Id. at 47. But
+
+
+
+
+                                          7
+Case: 23-60167      Document: 00517004299           Page: 8   Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+   courts cannot “presume bias” merely from the institutional structure of an
+   agency. United States v. Benitez-Villafuerte, 186 F.3d 651, 660 (5th Cir. 1999).
+   Moreover, this court has already rejected the argument that the FTC’s
+   structure, which combines prosecutorial and adjudicative functions, deprives
+   parties of due process. Gibson v. FTC, 682 F.2d 554, 559–60 (5th Cir. 1982).
+   Illumina points to no evidence of actual bias and instead takes issue with the
+   FTC’s structural design. Whatever merit this argument may have, it is barred
+   by precedent.
+                                         D.
+          Fourth, Illumina claims an equal-protection violation because there is
+   no rational basis for allocating certain antitrust enforcement actions to the
+   FTC and others to the Department of Justice. But rational-basis review is a
+   low bar that is satisfied so long as “there is any reasonably conceivable state
+   of facts that could provide a rational basis for the classification.” FCC v.
+   Beach Commc’ns, Inc., 508 U.S. 307, 313 (1993). Here, the FTC and the DOJ
+   have an “interagency clearance process” which allocates antitrust
+   investigations to one agency or the other based primarily on which agency has
+   “expertise in [the] particular industry or market” of the transaction under
+   review. U.S. Gov’t Accountability Off., GAO-23-105790, DOJ
+   and FTC Jurisdictions Overlap, but Conflicts are
+   Infrequent (2023). This is undoubtedly a rational basis for giving one
+   agency the lead over the other.
+                                         IV.
+          We turn now to Illumina’s Clayton Act challenge. Section 7 of the
+   Clayton Act prohibits mergers and acquisitions “where in any line of
+   commerce or in any activity affecting commerce in any section of the country,
+   the effect of such acquisition may be substantially to lessen competition.” 15
+
+
+
+
+                                          8
+Case: 23-60167       Document: 00517004299             Page: 9      Date Filed: 12/15/2023
+
+
+
+
+                                        No. 23-60167
+
+
+   U.S.C. § 18.3 To evaluate Section 7 claims, courts apply a burden-shifting
+   framework. See, e.g., Chicago Bridge, 534 F.3d at 423; United States v. AT&T
+   Inc., 916 F.3d 1029, 1032 (D.C. Cir. 2019) (applying burden-shifting
+   framework to Section 7 claim concerning vertical merger).4 Complaint
+   Counsel bears the initial burden to “establish a prima facie case that the
+   merger is likely to substantially lessen competition in the relevant market.”
+   AT&T, 916 F.3d at 1032. If a prima facie case is made, “the burden shifts to
+   the defendant to present evidence that the prima facie case inaccurately
+   predicts the relevant transaction’s probable effect on future competition or
+   to sufficiently discredit the evidence underlying the prima facie case.” Id.
+   (internal quotation marks and citations omitted). If such a rebuttal is
+   provided, “the burden of producing additional evidence of anticompetitive
+   effects shifts to the government, and merges with the ultimate burden of
+   persuasion, which remains with the government at all times.” Id. (citation
+   omitted). This framework is applied flexibly—“in practice, evidence is often
+   considered all at once and the burdens are often analyzed together.” Chicago
+   Bridge, 534 F.3d at 424.
+                                             A.
+          We start by reviewing Complaint Counsel’s prima facie case. The
+   Commission concluded that Complaint Counsel had carried its burden of (1)
+   identifying the relevant product and geographic market as the market for the
+
+          _____________________
+          3
+            The statute also prohibits mergers that would “tend to create a monopoly,” 15
+   U.S.C. § 18, but that provision is not at issue here.
+          4
+            We note, as did the D.C. Circuit, that “[t]here is a dearth of modern judicial
+   precedent on vertical mergers and a multiplicity of contemporary viewpoints about how
+   they might optimally be adjudicated and enforced.” AT&T, 916 F.3d at 1037. Indeed, until
+   AT&T in 2018, the government had not litigated a vertical merger case since the 1980s.
+   Jonathan M. Jacobson, Vertical Mergers: Is it Time to Move the Ball?, 33 ANTITRUST 6, 6
+   (2019).
+
+
+
+
+                                              9
+Case: 23-60167        Document: 00517004299             Page: 10     Date Filed: 12/15/2023
+
+
+
+
+                                         No. 23-60167
+
+
+   research, development, and commercialization of MCED tests in the United
+   States, and (2) showing that the Illumina-Grail merger was likely to
+   substantially lessen competition in this market. We find that these
+   conclusions are supported by substantial evidence.
+                                              1.
+          The first step of the prima facie case requires defining the relevant
+   market—that is, the “line of commerce” and the “section of the country”
+   where the relevant competition occurs. 15 U.S.C. § 18; see also United States
+   v. Marine Bancorporation, Inc., 418 U.S. 602, 618 (1974) (“Determination of
+   the relevant product and geographic markets is a necessary predicate to
+   deciding whether a merger contravenes the Clayton Act.” (internal quotation
+   marks and citation omitted)). The parties agree with the Commission’s
+   finding that the relevant geographic market is the United States but disagree
+   as to its determination that the relevant product market is “the research,
+   development, and commercialization of MCED tests.”5
+          In antitrust law, the relevant product market is “the area of effective
+   competition,” which is typically the “arena within which significant
+   substitution in consumption or production occurs.” Ohio v. Am. Express Co.,
+   138 S. Ct. 2274, 2285 (2018) (internal quotation marks and citation omitted).
+   However, the relevant product market must “correspond to the commercial
+   realities of the industry.” Brown Shoe Co. v. United States, 370 U.S. 294, 336
+   (1962) (internal quotation marks and citation omitted). So, “courts should
+   combine different products or services into a single market” when necessary
+   to reflect these realities. Ohio, 138 S. Ct. at 2285 (alteration adopted) (internal
+   quotation marks and citation omitted).
+
+
+          _____________________
+          5
+              The ALJ defined the relevant product market the same way.
+
+
+
+
+                                              10
+Case: 23-60167       Document: 00517004299             Page: 11      Date Filed: 12/15/2023
+
+
+
+
+                                        No. 23-60167
+
+
+           To determine the boundaries of the relevant product market, the
+   Commission relied on what is known as the “Brown Shoe” methodology,
+   which looks to certain “practical indicia” of market demarcation, such as
+   “industry or public recognition of the [market] as a separate economic entity,
+   the product’s peculiar characteristics and uses, unique production facilities,
+   distinct customers, distinct prices, sensitivity to price changes, and
+   specialized vendors.” Brown Shoe, 370 U.S. at 325.
+           First, the Commission found that MCED tests have “peculiar
+   characteristics and uses” as compared to other current standard-of-care
+   cancer-screening tests. As the Commission explained, cancer is traditionally
+   detected through more invasive procedures, like a tissue biopsy,
+   colonoscopy, or mammography, which often screen for only one type of
+   cancer and only at a later stage of cancer development.6
+           Second, the Commission found that MCED tests are designed for
+   distinct customers—asymptomatic patients as opposed to those with
+   symptoms or a history of cancer. And, as the Commission noted, MCED test
+   developers expect to market their tests to primary care physicians and, in
+   Illumina’s case, directly to patients, as opposed to marketing plans for other
+   oncology tests, which focus on sales to oncologists and other cancer
+   specialists.
+           Third, the Commission found that MCED tests, which will be
+   targeted toward a more general population than traditional cancer-screening
+   tests, will likely have their own distinct pricing strategy. Specifically, MCED
+   tests will need to have particularly low out-of-pocket costs to patients in order
+   to achieve wide acceptance. Other MCED-test developers testified that they
+
+           _____________________
+           6
+            As the ALJ noted, “[t]he conclusion that MCED tests are a distinct product from
+   other oncology tests borders on the obvious.”
+
+
+
+
+                                              11
+Case: 23-60167       Document: 00517004299             Page: 12      Date Filed: 12/15/2023
+
+
+
+
+                                        No. 23-60167
+
+
+   anticipated competing with Grail on price, and evidence in the record showed
+   that Grail understood that lower-priced MCED tests would pose a
+   competitive threat. Finally, the Commission found that “MCED developers,
+   including Grail, see themselves as competing in a distinct market and view
+   each other as key competitors.”
+           Critically, because the Commission viewed the relevant product
+   market as one for the research, development, and commercialization of
+   MCED tests—not the existing commercial market for MCED tests—it based
+   its market definition on what MCED-test developers reasonably sought to
+   achieve, not what they currently had to offer. Each of Illumina’s proposed
+   bases for why the Commission’s market definition fails springs from the
+   presumption that the Commission should have defined the market based on
+   the products that currently exist, not those that are anticipated or expected.
+   We disagree.7
+           First, Illumina argues that there is no evidence of reasonable
+   interchangeability of use or cross-elasticity of demand between Galleri and
+   other MCED tests in development because the other tests either will not
+   match Galleri’s “performance characteristics” or “are years from coming to
+   market.” But as the Commission noted, record evidence suggested
+   otherwise—CancerSEEK has been shown to detect eight types of cancer in
+   an asymptomatic screening population while Galleri has only been shown to
+   detect seven. And even if Illumina was correct in its claim that the other
+
+           _____________________
+           7
+            In any event, the leading antitrust commentators have noted that “the difference
+   between actual and potential competition” for purposes of antitrust enforcement is often
+   “exaggerate[d]”: “[P]otential competition is competition ‘for’ the market, while ‘actual’
+   competition is said to be competition ‘in’ the market. But insofar as antitrust policy is
+   concerned, both kinds of competition can be equally ‘actual.’” 4 Phillip E. Areeda &
+   Herbert Hovenkamp, Antitrust Law: An Analysis of Antitrust
+   Principles and Their Application ¶ 907 (4th ed. 2016).
+
+
+
+
+                                              12
+Case: 23-60167        Document: 00517004299              Page: 13       Date Filed: 12/15/2023
+
+
+
+
+                                          No. 23-60167
+
+
+   MCED tests in development would only be able to detect a subset of the fifty
+   cancer types that Galleri can detect, two products need not be identical to be
+   in the same market; rather, the question is merely whether they are “similar
+   in character or use.” United States v. Anthem, Inc., 236 F. Supp. 3d 171, 194
+   (D.D.C.) (quoting FTC v. Staples, Inc., 970 F. Supp. 1066, 1074 (D.D.C.
+   1997)), aff’d, 855 F.3d 345 (D.C. Cir. 2017). And the Commission correctly
+   noted that these other tests could still take sales from Galleri (i.e., be
+   substitutes, albeit not perfect substitutes) if they were priced lower.
+           Nor was the Commission required to mathematically demonstrate
+   cross-elasticity of demand. Indeed, requiring such hard metrics to prove the
+   bounds of a market where only one product has been commercialized but
+   there is indisputably ongoing competition to bring additional products to
+   market would, in effect, prevent research-and-development markets from
+   ever being recognized for antitrust purposes. This, in turn, would directly
+   contravene the purpose of Section 7—“to arrest anticompetitive tendencies
+   in their incipiency.” United States v. Phila. Nat’l Bank, 374 U.S. 321, 362
+   (1963) (internal quotation marks and citation omitted).8
+           To be sure, simply labeling a market as one for “research and
+   development” does not relieve Complaint Counsel of its burden to delineate
+   the bounds of a relevant product market. In some circumstances, there may
+   be no firms which can fairly be said to be “competing” in a space. And the
+   mere fact that some company, someday may innovate a competing product
+   in a given market would be too speculative to support a Section 7 claim, lest
+
+           _____________________
+           8
+             For similar reasons, the Commission was not required to use the hypothetical
+   monopolist test to define the relevant product market. In a research-and-development
+   market where most products have yet to reach the consumer marketplace, there are no
+   prices from which to build a data set, and thus no way to run a hypothetical monopolist test
+   analysis.
+
+
+
+
+                                               13
+Case: 23-60167       Document: 00517004299              Page: 14      Date Filed: 12/15/2023
+
+
+
+
+                                         No. 23-60167
+
+
+   every acquisition be presumptively unlawful. Cf. FTC v. Elders Grain, Inc.,
+   868 F.2d 901, 906 (7th Cir. 1989) (“Section 7 forbids mergers and other
+   acquisitions the effect of which ‘may’ be to lessen competition substantially.
+   . . . Of course the word ‘may’ should not be taken literally, for if it were, every
+   acquisition would be unlawful.”). But that is not the case here. While Grail
+   may have the most advanced MCED test, competing tests—particularly
+   CancerSEEK—have been clinically validated, and other developers have
+   concrete plans to begin the trials necessary for FDA approval. Indeed, Grail’s
+   own internal documents show that the company viewed itself as being in
+   active competition with these other MCED-test developers.
+           For similar reasons, Illumina’s other arguments—that the
+   Commission misapplied the Brown Shoe factors and “baseless[ly]” defined
+   the market to include products in development—also fail. Specifically,
+   Illumina contends that the Commission assessed the Brown Shoe “practical
+   indicia” too broadly, examining whether MCED tests were different from
+   other oncology tests rather than whether Galleri was different from other
+   MCED tests in development. But Illumina’s proposed approach assesses the
+   indicia far too narrowly. Indeed, under the narrower application urged by
+   Illumina, the relevant market would consist of only one product—Galleri.
+   Antitrust law does not countenance such a cramped view of competition,
+   particularly in a research-and-development market.9
+
+
+
+
+           _____________________
+           9
+             Because the relevant “line of commerce” is the research and development of
+   MCED tests, Illumina’s reliance on Mercantile Texas Corp. v. Board of Governors of Federal
+   Reserve System, 638 F.2d 1255, 1272 (5th Cir. Unit A 1981) for the proposition that market
+   entry needs to occur within two to three years is misplaced. Although other MCED test
+   developers have not yet entered the consumer market, they have entered the research-and-
+   development market.
+
+
+
+
+                                              14
+Case: 23-60167     Document: 00517004299            Page: 15    Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+                                          2.
+          With the relevant market established, we next turn to whether
+   Complaint Counsel carried its initial burden of showing that “the proposed
+   merger is likely to substantially lessen competition.” AT&T, 916 F.3d at 1032
+   (emphasis omitted). As the Commission recognized, courts have used “two
+   different but overlapping standards for evaluating the likely effect of a vertical
+   transaction”: (1) the Brown Shoe standard, which requires courts to look
+   (again) at the factors first enunciated in Brown Shoe and carried on through
+   its progeny, including Fruehauf Corp. v. FTC, 603 F.2d 345, 353 (2d Cir.
+   1979); and (2) the “ability-and-incentive” standard, which asks whether the
+   merged firm will have both the ability and the incentive to foreclose its rivals,
+   either from sources of supply or from distribution outlets. Commissioner
+   Wilson, concurring in the Commission’s decision, argued that there is no
+   Brown Shoe standard—only the “ability-and-incentive” test—for vertical
+   mergers in modern antitrust analysis. But we need not resolve this issue
+   because we find that, under either standard, Complaint Counsel established
+   a prima facie case supported by substantial evidence.
+                                           a.
+          We begin by addressing the test upon which all Commissioners
+   agreed—the ability-and-incentive test. Under this framework, courts
+   consider whether the merged firm will have the ability and incentive to
+   foreclose rivals from sources of supply or distribution to determine whether
+   the merger is likely to substantially lessen competition in the relevant market.
+          Illumina concedes that it would have the ability to foreclose Grail’s
+   rivals post-merger. But, in its reply brief, Illumina claims that merely having
+   the ability to foreclose is not enough; rather, the merger must have “increased
+   Illumina’s ability to foreclose.” But we do not consider arguments raised for
+   the first time on reply. MDK Sociedad De Responsabilidad Limitada v. Proplant
+
+
+
+
+                                           15
+Case: 23-60167       Document: 00517004299              Page: 16       Date Filed: 12/15/2023
+
+
+
+
+                                         No. 23-60167
+
+
+   Inc., 25 F.4th 360, 367 (5th Cir. 2022). And, in any event, we disagree with
+   Illumina’s assertion. As the Commission astutely observed, Illumina was
+   already established as the monopoly supplier of a key input—NGS
+   platforms—to MCED-test developers pre-merger. So, it would have been
+   impossible for Complaint Counsel to show that the merger would increase
+   Illumina’s ability to foreclose. Thus, as the Commission explained, requiring
+   such a showing would effectively “per se exempt from the Clayton Act’s
+   purview any transaction that involves the acquisition of a monopoly provider
+   of inputs to adjacent markets.” We decline to adopt a rule that would have
+   such perverse results.10
+           That leaves incentive to foreclose as the determining factor in
+   evaluating the Illumina-Grail merger under the ability-and-incentive test. As
+   the Commission explained, the degree to which Illumina has an incentive to
+   foreclose Grail’s rivals depends upon the balance of two competing interests:
+   Illumina’s interest in maximizing its profits in the downstream market for
+   MCED tests vis-à-vis its ownership interest in Grail versus Illumina’s
+   interest in maximizing its profits in the upstream market for NGS platforms
+   vis-à-vis its sales to all MCED-test developers. Foreclosing Grail’s rivals
+   would increase the former (by diverting MCED-test sales from competitors
+   to Grail) but decrease the latter (by reducing the total number of MCED tests
+   in the marketplace). So, the Commission reasoned, the greater Illumina’s
+   ownership stake in Grail, the more its interest in maximizing downstream
+
+           _____________________
+           10
+              Contrary to Illumina’s assertion, we do not read the Northern District of
+   California’s Microsoft decision as reaching a different conclusion. Indeed, that court’s
+   ultimate formulation of the ability-and-incentive test stated that Complaint Counsel was
+   required to show that “the combined firm (1) has the ability to” and “(2) has the incentive
+   to” foreclose. FTC v. Microsoft Corp., No. 23-cv-02880, 2023 WL 4443412, at *13 (N.D.
+   Cal. July 10, 2023) (emphases added). The decision does not require a showing that the
+   merger “provides” the combined firm with both, as Illumina wrongly claims.
+
+
+
+
+                                               16
+Case: 23-60167     Document: 00517004299            Page: 17    Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+   profits will outweigh its interest in preserving upstream profits, and thus the
+   more incentive it will have to foreclose. And since the merger would increase
+   Illumina’s ownership stake in Grail from 12% to 100%, Illumina would “now
+   earn much more from the sale of a [Grail] test than from the sale of a rival’s
+   test” and would therefore “have a significantly greater incentive to foreclose
+   [Grail’s] rivals rather than to keep them on a level playing field.”
+          Illumina challenges this conclusion on two bases. First, Illumina
+   argues that, even if the merger would result in Illumina earning larger profits
+   from the sale of a Grail test than the sale of a rival MCED test, that profit
+   differential means nothing without proof of diversion, i.e., Grail’s capture of
+   sales lost by rival MCED-test developers. Illumina is correct that diversion is
+   necessary for a vertical merger to give rise to foreclosure incentives. If
+   Illumina forecloses Grail’s rivals, preventing them from entering the MCED-
+   test market or lowering their sales, Illumina’s NGS-sales revenue generated
+   from those rivals will suffer. Therefore, a foreclosure strategy is only
+   economically rational if Grail can pick up enough of its competitors’ lost
+   MCED-test sales to offset the losses to Illumina’s NGS-sales revenue. But,
+   Illumina argues, “[b]ecause Galleri is the only test on the market today, there
+   are no sales to divert,” so foreclosing Grail’s rivals would only harm
+   Illumina’s NGS revenue without any concomitant benefit to Grail’s MCED-
+   test-sales revenue.
+          This contention suffers from the same fatal flaw as Illumina’s
+   arguments concerning the Commission’s market definition—it insists that
+   the Commission must consider only the MCED tests on the market right now,
+   not those likely to be on the market in the future. But the relevant market is
+   not “MCED tests commercialized today,” it is the “research, development,
+   and commercialization of MCED tests.” And as explained earlier, there is
+   substantial evidence in the record showing that other MCED-test developers
+   are, right now, working on creating tests that will rival Grail’s capabilities and
+
+
+
+                                           17
+Case: 23-60167     Document: 00517004299            Page: 18   Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+   that are expected to make it to the market in the near future. And when they
+   do, they would divert sales from Grail—or vice versa, should a foreclosure
+   strategy be pursued.
+          Illumina’s second argument—that harm to Illumina’s NGS business
+   from foreclosure of Grail’s rivals would outweigh any benefit to Grail’s
+   MCED-testing business—is more compelling. Pre-merger, the vast majority
+   of Illumina’s revenue—nearly 90% in 2020—was earned through its core
+   business of selling NGS products. And Illumina is right that pursuing a
+   foreclosure strategy threatens material harm to this business in two ways:
+   first, by loss of NGS sales to the foreclosed MCED-test developers, and
+   second, by loss of NGS business in areas outside of cancer detection as a
+   result of reputational damage. But, as the Commission identified, there are
+   two reasons why the risk of such harm is not as great as Illumina claims. First,
+   there are myriad ways in which Illumina could engage in foreclosing behavior
+   without triggering suspicion in other customers, such as by making late
+   deliveries or subtly reducing the level of support services. And second, and
+   more importantly, Illumina’s monopoly power in the NGS-platform market
+   means that, even if other customers did learn about Illumina’s foreclosing
+   behavior and therefore wanted to take their business elsewhere, they would
+   have nowhere else to turn.
+          In any event, there is a more fundamental reason why any harm to
+   Illumina’s NGS business may not disincentivize Illumina from pursuing a
+   foreclosure strategy against Grail’s rivals—the Illumina-Grail merger was
+   the cornerstone of a foundational change in Illumina’s business model
+   through which Illumina planned to “transform [itself] into a clinical testing
+   and data driven healthcare company” as opposed to its current iteration as a
+   “life sciences tools & diagnostics company focused on genomics.” In other
+   words, Illumina was willing to suffer losses to its NGS-platform sales in order
+   to accelerate the growth of its MCED-test sales because it now viewed the
+
+
+
+                                         18
+Case: 23-60167        Document: 00517004299              Page: 19       Date Filed: 12/15/2023
+
+
+
+
+                                          No. 23-60167
+
+
+   latter, not the former, as its primary (and far more profitable) business.
+   Illumina’s own internal projections bear this out, predicting that, although
+   Illumina would lose money in the short term as a result of the merger, by 2035,
+   its “net margin profit pool” for clinical testing services would be nearly eight
+   times the projected profit pool for its NGS-related sales.
+           In light of the foregoing, the Commission had substantial evidence to
+   support its conclusion that Complaint Counsel made a prima facie showing
+   that, post-merger, Illumina had a significantly increased incentive to crowd
+   out Grail’s competitors from the market. MCED testing is a nascent field in
+   which, although only one firm—Grail—has begun to commercialize its
+   product, numerous firms are researching and developing their own products
+   with the end goal of commercialization. And all of the players expect the field
+   to one day generate tens of billions of dollars in yearly revenue. To create and
+   eventually sell this product, each developer will need access to one critical
+   input—NGS platforms. Now, the sole supplier of that input—Illumina—has
+   purchased the first mover in this nascent industry. Given Illumina’s
+   monopoly power and shifting business priorities, it was reasonable for the
+   Commission to conclude that Illumina would likely foreclose against Grail’s
+   competitors—even at the expense of some short-term profits—to pursue its
+   long-term goal of establishing itself (via Grail) as the market leader in clinical
+   testing.11
+
+           _____________________
+           11
+             We give the evidence about Illumina’s past behavior little weight in this analysis.
+   The MCED-test market today, in which multiple firms are racing to develop their own tests
+   and earn a share of what is predicted to be a significant market, is very different from the
+   market that existed when Illumina last owned Grail, when the use of liquid biopsies for
+   cancer screening was highly experimental and not sure to succeed. It is therefore
+   speculative at best to draw conclusions about Illumina’s future actions from its past
+   behavior as the owner of Grail. Nor can we draw many insights concerning Illumina’s
+   potential post-vertical-merger actions in the MCED-test market by looking at its post-
+   vertical-merger actions in the noninvasive-prenatal-tests market, which already had
+
+
+
+
+                                                19
+Case: 23-60167       Document: 00517004299             Page: 20      Date Filed: 12/15/2023
+
+
+
+
+                                        No. 23-60167
+
+
+                                              b.
+           The Commission also applied the factors first identified in Brown
+   Shoe, and later reiterated in Fruehauf, to determine whether the Illumina-
+   Grail merger was likely to substantially lessen competition. These factors
+   include:
+           [T]he nature and economic purpose of the [transaction], the
+           likelihood and size of any market foreclosure, the extent of
+           concentration of sellers and buyers in the industry, the capital
+           cost required to enter the market, the market share needed by
+           a buyer or seller to achieve a profitable level of production
+           (sometimes referred to as “scale economy”), the existence of
+           a trend toward vertical concentration or oligopoly in the
+           industry, and whether the merger will eliminate potential
+           competition by one of the merging parties. To these factors
+           may be added the degree of market power that would be
+           possessed by the merged enterprise and the number and
+           strength of competing suppliers and purchasers, which might
+           indicate whether the merger would increase the risk that prices
+           or terms would cease to be competitive.
+   Fruehauf, 603 F.2d at 353. The Commission found that at least four of the
+   factors—likely foreclosure, the nature and purpose of the transaction, the
+   degree of market power possessed by the merged firm, and entry barriers—
+   supported a finding of a probable Section 7 violation. We conclude that the
+   Commission’s Brown Shoe determination was supported by substantial
+   evidence.
+           The first factor the Commission relied upon—likelihood of
+   foreclosure—weighs in favor of Complaint Counsel for the reasons set forth
+
+           _____________________
+   multiple competing products on the market at the time of Illumina’s acquisition and where
+   the company Illumina acquired was not the first mover in the market.
+
+
+
+
+                                              20
+Case: 23-60167     Document: 00517004299           Page: 21   Date Filed: 12/15/2023
+
+
+
+
+                                    No. 23-60167
+
+
+   in our ability-and-incentive analysis. The second factor—nature and purpose
+   of the transaction—also overlaps significantly with our prior discussion and
+   supports Complaint Counsel: The “nature” of the transaction is the
+   acquisition of a downstream customer by a sole-source supplier, and the
+   “purpose” is to fundamentally transform Illumina’s business model such
+   that it would be competing most intensely in the downstream market, i.e., the
+   same market in which it has the ability to foreclose.
+          As for the third factor—degree of market power—the parties’
+   arguments reflect a broader debate about how to view the potential
+   anticompetitive impact of the merger, which we have now already addressed
+   twice: whether the Commission was required to look at the immediate effect
+   of the merger (in which case, Illumina would be correct to say that the
+   acquisition does not change Grail’s share of the MCED-test market because
+   its Galleri test is the only product on the market) or could consider the
+   merger’s long-term impact. And as we have already explained, the
+   Commission properly considered the longer-term impact of the merger and
+   found that the merger was likely to lead to a concentration of market power
+   in the merged firm. This factor thus favors Complaint Counsel as well.
+          Finally, the Commission found that the merger would increase
+   barriers to entry in the relevant market. Specifically, based on testimony from
+   other MCED-test developers and Complaint Counsel’s expert witness, the
+   Commission found that rival firms would be disincentivized from investing
+   in MCED-test development post-merger. Illumina suggests that the
+   Commission gave too much weight to this self-interested testimony and too
+   little weight to other record evidence. But even if we would have found a
+   different conclusion to be “more reasonable and persuasive” had we weighed
+   the evidence ourselves, that would not be enough to set aside the
+   Commission’s finding on this factor under our deferential “substantial
+   evidence” review. See Impax, 994 F.3d at 491–92.
+
+
+
+                                         21
+Case: 23-60167     Document: 00517004299           Page: 22   Date Filed: 12/15/2023
+
+
+
+
+                                    No. 23-60167
+
+
+          Nor did the Commission commit legal error by omitting three of the
+   Brown Shoe factors from its analysis. There is “no precise formula[]” when
+   it comes to applying these factors. Fruehauf, 603 F.2d at 353. Indeed, the
+   Supreme Court has found a vertical merger unlawful by examining only three
+   of the Brown Shoe factors. Ford Motor Co. v. United States, 405 U.S. 562, 566
+   (1972) (considering the nature and purpose of the transaction, increased
+   barriers to entry, and increased concentration).
+          At bottom, the record supports the Commission’s findings that the
+   merger will result in the potential foreclosure of a key input by the sole
+   supplier, that it was intended to transform Illumina’s business model by
+   shifting its focus from NGS products to clinical testing, and that investment
+   by other MCED-test developers may be chilled, especially given the
+   deferential nature of our review. This was sufficient to support a
+   determination that Complaint Counsel had made a prima facie showing that
+   the merger was likely to substantially lessen competition under the Brown
+   Shoe test.
+                                         B.
+          Next, we address the Open Offer—the long-term supply agreement
+   that Illumina offered to rival MCED-test developers. First, we consider where
+   in the Section 7 analysis the Open Offer should be evaluated, and second, we
+   turn to how it should be evaluated.
+                                         1.
+          Based on the record, the parties’ arguments, and applicable case law,
+   we see three different options for the point in the Section 7 analysis at which
+   the Open Offer could come into play. The first option—pressed by
+   Illumina—is to require Complaint Counsel to account for the Open Offer as
+   part of its prima facie case. The second option—adhered to by the
+   Commission’s majority opinion—is to only consider the Open Offer at the
+
+
+
+
+                                         22
+Case: 23-60167      Document: 00517004299            Page: 23    Date Filed: 12/15/2023
+
+
+
+
+                                      No. 23-60167
+
+
+   remedy stage following a finding of liability. The third option—suggested by
+   Commissioner Wilson in her concurring opinion—is to place the burden of
+   showing the Open Offer’s competitive effects on Illumina as part of its
+   rebuttal to the prima facie case. As explained below, we agree with
+   Commissioner Wilson.
+                                           a.
+          The parties’ divergent views on this issue appear to stem from a
+   disagreement over whether the Open Offer should be treated as a “market
+   reality”—as Illumina contends—or a remedy—as the Commission found.
+   But we do not think that the Open Offer fits neatly into either bucket, and we
+   decline to force it into one.
+          On the one hand, it is evident that the Open Offer is not just a normal
+   commercial supply agreement but instead a direct response to
+   anticompetitive concerns over the Illumina-Grail merger. The opening
+   sentence of the Open Offer makes this plain; it explains that the Open Offer
+   was made “[i]n connection with Illumina’s proposed acquisition of Grail . . .
+   to allay any concerns relating to the [merger], including that Illumina would
+   disadvantage Grail’s potential competitors.” So, to treat the Open Offer as
+   just another fact of the marketplace seems to miss the forest for the trees.
+          But, on the other hand, the Open Offer is different in kind from a
+   Commission- or court-ordered “remedy,” which, as the Commission itself
+   noted, can be imposed “only on the basis of a violation of the law,” i.e., after
+   a finding of liability. See Gen. Bldg. Contractors Ass’n, Inc. v. Pennsylvania, 458
+   U.S. 375, 399 (1982). Indeed, the Open Offer became effective before the
+   evidentiary hearing in this case had even begun and nineteen months before
+   the Commission’s liability determination. Thus, the Commission majority’s
+
+
+
+
+                                           23
+Case: 23-60167         Document: 00517004299               Page: 24       Date Filed: 12/15/2023
+
+
+
+
+                                            No. 23-60167
+
+
+   reliance on cases like Ford Motor Co.12 and du Pont13—which concerned court-
+   ordered divestitures after a finding of Section 7 liability—to support its
+   position that the Open Offer is a remedy is misplaced. So too is its reliance
+   on United States v. Aetna Inc., 240 F. Supp. 3d 1 (D.D.C. 2017), and FTC v.
+   Sysco Corp., 113 F. Supp. 3d 1 (D.D.C. 2015). To be sure, both Aetna and
+   Sysco—like this case—involved proposals by the parties, not decrees by the
+   Commission or court. But in both cases, the proposed divestitures were
+   conditional upon the court’s liability determination, coming into effect in
+   Aetna only if the court found such divestiture “necessary to counteract the
+   merger’s anticompetitive effects,” 240 F. Supp. 3d at 17, and in Sysco “if the
+   merger received regulatory approval,” 113 F. Supp. 3d at 15. No such
+   conditions accompanied the Open Offer.
+          In this sense, the Open Offer is somewhere in between a fact and a
+   remedy—a post-signing, pre-closing adjustment to the status quo
+   implemented by the merging parties to stave off concerns about potential
+   anticompetitive conduct. Take, for example, the arbitration agreement at
+   issue in United States v. AT&T, Inc., 310 F. Supp. 3d 161 (D.D.C. 2018), aff’d,
+   916 F.3d 1029 (D.C. Cir. 2019). That case concerned a Section 7 challenge to
+   the vertical merger between AT&T (which distributes television content via
+   its cable platform DirecTV) and Time Warner (which packages television
+   content via its networks such as TNT, TBS, CNN, and HBO and licenses
+   such networks to distributors). Id. at 167. Shortly after the government filed
+   suit, and in an effort to assuage concerns that it would price-discriminate
+   against distributors other than AT&T post-merger, Time Warner made an
+   irrevocable offer to distributors to engage in “baseball style” arbitration
+
+          _____________________
+          12
+               405 U.S. at 571.
+          13
+               United States v. E. I. du Pont de Nemours & Co., 366 U.S. 316, 334 (1961).
+
+
+
+
+                                                 24
+Case: 23-60167      Document: 00517004299              Page: 25     Date Filed: 12/15/2023
+
+
+
+
+                                        No. 23-60167
+
+
+   when it came time to renew their licensing agreements. Id. at 184.14 The
+   government argued that the arbitration agreements should be “ignored”
+   until the remedy stage, but the court disagreed, holding that the agreements
+   would have “real-world effect[s]” that should be considered prior to any
+   liability determination. Id. at 217 n.30.
+          The Northern District of California reached a similar determination
+   in FTC v. Microsoft Corp., where the court considered a “binding offer” by
+   Microsoft (the details of which are redacted from the opinion) designed to
+   assuage the government’s concerns that Microsoft (the manufacturer of the
+   popular Xbox gaming console) would pull certain videogames from
+   competing consoles following its vertical merger with videogame publisher
+   Activision. No. 23-cv-02880-JSC, 2023 WL 4443412, at *15 (N.D. Cal. July
+   10, 2023). The court rejected the government’s argument that, under du
+   Pont, Microsoft’s offer was merely a “proposed remedy” to be considered
+   after a finding of liability and explained that “offered and executed
+   agreements made before any liability trial, let alone liability finding,” should
+   be considered at the liability phase. Id.
+          The Open Offer is akin to the remedial agreements at issue in AT&T
+   and Microsoft. And we agree with those courts that such agreements should
+   be addressed at the liability—not remedy—stage of the Section 7
+   proceedings.
+                                             b.
+          Having determined that the Open Offer should be considered at the
+   liability stage, the question remains: where does it fit within the burden-
+
+          _____________________
+          14
+            In “baseball style” arbitration, “each party puts forward a final offer before
+   knowing about its counterparty’s offer, and the arbitrator chooses between those two.”
+   AT&T, 310 F. Supp. 3d at 217.
+
+
+
+
+                                             25
+Case: 23-60167     Document: 00517004299             Page: 26   Date Filed: 12/15/2023
+
+
+
+
+                                      No. 23-60167
+
+
+   shifting framework for determining liability? Illumina urges that Complaint
+   Counsel was required to incorporate the Open Offer into its prima facie case.
+   Commissioner Wilson says that the Open Offer only comes into play as part
+   of Illumina’s rebuttal to Complaint Counsel’s prima facie case. We find the
+   latter approach most compatible with the “flexible framework” at play. See
+   Chicago Bridge, 534 F.3d at 424.
+          As we and our sister circuits have recognized, the burden-shifting
+   framework is “somewhat artificial.” FTC v. Butterworth Health Corp., No.
+   96-2440, 1997 WL 420543, at *1 (6th Cir. July 8, 1997); accord Chicago Bridge,
+   534 F.3d at 424–25. “Conceptually, this shifting of the burdens of
+   production, with the ultimate burden of persuasion remaining always with
+   the government, conjures up images of a tennis match, where the
+   government serves up its prima facie case, the defendant returns with
+   evidence undermining the government’s case, and then the government
+   must respond to win the point.” FTC v. Univ. Health, Inc., 938 F.2d 1206,
+   1219 n.25 (11th Cir. 1991). “In practice, however, the government usually
+   introduces all of its evidence at one time, and the defendant responds in
+   kind.” Id. Thus, the “evidence is often considered all at once and the burdens
+   are often analyzed together.” Chicago Bridge, 534 F.3d at 425. This is
+   particularly true in vertical merger cases. In horizontal merger cases, the
+   government can “use a short cut to establish [its prima facie case] through
+   statistics about the change in market concentration.” AT&T, 916 F.3d at
+   1032. No such “short cut” exists in vertical merger cases, and the
+   government “must make a ‘fact-specific’ showing” even at the prima facie
+   stage. Id.
+          That is precisely what happened in this case. As the government’s
+   brief explains, “[h]ere, Complaint Counsel produced evidence in its case-in-
+   chief that the Open Offer was ineffective, and Illumina attempted to produce
+   contrary evidence in the defense case.” The Commission then siloed all of
+
+
+
+                                          26
+Case: 23-60167       Document: 00517004299              Page: 27      Date Filed: 12/15/2023
+
+
+
+
+                                         No. 23-60167
+
+
+   this Open-Offer-related evidence into the rebuttal stage of its analysis.15 Had
+   the Commission applied the correct standard at the rebuttal stage, there
+   would have been no error in this approach. Indeed, we approved such a
+   methodology in Chicago Bridge.
+           As we explained there, in many Section 7 cases, the “[g]overnment’s
+   prima facie case anticipates and addresses the respondent’s rebuttal
+   evidence.” Chicago Bridge, 534 F.3d at 426. In such a situation, the
+   Commission need only “assess[] the rebuttal evidence in light of the prima
+   facie case” rather than switch the burden of production back-and-forth. Id. at
+   424.
+                                              2.
+           At the rebuttal stage of the Section 7 analysis, Illumina bore the
+   burden “to present evidence that the prima facie case inaccurately predicts
+   the relevant transaction’s probable effect on future competition.” AT&T,
+   916 F.3d at 1032 (internal quotation marks and citation omitted). Because
+   Complaint Counsel preemptively addressed the Open Offer as part of its
+   case-in-chief, Illumina’s burden on rebuttal was “heightened.” Chicago
+   Bridge, 534 F.3d at 426. To be sure, Illumina’s burden was only one of
+   production, not persuasion; the burden of persuasion remained with
+   Complaint Counsel at all times. AT&T, 916 F.3d at 1032. But to satisfy its
+   burden of production, Illumina was required to do more than simply put
+   forward the terms of the Open Offer; it needed to “affirmatively show[]” why
+           _____________________
+           15
+                As explained above, the Commission majority erroneously viewed the Open
+   Offer as a remedy to be properly considered only “at the remedy stage, following a finding
+   of liability.” Nonetheless, it examined the Open Offer “at the rebuttal stage” because it
+   found that doing so made no difference to “the ultimate analysis or outcome.” But the
+   Commission applied the wrong rebuttal-stage standard. We express no view on whether
+   the application of the proper standard will change “the ultimate analysis or outcome” in
+   this instance.
+
+
+
+
+                                              27
+Case: 23-60167       Document: 00517004299             Page: 28      Date Filed: 12/15/2023
+
+
+
+
+                                        No. 23-60167
+
+
+   the Open Offer undermined Complaint Counsel’s prima facie showing to
+   such an extent that there was no longer a probability that the Illumina-Grail
+   merger would “substantially lessen competition.” See United States v. Baker
+   Hughes Inc., 908 F.2d 981, 991 (D.C. Cir. 1990) (emphasis added).
+           This is where the Commission erred. The Commission held Illumina
+   to a rebuttal standard that was incompatible with the plain language of
+   Section 7 of the Clayton Act, which only prohibits transactions that will
+   “substantially” lessen competition. 15 U.S.C. § 18. And this error pervaded
+   the Commission’s analysis of the Open Offer, as the Commission invoked
+   the wrong standard in five separate instances. Specifically, the Commission
+   held that Illumina was required to “show that the Open Offer would restore
+   the pre-[merger] level of competition,” i.e., “eliminate Illumina’s ability to
+   favor Grail and harm Grail’s rivals.” In effect, Illumina could only rebut
+   Complaint Counsel’s showing of a likelihood of a substantial reduction in
+   competition with a showing that, due to the Open Offer, the merger would
+   not lessen competition at all. This was legal error.
+           The Commission’s standard stems from its mistaken belief that the
+   Open Offer is a remedy. Indeed, the source of this total-negation standard is
+   the Supreme Court’s holding in Ford Motor Co. that “[t]he relief in an
+   antitrust case must be ‘effective to redress the violations’ and ‘to restore
+   competition.’” 405 U.S. at 573 (quoting du Pont, 366 U.S. at 326). The
+   District of Columbia applied this remedy-stage standard in its liability-stage
+   analysis in a string of cases, beginning with Sysco, 113 F. Supp. 3d at 72,
+   continuing in Aetna, 240 F. Supp. 3d at 60, and then again in FTC v. RAG-
+   Stiftung, 436 F. Supp. 3d 278, 304 (D.D.C. 2020).16 But in its most recent
+
+           _____________________
+           16
+            We express no view as to whether a total-negation standard is appropriate at the
+   remedy stage of the Section 7 analysis.
+
+
+
+
+                                              28
+Case: 23-60167        Document: 00517004299              Page: 29       Date Filed: 12/15/2023
+
+
+
+
+                                          No. 23-60167
+
+
+   case, the District of Columbia reversed course, recognizing that the total-
+   negation standard “contradicts the text of Section 7.” United States v.
+   UnitedHealth Grp. Inc., 630 F. Supp. 3d 118, 132 (D.D.C. 2022). As that court
+   explained, “the text of Section 7 is concerned only with mergers that
+   ‘substantially . . . lessen competition,’” and by requiring on rebuttal a
+   showing that the merger will “preserve exactly the same level of competition
+   that existed before the merger, the Government’s proposed standard would
+   effectively erase the word ‘substantially’ from Section 7.” Id. at 133 (quoting
+   15 U.S.C. § 18).
+           The Northern District of California agreed with this assessment. See
+   Microsoft, 2023 WL 4443412, at *13 (“It is not enough that a merger might
+   lessen competition—the FTC must show the merger will probably
+   substantially lessen competition.” (citing UnitedHealth, 630 F. Supp. 3d at
+   133)). And so do we. To rebut Complaint Counsel’s prima facie case,
+   Illumina was only required to show that the Open Offer sufficiently mitigated
+   the merger’s effect such that it was no longer likely to substantially lessen
+   competition. Illumina was not required to show that the Open Offer would
+   negate the anticompetitive effects of the merger entirely.
+                                                C.
+           Finally, we turn to Illumina’s other proffered rebuttal evidence—
+   efficiencies. As it did before the Commission, Illumina contends on appeal
+   that the Illumina-Grail merger would have “result[ed] in significant
+   efficiencies”      which     would      have      “easily    offset[]     the    supposed
+                                   17
+   [anticompetitive] harm.”             To be cognizable as rebuttal evidence, an
+
+           _____________________
+           17
+              The Commission stated that, to rebut the prima facie case, any substantiated
+   efficiencies needed “to offset and reverse the likely anticompetitive effects” of the merger.
+   This standard gives us pause for the same reasons discussed with respect to the standard
+   used to evaluate the Open Offer. But we need not decide whether such a standard is
+
+
+
+
+                                                29
+Case: 23-60167        Document: 00517004299               Page: 30        Date Filed: 12/15/2023
+
+
+
+
+                                           No. 23-60167
+
+
+   efficiency must be (1) merger specific, (2) verifiable in its existence and
+   magnitude, and (3) likely to be passed through, at least in part, to consumers.
+   See FTC v. Penn State Hershey Med. Ctr., 838 F.3d 327, 348–49, 351 (3d Cir.
+   2016); Anthem, 855 F.3d at 362. The Commission determined that none of
+   Illumina’s proposed efficiencies were cognizable. We find that this
+   conclusion was supported by substantial evidence.
+           First, Illumina claimed that the merger would reduce (if not eliminate
+   entirely) Grail’s obligation to pay Illumina a royalty, which would have
+   generated a significant consumer surplus. The Commission found that this
+   claimed efficiency was neither merger specific nor likely to be passed through
+   to consumers. We find that the former determination was not supported by
+   substantial evidence, but the latter was. The Commission’s finding that the
+   royalty reduction was not merger specific was based on evidence
+   demonstrating that Grail had considered other ways to reduce or eliminate
+   the royalty without merging with Illumina, such as a buyout or longer-term
+   supply agreement. But the Commission did not fairly consider evidence that
+   Grail—in coordination with its bankers at Morgan Stanley—had determined
+   that it lacked the leverage necessary to bring Illumina to the table on these
+   alternative proposals, leaving merger as the only realistic option. We
+           _____________________
+   appropriate for evaluating efficiencies because the Commission did not rely on it. Instead,
+   the Commission found that Illumina had failed to substantiate its claimed efficiencies in the
+   first place.
+            We also note that our court has never addressed the threshold question of whether
+   it is proper for a court to take account of a merger’s efficiencies as a defense in a Section 7
+   case. But see Anthem, 855 F.3d at 355 (holding that proof of post-merger efficiencies can
+   rebut a Section 7 prima facie case); FTC v. Tenet Health Care Corp., 186 F.3d 1045, 1054
+   (8th Cir. 1999) (same); Univ. Health, 938 F.2d at 1222 (same). We do not reach that
+   question here, either. Instead, we assume arguendo that such a defense can be properly
+   considered. Cf. FTC v. Penn State Hershey Med. Ctr., 838 F.3d 327, 348 (3d Cir. 2016)
+   (assuming, without deciding, that efficiencies defense was valid); Saint Alphonsus Med.
+   Ctr.-Nampa Inc. v. St. Luke’s Health Sys., Ltd., 778 F.3d 775, 790 (9th Cir. 2015) (same).
+
+
+
+
+                                                 30
+Case: 23-60167     Document: 00517004299            Page: 31   Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+   therefore cannot conclude that substantial evidence supported this finding.
+   See Universal Camera Corp. v. NLRB, 340 U.S. 474, 488 (1951) (“The
+   substantiality of evidence must take into account whatever in the record fairly
+   detracts from its weight.”).
+          With respect to pass-through, however, there was substantial
+   evidence to support the Commission’s finding that, while Grail could
+   decrease the price of Galleri (i.e., pass some of the benefit through to
+   consumers) following reduction of the royalty, Illumina had not shown a
+   likelihood that Grail would do so. Indeed, as explained earlier, substantial
+   evidence supported the Commission’s finding that the merger would
+   increase Illumina’s incentive to foreclose against Grail’s rivals such that
+   competing MCED tests either never make it to market or the costs of
+   bringing such tests to market increase. In other words, Grail had no reason to
+   pass its royalty-reduction savings through to Galleri’s customers because, if
+   any of Grail’s competitors actually made it to market, Grail could force those
+   competitors to pass through extra costs to their customers.
+          Second, Illumina argued that the merger would eliminate double
+   marginalization—i.e., Illumina would no longer charge Grail a margin, as it
+   did before the merger—leading to additional consumer surplus. But Illumina
+   never put forward a proposed model for calculating this benefit, only an
+   “illustrative” one. Illumina does not contest this fact. Rather, Illumina
+   contends that it was Complaint Counsel’s burden to model these benefits.
+   But when it comes to efficiencies, “much of the information relating to
+   efficiencies is uniquely in the possession of the merging firms.” 4A Areeda
+   & Hovenkamp, Antitrust Law ¶ 970f (citation omitted). It is
+   therefore Illumina—not Complaint Counsel—that “must demonstrate that
+   the intended acquisition would result in significant economies.” Univ.
+   Health, 938 F.2d at 1223; see also Steven C. Salop, Invigorating Vertical Merger
+   Enforcement, 127 Yale L.J. 1962, 1981 (2018) (“Because the merging
+
+
+
+                                          31
+Case: 23-60167     Document: 00517004299            Page: 32    Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+   parties have better access to the relevant information, they also bear the
+   burden of producing evidence of efficiency benefits . . . .”). And because
+   Illumina failed to demonstrate that this proposed efficiency was verifiable,
+   the Commission had substantial evidence in support of its decision not to
+   recognize it.
+          Third, Illumina contended that the merger would lead to “significant
+   supply chain and operational efficiencies” of approximately $140 million
+   over a ten-year period. But, again, it presented no model by which it
+   calculated this number. And without an underlying model, including the
+   assumptions upon which it was based, the Commission had a sound basis to
+   conclude that Illumina had failed to carry its burden of showing this efficiency
+   was verifiable. See United States v. H & R Block, Inc., 833 F. Supp. 2d 36, 91
+   (D.D.C. 2011) (“[T]he lack of a verifiable method of factual analysis resulting
+   in the cost estimates renders [the proposed efficiency] not cognizable by the
+   Court.”). Plus, record evidence showed that Grail was in the process of
+   improving its operations pre-merger, and Illumina had not shown any
+   method of quantifying the incremental value, if any, the merger would
+   provide with respect to these operational efficiencies. Thus, there was not
+   only a verification issue, but a merger-specificity issue as well.
+          Fourth, Illumina claimed that the merger would result in significant
+   research-and-development efficiencies. But Illumina made no attempt to
+   quantify these claimed efficiencies, instead relying on testimony of its
+   executives that such efficiencies would be achieved. But “[w]hile reliance on
+   the estimation and judgment of experienced executives about costs [or
+   innovation] may be perfectly sensible as a business matter, the lack of a
+   verifiable method of factual analysis . . . renders [the efficiency] not
+   cognizable.” H & R Block, 833 F. Supp. 2d at 91.
+
+
+
+
+                                          32
+Case: 23-60167        Document: 00517004299               Page: 33       Date Filed: 12/15/2023
+
+
+
+
+                                          No. 23-60167
+
+
+           Fifth, Illumina argued that due to its “regulatory and market-access
+   expertise,” the merger would “accelerate” FDA approval and payer
+   coverage for Galleri. But the Commission, again supported by substantial
+   evidence, found that Illumina had not established that such acceleration
+   would actually occur, much less shown how it would be achieved. For
+   instance, Illumina’s own financial modeling of the merger did not assume
+   that Galleri’s widespread commercialization would be accelerated. Nor did
+   it account for the costs that would be associated with achieving any such
+   acceleration, such as diverting Illumina personnel to work on Grail projects.
+   And in any event, Illumina had failed to demonstrate that its claimed
+   “regulatory expertise” was superior to that which Grail already possessed.
+   Indeed, Grail had already obtained breakthrough device designation for
+   Galleri on its own. Illumina, on the other hand, had only ever obtained pre-
+   market approval for one Class III NGS-based diagnostic test, and in that
+   instance, a third party sponsored the clinical study upon which approval was
+   granted.
+           Sixth, Illumina pointed to “international efficiencies,” i.e., that the
+   merger would “accelerate the international expansion of Galleri.” But as the
+   Commission explained, Illumina “offered no concrete plans regarding
+   countries in which international expansion would occur, how much more
+   quickly the international expansion would occur, how much additional data
+   the international expansion would generate, how much the international
+   efforts would cost, or why such international expansion could only be
+   achieved through a merger.”18
+
+
+           _____________________
+           18
+              Because we find that substantial evidence supported the Commission’s
+   conclusion that Illumina had failed to substantiate its claimed international efficiencies, we
+   do not address the question of whether it is proper to consider efficiencies outside of the
+   relevant geographic market. But see Phila. Nat’l Bank, 374 U.S. at 370 (rejecting contention
+
+
+
+
+                                                33
+Case: 23-60167     Document: 00517004299            Page: 34    Date Filed: 12/15/2023
+
+
+
+
+                                     No. 23-60167
+
+
+          At bottom, an efficiency defense is very difficult to establish. See 4A
+   Areeda & Hovenkamp, Antitrust Law ¶ 970a (“[W]hile
+   efficiencies are commonly asserted as a defense, they are rarely found
+   sufficient to undermine a prima facie case against a merger.”) And
+   substantial evidence supported the Commission’s determination that
+   Illumina failed to establish cognizable efficiencies here.
+                                          V.
+          To sum up, Illumina’s constitutional challenges to the FTC’s
+   authority are foreclosed by binding Supreme Court precedent, and
+   substantial evidence supported the Commission’s conclusions that (1) the
+   relevant market is the market for the research, development, and
+   commercialization of MCED tests in the United States; (2) Complaint
+   Counsel carried its initial burden of showing that the Illumina-Grail merger
+   is likely to substantially lessen competition in that market under either the
+   ability-and-incentive test or looking to the Brown Shoe factors; and (3)
+   Illumina had not identified cognizable efficiencies to rebut the
+   anticompetitive effects of the merger. However, in considering the Open
+   Offer, the Commission used a standard that was incompatible with the plain
+   language of the Clayton Act. We therefore VACATE the Commission’s
+   order and REMAND the case for reconsideration of the effect of the Open
+   Offer under the proper standard.
+
+
+
+
+          _____________________
+   that “anticompetitive effects in one market could be justified by procompetitive
+   consequences in another”).
+
+
+
+
+                                          34
+

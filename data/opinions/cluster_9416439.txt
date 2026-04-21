@@ -1,0 +1,668 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 28, 2022               Decided July 28, 2023
+
+                       No. 21-1038
+
+             CBOE FUTURES EXCHANGE, LLC,
+                     PETITIONER
+
+                             v.
+
+         SECURITIES AND EXCHANGE COMMISSION,
+                      RESPONDENT
+
+           MINNEAPOLIS GRAIN EXCHANGE, LLC,
+                     INTERVENOR
+
+
+          On Petition for Review of a Final Order
+        of the Securities and Exchange Commission
+
+
+
+    Paul E. Greenwalt III argued the cause for petitioner.
+With him on the briefs was Michael K. Molzberger.
+
+    Rachel M. McKenzie, Senior Litigation Counsel,
+Securities and Exchange Commission, argued the cause for
+respondent. With her on the brief were Michael A. Conley,
+Solicitor, and Dominick V. Freda, Assistant General Counsel.
+
+   Mark T. Stancil argued the cause for intervenor
+Minneapolis Grain Exchange, LLC in support of respondent.
+                                2
+With him on the brief were Jeffrey B. Korn and Patricia O.
+Haynes.
+
+    Before: SRINIVASAN, Chief Judge, and WILKINS and RAO,
+Circuit Judges.
+
+    Opinion for the Court filed by Chief Judge SRINIVASAN.
+
+     SRINIVASAN, Chief Judge: A futures contract calls for the
+purchase or sale of an underlying asset on a specific future date
+at a specific price. When the underlying asset is a security (or
+a security index), the futures contract may constitute a “security
+future” under federal law. A security future is subject to more
+stringent regulatory treatment and less favorable tax treatment
+than other futures.
+
+     This case involves futures contracts based on the so-called
+SPIKES Index, which measures the volatility of the S&P 500
+stock market index. In 2020, the Securities and Exchange
+Commission issued an order directing treatment of SPIKES
+futures as futures rather than security futures for purposes of
+the Securities Exchange Act. The SEC’s aim was to promote
+competition with futures that are based on another index that
+measures S&P 500 volatility, known as the VIX Index. For
+years, VIX futures have been regulated as futures, not security
+futures.
+
+     The petition in this case challenges the SEC’s 2020 order
+treating SPIKES futures as futures. We grant the petition. The
+SEC did not adequately explain why SPIKES futures must be
+regulated as futures to promote competition with VIX futures.
+While we thus vacate the Commission’s order, we will
+withhold issuance of our mandate for three calendar months to
+allow market participants sufficient time to wind down existing
+SPIKES futures transactions with offsetting transactions.
+                                3
+                                I.
+
+                                A.
+
+     A futures contract is an “agreement[] to buy or sell a
+specified quantity” of a specified asset “at a particular price for
+delivery at a set future date.” Dunn v. Commodity Futures
+Trading Comm’n, 519 U.S. 465, 470 (1997). The assets
+underlying futures are often physical commodities, like oil,
+corn, or aluminum. After enactment of the Commodity Futures
+Modernization Act of 2000, Pub. L. No. 106-554, 114 Stat.
+2763A-365 (CFMA), futures contracts can also provide for the
+future delivery of financial securities, like shares of a stock or
+the value of a stock index. Depending on the particulars, such
+a futures contract may be treated as a “security future” under
+federal law.
+
+     Both the Securities Exchange Act and the Commodity
+Exchange Act define a “security future” as a “contract of sale
+for future delivery of a single security or of a narrow-based
+security index, including any interest therein or based on the
+value thereof,” with certain exceptions. 7 U.S.C. § 1a(44)
+(Commodity Exchange Act); 15 U.S.C. § 78c(a)(55)(A)
+(Securities Exchange Act). The two Acts also contain an
+identical definition of a “narrow-based security index.” 7
+U.S.C. § 1a(35)(A); 15 U.S.C. § 78c(a)(55)(B). Roughly
+speaking, that term refers to an index based on, or heavily
+weighted towards, a small number of constituent securities.
+See      7    U.S.C.     § 1a(35)(A)(i)–(iv);    15     U.S.C.
+§ 78c(a)(55)(B)(i)–(iv). In contrast, more diversified indexes
+that track broader market segments—like the S&P 500—are
+considered “broad-based” indexes. Futures contracts based on
+broad-based indexes are not security futures. See 7 U.S.C.
+§ 1a(44); 15 U.S.C. § 78c(a)(55)(A).
+                                4
+     Because security futures reflect characteristics of both
+securities (normally regulated by the Securities and Exchange
+Commission, or SEC) and futures contracts (normally
+regulated by the Commodity Futures Trading Commission, or
+CFTC), Congress directed the SEC and the CFTC to jointly
+administer a bespoke regulatory regime for security futures. As
+a general matter, security futures are subject to more stringent
+regulation than other futures. The distinct regulatory regime
+applicable to security futures thus requires, for instance, that
+exchanges for trading security futures register with and submit
+proposed rules to both the SEC and the CFTC. Those rules
+include listing standards, such as the amount of collateral or
+“margin” necessary for a trader to secure and maintain credit
+for use in trading security futures. See, e.g., 7 U.S.C. § 7b-1(a);
+15 U.S.C. §§ 78f(g), 78f(h)(2), 78f(h)(3)(C), 78f(h)(3)(L),
+78g(c)(2)(B), 78s(b)(7)(A)–(B).
+
+     The National Futures Association and the Financial
+Industry Regulatory Authority (FINRA)—self-regulatory
+bodies within the financial industry—further require that
+market participants dealing in security futures (but not futures
+contracts) provide a “Security Futures Risk Disclosure
+Statement” before investors may trade those products. See
+Security Futures, FINRA, https://www.finra.org/rules-
+guidance/key-topics/security-futures (last visited July 10,
+2023) [https://perma.cc/RC8B-D642].            The Disclosure
+Statement is a standardized document that “discusses the
+characteristics and risks of standardized security futures
+contracts traded on regulated U.S. exchanges.” FINRA & Nat’l
+Futures Ass’n, Security Futures Risk Disclosure Statement 1
+(2020),        https://www.finra.org/sites/default/files/2020-08
+/Security_Futures_Risk_Disclosure_Statement_2020.pdf
+[https://perma.cc/LF4S-ADJY] (Disclosure Statement).
+                              5
+     By contrast, futures contracts—such as those based on
+physical commodities—are subject to more relaxed regulation,
+by the CFTC alone. For instance, a market that enables futures
+trading can implement proposed rules after ten business days—
+without any need to notify the SEC—unless the CFTC acts to
+stay the certification. See 7 U.S.C. § 7a-2(c)(2); 17 C.F.R.
+§ 40.6(b). Futures contracts also may be subject to more
+lenient margin requirements and capital gains tax treatment
+than security futures. See SEC Br. 11–14; 26 U.S.C.
+§§ 1234B(b), 1256(a)(3).
+
+    In sum, security futures are more heavily regulated and
+taxed than other futures.
+
+                             B.
+
+                              1.
+
+     In 2003, petitioner Cboe Futures Exchange (CFE)
+announced plans to list futures contracts based on the Cboe
+Volatility Index, more commonly known as the “VIX Index.”
+See Joint Order Excluding Indexes Comprised of Certain Index
+Options From the Definition of Narrow-Based Security Index
+Pursuant to Section 1a(25)(B)(vi) of the Commodity Exchange
+Act and Section 3(a)(55)(C)(vi) of the Securities Exchange Act
+of 1934, 69 Fed. Reg. 16,900, 16,900 & n.6 (Mar. 31, 2004)
+(2004 Order). The VIX Index measures the 30-day expected
+volatility of the widely-used S&P 500 stock market index.
+
+    The following year, the SEC and the CFTC issued a joint
+order “exclud[ing] certain indexes comprised of options on
+broad-based security indexes”—including the VIX—“from the
+definition of the term narrow-based security index.” Id. at
+16,900; see 7 U.S.C. § 1a(35)(B)(vi); 15 U.S.C.
+§ 78c(a)(55)(C)(vi). The effect was to exempt VIX futures
+from treatment as security futures. CFE then began listing
+                               6
+futures based on the VIX. See Joint Order To Exclude Indexes
+Composed of Certain Index Options From the Definition of
+Narrow-Based Security Index Pursuant to Section
+1a(25)(B)(vi) of the Commodity Exchange Act and Section
+3(a)(55)(C)(vi) of the Securities Exchange Act of 1934, 74 Fed.
+Reg. 61,116, 61,116 n.7 (Nov. 23, 2009).
+
+                               2.
+
+     The SPIKES Index is similar, but not identical, to the VIX.
+Both indexes measure the 30-day expected volatility of the
+S&P 500. But whereas the VIX is derived from the prices of
+options on the S&P 500 itself, the SPIKES is derived from the
+prices of options on the SPDR S&P 500 ETF Trust (known as
+the SPY), an index fund that aims to replicate the price and
+yield of the S&P 500. See Self-Regulatory Organizations;
+Miami International Securities Exchange, LLC; Order
+Granting Approval of a Proposed Rule Change To List and
+Trade Options on the SPIKESTM Index, 83 Fed. Reg. 52,865,
+52,865 (Oct. 18, 2018) (SPIKES Options Order).
+
+    Intervenor Minneapolis Grain Exchange, LLC (MGEX) is
+a subsidiary of a company that holds a license to the SPIKES.
+In March 2019, MGEX, hoping to list futures based on the
+SPIKES, began working with the CFTC to determine whether
+the SPIKES is a narrow-based or broad-based index. After
+CFTC staff indicated to MGEX that the SPIKES, like the VIX,
+is a broad-based index, MGEX self-certified to the CFTC
+proposed rules for the listing and trading of SPIKES futures.
+See Letter from Lindsay Hopkins, Clearing House Counsel,
+MGEX, to Christopher J. Kirkpatrick, Sec’y of the Comm’n,
+CFTC (Sept. 20, 2019), https://www.mgex.com/documents
+/MGEXSPIKES40.2Submission_redacted_000.pdf [https://
+perma.cc/EW82-6BSW]. The CFTC did not stay MGEX’s
+                                7
+self-certification, and on November 18, 2019, MGEX began
+listing SPIKES futures for trading.
+
+     But less than two weeks later, on November 29, 2019,
+MGEX, at the request of SEC staff, notified market participants
+that it would halt trading in SPIKES futures later that day. In
+its memorandum announcing the trading halt, MGEX stated
+that its decision was “in the best interests of the market and
+market participants until the Exchange determines whether it
+can work with [the SEC and the CFTC] to resolve certain
+issues.” Memorandum from Minneapolis Grain Exch. to
+MGEX Mkt. Participants (Nov. 29, 2019), J.A. 32.
+
+                               3.
+
+     In ensuing discussions with regulators, MGEX proposed
+that the SEC and the CFTC issue a joint order—akin to the
+2004 Order covering the VIX—excluding the SPIKES from the
+definition of narrow-based security index and thereby
+exempting SPIKES futures from treatment as security futures.
+MGEX submitted various materials to the two Commissions in
+support of that request. The Commissions did not issue the
+joint order requested by MGEX.
+
+     In December 2020, the SEC unilaterally issued the order
+under review here, which we will call the Exemptive Order.
+See Order Granting Conditional Exemptive Relief, Pursuant to
+Section 36 of the Securities Exchange Act of 1934 (“Exchange
+Act”) With Respect to Futures Contracts on the SPIKES™
+Index, 85 Fed. Reg. 77,297 (Dec. 1, 2020). The Exemptive
+Order concludes that a futures contract based on the SPIKES
+satisfies the definition of a security future under the Securities
+Exchange Act. Id. at 77,298 & n.20. But the Order then
+invokes section 36 of the Securities Exchange Act, which
+authorizes the SEC to “exempt any person, security, or
+transaction . . . from any provision” of the Securities Exchange
+                               8
+Act “to the extent that such exemption is necessary or
+appropriate in the public interest, and is consistent with the
+protection of investors.” 15 U.S.C. § 78mm(a)(1). Exercising
+that authority, the Order generally exempts “futures contracts
+on the SPIKES from the definition of ‘security future’ under
+the Exchange Act,” with certain specified exceptions. 85 Fed.
+Reg. at 77,298. As a result of that grant of exemptive relief,
+market participants can trade SPIKES futures “as . . . future[s]
+(and not as . . . security future[s])” as far as the Securities
+Exchange Act goes; MGEX need not submit its proposed rule
+changes to the SEC for approval; and MGEX need not “comply
+with listing standard requirements,” “including with respect to
+margin,” “that are specific to security futures.” Id. at 77,300.
+
+     The Exemptive Order sets certain conditions on its grant
+of exemptive relief, including conditions aimed to ensure that
+the SPDR S&P 500 ETF Trust closely tracks the performance
+of the S&P 500. Id. The failure of any of those conditions to
+hold, the Order explains, “could potentially undermine the
+basis for providing relief.” Id. So, “[t]o the extent that one or
+more of these conditions is no longer satisfied,” the Order “will
+no longer apply three calendar months after the end of the
+month in which any condition is no longer satisfied.” Id. The
+Order explains that “three calendar months is a sufficient
+amount of time to allow for” market participants to “take the
+necessary steps to wind down their existing transactions in an
+orderly fashion.” Id.
+
+     The Exemptive Order contains a brief statement of the
+rationale for granting exemptive relief: it states that allowing
+SPIKES futures to trade as futures contracts, rather than
+security futures, “should foster competition as [SPIKES
+futures] could serve as an alternative to the only comparable
+incumbent volatility product in the market,” i.e., VIX futures.
+Id. at 77,298–99. The Order then lists some benefits of
+                               9
+“[f]acilitating greater competition among these types of
+products,” including “provid[ing] market participants with
+access to a wider range of financial instruments to trade on and
+hedge against volatility in the markets, particularly the S&P
+500,” and “lower[ing] transaction costs for market
+participants.” Id. at 77,299.
+
+   CFE filed a petition for review of the Exemptive Order.
+We consider CFE’s petition in this case.
+
+                              II.
+
+     We review the Exemptive Order under the familiar
+standard of the Administrative Procedure Act, which requires
+us to “hold unlawful and set aside agency action, findings, and
+conclusions found to be . . . arbitrary” or “capricious.” 5
+U.S.C. § 706(2)(A). To satisfy that standard, an agency must
+“examine the relevant data and articulate a satisfactory
+explanation for its action including a rational connection
+between the facts found and the choice made.” Encino
+Motorcars, LLC v. Navarro, 579 U.S. 211, 221 (2016) (quoting
+Motor Vehicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29, 43 (1983)). The agency’s explanation must be
+clear enough that the agency’s “path may reasonably be
+discerned.” Id. (quoting Bowman Transp., Inc. v. Ark.–Best
+Freight Sys., Inc., 419 U.S. 281, 286 (1974)). And the agency
+may not “entirely fail[] to consider an important aspect of the
+problem.” State Farm, 463 U.S. at 43.
+
+     We conclude that the Exemptive Order is arbitrary and
+capricious because the SEC failed adequately to explain its
+rationale and failed to consider an important aspect of the
+problem. Because those deficiencies require vacatur of the
+Order, we have no need to consider CFE’s additional
+contention that the SEC failed to consider the possibility that
+                                 10
+its grant of exemptive relief would lead to confusion among
+market participants.
+
+                                 A.
+
+     We begin with CFE’s contention that the Exemptive Order
+fails to give an adequate explanation of why exemptive relief
+is necessary to achieve the goal of enhancing competition.
+CFE relatedly argues that the Order provides no basis for its
+apparent assumption that existing products do not already
+afford sufficient competition. We agree with CFE.
+
+     The Exemptive Order succinctly identifies the objective of
+enabling SPIKES futures to “trade as . . . futures contract[s], as
+opposed to as . . . security future[s],” through the grant of
+exemptive relief: to “foster competition,” such that SPIKES
+futures “could serve as an alternative to” VIX futures, “the only
+comparable incumbent volatility product in the market.” 85
+Fed. Reg. at 77,298–99. The Order then lists certain “benefits
+to the market” yielded by enhanced competition, such as
+“lower transaction costs for market participants.” Id. at 77,299.
+Critically, however, the Order contains no explanation
+whatsoever of how the grant of exemptive relief relates to the
+goal of promoting competition in the first place. Instead, the
+Order simply identifies that goal and asserts without
+elaboration that, to achieve it, SPIKES futures “will need to
+trade, clear, and settle as . . . futures contract[s],” rather than as
+security futures. Id.
+
+     That assertion does not adequately “explain why [the SEC]
+decided to act as it did.” Butte Cnty. v. Hogen, 613 F.3d 190,
+194 (D.C. Cir. 2010). The Order must articulate a “rational
+connection” between the treatment of SPIKES futures as
+futures (rather than security futures) and the promotion of
+competition. Encino Motorcars, 579 U.S. at 221 (quotation
+marks and citation omitted). Yet the Exemptive Order gives
+                                11
+no reason why exempting SPIKES futures from requirements
+applicable to security futures is likely to—let alone necessary
+to—promote competition. To be sure, VIX futures have been
+regulated as futures rather than security futures for some time
+(although the Exemptive Order never expressly says even that).
+Still, the Order needs to contain some explanation of why
+SPIKES futures, to provide meaningful competition, must also
+be regulated as futures rather than security futures. Without
+some account of the competitive import of the differences
+between those two regulatory regimes, the Order does nothing
+to address the possibility that SPIKES futures could provide
+meaningful competition even if treated as security futures.
+
+      Relatedly, the Exemptive Order fails to explain why no
+existing products meaningfully compete with “the only
+comparable incumbent volatility product in the market.” 85
+Fed. Reg. at 77,299. Indeed, the Exemptive Order does not
+even identify the “incumbent volatility product” by its name or
+characteristics, although all parties acknowledge that the
+phrase refers to VIX futures. And the Order likewise fails to
+explain what it means for a product to be “comparable” to that
+incumbent or what characteristics a product must have to
+compete effectively with that incumbent. To the extent the
+Order could be read to consider the relevant market of
+“comparable” products to be volatility futures (as opposed to
+all volatility products, including volatility security futures), it
+still invites the question: why is that the relevant market? That
+is, why is it that only volatility futures, and not other volatility
+products (including security futures), can meaningfully
+compete with other volatility futures? In short, the Order
+leaves too many key questions unanswered to satisfy the APA.
+See, e.g., Susquehanna Int’l Grp., LLP v. SEC, 866 F.3d 442,
+446–47 (D.C. Cir. 2017); Select Specialty Hosp.-Bloomington,
+Inc. v. Burwell, 757 F.3d 308, 309, 312–14 (D.C. Cir. 2014).
+                               12
+     The SEC maintains that certain materials MGEX
+presented to the SEC and the CFTC in connection with its
+request for a joint exemptive order adequately identified a
+connection between exemptive relief and competition.
+Regardless of the content of the cited analyses, which are under
+seal, they cannot rescue the SEC’s otherwise inadequate
+explanation in the Exemptive Order.
+
+     We have previously rejected an attempt by the SEC to
+substitute “unquestioning reliance” on a regulated entity’s
+submissions for the “reasoned analysis” the APA requires.
+Susquehanna, 866 F.3d at 447. Such submissions, we
+explained, have “‘little’ supporting value” because they
+express “the ‘self-serving views of the regulated entit[y].’” Id.
+(alteration in original) (quoting NetCoalition v. SEC, 615 F.3d
+525, 541 (D.C. Cir. 2010), superseded by statute on other
+grounds as stated in NetCoalition v. SEC, 715 F.3d 342 (D.C.
+Cir. 2013)). If the SEC wanted to rely on MGEX’s analyses to
+connect the grant of exemptive relief with the goal of
+promoting competition, it needed to “critically review[]” and
+adopt MGEX’s submissions or “perform[] its own”
+comparable analysis. In re NTE Conn., LLC, 26 F.4th 980, 988
+(D.C. Cir. 2022) (alterations in original) (quoting
+Susquehanna, 866 F.3d at 447). But the SEC nowhere in the
+Exemptive Order—or anywhere else in the record—explains
+“why [it] found” MGEX’s analyses “persuasive” or
+independently makes the same points. Id.
+
+     The SEC’s brief in our court ultimately relies on the notion
+that “there are competitive advantages to trading as a future,
+rather than a security future”—specifically, more lenient tax
+treatment and lower margin requirements. SEC Br. 35.
+MGEX’s brief makes similar points. See MGEX Br. 16, 19.
+But we of course base our review on the “grounds invoked by
+the agency” in the administrative record, Calcutt v. FDIC, 143
+                                13
+S. Ct. 1317, 1318 (2023) (per curiam) (quoting SEC v. Chenery
+Corp., 332 U.S. 194, 196 (1947)), not later rationales contained
+in briefing in our court. Even if a need to equalize the tax
+treatment and margin requirements applicable to SPIKES
+futures and VIX futures could, in theory, justify the grant of
+exemptive relief, the record contains no indication that the SEC
+in fact relied on that rationale in the Exemptive Order.
+
+     The Order simply contains no mention at all of taxation.
+And although it references margin requirements once in
+passing, it merely observes that, as a result of the relief granted,
+SPIKES futures will be subject to the listing standards
+applicable to futures rather than security futures, “including
+with respect to margin.” 85 Fed. Reg. at 77,300. Nothing in
+the Order suggests that exemptive relief will foster competition
+because of the effect on margin requirements. Tellingly, the
+SEC’s brief in our court, apart from its references to MGEX’s
+submissions (which, again, the SEC never itself adopted),
+relies entirely on sources outside the administrative record—
+from a law review article to Internal Revenue Service
+publications—to support the notion that equalization of tax and
+regulatory treatment is necessary to promote competition. See
+SEC Br. 12–14. There is no indication in the administrative
+record that the grant of exemptive relief is based on the
+reasoning the SEC now offers in its brief. That kind of “post
+hoc litigation rationalization pressed by agency counsel”
+cannot save the Exemptive Order. Gulf Restoration Network
+v. Haaland, 47 F.4th 795, 804 (D.C. Cir. 2022).
+
+    Finally, the SEC posits that, because the Order is an
+exercise of informal adjudication—“the administrative law
+term for agency action that is neither the product of formal
+adjudication or a rulemaking,” Am. Bioscience, Inc. v.
+Thompson, 269 F.3d 1077, 1084 (D.C. Cir. 2001)—the Order
+need not set forth fulsome explanations on all material points.
+                              14
+But even though “[w]e have what is known as informal agency
+adjudication,” the SEC still must “explain why it decided to act
+as it did” by providing a “statement . . . of reasoning” rather
+than a mere “conclusion.” Butte Cnty., 613 F.3d at 194
+(quotation marks and citation omitted). The SEC, for the
+reasons explained, fails to clear that minimal bar here.
+
+                              B.
+
+     We turn next to CFE’s argument that the SEC did not
+adequately address potential harms to investors arising from
+the Exemptive Order’s implications for the Security Futures
+Risk Disclosure Statement. Recall that the Order, before
+granting exemptive relief, concludes that SPIKES futures meet
+the statutory definition of security futures. 85 Fed. Reg. at
+77,298. That determination would ordinarily require securities
+dealers to provide investors seeking to trade SPIKES futures
+with the Disclosure Statement, which describes security futures
+and the risks associated with trading them. See Self Regulatory
+Organizations; Order Granting Approval to Proposed Rule
+Change by the National Association of Securities Dealers, Inc.
+Relating to the Security Futures Risk Disclosure Statement, 67
+Fed. Reg. 70,993, 70,994 (Nov. 27, 2002) (Disclosure
+Statement Order). CFE argues that, while the Exemptive Order
+effectively jettisoned that requirement for SPIKES futures, the
+SEC failed adequately to examine the potential resulting harms
+to SPIKES futures investors. We agree.
+
+    An agency need not address every conceivable implication
+of its decision. But a “statutorily mandated factor, by
+definition, is an important aspect of any issue before an
+administrative agency.” United Parcel Serv., Inc. v. Postal
+Regul. Comm’n, 955 F.3d 1038, 1050–51 (D.C. Cir. 2020)
+(quotation marks and citation omitted). And with respect to the
+exemptive relief granted here, the Securities Exchange Act
+                              15
+required the SEC to consider the public interest and the
+protection of investors. See 15 U.S.C. § 78mm(a)(1).
+
+     The SEC considered the same two factors two decades ago
+when it approved a rule requiring securities dealers to provide
+the Disclosure Statement to security futures investors. At that
+time, the SEC found that requirement “consistent” with its
+statutory mandates to “protect investors and the public
+interest.” Disclosure Statement Order, 67 Fed. Reg. at 70,994;
+see 15 U.S.C. § 78o-3(b)(6). In light of that prior finding, the
+SEC needed to “acknowledge” and “offer a reasoned
+explanation” for its evident change of perspective in the
+Exemptive Order—which, in contrast with the previous order,
+effectively discarded the Disclosure Statement requirement for
+a product meeting the statutory definition of a security future.
+Am. Wild Horse Pres. Campaign v. Perdue, 873 F.3d 914, 923
+(D.C. Cir. 2017). Neither the Exemptive Order nor the record,
+however, contains any mention of the Disclosure Statement.
+
+     The SEC does not dispute that it needed to consider the
+harms that could result from dispensing with the general
+requirement to provide the Disclosure Statement to investors in
+security futures. Instead, the SEC maintains that the Order
+adequately addresses those potential harms, albeit implicitly.
+The Order does so, the SEC reasons, by establishing exceptions
+to and conditions on exemptive relief that serve to protect
+investors from fraud and market manipulation and to ensure
+that SPIKES futures trade in a way that minimizes risk.
+
+    At least with respect to the Exemptive Order’s exceptions,
+however, they do nothing to undercut the rationale for
+providing the Disclosure Statement to SPIKES futures
+investors. The Order’s exceptions preserve the application to
+SPIKES      futures    of      anti-fraud,  anti-manipulation,
+recordkeeping, and inspection requirements that generally
+                               16
+apply to security futures. See 85 Fed. Reg. at 77,297, 77,299–
+300. So even if the Order’s exceptions, by preserving those
+requirements, serve to limit risks associated with fraud and
+manipulation, those requirements would apply to precisely the
+same extent even absent the grant of exemptive relief. Yet in
+that situation, securities dealers still would have been obligated
+to provide SPIKES futures investors with the Disclosure
+Statement: that obligation applies to all security futures,
+regardless of their risk level.
+
+     It is far from clear, moreover, that the Exemptive Order’s
+exceptions and conditions in fact minimize the risks addressed
+in the Disclosure Statement. The SEC’s brief points only to the
+risk that “prices of security futures contracts may not maintain
+their customary or anticipated relationships to the prices of the
+underlying . . . index.” SEC Br. 49 (quoting Disclosure
+Statement at 6). The Exemptive Order may plausibly minimize
+that risk—it “contains a number of conditions designed to
+protect investors should a tracking error between the SPY and
+its underlying index materialize.” 85 Fed. Reg. at 77,302. But
+it is hard to see—and the SEC does not explain—how the
+Order’s exceptions and conditions address myriad other risks
+discussed in the Disclosure Statement’s forty-plus pages. To
+take just one example, the exceptions and conditions do
+nothing to mitigate the general need for an investor in SPIKES
+futures to have “knowledge of both the securities and the
+futures markets,” nor the risks associated with trading without
+such knowledge. Disclosure Statement at 6.
+
+     The SEC falls back on separate disclosures that SPIKES
+futures investors will receive under the CFTC regulations that
+“will govern every aspect of [SPIKES futures] on a day-to-
+[day] basis.” Exemptive Order, 85 Fed. Reg. at 77,300. The
+suggestion is that those required disclosures for futures, see 17
+C.F.R. § 1.55(b), fill any void left by the Disclosure
+                              17
+Statement’s absence. For instance, the futures disclosures
+provide warnings about the risk of loss and the difficulty of
+liquidating a position, comparable to similar warnings in the
+Disclosure Statement. Compare id. § 1.55(b)(1), (b)(9), with
+Disclosure Statement at 4–5.
+
+     The Exemptive Order, however, never mentions the
+futures disclosures. And at any rate, those disclosures only
+partially fill the void left by the absence of the Disclosure
+Statement. As with the Exemptive Order’s exceptions and
+conditions, the futures disclosures do not address any number
+of matters covered by the Disclosure Statement. And even
+when the two sets of disclosures overlap, the Disclosure
+Statement tends to provide much greater detail than the futures
+disclosures. Compare, e.g., 17 C.F.R. § 1.55(b)(11) (“The high
+degree of leverage (gearing) that is often obtainable in futures
+trading because of the small margin requirements can work
+against you as well as for you. Leverage (gearing) can lead to
+large losses as well as gains.”), with Disclosure Statement at
+25–28 (making the same basic point over the course of several
+paragraphs, including an explanation of margin requirements
+and numerical examples).
+
+     For those reasons, we conclude that the Exemptive Order’s
+failure adequately to consider the potential harms to investors
+from discarding the obligation to provide the Disclosure
+Statement was arbitrary and capricious.
+
+                              III.
+
+     The Exemptive Order’s shortfalls require its vacatur. In
+general, “vacatur is the normal remedy,” although we can
+remand to the agency without vacatur in certain circumstances.
+Allina Health Servs. v. Sebelius, 746 F.3d 1102, 1110 (D.C.
+Cir. 2014). “The decision whether to vacate depends on ‘the
+seriousness of the order’s deficiencies (and thus the extent of
+                               18
+doubt whether the agency chose correctly) and the disruptive
+consequences of an interim change that may itself be
+changed.’” Susquehanna, 866 F.3d at 451 (quoting Allied-
+Signal, Inc. v. U.S. Nuclear Regul. Comm’n, 988 F.2d 146,
+150–51 (D.C. Cir. 1993)). The SEC and MGEX urge us to
+exercise our discretion to remand without vacatur. We decline
+to do so because they have not shown that vacatur would be so
+disruptive as to justify a departure from our normal course.
+
+     In contending that vacatur would be unduly disruptive, the
+SEC and MGEX point to the Exemptive Order’s recognition
+that, “to the extent that the exemptions in this order are no
+longer effective, market participants will need time to take the
+necessary steps to wind down their existing transactions in an
+orderly fashion, which typically requires entering into
+offsetting transactions.” 85 Fed. Reg. at 77,300. To that end,
+the Order provides that, “[t]o the extent that one or more of”
+the Order’s conditions “is no longer satisfied,” the Order “will
+no longer apply three calendar months after the end of the
+month in which any condition is no longer satisfied.” Id. In
+the SEC’s judgment, that “is a sufficient amount of time to
+allow for such activity to occur.” Id. Notably, Congress made
+essentially the same judgment in the CFMA, which provides
+for a similar three-month grace period when changes to a
+broad-based security index’s composition cause it to become
+narrow-based (thereby causing futures based on that index to
+be reclassified as security futures).          See 15 U.S.C.
+§ 78c(a)(55)(E).
+
+     The concerns with assuring adequate time for investors to
+unwind transactions do not counsel against ordering vacatur
+altogether. Rather, they are consistent with granting vacatur
+but building in a grace period akin to the one established by the
+SEC and Congress.          Accordingly, we will vacate the
+Exemptive Order but will withhold issuance of our mandate,
+                               19
+pursuant to Rule 41(b) of the Federal Rules of Appellate
+Procedure, to provide a three-month period during which
+market participants can wind down their open transactions. See
+Chamber of Com. v. SEC, 443 F.3d 890, 909 (D.C. Cir. 2006)
+(withholding issuance of mandate for ninety days pursuant to
+Rule 41(b)). Our mandate will issue three calendar months
+after the end of the calendar month in which we enter judgment,
+except that, if a timely petition for rehearing or motion for stay
+of mandate is filed, the mandate will issue three calendar
+months after the end of the calendar month in which we may
+deny such a petition or motion.
+
+                       *   *    *   *    *
+
+    For the foregoing reasons, we grant the petition for review
+and vacate the Exemptive Order. We withhold issuance of our
+mandate as set forth in this opinion.
+
+                                                     So ordered.
+

@@ -1,0 +1,1695 @@
+                      PUBLISHED
+
+
+UNITED STATES COURT OF APPEALS
+             FOR THE FOURTH CIRCUIT
+
+
+NATIONAL ELECTRICAL                  
+MANUFACTURERS ASSOCIATION,
+                       Petitioner,
+               v.
+UNITED STATES DEPARTMENT OF
+                                     
+ENERGY; UNITED STATES OF
+AMERICA,                                   No. 10-1533
+                    Respondents.
+
+
+NATURAL RESOURCES DEFENSE
+COUNCIL,
+  Amicus Supporting Respondents.
+                                     
+          On Petition for Review of an Order of
+               the Department of Energy.
+              (EERE-2007-BT-STD-0007)
+
+                  Argued: May 12, 2011
+
+                Decided: August 16, 2011
+
+   Before KING, SHEDD, and WYNN, Circuit Judges.
+
+
+
+Petition for review denied by published opinion. Judge King
+wrote the majority opinion, in which Judge Wynn joined.
+Judge Shedd wrote a dissenting opinion.
+2                      NEMA v. DOE
+                        COUNSEL
+
+ARGUED: John Andrews Hodges, WILEY REIN, LLP,
+Washington, D.C., for Petitioner. H. Thomas Byron, III,
+UNITED STATES DEPARTMENT OF JUSTICE, Washing-
+ton, D.C., for Respondents. ON BRIEF: Clark R. Silcox,
+NATIONAL ELECTRICAL MANUFACTURERS ASSOCI-
+ATION, Rosslyn, Virginia; Eric Andreas, WILEY REIN,
+LLP, Washington, D.C., for Petitioner. Scott Blake Harris,
+General Counsel, Daniel Cohen, Assistant General Counsel,
+Michael Kido, Bettina Mumme, UNITED STATES
+DEPARTMENT OF ENERGY, Washington, D.C.; Tony
+West, Assistant Attorney General, Michael S. Raab, UNITED
+STATES DEPARTMENT OF JUSTICE, Washington, D.C.,
+for Respondents. Timothy D. Ballo, EARTHJUSTICE, Wash-
+ington, D.C.; Katherine Kennedy, Christine Chang, NATU-
+RAL RESOURCES DEFENSE COUNCIL, New York, New
+York, for Amicus Supporting Respondents.
+
+
+                         OPINION
+
+KING, Circuit Judge:
+
+   The National Electrical Manufacturers Association
+("NEMA") petitions for review of a final rule promulgated by
+the United States Department of Energy (the "DOE") setting
+forth energy conservation standards for electric induction
+motors ranging in power output from .25 to 3 horsepower. See
+Energy Conservation Standards for Small Electric Motors:
+Final Rule, 75 Fed. Reg. 10874 (Mar. 9, 2010) (codified at 10
+C.F.R. pt. 431) (the "Final Rule"). In promulgating the Final
+Rule, the DOE invoked its authority to establish energy con-
+servation standards for "small electric motor[s]," a term
+defined by the Energy Policy and Conservation Act (the
+"EPCA"). See 42 U.S.C. § 6311(13)(G). NEMA contends that
+the relevant statutory definition unambiguously excludes all
+                             NEMA v. DOE                                   3
+such motors exceeding 1 horsepower, as well as certain
+motors rated at and less than 1 horsepower, from being regu-
+lated as small electric motors. As explained below, because
+the Final Rule embodies a permissible interpretation of the
+statutory definition, we deny the petition for review.
+
+                                     I.
+
+   A "small electric motor" is a type of electric induction
+motor, which is a machine that converts electricity into rota-
+tional mechanical power. The more efficient electric induction
+motors create more mechanical power using less electricity.
+The Final Rule is the DOE’s response to the EPCA’s directive
+that the DOE promulgate energy conservation (or efficiency)
+standards to govern certain small electric motors. The motors
+covered by the Final Rule are manufactured in two-, four-,
+and six-pole configurations and range from .25 to 3 horsepower.1
+The covered motors have a wide variety of industrial and
+commercial applications, the largest of which are used in
+pumping and in heating, ventilating, and air-conditioning
+("HVAC") systems. The DOE estimates that the standards
+pronounced in the Final Rule "will save approximately 2.2
+quads . . . of energy over 30 years," which "is equivalent to
+about 2.2 [percent] of total annual U.S. energy consumption"
+and will "eliminate the need for approximately eight new 250-
+megawatt . . . power plants" as well as "result in cumulative
+greenhouse gas emission reductions of . . . an amount equal
+to that produced by approximately 25 million new cars in a
+year." Final Rule, 75 Fed. Reg. 10874, 10876 (Mar. 9, 2010)
+(codified at 10 C.F.R. pt. 431).
+
+   NEMA’s petition for review challenges whether certain of
+the electric induction motors covered by the Final Rule fall
+  1
+    "Pole configuration" refers to the number of magnetic poles in an elec-
+tric induction motor. The number of poles is directly related to the theoret-
+ical maximum rotational speed at which a motor can operate, as measured
+in revolutions per minute (rpm).
+4                            NEMA v. DOE
+within the statutory definition of the term "small electric
+motor." Resolving this challenge requires us to examine a
+highly technical regulatory framework that governs a complex
+market and is characterized by fine technological distinctions.
+Accordingly, we begin by sketching the regulatory architec-
+ture of which the definition is a part, as well as the relevant
+provisions of NEMA Standards Publication MG1-1987, the
+industry publication to which the definition refers. We then
+describe the process culminating in the promulgation of the
+Final Rule and NEMA’s challenge thereto.
+
+                                    A.
+
+   The story underlying this litigation begins with the enact-
+ment of the Energy Policy Act of 1992, Pub. L. No. 102-486,
+106 Stat. 2776 (the "Energy Policy Act"). The Energy Policy
+Act amended the EPCA, directing the DOE to promulgate
+energy conservation standards for various products and equip-
+ment. Among other things, the EPCA requires the DOE to
+"prescribe, by rule, energy conservation standards for those
+small electric motors for which" the DOE determines that
+such standards are "technologically feasible and economically
+justified, and would result in significant energy savings." 42
+U.S.C. § 6317(b)(1)-(2).2 Such standards must satisfy the
+criteria specified in 42 U.S.C. § 6295(o). See id. § 6316(a).3
+    2
+     The energy conservation standards promulgated under the EPCA do
+not apply to "any small electric motor which is a component of" certain
+other covered products and equipment, such as residential air conditioners
+and heat pumps, clothes washers and dryers, and commercial-packaged air
+conditioning and heating equipment. 42 U.S.C. § 6317(b)(3).
+   3
+     Under the EPCA, any new or amended standard for small electric
+motors must "be designed to achieve the maximum improvement in
+energy efficiency . . . which the [DOE] determines is technologically fea-
+sible and economically justified." 42 U.S.C. § 6295(o)(2)(A). The DOE
+may not promulgate a standard that "is not technologically feasible or eco-
+nomically justified," or that would not result in the "significant conserva-
+tion of energy." Id. § 6295(o)(3)(B). The DOE is obliged to weigh several
+benefits and costs to determine whether a standard is economically justi-
+fied. See id. § 6295(o)(2)(B).
+                             NEMA v. DOE                                    5
+   The resolution of this challenge turns on the meaning of the
+term "small electric motor," which, as provided by the EPCA,
+"means a NEMA general purpose alternating current single-
+speed induction motor, built in a two-digit frame number
+series in accordance with NEMA Standards Publication MG1-
+1987." 42 U.S.C. § 6311(13)(G). MG1-1987 is an industry
+publication that sets forth specifications for electric motors
+and generators, which collectively are called "machines." The
+publication classifies machines in various ways, such as by
+size, application, electrical type, and variability of speed. See
+J.A. 13-22.4 Two of those classifications are relevant here:
+size and application.
+
+   With respect to classification by size, a machine may be a
+"Small (Fractional) Machine," a "Medium (Integral)
+Machine," or a "Large Machine." J.A. 13-14. Paragraph 1.02
+of MG1-1987 provides that a motor is a "small machine" if it
+"is either (1) a machine built in a two-digit frame number
+series in accordance with [¶] 11.01.1 or (2) a machine built
+in a frame smaller than that frame of a medium machine . . .
+which has a continuous, open-construction rating at 1700-
+1800 rpm of 1 horsepower." Id. at 13 (emphases added).5 By
+contrast, under ¶ 1.03.1, "[a]n alternating-current medium
+machine is a machine (1) built in a three- or four-digit frame
+number series in accordance with [¶] 11.01.2 . . . and (2) hav-
+ing a continuous, open-construction rating up to and includ-
+ing" 500 horsepower. Id. at 13-14 (emphasis added).
+
+   MG1-1987 also classifies machines by application. Rele-
+  4
+     Citations herein to "J.A. __" refer to the contents of the Joint Appendix
+filed by the parties in this appeal.
+   5
+     Subparagraph 11.01.1 of MG1-1987 governs the numbering of frames
+for small machines, and predicates such numbering on physical size. That
+subparagraph provides that "[t]he frame number for small machines shall
+be the D dimension in inches multiplied by 16," J.A. 52, where the D
+dimension is the distance from the "[c]enterline of shaft to bottom of feet"
+of the motor frame, id. at 31.
+6                           NEMA v. DOE
+vant here is ¶ 1.05, which defines the term "general-purpose
+alternating-current motor" as
+
+        an induction motor, rated 200 horsepower and less,
+        which incorporates all of the following:
+
+               1.   Open construction.
+
+               2.   Rated continuous duty.
+
+               3.   Service factor in accordance with
+                    MG1-12.47.
+
+               4.   Class A insulation system with a
+                    temperature rise as specified in
+                    MG1-12.42 for small motors or
+                    Class B insulation system with a
+                    temperature rise as specified in
+                    MG1-12.43 for medium motors.
+
+           It is designed in standard ratings with standard
+        operating characteristics and mechanical construc-
+        tion for use under usual service conditions without
+        restriction to a particular application or type of appli-
+        cation.
+
+J.A. 14. Paragraph 1.05 of MG1-1987 thus limits general pur-
+pose motors to a maximum of 200 horsepower and requires
+that they be built in an open (rather than enclosed) construction.6
+A subsequent version of MG1 expanded ¶ 1.05 to provide that
+such motors may also be built in an enclosed construction.
+Paragraphs 12.42 and 12.43, referenced in ¶ 1.05, make no
+mention of horsepower rating.
+    6
+   "Open" or "enclosed" construction, as used in ¶ 1.05, refers to the type
+of housing utilized in an electric induction motor. An open housing allows
+outside air to pass through and cool the motor during operation, while an
+enclosed housing does not circulate outside air.
+                             NEMA v. DOE                                   7
+   Two other aspects of the definition in ¶ 1.05 are important
+for our inquiry. First, it references ¶ 12.47, which sets forth,
+in Table 12-2, the service factor specifications for small and
+medium general-purpose alternating-current electric induction
+motors. See J.A. 72.7 Table 12-2, in turn, delineates small and
+medium motors at certain horsepower ratings. Specifically,
+for two-pole motors operating at 3600 rpm, 1 horsepower
+motors are "small" while 1.5 horsepower motors are "me-
+dium." For four-pole motors operating at 1800 rpm, a .75
+horsepower motor is small while a 1 horsepower motor is
+medium; for six-pole motors operating at 1200 rpm, a .5
+horsepower motor is small while a .75 horsepower motor is
+medium. Second, ¶ 1.05 requires a general purpose motor to
+be designed in "standard ratings with standard operating char-
+acteristics," which means that such motors must meet pre-
+scribed performance characteristics, one example of which is
+locked rotor torque as specified in ¶ 12.32. Subparagraphs
+12.32.2 and .3 reflect the same delineations between small
+and medium motors as found in Table 12-2.8
+
+                                     B.
+
+   In 2006, the DOE took the first step toward establishing
+energy conservation standards for small electric motors when
+it determined that such standards appeared to be technologi-
+cally feasible and economically justified, and would result in
+significant energy savings. See Determination Concerning the
+Potential for Energy Conservation Standards for Small Elec-
+tric Motors, 71 Fed. Reg. 38799 (published July 10, 2006)
+(the "Determination"). In the Determination, the DOE identi-
+  7
+     The "service factor" of an electric induction motor "is a measure of the
+overload capacity at which a motor can operate without thermal damage,
+while operating normally within the correct voltage tolerances." Final
+Rule, 75 Fed. Reg. at 10885.
+   8
+     Other performance characteristics are also specified in Parts 10 and 12
+of MG1-1987, and those provisions do not specify ratings for small motors
+exceeding 1 horsepower. See J.A. at 45-46, 64-72.
+8                       NEMA v. DOE
+fied one "key issue" as "the definition of a ‘small electric
+motor’ and precisely which motors are covered by this rule-
+making." Id. at 38800. The DOE consulted MG1-1987 to
+address this question, observing that "the two-digit frame
+series" specified in the statutory definition "encompasses
+NEMA frame sizes 42, 48, and 56, and motors with horse-
+power ratings ranging from [.25] to 3 horsepower." Id.
+
+   In the Determination, the DOE also recognized that the
+statutory definition requires small electric motors to be
+"NEMA general purpose . . . motor[s]," prompting the DOE
+to state that "[t]he EPCA definition of a small motor is tied
+to the NEMA Standards Publication MG1-1987 performance
+requirements that NEMA has established for general purpose
+motors, such as the minimum levels for breakdown and
+locked rotor torque for small electric motors presented in
+MG1-1987 paragraph 12.32." Determination, 71 Fed. Reg. at
+38800. In light of those requirements, the DOE found "that of
+the motors that satisfy the frame-size requirements of the
+small-motors definition, only a subset satisfies the other per-
+formance requirements of the definition." Id. at 38800-01.
+
+   In 2007, the DOE released a document announcing the
+scope of coverage for its rulemaking concerning this matter.
+This document identified relevant portions of MG1-1987,
+including ¶ 1.05. In particular, the document addressed the
+horsepower ratings of electric induction motors subject to the
+rulemaking. It observed first that "[t]he MG-1 standards dis-
+cussed in the [section of the document dealing with horse-
+power ratings] are not explicitly referenced by the definitions
+of" the other terms in MG1-1987. J.A. 82. The DOE then
+remarked that, "[a]s seen in [Tables 10-1 and 10-2], MG1-
+1987 identifies small induction motors as motors with horse-
+power ratings from 1 millihorsepower up to 1 horsepower."
+Id.
+
+ In 2009, after public input and the DOE’s further study,
+DOE issued a Notice of Proposed Rulemaking. See Energy
+                         NEMA v. DOE                            9
+Conservation Standards for Small Electric Motors: Proposed
+Rule, 74 Fed. Reg. 61410 (proposed Nov. 24, 2009) (the "No-
+tice"). The Notice addressed the import of MG1-1987 regard-
+ing two aspects of the electric induction motors subject to the
+rulemaking relevant here: horsepower rating and open or
+enclosed construction. As to horsepower ratings, the Notice
+observed first that the statutory definition "does not explicitly
+limit the scope of coverage to certain horsepower ratings." Id.
+at 61422. The Notice stated further that "the small electric
+motor industry generally considers 3 hp as the upper limit for
+rated capacity of such motors." Id.
+
+   The Notice also addressed the comments of Earthjustice, an
+environmental advocacy group, regarding the regulation of
+electric induction motors built in an enclosed construction.
+Earthjustice contended that DOE could regulate such motors,
+even though ¶ 1.05 of MG1-1987 requires a general purpose
+motor to be built in an open construction. Earthjustice based
+its view on subsequent versions of MG1 having expanded the
+definition of "general-purpose . . . motor" to include motors
+built in both open and enclosed constructions. Earthjustice’s
+view took as one premise that the statutory definition’s refer-
+ence to MG1-1987 applied only to the frame size requirement
+found in the definition’s second clause, and not to the term
+"NEMA general purpose . . . motor" in the definition’s first
+clause. See Notice, 74 Fed. Reg. at 61421. According to
+Earthjustice, therefore, nothing prevented DOE from treating
+enclosed motors as "NEMA general purpose . . . motor[s]."
+NEMA disagreed with Earthjustice, and the DOE declared
+that it "agrees with NEMA that the reference MG1-1987
+applies to all facets of the statutory definition of a small elec-
+tric motor." Id.
+
+  The period of time following issuance of the Notice
+involved a comment period and an additional public meeting.
+At the public meeting and in written comment, NEMA
+objected on the ground that some of the electric induction
+motors identified in the Notice exceeded what NEMA
+10                     NEMA v. DOE
+asserted were MG1-1987’s horsepower limitations for small
+motors, and therefore fell outside the statutory definition.
+Earthjustice also reiterated its view that enclosed motors
+could be regulated in the rulemaking because the reference to
+MG1-1987 does not unambiguously apply to the first clause
+of the statutory definition. Other commenters echoed Earth-
+justice’s position, urging the DOE to announce a broader rule.
+See, e.g., J.A. 351-52, 355, 359-60.
+
+  On March 9, 2010, the DOE promulgated the Final Rule.
+The Final Rule set forth energy conservation standards for
+certain electric induction motors ranging in power from .25 to
+3 horsepower:
+
+        (a) Each small electric motor manufactured . . .
+     after March 9, 2015, shall have an average full load
+     efficiency of not less than the following:
+                       NEMA v. DOE                          11
+
+
+
+
+10 C.F.R. § 431.446.
+
+   The preamble to the Final Rule responded to NEMA’s
+objections that some of the motors are too powerful to be reg-
+ulated as small electric motors. Specifically, it stated:
+
+       DOE understands that NEMA MG1-1987 does not
+    provide ratings for small motors of the identified
+    higher horsepower ratings. However, DOE does not
+    believe this precludes certain higher horsepower rat-
+    ings built in a two-digit NEMA frame consistent
+    with NEMA MG1-1987 from coverage. In addition,
+    upon review of NEMA manufacturer catalogs, DOE
+    noted that two-digit frame size motors of higher
+    horsepower ratings are commonly marketed as gen-
+    eral purpose. DOE also observed from NEMA ship-
+    ment data provided to DOE for the determination
+    analysis that when NEMA surveyed its members and
+    requested shipments of general purpose motors built
+    in a two-digit frame number series, responding man-
+    ufacturers provided shipments data in horsepower
+12                      NEMA v. DOE
+     ratings exceeding those listed in [NEMA’s] com-
+     ments above. Although NEMA argued that these
+     motors do not fall within this rulemaking, NEMA
+     did not deny that these motors are considered general
+     purpose motors. Thus, DOE believes that even
+     though NEMA MG1-1987 does not provide standard
+     ratings for higher horsepower small electric motors,
+     many of these motors are considered NEMA general
+     purpose motors that could be considered for cover-
+     age by DOE.
+
+Final Rule, 75 Fed. Reg. at 10883.
+
+   As recognized in the Final Rule’s preamble, the DOE deter-
+mined which electric induction motors were within the statu-
+tory definition by consulting materials from motor
+manufacturers, including catalog entries that advertise "gen-
+eral purpose" motors built in a two-digit frame series with
+power outputs up to 3 horsepower. J.A. 420-30. The preamble
+explained further that the Final Rule "does not codify a defini-
+tion for ‘NEMA general purpose motor,’" although the "DOE
+will consider proposing a definition for this term" in a future
+rulemaking. Final Rule, 75 Fed. Reg. at 10886. The DOE also
+reiterated that MG1-1987 informs the meaning of the term
+"NEMA general purpose . . . motor" in the statutory defini-
+tion, such that motors within the definition must satisfy MG1-
+1987’s performance requirements. See J.A. 533-34.
+
+   The preamble also addressed the remarks of Earthjustice,
+which contended that the DOE could regulate electric induc-
+tion motors with both open and enclosed construction by
+interpreting "the phrase MG1-1987" in the statutory definition
+of "small electric motor" to apply "only to the two digit frame
+number series requirement" in the definition’s second clause.
+Final Rule, 75 Fed. Reg. at 10882. DOE responded by reiter-
+ating its "belie[f] that its scope of coverage in this final rule
+is appropriate," id., explaining that MG1-1987 applies to "all
+facets" of the definition, J.A. 537.
+                            NEMA v. DOE                                13
+                                   C.
+
+   NEMA pursued its challenge to the Final Rule by filing this
+petition for review. NEMA contends that the statutory defini-
+tion of a small electric motor unambiguously excludes all
+electric induction motors exceeding 1 horsepower, as well as
+certain motors rated at and less than 1 horsepower. Specifi-
+cally, NEMA’s objections track the delineations between
+small and medium motors set forth in Parts 10 and 12 of
+MG1-1987. See supra at 7 & note 8. Thus, NEMA maintains
+that six-pole motors are not within the definition if they
+exceed .5 horsepower; that four-pole motors are not if they
+exceed .75 horsepower; and that two-pole motors are not if
+they exceed 1 horsepower. NEMA further asserts that,
+because these more-powerful motors fall outside the defini-
+tion, we must vacate the Final Rule in its entirety, as those
+motors were included in the calculations supporting DOE’s
+determination that the Final Rule was warranted.
+
+                                   II.
+
+   The EPCA provides that "[a]ny person who will be
+adversely affected by a rule prescribed under [42 U.S.C.
+§ 6295] may . . . file a petition with the United States court
+of appeals for the circuit in which such person resides or has
+his principal place of business, for judicial review of such
+rule." 42 U.S.C. § 6306(b)(1).9 We possess "jurisdiction to
+review the rule in accordance with [5 U.S.C. §§ 701-706], and
+to grant appropriate relief as provided in" those provisions. Id.
+§ 6306(b)(2). We are thus tasked with "decid[ing] all relevant
+questions of law" and "interpret[ing] . . . statutory provisions"
+at issue. 5 U.S.C. § 706. We are bound to "hold unlawful and
+set aside" the Final Rule if we determine that it is "(A) arbi-
+trary, capricious, an abuse of discretion, or otherwise not in
+accordance with law; . . . (C) in excess of statutory jurisdic-
+  9
+   NEMA’s principal place of business is located in this Circuit, that is,
+in Rosslyn, Virginia.
+14                           NEMA v. DOE
+tion, authority, or limitations, or short of statutory right; [or]
+(D) without observance of procedure required by law." Id.
+§ 706(2).
+
+                                    III.
+
+   The sole issue before us in this proceeding is whether
+DOE’s interpretation of "small electric motor" is within the
+range of permissible interpretations thereof. NEMA argues
+that Parts 10 and 12 of MG1-1987 restrict the horsepower of
+small electric induction motors, and that the statutory defini-
+tion unambiguously incorporates this limitation.10
+
+   In its papers before this Court, the DOE agrees with NEMA
+that MG1-1987 applies to both clauses of the statutory defini-
+tion, but does not agree that such an upper horsepower limita-
+tion is so incorporated. The DOE contends that the
+definition’s second clause, which expressly refers to MG1-
+1987, requires merely that a small electric motor is one built
+in an appropriate frame series. The DOE has interpreted the
+term "NEMA general purpose . . . motor" in the definition’s
+first clause to incorporate the requirements of MG1-1987
+¶ 1.05. Paragraph 1.05, in turn, specifies (among other things)
+that a general purpose motor must possess "standard ratings"
+and "standard operating characteristics" found in Parts 10 and
+12 of MG1-1987. The DOE points out, however, that the defi-
+nition does not unambiguously incorporate the delineations
+between "small" and "medium" motors found in Parts 10 and
+  10
+    The DOE does not dispute, and we agree, that if the more-powerful
+motors do not fall within the statutory definition, we must vacate the Final
+Rule in its entirety, and cannot simply strike down the standards for those
+motors and leave in place the standards for the motors that NEMA con-
+cedes fall within the definition. This is because DOE’s finding that energy
+conservation standards are warranted is predicated on calculations includ-
+ing the more-powerful motors. Moreover, there is no doubt that DOE
+intended the Final Rule as "one, integral action," all the components of
+which "must stand or fall together." North Carolina v. EPA, 531 F.3d 896,
+929 (D.C. Cir. 2008).
+                        NEMA v. DOE                           15
+12, and has declined to interpret the definition in such a way.
+Rather, the DOE explains, a 3-horsepower motor built in a
+two-digit frame series is a "small electric motor" for purposes
+of the statutory definition, so long as it is general purpose and
+possesses standard ratings and operating characteristics enu-
+merated in Parts 10 and 12 — even if those ratings and oper-
+ating characteristics correspond with those of a "medium"
+motor.
+
+  To evaluate the parties’ contentions, we must employ the
+familiar framework of Chevron U.S.A. Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837 (1984). We
+will first describe the relevant precepts of the Chevron frame-
+work, and then apply those principles to DOE’s interpretation
+of the statutory definition.
+
+                               A.
+
+   We have explained that "Chevron deference is a tool of
+statutory construction whereby courts are instructed to defer
+to the reasonable interpretations of expert agencies charged by
+Congress to fill any gap left, implicitly or explicitly, in the
+statutes they administer." Am. Online, Inc. v. AT&T Corp.,
+243 F.3d 812, 817 (4th Cir. 2001) (internal quotations and
+emphasis omitted). Under Chevron, we first ask "whether
+Congress has directly spoken to the precise question at issue,"
+and "[i]f the intent of Congress is clear, that is the end of the
+matter; for the court, as well as the agency, must give effect
+to the unambiguously expressed intent of Congress." 467 U.S.
+at 842-43. If, however, "the statute is silent or ambiguous with
+respect to the specific issue, the question for the court is
+whether the agency’s answer is based on a permissible con-
+struction of the statute." Id. at 843.
+
+   Under the first step of Chevron, a reviewing court is to
+"employ[ ] traditional tools of statutory construction" to deter-
+mine whether Congress addressed "the precise question at
+issue." 467 U.S. at 842, 843 n.9. In this inquiry, we begin with
+16                      NEMA v. DOE
+the text and structure of the statute. See Cabell Huntington
+Hosp., Inc. v. Shalala, 101 F.3d 984, 986 (4th Cir. 1996). At
+step one, we also bring to bear principles of grammatical
+usage. See Barnhart v. Thomas, 540 U.S. 20, 26 (2003).
+While we ordinarily wade into a statute’s legislative history
+only after deeming the statute ambiguous, see United States
+v. Hatcher, 560 F.3d 222, 226 (4th Cir. 2009), we have
+described legislative history as one of the traditional tools of
+interpretation to be consulted at Chevron’s step one. See, e.g.,
+Elm Grove Coal Co. v. Dir., O.W.C.P., 480 F.3d 278, 293-94
+(4th Cir. 2007).
+
+   Importantly, though, in consulting legislative history at step
+one of Chevron, we have utilized such history only for limited
+purposes, and only after exhausting more reliable tools of
+construction. For example, in Elm Grove Coal, we consulted
+legislative history solely to bolster our conclusion that the
+agency’s interpretation was permissible — a conclusion
+formed after a thorough examination of the statutory language
+at issue and the applicable canons of construction. See 480
+F.3d at 293-96. NEMA has not identified, nor are we aware
+of, any decision in which we relied on legislative history,
+standing alone, to reject an agency’s interpretation of a statute
+it administers. In this regard, we have consistently empha-
+sized that "the plain language of the statute is . . . the most
+reliable indicator of [c]ongressional intent." Soliman v. Gon-
+zales, 419 F.3d 276, 281-82 (4th Cir. 2005). Accordingly, fed-
+eral courts are obliged to "avoid the pitfalls that plague too
+quick a turn to the more controversial realm of legislative his-
+tory." Lamie v. U.S. Tr., 540 U.S. 526, 536 (2004).
+
+   Where "Congress has [not] directly spoken to the precise
+question at issue," Chevron, 467 U.S. at 842, we "must . . .
+proceed to the second step of the Chevron analysis," Capitol
+Mortg. Bankers, Inc. v. Cuomo, 222 F.3d 151, 155 (4th Cir.
+2000). In this respect, the Supreme Court has instructed that
+"[f]ew phrases in a complex scheme of regulation are so clear
+as to be beyond the need for interpretation when applied in a
+                        NEMA v. DOE                           17
+real context." Nat’l R.R. Passenger Corp. v. Boston & Maine
+Corp., 503 U.S. 407, 418 (1992). We have proceeded to
+Chevron’s second step where the statutory language "neither
+plainly compel[led] nor clearly preclude[d] [an] interpreta-
+tion," because in such circumstances the "precise import" of
+the language "is ambiguous and certainly not free from
+doubt." United Seniors Ass’n, Inc. v. Social Security Admin.,
+423 F.3d 397, 403 (4th Cir. 2005) (internal quotation marks
+omitted). Similarly, we have reached Chevron’s second step
+after describing statutory language as "susceptible to more
+precise definition and open to varying constructions." Md.
+Dep’t of Health & Mental Hygiene v. Centers for Medicare
+and Medicaid Servs., 542 F.3d 424, 434 (4th Cir. 2008) (inter-
+nal quotation marks omitted).
+
+   If we determine that "the statute is ambiguous on the" pre-
+cise question at issue, "we defer at [Chevron’s] step two to the
+agency’s interpretation so long as the construction is a reason-
+able policy choice for the agency to make." Nat’l Cable &
+Telecomms. Ass’n v. Brand X Internet Servs., 545 U.S. 967,
+986 (2005) (internal quotation marks omitted). We afford
+"controlling weight" to an agency’s reasonable interpretation
+even where we would have, if writing on a clean slate,
+adopted a different interpretation. Regions Hosp. v. Shalala,
+522 U.S. 448, 457 (1998). We have deferred to an agency’s
+interpretation of an ambiguous statute where the interpretation
+"is grammatically correct and . . . accommodates the purpose
+of the [enactment]." Gatlin Oil Co., Inc. v. United States, 169
+F.3d 207, 211 (4th Cir. 1999). The degree of deference
+afforded the agency "is particularly great where . . . the issues
+involve a high level of technical expertise in an area of rap-
+idly changing technological and competitive circumstances."
+Verizon Tel. Cos. v. FCC, 292 F.3d 903, 909 (D.C. Cir. 2002)
+(internal quotation marks omitted).
+
+                               B.
+
+  We now turn to whether the statutory definition unambigu-
+ously forecloses the DOE’s interpretation. We must, of
+18                      NEMA v. DOE
+course, evaluate the permissibility of the DOE’s interpretation
+by reference to the entirety of the definition, and not by read-
+ing any portion thereof in isolation. See Elm Grove Coal, 480
+F.3d at 293 ("[W]e must not be guided by a single sentence
+or member of a sentence, but instead must look to the provi-
+sions of the whole law, and to its object and policy." (internal
+quotation marks omitted)). In this regard, we observe that the
+statutory definition consists of two clauses — the first refer-
+ring to a "NEMA general purpose . . . motor" (a term not
+defined in either the statute or regulations), the second refer-
+ring to the frame series in which a small electric motor must
+be built. 42 U.S.C. § 6311(13)(G).
+
+   For NEMA to prevail, the statutory definition must unam-
+biguously incorporate the horsepower limitation that NEMA
+contends is found in MG1-1987. In light of the language and
+structure of the definition, as well as ordinary principles of
+grammar, we conclude that the definition does not unambigu-
+ously incorporate such a limitation. To begin with, we are not
+free to disregard Congress’s decision to break the definition
+into two clauses. Second, the express reference to MG1-1987
+in the definition’s second clause does not unambiguously
+incorporate all of that publication’s provisions, but rather only
+its specifications for frame size. Third, the term "NEMA gen-
+eral purpose . . . motor" in the definition’s first clause like-
+wise does not unambiguously impose NEMA’s proposed
+horsepower limitation. Finally, the available legislative his-
+tory does not justify NEMA’s reading.
+
+                               1.
+
+  We begin by examining the definition as a whole. In this
+regard, Congress’s deliberate choice to break the statutory
+definition into two clauses is revealing. The definition first
+requires a small electric motor to be a "NEMA general pur-
+pose . . . motor," while the comma and following language
+impose the additional requirement that such a motor is one
+built in specified frame numbers. The addition of the second
+                        NEMA v. DOE                           19
+clause therefore differentiates small electric motors from oth-
+ers on the basis of but one of MG1-1987’s specifications —
+those provisions relating to frame size — and not its specifi-
+cations relating to power output.
+
+   Importantly, Congress had at its disposal many straightfor-
+ward ways, had it so wished, to incorporate the horsepower
+limitations that NEMA contends are found in MG1-1987 —
+none of which it adopted. Cf. Hatcher, 560 F.3d at 228 (refus-
+ing to substitute "clear language" of statute "with . . . unenac-
+ted legislative intent" where Congress "quite eas[ily]" could
+have "includ[ed] limiting language" but did not do so (internal
+quotation marks omitted)). Congress could have set forth an
+express horsepower range within which small electric motors
+must fall. Indeed, Congress took this very course elsewhere in
+the same enactment, establishing statutory energy conserva-
+tion standards for electric motors built in a three-digit frame
+series ranging from 1 to 200 horsepower. See 42 U.S.C.
+§ 6313(b)(1); J.A. 547.
+
+   In the alternative, Congress could have simply omitted the
+comma and reference to frame size from the statutory defini-
+tion — much in the way that NEMA excerpts the definition
+in its papers to this Court. See Petr.’s Br. 25 ("Congress
+defined a small electric motor as a ‘NEMA general-purpose
+[sic] alternating-current [sic] induction motor . . . built in
+accordance with NEMA Standards Publication MG1-1987.’")
+(omission in original; emphasis omitted); see also id. at 28
+(same). Or, Congress could have opted for simpler language
+and structure adopting the delineations between small and
+medium motors found in MG1-1987 Parts 10 and 12, provid-
+ing, say, that a small electric motor must comport with the rat-
+ings and operating characteristics specified for small motors
+in MG1-1987.
+
+   Suffice it to say, Congress imposed no express horsepower
+limitation; thought it important enough to add the comma and
+reference to frame size to the definition; and did not see fit to
+20                           NEMA v. DOE
+adopt a simpler definition that incorporated MG1-1987’s pro-
+visions wholesale. As to the absence of an express horse-
+power limitation, other provisions of the same enactment
+make clear that Congress knew how to impose such a limita-
+tion when it so desired. And as to the presence of the comma
+and reference to frame size, Congress went out of its way to
+identify but one specification enumerated in MG1-1987
+(frame size) while avoiding any reference to the publication’s
+other specifications. NEMA thus undermines its reading of
+the definition when it purports to quote the definition in its
+papers. NEMA’s reading would, quite literally, excise the def-
+inition’s specific reference to frame series and alter it to con-
+tain only a single clause. In so doing, NEMA runs headlong
+into the cardinal principle that "we have a duty, where possi-
+ble, to give effect to all operative portions of the enacted lan-
+guage, including its every clause and word." Shipbuilders
+Council of Am. v. U.S. Coast Guard, 578 F.3d 234, 244-45
+(4th Cir. 2009) (internal quotation marks omitted). NEMA’s
+reading would simultaneously render superfluous the first
+clause’s use of the term "NEMA": if the language "NEMA
+Standards Publication MG1-1987" in the second clause had
+the sweeping reach that NEMA gives it, there would be no
+need for the generic reference to "NEMA" in the first clause.
+
+                                    2.
+
+   Turning now to the express reference to MG1-1987 in the
+statutory definition’s second clause, we conclude that its only
+unambiguous import is to require small electric motors to be
+built in an appropriate frame.11 First, the language of the sec-
+  11
+     Our dissenting colleague asserts that the DOE has, in essence, hood-
+winked us into accepting a post hoc litigation position on the import of the
+second clause’s express reference to MG1-1987. To the contrary, we
+explain in considerable detail infra at 31-35 why the DOE’s arguments on
+review are consistent with its underlying rulemaking approach. Left with-
+out explanation, however, is the dissent’s insistence that NEMA’s inter-
+pretation of MG1-1987, adopted for the express purpose of challenging
+                           NEMA v. DOE                                21
+ond clause is nearly identical to MG1-1987’s definition of a
+small machine, and both distinguish small and medium
+motors based on frame series (and thus physical size) rather
+than power output. Compare 42 U.S.C. § 6311(13)(G)
+(requiring, inter alia, that small electric motors must be "built
+in a two-digit frame number series in accordance with . . .
+MG1-1987"), with J.A. 13 (MG1-1987 ¶ 1.02) (providing that
+one type of "small machine" is one "built in a two-digit frame
+number series in accordance with [¶] 11.01.1"). Subparagraph
+11.01.1, in turn, is a clear reference to physical size. See supra
+at 5 & note 5. Paragraph 1.02 nowhere references the delinea-
+tions between small and medium motors found in MG1-1987
+Parts 10 and 12. Furthermore, ¶ 1.02 makes no reference to
+maximum horsepower, while ¶ 1.03 limits medium motors to
+500 horsepower.
+
+   It follows that Congress did not aimlessly hurl the reference
+to MG1-1987 into the definition, but rather inserted it with
+care — first segmenting the definition into two clauses, only
+the second of which references MG1-1987, and then choosing
+language in the latter clause that mirrors the portion of MG1-
+1987 relating solely to physical size. Moreover, the presence
+of a horsepower limitation in the "medium motor" definition
+— and lack of a corresponding limitation in the "small motor"
+definition — indicates that MG1-1987 supplies horsepower
+limitations expressly. Accordingly, the reference to MG1-
+1987’s specifications for frame size cannot be said to unam-
+biguously incorporate all provisions of the publication into the
+definition, or to impose a 1-horsepower maximum.
+
+the DOE’s rulemaking, is entitled to special weight on the ground that
+NEMA authored the publication. See post at 43. The dissent’s skewed
+point of view neglects the fundamental proposition that we are obliged to
+defer to the reasonable legal interpretations of expert and politically
+accountable executive agencies, affording no especial weight to the self-
+interested constructs advanced by regulated parties — even those who
+have drafted the particular language under examination.
+22                      NEMA v. DOE
+   Second, the familiar grammatical principle known as the
+last-antecedent rule strongly counsels against reading the
+express reference to MG1-1987 to apply unambiguously
+beyond the second clause. The last-antecedent rule is "[a]n
+elementary principle of statutory construction . . . which holds
+that ordinarily a clause modifies only its nearest antecedent."
+Commonwealth of Va. v. Browner, 80 F.3d 869, 877 (4th Cir.
+1996). In Barnhart v. Thomas, the Supreme Court applied the
+last-antecedent rule to evaluate an agency’s interpretation of
+a provision of the Social Security Act with a structure strik-
+ingly similar to the definition at issue here. The relevant stat-
+ute in Barnhart provided:
+
+        "An individual shall be determined to be under a
+     disability only if his physical or mental impairment
+     or impairments are of such severity that he is not
+     only unable to do his previous work but cannot, con-
+     sidering his age, education, and work experience,
+     engage in any other kind of substantial gainful work
+     which exists in the national economy . . . ." [42
+     U.S.C.] § 423(d)(2)(A).
+
+540 U.S. at 23 (omission in original; emphases altered). The
+Social Security Administration, as the agency charged with
+administering the statute, interpreted the qualifier "which
+exists in the national economy" to apply only to the "any
+other kind of substantial gainful work" requirement, and not
+to the "previous work" requirement.
+
+   The Supreme Court’s Barnhart decision recognized that the
+agency’s interpretation "is at least a reasonable construction
+of the text and must therefore be given effect" under Chevron,
+reversing the court of appeals’ ruling that the qualifier unam-
+biguously applied to both requirements. 540 U.S. at 26. In so
+ruling, the Court reasoned that applying the qualifier to both
+of the requirements "disregards — indeed, is precisely con-
+trary to — the grammatical ‘rule of the last antecedent.’" Id.
+The Court further explained that "[w]hile this rule is not an
+                        NEMA v. DOE                           23
+absolute and can assuredly be overcome by other indicia of
+meaning, . . . construing a statute in accord with the rule is
+quite sensible as a matter of grammar." Id. (internal quotation
+marks omitted). It follows in this case that the reference to
+MG1-1987 in the statutory definition’s second clause requires
+merely that a small electric motor be built in the appropriate
+frame size, and that the reference — standing alone — does
+not unambiguously incorporate MG1-1987 Parts 10 and 12.
+
+                               3.
+
+   As the preceding discussion demonstrates, the reference to
+MG1-1987 in the statutory definition’s second clause is too
+flimsy to bear the weight that NEMA places on it. Conse-
+quently, we turn to the import of the phrase "NEMA general
+purpose alternating current single-speed induction motor,"
+found in the definition’s first clause. Here, too, we conclude
+that the DOE’s interpretation is not unambiguously foreclosed
+at Chevron’s first step. We begin by reiterating that Congress
+had much less roundabout ways of imposing a horsepower
+limitation. Instead, by breaking the definition into two clauses
+and referencing MG1-1987’s specifications for frame size
+only in the second clause, Congress went out of its way to
+incorporate but one specification in that publication — a spec-
+ification that relates to physical size rather than power output.
+
+    We also observe that, although Congress adopted MG1-
+1987’s language relating to physical size in the second clause,
+it used wholly different language — "NEMA general purpose
+. . . motor" — in the first clause. Congress’s choice of terms
+is instructive in at least two respects. First, the choice demon-
+strates that Congress knew how to reference MG1-1987 when
+it so desired, and it did not do so in the first clause. Second,
+Congress’s use of a different and seemingly broader term in
+the first clause suggests that, at minimum, the DOE could rea-
+sonably read that term to be informed by MG1-1987 but not
+to incorporate the delineations between small and medium
+motors in Parts 10 and 12 of that publication. See Soliman,
+24                          NEMA v. DOE
+419 F.3d at 283 ("Where Congress has utilized distinct terms
+within the same statute, the applicable canons of statutory
+construction require that we endeavor to give different mean-
+ings to those different terms . . . .").
+
+   Moreover, not only does the definition lack an express
+horsepower limitation, but also ¶ 1.05 of MG1-1987 — on
+which NEMA so heavily relies — limits only the maximum,
+and not the minimum, horsepower of "general-purpose
+alternating-current motor[s]." See J.A. 14 (stating that such
+motors are "rated 200 horsepower and less"). NEMA must
+therefore seek refuge in another requirement of ¶ 1.05 — that
+such motors must be "designed in standard ratings with stan-
+dard operating characteristics." Id. NEMA then directs us to
+the ratings and characteristics of small and medium motors
+found in Parts 10 and 12 of MG1-1987, which, according to
+NEMA, limit the horsepower of small motors.
+
+   NEMA’s contention is thus unconvincing. First, ¶ 1.05 on
+its own terms provides only that general-purpose alternating-
+current motors must possess some standard ratings and operat-
+ing characteristics; it does not specify which ratings and oper-
+ating characteristics those must be. And, having already set an
+express 200-horsepower limitation for both small and medium
+general purpose motors in ¶ 1.05 — and a 500-horsepower
+limitation for medium motors in ¶ 1.03 — we would expect
+that MG1-1987 would be more explicit about any horsepower
+limitation applicable to small motors than the internal delinea-
+tions in Parts 10 and 12 of the publication.12 Second, the very
+presence of the second clause in the statutory definition sug-
+gests that Congress delineated between "small" and not-
+  12
+     The dissent selectively quotes ¶ 1.05, see post at 38-39, excising its
+only express reference to horsepower — that general purpose motors are
+"rated 200 horsepower and less." Instead, the dissent, like NEMA, delves
+into the internal delineations of MG1-1987 Parts 10 and 12. As explained
+above, the express horsepower limitation in ¶ 1.05, with which the Final
+Rule complies, is the superior guide to the import of MG1-1987 on the
+statutory language.
+                        NEMA v. DOE                          25
+"small" motors on the basis of frame size as described in ¶¶
+1.02 and 11.01.1 of MG1-1987, and not necessarily on the
+basis of the delineations found in Parts 10 and 12. As such,
+the statutory definition does not unambiguously incorporate
+the distinctions between small and medium motors found in
+Parts 10 and 12 of MG1-1987.
+
+   We do not reach or decide the broader question of whether
+the term "NEMA general purpose . . . motor" unambiguously
+incorporates the 1987 version of MG1. First, because the
+DOE has in fact interpreted the first clause to incorporate
+some aspects of MG1-1987, whether the DOE was obliged to
+interpret that clause to incorporate any aspect of MG1-1987
+is not before us. Rather, the question we must decide is
+whether "NEMA general purpose . . . motor" unambiguously
+incorporates all aspects of MG1-1987. It does not.
+
+   Second, Chevron’s mandate to accord government agencies
+the flexibility to respond to changing conditions compels us
+to reserve judgment as to MG1-1987’s ultimate import with
+respect to the first clause. See 467 U.S. at 863-64 ("An initial
+agency interpretation is not instantly carved in stone. On the
+contrary, the agency . . . must consider varying interpretations
+and the wisdom of its policy on a continuing basis."). The
+broader question of whether the term "NEMA general pur-
+pose . . . motor" unambiguously incorporates MG1-1987
+could be presented later if, for example, the DOE seeks to
+regulate enclosed motors by adopting Earthjustice’s interpre-
+tation of the statutory definition. See supra at 9. Because
+enclosed motors are "general purpose" motors only under
+more recent versions of MG1, declaring the first clause to
+unambiguously and exclusively incorporate the 1987 version
+could deprive the DOE of the flexibility to regulate enclosed
+motors, which some groups identify as a significant compo-
+nent of the relevant market. See, e.g., J.A. 351. Worse, such
+a declaration could also deprive the DOE of the requisite flex-
+ibility without providing the agency the opportunity to defend
+26                      NEMA v. DOE
+what it portrays as a "reasonable alternative interpretation."
+Resp’t.’s Br. 38.
+
+                               4.
+
+   NEMA has also scoured the legislative history seeking sup-
+port for its view of the statutory definition, but to no avail.
+NEMA holds up a single sentence of a committee report
+accompanying the House of Representatives version of the
+legislation as proof that the definition unambiguously
+excludes all electric induction motors exceeding one horse-
+power. See H.R. Rep. No. 102-474, pt. 1, at 175 (1992),
+reprinted in 1992 U.S.C.C.A.N. 1953, 1998. That report states
+that the provision now codified at 42 U.S.C. § 6317, pursuant
+to which the DOE promulgated the Final Rule, "requires DOE
+to prescribe energy conservation standards for . . . electric
+motors of less than one horsepower that it determines would
+result in significant energy savings." Id.
+
+   We are unconvinced by NEMA’s contention in this regard.
+Put simply, accepting NEMA’s contention would require us
+to (1) rely on a negative inference from (2) a single sentence
+of unenacted legislative history that (3) the statute unambigu-
+ously incorporates the horsepower limitation NEMA urges,
+even as (4) that very legislative history does not reflect the
+same horsepower limitation, and (5) several more reliable
+indicia of meaning strongly support the DOE’s interpretation.
+
+   To begin with, the horsepower limitation NEMA identifies
+in the report is not even an express one — while the report
+contemplates the DOE’s regulation of sub-1 horsepower elec-
+tric induction motors, it is silent with respect to other motors.
+In its submissions here, NEMA candidly asks that we infer
+the limitation based on the report’s "less than one horse-
+power" language. Petr.’s Reply Br. 19. But even where we are
+dealing with statutory language and not mere snippets of leg-
+islative history, we will draw such a negative inference only
+where it appears that Congress meant to exclude the unmen-
+                         NEMA v. DOE                             27
+tioned item. See INS v. Fed. Labor Relations Auth., 4 F.3d
+268, 272 (4th Cir. 1993) (declining to draw negative inference
+where "statute displays not an effort at legislative micro-
+management . . . , but rather a positive intention to leave com-
+plexities and trivialities to" agency). Additionally, in those
+Chevron cases where we have consulted legislative history,
+we have demanded only that the agency’s interpretation be
+"consistent" with the legislative history. Elm Grove Coal, 480
+F.3d at 296. Here, DOE’s interpretation is consistent because
+sub-1 horsepower motors, the motors discussed in the com-
+mittee report, are among those regulated by the Final Rule.
+
+   Finally, we observe that the legislative history itself belies
+its unreliability. If we were to take seriously its statement that
+all small electric motors must be "less than" 1 horsepower,
+then certain motors that even NEMA concedes are small
+under MG1-1987 Parts 10 and 12 (namely, 1-horsepower
+motors in a two-pole configuration) would fall outside the
+statutory definition. See Petr.’s Br. 20. On the other side of
+the coin, NEMA does challenge the Final Rule’s inclusion of
+certain motors (namely, .75-horsepower motors in a six-pole
+configuration) that, because they are rated less than 1 horse-
+power, meet the condition supposedly described in the legisla-
+tive history. See id. In light of the incongruities between
+MG1-1987’s delineations and the committee report, we do not
+accept the report as reflecting a considered view of the intrica-
+cies of regulation — many of which Congress expressly dele-
+gated to the DOE in the Energy Policy Act — or a reliable
+means to ascertaining the import of the language in the statu-
+tory definition. Rather, the "uncertainties [in the report] illus-
+trate the difficulty of relying on legislative history . . . and the
+advantage of . . . rest[ing] our holding on the statutory text."
+Lamie, 540 U.S. at 539-42 (declining to rely on legislative
+history where available material "creates more confusion than
+clarity about the congressional intent").
+
+  Of whatever usefulness legislative history may be in other
+Chevron cases, for the reasons discussed above, the available
+28                       NEMA v. DOE
+history is not helpful here. It is conceivable, for instance, that
+where the application of textual canons and grammatical prin-
+ciples leaves a handful of competing and similarly plausible
+interpretations, strong legislative history against one interpre-
+tation would "restrict the range of choices that the bare text
+of the provision might otherwise seem to leave the adminis-
+tering agency." Caleb Nelson, Statutory Interpretation 766
+(2011) (discussing purposes for which reviewing courts
+employ legislative history in Chevron cases). In General
+Dynamics Land Systems, Inc. v. Cline, by way of example, the
+Supreme Court acknowledged that the statute at issue was
+susceptible to the agency’s interpretation "[i]n the abstract,"
+yet refused to defer to the agency because the purpose of the
+statute, "30 years of judicial interpretation" and legislative
+inaction, as well as the legislative history, demonstrated "be-
+yond a reasonable doubt" that the agency was "clearly
+wrong." 540 U.S. 581, 586, 590, 599-600 (2004).
+
+   Alternatively, perhaps strong legislative history could sug-
+gest an interpretation we would not glean from other tools of
+construction, such that the legislative history "rehabilitate[s]
+a reading that the courts would otherwise put off limits" to the
+agency. Nelson, supra, at 767; cf. Bellum v. PCE Construc-
+tors, Inc., 407 F.3d 734, 739 (5th Cir. 2005) (affording Chev-
+ron deference to agency interpretation of statute that "is not
+inherently ambiguous," but where contrary interpretation
+"would frustrate the [statute’s] unmistakable purpose," as evi-
+denced in part by legislative history). But NEMA would have
+us invoke the legislative history not merely to choose between
+competing interpretations not resolved by the text or canons
+of construction, or to enable the agency to adopt an interpreta-
+tion that fulfills the statutory purpose, but instead for the
+novel and unprecedented purpose of overriding an interpreta-
+tion that is strongly supported by more reliable interpretive
+tools. We are leery of such an approach as a general proposi-
+tion, and are more skeptical still of invoking the thin record
+here to conclude that DOE’s interpretation is unambiguously
+foreclosed.
+                       NEMA v. DOE                        29
+                             C.
+
+   The second step of the Chevron analysis requires us to
+determine whether the interpretation reflected in the Final
+Rule "is a reasonable policy choice for the agency to make."
+Brand X, 545 U.S. at 986 (internal quotation marks omitted).
+Because the DOE logically looked to market realities in for-
+mulating its interpretation, we conclude that DOE’s interpre-
+tation — that both clauses of the definition are informed by
+MG1-1987, but that they do not incorporate the delineations
+between small and medium motors found in MG1-1987 Parts
+10 and 12 — is a reasonable policy choice.
+
+                             1.
+
+   In reaching its interpretation, the DOE recognized (and
+agreed with NEMA) that the import of MG1-1987 informs the
+meaning of the term "NEMA general purpose . . . motor" in
+the statutory definition’s first clause. The DOE went on to
+recognize, however, that Congress chose to break the defini-
+tion into two clauses, the second of which singles out MG1-
+1987’s specification relating to the physical size of "small
+machine[s]." J.A. 13. Faced with the structure of the defini-
+tion and the intricacies of MG1-1987, DOE commendably
+looked to industry practice and market realities to guide its
+understanding of the definition. See Determination, 71 Fed.
+Reg. 38799, 38800 (published July 10, 2006) (explaining that
+DOE "began the analysis for this determination by collecting
+information from manufacturers of small motors and others"
+and that, "[s]ubsequently, the Department received data and
+information, including that provided by . . . [NEMA]").
+
+  DOE’s investigation of the market revealed that electric
+induction motor manufacturers, including some NEMA mem-
+bers, regularly interpret the "general-purpose alternating-
+current motor" definition in MG1-1987 ¶ 1.05 as DOE does.
+That is to say, they manufacture and market 1-plus horse-
+power motors in a two-digit frame number series (as specified
+30                      NEMA v. DOE
+in the MG1-1987 definition of small machine and the EPCA
+definition of small electric motor), and conform those motors
+to the standard ratings and operating characteristics applicable
+to what MG1-1987 Parts 10 and 12 would call medium
+motors. See J.A. 420-30 (manufacturer catalog excerpts).
+Notably, NEMA itself made this point in its comments to
+DOE. See J.A. 121 ("NEMA Design Types A, B, C, and D are
+not defined for polyphase small electric motors. However, a
+search of manufacturers’ catalogs will indicate that it is com-
+mon for a polyphase 1 hp small electric motor to be designed
+to the same performance requirements as a polyphase 1 hp
+medium electric motor. This is expected, if not demanded, by
+the motor users.").
+
+   In light of the information gleaned from manufacturers and
+NEMA itself, the DOE quite sensibly decided that the electric
+induction motors subject to the rulemaking ought to include
+motors actually manufactured, marketed, and sold as general
+purpose motors and built in a two-digit frame number series,
+even if the power output of those motors is not always identi-
+fied as corresponding to the output of "small" machines as the
+term is used in certain tables of MG1-1987. As the DOE
+explains, "[t]he absence of ratings in some tables in MG1-
+1987 does not keep such motors off the market; nor should it
+keep such motors from complying with energy conservation
+standards." Resp’t.’s Br. 33.
+
+                               2.
+
+    Finally, NEMA contends that the DOE’s position in this
+proceeding is not entitled to deference because it is a post hoc
+litigation position that contradicts the view it set forth in the
+rulemaking process. See Bowen v. Georgetown Univ. Hosp.,
+488 U.S. 204, 212-13 (1988). NEMA seizes on two sources
+to contend that the DOE has contradicted itself in defending
+the Final Rule in this challenge. First, NEMA points to lan-
+guage in the 2007 scoping document, which states that, "[a]s
+seen in [Tables 10-1 and 10-2], MG1-1987 identifies small
+                        NEMA v. DOE                           31
+induction motors as motors with horsepower ratings from 1
+millihorsepower up to 1 horsepower." J.A. 82. Second,
+NEMA relies on DOE’s response to Earthjustice in the Notice
+and Final Rule that MG1-1987 applies to "all facets" of the
+statutory definition. Notice, 74 Fed. Reg. at 61421; J.A. 537.
+
+   We are unable to find NEMA’s contention persuasive. To
+begin with, we are confident that the DOE’s arguments to this
+Court are not at odds with the interpretation reflected in the
+Final Rule. Rather, the DOE’s papers simply elaborate on the
+legal theory underpinning the Final Rule’s interpretation of
+the statutory definition. We are mindful that "an agency’s
+action may not be upheld on grounds other than those relied
+on by the agency" in the actual course of its decisionmaking.
+Boston & Maine, 503 U.S. at 420 (citing SEC v. Chenery
+Corp., 318 U.S. 80, 88 (1943)). But deference is appropriate,
+and we need not remand, when the agency’s litigation papers
+merely set forth an interpretation that was a "necessary pre-
+supposition" of its underlying action. Id. As the Supreme
+Court has explained, "the fact that the [agency] did not in so
+many words articulate its interpretation" in the underlying
+action "does not mean that we may not defer to that interpre-
+tation, since the only reasonable reading of" the explanation
+offered by the agency in the underlying action, "and the only
+plausible explanation of the issues that the [agency] addressed
+after considering the factual submissions by all of the parties,
+is that the [agency’s action] was based on" the interpretation
+it proffered in subsequent litigation. Id.
+
+   The position the DOE advances here simply does not devi-
+ate from the view it articulated in the course of the rulemak-
+ing — that certain electric induction motors with outputs
+between 1 and 3 horsepower, if built in a two-digit frame
+series, are small electric motors. Cf. Coeur Ala., Inc. v. South-
+east Ala. Conservation Council, 129 S. Ct. 2458, 2474-77
+(2009) (rejecting argument that agency memorandum inter-
+preting agency’s regulations contradicted agency’s prior
+view). True enough, the DOE maintains that it is not required
+32                      NEMA v. DOE
+to interpret the term "NEMA general purpose . . . motor" to
+incorporate all provisions of MG1-1987. See Resp’t.’s Br. 20-
+21 ("The bare statutory reference to MG1-1987 at the end of
+[the statutory definition] was not intended to incorporate all
+elements of that industry standards publication into the stat-
+ute. . . . Instead, the statute refers to MG1-1987 only in a lim-
+ited context: those industry standards define the ‘two digit
+frame number series’ in which a small electric motor is
+built."); id. at 24.
+
+   Nevertheless, it does not follow that DOE’s position con-
+tradicts the explanation it offered in the Final Rule. After all,
+the DOE — both in this Court and in the Final Rule — has
+interpreted both clauses of the statutory definition to refer to
+and incorporate MG1-1987. See Resp’t.’s Br. 29 ("DOE has
+interpreted the earlier part of the phrase — ‘NEMA general
+purpose . . . motor’ — to refer to MG1-1.05, but not to incor-
+porate the distinctions between small and medium machines
+in Parts 10 and 12."); Final Rule, 75 Fed. Reg. at 10883.
+Although the DOE has not interpreted the definition to incor-
+porate the delineations between small and medium electric
+induction motors in MG1-1987 Parts 10 and 12, the DOE has
+never taken that position and, as explained in Part III.B, the
+statutory language does not require it to do so.
+
+   In support of its proposition in this respect, NEMA makes
+much ado about language in the 2007 scoping document and
+the DOE’s statements that MG1-1987 applies to "all facets"
+of the statutory definition, but these are in the nature of red
+herrings. Regarding the 2007 document, we observe first that
+the language upon which NEMA seizes merely describes cer-
+tain tables found in MG1-1987, and is not a conclusive (or
+even preliminary) pronouncement on the import of those
+tables for the meaning of the statutory definition. This is
+borne out by the 2007 document’s disclaimer, found on the
+same page, that "[t]he MG-1 standards discussed in [the sec-
+tion dealing with horsepower ratings] are not explicitly refer-
+enced by the definitions of any of the [MG-1] terms listed
+                         NEMA v. DOE                            33
+above." J.A. 82. Nor does the "all facets" language support
+NEMA’s contention. That language was included to address
+a separate question raised by Earthjustice — the regulation of
+enclosed as well as open motors — and not the horsepower
+ratings of motors subject to the rulemaking. No observer
+could have mistaken these statements to refer to horsepower
+ratings, as the statements were made in the same breath that
+DOE interpreted the more-powerful motors to fall within the
+statutory definition. Moreover, the "all facets" language is not
+in tension with interpreting the definition to include more-
+powerful motors, as the DOE in fact interpreted MG1-1987 to
+apply (to some extent) to the first clause of the definition.
+
+   To the extent that DOE did not state its interpretation in
+exacting detail in the rulemaking — and elaborated on its
+interpretation in arguments to this Court — NEMA’s argu-
+ment yet flounders. The DOE was under no obligation to go
+to such lengths to defend its interpretation at the time it pro-
+mulgated the Final Rule; it is enough that the Final Rule and
+the accompanying explanation set forth a coherent interpreta-
+tion and a plausible rationale underpinning it. See Madison
+Gas & Elec. Co. v. EPA, 25 F.3d 526, 529 (7th Cir. 1994)
+(articulating the "undemanding standard" that, under Chevron,
+"[a]lthough the [agency] is free to choose any reasonable
+interpretation for an undefined term in the statutes it adminis-
+ters, it must exhibit the reasons for its choice and those rea-
+sons must be at least plausible" (internal quotation marks and
+citations omitted)). Indeed, the Supreme Court has instructed
+that "[e]ven when an agency explains its decision with less
+than ideal clarity, a reviewing court will not upset the decision
+on that account if the agency’s path may reasonably be dis-
+cerned." Ala. Dep’t of Envtl. Conservation v. EPA, 540 U.S.
+461, 497 (2004) (internal quotation marks omitted).
+
+   We will not hold against the DOE the more sophisticated
+legal arguments it sets forth in its submissions to this Court.
+The DOE is tasked, in the first instance, with fulfilling its stat-
+utory mandate. Of course, this responsibility includes provid-
+34                      NEMA v. DOE
+ing reasons for its actions sufficient to permit assessment by
+a reviewing court. See Pension Benefit Guar. Corp. v. LTV
+Corp., 496 U.S. 633, 654; Chenery, 318 U.S. at 94. Most
+assuredly, however, this responsibility does not oblige the
+agency to provide exhaustive, contemporaneous legal argu-
+ments to preemptively defend its action. Similarly, when (and
+if) its action is challenged, the DOE is not hamstrung to limit
+its legal arguments to the four corners of the administrative
+record. In promulgating the Final Rule, the DOE set forth a
+coherent interpretation of the statutory definition and gave a
+sufficient explanation thereof. And in response to NEMA’s
+challenge, it was not only expected but also a duty that the
+DOE would further explain and elucidate its interpretation
+and how it fits within the Chevron framework. Neither of
+these actions undermine the weight given to DOE’s interpre-
+tation.
+
+   In contending that the interpretation set forth by the DOE
+in its papers warrants no deference, NEMA relies heavily on
+Bowen v. Georgetown University Hospital. Such reliance is
+misplaced. In Bowen, the Supreme Court refused to afford
+Chevron deference to an agency counsel’s interpretation of a
+statute "where the agency itself has articulated no position on
+the question" — in other words, where the agency’s litigating
+position was "wholly unsupported by regulations, rulings, or
+administrative practice." 488 U.S. at 212. The Court further
+explained that even if, as a general principle, it would defer
+to an agency’s litigating position in the absence of such sup-
+porting authority, it would not do so there because the agen-
+cy’s litigating position did not reflect a "reasoned and
+consistent view of the" statutory provision, but in fact was
+"contrary to the . . . view of that provision advanced in past
+cases." Id. at 212-13.
+
+   The present circumstances scarcely could be more distinct
+from Bowen. Most obviously, the DOE’s position as advanced
+in its papers is hardly "wholly unsupported by" the Final
+Rule. See Bowen, 488 U.S. at 212. Indeed, quite the contrary
+                             NEMA v. DOE                                 35
+— as explained above, the DOE’s pronouncements in and
+prior to the Final Rule sufficiently set forth and justify its
+interpretation, and the DOE’s position here is fully consistent
+with that interpretation. As a result, it cannot be said that the
+DOE’s papers constitute "nothing more than an agency’s con-
+venient litigating position." See id. at 213.13
+
+                                    IV.
+
+  Pursuant to the foregoing, we deny NEMA’s petition for
+review.
+
+                               PETITION FOR REVIEW DENIED
+
+SHEDD, Circuit Judge, dissenting:
+
+   When viewed in context, the statute we are reviewing is
+clearly unambiguous, and the Department of Energy’s
+("DOE") final rule is contrary to the statute and Congress’s
+clear direction. Therefore, I would grant the petition, vacate
+the final rule, and remand the matter to DOE for action con-
+sistent with the law.
+
+   Nineteen years ago, Congress enacted the Energy Policy
+Act of 1992 (the "Act"), part of which directed DOE to pre-
+scribe energy conservation standards for small electric
+motors. See 42 U.S.C. § 6317(b). The Act defines "small elec-
+   13
+      We need not and do not rule today that the interpretation adopted by
+the DOE is the only permissible interpretation of the statutory definition.
+Rather, "[i]t suffices to conclude, as we do," that the statutory definition
+"does not unambiguously require a different interpretation, and that
+[DOE]’s regulation is an entirely reasonable interpretation of the text."
+Barnhart, 540 U.S. at 30. In the course of the rulemaking, the DOE
+received comments regarding the scope of the rulemaking not only from
+NEMA but also from environmental groups and other interested parties.
+Faced with an ambiguous definition and plausible arguments that the defi-
+nition could have an even broader meaning, we glean nothing unreason-
+able from the DOE’s decision to chart a course between extremes.
+36                           NEMA v. DOE
+tric motor" as "a NEMA1 general purpose alternating current
+single-speed induction motor, built in a two-digit frame num-
+ber series in accordance with NEMA Standards Publication
+MG1-1987." 42 U.S.C. § 6311(13)(G)). In the House Report
+accompanying the Act, Congress explained the Act "requires
+DOE to prescribe energy conservation standards for . . . elec-
+tric motors of less than one horsepower." H.R. REP. 102-
+474(I), at 208 (1992), reprinted in 1992 U.S.C.C.A.N. 1953,
+1998 (emphasis added). The dispositive question before us is
+straightforward: as used in the Act, what does "small electric
+motor" mean?
+
+   The first step in answering that question is deciding
+whether "in accordance with NEMA Standards Publication
+MG1-1987" modifies the entire definition or only "two-digit
+frame number series." Under the facts in this case, there
+would appear to be no doubt that it applies to the whole defi-
+nition because both NEMA and DOE have consistently
+agreed throughout the rulemaking process that the reference
+to NEMA Standards Publication MG1-1987 applies to all fac-
+ets of the statutory definition of small electric motors. In other
+words, the entire definition in 42 U.S.C. § 6311(13)(G)
+should be read in accordance with MG1-1987.
+
+  However, the majority has adopted DOE’s newly
+announced litigation posture that MG1-1987 applies only to
+"two-digit frame number series" in 42 U.S.C. § 6311(13)(G).2
+  1
+     The petitioner in this appeal, National Electrical Manufacturers Associ-
+ation ("NEMA"), is a not-for-profit trade association that represents a vari-
+ety of electrical manufacturers. Among other things, NEMA develops and
+publishes standards relating to electrical products, including the 1987 edi-
+tion of the Standards Publication MG1 at issue here.
+   2
+     In this petition for review, DOE takes the position — for the first time
+— that the "in accordance with" language modifies only the second
+"clause" of the definition. This is completely contrary to their stated posi-
+tion throughout the rulemaking process. Compare 74 Fed. Reg. 61421
+("[DOE agrees] with NEMA that the reference MG1-1987 applies to all
+facets of the statutory definition of a small electric motor. The language
+                             NEMA v. DOE                                   37
+In reaching its decision, the majority focuses primarily on the
+placement of the comma3 and selective canons of statutory
+construction to determine that the phrase "in accordance with
+NEMA Standards Publication MG1-1987" does not apply to
+"a NEMA general purpose alternating current single-speed
+induction motor." Accordingly, the majority finds that "small
+electric motor" is statutorily limited by a motor’s frame size,
+but not by the amount of horsepower a motor has.
+
+   But the obvious reading of the definition is that "in accor-
+dance with NEMA Standards Publication MG1-1987" modi-
+fies the entire statutory definition of "small electric motor."
+The dual references to "NEMA" unmistakably link the entire
+definition together as a whole, see U.S. v. Atlantic Research
+Corp., 551 U.S. 128, 135 (2007) ("Statutes must ‘be read as
+a whole.’"), and nothing suggests that the "in accordance
+with" language should not be read as applying to the entire
+definition, see Porto Rico Ry., Light & Power Co. v. Mor, 253
+U.S. 345, 348 (1920) ("When several words are followed by
+
+of the statute specifies that the requirements of MG1-1987 apply in deter-
+mining what constitutes a small electric motor. . . . The statutory definition
+of a small electric motor is bound to the definition of a general-purpose
+alternating-current motor as defined in NEMA MG1-1987.") (emphasis
+added), with Resp. Br. at 29 ("As explained above, the reference to MG1-
+1987 comes later, and expressly modifies only the phrase ‘built in a two-
+digit frame number series.’"). This switch in position appears to be an
+acknowledgement by DOE that its final rulemaking could not otherwise
+withstand the challenge by NEMA. Such a post-hoc litigation position is
+entitled to no weight or deference. See, e.g., Wheeler v. Newport News
+Shipbuilding & Dry Dock Co., 637 F.3d 280, 290 (4th Cir. 2011) (showing
+no deference to the agency’s interpretation where it was merely a litigating
+position); Village of Barrington v. Surface Transp. Bd., 636 F.3d 650, 660
+(D.C. Cir. 2011) (giving no deference to an agency’s "‘litigating positions’
+raised for the first time on judicial review").
+   3
+     While the location of the comma is part of the majority’s analysis, its
+removal would not in any material manner affect its analysis or its ulti-
+mate result. See the majority’s discussion of the last antecedent rule, ante
+at 22-23.
+38                           NEMA v. DOE
+a clause which is applicable as much to the first and other
+words as to the last, the natural construction of the language
+demands that the clause be read as applicable to all."). This
+reading is bolstered by the fact that the phrase "general pur-
+pose alternating current" motor, used in the first line of the
+statutory definition, is lifted verbatim from Section 1.05 of
+MG1-1987 (which section DOE and the majority would at
+least partially apply, see ante, at 31-32).4 Thus, in my opin-
+ion, § 6311(13)(G) unambiguously incorporates all of MG1-
+1987, just as if MG1-1987 had been written into the statute.
+See, e.g., United States v. Myers, 553 F.3d 328, 331 (4th Cir.
+2009) ("The general rule is that when one statute adopts a pro-
+vision of another statute by specific reference, it is as if the
+adopting statute had itself spelled out the terms of the adopted
+provision . . . .").
+
+   Therefore, we turn to MG1-1987 to determine what "small
+electric motor" means, and it is clear that MG1-1987 does not
+include standards for small motors greater than one horse-
+power.5 A general purpose alternating-current motor is
+defined in Section 1.05 of MG1-1987 (emphasis added):
+
+        A general-purpose alternating-current motor is an
+  4
+     In its new litigation position, DOE seeks to minimize the relevance of
+MG1-1987. But DOE’s position underscores its inconsistency. Despite
+arguing that MG1-1987 (which DOE describes as "decades-old industry
+standards") applies only to the "second clause" of § 6311(13)(G), through-
+out its briefs DOE repeatedly interprets the "first clause" in the definition
+in light of selective provisions and standards in MG1-1987. See, e.g.,
+Resp. Br. at 29 ("DOE has interpreted the earlier part of the phrase —
+‘NEMA general purpose . . . motor’ — to refer to MG1-1.05 . . . ."); cf.
+J.A. 146, 538 (acknowledging that "the 1987 version is the only applicable
+version of NEMA MG1.").
+   5
+     DOE concedes this point, acknowledging in the Final Rule "that
+NEMA MG1-1987 does not provide ratings for small motors of the identi-
+fied higher horsepower ratings" (i.e. motors of greater than one horse-
+power which DOE is seeking to regulate under this rulemaking). 75 Fed.
+Reg. at 10883.
+                             NEMA v. DOE                                  39
+     induction motor . . . which incorporates . . . the fol-
+     lowing:
+
+     ....
+
+     (3) Service factor in accordance with MG1-12.47.
+
+     ....
+
+     It is designed in standard ratings with standard
+     operating characteristics . . . .6
+
+These factors, ratings, and operating characteristics are
+defined more fully in various sections of MG1-1987. First,
+Section 1.05 directs us to the service factors found in Section
+12.47 (and illustrated in Table 12-2); those factors are delin-
+eated in terms of horsepower and speed ratings and clearly
+distinguish between small and medium motors; small motors
+are one horsepower or less. Second, the "standard ratings" ref-
+erenced in Section 1.05 are found in MG1-1987 Part 10.
+There, Section 10.32 and Table 10-1, both entitled "Horse-
+power and Speed Ratings," illustrate the horsepower and
+speed ratings for small and medium induction motors —
+small motors do not exceed one horsepower. Finally, Section
+1.05’s "standard operating characteristics" requirement is
+found in Section 12.32.2. This section provides the standard
+   6
+     The majority states that I "selectively" quoted Section 1.05, ante at 24
+n.12, with the apparent implication that I have purposely avoided relevant
+statutory provisions. Such an implication is unfounded. I have expressly
+noted only the provisions of Section 1.05 that are relevant to the question
+presented in this case, which is the maximum horsepower limitation for
+small electric motors. The 200 horsepower ceiling, which includes
+medium motors, in no way sets the maximum horsepower for small elec-
+tric motors. Neither the 200 horsepower ceiling nor other requirements
+found in Section 1.05 but which I have not expressly noted — such as
+"open construction," "continuous duty," or "insulation systems" — address
+the question presented in this case. Not even DOE argues that small horse-
+power motors here exceed 3 horsepower.
+40                         NEMA v. DOE
+locked-rotor torque operating characteristics for small and
+medium motors — small motors include only motors up to
+one horsepower.
+
+   Thus, Section 1.05 of MG1-1987, by incorporating Parts 10
+and 12, provides the full and complete definition of a general
+purpose alternating current motor. And that complete defini-
+tion in Section 1.05 provides a clear demarcation between
+"small" and "medium" general purpose alternating current
+motors. As noted therein, small motors do not exceed one
+horsepower.
+
+   Although the majority concludes that the definition of small
+electric motor adopts MG1-1987’s standards only as it applies
+to frame size, it endorses DOE’s fallback position that MG1-
+1987 does not clearly contain a horsepower limitation even if
+it were to be applied in its entirety. Although acknowledging
+that Section 1.05 of MG1-1987 and Parts 10 and 12 do pro-
+vide standards and ratings applicable to small electric motors,
+the majority and DOE inexplicably conclude the statutory def-
+inition does not incorporate the distinctions between small
+and medium motors found in those specified standards and
+ratings. Ante, at 24. In fact, under this interpretation, the
+majority effectively excises the word "small" from the very
+term — small electric motor — the statute is defining. Thus,
+under the majority’s view, the MG1-1987 definition of a
+small motor includes motors deemed by MG1-1987 to be
+medium motors.
+
+   Congress certainly intended no such result. By referring to
+MG1-1987 in the statute, Congress incorporated the publica-
+tion in its entirety, including the ratings and standards which
+defined small motors. Thus, Congress intended to grant DOE
+authority only to regulate small electric motors, which in 1992
+Congress and NEMA understood to be motors of one horse-
+power or less.7 In fact, the congressionally incorporated publi-
+  7
+   MG1-1987 was incorporated as it existed in 1992 when Congress refer-
+enced it in the Act. The fact that DOE has "commendably looked to indus-
+                             NEMA v. DOE                                   41
+cation MG1-1987 contains no reference — directly or
+indirectly — to "small" motors greater than one horsepower.
+
+   Lest there be any doubt about this point, Congress’s clear
+understanding is expressed explicitly in the language of the
+House Report, which states that the Act "requires DOE to pre-
+scribe energy conservation standards for . . . electric motors
+of less than one horsepower." H.R. REP. 102-474(I), at 208
+(1992), reprinted in 1992 U.S.C.C.A.N. 1953, 1998 (discuss-
+ing 42 U.S.C. § 63178) (emphasis added). The House Report
+language is important because it explains what the statutory
+language at issue meant to the members of Congress who had
+expertise over these matters; namely, the membership of the
+House Energy and Commerce Committee. Other members of
+Congress look to such Report language to understand how the
+bill works, what it means, and how it is to be applied. See,
+e.g., Garcia v. United States, 469 U.S. 70, 76 (1984) ("In sur-
+veying legislative history we have repeatedly stated that the
+authoritative source for finding the Legislature’s intent lies in
+the Committee Reports on the bill, which ‘represen[t] the con-
+sidered and collective understanding of those Congressmen
+involved in drafting and studying proposed legislation.’"
+(quoting Zuber v. Allen, 396 U.S. 168, 186 (1969))). Second
+only to the words used in the statute itself, a committee report
+is perhaps the most definitive expression of congressional
+intent. Here, the impact of these words is heightened because
+we have more than a general statement by Congress from
+which we would need to draw an inference. This is a specific
+congressional expression on the very issue before us. Indeed,
+congressional intent on this specific issue is clear: DOE is
+
+try practice" and "logically looked to market realities," ante at 29, is of no
+moment. That the industry may have developed motor technology not con-
+templated in 1992 does not authorize DOE to extend its authority beyond
+what the statute authorizes.
+   8
+     DOE acknowledges it promulgated the final rule at issue pursuant to
+the authority delegated to it in 42 U.S.C. § 6317.
+42                          NEMA v. DOE
+given authority "to prescribe energy conservation standards
+for . . . electric motors of less than one horsepower" — noth-
+ing more.9 DOE and the majority cavalierly dismiss this legis-
+lative language or read it in a fashion that turns the
+congressional directive on its head.
+
+   The majority first dismisses the House Report language
+because it believes Congress did not speak directly enough.
+According to the majority, although the House Report con-
+templates regulation of small motors "less than one horse-
+power," it is silent as to other horsepower sizes, and to infer
+such a horsepower limitation is to draw an impermissible
+"negative inference." But reading the House Report language
+as limited to motors of one horsepower or less is not based on
+a negative inference; it is based on the positive statement of
+what Congress intended by this specific provision of the Act
+— limiting DOE’s regulatory authority to motors of one
+horsepower or less. See, e.g., Am. Petroleum Inst. v. U.S.
+Envtl. Prot. Agency, 198 F.3d 275, 278 (D.C. Cir. 2000) ("[I]f
+Congress makes an explicit provision for apples, oranges and
+bananas, it is most unlikely to have meant grapefruit.").
+
+   Then, to the extent the majority would consider this con-
+gressional language at all, it adopts the overreaching view
+asserted by DOE that even if Congress indicated it wanted to
+regulate motors of one horsepower or less, DOE has acted
+consistently with this requirement by regulating motors of
+even larger horsepower as long as the one horsepower motors
+are included in such a regulation.10 This approach turns Con-
+  9
+    Although Congress stated the limitation as "less than one horsepower,"
+that imprecise wording has no real significance here. DOE affirmatively
+asserts it makes no difference, and the majority’s analysis is not based on
+this particular wording. DOE understands the question before us concerns
+motors of one horsepower or less. See J.A. 82 (stating DOE’s acknowledg-
+ment in the scope of coverage for the proposed rulemaking that "MG1-
+1987 identifies small induction motors as motors with horsepower ratings
+from 1 millihorsepower up to 1 horsepower").
+   10
+      See Resp. Br. at 31-33 (arguing that by regulating electric motors up
+to three horsepower, DOE also regulated electric motors of less than one
+horsepower and was therefore acting consistently with the express intent
+of Congress).
+                             NEMA v. DOE                                   43
+gress’s pronouncement on its head: it would mean if Congress
+authorizes a specific, limited action in a particular regulatory
+area, it has authorized all regulatory action in that area. The
+suggestion that a partial grant of governmental authority
+equals a complete grant of authority is astonishing — only in
+"government speak" can "less than one horsepower" actually
+mean "up to three horsepower."
+
+   In the final analysis, DOE asks us to: (1) ignore the fact
+that Congress statutorily incorporated the entirety of NEMA
+Standards Publications MG1-1987; (2) ignore the word
+"small" in our effort to understand what Congress meant by
+"small electric motor;" (3) ignore the fact that for purposes of
+this litigation DOE has completely reversed its longstanding
+interpretation of the statute; (4) ignore NEMA’s considered
+view of a NEMA publication which Congress intentionally
+incorporated into the statute; and (5) ignore specific, relevant
+House Report language or in the alternative accept DOE’s
+reading which turns that language on its head. We should
+reject all of these premises.11
+
+   We should also reject DOE’s new position because it alters
+the fundamental relationship between Congress and the
+bureaucracy. Instead of giving a real world assessment of
+Congress’s statements, the majority’s analysis shifts control
+of this entire regulatory area from Congress to the bureau-
+cracy, absent congressional authorization. See Brown & Wil-
+   11
+      Contrary to the majority’s suggestion, I do not believe the majority
+has been "hoodwinked." Ante, at 20 n.11. This is a description the majority
+applies to itself. I merely point out that the majority has accepted DOE’s
+new position on how to read the statutory definition, a position which
+DOE indisputably takes for the first time in this litigation. Further, perhaps
+to deemphasize DOE’s changed position, the majority asserts that NEMA
+has "adopted [its current view] for the express purpose of challenging the
+DOE’s rulemaking." Id. The majority has the power to reject NEMA’s
+view of a NEMA document, but there is no basis in the record to assert
+that NEMA, like DOE, has recently changed its position on how the defi-
+nition is to be read.
+44                        NEMA v. DOE
+liamson Tobacco Corp. v. Food & Drug Admin., 153 F.3d
+155, 161 (4th Cir. 1998) ("[A]gency power is not the power
+to make law. Rather, it is the power to adopt regulations to
+carry into effect the will of Congress as expressed by the stat-
+ute." (quoting Ernst & Ernst v. Hochfelder, 425 U.S. 185,
+213-14 (1976) (internal quotation marks omitted))). What
+DOE proposes is not gap-filling; it is misreading congressio-
+nal intent to justify an agency claiming more authority. No
+Supreme Court or Fourth Circuit case requires us to take such
+a dramatic step with this statute, and I would decline to do so.
+
+   At bottom, this is more than an academic exercise: we are
+deciding what Congress meant by "small electric motor" in a
+statute that has actual impact in the real world. When we
+review a congressional enactment, we should be about the
+business of ascertaining and following congressional intent,
+which "is of particular importance where, as here, an agency
+is attempting to expand the scope of its jurisdiction." Brown
+& Williamson, 153 F.3d at 162) ("[T]he more intense scrutiny
+that is appropriate when the agency interprets its own author-
+ity may be grounded in the unspoken premise that govern-
+ment agencies have a tendency to swell, not shrink, and are
+likely to have an expansive view of their mission." (quoting
+Hi-Craft Clothing Co. v. NLRB, 660 F.2d 910, 916 (3d Cir.
+1981))). We simply should not apply selective canons of con-
+struction or caselaw to grant authority to DOE which it can
+only justify by creating a litigation position at odds with its
+longstanding regulatory position. The statute, confirmed by
+the House Report language, is clear and unambiguous that
+small electric motors are motors of one horsepower or less.
+
+     Accordingly, I respectfully dissent.
+

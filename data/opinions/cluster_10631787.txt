@@ -1,0 +1,684 @@
+                                RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 25a0185p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                  FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ VELTOR UNDERGROUND, LLC,
+                                                             │
+                                   Plaintiff-Appellant,      │
+                                                             │
+       v.                                                     >        No. 24-2025
+                                                             │
+                                                             │
+ U.S. SMALL BUSINESS ADMINISTRATION; KELLY                   │
+ LOEFFLER, Administrator of U.S. Small Business              │
+ Administration; SCOTT BESSENT, Secretary of U.S.            │
+ Department of Treasury,                                     │
+                             Defendants-Appellees.           │
+                                                             ┘
+
+  Appeal from the United States District Court for the Eastern District of Michigan at Detroit.
+                  No. 2:23-cv-11183—Jonathan J.C. Grey, District Judge.
+
+                                     Argued: June 12, 2025
+
+                               Decided and Filed: July 11, 2025
+
+            Before: SUTTON, Chief Judge; GIBBONS and WHITE, Circuit Judges.
+                                  _________________
+
+                                            COUNSEL
+
+ARGUED: Lawrence D. Rosenberg, JONES DAY, Washington, D.C., Stephanie Golden,
+WEST VIRGINIA UNIVERSITY, Morgantown, West Virginia, for Appellant. Adam C. Jed,
+UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Appellees.
+ON BRIEF: Lawrence D. Rosenberg, JONES DAY, Washington, D.C., for Appellant. Adam
+C. Jed, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Appellees.
+
+       SUTTON, C.J., delivered the opinion of the court in which GIBBONS and WHITE, JJ.,
+concurred. WHITE, J. (pp. 17–20), delivered a separate concurring opinion.
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                          Page 2
+
+
+                                       _________________
+
+                                             OPINION
+                                       _________________
+
+       SUTTON, Chief Judge.         In the early weeks of the COVID-19 pandemic, Congress
+created the Paycheck Protection Program to keep American workers employed. The program
+promised forgivable loans to small businesses that maintained their payrolls during the crisis.
+One such business, Veltor Underground LLC, claimed that it had six employees when it applied
+for and received a $125,000 loan. But the Small Business Administration declined to forgive the
+loan when it discovered that Veltor’s six employees were in fact independent contractors. Veltor
+sued. The district court sided with the government. Because Veltor’s payments to independent
+contractors do not qualify as “payroll costs” under the statute, we affirm.
+
+                                                  I.
+
+       Veltor is a construction business located in the suburbs of Detroit. The record reveals
+little about its operations beyond the fact that it focuses on “[u]nderground [d]rilling.” R.20 at
+69. What we do know is that, at least as of the start of 2020, it was a success. It earned $4.8
+million in revenue the previous year and delivered a profit of $400,000 to its sole member,
+Daniel Pator.
+
+       Then came March 2020, and a global pandemic. We do not know how the pandemic
+affected Veltor. But we do know that it took a toll on many small businesses, more than half of
+which laid off workers or cut their hours. U.S. Census Bureau, Small Business Pulse Survey,
+fig. 3 (2022), available at https://portal.census.gov/pulse/data.
+
+       The National Government responded. By the end of the month, Congress passed, and the
+President signed into law, the Coronavirus Aid, Relief, and Economic Security Act, better known
+as the CARES Act, a $2.2-trillion boost to the American economy. Pub. L. No. 116-136, 134
+Stat. 281 (2020). Of that sum, $349 billion (later increased to $813 billion) was devoted to the
+Act’s Paycheck Protection Program, which promised forgivable loans to small businesses that
+pledged to maintain their payrolls over the next several months. Id. §§ 1101–1102, 1106, 134
+Stat. at 286–94, 297–301 (codified as amended at 15 U.S.C. §§ 636(a), 636m). The program
+ No. 24-2025              Veltor Underground, LLC v. SBA et al.                            Page 3
+
+
+promised the same loans to sole proprietors and independent contractors, again to ensure they
+could maintain their income streams despite the pandemic. Id. The Act’s loans, however, did
+not come directly from the federal government. Id. Private lenders offered the loans, and the
+Small Business Administration guaranteed them. Id. § 1102, 134 Stat. at 290 (codified at 15
+U.S.C. § 636(a)).
+
+       One such private lender was Bank of America, and one such borrower was Veltor.
+Veltor applied for a loan a week after the Act’s passage through a form created by the Small
+Business Administration to determine borrowers’ “eligibility” for the program. Interim Final
+Rule for the Paycheck Protection Program, 85 Fed. Reg. 20,811, 20,812 (2020). The form
+required Veltor to state the “[n]umber of employees” on staff and calculate its “[a]verage
+monthly payroll,” capped at $8,333 per employee. R.20 at 58–60. Veltor said it had six
+employees and calculated its monthly payroll as $50,000, the maximum amount a business with
+six employees could claim. These answers qualified Veltor for a $125,000 loan—2.5 times its
+average monthly payroll—at a one-percent interest rate. Veltor accepted the funds and with
+them the loan conditions. It acknowledged that the loan would be forgiven only if it spent at
+least 75% of the funds on “payroll costs.” R.20 at 61.
+
+       When Veltor sought forgiveness in 2021, it tried to show that it had done just that. It told
+Bank of America that it had spent all $125,000 “on [p]ayroll [c]osts” for its (now five)
+“employees.” R.20 at 166. When the bank reviewed Veltor’s records, it realized that Veltor paid
+independent contractors, not employees.       The bank denied Veltor’s application for loan
+forgiveness, as did the Small Business Administration. The agency told Veltor that payments
+made “via 1099’s”—that is, to independent contractors—do not qualify as “payroll cost[s]”
+under the Act, making Veltor “ineligible” for forgiveness. R.20 at 42. Veltor fared no better
+with the Small Business Administration’s internal appeal process.
+
+       Veltor sued the Small Business Administration (and a few individuals) in federal court.
+The district court granted summary judgment for the defendants. Veltor appeals.
+ No. 24-2025              Veltor Underground, LLC v. SBA et al.                       Page 4
+
+
+                                                  II.
+
+        At issue is the CARES Act’s definition of “payroll costs,” the key criterion for
+determining the size of a borrower’s loan and for gauging how much of it the lender and
+government would forgive. Here is how the Act defines “payroll costs” in relevant, if lengthy,
+part:
+
+               (viii) the term “payroll costs”—
+                      (I) means—
+                              (aa) the sum of payments of any compensation with
+                              respect to employees that is a—
+                                     (AA) salary, wage, commission, or similar
+                                     compensation;
+                                     (BB) payment of cash tip or equivalent;
+                                     (CC) payment for vacation, parental, family,
+                                     medical, or sick leave;
+                                     (DD) allowance for dismissal or separation;
+                                     (EE) payment required for the provisions of
+                                     group health care or group life, disability,
+                                     vision, or dental insurance benefits,
+                                     including insurance premiums;
+                                     (FF) payment of any retirement benefit; or
+                                     (GG) payment of State or local tax assessed
+                                     on the compensation of employees; and
+                              (bb) the sum of payments of any compensation to or
+                              income of a sole proprietor or independent
+                              contractor that is a wage, commission, income, net
+                              earnings from self-employment, or similar
+                              compensation and that is in an amount that is not
+                              more than $100,000 on an annualized basis, as
+                              prorated for the [applicable] period.
+
+15 U.S.C. § 636(a)(36)(A).
+
+        The first type of payroll cost, (aa), addresses “payments of any compensation” to
+“employees,” while the second, (bb), addresses “payments of any compensation to or income of
+a sole proprietor or independent contractor that is a wage, commission, income, net earnings
+ No. 24-2025                Veltor Underground, LLC v. SBA et al.                          Page 5
+
+
+from self-employment, or similar compensation.” At this stage in the case, Veltor acknowledges
+that its loan did not go to “employees” but only to “independent contractors.” That prompts this
+question: Does subsection (bb) allow only self-employed individuals—sole proprietors and
+independent contractors—to apply for a loan based on what they pay themselves? Or does it also
+allow businesses that pay them to count those payments as part of their “payroll” when they
+apply for a loan?
+
+          Text, context, and structure point to the former—that subsection (bb) allows sole
+proprietors and independent contractors to get a loan based on their own earnings, the closest
+thing to a “payroll” they have, and does not allow other businesses to bolster their own loans
+based on how much they happen to pay self-employed individuals.
+
+          Text. Start with subsection (bb)’s text. It applies only to “payments” of “compensation”
+that are “a wage, commission, income, net earnings from self-employment, or similar
+compensation.”      The terms naturally describe the money sole proprietors and independent
+contractors obtain from (or reinvest into) their businesses. A sole proprietor, by definition, runs
+his own unincorporated business, and may sell goods or services. Black’s Law Dictionary 1677
+(11th ed. 2019); see also McCullough v. Suter, 757 F.2d 142, 144 (7th Cir. 1985).              An
+independent contractor, by contrast, sells only services, whether as a sole proprietor or through
+one corporate form or another (a limited liability company, a partnership, and so on). 1 Steven
+C. Alberty, Advising Small Businesses §§ 2:2–:10 (2024).             No matter their structure,
+independent contractors remain “small businessmen.” United States v. Silk, 331 U.S. 704, 719
+(1947).
+
+          “Income” and “net earnings from self-employment” refer to what a business makes—the
+funds earned by the business on the one hand and those withdrawn for personal use on the other.
+“Income” refers to the former, the economic “gain” an entity has derived from its “labor,
+business, or property” over a given period. Webster’s Dictionary 1258 (2d ed. 1959) (def. 4a).
+“Net earnings from self-employment” account for the latter. A person’s “net earnings from self-
+employment” reflect however much he has made “from [his] trade or business” over the course
+of a given year. 26 U.S.C. § 1402(a); see also 20 C.F.R. § 404.1080(a)–(b). In some cases, that
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                           Page 6
+
+
+will be the business’s full income, taken out at one time. In others, that will be some of what the
+business has earned, paid out on a piecemeal basis.
+
+         “Wage” and “commission” describe more periodic payments. A “wage” is pay received
+by a person “for labor,” typically per hour, Webster’s Dictionary, supra, at 2863 (def. 1a), and a
+commission “[t]he percentage or allowance made” to a person for “transacting” particular items
+of “business,” id. at 538 (def. 8). Either one can describe what an owner pays himself from his
+business’s funds.
+
+         Viewing “wage” and “commission” to describe self-payments makes good sense in light
+of their association with “income” and “net earnings from self-employment.” When Congress
+conjoins four nouns in a list, they “should be given related meanings.” Antonin Scalia & Bryan
+A. Garner, Reading Law: The Interpretation of Legal Texts 195 (2012) (quotation omitted); see
+also United States v. Williams, 553 U.S. 285, 294 (2008). The common denominator is that each
+one describes what a sole proprietor or independent contractor receives, whether as part of his
+business’s balance sheet or as his own personal compensation. Together they capture the full
+panoply of his earnings.
+
+         When a business buys goods from sole proprietors and services from independent
+contractors, by contrast, it does not pay a wage, commission, income, or net earnings from self-
+employment. Subsection (bb)’s terms do not fit that bill.
+
+         That is clear enough for “income” and “net earnings from self-employment.” Only what
+one gets can be described as “income” or “net earnings from self-employment,” not what one
+gives.
+
+         The same holds for “wage” and “commission,” too. Those terms, to repeat, refer to
+payments made to people, not to businesses.           But to be a sole proprietor or independent
+contractor is to be in business for yourself—to be your own boss. Sole proprietors, by definition,
+own and operate their own businesses. Black’s Law Dictionary, supra, at 1677. And it is
+independent contractors’ independence that separates them from employees.             Restatement
+(Second) of Agency § 220(2) (Am. L. Inst. 1958). Unlike employees, they “operate their own
+independent businesses,” NLRB v. United Ins. Co. of Am., 390 U.S. 254, 258–59 (1968), and thus
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                            Page 7
+
+
+must rely on their own “initiative, judgment, or foresight” to turn receipts into profits, Rutherford
+Food Corp. v. McComb, 331 U.S. 722, 730 (1947). They may pay themselves a wage or
+commission from their earnings, but that is not what others pay them.
+
+       That accords with common business usage.               When businesses compensate sole
+proprietors and independent contractors, they do not describe those payments internally as wages
+or commissions (much less income or net earnings from self-employment). Robert Libby et al.,
+Financial Accounting 475–78 (11th ed. 2023) (distinguishing “accounts payable,” or sums a
+company owes its vendors for goods and services, from “accrued payroll and benefits,” or wages
+a company owes its employees). When vendors earn those payments, they do not describe them
+as wages or commissions either. Id. at 297–98 (describing “accounts receivable,” amounts owed
+to a business by its trade customers). So too in the tax context, where employers report their
+employees’ “wages” and their contractors’ “compensation.” Compare IRS, Catalog No. 25979S,
+General Instructions for Forms W-2 and W-3 (2020), with IRS, Catalog No. 27982J, Instructions
+for Forms 1099-MISC and 1099-NEC (2020).
+
+       This distinction has a familiar ring in other areas of law. It is one that was recognized
+long ago in the context of collecting unpaid liabilities. See 2 Roswell Shinn, A Treatise on the
+American Law of Attachment and Garnishment § 558(d), at 944 (1896) (“[The term ‘wages’]
+do[es] not extend to what is earned by him as a contractor . . . .”). And it is one still recognized
+in labor law. As then-Judge Breyer once put it: “Independent contractors undertake to do a job
+for a price . . . and depend for their income not upon wages [paid by their customers], but upon
+the difference between what they pay for goods, materials, and labor and what they receive for
+the end result, that is, upon profits.” NLRB v. Amber Delivery Serv., Inc., 651 F.2d 57, 60 (1st
+Cir. 1981) (quotation omitted).
+
+       The distinction makes practical sense, too. If a landscaper, say, is promised $10,000 by a
+business, part of that sum may eventually serve as his take-home pay, but he must first deduct
+the expenses incurred to complete the job—project-specific outlays, like plants and soil, and
+other overhead costs, like insurance. To the extent he earns a wage or a commission, it is a wage
+or commission he pays himself from what his customers pay him. (It is common, in fact, for sole
+proprietors to assign themselves an hourly rate out of their earnings. See, e.g., Stephen Fishman,
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                          Page 8
+
+
+Working for Yourself 147–51 (12th ed. 2021).) A business no more pays its contractors a wage
+or a commission when it purchases services than a business’s customers pay the business’s
+employees a salary when they purchase goods.
+
+       In sum, subsection (bb)’s terms adopt the perspective of a sole proprietor or independent
+contractor and ask how much he pays himself. They do not extend to the payments made to sole
+proprietors and independent contractors by their customers. Subsection (bb), then, allows sole
+proprietors and independent contractors to determine their own payroll costs; it does not allow
+their customers to do so, too.
+
+       Context. What the terms of the statute suggest, context confirms. A number of the Act’s
+provisions show how subsections (aa) and (bb) work in tandem—the former for businesses that
+pay employees, the latter for sole proprietors and independent contractors who pay themselves.
+
+       Notice how the Act defines the universe of borrowers. To ensure a wide variety of small
+businesses have access to the program’s loans, the Act said that “any business concern” with
+fewer than “500 employees” may apply. 15 U.S.C. § 636(a)(36)(D)(i)(I). And to ensure self-
+employed individuals were not left out, the Act said that “individuals who operate under a sole
+proprietorship or as an independent contractor” could apply also. Id. § 636(a)(36)(D)(ii)(I).
+
+       Subsections (aa) and (bb) reinforce this same division.          They use the same two
+categories: a business with employees for (aa), and a sole proprietor or independent contractor
+for (bb). And they offer a definition of payroll costs for each one. Subsection (aa) allows a
+business with employees to look at “the sum of payments of any compensation with respect to
+[those] employees”—plural. Id. § 636(a)(36)(A)(viii)(aa). And subsection (bb) allows “a sole
+proprietor or independent contractor”—singular—to look at “the sum of payments of any
+compensation or income” to it. Id. § 636(a)(36)(A)(viii)(I)(bb).
+
+       Our interpretation honors that division.     The payment universes do not overlap, as
+subsection (aa) covers businesses applying on their employees’ behalf, and subsection (bb)
+covers a single self-employed individual applying on his own behalf. Never the twain shall
+meet. Otherwise, a business could count not only its payments to employees under subsection
+(aa) but also its payments to sole proprietors and independent contractors under (bb), meaning
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                             Page 9
+
+
+that the Small Business Administration would guarantee the same loan twice—once in the
+business’s accounts payable and once in the vendor’s accounts receivable. That’s a poor fit for a
+law with limited funds that elsewhere required applicants to certify that their loan applications
+were not “duplicative” of other credits. Id. § 636(a)(36)(G)(i)(IV), (a)(36)(A)(viii)(II)(dd), (ee).
+
+       Notice one of the Act’s exclusions, which also supports this interpretation. In defining
+payroll costs, the Act excludes compensation paid to “employee[s] whose principal place of
+residence is outside of the United States.” Id. § 636(a)(36)(A)(viii)(II)(cc). But it does not
+exclude compensation paid to sole proprietors and independent contractors outside the United
+States. That makes sense. Because only sole proprietors and independent contractors based in
+the United States could apply for a loan, see id. § 636(a)(36)(A)(v), there was no need to exclude
+payments made to sole proprietors and independent contractors abroad, as subsection (bb) would
+not cover those payments. But if subsection (bb) allowed businesses to include their payments to
+sole proprietors and independent contractors as part of their payroll costs, nothing would stop
+them from doing so for sole proprietors and independent contractors at home and abroad. That
+would be odd in a law that expressly excluded payments to employees abroad. And it would be
+doubly odd in a law that set as its goal “Keeping American Workers Paid and Employed.”
+134 Stat. at 286.
+
+       Notice, too, the Act’s loan forgiveness provisions, which likewise cut with this grain.
+Congress limited businesses’ eligibility for forgiveness if they fired any of their employees,
+15 U.S.C. § 636m(d)(2)(A), or cut their wages by more than 25 percent, id. § 636m(d)(3)(A).
+But it did not do so for businesses that ended their contracts with sole proprietors and
+independent contractors. That, again, makes sense. The Act needed to police payments made
+under subsection (aa), or a business could take out a loan for its five employees and pocket the
+money without paying them a cent (or nickel). But it had no need to police payments under
+subsection (bb). Subsection (bb) covers only what a sole proprietor or independent contractor
+pays himself, so Congress had little need to worry that he would get a loan and then diminish his
+own wages. That explanation would make little sense, however, if subsection (bb) also covered
+a business’s payments to the sole proprietors and independent contractors with whom it
+happened to contract. Without any limitation on forgiveness in place, a business could count its
+ No. 24-2025                Veltor Underground, LLC v. SBA et al.                           Page 10
+
+
+payments to vendors to get loan funds but then cut off those same vendors with impunity. That
+loophole is nowhere in the Act.
+
+       Text and context thus resolve this case. Veltor had no employees, leaving it no expenses
+to claim under subsection (aa). And Veltor is not a sole proprietorship, and does not argue that it
+is an independent contractor, leaving it no expenses to claim under subsection (bb). Without
+paychecks to protect, Veltor was not entitled to have its loan forgiven. It must repay the loan.
+
+                                                    III.
+
+       Veltor urges a different reading of subsection (bb), one in which a business’s payments to
+its vendors count as part of its “payroll costs.”
+
+       It starts with text but not the whole text. Even if “income” and “net earnings” may not be
+read to include payments made by businesses to their vendors, Veltor insists, “wage” and
+“commission” may be. In its view, we should define those terms more broadly, effectively to
+include any payment “for work or services.” Reply Br. 11 (quoting Wage, Collins English
+Dictionary, available at https://collinsdictionary.com/us/dictionary/english/wage).         To limit
+“wage” and “commission” to what businesses pay their employees for purposes of (aa), and to
+what self-employed individuals pay themselves for purposes of (bb), it argues, would artificially
+narrow the statute.
+
+       This argument starts off on the wrong foot. It assumes that we should analyze each word
+of subsection (bb) in the abstract, no matter its neighbors. But it is a mistake to accept “the
+broadest imaginable definition[]” of each of a list’s “component words” and leave it at that. Epic
+Sys. Corp. v. Lewis, 584 U.S. 497, 523 (2018) (quotation omitted); see also Dolan v. U.S. Postal
+Serv., 546 U.S. 481, 486 (2006). Even a Latin phrase tells us so. “Noscitur a sociis,” or “it is
+known by its associates,” is shorthand for the commonsense proposition that words are known by
+the company they keep. Scalia & Garner, supra, at 195 (quotation omitted). But we need not
+resort to legalese (or even common sense), as the statute instructs us to interpret these terms
+together. It uses a catchall term, “similar compensation,” to refer back to the full list of “wage,”
+“commission,”     “income,”     and   “net   earnings      from   self-employment.”    15     U.S.C.
+§ 636(a)(36)(A)(viii)(I)(bb). We must take the Act at its word that these terms “have some
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                             Page 11
+
+
+quality in common,” such that “similar compensation” makes sense. Scalia & Garner, supra, at
+196.
+
+       That quality is one we have already described. Each word can sensibly be read to refer to
+amounts earned by sole proprietors and independent contractors.            For those who are self-
+employed, their “income” and “compensation” are two sides of the same coin. Their “income” is
+the economic “gain” their businesses have derived over a given period, Webster’s Dictionary,
+supra, at 1258 (def. 4a), while their “compensation” is, more narrowly, what they have received
+from the business as “remuneration,” id. at 545 (def. 2)—sometimes in the form of a commission
+(especially if per sale or service), see id. at 538 (def. 8), other times in the form of a wage
+(especially if per hour), see id. at 2863 (def. 1a). They all fit together rather than fall apart. Each
+one reflects how someone who is self-employed might describe his (or his business’s) earnings.
+
+       Veltor’s interpretation does the opposite. On its view, subsection (bb)’s terms would be
+wholly unalike. The first two terms, “wage” and “commission,” would look to the customer’s
+perspective, while the latter two, “income” and “net earnings from self-employment,” would
+look to the vendor’s. “In some circumstances,” it is true, “it may be difficult to discern what a
+statute’s specific listed items share in common.” Harrington v. Purdue Pharma L.P., 603 U.S.
+204, 218 (2024). But where there is “an obvious link,” judges should accept the gift before
+them. Id.
+
+       It’s not that easy, Veltor counters.        Isn’t it odd that subsection (bb) would refer
+“exclusively to payments to oneself,” as if one were one’s own employer? Appellant’s Br. 5.
+That common link, Veltor suggests, is not one that most people would consider to be common at
+all. We do not find it so odd. A number of federal statutes treat a sole proprietor as if he were
+“his own employer.” 26 U.S.C. § 401(c)(4) (Internal Revenue Code); see also, e.g., 29 U.S.C.
+§ 1301(b)(1) (ERISA). These laws “expressly anticipate that a working owner can wear two
+hats,” and sometimes must. Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon, 541
+U.S. 1, 16 (2004). It is not uncommon that a closely held business entity would pay its owner
+some regular compensation, and indeed some corporations must do so. See Exacto Spring Corp.
+v. Comm’r, 196 F.3d 833, 837–38 (7th Cir. 1999). If Congress’s aim was to allow self-employed
+individuals to protect their own paychecks, it made good sense to include all the forms in which
+ No. 24-2025                Veltor Underground, LLC v. SBA et al.                          Page 12
+
+
+they may receive compensation, both in terms of their business’s income and their personal
+remuneration.
+
+          What about the reality, Veltor worries, that subsections (aa) and (bb) are connected
+through the conjunctive, “and,” rather than the disjunctive, “or”? In Veltor’s view, the only
+reason Congress would use “and” rather than “or” is because it intended both (aa) and (bb) to be
+used by most borrowers. “And” does not do that much work. “[I]n grammatical terms,” the term
+“and” “is of course a conjunction—a word whose function is to connect specified items.”
+Pulsifer v. United States, 601 U.S. 124, 133 (2024). As a conjunction, the term combines the
+two parts of the definition, it is true. But conjunctive of what? The word “and” does not tell us
+what each conjoined part means. For that, the reader has to look at the other terms. Put another
+way, the fact that the definition includes both (aa) and (bb) does not tell us whether (bb) refers to
+payments a business makes to sole proprietors and independent contractors or to payments that
+sole proprietors and independent contractors make to themselves. It is the other words in
+subsection (bb) that do that.
+
+          Veltor turns to context and structure. It contends that our interpretation ignores half of
+subsection (bb). The subsection, to repeat, includes “payments of any compensation to or
+income of a[n] . . . independent contractor.” 15 U.S.C. § 636(a)(36)(A)(viii)(I)(bb) (emphasis
+added).      In Veltor’s view, our interpretation leaves no work for the former phrase—
+“compensation to . . . a[n] . . . independent contractor”—to do. “[H]ad Congress intended to
+provide subsection (bb) as a way of calculating [the internal] payroll costs [of] independent
+contractors or sole proprietors only,” Veltor says, “there is no reason it could not have simply
+omitted ‘compensation to,’” leaving only “income of.” Appellant’s Br. 27. Not so. We have
+already given one reason why Congress may have paired “compensation to” with “income of.”
+They provide different ways of looking at a self-employed person’s earnings. In emergency
+legislation designed to function at “warp speed,” In re Gateway Radiology Consultants, P.A.,
+983 F.3d 1239, 1262 (11th Cir. 2020), it made sense for Congress to give sole proprietors and
+independent contractors a few different ways to count their own wages. Cf. Pugin v. Garland,
+599 U.S. 600, 609 (2023) (“some overlap” between terms in a list is “common in statutory
+ No. 24-2025              Veltor Underground, LLC v. SBA et al.                             Page 13
+
+
+drafting,” and often reflects “a congressional effort to be doubly sure” (quotation omitted)). That
+creates less superfluity and more common sense.
+
+       There is at least one other reason Congress would have included both phrases. Under the
+CARES Act, a business must not only have payroll costs to get a loan, but it also must use the
+funds on payroll costs to get its loan forgiven. 15 U.S.C. § 636m(d)(8). “Income of” and
+“compensation to” plausibly play different roles in this respect. “Income of” allows a self-
+employed individual to look at how much his business has earned over the past twelve months
+when he first wishes to qualify for a loan. (Hence he may count his profits toward his “payroll
+costs,” even if he chose to reinvest those funds in the business rather than withdraw them for
+personal use.)    “Compensation to” allows a self-employed individual to use loan funds in
+particular ways when he wishes to qualify for loan forgiveness—most obviously, to pay himself
+a “wage.” Our interpretation gives content to both phrases and to the statute as a whole.
+
+       Veltor argues that a different provision of the statute offers a contextual clue in favor of
+its position.    Under the Act, lenders were required to consider “whether the [putative]
+borrower . . . paid independent contractors, as reported on a Form 1099-MISC.” 15 U.S.C.
+§ 636(a)(36)(F)(ii)(II)(bb). That provision would make “no sense,” Veltor says, if the Act’s
+loans “could not be used to cover payments to independent contractors.” Appellant’s Br. 28.
+But this overstates the role of the provision. It appears in a subclause that sought to ensure that
+loan applicants were ongoing concerns that predated the COVID-19 crisis. The subclause
+establishes two rough proxies for eligibility—that the business was in existence before the
+COVID-19 crisis began, and that it engaged in bona fide economic activity. The provision
+accomplished the first goal by ensuring that the loan applicant was “in operation on February 15,
+2020,” just over a month before Congress passed the Act. 15 U.S.C. § 636(a)(36)(F)(ii)(II)(aa).
+It accomplished the second goal by ensuring that the business was real, which Congress sensibly
+determined could be established in one of two objectively provable ways: by having “employees
+for whom the borrower paid salaries and payroll taxes” or by having “paid independent
+contractors, as reported on a Form 1099–MISC,” id. § 636(a)(36)(F)(ii)(II)(bb). That allowed
+the government to sort the wheat (real businesses, in need of support) from the chaff (fake
+businesses, established solely to capitalize on the program). And that required the government to
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                          Page 14
+
+
+focus on “evaluating the eligibility of a borrower” for a loan. Id. § 636(a)(36)(F)(ii)(II)(aa). The
+provision simply does not address how payroll costs are determined.
+
+       Veltor suggests that one of the contextual problems we identify with its interpretation, the
+possibility of duplicative payments, is more hypothetical than real. Because subsection (bb) uses
+“or” when it describes the “payments of any compensation to or income of” a sole proprietor or
+independent contractor, Veltor explains, only one party—either the entity that paid the
+compensation or the entity that received it as income—could claim a particular payment. Id.
+§ 636(a)(36)(A)(viii)(I)(bb).   And because the statute elsewhere requires “a good faith
+certification” from the recipient that its loan is not “duplicative of” another loan, double dipping
+is doubly forbidden. Id. § 636(a)(36)(G)(i)(III).
+
+       Count us skeptical. Subsection (bb) does not look at each payment in the abstract. It
+instead asks for a tally: the “sum of payments.” Id. § 636(a)(36)(A)(viii)(I)(bb). As a textual
+matter, it is unclear where Veltor gets the idea that each individual payment ought to be assigned
+to the payor or the payee. The certification provision does not help either. That provision
+requires the “recipient” to certify that it “does not have an application pending for a loan” under
+the Act that would be “duplicative of amounts applied for or received under a covered loan.” Id.
+§ 636(a)(36)(G)(i)(III) (emphasis added). It does not require the recipient to ensure that no one
+else has applied for funds that might cover the same expenses.
+
+       Even if Veltor’s view were textually permissible, we do not see how it could possibly
+have worked in practice. It would have required businesses and vendors to investigate each
+other’s loan applications in a program designed to operate in a national emergency, with no
+statutory guidance as to who should prevail if both sought to claim the same payment—and who
+should prevail if both received funds and subsequently sought forgiveness. Should it be the first
+who applied? The first who received funds? Or some other rule? Veltor does not say, and
+neither does the Act.
+
+       Veltor pins the blame on the Small Business Administration, which (Veltor says) could
+have resolved this issue through canny use of its emergency rulemaking authority. Id. § 9012.
+But we read the statute as Congress wrote it, not as the agency might rewrite it. That Veltor
+ No. 24-2025               Veltor Underground, LLC v. SBA et al.                            Page 15
+
+
+assumes deus-ex-machina intervention from the agency to make the Act workable suggests that
+it misreads the Act’s design.
+
+       Veltor turns last of all to policy and legislative history. It argues that Congress prioritized
+speed over precision, even at the risk of some duplicative loans. “Congress’s objective of getting
+cash out to struggling American businesses,” it explains, “predominated any concerns about
+wasteful spending.” Appellant’s Br. 41. Perhaps so. But “no law pursues its purposes at all
+costs.” Luna Perez v. Sturgis Pub. Schs., 598 U.S. 142, 150 (2023) (quotation omitted). “[I]t
+frustrates rather than effectuates legislative intent simplistically to assume that whatever furthers
+the statute’s primary objective must be the law.” Rodriguez v. United States, 480 U.S. 522
+(1987) (per curiam) (emphasis omitted). As Veltor acknowledges, Congress had to balance a
+number of objectives in the CARES Act. Yes, it wanted to distribute money quickly. But it also
+wanted to prevent waste and fraud in a program worth hundreds of billions of dollars. It was
+hardly irrational for Congress to decide that businesses should support their employees and self-
+employed individuals should support themselves.
+
+       Veltor points to a number of post-enactment press releases and website statements from
+legislators, many of whom said that “[e]ligiblity” for the program “includes self-employed and
+contracted workers.” Reply Br. 24–25 (quoting Rep. Daniel Webster, Webster Statement on
+Senate CARES Act (Mar. 26, 2020), https://webster.house.gov/2020/3/webster-cares-act). But
+Veltor pushes on an open door.        Everyone agrees that the Act helps sole proprietors and
+independent contractors. The only question is how, whether just through their own loans (the
+government’s position) or also the loans of their customers (Veltor’s).
+
+       How about the “settled economic expectations” of small businesses, Veltor asks? Many
+small businesses “are not particularly sophisticated with respect to parsing the nuances of
+statutory requirements,” it notes, so it would be unfair to tell such businesses that they cannot
+rely on the guidance they are given. Appellant’s Br. 41–42. We take the point, but Veltor is not
+a poster boy for unfair treatment. The reality is that the Small Business Administration created a
+form to determine potential borrowers’ eligibility, which required applicants to state how many
+employees they had. Veltor said it had six, when it had none. Had it answered the question
+accurately, this situation would never have occurred. The company may have been confused by
+ No. 24-2025              Veltor Underground, LLC v. SBA et al.                        Page 16
+
+
+the inquiry, but it was not misled. Enforcing the Act’s terms may lead to some unfairness at the
+margins, but courts must “observe the conditions defined by Congress for charging the public
+treasury.” Fed. Crop Ins. v. Merrill, 332 U.S. 380, 385 (1947); see also Heckler v. Cmty. Health
+Servs. of Crawford County, 467 U.S. 51, 63 (1984). That is all we do today.
+
+       For these reasons, we affirm.
+ No. 24-2025                  Veltor Underground, LLC v. SBA et al.                    Page 17
+
+
+                                         _________________
+
+                                         CONCURRENCE
+                                         _________________
+
+        HELENE N. WHITE, Circuit Judge, concurring. It is unclear to me what Congress
+intended with respect to payments to independent contractors.
+
+                                                  I.
+
+                                                 A.
+
+        My reservations in agreeing with the government’s reading of the CARES Act stem from
+the Act’s eligibility-considerations provision, 15 U.S.C. § 636(a)(36)(F)(ii)(II), which sets out
+what a lender must consider when evaluating a prospective borrower’s loan eligibility. That
+provision expressly requires a lender to consider whether the borrower has paid independent
+contractors—a requirement that seems to be without purpose under the government’s reading. In
+full, the provision states:
+
+        (II) Considerations.—In evaluating the eligibility of a borrower for a covered
+             loan with the terms described in this paragraph, a lender shall consider
+             whether the borrower—
+                 (aa)   was in operation on February 15, 2020; and
+                 (bb)
+                        (AA) had employees for whom the borrower paid salaries and
+                             payroll taxes; or
+                        (BB) paid independent contractors, as reported on a Form 1099–
+                             MISC.
+Id. (emphasis added).
+
+        I agree with the majority that the primary purpose of this provision is to ensure that a
+prospective borrower is a bona fide business that was in operation before the pandemic affected
+the national economy and that it had covered payroll costs, as evidenced by the payment of
+wages verified through payroll taxes paid.         But under the government’s interpretation, a
+prospective borrower that employs only independent contractors and issues only 1099s has no
+payroll costs and thus is eligible for neither a loan nor loan forgiveness. Rather, “payroll
+ No. 24-2025                 Veltor Underground, LLC v. SBA et al.                               Page 18
+
+
+costs”—the factor that determines both the loan amount and forgiveness—is based on either
+what an employer pays its employees (15 U.S.C. § 636(a)(36)(A)(viii)(I)(aa)) or what an
+independent contractor or sole proprietor receives as compensation or income (15 U.S.C.
+§ 636(a)(36)(A)(viii)(I)(bb)), but not what any borrower pays independent contractors. Thus,
+whatever a prospective borrower’s bona fides, payments to independent contractors are always
+irrelevant to loan eligibility and forgiveness.1 Why, then, does the Act require lenders to
+consider such payments “[i]n evaluating the eligibility of a borrower” for a loan?                   Id. at
+§ 636(a)(36)(F)(ii)(II). Such an inquiry has no purpose if payments to independent contractors
+are not covered as “payroll costs.”
+
+        The majority lays out the case for the government’s interpretation, under which 15 U.S.C.
+§ 636(a)(36)(A)(viii)(I)(bb) (“subsection bb”) applies only to independent contractors, sole
+proprietors, and eligible self-employed borrowers, all of whom must apply for their own loans.
+But the subsection could also be read to apply to both a business’s payments to independent
+contractors and an independent contractor’s or sole proprietor’s income that determines its loan
+amount. Indeed, the subsection states that payroll costs include “any compensation to or income
+of” an independent contractor. Id. Veltor plausibly argues that Congress intended that the
+statutory phrase “compensation to . . . [an] independent contractor” refer to what a business pays
+an independent contractor, and that the phrase “income of . . . [an] independent contractor” refer
+to what the independent contractor receives as compensation or income. Id. In this reading, the
+meaning of the words remains constant, but the context determines how the provision applies to
+a particular loan.
+
+                                                    B.
+
+        Although interpretating “payroll costs” as including payments to independent contractors
+is reasonable based on subsection bb’s text and especially the text of the eligibility-
+considerations provision, the majority accurately explains that many other provisions of the
+statute seem to contemplate that an employer’s payroll costs include payments to employees
+only. Most importantly, the statute includes no penalty for borrowers who include payments to
+
+        1
+           Rather, it would seem that an independent contractor’s receipt of 1099 payments would be the more
+relevant factor.
+ No. 24-2025              Veltor Underground, LLC v. SBA et al.                          Page 19
+
+
+independent contractors in their payroll costs and then fail to make such payments. And when
+seeking loan forgiveness, an eligible recipient must submit documentation of the number of full-
+time equivalent employees on payroll, pay rates, payroll-tax filings reported to the IRS, and state
+income, payroll, and unemployment insurance filings. 15 U.S.C. § 636m(e)(1). But the loan-
+forgiveness provisions require no documentation that payments were made to independent
+contractors and make no reference to 1099s, which would confirm such payments. These
+omissions weigh heavily in favor of the government’s interpretation.
+
+       Additionally, the SBA made its position on payments to independent contractors clear in
+its regulations implementing the CARES Act, stating that payments to independent contractors
+are not “payroll costs.” 85 Fed. Reg. at 20,813, 20,814 (§ III(2)(h), (p)). Congress later
+amended the CARES Act—including the statutory definition of “payroll costs”—but it did not
+reject the SBA’s interpretation. See Pub. L. No. 116-260, div. N, § 308(a), 134 Stat. 1182, 2000.
+This “failure to revise or repeal the agency’s interpretation” is “persuasive evidence that the
+interpretation is the one intended by Congress.” Commodity Futures Trading Comm’n v. Schor,
+478 U.S. 833, 846 (1986); Sebelius v. Auburn Reg’l Med. Ctr., 568 U.S. 145, 159 (2013).
+
+       Thus, although I find Congress’s intent more uncertain, and Veltor’s arguments to have
+more substance, than does the majority, on balance I ultimately conclude, albeit with
+reservations, that the statutory text read in its entirety is more consistent with the government’s
+interpretation than with Veltor’s. See also Op. at 5–11 (discussing CARES Act provisions that
+support the government’s interpretation).
+
+                                                II.
+
+       Finally, I observe that Veltor’s assertion that it fell victim to a “bait-and-switch” is not
+simply the complaint of a borrower who made false assertions and seeks to blame others. R.1 at
+3 ¶ 7. To be sure, as the majority observes, the SBA’s loan-eligibility form required applicants
+to state how many employees they had. But Veltor asserts that it stated that it had six employees
+only after Bank of America—the government’s approved lender—“represented to Veltor that
+independent contractor compensation was an eligible payroll cost.” R.1 at 3 ¶ 7, 8 ¶ 31. Further,
+the application form’s addendum required Veltor to certify that it “had employees . . . or paid
+ No. 24-2025                 Veltor Underground, LLC v. SBA et al.                     Page 20
+
+
+independent contractors”—presumably prompted by the statute’s eligibility-considerations
+provision—and that it would use the loan to “retain workers”—a term used in the statute’s
+certification provision, 15 U.S.C. § 636(a)(36)(G)(i)(II), that could fairly encompass both
+employees and independent contractors. R. 20 at 61 (emphases added). And, as discussed
+above, the statutory text is unclear on this issue. Accordingly, a business in Veltor’s position
+could reasonably have believed when it applied for the loan that it would be forgiven if it
+continued to pay its independent contractors. But Veltor raises no legal claims based on its
+allegedly being misled by Bank of America or the SBA.2 Thus, the only issue here is the proper
+interpretation of the Act.
+
+                                               ***
+
+       For the reasons stated, I concur, with reservations.
+
+
+
+
+       2
+         Veltor does not, for example, argue that the government should be equitably estopped
+from denying loan forgiveness, or that the Bank falsely represented the terms of the loan. Cf.
+Modern Perfection, LLC v. Bank of America, No. 22-cv-02103-LKG, 2023 WL 5433006, at *1
+(D.Md. Aug. 22, 2023) (putative class action alleging that Bank of America “falsely
+represent[ed] . . . that payments to independent contractors were qualifying payroll costs under
+the PPP and that these payments would be forgiven”).
+

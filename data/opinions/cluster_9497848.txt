@@ -1,0 +1,878 @@
+Case: 23-60234      Document: 142-1         Page: 1   Date Filed: 04/29/2024
+
+
+
+
+        United States Court of Appeals
+             for the Fifth Circuit
+                            ____________                       United States Court of Appeals
+                                                                        Fifth Circuit
+
+
+                             No. 23-60234
+                                                                      FILED
+                                                                  April 29, 2024
+                            ____________
+                                                                 Lyle W. Cayce
+Sierra Club,                                                          Clerk
+
+                                                                   Petitioner,
+
+                                   versus
+
+Louisiana Department of Environmental Quality;
+Roger W. Gingles, in his official capacity as Secretary, Louisiana
+Department of Environmental Quality,
+
+                                                                Respondents.
+               ______________________________
+
+      Petition for Review of an Order of the Civil Aeronautics Board
+                Agency Nos. 0560-00997-V0, PSD-LA-841
+               ______________________________
+
+Before Stewart, Duncan, and Engelhardt, Circuit Judges.
+Kurt D. Engelhardt, Circuit Judge:
+      This case involves a challenge to the pre-construction permits issued
+by the Louisiana Department of Environmental Quality (“LDEQ”) to
+Commonwealth LNG, LLC (“Commonwealth”) for its planned liquefied
+natural gas (“LNG”) export facility in Cameron Parish, Louisiana.
+Petitioner Sierra Club asks this Court to vacate LDEQ’s permitting decision
+as arbitrary and contrary to law, arguing that the facility’s emissions will
+exceed National Ambient Air Quality Standards (“NAAQS”) and that
+LDEQ failed to require Commonwealth to use the best available control
+Case: 23-60234         Document: 142-1          Page: 2      Date Filed: 04/29/2024
+
+
+
+
+technology (“BACT”) to limit those emissions. For the following reasons,
+we DENY Sierra Club’s petition for review and affirm LDEQ’s permitting
+decision.
+            I.   Factual and Regulatory Background
+        Commonwealth, an LNG 1 development company, plans to build an
+LNG liquefaction and export facility in Cameron Parish, Louisiana, on the
+west bank of the Calcasieu Ship Channel at the Gulf of Mexico. Before
+beginning construction on its project, Commonwealth must obtain various
+federal, 2 state, and local authorizations. At issue here are authorizations
+issued by LDEQ following an analysis of the facility’s projected air
+emissions.
+        Commonwealth’s facility is projected to produce air emissions
+regulated by the Clean Air Act (“CAA”), which “establishes a
+comprehensive program for controlling and improving the nation’s air
+quality through state and federal regulation.” BCCA Appeal Grp. v. U.S.
+E.P.A., 355 F.3d 817, 821–22 (5th Cir. 2003), as amended on denial of reh’g and
+reh’g en banc (Jan. 8, 2004); 42 U.S.C. § 7401 et seq. Under the CAA, the
+States work in concert with the Environmental Protection Agency (“EPA”)
+to regulate air pollution emissions from stationary sources—the CAA thus
+operates as “[a]n experiment in cooperative federalism.” Luminant
+Generation Co. v. U.S. E.P.A., 675 F.3d 917, 921 (5th Cir. 2012) (citation
+
+        _____________________
+        1
+          Liquified natural gas is natural gas that has been cooled to a liquid state for
+shipping and storage purposes.
+        2
+          On August 20, 2019, Commonwealth filed its application for approval of the
+proposed facility with the Federal Energy Regulatory Commission (“FERC”) pursuant to
+Section 3(a) of the Natural Gas Act. On September 9, 2022, FERC issued its extensive
+review of the proposed LNG project, and on November 17, 2022, FERC issued a final
+order approving the project. Sierra Club does not challenge FERC’s order in this appeal.
+Case: 23-60234      Document: 142-1       Page: 3    Date Filed: 04/29/2024
+
+
+
+
+omitted). This regulatory scheme is relatively simple: the EPA establishes
+NAAQS for specific air pollutants, and the States are responsible for
+implementing those standards. Id.; see 42 U.S.C. § 7407(a) (“Each State shall
+have the primary responsibility for assuring air quality within the entire
+geographic area comprising such State.”).
+       The NAAQS program requires the EPA to identify air pollutants
+that “may reasonably be anticipated to endanger public health or welfare.”
+42 U.S.C. § 7408(a)(1)(A). Then, the “EPA identif[ies] the maximum
+airborne concentration of a pollutant that the public health can tolerate,
+decrease[s] the concentration to provide an ‘adequate’ margin of safety, and
+set[s] the standard at that level.” Whitman v. Am. Trucking Ass’ns, 531 U.S.
+457, 465 (2001). There are currently NAAQS for six pollutants: carbon
+monoxide (“CO”), lead, nitrogen dioxide (“NO2”), ozone, particulate
+matter (“PM10/PM2.5”), and sulfur dioxide (“SO2”). See generally 40 C.F.R.
+§§ 50.4–19.
+       To ensure air quality within its borders satisfies the NAAQS, a State
+must “submit[] an implementation plan . . . which will specify the manner in
+which national primary and secondary ambient air quality standards will be
+achieved and maintained.” 42 U.S.C. § 7407(a). The EPA is then “required
+to approve each State’s plan” if it is satisfied the State Implementation Plan
+(“SIP”) meets the CAA’s general conditions. Train v. Nat. Res. Def.
+Council, Inc., 421 U.S. 60, 66 (1975); 42 U.S.C. § 7410(k)(3). The EPA has
+approved Louisiana’s SIP. See 40 C.F.R. § 52.970(c).
+       To certify that potential new sources of pollution do not erode air
+quality, each State’s SIP “must include permitting programs for the
+construction or modification of stationary sources.” Luminant Generation
+Co., 675 F.3d at 922. Such permit programs are termed “New Source
+Review” programs. Id. For “attainment areas,” or areas where the air quality
+Case: 23-60234           Document: 142-1           Page: 4       Date Filed: 04/29/2024
+
+
+
+
+is currently compliant with NAAQS, the permitting process is called the
+Prevention of Significant Deterioration (“PSD”) program. See generally
+LAC 33:III:509. “The PSD requirements, enacted as part of 1977
+amendments to the [CAA], are designed to ensure that the air quality in
+attainment areas or areas that are already clean will not degrade.” Alaska
+Dep’t of Env’t Conservation v. E.P.A., 540 U.S. 461, 470 (2004) (internal
+citations and quotations omitted).
+        The PSD program requires new sources to obtain a specific
+preconstruction permit. 42 U.S.C. § 7475. To receive the permit, the owner
+or operator of the proposed facility must demonstrate “that emissions from
+construction or operation of such facility will not cause, or contribute to, air
+pollution in excess of” the NAAQS. Id. at § 7475(a)(3). The owner or
+operator must also show that “the proposed facility is subject to the best
+available control technology for each pollutant subject to regulation.” Id. at
+§ 7475(a)(4). In Louisiana, LDEQ conducts the PSD permitting process
+pursuant to Louisiana’s SIP. 3 See generally LAC 33:III:509. Before issuing a
+preconstruction permit, LDEQ must also provide public notice and an
+opportunity to comment on the permit. See 40 C.F.R. § 51.161(a).
+        In addition to the PSD permitting requirements, Congress also
+requires that each State adopt a Title V operating permit program, whose
+minimum requirements are set by the EPA. See generally LAC 33.III.507.B.
+“Title V’s purpose is to provide each source a single permit that contains
+and consolidates all the information it needs to comply with the [CAA].”
+Env’t Integrity Project v. U.S. Env’t Prot. Agency, 969 F.3d 529, 536 (5th Cir.
+
+        _____________________
+        3
+          LDEQ serves as the legislatively-created agency “vested with jurisdiction over
+matters affecting the regulation of the environment” in Louisiana, “including, but not
+limited to, the regulation of air quality.” St. James v. La. Dep’t of Env’t Quality, 2023-0578,
+2024 WL 207859, at *2 (La. App. 1 Cir. 1/19/24), reh’g denied (Feb. 15, 2024).
+Case: 23-60234       Document: 142-1       Page: 5     Date Filed: 04/29/2024
+
+
+
+
+2020). The EPA has approved Louisiana’s Title V permitting program. See
+60 Fed. Reg. 47296-01.
+       On April 23, 2021, Commonwealth applied for the required PSD and
+Title V permits for its proposed LNG facility. LDEQ then began its two-
+year review of the permit application. In February 2022, LDEQ issued a
+notice inviting public comment on the proposed project. Thereafter, on
+March 28, 2023, LDEQ issued the two permits to Commonwealth, along
+with its Basis for Decision and its Public Comments Response Summary. On
+April 27, 2023, Sierra Club timely filed this petition for review challenging
+the permitting decision.
+        II.   Standard of Review
+       There is an apparent circuit split as to the appropriate standard of
+review for state agency actions. One view is that “[f]ederal courts reviewing
+state agency action afford the agencies the deference they would receive
+under state law.” Twp. of Bordentown v. FERC, 903 F.3d 234, 270 (3d Cir.
+2018). Both LDEQ and Commonwealth advocate for this standard of
+review. The other view is that the federal Administrative Procedure Act’s
+(“APA”) arbitrary and capricious review applies. See Appalachian Voices v.
+State Water Control Bd., 912 F.3d 746, 753 (4th Cir. 2019) (reviewing
+Virginia’s certification under the APA’s standards).
+       We agree with the Third Circuit and others that have adopted the first
+view, primarily because “the federal APA by its terms does not apply to
+states.” Town of Weymouth v. Mass. Dep’t of Env’t Prot., 961 F.3d 34, 41 (1st
+Cir.), on reh’g, 973 F.3d 143 (1st Cir. 2020); see 5 U.S.C.A. § 551(1). Further,
+a recent decision by this Court applied Texas state law, rather than the APA
+standard, to review a Texas environmental agency’s permitting decision. See
+Port Arthur Cmty. Action Network v. Tex. Comm’n on Env’t Quality, 86 F.4th
+653 (5th Cir. 2023), opinion withdrawn and superseded on denial of reh’g, No.
+Case: 23-60234         Document: 142-1         Page: 6      Date Filed: 04/29/2024
+
+
+
+
+22-60556, 2024 WL 655983 (5th Cir. Feb. 16, 2024) (noting the parties’
+agreement that the Court “should apply the standard of review that would
+apply to [the agency] in Texas state courts”). Thus, we apply Louisiana law
+to review LDEQ’s permitting decision here. 4
+       Under Louisiana law, a court “may reverse or modify” a state
+agency’s “decision if substantial rights of the appellant have been prejudiced
+because the administrative findings, inferences, conclusions, or decisions are
+. . . [a]rbitrary or capricious or characterized by abuse of discretion or clearly
+unwarranted exercise of discretion.” La. R.S. § 49:978.1(G)(5). “The test for
+determining whether an action was arbitrary or capricious is whether the
+action taken was ‘without reason.’” Save Our Hills v. La. Dep’t of Env’t
+Quality, 266 So.3d 916, 927 (La. App. 1 Cir. 11/5/18), writ denied, 267 So.3d
+87 (La. 3/18/19) (quoting Dow Chemical Co. La. Operations Complex Cellulose
+and Light Hydrocarbons Plants, Part 70 Air Permit Major Modifications and
+Emission v. Reduction Credits, 885 So.2d 5, 10 (La. App. 1 Cir. 9/17/04)).
+       “Reviewing courts should not reverse a substantive decision on its
+merits, unless it be shown that the actual balance of costs and benefits that
+was struck was arbitrary or clearly gave insufficient weight to environmental
+protection.” Save Ourselves, Inc. v. La. Env’t Control Comm’n, 452 So.2d
+1152, 1159 (La. 1984). “However, if the decision was reached procedurally,
+without individualized consideration and balancing of environmental factors
+conducted fairly and in good faith, it is the courts’ responsibility to reverse.”
+Id. “[T]he agency is required to make basic findings supported by evidence
+and ultimate findings which flow rationally from the basic findings; and it
+must articulate a rational connection between the facts found and the order
+
+       _____________________
+        4
+           Regardless, because Louisiana’s law concerning agency review is substantially
+similar to the APA’s standard of review, both likely lead to the same result here.
+Case: 23-60234       Document: 142-1      Page: 7     Date Filed: 04/29/2024
+
+
+
+
+issued.” Id. “Although we may uphold a decision of less than ideal clarity if
+the agency’s path may reasonably be discerned, . . . we will not supply a
+finding from the evidence or a reasoned basis for the commission’s action
+that the commission has not found or given.” Id. at 1160.
+       III.     Analysis
+       Sierra Club, both during the public comment period and now on
+appeal, argues that LDEQ acted arbitrarily in its analysis of the potential
+NAAQS violations from the Commonwealth facility. Specifically, Sierra
+Club believes that LDEQ’s use of significant impact levels (“SILs”)
+throughout the emissions analysis was improper. Sierra Club further asserts
+that LDEQ compounded its error by relying on AP-42 emission factors,
+“despite EPA’s caution against doing so.” Separately, Sierra Club argues
+that LDEQ failed to require BACT from Commonwealth with respect to
+NOx emissions from Commonwealth’s planned combustion turbines and
+oxidation system. Finally, Sierra Club asserts that LDEQ violated its public
+trustee duty under Louisiana law, which requires LDEQ “to evaluate and
+avoid adverse environmental impacts to the maximum extent possible.” In
+response, in addition to contesting each of these arguments, LDEQ
+challenges this Court’s jurisdiction to hear Sierra Club’s claim.
+           a. Whether this Court has subject matter jurisdiction.
+       LDEQ challenges this Court’s jurisdiction over the petition for
+review, arguing that Sierra Club’s claim arises under state law, not federal
+law, and lacks a sufficient hook to bring the claim into federal court. Both
+Sierra Club and Commonwealth, as intervenor, disagree, asserting instead
+that the unique interplay between the Natural Gas Act (“NGA”), the CAA,
+and the Louisiana SIP provides this Court with exclusive jurisdiction over
+the petition.
+Case: 23-60234       Document: 142-1      Page: 8    Date Filed: 04/29/2024
+
+
+
+
+       First, the NGA. The NGA is “a comprehensive scheme of federal
+regulation” intended to address the sale and transmission of natural gas. N.
+Nat. Gas Co. v. State Corp. Comm’n of Kan., 372 U.S. 84, 91 (1963). As such,
+“[t]he NGA confers upon FERC [exclusive jurisdiction] over the
+transportation and sale of natural gas in interstate commerce for resale.”
+Schneidewind v. ANR Pipeline Co., 485 U.S. 293, 300–01 (1988). When
+Congress later passed the Energy Policy Act, it extended the reach of the
+NGA to the construction, expansion, and operation of LNG terminals, such
+as the one at issue here. See 15 U.S.C. § 717b(e)(1). The NGA thus strips
+States of the authority to act in this natural gas realm, except under three
+specifically enumerated statutes, one of which is the CAA. 15 U.S.C.
+§ 717b(d).
+       As noted above, the CAA “establishes a comprehensive program for
+controlling and improving the nation’s air quality through state and federal
+regulation.” BCCA Appeal Grp., 355 F.3d at 821–22. Under the CAA, the
+EPA formulates the NAAQS, while “States have primary responsibility for
+implementing the NAAQS by developing ‘State implementation plans.’”
+Util. Air Regul. Grp. v. E.P.A., 573 U.S. 302, 308 (2014) (quoting 42 U.S.C.
+§ 7410). Once the EPA approves a particular State’s SIP, it can then
+“delegate to such State any authority . . . to implement and enforce [its]
+standards.” 42 U.S.C. § 7411(c)(1). Therefore, when States like Louisiana
+conduct a required review under the CAA for the issuance of permits, they
+are implementing federal law under a system of cooperative federalism. See,
+e.g., Ammex, Inc. v. Wenk, 936 F.3d 355, 361 (6th Cir. 2019) (concluding that
+Michigan’s fuel law, made in compliance with EPA’s standards, is federal
+law, based on “the way courts have consistently treated SIPs”).
+       The fact that SIPs have the force and effect of federal law has been
+recognized by every federal circuit court to address the issue, including this
+Circuit. See Env’t Tex. Citizen Lobby, Inc. v. ExxonMobil Corp., 968 F.3d 357,
+Case: 23-60234       Document: 142-1       Page: 9     Date Filed: 04/29/2024
+
+
+
+
+373 (5th Cir. 2020), as revised, (Aug. 3, 2020), and following remand, 47 F.4th
+408 (5th Cir. 2022), and reh’g en banc granted, vacated, 61 F.4th 1012 (5th Cir.
+2023) (noting that “when the EPA approves a SIP, it becomes federal
+law”); see also, e.g., Grp. Against Smog & Pollution, Inc. v. Shenango Inc., 810
+F.3d 116, 120 (3d Cir. 2016) (“Once the EPA approves the SIP, it becomes
+binding federal law.”); Indiana v. E.P.A., 796 F.3d 803, 806 (7th Cir. 2015)
+(“Once it is approved by EPA, a state rule embodied in a SIP becomes
+enforceable federal law.”). We decline to depart from our sister circuits on
+this issue. Thus, contrary to LDEQ’s arguments, when LDEQ issued the
+permit, it was acting pursuant to federal law, not merely state law.
+       Importantly, the NGA vests jurisdiction for judicial review of
+permitting decisions in “[t]he United States Court of Appeals for the circuit
+in which a facility . . . is proposed to be constructed, expanded, or operated.”
+15 U.S.C. § 717r(d)(1). Further, the NGA provides that such circuit court
+“shall have original and exclusive jurisdiction over any civil action for the
+review of an order or action of a Federal agency . . . or State administrative
+agency acting pursuant to Federal law.” Id. (emphasis added). Based on the
+clear language of the NGA, and the understanding that LDEQ acted under
+federal law in issuing the permits to Commonwealth, we have jurisdiction to
+review Sierra Club’s petition. See Town of Weymouth, 961 F.3d at 40–41
+(reviewing State agency’s order acting pursuant to the CAA); Friends of
+Buckingham v. State Air Pollution Control Bd., 947 F.3d 68, 80 (4th Cir. 2020)
+(finding jurisdiction pursuant to the NGA to review the grant of a permit by
+the State board).
+       This Court recently decided the merits of a CAA challenge to a Texas
+Commission on Environmental Quality (“TCEQ”) permitting decision in
+Port Arthur Cmty. Action Network, supra. There, a not-for-profit
+environmental organization petitioned for review of TCEQ’s decision,
+pursuant to the federal CAA and the Texas Clean Air Act, to grant a PSD
+Case: 23-60234          Document: 142-1           Page: 10        Date Filed: 04/29/2024
+
+
+
+
+permit to an LNG plant developer. Port Arthur Cmty. Action Network, 86
+F.4th at 655–56. 5 This Court, after finding that petitioner had standing to
+bring its claim, analyzed TCEQ’s permitting decision under Texas’s
+arbitrary and capricious standard, apparently finding no issue with the
+Court’s subject matter jurisdiction to hear the case. Id. at 659–60. Consistent
+with our previous decisions, we hold that this Court has subject matter
+jurisdiction over Sierra Club’s petition, and thus proceed to the merits. 6
+            b. Whether LDEQ acted arbitrarily in using SILs to consider the
+               Commonwealth permit application.
+        Sierra Club first argues, based on the CAA’s clear language, that
+neither the EPA nor State agencies may use SILs in permitting decisions.
+However, even if the Court finds that SILs are valid under the CAA, Sierra
+Club argues that LDEQ used them improperly with respect to NO2
+emissions for the Commonwealth LNG project. As noted above, the owner
+or operator of a proposed facility must demonstrate “that emissions from
+construction or operation of such facility will not cause, or contribute to, air
+pollution in excess of” the NAAQS. 42 U.S.C. § 7475(a)(3). Sierra Club
+        _____________________
+        5
+          On February 16, 2024, the panel in the Port Arthur case denied rehearing,
+withdrew its previous opinion, and issued a new opinion that certified a question to the
+Supreme Court of Texas concerning Texas’s definition of “best available control
+technology.” Port Arthur Cmty. Action Network v. Tex. Comm’n on Env’t Quality, No. 22-
+60556, 2024 WL 655983, at *2 (5th Cir. Feb. 16, 2024). Because the certified question deals
+solely with the interpretation of Texas law, rather than the Court’s ability to review the
+permitting decision, the panel’s new opinion does not affect our jurisdiction analysis here.
+        6
+          LDEQ directs our attention to Shrimpers & Fishermen of RGV v. Tex. Comm’n on
+Env’t Quality, 968 F.3d 419, 427 (5th Cir. 2020) (Oldham, J., concurring), in which a
+concurring judge suggests that federal courts may lack—or perhaps should lack—
+jurisdiction over petitions for review of LNG permits brought under the APA and NGA.
+This Court did not decide the jurisdiction issue in Shrimpers & Fishermen because it
+concluded that the petitioners did not have standing; therefore, the discussion of
+jurisdiction is not controlling here, nor does it persuade us to depart from the reasoning laid
+out above.
+Case: 23-60234          Document: 142-1          Page: 11       Date Filed: 04/29/2024
+
+
+
+
+argues that Commonwealth’s LNG facility will in fact cause or contribute to
+violations of the NAAQS, yet LDEQ issued the preconstruction permits
+anyway based on a fundamentally flawed analysis.
+                   i.    Whether the use of SILs complies with the CAA.
+        Sierra Club argues that LDEQ arbitrarily concluded that
+Commonwealth’s facility will not cause or contribute to a NAAQS violation
+by conducting a shortened Air Quality Analysis based on SILs. SILs are
+numerical values “below which the EPA considers a source to have an
+insignificant effect on ambient air quality.” Sierra Club v. E.P.A., 705 F.3d
+458, 461 (D.C. Cir. 2013). EPA guidance suggests that when a source
+demonstrates that its impact will not exceed the SIL, the source does not
+need to conduct the more extensive air quality analysis that is typically
+required. See id.; AR75:5. The use of SILs arose out of the EPA’s decades-
+long belief that requiring extensive air modeling for every source is costly and
+overly burdensome, especially where the source is projected to emit
+insignificant amounts of pollution. AR75:5. “In 2010, EPA attempted to
+codify these uses of SILs,” but, after recognizing various flaws in the
+proposed SILs rule, the EPA asked the D.C. Circuit to vacate the rule. Sierra
+Club v. Env’t Prot. Agency, 955 F.3d 56, 59 (D.C. Cir. 2020) 7; see 40 C.F.R.
+§ 51.165(b)(2) (allowing for use of SILs to determine if a source would
+“exceed the following significance levels”). On remand in that case, the EPA
+chose to issue non-binding guidance, rather than a modified rule, explaining
+
+        _____________________
+        7
+          Notably, Sierra Club asked the D.C. Circuit to hold that the EPA could not use
+SILs at all in its air quality modeling. Sierra Club v. E.P.A., 705 F.3d 458, 464 (D.C. Cir.
+2013). However, that court declined to do so, instead holding that “[o]n remand the EPA
+may promulgate regulations that do not include SILs or do include SILs that do not allow
+the construction or modification of a source to evade the requirements of the [CAA].” Id.
+Contrary to Sierra Club’s suggestion, the D.C. Circuit has never held that SILs are per se
+invalid under the CAA.
+Case: 23-60234      Document: 142-1       Page: 12     Date Filed: 04/29/2024
+
+
+
+
+how state permitting authorities—like LDEQ—can rely on SILs in the
+PSD permitting process.
+       Based on this EPA guidance, LDEQ uses SILs to determine whether
+a permit applicant has satisfied “the requirement to demonstrate that they
+do not cause or contribute to a violation by showing that the ambient air
+quality impacts resulting from the proposed source’s emissions would be
+below these concentration levels.” AR75:5; LAC 33:III.509. For any given
+permit application, LDEQ conducts a “preliminary screening” whereby it
+identifies the projected emissions and compares them to the EPA’s SILs for
+each NAAQS. Only for those pollutants that exceed the SIL value does
+LDEQ conduct “refined modeling” to further analyze the projected effect
+on air quality. AR70:35. In sum, LDEQ uses the SILs as a “compliance
+demonstration tool” to simplify the air analysis and “help[] to reduce the
+burden on permitting authorities and permit applicants to conduct often
+time-consuming and resource-intensive air dispersion modeling” where such
+modeling is unnecessary to show compliance with the CAA. AR75:5. For the
+Commonwealth facility, LDEQ found that only four of the pollutants
+measured above the SILs and thus required refined modeling. AR70:35.
+       Sierra Club asserts that the EPA guidance and LDEQ’s use of SILs
+violate the CAA because the CAA “does not allow de minimis exceptions
+to an applicant’s responsibility to demonstrate that it will not cause or
+contribute to a NAAQS violation.” Sierra Club finds support for this
+argument in the “broad, sweeping language” of the CAA, which restricts
+any source that will “cause, or contribute to” a NAAQS violation. Sierra
+Club cites to Bluewater Network v. E.P.A., 370 F.3d 1, 13 (D.C. Cir. 2004), for
+the proposition that the word “contribute” as used in the CAA “has no
+inherent connotation as to the magnitude or importance of the relevant
+‘share’ in the effect; certainly it does not incorporate any ‘significance’
+requirement.” Sierra Club further points out that, elsewhere in the CAA,
+Case: 23-60234     Document: 142-1      Page: 13     Date Filed: 04/29/2024
+
+
+
+
+Congress modified the word “contribution” with the word “significant” but
+chose not to include that modifier in section 7475(a). See, e.g., 42 U.S.C.
+§ 7407(d)(4)(v) (excluding from nonattainment areas portions where a state
+demonstrates the sources “do not contribute significantly to a violation” of
+NAAQS); § 7426 (limiting applicability of interstate pollution notification
+requirements to new sources that “significantly contribute to levels of air
+pollution in excess of” NAAQS). Based on this statutory language, Sierra
+Club argues that neither the EPA nor LDEQ can alter the CAA’s
+requirements by limiting air quality analyses to only those sources that
+“significantly” contribute to NAAQS violations.
+      In response, LDEQ asserts that neither the CAA nor Louisiana’s
+SIP mandate any specific modeling analysis; rather, Congress gave the EPA
+broad authority to determine how to demonstrate compliance with NAAQS.
+AR75:4. And under this broad authority, the EPA has recommended that the
+SIL screening process can suffice to make the necessary demonstration. See
+Sierra Club v. U.S. Env’t Prot. Agency, 939 F.3d 649, 686 (5th Cir. 2019)
+(“The EPA’s selection of modeling methods . . . is exactly the type of
+decision for which ‘significant deference’ is appropriate.”). LDEQ
+explained in its Public Comments Response Summary that “[t]he air quality
+concentration levels that the EPA has identified as SILs do not function to
+exempt a source from making the demonstration required.” AR71:33.
+Instead, the SILs “provide a streamlined means” of showing compliance
+with the CAA—in other words, the SIL analysis itself is the required
+demonstration. AR71:33; AR91:14.
+      Further, in response to Sierra Club’s textual arguments, LDEQ
+points out that the D.C. Circuit, upon which Sierra Club relies heavily, has
+often observed that the term “contribute” is ambiguous. See Catawba Cnty.
+v. E.P.A., 571 F.3d 20, 35 (D.C. Cir. 2009) (listing “contribute” as one of
+many words in a statute “suggest[ing] a congressional intent to leave
+Case: 23-60234      Document: 142-1       Page: 14     Date Filed: 04/29/2024
+
+
+
+
+unanswered questions to an agency’s discretion and expertise”); Env’t Def.
+Fund, Inc. v. E.P.A., 82 F.3d 451, 459 (D.C. Cir.), amended sub nom. Env’t Def.
+Fund v. E.P.A., 92 F.3d 1209 (D.C. Cir. 1996). Thus, LDEQ asserts that the
+EPA’s determination that only “significant” contributions require extensive
+air analyses should be afforded deference as a reasonable reading of the word
+“contribute.” LDEQ also points to the label Congress chose for the PSD
+program—“Prevention of Significant Deterioration”—as a helpful clue in
+determining Congressional intent. See 42 U.S.C. § 7470 et seq. (emphasis
+added). According to LDEQ, Congress gave the EPA “discretion to set the
+conditions for determining whether a PSD applicant has complied with” the
+CAA, and thus, the EPA was well within its authority in allowing state
+agencies like LDEQ to use SILs. AR91:8.
+       We agree with LDEQ and Commonwealth that the CAA does not
+specify how a permit applicant or permitting authority must make the
+required air quality demonstration. AR75:4. The plain language of the CAA
+“authorizes the EPA to determine how the analysis is to be conducted,
+including the use of air quality models.” AR75:4; see 42 U.S.C. § 7475(e)(1)
+(“The review provided for in subsection (a) shall be preceded by an analysis
+in accordance with regulations of the Administrator, promulgated under this
+subsection . . .”). The plain language of the CAA does not, however, define
+“contribute,” a word that courts have consistently found to be ambiguous.
+See, e.g., Catawba Cnty., 571 F.3d at 35. The EPA’s interpretation of
+“contribute” to allow for SILs and a shortened air quality analysis for
+insignificant pollutants should therefore be given deference, where it
+reasonably accounts for both the goals of the CAA and the public’s interest
+in economic growth. See 42 U.S.C. § 7470 (explaining Congressional
+declaration of purpose for the CAA); see also Groce v. Dep’t of Env’t Prot., 921
+A.2d 567, 578 (Pa. Commw. Ct. 2007) (analyzing identical arguments
+regarding SILs and finding that “Congress did not intend to prohibit any and
+Case: 23-60234       Document: 142-1      Page: 15     Date Filed: 04/29/2024
+
+
+
+
+all economic growth based on infinitesimally small values calculated using
+highly developed and developing software”). LDEQ did not abuse its
+discretion in relying on reasonable EPA guidance to use SILs to calculate
+which pollutants will have an insignificant effect on the NAAQS.
+       Further, it is worth noting that, for the four pollutants found to be in
+excess of the SILs, LDEQ and Commonwealth went on to conduct a “full
+impact analysis” to assess compliance with NAAQS. AR70:35; AR71:33;
+AR90. This additional analysis modeled the facility’s projected pollutants
+together with background sources located off-site, stretching as far as twenty
+kilometers away. AR90:4-228-229; AR10:20-21. After this analysis, only one
+pollutant exceeded the NAAQS: one-hour emissions of NO2. AR90:4-228-
+229; AR10:41-44. Commonwealth and LDEQ then conducted a separate
+“source contribution analysis” for NO2, which is discussed further below.
+AR90:4-390; AR10:41. Looking at the air analyses as a whole, we cannot say
+that LDEQ and Commonwealth cut corners or arbitrarily ignored
+exceedances of NAAQS. Based on the extensive testing done, and the
+deference owed to the EPA in determining how that testing is to be done, we
+affirm LDEQ’s use of SILs in its permitting decision.
+               ii.   Whether LDEQ reasonably applied the SIL for NO2.
+       Sierra Club next argues that, even if SILs are valid under the CAA,
+LDEQ did not apply them properly with respect to NO2. As mentioned,
+LDEQ and Commonwealth conducted “refined modeling” for NO2
+because the emission impacts were projected to be above the SILs. AR69:5.
+As shown in the refined modeling table in LDEQ’s report, for the one-hour
+averaging emissions period, the total NO2 concentration for the area was
+projected to be over the NAAQS. AR69:6. Sierra Club seizes on the results
+of this modeling to contend that “LDEQ could not issue Commonwealth’s
+PSD permit without requiring mitigation to offset Commonwealth’s NO2
+Case: 23-60234      Document: 142-1       Page: 16       Date Filed: 04/29/2024
+
+
+
+
+impacts.” Sierra Club made these exact arguments during the public
+comment period, and LDEQ responded by explaining in detail its reasoning
+for approving the Commonwealth permits despite the initial modeling.
+AR71:34–42.
+       First, LDEQ noted that “modeled exceedances of a NAAQS do not
+necessarily equate to actual exceedances of a NAAQS.” AR71:40. In fact,
+the modeling replicates a worst-case scenario, assuming the worst-case
+emissions from many industrial facilities in the area, combined with worst-
+case meteorological conditions. AR71:40. According to LDEQ, the
+modeling created a circumstance that was “improbable at best and, given the
+number of sources modeled, likely never to occur.” AR71:40. However, even
+in this worst-case scenario wherein all modeled sources emit their maximum
+pollution, that alone is still unlikely to cause an exceedance of NAAQS. This
+is because the exceedances are only expected when “background”
+concentration is added in, and according to LDEQ, this is a “highly
+conservative    exercise”    because    “the    actual     measured    ambient
+concentrations used to represent background are in fact representative and
+inclusive of contributions from the existing emission sources included in the
+model.” AR71:40–41. In other words, LDEQ’s predictions “double count”
+the effect of existing sources in the area. AR71:41.
+       The EPA has issued guidance for what a state permitting agency
+should do when “a cumulative impact analysis predicts a NAAQS
+violation.” AR71:40. In this scenario, LDEQ may “compar[e] the proposed
+source’s modeled contribution to that violation to the corresponding SIL
+value.” AR71:40. “If the modeled impact is below the recommended SIL
+value at the violating receptor during the violation, the EPA believes this will
+be sufficient in most cases for a permitting authority to conclude that the
+source does not cause or contribute to (is not culpable for) the predicted
+violation.” AR71:40 (emphasis removed). LDEQ and Commonwealth
+Case: 23-60234        Document: 142-1    Page: 17     Date Filed: 04/29/2024
+
+
+
+
+followed this guidance and found that the facility’s contribution to the
+exceedance of the one-hour NO2 NAAQS would be 0.07 µg/m3, far below
+the SIL of 7.5 µg/m3. AR71:42. Thus, LDEQ concluded that the facility’s
+potential contribution to any exceedance of NAAQS, as shown in the worst-
+case scenario modelling, would be negligible. AR71:42. As a result, LDEQ
+found additional mitigation measures unnecessary. AR71:42.
+       Although Sierra Club asserts that LDEQ compounded the SILs error
+by relying on the SIL for NO2 twice—once in the preliminary screening, and
+once in the post-refined-modeling comparison—LDEQ followed relevant
+EPA guidance precisely, all while explaining its entire process. This does not
+appear to be a case where a State agency issued its decision “without
+reason.” Reduction Credits, 885 So.2d at 10. Considering the detailed
+modeling that LDEQ conducted and the vast amount of EPA guidance
+supporting its analysis, we affirm LDEQ’s use of SILs to approve the
+permits despite the initial modeled NO2 emissions.
+               iii.   Whether LDEQ’s reliance on AP-42 factors was arbitrary.
+       Finally, Sierra Club argues that, validity of SILs aside, LDEQ’s use
+of AP-42 emissions factors “factually undermined” the SILs analysis,
+making the permitting decision arbitrary and contrary to law. The AP-42
+emissions factors are “representative value[s] that attempt[] to relate the
+quantity of a pollutant released to the atmosphere with an activity associated
+with the release of that pollutant.” EPA, Basic Information of Air Emissions
+Factors and Quantification, https://www.EPA.gov/air-emissions-factors-
+and-quantification/basic-information-air-emissions-factors-and-
+quantification#About%20Emissions%20Factors (Nov. 30, 2023). The EPA
+developed the AP-42 emissions factors for various combustion sources, so
+that new sources that have yet to be built—such as the Commonwealth
+facility—can look to the factors to determine projected operational
+Case: 23-60234        Document: 142-1      Page: 18    Date Filed: 04/29/2024
+
+
+
+
+emissions. AR71:118. Here, LDEQ and Commonwealth used AP-42 factors
+as “default emission factors” to predict the likely pollutant outputs for the
+facility. AR71:118.
+       In contesting LDEQ’s analysis, Sierra Club emphasizes the EPA’s
+warning in a 2020 guidance letter that “AP-42 emission factors should only
+be used as a last resort” because they “are not likely to be accurate predictors
+of emissions from any one specific source.” AR37:195 (emphasis removed);
+AR71:114. However, LDEQ and Commonwealth point out that the EPA
+only cautioned against AP-42 factors when used “in place of more
+representative source-specific emissions value[s].” AR71:114. LDEQ argues
+that AP-42 emissions factors are almost always required for projects like
+Commonwealth’s because there are not yet direct emissions to monitor; the
+facility has not been built, so it does not emit any measurable pollutants yet.
+Commonwealth makes the same argument, emphasizing that “this is a
+preconstruction permit and direct, site-specific emissions information is not
+available.” Considering the specific factual scenario here, and where the
+EPA has suggested that AP-42 emissions factors are suitable for this exact
+situation, it was not an abuse of discretion for LDEQ and Commonwealth to
+use AP-42 factors in their air quality analysis.
+       Even if relying on the AP-42 factors themselves was not arbitrary,
+Sierra Club argues that LDEQ should have relied on the “maximum”
+factors, rather than the “average” factors, for its analysis. According to
+Sierra Club, record evidence demonstrates that relying on the “maximum”
+factors “would roughly triple Commonwealth’s potential to emit annual
+NOx pollution.” However, LDEQ considered this argument in its Basis for
+Decision and found that the extreme ends of the factor ranges are not likely
+to be representative of actual emissions for the Commonwealth project.
+AR71:107. For example, when responding to a comment that LDEQ should
+use the maximum factor for fugitive VOC emissions, LDEQ explained that
+Case: 23-60234      Document: 142-1      Page: 19     Date Filed: 04/29/2024
+
+
+
+
+the use of the average factor was reasonable because it was not reasonable to
+“expect every component at any facility to be leaking at an extraordinarily
+high rate.” AR71:108. LDEQ did not act arbitrarily or contrary to law in
+using the average AP-42 emission factors, set by the EPA, to determine
+potential emissions from an LNG facility that has not yet been built.
+          c. Whether LDEQ acted arbitrarily in authorizing the project’s
+             BACT.
+       Sierra Club next argues that LDEQ failed to require BACT for NOx
+emitted from two sources of pollution in the facility: (1) Commonwealth’s
+combustion turbines; and (2) Commonwealth’s oxidation system. While
+acknowledging that “the applicant is not required to select the most effective
+control option or the lowest emission limit that option is capable of,” Sierra
+Club asserts that “the applicant must justify selecting anything other than
+the most protective available option.” Here, Sierra Club believes LDEQ
+failed to require that justification from Commonwealth and instead excused
+incomplete emission analyses for BACT on the proposed LNG facility.
+       First, some background on the BACT requirement. A key aspect of
+the PSD permitting process requires the owner or operator of a new
+stationary source to apply the BACT for the source’s expected air
+pollutants—in simple terms, the facility must use the technology that best
+limits emissions. The CAA specifically requires LDEQ to determine that
+the proposed facility will be outfitted with the BACT for “each pollutant
+subject to regulation.” 42 U.S.C. § 7475(a)(4). The EPA has established a
+five-step, top-down approach for determining the BACT: (1) identify all
+available control technologies; (2) eliminate the technically infeasible
+options; (3) rank the remaining control technologies by effectiveness; (4)
+evaluate the total impacts of the most effective control technologies and
+document results; and (5) select the BACT. LAC 33:III:509; AR70:5–6.
+“The most effective control option not eliminated in step 4 is selected as
+Case: 23-60234      Document: 142-1      Page: 20     Date Filed: 04/29/2024
+
+
+
+
+BACT.” AR70:6. While not a binding rule, LDEQ consistently uses this
+EPA guidance for its PSD permitting program.
+       “BACT        determinations      are     intrinsically    case-by-case
+determinations.” Port Arthur Cmty. Action Network, 86 F.4th at 663. The
+analysis “tak[es] into account energy, environmental, and economic impacts
+and other costs.” 40 C.F.R. § 52.21(b)(12). It follows that this analysis
+requires “expertise, experience, and procedural mechanisms” from
+LDEQ’s end to conduct as thorough of a review as possible. Zen-Noh Grain
+Corp. v. Consol. Env’t Mgmt., Inc., No. CIV.A. 12-1011, 2012 WL 6201871, at
+*10 (E.D. La. Dec. 12, 2012), amended on denial of reconsideration, No. CIV.A.
+12-1011, 2013 WL 3947186 (E.D. La. July 31, 2013).
+       In the present case, Sierra Club takes issue with two of LDEQ’s
+BACT determinations. The first deals with NOx emissions from
+Commonwealth’s nine gas-fired combustion turbines. Sierra Club asserts
+that the most effective technology to control emissions from these turbines
+is a selective catalytic reduction (“SCR”) system paired with dry low NOx
+burners. The main disagreement here centers around the approved
+numerical emission limit of 2.5 ppmvd, compared to Sierra Club’s proposed
+2.0 ppmvd limit based on its theory for increasing the system’s effectiveness.
+However, as LDEQ explained in its response to Sierra Club’s public
+comment on this issue, the effectiveness of the SCR system is “dependent
+on many variables” and in reality, operates at a wide range of efficiency.
+AR71:80. In other words, reducing the emissions by 0.5 ppmvd is not as
+simple as Sierra Club makes it sound. LDEQ also addressed Sierra Club’s
+assertion that many other facilities have achieved 2.0 ppmvd emission
+numbers, noting that these other facilities are not comparable to the
+Commonwealth project because they include “only combined cycle turbines
+located at electrical generation facilities.” AR71:83. Commonwealth’s
+facility will be built differently, in a different environment than other
+Case: 23-60234       Document: 142-1       Page: 21     Date Filed: 04/29/2024
+
+
+
+
+facilities. See AR71:83. Ultimately, LDEQ concluded that the BACT
+determination of 2.5 ppmvd for the turbines was “appropriate and
+reasonable” based on its thorough analysis. AR71:83.
+       The    second    determination     concerns    NOx     emissions    from
+Commonwealth’s oxidation system, which will use thermal oxidizers to
+remove impurities from the natural gas before it is liquefied. Sierra Club
+asserts that Commonwealth failed to consider a catalytic oxidizer, which
+could result in lower overall NOx emissions. In its response to public
+comments, however, LDEQ explained that, for a number of reasons, “the
+use of catalytic oxidizers rather than thermal oxidizers . . . is not technically
+feasible.” AR71:100. LDEQ highlighted the additional pollution that the
+catalytic oxidizer would emit and explained that Commonwealth would need
+to include additional machinery—that also could emit additional
+pollutants—to combat the side effects of the oxidizer. AR71:100. In sum,
+“[t]he addition of a scrubber to remove the trace constituents, a system to
+manage the scrubber waste stream, and a natural gas-fired heater to raise the
+temperature of the acid gas streams would needlessly add complexity to the
+system, would increase capital and operating costs, and would be an
+additional source of air emissions.” AR71:100. LDEQ argues that this
+analysis suffices to establish the BACT and that, contrary to Sierra Club’s
+assertions, cost estimates are not required as additional support for its
+conclusion.
+       As is evident from the administrative record, LDEQ carefully
+responded to and rejected each of Sierra Club’s proposed BACTs during the
+public comment period. While Sierra Club’s proposed control technologies
+may be effective at reducing emissions, Sierra Club has failed to show
+anything more than possible (and potentially infeasible) alternatives to
+LDEQ’s already reasonable decisions. See St. James, 2024 WL 207859, at
+*43–44 (holding that where the agency’s basis for decision reflected its
+Case: 23-60234        Document: 142-1     Page: 22     Date Filed: 04/29/2024
+
+
+
+
+consideration of emissions, their impact on the environment, and BACT on
+those emissions, its determination was not arbitrary or capricious). Sierra
+Club’s desire for Commonwealth to use different technology at its facility
+does not mandate a conclusion that LDEQ acted arbitrarily in approving the
+BACT that Commonwealth plans to use.
+       Because LDEQ considered all relevant factors and articulated
+reasons for its decisions regarding these specific technologies, this Court will
+not disturb technical determinations made within LDEQ’s expertise. See
+Alaska Dep’t of Env’t Conservation, 540 U.S. at 490 (explaining that, for the
+purposes of BACT, the EPA disapproves a permit only in relatively rare
+circumstances where “a state agency’s BACT determination is not based on
+a reasoned analysis”) (quotation marks omitted); see also Maryland v. E.P.A.,
+958 F.3d 1185, 1196 (D.C. Cir. 2020) (emphasizing that courts “give an
+extreme degree of deference to [an agency’s] evaluation of scientific data
+within its technical expertise”) (citation and internal quotation omitted)).
+We decline to wade into these hyper-technical waters and supplant LDEQ’s
+careful determinations, made with the benefit of time-consuming testing and
+extensive analysis.
+          d. Whether LDEQ violated Louisiana’s public trustee duty when
+             considering the permit application.
+       Article IX § 1 of the Louisiana Constitution establishes “[a] public
+trust for the protection, conservation and replenishment of all natural
+resources of the state.” Save Ourselves, 452 So.2d at 1154. In conjunction with
+the constitutional standard, the Louisiana legislature codified a public trustee
+duty to require an analysis of “[t]he potential and real adverse environmental
+effects” of any proposed project that may affect air quality. La. R.S.
+§ 30:2018(B)(1). Pursuant to the public trust doctrine, then, LDEQ must
+“determine that adverse environmental impacts have been minimized or
+avoided as much as possible consistently with the public welfare.” Save
+Case: 23-60234         Document: 142-1          Page: 23      Date Filed: 04/29/2024
+
+
+
+
+Ourselves, 452 So.2d at 1157. Sierra Club argues that, by granting the
+preconstruction permits to Commonwealth here, LDEQ violated the public
+trust doctrine. Essentially, Sierra Club makes similar arguments concerning
+SILs and BACT detailed above, but asserts that LDEQ was required to go
+above and beyond its CAA-based review of these issues to comply with its
+public trustee duty.
+        LDEQ provides three main responses: (1) this Court does not have
+subject matter jurisdiction to review LDEQ’s compliance with state law that
+is not included in the State’s SIP; (2) the Natural Gas Act preempts the
+public trust doctrine 8; and (3) regardless, LDEQ did not violate its public
+trustee duty. Commonwealth focuses primarily on argument (3), asserting
+that LDEQ’s decision complied with its public trustee duty.
+        As to LDEQ’s first argument, Sierra Club is correct that Louisiana’s
+public trust doctrine has been incorporated into the SIP and is properly
+before the Court now. In approving Louisiana’s SIP, the EPA specifically
+incorporated LAC 33:III.101 and 111, which in turn authorize LDEQ to issue
+permits in accordance with La. R.S. § 30:2001 et seq. See LAC 33:III.101(A)–
+(B). Because of the explicit reference to the Louisiana statute that contains
+the codified public trust doctrine, the doctrine acts as part of Louisiana’s
+SIP. See LAC 33:III.501.A; LAC 33:III.537.A.II.
+        Further, Louisiana courts have held that “all issues arising in the
+context of LDEQ permit applications are public trustee issues; to find that
+LDEQ acts as a public trustee only with respect to certain portions of its
+determinations . . . would be absurd.” City of Baton Rouge v. La. Dep’t of Env’t
+        _____________________
+        8
+         LDEQ’s arguments concerning preemption seem to rely on a scenario where its
+permitting decision was consistent with the CAA and Louisiana’s SIP but inconsistent
+with the public trust doctrine. Because we ultimately find that LDEQ’s permitting
+decision was consistent with both, we do not address the alleged conflict between the two.
+Case: 23-60234      Document: 142-1       Page: 24     Date Filed: 04/29/2024
+
+
+
+
+Quality, 172 So.3d 13, 23 (La. App. 1 Cir. 4/28/15). In other words, LDEQ’s
+compliance with its public trustee duty is inextricably intertwined with its
+permitting analysis, and to separate the two would create confusion and
+possible conflicting conclusions between state and federal courts reviewing
+different aspects of the same permitting decisions. And, as a practical
+consideration, any argument by LDEQ that it was not required to abide by a
+public trustee duty is belied by LDEQ’s own permitting decision, which
+contains detailed analyses of its compliance with that duty. See AR71. For
+these reasons, Sierra Club’s arguments concerning the Louisiana public trust
+doctrine are properly before us on appeal.
+       As for the merits, LDEQ satisfied its public trustee duty here. In Save
+Ourselves, Inc. v. La. Env’t Control Comm’n, the Louisiana Supreme Court
+outlined the issues to be considered by the permit applicant and LDEQ
+under the public trust doctrine. 452 So.2d at 1157. These issues are now
+known as the “IT Questions,” and LDEQ analyzes them as three separate
+inquiries: (1) whether “the potential and real adverse environmental effects
+of the proposed facility [have] been avoided to the maximum extent
+possible”; (2) whether “a cost benefit analysis of the environmental impact
+costs balanced against the social and economic benefits of the proposed
+facility demonstrate that the latter outweighs the former”; and (3) whether
+“there [are] alternative projects which would offer more protection to the
+environment than the proposed facility without unduly curtailing non-
+environmental benefits.” Matter of Rubicon, Inc., 670 So.2d 475, 482 (La.
+App. 1 Cir. 2/14/96) (explaining the “IT Decision” from Save Ourselves); see
+also Blackett v. La. Dep’t of Env’t Quality, 506 So.2d 749, 753–54 (La. Ct. App.
+1987), holding modified by Matter of Rubicon, Inc., 95-0108 (La. App. 1 Cir.
+2/14/96), 670 So.2d 475 (listing the IT Questions as five separate questions);
+AR71:1. These IT Questions have since been incorporated into the Louisiana
+Revised Statutes. See La. R.S. § 30:2018(B).
+Case: 23-60234      Document: 142-1       Page: 25     Date Filed: 04/29/2024
+
+
+
+
+       LDEQ explicitly performed the IT Question analysis for the
+Commonwealth permits and set forth twenty-nine pages of reasoning in
+support. See, e.g., AR71:5-14 (analyzing the “concepts of alternative sites,
+alternative projects, and mitigation measures” in detail); AR71:15-20
+(analyzing “the potential and real adverse environmental impacts . . . to
+ensure they are minimized to the maximum extent possible”); and AR71:20-
+28 (performing a “cost/benefit analysis” that addresses the “social and
+economic benefits of the proposed facility”). Much like its response to Sierra
+Club’s original SIL and BACT arguments, LDEQ answered each concern
+Sierra Club has raised with detailed, technical reasoning that demonstrates
+exactly why LDEQ chose to issue the preconstruction permits to
+Commonwealth. This certainly abides by the “rule of reasonableness”
+inherent in the public trust doctrine. See Save Ourselves, 452 So.2d at 1157.
+       While Sierra Club seems to argue that LDEQ must have gone beyond
+satisfaction of the CAA’s requirements to also satisfy the public trust
+doctrine, no court has ever suggested as much. And even if Sierra Club were
+correct, LDEQ did go beyond the CAA’s requirements by carefully
+considering each of the IT Questions included in the Louisiana statutes. See
+AR71. Contrary to Sierra Club’s assertion, LDEQ did not rely solely on
+minimum permitting requirements, but instead conducted a thorough air
+emissions analysis and found that the benefits of the Commonwealth facility
+were “major, significant, and tangible” so as to outweigh the de minimis
+projected emissions. AR71:28. Unless “the actual balance of costs and
+benefits that was struck was arbitrary or clearly gave insufficient weight to
+environmental protection,” this Court should not substitute its own
+judgment for that of LDEQ. Save Ourselves, 452 So.2d at 1159. Sierra Club
+has not demonstrated that LDEQ’s balancing was unreasonable or arbitrary,
+and therefore, we hold that LDEQ satisfied its public trustee duty when
+issuing the Commonwealth permits.
+Case: 23-60234    Document: 142-1     Page: 26   Date Filed: 04/29/2024
+
+
+
+
+      IV.   Conclusion
+      For the foregoing reasons, we DENY Sierra Club’s petition for
+review and affirm LDEQ’s permitting decision.
+

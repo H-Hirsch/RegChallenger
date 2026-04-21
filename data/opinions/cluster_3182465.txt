@@ -1,0 +1,559 @@
+     Case: 14-60796   Document: 00513404668    Page: 1   Date Filed: 03/03/2016
+
+
+
+
+                      REVISED MARCH 3, 2016
+
+        IN THE UNITED STATES COURT OF APPEALS
+                 FOR THE FIFTH CIRCUIT
+                                                                 United States Court of Appeals
+
+                                No. 14-60796
+                                                                          Fifth Circuit
+
+                                                                        FILED
+                                                                December 7, 2015
+
+ENTERGY MISSISSIPPI, INCORPORATED,                                 Lyle W. Cayce
+                                                                        Clerk
+             Petitioner Cross-Respondent
+
+v.
+
+NATIONAL LABOR RELATIONS BOARD,
+
+             Respondent Cross-Petitioner
+
+
+
+
+           Petition for Review and Cross Petition for Enforcement
+             of an Order of the National Labor Relations Board
+
+
+Before BENAVIDES, CLEMENT, and HIGGINSON, Circuit Judges.
+EDITH BROWN CLEMENT, Circuit Judge:
+      Petitioner Entergy Mississippi, Incorporated (“Entergy”) is a power
+utility company. This case concerns the status of a certain group of Entergy’s
+employees—dispatchers—under the National Labor Relations Act (“NLRA” or
+“Act”), 29 U.S.C. §§ 151-169.
+      Dispatchers use various information systems to monitor the flow of
+electricity through Entergy’s grid. The Supervisory Control and Data
+Acquisition (“SCADA”) system “provides dispatchers with data concerning the
+load, voltage, and amps on breakers and circuits in the substations.” Entergy
+    Case: 14-60796    Document: 00513404668      Page: 2   Date Filed: 03/03/2016
+
+
+
+                                 No. 14-60796
+Miss., Inc., Case No. 15-UC-149, slip op. at 4 (N.L.R.B. Feb. 7, 2007),
+http://apps.nlrb.gov/link/document.aspx/09031d458001c0bf         (Entergy      I).
+SCADA alerts dispatchers when a circuit experiences a sudden change in
+voltage or when a breaker trips. Upon hearing an alarm, dispatchers turn to
+the Automated Mapping and Facilities Management (“AM/FM”), which
+provides a visual map of the transmission and distribution lines in the system.
+Id. AM/FM monitors customers’ calls regarding outages and predicts the device
+that has malfunctioned in the area of the outage. Id.
+      One of the dispatchers’ most important duties is “switching.” Id. at 5.
+“Switching is the sequential opening and closing of switches in the
+transmission and distribution system to isolate a section of power lines and to
+interrupt the flow of electricity so that field employees can perform routine
+maintenance or repair a section of line that has been damaged.” Id.
+Dispatchers “draft switching orders, which are step-by-step procedures to open
+and close switches.” Id. When an unexpected outage occurs, dispatchers
+contact field employees in the affected area and “dictate each step in the
+switching sequence.” Id. “[T]he field employees write down each step as
+dictated by the dispatcher. The field employees then read each step of the
+switching sequence to the dispatchers to ensure its accuracy.” Id. Dispatchers
+are also responsible for issuing clearance orders. Id. at 9. A clearance order
+signifies to field employees that electrical flow has been interrupted in a line
+or piece of equipment and it is safe to work on. Id.
+      Dispatchers also “call-out” field employees to work on trouble cases. Id.
+at 11. When SCADA alerts a dispatcher that an outage has occurred, the
+dispatcher can assign a field employee to go diagnose and correct the problem.
+During weather events or on weekends and holidays—when dispatchers often
+manage operations without much supervision—dispatchers can call field
+workers from the on-call list to dispatch to trouble areas. If multiple trouble
+                                       2
+    Case: 14-60796     Document: 00513404668       Page: 3   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+events occur at once, dispatchers have to identify the highest priority events,
+decide how many field workers to call-up from the on-call list, and allocate the
+available field workers to correct the problems.
+      In 2003, Entergy filed a petition with respondent National Labor
+Relations Board (the “Board”), arguing that dispatchers are supervisors under
+Section 2(11), 29 U.S.C. § 152(11). Id. at 2. The NLRA guarantees “employees”
+the right to unionize and appoint a bargaining representative. 29 U.S.C. § 157.
+It also requires employers to bargain with the workers’ representatives. Id.
+§ 158(a)(5). To ensure that unions stay loyal to workers’ interests, Section 2(3),
+§ 152(3), excludes “supervisors” from the class of “employees” guaranteed the
+right to unionize and bargain. In other words, by urging that dispatchers were
+“supervisors,” Entergy sought to remove dispatchers from the local union.
+      The Board held a hearing in 2003, and an ALJ issued an opinion in 2004
+denying Entergy’s petition. Entergy I, at 2. Entergy filed a request for review
+with the Board, which was granted. Id. In 2006, with Entergy still waiting for
+the Board to hear its appeal, the Board decided In re Oakwood Healthcare, Inc.,
+348 N.L.R.B. 686 (2006), in which it applied the supervisor definition to nurses
+based on their authority to assign employees using independent judgment. The
+Board remanded Entergy’s petition for the ALJ to reconsider the case in light
+of Oakwood. The ALJ published Entergy I in 2007, holding once again that
+dispatchers are not supervisors under Section 2(11). See id. at 34. Entergy
+again filed a petition for review. The Board affirmed the ALJ’s decision.
+Entergy Miss., Inc., 357 N.L.R.B. No. 178 (Dec. 30, 2011) (Entergy II).
+      About the same time that Entergy first filed its petition to reclassify
+dispatchers as supervisors, it demanded that intervenor International
+Brotherhood of Electrical Workers, AFL-CIO, Local Unions 605 and 985 (the
+“Unions”) remove all references to dispatchers from the collective-bargaining
+agreement. Entergy Miss., Inc., 361 N.L.R.B. No. 89, at *4 (Oct. 31, 2014)
+                                        3
+    Case: 14-60796     Document: 00513404668     Page: 4    Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+(Entergy III). In 2006, Entergy refused the Unions’ request to bargain over the
+dispatchers’ terms and conditions of employment. Id. at *5. Pursuant to the
+Unions’ complaints, the Board’s Acting General Counsel filed a charge against
+Entergy, contending that it had violated Section 8(a)(1) and (5) of the Act, 29
+U.S.C. § 158(a)(1) and (5). Entergy III, at *1. The Board’s General Counsel
+moved for summary judgment based on the Board’s decision in Entergy II. Id.
+In 2014, the Board granted summary judgment and held that Entergy had
+violated Section 8(a)(1) and (5). Id. at *2-3, 5. This appeal followed.
+                                        I.
+      We accord Chevron deference to the Board’s reasonable interpretations
+of ambiguous provisions in the NLRA. See NLRB v. Ky. River Cmty. Care, Inc.,
+532 U.S. 706, 713 (2001) (citing Chevron U.S.A., Inc. v. Natural Res. Def.
+Council, Inc., 467 U.S. 837, 842-44 (1984)). We will affirm the Board’s legal
+conclusions “if they have a reasonable basis in the law and are not inconsistent
+with the Act.” Valmont Indus. v. NLRB, 244 F.3d 454, 464 (5th Cir. 2001).
+      We will affirm the Board’s factual conclusions if they are “reasonable and
+supported by substantial evidence on the record considered as a whole.” J.
+Vallery Elec., Inc. v. NLRB, 337 F.3d 446, 450 (5th Cir. 2003) (quoting Valmont,
+244 F.3d at 463). “Substantial evidence is that which is relevant and sufficient
+for a reasonable mind to accept as adequate to support a conclusion. It is more
+than a mere scintilla, and less than a preponderance.” El Paso Elec. Co. v.
+NLRB, 681 F.3d 651, 656 (5th Cir. 2012) (emphasis omitted) (quoting Spellman
+v. Shalala, 1 F.3d 357, 360 (5th Cir. 1993)). “In determining whether the
+Board’s factual findings are supported by the record, we do not make credibility
+determinations or reweigh the evidence.” NLRB v. Allied Aviation Fueling of
+Dall. LP, 490 F.3d 374, 378 (5th Cir. 2007). And “[r]ecognizing the Board’s
+expertise in labor law, [we] will defer to plausible inferences it draws from the
+evidence, even if we might reach a contrary result were we deciding the case
+                                        4
+    Case: 14-60796      Document: 00513404668       Page: 5   Date Filed: 03/03/2016
+
+
+
+                                   No. 14-60796
+de novo.” Valmont, 244 F.3d at 463 (quoting NLRB v. Thermon Heat Tracing
+Servs., Inc., 143 F.3d 181, 185 (5th Cir. 1998)).
+        “Whether an employee is a supervisor is a question of fact.” Entergy Gulf
+States, Inc. v. NLRB, 253 F.3d 203, 208 (5th Cir. 2001). “Because of the ‘infinite
+and subtle gradations of authority’ within a company, courts normally extend
+particular deference to NLRB determinations that a position is supervisory.”
+Id. (quoting Monotech of Miss. v. NLRB, 876 F.2d 514, 516 (5th Cir. 1989)).
+                                         II.
+                                         A.
+        Entergy argues that the Board’s ruling lacks a reasonable basis in law
+because it is inconsistent with the Board’s earlier decisions and with opinions
+from other circuits. The Board contends that its decision is reasonable because
+it relies on Oakwood. We agree with the Board and hold that its decision has a
+reasonable legal basis.
+                                         1.
+        Section 2(11), 29 U.S.C. § 152(11), which governs this appeal, defines
+“supervisor” as:
+        any individual having authority, in the interest of the employer, to
+        hire, transfer, suspend, lay off, recall, promote, discharge, assign,
+        reward, or discipline other employees, or responsibly to direct
+        them, or to adjust their grievances, or effectively to recommend
+        such action, if in connection with the foregoing the exercise of such
+        authority is not of a merely routine or clerical nature, but requires
+        the use of independent judgment.
+The Supreme Court has interpreted Section 2(11) as setting forth a three-part
+test:
+        Employees are statutory supervisors if (1) they hold the authority
+        to engage in any 1 of the 12 listed supervisory functions, (2) their
+        “exercise of such authority is not of a merely routine or clerical
+        nature, but requires the use of independent judgment,” and (3)
+        their authority is held “in the interest of the employer.”
+
+                                         5
+    Case: 14-60796     Document: 00513404668       Page: 6   Date Filed: 03/03/2016
+
+
+
+                                   No. 14-60796
+Kentucky River, 532 U.S. at 713 (quoting NLRB v. Health Care & Ret. Corp. of
+Am., 511 U.S. 571, 573-74 (1994)). The party asserting supervisory status has
+the burden of proof. Id. at 711-12. This case turns on the meaning of “assign,”
+“responsibly to direct,” and “independent judgment” in Section 2(11).
+                                         2.
+      “Assign,” “responsibly to direct,” and “independent judgment” as used in
+Section 2(11) are all ambiguous. Mars Home for Youth v. NLRB, 666 F.3d 850,
+854 n.2, 855 n.3 (3d Cir. 2011) (holding that all three phrases are ambiguous);
+see Health Care, 511 U.S. at 579 (stating in dicta that the latter two phrases
+are ambiguous). Because Oakwood supplies reasonable interpretations of
+those terms, we owe deference to it.
+      Entergy contends that the Board has “waffled on the issue of whether
+utility-industry Dispatchers are supervisors,” and thus, that this court owes
+little deference to the Board’s recent interpretations of Section 2(11). But the
+Supreme Court recently clarified that federal courts must defer even to new,
+course-reversing agency positions when “the new policy is permissible under
+the statute, . . . there are good reasons for it, and . . . the agency believes it to
+be better, which the conscious change of course adequately indicates.” FCC v.
+Fox Television Stations, Inc., 556 U.S. 502, 515 (2009); accord Handley v.
+Chapman, 587 F.3d 273, 282 (5th Cir. 2009).
+      Considering whether Oakwood satisfies the Fox test, we note first that
+Entergy essentially concedes that Oakwood’s interpretation of Section 2(11) is
+permissible under the statute. One need look no further than the thorough and
+well-reasoned opinion itself to discern that the Board’s interpretation is
+reasonable. See Oakwood, 348 N.L.R.B. at 689-94. The Board explained that it
+adopted its new interpretations of Section 2(11) to further its mandate to
+protect workers, to faithfully follow the dictates of Congress and the courts,
+and to “provid[e] meaningful and predictable standards for the adjudication of
+                                         6
+    Case: 14-60796       Document: 00513404668    Page: 7   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+future cases and the benefit of the Board’s constituents.” Id. at 688. These are
+sufficient reasons to justify the Board’s new approach. And there is no doubt
+that the Board intended Oakwood to mark a change in its application of Section
+2(11). See id. (“[W]e herein adopt definitions for the terms ‘assign,’ ‘responsibly
+to direct,’ and ‘independent judgment’ as those terms are used in Section 2(11)
+of the Act.”).
+      Because Oakwood satisfies both the Chevron and Fox standards, we
+defer to it when considering the Board’s action.
+                                        3.
+      Entergy argues that the Board’s ruling lacks a reasonable basis in law
+because—though the facts and law are the same as in Gulf States—the Board
+reached a contrary conclusion in this case. The Board contends that Oakwood
+changed the law by adding an adverse consequence requirement, and that this
+development explains the different outcome. The Board has the better
+argument.
+      In Gulf States, we considered whether electrical utility operations
+coordinators “responsibly direct[ed] others with independent judgment” and
+thus qualified as statutory supervisors. 253 F.3d 203, 209 (5th Cir. 2001). In
+defining “responsibly direct,” we relied on NLRB v. KDFW-TV, Inc., a Div. of
+Times Mirror Corp., 790 F.2d 1273, 1278-79 (5th Cir. 1986) and found that “[t]o
+direct other workers responsibly, a supervisor must be answerable for the
+discharge of a duty or obligation or accountable for the work product of the
+employees he directs.” Gulf States, 253 F.3d at 209 (internal quotation marks
+and citation omitted).
+      This definition was later expanded by the Board in Oakwood, which held
+that to be “responsible” under Section 2(11), a putative supervisor “must be
+accountable for the performance of the task by the other, such that some
+adverse consequence may befall the one providing the oversight if the tasks
+                                        7
+      Case: 14-60796   Document: 00513404668      Page: 8   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+performed by the employee are not performed properly.” 348 N.L.R.B. at 692.
+Under this rule, the Board crafted a three-part test for determining whether a
+putative supervisor “responsibly directs” an employee:
+       [T]o establish accountability for purposes of responsible direction,
+       it must be shown that the employer delegated to the putative
+       supervisor the authority to direct the work and the authority to
+       take corrective action, if necessary. It also must be shown that
+       there is a prospect of adverse consequences for the putative
+       supervisor if he/she does not take these steps.
+Id.
+       Entergy argues that Oakwood simply adopted the Gulf States rule.
+Although Oakwood adopted the general “accountability” standard set out in
+KDFW-TV, it did not simply co-opt this court’s existing law. See Oakwood, 348
+N.L.R.B. at 691-92. Rather, it added to the “accountability” standard in at least
+two ways. See 348 N.L.R.B. at 691-92. First, Oakwood made clear that the
+putative supervisor must be potentially liable not only for his own failures, but
+also for the failures of his subordinates. See 348 N.L.R.B. at 692; see also, e.g.,
+In re Croft Metals, Inc., 348 N.L.R.B. 717, 722 (2006) (interpreting Oakwood
+and holding that movant showed accountability where the “record reveals that
+the Employer has disciplined lead persons by issuing written warnings to them
+because of the failure of their crews to meet production goals or because of
+other shortcomings of their crews”). By adopting this requirement, the Board
+hewed to the First Circuit’s position in Northeast Utilities Service Corp. v.
+NLRB, 35 F.3d 621, 625 (1st Cir. 1994), an opinion that Gulf States called into
+doubt, see 253 F.3d at 210.
+       Second, Oakwood required those attempting to prove supervisor status
+to “show[] that there is a prospect of adverse consequences for the putative
+supervisor” because of the actions of subordinates. 348 N.L.R.B. at 692; see
+also, e.g., In re I.H.S. Acquisitions No. 114, Inc. d/b/a Lynwood Manor, 350
+
+
+                                        8
+     Case: 14-60796       Document: 00513404668          Page: 9     Date Filed: 03/03/2016
+
+
+
+                                       No. 14-60796
+N.L.R.B. 489, 490-91 (2007) (interpreting Oakwood to require specific evidence
+of actual or possible adverse consequences).
+       This change in controlling law explains the different outcomes in the two
+cases. In Gulf States, this court did not require the movant to prove that the
+putative supervisors were potentially liable for the subordinates’ mistakes. But
+following Oakwood, the Board required Entergy to prove that dispatchers
+could be liable for the actions of field employees. 1 And there is substantial
+evidence to support the Board’s decision. See Entergy II, at *7. Because the
+Board’s ruling has a reasonable legal basis, we affirm.
+                                              B.
+       The party alleging supervisory status bears the burden of proving that
+it exists by a preponderance of the evidence. Oakwood, 348 N.L.R.B. at 694.
+Entergy argues that there is not substantial evidence to support the Board’s
+ruling that dispatchers are not supervisors. Specifically, Entergy contends that
+it proved that dispatchers “responsibly direct” field employees, “assign” them,
+and use “independent judgment” in performing both functions. There is
+substantial evidence to support the Board’s determination that dispatchers do
+not “responsibly direct” field employees or “assign” them to a “time” or
+“significant overall duty.” But the Board ignored evidence that arguably shows
+that dispatchers “assign” field employees to “locations” using “independent
+judgment.” We affirm in part and vacate in part the Board’s decision that
+dispatchers are not supervisors.
+
+
+
+
+       1 Every circuit court that has interpreted Oakwood has read it to require responsibility
+for others’ actions. See NLRB v. NSTAR Elec. Co., 798 F.3d 1, 10 (1st Cir. 2015); Avista Corp.
+v. NLRB, 496 F. App’x 92, 93 (D.C. Cir. 2013) (per curiam); Lakeland Health Care Assoc’s,
+LLC v. NLRB, 696 F.3d 1332, 1353 (11th Cir. 2012); Rochelle Waste Disposal, LLC v. NLRB,
+673 F.3d 587, 596 (7th Cir. 2012); Mars Home for Youth, 666 F.3d at 854.
+                                              9
+   Case: 14-60796     Document: 00513404668      Page: 10   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+                                        1.
+      We first address the Board’s holding that dispatchers do not “responsibly
+direct” field employees. See Entergy II, at *7-9. Again, Oakwood provides that
+a putative supervisor does not “responsibly direct” a subordinate unless the
+supervisor has the authority to direct the subordinate’s work and take
+corrective action when necessary, and the supervisor could be held liable for
+the subordinate’s performance of his job. 348 N.L.R.B. at 692.
+      Applying Oakwood, the Board held that Entergy failed to show that
+dispatchers “responsibly direct” field employees because the evidence showed
+“that the dispatchers are accountable for their own work, i.e., their own failures
+and errors, and not those of the field employees.” Entergy II, at *8. Entergy
+asserts that “the record contains numerous situations in which Dispatchers
+were disciplined solely because of errors made by field employees under their
+supervision.” But the two examples it offers provide no support for the claim.
+Entergy points to testimony about a dispatcher named White. White correctly
+instructed a field employee to flip a specified switch, but the employee flipped
+the wrong one. White’s supervisor testified that he did not plan to discipline
+White until he admitted that “[w]hen [he] was talking to [the field employee],
+[he] could feel that [the employee] was uncomfortable.” The supervisor testified
+that he “coached and counseled” White—a form of discipline—because he knew
+the field employee was unprepared but proceeded anyway. The supervisor
+stated that “even though the switchman was the one who admitted that he
+made the error, [he] nonetheless held the dispatcher accountable.”
+      The Board’s acting regional director, who sat as the ALJ, refused to
+credit this testimony. As the ALJ noted, the manager “claims that he gave
+[White] a coaching and counseling session, but he acknowledges that he did
+not place a memo in the dispatcher’s personnel file concerning the dispatcher
+being counseled for the performance of the field employee.” Noting that
+                                       10
+   Case: 14-60796       Document: 00513404668    Page: 11   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+Entergy’s disciplinary policy requires managers to document coaching and
+counseling sessions, the ALJ stated that he was “not convinced that the
+evidence establishes that the dispatcher actually received any degree of
+discipline.” The ALJ’s determination is entitled to deference. See Carey Salt
+Co. v. NLRB, 736 F.3d 405, 410 (5th Cir. 2013) (explaining that an ALJ’s
+credibility determination, “adopted by the Board, merits special deference”
+(internal quotation mark and citation omitted)).
+      Entergy also points to testimony about an incident where a dispatcher’s
+and field employee’s joint error caused a major outage. But the testimony
+makes clear that the dispatcher was punished because he had a document
+containing necessary information, yet he failed to consult it. The testimony
+does not show that dispatchers are held liable for field employees’ mistakes.
+      In sum, substantial evidence supports the Board’s determination that
+dispatchers are accountable only for their own mistakes. And under Oakwood,
+this is sufficient to show that dispatchers do not “responsibly direct” field
+employees.
+                                        2.
+      We next address the Board’s holding that dispatchers do not “assign”
+field employees, or do not exercise “independent judgment” when doing so. See
+Entergy II, at *9-12.
+      In Oakwood, the Board “construe[d] the term ‘assign’ to refer to the act
+of designating an employee to a place (such as a location, department, or wing),
+appointing an employee to a time (such as a shift or overtime period), or giving
+significant overall duties, i.e., tasks, to an employee.” 348 N.L.R.B. at 689. The
+Board interpreted “independent judgment” to refer to an individual “act[ing],
+or effectively recommend[ing] action, free of the control of others and form[ing]
+an opinion or evaluation by discerning and comparing data.” Id. at 692-93. The
+Board further explained that “a judgment is not independent if it is dictated or
+                                       11
+    Case: 14-60796     Document: 00513404668      Page: 12   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+controlled by detailed instructions, whether set forth in company policies or
+rules, the verbal instructions of a higher authority, or in the provisions of a
+collective bargaining agreement.” Id. at 693. “On the other hand, the mere
+existence of company policies does not eliminate independent judgment from
+decision-making if the policies allow for discretionary choices.” Id. The Board
+also reasoned that “[t]he authority to effect an assignment, for example, must
+be independent, it must involve a judgment, and the judgment must involve a
+degree of discretion that rises above the ‘routine or clerical.’” Id.
+      The Board applied Oakwood when deciding Entergy II. See id. at *7. The
+Board assumed that dispatchers “assign” field employees to a place. Id. at *9-
+10. But it held that dispatchers do not exercise “independent judgment”
+because they “utilize a computer program that notifies them of trouble spot
+locations, and usually assign to trouble spots employees already assigned to
+that specific area.” Id. at *10. In other words, the Board found that the
+dispatchers’ job requires nothing more than reading a trouble report on a
+computer screen, looking at a list to determine the on-call worker for the
+relevant area, and telling the responsible worker to head to the location.
+      Although we give significant deference to the Board’s factfindings, “[o]ur
+deference . . . has limits.” Carey Salt, 736 F.3d at 410. “[A] decision by the
+Board that ‘ignores a portion of the record’ cannot survive review under the
+‘substantial evidence’ standard.” Id. (quoting Lord & Taylor v. NLRB, 703 F.2d
+163, 169 (5th Cir. 1983)); see Amoco Prod. Co. v. NLRB, 613 F.2d 107, 111-12
+(5th Cir. 1980) (holding that remand is appropriate when the Board fails to
+adequately explain the factual basis for its opinion).
+      The Board ignored significant portions of the record that show how
+dispatchers arguably exercise independent judgment when deciding how to
+allocate Entergy’s field workers. Albert May, a union manager, testified that
+when there are simultaneous outages, dispatchers “decide which trouble to
+                                        12
+    Case: 14-60796    Document: 00513404668      Page: 13    Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+handle first.” After a dispatcher has sent a field employee to one location, he
+“ha[s] authority to redirect that person to another case of trouble.” And “if there
+is more trouble than that one [field employee] can handle,” the dispatcher
+“would decide to call out additional [field employees].” These decisions, in part,
+are guided by “standard operating procedure” and “if conflicts arise, then the
+dispatchers would consult an [operations coordinator] or a network manager
+to determine if [certain responses are] possible to do or not.” Although the
+operating guidelines and union-generated on-call lists dictate which field
+employees will be on-call at any given time, those agreements “don’t tell the
+dispatcher when or how many people to dispatch or when to hold [field
+employees] over [their regular shift].” The dispatcher seems to “decide how
+many troublemen or servicemen [are] necessary to handle . . . multiple cases
+of trouble.”
+      Evidence in the record shows that dispatchers’ judgment about how to
+allocate Entergy’s field workers is guided by a range of discretionary factors.
+Dispatchers appear to prioritize outages affecting industrial customers that
+have special contracts with Entergy. Yet if an outage occurred at night or on a
+holiday when an industrial customer’s factory was not operating, dispatchers
+might be expected to prioritize another customer instead. Dispatchers also
+apparently prioritize outages affecting customers with “special medical needs,”
+along with prioritizing outages that affect large numbers of residential
+customers. If simultaneous outages of each type occur, there is no simple rule
+to guide the dispatcher’s decision in who to help first. In sum, at times, a
+dispatcher may have to decide whether to send “[his] one crew” to a trouble
+location “with the most customers on it,” to “the one that’s got the hospital out,”
+or to “the plastics plant that needs to be picked up.”
+      Dispatchers apparently weigh other factors as well. There is evidence
+that they juggle logistical considerations, such as deciding whether a field
+                                        13
+   Case: 14-60796     Document: 00513404668     Page: 14   Date Filed: 03/03/2016
+
+
+
+                                 No. 14-60796
+employee can complete a quick repair at a trouble spot that is along the way to
+an outage affecting a high-priority client. Dispatchers arguably must also
+consider whether a particular outage is likely to cause property damage to
+Entergy’s facilities. And where, for example, an unrepaired outage from the
+previous day elevates the risk posed by a new outage, the dispatcher likely re-
+prioritizes given the facts on the ground.
+      Despite this complexity, “there are no standard operating procedures
+within Entergy for what is to be turned on — which kind of account’s [sic] to
+be turned on first.” “There is no handbook, guidelines or documents.” Id.
+Dispatchers apparently learn how to prioritize clients “through the mentoring
+process.”
+      Considering the interpretations announced in Oakwood, the evidence
+discussed above arguably shows that dispatchers “assign” field employees to
+places by exercising “independent judgment.” Yet the Board ignored this
+evidence when explaining its reasoning. Decisions by the Board that ignore a
+relevant portion of the record cannot survive substantial evidence review. See
+NSTAR Elec. Co., 798 F.3d at 13 n.10. Accordingly, we vacate the Board’s
+decision that dispatchers do not exercise “independent judgment” when
+assigning employees to locations and remand for further proceedings on this
+narrow question.
+                                       3.
+      The Board held that dispatchers do not “assign” field workers to a time,
+that is, “to remain on the job at the end of their 8-hour shift to perform an
+overtime assignment.” Entergy II, at *12.
+      The Board reasonably discredited the testimony of three Entergy
+employees, who haltingly testified that dispatchers have the authority to
+require field workers to stay on-duty. See Entergy II, at *10-11. The Board
+focused instead on the testimony of a dispatcher who stated that he “[did]n’t
+                                       14
+    Case: 14-60796    Document: 00513404668      Page: 15   Date Filed: 03/03/2016
+
+
+
+                                  No. 14-60796
+have the authority to force [a field employee] to stay.” Id. at *11. Inferring from
+this statement that managers never told dispatchers that they had the power
+to order field workers to work overtime, the Board held that no such power was
+likely ever delegated. Id. at *11-12. The Board’s legal reasoning is permissible
+and its factual determinations are supported by substantial evidence.
+      The Board held that dispatchers do not “assign” field workers to
+“significant overall duties.” Id. at *12. In Oakwood, the Board held that
+assigning an employee “to certain significant overall tasks (e.g., restocking
+shelves) would generally qualify as ‘assign’ within [its] construction.” 348
+N.L.R.B. at 689. On the other hand, “choosing the order in which the employee
+will perform discrete tasks within those assignments (e.g., restocking toasters
+before coffeemakers) would not be indicative of exercising the authority to
+‘assign.’” Id. Citing Oakwood, the Board reasoned that dispatchers do not
+assign field employees to a new, overall duty, but merely direct them to
+perform an ad hoc task before returning to their normal duties. Entergy II, at
+*12. Here too, the Board’s legal reasoning is permissible and its factual
+determinations are supported by substantial evidence. We affirm.
+                                       ***
+      The Board’s legal reasoning is permissible and its rulings, in large part,
+are supported by substantial evidence. But the Board ignored significant
+evidence suggesting that dispatchers “assign” field employees to “places” using
+“independent judgment.” Accordingly, we affirm in part, vacate in part, and
+remand for further proceedings on the narrow question of whether the
+dispatchers exercise independent judgment in assigning field employees to
+places.
+                                        C.
+      Entergy argues that the doctrine of laches bars the Board from recouping
+money damages in this action. We disagree.
+                                        15
+   Case: 14-60796    Document: 00513404668      Page: 16   Date Filed: 03/03/2016
+
+
+
+                                 No. 14-60796
+      In Nabors v. NLRB, 323 F.2d 686 (5th Cir. 1963), this court held that the
+United States and its agencies are not subject to the defense of laches when
+enforcing a public right. Id. at 688. The court further held that when the Board
+brings an enforcement action under the Act, it acts in the public interest, even
+when it obtains money damages on behalf of private persons. Id. at 688-89.
+Nabors remains good law. See, e.g., Matter of Fein, 22 F.3d 631, 634 (5th Cir.
+1994) (holding that laches may not be asserted against the government when
+it acts in its sovereign capacity); United States v. Arrow Transp. Co., 658 F.2d
+392, 395 (5th Cir. 1981) (“The law remains unchanged: laches is unavailable
+as a defense against the United States in enforcing a public right.”). We deny
+Entergy’s laches defense.
+                                      III.
+      For the reasons explained, we AFFIRM the Board’s decision in all but
+one respect. We VACATE the Board’s determination that dispatchers do not
+“assign” field employees to “places” through the exercise of “independent
+judgment” and we REMAND for further proceedings. The Board cross-appeals,
+asking this court to enforce its order. Because we hold the Board erred, we
+DENY the Board’s request for enforcement.
+
+
+
+
+                                      16
+

@@ -1,0 +1,1837 @@
+                              RECOMMENDED FOR PUBLICATION
+                              Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                     File Name: 25a0224p.06
+
+                  UNITED STATES COURT OF APPEALS
+                                FOR THE SIXTH CIRCUIT
+
+
+
+                                                           ┐
+ OHIO TELECOM ASSOCIATION (24-3133); TEXAS
+                                                           │
+ ASSOCIATION OF BUSINESS (24-3206); CTIA–THE
+                                                           │
+ WIRELESS ASSOCIATION, NCTA–THE INTERNET &
+                                                           │
+ TELEVISION ASSOCIATION, and USTELECOM–THE
+                                                           │         Nos. 24-3133/3206/3252
+ BROADBAND ASSOCIATION (24-3252),                           >
+                                    Petitioners,           │
+                                                           │
+                                                           │
+ HAMILTON RELAY, INC.,                                     │
+                                           Intervenor,     │
+                                                           │
+       v.                                                  │
+                                                           │
+                                                           │
+ FEDERAL COMMUNICATIONS COMMISSION; UNITED                 │
+ STATES OF AMERICA,                                        │
+                                Respondents.               │
+                                                           ┘
+
+            On Petition for Review from the Federal Communications Commission.
+                                         No. 23-111.
+
+                                Argued: December 12, 2024
+
+                            Decided and Filed: August 13, 2025
+
+                Before: GRIFFIN, STRANCH, and MATHIS, Circuit Judges.
+
+                                    _________________
+
+                                          COUNSEL
+
+ARGUED: Roman Martinez, LATHAM & WATKINS, LLP, Washington, D.C., for
+Petitioners. Adam Sorensen, FEDERAL COMMUNICATIONS COMMISSION, Washington,
+D.C., for Respondents. ON BRIEF: Roman Martinez, Matthew A. Brill, Matthew T.
+Murchison, Charles S. Dameron, Christina R. Gay, LATHAM & WATKINS, LLP, Washington,
+D.C., for Petitioners. Adam Sorensen, Sarah E. Citrin, Jacob M. Lewis, FEDERAL
+COMMUNICATIONS COMMISSION, Washington, D.C., for Respondents. Jennifer Tatel,
+WILKINSON BARKER KNAUER, LLP, Washington, D.C., for Intervenor. John Anderson
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 2
+
+
+Jung, TECHFREEDOM, Washington, D.C., Trent McCotter, GEORGE MASON
+UNIVERSITY, Arlington, Virginia, Craig E. Gilmore, WILKINSON BARKER KNAUER,
+LLP, Washington, D.C., Alan Butler, ELECTRONIC PRIVACY INFORMATION CENTER,
+Washington, D.C., for Amici Curiae.
+
+       STRANCH, J., delivered the opinion of the court in which MATHIS, J., concurred, and
+GRIFFIN, J., concurred in part. GRIFFIN, J. (pp. 36–51), delivered a separate dissenting
+opinion.
+
+                                      _________________
+
+                                           OPINION
+                                      _________________
+
+       JANE B. STRANCH, Circuit Judge. These consolidated petitions for review challenge a
+rule of the Federal Communications Commission imposing reporting requirements on
+telecommunications carriers in the event of data breaches involving customers’ personally
+identifiable information.    Petitioners contend that the reporting requirements exceed the
+Commission’s statutory authority and violate the Congressional Review Act. For the reasons set
+forth below, we DENY the petitions for review.
+
+                                      I. BACKGROUND
+
+       A. Statutory Background
+
+       In 1934, Congress passed the Communications Act, which granted the Federal
+Communications Commission (FCC or the Commission) “broad authority to regulate interstate
+telephone communications.” Glob. Crossing Telecomms., Inc. v. Metrophones Telecomms., Inc.,
+550 U.S. 45, 48 (2007). “The Commission, during the first several decades of its history, used
+this authority to develop a traditional regulatory system much like the systems other
+commissions had applied when regulating railroads, public utilities, and other common carriers.”
+Id.
+
+       Among the provisions of the 1934 Act was 47 U.S.C. § 201(b), which provides that “[a]ll
+charges, practices, classifications, and regulations for and in connection with [a carrier’s]
+communication service, shall be just and reasonable, and any such charge, practice,
+classification, or regulation that is unjust or unreasonable is declared to be unlawful.” 47 U.S.C.
+ Nos. 24-3133/3206/3252             Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 3
+
+
+§ 201(b).    Section 201(b) also authorizes the Commission to “prescribe such rules and
+regulations as may be necessary” to carry out that prohibition. Id.; see Glob. Crossing, 550 U.S.
+at 53.
+
+         Decades later, the Americans with Disabilities Act of 1990 added a new provision to the
+Communications Act—Section 225—which charged the FCC with ensuring the availability of
+“telecommunications relay services” (TRS) for hearing-impaired and speech-impaired
+individuals. Pub. L. No. 101-336, 104 Stat. 327, 366 (codified at 47 U.S.C. § 225). Section 225
+defines TRS as:
+
+         telephone transmission services that provide the ability for an individual who is
+         deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in
+         communication by wire or radio with one or more individuals, in a manner that is
+         functionally equivalent to the ability of a hearing individual who does not have a
+         speech disability to communicate using voice communication services by wire or
+         radio.
+
+47 U.S.C. § 225(a)(3).
+
+         In 1996, Congress enacted extensive updates to the 1934 Act with the
+Telecommunications Act, Pub. L. No. 104-104, 110 Stat. 56, which sought to “foster industry
+competition in local markets, encourage the development of telecommunications technology, and
+provide consumers with affordable access to telecommunications services.” Robbins v. New
+Cingular Wireless PCS, LLC, 854 F.3d 315, 319 (6th Cir. 2017). The Telecommunications Act
+created a new statutory provision, 47 U.S.C. § 222, titled “Privacy of customer information.”
+110 Stat. at 148-49.
+
+         Section 222(a) sets forth a general duty requiring all telecommunications carriers to
+“protect    the   confidentiality     of   proprietary   information   of,   and   relating   to,   other
+telecommunication carriers, equipment manufacturers, and customers.” 47 U.S.C. § 222(a). The
+statute goes on to enumerate various requirements (and exceptions to those requirements)
+regarding specific categories of information. Among these categories of protected information is
+“customer proprietary network information” (CPNI), defined as:
+
+         (A) information that relates to the quantity, technical configuration, type,
+         destination, location, and amount of use of a telecommunications service
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 4
+
+
+       subscribed to by any customer of a telecommunications carrier, and that is made
+       available to the carrier by the customer solely by virtue of the carrier-customer
+       relationship; and
+       (B) information contained in the bills pertaining to telephone exchange service or
+       telephone toll service received by a customer of a carrier.
+
+47 U.S.C. § 222(h)(1). Section 222(c) imposes specific privacy and disclosure requirements on
+carriers regarding CPNI and aggregate customer information (defined as “collective data that
+relates to a group or category of services or customers”), id. § 222(c), (h)(2), while Section
+222(d) delineates various exceptions to these restrictions—permitting carriers to disclose CPNI,
+for example, when billing for services and in emergency situations, id. § 222(d). Section 222(e)
+requires carriers to disclose “subscriber list information”—defined as “listed names of
+subscribers of a carrier and such subscribers’ telephone numbers, addresses, or primary
+advertising classifications,” id. § 222(h)(3)—“upon request for the purpose of publishing
+directories in any format.”    Id. § 222(e).   And Section 222(g) requires carriers to provide
+subscriber list information to first responders in emergency situations. Id. § 222(g).
+
+       B. Regulatory Background
+
+       In 1998, the FCC issued its first rules implementing § 222 of the Telecommunications
+Act. Implementation of the Telecomms. Act of 1996: Telecomms. Carriers’ Use of Customer
+Proprietary Network Info. & Other Customer Info., 13 FCC Rcd. 8061 (1998) (1998 Order).
+These rules extensively regulated carrier use and disclosure of CPNI, imposing, among other
+things, recordkeeping obligations regarding CPNI and supervisory review processes to monitor
+compliance with CPNI restrictions. Id. at 8198-99. The 1998 Order explained that “Section 222
+establishes a new statutory framework governing carrier use and disclosure of customer
+proprietary network information (CPNI) and other customer information obtained by carriers in
+their provision of telecommunications services.” Id. at 8064. And it further noted that “Section
+222 sets forth three categories of customer information to which different privacy protections
+and carrier obligations apply -- individually identifiable CPNI, aggregate customer information,
+and subscriber list information.” Id.
+ Nos. 24-3133/3206/3252          Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 5
+
+
+          In 2007, in response to the rising incidents of data brokers obtaining unauthorized access
+to CPNI, the FCC promulgated a new rule “adopting additional safeguards to protect customers’
+CPNI against unauthorized access and disclosure.” Implementation of the Telecomms. Act of
+1996: Telecomms. Carriers’ Use of Customer Proprietary Network Info. & Other Customer
+Info., 22 FCC Rcd. 6927, 6928 (2007) (2007 Order). Among other things, the 2007 Order
+required carriers to notify law enforcement and customers in the event of a CPNI breach and
+established specific protocols governing the notification process. Id. at 6929-30, 6943-45. The
+FCC explained that its “general rulemaking authority under the [Communications] Act”
+conferred by § 201(b), in conjunction with § 222(a)’s requirement that all telecommunications
+carriers “protect the confidentiality of proprietary information,” gave it “ample authority . . . to
+require carriers to report CPNI breaches.” Id. at 6943. And, in another portion of the Order, the
+Commission explained that “[e]very telecommunications carrier has a general duty pursuant to
+section 222(a) to protect the confidentiality of CPNI.” Id. at 6931.
+
+          The FCC built on its preexisting CPNI regulations in 2013. In response to rampant
+“waste, fraud, and abuse” in the provision of video relay services, the Commission applied CPNI
+protections—which mostly mirrored its CPNI protections in the carrier context—to relay service
+providers. Structure & Pracs. of Video Relay Serv. Program, 28 FCC Rcd. 8618, 8620, 8684-85
+(2013).
+
+          In 2014, the FCC made clear its view that it has the statutory authority to regulate a
+carrier’s handling of personally identifiable information (“PII”). In an order penalizing two
+companies for impermissibly disclosing individuals’ “names, addresses, Social Security
+numbers, driver’s licenses, and other proprietary information,” the Commission opined that “the
+term ‘proprietary information’ in Section 222(a) broadly encompasses such confidential
+information as privileged information, trade secrets, and personally identifiable information
+(PII).” Terracom, Inc. & YourTel Am., Inc., 29 FCC Rcd. 13325, 13325, 13331 (2014). The
+Commission also charged the companies with violating § 201(b) for “failing to employ
+reasonable data security practices” and “failing to notify all customers whose personal
+information could have been breached by the Companies’ inadequate data security policies.” Id.
+at 13329.
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                    Page 6
+
+
+         The following year, the FCC reclassified broadband Internet access services as
+“telecommunications service[s].” Protecting & Promoting the Open Internet, 30 FCC Rcd.
+5601, 5734 (2015).      In 2016, in the wake of that reclassification and in response to an
+“increasingly Internet-based economy” creating new and evolving data privacy concerns, the
+FCC issued an omnibus Broadband Privacy Order seeking to “apply the privacy requirements of
+the Communications Act of 1934” to “broadband Internet access service[s].” Protecting Priv. of
+Customers of Broadband & Other Telecomms. Servs., 31 FCC Rcd. 13911, 13911-13 (2016)
+(2016 Order). As part of this regulatory overhaul, the Commission substantially revised its 2007
+data breach reporting requirements, applying the requirements not only to breaches of CPNI, but
+also to breaches of customers’ PII. Id. at 14080-81, 14085-86. The 2016 Order defined PII as
+“any information that is linked or reasonably linkable to an individual or device,” such as an
+individual’s name, email address, date of birth, or Social Security number. Id. at 13944-46,
+14081.
+
+         The 2016 Order extensively addressed the FCC’s statutory authority to impose
+requirements on carriers regarding PII. The FCC primarily relied on § 222(a)’s general duty to
+protect customers’ information, finding that the plain meaning of the term “proprietary
+information of, and relating to . . . customers” is broader than the term “CPNI” and is best read to
+encompass PII.       Id. at 14055-62 (quoting 47 U.S.C. § 222(a)).              The Commission
+“acknowledge[d] that prior Commission orders implementing Section 222 ha[d] focused largely
+on CPNI rather than customer[s’] [personal information] more broadly,” but asserted that such
+prior orders should not “constrain [its] efforts . . . to develop robust privacy protections for
+consumers under Section 222(a).” Id. at 14062. The FCC also asserted that § 201(b)’s grant of
+authority to regulate “unjust or unreasonable” practices lent independent support to its data
+breach rules. Id. at 14067-68. Two Commissioners dissented from the 2016 Order. Id. at
+14119, 14122. One of these dissenters, Commissioner O’Reilly, argued that the FCC lacked the
+statutory authority to impose data breach reporting requirements pertaining to PII. Id. at 14122-
+24 (O’Reilly, Comm’r, dissenting).
+
+         Pursuant to the Congressional Review Act (CRA), the FCC submitted the 2016 Order to
+Congress for its review. The CRA, described in more detail below, prescribes an expedited
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 7
+
+
+procedure for Congress to strike down federal regulations of which it disapproves. It also
+prohibits agencies from reissuing a new rule that is “substantially the same” as the rule that
+Congress rejected. 5 U.S.C. §§ 801, 802. Shortly after receiving the Order, Congress passed a
+joint disapproval resolution stating:
+
+         Congress disapproves the rule submitted by the Federal Communications
+         Commission relating to ‘Protecting the Privacy of Customers of Broadband and
+         Other Telecommunications Services’ (81 Fed. Reg. 87274 (December 2, 2016)),
+         and such rule shall have no force or effect.
+
+Pub. L. No. 115-22, 131 Stat. 88, 88 (2017). The President signed the disapproval resolution on
+April 3, 2017. Id. The FCC accordingly rescinded the 2016 Order, including the amended data
+breach reporting rules, and reinstated the 2007 version of the rules. Protecting the Priv. of
+Customers of Broadband & Other Telecomms. Servs., 82 Fed. Reg. 44118, 44118-23 (Sept. 21,
+2017).
+
+         C. 2024 Data Breach Reporting Rule and Procedural History
+
+         In January 2023, the FCC issued a Notice of Proposed Rulemaking seeking public
+comment on new amendments to the 2007 data breach rules.                  Data Breach Reporting
+Requirements, 38 FCC Rcd. 566 (2023). Concerned with the “increasing number of security
+breaches of customer information in recent years,” the Notice proposed a new rule “expand[ing]
+the Commission’s definition of ‘breach’ to include inadvertent disclosures of customer
+information.”    Id. at 566-67, 572.      To that end, the Notice sought comment on “the
+Commission’s authority to establish breach-reporting obligations” for “proprietary information
+other than CPNI that customers have an interest in protecting from public exposure, such as
+Social Security Numbers and financial records.” Id. at 577. The Commission also requested
+comment on “the impact of the Congressional disapproval of the 2016 Privacy Order on the
+Commission’s legal authority to issue” its proposed rules. Id. at 573 (italics omitted).
+
+         On December 21, 2023, after the requisite notice-and-comment period, the FCC issued a
+new rule revising its data breach requirements, which was then published in the Federal Register
+as a final rule on February 12, 2024. Data Breach Reporting Requirements, 89 Fed. Reg. 9968
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 8
+
+
+(Feb. 12, 2024) (2024 Order). The 2024 Order provided that the FCC’s breach notification rules
+cover both CPNI and PII, id. at 9969, defining the latter category as:
+
+       (i) An individual’s first name or first initial, and last name, in combination with
+       any government-issued identification numbers or information issued on a
+       government document used to verify the identity of a specific individual, or other
+       unique identification number used for authentication purposes;
+       (ii) An individual’s username or email address, in combination with a password or
+       security question and answer, or any other authentication method or information
+       necessary to permit access to an account; or
+       (iii) Unique biometric, genetic, or medical data.
+
+Id. at 10003. Other changes contained within the new Order included adding a good faith
+exception to the definition of the term “breach,” id. at 9981; adding the stipulation that carriers
+need not notify customers of a breach if the carriers can reasonably determine that no harm is
+likely to occur, id. at 9977; and eliminating mandatory waiting periods for carriers to notify
+customers of data breaches, id. at 9979. In addition, the Commission adopted equivalent changes
+to the data breach obligations of TRS providers. Id. at 9981-89.
+
+       The 2024 Order extensively discussed, and responded to comments on, the FCC’s
+statutory authority to promulgate the revised data breach reporting rules. The FCC pointed to the
+“breadth” of § 222(a), which, it asserted, “provides the additional clarity that the Commission’s
+breach reporting rules can and must apply to all PII rather than just to CPNI.” Id. at 9989. The
+Commission also cited § 201(b)’s prohibition of “unjust and unreasonable practices” as
+“independent authority” allowing the Commission to apply data breach reporting requirements to
+PII. Id. at 9991. And it explained that § 225 allowed it to extend these reporting requirements to
+TRS providers. Id. at 9993. In addition, the Commission responded to comments regarding the
+CRA, concluding that the 2024 Order was not “substantially the same” as the 2016 Order. Id. at
+9993-96. Two Commissioners dissented, asserting, among other things, that the 2024 Order
+exceeded the FCC’s statutory authority and contravened the CRA because it was “substantially
+the same” as the congressionally disapproved 2016 Order.                 Data Breach Reporting
+Requirements, 38 FCC Rcd. 12523, 12620 (2023) (Carr, Comm’r, dissenting); id. at 12624
+(Simington, Comm’r, dissenting).
+ Nos. 24-3133/3206/3252          Ohio Telecom Ass’n, et al. v. FCC, et al.                       Page 9
+
+
+        Petitioners then sought judicial review of the 2024 Order under 28 U.S.C. § 2344 in
+various circuit courts of appeals. On February 20, 2024, Ohio Telecom petitioned for review in
+the Sixth Circuit, and the Texas Association of Business petitioned for review in the Fifth
+Circuit. And on March 15, 2024, CTIA – The Wireless Association (CTIA), NCTA – The
+Internet & Television Association (NCTA), and USTelecom – The Broadband Association
+(USTelecom) petitioned for review in the D.C. Circuit.
+
+        On March 4, 2024, the United States Judicial Panel on Multidistrict Litigation issued a
+consolidation order for the then-pending petitions for review in the Fifth and Sixth Circuits. The
+panel randomly selected the Sixth Circuit in which to consolidate the petitions for review. The
+D.C. Circuit later transferred CTIA’s petition for review to this circuit, and this court
+consolidated the three cases for submission. On March 20, 2024, Hamilton Relay, Inc. filed a
+motion to intervene, which this court granted.
+
+                                            II. ANALYSIS
+
+        A. Jurisdiction
+
+        Although no party contests our jurisdiction to review these petitions, we retain an
+independent obligation to police our own jurisdiction.1 United States v. Certain Land Situated in
+City of Detroit, 361 F.3d 305, 307 (6th Cir. 2004). Courts of appeals have exclusive jurisdiction
+over certain final orders issued by the FCC. 28 U.S.C. § 2342(1). “Any party aggrieved by [a]
+final order may, within 60 days after its entry, file a petition to review the order in the court of
+appeals wherein venue lies.” Id. § 2344. This sixty-day window constitutes a “jurisdictional
+limit.” Consumers’ Rsch. v. FCC, 67 F.4th 773, 784 (6th Cir. 2023).
+
+        The FCC released the 2024 Order on December 21, 2023. The Order was then published
+in the Federal Register as a final rule on February 12, 2024.                 Data Breach Reporting
+Requirements, 89 Fed. Reg. at 9968. Ohio Telecom and the Texas Association of Business both
+petitioned for review of the Order on February 20, 2024. Because their petitions were filed
+within sixty days of both the Order’s release and its publication in the Federal Register, we have
+
+        1We address the narrower question of whether we have jurisdiction to review Petitioners’ CRA claim
+below. See infra Section II.D.2.
+ Nos. 24-3133/3206/3252              Ohio Telecom Ass’n, et al. v. FCC, et al.                            Page 10
+
+
+jurisdiction regardless of which date constitutes the Order’s “entry.” But CTIA, NCTA, and
+USTelecom petitioned for review on March 15, 2024, which is within sixty days of the Order’s
+publication, not its release. Accordingly, our jurisdiction to review CTIA’s petition hinges on
+when the Order’s “entry” occurred.
+
+         Congress has not statutorily defined the term “entry” as it is used in § 2344. But FCC
+regulations provide that any agency action “shall be deemed final, for purposes of seeking
+reconsideration at the Commission or judicial review,” on “the date of publication in the Federal
+Register.” 47 C.F.R. §§ 1.103(b), 1.4(b). This regulatory limitation comports with the plain
+meaning of “entry”—the “act of making or entering a record.”                         Entry, Merriam Webster,
+https://perma.cc/5LCT-D474. No language in the statute cuts against the FCC’s regulatory
+interpretation. And, while the Supreme Court and the Sixth Circuit have yet to address this
+issue, other circuit courts have similarly adopted the FCC’s definition of “entry.” See, e.g.,
+Council Tree Commc’ns, Inc. v. FCC, 503 F.3d 284, 289-91 (3d Cir. 2007); W. Union Tel. Co. v.
+FCC, 773 F.2d 375, 378-80 (D.C. Cir. 1985).2 We join these circuits and hold that an order is
+deemed entered, for purposes of assessing jurisdiction under § 2344, on the date of its
+publication in the Federal Register.
+
+         Because all three petitions were filed within sixty days of the Order’s publication in the
+Federal Register, we have jurisdiction to hear these consolidated petitions for review.
+
+         B. Standard of Review
+
+         Under the Administrative Procedure Act (APA), courts must “hold unlawful and set aside
+agency action, findings, and conclusions found to be . . . arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law . . . [or] in excess of statutory jurisdiction,
+authority, or limitations, or short of statutory right.” 5 U.S.C. § 706(2)(A), (C). In so doing, “the
+reviewing court shall decide all relevant questions of law, interpret constitutional and statutory
+
+
+         2The Third Circuit deemed the statute ambiguous and deferred to the FCC’s interpretation, Council Tree
+Commc’ns, 503 F.3d at 289-91, which is no longer permissible following the Supreme Court’s abrogation of
+Chevron deference, Loper Bright Enters. v. Raimondo, 603 U.S. 369, 412 (2024). Nonetheless, the Third Circuit’s
+reasoning remains instructive. As the Third Circuit explained, there is no language in § 2344 suggesting that “entry”
+occurs prior to an order’s publication in the Federal Register. Council Tree Commc’ns, 503 F.3d at 289.
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.               Page 11
+
+
+provisions, and determine the meaning or applicability of the terms of an agency action.” Id.
+§ 706.
+
+         Applying the APA, we “must exercise [our own] independent judgment in deciding
+whether an agency has acted within its statutory authority.” Loper Bright Enters. v. Raimondo,
+603 U.S. 369, 412 (2024). Although “[c]areful attention to the judgment of the Executive
+Branch may help inform that inquiry,” we “may not defer to an agency interpretation of the law
+simply because a statute is ambiguous.” Id. at 412-13. Instead, we rely on our “traditional tools
+of statutory construction” to determine a statute’s “single, best meaning.”        Id. at 400-01.
+Applying those tools, our inquiry begins with the “statutory text,” relying on “the language
+itself” and “the specific context in which that language is used.” United States ex rel. Felten v.
+William Beaumont Hosp., 993 F.3d 428, 431 (6th Cir. 2021) (quoting Robinson v. Shell Oil Co.,
+519 U.S. 337, 340-41 (1997)). And we interpret that text in accordance with our binding judicial
+precedent. Freeman v. Wainwright, 959 F.3d 226, 232 (6th Cir. 2020).
+
+         Petitioners contend that the 2024 Order exceeds the FCC’s statutory authority and
+violates the CRA. We address each issue in turn.
+
+         C. Statutory Authority Under the Communications Act and its Amendments
+
+         The FCC points to two independent sources of statutory authority permitting it to impose
+data breach reporting requirements regarding PII—47 U.S.C. § 201(b) and 47 U.S.C. § 222. And
+it argues that 47 U.S.C. § 225 allows it to extend the reporting requirements to relay service
+providers. We examine each statutory ground invoked by the FCC separately.
+
+                1. 47 U.S.C. § 222(a)
+
+         The FCC argues that § 222(a)’s mandate to protect proprietary customer information
+gives it the authority to promulgate data breach reporting requirements regarding customer PII.
+Section 222(a) imposes on all telecommunications carriers “a duty to protect the confidentiality
+of proprietary information of, and relating to, other telecommunication carriers, equipment
+manufacturers, and customers.” 47 U.S.C. § 222(a). According to the FCC, the plain meaning
+of the phrase “proprietary information of, and relating to . . . customers” encompasses customer
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 12
+
+
+PII. Petitioners disagree and contend that the broader text of § 222 and other provisions within
+the Communications Act make clear that customer PII is not within § 222(a)’s ambit.
+
+                   i. Text
+
+       We first look to the operative text. See Felten, 993 F.3d at 431. The parties contest the
+plain meaning of the term “proprietary,” as used in the phrase “proprietary information of, and
+relating to . . . customers.” The term is defined as “of, relating to, or characteristic of an owner
+or title holder,” or “used, made, or marketed by one having the exclusive legal right.”
+Proprietary, Merriam Webster, https://perma.cc/2F5J-GXHP. Black’s Law Dictionary defines
+the broader phrase “proprietary information” similarly—“[i]nformation in which the owner has a
+protectable interest,” such as a “trade secret.” Proprietary Information, Black’s Law Dictionary
+(11th ed. 2019).
+
+       As Petitioners see it, this plain meaning confirms that the term “proprietary information”
+encompasses only the sort of information in which an owner has a protectable interest, which
+would exclude PII like individual names or addresses. As they note, in ordinary parlance, it
+“would be odd to refer to someone’s name and address as one’s ‘proprietary’ information,
+insofar as customers routinely disclose such information to third parties.” Petitioners’ Br. 26.
+The FCC contends that Petitioners’ construction is overly narrow, and that the term “proprietary”
+should be construed to include any information that belongs or pertains to an owner or
+proprietor, which necessarily encompasses information “obtained by [carriers] through [their]
+service relationship with [their] customers.” Respondent’s Br. 34. As the FCC correctly notes,
+adopting Petitioners’ narrower construction would exclude the types of customer information
+that even Petitioners recognize falls within the ambit of § 222(a), because customers may not
+always have a protectable interest in all CPNI. See 47 U.S.C. § 222(h)(1)(A) (defining CPNI to
+include, among other things, “type, destination, location, and amount of use of a
+telecommunications service subscribed to by any customer”). Although the FCC is right that
+Petitioners’ construction does not fully comport with the statute, Petitioners are similarly correct
+that the FCC’s construction stands in tension with the ordinary meaning of “proprietary
+information.” In short, we cannot discern the precise contours of § 222(a), including whether it
+encompasses customer PII, solely from the provision’s plain meaning.
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 13
+
+
+                   ii. Statutory Context and Structure
+
+       Because the operative language is unclear, we look to the statutory context and structure
+for clarification. See Felten, 993 F.3d at 431. Whereas § 222(a) articulates a general duty to
+protect proprietary information, subsequent subsections specify various requirements and
+exceptions underlying this general duty.       Section 222(b) requires carriers to protect the
+proprietary information of other carriers. Section 222(c) requires carriers to adhere to certain
+requirements for using, disclosing, and providing access to CPNI. Section 222(d), in turn, carves
+out exceptions to § 222(c)’s CPNI restrictions. And Section 222(e) requires carriers to disclose
+“subscriber list information” “upon request for the purpose of publishing directories in any
+format,” while § 222(g) requires disclosure of subscriber list information to emergency
+responders.    Both § 222(e) and § 222(g) specify that such disclosure is authorized
+“[n]otwithstanding subsections (b), (c), and (d).” Notably, § 222 contains no express reference
+to customer PII.
+
+       The FCC’s reading of § 222(a) does not cohere with the remainder of the section. The
+specific restrictions that § 222 imposes on carriers’ use of individual customer information focus
+only on CPNI, without mention of customers’ PII, indicating a narrower scope than the language
+of § 222(a) might suggest if read in isolation. See 47 U.S.C. § 222(c), (h)(1). The CPNI
+exceptions in § 222(d) also undermine the FCC’s construction. Section 222(d) permits carriers
+to disclose CPNI for certain purposes such as billing and assisting law enforcement and
+emergency responders. It does not, however, extend these exceptions to customer information
+other than CPNI, like customers’ names, email addresses, and Social Security numbers. The
+FCC’s interpretation would thus result in an anomalous situation in which § 222(a) requires
+carriers to protect both customer PII and CPNI but applies exceptions for billing and emergency
+services only to CPNI. Seeking to avoid this anomaly, the FCC contends that the exceptions in
+§ 222(d) need not be limited to CPNI and could, in fact, be read to apply to other types of
+proprietary customer information. But that assertion is belied by the subsection’s text, which
+applies the exceptions specifically to “customer proprietary network information [that a carrier]
+obtain[s] from its customers.” Id. § 222(d).
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 14
+
+
+       Sections 222(e) and 222(g) raise similar anomalies under the FCC’s interpretation.
+Those sections permit disclosure of subscriber list information for the purposes of publishing
+directories and assisting in the provision of emergency services, and both state that such
+disclosure is authorized “[n]otwithstanding subsections (b), (c), and (d),” omitting any mention
+of subsection (a). Had Congress intended § 222(a) to impose a separate, affirmative requirement
+on carriers to protect customer PII, it presumably would have added subsection (a) to the list of
+subsections that are trumped by the disclosure requirements regarding customer data in § 222(e)
+and § 222(g).
+
+       In addition, as Petitioners note, Congress knows how to expressly reference PII when it
+so desires—other portions of the Communications Act directly mention PII.              See Cable
+Communications Policy Act of 1984, Pub. L. No. 98-549, 98 Stat. 2779, 2794-95 (codified at 47
+U.S.C. § 551) (imposing certain duties on cable operators to protect subscribers’ PII); Satellite
+Home Viewer Extension and Reauthorization Act of 2004, Pub. L. No. 108-447, 118 Stat. 3393,
+3425-27 (codified at 47 U.S.C. § 338) (requiring satellite operators to protect subscribers’ PII).
+The lack of any express mention of PII in § 222, by contrast, is notable, given that the section
+specifically identifies and enumerates other types of customer information—CPNI, aggregate
+customer information, and subscriber list information—within its ambit.
+
+       In response, the FCC points to the canon that, “[i]n a given statute . . . different terms
+usually have different meanings.” Pulsifer v. United States, 601 U.S. 124, 149 (2024). Because
+§ 222(a)’s protection of “proprietary information of, and relating to . . . customers” is distinct
+from § 222(c)’s protection of CPNI, the FCC contends, we should read § 222(a) to encompass a
+broader array of information, including PII. Although the FCC is correct that the terms are
+distinct, that does not suffice to show that § 222(a) includes PII. Interpreting § 222(a) to cover
+PII, as discussed, creates anomalies across the remainder of the statute and ignores the clear
+statutory focus on specific categories of customer information, none of which include PII. In
+addition, the structure of § 222 further indicates that the FCC’s heavy reliance on variation in
+meaning misses the mark. Section 222(a) articulates the FCC’s general “duty to protect the
+confidentiality of proprietary information of, and relating to, other telecommunication carriers,
+equipment manufacturers, and customers,” whereas the rest of the statute goes on to delineate
+ Nos. 24-3133/3206/3252              Ohio Telecom Ass’n, et al. v. FCC, et al.                            Page 15
+
+
+more specific requirements and exceptions regarding this proprietary information. See 47 U.S.C.
+§ 222(b)-(h). Read in context, then, it makes sense that Congress would have used broader
+language in § 222(a), given that it sets forth the general duty carriers have to protect not only the
+proprietary information of customers, but also the proprietary information of carriers and
+equipment manufacturers.3 We thus find the FCC’s meaningful variation argument unavailing.
+
+         In sum, although the FCC advances a plausible reading of § 222(a) when viewed in
+isolation, the broader text and structure of § 222 clarify that the phrase “proprietary information
+of, and relating to . . . customers” does not encompass PII.4 Viewed as a whole, the statute
+makes clear that its focus is on requiring carriers to adhere to particular statutory requirements—
+and exceptions to those requirements—regarding a limited set of categories of customer
+information. It does not encompass carriers’ practices regarding customer PII. We therefore
+conclude that the FCC does not have the authority under § 222(a) to impose data breach
+reporting requirements regarding customer PII.
+
+                  2. 47 U.S.C. § 201(b)
+
+         But that is not the end of the matter. The FCC points to 47 U.S.C. § 201(b) as a separate,
+independent source of statutory authority permitting it to impose data breach reporting
+requirements regarding PII. Section 201(b) provides that any “charge, practice, classification, or
+regulation” “in connection with [a] communication service” that is “unjust or unreasonable” shall
+be “declared . . . unlawful,” and it confers the FCC with the authority to “prescribe such rules
+and regulations as may be necessary” to carry out that prohibition. 47 U.S.C. § 201(b). The
+parties agree that § 201(b) gives the FCC the discretion to decide what is “unjust or
+unreasonable” with respect to particular “charges, practices, classifications, [or] regulations,”
+
+
+         3The FCC is correct that § 222(a) has independent significance and is not simply meant to introduce the
+more specific provisions that follow. Otherwise, the section’s mandate on carriers to protect the “proprietary
+information of, and relating to . . . equipment manufacturers” would be hollow, given that the rest of the section
+makes no mention of equipment manufacturer data. We agree with the FCC, then, that § 222(a) includes more than
+just CPNI. The question here, however, is whether the specific portion of § 222(a) protecting the proprietary
+information of customers includes not only CPNI, but also PII. For the reasons already set forth, we conclude that it
+does not.
+       4Because the statute’s text, context, and structure resolve our inquiry here, we need not address Petitioners’
+argument regarding the FCC’s past practice in interpreting and implementing § 222. See Felten, 993 F.3d at 431.
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 16
+
+
+subject to APA constraints. Id. But they disagree on what can constitute a “practice[] . . . in
+connection with [a] communication service.” Id. The Commission asserts that inadequate data
+breach reporting is an unjust or unreasonable practice in connection with a communication
+service, and that the prescription of notification rules aimed at addressing that harm falls within
+the scope of its authority to regulate and prevent such practices. Petitioners disagree, advancing
+a narrow interpretation of § 201(b). As they see it, the Commission’s regulatory authority under
+§ 201(b) is confined to practices resembling rate setting and rate division, and any applicability
+§ 201(b) might otherwise have to data privacy is superseded by § 222’s more specific
+requirements regarding data privacy.
+
+       As a threshold matter, we must identify the regulated conduct at issue before we can
+determine whether it constitutes a “practice[] . . . in connection with [a] communication service.”
+47 U.S.C. § 201(b). As discussed, the 2024 Order imposes data breach reporting requirements
+on carriers in the event of a breach of customer PII. It seeks to remedy “carrier[s’] practices
+related to [their] failure to notify consumers [and governmental entities] of a data breach.” Data
+Breach Reporting Requirements, 89 Fed. Reg. at 9991. In other words, the regulated conduct is
+a carrier’s handling of data breaches, including the refusal or failure to notify customers and the
+government in response to a data breach of customer PII. That is the asserted “practice” that we
+must evaluate against the statute.
+
+               i. Text
+
+       We begin our statutory analysis with the text—namely, the term “practice,” which the
+statute does not define. See Felten, 993 F.3d at 431. We interpret the term “consistent with [its]
+‘ordinary meaning . . . at the time Congress enacted the statute.’” Wis. Cent. Ltd. v. United
+States, 585 U.S. 274, 277 (2018) (quoting Perrin v. United States, 444 U.S. 37, 42 (1979)). In
+1934, the year the Communications Act was enacted, the word “practice” was broadly defined as
+“[a]ction; performance; operation; . . . deed; proceeding;” or “actual performance or application
+of knowledge; such actual performance or application habitually engaged in; often, repeated or
+customary action; usage; habit; custom; . . . the usual mode or method of doing something.”
+Practice, Webster’s International Dictionary (2d ed. 1934). The term has a similarly broad
+ Nos. 24-3133/3206/3252             Ohio Telecom Ass’n, et al. v. FCC, et al.                          Page 17
+
+
+definition today: “a repeated or customary action” or “the usual way of doing something.”
+Practice, Merriam Webster, https://perma.cc/FM4L-TL4L.
+
+        The plain meaning of the term “practice,” as understood then and now, refers to a
+carrier’s usual mode of operating, which can encompass both positive acts and the refusal to act.
+This understanding is supported not only by the term’s plain meaning, but also by Supreme
+Court    precedent.        In    Global     Crossing      Telecommunications,        Inc.    v.   Metrophones
+Telecommunications, Inc., the Supreme Court held that a carrier’s “failure to pay compensation”
+constituted a “practice” within the meaning of § 201(b). 550 U.S. at 53-55. As the Court
+explained, “in ordinary English, one can call a refusal to pay Commission-ordered compensation
+despite having received a benefit from the payphone operator a ‘practice.’”5 Id. at 55 (brackets
+omitted). The Court’s logic applies with equal force here. Much like the refusal to compensate a
+payphone operator, a carrier’s refusal or failure to notify customers in response to a breach of
+customer PII can reasonably be deemed a “practice” of that carrier.
+
+        Section 201(b) further provides that such “practices” must be “in connection with [a]
+communication service.” 47 U.S.C. § 201(b). The phrase “in connection with” is, on its face,
+quite broad. The Supreme Court has thus cautioned that the scope of the term depends on the
+statute in which it appears. Maracich v. Spears, 570 U.S. 48, 59-60 (2013). To discern the
+scope of this phrase, we must look to the context and “structure of the statute and its other
+provisions,” as well as applicable judicial precedent. Id. at 60; see Freeman, 959 F.3d at 232.
+
+                      ii. Statutory Context and Structure
+
+        Section 201(a) establishes that “[i]t shall be the duty of every common carrier engaged in
+interstate or foreign communication by wire or radio to furnish such communication service
+upon reasonable request therefor.” 47 U.S.C. § 201(a). At the outset, the statute’s focus is
+relatively broad, encompassing the full array of “interstate or foreign,” “wire or radio”
+communication services “furnish[ed]” by carriers. Section 201(b), in turn, proscribes carriers
+from engaging in “unjust or unreasonable” “charges, practices, classifications, and
+
+        5Global Crossing applied Chevron deference, which has since been abrogated.      Loper Bright, 603 U.S. at
+412. Nonetheless, its analysis—which relied on the ordinary meaning of the term “practice,” Glob. Crossing, 550
+U.S. at 55—acts as helpful guidance in our own interpretation. See Loper Bright, 603 U.S. at 394.
+ Nos. 24-3133/3206/3252               Ohio Telecom Ass’n, et al. v. FCC, et al.                            Page 18
+
+
+regulations . . . in connection with” the furnishing of such services. Id. § 201(b); see Glob.
+Crossing, 550 U.S. at 55 (observing that § 201(b) prohibits unreasonable practices in connection
+with a carrier’s “furnishing” of communication services). The statute’s clear focus on a carrier’s
+provision of communication services indicates that for § 201(b) to apply to a given “practice,”
+there must be a close, direct connection—and not merely a tangential, indirect connection—
+between that “practice” and the furnishing of a communication service.
+
+         Again, Global Crossing provides helpful guidance. There, the Court explained why a
+carrier’s refusal to compensate a payphone operator can constitute a practice “in connection
+with” a carrier’s communication service. Payphone operators, the Court noted, play an integral
+role in facilitating a carrier’s communication service—specifically, their services are part of the
+“total long-distance service the payphone operator and the long-distance carrier together provide
+to the caller, with respect to the carriage of his or her particular call.” Glob. Crossing, 550 U.S.
+at 55. Consequently, a carrier’s “refusal to divide the revenues” incurred from that long-distance
+service is a practice that directly relates to and implicates its provision of communication
+services. Id. The Court also rejected the dissenting opinion’s narrower interpretation of the
+statute, which would have held that the practice at issue must constitute an activity of a carrier
+specifically undertaken “in [its] role as [a] provider[] of telecommunications services.” Id. at 74
+(Thomas, J., dissenting). What mattered to the Court was whether the practice has a close and
+clear connection to a carrier’s provision of services, not necessarily whether the practice is
+undertaken in the course of a carrier’s provision of services to a customer.
+
+         The Global Crossing Court also cited multiple examples of other “practice[s] . . . in
+connection with [furnishing a] communication service” that the FCC has historically regulated
+pursuant to § 201(b). Id. at 53-55. Such practices included the failure to follow Commission-
+ordered settlement practices, deceptive marketing, and the formation of exclusive contracts with
+commercial building owners.6 Id. at 53-54.
+
+
+
+         6As the Petitioners and dissent note, the Global Crossing Court further stated that “the underlying regulated
+activity at issue . . . resembles activity that . . . communications agencies have long regulated,” specifically, “rate
+setting and rate divisions.” 550 U.S. at 55, 60. At no point, however, did the Court indicate that the regulated
+activity at issue must always resemble rate setting or rate division for § 201(b) to apply. Instead, the Court cited
+ Nos. 24-3133/3206/3252              Ohio Telecom Ass’n, et al. v. FCC, et al.                              Page 19
+
+
+         Global Crossing reaffirms what is evident from § 201’s text, context, and structure: the
+phrase “in connection with [a] communication service” encompasses the assortment of practices
+that directly implicate a carrier’s furnishing of communication services. A carrier’s failure or
+refusal to notify customers and government entities of a data breach involving customer PII is
+among those practices. As the FCC found, carriers “often collect” and “hold” “large quantities
+of sensitive customer data,” including PII, in the course of their provision of communication
+services. Data Breach Reporting Requirements, 38 FCC Rcd. at 12524-25. Preventing and
+mitigating improper disclosure of that data, in turn, helps ensure that “when [customers] use
+communications services, their personal information is protected.” Id. at 12524. And the
+requirement that carriers disclose breaches of customer PII is a method of ensuring that
+protection. See id. at 12524-25. In short, there is a direct connection between a carrier’s failure
+to disclose breaches of customer PII and its role in providing communication services.7
+
+         Resisting this conclusion, Petitioners (and the dissent) argue that the statute’s context and
+structure require a narrower construction that forecloses § 201(b)’s application to data privacy
+issues. First, they contend that the canon of noscitur a sociis—that a word is “known by the
+company it keeps”—significantly narrows the phrase’s scope. Gustafson v. Alloyd Co., 513 U.S.
+561, 575 (1995). As they see it, the word “practice” is accompanied by the narrower terms
+“charges, . . . classifications, and regulations,” which collectively cabin the reach of § 201(b) to
+“carrier conduct that is an inherent or necessary aspect of providing a communications service to
+customers—e.g., setting rates and classifying services.”                    Petitioners’ Br. 37-38; see also
+Dissenting Op. at 44 (adopting Petitioners’ formulation).
+
+         Each of these four terms, however, is sufficiently “distinct from the other,” and represent
+different categories of carrier conduct related to a carrier’s provision of communication services.
+
+multiple FCC rules, promulgated pursuant to § 201(b), that regulate activity that does not resemble rate setting or
+rate division, such as deceptive marketing and exclusive contracting. Id. at 53-54.
+         7In their reply brief, Petitioners briefly gesture toward an additional argument regarding the language of the
+2024 Order. Reply Br. 6. Petitioners never raised this issue in their principal brief, and it is therefore waived. See
+United States v. Abboud, 438 F.3d 554, 589 (6th Cir. 2006) (“An argument first presented to the Court in a reply
+brief is waived.”). Even if the principal brief had raised the issue, Petitioners offer only a cursory argument about
+how the Order’s language “could be read,” Reply Br. 6, which is insufficient for this court’s review. Buetenmiller v.
+Macomb Cnty. Jail, 53 F.4th 939, 946 (6th Cir. 2022) (holding that issues raised without developed argumentation
+are deemed forfeited).
+ Nos. 24-3133/3206/3252                Ohio Telecom Ass’n, et al. v. FCC, et al.                               Page 20
+
+
+Graham Cnty. Soil & Water Conservation Dist. v. U.S. ex rel. Wilson, 559 U.S. 280, 288 (2010).
+Section 201 broadly focuses on a carrier’s “furnish[ing]” of “communication service[s],” and
+that encompasses more than just “setting rates and classifying services.” Petitioners’ Br. 38. As
+Global Crossing makes clear, there is a wide array of carrier conduct directly pertaining to the
+provision of communication services that can fall within the scope of § 201(b). 550 U.S. at 53-
+55. Under these circumstances, the canon of noscitur a sociis cannot be used to “rob” the plain
+statutory text of its independent and ordinary significance.8                       Graham Cnty. Soil & Water
+Conservation Dist., 559 U.S. at 288.
+
+         Indeed, the position advanced by the Petitioners and dissent resembles a similar argument
+made by the dissent in Global Crossing—that “the terms ‘charges,’ ‘classifications,’ and
+‘regulations’” exclusively “involve either setting rules for the provision of service or setting rates
+for that provision” and thus limit the term “practice” to encompass only activities undertaken by
+a carrier in its role as a provider of communication services. 550 U.S. at 74-76 (Thomas, J.,
+dissenting). The Court rejected this invocation of noscitur a sociis and instead looked to whether
+the practice at issue bore a close relationship to the provision of communication services. Id. at
+55 (majority opinion). Adhering to this same approach leads us to conclude that a carrier’s
+refusal to report breaches of customer data, which has a direct connection to the provision of
+communication services, indeed constitutes a “practice[] . . . in connection with [a]
+communication service.”9 47 U.S.C. § 201(b).
+
+         Petitioners also point to caselaw from the D.C. Circuit, approvingly cited by the Supreme
+Court, interpreting the term “practice,” as it is used in Section 206 of the Federal Power Act
+(FPA), based on the surrounding statutory language. Cal. Indep. Sys. Operator Corp. v. FERC,
+
+         8Our conclusion is not altered by Petitioners’ assertion that their narrow view of the term “practice” is
+necessary, lest § 201(b) adopt limitless breadth “regulating all carrier business activities, even those that fall entirely
+outside the FCC’s bailiwick.” Reply Br. 10. As discussed, the term is limited by the phrase “in connection with [a]
+communication service.” 47 U.S.C. § 201(b). That qualifier requires that the “practice” at issue have a direct
+connection to a carrier’s provision of communication services and thereby cabins § 201(b)’s scope.
+         9The dissent critiques our determination that § 201(b) requires a direct connection between the relevant
+practice and the provision of communication services as “a vague qualifier” that “merely rephrases the statute’s
+ambiguous language.” Dissenting Op. at 45. We do not think requiring a direct connection is “vague” or
+“ambiguous.” And we find perplexing the suggestion that our interpretation relies too heavily on § 201(b)’s “in
+connection with” language. That is, after all, the specific language used by the statute. Conversely, it is Petitioners’
+limitation of “inherent or necessary” that lacks support in the statute’s text.
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 21
+
+
+372 F.3d 395, 398-403 (D.C. Cir. 2004); see FERC v. Elec. Power Supply Ass’n, 577 U.S. 260,
+278 (2016). But that case involved a statute with markedly different language and structure, as
+well as an agency action that was substantively distinct from the one at issue here. The statute in
+that case, Section 206 of the Federal Power Act, confers the Federal Energy Regulatory
+Commission (FERC) with the authority to hold hearings and, based on such hearings, deem
+“unjust, unreasonable, unduly discriminatory or preferential” any “rate, charge, or classification”
+or any “rule, regulation, practice, or contract affecting such rate, charge, or classification.” 16
+U.S.C. § 824e(a) (emphases added). FERC argued that this section gave it the authority to order
+public utilities to replace their governing boards. Cal. Indep. Sys. Operator Corp., 372 F.3d at
+398.
+
+       The D.C. Circuit rejected FERC’s interpretation. As the court noted, Section 206 “only
+comes into play when the Commission has had a hearing and finds that a ‘rate, charge, or
+classification’ employed by a regulated utility in its jurisdictional transactions is ‘unjust,
+unreasonable, unduly discriminatory or preferential.’” Id. at 400. The statutory language thus
+made clear at the outset Section 206’s narrow focus on rates, charges, and classifications. And it
+expressly limited FERC’s authority to regulate “practice[s]” to “practice[s] . . . affecting [a] rate,
+charge, or classification”—further evincing Congress’s intent to cabin Section 206’s reach to
+rates, charges, classifications, and closely related matters. The statute’s narrow title, the court
+reasoned, only bolstered this interpretation: “Power of Commission to fix rates and charges;
+determination of cost of production or transmission.” 16 U.S.C. § 824e; see Cal. Indep. Sys.
+Operator Corp., 372 F.3d at 399. Given this narrow statutory focus, the court found that it
+would be “quite a leap” to conclude that Section 206 “empower[ed] the Commission to reform
+completely the governing structure of [a public] utility,” a significant act of governmental power
+with only an indirect effect on rates, charges or classifications. 372 F.3d at 400-03.
+
+       In the present matter, by contrast, § 201 deals with a carrier’s “furnish[ing]” of
+“communication service[s].” 47 U.S.C. § 201(a). It confers to the FCC authority to regulate a
+carrier’s “practices . . . in connection with [a] communication service.” Id. § 201(b). In doing
+so, it limits the term “practice” by requiring that it be connected to a communication service, and
+not necessarily to a rate, charge, or classification. That focus on the various aspects of a carrier’s
+ Nos. 24-3133/3206/3252              Ohio Telecom Ass’n, et al. v. FCC, et al.                           Page 22
+
+
+provision of communication services—and not solely on rates, charges, and classifications—
+significantly distinguishes Section 201 from Section 206 of the FPA.10 Section 201’s more
+comprehensive title—“Service and charges”—only reinforces that conclusion. Id. And, unlike
+the attenuated connection that existed in California Independent System Operator, the regulated
+practice here has a close connection to communication services. We are therefore unpersuaded
+by Petitioners’ reliance on Section 206 and the caselaw interpreting it.
+
+        Petitioners further contend that, under the general/specific canon of statutory
+interpretation, we should read § 222 as superseding § 201(b). In Petitioners’ view, § 201(b)’s
+general prohibition on unjust or unreasonable practices must give way to § 222’s more specific
+requirements regarding the protection of certain types of customer data. The general/specific
+canon provides that, where a specific statute conflicts or overlaps with a general statute, the
+“specific governs the general.” RadLAX Gateway Hotel, LLC v. Amalgamated Bank, 566 U.S.
+639, 645 (2012) (quoting Morales v. Trans World Airlines, Inc., 504 U.S. 374, 384 (1992)).
+Although courts “most frequently” apply the canon to “statutes in which a general permission or
+prohibition is contradicted by a specific prohibition or permission,” the canon also applies to
+statutes “in which a general authorization and a more limited, specific authorization exist side-
+by-side.” Id.      “There the canon avoids not contradiction but the superfluity of a specific
+provision that is swallowed by the general one, ‘violat[ing] the cardinal rule that, if possible,
+effect shall be given to every clause and part of a statute.’”11 Id. (quoting D. Ginsberg & Sons,
+Inc. v. Popkin, 285 U.S. 204, 208 (1932)). “When the conduct at issue falls within the scope of
+both provisions, the specific presumptively governs . . . .” Id. at 648.
+
+        As discussed above, the specific requirements and exceptions in § 222 apply to only
+certain categories of customer information—CPNI, aggregate customer information, and
+subscriber list information. Under the specific/general canon, those specific requirements and
+
+        10Petitioners point to a nearby provision, 47 U.S.C. § 203, which, like Section 206 of the Federal Power
+Act, refers to “practices . . . affecting [] charges.” 47 U.S.C. § 203. But, as its title evinces, that provision is
+specifically focused on “Schedules of charges.” Id. We see no reason—and Petitioners offer none—why § 203’s
+more specific focus on charges should be read to limit the plain language of § 201(b).
+        11As other courts have recognized, there is overlap between this application of the general/specific canon
+and the canon against surplusage. See Adirondack Med. Ctr. v. Sebelius, 740 F.3d 692, 699 (D.C. Cir. 2014)
+(suggesting that RadLAX’s application of the canon “is better characterized as one concerning superfluity”).
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 23
+
+
+exceptions “presumptively govern[]” over the general prohibition on unjust or unreasonable
+practices in § 201(b). Id. Section 222 does not, however, reach or address privacy protections
+regarding customer PII. Because disclosure of breaches of customer PII is not the type of
+conduct within § 222’s ambit, “the conduct at issue” does not “fall[] within the scope of both”
+§ 222 and § 201(b). Id. Interpreting § 201(b) to confer the FCC with the authority to impose
+data breach reporting requirements regarding customer PII, therefore, does not result in “the
+superfluity of a specific provision that is swallowed by the general one.” Id. at 645.
+
+       Petitioners contend that, because § 222 specifically deals with certain aspects of data
+privacy, § 201(b)’s “more general command to prohibit ‘unjust or unreasonable’ practices” can
+never apply to the data privacy context, including aspects of data privacy that § 222 does not
+address. Petitioners’ Br. 35. The dissent likewise embraces this view, arguing that, because
+§ 222 provides a “specific framework” for regulating certain types of customer information and
+“does not mention PII, it follows that Congress did not intend for the FCC to regulate the privacy
+of customer PII” in § 201(b). Dissenting Op. at 46. But that is not how the general/specific
+canon works. As the Supreme Court has long explained:
+
+       It is an old and familiar rule that, where there is, in the same statute, a particular
+       enactment, and also a general one, which, in its most comprehensive sense, would
+       include what is embraced in the former, the particular enactment must be
+       operative, and the general enactment must be taken to affect only such cases
+       within its general language as are not within the provisions of the particular
+       enactment.
+
+RadLAX, 566 U.S. at 646 (quoting United States v. Chase, 135 U.S. 255, 260 (1890)). Our
+construction fully comports with this rule, interpreting § 201(b) to “affect only such cases within
+its general language as are not within the provisions of” § 222. Id.
+
+       The Petitioners’ and dissent’s interpretation, by contrast, fails to accord with the statute
+and stretches the general/specific canon well beyond its limits. While § 222 regulates carriers’
+handling of specific sets of customer information, at no point does it prohibit the Commission
+from regulating other aspects of customer data privacy that fall outside § 222’s scope. It is true
+that § 201(b) and § 222 overlap in subject matter, but such overlap between statutes does not
+automatically render them impermissibly superfluous. See Skilling v. United States, 561 U.S.
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 24
+
+
+358, 413 n.45 (2010) (concluding that overlap in federal bribery statutes, where different statutes
+applied to different categories of officials, did not render those statutes superfluous). This
+principle “is particularly true when agency authority is at stake.” Adirondack Med. Ctr. v.
+Sebelius, 740 F.3d 692, 699 (D.C. Cir. 2014).         As the D.C. Circuit has noted, “overlap
+among . . . various enforcement provisions is not [a] surprising” phenomenon because “Congress
+c[an] reasonably hand . . . agencies a palette sufficiently sophisticated to capture the full
+spectrum of enforcement possibility.” DeNaples v. Off. of Comptroller of Currency, 706 F.3d
+481, 487 (D.C. Cir. 2013).
+
+       Here, the plain text of § 201(b) allows for regulation of unjust or unreasonable practices
+regarding customer PII. While § 222 imposes specific requirements and exceptions regarding
+enumerated categories of customer information, it does not bar the FCC from regulating certain
+carrier practices regarding other categories of customer data, including PII. Mere overlap in
+subject matter cannot displace unambiguous statutory text. Skilling, 561 U.S. at 413 n.45. Our
+directive to avoid surplusage requires that we give full operative effect to the specific
+requirements and exceptions in § 222. See RadLAX, 566 U.S. at 645. It does not mandate that
+we interpret § 222 as wholly displacing § 201(b)’s authority over all aspects of data privacy, in
+contravention of § 201(b)’s text.
+
+       Finally, the Petitioners and dissent point to § 222’s lack of a savings clause and contrast
+that omission with § 251, enacted alongside § 222, which provides that “[n]othing in this section
+shall be construed to limit or otherwise affect the Commission’s authority under section 201 of
+this title.” 47 U.S.C. § 251. Congress’s decision to include in § 251 a savings clause preserving
+§ 201’s authority, Petitioners contend, “shows that its omission of a savings clause from Section
+222 was deliberate,” and “confirms that Section 222 fully displaces Section 201 with respect to
+consumer privacy.”     Petitioners’ Br. 36.     But, in passing the 1996 amendments to the
+Communications Act, including § 222, Congress expressly provided that “the amendments made
+by this Act shall not be construed to modify, impair, or supersede Federal, State, or local law
+unless expressly so provided in such Act or amendments.” 110 Stat. at 143; accord Glob.
+Crossing, 550 U.S. at 57 (noting that when Congress amended the Communications Act, “it
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 25
+
+
+nonetheless left § 201(b) in place”). At no point does § 222 state that it should be construed to
+wholly displace § 201(b), or any other provision, with respect to consumer privacy.
+
+       As the FCC notes, moreover, there are other reasons why Congress may have opted to
+add a specific savings clause to § 251 but not § 222. Section 251 assigns various responsibilities
+in implementing the Act to the states; thus, it is logical that Congress might have thought it
+necessary to clarify that § 251 should not be read to limit the federal Commission’s authority
+under § 201(b).    And, as explained, to the extent that § 222 may displace § 201(b), that
+displacement only occurs insofar as “the conduct at issue falls within the scope of both
+provisions”—there is no such overlap here. RadLAX, 566 U.S. at 648. In short, there is no legal
+basis for Petitioners’ contention that, because § 222 lacks a savings clause, it must be read to
+fully displace § 201(b) with respect to customer privacy.
+
+       We therefore conclude, based on the statutory text, context, and structure, that § 201(b)
+gives the FCC the authority to impose reporting requirements in the event of a data breach of
+customer PII.
+
+                  iii. Broader Legal Context
+
+       Although the statutory text, context, and structure are dispositive of our inquiry, the
+broader legal context in which § 201(b) exists provides additional support for our conclusion.
+
+       In Section 45 of the Federal Trade Commission Act (FTCA), Congress directed the
+Federal Trade Commission (FTC) to prevent businesses from engaging in “unfair or deceptive
+acts or practices in or affecting commerce.” 15 U.S.C. § 45(a)(2). Like § 201(b), § 45(a) gives
+its implementing agency broad authority to proscribe a wide array of harmful practices. That
+includes the authority to prohibit and regulate a company’s inadequate data privacy practices.
+See, e.g., FTC v. Wyndham Worldwide Corp., 799 F.3d 236, 247-49 (3d Cir. 2015) (holding that
+the FTC has the authority, under § 45(a), to regulate companies’ data security and privacy
+practices). But § 45(a) exempts telecommunications carriers from this statutory obligation,
+leaving their regulation to the FCC. 15 U.S.C. § 45(a)(2) (exempting from the FTC’s authority
+“common carriers subject to the Acts to regulate commerce”); id. § 44 (defining “[a]cts to
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 26
+
+
+regulate commerce” to encompass “the Communications Act of 1934 and all Acts amendatory
+thereof and supplementary thereto”).
+
+       This statutory regime speaks to the issue here. In enacting the FTCA, Congress gave the
+FTC broad authority to prohibit harmful practices, including inadequate data privacy protections,
+while opting to exempt carriers from the FTC’s authority and instead leave them within the
+FCC’s regulatory authority.      Congress chose to also enact, in § 201(b), a similarly broad
+prohibition on “unjust or unreasonable” carrier “practices . . . in connection with [a]
+communication service.” 47 U.S.C. § 201(b). Reading § 201(b) to regulate at least certain
+aspects of carriers’ data privacy practices thus aligns with the FTCA’s corresponding regulation
+of non-carrier businesses’ data privacy practices. And it prevents the anomalous result of
+carriers falling into a regulatory gap in which there is little to no federal protection against
+carriers’ mishandling of customer PII. To read the Communications Act as creating such a
+regulatory void would stand at odds with the federal protection of customer data applicable to
+virtually all other major businesses in the United States.
+
+                   iv. Regulatory Interpretations
+
+       Finally, while not dispositive, we address Petitioners’ contention that the FCC’s reliance
+on § 201(b) is undermined by its regulatory history. Petitioners argue that, because the FCC has
+only recently concluded that § 201(b) can regulate data privacy, “the statute cannot plausibly be
+read to stretch that far.” Petitioners’ Br. 36-37.
+
+       First, our determination that the text, context, and structure of § 201(b) gives the FCC the
+authority to impose notification requirements for breaches of customer PII is dispositive of our
+inquiry here.    See Loper Bright, 603 U.S. at 412-13.        Nonetheless, the FCC’s historical
+interpretation and implementation of § 201(b) does not undermine our conclusion.
+
+       As part of its prerogative to regulate unjust or unreasonable practices, the FCC has long
+applied § 201(b) to a diverse set of problems, from deceptive marketing to exclusive contracts
+with commercial building owners. See Glob. Crossing, 550 U.S. at 53-55. Although the FCC
+did not invoke § 201(b) as a source of authority to regulate aspects of customer data privacy until
+2014, see Terracom, Inc. & YourTel Am., Inc., 29 FCC Rcd. at 13329, it has never disclaimed
+ Nos. 24-3133/3206/3252               Ohio Telecom Ass’n, et al. v. FCC, et al.                               Page 27
+
+
+this authority. Indeed, well before 2014, the FCC relied in part on § 201(b) to regulate certain
+carrier practices involving customer data, evincing a flexible, evolving approach to data
+regulation. In 1970, for example, the Commission promulgated rules regarding the provision of
+data processing services by carriers pursuant to its authority under § 201(b). Regul. & Pol’y
+Probs. Presented by Interdependence of Comput. & Commc’n Servs. & Facilities, 28 F.C.C.2d
+291, 296, 300 (1970). One decade later, in 1980, the Commission, noting the existence of “broad
+consumer rights under Section 201(b),” required companies to disclose certain types of
+information while prohibiting certain carriers from disclosing to other companies “any customer
+proprietary information unless such information is available to any member of the public.”
+Amend. of Section 64.702 of the Comm’n’s Rules and Reguls., 77 F.C.C.2d 384, 440, 499
+(1980).12 Contrary to Petitioners’ assertions, this is not a situation in which an agency has
+“claim[ed] to discover in a long-extant statute an unheralded power to regulate ‘a significant
+portion of the American economy.’” Util. Air Regul. Grp. v. EPA, 573 U.S. 302, 324 (2014)
+(quoting FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 159 (2000)). Rather, it is
+part of the FCC’s longstanding, flexible, and incremental application of § 201(b) to data
+regulation in the evolving environment of data collection and retention.
+
+         Petitioners also attempt to rehash their general/specific argument, asserting that “the FCC
+itself previously recognized the exclusive and comprehensive nature of Section 222” regarding
+customer data privacy. Petitioners’ Br. 36-37. That is incorrect. In support, Petitioners point to
+only a single line from a 1999 Order stating that the FCC “conclude[s] that the specific consumer
+privacy and consumer choice protections established in section 222 supersede the general
+protections identified in sections 201(b) and 202(a).” Telecomms. Carriers’ Use of Customer
+Proprietary Network Info. & Other Customer Info., 14 FCC Rcd. 14409, 14491 (1999). But
+Petitioners ignore the context and purpose of that statement. There, the FCC concluded that the
+“broad non-discrimination requirements” in § 201(b) and § 202(a) should not be construed and
+applied in a manner that would override § 222’s protection of CPNI. Id. (noting that “requiring
+
+         12Although the FCC cites these regulations in support of its contention that the FCC used § 201(b) to
+regulate customer data security, we agree with Petitioners that these regulations bear little relationship to the specific
+issue of customer data privacy and security. As discussed, however, these regulations do show a practical, flexible
+understanding of § 201(b), including its potential applicability to carrier practices regarding the evolving world of
+customer data.
+ Nos. 24-3133/3206/3252           Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 28
+
+
+the disclosure of CPNI to other companies to maintain competitive neutrality would defeat,
+rather than protect, customers’ privacy expectations and control over their own CPNI”). In other
+words, the Commission merely concluded that carriers could not use broad competition rules to
+negate or defeat § 222’s specific privacy protections; it did not determine that § 222 displaced
+§ 201(b) with respect to data privacy issues.          Section 222’s more specific requirements,
+moreover, would only displace § 201(b)’s general protections to the extent they overlap, which,
+as discussed above, is not the case with the protection of customer PII.
+
+       The respect we afford to an agency’s interpretation of a statute is, of course, heightened
+when the interpretation was “issued roughly contemporaneously with enactment of the statute
+and [has] remained consistent over time.” Loper Bright, 603 U.S. at 386. But that concept does
+not bind an interpreting agency to its earliest exercises of regulatory authority, particularly in the
+context of a broad, decades-old statute like § 201(b) that has long been applied to a wide and
+evolving range of issues.        As the Supreme Court has recognized, § 201(b) “permits,” and
+“Congress likely expected, the FCC to pour new substantive wine into its old regulatory bottles.”
+Glob. Crossing, 550 U.S. at 57.
+
+       It has now been over a decade since the FCC invoked § 201(b) as part of its statutory
+authority to protect customer data. That invocation is properly supported by the statute’s plain
+text, context, and structure. We therefore uphold the Commission’s reliance on § 201(b) to
+impose breach notification requirements concerning customer PII.
+
+                  3. 47 U.S.C. § 225
+
+       Intervenor Hamilton Relay asserts that the FCC lacks the authority under § 225 to impose
+the 2024 data breach reporting requirements on TRS providers. Under § 225, TRS providers
+must provide telephone transmission services to hearing or speech-impaired individuals “in a
+manner that is functionally equivalent to the ability of a hearing individual who does not have a
+speech disability[.]” 47 U.S.C. § 225(a)(3).          Section 225 also charges the FCC with
+“establish[ing]     functional    requirements,   guidelines,   and   operations    procedures    for
+telecommunications relay services.” Id. § 225(d)(1)(A).
+ Nos. 24-3133/3206/3252             Ohio Telecom Ass’n, et al. v. FCC, et al.                          Page 29
+
+
+          Both the FCC and Hamilton Relay appear to agree that the FCC has the authority, under
+§ 225’s “mandate” to ensure “functional equivalency,” to apply the same data privacy
+regulations to TRS providers that it applies to telecommunications carriers. Structure & Pracs.
+of Video Relay Serv. Program, 28 FCC Rcd. at 8685-86 (extending privacy requirements
+regarding CPNI to TRS providers). Indeed, that reading is amply supported by the statute’s
+mandate that the Commission must promulgate “functional requirements, guidelines, and
+operations procedures” to ensure TRS providers are providing functionally equivalent services.
+47 U.S.C. § 225(a)(3), (d)(1)(A).
+
+          We have determined that the FCC has the statutory authority to impose the 2024 data
+breach reporting rule on telecommunications carriers.13 See Section II.C.2, supra. Section 225’s
+functional equivalency requirement, in turn, gives the Commission authority to extend the same
+data privacy protections to the TRS context. 47 U.S.C. § 225(a)(3), (d)(1)(A). Thus, the
+Commission’s application of the 2024 data breach reporting rule to TRS providers was within its
+authority under § 225.
+
+          D. Congressional Review Act
+
+          Petitioners further argue that the FCC’s promulgation of the 2024 Order impermissibly
+sidesteps Congress’s 2017 disapproval resolution and violates the CRA. We describe the CRA
+and address our jurisdiction to determine Petitioners’ CRA arguments before turning to the
+merits.
+
+
+
+
+         13Before 2024, the only breach notification requirements that the FCC imposed on TRS providers pertained
+to CPNI, and those regulations arose out of the FCC’s preexisting CPNI requirements on carriers and were
+promulgated pursuant to § 222. Structure & Pracs. of Video Relay Serv. Program, 28 FCC Rcd. at 8680-86 (citing
+Telecomms. Carriers’ Use of Customer Proprietary Network Info., 22 FCC Rcd. at 6928). That may be why
+Hamilton Relay argues that the Commission lacks the authority to protect PII under § 222 but omits any mention of
+§ 201(b). Regardless, our analysis of § 225 does not turn on whether the FCC’s authority to impose PII protections
+specifically comes from § 201(b) or § 222. What matters is whether the FCC had the authority under either statute,
+such that the requirements are legally valid. See Structure & Pracs. of Video Relay Serv. Program, 28 FCC Rcd. at
+8685-86 (stating that, to ensure “functional equivalency,” the FCC must apply the same data privacy regulations to
+TRS providers that it applies to carriers).
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 30
+
+
+               1. Background
+
+       In 1996, Congress passed, and the President signed, the CRA. Pub. L. No. 104-121, 110
+Stat. 847, 868-74 (codified at 5 U.S.C. §§ 801-08). “Enacted as part of the Contract with
+America Advancement Act of 1996,” the CRA “was designed to give Congress an expedited
+procedure to review and disapprove federal regulations.”          Ctr. for Biological Diversity v.
+Bernhardt, 946 F.3d 553, 556 (9th Cir. 2019).
+
+       Under the CRA, before a rule takes effect, the promulgating agency must provide both
+the House and Senate with various items, including a copy of the rule, a short statement
+regarding the rule, and a cost-benefit analysis of the rule (if any). 5 U.S.C. § 801(a)(1)(A)-(B).
+The CRA incorporates the same definition of “rule” as the APA—“the whole or a part of an
+agency statement of general or particular applicability and future effect designed to implement,
+interpret, or prescribe law or policy or describing the organization, procedure, or practice
+requirements of an agency,” with specific enumerated exceptions that are irrelevant to this case.
+Id. §§ 551(4), 804(3).
+
+       After receiving the rule, Congress may, within sixty days, pass a resolution of
+disapproval.   Id. § 802(a).   The CRA prescribes the exact form in which Congress must
+disapprove of a rule:
+
+       “That Congress disapproves the rule submitted by the __________ relating to
+       __________, and such rule shall have no force or effect.” (The blank spaces
+       being appropriately filled in).
+
+Id. If both houses of Congress pass a resolution, the joint resolution is presented to the President.
+Should the President sign the joint resolution, the disapproved-of rule “shall not take effect (or
+continue).” Id. § 801(b)(1).
+
+       The CRA also limits future agency action following the enactment of a disapproval
+resolution. The Act provides that:
+
+       A rule that does not take effect (or does not continue) . . . may not be reissued in
+       substantially the same form, and a new rule that is substantially the same as such a
+       rule may not be issued, unless the reissued or new rule is specifically authorized
+ Nos. 24-3133/3206/3252          Ohio Telecom Ass’n, et al. v. FCC, et al.              Page 31
+
+
+       by a law enacted after the date of the joint resolution disapproving the original
+       rule.
+
+Id. § 801(b)(2).   In addition, the Act contains a provision prohibiting judicial review of
+“determination[s], finding[s], action[s], or omission[s] under” the Act. Id. § 805.
+
+               2. Jurisdiction
+
+       As noted, we have exclusive jurisdiction over certain final orders issued by the FCC.
+28 U.S.C. § 2342. But the CRA contains the following provision: “No determination, finding,
+action, or omission under this chapter shall be subject to judicial review.” 5 U.S.C. § 805. Thus,
+to assure our jurisdiction to review Petitioners’ CRA claim, we must determine whether the CRA
+challenge at issue falls within § 805’s scope. See Ass’n of Civilian Technicians v. FLRA, 283
+F.3d 339, 341 (D.C. Cir. 2002) (assessing whether a statutory provision strips federal courts of
+jurisdiction to review certain agency actions).
+
+       On this question, the CRA’s plain text is dispositive. Section 805 precludes judicial
+review of any “determination, finding, action, or omission under this chapter.” 5 U.S.C. § 805
+(emphases added). Petitioners challenge an agency action—namely, the FCC’s issuance of the
+2024 Order. But the phrase “under this chapter” limits the provision’s preclusive effect to
+actions taken “under” the CRA, which imposes various obligations and requirements on
+Congress and federal agencies. Critically, the promulgation of the 2024 Order was not an action
+taken as part of the FCC’s legal obligations and requirements under the CRA. Rather, the Order
+was issued pursuant to the FCC’s rulemaking authority, and that “rulemaking authorit[y] [is] not
+part of the CRA, i.e., ‘this chapter.’” Kan. Nat. Res. Coal. v. U.S. Dep’t of Interior, 971 F.3d
+1222, 1236 (10th Cir. 2020). The Order therefore falls outside § 805’s limited preclusion of
+judicial review.
+
+       Because the 2024 Order does not constitute an “action . . . under” the CRA, we have
+jurisdiction over Petitioners’ CRA claim.
+ Nos. 24-3133/3206/3252             Ohio Telecom Ass’n, et al. v. FCC, et al.                             Page 32
+
+
+                 3. Merits
+
+        The CRA provides that a “rule that does not take effect (or does not continue)” following
+the enactment of a disapproval resolution “may not be reissued in substantially the same form,
+and a new rule that is substantially the same as such a rule may not be issued, unless the reissued
+or new rule is specifically authorized by a law enacted after” the resolution.                           5 U.S.C.
+§ 801(b)(2). Petitioners contend that the 2024 Order runs afoul of this provision because it
+constitutes a new rule that is “substantially the same” as the rule rejected by Congress in 2017.14
+Specifically, they argue that the disapproval of the 2016 Order precludes the FCC from
+promulgating a new rule that is “substantially the same” as any of the component provisions
+contained within the 2016 Order. The FCC disagrees, asserting that the disapproval resolution
+bars only the issuance of a new rule that is “substantially the same” as the entire 2016 Order that
+was rejected by Congress. To resolve this dispute, we evaluate the precise meaning and scope of
+the term “rule” as it is used in the CRA.
+
+        To date, neither the Supreme Court nor the Sixth Circuit has meaningfully examined the
+CRA, which has been infrequently utilized during its thirty-year existence. See Michael A.
+Livermore & Daniel Richardson, Administrative Law in an Era of Partisan Volatility, 69 Emory
+L.J. 1, 46-47 (2019). To discern the Act’s scope, we apply the traditional tools of statutory
+interpretation. See Loper Bright, 603 U.S. at 400-01; Felten, 993 F.3d at 431.
+
+        The starting point is the text. See Felten, 993 F.3d at 431. The CRA, incorporating the
+APA, defines the term “rule” as “the whole or a part of an agency statement of general or
+particular applicability and future effect designed to implement, interpret, or prescribe law or
+policy.” 5 U.S.C. §§ 551(4), 804(3). The definition makes clear that a rule can constitute either
+the “whole” or “a part” of an agency statement, depending on the applicable context.
+Section 801, in turn, provides that an agency may not issue “a new rule that is substantially the
+
+        14Petitioners also contend, in an undeveloped footnote, that the FCC failed to provide adequate notice of its
+interpretation of the CRA in its Notice of Proposed Rulemaking. But Petitioners forfeited this argument by
+confining it to a cursory footnote and failing to develop it. See United States v. Dairy Farmers of Am., 426 F.3d
+850, 856 (6th Cir. 2005) (“An argument contained only in a footnote does not preserve an issue for our review.
+Rather, an appellant's brief must include a statement of the issues presented for our review, and an argument with
+respect to each issue.”); Buetenmiller, 53 F.4th at 946 (holding that issues addressed in a perfunctory manner
+without developed argumentation are considered forfeited).
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 33
+
+
+same” as “[a] rule that does not take effect (or does not continue)” because of the enactment of
+“a joint resolution of disapproval . . . of the rule.”     Id. § 801(b).    Thus, for purposes of
+determining whether a new rule is substantially the same as a disapproved-of prior rule, the prior
+rule is to be construed based on the language chosen by Congress for the applicable disapproval
+resolution.
+
+       Using the CRA’s mandatory fill-in-the-blank format, id. § 802(a), Congress passed a
+resolution stating: “Congress disapproves the rule submitted by the Federal Communications
+Commission relating to ‘Protecting the Privacy of Customers of Broadband and Other
+Telecommunications Services’ (81 Fed. Reg. 87274 (December 2, 2016)), and such rule shall
+have no force or effect.” 131 Stat. at 88 (emphases added). By the resolution’s terms, “the rule”
+that Congress rejected and rendered inoperable was the entire 2016 Order—Congress
+disapproved of the 2016 Order as a “whole.” 5 U.S.C. § 551(4). Thus, the proper comparison is
+between the 2024 Order and the entire 2016 Order.
+
+       Petitioners argue that the phrase “rule that does not take effect (or does not continue)”
+refers not “to the rule specified in the joint resolution of disapproval,” but rather, to any
+constituent part of the broader rule that has been nullified by the applicable disapproval
+resolution. Petitioners’ Br. 48-51 (quotation omitted); see Dissenting Op. at 41 (agreeing with
+Petitioners’ construction). That reading contravenes the text of the CRA. Section 801(b)(2)’s
+reference to “a rule that does not take effect (or does not continue)” refers back to § 801(b)(1),
+which provides that “[a] rule shall not take effect (or continue), if the Congress enacts a joint
+resolution of disapproval, described under section 802, of the rule.” 5 U.S.C. § 801(b)(1)
+(emphasis added). The “rule that does not take effect (or does not continue)” is, by the Act’s
+express terms, the rule identified in the disapproval resolution pursuant to the procedures
+delineated in § 802.
+
+       It is true that when Congress disapproved the 2016 Order, it nullified every constituent
+rule contained therein. That conclusion is plainly required by the CRA’s mandate that “[a] rule
+shall not take effect (or continue), if the Congress enacts a joint resolution of disapproval . . . of
+the rule.” Id. It is also true that the disapproval resolution limited the FCC’s statutory authority
+going forward by proscribing it from promulgating a new rule “substantially the same” as the
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 34
+
+
+rejected rule. But to determine whether a new rule is “substantially the same” as a prior rule, the
+CRA makes clear that the prior rule should be construed as the rule identified in the disapproval
+resolution.   If Congress intended to prohibit an agency from issuing a new rule that is
+substantially the same as any part of a prior rule nullified by a disapproval resolution, it could
+have said so. That is not the language it chose.
+
+       Petitioners prognosticate that this construction would make a disapproval resolution
+“easy to circumvent” by reissuance of “any of the individual parts of [a] disapproved rule.”
+Petitioners’ Br. 54; see Dissenting Op. at 41-42 (similarly arguing that our construction would
+allow agencies to “easily circumvent” congressional disapprovals). Such a prediction does not
+overcome the Act’s plain text. Even if it were material to our disposition, it is unfounded.
+Congress can resolve this concern by passing resolutions with specific language. The CRA gives
+Congress ample opportunity to identify specific rules in its disapproval resolutions. See 5 U.S.C.
+§ 802(a). As the FCC notes, moreover, Petitioners offer a far more anomalous construction of
+the CRA. Under their view of the Act, the FCC would be prohibited from promulgating an
+entire compendium of rules contained within the 2016 Order, or any other disapproved-of
+omnibus order. Such a prohibition could encompass the narrowest, most anodyne “agency
+statement[s] of general or particular applicability and future effect,” including functional
+provisions such as definitions. Id. § 551(4). We cannot accept this atextual and anomalous
+construction of the CRA.
+
+       Accordingly, under the CRA’s plain text, we must compare the 2024 Order to the entire
+2016 Order and determine whether they are substantially the same. Id. § 801(b). The term
+“substantially” means “[f]ully, amply; to a great extent or degree; considerably, significantly,
+much.” Substantially, Oxford English Dictionary (2012 ed. Oxford Univ. Press). The 2024
+Order is far from “fully,” “considerably,” or “significantly” the same as the 2016 Order. The
+2016 Order was far more expansive, imposing a broad array of privacy rules on broadband
+Internet access services. The data breach notification requirements were a mere subset of the
+broader compendium of privacy rules in that Order. The 2024 Order, by contrast, addresses only
+data breach reporting requirements. The two rules are not substantially the same.
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 35
+
+
+       Finally, even if we were to adopt Petitioners’ construction and directly compare the 2016
+reporting requirements with the 2024 reporting requirements, we still would conclude that the
+two rules are not substantially the same. There are notable differences between the two sets of
+reporting requirements.    For example, unlike the 2016 Order, the 2024 Order extends its
+reporting requirements to TRS providers. Data Breach Reporting Requirements, 89 Fed. Reg. at
+9981-89. There are also small but meaningful differences between the substantive obligations
+imposed by the two sets of requirements.        As the FCC notes, the 2024 requirements are
+materially less prescriptive regarding the content and manner of customer notice. Granting
+leeway to effectively provide notice, the 2024 Order requires only “sufficient information so as
+to make a reasonable customer aware that a breach occurred on a certain date, or within a certain
+estimated timeframe, and that such a breach affected or may have affected that customer’s data.”
+Id. at 9980.
+
+       The 2016 Order requirements, in contrast, included written or electronic notification of a
+breach, a description of the data exposed and the date range of the breach, information the
+customer could use to contact the telecommunications carrier to inquire about the breach, and
+instructions for notifying federal authorities and law enforcement. Protecting Priv. of Customers
+of Broadband, 31 FCC Rcd. at 14085.            The two Orders also define the term “breach”
+differently—only the 2024 Order includes an exception exempting “good-faith acquisition[s] of
+covered data by an employee or agent of a carrier where such information is not used improperly
+or further disclosed.” Data Breach Reporting Requirements, 89 Fed. Reg. at 9971. Even under
+Petitioners’ conception of the CRA, the regulations are not “substantially the same.” See Safari
+Club Int’l v. Haaland, 31 F.4th 1157, 1170 (9th Cir. 2022) (rejecting the contention that two
+rules were substantially the same in part because the rules were not “substantively identical”).
+
+       We therefore conclude that the FCC’s issuance of the 2024 Order did not violate the
+CRA.
+
+                                      III. CONCLUSION
+
+       For the foregoing reasons, we DENY the petitions for review.
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 36
+
+
+                                         _________________
+
+                                             DISSENT
+                                         _________________
+
+       GRIFFIN, Circuit Judge, dissenting.
+
+       For two independent reasons, the FCC’s new data-breach-reporting rule is unlawful and
+should be set aside. First, Congress and the President expressly disapproved a similar rule in
+2017, foreclosing this new version under the Congressional Review Act. And second, neither
+statute the FCC relies on authorizes the rule. Because the majority opinion upholds this doubly
+unlawful rule, I respectfully dissent.
+
+       I concur in the majority’s rulings that we have jurisdiction to hear the consolidated
+petitions for review and to review the claim under the Congressional Review Act. Further, I join
+our court’s holding that 47 U.S.C. § 222 does not authorize the rule.
+
+                                                I.
+
+       Under the Administrative Procedure Act (APA), we must “hold unlawful and set aside
+agency action” that is “in excess of statutory jurisdiction, authority, or limitations, or short of
+statutory right.” 5 U.S.C. § 706(2)(C). Applying the APA, we “must exercise [our] independent
+judgment in deciding whether an agency has acted within its statutory authority,” and we “may
+not defer to an agency interpretation of the law simply because a statute is ambiguous.” Loper
+Bright Enters. v. Raimondo, 603 U.S. 369, 412–13 (2024).
+
+                                                II.
+
+       Begin with Congress’s disapproval of a nearly identical rule related to data-breach
+reporting. That disapproval bars the FCC’s new version of that rule.
+
+                                                A.
+
+       The Congressional Review Act (CRA) empowers Congress to oversee—and, with the
+President’s assent, overturn—rules promulgated by federal agencies. See Pub. L. No. 104-121,
+§ 251, 110 Stat. 868, 868–74 (1996) (codified at 5 U.S.C. §§ 801–08). Under the CRA, before
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 37
+
+
+an agency “rule” can take effect, the promulgating agency must submit to Congress a report with
+the proposed rule and an analysis of the costs and benefits. 5 U.S.C. § 801(a)(1)(A)–(B). The
+CRA uses the APA’s definition of “rule”: “the whole or a part of an agency statement of
+general . . . applicability and future effect designed to implement, interpret, or prescribe law or
+policy.” Id. § 551(4); see id. § 804(3) (providing that “[t]he term ‘rule’ has the meaning given
+[to] such term in section 551”).
+
+          After receiving an agency’s report, Congress may enact a “joint resolution” of
+disapproval within a defined timeframe.       See id. § 802(a).   The CRA specifies what that
+resolution must look like with a fill-in-the-blank template, which provides: “‘That Congress
+disapproves the rule submitted by the __________ relating to __________, and such rule shall
+have no force or effect.’ (The blank spaces being appropriately filled in).” Id. If Congress
+passes and the President signs a disapproval resolution, then the “rule shall not take effect (or
+continue).” Id. § 801(b)(1). Going forward, the rule “may not be reissued in substantially the
+same form, and a new rule that is substantially the same as such a rule may not be issued, unless”
+Congress “specifically authorize[s]” it “by a law enacted after the date of the joint resolution
+disapproving the original rule.” Id. § 801(b)(2).
+
+          Such a disapproval occurred here. Since 2007, the FCC has required telecommunications
+carriers to report breaches of a statutorily defined type of data called “customer proprietary
+network information” (CPNI)—technical information related to the customer’s “use of a
+telecommunications service.”       47 U.S.C. § 222(h)(1); see also Implementation of the
+Telecommunications Act of 1996, 22 FCC Rcd. 6927, 6929, 6943–45 (2007). But in 2016, the
+FCC issued an order adopting new privacy regulations and rules to protect not only CPNI but
+also “personally identifiable information” (PII). See Protecting the Privacy of Customers of
+Broadband and Other Telecommunications Services, 31 FCC Rcd 13911, 13913–14 ¶¶ 1, 6
+(2016).     The 2016 order included many specific, discrete rules, such as requirements that
+telecommunications providers inform customers “clearly and accurately . . . about what
+confidential information the carriers collect” and how they use it, id. at 13914 ¶ 8; standards for
+customer approval of a carrier’s use of sensitive customer information, id. at 13914–15, ¶ 9;
+requirements for data security, id. at 13915, ¶ 10; and—most relevant here—data-breach-
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                   Page 38
+
+
+reporting rules requiring carriers to notify affected customers and federal authorities when there
+is an unauthorized disclosure of PII, id. at 13915, ¶ 11; see also id. at 14080–81 (noting changes
+to 47 C.F.R. § 64.2002(c), (f), (m)).
+
+        As required under the CRA, the FCC submitted its 2016 order to Congress. Both houses
+of Congress then passed a joint disapproval resolution. See S.J. Res. 34, 115th Cong. (2017);
+H.R.J. Res. 230, 115th Cong. (2017). The joint resolution provided that “Congress disapproves
+the rule submitted by the Federal Communications Commission relating to ‘Protecting the
+Privacy of Customers of Broadband and Other Telecommunications Services’ (81 Fed. Reg.
+87274) (December 2, 2016), and such rule shall have no force or effect.” Pub. L. No. 115-22,
+131 Stat. 88, 88 (2017). The President signed Congress’s disapproval resolution on April 3,
+2017. See id. Consequently, the FCC rescinded the 2016 order, including the order’s version of
+the data-breach-reporting rule. See Protecting the Privacy of Customers of Broadband and Other
+Telecommunications Services, 82 Fed. Reg. 44118, 44122–23 (Sept. 21, 2017).
+
+                                                B.
+
+        At issue is whether the 2017 disapproval forecloses the 2024 data-breach-reporting rule.
+All agree that, after the 2017 disapproval, Congress did not “specifically authorize[]” the 2024
+rule by later-enacted legislation. 5 U.S.C. § 801(b)(2). Thus, the disapproval’s effect depends
+on whether the 2024 rule is “substantially the same as” the earlier, disapproved one. Id.
+
+        Start with the many similarities between the 2016 and 2024 data-breach-reporting rules.
+A table from petitioners’ brief (at 44) helps to visualize just how similar these rules are,
+particularly when compared to the predecessor 2007 rule concerning breach reporting for CPNI.
+
+                         2007 Rule                   2016 Rule                    2024 Rule
+
+                 Imposes       reporting Imposes reporting duties Imposes      reporting
+Scope            duties with respect to with respect to CPNI and duties with respect to
+                 CPNI                    PII                      CPNI and PII
+ Nos. 24-3133/3206/3252      Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 39
+
+
+                “[W]hen a person,          “[A]ny instance in which a      “[W]hen a person,
+                without authorization or   person, without                 without authorization
+                exceeding authorization,   authorization or exceeding      or           exceeding
+                has intentionally gained   authorization, has gained       authorization,    gains
+Definition of   access to, used, or        access to, used, or disclosed   access to, uses, or
+“breach”        disclosed        CPNI.”    customer proprietary            discloses      covered
+                47 C.F.R. § 64.2011(e)     information.” 47 C.F.R.         data.”     47 C.F.R.
+                (2008)        (emphasis    § 64.2002(c) (proposed          § 64.2011(e)(1) (2024)
+                added).                    2016) (omits                    (omits
+                                           “intentionally”).               “intentionally”).
+
+                Limited to “CPNI” “Customer proprietary                    “Covered data”
+                only.      47 C.F.R. information” includes                 includes “CPNI” and
+                § 64.2011(e) (2008). “CPNI” and “PII.”                     “personally
+Definition of
+                                     47 C.F.R. § 64.2002(f)                identifiable
+protected
+                                     (proposed 2016) (emphasis             information.”
+data
+                                     added).                               47 C.F.R.
+                                                                           § 64.2011(e)(2) (2024)
+                                                                           (emphasis added).
+
+                Applies only where a       Omits the requirement of        Omits the requirement
+                person “intentionally”     “intentional[]” access or       of “intentional[ ]”
+State of mind   accesses or discloses      disclosure. See 47 C.F.R.       access or disclosure.
+of the party    covered data without       § 64.2002(c)     (proposed      See     47      C.F.R.
+responsible     authorization.             2016).                          § 64.2011(e)(1)
+for the         47 C.F.R. § 64.2011(e)                                     (2024).
+breach          (2008).
+
+
+                FBI and Secret Service. FBI, Secret Service, and           FBI, Secret Service,
+                47 C.F.R. § 64.2011(b)  FCC.         47     C.F.R.         and FCC.
+Agencies to     (2008).                 § 64.2006(b)–(c) (proposed         47 C.F.R. § 64.2011(a)
+be notified                             2016).                             (2024).
+
+
+                No timeline. 47 C.F.R. “30 calendar days after the         “30     days     after
+                § 64.2011(c) (2008).   carrier         reasonably          reasonable
+Timeline for
+                                       determines that a breach            determination of a
+customer
+                                       has occurred.” 47 C.F.R.            breach.” 47 C.F.R.
+notification
+                                       § 64.2006(a)     (proposed          § 64.2011(b) (2024).
+                                       2016).
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 40
+
+
+        In response, the majority points to minor, technical differences between the 2016 and
+2024 data-breach-reporting rules, such as differences in what information must be included in
+breach notifications and how many customers must be affected to trigger reporting requirements.
+But such differences are inconsequential:       The rules, adopting nearly identical regimes for
+reporting breaches of customer PII, are “substantially the same.” 5 U.S.C. § 801(b)(2). To hold
+otherwise is to give administrative agencies an obvious way to circumvent the CRA—just make
+minor, technical changes to a previously disapproved rule.
+
+        Because the 2024 data-breach-reporting rule is “substantially the same” as the one
+Congress disapproved in 2017, the CRA blocks the new rule.
+
+                                                 C.
+
+        But the majority directs our attention elsewhere. It asserts that, instead of focusing on the
+similarities between the specific breach-reporting rules, we should instead compare the entirety
+of the FCC’s 2016 and 2024 orders, which included the breach-reporting rules and many other
+discrete rules.
+
+        That argument brings us to the heart of the CRA issue: When evaluating whether the
+new rule is “substantially the same as” the earlier, disapproved one, id., do we focus on the “the
+part” (the discrete breach-reporting rules) or “the whole” (the orders that included the breach-
+reporting rules, as well as many others)? To put the question another way: At what level of
+generality do we evaluate whether “the rule” is being “reissued in substantially the same form”?
+Id.
+
+        As the majority notes, there is little precedent to guide our interpretation of the CRA.
+CRA disapprovals, by their nature, are enacted in historically rare circumstances—“when there
+has been a recent change in partisan control of the White House, the new President’s party has
+majorities in both chambers of Congress, and there are rules from the previous administration for
+which the sixty-legislative-day clock has not yet run out.”         Jody Freeman & Matthew C.
+Stephenson, The Untapped Potential of the Congressional Review Act, 59 Harv. J. on Legis. 279,
+286 (2022). For this reason, there have been only a handful of CRA disapprovals since its 1996
+enactment, id. at 286–87 & nn.32–34, and no on-point cases to guide our decision.
+ Nos. 24-3133/3206/3252          Ohio Telecom Ass’n, et al. v. FCC, et al.               Page 41
+
+
+        Thus, this interpretative challenge begins with the text of the 2017 disapproval:
+“Congress disapproves the rule submitted by the Federal Communications Commission relating
+to ‘Protecting the Privacy of Customers of Broadband and Other Telecommunications Services’
+(81 Fed. Reg. 87274) (December 2, 2016), and such rule shall have no force or effect.” 131 Stat.
+at 88. By the resolution’s plain terms, it cited to the entire 2016 order (i.e., the whole). So, at
+first blush, this text favors the majority’s view.
+
+        But by disapproving the whole 2016 order, Congress disapproved of each of its
+constituent parts. After all, the CRA defines a “rule” as “[t]he whole or a part of an agency
+statement of general . . . applicability and future effect designed to implement, interpret, or
+prescribe law or policy.” 5 U.S.C. § 551(4) (emphasis added); see id. § 804(3). Therefore, the
+effect of congressional disapproval of the rule is also disapproval of its parts. Although the
+majority asserts that Congress could have made line-by-line disapprovals of the specific rules it
+wished to reject, the CRA neither requires such specificity nor allows a line-item veto. There is
+no reason to subject congressional disapprovals of agency action to a clear-statement rule.
+
+        Quite to the contrary, our interpretation of the CRA ought to elevate the will of Congress
+over that of an administrative agency.          It is our elected representatives, not unelected
+commissioners, whom the Constitution vests with legislative power. See Consumers’ Rsch., 145
+S. Ct. at 2496.     True, Congress can “seek assistance” from agencies by making limited
+delegations of rulemaking authority, id. at 2496–97 (citation modified), but as the CRA makes
+clear, Congress can and does rein in that authority when it disagrees with what an agency has
+done. We should ensure that legislative power remains where the Constitution put it—with
+Congress.    And thus we must “avoid rendering what Congress has plainly done”—here,
+disapproving rules—“devoid of reason and effect.”          Great-W. Life & Annuity Ins. Co. v.
+Knudson, 534 U.S. 204, 217–18 (2002).
+
+        The majority’s exclusive focus on the entire order would allow administrative agencies to
+easily circumvent Congress’s disapproval. For instance, if the FCC issued an order adopting
+four discrete rules (Rules A, B, C, and D) and Congress disapproved it, then, under the
+majority’s logic, the FCC could skirt the disapproval by readopting Rules A and B in one order
+and Rules C and D in another. Neither of those new orders, under the majority’s interpretation
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 42
+
+
+of the CRA, would be “substantially the same” as the one that Congress disapproved. That
+interpretation, rather than giving effect to congressional intent, merely encourages creative ways
+to flaunt it.
+
+        The majority responds that it would be an “anomalous construction of the CRA” if a
+disapproval prevented an agency from re-promulgating any “rule” in a disapproved order, which
+could include “the narrowest, most anodyne” of agency statements like “definitions.” But that
+argument has several flaws. First, depending on the circumstances, it is far from a clear that
+something like a definition qualifies as a “rule”—a “statement of general . . . applicability and
+future effect designed to implement, interpret, or prescribe law or policy.” 5 U.S.C. § 551(4);
+see id. § 804(3).     Second, the CRA includes an exception for inconsequential, procedural
+language or rules—it excepts any “rule of agency organization, procedure, or practice that does
+not substantially affect the rights or obligations of non-agency parties.” Id. § 804(3)(C). Third,
+and most importantly, we ought not usurp legislative power from Congress and give it to an
+administrative agency on grounds of a purportedly “anomalous” reading of a statute. If Congress
+disapproved an order but later wants to restore the agency’s authority to enact rules within that
+order, it is Congress’s prerogative to confer that power through later-enacted legislation. See id.
+§ 801(b)(2). There is nothing “anomalous” about such a reading—it correctly assumes that the
+legislative power, and the authority to delegate that legislative power, rests with Congress. See
+U.S. Const. art. I, § 1.
+
+                                                D.
+
+        To hold that Congress’s 2017 disapproval does not bar this rule is to render that
+disapproval meaningless and to shift legislative power from Congress to an administrative
+agency. Cf. Loper Bright, 603 U.S. at 411–13 (correcting Chevron’s improper shift of judicial
+power to administrative agencies). I interpret the CRA and the 2017 disapproval in a way that
+preserves Congress’s ability to give agencies only those powers it wishes to confer. Thus, in my
+view, Congress’s disapproval of the FCC’s 2016 rule bars the FCC’s 2024 data-breach-reporting
+rule because the two rules are “substantially the same.”
+ Nos. 24-3133/3206/3252        Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 43
+
+
+                                               III.
+
+       There is another reason to set the rule aside. The FCC claims that two statutes authorize
+the rule—47 U.S.C. §§ 201(b) and 222(a). However, neither does. Because the majority and I
+agree that § 222(a) does not authorize it, I focus on where we disagree: § 201(b).
+
+       Section 201(b) provides in relevant part:
+
+       All charges, practices, classifications, and regulations for and in connection with
+       [a] communication service [by wire or radio], shall be just and reasonable, and
+       any such charge, practice, classification, or regulation that is unjust or
+       unreasonable is declared to be unlawful . . . .
+
+Id. § 201(b) (emphases added). At issue is whether the regulated activity here—data-breach-
+notification practices with respect to customers’ PII—is a “practice[] . . . in connection with [a]
+communication service,” id.; see also Data Breach Reporting Requirements, 38 FCC Rcd.
+12523, 12584 n.446 (2023).
+
+       When, as here, a statute does not “expressly confer[] discretion on the agency,”
+Moctezuma-Reyes v. Garland, 124 F.4th 416, 420, 422 (6th Cir. 2024), we use our “traditional
+tools of statutory construction” to determine the scope of an agency’s power,” Loper Bright,
+603 U.S. at 401. “[S]tatutes, no matter how impenetrable, do—in fact, must—have a single, best
+meaning.” Loper Bright, 603 U.S. at 400. Indeed, “[t]hat is the whole point of having written
+statutes; ‘every statute’s meaning is fixed at the time of enactment.’” Id. (citation omitted); see
+also In re MCP No. 185, 124 F.4th 993, 1001 (6th Cir. 2025). “So instead of declaring a
+particular party’s reading ‘permissible’ in such a case, courts use every tool at their disposal to
+determine the best reading of the statute and resolve the ambiguity.” Loper Bright, 603 U.S. at
+400.
+
+                                                A.
+
+       Statutory interpretation begins with the text. I agree with the majority that the text,
+“practice[] . . . in connection with,” is facially broad.        In some sense, everything a
+telecommunications carrier does—from laying fiber-optic cable to providing employees with
+healthcare benefits—is an activity in furtherance of, and thus a “practice in connection with,” the
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.               Page 44
+
+
+communication service the carrier provides. But our reading of that ambiguous phrase cannot be
+so literal as to be all-encompassing. Cf. Cal. Div. of Lab. Standards Enf’t v. Dillingham Constr.,
+N.A., Inc., 519 U.S. 316, 335 (1997) (Scalia, J., concurring) (opining that broad statutory
+language can provide “an illusory test” because, in some sense, “everything is related to
+everything else”). All agree that the FCC may not invoke § 201(b) to regulate “all carrier
+business activities.”
+
+       Instead of pretending that the plain text “in connection with” provides any meaningful
+limitation on its own, we must employ tools of statutory construction to understand the statute’s
+limits and determine whether it permits the FCC to dictate to carriers when, how, and to whom
+they must report breaches of customer PII.
+
+       Consider first how the canon of noscitur a sociis—that a word is “known by the company
+it keeps”—narrows the term “practices.” See Gustafson v. Alloyd Co., 513 U.S. 561, 575 (1995).
+In the statute, the term “practices” appears in a group with “charges,” “classifications,” and
+“regulations.” These terms all address conduct that is inherent in or necessary for a carrier’s
+provision of communication services, e.g., setting rates or classifying services.
+
+       By comparison, reporting breaches of customer PII is an activity much farther afield from
+providing communication services. True, carriers collect and store such data as part of their
+provision of services, so perhaps those activities (PII collection and storage) are inherent in or
+necessary for the provision of communication services. But the data-breach-reporting rule does
+not purport to govern how carriers collect or store PII; rather, it regulates whether and how
+carriers report to customers and the government when stored PII is compromised.
+
+       Terms like “charges,” “classifications,” and “regulations” come nowhere close to
+encompassing data-breach reporting—an activity unnecessary for providing communication
+services. To hold that one term in the statutory foursome reaches such a tangentially related
+activity gives that term far more expansive meaning than the others and thus violates the canon
+of noscitur a sociis. See id.
+
+       The majority opinion brushes this canon aside, asserting that noscitur a sociis “cannot be
+used to ‘rob’ the plain statutory text of its independent and ordinary significance.”
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 45
+
+
+(Citing Graham Cnty. Soil & Water Conservation Dist. v. U.S. ex rel. Wilson, 559 U.S. 280, 288
+(2010)).   But what “independent and ordinary significance” does § 201(b) provide?              The
+majority offers no limiting principle other than the vague qualifier that the practice at issue must
+“have a direct connection to a carrier’s provision of communication services.” That purported
+qualifier merely rephrases the statute’s ambiguous language. In my view, reporting breaches of
+customer PII has no “direct connection” to the provision of communications services—certainly
+not in the same sense that setting rates or classifying services does.
+
+       Nor does the FCC offer a limiting principle on a broad construction of “practices.” Faced
+with the argument that a broad construction would allow it to regulate virtually anything a carrier
+does in its business, the FCC responds only that its “application of Section 201(b) has no such
+far-reaching ambition.” But if a broad construction would grant the FCC authority to make such
+“far-reaching” regulations when it has the “ambition” to do so, that construction is incorrect. It
+is, after all, up to us to “fix the boundaries” of the rulemaking authority delegated by statute. In
+re MCP No. 185, 124 F.4th at 1012 (quoting Loper Bright, 603 U.S. at 395); see also FCC v.
+Consumers’ Rsch., 145 S. Ct. 2482, 2496–97 (2025) (explaining that a statute delegating
+rulemaking authority must have an “intelligible principle” making clear the “boundaries” of the
+agency’s authority (citation omitted)).
+
+       A second canon of construction, the general/specific canon, also supports a more limited
+view of § 201(b) when considered alongside 47 U.S.C. § 222. That canon provides that where a
+“limited, specific authorization” exists along with a more “general authorization,” we must avoid
+a construction where the general provision “swallow[s]” the specific one. RadLAX Gateway
+Hotel, LLC v. Amalgamated Bank, 566 U.S. 639, 645 (2012).
+
+       Construing § 201(b) to encompass authority regarding data privacy and disclosures
+violates that canon because § 222 covers those topics in detail. As the majority explains,
+§ 222—titled, “Privacy of customer information”—provides a duty to protect customer
+information and specifies various requirements for and exceptions to that duty. See 47 U.S.C.
+§ 222(a)–(g). It is primarily concerned with CPNI, a defined category of information that is
+related to a customer’s “use of a telecommunications service” and that does not encompass PII.
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.              Page 46
+
+
+See id. § 222(h)(1). As the majority states, § 222 obligates carriers “to adhere to particular
+statutory requirements—and exceptions to those requirements—regarding” CPNI.
+
+       When such a detailed statute lays out such a specific framework related to “Privacy of
+customer information,” it is difficult to imagine that Congress intended § 201(b)’s general
+language to open the floodgates to all kinds of other rules related to carriers’ “practices”
+concerning the same. Indeed, construing § 201(b) to permit all manner of regulations related to
+“Privacy of customer information” not only elevates the general authorization over the specific
+one but also renders § 222’s meticulous framework “superflu[ous].” RadLAX Gateway Hotel,
+566 U.S. at 645.
+
+       The majority opinion claims that this canon does not apply because § 222 does not
+mention “disclosure of breaches of customer PII.” Yet § 222’s silence on that topic calls for
+precisely the opposite conclusion. Because § 222 provides for a specific framework related to
+“Privacy of customer information,” and because § 222 does not mention PII, it follows that
+Congress did not intend for the FCC to regulate the privacy of customer PII—much less mandate
+reporting when PII is compromised. After all, as the majority opinion explains, “Congress
+knows how to expressly reference PII when it so desires,” as demonstrated by other portions of
+the Communications Act that mention PII explicitly. See Cable Communications Policy Act of
+1984, Pub. L. No. 98-549, 98 Stat. 2779, 2794–95 (codified at 47 U.S.C. § 551) (imposing
+certain duties on cable operators to protect subscribers’ PII); Satellite Home Viewer Extension
+and Reauthorization Act of 2004, Pub. L. No. 108-447, 118 Stat. 3393, 3425–27 (codified at 47
+U.S.C. § 338) (requiring satellite operators to protect subscribers’ PII).
+
+       Congress made this general/specific point even clearer by omitting a key clause from
+§ 222 that would have limited § 222’s effect on § 201(b).             When Congress enacted the
+neighboring provision of 47 U.S.C. § 251, which concerns how carriers link their networks, it
+included a so-called “[s]avings provision.” 47 U.S.C. § 251(i). That savings clause provides that
+“[n]othing in this section shall be construed to limit or otherwise affect the Commission’s
+authority under section 201 of this title.” Id. By omitting that clause from § 222, Congress
+communicated its intent: § 222’s specific framework is what governs “Privacy of customer
+information,” and we should construe that specific framework to limit the FCC’s authority under
+ Nos. 24-3133/3206/3252          Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 47
+
+
+§ 201(b). See Me. Cmty. Health Options v. United States, 590 U.S. 296, 314 (2020) (“[W]hen
+Congress includes particular language in one section of a statute but omits it in another, Congress
+intended a difference in meaning.” (citation modified)).
+
+        Thus, although § 201(b)’s facially broad text is ambiguous, the applicable canons of
+construction and textual clues from neighboring provisions all point to a more limited view. We
+ought not construe § 201(b) as a freestanding font of regulatory authority for information-
+privacy-related matters when other terms in the statute suggest a narrower construction, when a
+neighboring section provides a comprehensive framework on that topic, and when that
+neighboring section omits a savings clause preserving § 201(b)’s authority.
+
+                                                  B.
+
+        Looking beyond the text and canons of construction, we look to precedent. On that score,
+I agree with the majority that Global Crossing Telecommunications, Inc. v. Metrophones
+Telecommunications, Inc., 550 U.S. 45 (2007), is instructive, but I read it as pointing in the
+opposite direction from the majority’s holding.
+
+        Global Crossing addressed whether § 201(b)’s “unreasonable practice” prohibition
+authorized an FCC regulation and subsequent determination. Id. at 55. After Congress passed
+special legislation addressing cost-sharing for payphone use, the FCC promulgated a regulation
+requiring carriers to reimburse payphone operators for statutorily required “free” payphone calls
+at a specified amount per call. Id. at 47. The FCC then determined that “a carrier’s refusal to
+pay the compensation ordered amounts to an ‘unreasonable practice’ within the terms of
+§ 201(b).” Id. at 51–52.
+
+        The Court held that such a refusal fits within § 201(b)’s prohibition on “unreasonable
+practice[s].”    Id. at 55.   It first determined that, as a textual matter, a carrier’s refusal to
+compensate payphone operators despite receiving a benefit from them constituted a
+“practic[e] . . . in connection with [furnishing a] communication service.” Id. (alterations in
+original).      It next noted that “the underlying regulated activity . . . resembles activity
+that . . . communications agencies have long regulated,” such as “determin[ing] costs of some
+segments of a call while requiring providers of other segments to divide related revenues.” Id. at
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                 Page 48
+
+
+55–56. “[T]he traditional, historical subject matter of § 201(b),” the Court observed, is “rate
+setting and rate divisions,” providing support for the notion that the FCC could regulate cost-
+sharing among carriers and payphone operators. See id. at 60. The Court concluded that because
+“there is an explicit statutory scheme, and compensation of payphone operators is necessary to
+the proper implementation of that scheme,” the FCC’s determination “that the failure to follow
+the order is an unreasonable practice is well within its authority.” Id. at 56.
+
+       The data-breach-reporting rule here differs from the regulation upheld in Global Crossing
+in two important ways. First, unlike in Global Crossing, the FCC did not enact the data-breach-
+reporting rule in response to specific legislation calling for such a rule. Quite the opposite: The
+rule’s authority is based solely on the vacuous language of a nearly 100-year-old statute; no
+recent action from Congress called for it. See Communications Act, 48 Stat. 1064 (1934)
+(codified as amended at 47 U.S.C. § 151 et seq.). Indeed, recent congressional action cuts
+against enacting this rule. (See § II above.) Second, the rule expands the scope of the term
+“practic[e] . . . in connection with [furnishing a] communication service,” Glob. Crossing, 550
+U.S. at 55 (alterations in original), far beyond § 201(b)’s “traditional, historical subject matter”
+of “rate setting and rate divisions,” id. at 60. While a regulation concerning whether carriers
+must compensate payphone operators at specified amounts per call falls within the heartland of
+the FCC’s authority, the same cannot be said of a requirement of reporting disclosures of
+customer PII. The latter activity does not “resemble[] activity that . . . communications agencies
+have long regulated.” Id. at 55–56.
+
+       For support of its expansive reading of § 201(b), the majority homes in on Global
+Crossing’s string citation to FCC decisions where the agency determined other “practices” to be
+unreasonable under § 201(b), such as engaging in deceptive marketing and entering exclusive
+contracts with commercial building owners. See id. at 53–54. But that citation is inapposite for
+two reasons.
+
+       First, the Court mentioned those other practices only to show “that the FCC has long
+implemented § 201(b) through the issuance of rules and regulations.” Id. at 53. Indeed, the
+Court cited those determinations as mere background before “turn[ing]” to the question of
+“whether the particular FCC regulation before us lawfully implements § 201(b)’s ‘unreasonable
+ Nos. 24-3133/3206/3252         Ohio Telecom Ass’n, et al. v. FCC, et al.                  Page 49
+
+
+practice’ prohibition.” Id. at 55. The Court certainly did not hold that those cited regulations
+were valid under § 201(b)’s “single, best meaning.” See Loper Bright, 603 U.S. at 400.
+
+        Second, even assuming the validity of those other regulations under § 201(b), they
+regulate activities more closely “connect[ed] with” the furnishing of communication services
+than the activity of reporting breaches of customer PII. See Glob. Crossing, 550 U.S. at 55. A
+carrier must market its communication service to obtain customers, and a carrier must contract
+with commercial building owners to furnish communication services to their buildings. Because
+these activities are “necessary” to the furnishing of communication services, there is a stronger
+argument that the FCC has authority to regulate them under § 201(b). See id. at 56. By contrast,
+carriers need not take any action in response to breaches of customer PII to furnish a
+communication service. Thus, unlike the practices mentioned in Global Crossing, reporting
+breaches of customer PII does not fall within § 201(b)’s ambit.
+
+        As for other precedent, the majority discounts an instructive case from the D.C. Circuit,
+California Independent System Operator Corp. v. FERC, 372 F.3d 395 (D.C. Cir. 2004), which
+interpreted similar statutory language. There, the D.C. Circuit held that the term “practice” in 16
+U.S.C. § 824e(a) did not authorize the Federal Energy Regulatory Commission (FERC) “to
+replace the governing board of” a utility company. Id. at 396, 399. Like the language of
+§ 201(b), that statute empowers FERC to determine whether “any rule, regulation, practice, or
+contract affecting [a] rate, charge, or classification” by a public utility “is unjust” or
+“unreasonable.”     16 U.S.C. § 824e(a) (emphasis added).       The court reasoned that FERC’s
+interpretation of the term “practice” was “quite a leap” from the “more traditional sense” of
+actions frequently “taken by a utility in connection with a rate” to the all-encompassing sense
+that the term empowers the Commission “to reform completely the governing structure of the
+utility.” Id. at 400.
+
+        That reasoning applies forcefully here. The FCC’s and majority’s expansive view of the
+term “practice” is indeed “quite a leap,” id., effectively giving the FCC the green light to regulate
+all manner of carrier business activities and going well beyond anything “resembl[ing]” “the
+traditional, historical subject matter of § 201(b),” Glob. Crossing, 550 U.S. at 55, 60.
+ Nos. 24-3133/3206/3252          Ohio Telecom Ass’n, et al. v. FCC, et al.                Page 50
+
+
+                                                 C.
+
+       Finally, the majority opinion’s policy-based reasoning is both inappropriate and
+unpersuasive. The majority opines that a “regulatory void” will result if the FCC cannot enact
+the 2024 data-breach-reporting rule because carriers are exempt from similar requirements under
+the Federal Trade Commission Act. That argument has several flaws.
+
+       First, policy arguments alone cannot save a poor reading of a statute. If the “single, best
+meaning” of a statute leads to regulatory gaps, then it is for Congress, not us, to correct it. See
+Loper Bright, 603 U.S. at 400.
+
+       Second, the majority opinion’s policy argument ignores other federal agencies’
+regulations, based on other statutory authority, requiring data-breach reporting from
+telecommunications carriers. For instance, the Securities and Exchange Commission requires
+publicly traded companies to disclose “material cybersecurity incidents” on publicly filed forms.
+See Cybersecurity Risk Management, Strategy, Governance, and Incident Disclosure, 88 Fed.
+Reg. 51896 (Aug. 4, 2023) (codified at 17 C.F.R. §§ 229.106).            And the Department of
+Homeland Security has proposed a rule requiring covered entities, including those in the
+communications sector, to report cybersecurity incidents to the U.S. Cybersecurity and
+Infrastructure Security Agency. See Cyber Incident Reporting for Critical Infrastructure Act of
+2022 Reporting Requirements, Proposed Rule, 89 Fed. Reg. 23644, 23686 (April 4, 2024); see
+also U.S. Government Accountability Office, Critical Infrastructure Protection:           DHS Has
+Efforts Underway to Implement Federal Incident Reporting Requirements (July 30, 2024),
+available at: https://www.gao.gov/assets/gao-24-106917.pdf. Thus, other federal agencies may
+require carriers to report breaches of PII, even if the FCC lacks the statutory authorization to do
+so.
+
+       Finally, federal regulations aside, many states require data-breach reporting to
+consumers. See Security Breach Notification Laws, Nat’l Conf. of State Legislatures (last
+updated     Jan.     17,    2022),      available     at:    https://www.ncsl.org/technology-and-
+communication/security-breach-notification-laws        (collecting   “laws    requiring     private
+businesses . . . in most states . . . to notify individuals of security breaches of information
+ Nos. 24-3133/3206/3252       Ohio Telecom Ass’n, et al. v. FCC, et al.               Page 51
+
+
+involving personally identifiable information.”). Thus, even considering the majority’s policy
+arguments, the alleged “regulatory gap” that would result if petitioners prevailed here is much
+narrower than the majority suggests.
+
+                                              D.
+
+        For these reasons, I would hold that § 201(b) does not authorize the FCC’s data-breach-
+reporting rule.
+
+                                              IV.
+
+        Because this unlawful rule violates the disapproval resolution passed under the CRA and
+lacks statutory authorization, I would grant the petitions for review and set aside the rule.
+I respectfully dissent.
+

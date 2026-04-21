@@ -1,0 +1,756 @@
+ United States Court of Appeals
+        FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 17, 2024               Decided July 9, 2024
+
+                      No. 22-1116
+
+        SHELL ENERGY NORTH AMERICA (US), L.P.,
+                     PETITIONER
+
+                            v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+    CALIFORNIA PUBLIC UTILITIES COMMISSION, ET AL.,
+                    INTERVENORS
+
+
+
+  Consolidated with 22-1121, 22-1153, 22-1154, 22-1155,
+  22-1156, 22-1157, 22-1159, 22-1167, 22-1168, 22-1169,
+  22-1182, 22-1207, 22-1211, 22-1212, 22-1213, 22-1243,
+  22-1250, 22-1259, 22-1263, 22-1265, 22-1298, 22-1299,
+  22-1304, 22-1305, 22-1306, 22-1307, 22-1319, 22-1322,
+  22-1323, 22-1324, 22-1325, 23-1008, 23-1011, 23-1012,
+                         23-1013
+
+
+         On Petitions for Review of Orders of the
+         Federal Energy Regulatory Commission
+                              2
+     Scott H. Angstreich argued the cause for Seller-Marketer
+petitioners. With him on the joint briefs were Paul W. Hughes,
+Neil L. Levy, David G. Tewksbury, Andrew A. Lyons-Berg,
+David C. Frederick, Collin R. White, Kenneth W. Irvin, Brian
+P. Morrissey, David A. Super, and Britt Cass Steckman.
+Vincenzo Franco entered an appearance.
+
+     Candace J. Morey argued the cause for CPUC-SCE
+petitioners. With her on the briefs were Christine Hammond,
+Jonathan Knapp, Angela Wuerth, Aaron Jacobs-Smith,
+William Yu, and Rebecca Furman. Christopher E. Clay, Anand
+Durvasula, and Hannah E. Ford-Stille entered appearances.
+
+    Scott Ray Ediger, Attorney, Federal Energy Regulatory
+Commission, argued the causes for respondent. With him on
+the brief were Matthew R. Christiansen, General Counsel,
+Robert H. Solomon, Solicitor, and Lona T. Perry, Deputy
+Solicitor.
+
+     Candace J. Morey argued the cause for CPUC-SCE
+intervenors in support of respondent. With her on the brief
+were Christine Hammond, Aaron Jacobs-Smith, Anand
+Durvasula, Hannah Ford-Stille, William Yu, and Rebecca
+Furman. Jonathan P. Knapp and Angela L. Wuerth, and
+Christopher E. Clay entered appearances.
+
+     Paul W. Hughes argued the cause for Seller-Marketer
+intervenors. With him on the joint brief were David C.
+Frederick, Scott H. Angstreich, Collin R. White, David G.
+Tewksbury, Neil L. Levy, Kenneth W. Irvin, Brian P. Morrissey,
+Suedeen Gibbons Kelly, John N. Estes III, Christopher R.
+Jones, Vincenzo Franco, Mark R. Haskell, and Brian B. Bell.
+Betsy R. Carr, Vernle C. Durocher, Jr., Matthew E. Price, Britt
+C. Steckman, and Connor Suozzo entered appearances.
+                                3
+    Before: SRINIVASAN, Chief Judge, MILLETT and PILLARD,
+Circuit Judges.
+
+    Opinion for the Court filed PER CURIAM.
+
+    PER CURIAM: This case concerns the sale of electricity
+under the Federal Power Act, 16 U.S.C. §§ 791a et seq, and the
+Federal Energy Regulatory Commission’s (“FERC” or the
+“Commission”) efforts to limit the rates at which certain
+wholesale electricity is traded.
+
+     For over two decades, the Commission has maintained a
+“soft” price cap for certain short-term electricity sales in parts
+of the western United States. That soft cap limits the price at
+which electricity sellers can offer electricity for sale in certain
+markets and requires “justification and refund” of above-cap
+sales—sellers who transact at prices above the soft cap must
+justify those transactions to the Commission or be required to
+refund sale prices that exceed the cap.
+
+     In August 2020, the western United States experienced a
+heat wave that affected wholesale electricity supply and
+demand and led to increased prices in the market for short-term
+electricity supply in that region. Some of the short-term sales
+occurred at prices above the Commission’s soft cap. Sellers
+who transacted at above-cap prices were thus required to justify
+those transactions to the Commission.
+
+     After reviewing the sellers’ justification filings, the
+Commission determined that some sellers had failed to justify
+their above-cap sales and ordered partial refunds. As relevant
+here, the Commission determined that the justification-and-
+refund inquiry into those above-cap sales did not implicate the
+Mobile-Sierra presumption established in case law. That
+presumption holds that contract rates formed through arms-
+                               4
+length, bilateral negotiation are entitled to a presumption of
+reasonableness that the Commission can overcome only by
+finding that the rate “seriously harms the public interest” or by
+determining that the conditions underlying the presumption do
+not apply.
+
+     Two groups of petitioners now challenge the
+Commission’s refund orders. One group of petitioners consists
+of sellers of electricity whose transactions were subject to
+refund under the soft-cap framework (“Sellers”). Sellers argue,
+among other things, that the Commission erred by failing to
+conduct any Mobile-Sierra analysis prior to ordering refunds.
+The other group consists of the California Public Utilities
+Commission, a state regulatory agency, and Southern
+California Edison Company, an investor-owned utility
+(“Consumers”). The Consumers contend that the Commission
+committed errors in calculating the Sellers’ refunds that will
+lead to higher electricity prices in the future.
+
+     We agree with the Sellers that the Commission should
+have conducted the Mobile-Sierra analysis prior to ordering
+refunds, and so we grant the Sellers’ petitions for review,
+vacate the orders they challenge, and remand for further
+proceedings. Because of that holding, the Commission
+necessarily will need to change its refund analysis for above-
+cap sales going forward, and any decision by this Court on the
+validity of that framework would be purely advisory. For that
+reason, we dismiss the Consumers’ petitions for review as
+moot.
+                                5
+                                I
+
+                                A
+
+                                1
+
+     The Federal Energy Regulatory Commission has
+“jurisdiction over all facilities” involved in “the transmission
+of electric energy in interstate commerce and * * * the sale of
+electric energy at wholesale in interstate commerce[.]” 16
+U.S.C. § 824(b)(1).
+
+     The Federal Power Act, 16 U.S.C. § 791a et seq., charges
+the Commission with ensuring that “[a]ll rates and charges
+made, demanded, or received by any public utility for or in
+connection with the transmission or sale of electric energy
+* * * and all rules and regulations affecting or pertaining to
+such rates or charges [are] just and reasonable,” id. § 824d(a).
+As such, the Act empowers the Commission, “upon its own
+motion or upon complaint,” to “fix” any rate or charge subject
+to its jurisdiction, as well as “any rule, regulation, practice, or
+contract affecting such rate, charge, or classification” that the
+Commission finds to be “unjust, unreasonable, unduly
+discriminatory or preferential[.]” Id. § 824e(a).
+
+     Commission-regulated public utilities set rates using two
+different methods. Utilities may “set rates with individual
+electricity purchasers through bilateral contracts.” Morgan
+Stanley Cap. Grp. Inc. v. Public Util. Dist. No. 1 of Snohomish
+County, 554 U.S. 527, 531 (2008). Alternatively, utilities can
+“unilaterally set rates, terms, and conditions for service—
+commonly referred to as tariffs.” Advanced Energy United,
+Inc. v. FERC, 82 F.4th 1095, 1100 (D.C. Cir. 2023) (quotation
+marks omitted); see 16 U.S.C. §§ 824d(c), (d). Both tariffs and
+contracts “must be filed with the Commission before they go
+                                  6
+into effect.” Morgan Stanley, 554 U.S. at 531; see 16 U.S.C.
+§§ 824d(c), (d).
+
+     Tariffs take two forms: standard tariffs and market-based
+tariffs. Standard tariffs list the fixed dollar prices that the utility
+will charge for units of electricity. See Public Citizen, Inc. v.
+FERC, 7 F.4th 1177, 1184 (D.C. Cir. 2021). The rates in
+standard tariffs “generally reflect[] the utility’s costs plus a
+reasonable rate of return.” Id.
+
+     Market-based tariffs, by contrast, “do not list any actual
+prices for electricity, but instead ‘simply state that the seller
+will enter into freely negotiated contracts with purchasers.’”
+Public Citizen, 7 F.4th at 1184 (quoting Morgan Stanley, 554
+U.S. at 537). Unlike traditional energy contracts, contracts
+entered into under market-based tariffs need not be filed
+immediately with the Commission because “the initial filing of
+the market-based tariffs themselves” satisfies that requirement.
+Morgan Stanley, 554 U.S. at 537. Even so, the “seller must file
+quarterly reports summarizing the contracts that it has entered
+into, even extremely short-term contracts.” Id. With market-
+based tariffs, “purchasers no longer have the option of buying
+electricity at a [fixed price] set by tariff and contracts no longer
+need to be filed with FERC (and subjected to its investigatory
+power) before going into effect.” Id. at 538.1
+
+1
+  Not every utility may utilize market-based tariffs for rate setting.
+The Commission “will grant approval of a market-based tariff only
+if a utility demonstrates that it lacks or has adequately mitigated
+market power, lacks the capacity to erect other barriers to entry, and
+has avoided giving preferences to its affiliates.” Morgan Stanley,
+554 U.S. at 537. Once the Commission has authorized a market-
+based tariff, the Commission requires large utilities to demonstrate
+every three years that they still lack or have adequately mitigated
+market power. See 18 C.F.R. § 35.37. If the Commission
+                                 7
+
+     Both standard tariffs and market-based tariffs are subject
+to the filed-rate doctrine. Under that doctrine, a utility may not
+charge a rate other than the rate filed with the Commission. See
+West Deptford Energy, LLC v. FERC, 766 F.3d 10, 12 (D.C.
+Cir. 2014); see also Arkansas La. Gas Co. v. Hall, 453 U.S.
+571, 577–578 (1981). For standard tariffs, the filed rate is the
+rate set forth in the tariff. See Oklahoma Gas & Elec. Co. v.
+FERC, 11 F.4th 821, 829 (D.C. Cir. 2021). For market-based
+tariffs, the filed rate is generally the market rate, as reflected in
+each contract. See Public Citizen, 7 F.4th at 1184, 1194. In
+both cases, “the filed rate is not limited to ‘rates’ per se, but
+also extends to matters directly affecting rates.” Oklahoma
+Gas & Elec. Co., 11 F.4th at 829 (formatting modified).
+
+                                 2
+
+     We have held that “the Commission’s market-based
+approach is consistent with the Federal Power Act’s
+requirement of ‘just and reasonable’ rates[.]” Public Citizen, 7
+F.4th at 1184. We have done so because, “in a ‘competitive
+market, where neither buyer nor seller has significant market
+power, it is rational to assume that the terms of their voluntary
+exchange are reasonable, and specifically to infer that price is
+close to marginal cost, such that the seller makes only a normal
+return on its investment.’” Id. (quoting Tejas Power Corp. v.
+FERC, 908 F.2d 998, 1004 (D.C. Cir. 1990)).
+
+    Still, the Commission must fulfill its statutory obligation
+to ensure that the ultimate rates are just and reasonable. See
+Public Citizen, 7 F.4th at 1184–1186; see also 16 U.S.C.
+
+
+“determines from these filings that a seller has reattained market
+power, it may revoke the [tariff] prospectively.” Morgan Stanley,
+554 U.S. at 538.
+                                 8
+§ 824d(a). As a result, contracts entered into under market-
+based tariffs are subject to challenge and Commission review.
+
+     The Mobile-Sierra doctrine guides the Commission’s just-
+and-reasonable review of market-based-tariff contracts. See
+generally United Gas Pipe Line Co. v. Mobile Gas Serv. Corp.,
+350 U.S. 332 (1956); Federal Power Comm’n v. Sierra Pac.
+Power Co., 350 U.S. 348 (1956). Under that doctrine, the
+Commission “must presume that the rate set out in a freely
+negotiated wholesale-energy contract meets the ‘just and
+reasonable’ requirement imposed by law.” Morgan Stanley,
+554 U.S. at 530. “Th[at] presumption may be overcome only
+if FERC concludes that the contract seriously harms the public
+interest.” Id.; see Oklahoma Gas & Elec. Co. v. FERC, 827
+F.3d 75, 76 (D.C. Cir. 2016) (“FERC must presume a contract
+rate for wholesale energy is just and reasonable and cannot set
+aside the rate unless it is contrary to the public interest.”). “The
+burden of proving an unjust or unreasonable rate rests with the
+party that initiated the proceeding—that is, the Commission or
+the third-party complainant.” Public Citizen, 7 F.4th at 1183;
+see 16 U.S.C. § 824e(b).
+
+                                 B
+
+                                 1
+
+     The Western Interconnection, which encompasses all or
+portions of fourteen states, including California, is one of three
+major regions of the U.S. electric grid. See U.S. Grid Regions,
+EPA, https://perma.cc/F8CC-3D84 (last updated Jan. 15,
+2024). For purposes of the orders under review, the Western
+Interconnection is divided into two footprints: the California
+Independent System Operator Corporation (“CAISO”) region
+                                   9
+and the Western Electricity Coordinating Council (“WECC”)
+region.2
+
+     For more than twenty years, the Commission has imposed
+conditions on the market-based rate authority of utilities
+operating in the Western Interconnection. In July 2002, the
+Commission determined that “the California wholesale
+electricity market ha[d] be[come] dysfunctional and ha[d]
+experienced extremely high prices during certain periods.”
+California Indep. Sys. Operator Corp., 100 FERC ¶ 61060,
+para. 4 (July 17, 2002).
+
+     As relevant here, the Commission responded by capping
+the prices that sellers could offer into CAISO-administered
+wholesale power markets, as well as the prices of bilateral spot-
+market transactions in the WECC. See California Indep. Sys.
+Operator Corp., 100 FERC ¶ 61060, paras. 44–47 (July 17,
+2002); J.A. 585.3 The Commission explained that these caps,
+together with other mitigation measures, represented “a careful
+balance of the need to provide incentive for market entry by
+new generation investment with the need to protect markets
+from the potential of market power abuse.” California Indep.
+Sys. Operator Corp., 100 FERC ¶ 61060, para. 51 (July 17,
+2002).
+
+    Three months later, the Commission “clarif[ied]” that
+these caps were soft caps. California Indep. Sys. Operator
+
+2
+  In this opinion, “WECC” thus refers to the non-CAISO portions of
+the Western Interconnection, rather than to the regional reliability
+entity responsible for ensuring reliable electricity in the Western
+Interconnection. See J.A. 584 n.1.
+3
+ “Spot markets consist of sales that are 24 hours or less in duration
+and that are entered into the day of or the day prior to delivery.” J.A.
+584 n.1.
+                               10
+Corp., 101 FERC ¶ 61061, para. 17 (Oct. 11, 2002) (“Soft-Cap
+Order”). By that, the Commission meant that sellers could
+“continue to submit bids above the bid cap[,]” but cautioned
+that “such bids * * * w[ould] be subject to justification and
+refund.” Id. For many years, however, the Commission
+declined to “delineate the specific types of documentation a
+seller might provide” to justify its above-cap prices, noting that
+it could not “anticipate all of the possible justifications[.]”
+California Indep. Sys. Operator, 114 FERC ¶ 61135, para. 16
+(Feb. 13, 2006); see Western Elec. Coordinating Council, 133
+FERC ¶ 61026, para. 16 (Oct. 8, 2010) (“As the Commission
+has stated in the past, we cannot anticipate all of the possible
+reasons a supplier may exceed the soft cap. Therefore, we
+decline to predetermine the specific types of documentation a
+seller might provide.”). Instead, the Commission considered
+justifications “on a case-by-case basis.” California Indep. Sys.
+Operator, 114 FERC ¶ 61135, para. 16 (Feb. 13, 2006).
+
+    Over time, the Commission has raised the CAISO and
+WECC caps in parallel. See Western Elec. Coordinating
+Council, 133 FERC ¶ 61026, paras. 2–5 (Oct. 8, 2010). During
+the period relevant to this case, both caps were set at $1,000
+per megawatt-hour. See id. para. 15.
+
+                                2
+
+     In August and September 2020, a period of “extreme heat
+* * * significantly affected the demand for and supply of
+electric generation throughout the Western Interconnection.”
+Shell Energy North America (US), L.P., 179 FERC ¶ 61034,
+para. 4 (Apr. 22, 2022). As a result of this extreme-heat event,
+the Sellers made bilaterally negotiated sales that exceeded the
+$1,000/MWh soft cap. The Commission “posted limited
+guidance” under which sellers would “be required to justify
+transactions that exceed the soft price cap in WECC[,]” and it
+                               11
+extended the deadline to file justifications until October 7,
+2020. ConocoPhillips Co., 175 FERC ¶ 61226, para. 6 (June
+17, 2021).
+
+     The Sellers subsequently submitted filings to the
+Commission to justify their above-cap sales. Each of the
+Sellers argued that its above-cap sales were justified because
+the sales were consistent with market conditions at the time of
+the transactions. Three of the Sellers further argued that the
+above-cap sales were “the kind of short-term bilateral power
+sale contracts that both the Supreme Court and the Commission
+have found are subject to the Mobile-Sierra presumption
+regarding contract modifications.” J.A. 162 (footnote omitted)
+(Shell); see J.A. 137 (Tenaska); J.A. 198–200 (Brookfield); see
+also J.A. 166 (Shell Justification Filing arguing that the
+Commission should find sale prices in excess of the soft cap
+justified “when they are consistent with prevailing market
+conditions, including the prices at which analogous products
+traded on [the Intercontinental Exchange] or on other platforms
+or markets”).
+
+     In June 2021, the Commission issued guidance for pending
+and future soft-cap justification filings (“Guidance Order”).
+See ConocoPhillips Co., 175 FERC ¶ 61226 (June 17, 2021).
+The Guidance Order delineated three non-exhaustive
+frameworks that sellers could use to justify above-cap sales:
+“(1) a production cost-based framework; (2) an index-based
+framework; and (3) an opportunity cost-based framework.” Id.
+para. 1; see id. para. 13 (“[I]n providing this guidance, the
+Commission does not intend to preclude sellers from seeking
+to justify their transactions under approaches different from the
+ones identified.”).
+
+     After the Commission issued the Guidance Order, the
+Sellers supplemented their justification filings with additional
+                                  12
+information. In these supplemental filings, each Seller argued
+that the Mobile-Sierra presumption applied to their above-cap
+sales and thus prevented the Commission from ordering
+refunds absent a finding that the sales were contrary to the
+public interest. Each Seller also explained that its above-cap
+sales were consistent with the Commission’s index-based
+framework.4
+
+                                   3
+
+     The Commission subsequently issued orders on each of
+the Sellers’ justification filings. See J.A. 584–606 (Shell); J.A.
+485–508 (Tenaska); J.A. 899–918 (TransAlta); J.A. 682–706
+(Brookfield); J.A. 707–732 (Macquarie).              Where the
+Commission determined that a Seller had identified an
+appropriate price index, the Commission found that the Seller
+had justified relevant above-cap sales up to, but not over, that
+price index. For those sales, the Commission ordered the Seller
+to refund amounts exceeding the relevant index. Where the
+Commission determined that a Seller had not identified an
+appropriate price index, the Commission ordered the Seller to
+refund all amounts exceeding the soft cap.5
+
+
+
+4
+  Under the index-based framework, a seller justifies an above-cap
+sale by identifying a geographic and temporally relevant weighted
+average price index that meets the Commission’s liquidity standards.
+See ConocoPhillips Co., 175 FERC ¶ 61226, paras. 20–25 (June 17,
+2021).
+5
+  Although the Commission addressed each Seller’s filings in
+separate orders, the orders are substantially identical as to the issues
+on appeal. So this opinion, like the Sellers’ and the Commission’s
+briefs, cites to the Commission’s original and rehearing orders as to
+Shell Energy. See Sellers Opening Br. 11 n.7; Commission Br. 19.
+                               13
+     In ordering refunds, the Commission rejected the Sellers’
+argument that the Mobile-Sierra doctrine dictated approval of
+their contract prices. Although the Commission “agree[d]” that
+the Mobile-Sierra presumption applied to the above-cap sales,
+it “f[ou]nd that the presumption d[id] not prevent the
+Commission from enforcing the requirement that sales in
+excess of the WECC soft price cap must be justified and [we]re
+subject to refund.” Shell Energy North America (US), L.P., 179
+FERC ¶ 61034, para. 36 (Apr. 22, 2022); see id. (explaining
+that the fact that the Mobile-Sierra presumption applied “[wa]s
+not dispositive as to the question of whether [the Sellers’] sales
+that exceeded the WECC soft price cap were justified, or
+whether the Commission c[ould] order refunds if it f[ound] that
+the prices for those sales [we]re not justified”).
+
+     The Commission further reasoned that, in reviewing the
+Sellers’ justification filings, the Commission “[wa]s not
+modifying the contracts, as would trigger application of the
+Mobile-Sierra presumption[,]” but was instead “enforcing
+requirements incorporated into the contracts via the
+Commission orders establishing the price cap and provisions in
+[the Sellers’] market-based rate tariff[s].” Shell Energy North
+America (US), L.P., 179 FERC ¶ 61034, para. 36 (Apr. 22,
+2022) (footnote omitted). The Commission reasoned that,
+because the Sellers conducted the above-cap sales pursuant to
+their market-based authority, the sales were “governed by [the
+Sellers’] market-based rate tariff and the requirements
+established therein.” Id. para 37. Those tariffs stated that each
+Seller “must comply with ‘orders concerning [the] seller’s
+market-based rate authority, including orders in which the
+Commission authorizes the seller to engage in affiliate sales
+under th[e] tariff or otherwise restricts or limits the seller’s
+market-based rate authority.’” Id. (emphasis omitted). The
+Commission also concluded that “the WECC soft price cap,
+which applies to all jurisdictional sellers transacting in the
+                               14
+WECC outside of CAISO, is a restriction or limit on [the
+Sellers’] market-based rate authority established via
+Commission orders, as contemplated by [the Sellers’] market-
+based rate tariff[s].” Id. (footnote omitted).
+
+     Commissioner Danly dissented from each of the orders.
+He framed the legal question in each case as “whether the
+Commission can abrogate a contract to sell electricity pursuant
+to market-based rate authority when the contract price is above
+a Commission-imposed ‘soft’ price cap absent a finding that
+the public interest so demands.” Shell Energy North America
+(US), L.P., 179 FERC ¶ 61034, para. 1 (Apr. 22, 2022) (Danly,
+Comm’r, dissenting). Applying the Mobile-Sierra doctrine,
+Commissioner Danly would have answered that question “no.”
+Id.
+
+                               4
+
+    The Sellers sought rehearing of the refund orders. See J.A.
+665–681 (Shell); J.A. 755–783 (Tenaska); J.A. 1050–1091
+(TransAlta); J.A. 954–977 (Brookfield); J.A. 919–953
+(Macquarie).
+
+     Because the Commission did not rule on the rehearing
+petitions within 30 days, each petition was “deemed to have
+been denied” by operation of law. 16 U.S.C. § 825l(a).
+
+     Each of the Sellers timely filed petitions for review, and
+this court consolidated the petitions. With the Sellers’ consent,
+this court subsequently held the petitions in abeyance while the
+Commission responded to the rehearing petitions.
+
+    The Commission subsequently issued orders addressing
+and rejecting the arguments raised on rehearing (“Final Refund
+Orders”). See J.A. 1191–1213 (Shell); J.A. 1150–1171
+                              15
+(Tenaska); J.A. 1348–1376 (TransAlta); J.A. 1267–1291
+(Brookfield); J.A. 1292–1312 (Macquarie); J.A. 1171–1190
+(Mercuria). Although the Commission “continue[d] to find
+that the Mobile-Sierra presumption applie[d] to [the Sellers’]
+contracts,” it again found that the “presumption [wa]s not
+implicated” by the Final Refund Orders. Shell Energy North
+America (US), L.P., 180 FERC ¶ 61182, para. 8 (Sept. 22,
+2022). In reaching this conclusion, the Commission reiterated
+that the refund directive in the Final Refund Orders did not
+modify the Sellers’ contracts because those “contracts were
+executed pursuant to the requirements in [the Sellers’] market-
+based rate tariff[s],” which “incorporate[d] the Commission’s
+orders and ‘conditions and requirements’ regarding the WECC
+soft price cap.” Id. para 16. The Commission also reaffirmed
+its refund directive for above-cap prices that exceeded the
+relevant index price.
+
+     Commissioner Danly again dissented on the basis that the
+Commission “failed to properly apply the Mobile-Sierra
+presumption to the contract sales at issue.” Shell Energy North
+America (US), L.P., 180 FERC ¶ 61182, para. 1 (Sept. 22,
+2022) (Danly, Comm’r, dissenting); see id. (“[The
+Commission] erred by requiring refunds for the ‘premium’
+amount above the price index that [the Sellers] and the willing
+buyers freely negotiated absent any showing that the public
+interest was seriously harmed by the contract rate.”).
+
+                              II
+
+     We have jurisdiction over the Sellers’ timely petitions for
+review of the Commission’s final orders under 16 U.S.C.
+§ 825l(b). We lack jurisdiction over the Consumers’ petitions
+for review because they are moot.
+                              16
+                              III
+
+                               A
+
+    The Sellers argue that the Commission’s Final Refund
+Orders violated the Mobile-Sierra doctrine because the
+Commission altered the Sellers’ negotiated contract rates
+without first finding that those rates “seriously harm[ed] the
+public interest.” Morgan Stanley, 554 U.S. at 530; see Sellers
+Opening Br. 24–37. We agree.
+
+     The Mobile-Sierra doctrine has long made clear that the
+Commission may modify a contracted-for rate “if (but only if)
+the ‘public interest’ so requires[.]” Exxon Corp. v. FERC, 206
+F.3d 47, 49 (D.C. Cir. 2000); see Gulf States Utils. Co. v.
+Federal Power Comm’n, 518 F.2d 450, 452 (D.C. Cir. 1975)
+(noting the Commission’s “power, under § 206(a), to require a
+rate change not agreed to by the parties” when the Commission
+can overcome the Mobile-Sierra presumption).
+
+     There is no dispute in this case that the rates for which
+FERC ordered refunds were rates for which the Sellers and
+their customers had mutually contracted in a competitive
+marketplace. Yet the Commission did not perform any Mobile-
+Sierra public-interest analysis before altering those negotiated
+rates by ordering the refunds at issue here.
+
+     The Commission argues that it had authority to enforce the
+Soft-Cap Order through refunds without first conducting a
+Mobile-Sierra public-interest analysis because the Soft-Cap
+Order is part of the Sellers’ filed rate. See FERC Br. 19–28.
+The Commission notes that “[a]ll Sellers’ market-based rate
+tariffs contain a provision requiring compliance with ‘orders
+concerning [the] Seller’s market-based rate authority,
+including orders in which the Commission authorizes Seller to
+                               17
+engage in affiliate sales under this Tariff or otherwise restricts
+or limits the Seller’s market-based rate authority.’” FERC Br.
+21 (quoting Shell Energy North America (US), L.P., 180 FERC
+¶ 61182, para. 15 (Sept. 22, 2022)). Drawing on this language,
+the Commission reasons that, because the Soft-Cap Order
+limited the Sellers’ market-based-rate authority, the Final
+Refund Orders enforced the filed-rate doctrine by ensuring
+“that each Seller’s contract rates * * * conform[ed] to the terms
+of its market-based rate tariff, which is the filed rate.” FERC
+Br. 23.
+
+     The Commission relatedly argues that its orders did not
+alter the Sellers’ contracts because the contracts themselves
+incorporated the Soft-Cap Order. See FERC Br. 24; see also
+FERC Br. 24 (Commission acknowledging that, if it “were
+modifying [the] Sellers’ contracts, then [it] would need to
+conduct a Mobile-Sierra ‘public interest’ analysis in support of
+that modification”). The Commission reasons that the soft-cap
+framework and the attendant justification-and-refund scheme
+did not simply require the Sellers to provide documentation and
+evidence to help to justify their above-cap rates. Instead, the
+Sellers also had the affirmative burden of convincing the
+Commission that those rates were justified. When the Sellers
+failed to do so, the Commission enforced the terms of the
+Sellers’ contracts—“consistent with Sellers’ filed rate in the
+form of their market-based rate tariffs”—by ordering refunds
+in line with the soft-cap framework. FERC Br. 24.
+
+     The Commission’s arguments fail for a simple reason:
+Even assuming that the Soft-Cap Order was incorporated into
+Sellers’ tariffs and contracts, the Commission did not displace
+the Mobile-Sierra presumption in the Soft-Cap Order itself,
+and so that presumption continues to apply to the Sellers’
+contracts. More specifically, nothing in the Soft-Cap Order
+established that the Mobile-Sierra doctrine would not apply to
+                               18
+the Commission’s review of any above-cap rates. As such, the
+Soft-Cap Order left intact the Commission’s burden of
+overcoming the presumption that “a freely negotiated
+wholesale-energy contract meets the ‘just and reasonable’
+requirement imposed by law.” Morgan Stanley, 554 U.S. at
+530. Under the Mobile-Sierra doctrine, the Commission can
+carry that burden only by making a particularized finding that
+a given contract “seriously harms the public interest[,]” id.,
+even if that contract’s price exceeds the soft cap, or can avoid
+that inquiry by demonstrating that the Mobile-Sierra
+presumption should not apply at all, see id. at 553–555. The
+Commission did not make either determination here.
+
+     True, the Soft-Cap Order stated that it was intended to
+ensure “just and reasonable prices[,]” California Indep. Sys.
+Operator Corp., 101 FERC ¶ 61061, para. 1 (Oct. 11, 2002),
+and provided that bids over the soft cap would be “subject to
+justification and refund[,]” id. para. 17. But the mere
+invocation of the phrases “just and reasonable” and
+“justification and refund” does not alone suggest that the
+Commission intended to remove prospectively an entire class
+of bilateral contracts from the Mobile-Sierra framework.
+Importantly, the soft cap is best viewed as a means of flagging
+for the Commission contracts that may warrant a public-
+interest analysis. The requirement that sellers “justif[y]” their
+above-cap prices, in turn, facilitates this review by obligating
+sellers to supply information showing that the conditions for
+the ordinary application of the Mobile-Sierra presumption
+(e.g., the absence of market manipulation) were in place at the
+time of the above-cap sale.
+
+     In short, because the soft cap is best read in this case as
+functioning in tandem with the Mobile-Sierra doctrine, we
+cannot on this record presume that the Commission meant for
+its orders to displace the presumption that for nearly seventy
+                                  19
+years has been the “default rule” in analyzing the justness and
+reasonableness of freely negotiated contract rates. Morgan
+Stanley, 554 U.S. at 534.6
+
+     Since the Soft-Cap Order did not displace the Mobile-
+Sierra framework, the Commission erred by relying on the
+Soft-Cap Order to issue refunds without first determining that
+the Sellers’ contracted-for rates would “seriously harm[] the
+public interest[,]” Morgan Stanley, 554 U.S. at 530, or that the
+Mobile-Sierra framework does not apply, see id. at 553–555.
+We vacate the Final Refund Orders on this basis, and so we
+need not reach the Sellers’ arbitrary-and-capricious
+challenges.7
+
+                                   B
+
+     We now turn to the Consumers’ challenge. While the
+Sellers were parties to the Commission’s refund orders and
+challenge the basis for ordering them to pay refunds, the
+Consumers were not parties to the orders and so are not
+themselves eligible to obtain refunds. The Consumers instead
+challenge the Commission’s approach to calculating the
+refunds on the ground that it will lead to higher energy prices.
+
+6
+  We need not and do not decide whether the Commission could
+prospectively remove a class of freely negotiated, bilateral
+wholesale-energy contracts from the Mobile-Sierra framework and
+subject those contracts to the type of justification-and-refund scheme
+the Commission applied here. For present purposes, it is sufficient
+that the Commission did not express any intent to do so in the Soft-
+Cap Order.
+7
+  Because the Soft-Cap Order left the Mobile-Sierra presumption in
+place, the Sellers’ petitions were timely filed within sixty days of the
+refund orders and so were not collateral attacks on the soft-cap
+framework. See 16 U.S.C. § 825l(b).
+                               20
+The Consumers intervened in the proceedings before the
+Commission and sought rehearing of the Commission’s orders.
+They now challenge all thirteen orders in which the
+Commission permitted sellers to justify above-cap rates.
+
+     We have no occasion to engage with the merits of the
+Consumers’ challenge because it is moot. The Consumers’
+challenge concerns the methodology applied by the
+Commission in identifying the price index above which the
+Commission deemed refunds required. Recall that the
+Commission ordered the payment of refunds for electricity
+sales made at prices exceeding an appropriate price index
+identified by a Seller. See pp. 12–16, supra. The Consumers
+argue that the Commission’s approach when assessing the
+Sellers’ index-based justification was flawed.       In the
+Consumers’ view, the Commission should have applied a
+different approach that would result in a lower price index,
+which in turn would give rise to greater refunds.
+
+     The Consumers’ challenge thus turns on the precise way
+in which the Commission calculated the level of refunds. But
+as we hold above, the Commission erred in ordering refunds in
+the first place without applying the Mobile-Sierra public-
+interest analysis. In light of that holding, the Commission can
+order refunds in the circumstances of these cases only if it first
+undertakes to determine—and then finds—that the contract
+rates would “seriously harm[] the public interest” (or that “the
+premise on which the Mobile-Sierra presumption rests” is not
+present). Morgan Stanley, 554 U.S. at 530, 554. Unless and
+until the Commission engages in the requisite analysis and
+makes the requisite finding, the precise methodology for
+calculating any ensuing refunds is an academic question.
+Indeed, even if the Commission were to apply the Mobile-
+Sierra doctrine to the contract rates—as it now must do before
+ordering any refunds—and were to determine that the Mobile-
+                               21
+Sierra presumption could be overcome or is inapplicable, there
+is no reason to assume that the same index-based approach now
+challenged by the Consumers would then come into play.
+
+     Mootness principles dictate that we “may only adjudicate
+actual, ongoing controversies.” Honig v. Doe, 484 U.S. 305,
+317 (1988). “[F]ederal courts[,]” in other words, “are without
+authority ‘to render advisory opinions or to decide questions
+that cannot affect the rights of litigants in the case before
+them[.]’” Chamber of Com. of U.S. v. EPA, 642 F.3d 192, 199
+(D.C. Cir. 2011) (formatting modified) (quoting Preiser v.
+Newkirk, 422 U.S. 395, 401 (1975)). A challenge becomes
+moot “when the issues presented are no longer ‘live’ or the
+parties lack a legally cognizable interest in the outcome.”
+Parole Comm’n v. Geraghty, 445 U.S. 388, 396 (1980)
+(quoting Powell v. McCormack, 395 U.S. 486, 496 (1969)).
+
+     Mootness doctrine thus prevents us from resolving a
+challenge when “events have so transpired that the decision
+will neither presently affect the parties’ rights nor have a more-
+than-speculative chance of affecting them in the future.”
+Clarke v. United States, 915 F.2d 699, 701 (D.C. Cir. 1990) (en
+banc) (quotation marks omitted). That is precisely the situation
+here with respect to the Consumers’ challenge. Our Mobile-
+Sierra holding means that the Commission has not satisfied the
+preconditions to ordering any refunds, which in turn means that
+any pronouncement about the correctness of the Commission’s
+index-based justification framework for assessing refunds
+would not “presently affect the parties’ rights” or have a “more-
+than-speculative chance of affecting them in the future.” Id.
+(quotation marks omitted).
+                              22
+                              IV
+
+     For the foregoing reasons, we grant the Sellers’ petitions
+for review, vacate their challenged orders, and remand for
+further proceedings consistent with this opinion. We dismiss
+the Consumers’ petitions for review as moot.
+
+                                                   So ordered.
+

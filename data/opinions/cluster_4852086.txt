@@ -1,0 +1,900 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued September 22, 2020           Decided January 29, 2021
+
+                        No. 15-1465
+
+                    SIERRA CLUB, ET AL.,
+                        PETITIONERS
+
+                              v.
+
+    ENVIRONMENTAL PROTECTION AGENCY AND ANDREW
+     WHEELER, ADMINISTRATOR, U.S. ENVIRONMENTAL
+                PROTECTION AGENCY,
+                    RESPONDENTS
+
+        STATE OF TEXAS AND TEXAS COMMISSION ON
+               ENVIRONMENTAL QUALITY,
+                     INTERVENORS
+
+
+                 Consolidated with 19-1024
+
+
+     On Petitions for Review of Administrative Action
+   of the United States Environmental Protection Agency
+
+
+     Seth L. Johnson argued the cause and filed the briefs for
+petitioners.
+
+   David O’Brien Frederick and Amy Catherine Dinn were
+on the brief for amicus curiae Caring for Pasadena
+Communities in support of petitioners.
+                             2
+
+    Perry M. Rosen, Senior Attorney, United States
+Department of Justice, argued the cause for the respondents.
+With him on the brief were Jeffrey Bossert Clark, Assistant
+Attorney General, and Jonathan D. Brightbill, Principal
+Deputy Assistant Attorney General.
+
+    Ken Paxton, Attorney General, Office of the Attorney
+General for the State of Texas, Jeffrey C. Mateer, First
+Assistant Attorney General, Priscilla M. Hubenak, Chief,
+Environmental Protection Division, and Linda B. Secord,
+Assistant Attorney General, were on the brief for intervenor-
+respondents the State of Texas and the Texas Commission on
+Environmental Quality.
+
+   Bayron T. Gilchrist, Barbara Baird, and Megan E. Lorenz
+Angarita were on the brief for amicus curiae South Coast Air
+Quality Management District in support of respondents.
+
+     Aaron M. Flynn, Lucinda Minton Langworthy, Daryl L.
+Joseffer, Michael B. Schon, and Peter Tolsdorf were on the
+brief for amicus curiae American Chemistry Council, et al. in
+support of respondents.
+
+   Before: TATEL and KATSAS, Circuit Judges, and
+EDWARDS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge TATEL.
+
+     TATEL, Circuit Judge: In these consolidated cases, we
+consider challenges to four provisions of the Environmental
+Protection Agency’s 2015 and 2018 rules implementing the
+National Ambient Air Quality Standards for ozone. For the
+reasons set forth below, we vacate two provisions—the
+interprecursor trading program and the interpretation of the
+                                3
+Clean Air Act’s contingency measures requirements—because
+they contravene the statute’s unambiguous language. We
+vacate another provision—the implementation of the milestone
+compliance demonstration requirement—because it rests on an
+unreasonable interpretation of the statute. Lastly, we deny the
+petition for review with respect to the alternative baseline years
+provision.
+
+                                I.
+    Under the Clean Air Act, the Environmental Protection
+Agency (EPA) must publish a list of air pollutants that “may
+reasonably be anticipated to endanger public health or
+welfare.” 42 U.S.C. § 7408(a)(1)(A). For each air pollutant,
+EPA must set primary and secondary National Ambient Air
+Quality Standards (NAAQS), specifying the levels of air
+quality “based on such criteria and allowing an adequate
+margin of safety” that are “requisite to protect the public
+health” for primary NAAQS, id. § 7409(b)(1), and specifying
+levels that are “requisite to protect the public welfare” for
+secondary NAAQS, id. § 7409(b)(2).
+
+     “Once EPA establishes NAAQS for a particular
+pollutant,” those NAAQS become “the centerpiece of a
+complex statutory regime aimed at reducing the pollutant’s
+atmospheric concentration.” Natural Resources Defense
+Council v. EPA (NRDC I), 777 F.3d 456, 458 (D.C. Cir. 2014)
+(internal quotation marks omitted). After setting NAAQS, EPA
+establishes air quality control regions, 42 U.S.C. § 7407, and
+areas within those regions are designated as “nonattainment”
+when they do not meet the NAAQS for a specific pollutant,
+“attainment” when they do meet them, or “unclassifiable”
+when it cannot be determined “on the basis of available
+information” whether they meet the NAAQS, id.
+§ 7407(d)(1)(A). States have “the primary responsibility for
+assuring air quality,” id. § 7407(a), and they must submit state
+                              4
+implementation plans (SIPs) that “provide[] for
+implementation, maintenance, and enforcement of” the
+NAAQS. Id. § 7410(a)(1).
+
+     This case concerns the implementation of the NAAQS for
+ozone, “an essential presence in the atmosphere’s stratospheric
+layer” that is “dangerous at ground level.” South Coast Air
+Quality Management District v. EPA (South Coast I), 472 F.3d
+882, 887 (D.C. Cir. 2006). Not directly emitted through human
+activity, ozone “forms when other atmospheric pollutants—
+ozone ‘precursors’—react in the presence of sunlight.”
+American Trucking Associations, Inc. v. EPA, 283 F.3d 355,
+359 (D.C. Cir. 2002). These precursors include volatile organic
+compounds (VOCs) and oxides of nitrogen (NOX). South Coast
+I, 472 F.3d at 887.
+
+     In 1990, Congress amended the Clean Air Act, finding that
+the statute had failed to produce the anticipated reductions of
+ozone and certain other pollutants. Accordingly, it “abandoned
+the discretion-filled approach of two decades prior in favor of
+more comprehensive regulation of six pollutants,” including
+ozone, “that Congress found to be particularly injurious to
+public health.” South Coast I, 472 F.3d at 887. Congress first
+redesignated the existing approach as Subpart 1, and that
+approach “continued to apply as a default matter to pollutants
+not specifically addressed in the amended portions of the Act.”
+NRDC I, 777 F.3d at 460. Congress then added Subpart 2,
+which focuses on ozone and its precursors. See 42 U.S.C.
+§§ 7511–7511f. Subpart 2 directs that each ozone
+nonattainment area shall be classified as “marginal,”
+“moderate,” “serious,” “severe,” or “extreme” based on how
+much the ozone level in that area exceeds the NAAQS. Id.
+§§ 7511(a)–(b). Nonattainment areas must achieve the primary
+NAAQS “as expeditiously as practicable,” id. § 7511(a)(1),
+although “[a]n area that exceeds the NAAQS by a greater
+                               5
+margin is given more time to meet the standard but is subjected
+to progressively more stringent emissions controls for ozone
+precursors,” chiefly, VOCs and NO X. South Coast Air Quality
+Management District v. EPA (South Coast II), 882 F.3d 1138,
+1143 (D.C. Cir. 2018) (internal quotation marks omitted).
+
+     Setting the stage for this case, EPA promulgated a new
+NAAQS for ozone in 2008. National Ambient Air Quality
+Standards for Ozone, 73 Fed. Reg. 16,436 (Mar. 27, 2008).
+Seven years later, in 2015, it promulgated a rule implementing
+the 2008 NAAQS. Implementation of the 2008 National
+Ambient Air Quality Standards for Ozone: State
+Implementation Plan Requirements (2015 Implementation
+Rule), 80 Fed. Reg. 12,264 (Mar. 6, 2015). Several petitioners
+in this case challenged various provisions of that 2015
+Implementation Rule, and our court resolved all but one of
+those challenges in South Coast Air Quality Management
+District v. EPA, or South Coast II, 882 F.3d 1138. That
+remaining challenge related to a provision called the
+“interprecursor trading program.” While South Coast II was
+pending, EPA granted an administrative petition to reconsider
+that program, so the South Coast II panel severed the challenge,
+leaving it unresolved. Order, South Coast Air Quality
+Management District v. EPA, No. 15-1115 (D.C. Cir. Dec. 18,
+2015).
+
+     Three years later, EPA included the interprecursor trading
+program in a rule implementing new ozone NAAQS that it had
+issued in 2015. See National Ambient Air Quality Standards
+for Ozone, 80 Fed. Reg. 65,292 (Oct. 26, 2015);
+Implementation of the 2015 National Ambient Air Quality
+Standards for Ozone: Nonattainment Area State
+Implementation Plan Requirements (2018 Implementation
+Rule), 83 Fed. Reg. 62,998 (Dec. 6, 2018). That 2018
+Implementation Rule is the focus of this case.
+                               6
+     Petitioners Sierra Club, Conservation Law Foundation,
+Downwinders at Risk, Physicians for Social Responsibility –
+Los Angeles, and National Parks Conservation Association
+challenge four features of the 2018 Rule: (1) the interprecursor
+trading program, as well as provisions (2) allowing states to
+demonstrate compliance with the Act’s reasonable further
+progress milestone requirements through an implementation-
+based method, (3) allowing states to choose between two
+options for the reasonable further progress baseline year, and
+(4) allowing nonattainment areas to use already-implemented
+measures to satisfy the Act’s contingency measures
+requirements. Petitioners argue that these four provisions are
+“arbitrary, capricious, an abuse of discretion, or otherwise not
+in accordance with law.” 42 U.S.C. § 7607(d)(9)(A). We have
+jurisdiction to consider their challenges under 42 U.S.C.
+§ 7607(b)(1), “which gives this court exclusive jurisdiction
+over challenges to final EPA actions.” Natural Resources
+Defense Council v. EPA, 643 F.3d 311, 317 (D.C. Cir. 2011).
+
+                              II.
+     Because Petitioners challenge all four provisions on the
+ground that they violate the Clean Air Act, we apply the
+familiar two-step framework of Chevron, U.S.A., Inc. v.
+Natural Resources Defense Council, Inc., 467 U.S. 837 (1984).
+See NRDC I, 777 F.3d at 463 (“review[ing] EPA’s
+interpretation of the Clean Air Act pursuant to the two-step
+Chevron framework”). We first ask whether Congress has
+“directly spoken to the precise question at issue.” Chevron,
+467 U.S. at 842. But if “the statute is silent or ambiguous with
+respect to the specific issue,” we defer to EPA’s interpretation
+of the Act as long as it is “based on a permissible construction
+of the statute.” Id. at 843.
+                                7
+                               A.
+     We start with Petitioners’ challenge to the interprecursor
+trading program for permitting offsets. Under the Act’s
+Nonattainment New Source Review program, SIPs must
+require permits for the modification or construction of major
+stationary sources “to assure” that the relevant NAAQS “are
+achieved.” 42 U.S.C. § 7410(a)(2)(C); see South Coast II,
+882 F.3d at 1144. The goal is “to ensure that new or modified
+sources will not exacerbate the pollution problem in the
+nonattainment area.” South Coast II, 882 F.3d at 1144. EPA
+may issue permits for a source if the agency determines that
+sufficient offsets, or emissions reductions, have been obtained
+from other sources in the area, “such that total allowable
+emissions from existing sources in the region, from new or
+modified sources which are not major emitting facilities, and
+from the proposed source will be sufficiently less than total
+emissions from existing sources” by the time construction or
+modification begins. 42 U.S.C. § 7503(a)(1)(A). Generally,
+sources can comply with offset requirements “for increased
+emissions of any air pollutant only by obtaining emission
+reductions of such air pollutant from the same source or other
+sources in the same nonattainment area.” Id. § 7503(c)(1).
+These emissions reductions “shall assure that the total tonnage
+of increased emissions of the air pollutant from the new or
+modified source shall be offset by an equal or greater
+reduction . . . in the actual emissions of such air pollutant from
+the same or other sources in the area.” Id.
+
+     Subpart 2 extends the permit requirements to ozone and its
+precursors. See id. § 7511a(a)(2)(C) (requiring permit program
+in SIPs for marginal areas); id. § 7511a(b) (moderate areas); id.
+§ 7511a(c) (serious areas); id. § 7511a(d) (severe areas); id.
+§ 7511a(e) (extreme areas). As for VOC offsets, Subpart 2
+provides that “[f]or purposes of satisfying the emission offset
+requirements of this part, the ratio of total emission reductions
+                                8
+of volatile organic compounds to total increased emissions of
+such air pollutant shall be at least” various default ratios,
+depending on the level of nonattainment: 1.1 to 1 for marginal
+areas, id. § 7511a(a)(4), 1.15 to 1 for moderate areas, id.
+§ 7511a(b)(5), 1.2 to 1 for serious areas, id. § 7511a(c)(10), 1.3
+to 1 for severe areas, id. § 7511a(d)(2) (subject to exception),
+and 1.5 to 1 for extreme areas, id. § 7511a(e)(1) (subject to
+exception). Subpart 2 extends these provisions to NOX,
+although it excludes certain circumstances, such as when EPA
+determines that, for specific sources, “net air quality benefits
+are greater in the absence of reductions of oxides of nitrogen
+from the sources concerned.” Id. § 7511a(f)(1).
+
+     The 2018 Implementation Rule interprets these provisions
+to allow interprecursor trading programs for offsets. Under
+these programs, which states may choose to establish, when
+ozone-related offsets are required for permits under the Act’s
+Nonattainment New Source Review program, the offset
+requirement can be satisfied by “trading” reductions in
+emissions of ozone precursors, i.e., VOCs and NOX. 2018
+Implementation Rule, 83 Fed. Reg. at 63,016–21. Put
+differently, the 2018 Rule interprets the statute as requiring
+offsets of ozone for these permits, and accordingly allows
+offsets—emissions reductions—of one ozone precursor (VOCs
+or NOX) to stand in for the other (NOX or VOCs, respectively)
+in most circumstances. Id. Because reductions in one
+precursor’s emissions are not always equivalent, in terms of
+their impact on ozone levels, to reductions in the other
+precursor’s emissions, the 2018 Implementation Rule requires
+that, to mediate between the two precursors, states would have
+to use (1) default ratios, (2) case-specific ratios, or (3) a
+combination of the two. Id. at 63,017. States may implement
+interprecursor trading ratios without EPA approval, but those
+ratios not in SIPs would be subject to public comment when
+used in individual permits. Id. at 63,017–18. These ratios, the
+                                9
+2018 Rule explains, must “provide an equivalent or greater
+ozone air quality benefit in the applicable ozone nonattainment
+area” than would exist absent interprecursor trading. Id. at
+63,017.
+
+     An example in the 2018 Implementation Rule helps to
+clarify what this arrangement might look like in practice. See
+id. at 63,016 n.39. Suppose that a major source subject to
+Nonattainment New Source Review in a moderate area seeks
+to offset an increase in NOX emissions of 200 tons per year with
+reductions in VOC emissions. Id. Under the 2018 Rule, that
+200 tons per year increase is first subject to the moderate area
+offset ratio of 1.15 to 1 set by the Act, see 42 U.S.C.
+§ 7511a(b)(5), and the result of that calculation is then subject
+to the relevant interprecursor trading ratio, which the Rule
+assumes is 5 here. 2018 Implementation Rule, 83 Fed. Reg. at
+63,016 n.39. At the first step, 200 tons per year is multiplied by
+1.15, yielding 230 tons per year. At the second step, those 230
+tons per year are multiplied by 5, yielding 1,150 tons per year.
+So the increase in NOX emissions of 200 tons per year could be
+offset by a reduction in VOC emissions of 1,150 tons per year.
+
+     Petitioners urge us to vacate the interprecursor trading
+program, arguing that (1) the Clean Air Act unambiguously
+prohibits interprecursor trading, (2) EPA has provided no
+rational basis for authorizing the program, and (3)
+interprecursor trading violates the Act’s anti-backsliding
+provision. Petitioners also contend that the program
+impermissibly allows required emissions reductions for one
+precursor to be offset with “banked allowances” of emissions
+reductions of the other precursor. Because we agree with
+Petitioners that the interprecursor trading program violates the
+statute’s plain text, we have no need to address their other
+arguments.
+                               10
+     Recall that Subpart 2’s offset provisions related to ozone
+and its precursors specify that “the ratio of total emission
+reductions of volatile organic compounds to total increased
+emissions of such air pollutant shall be” the various ratios
+previously laid out. 42 U.S.C. §§ 7511a(a)(4), (b)(5), (c)(10),
+(d)(2), (e)(1) (emphasis added). The statute generally extends
+these offset ratios to NOX. See 42 U.S.C. § 7511a(f)(1).
+
+     As Petitioners argue, the phrase “such air pollutant” in
+these subsections unambiguously refers back to VOCs. In
+general, “the adjective ‘such’ means ‘of the kind or degree
+already described or implied.’” Culbertson v. Berryhill, 139 S.
+Ct. 517, 522 (2019) (quoting H. Fowler & F. Fowler, Concise
+Oxford Dictionary of Current English 1289 (5th ed. 1964)).
+The closest potential “air pollutant” preceding the “such air
+pollutant” language is “volatile organic compounds,” which
+appears in the very same sentence just five words earlier. See
+42 U.S.C. §§ 7511a(a)(4), (b)(5), (c)(10), (d)(2), (e)(1). By
+contrast, the word “ozone,” which EPA interprets “such air
+pollutant” to mean, last appears five subsections above the first
+precursor offset provision and 334 words before the phrase
+“such air pollutant.” See id. § 7511a(1)(C). The phrase “such
+air pollutant” thus “quite obviously refers back to” volatile
+organic compounds, and the same reasoning applies to NOX
+under the provision extending these offset requirements to
+NOX. Clean Air Council v. Pruitt, 862 F.3d 1, 9 (D.C. Cir.
+2017) (per curiam). In this context, then, the statute treats
+VOCs and NOX as the relevant air pollutants. Had Congress
+intended to allow interprecursor trading for offsets, it would
+have used the phrase “ozone precursors” instead of “such air
+pollutant,” as it does elsewhere in the contemporaneously
+enacted provisions of Subpart 2. See, e.g., 42 U.S.C.
+§§ 7511d(e), 7511f. The plain language of the statute thus
+requires that increased VOC emissions be offset with
+                               11
+reductions in VOC emissions, and the same is true for NOX
+emissions under most circumstances.
+
+     Seeking to avoid the definitional and grammatical
+consequences of “such,” EPA focuses on the statute’s general
+offset provision in Subpart 1, 42 U.S.C. § 7503(c)(1), and its
+definition of air pollutant, which “includes any precursors to
+the formation of any air pollutant, to the extent [EPA] has
+identified such precursor or precursors for the particular
+purpose for which the term ‘air pollutant’ is used,” id.
+§ 7602(g). These provisions, EPA argues, give it broad
+discretion to define “air pollutant” for the purpose of offsets,
+and it has determined that it is ozone, not VOCs and NOX, that
+is the “air pollutant” here. Consequently, “a source may satisfy
+any offset requirement . . . by obtaining commensurate
+reductions of the ‘air pollutant’ associated with the newly
+constructed or modified source, in this case ozone.” EPA Br.
+16.
+
+     In addition to ignoring the word “such,” EPA’s argument
+runs afoul of the “‘basic principle of statutory construction that
+a specific statute . . . controls over a general provision . . .
+particularly when the two are interrelated and closely
+positioned.’” Adirondack Medical Center v. Sebelius, 740 F.3d
+692, 698 (D.C. Cir. 2014) (alterations in original) (quoting
+HCSC–Laundry v. United States, 450 U.S. 1, 6 (1981)). It is
+true that section 7602(g) gives EPA general authority to define
+“air pollutant,” but section 7511a(a)(4) and its counterparts
+expressly recognize that VOCs and NOX are precursors for the
+purpose of offsets, precluding EPA from determining
+otherwise. It is especially clear that whatever discretion section
+7602(g) affords EPA cannot trump the precursor-specific
+provisions given that, as the Supreme Court has made clear,
+“[t]he principal distinction between Subpart 1 and Subpart 2 is
+that the latter eliminates regulatory discretion that the former
+                               12
+allowed.” Whitman v. American Trucking Associations, Inc.,
+531 U.S. 457, 484 (2001).
+
+     Moreover, EPA’s interpretation of “such air pollutant” as
+referring to ozone conflicts with the plain text of the general
+offset provision and the ozone-specific offset provisions.
+Those provisions all relate to “emissions” of “such air
+pollutant,” see id. §§ 7503(c)(1), 7511a(a)(4), but, as EPA
+recognizes, “ozone is not emitted directly into air,”
+Maryland v. EPA, 958 F.3d 1185, 1190 (D.C. Cir. 2020); see
+National Ambient Air Quality Standards for Ozone, 80 Fed.
+Reg. at 65,299 (“Ozone is formed near the earth’s surface due
+to chemical interactions involving solar radiation and precursor
+pollutants including volatile organic compounds (VOCs) and
+NOx.”). Given that there are no emissions of ozone in the same
+way that there are emissions of VOCs or NOx, it makes no
+sense to read those provisions as referring to ozone. EPA’s
+interpretation also conflicts with the general offset provision’s
+tonnage requirements. Although that provision requires that the
+tonnage to be reduced be “greater or equal” to the increased
+tonnage of an air pollutant, see 42 U.S.C. § 7503(c)(1), if
+emissions reductions of VOCs and NOx were traded, the
+increased tonnage of emissions of one air pollutant—either
+VOCs or NOX—could be less than the tonnage of the reduced
+emissions of the same pollutant.
+
+     EPA attempts to distinguish section 7511a(a)(4) and its
+counterparts from other provisions of Subpart 2 that
+specifically refer to one or both precursors instead of using the
+phrase “such air pollutant.” According to EPA, Congress’s use
+of the phrase “such air pollutant” in section 7511a(a)(4) when
+it could have specified VOC emissions reductions
+demonstrates an intent to allow the agency to define what “such
+air pollutant” is. This argument overlooks the word “such” and
+ignores the differing contexts of section 7511a(a)(4) and the
+                               13
+provision that EPA relies on, section 7511a(b)(1)(A)(i). The
+latter addresses “volatile organic compound emission
+reductions” before addressing both “reductions in emissions of
+volatile organic compounds and oxides of nitrogen.” 42 U.S.C.
+§ 7511a(b)(1)(A)(i). In that context, when both precursors are
+discussed together in the same section, use of the phrase “such
+air pollutant” at any point would only confuse the reader. It
+would, in other words, be unclear which precursor “such”
+referred to. But section 7511a(a)(4) and its counterparts risk no
+such confusion since the only possible air pollutant referenced
+in the same section is VOCs. See 42 U.S.C. §§ 7511(a)(4),
+(b)(5), (c)(10), (d)(2), (e)(1). Section 7511a(b)(1)(A)(i)’s
+language thus yields no insight as to the meaning of section
+7511a(a)(4) and its parallel provisions.
+
+     Next, EPA relies on section 7511a(c)(2)(C), which it
+claims allows interprecursor trading in the context of the
+second progress requirement. See 42 U.S.C. § 7511a(c)(2)(C).
+That section provides that, for the relevant reasonable further
+progress demonstration, a SIP may contain “a demonstration to
+the satisfaction of [EPA] that the applicable implementation
+plan . . . provides for reductions of emissions of VOC[s] and
+oxides of nitrogen . . . that would result in a reduction in ozone
+concentrations at least equivalent to that which would result
+from the amount of VOC emission reductions required.” Id.
+According to EPA, this section indicates that Congress
+intended to permit interprecursor trading more broadly. The
+provision, however, proves just the opposite. “[W]e ‘generally
+presum[e] that Congress acts intentionally and purposely when
+it includes particular language in one section of a statute but
+omits it in another.’” Intel Corp. Investment Policy
+Committee v. Sulyma, 140 S. Ct. 768, 777 (2020) (second
+alteration in original) (quoting BFP v. Resolution Trust Corp.,
+511 U.S. 531 (1994)). That Congress permitted limited
+interprecursor trading in the context of the second reasonable
+                                14
+further progress requirement in Subpart 2, but not in the general
+or precursor-specific offset provisions, demonstrates that it did
+not intend to allow such trading outside this narrow context.
+See South Coast I, 472 F.3d at 894 (finding that the lack of
+certain provisions in Subpart 2, when they had been included
+in Subpart 1, demonstrated that Congress did not intend them
+to apply to Subpart 2).
+
+      EPA’s remaining argument, that its interpretation better
+aligns with section 7511a(f)(1)’s exception for when the
+precursor-specific offset provisions extend to NOX, is “post
+hoc,” as it appears nowhere in the 2018 Rule. NRDC I,
+755 F.3d at 1020. Accordingly, we cannot sustain the
+interprecursor trading program on that basis. See Motor Vehicle
+Manufacturers Ass’n of the United States, Inc. v. State Farm
+Mutual Automobile Insurance Co., 463 U.S. 29, 50 (1983) (“It
+is well-established that an agency’s action must be upheld, if at
+all, on the basis articulated by the agency itself.”). In any event,
+EPA’s argument conflicts with the plain meaning of the
+directly controlling provisions, as we have explained above.
+
+                                B.
+     Petitioners next challenge EPA’s interpretation of the
+statutory provisions governing how states are to demonstrate
+that they have achieved reasonable further progress milestones.
+Specifically, SIPs for nonattainment areas must “require
+reasonable further progress,” 42 U.S.C. § 7502(c)(2), defined
+as “such annual incremental reductions in emissions of the
+relevant air pollutant as are required by this part or may
+reasonably be required by [EPA] for the purpose of ensuring
+attainment of the applicable national ambient air quality
+standard by the applicable date,” id. § 7501(1). And under
+Subpart 2, SIPs for ozone nonattainment areas classified as
+moderate or above must provide for reductions of VOC
+emissions by “at least 15 percent from baseline emissions.” Id.
+                               15
+§ 7511a(b)(1)(A). “Baseline emissions” are defined as “the
+total amount of actual VOC or NOX emissions from all
+anthropogenic sources in the area during the” baseline year,
+originally 1990, excluding certain emissions not at issue here.
+Id. § 7511a(b)(1)(B). For serious and above ozone
+nonattainment areas, reductions in VOC emissions must
+average at least three percent per year over each consecutive
+three-year period until attainment. Id. § 7511a(c)(2)(B). States
+are further required to submit “a comprehensive, accurate,
+current inventory of actual emissions from all sources” every
+three years. Id. §§ 7511a(a)(1), (3).
+
+     Beginning six years after the baseline year, and every three
+years thereafter, states must determine whether each serious or
+above ozone nonattainment area “has achieved a reduction in
+emissions during the preceding intervals equivalent to the total
+emission reductions required to be achieved by the end of such
+interval” by the reasonable further progress provisions. Id.
+§ 7511a(g)(1). This reduction in emissions is called a
+“milestone.” Id. Within ninety days of achieving a milestone,
+each state in which the relevant nonattainment area is located
+must “submit to the Administrator a demonstration that the
+milestone has been met.” Id. § 7511a(g)(2). That
+demonstration “shall be submitted in such form and manner,
+and shall contain such information and analysis, as [EPA] shall
+require, by rule.” Id. Within ninety days of receiving the
+demonstration, EPA determines whether that demonstration is
+adequate. Id.
+
+    The 2018 Rule allows states to demonstrate milestone
+compliance in one of two ways: either with “actual emissions
+reductions, as demonstrated with periodic emissions inventory
+data,” or “[c]ompliance with control measures requirements in”
+the relevant reasonable further progress plan. 2018
+Implementation Rule, 83 Fed. Reg. at 63,011. Petitioners
+                               16
+challenge the implementation-based method, which allows
+states to demonstrate that they have met a milestone by
+showing “percent implementation,” that is, that the area has
+implemented measures from the relevant plan projected to meet
+that milestone, rather than by presenting actual emissions data.
+Id. at 63,011–12. Petitioners argue that EPA’s interpretation is
+unlawful and unreasonable, and that the agency failed to
+respond adequately to comments raising concerns with its
+approach.
+
+     As for the former argument, it is true, as EPA points out,
+that the statute provides that the milestone compliance
+demonstration “shall be submitted in such form and manner,
+and shall contain such information and analysis, as the [EPA]
+shall require, by rule.” 42 U.S.C. § 7511a(g)(1). Given the
+discretion that this provision allows, Congress has not
+“unambiguously foreclosed the agency’s statutory
+interpretation.” Catawba County, North Carolina v. EPA,
+571 F.3d 20, 35 (D.C. Cir. 2009). Since Congress has not
+spoken directly to this precise issue, our inquiry is governed by
+Chevron step two. We ask whether EPA, in interpreting this
+ambiguous provision, “‘has acted reasonably and thus has
+stayed within the bounds of its statutory authority.’” Maryland,
+958 F.3d at 1198 (quoting Utility Air Regulatory Group v.
+EPA, 573 U.S. 302, 315 (2014)).
+
+     Two closely related statutory provisions are particularly
+relevant here. First, the “baseline emissions” from which
+milestone compliance is to be measured are defined in terms of
+“actual VOC or NOX emissions.” 42 U.S.C. § 7511a(b)(1)(B)
+(emphasis added). Second, the provisions for reasonable
+further progress make clear that “emissions reductions are
+creditable toward the” required “15 percent” reduction only “to
+the extent they have actually occurred.” Id. § 7511a(b)(1)(C)
+(emphasis added). The statute later references and incorporates
+                               17
+this subsection into the milestone requirements. See id.
+§ 7511a(g)(1). Significantly for our purposes, both provisions
+are unquestionably quantitative and grounded in actual
+emissions data. The second requires a quantitatively
+measurable 15 percent reduction in actually occurring
+emissions, id. § 7511a(b)(1)(B), and the first indicates that the
+baseline from which milestone compliance is measured is
+actual emissions, id. § 7511a(b)(1)(C). Notwithstanding EPA’s
+focus on section 7511a(g)(1), sections 7511a(b)(1)(B) and (C)
+demonstrate that milestones can be achieved only through
+reductions in actual emissions, and that milestone compliance
+can be demonstrated only through some form of actual
+emissions data. See National Treasury Employees Union v.
+Chertoff, 452 F.3d 839, 861 (D.C. Cir. 2006) (explaining that
+an agency may not focus on one provision in such a way that it
+“elevate[s] one provision of the [Act] over” other provisions).
+
+      Highlighting the unreasonableness of EPA’s position, a
+2004 Evaluation Report by the Office of the Inspector General
+details how emissions may outpace projections and how a
+SIP’s control measures may be less effective than anticipated.
+Evaluation Report: EPA and States Not Making Sufficient
+Progress in Reducing Ozone Precursor Emissions in Some
+Major Metropolitan Areas, Office of the Inspector General
+(Sept. 29, 2004), Joint Appendix (J.A.) 244–46. According to
+the Evaluation Report’s executive summary, review of data
+from the 1990s revealed that “States may have used inaccurate
+data, assumptions, and projections of emission growth,
+resulting in fewer reductions planned than appropriate.” Id. at
+ii, J.A. 246. For example, it points to the Atlanta metropolitan
+area, where the relevant ozone reduction plan “assumed a
+[population] growth rate that was about half of the population
+growth rate” that the area actually experienced during the
+relevant period. See id., J.A. 246. Indeed, the Report devotes
+an entire section to explaining how emissions reductions were
+                                18
+“underestimated due to inaccurate growth projections and other
+factors.” See id. at 22–25, J.A. 249–52. The Report also
+explains how implementation plans may be less effective than
+anticipated, pointing out that Georgia’s program had projected
+that its VOC emissions reductions plan would be 100%
+effective but was ultimately only 81% effective. Id. at 20, J.A.
+247. These problems, the Report finds, were compounded by
+“[l]imited EPA oversight of the development and
+implementation of emission control plans.” Id. at ii, J.A. 246.
+Such     record     evidence     demonstrates   that     EPA’s
+implementation-based approach will fall far short of the actual
+emissions data that the statute contemplates.
+
+     EPA has failed to address these shortfalls. When
+Petitioners raised them during the rulemaking, EPA
+“encourage[d] air agencies to work with their EPA Regional
+office to develop a [milestone compliance demonstration]
+suitable for the specific facts and circumstances of the
+attainment plan,” which it claimed would “address[], as
+appropriate, the potential emissions growth.” Response to
+Comments on Implementation of the 2015 National Ambient
+Air Quality Standards for Ozone: State Implementation Plan
+Requirements, EPA (Oct. 31, 2018), J.A. 518. Yet, as
+Petitioners point out, EPA never explained how that suggestion
+would address the referenced shortfalls of the implementation-
+based approach. Nor has EPA suggested that the problems
+identified in the 2004 Evaluation Report are somehow
+inapplicable or outdated today. Given such problems, EPA has
+failed to show how its implementation-based approach can be
+squared with the quantitative statute. That failure is all the more
+glaring in light of the fact that the 1990 Amendments were
+“purposefully crafted to limit EPA discretion” and to ensure
+that actual emissions reductions were made. South Coast I,
+472 F.3d at 887, 894–95; see H.R. Rep. No. 101-490, pt. 1, at
+229 (1990) (“The objective is to achieve the standard as early
+                               19
+as possible with effective and enforceable measures and
+without gaming by the States, industry, and others.”).
+
+     According to EPA, it “makes sense” for baseline emissions
+to be actual emissions “because those emissions are historic, as
+a baseline should be.” EPA Br. 41. Consequently, it insists, the
+provision’s reference to actual emissions says nothing about
+“how States or EPA are to assess compliance with a
+milestone.” Id.; see 42 U.S.C. § 7511a(b)(1)(B). This argument
+falls flat. Given sections 7511a(b)(1)(B) and (C)’s focus on
+actual, quantitative reductions in emissions, “[t]he
+interpretation advanced by EPA cannot be squared with
+Congress’s desire to limit EPA discretion” or with the statutory
+structure. South Coast I, 472 F.3d at 894.
+
+     EPA argues that the flexibility afforded by the
+implementation-based approach is required by time schedules
+established in other regulations. Specifically, although the
+statute directs states to demonstrate milestone compliance
+within ninety days of that milestone being met, 42 U.S.C.
+§ 7511a(g)(1), “EPA regulations allow States twelve months to
+report their inventory” due to “the complexities associated with
+generating and verifying the data.” EPA Br. 42. For this reason,
+EPA tells us, it would be difficult, if not impossible, for states
+to comply with the ninety-day deadline if actual emissions data
+were required. Perhaps so, but the statute requires quantitative
+and actual emissions data, and “EPA may not construe the
+statute in a way that completely nullifies textually applicable
+provisions meant to limit its discretion.” Whitman, 531 U.S. at
+485. EPA’s arguments miss the mark for an additional reason,
+as they fail to explain how reductions from actual baseline
+emissions numbers can be measured, or how emissions
+reductions that actually occurred can be credited toward an
+area’s progress, without actual emissions data. See 42 U.S.C.
+§§ 7511a(b)(1)(B), (C).
+                              20
+     EPA makes two final arguments: that actual emissions
+data is just as fallible as the modeling underlying the
+implementation-based method, and that its review, together
+with the contingency measures, will ensure that actual
+reductions occur. But EPA made neither of these arguments in
+the rulemaking, and as indicated above, “we cannot accept
+appellate counsel’s post hoc rationalizations for agency
+action.” National Ass’n of Clean Water Agencies v. EPA,
+734 F.3d 1115, 1138 (D.C. Cir. 2013) (internal quotation marks
+omitted).
+
+     Given that the implementation-based approach is
+“[un]reasonable in light of the Act’s text, legislative history,
+and purpose,” we cannot defer to it. Southern California
+Edison Co. v. FERC, 116 F.3d 507, 511 (D.C. Cir. 1997). We
+thus have no need to reach Petitioners’ other arguments.
+
+                              C.
+    Petitioners’ next challenge also relates to the 2018
+Implementation Rule’s interpretation of the reasonable further
+progress requirements. Specifically, they challenge the
+provision allowing states to choose between two alternative
+baseline years.
+
+     As explained above, the Act measures reasonable further
+progress from a starting baseline year. See South Coast II,
+882 F.3d at 1152. Although the statute establishes a baseline
+year of 1990, it does not define baseline years for any future
+NAAQS. 42 U.S.C. §§ 7511a(b)(1)(A)–(B); see South Coast
+II, 882 F.3d at 1152. The 2018 Rule defines the default baseline
+year as “the calendar year for the most recent triennial
+emissions inventory preceding the year of the area’s effective
+date of nonattainment designation.” 2018 Implementation
+Rule, 83 Fed. Reg. at 63,005. If an area were designated
+nonattainment in 2018, for example, the reasonable further
+                              21
+progress baseline year would be 2017, which “would be the
+year of the most recent triennial emissions inventory.” Id. The
+Rule also allows states to use an alternative reasonable further
+progress baseline year that “corresponds with the year of the
+effective date of an area’s designation.” Id.
+
+     In South Coast II, we considered a challenge to a similar
+provision in EPA’s 2015 Implementation Rule. That provision
+allowed states to select an alternative baseline year between
+2008 and 2012 if they provided appropriate justification. South
+Coast II, 882 F.3d at 1152. We found that the 2015 Rule’s
+default year—2011, the year for the most recently available
+triennial emissions inventory preceding nonattainment
+designation—was reasonable because it was “tied to the three-
+year statutory cycle for emissions inventories.” Id. But because
+“EPA ha[d] failed to provide a statutory justification” when it
+came to the choice of an alternative baseline year, we vacated
+the alternative baseline year portion of the 2015 Rule. Id. at
+1152–53.
+
+     Unlike in South Coast II, here EPA has “ground[ed] its
+reasons for” both baseline year alternatives “in the statute,
+rather than on reasoning divorced from the statutory text.” Id.
+at 1152 (internal quotation marks omitted). The default year
+definition in the 2018 Implementation Rule is the same one that
+we sustained in South Coast II as grounded in the statute. See
+id. at 1152–53. And the alternative year—“the year of the
+effective date of an area’s designation,” 2018 Implementation
+Rule, 83 Fed. Reg. at 63,005—is also rooted in the statute, as
+1990 was the year when nonattainment designations first took
+effect, see NRDC I, 777 F.3d at 464. Either option, then,
+represents a reasonable interpretation of the ambiguous
+baseline year provision.
+                                22
+     Although Petitioners concede as much, see Oral Arg. Rec.
+15:10–15:30, 18:18–18:30, they nonetheless take issue with
+EPA allowing states to choose between the two years. They
+argue that this choice has no grounding in the statute. But it
+does. As we pointed out in South Coast II, the Act contains a
+gap with respect to the baseline year for future reasonable
+progress requirements. 882 F.3d at 1152. The original year was
+1990, which happened to be both the year that began the
+triennial emissions inventory cycle and the year in which the
+designations took effect. See 42 U.S.C. §§ 7511a(b)(1)(A)–
+(B); South Coast II, 882 F.3d at 1152; NRDC I, 777 F.3d at
+464. But now that an area may be designated in any year, and
+now that the three-year statutory cycle for emissions
+inventories is underway, not every post-1990 year will satisfy
+both conditions for a particular area. As the Rule itself points
+out, this is precisely what happened with the 2015 ozone
+NAAQS: “for future promulgations and revisions of NAAQS,
+the year of designations and the year of the most recent triennial
+emissions inventory may not coincide[,] and for the 2015 ozone
+NAAQS, they do not.” 2018 Implementation Rule, 83 Fed.
+Reg. at 63,005. Because no single year can serve as a perfect
+stand-in for 1990, EPA acted reasonably when it allowed states
+to choose between two baseline year options, each of which is
+“ground[ed] in the statute.” NRDC I, 777 F.3d at 468.
+
+                                D.
+     Lastly, Petitioners dispute EPA’s approach to the
+contingency measure requirements. SIPs must include
+contingency measures, or “specific measures to be undertaken
+if the area fails to make reasonable further progress, or to attain
+the national primary ambient air quality standard by the
+[applicable] attainment date.” 42 U.S.C. § 7502(c)(9). These
+“measures shall be included in the plan revision as contingency
+measures to take effect in any such case without further action
+by the State or the Administrator.” Id. In addition, SIPs must
+                               23
+“provide for the implementation of specific measures to be
+undertaken if the area fails to meet any applicable milestone”
+under Subpart 2’s ozone provisions. Id. § 7511a(c)(9). Like the
+general measures, these “shall be included in the plan revision
+as contingency measures to take effect without further action
+by the State or the Administrator upon a failure by the State to
+meet the applicable milestone.” Id.
+
+     Petitioners challenge the 2018 Rule’s provision
+“allow[ing] approval of already implemented measures as
+contingency measures, so long as” those measures meet other
+relevant parameters and the state does not rely on them for
+reasonable further progress or attainment demonstrations. 2018
+Implementation Rule, 83 Fed. Reg. at 63,026. The Rule
+explains that this policy applies only outside of the Ninth
+Circuit, which has “rejected” EPA’s interpretation “that
+allowed states to rely on control measures that are already in
+effect as a valid means to meet the contingency measure
+requirement.” Id.; see Bahr v. EPA, 836 F.3d 1218, 1235–36
+(9th Cir. 2016). Instead, the Rule invokes a Fifth Circuit
+decision “upholding” EPA’s interpretation as applied to a
+particular SIP. 2018 Implementation Rule, 83 Fed. Reg. at
+63,026; see Louisiana Environmental Action Network v. EPA,
+382 F.3d 575, 582–84 (5th Cir. 2004).
+
+     We agree with Petitioners and the Ninth Circuit that
+Congress has “directly spoken to the precise question at
+issue”—that is, that previously implemented measures cannot
+qualify as contingency measures. Chevron, 467 U.S. at 842–
+43. The Act’s plain text expressly provides that valid
+contingency measures become operative only when the
+triggering conditions set forth in the statute occur, and not any
+earlier.
+                               24
+     Using conditional and prospective language, both
+provisions require SIPs to include measures “to be undertaken
+if” certain conditions are not achieved, and both require that the
+measures be included as “contingency measures” “to take
+effect . . . upon” failure to meet the requirements. See
+42 U.S.C. §§ 7502(c)(9), 7511a(c)(9). A measure “to be
+undertaken if” certain standards are not met is, by definition, a
+measure not yet implemented. See State Farm Fire & Casualty
+Co. v. United States ex rel. Rigsby, 137 S. Ct. 436, 443 (2016)
+(explaining that “if” and “unless” are “clear[] conditional
+words”); Dodd v. United States, 545 U.S. 353, 358 (2005)
+(explaining that the word “if” “impose[d] a condition on the
+applicability of [a] subsection” and citing the dictionary
+definition of the word, which was “in the event that” or “on
+condition that” (internal quotation marks omitted)).
+“[C]ontingency measures” that are “to take effect . . . upon”
+failure to satisfy standards are likewise not measures that have
+been implemented before such failure occurs. See Contingent,
+The Merriam-Webster Collegiate Dictionary 270 (11th ed.
+2009) (including as a definition of the adjective “contingent”
+“dependent on or conditioned by something else”); Delaware
+Department of Natural Resources & Environmental Control v.
+EPA, 895 F.3d 90, 98 (D.C. Cir. 2018) (explaining that the
+word “upon” denotes “a conditional context” in relation to
+another provision of Subpart 2 of the Act). And measures that
+are already implemented are not measures “to take effect” or
+“to be undertaken” if the area fails to satisfy the applicable
+requirements. See, e.g., Take effect, The Merriam-Webster
+Collegiate Dictionary 1273 (defining “to take effect” as “to
+become operative”); To undertake, The Merriam-Webster
+Collegiate Dictionary 1365 (defining “to undertake” as “to take
+upon oneself; set about,” “to put oneself under obligation to
+perform,” “to accept as a charge or responsibility,” and “to
+guarantee” or “promise”). They are simply measures that have
+failed. See Bahr, 836 F.3d at 1235 (finding that the contingency
+                                25
+measures are “control measures that will be implemented in the
+future”).
+
+      EPA argues that “Congress was silent as to whether
+already-implemented measures could serve as contingency
+measures.” EPA Br. 53. As our court has explained, however,
+“[t]o suggest . . . that Chevron step two is implicated any time
+a statute does not expressly negate the existence of a claimed
+administrative power (i.e. when the statute is not written in
+‘thou shalt not’ terms), is both flatly unfaithful to the principles
+of administrative law . . . and refuted by precedent.” Railway
+Labor Executives’ Ass’n v. National Mediation Board, 29 F.3d
+655, 671 (D.C. Cir. 1994) (en banc). Nor, contrary to EPA’s
+argument, does it make any difference that four judges in other
+circuits—three in the Fifth and one in the Ninth—have found
+the statute ambiguous. See, e.g., Adams Fruit Co. v. Barrett,
+494 U.S. 638 (1990) (finding a provision unambiguous on an
+issue about which circuits had disagreed). Although we are
+always interested in knowing how our sister circuits have
+approached the same question in other cases, it is this court that
+is interpreting the statute here, and this court has concluded that
+the statute is unambiguous. That ends the matter. See Chevron,
+467 U.S. at 842–43. EPA “cannot rely on its gap-filling
+authority to supplement the Clean Air Act’s provisions when,”
+as here, “Congress has not left the agency a gap to fill.” Natural
+Resources Defense Council v. EPA, 749 F.3d 1055, 1064 (D.C.
+Cir. 2014).
+
+                                III.
+     For the foregoing reasons, we grant in part and deny in part
+the petitions for review in these consolidated cases.
+Specifically, we vacate the provisions of the rule allowing (1)
+interprecursor trading, see 2018 Implementation Rule, 83 Fed.
+Reg. at 63,016–21; (2) use of the implementation-based option
+for milestone compliance demonstrations, see id. at 63,010–12;
+                              26
+and (3) use of already implemented measures as contingency
+measures, see id. at 63,026–27. We deny the petition for review
+as to the provision allowing states to choose between two
+alternative baseline years.
+
+                                                   So ordered.
+

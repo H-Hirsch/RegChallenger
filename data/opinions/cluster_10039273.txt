@@ -1,0 +1,820 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 16, 2024            Decided August 13, 2024
+
+                        No. 23-1045
+
+             HUNTSMAN PETROCHEMICAL LLC,
+                     PETITIONER
+
+                             v.
+
+          ENVIRONMENTAL PROTECTION AGENCY,
+                    RESPONDENT
+
+              AIR ALLIANCE HOUSTON, ET AL.,
+                      INTERVENORS
+
+
+
+            Consolidated with 23-1047, 23-1085
+
+
+          On Petitions for Review of Final Actions
+          of the Environmental Protection Agency
+
+
+
+    John D. Lazzaretti argued the cause for petitioners. With
+him on the briefs were Allen A. Kacenjar, Laura K. McAfee,
+David M. Friedland, Elliott Zenick, and Tokesha Collins-
+Wright.
+                              2
+    Matthew Z. Leopold and Elbert Lin were on the brief for
+amici curiae the Chamber of Commerce of the United States of
+America and the National Association of Manufacturers in
+support of petitioners.
+
+    Eric G. Lasker was on the brief for amici curiae Ethylene
+Oxide Sterilization Association and Sterigenics U.S., LLC in
+support of petitioners.
+
+     Ken Paxton, Attorney General, Office of the Attorney
+General for the State of Texas, Aaron L. Nielson, Solicitor
+General, and Bill Davis, Deputy Solicitor General, were on the
+brief for amicus curiae Texas Commission on Environmental
+Quality in support of petitioners. Lanora C. Pettit, Principal
+Deputy Solicitor General, entered an appearance.
+
+    Sue S. Chen, Senior Attorney, U.S. Department of Justice,
+argued the cause for respondent. With her on the brief were
+Todd Kim, Assistant Attorney General, and Monica Derbes
+Gibson, Trial Attorney, U.S. Environmental Protection
+Agency.
+
+    Kathleen Riley and Adam Kron were on the brief for
+Environmental and Public Health respondent-intervenors.
+
+   Before: HENDERSON and GARCIA, Circuit Judges, and
+ROGERS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge GARCIA.
+
+     GARCIA, Circuit Judge: This case concerns challenges by
+a chemical manufacturer and two trade associations to an EPA
+rule regulating emissions from certain facilities. Petitioners
+dispute EPA’s assessment of the cancer risk from exposure to
+those facilities’ ethylene oxide emissions. EPA addressed and
+                                3
+rejected petitioners’ arguments in detail, and petitioners fail to
+show that in doing so EPA acted arbitrarily, capriciously, or
+otherwise contrary to law. We therefore deny the petitions for
+review.
+                                I
+     Under Section 7412 of the Clean Air Act, EPA is required
+to tighten emissions standards if it determines that certain
+emissions pose an unacceptable risk to public health.
+42 U.S.C. § 7412(f). This case concerns a 2020 rule that EPA
+promulgated to regulate emissions by Miscellaneous Organic
+Chemical Manufacturing facilities. See National Emission
+Standards for Hazardous Air Pollutants: Miscellaneous
+Organic Chemical Manufacturing Residual Risk and
+Technology Review (“Rule”), 85 Fed. Reg. 49084 (Aug. 12,
+2020). EPA determined that emissions from these sources
+posed an unacceptable risk to public health under Section 7412,
+primarily due to emissions of the chemical ethylene oxide, and
+therefore tightened emissions standards for those sources. Id.
+at 49088, 49094. Ethylene oxide is a gas at room temperature
+and is used, as relevant to the Rule, to manufacture antifreeze,
+plastics, adhesives, and other common products. EPA
+concluded that for people living near these facilities, the
+maximum lifetime individual risk of cancer from exposure to
+ethylene oxide was four times what EPA generally considers
+acceptable. Id. at 49095–96 & tbl.3.
+     The 2020 rule calculated the lifetime individual cancer risk
+from exposure to these facilities’ emissions by multiplying the
+estimated lifetime exposure to ethylene oxide for the relevant
+populations by EPA’s assessment of the increased risk of
+cancer from such exposure. National Emission Standards for
+Hazardous Air Pollutants: Miscellaneous Organic Chemical
+Manufacturing Residual Risk and Technology Review, 84 Fed.
+Reg. 69182, 69191 (proposed Dec. 17, 2019). EPA’s cancer-
+                               4
+risk assessment for ethylene oxide is sometimes referred to as
+the “IRIS value,” after an EPA database of health hazards from
+various chemicals called the Integrated Risk Information
+System.
+     How EPA arrived at the ethylene oxide cancer-risk
+assessment and whether EPA should have relied on it in the
+Rule is at the heart of this appeal. EPA generated that cancer-
+risk assessment in an extensive, eighteen-year process that
+began in 1998, involved rounds of public comment and peer
+review by EPA’s Science Advisory Board (“SAB”), and
+concluded in 2016 when EPA issued a comprehensive report
+on the subject.
+     The 2016 report first explained that “strong evidence”
+supported the conclusion that inhalation of ethylene oxide
+increases the risk of certain kinds of cancer. See J.A. 2299; see
+also J.A. 2315–22. EPA then quantified that risk using
+statistical modeling. EPA focused on the risk faced by
+members of the public from low environmental exposures
+because of Section 7412’s focus on “public,” rather than
+occupational, health. See J.A. 2302. In general terms (with
+details to come later in this decision as relevant), EPA’s
+statistical modeling approach proceeded as follows. See J.A.
+2383 fig.4-1; see also Oral Argument Tr. 18–19. First, EPA
+selected underlying data about cancer rates in populations
+exposed to ethylene oxide. See J.A. 2387–89. Second, EPA
+developed multiple statistical models from that data. See J.A.
+2389–97. Third, EPA considered which of the statistical
+models best fit that data. See J.A. 2397–402. And finally, EPA
+used its chosen model to perform additional statistical analysis
+to arrive at the cancer risk from ethylene oxide exposure at low
+environmental exposure levels. See J.A. 2403–13.
+     Petitioners here raised complaints about EPA’s data
+selection and modeling choices during EPA’s eighteen-year
+                              5
+process of updating the ethylene oxide cancer-risk assessment.
+See generally J.A. 1847–2114. When EPA used the 2016
+updated cancer-risk assessment in the 2020 rulemaking,
+petitioners raised similar complaints in comments on the notice
+of proposed rulemaking and in seeking reconsideration after
+EPA issued the final rule. See generally J.A. 100–387, 388–
+672, 673–1034, 3353–3560.
+     Petitioners asked EPA to consider, among many other
+things, a different model developed and proposed by Texas’s
+environmental agency (“TCEQ”) in May 2020. 85 Fed. Reg.
+at 49098. TCEQ’s model estimated a cancer risk about 3,000
+times lower than EPA’s model. See J.A. 3708. When the
+comment period on the Rule closed in March 2020, the TCEQ
+assessment was in draft form and had not yet been subject to
+peer review. See 85 Fed. Reg. at 49098 & n.12. The TCEQ
+assessment was finalized a few months after the comment
+period closed. See id.
+     Once the assessment was finalized, petitioners sought
+reconsideration. J.A. 3353–3560. In February 2022, EPA
+granted reconsideration and solicited further public comment
+on the use of EPA’s ethylene oxide cancer-risk assessment in
+the 2020 Rule and the use of the TCEQ assessment as an
+alternative. Reconsideration of the 2020 National Emission
+Standards for Hazardous Air Pollutants: Miscellaneous
+Organic Chemical Manufacturing Residual Risk and
+Technology Review, 87 Fed. Reg. 6466, 6467 (proposed Feb.
+4, 2022). EPA issued a final reconsideration decision in
+December 2022. Reconsideration of the 2020 National
+Emission Standards for Hazardous Air Pollutants:
+Miscellaneous Organic Chemical Manufacturing Residual
+Risk and Technology Review (“Reconsideration Decision”),
+87 Fed. Reg. 77985 (Dec. 21, 2022). The Reconsideration
+Decision affirmed EPA’s decision to use the IRIS value for
+ethylene oxide for the 2020 Rule and explained EPA’s
+                               6
+rejection of TCEQ’s cancer-risk assessment for ethylene oxide
+as an alternative. Id. at 77985–95.
+     In a set of consolidated cases filed in this court in 2020,
+petitioners Huntsman Petrochemical LLC and the American
+Chemistry Council sought review of the Rule. These cases
+were held in abeyance pending EPA’s reconsideration. After
+the EPA issued its Reconsideration Decision, Huntsman
+Petrochemical, the American Chemistry Council, and the
+Louisiana Chemical Association again petitioned this court for
+review. We severed the ethylene oxide cancer-risk assessment
+issues raised in the petitions challenging the Rule and
+consolidated them with the petitions for review of the
+Reconsideration Decision (which concerned the cancer-risk
+assessment issues, too). Mar. 28, 2023 Order.
+                               II
+     Under the APA, courts must “hold unlawful and set aside
+agency action” that is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.” 5 U.S.C.
+§ 706(2)(A); see 42 U.S.C. § 7607(d)(9)(A) (Clean Air Act
+provision requiring same). Most fundamentally, “[t]he APA’s
+arbitrary-and-capricious standard requires that agency action
+be reasonable and reasonably explained.” FCC v. Prometheus
+Radio Project, 592 U.S. 414, 423 (2021).
+     An agency action is arbitrary or capricious if the agency
+“entirely failed to consider an important aspect of the problem”
+or “offered an explanation for its decision that runs counter to
+the evidence before the agency.” Motor Vehicle Mfrs. Ass’n v.
+State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983). An
+agency also acts arbitrarily and capriciously when it fails to
+“examine the relevant data and articulate a satisfactory
+explanation for its action including a ‘rational connection
+between the facts found and the choice made.’” Id. (quoting
+                                7
+Burlington Truck Lines, Inc. v. United States, 371 U.S. 156,
+168 (1962)).
+     In the case of EPA’s evaluation of scientific data within its
+area of expertise, we accord an “extreme degree of deference.”
+Miss. Comm’n on Env’t Quality v. EPA, 790 F.3d 138, 150
+(D.C. Cir. 2015) (per curiam) (quoting City of Waukesha v.
+EPA, 320 F.3d 228, 247 (D.C. Cir. 2003)). This is particularly
+true for statistical and modeling analysis. See Appalachian
+Power Co. v. EPA, 135 F.3d 791, 802 (D.C. Cir. 1998) (per
+curiam) (identifying statistics as “the prime example of those
+areas of technical wilderness into which judicial expeditions
+are best limited to ascertaining the lay of the land”). We, “as
+nonstatisticians,” id., do not ask whether, “[l]ooking at the
+same data” we “would simply reach a different conclusion,”
+Miss. Comm’n on Env’t Quality, 790 F.3d at 162. Instead, we
+“will examine each step of EPA’s analysis to satisfy ourselves
+that the agency has not departed from a rational course,” and
+“only when the model bears no rational relationship to the
+characteristics of the data to which it is applied” will we
+conclude the use of the model was arbitrary and capricious.
+Appalachian Power Co., 135 F.3d at 802.
+                               III
+     Petitioners’ challenges to the Rule and Reconsideration
+Decision fall into three groups: arguments that EPA’s modeling
+of the lymphoid cancer risk of ethylene oxide was arbitrary and
+capricious, arguments that EPA committed procedural errors in
+promulgating the Rule and issuing the Reconsideration
+Decision, and an argument that Section 7412(f) is an
+unconstitutional delegation of congressional authority.1 We
+address each in turn and conclude none has merit.
+
+
+    1
+      We decline to address the issue raised only by TCEQ as
+amicus regarding whether EPA properly accounted for parity bias in
+                                  8
+                                 A
+     We start with the foundational issue: EPA’s modeling of
+the lymphoid cancer risk of ethylene oxide. Petitioners have
+not shown that EPA’s modeling was arbitrary or capricious.
+     As briefly outlined above, EPA’s statistical modeling
+approach included several steps. See J.A. 2383 fig.4-1; see also
+Oral Argument Tr. 18–19. EPA first chose which underlying
+data about cancer rates in populations exposed to ethylene
+oxide to use. See J.A. 2387–89. EPA selected data from a
+large-scale study conducted by the National Institute for
+Occupational Safety and Health (“NIOSH”), which found that
+sterilizer workers exposed to ethylene oxide faced higher risks
+of lymphoid and breast cancer. See J.A. 2299.
+     Second, EPA developed multiple statistical models from
+that data. See J.A. 2389–97. EPA developed what are called
+dose-response models.2 A dose-response model describes
+incremental cancer risk based on the level of exposure to the
+carcinogen above any background exposures. See, e.g., J.A.
+
+selecting breast cancer as a relevant health effect of ethylene oxide
+exposure. TCEQ Amicus Brief 20–22. This issue is wholly
+independent from those raised by petitioners and not implicated by
+any of the arguments they do raise. See Michel v. Anderson, 14 F.3d
+623, 625 (D.C. Cir. 1994). Further, petitioners bury some of their
+contentions in footnotes. See, e.g., Petitioners’ Brief 32 n.39, 38
+n.53; Reply Brief 21 n.8, 29 n.13. We do not consider these
+arguments because “[a] footnote is no place to make a substantive
+legal argument on appeal.” CTS Corp. v. EPA, 759 F.3d 52, 64 (D.C.
+Cir. 2014).
+     2
+       EPA’s assessment of overall cancer risk included both
+lymphoid cancer and breast cancer—the two cancers linked to
+ethylene oxide in the data. See, e.g., J.A. 2383 fig.4-1. Because this
+appeal focuses on challenges regarding the lymphoid cancer model,
+our discussion does, too.
+                               9
+2389–90, 2402, 3616. EPA developed multiple potential
+models using the individual data points from the NIOSH study.
+See J.A. 2393, 2396.
+      Third, EPA determined which of the statistical models best
+fit the data. See J.A. 2397–402. EPA selected the model that
+best fit the data based on two calculations referred to as fit
+metrics and an assessment of visual fit. See J.A. 2396–97,
+2400–01 tbl.4-6. The two fit metrics used by EPA calculated,
+respectively, how well the model matches (or “fits”) the
+underlying data and the likelihood that an observed outcome is
+due to chance. See, e.g., J.A. 2396, 2160. EPA identified the
+models with lower fit metrics, indicating better fit of the model
+overall. See J.A. 2400 tbl.4-6. But while the fit metrics
+indicate overall fit of the model across all exposure levels, EPA
+explained that they may not indicate the model with the best
+local fit at a particular exposure range. See J.A. 2739, 4357.
+Because EPA was most interested in the effect of low levels of
+environmental exposures for purposes of its Clean Air Act
+analysis, EPA also used visual fit (essentially an assessment of
+how well a model visually appears to fit the data when plotted
+on a graph) to determine which of those models with good fit
+metrics best fit the data at low exposure levels. See J.A. 2396–
+97.
+     To make that visual fit assessment, EPA took the potential
+models it had developed from the individual NIOSH data and
+compared them to categorical averages of that data to see which
+model had the best visual fit at low exposure levels. See J.A.
+2393. EPA explained that plotting model fit compared to the
+categorical averages of data “is a very useful and commonly
+used tool in epidemiology” because it allows for comparison of
+continuous models against the unstructured information in the
+relevant exposure ranges. J.A. 4349–50. Put simply, it allowed
+EPA to make sense of a large data set of 17,000 individual data
+points and see an average person’s response within a
+                               10
+categorical interval rather than all the variations in individual
+responses. E.g., Oral Argument Tr. 20–21.
+     Based on both fit metrics and visual fit at low exposures,
+EPA determined that the model that best fit the data was a two-
+piece linear spline (essentially two straight line segments with
+different slopes connected at what is called a “knot”), with a
+steeper slope at lower exposure levels and a lower slope at
+higher exposure levels. See J.A. 2397–402. EPA further
+explained that “plateau-like” dose-response curves like its
+chosen spline model “have been seen for many occupational
+carcinogens” and noted several potential explanations in the
+scientific literature for that phenomenon. J.A. 2617; see also
+J.A. 1950, 2393.
+     Petitioners challenge four aspects of EPA’s modeling
+process and model selection: (1) EPA’s use of the NIOSH data,
+(2) its development and selection of its chosen two-piece spline
+model, (3) its rejection of petitioners’ preferred model, and
+(4) its rejection of petitioners’ favored studies. Within those
+categories, petitioners raise a litany of complaints about EPA’s
+choices, each of which we have carefully considered and
+address below. It is important to note at the outset, however,
+that petitioners have not identified any issue that they raised
+during the rulemaking process to which EPA failed to respond.
+They instead ask us to credit, for example, their interpretation
+of the data and figures in the extensive record over EPA’s.
+Petitioners’ arguments are of the type for which we accord EPA
+an “extreme degree of deference.” Miss. Comm’n on Env’t
+Quality, 790 F.3d at 150. Applying that standard, and having
+“examine[d] each step of EPA’s analysis to satisfy ourselves
+that the agency has not departed from a rational course,” we
+conclude that EPA adequately explained its modeling approach
+and decisions. Appalachian Power Co., 135 F.3d at 802.
+                               11
+                                1
+     EPA extensively explained why it chose the NIOSH study
+as the basis for its risk assessment, including that it was by far
+the largest available human study and for several reasons was
+“high-quality.” J.A. 2300; see also, e.g., J.A. 2445–46.
+Petitioners raise one primary complaint about the NIOSH data:
+The NIOSH study tracked cancer incidence in sterilizer
+workers from 1938–1986 but did not have substantial directly-
+measured data about the levels of ethylene oxide exposure such
+workers faced before 1978, instead using projections based on
+more recent data. Petitioners’ Brief 36–38. Per petitioners, this
+made EPA’s reliance on the NIOSH study data arbitrary and
+capricious.
+     EPA adequately explained its reliance on the NIOSH data
+and its rejection of petitioners’ critiques. See J.A. 2445–46,
+2536–38. Specifically, EPA credited the NIOSH study’s
+explanation that pre-1978 exposure levels could be reliably
+estimated using a regression model based on plant- and year-
+specific sterilizer volume data that was available. J.A. 2445–
+46. The SAB agreed with EPA that the NIOSH data was “the
+most appropriate dataset to use” and supported EPA’s use of it.
+E.g., J.A. 3301.
+   Petitioners argue that EPA’s explanation was inadequate.
+Those arguments lack merit.
+     First, petitioners note that the SAB commented that certain
+of the pre-1978 exposure levels estimated in the NIOSH study
+were “unlikely” and “surprising.” Petitioners’ Brief 36. But,
+as EPA explained, the SAB was not rejecting the NIOSH data;
+instead, the SAB asked for EPA to respond to specific data that
+appeared inconsistent, and EPA adequately explained why the
+data were not, in fact, anomalous. See J.A. 2763–64, 3613.
+                               12
+     Second, petitioners argue that EPA ignored a 2019 study
+that, according to petitioners, called the NIOSH data’s pre-
+1978 exposure levels into question. Petitioners’ Brief 37. But
+EPA reasonably explained that it rejected that 2019 study
+because its methodology—which was based on interviews and
+other data—was not sufficiently documented to evaluate how
+the study’s model was derived, and so the results were not
+reliable. See J.A. 4341. Further, EPA explained that the 2019
+study’s model projections were also inconsistent with other
+data. Id.
+     Petitioners also argue that the NIOSH study and EPA
+ignored other evidence suggesting that exposure levels early in
+the study period would have been much higher than what
+NIOSH estimated, such as evidence that sterilization work
+practices improved substantially over time. Petitioners’ Brief
+37. Again, however, EPA specifically acknowledged and
+addressed these assertions in its response to comments. See
+J.A. 4339–41. EPA explained, for example, that the NIOSH
+study did account for improvements in work practices in the
+relevant period. J.A. 4340. Petitioners have not shown that
+this explanation was arbitrary or capricious.
+                                2
+    Petitioners’ challenges to EPA’s modeling process and its
+choice of the spline model also fail.
+                                a
+     We begin with petitioners’ arguments that EPA’s
+modeling process was arbitrary and capricious.              First,
+petitioners challenge EPA’s use of categorical averages when
+assessing the visual fit of potential models. Second, petitioners
+challenge EPA’s reliance on visual fit. Petitioners also raise
+two technical complaints related to the calculation of a fit
+metric and graphing the models.
+                              13
+     Recall that EPA developed its potential models using the
+individual-level NIOSH data and then, in a subsequent stage of
+its model-selection process, relied on categorical averages of
+the NIOSH data to assess the potential models’ visual fit to the
+data at low exposures. See J.A. 2386, 2396. Petitioners argue
+that using categorical averages was an oversimplification that
+led EPA to choose the wrong model. Petitioners’ Brief 46–47.
+But EPA adequately explained why it compared the models of
+the individual data to categorical averages in the visual fit
+analysis, instead of somehow visually assessing how well the
+models fit 17,000 individual data points on a graph. J.A. 4349–
+51. EPA explained that plotting model fit using categorical
+averages of data “is a very useful and commonly used tool in
+epidemiology” because it allows for visual comparison of
+continuous models against the unstructured information in the
+relevant exposure ranges. J.A. 4349–50. EPA further
+explained that comparison was appropriate where the
+categorical averages were developed from the same individual-
+level data as the models and compared the same referent group.
+Id. Petitioners fail to show how this explanation was
+unreasonable or inconsistent.
+     Petitioners relatedly suggest that EPA’s approach ran
+contrary to SAB feedback. Petitioners’ Brief 46 n.68; Reply
+Brief 19. Not so. The SAB feedback recommended that the
+models should be developed based on the individual, not
+categorical data. See J.A. 3324. EPA complied. See J.A. 2393,
+2396. The SAB feedback did not preclude EPA from then
+relying on the categorical averages in separately assessing the
+models’ visual fit after they had been developed.
+     Petitioners next seek to characterize EPA’s process as
+“simply eyeballing” the data and relying solely on visual fit to
+select the model it wanted. Petitioners’ Brief 44–45. In fact,
+however, EPA selected the model that best fit the data based on
+both calculated fit metrics and EPA’s assessment of the
+                               14
+models’ visual fit at low exposures, not visual fit alone. See
+J.A. 2400–01, 2396–97, 2400–01 tbl.4-6. As EPA repeatedly
+detailed, that use of visual fit was consistent with both SAB
+recommendations and EPA’s own guidance. See J.A. 4345,
+4349; see also J.A. 3323.
+     Finally, petitioners raise two other technical objections
+related to EPA’s modeling approach. First, petitioners contest
+one aspect of one of EPA’s fit metric calculations. Petitioners’
+Brief 42–43. EPA used that metric to calculate how well the
+underlying data match (or “fit”) the model. Petitioners contend
+that, in those calculations, EPA should have counted the knot
+of its spline model (the point where the two line segments with
+different slopes meet) as a third estimated parameter, instead of
+running the fit calculations based on two parameters. But EPA
+addressed this contention and adequately explained why and
+how its calculations were based on two parameters. See J.A.
+4356–57. Particularly given the “extreme degree of deference”
+we give to EPA’s evaluation of scientific data within its area of
+expertise, petitioners have not shown that explanation was
+arbitrary. Miss. Comm’n on Env’t Quality, 790 F.3d at 150.
+The fact that some modelers may have chosen petitioners’
+approach to this calculation does not automatically render
+EPA’s approach unreasonable.
+     Moreover, EPA explained that using petitioners’ preferred
+approach would not have changed its choice of model. See J.A.
+4357–58. Petitioners have not shown otherwise, and EPA’s
+explanation makes sense. As already explained, EPA did not
+simply pick the model with the best calculated fit metrics
+overall; rather, it picked the model with good fit metrics and
+the best fit at low exposures.
+     Second, petitioners argue that EPA misused one of its own
+figures in assessing the potential models. They argue,
+Petitioners’ Brief 48, that EPA used the figure (at J.A. 2402) as
+                                15
+if it represented the actual cancer risk predicted by the models
+as opposed to the relative risk, when the model itself is clear
+(as EPA confirms) that it depicts relative risks. But petitioners
+point to nothing in the record that indicates EPA actually
+misused the figure in the way petitioners suggest. In fact, the
+record citation petitioners rely upon is to EPA’s discussion of
+a different figure altogether; one submitted by TCEQ. See
+Petitioners’ Brief 48 (citing J.A. 4352).               And on
+reconsideration, EPA explained that it focused on the figure for
+the shape of the models in relation to the underlying data, just
+as EPA’s figure says was appropriate. See J.A. 4354.
+Petitioners have provided us no basis to disturb EPA’s
+conclusion.
+                                b
+     We turn now to petitioners’ arguments that EPA’s
+selection of its chosen spline model was arbitrary and
+capricious.
+     First, petitioners argue that EPA’s chosen model lacks
+biological plausibility. Biological plausibility refers to the idea
+that the model should be consistent with understandings of the
+biology of cancer and how carcinogenic processes operate.
+E.g., J.A. 2187. EPA explained its basis for concluding that its
+chosen model was biologically plausible and why its choice did
+not conflict with EPA’s own guidance. See J.A. 2617, 2740,
+2754, 4345–46. EPA described that “plateau-like” dose-
+response curves like its chosen spline model “have been seen
+for many occupational carcinogens” and cited potential
+explanations in the literature for that response. J.A. 2617; see
+also J.A. 1950, 2393. Petitioners in their opening brief do not
+directly challenge EPA’s explanation that similar dose-
+response models are used for other carcinogens.
+    Second, petitioners argue that EPA’s chosen model is
+inaccurate compared to real-world data, as calculated in the
+                               16
+TCEQ “reality check.” Petitioners’ Brief 49–51, 55–57. That
+“reality check” is a statistical analysis that ran EPA’s model
+against real-world data to gauge the accuracy of the model’s
+predictive power. J.A. 4386–88. Here, the TCEQ reality check
+compared the number of lymphoid cancer deaths predicted by
+EPA’s model with the number of lymphoid cancer deaths that
+actually occurred in the NIOSH study data. See id. TCEQ
+concluded from this reality check that EPA’s model
+significantly overpredicted the number of lymphoid cancer
+deaths from ethylene oxide exposure compared to the real-
+world data on which the model was based. See id.
+     EPA adequately explained, however, why the TCEQ
+reality check erred and thus did not call the accuracy of EPA’s
+model into question. See id. EPA explained that the TCEQ
+reality check did not appropriately account for the “healthy
+worker effect” in its calculations and thus misused EPA’s
+model. J.A. 4386. As EPA detailed, the healthy worker effect
+is often seen in occupational epidemiology and reflects a
+selection bias that leads to lower disease rates among workers
+(like those involved in the NIOSH study) than the general
+population. Id. Petitioners counter that TCEQ did, in fact,
+account for a healthy worker effect. Reply Brief 29. But as
+EPA explained, the healthy worker effect that TCEQ accounted
+for (15 to 16%), J.A. 3752, was materially smaller than the
+effect indicated by the relevant data (22 to 28%), J.A. 4387; see
+also J.A. 4333–34. Petitioners did not address that explanation
+in their briefing. Cognizant of our limited role in assessing
+EPA’s evaluation of scientific data within its area of expertise,
+we find this explanation adequate. Miss. Comm’n on Env’t
+Quality, 790 F.3d at 150.
+                               3
+     We turn next to EPA’s rejection of the TCEQ model
+petitioners asked EPA to endorse. EPA adequately explained
+                                17
+why it rejected that model: The TCEQ model did not fit the
+data, and EPA’s chosen model did. See J.A. 4346–49. The
+TCEQ model was a single line with a constant shallow slope at
+both lower exposure and higher exposure levels. E.g., J.A.
+4353. EPA explained that the TCEQ model was inconsistent
+with the data, J.A. 4346, and with the pattern of all the other
+model results indicating a plateauing response with a relatively
+steeper slope in the lower exposure range of the NIOSH data,
+a pattern the SAB specifically recognized, J.A. 4349. EPA
+concluded that the TCEQ model’s inflexible shape thus
+prevented it from usefully representing the NIOSH study data.
+Id.; see also J.A. 4356, 4358.
+     Petitioners in effect argue that, had EPA not made the
+purported errors addressed above in developing and selecting
+its model, EPA would have selected the TCEQ model. But, as
+described above, EPA reasonably developed and selected its
+chosen spline model and adequately explained its reasons for
+doing so.
+     As noted above, one of petitioners’ complaints pertained
+to EPA’s use of figures representing the models. But, as
+previewed, EPA’s reading of graphs does not undermine its
+rejection of the TCEQ model. See J.A. 4350–52. Per EPA,
+TCEQ purported to “adjust” an EPA figure that graphed the
+models to show how the TCEQ model was in fact consistent
+with the other models and the data. See J.A. 3799–800, 4350–
+52.     But, as EPA explained, that “adjusted” figure
+inappropriately shifts the TCEQ model vertically—and while
+this shift makes the TCEQ model appear more consistent with
+the other modeling results, it is inappropriate to simply shift the
+model up on the y-axis. J.A. 4350–51. As EPA noted, the
+result was that TCEQ’s own adjusted figure suggests that its
+model predicts a person with no additional exposure faces
+twice their baseline cancer risk—a prediction of doubled risk
+from no additional exposure cannot be correct. Id. TCEQ’s
+                               18
+“adjusted” figure thus does not demonstrate that its model is
+consistent with the other models and data. Accordingly, it does
+not undermine EPA’s reasons for rejecting the TCEQ model.
+                               4
+     Finally, we turn to EPA’s rejection of petitioners’ studies
+of cancer incidence in tobacco smokers and data about
+endogenous and background levels of ethylene oxide that
+petitioners contend run contrary to the NIOSH data and EPA’s
+model. Again, EPA acknowledged that evidence and gave an
+adequate explanation for not altering its conclusions.
+                               a
+     Petitioners point to studies showing no link between
+ethylene oxide and lymphoid cancer in tobacco smokers.
+Petitioners’ Brief 31–33. EPA provided two reasons for why
+the conclusions of those studies could not be relied on. See J.A.
+4328, 4365–66. Petitioners fail to undermine either.
+     First, EPA explained that the studies lack a quantitative
+analysis of the relationship between lymphoid cancer and
+ethylene oxide specifically. J.A. 4365–66. The studies did not
+account for the interactions between the multiple carcinogens
+in cigarette smoke, and thus faced the issue of what EPA terms
+on appeal “confounding exposures.” EPA also explained that
+even if the studies had been limited to the relationship between
+ethylene oxide and lymphoid cancer, the studies still lacked a
+sufficient quantitative analysis of that relationship showing
+how the studies’ observed lymphoid-cancer rates compared
+with the rate of non-smokers. J.A. 4365–66.
+     Petitioners do not even acknowledge the “confounding
+exposure” explanation in their opening brief. Petitioners argue
+on reply that EPA did not provide that rationale in the
+rulemaking. Reply Brief 26–27. EPA did not use that phrase,
+but in substance it provided the very same rationale it repeats
+                                19
+on appeal. See J.A. 4365–66. Petitioners also do not
+sufficiently undermine EPA’s explanation that the smoker
+studies they rely upon did not have a sufficient quantitative
+analysis to make them reliable. See id.
+     Second, EPA explained that the studies use an unvalidated
+method—a hemoglobin biomarker—as a proxy to measure
+ethylene oxide exposure. J.A. 4328, 4366. Per EPA, the
+method was not validated to assess the low environmental
+exposures that EPA was examining (in contrast to high
+occupational exposures), and the biomarker is a less accurate
+proxy regardless because smoking causes other changes that
+could affect it. Id. Petitioners forfeited any challenge to this
+rationale by failing to address it until their reply brief. See Bd.
+of Regents of Univ. of Washington v. EPA, 86 F.3d 1214, 1221
+(D.C. Cir. 1996).
+                                b
+     Petitioners also point to data about endogenous and
+background levels of ethylene oxide that they argue show such
+levels were higher than what EPA assumed for purposes of its
+model. Petitioners’ Brief 33–35; Reply Brief 27–28. Per
+petitioners, higher background levels would make it harder to
+assess additional health impacts from low environmental
+exposures if additional exposures were a statistically
+insignificant variation from background levels.
+      EPA acknowledged this evidence but rejected it on two
+grounds. First, EPA rejected petitioners’ study as “provid[ing]
+little quantitative data,” “highly speculative,” and offering
+findings of only an “exploratory and qualitative nature.” J.A.
+4363. Second, EPA acknowledged that if, as petitioners
+suggested, there were reliable and high measurements of
+endogenous and background levels, that would make it more
+difficult to measure risks from marginal additional exposures.
+E.g., J.A. 2475. But EPA explained that it is not possible to
+                              20
+identify background levels of ethylene oxide with confidence
+because of how difficult it is to reliably monitor and measure
+such low levels. See J.A. 4366–67. EPA also explained how
+the NIOSH study mitigated these general concerns. See J.A.
+4361. Petitioners do not directly engage with the reasons EPA
+gave for rejecting the studies, see Petitioners’ Brief 33–35;
+Reply Brief 27–28, and they therefore fail to show EPA acted
+arbitrarily or capriciously.
+                          *   *    *
+     Petitioners’ approach to statistical modeling and the TCEQ
+model itself may have advantages. But EPA’s explanations of
+its model development and selection sufficiently articulate a
+rational connection between the facts and the choices EPA
+made, including in response to petitioners’ critiques. For
+purposes of our arbitrary-and-capricious review, that is
+enough.
+                              B
+     We turn now to petitioners’ procedural arguments that
+EPA improperly relied exclusively on its cancer-risk
+assessment in promulgating the Rule, failed to respond to
+National Academy of Sciences (“NAS”) recommendations as
+required by 42 U.S.C. § 7607(d)(3)(C), and avoided
+meaningful public comment on the bases for its decision. None
+of these arguments has merit.
+                              1
+    First, petitioners contend that EPA improperly relied
+exclusively on its 2016 ethylene oxide cancer-risk assessment
+in promulgating the Rule and that this conflicted with
+commitments EPA made to Congress and with EPA’s own
+guidance. Petitioners’ Brief 25–29. Petitioners point to EPA’s
+commitment to Congress in a 1999 report that EPA would
+“consider[] all credible and readily available assessments” in
+                               21
+evaluating health risks from emissions of hazardous air
+pollutants. J.A. 4580. EPA’s guidance similarly indicates that
+EPA will “use all relevant information, . . . evaluate that
+information based on sound scientific practices[,] . . . and reach
+a position based on careful consideration of all such
+information.” J.A. 5800.
+     Petitioners contend that EPA broke those promises by
+relying exclusively on its 2016 cancer-risk assessment in this
+rulemaking. But EPA considered petitioners’ studies and
+explained why it found them unreliable. And when the TCEQ
+assessment became available in finalized peer-reviewed form
+after the close of the public comment period, EPA granted
+reconsideration and considered it. Nothing in EPA’s guidance
+or otherwise required EPA to agree with petitioners’ preferred
+studies or assessments. Instead, EPA was required to consider
+that information, and it did so.
+     Finally, petitioners suggest that EPA’s reliance on its 2016
+ethylene oxide cancer-risk assessment is improper because that
+assessment was not subject to APA notice-and-comment or
+immediate judicial review. Petitioners’ Brief 28–29; see also
+Chem. Mfrs Ass’n v. EPA, 28 F.3d 1259, 1263 (D.C. Cir. 1994)
+(IRIS values are not final agency actions and thus are not
+subject to direct APA challenge). But the IRIS value is not
+shielded from public comment or judicial review: It is subject
+to public comment and can be challenged when it is used in a
+rulemaking, as this very case demonstrates.
+                                2
+    Next, petitioners argue that EPA failed to respond to NAS
+recommendations as required by 42 U.S.C. § 7607(d)(3)(C).
+                              22
+But none of the NAS recommendations to which petitioners
+point required a response from EPA in promulgating the Rule.
+     For certain rules, including the Rule at issue here,
+42 U.S.C.§ 7607(d)(3)(C) requires EPA to include in the notice
+of proposed rulemaking a statement of any “pertinent findings,
+recommendations, and comments” by the NAS and explain any
+divergence in the proposed rule. In a 2011 report, the NAS
+reviewed EPA’s IRIS assessment for formaldehyde. J.A.
+1642–1846. And in a 2014 report, an NAS committee
+reviewed the IRIS process generally and ongoing EPA efforts
+to improve it. J.A. 1471–1641. The NAS has not specifically
+reviewed the IRIS value for ethylene oxide.
+     Petitioners argue that EPA violated Section 7607(d)(3)(C)
+and acted arbitrarily and capriciously in not identifying the
+2011 and 2014 NAS recommendations and explaining any
+divergence in the proposed rule. Petitioners’ Brief 38–41. But
+as EPA explained in responding to comments on
+reconsideration, the NAS reports to which petitioners point
+included general recommendations for the IRIS program and
+did not make any specific recommendations about the IRIS
+ethylene oxide cancer-risk assessment. See J.A. 4310–11.
+Further, EPA reasonably proceeded with the Rule without
+waiting for further improvements to the IRIS program
+generally. As the 2014 NAS report noted, EPA was
+undertaking efforts and making substantial progress in
+improving various aspects of the IRIS process generally. E.g.,
+J.A. 1496. And the NAS recommendations themselves
+recognized that the recommended improvements were of an
+ongoing nature, e.g., J.A. 1623, 1626, and that those long-term
+efforts should not delay individual IRIS assessments, e.g., J.A.
+1670–71 (“[NAS] is not recommending that EPA delay the
+revision of the formaldehyde assessment to implement a new
+approach.”), 1625.
+                               23
+     In any event, EPA stated that, even if it had made the NAS-
+recommended changes to the IRIS program prior to finalizing
+the 2016 ethylene oxide cancer-risk assessment, it would not
+have changed the result. J.A. 4310. Petitioners’ argument to
+the contrary is purely speculative.
+                               3
+    Petitioners’ final procedural argument is that EPA denied
+them the opportunity for “meaningful public comment”
+because EPA did not provide its reasons for rejecting the TCEQ
+assessment until the Reconsideration Decision. Petitioners’
+Brief 54–57. This too fails.
+     As already explained, the TCEQ assessment was not
+available in final, peer-reviewed form until after the public
+comment period on the rulemaking had closed. 85 Fed. Reg.
+at 49098 & n.12. When the final version of the TCEQ
+assessment became available, petitioners were able to submit it
+for EPA’s consideration. See J.A. 4098–108. EPA granted
+reconsideration, invited public comment on the TCEQ model,
+and then explained why it was rejecting that alternative
+approach. Id. The Clean Air Act specifically envisions that the
+Administrator will “convene a proceeding for reconsideration”
+in this fashion if new and “central” information becomes
+available after the period for public comment. 42 U.S.C.
+§ 7607(d)(7)(B). Petitioners fail to show they were deprived
+of a meaningful opportunity to comment.
+     Petitioners alternatively argue that EPA should have
+considered the draft, not-peer-reviewed version of the TCEQ
+assessment that was available during the initial public comment
+period. E.g., Petitioners’ Brief 56. But petitioners fail to show
+that EPA acted unreasonably in waiting to evaluate the final,
+peer-reviewed version, or that this was inconsistent with EPA’s
+past practice. None of petitioners’ examples involve EPA
+considering a draft assessment during the public comment
+                               24
+period. Petitioners do identify one instance in which EPA
+considered a draft assessment after the comment period closed,
+but that is not sufficient to show that EPA must always consider
+non-final studies during its comment periods.
+     More broadly, EPA provided multiple opportunities for
+meaningful public comment on the issues petitioners are
+focused on. Those opportunities included not just two rounds
+of public comment during the eighteen-year process leading to
+the 2016 cancer-risk assessment, but also an initial round of
+public comment and further public comment on
+reconsideration in this rulemaking proceeding, not to mention
+that EPA also responded to comments submitted outside those
+comment periods. See, e.g., J.A. 1394–99, 1465–70, 1933–54,
+2698–737, 2815–24, 4292–394.          Petitioners had ample
+opportunity to meaningfully comment on these issues.
+                                C
+     Finally, petitioners argue that 42 U.S.C. § 7412(f)(2) is an
+unconstitutional delegation of congressional authority.
+Petitioners’ Brief 57–59. Petitioners forfeited this argument by
+failing to raise it in the rulemaking as required by the Clean Air
+Act’s mandatory exhaustion rule. 42 U.S.C. § 7607(d)(7)(B).
+Indeed, we have specifically held that the Act’s mandatory
+exhaustion rule applies to nondelegation challenges. Heating,
+Air Conditioning & Refrigeration Distribs. Int’l v. EPA,
+71 F.4th 59, 64–65 (D.C. Cir. 2023). That holding squarely
+applies here. Petitioners observe that in Heating we suggested
+that the Act’s exhaustion requirement might not be mandatory
+in all circumstances. Reply Brief 30. But the footnote they
+point to suggested only that the requirement might not apply to
+cases raising certain challenges directly in district court.
+Heating, 71 F.4th at 65 n.2. That situation is not presented
+here.
+                            25
+                            IV
+    For the foregoing reasons, the petitions for review are
+denied.
+                                                So ordered.
+

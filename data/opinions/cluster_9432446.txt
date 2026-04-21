@@ -1,0 +1,901 @@
+Case: 22-20632     Document: 00516928949         Page: 1     Date Filed: 10/12/2023
+
+
+
+
+           United States Court of Appeals
+                for the Fifth Circuit                                  United States Court of Appeals
+                                                                                Fifth Circuit
+                                ____________
+                                                                              FILED
+                                                                       October 12, 2023
+                                 No. 22-20632
+                                ____________                             Lyle W. Cayce
+                                                                              Clerk
+   Patrick J. Collins; Marcus J. Liotta;
+   William M. Hitchcock,
+
+                                                           Plaintiffs—Appellants,
+
+                                       versus
+
+   Department of the Treasury;
+   Federal Housing Finance Agency; Sandra L. Thompson;
+   Janet Yellen,
+
+                                           Defendants—Appellees.
+                  ______________________________
+
+                  Appeal from the United States District Court
+                      for the Southern District of Texas
+                            USDC No. 4:16-CV-3113
+                  ______________________________
+
+   Before Smith, Southwick, and Higginson, Circuit Judges.
+   Jerry E. Smith, Circuit Judge:
+          This is an appeal challenging the dismissal of plaintiffs’ claims under
+   Federal Rule of Civil Procedure 12(b)(6). Plaintiffs are private shareholders
+   of Fannie Mae and Freddie Mac—government sponsored home mortgage
+   companies.    Defendants include the Federal Housing Finance Agency
+   (“FHFA”), the Treasury, and the Secretary of the Treasury and Director of
+   the FHFA in their official capacities. This litigation began in 2016 and comes
+Case: 22-20632      Document: 00516928949             Page: 2   Date Filed: 10/12/2023
+
+
+
+
+                                       No. 22-20632
+
+
+   to us on remand from Collins v. Yellen, where plaintiffs persuaded the
+   Supreme Court that the statutory provision restricting the President’s ability
+   to remove the director of the FHFA violates the separation of powers.
+   141 S. Ct. 1761, 1783 (2021). We remanded to the district court for the lim-
+   ited purpose of determining whether that unconstitutional removal restric-
+   tion caused plaintiffs’ harm.
+          The district court concluded that plaintiffs had not plausibly alleged
+   that the removal restriction caused them harm and dismissed their claims. It
+   also dismissed their claims—raised for the first time on remand—that the
+   FHFA’s funding mechanism is inconsistent with the Appropriations Clause,
+   concluding that the claims were outside the scope of the Collins remand order
+   in violation of the mandate rule.
+          Plaintiffs raise two issues on appeal. The first is whether the district
+   court erred in dismissing their claims that the unconstitutional removal
+   restriction caused them harm. The second is whether the court erred in dis-
+   missing their Appropriations Clause claims.
+          We reject these contentions. For the reasons that follow, we affirm
+   the dismissal of the removal and Appropriations Clause claims.
+
+                                   I.
+          Fannie Mae and Freddie Mac are privately owned companies that
+   operate under congressional charter. They are two of the nation’s leading
+   sources of mortgage financing. They purchase residential mortgages, pool
+   them into mortgage-backed securities, and sell those securities to investors.
+   By 2007, the companies’ portfolio accounted for almost half of the nation’s
+   residential mortgage market.
+          When the housing market collapsed in 2008, the companies experi-
+   enced large losses on account of the rise in defaults on residential mortgages.
+   Their failure would have had a catastrophic impact on the housing market,
+
+
+
+                                            2
+Case: 22-20632        Document: 00516928949              Page: 3       Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+   sending it further into a tailspin. Congress attempted to head off this catas-
+   trophe by enacting the Housing and Economic Recovery Act (“HERA”) of
+   2008.1 HERA created the FHFA and gave it the authority to appoint itself
+   as the companies’ conservator in certain specified circumstances, such as
+   when the companies possess insufficient assets to meet their obligations.
+   12 U.S.C. § 4617(a)(3). The companies were placed into conservatorship in
+   September 2008 and remain there to this day. HERA also provided that the
+   FHFA Director would serve a five-year term and could be removed only for
+   cause. 12 U.S.C. § 4512 (b)(2). Like other financial regulators, “the FHFA
+   is not funded through the ordinary appropriations process,” Collins,
+   141 S. Ct. at 1172, but rather through annual assessments on regulated enti-
+   ties, see 12 U.S.C. § 4516(a).
+           Soon after HERA became law and the FHFA placed the companies
+   into conservatorship, the FHFA—as conservator—entered into two pre-
+   ferred stock purchase agreements (“PSPAs”) with the U.S. Treasury. The
+   Treasury agreed to provide up to $100 billion in funding for each company to
+   draw on if its liabilities exceeded its assets. In return, the Treasury received
+   four benefits: First, it had the option to buy 79.9% of the companies’ common
+   stock at a nominal price and receive all associated benefits. Second, it re-
+   ceived one-million shares of senior preferred stock in each company. That
+   preferred stock had a liquidation preference equal to $1 billion per company
+   with a dollar-to-dollar increase if the companies drew from the $100 billion
+   capital commitment.2 Third, the Treasury was entitled to quarterly cash
+
+           _____________________
+           1
+             Pub L. No. 110-289, 122 Stat. 2654 (2008) (codified as amended at 12 U.S.C.
+   § 4501 et seq.).
+           2
+             A liquidation preference is a preferred shareholder’s right to receive a specified
+   distribution before common stockholders receive anything. See, e.g., Michael Klausner &
+   Stephen Venuto, Liquidation Rights and Incentive Misalignment in Start-Up Financing,
+   98 Cornell L. Rev. 1399, 1404-07 (2013). In this case, if either company is liquidated,
+
+
+
+
+                                                3
+Case: 22-20632        Document: 00516928949             Page: 4      Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+   dividends at an annual rate equal to 10% of the current liquidation preference.
+   Fourth, it was entitled to a quarterly commitment fee.
+           The Treasury and the FHFA have made several amendments to the
+   initial PSPAs. Most relevant here is the third amendment. Because of the
+   companies’ continued losses, they had drawn large amounts from the Treas-
+   ury’s capital commitment. That increased the size of the Treasury’s liqui-
+   dation preference, which resulted in the companies’ having to pay a larger
+   quarterly cash dividend to the Treasury. To meet that increased obligation,
+   the third amendment imposed a “Net Worth Sweep,” which divorced the
+   companies’ dividend obligations from the Treasury’s liquidation preference
+   and required them to pay the Treasury nearly their entire net worth every
+   quarter as a dividend. The Sweep ensured that any value the companies gen-
+   erated would go to the Treasury and not to junior preferred and common
+   stockholders such as plaintiffs.
+           When President Trump took office in January 2017, his Administra-
+   tion announced two overarching goals for the companies: (1) End the con-
+   servatorships and (2) end government ownership by selling the Treasury’s
+   shares. But the President was unable to nominate his own FHFA Director
+   immediately because in December 2013, President Obama had nominated—
+   and the Senate had confirmed—Melvin Watt, whose five-year term expired
+   in January 2019.
+           Upon the expiration of Director Watt’s term, President Trump nom-
+   inated Mark Calabria to serve as FHFA Director, and the Senate confirmed
+   Director Calabria in April 2019. But before the companies could exit the
+           _____________________
+   the Treasury has the right to be paid back $1 billion plus whatever dollar amount the com-
+   pany had drawn from the Treasury’s $100 billion capital commitment. The Treasury also
+   has the right to have proceeds from any new stock issuance be used to pay down the
+   liquidation preference.
+
+
+
+
+                                               4
+Case: 22-20632        Document: 00516928949             Page: 5      Date Filed: 10/12/2023
+
+
+
+
+                                        No. 22-20632
+
+
+   conservatorships and transition to fully private entities, they needed to raise
+   outside capital from private investors, to ensure that they would remain
+   financially viable after the Treasury’s withdrawal. If the companies exited
+   the conservatorships without sufficient private capital reserves, they risked
+   needing another Treasury-backed capital infusion if they did not rapidly
+   become profitable. Trump Administration officials were expecting a public
+   offering of the companies’ stock in 2021 but were unable to hold the offering
+   before the beginning of the Biden Administration.
+
+                                           II.
+           Plaintiffs, as individual shareholders of the companies, sued in 2016,
+   challenging the third amendment and the Net Worth Sweep by urging that
+   the FHFA Director’s removal protection was unconstitutional. See Collins,
+   141 S. Ct. at 1775. The district court granted summary judgment in favor of
+   the FHFA on the removal claim, but a panel of our circuit reversed. See
+   Collins v. Mnuchin, 896 F.3d 640, 646, 676 (5th Cir. 2018) (per curiam). We
+   reheard the case en banc, determined that the removal provision violated the
+   separation of powers, and held that the proper remedy was to sever the
+   removal restriction from the rest of HERA. See Collins v. Mnuchin, 938 F.3d
+   553, 587, 595 (5th Cir. 2019) (en banc).
+           The Supreme Court granted certiorari and held that the “for-cause
+   restriction on the President’s removal authority violates the separation of
+   powers.” Collins, 141 S. Ct. at 1783.3 But the Court made clear that, because
+   the Director who adopted the third amendment was properly appointed, no
+   “actions taken by the FHFA in relation to the third amendment [were]
+   void.” Id. at 1787. Therefore, the Court refused to “hold that the third
+           _____________________
+           3
+            Plaintiffs also asserted that the FHFA Director exceeded his statutory authority
+   as conservator by adopting the third amendment, but the Supreme Court rejected that
+   theory. See Collins, 141 S. Ct. at 1778.
+
+
+
+
+                                              5
+Case: 22-20632      Document: 00516928949            Page: 6    Date Filed: 10/12/2023
+
+
+
+
+                                      No. 22-20632
+
+
+   amendment must be completely undone.” Id. at 1788. That holding, how-
+   ever, did “not necessarily mean . . . that the shareholders have no entitlement
+   to retrospective relief.” Id. Rather, “it is still possible for an unconstitutional
+   provision to inflict compensable harm[,]” so the Court could not rule out
+   “the possibility that the unconstitutional restriction on a President’s power
+   to remove a Director of the FHFA could have such an effect.” Id. at 1788–
+   89.
+          Collins left it to the lower courts on remand to resolve whether the
+   unconstitutional removal provision caused harm to plaintiffs as shareholders.
+   To provide guidance, the Court gave two hypothetical situations in which the
+   FHFA’s removal provision would clearly cause harm.
+          Suppose, for example, that the President had attempted to
+          remove a director but was prevented from doing so by a lower
+          court decision holding that he did not have “cause” for re-
+          moval. Or suppose that the President had made a public state-
+          ment expressing displeasure with the actions taken by a direc-
+          tor and had asserted that he would remove the director if the
+          statute did not stand in the way.
+   Id. at 1789.
+          On remand, the en banc court addressed whether the removal restric-
+   tion caused plaintiffs’ harm. Collins v. Yellen, 27 F.4th 1068 (5th Cir. 2022)
+   (en banc). A majority decided to remand the question of harm to the district
+   court, but five judges believed the harm issue could be resolved in favor of
+   defendants without further remand.           See id. at 1069–70 (Haynes, J.,
+   dissenting).
+          Plaintiffs filed an amended complaint on remand, bringing claims
+   under the Administrative Procedure Act (“APA”) and directly under the
+   Constitution. They alleged that the unconstitutional removal provision pre-
+   vented the Trump Administration from ending the conservatorships and
+
+
+
+
+                                           6
+Case: 22-20632         Document: 00516928949               Page: 7      Date Filed: 10/12/2023
+
+
+
+
+                                          No. 22-20632
+
+
+   government ownership of the companies.4 Specifically, they claim that the
+   Trump Administration would have taken a series of steps to accomplish these
+   goals—one of which would have been raising capital from an issue of new
+   stock. According to plaintiffs, before such a stock issuance occurred, the
+   Trump Administration would need to eliminate the Treasury’s liquidation
+   preferences to make the stock attractive to private investors.
+           But Director Watt supposedly opposed ending the conservatorships,
+   so the Administration could not make any progress during the duration of
+   Watt’s term. This meant the Administration allegedly did not have enough
+   time between the confirmation of Director Calabria in January 2019 and the
+   beginning of President Biden’s term in January 2021 to end the conservator-
+   ships and government ownership of the companies.
+           As a result, plaintiffs reason that the unconstitutional removal restric-
+   tion caused harm because the Trump Administration would have had the
+   time needed to issue new stock had the President been able to remove Dir-
+   ector Watt immediately. Such an issuance necessarily requires elimination
+   of the liquidation preferences, which would have increased the value of plain-
+   tiffs’ shares. Plaintiffs thus seek an injunction directing the FHFA and the
+   Treasury to eliminate the liquidation preference on the Treasury’s preferred
+
+           _____________________
+           4
+              The amended complaint alleged that President Trump’s inability to remove Dir-
+   ector Watt prevented the Trump Administration from ending the conservatorships and
+   government ownership of the companies. Plaintiffs claimed their harm allegedly stemmed
+   from the Administration’s failure to exit the conservatorships and return the companies to
+   private control. The amended complaint sought removal of the Treasury’s liquidation
+   preferences only to remedy the harm they allegedly suffered from the Trump Administra-
+   tion’s failure to exit the conservatorships and return the companies to private control. Any
+   attempt by plaintiffs in their briefs to claim that they are challenging the Administration’s
+   failure to remove the Treasury’s liquidation preferences cannot be given effect. See Pin v.
+   Texaco, Inc., 793 F.2d 1448, 1450 n.4 (5th Cir. 1986) (“The brief on appeal, of course, is not
+   the appropriate place to amend a complaint.”).
+
+
+
+
+                                                 7
+Case: 22-20632       Document: 00516928949         Page: 8   Date Filed: 10/12/2023
+
+
+
+
+                                    No. 22-20632
+
+
+   stock.
+            The amended complaint also alleges—for the first time—that the
+   FHFA’s financing structure violates the Appropriations Clause. Plaintiffs
+   seek a declaration that the FHFA’s funding structure violates the separation
+   of powers and an order vacating and setting aside the third amendment
+   and/or the PSPAs.
+            Defendants moved to dismiss all counts for failure to state a claim.
+   The district court granted the motion in its entirety and dismissed all claims
+   with prejudice. It held that plaintiffs’ removal claims exceeded this court’s
+   mandate on remand, and—alternatively—determined that plaintiffs could
+   not plausibly show that the President’s inability to remove Watt caused harm
+   because the Trump Administration lacked a concrete plan for ending the
+   conservatorship. Further, even if plaintiffs had such a plan, the court also
+   determined that the pleadings did not show that the Administration would
+   have been able to accomplish it within four years. The district court also
+   dismissed the Appropriations Clause claims, concluding they were outside
+   the mandate of this court’s remand order.
+
+                                        III.
+            We review a dismissal de novo. Cicalese v. Univ. Tex. Med. Branch,
+   924 F.3d 762, 765 (5th Cir. 2019). We may affirm a dismissal “on any basis
+   supported by the record.” Asadi v. G.E. Energy U.S., L.L.C., 720 F.3d 620,
+   622 (5th Cir. 2013).
+            To withstand a motion to dismiss under Rule 12(b)(6), a complaint
+   must present enough facts to state a plausible claim to relief. See Bell Atl.
+   Corp. v. Twombly, 550 U.S. 544, 570 (2007). A plaintiff need not provide
+   exhaustive detail to avoid dismissal, but the pleaded facts must allow a rea-
+   sonable inference that the plaintiff should prevail. See id. at 555. Facts that
+   only conceivably give rise to relief do not suffice. See id. Thus, although we
+
+
+
+
+                                          8
+Case: 22-20632       Document: 00516928949             Page: 9      Date Filed: 10/12/2023
+
+
+
+
+                                        No. 22-20632
+
+
+   generally take as true what a complaint alleges, we do not credit a complaint’s
+   legal conclusions or “[t]hreadbare recitals of the elements of a cause of
+   action.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). We also “review de
+   novo a district court’s interpretation of our remand order, including whether
+   the law-of-the-case doctrine or mandate rule forecloses any of the district
+   court’s actions on remand.” United States v. Pineiro, 470 F.3d 200, 204 (5th
+   Cir. 2006).
+
+                                      IV.
+           The district court held that plaintiffs’ removal claims “far sur-
+   pass[ed]” the Supreme Court’s “mandate for retrospective relief.” See Col-
+   lins v. Lew, 642 F. Supp. 3d 577, 586 (S.D. Tex. 2022). Defendants contend
+   that we can affirm on that ground alone.5
+           The mandate rule “provides that a lower court on remand must
+   implement both the letter and the spirit of the appellate court’s mandate and
+   may not disregard the explicit directives of that court.” United States v.
+   Becerra, 155 F.3d 740, 753 (5th Cir. 1998) (cleaned up). When implementing
+   a mandate, the district court must take “into account the circumstances that
+   [the appellate court’s] opinion embraces.” Sobley v. S. Nat. Gas Co.,
+   302 F.3d 325, 333 (5th Cir. 2002).
+           The original complaint sought retrospective relief relating to the
+   “implementation of the Third Amendment.” See Collins, 141 S. Ct. at 1788–
+   89. The Supreme Court therefore discussed “remedy with respect to only
+   the actions that confirmed directors have taken to implement the Third
+   Amendment during their tenures.” Id. at 1787. The issue Collins directed
+           _____________________
+           5
+             Though this case is technically on remand from our circuit, not the Supreme
+   Court, we remanded “for further proceedings consistent with the Supreme Court’s
+   decision.” Collins, 27 F.4th at 1069. Our court’s mandate was therefore identical to the
+   Supreme Court’s.
+
+
+
+
+                                              9
+Case: 22-20632       Document: 00516928949              Page: 10       Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+   the lower courts to decide, however, was whether the unconstitutional
+   removal restriction inflicted compensable harm on the companies’ share-
+   holders. Id. at 1789. Collins expressly recognized plaintiffs’ “claim that the
+   unconstitutional removal provision inflicted harm” and that the “federal
+   parties disputed the possibility that the unconstitutional removal provision
+   caused any such harm.” Id. Because Collins directed the lower courts to
+   resolve that dispute, any harm that plaintiffs could plausibly allege was on
+   account of the President’s inability to remove Director Watt is within “the
+   letter and the spirit” of the mandate and not contrary to any “explicit dir-
+   ectives” of Collins. See Becerra, 155 F.3d at 753.
+           Therefore, the district court erred in holding that plaintiffs’ removal
+   claims fell outside the scope of the Collins remand order. The mandate rule
+   does not bar our consideration of these claims.
+
+                                       V.
+           Defendants next aver that HERA’s “anti-injunction” clause prevents
+   judicial review of plaintiffs’ removal claims. HERA contains an FHFA-
+   specific provision that “sharply circumscribe[s] judicial review of any action
+   that the FHFA takes as a conservator or receiver.” Collins, 141 S. Ct. at 1775.
+   Specifically, “no court may take any action to restrain or affect the exercise
+   of powers or functions of the [FHFA] as a conservator or a receiver.”
+   12 U.S.C. § 4617(f). This anti-injunction clause “prohibits relief where the
+   FHFA action at issue fell within the scope of the Agency’s authority as con-
+   servator, but that relief is allowed if the FHFA exceeded that authority.”
+   Collins, 141 S. Ct. at 1776.6
+
+
+           _____________________
+           6
+             By its terms, § 4617(f) prohibits more than just injunctions, but the parties and
+   the Supreme Court in Collins refer to it as either the anti-injunction clause or the anti-
+   injunction provision, so we do the same.
+
+
+
+
+                                               10
+Case: 22-20632     Document: 00516928949            Page: 11   Date Filed: 10/12/2023
+
+
+
+
+                                     No. 22-20632
+
+
+          Plaintiffs respond that the anti-injunction clause does not apply
+   because Director Watt exceeded his authority by exercising the powers of
+   FHFA director when, but for HERA’s unconstitutional removal protection,
+   President Trump would have removed him from office. Collins forecloses
+   that contention by holding that because “the officers who headed the FHFA
+   during the time in question were properly appointed[,]” there was “no basis
+   for concluding that any head of the FHFA lacked the authority to carry out
+   the functions of the office.” Collins, 141 S. Ct. at 1787–88. This holding
+   means that Watt had the authority to act as the FHFA throughout his tenure
+   as Director because he was properly appointed to the office.
+          Therefore, the anti-injunction clause applies and prevents courts from
+   taking “any action to restrain or affect the exercise of powers or functions of
+   the [FHFA] as a conservator or a receiver.” 12 U.S.C. § 4617(f). Because
+   plaintiffs seek injunctive relief that would require the FHFA to take specific
+   actions as conservator to restore plaintiffs to the position they would have
+   been in if not for the unconstitutional removal restriction, they asked the dis-
+   trict court to “affect” [sic] the “function of the [FHFA] as a conservator[.]”
+   Id. So, plaintiffs’ APA claims are barred.
+          But plaintiffs also brought a removal claim directly under the Consti-
+   tution in count I of their amended complaint. They invoke Webster v. Doe to
+   contend that judicial review cannot be precluded for this claim absent a clear
+   statement to that effect. 486 U.S. 592, 603 (1988). Doe requires “that where
+   Congress intends to preclude judicial review of constitutional claims[,] its
+   intent to do so must be clear.” Id. The Doe rule is an interpretive tool of
+   constitutional avoidance. Id. (requiring this heightened showing to avoid the
+   serious constitutional question that would arise if a federal statute were con-
+   strued to deny any judicial forum for a colorable constitutional claim); see also
+   Zummer v. Sallet, 37 F.4th 996, 1008–13 (5th Cir. 2022), cert. denied, 143 S.
+   Ct. 1019 (2023). This circuit has refused to find the needed congressional
+
+
+
+                                          11
+Case: 22-20632        Document: 00516928949               Page: 12        Date Filed: 10/12/2023
+
+
+
+
+                                           No. 22-20632
+
+
+   intent where the statute in question did not “explicitly preclude constitu-
+   tional claims.” Ellison v. Connor, 153 F.3d 247, 254 (5th Cir. 1998).
+           In FDIC v. Bank of Coushatta, we construed a provision of the Federal
+   Deposit Insurance Act that prevented courts from enjoining any notice or
+   order the Federal Deposit Insurance Corporation (“FDIC”) issued to regu-
+   lated banks under the Act. 930 F.2d 1122, 1125–26 (5th Cir. 1991). The rel-
+   evant statute said that “no court shall have jurisdiction to affect by injunction
+   or otherwise the issuance or enforcement of any notice or order under this
+   section, or to review, modify, suspend, terminate, or set aside any such notice
+   or order.” 12 U.S.C. § 1818(i). We said that that language did not preclude
+   review of constitutional claims. See Coushatta, 930 F.2d at 1130.7
+           Coushatta and Ellison defeat the FHFA’s argument that § 4617(f)
+   contains the clear statement needed to preclude plaintiffs’ constitutional
+   claim. Nowhere does § 4617(f) “explicitly preclude constitutional claims.”
+   Ellison, 153 F.3d at 254. And § 4617(f) contains language very similar to
+   § 1818(i).8
+           Finally, unlike in Zummer, no party has identified “overriding consid-
+
+
+           _____________________
+           7
+             This part of Coushatta is not binding because the FDIC conceded that § 1818(i)
+   did not bar constitutional claims. But the panel nonetheless expressly said that it did not
+   find the needed congressional intent to preclude judicial review of constitutional claims.
+   See Coushatta, 930 F.2d at 1130. Given that statement and § 1818(i)’s and § 4617(f)’s
+   similar language and context, Coushatta is at least persuasive authority. Cf. Humphrey’s
+   Ex’r v. United States, 295 U.S. 602, 627 (1935) (“[D]icta . . . may be followed if sufficiently
+   persuasive . . . .”).
+           8
+             Compare 12 U.S.C. § 1818(i) (“[N]o court shall have jurisdiction to affect by
+   injunction or otherwise the issuance or enforcement of any notice or order under this
+   section, or to review, modify, suspend, terminate, or set aside any such notice or order.”),
+   with 12 U.S.C. § 4617(f) (“[N]o court may take any action to restrain or affect the exercise
+   of powers or functions of the [FHFA] as a conservator or a receiver.”).
+
+
+
+
+                                                 12
+Case: 22-20632        Document: 00516928949              Page: 13       Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+   erations” that would counsel against applying Doe’s canon of interpretation.9
+           Defendants also attempt to recharacterize plaintiffs’ constitutional
+   claim as an APA claim. They cite Justice Thomas’s concurrence in Collins
+   for the proposition that the only claims available to plaintiffs are APA claims;
+   they direct us to a district court opinion adopting that analysis. See Collins,
+   141 S. Ct. at 1794 n.7 (Thomas, J., concurring); Bhatti v. FHFA, 646 F. Supp.
+   3d 1003, 1010–11 (D. Minn. 2022). Justice Thomas believes that plaintiffs
+   cannot bring a constitutional claim because Director Watt was not acting
+   unconstitutionally at any time during his tenure. See Collins, 141 S. Ct.
+   at 1794–95. The only claim Justice Thomas thinks plaintiffs can assert is an
+   APA-based claim alleging that Watt’s actions were arbitrary, capricious, an
+   abuse of discretion, or otherwise not in accordance with law. See id.
+   at 1794 n.7.
+           Whatever merit that concurrence has, we are bound by the Collins
+   majority opinion. Despite recognizing that the unconstitutional removal
+   restriction did not deprive Watt of lawful authority, the Collins majority made
+   clear that “it is still possible for an unconstitutional provision to inflict com-
+   pensable harm.” Id. at 1789. The majority opinion thus allowed plaintiffs
+   the chance to show that they were harmed here. See id. at 1788–89. Nowhere
+   did the majority limit the avenues of relief to the APA.10 This means that the
+
+           _____________________
+           9
+              Zummer, 37 F.4th at 1009 (refusing to apply Doe where there were “countervail-
+   ing doubts about the constitutionality” of reviewing the agency decision and the panel did
+   not gravely doubt the constitutionality of precluding review). The FHFA contends that an
+   injunction forcing it to eliminate the liquidation preferences would be extremely intrusive
+   to the Biden Administration. But that bears on the constitutionality of the remedy that
+   plaintiffs seek, not our ability to hear the constitutional claim.
+           10
+             Cf. Free Enter. Fund v. Pub. Co. Acct. Oversight Bd., 561 U.S. 477, 491 n.2 (2010)
+   (allowing a party to seek equitable relief when making an “Appointments Clause or
+   separation-of-powers claim”).
+
+
+
+
+                                               13
+Case: 22-20632      Document: 00516928949          Page: 14   Date Filed: 10/12/2023
+
+
+
+
+                                    No. 22-20632
+
+
+   FHFA is wrong in trying to turn count I into an APA claim because Collins
+   specifically said that “the unconstitutional restriction on the President’s
+   power to remove a Director of the FHFA” is what could “inflict compen-
+   sable harm” on plaintiffs. 141 S. Ct. at 1788–89. Count I of the complaint
+   was therefore properly brought directly under the Constitution and was not
+   barred by § 4617(f).
+          This analysis is buttressed by the nature of the majority opinion in
+   Collins. The plaintiffs brought both statutory and constitutional challenges
+   to the third amendment. See id. at 1775. The majority dedicated nearly four
+   pages to explaining why § 4617(f) barred plaintiffs’ statutory challenge to the
+   third amendment. See id. at 1776–79. Yet the opinion did not mention
+   § 4617(f) when discussing whether plaintiffs could show that the unconsti-
+   tutional removal restriction caused them harm. See id. at 1787–89. If
+   § 4617(f) barred consideration of constitutional claims, one would expect the
+   opinion would have noted that. It would be strange for Collins to leave open
+   the possibility of retrospective relief based on an unconstitutional removal
+   restriction, give examples of when such relief would be available, and remand
+   the case for resolution of that issue if the entire question was outside our
+   ability to review.
+          Therefore, § 4617(f) does not bar count I of the amended complaint
+   seeking relief directly under the Constitution, and we may finally proceed to
+   the merits of plaintiffs’ contention that HERA’s unconstitutional removal
+   provision caused compensable harm.
+
+                                          VI.
+          “[A]fter Collins, a party challenging agency action must show not only
+   that the removal restriction transgresses the Constitution’s separation of
+   powers but also that the unconstitutional provision caused (or would cause)
+
+
+
+
+                                         14
+Case: 22-20632        Document: 00516928949              Page: 15       Date Filed: 10/12/2023
+
+
+
+
+                                          No. 22-20632
+
+
+   them harm.”11 Collins gave two hypothetical situations in which the FHFA’s
+   removal provision would clearly cause harm. Harm would occur if “the
+   President had attempted to remove a director but was prevented from doing
+   so by a lower court decision holding that he did not have ‘cause’ for
+   removal.” Collins, 141 S. Ct. at 1789. The removal provision also would
+   cause harm if “the President had made a public statement expressing dis-
+   pleasure with the actions taken by a [d]irector and had asserted that he would
+   remove the [d]irector if the statute did not stand in the way.” Id.
+           CFSA “distill[ed] from these hypotheticals three requisites for prov-
+   ing harm: (1) a substantiated desire by the President to remove the unconsti-
+   tutionally insulated actor, (2) a perceived inability to remove the actor due to
+   the infirm provision, and (3) a nexus between the desire to remove and the
+   challenged actions” taken by Director Watt. CFSA, 51 F.4th at 632. The
+   last prong is satisfied upon a showing that “but for the removal restriction,
+   President Trump would have removed [Director Watt] and that the [FHFA]
+   would have acted differently as to” the challenged actions. Id. at 633. “[S]ec-
+   ondhand accounts of President Trump’s supposed intentions are insufficient
+   to establish harm.” Id.
+           CFSA made clear that plaintiffs must show a “nexus between the
+   desire to remove and the challenged actions taken by the insulated actor” to
+   prove that an unconstitutional removal restriction caused them harm. See id.
+   That makes it necessary to determine exactly which FHFA action plaintiffs
+   are challenging. The briefs are not entirely clear on this issue, but the
+           _____________________
+           11
+             Cmty. Fin. Servs. Ass’n of Am., Ltd. v. CFPB (CFSA), 51 F.4th 616, 632 (5th Cir.
+   2022), cert. granted, 143 S. Ct. 978 (2023). The grant of certiorari does not change the fact
+   that CFSA remains binding precedent in this case unless and until the Supreme Court says
+   otherwise. See Wicker v. McCotter, 798 F.2d 155, 157–58 (5th Cir. 1986). In any event, the
+   Court agreed to hear the case only to decide the constitutionality of the CFPB’s funding
+   structure. See Cmty. Fin. Servs. Ass’n of Am., Ltd. v. CFPB, 143 S. Ct. 981 (2023).
+
+
+
+
+                                                15
+Case: 22-20632        Document: 00516928949               Page: 16        Date Filed: 10/12/2023
+
+
+
+
+                                           No. 22-20632
+
+
+   amended complaint appears to be challenging Watt’s failure to exit the con-
+   servatorships and return the companies to private control and seeks the elim-
+   ination of the liquidation preferences as a remedy for the harm resulting from
+   this failure.
+           This means that plaintiffs must allege sufficient facts plausibly to
+   claim that “but for the removal restriction” the Trump Administration
+   would have exited the conservatorships and returned the companies to pri-
+   vate control. See Twombly, 550 U.S. at 570; CFSA, 51 F.4th at 633. Con-
+   sidering all facts asserted in the amended complaint, plaintiffs fail to make
+   that showing.12
+           Plaintiffs’ chief support for their removal claim is a letter—written a
+   few months after the Collins decision—from former President Trump to
+   Senator Rand Paul.13 The letter explicitly says that President Trump would
+   have fired Watt from his position as Director. President Trump then says
+   that he would have ordered FHFA to release those companies from conser-
+   vatorship, sold the Treasury’s common stock at a huge profit, and fully pri-
+   vatized the companies.
+           Plaintiffs allege that the Trump Administration had a five-step plan to
+   accomplish these goals. First, they contend that the Administration would
+   have modified the PSPAs in a way that would remove the Net Worth Sweep
+   and allow the companies to build net worth. Second, the companies would
+   be directed to stop paying the Treasury quarterly cash dividends. Third, the
+
+           _____________________
+           12
+             Because we conclude that the amended complaint in its entirety has failed to
+   present sufficient factual allegations to survive a motion to dismiss, we need not reach
+   defendants’ contentions that certain facts alleged in the amended complaint cannot be
+   considered.
+           13
+              Plaintiffs attached the letter to the complaint, so it is part of the pleadings. See
+   Collins v. Morgan Stanley Dean Witter, 224 F.3d 496, 498 (5th Cir. 2000).
+
+
+
+
+                                                 16
+Case: 22-20632       Document: 00516928949              Page: 17      Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+   FHFA would implement a new regulatory framework, setting capital guide-
+   lines for the companies once they had been returned to private control.
+   Fourth, the FHFA and the companies would develop plans for raising the
+   financial capital needed to exit conservatorship safely. Fifth, and finally, the
+   FHFA would raise this capital by holding a public sale of new stock. Accord-
+   ing to plaintiffs, this last step required the elimination of the liquidation
+   preferences because no private investor would purchase shares of the com-
+   panies while the Treasury retained the right to receive preferred
+   distributions.
+           The facts in the amended complaint show that President Trump had
+   “a substantiated desire . . . to remove” Director Watt and “a perceived ina-
+   bility to” do so because of HERA’s removal restriction. See CFSA, 51 F.4th
+   at 632. But the complaint fails plausibly to allege “a nexus between the desire
+   to remove and the” Trump Administration’s failure to exit the conserva-
+   torships and return the companies to fully private control. See id. There is
+   nothing in the amended complaint showing that the companies would have
+   exited the conservatorships and returned to private control if the Trump
+   Administration had a full four years with its chosen director. The amended
+   complaint contains no well-pleaded facts demonstrating that the five-step
+   plan would have been completed if President Trump had an extra two years
+   with Director Calabria as the head of the FHFA. At most, the amended com-
+   plaint alleges that the Trump Administration would have eliminated the
+   liquidation preferences in preparation for a public offering of shares that was
+   scheduled to take place in 2021, roughly two years after Director Calabria
+   took office.14
+
+           _____________________
+           14
+             This allegation is inconsistent with the amended complaint’s statement that the
+   Trump Administration increased the Treasury’s liquidation preference in January 2021.
+   But we allow a plaintiff to plead “allegedly inconsistent factual allegations” in his com-
+
+
+
+
+                                              17
+Case: 22-20632       Document: 00516928949              Page: 18       Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+             Even if the liquidation preferences had been eliminated and a public
+   offering held two years after Director Calabria assumed office, the plaintiffs
+   plead no facts explaining how a public offering of new shares would eliminate
+   the Treasury’s existing ownership stake in the companies or result in the end
+   of the conservatorships. In other words, all the complaint plausibly alleges is
+   that—after two years with Calabria as the head of the FHFA—the Trump
+   Administration would have held a public offering of shares, and that offering
+   would likely have resulted in the elimination of the Treasury’s liquidation
+   preferences. No well-pleaded facts support plaintiffs’ allegations that—
+   given another two years of Director Calabria—the Administration would
+   have completed its five-step plan, guided the companies out of conservator-
+   ship, and returned them to fully public control before President Biden took
+   office.
+             Therefore, the facts in the amended complaint only conceivably give
+   rise to a conclusion that “but for the removal restriction” the Trump Admin-
+   istration would have exited the conservatorships and returned the companies
+   to private control. See Twombly, 550 U.S. at 570; CFSA, 51 F.4th at 633. That
+   level of uncertainty and speculation cannot survive a motion to dismiss, so
+   the dismissal of plaintiffs’ removal claims was proper.
+
+                                           VII.
+             Turning to plaintiffs’ theory that the FHFA’s funding structure vio-
+   lates the Appropriations Clause, the district court dismissed these claims
+   after determining that they were outside the mandate of the Collins remand
+   order. As discussed above, the mandate rule “provides that a lower court on
+
+             _____________________
+   plaint. See Leal v. McHugh, 731 F.3d 405, 414 (5th Cir. 2013). Therefore, we must accept
+   as true that the Trump Administration would have eliminated the liquidation preferences
+   before making a public offering of shares. Cf. Foster v. City of Lake Jackson, 28 F.3d 425,
+   428 (5th Cir. 1994).
+
+
+
+
+                                               18
+Case: 22-20632     Document: 00516928949          Page: 19   Date Filed: 10/12/2023
+
+
+
+
+                                   No. 22-20632
+
+
+   remand must implement both the letter and the spirit of the appellate court’s
+   mandate and may not disregard the explicit directives of that court.” Becerra,
+   155 F.3d at 753 (5th Cir. 1998) (cleaned up). But the mandate rule does not
+   apply when “‘there has been an intervening change of law by a controlling
+   authority.’” Ball v. LeBlanc, 881 F.3d 346, 351 (5th Cir. 2018) (quoting
+   United States v. McCrimmon, 443 F.3d 454, 460 (5th Cir. 2006)). One case
+   from our circuit refused to apply this exception when the “constitutional
+   argument existed” in the prior proceeding. See McCrimmon, 443 F.3d at 462.
+          The majority opinion in Collins made clear that it is “possible for an
+   unconstitutional provision to inflict compensable harm.” Collins, 141 S. Ct.
+   at 1789. The Court, however, did not decide whether plaintiffs had dem-
+   onstrated that “the unconstitutional restriction on the President’s power to
+   remove a Director of the FHFA” caused them harm. Id. Instead, Collins
+   remanded, directing that this question was to be “resolved in the first
+   instance by the lower courts.” Id.
+          “[T]he letter and the spirit” of this mandate leave no opening for
+   plaintiffs to bring a challenge under a completely different constitutional
+   theory for the first time on remand. See Becerra, 155 F.3d at 753. Plaintiffs
+   contend that Collins recognized a fundamental shift in the constitutional sep-
+   aration of powers as applied to the FHFA and that the natural follow-on ques-
+   tion is whether Congress should be permitted to exercise its constitutional
+   appropriation power over the FHFA. That may or may not be true, but it
+   does not change the fact that the FHFA’s funding structure has nothing to
+   do with the issue for which Collins remanded: whether President Trump’s
+   inability to remove Director Watt caused plaintiffs’ compensable harm. Con-
+   sidering any other issue would “disregard the explicit directives of” Collins.
+   Becerra, 155 F.3d at 753.
+          Plaintiffs also contend that the mandate rule should not apply because
+
+
+
+
+                                         19
+Case: 22-20632           Document: 00516928949          Page: 20       Date Filed: 10/12/2023
+
+
+
+
+                                         No. 22-20632
+
+
+   both Collins and CFSA constituted an “intervening change in law by a con-
+   trolling authority.” LeBlanc, 881 F.3d at 351. This circuit’s caselaw is not
+   well developed on what counts as an intervening change in law, but whatever
+   the exact contours of this exception may be, neither Collins nor CFSA
+   qualifies. Collins was not an intervening change in law because it was not an
+   Appropriations Clause case.15 Neither the majority opinion nor any of the
+   four separate concurrences and dissents cited the Appropriations Clause.
+   The majority does refer to the FHFA’s funding structure, but merely as a
+   passing reference in the factual summary of the opinion that has no relevance
+   to the legal analysis.16 Therefore, Collins in no way changes the law with
+   respect to the Appropriations Clause and cannot be an intervening change in
+   law that justifies ignoring the mandate rule.
+           The argument that CFSA represents an intervening change in law is
+   stronger because CFSA was at least an Appropriations Clause case. See
+   51 F.4th at 635. A careful read, however, shows that CFSA did not change
+   any law with respect to the FHFA’s funding structure. CFSA went to
+   exceptional lengths to limit its Appropriations Clause analysis to its facts: the
+   funding structure of the Consumer Financial Protection Bureau (“CFPB”).17
+   The opinion even expressly distinguished the FHFA by name.18 Given that
+   the CFSA opinion, by its terms, did not apply to the funding structure of the
+
+           _____________________
+           15
+              Cf. Collins, 141 S. Ct. at 1770 (“[T]he shareholders argued that the FHFA’s
+   structure violates the separation of powers because the Agency is led by a single Director
+   who may be removed by the President only for cause.”)).
+           16
+                See id. at 1772.
+           17
+             See 51 F.4th at 641 (“Even among self-funded agencies, the [CFPB] is unique”
+   because its “perpetual self-directed, double-insulated funding structure goes a significant
+   step further than that enjoyed by the other agencies on offer.”).
+           18
+            See id. (calling a comparison of the CFPB to the FHFA “mix[ing] apples with
+   oranges”).
+
+
+
+
+                                               20
+Case: 22-20632     Document: 00516928949          Page: 21   Date Filed: 10/12/2023
+
+
+
+
+                                   No. 22-20632
+
+
+   FHFA, the constitutional argument against the funding structure “existed”
+   in its current form in the prior proceeding. See McCrimmon, 443 F.3d at 462.
+   Therefore, CFSA was not an “intervening change in the law,” and we must
+   abide by the Collins mandate. Id. at 460.
+          As tempting as it may be to reach the novel question of whether the
+   FHFA’s funding mechanism is constitutional, the issue is not within the
+   mandate of the Collins remand order, and plaintiffs have cited no relevant
+   intervening change in law that would justify departing from that mandate.
+   The district court properly invoked the mandate rule to dismiss these claims.
+
+                                * * * * *
+          The judgment dismissing the removal and Appropriations Clause
+   claims is AFFIRMED.
+
+
+
+
+                                        21
+

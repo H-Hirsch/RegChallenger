@@ -1,0 +1,770 @@
+                             RECOMMENDED FOR PUBLICATION
+                             Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                    File Name: 23a0116p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                FOR THE SIXTH CIRCUIT
+
+
+
+                                                       ┐
+ WOLVERINE PIPE LINE COMPANY,
+                                                       │
+                                       Petitioner,     │
+                                                        >           No. 21-3405
+                                                       │
+       v.                                              │
+                                                       │
+ UNITED STATES DEPARTMENT OF TRANSPORTATION,           │
+ Pipeline and Hazardous Materials Safety               │
+ Administration,                                       │
+                                 Respondent.           │
+                                                       ┘
+
+        On Petition for Review from the United States Department of Transportation,
+                  Pipeline and Hazardous Materials Safety Administration.
+                                     No. 3-2019-5016.
+
+                                 Argued: March 10, 2022
+
+                             Decided and Filed: June 2, 2023
+
+            Before: BATCHELDER, NALBANDIAN, and READLER, Circuit Judges.
+                                 _________________
+
+                                         COUNSEL
+
+ARGUED: Joshua S. Johnson, VINSON & ELKINS, LLP, Washington, D.C., for Petitioner.
+Casen B. Ross, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for
+Respondent. ON BRIEF: Joshua S. Johnson, Ronald J. Tenpas, Jeremy C. Marwell, VINSON
+& ELKINS LLP, Washington, D.C., for Petitioner. Casen B. Ross, Abby C. Wright, UNITED
+STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Respondent.
+
+    NALBANDIAN, J., delivered the opinion of the court in which READLER, J., joined.
+BATCHELDER, J. (pp. 19–22), delivered a separate dissenting opinion.
+ No. 21-3405                 Wolverine Pipe Line Co. v. DOT, PHMSA                           Page 2
+
+
+                                         _________________
+
+                                              OPINION
+                                         _________________
+
+          NALBANDIAN, Circuit Judge. The Pipeline and Hazardous Materials Safety
+Administration imposed a civil penalty on Wolverine Pipe Line Company for violating two of its
+pipeline regulations. Wolverine claims this action was arbitrary and capricious and violated its
+due process rights. We disagree, and we affirm the agency’s decision and deny Wolverine’s
+petition.
+
+                                                   I.
+
+                                                  A.
+
+          Regulatory Framework. More than two million miles of pipeline crisscross the United
+States.     These pipelines carry oil, gasoline, and natural gas from state to state, powering
+American homes, infrastructure, and industry along the way. But with energy reward comes
+risk. Pipelines can leak, fail, or spill, hurting the environment or wreaking havoc in populated
+areas. To protect against such risks, Congress enacted a series of pipeline safety laws. See
+49 U.S.C. §§ 60101 et seq. These laws direct the Secretary of Transportation to issue minimum
+safety standards for pipelines. Id. § 60102(a)(2). The Secretary, in turn, delegates this standard-
+issuing authority to an agency: the Pipeline and Hazardous Materials Safety Administration.
+See 49 C.F.R. § 1.97. The agency, PHMSA for short, has used this authority to issue a host of
+regulations.     Although these regulations are complex, PHMSA’s collaborative approach to
+pipeline safety is simple. That is, the regulations grant pipeline operators flexibility on the front
+end, but PHMSA approves operators’ plans and verifies their regulatory compliance on the back
+end.
+
+          Examples illustrate the point. For instance, pipeline operators retain discretion to develop
+and implement their own integrity management programs, or IMPs. These IMPs set plans for
+periodic pipeline assessments, as well as remedial plans for any pipeline repair issues an
+assessment brings to light. See generally 49 C.F.R. § 195.452(b). What’s more, in many
+instances, the regulations allow operators to choose the methodology they will use to conduct
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                           Page 3
+
+
+those assessments. By implementing “performance-based standards,” the regulations permit
+operators to choose an assessment method that best fits the needs of their specific pipelines.
+65 Fed. Reg. 75,382, 75,388 (Dec. 1, 2000).            This front-end flexibility requires back-end
+verification. To that end, PHMSA approves operators’ IMPs and reviews operators’ records to
+check for regulatory compliance.
+
+         The regulations here, known as the integrity management regulations, fit this
+collaborative mold. Taking specific aim at spill prevention in “high consequence areas,” these
+regulations set repair standards for pipelines that transport hazardous liquids. See 49 C.F.R.
+§ 195.452(h); PHMSA, HL IM Performance Measures, https://www.phmsa.dot.gov/pipeline/
+hazardous-liquid-integrity-management/hl-im-performance-measures (last updated Jan. 28,
+2020).    The standards start with discovery, which “occurs when an operator has adequate
+information to determine that a condition presenting a potential threat to the integrity of the
+pipeline exists.”   49 C.F.R. § 195.452(h)(2).        Under PHMSA’s timeline, an operator must
+discover an integrity issue “promptly, but no later than 180 days” after it receives an assessment
+that identifies the problem. Id.
+
+         Post-discovery, PHMSA classifies integrity issues on a spectrum. The higher the risk, the
+faster an operator must act. In this vein, some especially dangerous repair conditions require
+immediate repair. If an operator identifies an immediate repair condition—like certain metal
+loss, a predicted pipe burst—or, as relevant here, a pipeline dent—it “must temporarily reduce
+the operating pressure or shut down the pipeline until the operator completes the repair of the[]
+condition[]” to “maintain safety.” Id. § 195.452(h)(4)(i). Other repairs, like 180-day or 60-day
+conditions, require less urgent treatment. Id. § 195.452(h)(4)(ii)-(iv). Although an operator must
+complete the repair within a given timeline, it needn’t reduce pressure or shut down the pipeline.
+
+         With this background in mind, we turn to Wolverine’s case.
+
+                                                 B.
+
+         Factual Background. Wolverine transports refined petroleum products in its 700-mile
+pipeline system. These pipelines run from refineries in the Chicago area to terminals and other
+ No. 21-3405                  Wolverine Pipe Line Co. v. DOT, PHMSA                                    Page 4
+
+
+pipelines in and around Indiana and Michigan. Because Wolverine transports refined petroleum,
+a hazardous liquid, the company falls into PHMSA’s regulatory orbit.
+
+        A few years ago, PHMSA conducted a routine inspection of Wolverine’s records,
+procedures, and facilities. That inspection identified several issues. So not long after, PHMSA
+sent Wolverine a Notice of Probable Violation, or a NOPV. The Notice, which acts as an
+informal charging document for the agency, described nine potential violations of PHMSA’s
+regulations. Only two of those items—“Item 5” and “Item 6”—matter here.
+
+    1. Item 5
+
+        We begin with the events prompting Item 5. An in-line inspection report (ILI report)
+landed in the inbox of Daniel Cooper, Wolverine’s only risk management specialist at the time,
+on June 10, 2015.1 But Cooper didn’t open the ILI report for another 13 days. Why? On June
+10, Cooper was on vacation. And right after, Wolverine sent him on a work trip. Cooper
+explained that he “did not have access to email” on vacation. (Hr. Tr., A385.) Later, he noted
+that he “may have seen the e-mail, but [he] did not open the report until [he] got back from [his]
+travels.” (Id.) In any event, Cooper eventually returned to the office and read the report on June
+23, 2015. The report described a dent with metal loss on the topside of one of Wolverine’s pipe
+segments.
+
+        Once Cooper learned about the dent, he sprang into action. First, he reached out to the
+third-party vendor who prepared the ILI report to confirm that the pipe showed metal loss. After
+the vendor confirmed, Cooper convened a June 26, 2015 meeting with his Wolverine coworkers.
+There, they decided to treat the pipeline “anomaly” as a “possible immediate repair.” (Hr. Ex.
+29, A589.) As Wolverine worked toward a repair, the operator prepared to implement the
+temporary pressure reduction the regulations require.
+
+
+
+
+         1Pipeline operators typically outsource pipeline assessments to third-party analysts, who prepare ILI
+reports. These reports give operators a segment-by-segment look at their pipes and identify any integrity issues.
+ No. 21-3405                   Wolverine Pipe Line Co. v. DOT, PHMSA                                      Page 5
+
+
+        But this pressure reduction never came to pass. Based on an eight-month-old hydrostatic
+test,2 Cooper felt “confident” that the dent could withstand any pressure “and was not likely to
+fail in the next few days.”3 (Hr. Tr., A356.) Besides, in its IMP, Wolverine had interpreted the
+immediate repair regulation to give it a choice: “[C]omplete” the repair within “up to 5 . . .
+working days” after an operator determines there is “an immediate repair condition” or
+“implement a pressure reduction as necessary.” (Hr. Ex. 28, A585; Hr. Tr., A351–53.) Relying
+on its IMP and the recent testing, and using June 26 as the relevant trigger date, Wolverine took
+the first path. Within four days of the June 26 meeting, Wolverine completed the repair without
+implementing a temporary pressure reduction.
+
+        During the inspection, PHMSA reviewed Wolverine’s response and found it lacking.
+So Item 5 of the Notice cited Wolverine for a violation of the immediate repair regulation,
+49 C.F.R. § 195.452(h)(4)(i)(C). Wolverine, PHMSA explained, had “received a final ILI report
+on June 10, 2015 . . . claimed a discovery date of June 26, 2015 and completed repairs on the
+pipeline segment on June 30, 2015.” (NOPV, A71.) But for the time spanning June 10 to June
+30, Wolverine “could not provide a record that a temporary pressure reduction was taken.” (Id.)
+Because Wolverine “failed to temporarily reduce the operating pressure,” the Notice alleged that
+Wolverine “committed [a] probable violation[]” of the regulation and recommended a $36,000
+penalty. (Id. at A68, 71, 74.) And PHMSA’s subsequent Violation Report stated that this
+violation started on June 10, 2015—the date Cooper received, and failed to open, the ILI report.
+
+    2. Item 6
+
+        Next, we turn to Item 6. This item dealt with 180-day conditions, rather than immediate
+repair conditions. One of the 180-day conditions occurs when “[a] calculation of the remaining
+strength of the pipe shows an operating pressure that is less than the current established
+
+
+        2“A   hydrostatic test is performed by subjecting a pipeline to pressures that exceed its maximum operating
+pressure, thereby identifying the weakest segments of the pipeline.” ExxonMobil Pipeline Co. v. U.S. Dep’t of
+Transp., 867 F.3d 564, 568 n.1 (5th Cir. 2017).
+        3According     to Wolverine, the average pressure per square inch at the location of the dent hovered around
+200 pounds. About a year earlier, in October 2014, the pipe had withstood 1,700 pounds of pressure per square inch
+during hydrostatic testing. In Cooper’s view, if the pipe withstood 1,700 pounds of pressure per square inch a year
+earlier, it could withstand 200 pounds of pressure until Wolverine completed the immediate repair.
+ No. 21-3405              Wolverine Pipe Line Co. v. DOT, PHMSA                           Page 6
+
+
+maximum operating pressure at the location of the anomaly.” 49 C.F.R. § 195.452(h)(4)(iii)(D).
+To calculate the remaining strength, the regulation allows operators to use “suitable” methods,
+including, but not limited to, two methods called the B31G method and the R-STRENG method.
+Id.
+
+       Wolverine received another ILI report identifying four such conditions on June 12, 2015.
+At each anomaly location, the report calculated the remaining strength of the pipes using both the
+R-STRENG and the B31G method. But the different methods yielded different results. Under
+the R-STRENG method, the strength value of each anomaly was greater than the maximum
+operating pressure at that location. But under the B31G method, the strength values were less
+than the maximum operating pressure at the four anomaly locations. So if Wolverine accepted
+and confirmed the R-STRENG calculations, the four anomalies would not qualify as 180-day
+conditions. But if it took the other path, relying on B31G instead, they would.
+
+       Wolverine took the latter route. With the report in hand, Cooper worked to confirm its
+contents. But he only recalculated and relied on the B31G values. Indeed, at the agency hearing,
+Cooper stated he “[n]ormally . . . use[d] [the] B31G [method]” to “prepar[e] repair plans.”
+(Hr. Tr., A429.) Although he doesn’t “doubt” the R-STRENG values provided in ILI reports, he
+doesn’t “have all the information necessary to assess [them],” which leads him to “take the more
+conservative [B31G] approach.” (Id.)
+
+       Wolverine’s repair plans confirm Cooper’s assessment that Wolverine solely relied on
+the B31G calculations to classify the four anomalies as 180-day conditions. The plans state that
+Cooper ran “the modified ASME B31G calculations” and found that four anomalies qualified as
+180-day conditions. (JO-KA Repair Plan 10/19/2015, A148–49; JO-KA Repair Plan Summary
+10/19/2015, A627.)
+
+       With the plans complete, Wolverine started on repairs. For two of the anomalies, the
+company met the 180-day mark. But at the other two locations, it missed the deadline. PHMSA
+noted the missed deadlines during its inspection. So in Item 6 of its Notice, PHMSA cited
+Wolverine for violating the 180-day condition regulation and recommended a $39,200 penalty.
+In response to the Notice, Wolverine provided a written response that admitted it did not meet
+ No. 21-3405              Wolverine Pipe Line Co. v. DOT, PHMSA                            Page 7
+
+
+the deadline and assured PHMSA that new procedures were put in place to prevent the violation
+from happening again.
+
+       Agency Hearing. After it received the Notice, Wolverine contested PHMSA’s
+accusations. Its defense started with a request for an agency hearing. See 49 C.F.R. § 190.211.
+There, the parties debated the Item 5 and Item 6 violations.
+
+       Wolverine’s approach to Item 5 emphasized June 26 as the discovery date. To
+understand why, recall the language of the immediate repair regulation: “To maintain safety, an
+operator must temporarily reduce the operating pressure or shut down the pipeline until
+the operator completes the repair.” 49 C.F.R. § 195.452(h)(4)(i). In Wolverine’s view, this
+regulation didn’t impose a categorical command. Instead, it believed the regulation was most
+naturally read as not requiring the pipeline operator to implement a pressure reduction if the
+operator could complete the repair quickly. Under that approach, Wolverine contended it didn’t
+violate the regulation. It discovered the repair on June 26 and completed the repair on June 30
+“before there was time to effectuate the pressure reduction.” (Hr. Tr., A391.)
+
+       For Wolverine to win on this theory, it needed PHMSA to accept the June 26 discovery
+date. So at the hearing, Wolverine went back and forth with PHMSA’s investigators about
+Wolverine’s claimed discovery date of June 26. In one such instance, Wolverine’s counsel asked
+one of PHMSA’s investigators, Ms. Alexander, about the discovery date. Wolverine’s counsel
+said: “[D]o you dispute that June 26th, 2015, is the date of discovery for this subject condition?”
+(Hr. Tr., A329.) Alexander answered: “No, I’m not disputing it. That is per Wolverine.” (Id.)
+But Wolverine’s counsel persisted: “I want to know what you think . . . . Do you have a dispute
+with June 26th as the discovery date?” (Id.) This time, Alexander simply answered: “No.” (Id.)
+
+       This conversation, though, was just one of many instances when the parties argued about
+discovery for Item 5. At the start, Wolverine’s counsel read the Notice to Alexander. Twice
+counsel asked if the allegation that Wolverine discovered a dent was “the regulatory version of
+discovery? 49 C.F.R. 195.452(h)(2).” (Id. at A326–327.) Alexander confirmed. She also
+stated: “Wolverine claims a discovery date.” (Id. at A327.) Later, PHMSA’s lawyer, Ms.
+Stevens, emphasized that June 26th was “Wolverine’s date.” (Id. at A339.) When Wolverine’s
+ No. 21-3405                 Wolverine Pipe Line Co. v. DOT, PHMSA                          Page 8
+
+
+counsel retorted that Ms. Alexander “indicated no dispute with that date,” Ms. Stevens clarified
+“there’s no dispute that Wolverine stated that date [of June 26]. That’s what she’s indicating.”
+(Id.; see also id. at A341 (“Wolverine claimed the discovery date on June 26th.”).)
+
+        As for Item 6, Wolverine came to the table with a new theory: The repairs weren’t 180-
+day conditions under the regulation. To make its case, Wolverine first pointed out that the
+regulation included both the R-STRENG and B31G as “[s]uitable remaining strength calculation
+methods.” 49 C.F.R. § 195.452(h)(4)(iii)(D). And under the R-STRENG values, Wolverine
+contended that the anomalies weren’t 180-day conditions.           To shore up its argument, it
+introduced a new chart that incorporated the R-STRENG values from the ILI report. This chart
+compared the R-STRENG values with the maximum operating pressure at each anomaly,
+showing that the R-STRENG value was greater than the maximum operating pressure. So if
+Wolverine had used the R-STRENG values instead of the B31G values, the repairs wouldn’t
+have qualified as 180-day conditions. (Hr. Ex. 33, A626; see also Wolverine Post-Hearing Br.,
+A655 (asserting that Wolverine could “have rested on the RSTRENG results and done absolutely
+nothing”).)    Still, as one of PHMSA’s officers pointed out, Wolverine didn’t provide any
+R-STRENG analysis until October 2019—two years after PHMSA’s inspection and four years
+after it first formulated its repair plans.
+
+        PHMSA’s decision. In the end, Wolverine’s arguments at the hearing failed to convince
+PHMSA. The agency’s Final Order found Wolverine liable for violating both the
+immediate repair and 180-day condition regulations. And although Wolverine petitioned for
+reconsideration, the agency stayed firm, upholding both its liability findings and its $65,800 fine.
+
+        Wolverine now petitions for review of PHMSA’s Item 5 and Item 6 decisions, arguing
+that each was arbitrary and capricious and contrary to law.
+
+                                                  II.
+
+        We review PHMSA’s action under the Administrative Procedure Act. See 49 U.S.C.
+§ 60119(a)(3). Under that Act, we may “set aside” the agency’s decision only if it is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in accordance with law.”             5 U.S.C.
+§ 706(2)(A). Arbitrary and capricious review is deferential. The question is not what we would
+ No. 21-3405                Wolverine Pipe Line Co. v. DOT, PHMSA                              Page 9
+
+
+have done, nor whether we agree with the agency’s action. Rather, the question is whether the
+agency “examine[d] the relevant data and articulate[d] a satisfactory explanation for its action.”
+Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)
+(explaining that there must be a “rational connection between the facts found and the choice
+made” (citation omitted)). So long as “the agency’s path may reasonably be discerned,” we will
+uphold a decision of even “less than ideal clarity.” Alaska Dep’t of Env’t Conservation v. EPA,
+540 U.S. 461, 497 (2004) (citation omitted).
+
+                                                  III.
+
+        We consider PHMSA’s Item 5 adjudication first. Wolverine contends this decision
+violated its due process rights and is arbitrary and capricious. PHMSA responds that its
+conclusion was a textbook application of the immediate repair regulation.
+
+        We think PHMSA has the better of the two arguments here. The text of the regulation
+goes a long way to showing why. “To maintain safety,” the regulation tells us, “an operator must
+temporarily reduce the operating pressure or shut down the pipeline until the operator completes
+the repair of these conditions.” 49 C.F.R. § 195.452(h)(4)(i) (emphasis added). In its Item 5
+decision, PHMSA simply read the regulation to mean what it says. “[C]lear on its face,” the
+provision informed the regulated community “that, pending repair, an operator must take certain
+actions.” (Reconsideration Decision, A19.) According to PHMSA, this mandate “does not
+afford operators the ability to defer a pressure reduction . . . if, in their engineering judgment it is
+simply more convenient to proceed to a repair.” (Id. at A18.) Put another way, the regulation
+represents PHMSA’s call that “[t]o maintain safety,” an operator must reduce pressure pending a
+repair. 49 C.F.R. § 195.452(h)(4)(i).
+
+        This position, long taken by the agency, leaves no room for an operator, like Wolverine,
+to impose its own judgment. See, e.g., In the Matter of Centurion Pipeline, LP, CPF No. 4-2014-
+5028, 2017 WL 1363408, at *9 (D.O.T. March 30, 2017) (noting that “[i]n prior enforcement
+proceedings . . . PHMSA has [] determined that § 195.452(h)(4) requires a pressure reduction or
+a shutdown even if the condition meets immediate repair criteria only after factoring in
+conservative tool tolerances”); id. (“An operator must immediately reduce pipeline operating
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                        Page 10
+
+
+pressure or shut down a pipeline that has an immediate repair condition.” (emphasis added)); In
+the Matter of Buckeye Partners, L.P., CPF No. 1-2011-5013, 2012 WL 4025918, at *2 (D.O.T.
+Jul. 27, 2012) (“Pipeline operators are obligated to take immediate action including temporarily
+reducing operating pressure . . . .”). No matter the discovery date and no matter the speed of the
+repair, operators must take steps to reduce the pressure or shut down the pipeline.
+
+       Wolverine never took these actions. Did it have a dent that met the criteria for an
+immediate repair? Wolverine admits as much. Did it complete the repair without temporarily
+reducing the pressure? Wolverine concedes the point. Indeed, during oral argument, Wolverine
+took the position that whether it opened the letter on June 10 or June 26, it would not have
+implemented a pressure reduction. In PHMSA’s view, these two concessions were enough to
+find Wolverine liable for violating the regulation.
+
+       Wolverine reads the immediate repair regulation differently. It contends that the
+regulation “cannot reasonably be read to require a pressure reduction or shutdown if the repair
+can precede those actions.” (Wolverine Reply Br. at 10.) “Any alternative interpretation,” it
+suggests, would “require[] a repair to be delayed pending implementation of a pressure reduction
+or shutdown” and “undermine” the regulation’s express “objective of maintaining safety.” (Id.
+(citation omitted).) So, the argument goes, operators do not need to reduce pressure or shutdown
+a pipeline if simply repairing it would be faster.
+
+       But Wolverine’s reading runs headlong into the regulation’s text, which tells
+operators: “To maintain safety, an operator must temporarily reduce operating pressure or shut
+down the pipeline until the operator completes the repair of th[at] condition.”        49 C.F.R.
+§ 195.452(h)(4)(i) (emphasis added). This “prophylactic” directive represents PHMSA’s call
+about the best way to “maintain safety.” (PHMSA Br. at 6 (“Immediate repair conditions are
+those that PHMSA has determined could result in imminent pipeline failure; the agency thus
+promulgated this prophylactic measure—requiring an operator to reduce or shut down a
+pipeline’s pressure while repairing these conditions—to ‘maintain safety’ by minimizing strain
+on the pipeline and decreasing the prospect of imminent failure.”).) That we can imagine a
+scenario where an operator could complete a repair before implementing a pressure reduction is
+of no moment. The text of the regulation is clear. An operator must implement a pressure
+ No. 21-3405                    Wolverine Pipe Line Co. v. DOT, PHMSA                                        Page 11
+
+
+reduction or shut down the pipeline.                 Wolverine asks us to read an exception into this
+straightforward directive. We decline to do so.4
+
+         Wolverine challenges this conclusion on several additional fronts. It starts with two due
+process arguments and then makes a Chenery claim. We consider each in turn.
+
+         Due Process. Before we address the heart of Wolverine’s argument, we begin with a bit
+of context. The Fifth Amendment’s due process clause applies to “administrative proceedings
+just as it does to other instances of government action.” Karst Robbins Coal Co. v. Dir., Off. of
+Workers’ Comp. Programs, 969 F.3d 316, 329 (6th Cir. 2020); see also Mullane v. Cent.
+Hanover Bank & Tr. Co., 339 U.S. 306, 313 (1950).
+
+         And in the administrative law context, due process arguments often come in two forms.
+First, an agency offends due process if it “sustain[s] a charge different from any listed in the
+complaint,” Hodgins v U.S. Dep’t of Agric., 238 F.3d 421, 430 (6th Cir. 2000) (table) (citations
+omitted), or “change[s] theories in midstream without giving [] reasonable notice of the change,”
+Yellow Freight Sys., Inc. v. Martin, 954 F.2d 353, 357 (6th Cir. 1992) (citation omitted). And
+second, even if an agency “properly construe[s]” a regulation, its action might violate due
+process if “the regulation is so vague in its requirements that its enforcement would violate” the
+
+         4In  fact, Wolverine is as likely to fall within its proposed exception as it is to fall outside of it. In other
+words, it’s not clear how long the pressure reduction process would have taken versus the actual repair. This is
+because, on the record before us, it doesn’t seem that Wolverine determined how long it would have taken to reduce
+pressure. (Hr. Tr., A380 (Cooper indicated Wolverine took some steps to “begin[] the” pressure reduction “process”
+but didn’t know whether Wolverine ever took “further action to actually implement any kind of a pressure
+reduction” or “what documentation exist[ed].”).) Instead, it seems that Wolverine made a judgment call based on
+experience. (Id. at A354 (Cooper recommended that Wolverine forego a pressure reduction because it could “get in
+within just a few days and repair [the pipeline].”); Id. at A356 (In Cooper’s judgment, “if [the] anomaly had
+survived a 1,700 pound eight-hour test [] it was not likely to fail in the next few days at 50 pounds or maybe 200
+pounds.”).) Later, the operator posited that it “might have achieved a pressure reduction ‘as soon as possible,’ and
+safely so, but never will we know since the repair was effected so quickly.” (Wolverine Post-Hearing Br., A662.)
+         “Never will we know” about sums up the record on this issue. Wolverine can point to no record
+evidence—other than its own uncorroborated statements to the contrary—that shows it could have completed the
+repair “before there was time to effectuate a pressure reduction.” (Wolverine Br. at 34 (citation omitted).)
+         Finally, Wolverine is not in a great position to be advocating for an interpretation that is grounded in
+speediness. Wolverine, after all, received information identifying an immediate repair on June 10 and completed
+that repair on June 30. During that time, as PHMSA noted, Wolverine took a “lackadaisical approach,” failing to
+even open the report for 13 days. (Reconsideration Decision, A20.) Then, acting on its own, Wolverine found a
+pressure reduction unnecessary because it could complete the repair quickly. Given the 20 days between receipt of
+the report and the repair, Wolverine had no excuse for its failure to act.
+ No. 21-3405              Wolverine Pipe Line Co. v. DOT, PHMSA                          Page 12
+
+
+Fifth Amendment. Diebold, Inc. v. Marshall, 585 F.2d 1327, 1335 (6th Cir. 1978); see also Ohio
+Cast Prods., Inc. v. OSHA, 246 F.3d 791, 798–99 (6th Cir. 2001); Albert C. Lin, Refining Fair
+Notice Doctrine: What Notice is Required of Civil Regulations? 55 Baylor L. Rev. 991, 1001
+(2003) (explaining that courts often treat “[w]hether an agency’s interpretation is permissible and
+whether an agency gave adequate notice of that interpretation” as “separate issues”).
+
+       Wolverine claims that the agency’s actions violated both strands of due process doctrine.
+First, Wolverine contends that PHMSA “violated due process by relying on a novel theory of
+untimely discovery not adequately alleged” in the Notice. (Wolverine Br. at 30 (cleaned up).) In
+other words, Wolverine argues it lacked fair notice that the agency took issue with its claimed
+discovery date of June 26. (Id. at 37–38.) Second, Wolverine asserts it lacked fair notice that its
+conduct would violate the discovery regulation because the regulation’s mandate to act
+“promptly” is unconstitutionally vague. (Id. at 42–43.)
+
+       We reject Wolverine’s argument that it did not know its claimed discovery date would be
+at issue in the proceedings. Wolverine’s claimed discovery date played an “ancillary part”
+throughout the proceedings. (Reconsideration Decision, A21.) This is because an operator’s
+“obligation to [reduce pressure] is dictated by when it discovers that it has an immediate repair
+condition on its pipeline.” (Id. at A17.) And so PHMSA sought to determine when that
+obligation kicked in.
+
+       Right off the bat, PHMSA’s informal charging documents put Wolverine on notice that
+the agency took issue with the operator’s timeline. The Notice began by faulting Wolverine for
+failing to “temporarily reduce the operating pressure when it discovered a dent.” (NOPV, A71.)
+It then added that “Wolverine received a final ILI report on June 10, 2015” but “claimed a
+discovery date of June 26, 2015 and completed repairs on June 30, 2015.” (Id.) In addition,
+PHMSA’s follow-on Violation Report listed “the [d]ate the violation started” as June 10, 2015.
+(Violation Report, A112.) These documents gave Wolverine sufficient warning that PHMSA
+took issue both with the time between the receipt of the ILI report and the repair and with
+Wolverine’s failure to implement a pressure reduction during that time. See ECM BioFilms, Inc.
+v. FTC, 851 F.3d 599, 618 (6th Cir. 2017) (“Although the complaint does not define ‘reasonably
+ No. 21-3405                    Wolverine Pipe Line Co. v. DOT, PHMSA                                      Page 13
+
+
+short period of time’ as a specific time period, that level of detail was unnecessary to ‘reasonably
+apprise’ [the company] of the issues in controversy.”).
+
+         Next, Wolverine’s own actions confirm that it understood that PHMSA took issue with
+the time between the receipt of the ILI report and the repair. At the agency hearing, Wolverine
+tried to pin PHMSA down on the June 26 discovery date. And the parties wrangled over the
+discovery date multiple times.5 Also, leading up to this discussion about Wolverine’s claimed
+discovery date, Wolverine had a line of questioning about how quickly operators must reduce
+pressure when an immediate repair condition is identified.
+
+         Again, in its post-hearing recommendation (which Wolverine responded to), PHMSA
+took issue both with the time between the receipt of the ILI report and the repair and with
+Wolverine’s failure to implement a pressure reduction.
+
+         So it is not true that PHMSA shifted its theory from alleging that Wolverine violated the
+immediate repair regulation by failing to reduce pressure to alleging that Wolverine violated the
+immediate repair regulation by failing to reduce pressure in a timely fashion. Timeliness was an
+“ancillary” issue throughout. (Reconsideration Decision, A21.) And at the end of the day,
+PHMSA found that Wolverine violated the immediate repair regulation without fixing a
+discovery date, without charging Wolverine with a discovery regulation violation, cf. Carlisle
+Equip. Co. v. Sec’y of Lab. & Occupational Safety, 24 F.3d 790, 795 (6th Cir. 1994); Yellow
+
+         5Wolverine contends that certain exchanges between its counsel and Alexander (a PHMSA investigator)
+confirmed that PHMSA didn’t dispute its claimed discovery date. But viewing the transcript as a whole, it’s clear
+that’s not the case. (Hr. Tr., A326–27 (Wolverine Counsel: “[The notice] says that Wolverine discovered a dent.
+Top line over to the right side. Discovered a dent.” Alexander: “I didn’t say they discovered a dent. I said
+Wolverine claims a discovery date.” Wolverine Counsel: “We’ll come to that in a moment . . . .”); Id. at A329
+(Wolverine Counsel: “Regarding the statement that Wolverine claimed a discovery date of June 26, 2015, do you
+dispute that June 26, 2015, is the date of discovery for this subject condition?” Alexander: “No, I’m not disputing
+it. That is per Wolverine.” Later, Wolverine Counsel: “Do you have a dispute with June 26 as the discovery date?”
+Alexander: “No.”); Id. at A338–39 (Wolverine Counsel: “Just a couple things inside the violation report . . . .
+[T]here is a question, the date of violation started and it says what date.” Alexander: “It says June 10, 2015.” Later,
+Wolverine Counsel: “Why did you start that on receipt of the ILI report? Earlier you suggested that the action
+needed to be taken — you didn’t suggest. You stated very clearly the actions should occur upon discovery of the
+condition. What date was that?” PHMSA Counsel: “Wolverine’s date. That’s what — Wolverine’s discovery date
+was June 26.” Wolverine Counsel: “She indicated no dispute with [the 26th].” PHMSA counsel: “Well, there’s no
+dispute that Wolverine stated that date [June 26]. That’s what [Alexander’s] indicating.”); Id. at 340–41 (Alexander
+states that the violation report didn’t talk about discovery and she “didn’t contest discovery.” Wolverine
+Counsel: “That’s right. And the discovery in the NOPV is stated as what date?” Alexander: “Wolverine claimed
+the discovery date on June 26.”).)
+ No. 21-3405                   Wolverine Pipe Line Co. v. DOT, PHMSA                                    Page 14
+
+
+Freight, 954 F.2d at 355, 358, and without changing its theory of the case, cf. Bendix Corp. v.
+FTC, 450 F.2d 534, 542 (6th Cir. 1971).6
+
+        Chenery. Wolverine next invokes Chenery I and Chenery II, arguing that PHMSA
+shifted its reasoning on appeal. This matters because agency action “cannot be upheld unless the
+grounds upon which the agency acted in exercising its powers were those upon which its action
+can be sustained.” SEC v. Chenery Corp., 318 U.S. 80, 95 (1943). Wolverine points to the fact
+that, during the agency proceedings, PHMSA acknowledged that discovery played an “ancillary”
+part of its immediate-repair regulation analysis and spent much time chastising Wolverine for its
+“lackadaisical approach.” (Reconsideration Decision, A20–21.) But on appeal, PHMSA left out
+that chastisement, asserting that “any dispute as to when Wolverine discovered the dent that
+required repair is orthogonal to the regulatory requirement that Wolverine reduce or shutoff the
+pipeline pressure.” (PHMSA Br. at 28.) Wolverine argues these differences in framing require
+us to vacate the agency’s order below.
+
+        We disagree.       Whatever the space between “ancillary” and “orthogonal,” it doesn’t
+change our outcome here. Chenery “tells us not to sustain an administrative order on a different
+ground from the one the agency offered.” MISO Transmission Owners v. FERC, 860 F.3d 837,
+843 (6th Cir. 2017); Chenery Corp., 318 U.S. at 94–95; accord SEC v. Chenery Corp., 332 U.S.
+194, 196 (1947). It doesn’t keep this Court from upholding an agency action “on the same basis
+articulated in the order by the agency itself.” Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 169 (1962). As the Reconsideration Decision held: “This finding of violation is,
+and always has been, squarely focused on the fact that Wolverine never took a pressure reduction
+or shut down the pipeline.”           (Reconsideration Decision, A21.)            And we’ve explained, the
+immediate repair regulation tells an operator it “must temporarily reduce the operating pressure
+or shut down the pipeline.” 49 C.F.R. § 195.452(h)(4)(i) (emphasis added). Because Wolverine
+failed to take either action, PHMSA did not act arbitrarily or capriciously when it determined
+
+
+
+        6Because   PHMSA’s theory of the case did not depend on whether Wolverine violated the discovery
+regulation, we decline to address Wolverine’s argument that the discovery regulation’s terms are vague. To the
+extent that PHMSA concluded that Wolverine did not act “promptly,” as required by the discovery regulation, that is
+dicta, and we need not address it. (Reconsideration Decision, A18–19.)
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                          Page 15
+
+
+Wolverine violated the regulation. This failure formed the core of PHMSA’s decision below,
+and it informs our decision now.
+
+                                                IV.
+
+        We turn our attention next to Item 6, which concerns PHMSA’s 180-day condition
+regulation. Because Wolverine’s repair of two pipeline anomalies exceeded the 180-day limit,
+PHMSA found the operator violated the regulation. Wolverine doesn’t contest that its repairs
+stretched past 180 days. Rather, it argues that the anomalies didn’t qualify as 180-day conditions
+in the first place and that PHMSA’s contrary conclusion was arbitrary and capricious.
+
+        It was not. Far from being “arbitrary and capricious,” PHMSA’s Item 6 adjudication
+aligned with its front-end flexibility, back-end verification approach to regulation. On the front
+end, PHMSA explained that an operator may “run 10,000 different methodologies (provided
+those methodologies were proven) — as long as it documented its calculations and relied on
+those calculations to devise an implementation strategy.” (Reconsideration Decision, A22.) But
+on the back end, PHMSA must be able to verify an operator’s decision-making during an
+inspection. This means an operator must “determine what methodologies to use, record its
+calculations, and present those calculations to inspectors if called upon to justify [its] conduct.”
+(Id.)
+
+        Wolverine failed to follow these simple steps. A step-by-step walk through the time
+between its receipt of the ILI report and PHMSA’s inspection proves the point. Recall that the
+report included both R-STRENG and B31G values. But once Wolverine had the ILI report in
+hand, it only ran, recalculated, and relied on the B31G data. Cooper testified as much at the
+hearing. (Hr. Tr. at 429 (“Normally in preparing plans, I will use B31G . . . Oftentimes the tool
+vendors will provide values based on R-STRENG or the effective area method . . . which while I
+don’t doubt those, I don’t have all of the information necessary to assess that, so I take the more
+conservative [B31G] report.”).) And Wolverine’s repair plans tell a similar tale. They flagged
+the anomalies as 180-day conditions under B31G. (See JO-KA Repair Plan 10/19/2015, A148
+(explaining Cooper ran “the modified ASME B31G calculations” and found the four anomalies
+qualified as 180-day conditions); see also Hr. Ex. 35: JO-KA Repair Plan Summary, A627.)
+ No. 21-3405              Wolverine Pipe Line Co. v. DOT, PHMSA                        Page 16
+
+
+Although the ILI report listed the raw R-STRENG values, Wolverine did nothing with that data.
+Indeed, during the inspection, Wolverine presented no documents that showed use of the
+R-STRENG values would lead to a different conclusion. As a result, PHMSA’s Notice faulted
+the operator for missing the 180-day deadline for a few of its repairs. Wolverine admitted as
+much when it responded. But at the agency hearing, the operator changed its tune. There,
+Wolverine produced a chart that incorporated the R-STRENG values and showed the anomalies
+didn’t qualify as 180-day conditions under that method. PHMSA weighed this new evidence
+along with the rest and found Wolverine violated the regulation.       “Operators may not,” it
+explained, “rely on one calculation method, devise an implementation strategy and repair plan
+deadlines, then when presented with an allegation of violation four years later, run different
+calculation methods.” (Reconsideration Decision, A22.)
+
+       This decision was neither arbitrary nor capricious. PHMSA “examine[d] the relevant
+data,” including Wolverine’s last-minute R-STRENG calculations, and “articulate[d] a
+satisfactory explanation for its action.” State Farm Mut. Auto. Ins. Co., 463 U.S. at 43. What’s
+more, when viewed through the lens of PHMSA’s collaborative regulatory approach, its decision
+was reasonable. On the front end, Wolverine received two sets of values: One B31G, the other
+R-STRENG.      Then, it documented, recorded, and relied on only one of those “[s]uitable
+remaining strength calculation[s]”—the B31G method—to classify the anomalies as 180-day
+conditions. 49 C.F.R. § 195.452(h)(4)(iii)(D). On the back end, PHMSA assessed Wolverine’s
+own record and determined the operator missed the 180-day deadline. Because that record
+omitted any R-STRENG calculations or statements that would have shown otherwise, we cannot
+say PHMSA’s decision was arbitrary or capricious.
+
+       Wolverine pushes back against this holding in three ways.         First, it contends that
+PHMSA’s decision relied on a mistake of fact. To make its case, it points to a single footnote in
+PHMSA’s Reconsideration Decision. It provided: “The evidence presented here is strong—and
+supports the allegation that the Petitioner solely ran (and relied) on the B31G calculation
+methodology.” (Reconsideration Decision, A23 n.20). Wolverine asserts this statement shows
+PHMSA erroneously concluded “that the ILI vendor did not provide Wolverine with the
+R-STRENG values.” (Wolverine Br. at 50.) We disagree. Neither the Final Order nor the
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                         Page 17
+
+
+Reconsideration Decision assume or find that Wolverine received only B31G values from its ILI
+vendor. Instead, PHMSA’s analysis focused on what Wolverine did with the ILI values. Here,
+the record shows Wolverine only used, confirmed, and relied on the B31G values during the time
+leading up to the 2017 inspection. It was only during the 2019 hearing that Wolverine gave
+PHMSA R-STRENG data suggesting a different result. It follows that PHMSA did not premise
+its decision on a “factual error.” (Id. at 49.) Although Wolverine received both R-STRENG and
+B31G values from the ILI vendor, the record showed it “solely ran (and relied) on the B31G
+calculation methodology.” (Reconsideration Decision, A23 n.20.)
+
+       Next, Wolverine asserts that PHMSA’s reading of the regulation “cannot be squared
+with” its “plain language,” which says “nothing about holding operators to an ‘upfront choice
+between calculation methods.’” (Wolverine Br. at 51 (quoting Final Order, A7.).) But this
+argument selectively quotes the record to misstate PHMSA’s position. True, PHMSA’s Final
+Order offered: “[W]hile the regulation offers the upfront choice between calculation methods, an
+operator is held to its choice.” (Final Order, A7.) But its Reconsideration Decision elaborated,
+explaining that an operator could run “10,000 different methodologies” as long as PHMSA could
+check the work and follow the decision-making process. (Reconsideration Decision, A22.)
+Contrary to Wolverine’s assertions, this position is not “founded on an unsupportable
+interpretation of” the regulation. (Wolverine Br. at 50.) Rather, like the regulation, it allows
+operators to use any number of “[s]uitable remaining strength calculation methods”
+when deciding whether they have a 180-day condition on their hands. 49 C.F.R.
+§ 195.452(h)(4)(iii)(D). Here, Wolverine ran and used one calculation, B31G, to classify its
+pipeline anomalies as 180-day conditions. PHMSA’s decision, which assessed Wolverine’s data
+based on the one calculation it ran, is not contrary to the regulation’s text.
+
+       Last, Wolverine laments that PHMSA’s decision will “deter[] operators from going
+beyond the regulatory minimum standard of care.” (Wolverine Br. at 28.) We do not share its
+concern. PHMSA only objects to post-hoc rationalizations. As noted above, PHMSA explained
+that “[i]f Wolverine had evidence that it conducted two (or more) analyses when first making its
+determinations,” the outcome here would change. (Reconsideration Decision, A22–23.) But
+such evidence must be available during the agency inspection.             Any other course, in the
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                    Page 18
+
+
+PHMSA’s view, would “undermine pipeline safety” by “effectively permit[ting] an operator to
+avoid regulatory scrutiny by invoking after-the-fact [] methodolog[ies] that PHMSA could not
+evaluate during routine inspections.” (PHMSA Br. at 38, 40.)
+
+         Two takeaways follow. First, in the future, a savvy operator should run alternative
+calculations before, not after, PHMSA knocks at its door. And next, dueling notions of safety
+and deterrence lie in PHMSA’s domain, not ours. So to the extent Wolverine believes another
+approach would better achieve PHMSA’s desired policy outcomes, its argument “is one for
+resolution by [PHMSA].” Lake Bldg. Prods., Inc. v. Sec’y of Lab., 958 F.3d 501, 506 (6th Cir.
+2020).
+
+                                                V.
+
+         For these reasons, we deny Wolverine’s petition for review.
+ No. 21-3405              Wolverine Pipe Line Co. v. DOT, PHMSA                          Page 19
+
+
+                                      _________________
+
+                                           DISSENT
+                                      _________________
+
+       ALICE M. BATCHELDER, Circuit Judge, dissenting. I believe that Wolverine used
+sound judgment in compliance with the regulations, whereas the Agency concocted after-the-fact
+excuses for its contrived rulings. I refuse to condone the Agency’s conduct.
+
+       Item 5. On June 25, 2015, Daniel Cooper, Wolverine’s Risk and Integrity Specialist, was
+reading an apparently routine In-Line Inspection (ILI) Report from a contractor and came across
+a surprising item about the contractor’s discovery of a worrisome dent in the pipeline.
+According to the Report, the contractor had discovered the dent during a regular pipeline
+assessment back in April, but had not immediately called or emailed Cooper or the local
+operations engineer to alert Wolverine. Instead, the contractor just wrote it into the Report and
+emailed that Report to Wolverine over two months later, on June 10, without any indication of an
+emergency condition that would require immediate response. When Cooper read about the dent,
+however, he immediately called the contractor for confirmation and clarification, called
+Wolverine personnel working that portion of the pipeline for information, and scheduled a
+conference call with consultants, contractors, and Wolverine personnel for the next morning,
+June 26.
+
+       Thus, on June 26, Wolverine found that the dent presented an emergency-repair situation.
+And Wolverine determined that the safest and most expedient means of resolving that potentially
+hazardous situation was to repair the dent immediately, without the unnecessary delay of shutting
+off the pipeline and reducing the pressure. Wolverine completed the repair of the pipeline dent
+four days later, on June 30, without incident. By any practical measure, this was a success.
+
+       But not according to the Agency. The Agency fined Wolverine $28,000 for violating
+certain regulations by failing to shut off the pipeline and reduce the pressure. During the
+administrative hearing to adjudicate the violation, Wolverine argued that it discovered the dent
+on June 26 and promptly repaired it on June 30, in compliance with the regulations. The Agency
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                        Page 20
+
+
+did not dispute that argument at the hearing, but later insisted in its post-hearing briefing that
+Wolverine discovered the dent on June 10 when its contractor emailed the ILI Report.
+
+       In his opinion, the Agency Administrator acknowledged that “Wolverine [had] capably
+argued that, even when a condition is identified as an immediate repair, a pressure reduction
+cannot be implemented immediately. There are a number of intervening steps that an operator
+must take to capably and safely implement a pressure reduction.” Therefore, if the discovery
+date were June 26, then a repair by June 30 meant that Wolverine satisfied the requirement that
+“[r]epairs must be made as soon as practicable.” But the Administrator instead accepted the
+Agency’s post-hearing claim that the discovery date was June 10 and found that “the time that
+elapsed” between June 10 and June 30 “was too long and did not meet the regulatory standard”
+for an immediate repair. The Administrator held Wolverine in violation of the regulations and
+imposed the fine.
+
+       There is no honest dispute that Wolverine actually discovered the hazard on June 26 and
+repaired it within days, or whether that was the basis of Wolverine’s defense at the hearing. The
+most that the Agency and its Administrator can contend is that Wolverine should have
+discovered (constructively discovered) the existence of the hazard on June 10, when the
+contractor sent the IRI Report email. While that seems reasonable enough, and fits the Agency’s
+and Administrator’s desired outcome in this case, I question whether that is the law. Certainly,
+the opinion points to no regulation or rule to support that view. In fact, Wolverine might have
+constructively discovered the existence of the dent in April, when its agent (contractor)
+discovered it, or maybe Wolverine should have, with due diligence, discovered it even earlier—I
+saw nothing in the record to establish how or when the dent actually happened. The point is that
+the question of when Wolverine should have discovered, or constructively discovered, the dent
+became the determinative question in the adjudication, but Wolverine was never told that
+question was at issue and, in fact, was led to believe that it was not. So Wolverine had no
+opportunity to be heard on the facts or circumstances of that question. I cannot agree that
+satisfies Wolverine’s right to notice and fair hearing.
+
+       Item 6. In April 2015, in a different part of the pipeline, a Wolverine contractor
+performing an integrity test pursuant to the regulations, conducted the test twice using two
+ No. 21-3405                 Wolverine Pipe Line Co. v. DOT, PHMSA                           Page 21
+
+
+different methods: once with a method named B31G and once with a method named R-
+STRENG.        Both methods are specifically approved in the regulations.            Under the more
+conservative B31G method, the contractor identified four suspect locations requiring further
+inspection and repair within 180 days of discovery. Under the more lenient R-STRENG method,
+however, those same locations passed the testing and required no further investigation.
+Wolverine could have relied solely on the R-STRENG results and taken no further action at
+these locations. But it did not. Instead, Wolverine conducted further assessments using B31G,
+prepared repair plans, and conducted repairs. By any practical measure, this was a commendable
+approach to pipeline maintenance and safety.
+
+          But not to the Agency. The Agency fined Wolverine $37,000 for failing to complete its
+voluntarily undertaken repairs within 180 days at two of those four locations. Wolverine argued
+that, because the locations passed the R-STRENG test, there was no 180-day-repair requirement
+and, therefore, no violation. The Agency answered that the R-STRENG test was irrelevant
+because Wolverine had elected to use the B31G results to pursue the follow-up assessment and
+repair.
+
+          In rendering his decision, the Administrator added this oddity: “while the regulation
+offers the upfront choice between calculation methods, an operator is held to its choice of
+calculation methodology.”        But the regulations do not require any “choice”—“upfront” or
+otherwise—nor do the regulations suggest, much less state, anything whatsoever about
+the operator’s being forever “held to that choice.” The pertinent regulation says only: “Suitable
+. . . test methods include, but are not limited to, [] B31G and [] R-STRENG.” 49 C.F.R.
+§ 195.452(h)(4)(iii)(D).
+
+          This is not an issue of “interpretation”; this is the Agency’s adding a requirement (i.e., an
+upfront choice) that is not contained in the regulation at all. In rejecting Wolverine’s motion to
+reconsider, the Administrator opined that “it would be perfectly permissible for [Wolverine] to
+run 10,000 different methodologies (provided the methodologies were proven)—as long as it
+documented its calculations and relied on those calculations to devise an implementation
+strategy,” but Wolverine “may not rely on one calculation method [to conduct proactive,
+voluntary assessment and repair], then when presented with an allegation of violation years after
+ No. 21-3405               Wolverine Pipe Line Co. v. DOT, PHMSA                          Page 22
+
+
+the fact, [use those] alternative calculations as a defense.” The Administrator does not offer any
+justification for this ipse dixit proclamation. Nor does he explain why it is appropriate for the
+Agency to raise “an allegation of violation years after the fact,” concerning an operator’s
+voluntary repairs, but inappropriate for the operator to respond to that unexpected allegation by
+producing the evidence that informed its years-ago decision.
+
+       There is no honest dispute that Wolverine tested its pipeline using the R-STRENG, in
+complete compliance with the regulations, and the pipeline passed the test.           At the time,
+Wolverine also tested the pipeline using B31G and when four locations failed that test,
+Wolverine proactively and voluntarily undertook a precautionary assessment and repair in full
+compliance with all regulations. As a practical matter, this was not only appropriate, it was
+commendable. So, when the Agency showed up four years later imposing a $37,000 fine for
+Wolverine’s failure to complete all of its voluntary repairs within 180 days, why is Wolverine
+prohibited from demonstrating that the repairs were not required at all, much less within 180
+days, based on the R-STRENG results? I cannot agree that satisfies Wolverine’s right to notice
+and a fair opportunity to be heard.
+
+       I would vacate the order. Because majority sees it differently, I respectfully dissent.
+

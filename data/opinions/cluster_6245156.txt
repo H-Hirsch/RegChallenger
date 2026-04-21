@@ -1,0 +1,897 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued December 1, 2021            Decided January 25, 2022
+
+                        No. 20-1084
+
+         THE CITY AND COUNTY OF SAN FRANCISCO,
+                       PETITIONER
+
+                             v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+           PACIFIC GAS AND ELECTRIC COMPANY,
+                       INTERVENOR
+
+
+
+                 Consolidated with 20-1297
+
+
+              On Petitions for Review of Orders
+       of the Federal Energy Regulatory Commission
+
+
+     Katharine M. Mapes argued the cause for petitioner. With
+her on the briefs were William S. Huang and Jeffrey M. Bayne.
+
+     Scott Ray Ediger, Attorney, Federal Energy Regulatory
+Commission, argued the cause for respondent. With him on
+the brief were Matthew R. Christiansen, General Counsel, and
+Robert H. Solomon, Solicitor.
+                             2
+    Joshua S. Levenberg argued the cause for intervenor
+Pacific Gas and Electric Company in support of respondent.
+With him on the brief was Alexandra J. Ward. Alyssa T. Koo
+entered an appearance.
+
+
+
+
+                        No. 20-1313
+
+           CITY AND COUNTY OF SAN FRANCISCO,
+                      PETITIONER
+
+                             v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+
+
+                 Consolidated with 20-1458
+
+
+              On Petitions for Review of Orders
+       of the Federal Energy Regulatory Commission
+
+
+     Katharine M. Mapes argued the cause for petitioner. With
+her on the briefs were William S. Huang and Jeffrey M. Bayne.
+
+     Scott Ray Ediger, Attorney, Federal Energy Regulatory
+Commission, argued the cause for respondent. With him on
+the brief were Matthew R. Christiansen, General Counsel, and
+Robert H. Solomon, Solicitor.
+                               3
+     Alexandra J. Ward argued the cause for intervenor Pacific
+Gas and Electric Company in support of respondent. With her
+on the brief were Joshua S. Levenberg, Laura Edelstein, Steven
+J. Ross, and Shaun M. Boedicker. Alyssa T. Koo entered an
+appearance.
+
+    Before: SRINIVASAN, Chief Judge, ROGERS and TATEL,
+Circuit Judges.
+
+    Opinion for the Court by Circuit Judge ROGERS.
+
+      ROGERS, Circuit Judge: San Francisco petitions for review
+of orders by the Federal Energy Regulatory Commission
+denying its complaints and requests for rehearing regarding its
+delivery of electricity to end users. San Francisco purchases
+distribution services from the Pacific Gas & Electric Company
+(“PG&E”) under the terms of its open-access Tariff. It
+challenged PG&E’s refusal to: (1) offer secondary-voltage
+service in lieu of more burdensome primary-voltage service to
+certain San Francisco sites and (2) provide service to delivery
+points that San Francisco maintains are eligible for service
+under the Tariff’s grandfathering provision. San Francisco
+contends that the Commission erred both when it found that
+PG&E’s denial of secondary-voltage service was consistent
+with Tariff requirements and the Federal Power Act, and when
+it interpreted the Tariff’s grandfathering provision narrowly to
+allow PG&E’s interpretation. For the following reasons, the
+court grants San Francisco’s petitions.
+
+                               I.
+
+     Electricity flows from generators to end users in two
+stages: transmission and distribution. Transmission lines
+transport bulk power from generators across long distances.
+That power is reduced to a lower voltage by a transformer and
+                               4
+flows to consumers through distribution lines. U.S. Dep’t of
+Energy, United States Electricity Primer, DOE/OE-0017, at
+13, 21 (July 2015). Distribution lines operate at higher
+(primary) and lower (secondary) voltages. Because consumers
+typically cannot use electricity at primary voltages, consumers
+that receive primary-voltage service require a transformer to
+reduce the electricity’s voltage in addition to primary metering
+and other equipment. Therefore, primary-voltage service
+involves relatively high fixed costs, but is cheaper per unit of
+electricity provided. By contrast, secondary-voltage service
+has lower fixed costs but higher unit costs. See Complaint (No.
+20-1313), Decl. of Rod Maslowski, Senior Consultant with
+Flynn Resource Consultants, ¶¶ 7-8.
+
+     San Francisco’s publicly owned utility, the San Francisco
+Public Utilities Commission, owns a power supply system in
+the Hetch Hetchy Valley and transmission lines that transmit
+power to San Francisco. Id. at 5-6. San Francisco sells Hetch
+Hetchy power directly to the end-users in the city. It obtained
+the property rights to develop the Hetch Hetchy System under
+the Raker Act of 1913, Pub. L. No. 63-41, 38 Stat. 242 (1913).
+There, “Congress was motivated by a desire to provide the
+people of San Francisco with the advantages of cheap power
+and City competition with private power companies such as
+Pacific Gas and Electric.” City & Cnty. of San Francisco v.
+United Airlines, 616 F.2d 1063, 1068 (9th Cir. 1979).
+
+     San Francisco does not own distribution lines, however,
+and relies on PG&E’s distribution system to serve its end-users.
+Complaint (No. 20-1313) at 2. It prefers to receive secondary
+voltage from PG&E’s distribution system because electricity
+from PG&E is delivered to over 2,200 metered interconnection
+points, most of which serve a single building. Id. at 3,
+Maslowski Decl. ¶ 6. Because a relatively small amount of
+electricity is required at many points, San Francisco prefers to
+                              5
+avoid the high fixed costs of receiving primary-voltage service
+at each point. Id. at 17. And because PG&E’s retail service
+area covers the city, the San Francisco Commission is both a
+customer and competitor of PG&E.
+
+     From 1945 to 2015, San Francisco purchased wholesale
+distribution service from PG&E under a series of bilateral
+agreements, the most recent of which was signed in 1987.
+While San Francisco was receiving service pursuant to the
+1987 agreement, the Federal Energy Regulatory Commission
+(the “Commission”) approved PG&E’s Tariff, which stated the
+generally applicable terms for “open-access” wholesale
+distribution service. Pac. Gas & Elec. Co., Wholesale
+Distribution Tariff, FERC Electric Tariff Volume No. 4,
+Docket Nos. EL15-3-002, et al., Ex. PGE-7.
+
+                              II.
+
+    San Francisco’s complaint in No. 20-1313 concerns
+PG&E’s refusal to provide secondary-voltage distribution
+service at certain interconnection points.
+
+                              A.
+
+     In 2015, San Francisco entered a new contract with PG&E
+for service under its open-access Tariff. Complaint at 2. Under
+their previous agreement, 96% of its end-users were connected
+to PG&E’s distribution system at secondary voltage. Id.,
+Maslowski Decl. ¶ 6. PG&E allows retail customers to receive
+secondary voltage if their demand is below 3,000 kW.
+Complaint, Maslowski Decl. ¶ 7. PG&E currently provides
+secondary-voltage service to the Western Area Power
+Administration (“Western”) and the Power and Water
+Resources Pooling Authority (“Pooling Authority”) for
+demands as high as 428 kilowatts (“kW”) for Western and
+                               6
+1,296 kW for the Pooling Authority. Request for Rehearing at
+16-17.
+
+     On January 28, 2019, San Francisco filed a complaint with
+the Commission pursuant to Sections 206, 306, and 309 of the
+Federal Power Act (“FPA”), 16 U.S.C. §§ 824e, 825e, 825h.
+San Francisco alleged that PG&E has “consistently” refused to
+make new interconnections at secondary voltage unless the
+total electricity demand is less than 75 kW. Complaint at 10.
+This practice, it claimed, (1) was unjust, unreasonable, and
+unduly discriminatory, and (2) violated the terms of the
+Wholesale Distribution Tariff. Id. at 1. Further, it alleged that
+PG&E had categorically denied San Francisco’s applications
+for secondary-voltage service for demands above 75 kW while
+granting secondary-voltage service for much larger demands
+for its own retail customers and other wholesale customers
+such as Western. Id. at 3, 21, Maslowski Decl. ¶ 27. PG&E’s
+denials of secondary-voltage service, allegedly, “have imposed
+undue burdens and costs on San Francisco,” including
+“delays.” Id. at 31-32. Yet PG&E’s Tariff required it to offer
+secondary service whenever requested, and to expand its
+infrastructure when such service was initially infeasible. Id. at
+23-27. San Francisco also objected to PG&E’s refusal to
+provide “primary plus” service in the alternative, where San
+Francisco would receive secondary voltage while paying
+PG&E for maintaining the facilities necessary to provide
+secondary voltage. Id. at 16, Maslowski Decl. ¶ 9.
+
+     PG&E acknowledged that its Tariff provides for two levels
+of service but maintained that it had not given customers the
+right to dictate the level of service to be received. Answer to
+Complaint at 5-6. It also denied that it had a categorical 75 kW
+threshold for secondary-voltage applications, noting that most
+of San Francisco’s new interconnections were at secondary
+voltage, including many above 75 kW, and that it had regularly
+                               7
+granted variances to San Francisco. Id. at 7-15. Any denials
+of secondary-voltage service, it asserted were supported by
+“technical, safety, reliability, and operational reasons.” Id. at
+15. Further, PG&E claimed that San Francisco was to blame
+for many of the delays in service, id. at 23, and that Western’s
+secondary-voltage service was governed by a settlement
+agreement to which San Francisco is not a party, id. at 28-29.
+
+     Evidence before the Commission showed that since 2015,
+many of San Francisco’s new interconnection requests
+exceeding 75 kW have been denied secondary service by
+PG&E, and that the proportion of new interconnections above
+75 kW receiving primary service has increased since 2015. See
+id. at 11 (chart 3). Specifically, PG&E had stated that “if the
+requested [demand] exceeds 75 kW, PG&E informs [San
+Francisco] that it will need to take primary service.” Id. at 30.
+In some instances, San Francisco was initially denied
+secondary-voltage service, but negotiated for secondary
+voltage or a “secondary metering” arrangement, reducing its
+costs of receiving primary voltage. Complaint at 13-14; Decl.
+of Barbara Hale, Asst. Gen. Mgr., San Francisco Public
+Utilities Commission, ¶¶ 9-11. In July 2019, PG&E advised
+San Francisco that it “is not willing to make additional
+accommodations without a long-term solution.” Letter from
+Yilma Hailemichael, PG&E Mgr., to Ramon Abueg, Dep. Mgr.
+Operations at San Francisco Pub. Utils. Comm’n, at 3 (July 1,
+2019) (hereinafter, the July 1, 2019 Letter).
+
+     The Commission denied San Francisco’s complaint, ruling
+that PG&E should retain discretion to determine what level of
+service is most appropriate for a customer because the provider
+“is ultimately responsible for the safety and reliability of its
+distribution system.” Order, 171 FERC ¶ 61,021 at P 38
+(2020). It found that San Francisco received secondary service
+for the “majority of its interconnections with PG&E,” id. P 36,
+                              8
+as well as variances for other interconnections. Id. P 37.
+Noting that “primary service is the norm for utility-to-utility
+interconnections,” id., the Commission distinguished the
+service provided to retail customers and wholesale customers
+whose service was governed by a settlement agreement. Id. PP
+37-38, 42. In its view, San Francisco was to blame for delays,
+which were “largely a consequence of requesting
+interconnection for projects with [demands] greater than what
+PG&E has normally accepted for secondary service” and “San
+Francisco’s own delays in responding to PG&E.” Id. PP 39-
+40. The Commission denied San Francisco’s request for
+rehearing. Order Addressing Arguments Raised on Rehearing,
+172 FERC ¶ 61,021 (2020) (Rehearing Order).
+
+   San Francisco petitions for review of the Order and
+Rehearing Order (collectively, the “Voltage Orders”).
+
+                              B.
+
+     San Francisco contends in petitioning for review that (1)
+the Commission’s Voltage Orders were arbitrary and
+capricious in deeming PG&E’s secondary-service practice just
+and reasonable, (2) the Commission failed to meet its mandate
+under the FPA to prevent undue discrimination, and (3) the
+Voltage Orders are inconsistent with PG&E’s Tariff and the
+filed-rate doctrine.
+
+                              1.
+
+    As a threshold matter, PG&E maintains that San
+Francisco’s first and second challenges are moot in light of
+PG&E’s proposal of a revised tariff that offers only primary
+service. Thus, ruling in San Francisco’s favor on either of the
+two issues would have no remedial effect, it claims, because
+PG&E “no longer has discretion . . . to allow secondary voltage
+                              9
+interconnections.” PG&E Br. 15. PG&E concedes that San
+Francisco’s claim that PG&E violated its original tariff is not
+moot because retrospective relief is still available. PG&E Br.
+19. PG&E’s mootness argument is unpersuasive given the
+provisional nature of the proposed tariff revision.
+
+      A “case is moot if the dispute is no longer embedded in
+any actual controversy about the plaintiffs’ particular legal
+rights.” Already, LLC v. Nike, Inc., 568 U.S. 85, 91 (2013)
+(internal quotation marks omitted). San Francisco petitioned
+for review of the Order denying its complaint on August 17,
+2020. On September 15, 2020, PG&E filed proposed tariff
+changes, which the Commission accepted on November 13,
+2020, while expressing no view on whether the revised tariff
+was just, reasonable, and nondiscriminatory. Pac. Gas & Elec.
+Co., 173 FERC ¶ 61,140 at P 42 (2020). The Commission
+suspended the proposed revisions for five months, to be
+effective April 15, 2021, and ordered an evidentiary hearing on
+its legality. Id. The hearing was held in abeyance to encourage
+settlement discussions, which, as of November 23, 2021, are
+ongoing. Status Report of Settlement Judge, FERC Docket No.
+ER20-2878 (Nov. 23, 2021).
+
+     The Commission’s “[a]cceptance of a filing decides
+nothing concerning the merits of a case; it merely reserves the
+issues pending a hearing.” Papago Tribal Util. Auth. v. FERC,
+628 F.2d 235, 240 (D.C. Cir. 1980). There, the court held that
+the Commission’s refusal to reject a rate filing was an
+interlocutory decision that was not final, reviewable agency
+action. Id. Under PG&E’s logic, a utility could moot any
+challenge to its conduct by filing a revised tariff with the
+Commission that would require that conduct. Because the
+Commission has not ruled on the legality of the revised tariff,
+and because San Francisco also seeks retrospective relief, its
+claims are not moot.
+                               10
+
+                               2.
+
+     Turning to the merits, San Francisco contends that the
+Commission did not identify any “safety or reliability risks”
+that would arise from providing secondary-voltage service to
+San Francisco. SF Br. 28. Rather, it maintains that the
+Commission “offers only vague conclusory statements about
+PG&E’s general need to assure safety and reliability,” which
+are not grounds on which the Voltage Orders can be upheld.
+Id. at 29.
+
+     The court reviews the Commission’s orders under the
+arbitrary and capricious standard. See, e.g., Emera Me. v.
+FERC, 854 F.3d 9, 21 (D.C. Cir. 2017). A court “must uphold
+a rule if the agency has ‘examine[d] the relevant
+[considerations] and articulate[d] a satisfactory explanation for
+its action[,] including a rational connection between the facts
+found and the choice made.” FERC v. Elec. Power Supply
+Ass’n, 577 U.S. 260, 292 (2016) (quoting Motor Vehicle Mfrs.
+Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S.
+29, 43 (1983)).
+
+     PG&E identified two concerns in its Answer to the
+Complaint. First, the request for secondary-voltage service
+might be too far from the necessary infrastructure. Answer to
+Complaint at 6. Second, secondary-voltage equipment lacks
+unique operating numbers, making it more difficult to service.
+Id. at 16. The Commission’s Voltage Orders, however, do not
+reference any specific risks to safety or reliability with respect
+to San Francisco’s requests. The Commission concluded only
+that PG&E is “ultimately responsible for the safety and
+reliability of its distribution system” and should have
+“discretion to determine what level of service is both
+appropriate and available based upon the status and
+                                11
+configuration of its . . . facilities and the nature and location of
+the interconnection request.” Order P 38. For support, the
+Commission cites page 6 of PG&E’s Answer without
+explanation. Id. P 38 n.82.
+
+     The Commission’s “passing reference to relevant factors,”
+such as safety and reliability, “is not sufficient to satisfy the
+Commission’s obligation to carry out ‘reasoned’ and
+‘principled’ decisionmaking.” Mo. Pub. Serv. Comm’n v.
+FERC, 234 F.3d 36, 41 (D.C. Cir. 2000). That is so when the
+Commission refers only generally to safety and reliability
+without explaining what the risks are, much less examining
+PG&E’s claims. A declaration by PG&E engineer Michael
+Thibault stated that “interconnection at the secondary voltage
+level between utilities is not at all typical and . . . is not ‘Good
+Utility Practice,’” and that “secondary interconnections
+between utilities create ambiguity and operational and
+engineering challenges.” Order P 37 n.79 (citing Answer to
+Complaint, Thibault Decl. ¶¶ 11-12). Although this suggests
+that providing secondary service to a utility may present
+challenges for PG&E, the declaration does not concretely
+describe the challenges with respect to San Francisco’s
+requests for secondary service.
+
+     Further, the Commission’s conclusion that PG&E should
+have discretion to determine which voltage level is most
+appropriate is belied by the record to the extent PG&E would
+apply a categorical rule. The July 1, 2019 Letter hardly
+indicates that PG&E intends to evaluate San Francisco’s
+applications on a case-by-case basis. See July 1, 2019 Letter at
+3. Although the Commission viewed PG&E’s statement to be
+“primarily in reference to specific projects” and that San
+Francisco’s concerns about being denied accommodations
+were “speculative,” Order P 40 n.90, the Commission cited no
+portion of the Letter that limits its relevance to specific projects
+                                12
+and provided no reason that a “long-term solution” is possible
+or probable.
+
+      San Francisco also contends that the Commission was
+arbitrary and capricious in concluding that PG&E may deny
+secondary-voltage service to San Francisco because the
+industry norm for utility-to-utility interconnections is primary
+voltage. Here, it contends that the Commission failed to
+address the fact that San Francisco interconnects to PG&E at
+numerous small points of interconnection, rather than a few
+large points as is typical for a utility-to-utility interconnection.
+Reply to Answer at 15-16; Request for Rehearing at 30-31.
+Neither of the Voltage Orders explain why deference to
+industry norms is reasonable in light of San Francisco’s
+geographical configuration, which differs from that of other
+utilities. See Request for Rehearing at 30-31. Rather, the
+Commission applied the industry norm with no explanation
+beyond stating that such norms “inform expectations.”
+Rehearing Order P 9 n.23. Maybe so. But the Commission
+does not explain why San Francisco should have expected to
+be bound by an industry norm involving much higher demands
+than it has historically required, or why its expectations are a
+valid basis for PG&E’s denials of its requests. Again, the
+Commission’s passing reference to “ambiguity and operational
+or engineering challenges” arising from secondary
+interconnections between utilities without further elaboration,
+does not provide sufficient justification for its conclusion.
+Order P 37 n.79 (citing Answer to Complaint, Thibault Decl.
+¶¶ 11-12). Consequently, the Voltage Orders do not satisfy
+arbitrary-and-capricious review. See State Farm, 463 U.S. at
+43.
+                                13
+                                3.
+
+     Additionally, San Francisco contends that the Commission
+failed to meet its mandate to prevent undue discrimination,
+because PG&E offers secondary service to two wholesale
+customers, Western and the Pooling Authority, at higher
+voltages than 75 kW, and to retail customers at voltages up to
+3,000 kW. When faced with a claim of undue discrimination,
+the Commission “must reasonably explain how the existing
+suppliers and new entrants are not similarly situated and in
+what respects the reasons are material.” New Eng. Power
+Generators Ass’n v. FERC, 881 F.3d 202, 213 (D.C. Cir. 2018)
+(citing Edison Mission Energy, Inc. v. FERC, 394 F.3d 964,
+968-69 (D.C. Cir. 2005)).
+
+     The Commission has adequately explained why San
+Francisco is not similarly situated to Western and the Pooling
+Authority, noting that both of them receive secondary service
+under settlement agreements with PG&E, and that the Pooling
+Authority is not eligible for Tariff service. Order P 37 & n.79.
+Western’s settlement “reflects a bargained-for agreement
+between PG&E & Western,” and San Francisco has not shown
+that it and its customers are similarly situated to Western and
+its customers. Id. P 42. But the Commission’s response to San
+Francisco’s claims regarding retail customers was inadequate.
+On the other hand, the Commission views “a retail-level
+standard . . . [a]s not necessarily congruent with the
+requirements of interconnecting wholesale customers such as
+San Francisco,” id. P 38, and that San Francisco’s “mere
+assertion of [the retail standard’s] relevance is not sufficient to
+satisfy San Francisco’s section 206 burden of proof,”
+Rehearing Order P 13. Beyond asserting “relevance,” San
+Francisco cited instances when its customers began retail
+service with PG&E during San Francisco’s wholesale service
+negotiations with PG&E. See Complaint, Hale Decl. ¶¶ 25-30.
+                               14
+The Commission accepted PG&E’s explanation that these San
+Francisco customers only took temporary retail construction
+power service from PG&E, Order P 40, but this fact confirms
+that PG&E can compete with San Francisco through its retail
+offerings. The Commission’s conclusion that retail service is
+“not necessarily congruent” does not meet its burden of
+reasoned decision-making.
+
+                               4.
+
+     San Francisco further contends that the Voltage Orders are
+inconsistent with the terms of PG&E’s Tariff, which it
+interprets to require PG&E to provide secondary-voltage
+service whenever requested, and that PG&E’s contrary practice
+violates the filed-rate doctrine. The filed rate objection is more
+problematic.
+
+                               a.
+
+     When San Francisco filed its petition, PG&E’s Tariff
+stated that PG&E will “provide Distribution Service pursuant
+to the applicable terms and conditions contained in this Tariff
+and Service Agreement.” Tariff § 1.2. After receiving an
+application for service, PG&E must “make a determination of
+available distribution capacity.” Tariff § 15.5. Section 13.4 of
+the Tariff stated:
+
+               If the Distribution Provider determines that it
+               cannot accommodate a Completed Application
+               for Distribution Service because of insufficient
+               capability on its Transmission System or
+               Distribution Facilities, the Distribution Provider
+               will use due diligence to expand or modify its
+               Distribution System to provide the requested
+               Distribution Service, provided the Distribution
+                                15
+                Customer agrees to compensate the Distribution
+                Provider for such costs . . . .
+
+San Francisco thus alleged that because the Tariff defines
+“Distribution System” to include the secondary distribution
+system, Complaint at 23 (citing Tariff § 11), PG&E must
+expand its secondary distribution system to meet any customer
+request for secondary-voltage service, pursuant to Tariff
+Section 13.4.
+
+       The Commission concluded that “[w]hile the [Tariff] does
+not preclude a [Tariff] customer from requesting the level of
+service that it wishes to take,” PG&E should retain “discretion
+to determine what level of service is both appropriate and
+available based upon the status and configuration of its existing
+. . . facilities and the nature and location of the interconnection
+request.” Order P 38. As a result, “PG&E has not violated the
+terms of the [Tariff].” Id. P 35. The court has long held that
+the Commission’s interpretation of a tariff receives “Chevron-
+like deference.” Consol. Edison Co. of New York v. FERC, 347
+F.3d 964, 972 (D.C. Cir. 2003) (internal citations omitted). If
+the terms of the tariff are unambiguous, the court need not defer
+to the Commission’s interpretation. If the text is ambiguous,
+there the court must defer if the Commission’s interpretation is
+reasonable. Id. The Tariff then in effect unambiguously
+confirms the Commission’s interpretation. Although PG&E
+must use due diligence to adjust its system to provide the
+“requested Distribution Service,” Tariff § 13.4, “Distribution
+Service” is defined as “[t]he transporting of electric power over
+and through various PG&E facilities for delivery to a
+Distribution Customer.” Tariff § 2.15. The fact that PG&E
+must provide wholesale distribution service when requested
+does not necessarily imply that it is required to provide the
+voltage San Francisco requests.
+                               16
+                               b.
+
+     On the other hand, San Francisco correctly notes that
+PG&E’s practice of requiring primary-voltage service for
+demands above 75 kW is not stated in its Tariff and therefore
+may violate the filed-rate doctrine. Under that doctrine,
+“utilities are forbidden to charge any rate other than the one on
+file with the Commission,” West Deptford Energy LLC v.
+FERC, 766 F.3d 10, 12 (D.C. Cir. 2014), a prohibition that is
+understood to extend to other utility practices that affect rates
+and service. See Keyspan-Ravenswood, LLC v. FERC, 474
+F.3d 804, 811 (D.C. Cir. 2007). The “rule of reason” requires
+“utilities [to] file ‘only those practices that affect rates and
+service significantly, that are realistically susceptible of
+specification, and that are not so generally understood in any
+contractual arrangement as to render recitation superfluous.’”
+Id. (quoting City of Cleveland v. FERC, 773 F.2d 1368, 1376
+(D.C. Cir. 1985)). Contrary to PG&E’s view, San Francisco did
+not waive this argument but, in fact, raised it in requesting
+rehearing. See Request for Rehearing at 11-12; see also Reply
+to Answer at 8-9. But see PG&E Br. 25 (citing 16 U.S.C. §
+825l(b); Allegheny Power v. FERC, 437 F.3d 1215, 1220 (D.C.
+Cir. 2006)).
+
+     On rehearing, the Commission stated that the 75 kW
+threshold is merely a “guidepost,” Rehearing Order P 10, while
+reaffirming its position that PG&E makes case-by-case
+determinations of which voltage to provide, Order P 43 & n.96.
+Yet, as noted, the record suggests that PG&E intends to apply
+a categorical rule going forward. July 1, 2019 Letter at 3;
+Answer to Complaint at 30. Even if the 75 kW threshold is a
+guidepost, however, that kind of numerical threshold is the type
+of requirement that the “rule of reason” requires be stated in the
+Tariff, as a numerical threshold is “realistically susceptible of
+specification,” Keyspan-Ravenswood, 474 F.3d at 811.
+                               17
+PG&E’s policy significantly “affect[s] rates and service”
+because it affects which voltage level San Francisco may
+receive, and different voltages have different rates. Id. It also
+cannot be “so generally understood . . . as to render recitation
+superfluous,” given PG&E’s secondary-voltage connections
+for demands above 75 kW and its provision of secondary-
+voltage service to San Francisco prior to the 2015 transition to
+Tariff service. Id. Although primary voltage may be the
+industry norm for utility-to-utility interconnections, and PG&E
+should have discretion to provide secondary voltage on a case-
+by-case basis, see Order P 43, the Commission does not explain
+why these factors exempt the guidepost from specification in
+the Tariff under the “rule of reason.”
+
+    Because the Commission did not adequately explain any
+operational or engineering rationale justifying PG&E’s 75 kW
+“guidepost” and did not explain why that guidepost did not
+need to be in the filed tariff, the court vacates the Voltage
+Orders and remands the case to the Commission for further
+proceedings consistent with this opinion.
+
+                              III.
+
+    San Francisco’s complaint in No. 20-1084 concerns the
+proper interpretation of a section of PG&E’s Tariff on
+grandfathering.
+
+                               A.
+
+      Section 14.2 requires customers to demonstrate “bona fide
+ownership or control of . . . Intervening Distribution Facilities
+. . . except in the case where an Eligible Customer meets the
+criteria for grandfathering in 16 USC § 824k(h)(2) [Section
+212(h)(2) of the FPA]” (emphasis added). This section was
+added as the result of a 2015 Commission-approved settlement
+                             18
+between PG&E and its Tariff customers. Offer of Settlement,
+FERC Docket No. ER13-1188-037, eLibrary No. 20150331-
+5502 (Mar. 31, 2015). Although PG&E and San Francisco
+agree that PG&E is bound by Section 212(h)(2) of the FPA, 16
+U.S.C. § 824k(h)(2), they disagree about its scope.
+
+     On October 9, 2014, San Francisco filed a complaint with
+the Commission alleging, among other claims, that PG&E was
+improperly denying Tariff service to some of San Francisco’s
+delivery points. San Francisco argued that PG&E was required
+to serve any San Francisco customer served in 1992, regardless
+of whether the customer stayed at the same location.
+Complaint at 18-20. PG&E responded that it would serve any
+of San Francisco’s locations that it had served in 1992 but
+would not serve delivery points of 1992 customers that had
+relocated or opened new locations. Answer to Complaint at
+35-36 .
+
+    FPA Section 212(h) provides:
+
+              No order issued under this chapter shall be
+              conditioned upon or require the transmission of
+              electric energy:
+
+              (1) directly to an ultimate consumer, or
+
+              (2) to, or for the benefit of, an entity if such
+              electric energy would be sold by such entity
+              directly to an ultimate consumer, unless:
+
+              (A) such entity is a . . . State or any political
+              subdivision of a State (or an agency, authority,
+              or instrumentality of a State or a political
+              subdivision) . . . [listing other categories]; and
+                               19
+               (B) such entity was providing electric service to
+               such ultimate consumer on October 24, 1992, or
+               would utilize transmission or distribution
+               facilities that it owns or controls to deliver all
+               such electric energy to such electric consumer.
+               (emphasis added)
+
+     On December 23, 2014, PG&E filed with the Commission
+a proposed replacement agreement under which PG&E would
+provide Tariff service to any San Francisco delivery point that
+received service in 1992. Proposed Service Agreement, App.
+C. So any delivery point that did not receive service in 1992
+but did receive service in 2015 (when the bilateral agreement
+would expire) would receive what PG&E calls Tariff-
+equivalent service, if the delivery point was a “municipal load,”
+id., App. D. PG&E defined “municipal load” as:
+
+              “Municipal Public Purpose End-Use Customers”
+              (“Muni Load”) are served at metered Points of
+              Delivery providing power to [San Francisco’s]
+              governmental departments and agencies, public
+              housing tenants, municipal transportation system,
+              police stations, fire departments, public schools,
+              city parks and public libraries.             Non-
+              governmental private persons (other than [San
+              Francisco] public housing tenants) and non-
+              governmental private corporations are not
+              Municipal Public Purpose End-Use Customers.
+              Small Unmetered Street Loads served under
+              Appendix E [such as streetlights or traffic
+              signals] are not Municipal Public Purpose End-
+              Use Customers.
+
+Id., App. D § D.1.1. Non-municipal loads served in 2015 but
+not in 1992 would receive Tariff-equivalent service if the
+                              20
+delivery point continues to serve the same end-use customer as
+in 2015 and the electricity demand does not exceed 125 percent
+of the customer’s average annual demand on June 30, 2015.
+Id., App. D §§ D.1.2, D.2.
+
+     An Administrative Law Judge interpreted FPA
+Section 212(h)(2)(B) in light of the Commission’s decision in
+Suffolk County Electric Agency, 96 FERC ¶ 61,349, at 62,301
+(Nov. 15, 2001). There, the Commission concluded that
+Section 212(h) grandfathered the “class of customers eligible
+to receive service.” Id. The ALJ determined that “the
+Commission’s orders and opinions . . . support San Francisco’s
+argument that grandfathering applies to the class of customers
+that was eligible to receive wholesale distribution service on
+October 24, 1992, regardless of where in the City those
+customers may be located now or in the future.” Initial
+Decision P 135 (internal citations omitted). Therefore, the ALJ
+defined the “class” of customers as all “municipal public
+purpose load[s].” Id. P 142. He also concluded that he was
+“without authority” to define a “municipal public purpose” for
+the Commission. Id. P 146.
+
+     In Opinion No. 568, the Commission reversed. 169 FERC
+¶ 61,128 at P 67 (Nov. 21, 2019). Distinguishing its FPA
+Section 212(h) precedent as involving proceedings seeking an
+order of mandatory service under FPA §§ 210 and 211, the
+Commission noted that San Francisco filed its complaint under
+§ 206 and PG&E filed its proposed replacement agreements
+under § 205, id. P 67 n.154. Further, the Commission stated
+that it was not “interpreting the scope of section 212(h),” but
+instead only interpreting PG&E’s Tariff. Id. Noting that other
+provisions of the Tariff referenced “points of delivery,” the
+Commission viewed the “points of delivery framework” to
+favor PG&E’s interpretation of Section 14.2. Id. PP 69-70. By
+contrast, in the Commission’s view, San Francisco’s
+                                21
+interpretation “would automatically grandfather all San
+Francisco customers, thereby negating the point of delivery
+framework.” Id. P 69. The Commission also accepted PG&E’s
+definition of “municipal load” as “effectively distinguish[ing]
+between what is to be considered municipal load . . . and what
+is not.” Id. P 72. In denying San Francisco’s petition for
+rehearing, the Commission offered a clarification, stating that
+PG&E’s interpretation of the Tariff was consistent with Suffolk
+County’s “class-based approach” because PG&E was still
+providing service to the “class of customer [San Francisco] was
+appropriately serving as of October 24, 1992,” but “only for the
+universe of delivery points as they existed on June 30, 2015.”
+Rehearing Order, 171 FERC ¶ 61,196 at P 28 (June 4, 2020).
+
+     San Francisco petitions for review of Opinion No. 568 and
+the Rehearing Order (collectively, the “Grandfathering
+Orders”). The Court accords the Commission’s interpretation
+of filed tariffs Chevron-like deference. See supra Subsection
+II.B.4.a. Although the Court will defer to the Commission’s
+interpretation of its own precedent, the Commission must
+acknowledge that it is departing from its precedent and provide
+a reasoned explanation indicating that prior policies and
+standards are being deliberately changed, not casually ignored.
+ESI Energy, LLC v. FERC, 892 F.3d 321, 329 (D.C. Cir. 2018).
+
+                                A.
+
+    Section 14.2 of the Tariff provides, by its plain terms, an
+exception to the required ownership or control of intervening
+Distribution facilities for customers that “meet[] the criteria for
+grandfathering in 16 USC § 824k(h)(2).”                 The text
+unambiguously indicates that the Tariff incorporates the
+requirements of FPA Section 212(h)(2). The parties had agreed
+in a Joint Brief to the Commission that they “referenced
+Section 212(h) of the FPA to define the requirements and
+                               22
+boundaries of eligibility for service under PG&E’s [Tariff],”
+and that “[t]he intent of [that reference] in the [Tariff] as it
+pertains to grandfathering was to ensure that the Commission’s
+interpretation of the statute was incorporated into the [Tariff’s]
+eligibility rules.” Joint Brief at 2-3 (Sept. 24, 2018). The
+Commission, however, expressly disclaimed that it was
+“interpreting the scope of [Section] 212(h) or the precedent
+thereunder beyond the salient point that they are not applicable
+in this [Section 206] proceeding.” Opinion No. 568 P 67 n.154.
+Because the Commission based its decision in Opinion No. 568
+on requirements other than those in Section 212(h), the court
+owes no deference to its interpretation of unambiguous Tariff
+text.
+
+     The Commission’s attempts to defend its interpretation are
+unpersuasive. First, the Commission states that “the [Tariff]
+frames [PG&E’s] distribution service in terms of delivery
+points,” and that service should therefore be grandfathered on
+a location-by-location basis. Opinion No. 568 P 70 & n.160.
+Tariff Section 14.2 itself requires applicants to prove that the
+criteria of FPA Section 212(h)(2) are met “for each Point of
+Delivery,” and Tariff Section 15.5.1 states that a distribution
+provider may reject service on the ground that “it disputes that
+the Point of Delivery qualifies.” That the Tariff references
+“points of delivery” does not necessarily imply that only
+specific points of delivery may be grandfathered, and those
+references to “points of delivery” do not change the fact that
+the Tariff expressly references the criteria of Section 212(h)(2).
+
+     Second, the Commission views PG&E’s narrow
+interpretation of Section 212(h)(2) to employ the class-based
+approach used by the Commission in Suffolk County because it
+effectively grandfathers “each delivery point it was serving (as
+of June 30, 2015), as long as the customer at that delivery point
+is a member of the class of customer [San Francisco] was
+                              23
+appropriately serving as of October 24, 1992.” Rehearing
+Order P 28 (quoting PG&E Brief on Exceptions at 13-14). This
+is true in the sense that PG&E has proposed to provide Tariff
+service or Tariff-equivalent service to all municipal loads it
+served in 2015. But this is not the same as ruling those loads
+are Tariff-eligible. PG&E’s voluntary accommodations for the
+excluded delivery points do not justify the Commission’s
+interpretation of the Tariff, and the Commission acknowledged
+that applying Suffolk County supports San Francisco’s
+approach. Opinion No. 568 P 69.
+
+     Third, the Commission viewed San Francisco’s
+interpretation of the grandfathering exception to render Section
+14.2 meaningless, “because all customers within the class of
+customers taking service on October 24, 1992 would be
+grandfathered in perpetuity.” Rehearing Order P 24. Not so.
+Under San Francisco’s interpretation, PG&E’s customers must
+satisfy the criteria of Section 212(h)(2) to qualify for
+grandfathering: be an eligible entity that served end-use
+customers as of October 24, 1992. Any end-use customers San
+Francisco did not serve in 1992 could not qualify for the
+Section 14.2 exception.
+
+     Fourth, as PG&E notes, the court will generally defer to
+the Commission’s interpretation of its own precedent. But not
+when the Commission “depart[s] from those rulings without
+provid[ing] a reasoned analysis indicating that prior policies
+and standards are being deliberately changed, not casually
+ignored.” ESI Energy, 892 F.3d at 329 (internal quotation
+marks and citation omitted). The Commission attempts to
+distinguish its precedent on the ground that San Francisco filed
+its complaint under FPA § 206 while the cases in Suffolk
+County concerned proceedings for mandatory interconnection
+under FPA §§ 210 and 211. Opinion No. 568 P 67 n.154. Here,
+however, the Commission expressly declined to interpret
+                                24
+Section 212(h), ignoring the unambiguous terms of the Tariff.
+Id. Even interpreting the Grandfathering Orders to create
+different interpretations of Section 212(h) for § 210 and 211
+proceedings and another for § 205 and 206 proceedings, the
+Commission failed to explain why Section 212(h)(2)’s criteria
+would have different meanings in those contexts.
+
+                                B.
+
+     San Francisco also contends that the Commission was
+arbitrary and capricious in accepting PG&E’s definition of
+“municipal load” because it excludes from grandfathering
+certain customers that were receiving service in 1992. Under
+the Commission’s Section 212(h) precedent, the Tariff’s
+grandfathering clause covers “the class of customers eligible to
+receive service” on October 24, 1992. Suffolk County, 96
+FERC ¶ 61,349, at 62,301 (2001). That is, the Tariff allows
+grandfathering of a customer San Francisco served under the
+prior interconnection agreement even though that customer
+seeks Tariff service at a new delivery point. Therefore, the
+court must address whether the Commission’s definition of
+“municipal load” excludes customers San Francisco served
+prior to the grandfathering date.
+
+     As noted, the Commission accepted PG&E’s definition
+because it “effectively distinguishes between what is to be
+considered municipal load . . . and what is not,” and that
+although PG&E’s definition of “municipal load” differed from
+the definition in San Francisco and PG&E’s 1987 bilateral
+agreement, “a new contract may well have new terms and
+definitions.” Opinion No. 568 P 72; see Rehearing Order PP
+33-34. True, but the Commission’s analysis of “municipal
+load,” like its interpretation of Section 14.2 of the Tariff, failed
+to address the grandfathering criteria of Section 212(h)(2),
+much less the Commission’s precedent interpreting it. The
+                               25
+Commission acknowledged that Suffolk County would require
+grandfathering of a customer San Francisco served under the
+prior interconnection agreement in 1992 even though that
+customer seeks Tariff service at a new delivery point. Opinion
+No. 568 P 69. And the Commission expressly accepted
+PG&E’s definition to “describe the class of customers that San
+Francisco was serving as of October 24, 1992.” Rehearing
+Order P. 18. Yet PG&E’s definition would exclude entities
+served in 1992, including private parking garages on City
+property, tenants at San Francisco International Airport, and
+SOMArts, a neighborhood arts program partially funded by the
+San Francisco Arts Commission. See Ex. SF-2 at 14, 15; Ex.
+SF-6 at 7-11; Ex. PGE-5 at 10. Because the Commission’s
+Grandfathering Orders do not acknowledge the conflicts
+between PG&E’s definition of “municipal load” and its own
+precedent interpreting Section 212(h)(2) criteria, the
+Grandfathering Orders are arbitrary and capricious.
+
+     Finally, the court notes that the orders on review present a
+troubling pattern of inattentiveness to potential anti-
+competitive effects of PG&E’s administration of its open-
+access Tariff. More than a century ago, Congress authorized
+the Hetch Hetchy System not only to provide San Francisco
+with a source of cheap power but also to ensure competition in
+its retail power market. Faced with claims that PG&E was
+frustrating that competition by treating its own retail service
+preferentially and refusing service for customers San Francisco
+had served for decades, the Commission fell short of meeting
+its “duty” to ensure that rules or practices affecting wholesale
+rates are “just and reasonable.” Elec. Power Supply Ass’n, 577
+U.S. at 277.
+
+    Accordingly, the court grants San Francisco’s petitions
+challenging the Voltage Orders in No. 20-1313 and the
+Grandfathering Orders in No. 20-1084, vacates those orders,
+                         26
+and remands to the Commission for further proceedings
+consistent with this opinion.
+

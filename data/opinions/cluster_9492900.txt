@@ -1,0 +1,1411 @@
+USCA4 Appeal: 23-1457     Doc: 38           Filed: 04/10/2024   Pg: 1 of 29
+
+
+
+
+                                              PUBLISHED
+
+                              UNITED STATES COURT OF APPEALS
+                                  FOR THE FOURTH CIRCUIT
+
+
+                                               No. 23-1457
+
+
+        VANDA PHARMACEUTICALS, INC.
+
+                    Plaintiff - Appellant
+
+        v.
+
+        CENTERS FOR MEDICARE & MEDICAID SERVICES; CHIQUITA BROOKS-
+        LASURE, in her official capacity as Administrator of Centers for Medicare &
+        Medicaid Services
+
+                    Defendants - Appellees.
+
+
+
+        Appeal from the United States District Court for the District of Maryland at Baltimore.
+        Matthew James Maddox, Magistrate Judge. (1:22−cv−00977−MJM)
+
+
+        Argued: January 24, 2024                                        Decided: April 10, 2024
+
+
+        Before DIAZ, Chief Judge, WILKINSON, Circuit Judge, and MOTZ, Senior Circuit Judge.
+
+
+        Affirmed by published opinion. Judge Wilkinson wrote the opinion, in which Chief Judge
+        Diaz and Senior Circuit Judge Motz joined.
+
+
+        ARGUED: Paul Whitfield Hughes, III, MCDERMOTT, WILL & EMERY, LLP,
+        Washington, D.C., for Appellant. David L. Peters, UNITED STATES DEPARTMENT
+        OF JUSTICE, Washington, D.C., for Appellees. ON BRIEF: Andrew A. Lyons-Berg,
+        Alex C. Boota, MCDERMOTT WILL & EMERY LLP, Washington, D.C., for Appellant.
+        Brian M. Boynton, Principal Deputy Assistant Attorney General, Alisa B. Klein, Civil
+        Division, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C.; Samuel
+USCA4 Appeal: 23-1457    Doc: 38       Filed: 04/10/2024   Pg: 2 of 29
+
+
+
+
+        R. Bagenstos, General Counsel, Janice L. Hoffman, Associate General Counsel, Susan
+        Maxson Lyons, Deputy Associate General Counsel for Litigation, Kara Wilcox Mundy,
+        UNITED STATES DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+        Washington, D.C.; Erek Barron, United States Attorney, OFFICE OF THE UNITED
+        STATES ATTORNEY, Baltimore, Maryland, for Appellees.
+
+
+
+
+                                                2
+USCA4 Appeal: 23-1457      Doc: 38         Filed: 04/10/2024     Pg: 3 of 29
+
+
+
+
+        WILKINSON, Circuit Judge:
+
+               Under the Medicaid Drug Rebate Program, a drug manufacturer that increases its
+
+        prices faster than inflation rises must reimburse Medicaid for the difference. These
+
+        reimbursements are paid via rebates. Each drug’s rebate amount is usually determined
+
+        based on its own original price and inflation clock. But not always. Congress has instructed
+
+        in the Medicaid statute that some “line extension” drugs can be on the hook not only for
+
+        their own price increases, but also for the price increases of the drugs they evolved from.
+
+               In 2020, the Centers for Medicare and Medicaid Services (CMS) promulgated a
+
+        regulation that set forth criteria for what constitutes a line-extension drug. Vanda
+
+        Pharmaceuticals challenged that regulation in federal district court, arguing that it
+
+        expanded the definition of a line extension beyond what the Medicaid statute permitted.
+
+        The district court disagreed and granted summary judgment to CMS. Because the agency’s
+
+        regulation lies within the bounds of the Medicaid statute, we affirm.
+
+                                                     I.
+
+                                                    A.
+
+               The Medicaid Drug Rebate Program was not built in a day. It was created in 1990,
+
+        but Congress has regularly revisited the rebate regime in the decades since its enactment.
+
+        The line-extension provision at issue here was added in one such revision. It is best
+
+        explained in the context of what came before, and so we begin with a discussion of the
+
+        program as originally enacted.
+
+               Congress created the Medicaid Drug Rebate Program as part of an effort to reduce
+
+        Medicaid spending. See Omnibus Budget Reconciliation Act of 1990, Pub. L. No. 101-508,
+
+                                                     3
+USCA4 Appeal: 23-1457          Doc: 38     Filed: 04/10/2024     Pg: 4 of 29
+
+
+
+
+        tit. IV, subtitle B, pt. 1, 104 Stat. 1388, 1388-141. Congress was concerned that the
+
+        government was being swindled on drug prices. Medicaid, “the means-tested entitlement
+
+        program that purchases basic health care for the poor,” had been paying significantly more
+
+        for drugs than other large purchasers. See H.R. Rep. No. 101-881, at 96 (1990). To make
+
+        matters worse, drug prices had been rising rapidly. Between 1981 and 1988 drug price
+
+        increases had “more than tripled the rate of inflation.” See Majority Staff of S. Special
+
+        Comm. on Aging, 101st Cong., Prescription Drug Prices: Are We Getting Our Money’s
+
+        Worth? 8 (Comm. Print 1989). Congress devised the new rebate program in response to
+
+        both these problems.
+
+               Under the program, drug manufacturers must pay rebates to Medicaid that offset
+
+        part of the cost of the manufacturers’ drugs, thus lowering the ultimate price Medicaid
+
+        pays. The rebate amounts are calculated by CMS, but the Medicaid statute meticulously
+
+        lays out the formula that CMS must use. It has two components. The first (which is not at
+
+        issue here) is the “basic rebate,” which ensures that Medicaid pays the lowest price for any
+
+        given drug. See 42 U.S.C. § 1396r-8(c)(1).
+
+               This case concerns the “additional rebate,” which forces drug manufacturers to
+
+        reimburse Medicaid for price increases greater than the rate of inflation. § 1396r-8(c)(2).
+
+        It is calculated by taking the difference between the current average price of the drug and
+
+        the price of the drug when it was first marketed, adjusted for inflation. See
+
+        § 1396r-8(c)(2)(A). In other words, once a drug manufacturer sets an initial price for a
+
+        drug, Medicaid will not pay more than that price (plus inflation). Medicaid thus locks in
+
+        that original price.
+
+                                                     4
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024     Pg: 5 of 29
+
+
+
+
+               But the original additional rebate formula had a loophole. The statute calls for a
+
+        separate rebate calculation for “each dosage form and strength” of a covered drug. Id. A
+
+        manufacturer could thus raise the price of a drug without paying the additional rebate by
+
+        releasing a new strength (or form) of the drug at a higher price. The additional rebate for
+
+        the new strength would be based on the new strength’s higher release price rather than the
+
+        original one. The manufacturer could then discontinue the original strength, forcing
+
+        purchasers to switch. As a result, the manufacturer could avoid reimbursing Medicaid for
+
+        the jump in price. See H.R. Rep. No. 111-299, pt. 1, at 635 (2009); S. Rep. No. 111-89, at
+
+        92 (2009).
+
+               Congress added the line-extension provision in 2010 in part to close this loophole.
+
+        It provides that so-called “line extension” drugs are on the hook not only for their own
+
+        price increases, but also for any price increases to the original drug on which they were
+
+        based. Here is how the provision works: For a line-extension drug, the additional rebate is
+
+        the greater of two amounts. Amount One depends on the price increases of the line-
+
+        extension drug and is calculated the same way as above—that is, by taking the difference
+
+        between the current average price of the line-extension drug and the price of that drug when
+
+        first marketed, adjusted for inflation. § 1396r-8(c)(2)(C)(ii). So far, so good. A line-
+
+        extension drug is treated just like any other drug.
+
+               Amount Two, however, depends on whether the price of the original drug has
+
+        increased. It is calculated by multiplying the highest additional rebate percentage owed on
+
+        any strength of the original drug by the price of the line-extension drug. See
+
+        § 1396r-8(c)(2)(C)(iii). In other words, Medicaid will treat the line-extension drug as if its
+
+                                                      5
+USCA4 Appeal: 23-1457       Doc: 38         Filed: 04/10/2024      Pg: 6 of 29
+
+
+
+
+        own price had increased proportionally with the original drug’s. For example, if one of the
+
+        strengths of the original drug (taking inflation into account) had doubled in price since its
+
+        release, the line-extension drug would also be treated as if it had doubled in price and would
+
+        thus be subject to at least a 50% rebate, regardless of whether the price of the line-extension
+
+        drug had changed at all. Importantly, because the statute instructs that the additional rebate
+
+        for a line extension is the greater of Amount One and Amount Two, line-extension status
+
+        can only lead to higher rebates.
+
+                                                      B.
+
+                But what is a line extension? Answering that question involves consulting two
+
+        sources: the Medicaid statute and the corresponding CMS regulation challenged in this
+
+        case.
+
+                                                      1.
+
+                First, the guidance given by Congress: According to the Medicaid statute,
+
+                [T]he term “line extension” means, with respect to a drug, a new formulation
+                of the drug, such as an extended release formulation, but does not include an
+                abuse-deterrent formulation of the drug (as determined by the Secretary),
+                regardless of whether such abuse-deterrent formulation is an extended
+                release formulation.
+
+        § 1396r-8(c)(2)(C)(iii).
+
+                To break that down, the statute instructs that a “line extension” is a “new
+
+        formulation” of an existing drug. There is also a carveout: abuse-deterrent formulations do
+
+        not count. (The carveout was added in 2016 as part of Congress’s response to the opioid
+
+        crisis. See Comprehensive Addiction and Recovery Act of 2016, Pub. L. No. 114-198,
+
+        § 705(a), 130 Stat. 695, 753.) As is clear from this statutory language, however, the
+
+                                                      6
+USCA4 Appeal: 23-1457       Doc: 38          Filed: 04/10/2024      Pg: 7 of 29
+
+
+
+
+        legislative definition of line extension is incomplete: Congress inserted the language “such
+
+        as” before providing the example of “an extended release formulation,” indicating a gap
+
+        left to be filled. As is common in administrative regulation, the agency charged with
+
+        carrying out the program (here, CMS) was left to fill in the blanks.
+
+               The Medicaid statute provides one more wrinkle important to the case at hand. The
+
+        line-extension provision (and the higher rebates it brings) does not apply to all line-
+
+        extension drugs. It applies only to “a line extension of a single source drug or an innovator
+
+        multiple source drug that is an oral solid dosage form.” § 1396r-8(c)(2)(C)(i). In simpler
+
+        terms: the provision applies only to line extensions of two specific types of drugs (defined
+
+        later in the statute), and only to a “line extension of [either of those types of drugs] that is
+
+        an oral solid dosage form.” Id. (emphasis added). This oral-solid-dosage-form requirement
+
+        presented a puzzle: which drug(s) must be in oral solid dosage form? The original drug?
+
+        The line-extension drug? Both? Here, too, it fell to the implementing agency to resolve the
+
+        ambiguity.
+
+                                                      2.
+
+               CMS took up those twin calls in June 2020. The agency had received “requests to
+
+        provide more specific guidance on how to identify a line extension drug.” 85 Fed. Reg.
+
+        37,286, 37,294 (June 19, 2020). The agency also had reasons to think that a more explicit
+
+        definition of line extension was necessary. “After several years of experience with
+
+        manufacturers self-reporting their line extensions,” it had “noted inconsistency among
+
+        manufacturers.” Id. The agency suspected that line extensions were being underreported
+
+        because “manufacturers may have a financial incentive to be underinclusive in their
+
+                                                       7
+USCA4 Appeal: 23-1457      Doc: 38         Filed: 04/10/2024     Pg: 8 of 29
+
+
+
+
+        identification.” Id. It therefore proposed a regulation that would “interpret the term ‘line
+
+        extension’ broadly.” Id. at 37,295. After notice and comment, the agency finalized its
+
+        proposal (with modest changes) in December 2020.
+
+               The final regulation started with a definition for line extension that closely tracks
+
+        the statute:
+
+               Line extension means, for a drug, a new formulation of the drug, but does not
+               include an abuse-deterrent formulation of the drug (as determined by the
+               Secretary).
+
+        85 Fed. Reg. 87,000, 87,101 (Dec. 31, 2020) (codified at 42 C.F.R. § 447.502). It also
+
+        defined the term “new formulation” and expanded on the example from the statute:
+
+               New formulation means, for a drug, a change to the drug, including, but not
+               limited to: an extended release formulation or other change in release
+               mechanism, a change in dosage form, strength, route of administration, or
+               ingredients.
+
+        Id. at 87,101–02 (codified at 42 C.F.R. § 447.502).
+
+               The agency’s regulation also clarified its understanding of the oral-solid-dosage-
+
+        form requirement: “only the initial brand name listed drug must be an oral solid dosage
+
+        form.” Id. at 87,034. In other words, only the original drug needs to be in an oral solid
+
+        dosage (read: pill) form for the provision to apply. The line-extension drug can be in a
+
+        different form—liquid, say, or injectable—and still qualify for the new rebate formula.
+
+               On this point, however, the agency has wavered. In 2012, it had proposed that both
+
+        the line-extension drug and the original drug must be in oral solid dosage form. See 77 Fed.
+
+        Reg. 5318, 5338 (Feb. 2, 2012). But it declined to finalize that proposal. See 81 Fed. Reg.
+
+        5170, 5265 (Feb. 1, 2016). In its 2020 rulemaking, CMS changed course, proposing in June
+
+
+                                                     8
+USCA4 Appeal: 23-1457         Doc: 38       Filed: 04/10/2024      Pg: 9 of 29
+
+
+
+
+        and finalizing in December after notice and comment that the requirement applied to only
+
+        the original drug.
+
+                                                      C.
+
+               Appellant Vanda was not happy with the agency’s new moves. Vanda develops and
+
+        manufactures innovative drugs that treat rare disorders. Its two flagship drugs are Hetlioz
+
+        and Fanapt, each of which has a sister drug that Vanda worries will be swept up in the
+
+        agency’s new line-extension definition.
+
+               Hetlioz is a drug approved to treat (among other conditions) severe sleep
+
+        disturbances caused by the developmental disorder Smith-Magenis syndrome. This
+
+        disorder affects both adults and children, but Hetlioz is approved only for adults because it
+
+        comes in oral solid dosage form (a pill capsule), and the dosage cannot be calibrated to
+
+        children’s weights. So Vanda created a liquid version called Hetlioz LQ for use in treating
+
+        sleep disturbances in children with Smith-Magenis syndrome. Hetlioz LQ was approved
+
+        by the Food and Drug Administration (FDA) in 2020 and is available today for patients 3
+
+        to 15 years of age.
+
+               Vanda also manufactures Fanapt, an antipsychotic used to treat schizophrenia.
+
+        Fanapt is currently offered in pill form and must be taken twice a day. Like many
+
+        antipsychotics, it is safest and most effective if taken at regular intervals without missing a
+
+        dose. But people with schizophrenia often struggle to adhere to such treatment regimens.
+
+        To solve this problem, Vanda has been working to create a long-acting injectable version
+
+        of Fanapt called Fanapt LAI. Fanapt LAI is still in development, but Vanda hopes to offer
+
+        it in a format that would require patients to receive only a few injections each year.
+
+                                                      9
+USCA4 Appeal: 23-1457      Doc: 38         Filed: 04/10/2024     Pg: 10 of 29
+
+
+
+
+        According to Vanda, this change could “revolutionize schizophrenia treatment.”
+
+        Appellant’s Opening Br. 16.
+
+               Vanda alleges that, under the agency’s pre-regulation approach, neither Hetlioz LQ
+
+        nor Fanapt LAI would have been considered line extensions. Under the new regulation,
+
+        however, both will be.
+
+               Vanda has a strong interest in avoiding line-extension status for its drugs. Many
+
+        patients who use Vanda’s drugs are enrolled in Medicaid. Fanapt users are especially likely
+
+        to be Medicaid recipients, as 70% of people with schizophrenia are covered under the
+
+        program. See Kimberly H. Geissler et al., Differences in Insurance Coverage for
+
+        Individuals with Schizophrenia After Implementation of the Patient Protection and
+
+        Affordable Care Act, 80(3) JAMA Psychiatry 278, 278–79 (2023); see also Appellant’s
+
+        Opening Br. 17. Medicaid sales are thus an important source of revenue for Vanda, and
+
+        Medicaid rebates cut into profits. Line-extension status can trigger even higher rebates,
+
+        which Vanda would prefer to avoid. To that end, Vanda seeks to cabin the definition of
+
+        line extension so as to exclude drugs like Hetlioz LQ and Fanapt LAI.
+
+                                                    D.
+
+               Vanda sued in U.S. District Court to challenge the agency’s 2020 regulation. It
+
+        argued that the regulation’s definitions of “line extension” and “new formulation” were
+
+        contrary to the text of the Medicaid statute. It also challenged the agency’s new
+
+        interpretation of the oral-solid-dosage-form requirement. Finally, Vanda alleged that the
+
+        agency had violated the Administrative Procedure Act (APA) because the agency failed to
+
+
+
+                                                    10
+USCA4 Appeal: 23-1457      Doc: 38        Filed: 04/10/2024     Pg: 11 of 29
+
+
+
+
+        adequately address important industry concerns aired during the notice-and-comment
+
+        period.
+
+               On cross-motions for summary judgment, the district court rejected Vanda’s claims.
+
+        It held that the regulation was consistent with the text of the Medicaid statute, and that
+
+        CMS had satisfied its obligations under the APA. See Vanda Pharms., Inc. v. Ctrs. for
+
+        Medicare & Medicaid Servs., 2023 WL 2743364, at *16, 18, 23–24 (D. Md. Mar. 31,
+
+        2023). Vanda timely appealed.
+
+                                                   II.
+
+               Under the APA, we set aside an agency’s regulation only if it is “arbitrary,
+
+        capricious, an abuse of discretion, or otherwise not in accordance with law.” 5 U.S.C.
+
+        § 706(2)(A). We review the district court’s evaluation de novo, independently assessing
+
+        whether the agency action was unlawful. See Ren v. U.S. Citizenship & Immigr. Servs., 60
+
+        F.4th 89, 93 (4th Cir. 2023).
+
+                                                   III.
+
+               Vanda first argues that the 2020 regulation is “not in accordance with law,”
+
+        § 706(2)(A), because it broadened the sweep of the line-extension provision beyond what
+
+        the Medicaid statute permits. We are thus called upon to evaluate whether the 2020
+
+        regulation contravenes the Medicaid statute’s text. That task, however, presents a
+
+        conundrum. Courts have traditionally reviewed an agency’s statutory interpretations in
+
+        accordance with the two-step framework of Chevron U.S.A., Inc. v. Natural Resources
+
+        Defense Council, Inc., 467 U.S. 837 (1984). See, e.g., Cela v. Garland, 75 F.4th 355, 360–
+
+        61 (4th Cir. 2023). Under that framework, we would first “consider[] ‘whether Congress
+
+                                                   11
+USCA4 Appeal: 23-1457      Doc: 38             Filed: 04/10/2024   Pg: 12 of 29
+
+
+
+
+        has directly spoken to the precise question at issue.’” Id. at 361 (quoting Chevron, 467 U.S.
+
+        at 842). If so, our inquiry would stop there. If the statute was ambiguous, however, we
+
+        would defer to the agency’s interpretation so long as it was reasonable. Id.
+
+               But CMS did not invoke Chevron in its briefing or at oral argument. Recent
+
+        Supreme Court precedent has made clear that if the “government is not invoking Chevron”
+
+        a court can “decline to consider whether any deference might be due.” HollyFrontier
+
+        Cheyenne Ref., LLC v. Renewable Fuels Ass’n, 141 S. Ct. 2172, 2180 (2021); see also
+
+        Guedes v. Bureau of Alcohol, Tobacco, Firearms, & Explosives, 140 S. Ct. 789, 789–90
+
+        (2020) (Gorsuch, J., statement respecting the denial of certiorari) (explaining that the
+
+        Supreme Court “has often declined to apply Chevron deference when the government fails
+
+        to invoke it” and collecting cases).
+
+               We, of course, follow the Supreme Court’s lead here. Thus, if we encounter
+
+        statutory ambiguity, rather than deferring to the agency’s interpretation, we will “approach
+
+        [that] interpretive problem[] methodically, using traditional tools of statutory
+
+        interpretation.” Facebook, Inc. v. Duguid, 592 U.S. 395, 404 n.5 (2021). In doing so,
+
+        however, we will “pay particular attention to [the] agency’s views in light of the agency’s
+
+        expertise in [the] given area” and “its knowledge gained through practical experience.”
+
+        County of Maui v. Haw. Wildlife Fund, 140 S. Ct. 1462, 1474 (2020). But we will adopt
+
+        those views as our own only if they have the “power to persuade.” Skidmore v. Swift &
+
+        Co., 323 U.S. 134, 140 (1944).
+
+               With those principles in mind, we turn to Vanda’s claims. It challenges two parts of
+
+        the agency’s 2020 regulation: the definitions of line extension and new formulation, and
+
+                                                       12
+USCA4 Appeal: 23-1457        Doc: 38         Filed: 04/10/2024      Pg: 13 of 29
+
+
+
+
+        the agency’s understanding of the oral-solid-dosage-form requirement. We take each in
+
+        turn.
+
+                                                       A.
+
+                 We begin with Vanda’s claim that the 2020 regulation is contrary to law in that it
+
+        gives impermissible definitions to the terms “line extension” and “new formulation.”
+
+        Generally, Vanda argues that the agency’s broad definitions contravene the purportedly
+
+        narrow focus of the line-extension provision in the Medicaid statute. Vanda then offers up
+
+        two specific limitations that it reads into the statutory regime. We take up the general point
+
+        first.
+
+                                                       1.
+
+                 We disagree with Vanda’s contention that the agency’s definitions stray outside the
+
+        general statutory ambit. Start with the definition of line extension. We are struck at the
+
+        outset by the similarities in the statutory and regulatory definitions of this term. In contrast
+
+        to Vanda’s claims, the substance of the regulatory definition hews quite closely to the
+
+        statute. Both define “line extension” as a “new formulation” and then carve out an
+
+        exception for “abuse-deterrent formulation[s].” Compare § 1396r-8(c)(2)(C)(iii), with 42
+
+        C.F.R. § 447.502.
+
+                 The similarities are so striking as to make this part of the regulation unimpeachable.
+
+        Each departure of the regulatory text is patently superficial, with no discernable effect on
+
+        the term’s reach. The agency’s definition of line extension is clearly within the bounds of
+
+        the statute and we see no reason it should be set aside.
+
+
+
+                                                       13
+USCA4 Appeal: 23-1457       Doc: 38          Filed: 04/10/2024       Pg: 14 of 29
+
+
+
+
+               We turn next to the definition of new formulation. Vanda claims that here the
+
+        regulation strays further afield, but it is plainly not so far as to call “foul ball.” Recall that
+
+        the statute explains the term by reference to a single example: “an extended release
+
+        formulation.” § 1396r-8(c)(2)(C)(iii). That example, however, is introduced with the
+
+        inclusive phrase “such as,” making clear that Congress intended the term to sweep more
+
+        broadly than the illustrative example it chose.
+
+               The regulation thus starts with a broader definition: a “new formulation” is “a
+
+        change to the drug.” 42 C.F.R. § 447.502. It then provides an expanded list of changes that
+
+        can count. The list starts with the statutory example of “an extended release formulation.”
+
+        But it adds “other change[s] in release mechanism” and changes in “dosage form, strength,
+
+        route of administration, or ingredients” as well. Id. And like the statute, the regulation
+
+        makes clear (here with the phrase “including, but not limited to”) that those examples are
+
+        meant to be illustrative, not exhaustive. Id.
+
+               This strikes us as a perfectly sensible way to implement the regime set by the
+
+        Medicaid statute. Start with the term Congress chose: “a new formulation.” Something is
+
+        “new” if it is “different from [what] previously exist[ed].” New, Oxford English Dictionary
+
+        (2d ed. 1989). And a “formulation” is “a material or mixture prepared according to a
+
+        particular formula.” Formulation, Oxford English Dictionary (2d ed. 1989) (emphasis
+
+        added). Putting it all together, a new formulation is created whenever a drug is prepared
+
+        according to a formula different from the formula or formulas previously in use. A different
+
+        formula creates a new formulation.
+
+
+
+                                                        14
+USCA4 Appeal: 23-1457      Doc: 38         Filed: 04/10/2024      Pg: 15 of 29
+
+
+
+
+               The agency’s choice to define a “new formulation” as a “change” aligns quite
+
+        closely with the words selected by Congress. With respect to drugs, change is achieved
+
+        precisely by using a different formula. Drug manufacturers often create several variations
+
+        of a drug. A drug may come as a pill, a rapid release gel, a chewable, a dissolve pack, or in
+
+        a liquid suspension measured out with a little plastic cup. As each successive format is
+
+        developed, the drug must be changed by using a different formula to achieve each final
+
+        product. It makes perfect sense, then, to say that each new iteration achieved by such a
+
+        change might permissibly be termed a “new formulation.”
+
+               Vanda, though, takes aim at the breadth of the definition. It says the agency’s
+
+        definition sweeps in too much, pointing for support to the Congressional Budget Office
+
+        report in which a line-extension provision was first suggested. See CBO, Budget Options,
+
+        Volume I: Health Care 143 (Dec. 2008) (the “CBO Report”). The report stated that drug
+
+        manufacturers could “avoid incurring an additional rebate obligation by making a slight
+
+        alteration to an existing product.” Id. It recommended that Congress close this “loophole”
+
+        by treating “a certain type of new formulation—specifically, extended-release versions”
+
+        more like “the original product.” Id. This, Vanda says, was the problem Congress intended
+
+        to solve with the line-extension provision as well: drug manufacturers avoiding the
+
+        additional rebate by making merely incremental changes to their original drugs to reset the
+
+        inflation clock. And so, according to Vanda, Congress must have intended the term “new
+
+        formulation” only to encompass such slight alterations. Vanda insists that larger changes
+
+        in formula create altogether new drugs—not simply line extensions to original drugs—and
+
+        that therefore such changes should not fall into the provision’s reach.
+
+                                                     15
+USCA4 Appeal: 23-1457       Doc: 38         Filed: 04/10/2024      Pg: 16 of 29
+
+
+
+
+               We do not think that this is a fair reading of the statute or a fair condemnation of the
+
+        agency’s regulation. As an initial matter, “legislative history is not the law.” Azar v. Allina
+
+        Health Servs., 139 S. Ct. 1804, 1814 (2019). Courts must “apply faithfully the law
+
+        Congress has written” and “cannot replace the actual text with speculation as to Congress’
+
+        intent.” Luna Perez v. Sturgis Pub. Sch., 598 U.S. 142, 150 (2023). And the law that
+
+        Congress passed differs in important respects from the Budget Office proposal cited by
+
+        Vanda. That proposal would have gone after extended-release formulations only, whereas
+
+        the statute makes clear that extended-release formulations are but one example of what will
+
+        be swept in. And the proposal targets “a certain type of new formulation.” CBO Report, at
+
+        143. In contrast, the statute speaks in terms of new formulations writ large.
+
+               The 2016 amendment that carved out abuse-deterrent formulations confirms that the
+
+        statutory definition is broader than Vanda would have it be. Abuse-deterrent formulations
+
+        are not slight, meaningless alterations. They require new innovations and costly research
+
+        and development. They also provide important therapeutic benefits and help prevent the
+
+        harmful consequences attendant to prescription drug misuse. The fact that they had to be
+
+        carved out from the provision shows that the statutory definition encompasses more than
+
+        just the meaningless changes Vanda advocates.
+
+               And Vanda’s argument overlooks the fact that Congress chose to define line
+
+        extension as a “new formulation.” Vanda says that an alteration that is more than slight
+
+        creates, not a new formulation, but an entirely new drug. But the term “new formulation”
+
+        does not by its plain meaning limit line extensions in the way Vanda might hope. We use
+
+        the term “new” to describe differences both big and small, and both types of changes can
+
+                                                      16
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024     Pg: 17 of 29
+
+
+
+
+        create an updated version of an original without creating an entirely novel item. Take as an
+
+        example the new editions of well-loved books. Sometimes the differences are atmospheric
+
+        or slight. Oxford World’s Classics’ new edition of Willa Cather’s My Ántonia added a new
+
+        introduction and notes that provide historical context, but Cather’s evocative descriptions
+
+        of pioneer life on the plains of Nebraska remain intact. See Willa Cather, My Ántonia
+
+        (Oxford World’s Classics ed. 2009). In other words, despite peripheral changes, the
+
+        substance of the book remains the same. But sometimes the differences in new versions of
+
+        something can be quite large indeed. New editions of classic legal treatises can differ
+
+        dramatically from the old, especially when there have been major intervening changes in
+
+        doctrine. But that does not mean that the fourth edition of Williston on Contracts cannot
+
+        be said to be a “new edition” with respect to the third. Even significant changes, therefore,
+
+        can still flow from the original so long as there is a throughline between them. Congress’s
+
+        choice of the definition “new formulation” simply fails to support Vanda’s contention that
+
+        anything more than a “slight alteration” should count as a new drug entirely.
+
+               Moreover, the structure of the statutory line-extension provision confirms that a
+
+        broad definition of new formulation is appropriate. The statutory provision speaks in terms
+
+        of inclusion, not exclusion. It makes clear that a line extension is “a new formulation of the
+
+        drug, such as an extended release formulation.” § 1396r-8(c)(2)(C)(iii) (emphasis added).
+
+        Terms of inclusion like “such as” are congressional invitations for agencies to apply their
+
+        expertise to fill out the list with further examples. “Congress knows to speak in plain terms
+
+        when it wishes to circumscribe, and in capacious terms when it wishes to enlarge, agency
+
+
+
+                                                     17
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024     Pg: 18 of 29
+
+
+
+
+        discretion.” City of Arlington v. FCC, 569 U.S. 290, 296 (2013). Here, Congress chose the
+
+        broader route and reinforced it with a structure evincing inclusive intent.
+
+               The agency heeded the congressional invitation. When proposing the regulation at
+
+        issue here, the agency acknowledged that it had chosen a “much broader definition of new
+
+        formulation” than in previous (never-finalized) proposals. See 85 Fed. Reg. at 37,295. It
+
+        also made clear that its broadened definition was designed to expand the universe of drugs
+
+        that qualified as line extensions. Id. The agency “believe[d] that the statute g[ave] [it]
+
+        discretion and authority to interpret the term ‘line extension’ broadly” and to “include a
+
+        broad range of drugs” therein. Id. In response to “requests to provide more specific
+
+        guidance,” id. at 37,294, the agency informed manufacturers that—in addition to extended-
+
+        release formulations—“other change[s] in release mechanism” and changes in “dosage
+
+        form, strength, route of administration, or ingredients” would count as line extensions too.
+
+        42 C.F.R. § 447.502.
+
+               We find the agency’s additional examples here “reasonable” and “consistent with
+
+        the statutory framework.” Fed. Exp. Corp. v. Holowecki, 552 U.S. 389, 402 (2008). In fact,
+
+        the agency’s added examples strike us as fairly similar to extended-release formulations.
+
+        And we can think of no “clearer alternatives” that are “within our authority or expertise to
+
+        adopt.” Id. Moreover, Vanda has not identified any individual element of the list that poses
+
+        a particular problem. In short, then, we do not find merit in Vanda’s general challenge to
+
+        the breadth of the agency’s “new formulation” definition.
+
+               That is not to say, however, that the agency is subject to no limitations at all. Line-
+
+        extension status is relational. A drug product cannot be a line extension in the abstract; it
+
+                                                     18
+USCA4 Appeal: 23-1457       Doc: 38         Filed: 04/10/2024      Pg: 19 of 29
+
+
+
+
+        is a line extension of a particular original drug. See § 1396r-8(c)(2)(C)(iii) (“[T]he term
+
+        “line extension” means, with respect to a drug, a new formulation of the drug.” (emphasis
+
+        added)). The two must bear some relationship to each other. And not all relationships will
+
+        suffice. Tylenol (active ingredient: acetaminophen) is not a line extension of Advil (active
+
+        ingredient: ibuprofen), even though both are useful in treating aches and pains.
+
+               Luckily, we need not confront the problem of when changes to a drug are significant
+
+        enough to take it from a new formulation to a distinct drug entirely. The agency’s chosen
+
+        examples of changes—different release mechanisms, routes of administration, dosages,
+
+        ingredients, and strengths—are limited enough (and similar enough to extended-release
+
+        formulations) to fit well within the statutory bounds.
+
+                                                      2.
+
+               In addition to taking aim at the breadth of the provision generally, Vanda proposes
+
+        two specific textual limitations on the term “line extension.” We find neither one
+
+        persuasive.
+
+               First, Vanda looks to the definitions of the words “line” and “extension” to argue
+
+        that a line extension must serve the same “purpose” as an existing drug. For support, it
+
+        states that the definition of line is “material serving a particular purpose.” Appellant’s
+
+        Opening Br. 36. But the full text of the cited definition is: “a length of cord, rope, wire, or
+
+        other material serving a particular purpose.” Line, New Oxford American Dictionary (3d
+
+        ed. 2010) (emphasis added). And the examples given relate to telephone lines or lines of
+
+        cord used for hanging out the wash to dry. Id. We are skeptical that this is the definition
+
+        that Congress had in mind. A more on-point definition is “merchandise or services of the
+
+                                                      19
+USCA4 Appeal: 23-1457       Doc: 38        Filed: 04/10/2024     Pg: 20 of 29
+
+
+
+
+        same general class for sale or regularly available.” Line, Merriam-Webster’s Collegiate
+
+        Dictionary (10th ed. 1999) (emphasis added). Tellingly, this definition is broader than what
+
+        Vanda proposes.
+
+                Second, Vanda points out that the agency’s broad definition of line extension would
+
+        sweep in drugs for which the FDA requires a new drug application. It urges us to hold that
+
+        those drugs are not new formulations, but new drugs themselves ineligible for line-
+
+        extension status. But extended-release formulations (which, recall, are explicitly listed in
+
+        the statute as new formulations) sometimes require just such new drug applications. That
+
+        alone shows that a new drug application is not the silver bullet Vanda imagines.
+
+                In making its new-drug-application point, Vanda fails to consider the phrase “new
+
+        formulation of the drug” as a whole. Instead, Vanda counsels that Congress’s insertion of
+
+        the words “the drug” provides an oblique cross-reference to the oral-solid-dosage-form
+
+        requirement. Only by looking there, according to Vanda, can we understand what “the
+
+        drug” must mean. In that requirement, Vanda continues, the statute mentions two types of
+
+        drugs: “single source drug” and “innovator multiple source drug.” From there, Vanda
+
+        instructs that we should look at the definitions portion of the Medicaid Drug Rebate
+
+        Program to find out what qualifies a drug as either of those types. And (in a final step)
+
+        Vanda points out that both these types of covered drugs must fall “under a new drug
+
+        application approved by the Food and Drug Administration.” §§ 1396r-8(k)(7)(A)(ii),
+
+        (iv).
+
+                According to Vanda, this lengthy chain of cross-references establishes some sort of
+
+        statutory instruction that no drug marketed under a new drug application can ever be a line
+                                                    20
+USCA4 Appeal: 23-1457      Doc: 38         Filed: 04/10/2024     Pg: 21 of 29
+
+
+
+
+        extension because such a drug is always an original drug instead. Line extensions, on
+
+        Vanda’s reading, can therefore only be drugs for which the FDA requires a supplemental
+
+        new drug application.
+
+               This argument is wholly unpersuasive. The FDA has a different focus from the
+
+        Medicaid Drug Rebate Program. The FDA is concerned chiefly with the safety and efficacy
+
+        of drugs, not with their cost. And the cross-references to the FDA approval process in the
+
+        definitions of the Medicaid Drug Rebate Program are meant chiefly to limit Medicaid drug
+
+        coverage to drugs that the FDA considers safe and efficacious—not to create a hidden
+
+        constraint on line extensions.
+
+               If Congress had meant to limit line extensions to drugs approved via supplemental
+
+        new drug applications, we think it would have done so explicitly within the definition of
+
+        the term “line extension.” See Jama v. Immigr. & Customs Enf’t, 543 U.S. 335, 341 (2005)
+
+        (“We do not lightly assume that Congress has omitted from its adopted text requirements
+
+        that it nonetheless intends to apply, and our reluctance is even greater when Congress has
+
+        shown elsewhere in the same statute that it knows how to make such a requirement
+
+        manifest.”). Other provisions of the Medicaid Drug Rebate Program do explicitly depend
+
+        on FDA determinations: Special reimbursement limits apply when the FDA has rated
+
+        several drugs as “therapeutically and pharmaceutically equivalent.” § 1396r-8(e)(4). And
+
+        drugs “approved by the [FDA] exclusively for pediatric indications” are eligible for a lower
+
+        minimum rebate. § 1396r-8(c)(1)(B)(iii)(II)(bb). No such FDA references are made in the
+
+        line-extension definition at issue here. That definition is at the core of the matter. In
+
+        contrast, Vanda’s argument invokes provisions that are wandering on the periphery.
+                                                    21
+USCA4 Appeal: 23-1457       Doc: 38         Filed: 04/10/2024     Pg: 22 of 29
+
+
+
+
+                                                    ***
+
+               Having addressed Vanda’s arguments to the contrary (both general and specific),
+
+        we find that the agency’s definitions of line extension and new formulation are
+
+        appropriately within the Medicaid statute’s ambit. We thus affirm the district court as to
+
+        this aspect of the case.
+
+                                                     B.
+
+               We turn now to Vanda’s challenge to the portion of the agency regulation regarding
+
+        the oral-solid-dosage-form requirement. Recall that the line-extension provision applies
+
+        only to “a drug that is a line extension of a single source drug or an innovator multiple
+
+        source drug that is an oral solid dosage form.” § 1396r-8(c)(2)(C)(i). The agency and
+
+        Vanda disagree about whether the oral-solid-dosage-form requirement applies only to the
+
+        original drug (“a single source drug or an innovator multiple source drug”) or to the line-
+
+        extension drug as well.
+
+               The agency states that the modifier “that is an oral solid dosage form” applies only
+
+        to the immediately preceding phrase “a single source drug or an innovator multiple source
+
+        drug.” The regulation therefore instructs that “only the initial brand name listed drug must
+
+        be an oral solid dosage form.” 85 Fed. Reg. at 87,034. The line-extension drug, according
+
+        to the agency, can be in any form at all.
+
+               Vanda disagrees. It asserts that the agency’s reading is contrary to the statute and
+
+        proposes that both the original drug and the line-extension drug must be in oral solid dosage
+
+        form for the provision to apply.
+
+
+
+                                                     22
+USCA4 Appeal: 23-1457       Doc: 38         Filed: 04/10/2024      Pg: 23 of 29
+
+
+
+
+               The agency’s interpretation is the more persuasive. The statute makes clear that only
+
+        one thing need be “an oral solid dosage form” by using the singular verb “is.” Verbs in
+
+        modifying phrases must correspond to their intended antecedent: If the antecedent is
+
+        singular, the verb must be singular. If the antecedent is plural, the verb must be plural. See
+
+        Rodney Huddleston & Geoffrey K. Pullum, The Cambridge Grammar of the English
+
+        Language § 18.1, p. 500 (2002). Thus a visitor to a local café can order a single cappuccino
+
+        that is made with whole milk, but if she wants two she will need to ask the barista for
+
+        cappuccinos that are made with whole milk. Vanda’s reading, on which two drugs must
+
+        meet the requirement, violates this grammatical rule.
+
+               In contrast, the agency’s reading conforms with the rule. According to the agency,
+
+        only one thing—the original drug—must be in oral solid dosage form. And, grammatically,
+
+        it is of no moment that the original drug can be either “a single source drug or an innovator
+
+        multiple source drug.” When singular nouns are joined by words like “or,” they take a
+
+        singular verb. See id. § 18.4(b), p. 508.
+
+               The agency’s reading also comports with the last antecedent rule, which counsels
+
+        that a limiting clause “should ordinarily be read as modifying only the noun or phrase that
+
+        it immediately follows.” See Barnhart v. Thomas, 540 U.S. 20, 26 (2003). Here, the phrase
+
+        “that is an oral solid dosage form” immediately follows the phrase “a single source drug or
+
+        an innovator multiple source drug.” That phrase consists of a series of two specific terms
+
+        with “straightforward, parallel construction.” Antonin Scalia & Bryan A. Garner, Reading
+
+        Law: The Interpretation of Legal Texts 147 (2012). And so the modifier at the end of that
+
+        list should be read to “appl[y] to the entire series.” Id.; see also Facebook, 592 U.S. at 402–
+                                                      23
+USCA4 Appeal: 23-1457        Doc: 38       Filed: 04/10/2024      Pg: 24 of 29
+
+
+
+
+        03. The “most natural reading” is thus that the oral-solid-dosage-form requirement applies
+
+        to the two elements in the parallel series before it: single source and innovator multiple
+
+        source drugs. See Facebook, 592 U.S. at 403. That suggests that the original drug (whether
+
+        a single source drug or an innovator multiple source one) is the thing that must be in oral
+
+        solid dosage form.
+
+               We think the agency persuasively posits that the last antecedent rule applies here.
+
+        Vanda protests, however, that the last antecedent rule does not apply to an “‘integrated’
+
+        clause” that “refer[s] to a single thing.” Cyan, Inc. v. Beaver Cnty. Emps. Ret. Fund, 583
+
+        U.S. 416, 440 (2018). The phrase “a line extension of a single source drug or an innovator
+
+        multiple source drug,” Vanda continues, is just such an integrated clause. But even so, this
+
+        does not support Vanda’s suggested reading. When faced with integrated clauses, the
+
+        Supreme Court has instructed that “the modifier goes back to the beginning of the
+
+        preceding clause.” Id. (emphasis added). And so, even if we were to read the phrase at issue
+
+        as an integrated clause, only the line extension (and not the original drug) would need to
+
+        be in oral solid dosage form. But Vanda’s position is that both drugs must be. Even Vanda’s
+
+        proposed exception to the last antecedent rule does not support its preferred result.
+
+               Vanda lastly tries to avoid the most obvious grammatical reading by contending that
+
+        the agency’s interpretation would produce an “absurd” result: that pill-to-liquid
+
+        transformations can lead to line extensions, but liquid-to-pill transformations cannot. It is
+
+        true that the Supreme Court will sometimes reject “the most grammatical reading” of a
+
+        statute when it would produce a result that is “positively absurd.” United States v.
+
+        X-Citement Video, Inc., 513 U.S. 64, 69–70 (1994). But only when the absurdity is quite
+
+                                                     24
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024     Pg: 25 of 29
+
+
+
+
+        serious indeed. See, e.g., id. (rejecting the most grammatical reading because it would raise
+
+        “substantial constitutional questions” and impose criminal penalties without any scienter
+
+        requirement). We see no such absurdity here. A great many drugs start off as pills. And
+
+        new formulations can work off that initial form as well. It was reasonable for Congress to
+
+        target this common path of transformation. Further, judicial rulings that Congress produced
+
+        an “absurdity” must be rare indeed, lest we open the gates for our own policy preferences
+
+        to trump those chosen by the legislature.
+
+               In short, and fundamentally, Vanda’s reading cannot be squared with the language
+
+        of the statute. It has therefore failed to demonstrate that the agency’s interpretation of the
+
+        oral-solid-dosage-form requirement was contrary to law. We thus affirm the district court
+
+        and uphold the agency’s regulation as to the oral-solid-dosage-form requirement as well.
+
+                                                     IV.
+
+               Having concluded that the regulation is not contrary to law, we turn to Vanda’s
+
+        contention that the agency’s rulemaking here was arbitrary and capricious in violation of
+
+        the APA. Unlike contrary-to-law analysis, arbitrary and capricious review is “very
+
+        deferential.” Rural Cellular Ass’n v. FCC, 588 F.3d 1095, 1105 (D.C. Cir. 2009). It is
+
+        focused not on the substance of the regulation, but on “the reasonableness of the agency’s
+
+        decisionmaking processes.” Id. We look only to whether the agency has “reasonably
+
+        considered the relevant issues and reasonably explained the decision” it made. FCC v.
+
+        Prometheus Radio Project, 592 U.S. 414, 423 (2021).
+
+               Vanda lodges three specific complaints against the procedure undergirding the
+
+        agency’s 2020 regulation. First, Vanda contends that the agency failed to confront a
+
+                                                     25
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024     Pg: 26 of 29
+
+
+
+
+        “practical inconsistency” that results from the agency’s construction of the oral-solid-
+
+        dosage-form requirement, reiterating its view that it would be “absurd” for the line-
+
+        extension provision to apply to transformations from pill to liquid but not from liquid to
+
+        pill. But, given our discussion above, see supra III.B, any such inconsistency must be laid
+
+        at the feet of Congress, not the agency. This, then, cannot be cited as a flaw in the agency’s
+
+        rulemaking procedure.
+
+               Second, Vanda accuses the agency of failing to account for reliance interests
+
+        engendered by its 2012 proposal. But the agency explicitly declined to finalize that
+
+        proposal and instructed manufacturers instead to “rely on the statutory definition.” 81 Fed.
+
+        Reg. at 5265. The notice-and-comment procedure is designed so that an agency can float a
+
+        potential rule to the public without committing itself to enacting the proposed rule’s
+
+        content. We are thus loath to impose on agencies an obligation to make allowances for
+
+        industry players who relied on proposals never implemented. Such an obligation would
+
+        only serve to dissuade agencies from making exploratory proposals in the first place. The
+
+        agency here acknowledged that it was changing its position, see 85 Fed. Reg. at 87,034,
+
+        and explained that the new interpretation was based on “10 years’ experience” and
+
+        “supported by the statute,” id. at 87,036. That was sufficient to satisfy the APA.
+
+               Finally, Vanda accuses the agency of failing to consider the “chilling effects on
+
+        pharmaceutical innovation.” Appellant’s Opening Br. 23. But in alleging such effects,
+
+        Vanda overlooks two things. First, line-extension status leads to higher rebates only if a
+
+        drug manufacturer chooses to raise the price of the original drug at a rate that outpaces
+
+        inflation. Drug manufacturers are thus in control of the rebate that they pay. Second, a drug
+
+                                                     26
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024     Pg: 27 of 29
+
+
+
+
+        manufacturer can set the initial price for a line-extension drug as high as it needs to recoup
+
+        the cost of its development, and can increase that price as well so long as those increases
+
+        do not outpace inflation either. As the agency explained, a line-extension drug incurs a
+
+        higher rebate “not due to the innovations in the new formulation” but “because the original
+
+        drug increased in price faster than the rate of inflation.” 85 Fed. Reg. at 87,041 (emphasis
+
+        added). The agency also rightly noted that if Congress had intended for factors such as “the
+
+        extent of the improvements” or “the value of an innovation” to “limit the scope of drugs
+
+        that are line extensions, it would have provided as much in the statute.” Id. at 87,038. We
+
+        think this satisfies the agency’s burden under the APA to respond to innovation-focused
+
+        comments and concerns.
+
+               In sum, none of the challenges Vanda raises to the agency’s decision-making
+
+        process suffice to show that the agency acted arbitrarily or capriciously. We therefore hold
+
+        that the process conformed to the APA’s strictures and affirm the district court with respect
+
+        to Vanda’s claim here as well.
+
+                                                     V.
+
+               It is not surprising that the government advocates a broad definition of line
+
+        extension, both in the regulation and in this litigation. Line-extension status makes a big
+
+        difference to the federal purse. It creates the prospect of larger inflation-based rebates,
+
+        which make up an increasingly large portion of the total amount paid under the Medicaid
+
+        Drug Rebate Program—more than half since 2012. See Off. of Inspector Gen., U.S. Dep’t
+
+        of Health & Hum. Servs., Medicaid Rebates for Brand-Name Drugs Exceeded Part D
+
+        Rebates by a Substantial Margin, OEI-03-13-00650 (Apr. 2015).
+
+                                                     27
+USCA4 Appeal: 23-1457      Doc: 38         Filed: 04/10/2024      Pg: 28 of 29
+
+
+
+
+               Inflation-based rebates account for so much of the total amount rebated not because
+
+        of choices the agency has made, but because prescription drug prices continue to rise.
+
+        Recall that when Congress was considering the Medicaid Drug Rebate Program, a Senate
+
+        report noted that drug prices had been increasing at three times the rate of inflation. This
+
+        problem has not abated. Between January 2022 and January 2023, drug prices increased an
+
+        average of 15.2%. See U.S. Dep’t of Health & Hum. Servs., Changes in the List Prices of
+
+        Prescription Drugs, 2017-2023 (Oct. 6, 2023). That is still nearly three times the 6.4% rate
+
+        of inflation measured for the same period. See U.S. Bureau of Lab. Stats., Consumer Prices
+
+        for Shelter Up 7.9 Percent from January 2022 to January 2023 (Feb. 16, 2023).
+
+               Congress reasonably sought to respond to these soaring costs via innovative
+
+        solutions, such as the line-extension provision at issue here. In recent years, Congress has
+
+        doubled down on this mission to control drug prices while preserving the ability of
+
+        pharmaceutical companies to grow their research and development. Indeed, post-regulation
+
+        initiatives underscore this continuing focus. The Inflation Reduction Act of 2022
+
+        established for Medicare a rebate program based on the Medicaid Drug Rebate Program at
+
+        issue in this litigation. See Pub. L. No. 117-169, § 11102, 136 Stat. 1818, 1871 (codified at
+
+        42 U.S.C. § 1395w-114b). The new Medicare rebate provision, like its Medicaid
+
+        counterpart, includes a line-extension provision corresponding to the one before us. See
+
+        § 1395w-114b(b)(5)(B)(ii). And it instructs the agency that the Medicare rebate formula
+
+        should match the one the agency uses in Medicaid. See § 1395w-114b(b)(5)(B)(i).
+
+               Post-regulation initiatives do not operate as any sort of ironclad proof of original
+
+        congressional intent to broaden the universe of drug-expenditure regulation. If the agency’s
+
+                                                     28
+USCA4 Appeal: 23-1457      Doc: 38          Filed: 04/10/2024      Pg: 29 of 29
+
+
+
+
+        regulation was at odds with the line-extension provision in the statute, post-enactment
+
+        events in other statutes could not salvage it. See Food Mktg. Inst. v. Argus Leader Media,
+
+        139 S. Ct. 2356, 2366 (2019). But the fact that Congress is pushing in the same direction
+
+        as the agency to carefully balance progress and prices strengthens our conviction that the
+
+        statute it enacted allows for the regulation the agency imposed.
+
+               Inflation-based rebates, of course, are not permissible as a matter of policy but only
+
+        insofar as they conform to law. But given that costs have continued to rise and that
+
+        Congress has continued to expand its cost-control measures, we think the balance struck
+
+        by the agency’s challenged regulation between cost control and room for pharmaceutical
+
+        innovation is appropriate. By entrusting the Medicaid Drug Rebate Program to CMS’s care,
+
+        Congress charged the agency with trying to provide some modest set of controls on
+
+        healthcare costs to the government at a time when great medical advances bring great
+
+        benefits but also impose great expense. Vanda is entitled to disagree with the balance
+
+        struck, but we do not think that the statute gives us the authority to upset that balance so
+
+        long as it operates within the margins Congress drew. If Vanda prefers a different balance
+
+        between these competing forces, it should direct its arguments to Congress, not to the
+
+        federal courts.
+
+               Our job is simply to ensure that the agency’s rule is not contrary to law. In this case,
+
+        we think that the agency’s rule is in accord with law for all the reasons set forth above. The
+
+        district court’s judgment is thus
+
+                                                                                         AFFIRMED.
+
+
+
+                                                      29
+

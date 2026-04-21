@@ -1,0 +1,587 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+
+Argued May 4, 2021                      Decided July 9, 2021
+
+                        No. 19-1233
+
+       GREAT LAKES COMMUNICATION CORP., ET AL.,
+                    PETITIONERS
+
+                             v.
+
+   FEDERAL COMMUNICATIONS COMMISSION AND UNITED
+               STATES OF AMERICA,
+                  RESPONDENTS
+
+                    AT&T CORP., ET AL.,
+                      INTERVENORS
+
+
+
+                 Consolidated with 19-1244
+
+
+
+             On Petitions for Review of an Order
+        of the Federal Communications Commission
+
+
+
+     Lauren J. Coppola argued the cause for petitioners. With
+her on the joint briefs were G. David Carter, Dwayne D. Sam,
+Anthony T. Caso, John C. Eastman, Henry Goldberg, and W.
+Kenneth Ferree. Robert Callahan entered an appearance.
+                             2
+
+     James M. Carr, Counsel, Federal Communications
+Commission, argued the cause for respondents. With him on
+the brief were Michael F. Murray, Deputy Assistant Attorney
+General, U.S. Department of Justice, Robert B. Nicholson and
+Andrew N. Delaney, Attorneys, Thomas M. Johnson, Jr.,
+General Counsel, Federal Communications Commission,
+Ashley S. Boizelle, Deputy General Counsel, and Richard K.
+Welch, Deputy Associate General Counsel. Jacob M. Lewis,
+Associate General Counsel, and Matthew J. Dunne, Counsel,
+Federal Communications Commission, entered an appearance.
+
+     Timothy J. Simeone, Deepika H. Ravi, Michael J.
+Hunseder, James P. Young, Christopher M. Heimann, and
+David L. Lawson were on the joint brief of intervenors AT&T
+Corp., et al. in support of respondents. C. Frederick Beckner
+III, Jonathan E. Nuechterlein, and Christopher J. Wright
+entered appearances.
+
+    Before: WILKINS and RAO, Circuit Judges, and
+SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed by Senior Circuit Judge
+SILBERMAN.
+
+     SILBERMAN, Senior Circuit Judge: Petitioners challenge
+an FCC rule that discourages competitive carriers from
+stimulating access fees that long-distance carriers must pay
+when routing calls to a local carrier. We deny the petitions
+because the Commission has ample statutory authority and its
+rule is reasonable.
+
+                              I
+
+     As we previously described, so-called “competitive
+carriers” compete with legacy “incumbent carriers,” who are
+                               3
+descendants of AT&T’s broken-up monopoly. See generally
+Comptel v. FCC, 978 F.3d 1325 (D.C. Cir. 2020). Typically,
+the latter own the local phone network, while the former lease
+or purchase at wholesale the use of the incumbent’s network to
+deliver services.
+
+     The smaller of the incumbent carriers—operating largely
+in rural areas—are known as rate-of-return carriers because
+their prices are set by a regulatory formula based on their costs
+plus a profit percentage. Competitive carriers benchmark their
+rates to an incumbent operating in the same area, whose rates
+have already been approved. See Connect America Fund,
+Notice of Proposed Rulemaking, 26 FCC Rcd. 4569 ¶ 36
+(2011). Since competitive carriers use the networks of others,
+they have greater geographic flexibility. And this flexibility
+allows them to act quickly to exploit profitable market
+opportunities and engage in regulatory arbitrage.
+
+     In a previous case, we described the competitive carriers’
+targeting of a market niche servicing large business and
+government entities. Comptel, 978 F.3d at 1331. In this case,
+the FCC focuses on the competitive carriers’ pursuit of another
+market segment—toll conference centers. They host telephone
+conferences where multiple people call in to a meeting.
+
+     Servicing toll conference centers has been a particularly
+lucrative business for competitive carriers. Under existing (and
+congressionally-sanctioned) regulations, long-distance carriers
+must pay an “access fee” to local carriers that deliver calls to
+their recipients. The access fee covers the responsibility of
+tandem switching and transportation to the local carrier’s end
+office. The more people who call into the conference center,
+the more profit the carrier generates, because fees exceed the
+marginal cost to the carrier. This provides a competitive carrier
+an incentive to operate in areas where the incumbents have high
+                               4
+per-minute interstate access rates, and then to inflate the
+amount of traffic on its system.
+
+     Calls to rural areas are more expensive (and profitable) for
+technological and regulatory reasons. So competitive carriers
+will often route calls through rural areas and encourage toll
+conference centers to operate there. Indeed, some carriers
+operating in rural areas have had explicit agreements with call
+centers to share revenue from access charges—thereby
+stimulating conference callers to offer artificially low rates
+(even totally free calls).
+
+     As a result of these incentives, some sparsely populated
+rural areas receive a disproportionate and overwhelming
+number of calls. The Commission credited AT&T’s
+observation, for instance, that twice as many calling minutes
+were routed in a month to Redfield, South Dakota (population
+2,300) and one end office as were routed to Verizon’s facilities
+in New York City (population 8,500,000) and 90 end offices.
+Similarly, Sprint explained that Iowa, with 1% of the U.S.
+population, accounts for 48% of Sprint’s access fee payments.
+In addition to higher fees, the Commission notes that access
+stimulation may result in overloaded networks, call blocking,
+and dropped calls. Updating the Intercarrier Compensation
+Regime to Eliminate Access Arbitrage, 34 FCC Rcd. 9035 ¶¶
+15, 95, 111 (2019) (“Order”).
+
+     The long-distance carriers complained to the FCC. Under
+existing rules they could not charge their customers separately
+for such calls; long-distance rates for customers are calculated
+as flat rates without regard to the length of call or geographic
+distance. See 47 U.S.C. § 254(g); Connect America Fund,
+Report and Order, 26 FCC Rcd. 17663 ¶ 663 (“2011 Order”).
+The interexchange carriers claimed, therefore, that the costs
+                                   5
+generated by the few who were making these calls to
+conference centers were borne by all customers.
+
+      In a 2011 rule, the FCC agreed with the long-distance
+carriers’ complaints. 2011 Order ¶ 675. The FCC designated
+carriers who exploited this regulatory loophole as “access
+stimulators.” That designation included both competitive
+carriers and rate-of-return carriers who (1) had a revenue
+sharing agreement with a third-party based on access charges
+and (2) had three times as many long-distance calls coming in
+(“terminating”) as going out (“originating”). 1 If designated an
+access stimulator, regulators would reduce the access fees that
+a carrier was permitted to charge. 2011 Order ¶¶ 684–86, 688–
+90. 2
+
+     But the 2011 rule was not completely successful. Some
+competitive carriers continued to stimulate access fees
+notwithstanding     the    sanction.    Others      successfully
+circumvented the ban on direct revenue sharing with the
+conference call centers by using third parties. See Order ¶ 44;
+AT&T Corp. v. FCC, 970 F.3d 344, 351–53 (D.C. Cir. 2020).
+
+     So, in 2018, the Commission revisited the problem. It
+issued a Notice of Proposed Rulemaking that, importantly,
+inquired “whether, and if so how, to revise the current
+definition of access stimulation to more accurately and
+
+
+        1
+         Even if a carrier didn’t meet the 3:1 ratio, it could still be
+an access stimulator if it had doubled either its interstate originating
+or terminating switched access minutes in a month, year over year.
+        2
+          Certain carriers challenged the 2011 rule in the Tenth
+Circuit, which sided with the Commission. See generally In re FCC
+11-161, 753 F.3d 1015 (10th Cir. 2014).
+                               6
+effectively target harmful access stimulation practices.” 3 The
+prospective sanction for a carrier determined to be an access
+stimulator was a complete ban on charging access fees.
+
+     The FCC released a draft order in which it stated that it
+would add an alternative definition of access stimulation that
+would not include the troubling revenue sharing agreement as
+an essential element. Instead, competitive—as well as rate-of-
+return—carriers that terminated six times the number of long-
+distance calls they originate would be access stimulators, even
+if there was no revenue sharing agreement.
+
+     After the close of the comment period, AT&T and NTCA
+(a trade association including rate-of-return carriers) met with
+the FCC and claimed that rate-of-return carriers did not engage
+in harmful access stimulation practices, but some would
+nevertheless hit the 6:1 ratio. They proposed a higher ratio—
+10:1—for rate-of-return carriers. That same day, the FCC
+released a notice of its final agenda, thereby, under the
+Commission’s rules, preventing further responses.
+
+     The Commission adopted rules largely following those
+proposed in the draft order but incorporating the differentiated
+definitions proposed by AT&T and NTCA. In addition to the
+old definition of access stimulation, the Commission added a
+new factor. If a competitive carrier exceeded a 6:1 ratio of
+terminating to long-distance calls in any month, it would be
+labelled an access stimulator regardless of whether it had any
+revenue sharing agreements. Order ¶¶ 43–67. But rate-of-
+return carriers without a revenue sharing agreement could
+
+
+
+       3
+         Notice of Proposed Rulemaking, 33 FCC Rcd. 5466, 5475
+¶ 26 (2018) (“NPRM”).
+                                  7
+avoid access-stimulator status if their ratio did not exceed 10:1
+for three consecutive months. 4
+
+     The Commission explained its separate test for rate-of-
+return carriers by emphasizing their structural and economic
+differences from competitive carriers. Id. ¶¶ 47–55. As we
+previously described, the Commission noted that many rate-of-
+return carriers are small and rural. They have fixed offices and
+infrastructure serving defined communities. By contrast, many
+competitive carriers serve only high-volume commercial
+customers and can flexibly target those customers. Id. ¶ 49.
+And the Commission found that rate-of-return carriers may be
+more susceptible to seasonal fluctuations given the economics
+of rural communities. These considerations, coupled with the
+lack of evidence that rate-of-return carriers were engaging in
+harmful access-stimulation practices, led the Commission to
+adopt the separate definitions of access stimulation.
+
+     The Order prohibited an access stimulator from collecting
+access charges from long-distance carriers. Moreover, it also
+imposed responsibility on access stimulators for paying any
+access charges imposed by intermediate carriers (carriers
+between the long-distance carrier and the access-stimulating
+network). Order ¶¶ 17–42. The agency explained this rule
+would “properly align financial incentives by making the
+access-stimulating [carrier] responsible for paying for the part
+of the call path that it dictates.” Order ¶ 17.
+
+
+
+
+        4
+           Rate-of-return carriers also had to be of sufficient size to
+trigger the 10:1 ratio definition—at least 500,000 minutes of
+interstate terminating traffic in an end office, averaged over three
+calendar months. Order ¶ 43.
+                                8
+                               II
+
+     Petitioners (several competitive carriers and companies
+that offer conference calls) challenge the rule on three grounds.
+First, they contend that it exceeds the Commission’s statutory
+authority. Second—and this is the main substantive
+argument—the rule is arbitrary and capricious (unreasonable)
+for several reasons. Third, there is a separate violation of the
+APA; the rule is not a logical outgrowth of the Notice of
+Proposed Rulemaking. We take these arguments in turn.
+
+                                A
+
+     The government relies primarily on 47 U.S.C. § 201(b) for
+its authority to promulgate the Order. That section provides:
+
+    All charges, practices, classifications, and regulations
+    for and in connection with [common carrier]
+    communication service, shall be just and
+    reasonable, . . . The Commission may prescribe such
+    rules and regulations as may be necessary in the
+    public interest to carry out the provisions of this
+    chapter.
+
+(emphasis added). On its face, Section 201(b) gives the
+Commission broad authority to define and prohibit practices or
+charges that it determines unreasonable. Fees intentionally
+accrued by artificially stimulating and inefficiently routing
+calls would appear to fall within that wide authority. To be sure,
+under the APA, the Commission’s decisions as to what is
+unreasonable must themselves be reasonable. But if the
+Commission can legitimately conclude that local carriers’
+behavior as an access stimulator is unfair to the long-distance
+carriers and their customers—which we discuss in part B—
+then the local carriers who engage in access stimulation can
+                               9
+reasonably be described as engaging in unreasonable practices
+under Section 201(b).
+
+    Petitioners respond by claiming that the statutory text in
+Section 201(b) is not as broad as it seems because other
+provisions cabin the Commission’s authority. It is claimed that
+Section 251(b)(5), which obliges carriers to establish
+reciprocal arrangements to transport and terminate calls, and
+Section 252(d)(2), which links reciprocity with just and
+reasonable agreements, are inconsistent with the remedy the
+Order applies to an access stimulator.
+
+    47 U.S.C. § 251(b): Each local exchange carrier has
+    the following duties: . . . (5) The duty to establish
+    reciprocal compensation arrangements for the
+    transport and termination of telecommunications.
+
+    47 U.S.C. § 252(d)(2): (A) For the purposes of
+    compliance by an incumbent local exchange
+    carrier with section 251(b)(5) of this title, a State
+    commission shall not consider the terms and
+    conditions for reciprocal compensation to be just and
+    reasonable unless—(i) such terms and conditions
+    provide for the mutual and reciprocal recovery by
+    each carrier of costs associated with the transport and
+    termination on each carrier’s network facilities . . . .
+
+    (B) This paragraph shall not be construed—(i) to
+    preclude arrangements that afford the mutual recovery
+    of costs through the offsetting of reciprocal
+    obligations, including arrangements that waive
+    mutual     recovery    (such      as    bill-and-keep
+    arrangements).
+
+(emphases added).
+                              10
+     Petitioners contend that the reciprocity and mutuality
+requirements of 251(b)(5) and 252(d)(2) should inform the
+reading of 201(b)’s “just and reasonable” term. But, as the
+Commission points out, neither 251(b)(5) or 252(d)(2) applies
+directly to the FCC. They are directed to carriers and State
+Commissions respectively, and the Commission’s role is
+limited to supplying background default rules for States to
+apply. See Order ¶ 99 (citing 2011 Order ¶¶ 760–81); see also
+47 U.S.C. § 201(b) (granting rulemaking authority).
+
+     There is no dispute between the parties that the linguistic
+meaning of “just and reasonable,” standing alone, would give
+the Commission broad authority. See Nat’l Ass’n of Regul. Util.
+Comm’rs v. ICC, 41 F.3d 721, 726–27 (D.C. Cir. 1994). But,
+arguably, the Chevron framework is still in play to determine
+whether Sections 251 and 252 affect the meaning of “just and
+reasonable” in this context. The government invoked Chevron,
+and we think its interpretation is eminently permissible. See
+467 U.S. 837 (1984).
+
+     Even assuming the sections did limit the Commission’s
+authority under 201(b), Petitioners’ argument has no merit.
+They argue the sanction imposed on access stimulators is itself
+non-reciprocal and non-mutual because they can no longer
+recover access charges for calls they terminate—a
+circumstance which doesn’t apply to calls the access stimulator
+originates. This seems to us to be a rather labored and
+unpersuasive argument. Under Petitioners’ logic, if a local
+carrier’s ratio of incoming calls to outgoing were 100:1, the
+Commission would be powerless to prevent the access
+stimulator from recovering access fees despite being grossly
+disproportionate to its costs. And after all, the whole purpose
+of the FCC’s rule is to achieve a measure of reciprocity
+                                 11
+between the originating and terminating calls, and thereby
+reciprocity with the interexchange carriers. 5
+
+    In sum, we think Petitioners’ statutory arguments are
+unpersuasive.
+
+                                 B
+
+     Petitioners attack the premise of the FCC’s rule. It is
+allegedly unreasonable for the FCC to conclude that consumers
+were disadvantaged by the stimulation of access charges. 6
+Seventy-five million people use toll conferencing annually.
+And the revenue long-distance carriers receive from these
+subscribers—some $20.7 billion—dwarfs the $60–80 million
+in additional charges caused by access stimulators.
+
+     The flaw in the argument is that, as the Commission
+explained, it is impossible for the long-distance carriers to
+charge those users the marginal cost for these services. Section
+254(g) of the Communications Act prevents them from
+charging customers directly for these costs. Since the costs are
+thus spread to all consumers, access stimulation raises the cost
+of calls for everyone. See Order ¶ 20 n.55 (citing 2011 Order
+¶ 663).
+
+
+        5
+          This whole question of access stimulation will probably
+become moot as the Commission fully transitions to what is called a
+bill-and-keep regime, whereby access fees will be largely or entirely
+eliminated and each carrier will bill its customers for its cost of
+originating and terminating calls. See Order ¶ 11; 47 U.S.C. § 251(g)
+(providing the Commission authority to establish transitory rules).
+        6
+          See 5 U.S.C. § 706(2)(A); FCC v. Prometheus Radio
+Project, 141 S. Ct. 1150, 1158 (2021) (requiring agency action be
+“reasonable and reasonably explained”).
+                               12
+     Still, Petitioners challenge the notion that even though the
+costs for long-distance carriers had been reduced by the 2011
+rule—and reduced further by the 2019 rule—these cost savings
+would flow to consumers. They have, according to Petitioners,
+fattened the purses of the long-distance carriers’ stockholders,
+not callers. To support this theory, Petitioners sought discovery
+into whether the 2011 rule had actually benefitted consumers.
+They contend that the Commission’s refusal to pursue evidence
+to establish their premise was erroneous and, substantively, the
+premise itself was unreasonable.
+
+     We disagree. The Commission was well within its broad
+discretion to “decide when enough data is enough.” United
+States v. FCC, 652 F.2d 72, 90–91 (D.C. Cir. 1980) (en banc).
+And it could reasonably rely on common sense and predictive
+judgments within its expertise “even if not explicitly backed by
+information in the record.” Phoenix Herpetological Soc’y, Inc.
+v. U.S. Fish & Wildlife Serv., 998 F.3d 999, 1006 (D.C. Cir.
+2021); see also FCC v. Fox Television Stations, Inc., 556 U.S.
+502, 521 (2009).
+
+     In any event, the requested evidentiary exploration would
+have been a snare and a delusion. It is well established the
+interexchange market is quite competitive, as the Commission
+explains. Order ¶ 32. In a competitive market, a reduction in
+producer costs can reasonably be expected to translate into
+lower consumer prices. Moreover, as the Commission further
+explained, even if some portion of the cost savings improved
+the returns of shareholders, that would benefit the public in the
+long run by encouraging further investment in long-distance
+networks.
+
+     Petitioners further contend that even large and expensive
+charges should be tolerated provided that the long-distance
+carriers are able to make a profit. This argument is based on a
+                                  13
+rather disappointing understanding of economics. The relevant
+point is that artificial network stimulation harms consumers by
+distorting the market.
+
+                              *    *    *
+
+     Next we deal with Petitioners’ claim that it was unfair, and
+thus unreasonable, to treat the rate-of-return carriers more
+leniently than the competitive carriers. It will be recalled that
+the rate-of-return carriers are not deemed access stimulators
+unless they have incoming calls which exceed a ratio of 10:1
+vis-à-vis outgoing calls, but competitive carriers are subject to
+a 6:1 ratio. 7
+
+     The Commission “bears the burden ‘to provide some
+reasonable justification for any adverse treatment relative to
+similarly situated competitors.’” Baltimore Gas & Elec. Co. v.
+FERC, 954 F.3d 279, 283–84 (D.C. Cir. 2020) (quoting ANR
+Storage Co. v. FERC, 904 F.3d 1020, 1025 (D.C. Cir. 2018)).
+We think the Commission satisfied this burden and reasonably
+distinguished the two kinds of carriers. The rate-of-return
+carriers lack the same ability to pursue conference call centers
+as customers and game the access charge regime. They have a
+relatively defined geographic footprint that prevents the
+aggressive selling practices and rate arbitrage that competitive
+carriers can employ.
+
+
+        7
+           Petitioners also claim the 6:1 ratio is arbitrary. In a sense
+that is true, just as would be true of a 60 miles-per-hour speed limit.
+But it is within the zone of reasonableness given the Commission’s
+goal to set a ratio that would encompass carriers engaged in access
+stimulating practices without relying on a revenue sharing
+agreement. See Vonage Holdings Corp. v. FCC, 489 F.3d 1232,
+1242–43 (D.C. Cir. 2007).
+                                 14
+     To be sure, some competitive carriers have gravitated to
+state-of-the-art network facilities, affixing them more firmly to
+a geographic area and allowing them to pursue both business
+and residential customers. But as a class, it is still true that most
+competitive carriers are much more flexible than rate-of-return
+carriers. Therefore, the FCC’s differential treatment of the two
+types of carriers was reasonable.
+
+     Indeed, the Commission saw no evidence that rate-of-
+return carriers had sought to stimulate their access charges or
+engage in rate arbitrage. Yet the increasing use of the internet
+and cell phones to initiate long-distance calls could cause rate-
+of-return carriers’ ratio of incoming-to-outgoing calls to rise
+above 6:1. So the 10:1 limitation imposed on them by the
+Commission’s Order was a reasonable prophylactic limitation.
+
+                            *    *    *
+
+    Petitioners argue that the Commission’s subsequent
+enforcement of the rule and grant of waivers demonstrates the
+Order’s arbitrariness, and, specifically, evidence the
+Commission’s targeting of certain competitive carriers. The
+FCC responds that such arguments are improperly before this
+Court. We side with the Commission.
+
+     Ordinarily we review only the order or rule before us, not
+subsequent events. Comptel, 978 F.3d at 1334. However,
+Petitioners call our attention to an exception, Amoco Oil Co. v.
+EPA, 501 F.2d 722 (D.C. Cir. 1974). The peculiar
+circumstances of that case led us to consider post-rulemaking
+events for the limited purpose of assessing “the truth or falsity
+of agency predictions.” Id. at 729 n.10. We considered post-
+rulemaking congressional testimony that bore directly on the
+plausibility of agency predictions that were essential to the
+rule—and predictions the agency reaffirmed subsequent to the
+rule. Id. at 729 n.10, 731.
+                                 15
+     As we later emphasized, “[t]he exception made in Amoco
+Oil was quite narrow.” Defs. of Wildlife v. Gutierrez, 532 F.3d
+913, 920 (D.C. Cir. 2008). It does not apply here, and we
+certainly do not wish to extend it. If Petitioners want to
+challenge the Commission’s enforcement practices it will have
+to do so in a separate proceeding. 8
+
+                                 C
+
+     There remains Petitioners’ argument that the final rules’
+differential treatment of rate-of-return carriers and competitive
+carriers—even if reasonable—was not foreshadowed by the
+NPRM; it was not a “logical outgrowth” of the Notice. See U.S.
+Telecom Ass’n v. FCC, 825 F.3d 674, 700 (D.C. Cir. 2016) (A
+notice “satisfies the logical outgrowth test if it expressly ask[s]
+for comments on a particular issue or otherwise ma[kes] clear
+that the agency [is] contemplating a particular change.”
+(internal quotation omitted)); 5 U.S.C. § 553(b)(3) (“The notice
+shall include . . . (3) either the terms or substance of the
+proposed rule or a description of the subjects and issues
+involved.”).
+
+    This is a troubling argument, perhaps because the
+Commission accepted the last-minute proposal from AT&T
+and NTCA—too late for adverse comment. Even though we
+have concluded that the FCC’s adoption of the proposal was
+
+        8
+          Petitioners also raise a rather weak argument that the Order
+creates a Network Edge inconsistently with past policy. See Fox
+Television Stations, 556 U.S. at 515. A Network Edge is the
+boundary in a bill-and-keep system where the financial responsibility
+shifts between carriers. Petitioners’ argument is not worth discussing
+because, as reasonably construed by the Commission, the Order does
+not set a Network Edge, as it does not yet institute a bill-and-keep
+regime. See Order ¶ 101.
+                                 16
+reasonable, can it fairly be said that the differential treatment
+was a logical outgrowth of the notice?
+
+     The FCC’s position is clearly yes because the NPRM
+explicitly asked whether the Commission should “modify the
+ratios or triggers”—plural—in the definition of access
+stimulation (recall it is 3:1 under the 2011 rule). NPRM ¶ 26.
+That statement warned commenters that the prior 3:1 ratio
+could be modified. Granted, it did not explicitly suggest
+differential treatment. But since the Commission concluded
+that rate-of-return carriers were not at all access stimulators—
+a conclusion that Petitioners do not challenge—it would have
+been foreseeable that rate-of-return carriers would have been
+excluded altogether from any modification of the 2011 rule.
+Because even such an extreme differential treatment was
+foreseeable, the Order’s more limited differential ratios were a
+logical outgrowth of the notice. 9
+
+                             *    *    *
+
+     In sum, Petitioners have not shown that the Commission
+failed to provide adequate notice or otherwise acted
+unreasonably in its promulgation of the Order. Thus, we deny
+the petitions for review. 10
+
+     So ordered.
+
+        9
+          Petitioners also claim that the remedy to be imposed on
+access stimulators in the final rule differs from the remedy suggested
+in the NPRM. We think that is obviously of no significance. See
+NPRM ¶¶ 8–9; 13–23; Order ¶¶ 40–41.
+
+         Petitioners have made a number of other and subsidiary
+        10
+
+arguments which we have considered and reject without written
+opinion.
+

@@ -1,0 +1,964 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 10, 2022            Decided August 16, 2022
+
+                       No. 21-1088
+
+                     BLOOMBERG L.P.,
+                       PETITIONER
+
+                             v.
+
+         SECURITIES AND EXCHANGE COMMISSION,
+                      RESPONDENT
+
+      FINANCIAL INDUSTRY REGULATORY AUTHORITY,
+                     INTERVENOR
+
+
+             On Petition for Review of an Order
+        of the Securities and Exchange Commission
+
+
+
+     Keith Bradley argued the cause for petitioner. With him
+on the briefs was ScheLeese Goudy.
+
+    Thomas A. Burns was on the brief for amicus curiae
+Healthy Markets Association in support of petitioner.
+
+    Theodore J. Weiman, Senior Litigation Counsel,
+Securities and Exchange Commission, argued the cause for
+respondent. With him on the brief were Michael A. Conley,
+Solicitor, and Tracey A. Hardin, Assistant General Counsel.
+                                 2
+    Nowell D. Bamberger was on the brief for intervenor
+Financial Industry Regulatory Authority, Inc. in support of
+respondent. Giovanni P. Prezioso entered an appearance.
+
+    Paul S. Mishkin and David B. Toscano were on the brief
+for amici curiae Intercontinental Exchange, Inc., et al. in
+support of respondent.
+
+    Before: WILKINS, KATSAS and JACKSON, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge WILKINS.
+
+     WILKINS, Circuit Judge: Petitioner Bloomberg L.P.
+(“Bloomberg”) seeks review of the Securities and Exchange
+Commission’s (the “Commission” or “SEC”) decision to
+approve new reporting requirements proposed by the Financial
+Industry Regulatory Authority, Inc. (“FINRA”), Intervenor-
+for-Respondent, affecting underwriter members in the
+corporate bond market. FINRA represented to the SEC that
+market inefficiencies in the corporate bond market reduce
+market participation, decrease liquidity, and increase
+transaction and opportunity costs. To address these problems,
+FINRA proposed to consolidate and provide market-wide
+access to “core” reference data for new issues of corporate
+bonds through a subscription-based service. The Commission
+ultimately concluded that FINRA’s proposal would impose a
+limited burden on competition and enable market participants
+to obtain broad, uniform access to corporate bond reference
+data before the first transaction in a new-issue bond.
+Accordingly, the Commission approved FINRA’s proposal.
+
+
+
+
+  Circuit Judge, now Justice, Jackson was a member of the panel at
+the time the case was argued but did not participate in this opinion.
+                               3
+    Importantly, though, during the rulemaking process,
+various commenters raised concerns about FINRA’s proposed
+data service. In relevant part, Bloomberg commented that
+FINRA did not provide any information about how much it will
+cost to build and maintain the database, and to what extent
+FINRA will pass those costs along to market participants.
+
+     For the reasons explained below, we find that pursuant to
+the Administrative Procedure Act, 5 U.S.C. § 706(2)(A), the
+Commission’s approval of FINRA’s proposal was arbitrary
+and capricious because the Commission neglected to give a
+reasoned explanation in response to Bloomberg’s significant
+concerns about the costs that FINRA, as well as market
+participants, will incur in connection to the creation and
+maintenance of the data service. Accordingly, we grant
+Bloomberg’s petition for review on the grounds that the
+Commission’s failure to respond to significant public
+comments about the costs associated with FINRA’s proposal
+was arbitrary and capricious. We deny Bloomberg’s petition
+for review with respect to its remaining arguments. We remand
+without vacatur for the Commission to respond appropriately.
+
+                               I.
+
+     FINRA is a private association of securities broker-dealers
+that regulates the conduct of broker-dealers—people or firms
+in the business of buying or selling securities on behalf of
+customers, their own accounts or both—and formulates and
+enforces standards for trading and brokerage. Because of its
+status as a self-regulatory organization, Section 19(b)(2)(C)(i)
+of the Securities and Exchange Act of 1934 (the “Exchange
+Act” or “Act”), 15 U.S.C. § 78s(b)(2)(C)(i), imposes on
+FINRA “a duty to promulgate and enforce rules governing the
+conduct of [its] members, under the oversight of the SEC.” See
+NetCoalition v. SEC, 715 F.3d 342, 344–45 (D.C. Cir. 2013)
+                               4
+(“NetCoalition II”) (internal quotation marks and citations
+omitted). The Act provides that FINRA must submit any
+proposed rules or rule changes to the SEC, which “shall
+approve” proposals if it finds them “consistent with the
+requirements of” the Exchange Act and applicable SEC rules
+and regulations. 15 U.S.C. § 78s(b)(2)(C)(i).
+
+     Bloomberg is a global business and financial information
+company. Among other things, it is a private data vendor that
+dominates the market for private data services. See Pet’r’s
+Opening Br. at 8. Bloomberg obtains newly issued bond
+reference data from underwriters—usually before other data
+vendors and market participants—and then sells that data to
+market participants.
+
+     Reference data is very important. When corporations issue
+bonds, the underwriters who buy and sell those bonds to market
+participants compile certain reference data—details and terms,
+such as the name of the issuer and identification numbers—and
+provide them to data vendors like Bloomberg. Without
+reference data, trading platforms cannot list a bond for trading.
+
+     Timing matters, too. The hours and days that immediately
+follow a bond offering are generally a highly active trading
+period. Accordingly, market participants, namely investors,
+seek out timely reference data about new corporate bonds
+coming to market from vendors like Bloomberg. According to
+FINRA, because each reference data provider collects and
+distributes new issue reference data “from different sources and
+at different speeds[,]” the reference data is not necessarily
+“consistent, timely and accurate across reference data
+providers.” J.A. 1–2.
+                               5
+                              II.
+
+     In 2017, the SEC established the Fixed Income Market
+Structure Advisory Committee (“FIMSAC” or “Advisory
+Committee”) to offer advice and recommendations to the
+Commission on the structure of the fixed income market.
+(Corporate bonds are considered fixed income securities.)
+FIMSAC is composed of individuals representing a range of
+perspectives on the fixed income markets, including corporate
+bond investors, broker-dealers, underwriters, academics, and
+data vendors. FIMSAC’s Technology and Electronic Trading
+Subcommittee (the “Subcommittee”), which represents a
+cross-section of fixed income market participants, determined
+that there are gaps in the corporate bond reference data market,
+both in terms of when data vendors make data available and the
+data’s accuracy. The Subcommittee attributed these disparities
+to (1) the fact that private data vendors—like Bloomberg—are
+not obligated to provide impartial access to new issue reference
+data; (2) vendors lacking equal access to information from
+underwriters; and (3) the resulting confusion, which increases
+transaction costs and impedes competition in the corporate
+bond market.
+
+    The Subcommittee met several times over the course of
+seven months to fill the gaps in the corporate bond reference
+data market. It ultimately recommended that FINRA, as an
+impartial entity, establish a consolidated new issue reference
+data service that makes core reference data available to all
+subscribers in a timely and commercially reasonable manner.
+
+    The Subcommittee’s recommendation paralleled another
+proposal the SEC had previously approved. In 2008, the SEC
+accepted the Municipal Securities Rulemaking Board’s
+proposal to establish a centralized, self-regulatory
+organization-mandated data service that would provide
+                                6
+participants in the municipal bond market with timely access to
+“core” reference data and streamline the trade of municipal
+bonds. The petition before us concerns a proposal for a similar
+service in the corporate bond market.
+
+     FIMSAC unanimously endorsed the Subcommittee’s
+recommendation. In October 2018, FIMSAC recommended
+that FINRA establish a corporate bond new issue reference data
+service—similar to the municipal bond market service that the
+SEC approved in 2008—to mitigate the disparities in the
+market for corporate new issue reference data.
+
+                               A.
+
+     To that end, FINRA performed an Economic Impact
+Assessment: an analysis of the corporate bond market. FINRA
+coordinated independent outreach to eleven participants in the
+corporate bond market: four data vendors, three underwriters,
+two trading platforms, and two clearing firms. Insights from
+these entities led FINRA to discover the same problems
+FIMSAC did: data vendors receive reference data through
+different channels at different times, which leads to untimely,
+inconsistent, and inaccurate distribution of corporate bond new
+issue reference data to market participants. Thereafter, FINRA
+set out to develop a solution that would address gaps in the
+availability of accurate, complete, and timely access to
+corporate bond new issue reference data.
+
+    FINRA developed a proposal to establish a centralized
+new issue reference data service for corporate bonds. First,
+FINRA would require its member underwriters to report to
+FINRA—before trading on a new issue begins—32 unique data
+elements that are integral to the valuation, trade, and settlement
+of corporate bonds. Collectively, these elements constitute
+“core” reference data. Next, FINRA would create a database
+                                7
+to consolidate the data and provide market-wide access through
+a fee subscription.
+
+                               B.
+
+     On March 27, 2019, pursuant to Section 19(b)(1) of the
+Exchange Act, 15 U.S.C. § 78s(b)(1), FINRA proposed to the
+SEC the establishment of a consolidated fee-based data service
+that would provide market-wide access to new issue reference
+data.
+
+     FINRA Rule 6760 “requires certain data elements—those
+sufficient to identify the security accurately—to be reported
+before the execution of the first transaction, and all remaining
+data elements to be reported within 15 minutes of the Time of
+Execution of the first transaction.” J.A. 2 n.4. Rule 6760(b)
+currently requires underwriters to provide certain new issue
+reference data to FINRA. FINRA’s proposal would amend
+Rule 6760(b) to require underwriters to report additional data
+elements to FINRA. In relevant part, the amended version of
+Rule 6760(b) would require underwriters to report the
+following core information:
+
+       (A) The International Securities Identification
+       Number (ISIN); (B) the currency; (C) the issue
+       date; (D) the first settle date; (E) the interest
+       accrual date; (F) the day count description; (G)
+       the coupon frequency; (H) the first coupon
+       payment date; (I) a Regulation S indicator; (J)
+       the security type; (K) the bond type; (L) the first
+       coupon period type; (M) a convertible indicator;
+       (N) a call indicator; (O) the first call date; (P) a
+       put indicator; (Q) the first put date; (R) the
+       minimum increment; (S) the minimum
+       piece/denomination; (T) the issuance amount;
+                                 8
+        (U) the first call price; (V) the first put price;
+        (W) the coupon type; (X) rating (TRACE
+        Grade); (Y) a perpetual maturity indicator; (Z)
+        a Payment-In-Kind (PIK) indicator; (AA) first
+        conversion date; (BB) first conversion ratio;
+        (CC) spread; (DD) reference rate; (EE) floor;
+        and (FF) underlying entity ticker.
+
+J.A. 281. FINRA represented to the SEC that it would submit
+a separate filing to establish fees for the service and would
+implement its proposed service if those fees are adopted.1 Id.
+
+                                C.
+
+     In April 2019, the Commission published notice of
+FINRA’s proposed rule change in the Federal Register. See
+Notice of Filing of a Proposed Rule Change to Establish a
+Corporate Bond New Issue Reference Data Service, 84 Fed.
+Reg. 13,977 (Apr. 8, 2019). On July 1, 2019, the Commission
+instituted proceedings under Section 19(b)(2)(B) of the
+Exchange Act, 15 U.S.C. § 78s(b)(2)(B), to determine whether
+to approve the rule change.
+
+
+1
+ Initially, in its March 2019 proposal, FINRA proposed that it would
+make the new-issue data available to subscribers for a fee of $250
+per month (for internal use) or $6,000 per month (to retransmit the
+data to other users). On October 3, 2019, FINRA filed Partial
+Amendment No. 1, which was withdrawn because of a non-
+substantive administrative error. That same day, FINRA filed Partial
+Amendment No. 2, in which it removed the fee component and
+tweaked some of the core data fields required from underwriters.
+FINRA withdrew the proposed subscription fees because
+commenters urged FINRA to provide more information to justify the
+fees. Upon withdrawal, FINRA stated that it would further evaluate
+the appropriate fee structure.
+                               9
+     The Commission received 30 comments in response to
+FINRA’s proposal, including five from Bloomberg, one from
+FINRA, and one from FIMSAC. Supporters of FINRA’s
+proposal, including Intercontinental Exchange, Inc. (“ICE”)
+Bonds, ICE Data Services, and Charles River Development, all
+of whom are market participants, commented “that currently
+there is no uniform, universally available mechanism for
+providing market participants with consistent and timely access
+to reference data about corporate bonds on the day a newly
+issued corporate bond commences trading,” J.A. 193, and
+explained that timely access to reference data is crucial for the
+valuation, trade, and settlement of corporate bonds. Supporters
+of FINRA’s proposal also pointed to another issue with the
+current market for reference points: reference data is not
+available to all market participants before the trading of a new
+issue, which puts certain market participants at a competitive
+disadvantage. Ultimately, supporters of FINRA’s proposal
+contended that a FINRA-operated centralized data reporting
+requirement for new corporate bond issues would increase the
+efficiency of the corporate bond market and reduce trading and
+research costs.
+
+     Opponents of FINRA’s proposal, including Bloomberg,
+the Heritage Foundation, and the Healthy Markets Association,
+submitted comments arguing that FINRA failed to establish the
+existence of a market structure problem that requires regulatory
+intervention, as mandated under Section 15A(b)(6) of the
+Exchange Act, 15 U.S.C. § 78o–3(b)(6). Assuming that a
+problem exists, Bloomberg suggested that it was “questionable
+whether a single [self-regulatory organization] would provide
+more accurate, complete and timely service than competing
+private sector providers” and FINRA provided no evidence that
+its proposal would reduce broken trades and errors. J.A. 193
+n.28 (internal quotation marks and citation omitted). Further,
+Bloomberg submitted that the impact of any errors in a
+                               10
+centralized system would be magnified. Id. The U.S. Chamber
+of Commerce’s Center for Capital Markets Competitiveness
+commented that FINRA’s proposal would increase regulatory
+and liability burdens for underwriters without any clear benefit.
+Bloomberg echoed this concern, contending that the rule’s
+imposition of additional burdens on underwriters would
+disproportionately impact smaller underwriters.
+
+     In addition, Bloomberg commented that FINRA’s
+proposal was “antithetical to the most foundational principles
+of administrative law and cost-benefit analysis” because
+FINRA failed to quantify the direct and indirect costs of its
+proposed service (or explain why certain costs could not be
+quantified). J.A. 162. Bloomberg cautioned that self-
+regulatory organizations and agencies should not be “permitted
+to ignore regulatory burdens in this manner.” Id. Otherwise,
+“agencies could propose laudable programs heedless of their
+pricetags, seek their provisional approval without respect to
+cost, and then—once established—propose a fee that was by
+now necessary to sustain an already approved program.” Id.
+“[A]t a minimum,” Bloomberg commented, “the Commission
+must . . . know what [the] costs [of the proposed rule] are.” See
+id.
+
+    On December 4, 2019, the SEC’s Division of Trading and
+Markets (the “Division”), which is authorized by the SEC and
+federal regulations to approve proposed rule changes, accepted
+FINRA’s proposal and concluded that it was consistent with
+Sections 15A(b)(6) and 15A(b)(9) of the Act. See 15 U.S.C.
+§§ 78o–3(b)(6), (9).
+
+    On December 18, 2019, Bloomberg petitioned the
+Commission for review of the Division’s December 2019
+approval order. The Commission conducted a de novo review
+                              11
+of whether FINRA’s proposal is consistent with the Exchange
+Act and applicable rules and regulations.
+
+                             III.
+
+     Section 15A(b) of the Exchange Act, 15 U.S.C. § 78o–
+3(b), lays out numerous requirements the SEC must consider
+when reviewing a rule change. Section 15A(b)(5) requires that
+“[t]he rules of the association provide for the equitable
+allocation of reasonable dues, fees, and other charges among
+members and issuers and other persons using any facility or
+system which the association operates or controls.” Id. § 78o–
+3(b)(5). Section 15A(b)(6) provides that FINRA’s rules must
+be “designed” “to promote just and equitable principles of
+trade”; “to foster cooperation and coordination with persons
+engaged in regulating, clearing, settling, processing
+information with respect to, and facilitating transactions in
+securities”; “to remove impediments to and perfect the
+mechanism of a free and open market and a national market
+system”; and “in general, to protect investors and the public
+interest.” Id. § 78o–3(b)(6). Finally, Section 15A(b)(9) states
+that FINRA’s rules may not “impose any burden on
+competition not necessary or appropriate.” Id. § 78o–3(b)(9).
+
+     As a general matter, when the SEC is engaged in the
+review of a rule of a self-regulatory organization like FINRA,
+Section 3(f) of the Exchange Act provides that the SEC must
+consider “whether the action will promote efficiency,
+competition, and capital formation.” Id. § 78c(f). As
+mentioned, the SEC “shall approve” a rule proposal if it is
+“consistent with the requirements of” the Exchange Act and
+applicable SEC rules and regulations. Id. § 78s(b)(2)(C)(i). It
+is ultimately FINRA’s burden to demonstrate that its proposed
+rule change is consistent with the Act and applicable rules and
+regulations. 17 C.F.R. § 201.700(b)(3).
+                               12
+
+                               A.
+
+    On January 15, 2021, the Commission upheld the
+Division’s approval order, finding FINRA’s proposed rule
+change consistent with the Exchange Act, namely Section 3(f),
+15 U.S.C. § 78c(f), Section 15A(b)(6), id. § 78o–3(b)(6), and
+Section 15A(b)(9), id. § 78o–3(b)(9).
+
+     In its order, the Commission declared that “there is an
+inefficiency in the collection and availability of reference data
+for newly issued corporate bonds.” J.A. 281 (footnote
+omitted). “[T]his inefficiency results in an information
+asymmetry in the market for newly issued corporate bond
+reference data that can disadvantage many market
+participants.” Id. Further, “[t]his information asymmetry
+inhibits these market participants from transacting in the
+secondary market for newly issued bonds. . . .” Id. The
+Commission concluded that “FINRA’s proposal is reasonably
+designed to address this information asymmetry to the benefit
+of the marketplace” by “mak[ing] certain reference data
+available to market participants in a timely, accessible, and
+impartial manner.” Id.
+
+     The Commission also addressed several issues raised by
+commenters, which included, among other things, (1) “whether
+information asymmetry [actually] exists in the current
+marketplace”; (2) “the proposal’s burden on underwriters”; (3)
+“the proposal’s effect on competition among reference data
+vendors”; and (4) “the lack of information regarding fees” for
+FINRA’s data service. Id. at 282.
+
+    First, the Commission reasoned that the record—namely
+comments provided by reference data providers at the October
+2018 FIMSAC meeting and FINRA’s outreach to market
+                               13
+participants through its Economic Impact Assessment—
+establishes the existence of a reference data access problem.
+FIMSAC’s meeting transcript provides that Bloomberg
+“typically has the timeliest access to newly issued bond
+reference data on the first day a bond trades, as it enjoys the
+voluntary cooperation of underwriters,” id. at 286 n.91, while
+other data vendors face challenges with collecting and
+distributing reference data. The meeting transcript also reflects
+that Bloomberg’s dominance is attributable to underwriters’
+unwillingness to distribute reference data to all market
+participants because widespread distribution increases the risk
+of inaccuracies. Accordingly, data vendors “must expend
+substantial time and effort gathering information from multiple
+sources . . . ultimately resulting in an unnecessary market
+inefficiency.” Id. at 286–87. This hinders timely market-wide
+participation in corporate bond trading.
+
+     Next, the Commission assuaged concerns about the burden
+of additional reporting requirements on underwriters. The
+Commission observed that the impact of FINRA’s proposal on
+how underwriters currently distribute data or how data vendors
+conduct business is uncertain, but underwriters “already
+have . . . data reporting processes in place and have incurred
+the costs of establishing those processes.” Id. at 298.
+Accordingly, underwriters would have the choice to continue
+providing new issue reference data to data vendors as they see
+fit.
+
+     The Commission then turned to the proposal’s general
+burden on competition. The Commission conceded that “the
+impact on competition is uncertain,” but nevertheless
+concluded that “any burden on competition would both be
+limited and justified by the evidence in the record
+demonstrating an information asymmetry that can
+disadvantage many market participants due to the lack of
+                               14
+timely access to basic information that is important for the
+identification, valuation and settlement of newly issued
+corporate bonds.” Id. at 282. Further, FINRA’s proposal
+would not require market participants to purchase data from
+FINRA. The Commission noted that even Bloomberg
+acknowledged “that market participants currently demand
+more reference data fields than FINRA is proposing to collect.”
+Id. at 298 n.249.
+
+     Finally, the Commission addressed concerns about fees
+associated with FINRA’s proposal as well as the overall cost of
+the proposed service. The Commission first noted that FINRA
+cannot charge fees for its data service without the
+Commission’s authorization, and the Commission would not
+approve FINRA’s fee proposal absent a showing that it
+complies with the Exchange Act and the SEC’s rules regarding
+proposed fee changes. Moreover, proposed fee changes are
+subject to public notice and comment. Even if FINRA’s fee
+proposal becomes effective upon filing with the Commission,
+the Commission has authority to suspend the fee and order
+proceedings to assess whether the fee proposal is consistent
+with the Exchange Act.
+
+     Further, the Commission disagreed with commenters—
+including Bloomberg—who suggested that the agency could
+not adequately assess the proposal’s economic effects without
+knowing the fees FINRA would charge and the costs FINRA
+would incur in connection to building the service. In response
+to such comments, the Commission reasoned that FINRA’s
+later “fee filing . . . will merit a consideration of FINRA’s cost
+to build the New Issue Reference Data Service.” J.A. 301.
+“[T]he costs of the system, which will be better known once
+the system is built, will be necessary to assess whether FINRA
+has proposed a fee for that service that is consistent with the
+Act, including Section 15A(b)(5).” Id. All in all, the
+                               15
+Commission reasoned that FINRA’s proposal is justified
+because it will resolve a widespread corporate bond reference
+data problem to the benefit of the market and market
+participants.
+
+                               B.
+
+     On March 15, 2021, Bloomberg filed a timely petition for
+this Court to review the Commission’s January 2021 order.
+Bloomberg contends that the Commission’s decision should be
+vacated as arbitrary and capricious and unsupported by
+substantial evidence pursuant to the Administrative Procedure
+Act, 5 U.S.C. § 706(2)(A), because (1) there is insufficient
+evidence of an actual reference data access problem in the
+corporate bond market; (2) FINRA’s data service will impede
+competition in the corporate bond market by imposing undue
+burdens on underwriters and ousting incumbent data vendors,
+in violation of Sections 3(f) and 15A(b)(9) of the Exchange
+Act, 15 U.S.C. §§ 78c(f), 78o–3(b)(9); (3) the Commission
+failed to conduct a cost-benefit analysis of FINRA’s proposal,
+in violation of its obligation under Section 3(f) of the Exchange
+Act, id. § 78c(f); and (4) the Commission improperly allowed
+FINRA to evade review of the fees associated with its data
+service, thereby ignoring its obligation under Section
+15A(b)(5) of the Act, id. § 78o–3(b)(5).
+
+     For the reasons explained below, we find that the
+Commission’s approval of FINRA’s proposal was arbitrary
+and capricious under the Administrative Procedure Act, 5
+U.S.C. § 706(2)(A), because the Commission failed to respond
+to significant and relevant concerns Bloomberg raised in its
+comments objecting to FINRA’s proposal. Specifically, the
+agency did not provide a reasoned response to Bloomberg’s
+comments that FINRA failed to quantify the direct and indirect
+costs of its proposed data service (or explain why certain costs
+                               16
+could not be quantified), and failed to explain how the costs
+incurred for building the service will be paid if the Commission
+disapproves FINRA’s proposed fee structure in subsequent
+proceedings. As such, the Commission’s decision to approve
+FINRA’s proposal was not the product of reasoned
+decisionmaking.
+
+                              IV.
+
+     This Court has jurisdiction to review the Commission’s
+January 2021 order pursuant to Section 25(a) of the Exchange
+Act, 15 U.S.C. § 78y(a). We review the order under the
+Administrative Procedure Act, which requires us to hold
+unlawful agency action that is “arbitrary, capricious, an abuse
+of discretion, or otherwise not in accordance with law” or that
+is “unsupported by substantial evidence.” 5 U.S.C. §§
+706(2)(A), (E); Susquehanna Int’l Grp., LLP v. SEC, 866 F.3d
+442, 445 (D.C. Cir. 2017) (internal quotation marks omitted).
+“To satisfy the ‘arbitrary and capricious’ standard, ‘the agency
+must examine the relevant data and articulate a satisfactory
+explanation for its action including a rational connection
+between the facts found and the choice made.’” Susquehanna,
+866 F.3d at 445 (quoting Motor Vehicle Mfrs. Ass’n v. State
+Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)).
+
+                               A.
+
+     At the outset, Bloomberg contends that certain documents
+in the Joint Appendix—namely the transcript and other
+materials from an October 2018 FIMSAC meeting—are not a
+part of the official administrative record in this case because
+the SEC did not list these materials as a separate exhibit in the
+certified index of the record. Pet’r’s Opening Br. at 29–30;
+Pet’r’s Reply Br. at 5–6.
+                              17
+     Bloomberg is right that the SEC neglected to include
+certain materials in connection to the October 2018 FIMSAC
+meeting in the administrative record. But the SEC’s apparent
+error does not justify vacatur of the Commission’s January
+2021 order. To be sure, federal courts base their review of
+agency action on the record before the agency. See 5 U.S.C. §
+706. But, in this instance, the SEC’s “omission” of certain
+FIMSAC documents “is of little consequence, and certainly
+does not warrant vacatur” because the “parties did include the
+[omitted materials] in the Joint Appendix, making [them]
+available for our perusal” and referred to them throughout their
+briefs. MD Pharm., Inc. v. Drug. Enf. Admin., 133 F.3d 8, 15
+(D.C. Cir. 1998) (“The Rules allow parties to supply materials
+that were improperly omitted from the record.”); see also FED.
+R. APP. P. 16(b). In short, we will not vacate the order because
+of the SEC’s omission or disregard the omitted record material
+in our resolution of this petition.
+
+                              B.
+
+   We turn next to Bloomberg’s substantive challenges to the
+Commission’s January 2021 order.
+
+     First, Bloomberg contends that FINRA—and by
+extension, the SEC—relied on “anonymous sources,
+corroborated by complaints from competing data vendors that
+they struggle to get data from underwriters.” Pet’r’s Opening
+Br. at 15–16. Bloomberg characterizes FINRA’s outreach
+effort as biased, resulting in “anecdotes [that]
+cannot . . . constitute substantial evidence” of reference data
+access issues. See id. at 16. Rather than discovering evidence
+that traders or investors lack access to reference data,
+Bloomberg says FINRA’s “process was simply a mechanism
+for Bloomberg’s rivals to complain about their challenges.” Id.
+at 30 (emphasis in original). Further, Bloomberg invokes
+                               18
+Susquehanna to bolster its claim that the SEC “uncritically
+accepted” FINRA’s evidence. Id. (citing Susquehanna, 866
+F.3d at 448).
+
+     In Susquehanna, a clearing agency proposed to make
+changes to the fees that exchanges pay to the agency. 866 F.3d
+at 443–44. The SEC accepted the clearing agency’s capital
+plan proposal. The SEC conceded in Susquehanna that it relied
+on an assessment performed by the clearing agency’s
+consultant; it did not undertake its own analysis. Id. at 446–47.
+The Court criticized the SEC’s “unquestioning reliance” on the
+clearing agency’s defense of its own actions and the SEC’s
+failure to “critically review[] [the clearing agency’s] analysis
+or perform[] its own [analysis].” Id. at 447. The Court
+concluded that the SEC failed to ascertain whether the dividend
+level proposed by the clearing agency was reasonable. Id.
+Instead, “the SEC took [the clearing agency’s] word for it.” Id.
+For that reason, the Court determined that the SEC’s approval
+of the clearing agency’s proposal to change exchange fees was
+arbitrary and capricious. Id. at 449.
+
+     The case before us is nothing like Susquehanna. First, it
+was FIMSAC—an SEC-backed advisory committee—that
+independently discovered the existence of a reference data
+access problem in the market for new issue corporate bond
+reference data. FIMSAC is comprised of 23 diverse members,
+including investors, broker-dealers, underwriters, the SEC’s
+former chief economist, and data vendors; these participants
+unanimously agreed that participants in the corporate bond
+market lack timely, uniform, and accurate access to new issue
+reference data. Moreover, FIMSAC’s recommendation to
+create a solution preceded FINRA’s undertaking of an
+Economic Impact Assessment and market participant outreach.
+The January 2021 order reflects that the SEC found FINRA’s
+analysis consistent with other evidence, including materials
+                               19
+from the October 2018 FIMSAC meeting. Additionally,
+contrary to Bloomberg’s assertions, the participants in the
+FIMSAC proceedings are not anonymous; many are identified
+on the SEC’s website in FIMSAC’s public meeting transcripts
+and subcommittee meeting minutes.
+
+     All in all, by suggesting that the Commission’s decision
+rests on speculation that a reference data access problem exists,
+Bloomberg overlooks substantial evidence submitted by
+FINRA—not merely anecdotes from supposedly biased market
+participants—that there are information asymmetries and
+inefficiencies in the market for new issue corporate bond
+reference data. For all these reasons, Bloomberg’s argument—
+that the SEC merely took FINRA’s word for the existence of a
+reference data access problem—does not hold water.
+
+                               C.
+
+     The parties also dispute whether FINRA’s proposal
+offends Section 15A(b)(9) of the Exchange Act, which
+provides that FINRA’s rules should “not impose any burden on
+competition not necessary or appropriate in furtherance of the
+purposes of” the Exchange Act, 15 U.S.C. § 78o–3(b)(9), and
+Section 3(f), which requires the SEC to “consider . . . whether
+the action will promote efficiency, competition, and capital
+formation” in its review of FINRA’s proposed rule.
+Id. § 78c(f).
+
+     Bloomberg contends that FINRA’s data service constitutes
+“government-compelled data collection” that is inconsistent
+with Section 15A(b)(9), 15 U.S.C. § 78o–3(b)(9), because it
+will burden competition by “nationaliz[ing] corporate-bond
+reference data, replacing multiple private enterprises with a
+single regulatory utility.” Pet’r’s Opening Br. at 16, 31. In
+Bloomberg’s view, the Commission downplayed the risk of
+                              20
+creating a “quasi-governmental monopoly [that] will replace
+competitive private providers,” which rendered the
+Commission’s January 2021 order arbitrary and capricious.
+See id. at 22. Further, Bloomberg says FINRA’s proposed
+amendment to Rule 6760(b) will require underwriters to
+provide data to the FINRA-mandated database, thereby
+disincentivizing underwriters from giving data to private
+vendors. See id. at 21–22. Finally, Bloomberg suggests that
+implementation of FINRA’s proposed rule change could render
+data service vendors unviable. Id. at 34.
+
+     In its response brief, the SEC contends that the
+Commission’s approval of FINRA’s proposal is consistent
+with Section 15A(b)(9), 15 U.S.C. § 78o–3(b)(9), and Section
+3(f), id. § 78c(f), because any limited burden on competition is
+outweighed “by the benefits of alleviating the information
+asymmetry that disadvantages many market participants.”
+Resp.’s Br. at 34. Moreover, the SEC reiterates that FINRA’s
+proposal will promote market participation and suggests that
+the Exchange Act “does not limit its focus on competition to
+one narrow sector of the market; it focuses on the impact of
+competition in the market as a whole.” Id. Furthermore, the
+SEC does not share Bloomberg’s concern that FINRA’s data
+service—which will only require underwriters to report core
+reference data—will oust private data vendors like Bloomberg.
+Id. at 37. Finally, the SEC points out that FIMSAC’s
+recommendation to establish a new issue reference data service
+was based on the success of a similarly centralized, self-
+regulatory organization-mandated service in the municipal
+bond market, where competition continues to exist. See id. at
+17. For these reasons, the SEC contends that FINRA’s data
+service will foster competition, not burden it.
+
+    The SEC’s argument is compelling, and it accurately
+encapsulates the Commission’s requirements under the
+                               21
+Exchange Act. The Exchange Act obligates the Commission
+to consider the effects of proposed rules and regulations on the
+market as a whole, not just narrow sections of the market. For
+example, in Business Roundtable v. Securities & Exchange
+Commission, this Court emphasized the Commission’s “unique
+obligation to consider the effect of a new rule upon ‘efficiency,
+competition, and capital formation’” as well as its economic
+consequences. 647 F.3d 1144, 1148 (D.C. Cir. 2011) (quoting
+15 U.S.C. § 78c(f)). Failure to fulfill this obligation “makes
+promulgation of the rule arbitrary and capricious and not in
+accordance with law.” Id.; see also Chamber of Com. v. SEC,
+412 F.3d 133, 143 (D.C. Cir. 2005) (“the Commission [has a]
+statutory obligation to determine as best as it can the economic
+implications of the rule it has proposed”); New York Stock
+Exch. LLC v. SEC, 962 F.3d 541, 559 (D.C. Cir. 2020).
+
+    All in all, Bloomberg’s argument that FINRA’s data
+service will impose an unnecessary burden on competition
+lacks merit. First, Bloomberg mischaracterizes FINRA’s
+proposed data service as a competitive endeavor that will
+displace incumbent data vendors, and not a supplementary
+service that will foster competition and improve efficiency and
+timeliness in the reference data market. Also, Bloomberg
+overlooks the existence of underwriters’ existing data reporting
+processes, which make continued data collection “less
+burdensome than if new processes had to be established.”
+Resp.’s Br. at 40.
+
+     Moreover, Bloomberg’s own comments during the agency
+proceedings undermine its arguments here.             As the
+Commission mentioned in its January 2021 order, Bloomberg
+acknowledged that “market participants currently demand
+more reference data fields than FINRA is proposing to collect.”
+J.A. 298 n.249. In other words, FINRA’s proposal will
+facilitate additional competition by imposing data reporting
+                               22
+requirements on underwriters, which will in turn level the
+playing field for private data providers who face a reference
+data access problem. Underwriters would still be free to
+provide a broader scope of reference data elements to data
+vendors, and in turn, data vendors can meet the market’s
+demand for more comprehensive data.
+
+     To be sure, the Commission conceded in its January 2021
+order that “the impact [of FINRA’s proposal] on competition
+is uncertain” and dependent on market participants’ response.
+J.A. 282. Nevertheless, given the narrow scope of FINRA’s
+proposed amendment to Rule 6760(b) and significant evidence
+of a potentially positive impact on competition in the corporate
+bond market, including input from diverse market participants
+with expertise in the corporate bond market, we hold that the
+Commission concluded appropriately that “the limited set of
+data proposed to be reported and disseminated to allow for the
+identification, valuation and settlement of new issue corporate
+bonds is unlikely to supplant the demand for a more
+comprehensive reference database.” J.A. 298–99. At its core,
+the Administrative Procedure Act’s substantial evidence
+standard “requires more than a scintilla, but can be satisfied by
+something less than a preponderance of the evidence.” Epsilon
+Elecs., Inc. v. U.S. Dep’t of Treasury, 857 F.3d 913, 925 (D.C.
+Cir. 2017) (internal quotation marks and citations omitted). “If
+that threshold is met, we must uphold the agency’s judgment
+regarding the relevant facts. . . .” Id.
+
+     In sum, on the record before us, we hold that the
+Commission had substantial evidence to support its
+determination that FINRA’s proposal is consistent with
+Sections 3(f) and 15A(b)(9) of the Exchange Act, 15 U.S.C.
+§§ 78c(f), 78o–3(b)(9), because it will impose only a limited,
+justifiable burden on competition.
+                                23
+
+                                D.
+
+     We next address Bloomberg’s final two arguments—that
+the Commission failed to weigh the proposed rule’s costs and
+benefits, in violation of Section 3(f) of the Exchange Act, 15
+U.S.C. § 78c(f), and arbitrarily allowed FINRA to evade
+review of the fee component of its data service, in violation of
+Section 15A(b)(5) of the Exchange Act, which requires the
+Commission to assess whether FINRA’s proposed rule
+“provide[s] for the equitable allocation of reasonable . . . fees.”
+15 U.S.C. § 78o–3(b)(5).
+
+     First, we reject Bloomberg’s argument that the
+Commission arbitrarily allowed FINRA to evade review of the
+fee component of its data service, in violation of Section
+15A(b)(5) of the Exchange Act. See id. As mentioned,
+FINRA’s proposed fee is subject to public notice and comment
+and the Commission retains the authority to suspend FINRA’s
+fee-based service and order proceedings to assess whether the
+fee proposal is consistent with the Exchange Act. In its order,
+the Commission acknowledged its obligation to ensure that
+FINRA’s pending fee proposal is consistent with the Exchange
+Act. See J.A. 301. In sum, the SEC will consider fees in a
+future rulemaking, and the agency reasonably concluded that it
+has control over those fees and will not approve them unless
+they are reasonable and equitable such that they are consistent
+with the Exchange Act.
+
+     We turn next to Bloomberg’s argument that the
+Commission’s decision to approve FINRA’s proposal was
+arbitrary and capricious because the Commission failed to
+consider the costs FINRA will incur in building the system and
+the extent to which FINRA will pass along those costs to
+market participants, especially if FINRA’s data service is
+                               24
+unreasonably expensive. See Pet’r’s Opening Br. at 42. In
+Bloomberg’s view, Section 3(f) of the Exchange Act, 15 U.S.C.
+§ 78c(f), obligated the Commission to evaluate the costs and
+benefits of FINRA’s proposed data service, but the
+Commission abdicated this responsibility. See Pet’r’s Opening
+Br. at 35 (citing Chamber of Com., 412 F.3d at 143, and Bus.
+Roundtable, 647 F.3d at 1149).
+
+     Although Bloomberg has raised the issue of whether
+Section 3(f) of the Exchange Act, 15 U.S.C. § 78c(f), imposed
+on the Commission a requirement to include costs incurred by
+FINRA in a cost-benefit analysis of FINRA’s proposed rule,
+we need not reach that question because the Commission’s
+failure to respond adequately to Bloomberg’s comments
+rendered its decision arbitrary and capricious under the
+Administrative Procedure Act. Bloomberg raised relevant
+concerns about the direct and indirect costs of FINRA’s
+proposal, but the Commission brushed them aside. As such,
+the Commission’s decision was not the product of reasoned
+decisionmaking.
+
+     “Under the APA, whenever agencies promulgate a rule
+that intends to create new law, rights, or duties . . . they must
+engage in a process known as notice-and-comment
+rulemaking.” Oakbrook Land Holdings, LLC v. Comm’r of
+Internal Revenue, 28 F.4th 700, 710 (6th Cir. 2022) (cleaned
+up); see also 5 U.S.C. § 553(b). Pursuant to this process, “an
+agency must respond to comments ‘that can be thought to
+challenge a fundamental premise’ underlying the proposed
+agency decision.” Carlson v. Postal Regul. Comm’n, 938 F.3d
+337, 344 (D.C. Cir. 2019) (quoting MCI WorldCom, Inc. v.
+FCC, 209 F.3d 760, 765 (D.C. Cir. 2000)); see also City of
+Waukesha v. EPA, 320 F.3d 228, 257 (D.C. Cir. 2003) (“The
+agency need not address every comment, but it must respond
+in a reasoned manner to those that raise significant problems.”)
+                               25
+(internal quotation marks and citation omitted). Indeed, “[t]he
+requirement that agency action not be arbitrary or capricious
+includes a requirement that the agency adequately explain its
+result and respond to relevant and significant public
+comments.” Pub. Citizen, Inc. v. FAA, 988 F.2d 186, 197 (D.C.
+Cir. 1993) (internal quotation marks and citations omitted). In
+sum, “[a]n agency’s response to public comments . . . must be
+sufficient to enable the courts ‘to see what major issues of
+policy were ventilated … and why the agency reacted to them
+as it did.’” Carlson, 938 F.3d at 344 (quoting Del. Dep’t of
+Nat. Res. & Env’tl Control v. EPA, 785 F.3d 1,17 (D.C. Cir.
+2015)).
+
+     As mentioned, during notice-and-comment rulemaking,
+Bloomberg “raised concerns regarding FINRA’s costs to build
+and operate the new reference data service.” J.A. 301. In
+response, the Commission reasoned that if FINRA
+“hypothetically build[s] a New Issue Reference Data Service
+at a high cost that would be unreasonable to pass on to end-
+users,” then “FINRA would not be able to make a showing that
+any such fees proposed to be assessed on the basis of its cost to
+build the service are reasonable, as required by Section
+15A(b)(5) of the Act.” Id.; 15 U.S.C. § 78o–3(b)(5). “In such
+a case . . . the Commission would suspend and disapprove the
+proposal.” J.A. 301.
+
+     The Commission’s analysis overlooks a key problem: if
+FINRA’s data service ends up being unreasonably expensive,
+then the agency cannot protect market participants from footing
+the bill for it at the fees stage. To be sure, the Commission is
+right that it could suspend and disapprove FINRA’s proposal
+at the fees stage, see id., but at that point, FINRA will have
+already incurred the financial burden of building the service.
+That cost—which could be millions, or even tens of millions,
+of dollars—must be paid by someone, whether the subscribers
+                               26
+of the service or the broker-dealers who make up FINRA. In
+short, the Commission approved FINRA’s proposal without
+responding to comments that urged it to assess not only the
+financial impact of the service on FINRA, but also the entities
+that fund FINRA. That is not reasoned decisionmaking.
+
+     All in all, if public comments raise relevant and significant
+concerns about the costs associated with a proposed rule, then
+the agency should provide a reasoned response to those
+comments. See, e.g., Ne. Md. Waste Disposal Auth. v. EPA,
+358 F.3d 936, 950 (D.C. Cir. 2004) (per curiam) (holding that
+the EPA responded adequately to members of the municipal
+waste combustor industry who submitted comments
+complaining about the high costs associated with regulating
+pollutants produced by municipal waste combustor units). In
+this case, the Commission’s failure to respond to relevant and
+significant comments about the direct and indirect costs of
+FINRA’s proposed data service was sufficient to render its
+decision arbitrary and capricious.
+
+     Furthermore, we find that the appropriate remedy for the
+agency’s error is to remand the Commission’s order approving
+the proposal without vacating the order. “The decision to
+vacate depends on two factors:            the likelihood that
+‘deficiencies’ in an order can be redressed on remand, even if
+the agency reaches the same result, and the ‘disruptive
+consequences’ of vacatur.” Black Oak Energy, LLC v. FERC,
+725 F.3d 230, 244 (D.C. Cir. 2013) (quoting Allied-Signal v.
+Nuclear Regul. Comm’n, 988 F.2d 146, 150–51 (D.C. Cir.
+1993)). In this case, both factors weigh against vacatur. See
+Vecinos para el Bienestar de la Comunidad Costera v. FERC,
+6 F.4th 1321, 1331–32 (D.C. Cir. 2021).
+
+    First, we find that on remand, “the Commission can
+redress its failure of explanation” by analyzing the costs
+                              27
+FINRA will incur in building and maintaining its data service
+and how the costs of building the data service will be
+remunerated if the fee proposal is ultimately disapproved by
+the Commission. See id. at 1332. Second, we find that vacatur
+of the order would “needlessly disrupt” the Commission and
+FINRA’s efforts to address market inefficiencies resulting
+from untimely, inconsistent, and inaccurate collection and
+dissemination of new issue reference data in the corporate bond
+market. See id.
+
+                              V.
+
+     In sum, we find that the Commission’s approval of
+FINRA’s proposed reference data service was arbitrary and
+capricious in one respect: the Commission failed to respond
+adequately to Bloomberg’s concerns about the cost of building
+and maintaining the program and the extent to which those
+costs—which could conceivably amount to millions, or tens of
+millions, of dollars—will be borne by market participants. As
+such, the Commission violated the Administrative Procedure
+Act and failed to engage in reasoned decisionmaking. In this
+regard, Bloomberg’s petition for review is granted.
+
+    Bloomberg’s remaining arguments lack merit. Therefore,
+Bloomberg’s petition for review is otherwise denied. For the
+foregoing reasons, we remand to the Commission without
+vacatur for further proceedings consistent with this opinion.
+
+                                                   So ordered.
+

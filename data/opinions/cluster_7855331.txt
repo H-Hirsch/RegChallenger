@@ -1,0 +1,1563 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued March 14, 2022                 Decided August 9, 2022
+
+                        No. 15-1183
+
+   CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.,
+                     PETITIONER
+
+                            v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+      HUDSON TRANSMISSION PARTNERS, LLC, ET AL.,
+                   INTERVENORS
+
+
+Consolidated with 15-1188, 16-1153, 19-1002, 20-1074, 20-
+        1077, 20-1082, 20-1269, 20-1351, 20-1382
+
+
+             On Petitions for Review of Orders
+       of the Federal Energy Regulatory Commission
+
+
+    Richard P. Bress argued the cause for petitioners. With
+him on the joint briefs were Neil H. Butterklee, Susan J.
+LoFrumento, Sebrina M. Greene, Gary D. Levenson, William
+R. Hollaway, Lucas C. Townsend, David L. Schwartz, Eric J.
+Konopka, Shannon M. Grammel, Lawrence G. Acker, Gary D.
+Bachman, and Michael Diamond. Elias G. Farrah and Andrew
+F. Neuman entered appearances.
+                              2
+    Kevin M. Lang, John Sipos, John C. Graham, and Alina
+Buccella were on the joint brief for intervenors City of New
+York and New York State Public Service Commission in
+support of petitioners.
+
+    Elizabeth E. Rylander, Attorney, Federal Energy
+Regulatory Commission, argued the cause for respondent.
+With her on the brief were Matthew R. Christiansen, General
+Counsel, Robert H. Solomon, Solicitor, and Susanna Y. Chu,
+Attorney.
+
+    David M. Gossett argued the cause for intervenors
+American Electric Power Service Corporation, et al. in support
+of respondent. With him on the joint brief were John
+Longstreth, Donald A. Kaplan, Richard P. Sparling, Stacey
+Burbure, Cara J. Lewis, and Steven M. Nadel. Kenneth R.
+Carretta, Amanda R. Conner, Vilna W. Gaston, William M.
+Keyser III, Morgan Parke, Bradley Miliauskas, and P. Nikhil
+Rao entered appearances.
+
+                        No. 20-1079
+
+          NEW JERSEY BOARD OF PUBLIC UTILITIES,
+                      PETITIONER
+
+                              v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+   PUBLIC SERVICE ELECTRIC AND GAS COMPANY, ET AL.,
+                     INTERVENORS
+
+
+            Consolidated with 20-1080, 20-1081
+                              3
+
+
+
+              On Petitions for Review of Orders
+        of the Federal Energy Regulatory Commission
+
+
+     Alec Schierenbeck, Deputy State Solicitor, Office of the
+Attorney General for the State of New Jersey, argued the cause
+for petitioner. With him on the briefs were Andrew J. Bruck,
+Acting Attorney General, and Paul Youchak and Nathaniel
+Levy, Deputy Attorneys General. Alex Moreau, Deputy
+Attorney General, entered an appearance.
+
+     Susanna Y. Chu, Attorney, Federal Energy Regulatory
+Commission, argued the cause for respondent. With her on the
+brief were Matthew R. Christiansen, General Counsel, Robert
+H. Solomon, Solicitor, and Elizabeth E. Rylander, Attorney.
+
+    Lucas C. Townsend argued the cause for intervenors
+Consolidated Edison Company of New York, Inc., et al. in
+support of respondent. With him on the brief were Neil H.
+Butterklee, Susan J. LoFrumento, Richard P. Bress, David L.
+Schwartz, Eric J. Konopka, Gary D. Levenson, William R.
+Hollaway, Lawrence G. Acker, Gary D. Bachman, and Brian
+M. Zimmet.
+
+    Before:   KATSAS and RAO, Circuit Judges, and
+SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed PER CURIAM.
+
+    PER CURIAM: Part of the electricity transmission grid in
+northern New Jersey was aging, storm-damaged, and
+vulnerable to short circuits. In response, PJM Interconnection,
+LLC (“PJM”)—the regional transmission organization
+                               4
+responsible for managing the grid in New Jersey—authorized
+a series of upgrades to facilities owned by the Public Service
+Electric and Gas Company (“PSE&G”).                One set of
+improvements centered on the transmission corridor between
+PSE&G’s Bergen and Linden switching stations; a second
+involved repairs to and around PSE&G’s Sewaren substation.
+Together, these two projects cost around $1.3 billion. Initially,
+PJM assigned most of the projects’ costs to entities that reroute
+electricity from northern New Jersey into the New York
+market. Thereafter, the New York-based entities gave up their
+rights to withdraw electricity from New Jersey, and PJM
+reassigned their costs to PSE&G.
+
+      The Federal Energy Regulatory Commission (“FERC” or
+“the Commission”) approved both rounds of cost allocations.
+The petitions for review in these two cases are about whether
+these cost allocations were “just and reasonable” under the
+Federal Power Act, 16 U.S.C. §§ 824d(a), 824e(a), and
+whether FERC’s orders were “arbitrary [and] capricious” in
+violation of the Administrative Procedure Act (“APA”), 5
+U.S.C. § 706(2)(A). In effect, they are about who must pay the
+bill.
+
+                               I.
+
+     The thirteen petitions for review before us challenge
+twenty FERC orders, involve numerous parties, implicate a
+series of related legal issues, and arise from a complex
+procedural history. We begin by setting out the regulatory and
+factual background needed to understand these petitions.
+
+                               A.
+
+     The Federal Power Act gives FERC “jurisdiction over
+facilities that transmit electricity in interstate commerce,” Old
+Dominion Elec. Coop. v. FERC, 898 F.3d 1254, 1255 (D.C.
+                                5
+Cir. 2018), and requires that the rates charged for such
+transmission be “just and reasonable,” 16 U.S.C. § 824d(a).
+“For decades, the Commission and the courts have understood
+this requirement to incorporate a ‘cost-causation principle’—
+the rates charged for electricity should reflect the costs of
+providing it.” Old Dominion, 898 F.3d at 1255. “[A]lthough
+the Commission need not allocate costs with exacting
+precision, the costs assessed against a party must bear some
+resemblance to the burdens imposed or benefits drawn by that
+party.” Pub. Serv. Elec. & Gas Co. v. FERC (“Artificial
+Island”), 989 F.3d 10, 13 (D.C. Cir. 2021) (cleaned up).
+
+     Utilities, independent system operators, and regional
+transmission organizations must seek approval from FERC for
+new rates through the process outlined in section 205 of the
+Federal Power Act. See 16 U.S.C. § 824d(d)–(e). Section 206
+permits “the Commission [to] investigate—on its own
+initiative or based on a third-party complaint—whether an
+existing rate is ‘unjust, unreasonable, [or] unduly
+discriminatory.’” Artificial Island, 989 F.3d at 13 (quoting 16
+U.S.C. § 824e(a)). “[U]ndue discrimination occurs [where]
+entities [that] are similarly situated” are charged different rates
+for no discernable reason. Mo. River Energy Servs. v. FERC,
+918 F.3d 954, 958 (D.C. Cir. 2019) (cleaned up). In a section
+206 proceeding, if FERC finds the existing rate is “unjust,
+unreasonable, [or] unduly discriminatory,” it must “determine
+the just and reasonable rate.” 16 U.S.C. § 824e(a).
+
+                                B.
+
+     These petitions arise out of the legal relationships between
+the parties as well as the FERC-approved method by which
+PJM allocates the costs of major infrastructure projects on its
+transmission grid.
+                              6
+                              1.
+
+     PJM is the regional transmission organization responsible
+for coordinating the transmission of electricity in the mid-
+Atlantic region, which stretches from North Carolina to New
+Jersey. The dominant electricity provider in northern New
+Jersey is PJM-member PSE&G. Across the Hudson River, the
+New York grid is managed by the New York Independent
+System Operator, Inc. (“NYISO”). Electricity in New York
+City is transmitted and sold by the Consolidated Edison
+Company of New York, Inc. (“ConEd”) and the New York
+Power Authority (“NYPA”), among other utilities.
+
+     The PJM and NYISO grids are interconnected, with large
+quantities of electricity flowing between New Jersey and New
+York across the jurisdictional line. Two of the longstanding
+connections between these grids are central to the petitions
+before us. First, beginning in the 1970s, PSE&G entered into
+an electricity swapping agreement with ConEd. The parties
+clarified the terms of this “wheeling agreement” most recently
+in a 2009 settlement. See PJM Interconnection, LLC, 132
+FERC ¶ 61,221 (2010) [ConEd-PSE&G Settlement Order].
+Under the settlement, ConEd agreed to redirect 1,000
+megawatts of electricity from upstate New York into PSE&G’s
+transmission network in northern New Jersey; in return,
+PSE&G agreed to route the same amount of electricity from
+New Jersey into New York City. Id. at P 23. This wheeling
+agreement allowed ConEd to serve its customers in New York
+City without having to build a new transmission line into the
+city. See id. at P 2.
+
+     Second, because the prices of electricity on the PJM and
+NYISO grids sometimes diverge, a handful of “merchant
+transmission facilities” have sprung up to capitalize on the
+arbitrage opportunity. Two such facilities—Linden VFT, LLC
+                                7
+(“Linden”) and Hudson Transmission Partners, LLC
+(“Hudson”)—are petitioners here. When prices in New Jersey
+are lower, Linden and Hudson reroute electricity from New
+Jersey into the New York market and resell it at a profit. 1 In
+order to provide reliable, on-demand service to their New York
+customers, Linden and Hudson have historically held “firm
+transmission withdrawal rights,” which permit them to extract
+an agreed-upon amount of electricity from the PJM grid at
+(almost) any time.
+
+                               2.
+
+    One of PJM’s primary responsibilities is overseeing the
+coordinated development of the mid-Atlantic grid and
+apportioning the costs of major grid improvements among its
+member utilities.
+
+      In 2011, FERC’s “Order No. 1,000” directed each
+planning region to select an ex ante “method, or set of methods,
+for allocating the costs of new transmission facilities selected
+in [its] regional transmission plan,” and to submit their chosen
+method for FERC’s approval. Transmission Planning and
+Cost Allocation by Transmission Owning and Operating
+Public Utilities, 136 FERC ¶ 61,051 at P 558 (2011) [Order
+No. 1,000]; see id. at P 603. The Commission gave each region
+leeway to design its own cost allocation method, id. at PP 605–
+06, but set out six general cost allocation principles that are
+binding on all planning regions. As relevant here, Order No.
+1,000 requires that every region’s cost allocation method
+reflect the Federal Power Act’s cost causation principle
+(Principle 1), and that the costs of any new project be assigned
+
+1
+  Hudson’s primary customer is NYPA. By contract, NYPA is
+responsible for the full costs of any improvements to the PJM grid
+that are assigned to Hudson.
+                               8
+only to parties within the project’s planning region, unless a
+party outside the region agrees to assume costs (Principle 4).
+Id. at PP 622, 657. Order No. 1,000 required each region to use
+its ex ante cost allocation method only for “regional plan”
+projects—that is, projects undertaken to meet the region’s
+minimum transmission capacity and grid reliability criteria.
+See Old Dominion, 898 F.3d at 1256.
+
+     Pursuant to Order No. 1,000, PJM developed an ex ante
+cost allocation method and incorporated it into its Open Access
+Transmission Tariff. For projects that improve grid reliability,
+PJM’s method allocates half the costs of high-voltage facilities,
+and all the costs of low-voltage facilities, through a “flow-
+based method” called “solution-based distribution-factor
+analysis,” or “DFAX.” See PJM Tariff, Sched. 12(b)(iii). As
+explained further below, see infra Part IV.A.1, “[t]he flow-
+based method assigns costs based on how much each utility
+uses the facility in question over time,” Long Island Power
+Auth. v. FERC, 27 F.4th 705, 711 (D.C. Cir. 2022); see
+Artificial Island, 989 F.3d at 14. Using proprietary software,
+the DFAX method models how electricity will flow across a
+new transmission facility at moments of peak grid use (i.e., at
+“peak load”), and assigns costs proportionally, based on the
+projected use of the facility by utilities in each “zone” of the
+PJM grid. PJM spreads the DFAX costs of regional plan
+projects over a number of years, to account for utilities’
+evolving use of the grid.
+
+     The DFAX method also assigns costs to entities that
+withdraw electricity from the PJM grid.                 Merchant
+transmission facilities like Linden and Hudson are assigned
+DFAX costs based on their firm withdrawal rights. See PJM
+Tariff, Sched. 12(b)(iii)(A)(3). In other words, the DFAX
+method assumes that when the grid is running at peak load,
+merchant transmission facilities will extract the full amount of
+                               9
+electricity to which they are entitled. Similarly, the DFAX
+method assigns ConEd costs based on the assumption that,
+pursuant to its wheeling agreement with PSE&G, ConEd will
+withdraw 900 megawatts from the PJM grid when it is at peak
+load. See id. Sched. 12(b)(xi); ConEd-PSE&G Settlement
+Order, 132 FERC ¶ 61,221 at P 13.
+
+    FERC approved PJM’s cost allocation method in 2013.
+See PJM Interconnection, LLC, 142 FERC ¶ 61,214 (2013).
+
+                              C.
+
+     This brings us to the two projects at issue here. In 2013,
+PJM approved 26 related improvements to the transmission
+corridor between PSE&G’s Bergen and Linden switching
+stations (collectively, “the Bergen project” or “Bergen”). The
+purpose of the Bergen project was not to increase the total
+amount of electricity that can flow across the PJM grid; rather,
+the project was approved to mitigate the risk of short circuits
+on PSE&G’s facilities. Because the anticipated short circuits
+would overwhelm any commercially available circuit breaker,
+PJM directed PSE&G to expand the corridor into a double-
+circuit line capable of transmitting electricity at higher
+voltages. This solution to PSE&G’s short-circuit issue
+incidentally protected the corridor against thermal overloads.
+
+    Around the same time, PJM approved three low-voltage
+subprojects to repair aging infrastructure in and around
+PSE&G’s Sewaren substation (“the Sewaren project” or
+“Sewaren”).     Hurricane Sandy had exposed Sewaren’s
+vulnerability to inclement weather. These upgrades were
+meant to harden it against future storms and protect it from
+short circuits. Like Bergen, the Sewaren project was not
+approved to increase the overall transmission capacity of the
+PJM grid. Rather, both were “reliability projects” intended to
+make the grid’s existing infrastructure more resilient.
+                                  10
+                                  D.
+
+     In 2014, PJM first assigned the costs of the Bergen and
+Sewaren projects in two section 205 filings. Those initial cost
+allocations triggered a long-running series of FERC
+proceedings that only recently concluded, giving rise to the
+petitions under review.
+
+                                  1.
+
+     We begin at the beginning, with PJM’s 2014 rate filings.
+Pursuant to its Tariff, PJM allocated most of the costs of the
+Bergen project ($763 million, out of a total cost of $1.2 billion),
+and all the costs of the Sewaren project ($125 million), via
+DFAX. 2 PJM’s 2014 filings assigned most of the DFAX costs
+for Bergen to ConEd ($629 million), with the remainder spread
+between Hudson ($69 million), PSE&G ($52 million), and
+Linden ($13 million). The costs of Sewaren, meanwhile, were
+split between ConEd ($64 million) and Linden ($61 million).
+In two subsequent 2015 and 2016 filings, PJM reallocated
+Bergen’s DFAX costs to reflect the project’s evolving design
+and updated grid-use data. 3
+
+
+
+2
+ Most of the Bergen subprojects were high-voltage; a few were low-
+voltage. For the former, half the costs were allocated on a pro rata
+basis—“based on the level of customer demand within each zone”
+on the PJM grid—rather than through DFAX. Old Dominion, 898
+F.3d at 1256; see PJM Tariff, Sched. 12(b)(i)(A)(1). Those pro rata
+cost allocations are not at issue in the petitions before us.
+3
+  In early 2015, PJM changed its Tariff’s cost allocation method for
+projects, like Sewaren, that are added to the regional plan to meet the
+planning standards of individual utilities. See PJM Interconnection,
+LLC, 154 FERC ¶ 61,096 at PP 2, 12 (2016). Beginning in 2015,
+therefore, PJM ceased assigning Sewaren’s costs via DFAX.
+                                  11
+     Over the protests of ConEd, Linden, Hudson, and NYPA,
+FERC accepted each of the four cost allocations. The
+protestors argued that the DFAX method was built on certain
+modeling conventions that systematically distorted the cost
+assignments for the Bergen and Sewaren projects, minimizing
+PSE&G’s cost responsibility and magnifying theirs. 4 See infra
+Part IV. More fundamentally, they argued that PJM’s rate
+filings violated the cost causation principle: the goal of these
+projects was to make PSE&G’s infrastructure more reliable,
+yet parties other than PSE&G had been assigned the vast
+majority of the costs. Finally, they protested that the Tariff
+gave PJM discretion to adjust any “objectively unreasonable”
+DFAX cost allocation, but that PJM had unfairly declined to
+exercise that discretion in the filings at issue. PJM Tariff,
+Sched. 12(b)(iii)(G).
+
+     In response, FERC explained that it had previously
+approved DFAX as a just and reasonable cost allocation
+method. PJM had properly applied this cost allocation method
+in the contested filings, so they were per se just and reasonable.
+Because “[t]he reasonableness of the Solution-Based DFAX
+methodology is beyond the scope of [a section 205]
+proceeding,” FERC declined to scrutinize the DFAX method’s
+modeling conventions. PJM Interconnection, LLC, 147 FERC
+¶ 61,028 at P 43 (2014). Finally, FERC agreed with PJM that
+
+
+
+4
+ The protestors argued that, by design, the DFAX method arbitrarily
+favors large utilities like PSE&G at the expense of smaller entities.
+More specifically, they insisted that it was not just and reasonable for
+PJM’s Tariff (1) to exempt from DFAX costs any utility whose flows
+across a facility are de minimis compared to its overall flows on the
+PJM grid; (2) to “net” total flow, such that a utility’s positive and
+negative electric flows cancel each other out; and (3) to base DFAX
+costs on how electricity flows across the grid at peak load.
+                               12
+the Tariff did not give it the discretionary authority to adjust
+DFAX costs ex post.
+
+                               2.
+
+      Meanwhile, shortly after PJM made its initial 2014 filings,
+ConEd and Linden each lodged section 206 complaints. First,
+they again objected to the structural assumptions on which the
+DFAX method was built. Second, they argued that it was not
+just and reasonable to use DFAX to assign the Bergen and
+Sewaren projects’ costs. Most projects selected for PJM’s
+regional plan are “flow-based”—they are approved in response
+to pent-up transmission demand and expand the total amount
+of electricity that can flow across the PJM grid. DFAX was
+designed with such projects in mind, on the grounds that
+utilities should pay for grid expansions based on their use of
+the grid’s increased capacity. But Bergen and Sewaren were
+categorically distinct; they are “non-flow-based.” The short-
+circuit issues they resolved were not caused by excessive
+electricity flows across PSE&G’s facilities, and the utilities
+who benefited from their resolution were different from those
+whose electricity flows across the upgraded facilities. The
+DFAX method therefore failed to match the costs of these
+projects to their beneficiaries, as required by the Federal Power
+Act.
+
+     FERC addressed ConEd’s complaint first. The policy
+behind Order No. 1,000, it explained, was to establish a clear,
+ex ante cost allocation method for major infrastructure projects
+in each planning region. To that end, PJM’s Tariff did not give
+it discretion to apply different cost allocation methods to
+different kinds of reliability projects. FERC also found that the
+DFAX method reasonably identified the beneficiaries of non-
+flow-based projects, and so rejected the argument that the
+DFAX method was unsuited to Bergen and Sewaren. See
+                               13
+Consol. Edison Co. of N.Y., Inc., 151 FERC ¶ 61,227 at PP 54–
+55 (2015) [ConEd Complaint Order].
+
+    In 2016, FERC reaffirmed this position on rehearing, see
+Consol. Edison Co. of N.Y., Inc., 155 FERC ¶ 61,088 at PP 40–
+42 (2016) [ConEd Complaint Rehearing Order], and rejected
+Linden’s complaint for the same reasons, see Linden VFT,
+LLC, 155 FERC ¶ 61,089 at PP 54–58 (2016) [First Linden
+Complaint Order]. In addition, FERC upheld the DFAX
+method’s modeling conventions as just, reasonable, and not
+unduly discriminatory. See ConEd Complaint Rehearing
+Order, 155 FERC ¶ 61,088 at PP 45–46, 49.
+
+     Importantly, at the same time it rejected ConEd and
+Linden’s complaints, FERC also affirmed the use of DFAX in
+a closely related proceeding, which concerned the costs of a
+third non-flow-based project in southern New Jersey (“the
+Artificial Island project” or “Artificial Island”). See Del. Pub.
+Serv. Comm’n, 155 FERC ¶ 61,090 at PP 65–73 (2016)
+[Artificial Island Order].
+
+                               3.
+
+     Soon after FERC denied its rehearing application, ConEd
+notified PSE&G that it planned to allow their wheeling
+agreement to lapse. PJM thereafter submitted a fifth cost
+allocation, to take effect after the wheeling agreement ended.
+This 2017 filing eliminated ConEd’s cost liability entirely,
+placing Bergen’s DFAX costs onto Hudson ($634 million),
+Linden ($132 million), and PSE&G ($128 million). The New
+Jersey Board of Public Utilities (“the Board”) objected to the
+filing on behalf PSE&G’s customers; Linden, Hudson, and
+NYPA objected as well. Linden also lodged a section 206
+complaint, protesting the cost reallocation.            FERC
+preliminarily accepted PJM’s 2017 filing, but did not
+                               14
+substantively address the cost allocation or Linden’s second
+complaint for another three years.
+
+     Meanwhile, Hudson and Linden also took steps to
+extricate themselves from cost liability for the Bergen project.
+PJM’s Tariff assigns DFAX costs to merchant transmission
+facilities only if they hold firm withdrawal rights, which entitle
+them to extract electricity from the PJM grid on demand. See
+PJM Tariff, Sched. 12(b)(iii)(A)(3). Hudson and Linden asked
+PJM to convert their firm withdrawal rights to non-firm ones,
+which would absolve them of DFAX costs for Bergen going
+forward. The New Jersey Board intervened in the ensuing
+proceedings, protesting that the proposed conversions would
+unfairly foist Bergen’s entire cost onto PSE&G. But FERC
+found “no reasonable basis” for preventing Hudson and Linden
+from converting their withdrawal rights to non-firm ones.
+Linden VFT, LLC, 161 FERC ¶ 61,264 at P 24 (2017) [Linden
+Conversion Order]; PJM Interconnection, LLC, 161 FERC
+¶ 61,262 at P 42 (2017) [Hudson Conversion Order].
+
+     Soon thereafter, the New Jersey Board brought a section
+206 complaint. It argued that although ConEd, Linden, and
+Hudson were Bergen’s primary beneficiaries, PJM had unfairly
+allowed them to evade cost responsibility after construction
+had begun, leaving local ratepayers to foot the bill. FERC
+disagreed. Under Order No. 1,000, PJM had no authority to
+place Bergen’s costs on ConEd—a utility based outside the
+PJM region—after the wheeling agreement lapsed. FERC also
+approved the part of PJM’s Tariff allocating DFAX costs only
+to merchant transmission facilities with firm withdrawal rights.
+Since PJM does not have to account for non-firm withdrawal
+rights in planning its grid, it made sense to exempt facilities
+with such rights from DFAX costs. FERC concluded that the
+Tariff’s cost allocation method was just and reasonable and had
+been properly applied in the circumstances. See N.J. Bd. of
+                               15
+Pub. Utils., 163 FERC ¶ 61,139 at P 50 (2018) [Board
+Complaint Order], reh’g denied, 170 FERC ¶ 61,180 (2020)
+[Board Complaint Rehearing Order].
+
+                               4.
+
+     In 2018, FERC granted rehearing in the Artificial Island
+proceeding—the same complaint it had earlier rejected. See
+Artificial Island, 989 F.3d at 15–16 (recounting FERC’s volte-
+face). The Artificial Island project was intended to stabilize
+three nuclear generators in southern New Jersey. Like the
+short-circuit issues remedied by the Bergen and Sewaren
+projects, the stability issue that prompted the Artificial Island
+project was not caused by pent-up transmission demand. All
+three projects, in other words, were “non-flow-based.” After
+reconsidering its initial Artificial Island order, FERC
+determined that the beneficiaries of at least some non-flow-
+based projects—namely, those addressing stability issues—are
+“not necessarily captured” by the DFAX method. Del. Pub.
+Serv. Comm’n, 164 FERC ¶ 61,035 at P 41 (2018) [Artificial
+Island Rehearing Order], reh’g denied, 166 FERC ¶ 61,161
+(2019) [Artificial Island Second Rehearing Order]. It therefore
+directed PJM to adopt a different cost allocation method for
+stability related projects. See Artificial Island Rehearing
+Order, 164 FERC ¶ 61,035 at P 42; Artificial Island Second
+Rehearing Order, 166 FERC ¶ 61,161 at P 43.
+
+     In 2020, FERC disposed of the outstanding filings and
+complaints related to the Bergen and Sewaren projects. First,
+it denied rehearing of Linden’s first complaint, which
+challenged PJM’s 2014 cost allocations. FERC continued to
+find that the DFAX method’s modeling conventions were just,
+reasonable, and nondiscriminatory, and that DFAX reasonably
+captured the beneficiaries of short-circuit projects like Bergen
+and Sewaren. See Linden VFT, LLC, 170 FERC ¶ 61,122 at
+                               16
+PP 41, 44, 47 (2020) [First Linden Complaint Rehearing
+Order].
+
+     Second, FERC approved PJM’s 2017 cost reallocation—
+the cost distribution that came into effect after the end of
+ConEd’s wheeling agreement—and denied Linden’s second
+complaint (protesting the same cost allocation). See PJM
+Interconnection, LLC, 170 FERC ¶ 61,124 at PP 33–35 (2020)
+[Cost Reallocation Order]; Linden VFT, LLC, 170 FERC
+¶ 61,123 at PP 31–35 (2020) [Second Linden Complaint
+Order]. In a rehearing application contesting both orders,
+Linden argued that “the use of the solution-based DFAX
+method to allocate costs for a non-flow-based project was
+unjust and unreasonable.” PJM Interconnection, LLC, 172
+FERC ¶ 61,176 at P 14 (2020) [Second Linden Complaint
+Rehearing Order]. The Bergen project “addresses a non-flow
+related reliability issue,” just like the non-flow-based stability
+issue in Artificial Island, but FERC had treated the two projects
+differently. Id. at P 22. In response, FERC explained that it
+had made a one-time exception in Artificial Island for stability
+related projects, and that no such carve-out was warranted for
+short-circuit projects. See id. at PP 22–24. FERC also
+reiterated that the DFAX method’s modeling conventions were
+just, reasonable, and nondiscriminatory. See id. at PP 27–29.
+
+                               E.
+
+     As FERC successively denied their rehearing applications,
+ConEd, Linden, Hudson, and NYPA (collectively, “the New
+York entities”) petitioned for review of FERC’s orders
+approving PJM’s five cost allocations from 2014 to 2017, as
+well as its orders denying ConEd’s complaint and Linden’s two
+complaints. Before they had extricated themselves from cost
+liability for the Bergen and Sewaren projects, the New York
+entities had been assessed approximately $115 million in costs.
+                                 17
+The petitions in Consolidated Edison Co. of New York, Inc. v.
+FERC (“ConEd v. FERC”) challenge FERC’s approval of
+those already-paid costs. The City of New York and the New
+York State Public Service Commission have intervened on
+behalf of the New York entities, arguing against the cost
+allocations; a group of transmission owners, including PSE&G,
+have intervened on behalf of FERC, arguing in favor of the cost
+allocations.
+
+    The New Jersey Board petitioned for review of FERC’s
+orders permitting Linden and Hudson to convert their firm
+withdrawal rights to non-firm ones, as well as its orders
+denying the Board’s complaint. The petitions in New Jersey
+Board of Public Utilities v. FERC (“New Jersey Board v.
+FERC”) concern PJM’s reassignment of Bergen’s DFAX costs
+to PSE&G—and, by extension, New Jersey ratepayers—
+beginning in 2017. ConEd, Linden, Hudson, NYPA and
+NYISO have intervened on FERC’s behalf, in favor of the post-
+2017 cost allocations; PSE&G has intervened on the Board’s
+behalf, arguing against the post-2017 cost allocations.
+
+     The New York entities and New Jersey Board both claim
+that FERC’s myriad orders ran afoul of the APA and violated
+the Federal Power Act’s cost causation and nondiscrimination
+principles. With two inconsequential exceptions, we have
+jurisdiction over their petitions under 16 U.S.C. § 825l(b). 5
+
+
+5
+  The petition in No. 20-1269 sought review of the Second Linden
+Complaint Order after the parties’ application for rehearing was
+deemed denied by operation of law. See 16 U.S.C. § 825l(a).
+Because that petition was untimely filed, we dismiss it for lack of
+jurisdiction. See id. § 825l(b). That dismissal has no practical
+consequence, however, because after FERC affirmatively rejected
+the parties’ application for rehearing of the same order years later,
+                                 18
+                                 II.
+
+     This court must set aside any order of the Commission that
+is “arbitrary, capricious, an abuse of discretion, or otherwise
+not in accordance with law.” 5 U.S.C. § 706(2)(A). “In matters
+of ratemaking, our review is highly deferential, as issues of rate
+design are fairly technical and, insofar as they are not technical,
+involve policy judgments that lie at the core of the regulatory
+mission.” Alcoa Inc. v. FERC, 564 F.3d 1342, 1347 (D.C. Cir.
+2009) (cleaned up). FERC’s ratemaking orders will not stand,
+however, if they are “either unreasonable or inadequately
+explained.” Artificial Island, 989 F.3d at 17 (cleaned up).
+FERC’s reasoning must be grounded in “substantial evidence,”
+16 U.S.C. § 825l(b), which is “such relevant evidence as a
+reasonable mind might accept as adequate to support a
+conclusion,” Myersville Citizens for a Rural Cmty., Inc. v.
+FERC, 783 F.3d 1301, 1309 (D.C. Cir. 2015) (cleaned up).
+
+                                 III.
+
+    The New York entities argue that FERC failed to
+reasonably explain why the DFAX method should be used to
+
+they again petitioned for review—this time in a timely fashion, in
+No. 20-1351.
+      Similarly, we dismiss the petition in No. 20-1077, which seeks
+review of FERC’s orders preliminarily accepting PJM’s 2017 cost
+reallocation, for lack of jurisdiction. “The decision to accept a rate
+filing” without approving its lawfulness “is undeniably
+interlocutory” and therefore unreviewable. Papago Tribal Util.
+Auth. v. FERC, 628 F.2d 235, 240 (D.C. Cir. 1980). Again, however,
+this dismissal is inconsequential, since FERC’s final approval of
+PJM’s 2017 filing is properly before us in No. 20-1382, which seeks
+review of the Cost Reallocation Order.
+                                19
+allocate the costs of the Bergen and Sewaren projects, but
+should not be used to allocate the costs of a similar project in
+Artificial Island. We agree.
+
+                                A.
+
+      In 2016, FERC determined that DFAX was an appropriate
+method of assigning costs for all the projects selected for PJM’s
+regional plan, whether they were flow-based or non-flow-
+based. Within that latter category, FERC specifically found
+that DFAX was appropriate even if “a short-circuit or stability
+violation is the [project’s] primary driver.” ConEd Complaint
+Rehearing Order, 155 FERC ¶ 61,088 at P 41. It therefore
+reasoned that PJM had properly used the DFAX method to
+assign the costs of the three non-flow-based projects before
+it—Bergen and Sewaren (short-circuit projects) and Artificial
+Island (a stability project). “The solution-based DFAX
+method,” FERC explained, does not turn on “the immediate
+[problem] that drove the need for the project.” Id. at P 40.
+While “the initial nature of the problem may not necessarily be
+related or entirely related to flows,” DFAX still identifies the
+utilities that will use the new facilities and appropriately
+assigns them costs. Id. FERC therefore refused to create new
+cost allocation methods for different kinds of non-flow-based
+projects (stability projects, short-circuit projects, etc.). “[S]uch
+a case-by-case … approach,” it found, “would create the same
+uncertainty that ex ante cost allocation is intended to avoid.”
+ConEd Complaint Order, 151 FERC ¶ 61,227 at P 55.
+
+     By the time FERC issued its 2020 orders regarding the cost
+allocations for Bergen and Sewaren, however, it had reversed
+its position regarding the Artificial Island project. On
+rehearing in 2018, FERC distinguished between flow-based
+projects on the one hand and stability related projects like
+Artificial Island on the other. Flow-based problems, such as
+                              20
+“thermal overload and voltage related reliability issues,” are
+caused by excessive electricity flows across a facility, and are
+therefore resolved by expanding the grid’s transmission
+capacity. Artificial Island Rehearing Order, 164 FERC
+¶ 61,035 at P 39. As a result, “the change in power flows [is]
+consistent with the intended solution.” Id. (quoting a PJM
+filing). DFAX reasonably picks out the beneficiaries of such a
+project because the utilities that use the upgraded facility are
+the same ones whose ability to transmit electricity was
+formerly constrained. See id.
+
+     By contrast, FERC explained that a stability related
+problem like the one in Artificial Island is not caused by
+excessive demand (i.e., it is “non-flow-based”). While such a
+problem can be solved by expanding the grid’s overall
+transmission capacity, the utilities that use that new capacity
+are not necessarily the beneficiaries of a stability related
+project. Thus, although the “DFAX method will reveal parties’
+use of the new transmission facility, such use is neither
+connected with the need for the project, nor provides benefits
+to the parties being assigned cost responsibility.” Artificial
+Island Second Rehearing Order, 166 FERC ¶ 61,161 at P 38.
+FERC therefore concluded that while DFAX is just and
+reasonable for allocating the costs of flow-based projects, it
+was not similarly appropriate for allocating the costs of non-
+flow-based projects addressing stability issues. Artificial
+Island Rehearing Order, 164 FERC ¶ 61,035 at PP 38–41.
+
+                             B.
+
+    The New York entities argue that FERC should have
+extended this same logic to the Bergen and Sewaran projects.
+FERC, they say, failed to explain why it continued to apply the
+DFAX method to Bergen and Sewaren, even after directing
+PJM to use a different method for Artificial Island. All three
+                                  21
+projects addressed non-flow-based issues, so their costs should
+all have been allocated similarly. 6 “A fundamental norm of
+administrative procedure requires an agency to treat like cases
+alike. If the agency makes an exception in one case, then it
+must either make an exception in a similar case or point to a
+relevant distinction between the two cases.” Westar Energy,
+Inc. v. FERC, 473 F.3d 1239, 1241 (D.C. Cir. 2007).
+
+
+6
+  The New York entities raised this objection directly in their
+application for rehearing of the Second Linden Complaint Order and
+the Cost Reallocation Order. See Second Linden Complaint
+Rehearing Order, 172 FERC ¶ 61,176 at P 22. However, they did
+not similarly cite Artificial Island when applying for rehearing of the
+First Linden Complaint Order, instead arguing generally that “a
+flow-based method is the wrong way to measure benefits for non-
+flow based reliability concerns, such as the short-circuit concerns
+underlying [Bergen and Sewaren].” First Linden Complaint
+Rehearing Order, 170 FERC ¶ 61,122 at P 41.
+     Ordinarily, we lack jurisdiction to consider an argument not
+raised before FERC on rehearing “with specificity.” Ameren Servs.
+Co. v. FERC, 893 F.3d 786, 793 (D.C. Cir. 2018) (cleaned up). In
+this case, however, FERC did not change its position in Artificial
+Island until after the parties had applied for rehearing of the First
+Linden Complaint Order, so they have a “reasonable ground” for
+failing to specifically raise the issue. 16 U.S.C. § 825l(b). At the
+time FERC issued the First Linden Complaint Rehearing Order, it
+had been considering Artificial Island’s cost allocations alongside
+Bergen’s and Sewaren’s for six years and had only recently changed
+its approach in Artificial Island. In that context, the parties’ general
+argument that DFAX is unsuited to non-flow-based projects was
+sufficient to alert FERC to the need to distinguish its recent decision
+in Artificial Island from the position it initially took with respect to
+Bergen and Sewaren in 2016. We therefore have jurisdiction to
+consider whether, in the First Linden Complaint Rehearing Order,
+FERC acted arbitrarily in treating Bergen and Sewaren differently
+from Artificial Island.
+                               22
+     In attempting to distinguish the Bergen and Sewaren
+projects from Artificial Island, FERC claimed it had “not
+ma[de] a generalized finding regarding all non-flow-based
+constraints,” Second Linden Complaint Rehearing Order, 172
+FERC ¶ 61,176 at P 23, but instead had made a narrow
+exception for stability related projects, which are “analytically
+unique,” id. at P 24 (citing Artificial Island Rehearing Order,
+164 FERC ¶ 61,035 at P 40). FERC explained that in order to
+resolve the short-circuit issues on the Bergen-Linden corridor,
+PSE&G had expanded the corridor into a double-circuit line
+capable of greater electricity flows. This “reconfigur[ation]
+[of] the transmission system” was “similar to the planning
+process for resolving thermal overloads,” which are flow-
+based. Id.; cf. First Linden Complaint Rehearing Order, 170
+FERC ¶ 61,122 at P 41. According to FERC, in other words,
+the solution PJM adopted for Bergen made it like a flow-based
+project, and DFAX was therefore an appropriate way to assign
+its costs. Second Linden Complaint Rehearing Order, 172
+FERC ¶ 61,176 at P 24.
+
+     But in Artificial Island, FERC did not find that stability
+projects are “analytically unique” in the abstract. Rather, it
+found that “stability is analytically unique compared to voltage
+or thermal overload problems,” which are both flow-based.
+Artificial Island Rehearing Order, 164 FERC ¶ 61,035 at P 38
+(emphasis added). In other words, FERC contrasted the mine-
+run of flow-based projects on the PJM grid on the one hand
+with the specific, non-flow-based stability project at Artificial
+Island on the other. But in the Artificial Island proceeding
+FERC said nothing about whether—like stability projects—
+short-circuit projects should also be treated differently from
+flow-based projects. In fact, the testimony on which it relied
+recognized both “the short circuit issue and the stability issue”
+as awkward fits for the DFAX method, because neither are
+                                  23
+flow-based. J.A. 1091–92. 7 Therefore, FERC could not
+rationally explain its decision to treat Bergen and Sewaren
+differently from Artificial Island by simply pointing to its
+earlier finding that “stability is analytically unique compared
+to voltage or thermal overload problems.” Instead, FERC
+needed to explain why stability is “analytically unique”
+compared to short-circuit issues.
+
+     FERC failed to do so. It conceded that, like the stability
+issue at Artificial Island, “short-circuit problems are not
+directly caused by flow overloads on a facility.” First Linden
+Complaint Rehearing Order, 170 FERC ¶ 61,122 at P 41.
+Nonetheless, FERC reasoned that DFAX should still be used
+to assign Bergen’s costs because Bergen was similar to a
+thermal overload project. FERC did not adequately explain
+why that similarity mattered. Short-circuit issues, not thermal
+overloads, were the primary impetus for Bergen. While Bergen
+expanded the grid’s overall capacity, the same is true of
+Artificial Island. In both cases, the increased capacity
+incidentally benefited the utilities whose electricity flows
+across the new facilities. Critically, however, other parties also
+benefited in both cases. After Bergen’s completion, PSE&G
+benefited from facilities that are resistant to short circuits,
+while other grid users also benefited from protection against
+the second-order effects of short circuits. Likewise, in
+Artificial Island, FERC recognized that the utilities that relied
+on the generators at issue benefited from their improved
+stability. See Artificial Island Second Rehearing Order, 166
+FERC ¶ 61,161 at P 39.
+
+     Pointing to those other beneficiaries, FERC concluded in
+Artificial Island that the utilities whose electricity flows across
+
+7
+ In this Part and Part IV, citations to the joint appendix refer to the
+one in ConEd v. FERC.
+                                24
+facilities built to address stability issues should not be assigned
+costs via DFAX; instead, it reallocated Artificial Island’s
+DFAX costs to the utilities that depended on the newly
+stabilized nuclear generators. See id. at PP 13, 43. Here, by
+contrast, FERC used DFAX to assign the costs of Bergen and
+Sewaren to the utilities whose electricity flows across
+PSE&G’s facilities—even though, like Artificial Island, those
+projects also conferred non-flow-based benefits to other
+entities. Given the similarities between the projects, basic rule
+of law principles required FERC to justify its different
+treatment of the projects. It needed to explain why, in contrast
+to Artificial Island, the costs of Bergen and Sewaren should be
+assigned via DFAX to the utilities whose electricity flows
+across the upgraded facilities, rather than to the projects’ other
+beneficiaries.
+
+     We do not hold that the use of the DFAX method for short-
+circuit projects violates the cost causation principle per se. On
+remand, FERC may be able to provide a more satisfactory
+explanation of the distinction between stability related projects
+and those that address short-circuit issues and to articulate why
+DFAX cost allocations are appropriate for the latter but not the
+former. But the Commission “must provide an adequate
+explanation to justify treating similarly situated parties
+differently.” Comcast Corp. v. FCC, 526 F.3d 763, 769 (D.C.
+Cir. 2008). It failed to do so here.
+
+                               IV.
+
+     In addition to challenging the application of the DFAX
+method generally, the New York entities attack three specific
+conventions used in it: the de minimis threshold, netting, and
+the peak-load assumption.
+                                25
+                                A.
+
+    We begin with the de minimis threshold.
+
+                                1.
+
+     The DFAX method divides the costs of a transmission
+facility among zones in proportion to each zone’s use of the
+facility. See First Linden Complaint Rehearing Order, 170
+FERC ¶ 61,122 at P 7. For the facility in question, PJM first
+uses certain models, which estimate the flow of electricity at
+peak demand, to determine what it calls the “distribution
+factor” of each zone. The distribution factor for a zone
+represents the zone’s use of the facility divided by the zone’s
+total load or use of all facilities on the PJM grid. PJM Tariff,
+Sched. 12(b)(iii)(A). For example, if a zone uses 1,000
+megawatts of electricity from a facility and its total load is
+10,000 megawatts, then its distribution factor for the facility is
+0.1 or 10%.
+
+     PJM then performs various arithmetic calculations to
+assign costs based on each zone’s use of the facility at issue.
+First, it multiplies the distribution factor of a zone by its total
+load, which yields the zone’s use of the facility. Id. Sched.
+12(b)(iii)(B)(1). In the example above, the zone’s use of the
+facility would be 1,000 megawatts. Second, PJM divides that
+number by all zones’ use of the facility. Id. Sched.
+12(b)(iii)(B)(2). For example, if a zone uses 1,000 of the 5,000
+megawatts from a facility, PJM calculates a quotient of 0.2.
+Third, PJM multiplies that quotient by the total cost of the
+facility to produce the relevant cost allocation. Id. Sched.
+12(b)(iii)(B)(5). If the facility in this example costs $1 million,
+PJM would allocate $200,000 in costs to the zone.
+
+     The de minimis threshold adds an important qualification
+to this process. In FERC’s view, zones that receive very small
+                               26
+benefits from a facility should be assigned no costs for it. First
+Linden Complaint Rehearing Order, 170 FERC ¶ 61,122 at
+P 44. To that end, zones with a distribution factor below 1%
+are deemed to have no flows over the facility and thus are
+assigned no costs. PJM Tariff, Sched. 12(b)(iii)(A)(6).
+Because distribution factors measure a zone’s use of a facility
+relative to its total load, the de minimis exception depends on
+the size of the zone, not on the zone’s share of the facility’s
+total flow. For example, suppose a zone uses 9 megawatts of a
+facility’s total flow of 30 megawatts. Although the zone uses
+nearly a third of total flow, its use will be deemed de minimis
+if, say, the zone itself has a total load of 1,000 megawatts
+(which corresponds to a distribution factor of 0.9%). In that
+event, the sheer size of the zone will cause it to be assigned no
+costs.
+
+                               2.
+
+     As implemented through distribution factors, the de
+minimis threshold thus operates as a too-big-to-pay rule. We
+agree with the New York entities that this violates the cost
+causation principle and causes undue discrimination. The cost
+causation principle requires “comparing the costs assessed
+against a party to the burdens imposed or benefits drawn by
+that party.” Midwest ISO Transmission Owners v. FERC, 373
+F.3d 1361, 1368 (D.C. Cir. 2004). And undue discrimination
+occurs when similarly situated entities are charged different
+rates for no good reason. Mo. River Energy Servs., 918 F.3d at
+958. As explained above, the de minimis threshold exempts
+zones from bearing any costs based on their load size—a
+quality unrelated to the burdens they impose on or the benefits
+they receive from any individual facility. And in so doing, it
+unduly discriminates against small zones, which must absorb
+higher cost allocations after large zones are exempted.
+                               27
+     Peak load sizes vary greatly across the relevant zones,
+which makes the de minimis exception border on absurd. For
+instance, the peak load of PSE&G is about 11,000 megawatts,
+whereas PJM assigned Linden and Hudson peak loads of only
+330 and 320 megawatts respectively. So if PSE&G used 100
+megawatts of flow across a transmission facility (yielding a
+distribution factor slightly under 1%), and if Hudson had 4
+megawatts of flow across the same facility (yielding a
+distribution factor slightly over 1%), then PSE&G but not
+Hudson would be exempt from paying any of the facility’s
+costs, even though PSE&G derived 25 times more of the
+benefits. And because the large PSE&G would not have to pay
+any costs of the facility, the small Hudson would have to bear
+a substantially greater share of those costs.
+
+     PJM’s allocations for the Bergen project illustrate this
+dynamic. For one subproject, the DFAX method determined
+that PSE&G received 65.5% of the benefits, while ConEd and
+Hudson together received only about 16%. Yet after applying
+the de minimis threshold, PSE&G was removed from the cost
+allocation, and so ConEd and Hudson were assigned 99.98%
+of the upgrade costs. J.A. 1018–20. And after ConEd
+withdrew from its wheeling agreement, PSE&G received
+72.7% of the subproject’s benefits and Hudson only 6%. Yet
+the de minimis threshold excluded PSE&G from any cost
+allocation, and Hudson then became responsible for 99.98% of
+the upgrade costs. Id. at 1404–07. Other examples abound.
+See, e.g., id. at 1022–23 (PSE&G received 46% of a
+subproject’s benefits and ConEd only 27%, yet ConEd was
+allocated 100% of its costs); id. at 1295 (listing nine
+subprojects for which Hudson received between 6% and 16%
+of the benefits, but was allocated over 99% of the costs); id. at
+1408–09 (subproject for which Linden and Hudson received
+33% of the benefits, but were allocated 100% of the costs).
+This scheme plainly violates the rule that FERC “may not
+                                28
+single out a party for the full cost of a project, or even most of
+it, when the benefits of the project are diffuse.” Old Dominion,
+898 F.3d at 1255 (cleaned up). Because the de minimis
+threshold regularly produces “wholesale departure[s] from the
+cost-causation principle,” it cannot be considered just and
+reasonable. See id. at 1261.
+
+                                3.
+
+     FERC asserted three justifications for the de minimis
+threshold, but none is persuasive.
+
+     First, it observed that the threshold identifies “entities that
+have relatively little use of the transmission facility relative to
+their load.” First Linden Complaint Rehearing Order, 170
+FERC ¶ 61,122 at P 44. Similarly, the intervenors supporting
+FERC characterize the threshold as a measure of relative
+reliance—i.e., the degree to which a zone depends on one
+facility instead of others—as opposed to relative use. These
+are accurate statements of how the threshold works, but they
+are not justifications for a threshold keyed to the relative size
+of the zone, rather than to the relative use of the facility.
+
+     Second, FERC denied that the de minimis threshold
+depends on a zone’s size. Id. at P 45. The Commission is
+correct that the threshold is keyed to a distribution factor,
+which measures the shift in power over a transmission facility
+when a zone’s peak load is increased by one megawatt,
+regardless of its size. PJM Tariff, Sched. 12(b)(iii)(A). But
+this measurement is done precisely because the resulting
+distribution factor will measure “use by the load of each Zone.”
+Id. (emphasis added). FERC’s second rationale is thus wrong
+as well as inconsistent with its first, which claimed support
+from the fact that the de minimis threshold identifies zones with
+small use relative to their load.
+                               29
+     Third, FERC noted that the DFAX analysis is performed
+annually, so “the zones that qualify for the de minimis
+exemption may change” over time. First Linden Complaint
+Rehearing Order, 170 FERC ¶ 61,122 at P 45. We are at a loss
+to understand how that fact, reflecting the truism that things
+change, bears on whether the exception here is reasonably
+related to project costs or benefits.
+
+                               B.
+
+     We now turn to netting. For zones with many delivery
+points, PJM “nets” the flows to each delivery point to calculate
+total flow. PJM Tariff, Sched. 12(b)(iii)(A)(4). Electricity can
+flow in both positive and negative directions. PJM assigns a
+negative value to flows in the negative direction, which
+decreases a zone’s total flow. For instance, a zone with one
+delivery point that receives +100 megawatts and another that
+receives +50 megawatts will be deemed to have net flows of
++150 megawatts. But a zone with one delivery point that
+receives +100 megawatts and another that receives −50
+megawatts will be deemed to have net flows of only +50
+megawatts. The New York entities challenge this offsetting of
+positive and negative flows.
+
+                               1.
+
+     The New York entities contend that netting violates the
+cost causation principle and unduly discriminates against them.
+Transmission facilities benefit zones by bringing electricity to
+their delivery points, and this benefit is the same regardless of
+whether the electricity flows in the positive or negative
+direction.    But netting causes markedly different cost
+allocations. If a zone with one delivery point receives +150
+megawatts, while another with two delivery points receives
+flows of +100 and −50 megawatts at each point respectively,
+the former zone will pay three times as much as the latter for
+                              30
+the same benefit. The New York entities contend that this
+discrepancy systematically favors large zones like PSE&G,
+which have many delivery points and so are more likely to have
+offsetting positive and negative flows. In contrast, each
+merchant transmission facility has only one delivery point and
+so cannot benefit from netting.
+
+     FERC approved netting because it produces a different
+benefit by creating extra capacity for the transmission line.
+Because “power flows in opposite directions offset each other,”
+a zone’s “negative flows decrease the amount of power flowing
+over the line and make additional capacity available.” First
+Linden Complaint Rehearing Order, 170 FERC ¶ 61,122 at
+P 49. For instance, a transmission facility with 75 megawatts
+of capacity cannot accommodate +100 megawatts of flows in
+the absence of counterflows. But with the addition of −50
+megawatts of counterflows, the net flow is only +50
+megawatts, and the facility can accommodate all the flows.
+FERC concluded that zones with flows in only one direction
+should bear more costs for using up more capacity.
+
+     This conclusion is reasonable. Because counterflows
+increase capacity, FERC could reasonably treat them as
+benefits that the zones confer on the facility, rather than
+benefits that they derive from it. So understood, counterflows
+can reasonably be considered a basis for discounting rather
+than increasing a zone’s cost allocation. On this point, we do
+not suggest that FERC’s approach is the only reasonable one.
+But because it is reasonable, we must uphold it on deferential
+review. See Old Dominion, 898 F.3d at 1260.
+
+    The New York entities raise two further objections. They
+contend that FERC’s defense of netting is inconsistent with
+PJM’s rationale for replacing its previous cost allocation
+method with the present DFAX method. And they claim it is
+                              31
+unduly discriminatory to net within a zone but not across
+zones. The entities did not raise either objection in their
+applications for rehearing, so we do not have jurisdiction to
+consider them. 16 U.S.C. § 825l(b); see Ameren Servs. Co. v.
+FERC, 893 F.3d 786, 793 (D.C. Cir. 2018).
+
+                               2.
+
+     After FERC issued the orders under review, another
+merchant transmission facility owner filed a section 206
+complaint challenging the netting and de minimis provisions of
+PJM’s Tariff. Neptune Reg’l Transmission Sys., LLC, 175
+FERC ¶ 61,247 at PP 1, 4, 8 (2021). Following its preliminary
+review in Neptune, FERC undertook to “look anew” at whether
+both provisions “have become unjust and unreasonable,” and it
+ordered further proceedings to do so. Id. at PP 45–46.
+
+     The New York entities request a remand for FERC to
+reconsider netting here, given its Neptune order. But we
+evaluate agency action “at the time of decision,” PBGC v. LTV
+Corp., 496 U.S. 633, 654 (1990), and an agency decision “is
+not arbitrary or capricious merely because it is not followed in
+a later adjudication,” MacLeod v. ICC, 54 F.3d 888, 892 (D.C.
+Cir. 1995). Despite this, the entities note, we have sometimes
+remanded if the agency has changed the rule underlying a
+decision pending review.       See Williston Basin Interstate
+Pipeline Co. v. FERC, 165 F.3d 54, 62–63 (D.C. Cir. 1999).
+But FERC did not reject netting in Neptune; it merely ordered
+further proceedings to examine the practice in greater detail. A
+remand here is thus unwarranted.
+
+     We hold only that FERC reasonably explained its decision
+to approve netting in these proceedings. In doing so, we do not
+prejudge Neptune, and we do not foreclose the Commission
+from reconsidering its position on netting given whatever
+evidence and arguments may be developed in that case.
+                                32
+                                C.
+
+      Finally, we address the peak-load assumption. When
+modeling the flow of electricity, PJM assumes that each zone
+is at its peak demand. For merchant transmission facilities, this
+means PJM assumes that they are exercising their full firm
+withdrawal rights. PJM Tariff, Sched. 12(b)(iii)(A)(3). The
+merchant transmission facilities object that this assumption
+overestimates their use of the transmission facilities, because
+they generally do not reroute electricity into New York City
+when demand in New Jersey is at its peak.                    FERC
+acknowledged that merchant transmission facilities may be less
+likely than other zones to exercise full delivery rights at times
+of peak demand. Nonetheless, it found the assumption
+reasonable because PJM must be able to meet peak load to
+guarantee system reliability.          First Linden Complaint
+Rehearing Order, 170 FERC ¶ 61,122 at P 15. The entities
+complain this explanation is inconsistent with FERC’s defense
+of netting, which the Commission justified as “realistically
+reflect[ing] how energy flows on an integrated transmission
+system.” Id. at P 14. If FERC evaluates netting based on how
+electricity realistically flows, the challengers contend, it should
+do the same for the peak-load assumption.
+
+     We see no inconsistency. Maintaining grid reliability is
+one of a system operator’s most important goals, Blumenthal v.
+FERC, 552 F.3d 875, 879 (D.C. Cir. 2009), so PJM could
+reasonably plan for a worst-case scenario in which all zones
+exercise their full delivery rights. But even under that scenario,
+positive and negative flows still would offset each other and
+thus create additional capacity. As explained above, FERC
+may reasonably take that fact into account in deciding whether
+to add or subtract opposite-direction flows.
+                               33
+                               V.
+
+     Finally, the New York entities challenge FERC’s
+interpretation of the PJM Tariff. They contend that the Tariff
+requires a departure from the DFAX method if its application
+would violate the cost causation principle. We disagree.
+
+     The interpretive dispute centers on the interplay between
+Schedule 12(b)(iii) of the Tariff, which outlines how to carry
+out the DFAX analysis, and paragraph (G) of that provision,
+which confers some discretion to depart from the prescribed
+methodology. Under that paragraph, if PJM “determines in its
+reasonable engineering judgment that … the DFAX analysis
+cannot be performed or that the results of such DFAX analysis
+are objectively unreasonable,” it “may use an appropriate
+substitute proxy for the Required Transmission Enhancement
+in conducting the DFAX analysis.” The New York entities
+maintain that “objectively unreasonable” results include ones
+that do not conform to the cost causation principle. And in their
+view, an “appropriate substitute proxy” includes a different
+cost allocation methodology.
+
+    FERC read paragraph (G) differently. It objects that the
+New York entities invite an ex post allocation inquiry that is
+both standardless and contrary to Order No. 1,000’s
+requirement that costs be assigned ex ante. First Linden
+Complaint Rehearing Order, 170 FERC ¶ 61,122 at P 55.
+According to FERC, results of the DFAX analysis are
+“objectively unreasonable” only if the flows it models “are not
+consistent with the normal expected flow results that an
+engineer would expect to see.” Id. And because PJM engineers
+“had no difficulty determining flows across” the Bergen and
+Sewaren projects, the DFAX analysis results were not
+objectively unreasonable. Id. Moreover, paragraph (G) gives
+PJM discretion only to use “‘an appropriate substitute proxy
+                              34
+for the Required Transmission Enhancement in conducting the
+DFAX analysis,’” not general discretion to modify the
+method’s “cost responsibility assignments.” Id. at P 56
+(quoting PJM Tariff, Sched. 12(b)(iii)(G)).
+
+     We review FERC’s tariff interpretations with a “Chevron-
+like analysis.” La. Pub. Serv. Comm’n v. FERC, 10 F.4th 839,
+845–46 (D.C. Cir. 2021) (cleaned up). Under that framework,
+we enforce unambiguous tariff language but defer to FERC’s
+reasonable interpretation of ambiguous text. Id. at 846.
+
+     FERC’s interpretation is permissible. Any determination
+of unreasonableness by PJM must be “objective[]” and the
+product of PJM’s “engineering judgment,” which suggests a
+purely technical determination. Judging whether the method
+accurately models the flow of electricity fits that description.
+Ensuring compliance with the cost causation principle does
+not. Aligning project costs and benefits necessarily includes
+questions of fairness and the need to balance “competing
+goals.” S.C. Pub. Serv. Auth. v. FERC, 762 F.3d 41, 88 (D.C.
+Cir. 2014) (per curiam). And courts have long recognized that
+ratemaking is “much less a science than an art,” Ala. Elec.
+Coop., Inc. v. FERC, 684 F.2d 20, 27 (D.C. Cir. 1982),
+requiring “both technical understanding and policy judgment,”
+FERC v. Elec. Power Supply Ass’n, 577 U.S. 260, 295 (2016).
+
+     Moreover, even when PJM finds objectively unreasonable
+results, it does not have discretion to abandon the DFAX
+method. Paragraph (G) allows PJM to use a “substitute proxy”
+only “for the Required Transmission Enhancement,” i.e., the
+transmission facility, and only “in conducting the DFAX
+analysis.” It does not permit a proxy method. In other words,
+PJM can look past modeled flows that seem objectively
+unreasonable, replace them with flows from a comparable
+                               35
+facility that the DFAX analysis can more accurately model, and
+then rerun the analysis. Nothing more.
+
+     Two other textual clues reinforce this view. The
+immediately preceding paragraph of the Tariff speaks of using
+a “proxy” in precisely this way. When the facility to be
+modeled is a direct-current facility, it “shall be replaced in the
+model with a comparable proxy [alternating-current] facility.”
+PJM Tariff, Sched. 12(b)(iii)(F)(1). Additionally, whenever
+PJM uses a proxy under paragraph (G), it must “state in a
+written report … a recommendation as to what changes, if any,
+should be considered in conducting the DFAX analysis.” Id.
+Sched. 12(b)(iii)(G) (emphasis added). This presupposes that
+even if PJM uses a proxy facility, it will not abandon the DFAX
+method altogether.
+
+     Finally, FERC’s interpretation fits better with the principle
+of ex ante cost allocation established by Order No. 1,000.
+Under FERC’s reading, PJM must apply all the existing cost
+allocation rules unless doing so is infeasible because the DFAX
+analysis does not accurately model flows. When that is the
+case, PJM’s discretion is limited to identifying a proxy facility
+to which the existing rules will otherwise apply. Under the
+New York entities’ reading, PJM must decide in each case
+whether to apply the existing rules or entirely new ones, based
+on its own view of the fairness of the results produced by the
+existing rules. Such an approach is ex ante in name only.
+
+                               VI.
+
+     For its part, the New Jersey Board seeks review of FERC’s
+order affirming the reallocation of the New York entities’ costs
+for the Bergen project to PSE&G after they relinquished their
+rights to withdraw electricity from the PJM grid, as well as its
+orders permitting Linden and Hudson to convert their firm
+withdrawal rights to non-firm ones. The Board raises three
+                                 36
+main arguments. First, the Board claims that FERC erred in
+determining that ConEd’s cost responsibility for the project
+ended when its transmission service agreements ceased. This
+was so since the project was built to benefit ConEd and ConEd
+previously agreed to accept its share of costs. Second, it is
+argued that Linden unreasonably evaded cost allocations for
+the project by the device of pairing non-firm transmission
+withdrawal rights and firm point-to-point transmission service,
+which ensures Linden retains the same benefits from the
+project. Third, the Board also contends that FERC did not
+properly consider whether the cumulative effect of relieving
+the New York entities of cost responsibility resulted in an
+unjust and unreasonable rate.
+
+                                 A.
+
+     We start with the New Jersey Board’s first argument that
+ConEd was obliged to continue to pay project costs even after
+it ceased receiving service upon the termination of the ConEd-
+PSE&G power exchange transmission service—“wheeling”—
+agreement.
+
+     The 2009 settlement between PSE&G and ConEd, which
+clarified the parties’ rights and obligations under the wheeling
+agreement, was signed by the New Jersey Board, ConEd, PJM,
+NYISO, and PSE&G. Under that agreement, ConEd “shall pay
+Transmission Enhancement Charges during the term of
+its … service.” J.A. 614. 8 But the agreement makes clear that
+“ConEd shall have no liability for Transmission Enhancement
+Charges … after the termination of[] said term of service.” Id.
+
+
+
+8
+ In this Part, citations to the joint appendix refer to the one in New
+Jersey Board v. FERC.
+                                37
+FERC approved the settlement. 9        See ConEd-PSE&G
+Settlement Order, 132 FERC ¶ 61,221 at P 23. Here, ConEd’s
+service agreements expired on April 30, 2017, and it did not
+renew them.
+
+     Under the PJM Tariff, ConEd’s cost responsibility for PJM
+regional plan projects “shall be in accordance with the terms
+and conditions of the settlement” and “shall be adjusted at
+the … termination of service under the ConEd Service
+Agreements.” PJM Tariff, Sched. 12(b)(xi)(A)–(B). FERC
+relied on the settlement agreement and its incorporation into
+the PJM Tariff to support its cost allocation decision. See
+Board Complaint Order, 163 FERC ¶ 61,139 at P 56 & n.94.
+
+     Similarly, FERC recognized that the Joint Operating
+Agreement (“JOA”) between PJM and NYISO, which
+established protocols to improve the reliability and market
+operations of their systems, precluded the continued allocation
+of the Bergen project’s costs to ConEd. Id. at PP 2, 54–55.
+FERC noted that, under JOA section 35.10.6, “neither the
+NYISO Region nor the PJM Region shall be responsible for
+compensating another region” for project costs unless both
+NYISO and PJM jointly decide to undertake an interregional
+project together. Id. at P 54; Board Complaint Rehearing
+Order, 170 FERC ¶ 61,180 at PP 12, 14. FERC correctly
+explained that the Bergen project was planned solely by PJM.
+Board Complaint Order, 163 FERC ¶ 61,139 at P 54; Board
+Complaint Rehearing Order, 170 FERC ¶ 61,180 at P 12. That
+cost allocation provision applies even where, as here, PJM and
+NYISO share mutual benefits between their systems that derive
+
+9
+  We note that the New Jersey Board participated in the settlement
+negotiations and signed the settlement agreement. If the Board took
+issue with these provisions, it should not have agreed to the
+settlement.
+                              38
+simply from their interconnection. Board Complaint Order,
+163 FERC ¶ 61,139 at P 55. FERC recognized that “the JOA
+specifically states that ‘PJM and NYISO shall not charge one
+another for such [mutual benefits].’” Id.
+
+    Accordingly, under these three agreements, FERC
+correctly determined that ConEd did not have to pay project
+costs after the termination of the service agreements.
+
+     The New Jersey Board contends that all of this misses the
+point. The relevant question, it says, is not whether a cost
+allocation complies with previously approved agreements or
+orders, but whether the resulting cost allocation,
+notwithstanding those agreements, is unjust and unreasonable.
+And, it points out that previously approved cost allocation
+methods can be unjust and unreasonable as applied to a
+particular rate decision.
+
+     As a general principle, under FERC’s Order No. 1,000,
+which implements the cost causation principle, costs must be
+allocated roughly in accordance with benefits. Order No.
+1,000, 136 FERC ¶ 61,051 at P 612. But that order also
+provides—in Principle 4—that “[t]he allocation method for the
+cost of a transmission facility selected in a regional
+transmission plan must allocate costs solely within that
+transmission planning region unless another entity outside the
+region or another transmission planning region voluntarily
+agrees to assume a portion of those costs.” Id. at P 657. Here,
+after ConEd’s service agreements expired, it no longer agreed
+to pay costs. And, as noted, the Bergen project was planned
+solely by PJM.
+
+    The New Jersey Board responds that there is tension
+between Principle 4 and the general cost causation principle
+because it may allow some project beneficiaries—here,
+                               39
+ConEd—to avoid all cost responsibility. That is true. But it
+appears to us that Principle 4 is a permissible limitation on the
+cost causation principle. Indeed, we have concluded as much,
+as FERC points out. Board Complaint Order, 163 FERC
+¶ 61,139 at P 54 n.83.
+
+     In South Carolina Public Service Authority v. FERC,
+Petitioners argued that Principle 4 was inconsistent with the
+cost causation principle because it did not fully allocate costs
+to out-of-region entities who still received some benefits. 762
+F.3d at 88. We held that, even if Principle 4 “may lead to some
+beneficiaries escaping cost responsibility,” there are other
+geographic policy considerations in play and FERC may
+permissibly approve a rate that does not perfectly track cost
+causation. Id.; see also Carnegie Nat. Gas Co. v. FERC, 968
+F.2d 1291, 1293–94 (D.C. Cir. 1992) (noting that there is “no
+requirement in the Act itself that rates precisely match cost
+causation and responsibility” and that instead “the Commission
+may rationally emphasize other, competing policies and
+approve measures that do not best match cost responsibility and
+causation”). We noted that FERC developed Principle 4 in
+light of concerns about the monitoring costs, efficiency, and
+feasibility of involuntary interregional cost allocation. S.C.
+Pub. Serv. Auth., 762 F.3d at 88–89. Accordingly, we
+concluded that Principle 4 is an important qualification on the
+cost causation principle. It reflects FERC’s reasonable
+considered judgment about how best to balance its competing
+policy goals on a ratemaking matter, which we review with
+deference. Id.; see also Artificial Island, 989 F.3d at 17.
+
+    Therefore, we think that FERC reasonably relied on Order
+No. 1,000 and its Principle 4 to determine that it was just and
+reasonable for ConEd to be released from costs for the Bergen
+project going forward.
+                                40
+                                B.
+
+     Next, the New Jersey Board contends that “FERC’s
+decision to allow Linden to avoid cost allocations for the
+Corridor Project” was “arbitrary” because “the Commission
+did not grapple with the interaction between firm Point-to-
+Point service and non-firm Withdrawal Rights.” The Board
+notes that, at the same time Linden renounced its firm
+withdrawal rights, it separately bargained for and received firm
+“point-to-point” transmission service from utilities on the PJM
+grid. The Board therefore argues—and it is a powerful
+argument—that, as a practical matter, Linden’s relinquishment
+of its firm withdrawal rights and its election of firm point-to-
+point service allowed Linden to receive the same benefits from
+the Bergen project without any of the costs. 10 FERC insists
+that we cannot consider this argument because it was not
+adequately presented in its requests for rehearing.
+
+    Under 16 U.S.C. § 825l(b), “[n]o objection to [an] order of
+the Commission shall be considered by the court unless such
+objection shall have been urged before the Commission in the
+application for rehearing ….” The argument the New Jersey
+Board makes before us, unfortunately, appears nowhere in its
+requests for rehearing before FERC. Instead, the Board’s
+10
+   That is because PJM, despite being able to curtail service to a
+customer with non-firm withdrawal rights, cannot curtail service to
+that same customer if it has firm point-to-point rights. So even
+though Linden does not have to pay costs under PJM’s Tariff because
+DFAX cost allocations are linked to firm withdrawal rights, it
+continues to receive the same service as it did when it held firm
+withdrawal rights by subscribing to firm point-to-point service.
+Once that power is transmitted to Linden’s facility, PJM cannot
+prevent Linden from exporting that power in the exact same way as
+it had before converting from firm to non-firm withdrawal rights,
+including into NYISO’s market.
+                                41
+rehearing requests generally challenge FERC’s handling of the
+cost allocation issue. But we have held that a petitioner “must
+raise each argument with ‘specificity’; objections may not be
+preserved either ‘indirectly,’ or ‘implicitly.’” Ameren Servs.
+Co., 893 F.3d at 793 (citations omitted). Accordingly, we lack
+jurisdiction to consider the Board’s challenge to Linden’s cost
+allocations. 11
+
+                                C.
+
+     Finally, it will be recalled, the New Jersey Board claims
+that FERC conducted a “siloed analysis” that did not consider
+the “total effect” of its orders on the rates for New Jersey
+ratepayers. Taken together, that the project was built in part to
+serve New York customers, ConEd did not renew its
+transmission service agreements, and Hudson and Linden
+converted their withdrawal rights have led to an unjust and
+unreasonable cost allocation, the Board says. Essentially, the
+Board protests that its ratepayers pay an “exceedingly
+disproportionate share” of the costs of the project.
+
+     But FERC did perform the kind of back-end analysis that
+the New Jersey Board claims was required. FERC recognized
+that the Bergen project was planned by PJM, and relied on
+PJM’s statement that the project would still be needed in New
+Jersey “even if there were no flows on the transmission
+facilities interconnecting New York and New Jersey.” Board
+Complaint Order, 163 FERC ¶ 61,139 at P 54 n.85. In its order
+denying the Board’s complaint, FERC, applying Principle 4,
+
+11
+   Although the New Jersey Board generally seeks judicial review of
+FERC’s orders concerning Hudson’s post-2017 cost allocation, it
+does not make this particular argument as to Hudson. Instead, the
+Board asks us to consider the Hudson cost allocation only as part of
+its “total effect” claim, which we address in Part VI.C.
+                                42
+concluded that because the Bergen project “was planned by a
+single region, i.e., PJM, and without a voluntary commitment
+to share cost responsibility by the other region, i.e., NYISO, it
+is just and reasonable for the costs of the project to be allocated
+solely within that region, PJM.” Id. at P 54. And, in denying
+rehearing on this very argument, FERC noted that “[t]he fact
+that New Jersey ratepayers now pay higher rates as a result of
+a combined set of permissible circumstances does not by itself
+render such rates unjust and unreasonable.” Board Complaint
+Rehearing Order, 170 FERC ¶ 61,180 at P 12.
+
+     Thus, looking at the matter from the stratosphere, FERC
+did consider the “total effect” of its decision and permissibly
+concluded—after evaluating who incurred the costs and who
+reaped the benefits of the project—that the overall cost
+allocation for the New York entities was not unjust or
+unreasonable. FERC’s cost allocation determination was
+therefore neither “unreasonable” nor “inadequately explained.”
+Artificial Island, 989 F.3d at 17.
+
+                               VII.
+
+     In light of the foregoing, we deny the petitions for review
+in New Jersey Board v. FERC, and we grant in part and deny
+in part the petitions in ConEd v. FERC.
+
+     In denying the New York entities’ applications for
+rehearing of both the First and Second Linden Complaint
+Orders, FERC failed to adequately distinguish its decision in
+Artificial Island from its treatment of the Bergen and Sewaren
+projects. In addition, FERC upheld the de minimis threshold,
+which we have found to be unlawful, in its orders denying
+rehearing of the First and Second Linden Complaint Orders and
+the ConEd Complaint Order. We therefore vacate FERC’s
+denial of Linden’s two complaints and remand for further
+                                43
+proceedings on both issues. We likewise vacate its denial of
+ConEd’s complaint and remand for further proceedings solely
+on the de minimis issue.
+
+     With one exception, we leave in place all the section 205
+orders approving PJM’s cost allocations. In all but one of those
+orders, FERC determined that when PJM files cost allocations
+under section 205, its role is limited to determining whether
+PJM correctly applied the methodology required by its Tariff
+rather than examining the lawfulness of that methodology. The
+New York entities do not challenge this procedural ruling,
+which forms an independent basis for rejecting their
+challenges. 12 We do vacate, however, the Cost Reallocation
+Order and remand on both the Artificial Island and de minimis
+issues. FERC did not raise a procedural bar to the New York
+entities’ challenges there, instead rejecting them on the merits
+for reasons we have found defective. See Cost Reallocation
+Order, 170 FERC ¶ 61,124 at P 32; Second Linden Complaint
+Rehearing Order, 172 FERC ¶ 61,176 at P 18. On remand,
+FERC may consider in the first instance whether the challenges
+to PJM’s 2017 cost reallocation are procedurally barred.
+
+                                                      So ordered.
+
+
+
+12
+   FERC argues that we lack jurisdiction over the petitions in Nos.
+15-1183 and 15-1188—which seek review of its 2014 order
+approving PJM’s initial cost allocations for Bergen—because that
+order was nonfinal. But we indisputably have jurisdiction over at
+least one “companion case” raising the same objections as those in
+Nos. 15-1183 and 15-1188, and so may reject those petitions on the
+merits without reaching the jurisdictional argument FERC presses.
+Steel Co. v. Citizens for a Better Env’t, 523 U.S. 83, 98 (1998)
+(emphasis omitted) (citing Norton v. Mathews, 427 U.S. 524, 530–
+31 (1976)).
+

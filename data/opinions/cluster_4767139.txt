@@ -1,0 +1,718 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued May 5, 2020                     Decided July 10, 2020
+
+                        No. 19-1142
+
+     NATIONAL ASSOCIATION OF REGULATORY UTILITY
+                  COMMISSIONERS,
+                     PETITIONER
+
+                              v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+    TRANSMISSION ACCESS POLICY STUDY GROUP, ET AL.,
+                    INTERVENORS
+
+
+                 Consolidated with 19-1147
+
+
+          On Petitions for Review of Orders of the
+          Federal Energy Regulatory Commission
+
+
+    Jennifer M. Murphy argued the cause for petitioner
+National Association of Regulatory Utility Commissioners.
+With her on the briefs was James Bradford Ramsay.
+
+    Dennis Lane argued the cause for petitioners American
+Public Power Association, et al. With him on the briefs was M.
+Denyse Zosa.
+                              2
+     Cynthia S. Bogorad and William S. Huang were on the
+brief for intervenor Transmission Access Policy Study Group
+in support of petitioners. Jeffrey M. Bayne entered an
+appearance.
+
+    Anand R. Viswanathan, Attorney, Federal Energy
+Regulatory Commission, argued the cause for the respondent.
+With him on the brief were James P. Danly, General Counsel,
+Robert H. Solomon, Solicitor, and Jared B. Fish, Attorney.
+
+     Kim Smaczniak, Charles Carter Hall, Michael Panfil, and
+John N. Moore were on the joint brief for Industry intervenors
+in support of respondent. Vickie Patton entered an appearance.
+
+    Heather Curlee, Jeffery S. Dennis, and Andrew O. Kaplan
+were on the joint brief for intervenors Solar Energy Industries
+Association, et al. in support of respondent. Todd Glass, Gary
+Greenstein, and Randall S. Rich entered appearances.
+
+     Xavier Becerra, Attorney General, Office of the Attorney
+General for the State of California, Robert W. Byrne, Senior
+Assistant Attorney General, Harrison Pollak, Acting Senior
+Assistant Attorney General, David A. Zonana, Supervising
+Deputy Attorney General, Dennis L. Beck Jr., Theodore
+McCombs, and M. Elaine Meckenstock, Deputy Attorneys
+General, Maura Healey, Attorney General, Office of the
+Attorney General for the Commonwealth of Massachusetts,
+Liam J. Paskvan and Megan M. Herzog, Special Assistant
+Attorneys General, Karl A. Racine, Attorney General, Office
+of the Attorney General for the District of Columbia, Dana
+Nessel, Attorney General, Office of the Attorney General for
+the State of Michigan, and Peter F. Neronha, Attorney
+General, Office of the Attorney General for the State of Rhode
+Island, were on the brief for amici curiae Commonwealth of
+Massachusetts, et al. in support of respondent.
+                                 3
+
+    Samuel T. Walsh and Jason Neal were on the brief for
+amici curiae Sunrun, Inc., et al. in support of respondent.
+
+    Before: ROGERS, GARLAND and WILKINS, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge WILKINS.
+
+     WILKINS, Circuit Judge: In this consolidated action, the
+Court must once again referee the Federal Power Act’s
+jurisdictional line separating the Federal Energy Regulatory
+Commission’s jurisdiction over the federal wholesale market
+and States’ jurisdiction over facilities used in local distribution.
+This time, Petitioners argue FERC is off-sides in Order No. 841
+by prohibiting States from barring electric storage resources on
+their distribution and retail systems from participating in
+federal markets. We find no foul here, so we deny the Petitions.
+
+                                 I.
+
+     Under the Federal Power Act (“FPA” or “Act”), 16 U.S.C.
+§ 791a et seq., Congress gives the Federal Energy Regulatory
+Commission (“FERC” or “the Commission”) exclusive
+authority over the regulation of “‘the sale of electric energy at
+wholesale in interstate commerce,’ including both wholesale
+electricity rates and any rule or practice ‘affecting’ such rates,”
+FERC v. Elec. Power Supply Ass’n (EPSA), 136 S. Ct. 760, 766
+(2016) (quoting 16 U.S.C. §§ 824(b), 824e(a)), along with
+“jurisdiction over all facilities for such transmission or sale of
+electric energy,” 16 U.S.C. § 824(b)(1). Congress charged
+FERC with ensuring that “both wholesale rates and the panoply
+of rules and practices affecting them” are “just and reasonable.”
+EPSA, 136 S. Ct. at 773 (citing 16 U.S.C. § 824d(a)) (“FERC
+has the authority – and, indeed, the duty – to ensure that rules
+or practices ‘affecting’ wholesale rates are just and
+                                4
+reasonable.”). To achieve this goal, FERC often issues orders
+aimed at “break[ing] down regulatory and economic barriers
+that hinder a free market in wholesale electricity.” Id. at 768
+(quoting Morgan Stanley Capital Grp. Inc. v. Pub. Util. Dist.
+No. 1, 554 U.S. 527, 536 (2008)).
+
+     However, relevant to the Orders challenged here, Congress
+left states with jurisdiction “over facilities used in local
+distribution or only for the transmission of electric energy in
+intrastate commerce, or over facilities for the transmission of
+electric energy consumed wholly by the transmitter,” 16 U.S.C.
+§ 824(b)(1), “except as specifically provided in” the Act, id.
+
+                               II.
+
+     The Orders challenged in this case concern FERC’s efforts
+to remove existing barriers to the participation of electric
+storage resources (“ESRs”) in the Regional Transmission
+Organization and Independent System Operator markets
+(“RTO/ISO markets”), independent, nonprofit companies that
+manage segments of the federal grid. Hughes v. Talen Energy
+Mktg., LLC, 136 S. Ct. 1288, 1292 (2016); Atl. City Elec. Co.
+v. FERC, 295 F.3d 1, 5 (D.C. Cir. 2002). Each RTO/ISO
+market creates its own set of “participation models,” which set
+forth the tariff provisions, technical requirements, and other
+rules for specific types of electric-energy-providing resources.
+Because many participation models were designed for
+traditional generation resources, e.g., power plants, newly
+developed resources may be limited in the way in which they
+can participate – that is, buy and sell electric energy – in these
+markets. These limitations or “barriers to participation”
+constrain competition, according to FERC, because novel
+resources technically capable of participating are precluded
+from doing so as they are forced to operate under participation
+models designed for different technologies. ESRs, such as
+                                  5
+batteries, are especially affected by such participation barriers
+because ESRs have “unique physical and operational
+characteristics” distinct from traditional resources: ESRs can
+“both inject energy into the grid and receive energy from it.”
+Elec. Storage Participation in Mkts. Operated by Reg’l
+Transmission Org. & Indep. Sys. Operators, Order No. 841,
+162 FERC ¶ 61,127, ¶¶ 2, 7 (Feb. 15, 2018).
+
+     To illustrate, consider the pumped-hydro storage resource,
+which moves water between two reservoirs as a means of
+storing and generating electricity. Id. ¶ 7 n.12. Or,
+demonstrative of recent innovations, consider the end-user who
+installs rooftop solar panels connected to batteries, which
+enable the end-user to maintain power indefinitely even when
+the end-user is unable to receive power from local service
+stations, e.g., during a blackout. ESRs are quickly becoming
+industry disrupters because they obliterate a foundational
+notion underpinning our electrical systems – that electricity
+cannot be efficiently stored for later use. See EPSA, 136 S. Ct.
+at 768 (explaining, only a few years ago, that generation
+resources are forced to generate electricity to match demand in
+real time). As amici for FERC put it, “[t]he same technological
+and economic forces that allow us to carry battery-powered
+computers in our pockets” are now able to efficiently store
+energy “anywhere on the grid” and can wait to release the
+electricity when supply is scarce. Br. of Sunrun Inc. et al., as
+amici curiae in Supp. of Resp’t, at 1.
+
+    To accommodate the technical and operational
+“unique[ness]” of ESRs, FERC issued Order No. 841,1
+requiring each market to establish a participation model that
+ensures ESRs’ eligibility “to provide all capacity, energy, and
+
+1
+    Order No. 841 modifies 18 C.F.R. § 35.28 (2018).
+                                  6
+ancillary services that [they are] technically capable of
+providing in the RTO/ISO markets.” Order No. 841 ¶¶ 3, 4.
+FERC, seeking to clarify the set of resources for which the
+federal markets must create a participation model, and also
+seeking to ensure that the models will not be designed for any
+particular electric storage technology, defined an ESR as “a
+resource capable of receiving electric energy from the grid and
+storing it for later injection of electric energy back to the grid.”
+Id. ¶ 29. In Order No. 841, FERC explained that this definition
+is intended to encapsulate “all types of electric storage
+technologies, regardless of their size, storage medium . . . , or
+whether the resource is located on the interstate grid or on a
+[local] distribution system.” Id. ¶ 22. It is important to note
+that any resource located on the local distribution system or
+behind the meter2 must use the distribution facilities over
+which the States3 exercise control to reach the federally
+controlled markets.
+
+    To meet this definition, the ESR must be “both physically
+designed and configured to inject electric energy back onto the
+
+2
+  “Behind the meter” refers to a location on the customer’s side of
+the point of delivery or retail level. Transmission Access Policy
+Study Grp. v. FERC, 225 F.3d 667, 725 n.14 (D.C. Cir. 2000), aff'd
+sub nom. New York v. FERC, 535 U.S. 1 (2002).
+3
+  “State” is a short-hand for all non-federal “relevant electric retail
+regulatory authorities,” or RERRAs, as Order No. 841 refers to them.
+A RERRA is any “entity that establishes the retail electric prices and
+any retail competition policies for customers,” Wholesale
+Competition in Regions with Organized Elec. Mkts., Order 719, 125
+FERC ¶ 61,071, ¶ 158(c) (Oct. 28, 2008), and thus the term captures
+the state-level public utility commissions down to locally owned
+electric utilities or electric cooperatives. See 16 U.S.C. § 824(b)(1)
+(using “State” and “State commission” interchangeably); Order No.
+841, Comm’r McNamee Concurrence in Part and Dissent in Part ¶ 2
+n.3.
+                                 7
+[federal] grid and, as relevant, [be] contractually permitted to
+do so (e.g., per the interconnection agreement between an
+[ESR] that is interconnected on a distribution system or behind-
+the-meter with the distribution utility to which it is
+interconnected).” Id. ¶ 33. Finally, although an ESR is not
+required to participate in the federal markets, the Commission
+expressly rejected commenters’ requests for a type of state opt-
+out in which States could “decide whether [ESRs] in their state
+that are located behind a retail meter or on the distribution
+system are permitted to participate in the RTO/ISO markets
+through the [ESR] participation model.” Id. ¶ 35. FERC
+added, however, that “nothing in this Final Rule is intended to
+affect or implicate the responsibilities of distribution utilities to
+maintain the safety and the reliability of the distribution system
+or their use of [ESRs] on their systems.” Id. ¶ 36. (For ease of
+reference, we shall refer to this subset of ESRs – those that must
+transmit their electric energy through state-regulated systems
+and facilities in order to reach the federal markets – as “local
+ESRs.”)
+
+     In Order No. 841-A, FERC denied rehearing with respect
+to Order No. 841’s lack of State opt-out for local ESRs. Elec.
+Storage Participation in Mkts. Operated by Reg’l
+Transmission Orgs. & Indep. Sys. Operators, Order No. 841-
+A, 167 FERC ¶ 61,154 (May 16, 2019). FERC explained that
+its authority to regulate the RTO/ISO markets gave it the
+“authority to determine which resources are eligible to
+participate in [those] markets.” Id. ¶ 38. FERC emphasized,
+again, that Order No. 841 did “not specify[] any terms of sale
+at retail,” id., but a State may not “broadly prohibit[] all retail
+customers from participating in RTO/ISO markets,” id. ¶ 41,
+since States cannot “intrude on the Commission’s jurisdiction
+by prohibiting all consumers from selling into the wholesale
+market,” id. Finally, FERC noted that “Order No. 841 does not
+modify [S]tates’ authority to regulate the distribution system,
+                                8
+including the terms of access, provided that they do not aim
+directly at the RTO/ISO markets.” Id. ¶ 48 (internal quotation
+marks, alterations, and emphasis omitted).
+
+     Two petitions for review followed.              The Court
+consolidated No. 19-1142, filed by National Association of
+Regulatory Utility Commissioners (“NARUC”), and No. 19-
+1147, filed by American Public Power Association, National
+Rural Electric Cooperative Association, Edison Electric
+Institute, and American Municipal Power, Inc. (collectively,
+“Local Utility Petitioners”). Petitioners do not question
+FERC’s authority to require ESR-specific participation models
+at the federal grid, nor do they disagree with FERC’s “laudable
+goal of lowering barriers for entry for [ESRs’] participation in
+the wholesale markets.” NARUC Opening Br. at 2; see also
+Local Utility Pet’rs’ Opening Br. at 5 (indicating general
+support for Order No. 841). Instead, both NARUC and Local
+Utility Petitioners argue that FERC has exceeded its
+jurisdiction by barring States from “broadly prohibiting” local
+ESRs from participating in RTO/ISO markets. Order No. 841-
+A ¶ 41. Along the same lines as its exceeding-jurisdiction
+argument, NARUC argues that the lack of opt-out “impinge[s]
+on the States’ authority,” EPSA, 136 S. Ct. at 767, and
+“commandeer[s]” the state administrative processes.
+NARUC’s Opening Br. 31. Lastly, Local Utility Petitioners
+argue that even if FERC did stay within the bounds of its
+statutory authority, the lack of an opt-out is otherwise arbitrary
+and capricious under 5 U.S.C. § 706(2)(A).
+
+                               III.
+
+    Before reaching the merits of the petitions, we must assure
+ourselves of subject-matter jurisdiction. See, e.g., Am. Bankers
+Ass’n v. Nat’l Credit Union Admin., 934 F.3d 649, 660 (D.C.
+                                9
+Cir. 2019). We conclude that Petitioners have standing to bring
+these claims and the matters are ripe for review.
+
+     “To establish Article III standing, an injury must be
+‘concrete, particularized, and actual or imminent; fairly
+traceable to the challenged action; and redressable by a
+favorable ruling.’” Clapper v. Amnesty Int’l USA, 568 U.S.
+398, 409 (2013) (quoting Monsanto Co. v. Geertson Seed
+Farms, 561 U.S. 139, 149 (2010)). Because these Petitioners
+bring these petitions on behalf of their members, they “must
+demonstrate [that their] members would otherwise have
+standing to sue in their own right, the interests at stake are
+germane to the organization[s’] purpose[s], and neither the
+claim asserted nor the relief requested requires the participation
+of individual members in the lawsuit.” Sierra Club v. EPA, 926
+F.3d 844, 848 (D.C. Cir. 2019) (internal quotation marks
+omitted). Finally, “[a]t least one [petitioner] must have
+standing to seek each form of relief requested in the [petitions
+for review].” Town of Chester v. Laroe Estates, Inc., 137 S.
+Ct. 1645, 1651 (2017).
+
+      NARUC, an association representing the interests of state
+utility commissions charged with regulating the electric
+utilities in their respective jurisdictions, has standing to seek
+the requested relief. Its members, the state utility commissions,
+have a plausible claim that they have the authority to block
+local ESRs from entering the federal market and FERC’s
+Orders expressly take away that authority. The state utility
+commissions therefore plead an injury to their “judicially
+cognizable interest in the preservation of [their] own
+sovereignty” at the hands of FERC. Bowen v. Pub. Agencies
+Opposed to Soc. Sec. Entrapment, 477 U.S. 41, 50 n.17 (1986)
+(internal quotation marks omitted); accord Bond v. United
+States, 564 U.S. 211, 221 (2011) (“The federal balance is, in
+part, an end in itself, to ensure that States function as political
+                                10
+entities in their own right.”). Cf. Del. Dep’t of Nat. Res. &
+Envtl. Control v. FERC, 558 F.3d 575, 578-79 (D.C. Cir. 2009)
+(finding no injury where the state suffered no injury to a
+“concrete substantive interest” under the statutory scheme).
+An order from this Court vacating the challenged Orders and
+remanding to FERC to comply with the Act’s jurisdictional
+provisions would redress the claimed injury of allegedly
+improper intrusion upon the States’ jurisdiction.
+
+     Additionally, Local Utility Petitioners have standing to
+seek vacatur of the relevant portions of the challenged
+Orders. As Commissioner McNamee recognized in his dissent
+to the Commission’s denial of rehearing, and as FERC failed
+to contest at oral argument, Local Utility Petitioners’ members,
+which include local electric utilities that own or operate local
+distribution systems, have decision-making roles with respect
+to the connections of behind-the-meter ESRs to local
+distribution systems. They bear the operational burdens of
+those ESRs delivering electricity to federal wholesale
+markets. FERC’s “refusal to adopt a framework” that provides
+state and local decision-makers with greater flexibility over
+their facilities causes injury to Local Utility Petitioners’
+members, Local Utility Pet’rs’ Br. at 37, and such injury would
+be redressed by an order from this Court vacating FERC’s
+Orders.
+
+     Finally, these matters are ripe for judicial resolution.
+While there are no conflicting state laws presented to the Court
+at this time, the challenge here is akin to a facial challenge, and
+the Court is merely asked to decide whether the Orders, on their
+face, either violate the Act’s jurisdictional division or
+constitute an arbitrary and capricious agency action. See Ass’n
+of Private Sector Colls. & Univs. v. Duncan, 681 F.3d 427, 442
+(D.C. Cir. 2012) (facial challenges to regulations rest on the
+premise that “no set of circumstances exist under which the
+                                   11
+regulations would be valid”) (brackets omitted). Thus, the
+purely legal issues presented here are fit for review, and there
+is no reason the court cannot now address the challenges
+presented. See Nat’l Park Hosp. Ass’n v. Dep’t of the Interior,
+538 U.S. 803, 807-08 (2003).
+
+                                   IV.
+
+     “Where we conclude that a challenged regulatory
+provision does not exceed [the statute’s] limits and otherwise
+satisfies the requirements of the APA, we will uphold the
+provision and preserve the right of complainants to bring as-
+applied challenges against any alleged unlawful applications.”
+Duncan, 681 F.3d at 442. As explained below, that is the case
+here.
+
+                                     A.
+
+     EPSA instructs us to confront Petitioners’ exceeding-
+jurisdiction challenge in three parts.4 First, we ask whether the
+challenged practice at issue in the Orders – prohibition of State-
+imposed participation bans – “directly affect[s] wholesale
+rates.” 136 S. Ct. at 773. Second, we look to whether the
+Commission has regulated state-regulated facilities,5 see id.,
+
+4
+  “FERC’s interpretations of the jurisdictional provisions of the
+Federal Power Act . . . enjoy Chevron deference.” NARUC v.
+FERC, 475 F.3d 1277, 1279 (D.C. Cir. 2007). Here though, we need
+not rely on that deference since FERC’s authority under the Act is
+unambiguous. See EPSA, 136 S. Ct. at 773 n.5.
+5
+  Section 824(b)(1) preserved States’ jurisdiction in three categories:
+(1) within-state wholesale sales (i.e., sales for resale), (2) retail sales
+of electricity (i.e., sales directly to end users), and (3) facilities used
+in local distribution, electric generation, only for the transmission of
+electric energy in intrastate commerce, or for the transmission of
+electric energy consumed wholly by the transmitter. 16 U.S.C.
+                                  12
+and, lastly, we ensure that our determinations do not “conflict
+with the Act’s core purposes” of “curb[ing] prices and
+enhanc[ing] reliability in the wholesale electricity market.” Id.
+
+    We swiftly conclude that FERC’s prohibition of state-
+imposed participation bans directly affects wholesale rates.
+FERC bears the responsibility of regulating the wholesale
+market, which encompasses “both wholesale rates and the
+panoply of rules and practices affecting them.” EPSA, 136 S.
+
+
+§ 824(b)(1). EPSA involved the States’ authority with respect to the
+second category, but here, Petitioners seek to vindicate their
+authority with respect to the third category.
+      State authority over that third category is limited when the Act
+“specifically provide[s]” otherwise, 16 U.S.C. § 824(b)(1)—a
+limitation that did not apply to the retail sales at issue in EPSA. See
+Transmission Access, 225 F.3d at 696 (noting the FPA’s multiple
+grants of jurisdictional authority). FERC does not rely on that
+limitation here. Instead, it seemingly agrees with Petitioners that the
+relevant question is whether its order “directly regulates local
+distribution facilities,” but argues that it has not done so. FERC Br.
+36. We accept that premise arguendo because we agree that FERC
+has not regulated local distribution facilities. But we note that this
+court has held that FERC may regulate electric generating
+facilities so long as it is addressing a practice affecting wholesale
+rates. See La. Pub. Serv. Comm’n v. FERC, 522 F.3d 378, 390 (D.C.
+Cir. 2008). And we further note that states have jurisdiction over
+electric-generating facilities subject to the same excepting clause that
+applies to the local distribution facilities at issue here.
+      However, as just said, Petitioners would fall short even if the
+FPA had barred FERC from ever regulating local distribution
+facilities. Thus, for purposes of this opinion, we treat “retail sales,”
+“local distribution systems,” and “behind the meter” interchangeably
+as all referring to matters over which States have jurisdiction and
+proceed on the assumption, arguendo, that FERC may not regulate
+local distribution facilities.
+                               13
+Ct. at 773. Order No. 841 solely targets the manner in which
+an ESR may participate in wholesale markets. This action is
+intentionally designed to increase wholesale competition,
+thereby reducing wholesale rates. Keeping the gates open to
+all types of ESRs – regardless of their interconnection points in
+the electric energy systems – ensures that technological
+advances in energy storage are fully realized in the
+marketplace, and efficient energy storage leads to greater
+competition, thereby reducing wholesale rates. Even NARUC
+acknowledges that local ESR participation in federal wholesale
+markets could have benefits. If “directly affecting” wholesale
+rates were a target, this program hits the bullseye.
+
+     Petitioners focus their energy on the second test: whether
+Order No. 841 unlawfully regulates matters left to the States.
+See EPSA, 136 S. Ct. at 775. Petitioners argue that by
+prohibiting States from blocking the gates to the federal
+markets, FERC is directly regulating access to those gates, a
+matter left to the States by statute. See 16 U.S.C. § 824(b)(1).
+But FERC is not regulating matters of access. There is little
+doubt that favorable participation models will lure local ESRs
+to the federal marketplace, which will require use of States’
+distribution systems, but that is the type of permissible effect
+of direct regulation of federal wholesale sales that the FPA
+allows. See EPSA, 136 S. Ct. at 776 (effects on retail rates of
+actions respecting wholesale transactions are “of no legal
+consequence”). Nothing in Order No. 841 directly regulates
+those distribution systems. Accord NARUC v. FERC, 475 F.3d
+1277, 1281 (D.C. Cir. 2007) (“[A]ssertion of jurisdiction over
+specified transactions, even though affecting the conduct of the
+owner(s) with respect to its facilities, is not per se an exercise
+of jurisdiction over the facility.”). States remain equipped with
+every tool they possessed prior to Order No. 841 to manage
+their facilities and systems.
+                               14
+     Petitioners argue that one tool is missing: the ability to
+close their facilities to local ESRs seeking to transport electric
+energy to the wholesale markets. After all, States have the
+authority to manage and oversee their distribution systems. But
+because FERC has the exclusive authority to determine who
+may participate in the wholesale markets, the Supremacy
+Clause – not Order No. 841 – requires that States not interfere.
+See Miss. Power & Light Co. v. Miss. ex rel. Moore, 487 U.S.
+354, 374 (1988). The Supremacy Clause renders federal law
+the “supreme Law of the Land,” U.S. CONST. art. VI, and
+Congress may “pre-empt, i.e., invalidate, a state law through
+federal legislation,” Oneok, Inc. v. Learjet, Inc., 575 U.S. 373,
+376 (2015). In field preemption, “Congress may have intended
+‘to foreclose any state regulation in the area,’ irrespective of
+whether state law is consistent or inconsistent with ‘federal
+standards.’” Id. at 377 (quoting Arizona v. United States, 567
+U.S. 387, 401 (2012)). “In such situations, Congress has
+forbidden the State to take action in the field that the federal
+statute pre-empts.” Id. Here, FERC’s statement in Order No.
+841-A that States may not block RTO/ISO market participation
+“through conditions on the receipt of retail service,” Order No.
+841-A ¶ 41, or impose any “condition[] aimed directly at the
+RTO/ISO markets, even if contained in the terms of retail
+service,” id., is simply a restatement of the well-established
+principles of federal preemption. See Oneok, Inc., 575 U.S. at
+386 (explaining that preemption depends on “the target at
+which the state law aims in determining whether that law is pre-
+empted”).
+
+    While the FPA creates two separate zones of jurisdiction,
+the Supremacy Clause creates uneven playing fields. N. Nat.
+Gas Co. v. State Corp. Comm’n of Kan., 372 U.S. 84, 93 (1963)
+(“Not the federal but the state regulation must be subordinated,
+when Congress has so plainly occupied the regulatory field.”);
+see Nw. Cent. Pipeline Corp. v. State Corp. Comm’n of Kan.,
+                                   15
+489 U.S. 493, 515-16 (1989) (“State regulation . . . may be pre-
+empted as conflicting within FERC’s authority over interstate
+transportation and rates . . . if a state regulation’s impact on
+matters within federal control is not an incident of efforts to
+achieve a proper state purpose.”). Hence, NARUC’s argument
+that a local ESR does not participate in the federal wholesale
+market (and thus cannot fall with FERC’s authority) until after
+it navigates through State-regulated facilities fails. Any State
+effort that aims directly at destroying FERC’s jurisdiction by
+“necessarily deal[ing] with matters which directly affect the
+ability of the [Commission] to regulate comprehensively and
+effectively” over that which it has exclusive jurisdiction
+“invalidly invade[s] the federal agency’s exclusive domain.”
+N. Nat. Gas Co., 372 U.S. at 91-92. While the Act’s
+preemptive scope should be construed “narrowly in light of
+Congress’ intent – manifested in [§ 201](b) of the Act – to
+preserve for the State the authority to regulate [non-federal
+jurisdictions],” Oneok, Inc., 575 U.S. at 383-84,
+“[n]evertheless, [ ]pre-emption . . . is to be applied,” Nw. Cent.
+Pipeline Corp., 489 U.S. at 515 n.12.
+
+     Thus, Order No. 841 does not “usurp[] state power,”6
+EPSA, 136 S. Ct. at 777, nor does it impose a new “reasonably
+related” test that re-draws the jurisdictional divide between
+FERC and the States. Local Utility Pet’rs’ Opening Br. at 31.
+
+6
+ NARUC’s commandeering argument fails for the same reasons. As
+explained, FERC is not requiring States to guarantee access to States’
+distribution facilities in order to reach wholesale markets, so it is not
+“command[ing]” States “to administer or enforce a federal regulatory
+program.” See Murphy v. National Collegiate Athletic Ass’n, 138 S.
+Ct. 1461, 14777 (2018); id. at 1475 (“The anticommandeering
+doctrine . . . is simply the expression of a fundamental structural
+decision incorporated into the Constitution, i.e., the decision to
+withhold from Congress the power to issue orders directly to the
+States.”).
+                               16
+States continue to operate and manage their facilities with the
+same authority they possessed prior to Order No. 841. See
+EPSA, 136 S. Ct. at 777 (noting no interference with state
+authority because “States continue to make or approve all retail
+rates, and in doing so may insulate them from price fluctuations
+in the wholesale market”); Conn. Dep’t of Pub. Util. Control v.
+FERC, 569 F.3d 477, 481-82 (D.C. Cir. 2009) (where
+economic impact of FERC regulation would likely force States
+to construct new generation facilities, such state response was
+not a “direct regulation” but the product of a state’s response to
+changed incentives). States retain their authority to prohibit
+local ESRs from participating in the interstate and intrastate
+markets simultaneously, meaning States can force local ESRs
+to choose which market they wish to participate in. States
+retain their authority to impose safety and reliability
+requirements without interference from FERC, and ESRs must
+still obtain all requisite permits, agreements, and other
+documentation necessary to participate in federal wholesale
+markets, all of which may lawfully hinder FERC’s goal of
+making the federal markets more friendly to local ESRs. Any
+such hinderance is of no concern because FERC’s “vision of
+reasonableness and justice,” EPSA, 136 S. Ct. at 774, cannot
+override the statutory limitations of FERC’s jurisdiction, “no
+matter how direct, or dramatic, [that limitation’s] impact on
+wholesale rates,” id. at 775. Supreme Court “cases have
+consistently recognized a significant distinction, which bears
+directly upon the constitutional consequences, between” a
+State’s regulations “aimed directly” at matters in FERC’s
+jurisdiction, “and those aimed at” fulfilling a State’s own
+jurisdictional obligations. N. Nat. Gas Co., 372 U.S. at 94.
+“The former cannot be sustained when they threaten . . . the
+achievement of the comprehensive scheme of federal
+regulation.” Id.
+                                17
+     But the Court need not fret about hypothetical state
+regulations now – nor need it resolve every hypothetical
+presented in Petitioners’ briefs. A facial challenge prevails
+where “no set of circumstances exists under which the [Orders]
+would be valid.” Duncan, 681 F.3d at 442. Petitioners fail to
+meet this standard, but States will be free to challenge the
+Orders as applied to their own state regulations or imposed
+conditions. Id. Petitioners are likely correct that litigation will
+follow as States try to navigate this line, but such is the nature
+of facial challenges.
+
+     Lastly, because we do not conclude that FERC has
+perpetuated federal policy goals to the detriment of the
+statutory authority granted to the States, our determination is
+consistent with the FPA’s purpose of maintaining the
+respective zones of jurisdiction while ensuring that FERC can
+carry out its duty of ensuring just and reasonable federal
+wholesale rates. EPSA, 136 S. Ct. at 781.
+
+    Because the challenged Orders do nothing more than
+regulate matters concerning federal transactions – and reiterate
+ordinary principles of federal preemption – they do not facially
+exceed FERC’s jurisdiction under the Act. Our decision today
+does not foreclose judicial review should conflict arise between
+a particular state law or policy and FERC’s authority to
+regulate the participation of ESRs in the federal markets.
+
+                                 B.
+
+     The Court must set aside the Orders if they are “arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law.” 5 U.S.C. § 706(2)(A). Local Utility
+Petitioners – joined by Transmission Access Study Group,
+Intervenor on behalf of Petitioners, (“Transmission Access”) –
+argue that even if FERC has the authority to prevent States
+                                18
+from broadly prohibiting local ESR participation in federal
+markets, its decision to exercise that authority in Order No. 841
+was arbitrary and capricious. We disagree, concluding that
+FERC’s decision to reject a state opt-out was adequately
+explained.
+
+     “[T]he court must uphold a rule if the agency has examined
+the relevant considerations and articulated a satisfactory
+explanation for its action, including a rational connection
+between the facts found and the choice made.” EPSA, 136 S.
+Ct. at 782 (internal quotation marks and brackets omitted).
+This narrow scope of review does not question whether the
+administrative action was the best regulatory decision possible,
+“or even whether it is better than the alternatives,” because it is
+not the role of a court to substitute its own judgment for that of
+the agency. Id.
+
+     Local Utility Petitioners rely heavily on the existence of a
+State opt-out in the programs reviewed in EPSA. There, the
+FERC orders at issue allowed States to “decide the eligibility
+of retail customers” in demand response programs. Wholesale
+Competition in Regions with Organized Electric Markets,
+Order No. 719-A ¶ 50, 128 FERC ¶ 61,059, FERC Stats. &
+Regs. ¶ 31,292, on reh’g, Order No. 719-B, 129 FERC ¶ 61,252
+(2009); EPSA, 136 S. Ct. at 772 (explaining that the order
+challenged there “continue[d] Order No. 719’s policy of
+allowing any state regulatory body to prohibit customers in its
+retail market from taking part in wholesale demand response
+programs”). In a nutshell, the demand response program
+enabled wholesale markets to compensate consumers for not
+using electric power at peak times, as a means of reducing
+pressure on the grid and lowering wholesale rates. See EPSA,
+136 S. Ct. at 769-71; 18 C.F.R. § 35.28(b)(4) (defining
+“demand response” as “a reduction in the consumption of
+electric energy by customers from their expected consumption
+                              19
+in response to an increase in the price of electric energy or to
+incentive payments designed to induce lower consumption of
+electric energy”). The Supreme Court described the opt-out
+feature as “cooperative federalism,” EPSA, 136 S. Ct. at 780,
+evidencing FERC’s “recognition of the linkage between
+wholesale and retail markets and the States’ role in overseeing
+retail sales,” id. at 779. That said, Local Utility Petitioners
+correctly acknowledge that EPSA did not condition its holdings
+on the existence of an opt-out. Even if EPSA serves as an
+endorsement of different programs in the future, not even the
+Supreme Court can “substitute [its] own judgment for that of
+the Commission.” 136 S. Ct. at 782.
+
+     More importantly, FERC’s departure from such a policy
+in Order No. 841 is neither unexplained nor unsupported. The
+Commission was acutely aware of its opt-out in Order No. 719.
+See Order No. 841-A ¶¶ 51-52 (distinguishing ESR
+participation in wholesale sales from demand response
+resources participating in wholesale bids). The Commission
+specifically considered the benefits of enabling broad ESR
+participation to promoting just and reasonable wholesale rates.
+Order No. 841 ¶¶ 2, 19, 29. For example, the Commission
+explained that promoting more participation of ESRs in
+wholesale markets increases competition, likely causing prices
+to lower, and more diversity in the types of ESRs encourages
+participation models that will be untethered to specific storage
+technologies. Id. Along the same lines, a federal market
+unfriendly to certain sizes, capacities, and system operations
+inhibits future developers from designing such ESRs. Id. ¶ 12.
+Importantly, Local Utility Petitioners do not question those
+benefits.
+
+     Local Utility Petitioners and Transmission Access also
+take issue with FERC’s failure to address States’ existing
+policies dealing with ESRs and the increased need for State
+                              20
+oversight since ESRs raise additional concerns about a
+distribution system’s safety and reliability with energy flowing
+in two directions. But FERC did address concerns that States
+may bear additional administrative burdens, and it also noted
+that States would remain unimpeded in their ability to manage
+their utilities, “allocat[ing] any costs that they incur in
+operating and maintaining their respective power systems.”
+Order No. 841-A ¶ 45; see Order No. 841 ¶ 36; see also Order
+No. 841-A ¶ 42. FERC simply decided that such negative
+effects were outweighed by the benefits of the program. Order
+No. 841-A ¶ 45. Local Utility Petitioners may disagree with
+that calculus, but FERC’s decision is not arbitrary and
+capricious. “This is the kind of reasonable agency prediction
+about the future impact of its own regulatory policies to which
+we ordinarily defer.” La. Energy & Power Auth. v. FERC, 141
+F.3d 364, 370 (D.C. Cir. 1998).
+
+                              V.
+
+     For the reasons stated above, Petitioners fail to show that
+Order Nos. 841 and 841-A run afoul of the Federal Power Act’s
+jurisdictional bifurcation or that they are otherwise arbitrary
+and capricious. We therefore deny the petitions in Nos. 19-
+1142 and 19-1147.
+
+                                                    So ordered.
+

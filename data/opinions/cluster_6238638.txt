@@ -1,0 +1,811 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 4, 2021              Decided January 21, 2022
+
+                         No. 20-1470
+
+        INTERCONTINENTAL EXCHANGE, INC., ET AL.,
+                     PETITIONERS
+
+                              v.
+
+          SECURITIES AND EXCHANGE COMMISSION,
+                       RESPONDENT
+
+
+           On Petition for Review of a Final Order
+         of the Securities and Exchange Commission
+
+
+   Kelly P. Dunbar argued the cause for petitioners. With him
+on the briefs was Amy Lishinski.
+
+   Jeffrey A. Berger, Senior Litigation Counsel, Securities and
+Exchange Commission, argued the cause for respondent. With
+him on the brief were Michael A. Conley, Acting General
+Counsel, and Tracey A. Hardin, Assistant General Counsel.
+
+   Keith Bradley was on the brief for amicus curiae Bloomberg
+L.P. in support of respondent.
+
+    James A. Brigagliano and Eric D. McArthur were on the
+brief for amici curiae McKay Brothers LLC, et al. in support
+of respondent.
+                               2
+   Jason M. Halper was on the brief for amici curiae Securities
+Industry and Financial Markets Association and FIA Principal
+Traders Group in support of respondent.
+
+  Before: KATSAS and WALKER, Circuit Judges, and
+GINSBURG, Senior Circuit Judge.
+
+  Opinion for the Court filed by Senior Circuit Judge
+GINSBURG.
+
+   GINSBURG, Senior Circuit Judge: Five registered national
+securities exchanges filed proposed rules with the Securities
+and Exchange Commission to establish fee schedules for two
+wireless services: Wireless Bandwidth Connections, which
+connect a customer’s equipment located on the premises of a
+petitioner exchange with the customer’s equipment located on
+the premises of a third-party data center; and Wireless Market
+Data Connections, which connect a customer to the proprietary
+data feed of a petitioner exchange. The exchanges filed the
+rules only because SEC staff had informed them that the
+Commission views their wireless services as “facilities of an
+exchange” and therefore subject to its jurisdiction. The SEC’s
+Final Order asserted jurisdiction over the services and
+approved the proposed rules.
+
+    The exchanges, their common corporate parent, and three
+other corporate affiliates petitioned for review of the Final
+Order, arguing that (1) the SEC’s assertion of jurisdiction over
+the services was based upon an erroneous interpretation of the
+statutes that define “exchange” and “facility,” (2) the SEC
+arbitrarily and capriciously ignored the effect of the Final Rule
+upon the ability of the wireless services to compete, and (3) the
+SEC unlawfully ignored Commission regulations defining
+“exchange” and arbitrarily and capriciously departed, without
+acknowledgment and explanation, from relevant agency
+                               3
+precedents. We reject each of these arguments and therefore
+deny the petition for review.
+
+                     I.     Background
+
+    Before describing the factual and procedural background
+giving rise to this petition for review, we first lay out the
+statutory framework for the filing of rules by self-regulatory
+organizations and then describe some relevant characteristics
+of the modern securities market.
+
+A. Statutory Framework
+
+    As a “self-regulatory organization,” or SRO, a national
+securities exchange must file with the SEC any proposed rule
+or rule change. 15 U.S.C. §§ 78c(a)(26), 78s(b)(1). For a rule
+to be approved by the SEC, it must, among other requirements,
+“provide for the equitable allocation of reasonable dues, fees,
+and other charges among . . . persons using its facilities,”
+“promote just and equitable principles of trade,” and not
+“impose any burden on competition not necessary or
+appropriate in furtherance of the purposes of [the Securities
+Exchange Act of 1934].”. Id. § 78f(b)(4),(5),(8).
+
+   Section 3(a) of that Act defines “exchange” as
+
+       any organization, association, or group of
+       persons . . . which constitutes, maintains, or
+       provides a market place or facilities for bringing
+       together purchasers and sellers of securities or
+       for otherwise performing with respect to
+       securities the functions commonly performed
+       by a stock exchange.
+                                4
+15 U.S.C. § 78c(a)(1). The statute specifically provides that an
+“exchange” includes not only the marketplace but also “the
+market facilities maintained by such exchange.” Id.
+
+   Section 3(a)(2) clarifies that
+
+       [t]he term ‘facility’ when used with respect to
+       an exchange includes its premises, tangible or
+       intangible property whether on the premises or
+       not, any right to the use of such premises or
+       property or any service thereof for the purpose
+       of effecting or reporting a transaction on an
+       exchange (including, among other things, any
+       system of communication to or from the
+       exchange, by ticker or otherwise, maintained by
+       or with the consent of the exchange), and any
+       right of the exchange to the use of any property
+       or service.
+
+Id. § 78c(a)(2).
+
+B. The Modern Securities Market
+
+   Securities exchanges, and the market for securities, have
+undergone a sea change since passage of the Exchange Act in
+1934. Once non-profit and member-owned, exchanges now are
+mostly for-profit companies. Trading is overwhelmingly
+automated and electronic; the once iconic trading floor has
+gone the way of the nickel beer. Exchanges now rely upon
+highly sophisticated technologies and matching algorithms to
+perform core functions, such as matching buy and sell orders,
+while brokers and traders rely upon lightning-fast technology
+to generate, route, and execute orders.
+                                5
+    As the market for securities has evolved, speed has become
+increasingly important to sophisticated and successful
+securities trading strategies, as vividly recounted in the popular
+book “Flash Boys” by Michael Lewis. Speed here is measured
+in microseconds (millionths of a second) and nanoseconds
+(billionths of a second). These miniscule fractions of a second
+— utterly meaningless virtually everywhere else — can make
+all the difference when it comes to receiving market data and
+completing a profitable transaction.          See Market Data
+Infrastructure, 85 Fed. Reg. 16726, 16728 (proposed Mar. 24,
+2020) (“Today, the U.S. equity markets have evolved into high-
+speed, latency-sensitive electronic markets where . . . even
+small degrees of latency affect trading strategies. Sophisticated
+order routing algorithms dependent on low-latency, high-
+quality market information are widely used to execute
+securities transactions.”). It should come as no surprise, then,
+that sophisticated market participants continually seek to
+reduce the latency in their transmissions.
+
+   The array of services a modern securities exchange offers to
+market participants reflects these realities. Among them is co-
+location. A market participant rents rack space and places its
+servers in physical proximity to an exchange’s matching engine
+or its proprietary market-data feed. The idea is simple: the
+closer a trader or broker’s equipment is to a market-data feed,
+the sooner it can receive market data and then act upon it; and
+the closer this equipment is to a matching engine, the faster an
+order can be routed to that matching engine. Exchanges also
+charge for access to proprietary market-data feeds and for
+various connectivity services, such as access to local networks
+that connect to matching engines.
+                               6
+
+C. Factual and Procedural Background
+
+   The petitioners are Intercontinental Exchange, Inc. (ICE)
+and eight of its wholly owned subsidiaries. Through its
+subsidiaries, ICE operates securities exchanges and clearing
+houses and provides data services. Five of the eight petitioning
+subsidiaries — New York Stock Exchange LLC, NYSE
+American LLC, NYSE Arca, Inc., NYSE Chicago, Inc., and
+NYSE National, Inc. (the Exchanges) — are for-profit firms
+registered with the SEC as national securities exchanges. The
+other three — ICE Data Services Wireless LLC, NYSE
+Technologies Connectivity, Inc., and ICE Data Connectivity &
+Feeds, Inc. (collectively, ICE Data Services, or IDS) — operate
+a global connectivity network that provides access to global
+markets and data sources. One of the data services affiliates —
+NYSE Technologies Connectivity, Inc. — is a subsidiary of the
+New York Stock Exchange. See Figure 1.
+                               7
+
+
+
+
+   The technological infrastructure of the Exchanges,
+including their matching engines, is housed in a 400,000 square
+foot building in Mahwah, New Jersey, at which the Exchanges
+offer co-location services, as well as connectivity services for
+customers’ co-located equipment. The NYSE and others have
+routinely filed rules regarding these various services for SEC
+approval. See, e.g., Self-Regulatory Organizations; New York
+Stock Exchange LLC; Order Approving a Proposed Rule
+Change Amending its Price List to Reflect Fees Charged for
+Co-Location Services, 75 Fed. Reg. 59310 (Sept. 2010); Self-
+Regulatory Organizations; New York Stock Exchange LLC;
+Notice of Filing of Partial Amendment No. 4 and Order
+Granting Accelerated Approval of a Proposed Rule Change, as
+                                8
+Modified by Amendment Nos. 1 Through 4, to Amend the Co-
+Location Services Offered by the Exchange To Add Certain
+Access and Connectivity Fees, 82 Fed. Reg. 15741 (Mar.
+2017).
+
+   In January 2020 the Exchanges filed with the SEC proposed
+rule changes establishing fee schedules for two wireless
+connectivity services operated by IDS. Each of the five NYSE
+Exchanges filed two proposed rule changes, one for each of the
+two services. One service (Wireless Market Data Connection)
+enables a market participant to transport proprietary market
+data (sold separately by the Exchanges to market participants),
+including information regarding bids, offers, and trades, from
+the Exchanges’ facility in Mahwah to the market participant’s
+co-located equipment at data centers in Secaucus, New Jersey,
+(operated by the Cboe exchange group), Carteret, New Jersey
+(operated by the Nasdaq exchange group), or Markham,
+Ontario (operated by Canadian exchanges). More specifically,
+as shown in Figure 2, the proprietary data first travels via fiber
+connections from an Exchange’s matching engine to co-located
+IDS equipment and onward to a data pole; the data then travels
+wirelessly through a series of towers until it reaches a data pole
+at a third-party data center; finally, the data travels via fiber
+connections to IDS equipment and then to a market
+participant’s equipment.
+                              9
+
+
+
+
+   The other service (Wireless Bandwidth Connection)
+provides a two-way connection that enables a customer’s co-
+located equipment at the Mahwah data center to communicate
+with the customer’s co-located equipment at a third-party data
+center. At both ends of the connection, IDS equipment
+connects by fiber to the market participant’s co-located
+equipment. Because a Wireless Bandwidth Connection runs
+both ways, a market participant can send a buy or sell order
+from Mahwah to a third-party data center, or vice versa. The
+Wireless Bandwidth Connection itself, however, does not
+connect a market participant’s co-located equipment directly to
+the Exchanges’ matching engines; in order to make this final
+connection, a market participant must purchase another
+connectivity service. See Figure 3.
+                               10
+
+
+
+
+   IDS contracts with a non-ICE firm to provide wireless
+connections between Mahwah and the data centers in Secaucus
+and Carteret. These wireless connections use as their
+distribution point a data pole next to the Exchanges’ facility in
+Mahwah, to which IDS has exclusive access. See Figure 4.
+                              11
+
+
+Figure 4: Mahwah Data Center1
+
+
+
+
+   For the connection between Mahwah and Markham, by
+contrast, IDS uses its own wireless network, and no private
+pole is involved. Non-ICE firms, such as amici McKay
+Brothers, LLC and Quincy Data, LLC, offer competing
+connectivity services between Mahwah and the other two New
+
+
+
+   1
+     This figure is taken from the brief of amicus curiae McKay
+Brothers LLC, Quincy Data LLC, et al.
+                               12
+Jersey data centers, but they are consigned to using a public
+access pole, as shown in Figure 4.
+
+    In their proposed rules, the Exchanges explained that they
+filed with the SEC only because Commission staff informed
+them that the Commission viewed the fee schedules as “rules
+of an exchange.” In the view of the Exchanges, however, the
+Wireless Connections “are not facilities of the Exchange within
+the meaning of the Act, and therefore do not need to be
+included in its rules.” See, e.g., Self-Regulatory Organizations;
+New York Stock Exchange LLC; Notice of Filing of Proposed
+Rule Change to Establish a Schedule of Wireless Connectivity
+Fees and Charges with Wireless Connections, 85 Fed. Reg.
+8938, 8939 (Feb. 2020) (hereinafter Proposed Rule Change).
+
+   During the public comment period, several parties argued
+that the private data pole located on the grounds of the Mahwah
+data center made the proposed rules burdensome to
+competition and inequitable because the private pole, to which
+IDS has exclusive access, is 700 feet closer to the co-located
+equipment than is the closest public pole, increasing the
+distance traversed wirelessly and decreasing the distance
+traversed through fiber connections. Because light waves
+travel faster through air than through fiber-optic cable, this
+would meaningfully reduce latency — albeit by less than a
+microsecond — and thus give IDS an insuperable latency
+advantage over its competitors. See Figure 5.
+                               13
+
+
+
+
+   The Exchanges addressed this concern by amending the
+proposed rules to ensure that the length of fiber running from
+the private data pole to IDS’s co-located hardware would be
+equal to the length of fiber running from the closest public
+access pole to the co-located hardware of competitors, thereby
+negating the advantage provided by the proximity of the private
+data pole.
+
+    In its Final Order, the SEC affirmed its jurisdiction over the
+proposed fee schedules for the Wireless Connections and then
+approved them. Self-Regulatory Organizations; New York
+Stock Exchange LLC, NYSE American LLC, NYSE Arca,
+Inc., NYSE Chicago, Inc., and NYSE National, Inc.; Notice of
+Filings of Partial Amendment No. 3 and Order Granting
+                               14
+Accelerated Approval to Proposed Rule Changes, Each as
+Modified by Partial Amendment No. 3, to Establish a Wireless
+Fee Schedule Setting Forth Available Wireless Bandwidth
+Connections and Wireless Market Data Connections, 85 Fed.
+Reg. 67044 (Oct. 2020). Intercontinental Exchange Inc., the
+Exchanges, and IDS petitioned this court for review pursuant
+to 15 U.S.C. § 78y(a)(1).
+
+                       II.     Analysis
+
+   ICE argues the SEC’s Final Order should be vacated
+because (1) it is based upon an erroneous, or at least an
+unreasonable, interpretation of the relevant statutes; (2) the
+Commission failed to consider the effect of the Order upon
+competition; and (3) the Order is inconsistent with SEC
+regulations and departs from agency precedents without
+adequate acknowledgement and explanation.
+
+A. Statutory Interpretation
+
+    The SEC concluded the Wireless Connections are subject to
+its jurisdiction as “facilities of an exchange.” This conclusion,
+the SEC argues, follows from its unambiguously correct
+reading of the relevant statutes. In the alternative, the
+Commission says that even if the relevant statutes are
+ambiguous, its interpretation of the statute is reasonable and
+entitled to deference. ICE maintains, to the contrary, that the
+SEC’s Final Order is based upon an unambiguously incorrect
+reading of the relevant statutes, and to the extent there is
+ambiguity, the SEC resolved it unreasonably.
+                                15
+
+    1. Definition of “facility”
+
+    Section 3(a)(2), set out above, includes several properties
+and property rights and services within the statutory definition
+of a “facility” of an exchange. In its Final Order, the SEC
+concluded that, for several reasons, both the Wireless
+Bandwidth Connection and the Wireless Data Connection
+satisfy the statutory definition of “facility.” We agree with the
+SEC that the Wireless Connections are “facilities” of an
+exchange because they are “system[s] of communication to or
+from the exchange . . . maintained by or with the consent of the
+exchange” that is offered “for the purpose of effecting or
+reporting transactions on the exchange.” 15 U.S.C. § 78c(a)(2).
+
+    Start with the Wireless Bandwidth Connection. The
+statutory definition of facility describes it to a tee: It allows a
+market participant to transmit data, including price quotes and
+orders, between the participant’s co-located equipment at the
+Mahwah data center and the participant’s co-located equipment
+at a third-party data center, and thus to effect or report
+transactions on the Exchanges. Indeed, facilitating market
+activity is the only reason a market participant would pay a
+$10,000 initial fee and a recurring monthly charge of up to
+$45,000 for this connection. See Proposed Rule Change, 85
+Fed. Reg. at 8942.
+
+   The same goes for the Wireless Data Connection. It allows
+for transmission of proprietary market data, including
+information about bids, offers, and trades, from the premises of
+the Exchanges at Mahwah to a market participant’s equipment
+co-located at a data center maintained by another exchange.
+The market participant may use those data to route orders to the
+Exchanges. Therefore, a Wireless Data Connection, too, is “a
+system of communication to or from the exchange . . .
+                              16
+maintained by or with the consent of the exchange” that is
+offered “for the purpose of effecting and reporting transactions
+on the Exchange.” Indeed, as the SEC aptly argues in its brief,
+the Wireless Data Connection is the modern analogue of the
+ticker, which the statute gives as an example of a system of
+communication that is considered a “facility,” see 15 U.S.C. §
+78c(a)(2).
+
+   ICE quibbles with these simple observations. It argues that
+because the Wireless Connections are not directly connected to
+the Exchanges (i.e., to the matching engines) and are but a
+single link in the chain of communication between market
+participants and the matching engines, they are not systems of
+communication “to or from the exchange.” Further, according
+to ICE, unless the court “maintain[s] a strict limit on what it
+means to be to or from, you can quickly end up in a scenario
+where the SEC could claim the jurisdiction to regulate every
+antecedent communications link that may eventually lead to a
+securities transaction . . . .” Oral Arg. Rec. at 15:07-15:25.
+Taking its point to the extreme, ICE argues the Commission’s
+theory would subject to the Commission’s jurisdiction even
+“telecommunications providers, couriers, or any service used
+by broker-dealers or others that is somehow related to the later
+buying and selling of securities on an actual exchange,” an
+absurd result.
+
+   ICE’s narrow reading of the statute does not withstand
+scrutiny, and its warning about the dire consequences of a more
+expansive reading rings hollow. As the petitioners conceded at
+oral argument, the statutory definition of “exchange”
+encompasses more than just the matching engine, so there is no
+reason to think the plain meaning of a system of
+communication “to or from the exchange” is limited to a
+system that provides a direct connection to the matching engine
+of an exchange. Furthermore, ICE’s reading of the statue is
+                               17
+formalistic to a fault. True enough, the Wireless Bandwidth
+Connection does not directly connect a market participant to
+equipment owned by an exchange; rather it connects the market
+participant’s co-located equipment at Mahwah to the
+participant’s co-located equipment at a third-party data center.
+Focusing upon this fact alone, however, ignores crucial
+context. The Wireless Bandwidth Connection serves no
+purpose other than facilitating market activity, which requires
+a connection to the matching engine of an exchange.
+Technically, the Wireless Bandwidth Connection could be used
+for non-market related communications, but it would make no
+economic sense to purchase an expensive Wireless Bandwidth
+Connection for that reason.        Unsurprisingly, a market
+participant that purchases a Wireless Bandwidth Connection
+invariably purchases a further connection linking its equipment
+at Mahwah to a matching engine there. See McKay Brothers
+Br. at 15 n.10 (“[A]mici are unaware of any trading firm co-
+located in the Exchanges’ data center that does not have a
+connection for executing orders on the Exchanges’ system.”);
+see also Self-Regulatory Organizations; New York Stock
+Exchange LLC, NYSE American LLC, NYSE Arca, Inc.,
+NYSE Chicago, Inc., and NYSE National, Inc.; Order Granting
+Accelerated Approval, 85 Fed. Reg. at 67049 (Oct. 2020) (
+“What is required for an exchange service to be a facility is that
+it be provided ‘for the purpose of’ effecting or reporting a
+transaction on the Exchange which . . . is in fact the case.”). A
+Wireless Bandwidth Connection, therefore, is a vital and
+proximate link in a system of communication that directly
+connects a market participant to the matching engine of an
+exchange. To analyze the Wireless Bandwidth Connection
+without regard to the context in which it operates makes no
+sense.
+
+   We are unmoved by ICE’s warning about the dire
+consequences of our reading of the statute. Holding the
+                               18
+Wireless Bandwidth Connection and the Wireless Data
+Connection qualify as systems of communications “for the
+purpose of effecting or reporting a transaction on an exchange”
+will not lead us down a slippery slope that ends in an irrational
+extension of the SEC’s jurisdiction. The differences between
+the Wireless Connections and, to take ICE’s own examples, a
+telecommunications or courier service used by a broker to
+communicate with a customer are legion. In contrast to those
+services, the Wireless Connections are very expensive, highly
+specialized connections, used exclusively by market
+participants for the sole purpose of effectuating trading
+strategies and facilitating market activity. Moreover, they are
+offered by IDS, an affiliate of the Exchanges, and could not
+exist without the consent of the Exchanges — in other words,
+they clearly are “system[s] of communication . . . maintained
+by or with the consent of the exchange,” 15 U.S.C. § 78c(a)(2).
+Communications systems that incidentally facilitate the trading
+of securities, by contrast, do not owe their existence to the
+consent of any exchange, nor are they maintained by any
+exchange.      Finally, a Wireless Bandwidth Connection
+invariably forms the penultimate link in a direct connection to
+the matching engine of an exchange. There is thus a country
+mile between subjecting the Wireless Connections to the
+jurisdiction of the SEC and subjecting “every antecedent
+communications link” to the Commission’s jurisdiction.
+
+    2. Section 3(a)(1)
+
+    Our analysis does not end with holding the Wireless
+Connections come within the definition of “facility” in Section
+3(a)(2). Both the SEC and the petitioners read Section 3(a)(2)
+through the lens of Section 3(a)(1). In other words, satisfying
+the statutory definition of “facility” in Section 3(a)(2) is
+necessary but not sufficient to subject a facility to the
+jurisdiction of the Commission; it must also be the type of
+                                19
+facility that Section 3(a)(1) includes in the term “exchange.”
+The logic of this approach apparently is that only the rules of
+an SRO are subject to a filing requirement, and the rules of a
+facility are not rules of an SRO unless that facility is part of an
+SRO. We therefore go on to analyze whether the Wireless
+Connections are the type of facility Section 3(a)(1) describes
+as being part of an exchange, without deciding whether SEC
+jurisdiction depends upon this analysis.
+
+   In its Final Order, the SEC concluded that the Wireless
+Connections do indeed come within the statutory definition of
+the term “exchange.” Section 3(a)(1) defines an “exchange” as
+“any organization, association, or group of persons . . . which
+constitutes, maintains, or provides a market place or facilities
+for bringing together purchasers and sellers of securities or for
+otherwise performing with respect to securities the functions
+commonly performed by a stock exchange.” The statute then
+specifically provides that an exchange “includes . . . the market
+facilities maintained by such exchange.” 15 U.S.C. 78c(a)(1).
+Although the Wireless Connections are provided and
+maintained by IDS, and not by the Exchanges themselves, IDS
+and the Exchanges form a “group of persons” that together
+“maintains or provides a market place or facilities.” Therefore,
+the SEC concluded, the Wireless Connections come within the
+definition of an exchange in Section 3(a)(1).
+
+    We agree. Whatever the outer bounds of the undefined term
+“group,” it certainly includes closely connected corporate
+affiliates such as the IDS companies and the Exchanges. If it
+did not, then a party would itself be able to elude SEC
+jurisdiction by making simple changes to its corporate
+structure, an obviously untenable result.
+
+   We do not suggest the term “group of persons” is
+synonymous with corporate affiliation. Unaffiliated entities
+                               20
+engaged in joint ventures or other concerted activity may or
+may not, depending upon the circumstances, be considered a
+“group of persons” for the purposes of this statute. On the other
+hand, one corporation that is affiliated with but not controlled
+by another may or may not, depending upon the circumstances,
+be considered a “group of persons” for the purposes of the
+statute. Whether two or more persons are or may be acting in
+concert is likely the key consideration. These, however, are
+possibilities we need not confront in the present case.
+
+    At any rate, corporate affiliation is significant here. Even
+putting aside that one of the three companies collectively
+referred to by the parties as IDS is a subsidiary of an exchange,
+viz., the NYSE, see Figure 1 above, the record reveals a unity
+of interests between IDS and the Exchanges. According to the
+original proposal submitted by the Exchanges, that is, prior to
+the amendments made in response to concerns about the private
+pole next to the NYSE’s facility in Mahwah, the Wireless
+Connections would have provided IDS, a corporate affiliate of
+the Exchanges, with an insuperable latency advantage over its
+competitors. Thus, overlooking corporate affiliation here
+would allow a company that controls an exchange to evade
+SEC oversight by making a simple change to its corporate
+structure; it could then use its control over access to exchange
+facilities to gain a competitive advantage for its subsidiary,
+which would be directly at odds with one purpose of the
+Exchange Act, viz., to prevent the imposition of unnecessary
+burdens upon competition. See 15 U.S.C. 78f(b)(8). All this
+leaves no doubt that the Exchanges and IDS clearly are a
+“group of persons” under Section 3(a)(1).
+
+   In short, the outer boundary of the term “group of persons”
+remains murky, and vigilance is necessary to ensure the term is
+not stretched too far. Whatever the limits of that term may be,
+                               21
+though, corporate affiliates such as IDS and the Exchanges are
+surely well within them.
+
+    In its Reply Brief, however, ICE argues Section 3(a)(1)
+cannot possibly apply to the Wireless Connections because the
+statute speaks about “facilities for bringing together purchasers
+and sellers of securities,” which ICE maintains means facilities
+that directly connect purchasers and sellers of securities. As
+ICE conceded at oral argument, however, under that reading of
+the statue the Wireless Connections would not be subject to
+SEC jurisdiction even if provided directly by the Exchanges.
+Oral Arg. Rec. at 24:06-25:45. That cannot be right.
+
+    As mentioned before, Section 3(a)(2) instances a stock
+“ticker” as a “facility” even though a ticker merely transmits
+stock quotes and does not directly bring together purchasers
+and sellers of securities. Moreover, ICE wisely concedes that
+sale of proprietary market data is subject to the jurisdiction of
+the SEC as a “facility of an exchange,” but that concession is
+difficult to square with ICE’s reading of the statute, for a
+proprietary market data feed does not directly connect
+purchasers and sellers of securities. For similar reasons, ICE’s
+reading of the statute is also difficult to square with the SEC’s
+unchallenged jurisdiction over co-location services. The SEC
+has regulated co-location services at Mahwah since they were
+first offered in 2010, see Self-Regulatory Organizations; New
+York Stock Exchange LLC; Order Approving a Proposed Rule
+Change Amending Its Price List to Reflect Fees Charged for
+Co-Location Services, 75 Fed. Reg. 59310 (Sept. 2010), and
+given the centrality of those services to trading strategies on a
+modern securities exchange, it is difficult to accept a reading
+of the statute that would place them beyond regulatory purview
+of the Commission.
+                               22
+    Obviously, then, the statute does not limit a facility of an
+exchange to things that directly bring together purchasers and
+sellers of securities. Possibly the statute describes what the
+group must do as a whole, not what each and every part of the
+group must do. Alternatively, by speaking of “facilities for
+bringing together etc.,” and not of “facilities that bring
+together,” the statute could be limited to facilities that are
+maintained for the purpose of bringing together purchasers and
+sellers of securities. Either way, however, the Wireless
+Connections are covered: IDS is part of a group that directly
+brings together purchasers and sellers of securities and it offers
+the Wireless Connections for the purpose of bringing together
+purchasers and sellers of securities.
+
+   In sum, the Wireless Connections come within the
+definition of “facility” in Section 3(a)(2) and are the type of
+facility – a market facility maintained by an exchange for
+bringing together purchasers and sellers of an exchange – that
+Section 3(a)(1) brings within the term “exchange.” Therefore,
+the SEC correctly concluded that the fee schedules for the
+Wireless Connections are “rules of an exchange” and hence
+must be filed with the Commission.
+
+B. Failure to Consider Effect Upon Competition
+
+   ICE contends the Final Order was arbitrary and capricious
+because the SEC failed to consider whether the Order would
+“promote efficiency, competition, and capital formation.” See
+15 U.S.C. § 78c(f). Although the Final Order thoroughly
+discusses the effect the proposed rules would have upon IDS’s
+competitors, it did not, ICE maintains, respond to the argument
+that subjecting the Wireless Connections to SEC oversight
+would hamper IDS’s ability to compete efficiently.
+                               23
+   As the SEC correctly points out, however, this argument
+conflates two distinct questions: (1) whether an organization is
+one the Congress decided ought to be subjected to the rule-
+approval process, and (2) whether the SEC ought to approve a
+particular rule proposed by an SRO. The provision ICE cites
+in support of its argument deals with the latter question, as it
+speaks of the SEC’s duties “in the review of a rule of a self-
+regulatory organization.” Id. It is thus of a piece with Section
+6(b), which requires that rules of an exchange must “provide
+for the equitable allocation of reasonable dues, fees, and other
+charges,” “promote just and equitable principles of trade,” and
+not “impose any burden on competition not necessary or
+appropriate in furtherance of the purposes of [the Securities
+Exchange Act].” Id. § 78f(b)(4), (5), (8).
+
+    That the SEC is required to consider all this when reviewing
+a rule proposed by an SRO has nothing to do with whether that
+SRO is subject to the rule-approval process in the first place.
+The SEC is not tasked with deciding whether subjecting an
+organization to the rule-approval process would burden its
+ability to compete. That decision was made by the Congress:
+Because the Wireless Connections satisfy the statutory
+definitions in Sections 3(a) and (b), its rules must be filed with
+and approved by the SEC — full stop.
+
+C. Consistency with SEC Regulations and Prior Orders
+
+   ICE argues that the Final Order is unlawful because it
+contradicts SEC regulations defining “exchange.” ICE further
+argues that the Final Order was arbitrary and capricious
+because it departed from agency precedent without
+acknowledging and explaining its change of position. These
+arguments are meritless.
+                              24
+
+    1. Consistency with Commission Regulations
+
+   An SEC regulation defining the terms used in Section
+3(a)(1) provides:
+       An organization, association, or group of
+       persons shall be considered to constitute,
+       maintain, or provide “a market place or facilities
+       for bringing together purchasers and sellers of
+       securities or for otherwise performing with
+       respect to securities the functions commonly
+       performed by a stock exchange,” as those terms
+       are used in section 3(a)(1) of the Act, (15 U.S.C.
+       78c(a)(1)), if such organization, association, or
+       group of persons:
+
+              (1) Brings together the orders for
+              securities of multiple buyers and sellers;
+              and
+
+              (2) Uses established, non-discretionary
+              methods (whether by providing a
+              trading facility or by setting rules) under
+              which such orders interact with each
+              other, and the buyers and sellers
+              entering such orders agree to the terms
+              of a trade.
+
+    17 C.F.R. § 240.3b-16(a)(1)-(2). The Wireless Connections
+do not process orders from buyers and sellers, let alone
+establish methods for such orders to interact with each other.
+Therefore, ICE argues, the Final Order ignored this regulation
+in concluding that the Wireless Connections are subject to the
+jurisdiction of the SEC as facilities of an exchange.
+                               25
+   The cited regulation has no bearing upon this case; it merely
+describes characteristics an exchange as a whole — that is, the
+group of persons that together constitute an exchange — must
+have. Not every part of an exchange, nor every person that is
+part of a group that constitutes an exchange, must have all these
+characteristics. That the Wireless Connections lack these
+characteristics, therefore, does not preclude their being
+regulated as part of an exchange.
+
+    ICE also points to a regulation providing that merely
+“[r]out[ing] orders to a national securities exchange” does not
+make something an exchange. 17 C.F.R. § 240.3b-16(b)(1).
+This is a red herring. The SEC held not that the Wireless
+Connections are exchanges because they route orders to a
+national security exchange but that they are included in the
+statutory definition of exchange because they are part of a
+group of persons that together perform and facilitate exchange
+functions going far beyond merely routing orders.
+
+    2. Departure from agency              precedent     without
+       adequate explanation
+
+    ICE also argues that in concluding the Wireless Bandwidth
+Connection and the Wireless Data Connection are subject to its
+jurisdiction, the SEC departed from two agency precedents
+without providing a reasoned explanation. The first precedent
+to which ICE points is a 2007 order that dealt with a “neutral
+communications service that allow[ed] Nasdaq members and
+non-members to route orders to one another.” Self-Regulatory
+Organizations; The NASDAQ Stock Market LLC; Order
+Approving a Proposed Rule Change, as Modified by
+Amendments No. 1 and 2, to Remove Provisions Governing
+the Operation of the ACES System, 72 Fed. Reg. 46118 (Aug.
+2007). The SEC held the system was not a “facility” within the
+meaning of the Exchange Act: “the . . . system is not linked
+                               26
+with the Exchange’s core systems” and “[i]t is not possible for
+an order to be routed to the Nasdaq Market Center via the . . .
+system.” Id. at 46119. The same points, ICE argues, describe
+the Wireless Bandwidth Connection and the Wireless Data
+Connection. Therefore, the argument goes, the SEC was
+obligated to acknowledge the 2007 Order and either follow it
+or explain its reason for departing from it.
+
+   This argument fails because, as the SEC points out, the 2007
+Order, which the petitioners never cited in their filings with the
+Commission, did not purport to set forth a rule that a “facility”
+must be linked directly to an exchange. The lack of a direct
+connection was significant in that case because the system
+under review merely routed orders between broker-dealers,
+making it easier for them to fulfill their best-execution
+obligations. Neither of the Wireless Connections involves the
+mere routing of orders between broker-dealers, so the 2007
+Order is simply irrelevant.
+
+    ICE’s second example of a purported departure from
+precedent involves a 2008 Order regarding an index
+dissemination service through which the Nasdaq calculated and
+disseminated index information based upon publicly available
+data. Self-Regulatory Organizations; The NASDAQ Stock
+Market LLC; Order Approving Proposed Rule Change as
+Modified by Amendment Nos. 1 and 2 Thereto to Remove
+from Rule 7019 the Fees for Receiving Index Values, 73 Fed.
+Reg. 66952 (Nov. 2008). Although that service is unlike either
+of the Wireless Services, ICE points to the following wording
+in the 2008 Order: “If, however, Nasdaq were to propose to tie
+pricing for the index dissemination service to exchange
+services . . . Nasdaq would have to file a proposed rule change
+with the Commission.” Id. at 66953. Based upon this snippet,
+ICE argues the Final Order here under review departed from
+agency precedent by holding the Wireless Connections are
+                                27
+“facilities” even though their pricing is not in any way tied to
+“exchange services.”
+
+   There is nothing to this argument either. In the 2008 Order,
+having concluded that the index dissemination service was not
+a “facility,” the SEC unremarkably pointed out that the service
+might be one if the Nasdaq were later to tie its pricing to a
+service that is a “facility.” That has nothing to do with our case,
+in which the SEC determined the Wireless Connections
+independently come within the definition of “facility” and are
+themselves properly characterized as “exchange services.”
+
+                       III.    Conclusion
+
+   We hold that the Wireless Bandwidth Connection and the
+Wireless Data Connection are subject to the SEC’s jurisdiction
+as “facilities” of an exchange. The SEC therefore correctly
+concluded that the fee schedules for the Wireless Connections
+had to be filed with the Commission as “rules of an exchange.”
+This conclusion was consistent with SEC regulations and with
+agency precedent. For the foregoing reasons, the petition for
+review is
+
+                                             Denied.
+

@@ -1,0 +1,1870 @@
+ United States Court of Appeals
+        FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 6, 2017            Decided June 13, 2017
+                                  Amended August 4, 2017
+
+                      No. 15-1461
+
+                   GLOBAL TEL*LINK,
+                      PETITIONER
+
+                            v.
+
+   FEDERAL COMMUNICATIONS COMMISSION AND UNITED
+               STATES OF AMERICA,
+                  RESPONDENTS
+
+   CENTURYLINK PUBLIC COMMUNICATIONS, INC., ET AL.,
+                   INTERVENORS
+
+
+  Consolidated with 15-1498, 16-1012, 16-1029, 16-1038,
+                    16-1046, 16-1057
+
+
+           On Petitions for Review of an Order of
+         the Federal Communications Commission
+                               2
+     Mithun Mansinghani, Deputy Solicitor General, Office of
+the Attorney General for the State of Oklahoma, argued the
+cause for State and Local Government Petitioners. With him
+on the briefs were E. Scott Pruitt, Attorney General, Patrick R.
+Wyrick, Solicitor General, Nathan B. Hall, Assistant Solicitor
+General, James Bradford Ramsay, Jennifer Murphy,
+Christopher J. Collins, Mark Brnovich, Attorney General,
+Office of the Attorney General for the State of Arizona,
+Dominic E. Draye, Deputy Solicitor General, Leslie Rutledge,
+Attorney General, Office of the Attorney General for the State
+of Arkansas, Lee Rudofsky, Solicitor General, Nicholas Bronni,
+Deputy Solicitor General, Danny Honeycutt, Karla L. Palmer,
+Tonya J. Bond, Joanne T. Rouse, Derek Schmidt, Attorney
+General, Office of the Attorney General for the State of Kansas,
+Jeffrey A. Chanay, Chief Deputy Attorney General, Chris
+Koster, Attorney General, Office of the Attorney General for
+the State of Missouri, J. Andrew Hirth, Deputy General
+Counsel, Brad D. Schimel, Attorney General, Office of the
+Attorney General for the State of Wisconsin, Misha Tseytlin,
+Solicitor General, Daniel P. Lennington, Deputy Solicitor
+General, Gregory F. Zoeller, Attorney General, Office of the
+Attorney General for the State of Indiana, Thomas M. Fisher,
+Solicitor General, Jeff Landry, Attorney General, Office of the
+Attorney General for the State of Louisiana, Patricia H. Wilton,
+Assistant Attorney General, Adam Paul Laxalt, Attorney
+General, Office of the Attorney General for the State of
+Nevada, and Lawrence VanDyke, Solicitor General. Jared
+Haines, Assistant Solicitor General, Office of the Attorney
+General for the State of Oklahoma, David G. Sanders,
+Assistant Attorney General, Office of the Attorney General for
+the State of Louisiana, and Dean J. Sauer, Attorney, Office of
+the Attorney General for the State of Missouri, entered
+appearances.
+                              3
+     Michael K. Kellogg argued the cause for ICS Carrier
+Petitioners. With him on the briefs were Aaron M. Panner,
+Benjamin S. Softness, Stephanie A. Joyce, Andrew D. Lipman,
+Brita D. Strandberg, Jared P. Marx, John R. Grimm, Robert A.
+Long, Jr., Kevin F. King, Marcus W. Trathen, Julia C.
+Ambrose, and Timothy G. Nelson.
+
+     Andrew D. Lipman and Stephanie A. Joyce were on the
+brief for petitioner Securus Technologies, Inc.
+
+    David M. Gossett, Attorney, Federal Communications
+Commission, argued the cause for respondent. On the brief
+were Howard J. Symons at the time the brief was filed, General
+Counsel, Jacob M. Lewis, Associate General Counsel, Sarah
+E. Citrin, Counsel, and Robert B. Nicholson and Daniel E.
+Haar, Attorneys, U.S. Department of Justice. Mary H.
+Wimberly, Attorney, U.S. Department of Justice, Brendan T.
+Carr, Acting General Counsel, Federal Communications
+Commission, and Richard K. Welch, Deputy Associate General
+Counsel, entered appearances.
+
+     Lori Swanson, Attorney General, Office of the Attorney
+General for the State of Minnesota, Kathryn Fodness and
+Andrew Tweeten, Assistant Attorneys General, Eric T.
+Schneiderman, Attorney General, Office of the Attorney
+General for the State of New York, Robert W. Ferguson,
+Attorney General, Office of the Attorney General for the State
+of Washington, Karl A. Racine, Attorney General, Office of the
+Attorney General for the District of Columbia, Lisa Madigan,
+Attorney General, Office of the Attorney General for the State
+of Illinois, Maura Healey, Attorney General, Office of the
+Attorney General for the Commonwealth of Massachusetts,
+and Hector Balderas, Attorney General, Office of the Attorney
+General for the State of New Mexico were on the brief for
+                               4
+amici curiae State of Minnesota, et al. in support of
+respondents.
+
+    Glenn S. Richards was on the brief for intervenors
+Network Communications International Corp. in support of
+respondents.
+
+    Andrew Jay Schwartzman argued the cause for intervenors
+The Wright Petitioners. With him on the brief was Drew T.
+Simshaw.
+
+    Danny Y. Chou was on the brief for amicus curiae The
+County of Santa Clara and the County of San Francisco in
+support of respondent.
+
+   Opinion for the court filed by Senior Circuit Judge
+EDWARDS.
+
+    Concurring opinion filed by Senior Circuit Judge
+SILBERMAN.
+
+    Opinion filed by Circuit Judge PILLARD, dissenting as to
+Sections II.B through II.F and concurring in part.
+
+    Before: PILLARD, Circuit Judge, and EDWARDS and
+SILBERMAN, Senior Circuit Judges.
+
+    EDWARDS, Senior Circuit Judge: The Communications
+Act of 1934 (“1934 Act”) authorized the Federal
+Communications Commission (“Commission” or “FCC”) to
+ensure that interstate telephone rates are “just and reasonable,”
+47 U.S.C. § 201(b), but left regulation of intrastate rates
+primarily to the states. In the Telecommunications Act of 1996
+(“1996 Act”), Congress amended the 1934 Act to change the
+Commission’s limited regulatory authority over intrastate
+                                5
+telecommunication so as to promote competition in the
+payphone industry.
+
+     Before the passage of the 1996 Act, Bell Operating
+Companies (“BOCs”) had dominated the payphone industry to
+the detriment of other providers. Congress sought to remedy
+this situation by authorizing the Commission to adopt
+regulations ensuring that all payphone providers are “fairly
+compensated for each and every” interstate and intrastate call.
+47 U.S.C. § 276(b)(1)(A). “[P]ayphone service” expressly
+includes “the provision of inmate telephone service in
+correctional institutions, and any ancillary services.” Id.
+§ 276(d). The issues in this case focus on inmate calling
+services (“ICS”) and the rates and fees charged for these calls.
+
+     Following the passage of the 1996 Act, the Commission
+avoided intrusive regulatory measures for ICS. And prior to the
+Order under review in this case, the Commission had never
+sought to impose rate caps on intrastate calls. Rather, the FCC
+consistently construed its authority over intrastate payphone
+rates as limited to addressing the problem of under-
+compensation for ICS providers.
+
+     Due to a variety of market failures in the prison and jail
+payphone industry, however, inmates in correctional facilities,
+or those to whom they placed calls, incurred prohibitive per-
+minute charges and ancillary fees for payphone calls. In the
+face of this problem, the Commission decided to change its
+approach to the regulation of ICS providers. In 2015, in the
+Order under review, the Commission set permanent rate caps
+and ancillary fee caps for interstate ICS calls and, for the first
+time, imposed those caps on intrastate ICS calls. Rates for
+Interstate Inmate Calling Services (“Order”), 30 FCC Rcd.
+12763, 12775–76, 12838–62 (Nov. 5, 2015), 80 Fed. Reg.
+79136-01 (Dec. 18, 2015). The Commission also proposed to
+                               6
+expand the reach of its ICS regulations by banning or limiting
+fees for billing and collection services – so-called “ancillary
+fees” – and by regulating video services and other advanced
+services in addition to traditional calling services.
+
+     Five inmate payphone providers, joined by state and local
+authorities, now challenge the Order’s design to expand the
+FCC’s regulatory authority. In particular, the Petitioners
+challenge the Order’s proposed caps on intrastate rates, the
+exclusion of “site commissions” as costs in the agency’s
+ratemaking methodology, the use of industry-averaged cost
+data in the FCC’s calculation of rate caps, the imposition of
+ancillary fee caps, and reporting requirements. And one ICS
+provider separately challenges the Commission’s failure to
+preempt inconsistent state rates and raises a due process
+challenge.
+
+     Following the presidential inauguration in January 2017,
+counsel for the FCC advised the court that, due to a change in
+the composition of the Commission, “a majority of the current
+Commission does not believe that the agency has the authority
+to cap intrastate rates under section 276 of the Act.” Counsel
+thus informed the court that the agency was “abandoning . . .
+the contention . . . that the Commission has the authority to cap
+intrastate rates” for ICS providers. Counsel also informed the
+court that the FCC was abandoning its contention “that the
+Commission lawfully considered industry-wide averages in
+setting the rate caps.” However, the Commission has not
+revoked, withdrawn, or suspended the Order. And one of the
+Intervenors on behalf of the Commission, the “Wright
+Petitioners,” continues to press the points that have been
+abandoned by the Commission.
+
+    For the reasons set forth below, we grant in part and deny
+in part the petitions for review, and remand for further
+                               7
+proceedings with respect to certain matters. We also dismiss
+two claims as moot.
+
+   We hold that the Order’s proposed caps on intrastate rates
+    exceed the FCC’s statutory authority under the 1996 Act.
+    We therefore vacate this provision.
+
+   We further hold that the use of industry-averaged cost data
+    as proposed in the Order is arbitrary and capricious because
+    it lacks justification in the record and is not supported by
+    reasoned decisionmaking. We therefore vacate this
+    provision.
+
+   We additionally hold that the Order’s imposition of video
+    visitation reporting requirements is beyond the statutory
+    authority of the Commission. We therefore vacate this
+    provision.
+
+   We find that the Order’s proposed wholesale exclusion of
+    site commission payments from the FCC’s cost calculus is
+    devoid of reasoned decisionmaking and thus arbitrary and
+    capricious. This provision cannot stand as presently
+    proposed in the Order under review; we therefore vacate
+    this provision and remand for further proceedings on the
+    matter.
+
+   We deny the petitions for review of the Order’s site
+    commission reporting requirements.
+
+   We remand the challenge to the Order’s imposition of
+    ancillary fee caps to allow the Commission to determine
+    whether it can segregate proposed caps on interstate calls
+    (which are permissible) and the proposed caps on intrastate
+    calls (which are impermissible).
+                               8
+   Finally, we dismiss the preemption and due process claims
+    as moot.
+
+                    I.   BACKGROUND
+
+A. Statutory Background
+
+    The 1934 Act, 47 U.S.C. § 151, et seq., established a system
+of regulatory authority that divides power between individual
+states and the FCC over inter- and intrastate telephone
+communication services. New England Pub. Commc’ns
+Council, Inc. v. FCC, 334 F.3d 69, 75 (D.C. Cir. 2003). Under
+this statutory scheme, the Commission regulates interstate
+telephone communication. See id.; 47 U.S.C. § 151. This
+regulatory authority includes ensuring that all charges “in
+connection with” interstate calls are “just and reasonable.” 47
+U.S.C. § 201(b). “The Commission may prescribe such rules
+and regulations as may be necessary in the public interest to
+carry out” these provisions. Id.
+
+     The FCC, however, “is generally forbidden from entering
+the field of intrastate communication service, which remains
+the province of the states.” New England Pub., 334 F.3d at 75
+(citing 47 U.S.C. § 152(b)). Section 152(b) of the 1934 Act
+erects a presumption against the Commission’s assertion of
+regulatory authority over intrastate communications. This is
+“not only a substantive jurisdictional limitation on the FCC’s
+power, but also a rule of statutory construction” in interpreting
+the Act’s provisions. La. Pub. Serv. Comm’n v. FCC, 476 U.S.
+355, 373 (1986).
+
+    The 1996 Act “fundamentally restructured the local
+telephone industry,” New England Pub., 334 F.3d at 71, by
+changing the FCC’s authority with respect to some intrastate
+activities and “remov[ing] a significant area from the States’
+                             9
+exclusive control,” AT&T Corp. v. Iowa Utils. Bd., 525 U.S.
+366, 382 n.8 (1999). Nevertheless, the states still primarily
+“reign supreme over intrastate rates.” New England Pub., 334
+F.3d at 75 (quoting City of Brookings Mun. Tel. Co. v. FCC,
+822 F.2d 1153, 1155 (D.C. Cir. 1987)). “Insofar as Congress
+has remained silent . . . § 152(b) continues to function. The
+Commission could not, for example, regulate any aspect of
+intrastate communication not governed by the 1996 Act on the
+theory that it had an ancillary effect on matters within the
+Commission’s primary jurisdiction.” AT&T Corp., 525 U.S. at
+382 n.8.
+
+     Although the strictures of § 152 remain in force, the
+changes imposed by the 1996 Act were significant. Evidence
+of this is seen in the “Special Provisions Concerning Bell
+Operating Companies.” 47 U.S.C. §§ 271–76. Section 276 was
+“specifically aimed at promoting competition in the payphone
+service industry.” New England Pub., 334 F.3d at 71. While
+local phone services were once thought to be natural
+monopolies, “[t]echnological advances . . . made competition
+among multiple providers of local service seem possible, and
+Congress [in the 1996 Act] ended the longstanding regime of
+state-sanctioned monopolies.” AT&T Corp., 525 U.S. at 371;
+see also Glob. Crossing Telecomms., Inc. v. Metrophones
+Telecomms., Inc., 550 U.S. 45, 50 (2007).
+
+    The market history is illuminating. After AT&T had
+divested its local exchange carriers into individual BOCs in
+1982, BOCs continued to discriminate against non-BOC
+payphone providers and effectively foreclosed competition.
+The BOCs accomplished this by generally making sure that
+other providers were not compensated for calls using BOC-
+owned payphone lines. See New England Pub., 334 F.3d at 71.
+Thus, because technology constraints forced many non-BOC
+providers to use BOC-owned payphone lines, those providers
+                              10
+were often left uncompensated for payphone calls. The 1996
+Act changed these market practices.
+
+     In § 276, Congress clearly aimed to “promote competition
+among payphone service providers and promote the
+widespread deployment of payphone services to the benefit of
+the general public.” 47 U.S.C. § 276(b)(1). Covered payphone
+services include “inmate telephone service in correctional
+institutions, and any ancillary services.” Id. § 276(d). Section
+276 of the 1996 Act authorizes the Commission “to prescribe
+regulations consistent with the goal of promoting competition,
+requiring that the Commission take five specific steps toward
+that goal.” New England Pub., 334 F.3d at 71. One such step is
+to “establish a per call compensation plan to ensure that all
+payphone service providers are fairly compensated for each
+and every completed intrastate and interstate call using their
+payphone,” and to prescribe regulations to establish this
+compensation plan by November 1996. 47 U.S.C. § 276(b)(1),
+(b)(1)(A). The remaining four steps further encourage or force
+competition between BOC and non-BOC providers. Id.
+§ 276(b)(1)(B)–(E). Any state requirements that are
+inconsistent with FCC’s regulations adopted pursuant to § 276
+are preempted. Id. § 276(c).
+
+B. Factual and Procedural Background
+
+    Over the years, payphone providers have sought to provide
+inmate calling services to inmates in prisons and jails
+nationwide. ICS providers now compete with one another to
+win bids for long-term ICS contracts with correctional
+facilities. In awarding contracts to providers, correctional
+facilities usually give considerable weight to which provider
+offers the highest site commission, which is typically a portion
+of the provider’s revenue or profits. See Implementation of Pay
+Tel. Reclassification & Comp. Provisions of Telecomms. Act of
+                              11
+1996, 17 FCC Rcd. 3248, 3252–53 (2002). Site commissions
+apparently range between 20% and 63% of the providers’
+profits, but can exceed that amount. Id. at 3253 n.34. And ICS
+providers pay over $460 million in site commissions annually.
+Order, 30 FCC Rcd. at 12821.
+
+    Once a long-term, exclusive contract bid is awarded to an
+ICS provider, competition ceases for the duration of the
+contract and subsequent contract renewals. Winning ICS
+providers thus operate locational monopolies with a captive
+consumer base of inmates and the need to pay high site
+commissions. See 17 FCC Rcd. at 3253. After a decade of
+industry consolidation, three specialized ICS firms now control
+85% of the market. Order, 30 FCC Rcd. at 12801. And ICS
+per-minute rates and ancillary fees together are extraordinarily
+high, with some rates as high as $56.00 for a four-minute call.
+Id. at 12765 n.4.
+
+    In reviewing this market situation, the FCC found that
+inmate calling services are “a prime example of market
+failure.” Id. at 12765. In its brief to this court, FCC counsel
+aptly explains the seriousness of the situation:
+
+   Inmates and their families cannot choose for
+   themselves the inmate calling provider on whose
+   services they rely to communicate. Instead,
+   correctional facilities each have a single provider of
+   inmate calling services. And very often, correctional
+   authorities award that monopoly franchise based
+   principally on what portion of inmate calling revenues
+   a provider will share with the facility—i.e., on the
+   payment of “site commissions.” Accordingly, inmate
+   calling providers compete to offer the highest site
+   commission payments, which they recover through
+   correspondingly higher end-user rates. See [Order, 30
+                               12
+   FCC Rcd. at 12818–21]. If inmates and their families
+   wish to speak by telephone, they have no choice but to
+   pay the resulting rates.
+
+Br. for FCC at 4.
+
+    In February 2000, Intervenor Martha Wright filed a
+putative class action against ICS providers on behalf of her
+grandson, other inmates, and their loved ones to challenge ICS
+rates and fees. Complaint, Wright, et al. v. Corr. Corp. of Am.,
+No. 1:00-CV-00293 (D.D.C. Feb. 16, 2000). In 2001, the
+District Court stayed the case to afford the FCC the opportunity
+to consider the reasonableness of ICS rates in the first instance
+through rulemaking. Thereafter, in 2003 and in 2007, Martha
+Wright and others petitioned the Commission for rulemaking
+to regulate ICS rates and fees. Petition for Rulemaking, FCC
+No. 96-128 (Nov. 3, 2003); Petitioners’ Alternative
+Rulemaking Proposal, FCC No. 96-128 (Mar. 1, 2007).
+
+   The record compiled by the Commission fairly clearly
+supports its determination that ICS charges raise serious
+concerns. As noted in the FCC’s brief to the court:
+
+      Excessive rates for inmate calling deter
+   communication between inmates and their families,
+   with substantial and damaging social consequences.
+   Inmates’ families may be forced to choose between
+   putting food on the table or paying hundreds of dollars
+   each month to keep in touch. See [Order, 30 FCC Rcd.
+   at 12766–67]. When incarcerated parents lack regular
+   contact with their children, those children—2.7 million
+   of them nationwide—have higher rates of truancy,
+   depression, and poor school performance. See [id. at
+   12766–67 & 12767 n.18]. Barriers to communication
+   from high inmate calling rates interfere with inmates’
+                                13
+    ability to consult their attorneys, see [id. at 12765],
+    impede family contact that can “make[] prisons and
+    jails safer spaces,” [id. at 12767], and foster
+    recidivism, see [id. at 12766–67].
+
+Br. for FCC at 4–5. Petitioners do not seriously contest these
+facts. See Joint Br. for Pet’rs at 7 (acknowledging that “calling
+rates often exceed, sometimes substantially, rates for ordinary
+toll calls”).
+
+    In 2013, the Commission issued an interim order imposing
+a per-minute rate cap for interstate ICS calls, citing its plenary
+authority over interstate calls under § 201(b) and its mandate
+to ensure that providers are “fairly compensated” under § 276.
+Rates for Interstate Inmate Calling Services (“Interim Order”),
+28 FCC Rcd. 14107, 14114–15 (2013). ICS providers
+petitioned for this court’s review of the Interim Order. The
+court stayed application of certain portions of the Interim
+Order but allowed its interstate rate caps to remain in effect.
+Order, Securus Techs. v. FCC, No. 13-1280 (“Securus I”) (D.C.
+Cir. Jan. 13, 2014), ECF No. 1474764 (staying only 47 C.F.R.
+§§ 64.6010, 64.6020, and 64.6060). In December 2014, the
+court held the petitions in abeyance while the Commission
+proceeded to set permanent rates. Order, Securus I (D.C. Cir.
+Dec. 16, 2014), ECF No. 1527663.
+
+    In 2015, the Commission set permanent rate caps and
+ancillary fee caps for interstate ICS calls, and for the first time
+the agency imposed caps on intrastate ICS calls. Order, 30 FCC
+Rcd. at 12775–76, 12838–62. The rate caps were set for four
+categories – “all prisons” and three tiers of jails based on size
+– and the rate caps varied by category. Id. at 12770. The rate
+caps, which were made effective immediately, ranged from
+$.14 to $.49 per minute, but were to decrease as of July 1, 2018,
+to $.11 to $.22 per minute. Id. In setting the rate caps, the
+                              14
+Commission used a ratemaking methodology based on
+industry-average cost data that excluded site commissions as a
+cost. Id. at 12790, 12818–38. The Order also imposed
+reporting requirements on ICS providers, including for video
+visitation services and site commissions. Id. at 12890–93.
+
+    ICS providers Global Tel*Link; Securus Technologies,
+Inc.; CenturyLink Public Communications, Inc.; Telmate,
+LLC; and Pay Tel Communications (“Pay Tel”) (collectively
+“Petitioners”) separately petitioned for review. Various state
+and local correctional authorities, governments, and
+correctional facility organizations petitioned and/or intervened
+on behalf of Petitioners. Martha Wright’s putative class and
+various inmate-related legal organizations (“Intervenors”)
+intervened on behalf of the Commission.
+
+    In early 2016, the court consolidated the petitions for
+review. On March 7, 2016, the court stayed the application of
+the Order’s rate caps and ancillary fee caps as to single-call
+services while this case was pending. Order, Global Tel*Link,
+et al. v. FCC, No. 15-1461 (“Global Tel*Link”) (D.C. Cir. Mar.
+7, 2016), ECF No. 1602581. Subsequently, on March 23, 2016,
+the court stayed the application of the Interim Order to
+intrastate rates. Order, Global Tel*Link (D.C. Cir. Mar. 23,
+2016), ECF No. 1605455.
+
+   In August 2016, on reconsideration of the FCC’s Order, the
+Commission raised the rate caps to account for a small portion
+of site commissions. Rates for Interstate Inmate Calling
+Services (“Reconsideration Order”), 31 FCC Rcd. 9300
+(2016). ICS providers petitioned for review of the
+Reconsideration Order, but the court held those petitions in
+abeyance and stayed the Reconsideration Order pending the
+outcome of this case. See Order, Securus Techs. v. FCC, No.
+                                15
+16-1321 (“Securus II”) (D.C. Cir. Nov. 2, 2016), ECF No.
+1644302.
+
+    On January 31, 2017, counsel for the FCC filed a letter
+advising this court that the Commission had experienced
+“significant changes in [its] composition.” Letter at 1, Global
+Tel*Link (D.C. Cir. Jan. 31, 2017), ECF No. 1658521. Of the
+five Commissioners who had voted on the Order, two of the
+three Commissioners in the majority had left the FCC. Id.
+Because the dissent’s position now commanded a majority,
+counsel for the FCC informed the court that “a majority of the
+current Commission does not believe that the agency has the
+authority to cap intrastate rates under section 276 of the Act.”
+Id. Counsel thus advised the court that the FCC was
+“abandoning . . . the contention . . . that the Commission has
+the authority to cap intrastate rates” for ICS. Id. Counsel
+additionally informed the court that the FCC was abandoning
+its contention “that the Commission lawfully considered
+industry-wide averages in setting the rate caps.” Id. at 2. At oral
+argument, counsel for the Commission confirmed the agency’s
+abandonment of these aspects of the Order. Tr. of Oral
+Argument at 43–45, Global Tel*Link (D.C. Cir. Feb. 6, 2017),
+ECF No. 1666379.
+
+                        II. ANALYSIS
+
+A. The Posture of this Case
+
+    The current posture of this case is unusual because counsel
+for the FCC has advised the court that the agency will not
+oppose two of the principal challenges raised by Petitioners
+regarding: (1) the authority of the FCC to set permanent rate
+caps and ancillary fee caps for intrastate ICS calls; and (2) the
+legality of the Commission’s consideration of industry-wide
+averages in setting rate caps. In light of the FCC’s change of
+                                  16
+position, a question arises as to whether these challenges are
+moot.
+
+    It is well established that “voluntary cessation of allegedly
+illegal conduct does not deprive [a judicial] tribunal of power
+to hear and determine the case, i.e., does not make the case
+moot.” United States v. W.T. Grant Co., 345 U.S. 629, 632
+(1953). As the Court explained:
+
+   A controversy may remain to be settled in such
+   circumstances, e.g., a dispute over the legality of the
+   challenged practices. The defendant is free to return to
+   his old ways. This, together with a public interest in
+   having the legality of the practices settled, militates
+   against a mootness conclusion. For to say that the case
+   has become moot means that the defendant is entitled
+   to a dismissal as a matter of right. The courts have
+   rightly refused to grant defendants such a powerful
+   weapon against public law enforcement.
+
+Id. at 632 (citations omitted).
+
+    “Voluntary cessation” justifies the dismissal of a case on
+grounds of mootness only when “the defendant can
+demonstrate that there is no reasonable expectation that the
+wrong will be repeated. The burden is a heavy one.” Id. at 633
+(citation and internal quotation marks omitted); see also
+Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc.,
+528 U.S. 167, 189 (2000) (“[T]he standard we have announced
+for determining whether a case has been mooted by the
+defendant’s voluntary conduct is stringent: ‘A case might
+become moot if subsequent events made it absolutely clear that
+the allegedly wrongful behavior could not reasonably be
+expected to recur.’ The ‘heavy burden of persua[ding]’ the
+court that the challenged conduct cannot reasonably be
+                                17
+expected to start up again lies with the party asserting
+mootness.” (quoting United States v. Concentrated Phosphate
+Export Ass’n, 393 U.S. 199, 203 (1968))); Payne Enters., Inc.
+v. United States, 837 F.2d 486, 491–92 (D.C. Cir. 1988)
+(same).
+
+    There is absolutely no basis for dismissing as moot the
+claims relating to the issues that the FCC has “abandoned.”
+Indeed, neither the FCC, the Petitioners, nor the Intervenors
+have urged this. The reason is fairly simple: the Order that gave
+rise to the petitions for review is still in force. Although counsel
+for the FCC has made it clear that the agency will not defend
+portions of the Order, the Commission has never acted to
+revoke, withdraw, or suspend the Order. Given this posture of
+the case, it is plain that there has been no “voluntary cessation”
+by the FCC that would warrant dismissal of Petitioners’
+challenges to the Order.
+
+B. Standard of Review
+
+   Although Petitioners’ challenges to the provisions of the
+Order purporting to cap intrastate rates and to apply industry-
+wide averages in setting rate caps are not moot, a question
+remains as to what standard governs our review of these
+provisions. Normally, we would follow the familiar two-step
+Chevron framework as the appropriate standard of review. See
+Chevron, U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467 U.S.
+837 (1984). Under the Chevron framework,
+
+    an agency’s power to regulate “is limited to the scope
+    of the authority Congress has delegated to it.” Am.
+    Library Ass’n v. FCC, 406 F.3d 689, 698 (D.C. Cir.
+    2005). Pursuant to Chevron Step One, if the intent of
+    Congress is clear, the reviewing court must give effect
+    to that unambiguously expressed intent. If Congress
+                              18
+   has not directly addressed the precise question at issue,
+   the reviewing court proceeds to Chevron Step Two.
+   Under Step Two, “[i]f Congress has explicitly left a
+   gap for the agency to fill, there is an express delegation
+   of authority to the agency to elucidate a specific
+   provision of the statute by regulation. Such legislative
+   regulations are given controlling weight unless they are
+   . . . manifestly contrary to the statute.” Chevron, 467
+   U.S. at 843–44. Where a “legislative delegation to an
+   agency on a particular question is implicit rather than
+   explicit,” the reviewing court must uphold any
+   “reasonable interpretation made by the administrator
+   of [that] agency.” Id. at 844. But deference to an
+   agency’s interpretation of its enabling statute “is due
+   only when the agency acts pursuant to delegated
+   authority.” Am. Library Ass’n, 406 F.3d at 699.
+
+EDWARDS, ELLIOTT, AND LEVY, FEDERAL STANDARDS                   OF
+REVIEW 166–67 (2d ed. 2013).
+
+    The disputed Order in this case was promulgated by the
+FCC “carrying the force of law.” United States v. Mead Corp.,
+533 U.S. 218, 226–27 (2001). Therefore, it was presumptively
+subject to review pursuant to Chevron. Id. The oddity here,
+however, is that the agency no longer seeks deference for the
+parts of the Order purporting to cap intrastate rates for ICS
+providers and to apply industry-wide averages in setting the
+rate caps. In these circumstances, it would make no sense for
+this court to determine whether the disputed agency positions
+advanced in the Order warrant Chevron deference when the
+agency has abandoned those positions.
+
+    Although the Chevron framework is of no significance with
+respect to the cap on intrastate rates and the application of
+industry-wide averages issues, this does not affect the court’s
+                                 19
+jurisdiction to address these issues. See, e.g., New Process
+Steel, L.P. v. NLRB, 560 U.S. 674, 679–83 (2010) (deciding the
+statutory issue without reference to the Chevron framework).
+Therefore, “[w]ith Chevron inapplicable, . . . ‘we must decide
+for ourselves the best reading’” of the statutory provisions at
+issue in this case. Miller v. Clinton, 687 F.3d 1332, 1342 (D.C.
+Cir. 2012) (quoting Landmark Legal Found. v. IRS, 267 F.3d
+1132, 1136 (D.C. Cir. 2001)).
+
+    It is well recognized that when a disputed agency
+interpretation does not carry the force of law, it still may be
+“entitled to respect,” at least to the extent that the interpretation
+has the “power to persuade.” Skidmore v. Swift & Co., 323 U.S.
+134, 140 (1944); see also Mead, 533 U.S. at 227–31;
+Christensen v. Harris Cty., 529 U.S. 576, 587 (2000).
+However, in this case, because the FCC now offers no
+interpretations in support the provisions of the Order
+purporting to cap intrastate rates for ICS providers and apply
+industry-wide averages in setting the rate caps, the court must
+resolve these issues applying the usual rules of statutory
+construction. See, e.g., MCI Telecomms. Corp. v. Am. Tel. &
+Tel. Co., 512 U.S. 218 (1994); see generally ROBERT A.
+KATZMANN, JUDGING STATUTES (2014); WILLIAM N.
+ESKRIDGE, JR., ABBE R. GLUCK & VICTORIA F. NOURSE,
+STATUTES, REGULATION, AND INTERPRETATION 409–29
+(2014).
+
+     With respect to the remaining issues before the court, we
+will apply the Chevron framework, as applicable. As to all
+other issues, we will apply § 706(2)(A) of the Administrative
+Procedure Act (“APA”), which provides that a reviewing court
+shall “hold unlawful and set aside agency action, findings, and
+conclusions found to be . . . arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.” 5 U.S.C.
+§ 706(2)(A). Under this standard of review, we search for
+                                20
+“reasoned decisionmaking.” Motor Vehicle Mfrs. Ass’n of U.S.,
+Inc. v. State Farm Mut. Auto. Ins. Co. (“State Farm”), 463 U.S.
+29, 52 (1983). This means that we must determine whether the
+FCC “examine[d] the relevant data and articulate[d] a
+satisfactory explanation for its action including a rational
+connection between the facts found and the choice made.” Id.
+at 43 (internal quotation marks omitted).
+
+C. The Authority of the FCC to Set Permanent Rate Caps
+   and Ancillary Fee Caps for Intrastate ICS Calls
+
+    In the disputed Order, the Commission asserted authority
+to impose rate caps on intrastate ICS calls for the first time. It
+did so under the guise of § 276 of the 1996 Act, which requires
+the Commission to “establish a per call compensation plan to
+ensure that all payphone service providers are fairly
+compensated for each and every completed intrastate and
+interstate call using their payphone,” and to prescribe
+regulations to establish this compensation plan. 47 U.S.C.
+§ 276(b)(1), (b)(1)(A). Petitioners assert that the provision in
+§ 276, requiring the Commission to ensure that ICS providers
+are “fairly compensated,” does not override the command of
+§ 152(b), which forbids the FCC from asserting jurisdiction
+over “charges, classifications, practices, services, facilities, or
+regulations for or in connection with intrastate communication
+service.” 47 U.S.C. § 152(b) (emphasis added). Petitioners also
+contend that § 276 does not give the Commission ratemaking
+authority comparable to the authority that it has under § 201 to
+regulate and cap interstate rates. Finally, Petitioners point out
+that the intrastate rate caps prescribed in the Order make little
+sense in light of the undisputed record evidence showing that
+many ICS providers have costs that are higher than the disputed
+rate caps. We agree with Petitioners that, on the record in this
+case, § 276 did not authorize the Commission to impose
+                               21
+intrastate rate caps as prescribed in the Order. Several
+considerations have influenced our judgment on this matter.
+
+    First, as noted above, § 152(b) of the 1934 Act erects a
+presumption against the Commission’s assertion of regulatory
+authority over intrastate communications. La. Pub. Serv.
+Comm’n, 476 U.S. at 373 (making it clear that this is “not only
+a substantive jurisdictional limitation on the FCC’s power, but
+also a rule of statutory construction” in interpreting the Act’s
+provisions). As we explain below, the Order in this case does
+not come close to overcoming this presumption in proposing to
+cap intrastate rates.
+
+    Second, the Order erroneously treats the Commission’s
+authority under § 201 and § 276 as coterminous. Section 201
+imbues the Commission with traditional ratemaking powers
+over interstate calls, including the imposition of rate caps. The
+statute explicitly directs the FCC to ensure that interstate rates
+are “just and reasonable,” and to “prescribe such rules and
+regulations as may be necessary in the public interest” to carry
+out these provisions. 47 U.S.C. § 201(b). Section 276, however,
+does not give the Commission authority to determine “just and
+reasonable” rates. Rather, § 276 merely directs the Commission
+to “ensure that all [ICS] providers are fairly compensated” for
+their inter- and intrastate calls. 47 U.S.C. § 276(b)(1)(A).
+
+    The language and purpose of § 201 in the 1934 Act are
+fundamentally different from the language and purpose of
+§ 276 in the 1996 Act. The Order glosses over these differences
+in declaring that the Commission has authority to ensure that
+rates are “just, reasonable and fair.” See, e.g., Order, 30 FCC
+Rcd. at 12766, 12817. This is not what § 201(b) and § 276 say.
+And once the Order misquotes the language of § 201(b) and
+§ 276, it goes on to conclude that these provisions in their
+combined effect authorize the FCC to set rate caps to ensure
+                                22
+that both inter- and intrastate rates are “‘just and reasonable’
+and do not take unfair advantage of inmates, their families, or
+providers consistent with the ‘fair compensation’ mandate of
+section 276.” Id. at 12817. In other words, in ignoring the terms
+of § 276, the Order conflates two distinct statutory grants of
+authority into a synthetic “just, reasonable and fair” standard.
+This is impermissible.
+
+    Third, the Order asserts that the Commission “has
+previously found that the term ‘fairly compensated’ [in § 276]
+permits a range of compensation rates . . ., but that the interests
+of both the payphone service providers and the parties paying
+the compensation must be taken into account,” implying
+considerations of fairness to the consumer. Id. at 12814 n.335.
+This assertion is unfounded. The truth is that the Commission’s
+prior orders align with a narrow reading of the statute that does
+not purport to treat the Commission’s authority under § 201
+and § 276 as coterminous. The FCC’s prior orders to which the
+Order here refers construed the “fairly compensated” mandate
+of § 276 as irrelevant to ICS rates reached through contractual
+bargaining. This was because the FCC had determined that
+“whenever a [payphone provider] is able to negotiate for itself
+the terms of compensation for the calls its payphones originate,
+then [the Commission’s] statutory obligation to provide fair
+compensation is satisfied.” Implementation of the Pay Tel.
+Reclassification & Comp. Provisions of the Telecomms. Act of
+1996, 11 FCC Rcd. 21233, 21269 (1996). This is hardly
+evidence of “just, reasonable and fair” ratemaking under § 276.
+
+   Furthermore, it is noteworthy that the Commission’s prior
+orders repeatedly acknowledge that § 276 focuses on the
+problem of uncompensated calls in situations in which BOC
+providers engaged in anti-competitive behavior. In other
+words, the FCC recognized that a principal reason for the
+enactment of § 276 was to address “the limitation on the ability
+                               23
+of [payphone providers] and carriers to negotiate a mutually
+agreeable amount” because of technological and regulatory
+constraints. Implementation of the Pay Tel. Reclassification &
+Comp. Provisions of the Telecomms. Act of 1996, 14 FCC Rcd.
+2545, 2551, 2569 (1999). Therefore, the prior orders to which
+the Order at issue here refers focused on payphone providers
+and carriers to determine whether the providers were fairly
+compensated. See, e.g., id. at 2570; Implementation of Pay Tel.
+Reclassification & Comp. Provisions of Telecomms. Act of
+1996, 17 FCC Rcd. 21274, 21302 (2002) (referring to providers
+and the carriers compensating the providers in stating that
+§ 276 “implies fairness to both sides”). The prior orders did not
+reflect anything approaching “just, reasonable and fair”
+ratemaking for intrastate rates as authorized by § 201 for
+interstate rates.
+
+    In the agency brief that was filed with the court before the
+FCC abandoned its support of the intrastate rate caps, counsel
+argued that fairness to the consumer is implied in § 276 because
+the reference to “fair” (in “fairly compensated”) is “capacious.”
+Br. for FCC at 31. This argument finds no support in the Order.
+As noted above, the Order simply asserts that intrastate rate
+caps are consistent with the Commission’s past orders. And, as
+noted above, the Commission’s past orders do not support a
+“capacious” interpretation of “fairly compensated” in § 276 to
+suggest that it is comparable to “just, reasonable and fair”
+ratemaking in § 201. The prior orders merely relied on the
+“fairly compensated” language to set a default rate from which
+the payphone providers and carriers could negotiate a
+departure, not to reduce bargained-for compensation. See, e.g.,
+11 FCC Rcd. at 21267–69; 14 FCC Rcd. at 2569–71. The
+Commission made it clear that it meant to “g[i]ve primary
+importance to Congress’s objective of establishing a market-
+based, deregulatory mechanism for payphone compensation, as
+                                24
+required both in section 276 and the generally pro-competitive
+goals of the 1996 Act.” 14 FCC Rcd. at 2548.
+
+    Finally, the Order cites two decisions of this court to justify
+an interpretation of the “fair compensation” mandate in § 276
+that includes “just and reasonable” ratemaking in § 201. Order,
+30 FCC Rcd. at 12815–16 (citing Ill. Pub. Telecomms. Ass’n v.
+FCC, 117 F.3d 555, 562 (D.C. Cir. 1997); New England Pub.,
+334 F.3d at 75). The Order’s construction of these decisions is
+misguided because neither decision compels the conclusion
+that § 276 authorizes the Commission to cap intrastate rates
+pursuant to “just, reasonable and fair” ratemaking.
+
+     The Order first extracts language from the decision in
+Illinois saying that § 276 provides the Commission with
+“authority to set local coin call rates.” 117 F.3d at 562. But in
+the order under review in Illinois, the FCC did not “set” local
+coin call rates by imposing caps on intrastate rates. Rather, the
+agency merely interpreted the mandate of § 276(b)(1)(A) to
+“require[] the Commission to act only with respect to those
+types of calls for which a [payphone provider] does not already
+receive fair compensation.” Id. at 559 (emphasis added). And
+even for those calls, the FCC ultimately determined a default
+floor based on the deregulated market rate and allowed the
+payphone providers to negotiate a departure from that rate. Id.
+at 560.
+
+    In reviewing the FCC’s order that was contested in Illinois,
+we held that § 276 unambiguously overrode § 152(b)’s
+presumption against intrastate jurisdiction insofar as it granted
+the Commission authority to “set” reimbursement rates for
+local coin calls in order to ensure that payphone operators who
+were previously uncompensated were “fairly compensated.”
+Id. at 561–63. The court did not say that § 276 overrode the
+presumption against intrastate jurisdiction to allow the
+                                25
+Commission to reduce already compensatory rates, which is
+what the Order at issue in this case suggests. Rather, the Illinois
+court said:
+
+    If locational monopolies turn out to be a problem,
+    however, the Commission suggested some ways in
+    which it might deal with them: a State might be
+    permitted to require competitive bidding for locational
+    contracts, or to mandate that additional [payphone
+    providers] be allowed to provide payphones at the
+    location; and if these remedies fail, the Commission
+    may consider the matter further.
+
+Id. at 562–63. None of these options contemplated caps on
+intrastate rates.
+
+     It is true that the decision in Illinois does not explicitly
+preclude the Commission from imposing intrastate rate caps.
+That was not the question before the court. But the Order at
+issue in this case is wrong in suggesting that the decision in
+Illinois reflects “significant judicial precedent [that] supports
+the Commission’s authority” to reduce already compensatory
+rates. Order, 30 FCC Rcd. at 12815. Indeed, in Illinois the court
+reversed the Commission’s decision to exclude certain
+uncompensated calls from its mandatory compensation plan
+because the failure to provide compensation for this type of
+payphone call was “patently inconsistent with § 276’s
+command that fair compensation be provided for ‘each and
+every completed . . . call.’” 117 F.3d at 566.
+
+    The Order at issue in this case also purports to rely on a
+statement in the New England decision that § 276
+“unambiguously and straightforwardly authorizes the
+Commission to regulate . . . intrastate payphone line rates.”
+Order at 12815 (quoting New England Pub., 334 F.3d at 75).
+                                26
+But here again the cited decision merely confirmed that the
+1996 Act expanded the Commission’s intrastate regulatory
+authority within the limited parameters of § 276. The New
+England court held that Congress had authorized the
+Commission to carry out the anti-subsidy and anti-
+discrimination mandates of § 276(b)(1)(D)–(E) as to both inter-
+and intrastate payphone providers because Congress intended
+§ 276 as a whole to “authorize the Commission to eliminate
+barriers to competition.” 334 F.3d at 77. But when pressed to
+extend § 276’s anti-subsidy and anti-discrimination mandates
+to non-BOC carriers, the court said, “the fact remains that
+sections 276(a) and 276(b)(1)(C), the sources of the
+Commission’s authority to regulate intrastate payphone rates,
+expressly apply only to the BOCs.” Id. at 78. The court was
+also clear in saying that outside the specific directives of § 276,
+general provisions “cannot . . . trump section 152(b)’s specific
+command that no Commission regulations shall preempt state
+regulations unless Congress expressly so indicates. Absent
+authorization to apply its section 276 regulations to non-BOC
+[carriers], the Commission may not regulate their intrastate
+payphone line rates.” Id. (citation omitted).
+
+    Thus, neither Illinois nor New England stands for the
+proposition that the Commission has broad plenary authority to
+regulate and cap intrastate rates. Rather these decisions confirm
+the limited scope of § 276 which must be applied within the
+express bounds of its specific directives.
+
+    The Order’s misconstruction of our case law stems from its
+fundamental misreading of § 276. The Order acknowledges
+that the Commission’s authority over intrastate calls is, “except
+as otherwise provided by Congress, generally limited by
+section [152(b)] of the Act.” Order, 30 FCC Rcd. at 12814. The
+Commission thus recognized that to assert jurisdiction over
+intrastate rates, the 1996 Act must “unambiguously appl[y] to
+                                27
+intrastate services.” Id. The Order errs, however, in concluding
+that § 276 required it “to broadly craft regulations to ‘promote
+the widespread development of payphone services for the
+benefit of the general public,’” and that this constituted a
+“general grant of jurisdiction.” Id. (quoting 47 U.S.C. §
+276(b)(1)). This misreads the language of § 276. The statute
+merely commands the Commission, “[i]n order to promote
+competition among payphone service providers and promote
+the widespread deployment of payphone services to the benefit
+of the general public,” 47 U.S.C. § 276(b)(1), to prescribe
+regulations to accomplish “five specific steps toward that
+goal,” New England Pub., 334 F.3d at 71. This is not a “general
+grant of jurisdiction” over intrastate ratemaking.
+
+    The Order at issue in this case is legally infirm because it
+purports to cap intrastate rates based on a “just, reasonable and
+fair” test that is not enunciated in the statute, conflates distinct
+grants of authority under § 201 and § 276, and misreads our
+judicial precedent and the FCC’s own prior orders to support
+capping already compensatory rates under the guise of ensuring
+providers are “fairly compensated.” The point here is
+straightforward:
+
+       The FCC’s belief that lower ICS calling rates reflect
+    desirable social policy cannot justify regulations that
+    exceed its statutory mandate. Section 276 of the
+    Communications Act authorizes the FCC to ensure that
+    ICS providers are not deprived of fair compensation
+    for the use of their payphones; § 201 authorizes it to
+    ensure that rates for and in connection with interstate
+    telecommunications services are just and reasonable.
+    The FCC may not ignore these statutory limits to
+    advance its preferred correctional policy.
+
+Joint Br. for Pet’rs at 4.
+                               28
+    We therefore reverse and vacate the provision in the Order
+that purports to cap intrastate rates as beyond the statutory
+authority of the Commission. We need not decide the precise
+parameters of the Commission’s authority under § 276. We
+simply hold here that the agency’s attempted exercise of
+authority in the disputed Order cannot stand.
+
+D. The Categorical Exclusion of Site Commission Costs
+
+   The Petitioners contend that:
+
+      The FCC’s exclusion of site commission payments
+   from the costs used to set ICS rate caps was unlawful.
+   ICS providers are required by state and local
+   governments and correctional institutions to pay site
+   commissions; those commissions are accordingly a
+   cost of providing service like other state taxes and fees
+   that the FCC recognizes as recoverable costs. The FCC
+   acknowledged that, taking site commissions into
+   consideration, the rate caps were below providers’
+   costs. This violates the FCC’s obligation to “ensure
+   that all payphone service providers are fairly
+   compensated,” 47 U.S.C. § 276(b)(1)(A), § 201’s “just
+   and reasonable” requirement, and the Constitution’s
+   Takings Clause.
+
+Joint Br. for Pet’rs at 16. The concerns raised by Petitioners
+are compelling.
+
+    The Commission’s categorical exclusion of site
+commissions from the calculus used to set ICS rate caps defies
+reasoned decisionmaking because site commissions obviously
+are costs of doing business incurred by ICS providers. Yet, the
+Order categorically excluded site commissions and then “set
+the rate caps below cost.” Id. at 20. This is hard to fathom. “An
+                               29
+agency acts arbitrarily or capriciously if it has . . . offered an
+explanation either contrary to the evidence before the agency
+or so implausible as not to reflect either a difference in view or
+agency expertise.” Defs. of Wildlife & Ctr. for Biological
+Diversity v. Jewell, 815 F.3d 1, 9 (D.C. Cir. 2016) (citing State
+Farm, 463 U.S. at 43). Ignoring costs that the Commission
+acknowledges to be legitimate is implausible.
+
+    The FCC’s suggestion that site commissions “have nothing
+to do with the provision of ICS,” Order, 30 FCC Rcd. at 12822
+(internal quotation marks omitted), makes no sense in light of
+the undisputed record in this case. In some instances,
+commissions are mandated by state statute, Rates for Interstate
+Inmate Calling Services, 27 FCC Rcd. 16629, 16643 (2012),
+and in other instances commissions are required by state
+correctional institutions as a condition of doing business with
+ICS providers, 17 FCC Rcd. at 3252–53. “If agreeing to pay
+site commissions is a condition precedent to ICS providers
+offering their services, those commissions are ‘related to the
+provision of ICS.’” Joint Br. for Pet’rs at 21. And it does not
+matter that the states may use the commissions for purposes
+unrelated to the activities of correctional facilities. The ICS
+providers who are required to pay the site commissions as a
+condition of doing business have no control over the funds once
+they are paid. None of the other reasons offered by the
+Commission to justify the categorical exclusion of site
+commissions passes muster.
+
+    On the record before us, we simply cannot comprehend the
+agency’s reasoning. Where, as here, an agency’s “explanation
+for its determination . . . lacks any coherence,” we owe “no
+deference to [the agency’s] purported expertise.” Tripoli
+Rocketry Ass’n v. Bureau of Alcohol, Tobacco, Firearms, and
+Explosives, 437 F.3d 75, 77 (D.C. Cir. 2006); see also Coburn
+v. McHugh, 679 F.3d 924 (D.C. Cir. 2012). Not only does the
+                              30
+FCC’s reasoning defy comprehension, the categorical
+exclusion of site commissions cannot be easily squared with
+the requirements of § 276 and § 201. We therefore vacate this
+portion of the Order.
+
+    In its 2016 Reconsideration Order, the Commission raised
+the rate caps specifically to account for a portion of site
+commissions, effectively acknowledging that a categorical
+exclusion of site commissions from the ratemaking calculus is
+implausible. The Commission said:
+
+   [W]e have decided, out of an abundance of caution, to
+   take a more conservative approach and expressly
+   account for facilities’ ICS-related costs when
+   calculating our rate caps. Accordingly, we grant the
+   Hamden Petition in part . . . and increase our interstate
+   and intrastate rate caps to expressly account for
+   reasonable facility costs related to ICS.
+
+Reconsideration Order, 31 FCC Rcd. at 9302. Although the
+FCC purported to change its position in the Reconsideration
+Order, that order does not moot Petitioner’s challenge here.
+See, e.g., N.E. Fla. Contractors v. Jacksonville, 508 U.S. 663,
+662 (1993) (replacing the challenged law “with one that differs
+only in some insignificant respect” and “disadvantages
+[petitioners] in the same fundamental way” does not moot the
+underlying challenge).
+
+     The Reconsideration Order is not before us, so we cannot
+say whether it provides a satisfactory response to Petitioners’
+challenge. We will leave this for the Commission’s
+consideration on remand. We also leave it to the Commission
+to assess on remand which portions of site commissions might
+be directly related to the provision of ICS and therefore
+legitimate, and which are not. In addition, although we
+                               31
+conclude that the Order at issue here is arbitrary and capricious
+insofar as it categorically excludes site commissions from the
+ratemaking calculus, we do not reach Petitioners’ remaining
+arguments that the exclusion of site commissions denies ICS
+providers fair compensation under § 276 and violates the
+Takings Clause of the Constitution because it forces providers
+to provide services below cost. These matters should be
+addressed by the Commission on remand once it revisits the
+exclusion of site commissions from the ratemaking calculus.
+
+E. The Legality of the FCC’s Use of Industry-Wide
+   Averages in Setting Rate Caps
+
+   Petitioners contend that:
+
+      Even if site commissions are disregarded, the rate
+   caps were set too low to ensure compensation “for each
+   and every completed . . . call.” [47 U.S.C. §
+   276(b)(1)(A)]. The FCC’s caps are below average
+   costs documented by numerous ICS providers and
+   would deny cost recovery for a substantial percentage
+   of all inmate calls. The FCC’s assertion that ICS
+   providers with costs above the caps operate
+   inefficiently is contrary to the record. The FCC relied
+   on two outlier ICS providers that — combined —
+   represent 0.1 percent of the ICS market. And it ignored
+   evidence showing that the cost to provide ICS varies
+   widely on the basis of regional differences, such as the
+   age and condition of a given facility or the specific
+   security features that correctional authorities demand.
+
+   ****
+
+   The record includes two economic analyses, both
+   concluding that the Order’s rate caps are below cost
+                                32
+    for a substantial number of ICS calls even after
+    excluding site commissions. . . .
+
+    The Order does not challenge these studies or their
+    conclusions. On the contrary, it acknowledges that
+    seven of 14 ICS providers that submitted cost data
+    reported per-minute costs of “$0.25 or higher,” above
+    the highest prepaid rate cap of $0.22 per minute.
+
+Joint Br. for Pet’rs at 16–17, 30–31 (quoting Order, 30 FCC
+Rcd. at 12669–70, 12795). Petitioners’ claims are well taken
+and largely undisputed. And, as noted above, the FCC has
+abandoned its contention that the agency lawfully considered
+industry-wide averages in setting the rate caps, and for good
+reasons.
+
+     First, to the extent that the Order purports to set caps for
+intrastate rates, it is infirm for the reasons stated above. Second,
+the averaging calculus is patently unreasonable. The FCC
+calculated its rate caps “using a weighted average per minute
+cost,” Order, 30 FCC Rcd. at 12790, allowing providers to
+“recover average costs at each and every tier,” id. n.170. This
+makes calls with above-average costs in each tier unprofitable,
+however, and thus does not fulfill the mandate of § 276 that
+“each and every” inter- and intrastate call be fairly
+compensated. See Am. Pub. Commc’ns Council v. FCC, 215
+F.3d 51, 54, 57–58 (D.C. Cir. 2000).
+
+     Moreover, the Order advances an efficiency argument –
+that the larger providers can become profitable under the rate
+caps if they operate more efficiently – based on data from the
+two smallest firms. See Order, 30 FCC Rcd. at 12790–95. Not
+only do those firms represent less than one percent of the
+industry, but the record shows that regional variation, not
+efficiency, accounts for cost discrepancies among providers.
+                               33
+See id. at 12965 n.61 (dissenting statement of Commissioner
+Pai). The Order does not account for these conflicting record
+data.
+
+     In sum, the Order’s analysis of the record data in setting
+rate caps was not the product of reasoned decisionmaking. We
+will therefore vacate that portion of the Order and remand for
+further proceedings.
+
+F.   The Imposition of Ancillary Fee Caps
+
+     Contrary to Petitioners’ contentions, the Order’s
+imposition of ancillary fee caps in connection with interstate
+calls is justified. The Commission has plenary authority to
+regulate interstate rates under § 201(b), including “practices
+. . . for and in connection with” interstate calls. The Order
+explains that ICS providers use ancillary fees as a loophole in
+avoiding per-minute rate caps. Order, 30 FCC Rcd. at 12842.
+Furthermore, ancillary fees for interstate calls satisfy the test
+of the Commission’s authority under § 201(b) as they are “in
+connection with” interstate calls. However, these
+considerations do not fully answer the question whether the
+disputed imposition of ancillary fee caps is permissible.
+
+    As noted above, we have found that, on the record in this
+case, the Order’s imposition of intrastate rate caps fails review
+under § 276. Therefore, we likewise hold that the FCC had no
+authority to impose ancillary fee caps with respect to intrastate
+calls. However, we cannot discern from the record whether
+ancillary fees can be segregated between interstate and
+intrastate calls. We are therefore obliged to remand the matter
+to the FCC for further consideration.
+                               34
+G. The Imposition of Reporting Requirements
+
+     The Commission initially contended that the Order’s
+requirements with respect to reporting requirements for video
+visitation services and site commissions were unripe for review
+because they were pending budgetary approval by the Office
+of Management and Budget (“OMB”). After briefing, however,
+OMB approval was published. See 82 Fed. Reg. 12182-01
+(Mar. 1, 2017). Accordingly, the Commission withdrew its
+ripeness challenge. Letter, Global Tel*Link (D.C. Cir. Mar. 1,
+2017), ECF No. 1663705. Therefore, the parties agree that we
+may review the Commission’s imposition of the disputed
+reporting requirements.
+
+     We hold that the video visitation services reporting
+requirement, 47 C.F.R. § 64.6060(a)(4), is too attenuated to the
+Commission’s statutory authority to justify this requirement.
+The Commission asserts that whether or not video visitation
+services are a form of ICS, they are still subject to the agency’s
+jurisdiction. See, e.g., Order, 30 FCC Rcd. at 12891–92; Br. for
+FCC at 56–57. We disagree. Before it may assert its jurisdiction
+to impose such a reporting requirement, the Commission must
+first explain how its statutory authority extends to video
+visitation services as a “communication[] by wire or radio”
+under § 201(b) for interstate calls or as an “inmate telephone
+service” under § 276(d) for interstate or intrastate calls. The
+Order under review offers no such explanations. We therefore
+vacate the reporting requirement for video visitation services.
+
+     In contrast, we find no merit in Petitioners’ challenge to
+the site commission payment reporting requirement under 47
+C.F.R. § 64.6060(a)(3). The quibble between the parties is
+largely over semantics. The Commission agrees that the
+definition of site commission payment should be read largely
+as Petitioners argue: namely, site commissions are “incentive
+                               35
+payments designed to influence a correctional authority’s
+selection of its monopoly service provider, not a form of
+ordinary tax.” Br. for FCC at 59 (citing Order, 30 FCC Rcd. at
+12818–22). So defined, the reporting requirement is lawful on
+its face and Petitioners do not disagree. We therefore deny the
+petition for review.
+
+H. The Preemption and Due Process Claims
+
+     Petitioner Pay Tel separately challenges the Commission’s
+refusal to preempt certain state ICS rate caps that are lower than
+those the Commission set in the Order. Because we are
+vacating the portion of the Order imposing intrastate rate caps
+under § 276(b), the preemption provision under § 276(c) is no
+longer at issue. There are no relevant regulations under § 276
+remaining in the Order with respect to which the lower state
+rate caps might be preempted. This issue is therefore moot.
+
+     Pay Tel’s claim that its due process rights were infringed
+when it was not given timely access to key cost data that the
+FCC relied on in setting the rate caps is also moot. We are
+vacating the portion of the Order setting rate caps for intrastate
+rates; the Commission has acknowledged that its use of
+industry-average data to set rates was error; and Pay Tel
+obtained access to the disputed data prior to the Commission’s
+issuance of the Reconsideration Order setting rate caps that
+supersede those in the Order at issue. The concerns raised by
+Pay Tel are thus moot.
+
+                     III. CONCLUSION
+
+    In accordance with the foregoing opinion, we grant in part
+and deny in part the petitions for review, vacate certain
+provisions in the disputed Order, and remand for further
+                            36
+proceedings with respect to certain matters. We also dismiss
+two claims as moot.
+
+                                               So ordered.
+              CLARIFICATION AND AMENDMENT
+                OF THE MAJORITY OPINION
+
+     After the opinions in this case were issued, the Wright
+Petitioners filed a petition for rehearing en banc, challenging
+the panel majority’s decision on three points relating to the
+FCC’s Order on interstate and intrastate prison phone rates. On
+the three points in issue, the majority opinion reaches the
+following judgments:
+
+   •   We hold that the Order’s proposed caps on
+       intrastate rates exceed the FCC’s statutory
+       authority under the 1996 Act. We therefore
+       vacate this provision.
+
+   •   We further hold that the use of industry-averaged
+       cost data as proposed in the Order is arbitrary and
+       capricious because it lacks justification in the
+       record and is not supported by reasoned
+       decisionmaking. We therefore vacate this
+       provision.
+
+   •   We find that the Order’s proposed wholesale
+       exclusion of site commission payments from the
+       FCC’s cost calculus is devoid of reasoned
+       decisionmaking and thus arbitrary and capricious.
+       This provision cannot stand as presently proposed
+       in the Order under review; we therefore vacate
+       this provision and remand for further proceedings
+       on the matter.
+Global Tel*Link v. FCC, 859 F.3d 39, 45 (D.C. Cir. 2017).
+
+     In its petition for rehearing en banc, the Wright Petitioners
+complain that, “[a]lthough this case involves an ambiguous
+statute administered by the FCC, the panel did precisely what
+                                2
+
+Chevron disclaimed: it ‘impose[d] its own construction on the
+statute’ rather than defer to the FCC’s detailed analysis of an
+ambiguous statute. . . . The panel opinion creates a dangerous
+loophole to evade judicial review when agencies are unable or
+unwilling to justify changed positions.” Br. for Wright
+Petitioners at 6, 8 (quoting Chevron, U.S.A., Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837, 843 (1984)).
+These claims are meritless.
+
+         Lest there be any confusion over the majority’s opinion
+going forward, there are two points that warrant clarification.
+First, the majority opinion carefully analyzes the terms of the
+FCC’s Order and the agency’s justifications in support of the
+Order. The majority does not second-guess the agency. Rather,
+the majority found the FCC’s justifications for the proposed
+caps on intrastate rates “manifestly contrary to the statute,”
+Chevron, 467 U.S. at 844, and clearly unworthy of deference.
+
+        Second, as noted above, after reviewing the entire
+record in this case, the majority opinion concludes that “the
+Order’s proposed caps on intrastate rates exceed the FCC’s
+statutory authority under the 1996 Act.” It goes without saying
+that if an agency action exceeds its statutory authority, the
+agency is entitled to no deference under Chevron. See, e.g.,
+Sullivan v. Zebley, 493 U.S. 521, 541 (1990); Goldstein v. SEC,
+451 F.3d 873, 880–81 (D.C. Cir. 2006). As the concurring
+opinion notes, “the statute’s structure and context demonstrates
+that the agency’s interpretation would fail at Chevron’s second
+step; it is an unreasonable (impermissible) interpretation of
+section 276.” If this point was lost in the original opinion issued
+by the majority, we make it clear now. We need not and do not
+decide whether we were required to follow Chevron Step Two
+even though the agency declined to defend its position before
+the court. The important point here is that we have carefully
+                              3
+
+analyzed the contested provisions of the FCC’s Order and
+found that they cannot survive review under either the “best
+reading” of the statute standard, Miller v. Clinton, 687 F.3d
+1332, 1342 (D.C. Cir. 2012) (quoting Landmark Legal Found.
+v. IRS, 267 F.3d 1132, 1136 (D.C. Cir. 2001)), or pursuant to
+Chevron Step Two.
+
+        There is no Chevron question with respect to the
+majority’s decision on the use of industry-averaged cost data
+as proposed in the Order. The majority found that provision
+arbitrary and capricious because it lacks justification in the
+record and is not supported by reasoned decisionmaking. The
+same is true with respect to the majority decision on the
+Order’s proposed wholesale exclusion of site commission
+payments from the FCC’s cost calculus. We found that
+provision devoid of reasoned decisionmaking and thus
+arbitrary and capricious. It is clear that no Chevron deference
+is due to agency decisions that are unsupported by reasoned
+decisionmaking.
+      SILBERMAN, Senior Circuit Judge, concurring: I concur
+with Judge Edwards’ opinion in all respects. I especially agree
+that Chevron deference would be inappropriate in these unusual
+circumstances. I write separately to point out, as to the FCC’s
+claimed jurisdiction to set intrastate rate caps, that I think our
+result would be the same if the Chevron framework was in play,
+i.e., if the FCC had elected to defend this part of its regulation.
+
+     There is no question that the relevant statutory language,
+“fairly compensated,” is ambiguous. 47 U.S.C. 276(b)(1)(A).
+Even the FCC agrees. But Judge Edwards’ careful explanation
+of the statute’s structure and context demonstrates that the
+agency’s interpretation would fail at Chevron’s second step; it
+is an unreasonable (impermissible) interpretation of section 276.
+
+     Much of the recent expressed concern about Chevron
+ignores that Chevron’s second step can and should be a
+meaningful limitation on the ability of administrative agencies
+to exploit statutory ambiguities, assert farfetched interpretations,
+and usurp undelegated policymaking discretion.1 This case
+presents just one example of those kinds of agency tactics.
+There are others. Accord Michigan v. EPA, — U.S. —, 135 S.
+Ct. 2699, 2713 (2015) (Thomas, J., concurring) (“Although we
+hold today that [the agency] exceeded even the extremely
+permissive limits on agency power set by our precedents, we
+
+
+
+     1
+       See, e.g., City of Arlington v. FCC, — U.S. —, 133 S. Ct. 1863
+(2013) (Roberts, C.J., dissenting). Of course, some also question “step
+two” itself. For example, an essay in the Virginia Law Review
+contended that “Chevron Has Only One Step.” Matthew C.
+Stephenson & Adrian Vermeule, 95 Va. L. Rev. 597 (2009). But that
+position ignores the practical effect on future agency discretion of a
+court opinion either affirming or reversing an agency interpretation at
+step one versus step two. Cf. Nat’l Cable & Telecomms. Ass’n v.
+Brand X Internet Servs., 545 U.S. 967 (2005).
+                                2
+
+should be alarmed that it felt sufficiently emboldened by those
+precedents to make the bid for deference that it did here.”)
+
+     To be sure, some have lamented that as a practical matter,
+under Chevron, either the case is decided at the first step or the
+agency prevails once it receives deference under step two. But
+that is not what the Chevron case called for.
+
+     Chevron itself involved a phrase “stationary source” that
+was not at all defined and clearly could equally refer to (a) a
+factory complex, or (b) a specific emitter of pollution. 467 U.S.
+837, 860-64 (1984). But it would have been unreasonable to
+refer to (c) a whole city. Yet too many times agencies have
+taken advantage of an ambiguity to pursue a (c), (d), or (f)
+interpretation that accorded with policy objectives. See, e.g.,
+Verizon v. FCC, 740 F.3d 623, 660 (D.C. Cir. 2014) (Silberman,
+J., concurring in part and dissenting in part).
+
+     Unfortunately, the Supreme Court for some time after
+Chevron contributed to the step one winner-take-all narrative by
+neglecting to rely on step two even when it was really called for.
+Take for example MCI Telecommunications Corp. v. AT&T Co.,
+512 U.S. 218 (1994), in which Justice Scalia—perhaps the
+foremost expositor of Chevron—used statutory structure and
+context, much like Judge Edwards does in our case, to
+demonstrate that the FCC’s reliance on the word “modify” was
+unacceptable, see, e.g., id. at 228-29. But he never conceded
+that the word “modify” was ambiguous, which it was. Id. at 228
+(“We have not the slightest doubt that [single definition] is the
+meaning the statute intended.”).
+
+     Subsequently, however, in AT&T Corp. v. Iowa Utilities
+Board, 525 U.S. 366 (1999), Justice Scalia implicitly relied on
+step two. He concluded that because the agency failed to
+interpret the terms of the statute “in a reasonable fashion,” the
+                               3
+
+rule must be vacated. Id. at 392. Then, in City of Arlington v.
+FCC, — U.S. —, 133 S. Ct. 1863 (2013), he admonished that
+“where Congress has established an ambiguous line, the agency
+can go no further than the ambiguity will fairly allow,” id. at
+1874. And most recently in Michigan v. EPA, — U.S. —, 135
+S. Ct. 2699 (2015), when invalidating agency action under step
+two, he was more explicit still: “Chevron allows agencies to
+choose among competing reasonable interpretations of a statute;
+it does not license interpretive gerrymanders under which an
+agency keeps parts of statutory context it likes while throwing
+away parts it does not,” id. at 2708.
+
+    We have at times been careful to apply step two review
+vigorously. See, e.g., Goldstein v. SEC, 451 F.3d 873 (D.C. Cir.
+2006). This is just such a case where the agency’s original
+claim for Chevron deference—before the agency’s control
+switched—would have been rejected at Chevron step two; a
+muscular use of that analysis is a barrier to inappropriate
+administrative adventure.
+    PILLARD, Circuit Judge, dissenting as to Sections II.B
+through II.F and concurring in part:
+     The administrative record is full of compelling evidence
+of dysfunction in the inmate-calling marketplace, with harsh
+consequences for inmates and their families. The rule under
+review began with a 2000 lawsuit filed by inmates, family
+members, loved ones, and counsel (referred to in these
+proceedings as the Wright Petitioners). Finally acting on the
+Wright Petitioners’ concerns, the FCC in 2015 modestly
+curtailed exorbitant per-minute calling rates and limited
+providers’ ability to extract confusing and unrelated ancillary
+fees—amounting to as much as 38 percent of total inmate-
+calling revenue—for such things as setting up an account,
+funding an account, issuing a refund, and closing an account.
+See 30 FCC Rcd. 12763, 12838-42 (2015). The record shows
+that these high prices impair the ability of inmates, by
+definition isolated physically from the outside world, to sustain
+fragile filaments of connection to families and communities
+that they might hope to rejoin. The majority’s decision scuttles
+a long-term effort to rein in calling costs that are not
+meaningfully subject to competition and that profit off of
+inmates’ desperation for connection.
+     The majority’s path to that result is flawed. I cannot agree
+that a company is “fairly compensated” under 47 U.S.C.
+§ 276(b)(1)(A) when it charges inmates exorbitant prices to use
+payphones inside prisons and jails, shielded from competition
+by a contract granting it a facility-wide payphone monopoly.
+The majority does not question that Congress enacted the
+Telecommunications Act of 1996 to combat phone
+monopolies, facilitate competition, and thereby ensure better
+service at lower prices to consumers. Consistent with the 1996
+Act’s general approach of “replac[ing] a state-regulated
+monopoly system with a federally facilitated, competitive
+market,” section 276 of the Act specifically addressed defects
+in the intrastate and interstate payphone market (now largely
+obsolete except in cellphone-free environments such as
+                                2
+prisons). New England Pub. Commc’ns Council, Inc. v. FCC,
+334 F.3d 69, 77 (D.C. Cir. 2003).
+     The majority holds it beyond debate that “fairly
+compensated” is not about fairness to the consumer. It sees no
+statutory support for the FCC’s effort to require fairer intrastate
+rates for inmates because it reads section 276’s fair-
+compensation mandate as unambiguously one-sided, only
+empowering the FCC to enhance unfairly low, not to reduce
+unfairly high, compensation for calls. It accepts Global
+Tel*Link’s characterization of section 276 as nothing but a “no
+free calls” provision, Oral Arg. Tr. 40:55, confined to the
+enacting Congress’s acknowledged concern about independent
+payphone providers going uncompensated for certain calls.
+But that reading is truncated. As it typically does, Congress
+responded to a particular problem by enacting a law that speaks
+in more general terms: here, by requiring that payphone calls
+in prisons and elsewhere be “fairly compensated.” It did so for
+the stated purpose—fully relevant here—of promoting
+competition among payphone providers to expand the
+availability of payphone services to consumers. 47 U.S.C. §
+276(b)(1).
+     The majority offers one plausible reading of section 276,
+but it is assuredly not the only one. Congress has not “directly
+spoken to the precise question at issue” in this case, so the
+question for us is whether the FCC’s view when it promulgated
+the challenged rule—that section 276 grants authority not only
+to raise inadequate rates but also to reduce excessive,
+monopoly-driven rates—was a “permissible construction of
+the statute.” Chevron, U.S.A., Inc. v. Nat. Res. Def. Council,
+Inc., 467 U.S. 837, 842-43 (1984). I think it was. If the FCC
+under new management wishes by notice and comment to
+change its rule, the statute gives it latitude to do so. We should
+uphold the rule that is on the books and leave to the agency to
+decide whether and how to change it.
+                                 3
+                                 I.
+     The FCC reasonably interpreted section 276 to “authorize
+the Commission to impose intrastate rate caps as prescribed in
+the Order.” Op. at 20-21. Congress instructed the FCC to
+“establish a per call compensation plan to ensure that all
+payphone service providers are fairly compensated for each
+and every completed intrastate and interstate call using their
+payphone[s].” 47 U.S.C. § 276(b)(1)(A). To begin with,
+nobody contests that authority to establish “a per call
+compensation plan” includes some authority over end-user
+calling rates. Indeed, this court already so held. See Illinois
+Public Telecommunications Ass’n v. FCC, 117 F.3d 555, 562
+(D.C. Cir. 1997) (“Because … there is no indication that the
+Congress intended to exclude local coin rates from the term
+‘compensation’ in § 276, we hold that the statute
+unambiguously grants the Commission authority to regulate
+the rates for local coin calls.”). And the plain text of the statute
+grants that authority over both intrastate and interstate
+payphone services, including “inmate telephone service in
+correctional institutions.” 47 U.S.C. § 276(d). Thus, the only
+dispute is whether the word “fairly” implies an ability to reduce
+excesses, as well as bolster deficiencies, in the compensation
+that payphone providers would otherwise receive.
+     Importantly, Congress chose “fairly” rather than, say,
+“adequately,” “sufficiently,” or “amply.” Those words have
+different meanings. Had it used any of the latter three terms, I
+would agree that Congress only authorized regulation to
+prevent under-compensation, but its choice of the word “fairly”
+denotes no such limitation. Compare WEBSTER’S NEW
+COLLEGIATE DICTIONARY 407 (1980) (defining “fair” as, inter
+alia, “marked by impartiality and honesty: free from self-
+interest, prejudice, or favoritism”), with id. at 14 (defining
+“adequate” as, inter alia, “sufficient for a specific
+requirement”), and id. at 1156 (defining “sufficient” as, inter
+                               4
+alia, “enough to meet the needs of a situation or a proposed
+end”). Those words are also used differently in everyday
+language. See Schindler Elevator Corp. v. U.S. ex rel. Kirk,
+563 U.S. 401, 407 (2011) (court looks to “ordinary meaning”
+in absence of statutory definition). If a grocer demanded $20
+for a banana, we might call that price adequate, sufficient, or
+ample—but nobody would call it fair.
+      The statutory context shows that Congress’ choice of the
+word “fairly” reasonably connotes its concern for unfairly
+excessive as well as deficient compensation. Elsewhere in the
+Communications Act, Congress used the term “fair” in
+conjunction with “just” and “reasonable”—familiar terms of
+art used in connection with rate-setting authority. See 47
+U.S.C. § 204(b) (providing for partial authorization of new
+charges, which would otherwise be stayed, if the FCC
+determines “that such partial authorization is just, fair, and
+reasonable”); id. § 205(a) (authorizing the FCC to prescribe
+“what classification, regulation, or practice is or will be just,
+fair, and reasonable”). And the fact that section 276 is one of
+several “Special Provisions Concerning Bell Operating
+Companies,” see Op. at 9, does not suggest that Congress
+exclusively intended to regulate the relationship between
+BOCs and non-BOCs to boost the latter’s compensation and
+was wholly unconcerned about the risk that callers would be
+charged excessive rates.
+     The purpose and history behind the congressional action
+here comport with this reading of the statutory text and context.
+In passing the 1996 Telecommunications Act, Congress aimed
+to “promot[e] competition in the payphone service industry.”
+New England, 334 F.3d at 71; see also 47 U.S.C. § 276(b)(1)
+(stating congressional purpose “to promote competition among
+payphone service providers and promote the widespread
+deployment of payphone services to the benefit of the general
+public”).    To be sure, the immediate anti-competitive
+                               5
+malfunction confronting Congress at the time was that certain
+payphone providers were, under certain circumstances, under-
+compensated. See Illinois Pub. Telecomms. Ass’n v. FCC, 752
+F.3d 1018, 1026 (D.C. Cir. 2014). But the central aim was to
+advance competition to the benefit of the end users of payphone
+services. Senator Kerry, for instance, explained that his goal in
+introducing section 276 was “to establish a level playing field
+for independent payphone providers,” and thereby to enable
+competition “on the basis of price, quality and service, rather
+than on marketshare and subsidies.” 3 Reams & Manz, Federal
+Telecommunications Law: A Legislative History of the
+Telecommunications Act of 1996, Pub. L. No. 104-104, 110
+Stat. 56 (1996), at S710.
+     Consistent with that pro-competitive agenda, the FCC and
+this court have long assumed that section 276 provides tools for
+addressing monopoly power and market failure in the
+payphone market. For instance, in Illinois, the state petitioners
+argued that the FCC had unlawfully ignored the problem of
+“locational monopolies,” that is, situations in which a
+payphone provider “obtains an exclusive contract for the
+provision of all payphones at an isolated location, such as an
+airport, stadium, or mall, and is thereby able to charge an
+inflated rate for local calls made from that location.” 117 F.3d
+at 562. We recognized that the FCC had not ignored the
+problem of locational monopolies; it had simply “concluded
+that it would deal with them if and when specific [providers]
+are shown to have substantial market power.” Id. Now, twenty
+years later, the FCC has identified a discrete area where
+payphone providers do have substantial market power: prisons
+and jails. The inmate-calling market is, the FCC found, “a
+prime example of market failure” because, instead of
+competing to reduce rates and improve services for callers,
+providers compete to offer ever-higher site commissions to
+correctional facilities so as to gain monopoly access to a
+literally captive consumer base. 30 FCC Rcd. at 12765 & n.9.
+                                 6
+     Nevertheless, the majority cites four considerations that
+influenced its rejection of the FCC’s claimed authority over
+intrastate inmate calling services. Op. at 21-24. None is
+compelling.
+     First, the majority notes that section 152(b) “erects a
+presumption against the Commission’s assertion of regulatory
+authority over intrastate communications.” Op. at 21 (citing
+Louisiana Pub. Serv. Comm’n v. FCC, 476 U.S. 355, 373
+(1986)). That is true, but section 276, by its plain terms,
+“overcom[es] this presumption.” Op. at 21. Congress
+instructed the FCC to ensure fair compensation for all
+payphone calls—interstate and intrastate. 47 U.S.C. §
+276(b)(1)(A). To that end, Congress expressly provided for
+preemption of inconsistent state regulation. Id. § 276(c). This
+case is thus unlike Louisiana, which held that federal power
+over depreciation charges pursuant to section 220 was limited
+to the interstate ratemaking context; it is simply not “possible”
+here that section 276 “do[es] no more than spell out the
+authority of the FCC . . . in the context of interstate regulation.”
+Louisiana, 476 U.S. at 377. Whatever section 276 means, it
+applies in both the interstate and intrastate contexts. Cf. N.Y.
+& Pub. Serv. Comm’n of N.Y. v. FCC, 267 F.3d 91, 102-03 (2d
+Cir. 2001) (concluding that section 251(e) clearly “grants the
+FCC authority to act with respect to those areas of intrastate
+service encompassed by the terms ‘North American
+Numbering Plan’ and ‘numbering administration,’” and
+applying Chevron deference to agency’s interpretation of
+“what either term encompasses”).
+     Second, the majority says that “the Order erroneously
+treats the Commission’s authority under § 201 and § 276 as
+coterminous.” Op. at 21. My colleagues appear to draw that
+conclusion from the FCC’s repeated use of the phrase “just,
+reasonable, and fair”—an amalgam of the two provisions’ key
+terms. As I read the Order, the bundling of those three words
+                               7
+simply reflects that the FCC’s authority over inmate calling
+derives from the sum of those authorizations. The majority’s
+inference that the Order fails to respect the difference between
+sections 201 and 276, and in particular, fails to appreciate that
+section 201 applies only to interstate rates, has no support in
+the record.
+     Third, the majority concludes that the FCC erred in finding
+support for its approach in prior agency orders. Op. at 22-23.
+The majority says that “the prior orders . . . focused on
+payphone providers and carriers to determine whether the
+providers were fairly compensated.” Op. at 23. But this court
+has held that “compensation” includes end-user rates; it is not
+limited to payments between payphone providers and carriers.
+Illinois, 117 F.3d at 562 (“[W]e hold that the statute
+unambiguously grants the Commission authority to regulate
+the rates for local coin calls.”).
+     Fourth, the majority says the FCC mistakenly relied on this
+court’s decisions in Illinois and New England. Op. at 24-26.
+The majority acknowledges that Illinois “held that § 276
+unambiguously overrode § 152(b)’s presumption against
+intrastate jurisdiction insofar as it granted the Commission
+authority to ‘set’ reimbursement rates for local coin calls in
+order to ensure that payphone operators who were previously
+uncompensated were ‘fairly compensated.’” Op. at 24.
+According to the majority, however, setting rates to increase
+providers’ compensation is different from reducing “already
+compensatory rates.” Op. at 25. Yet Illinois ratified the FCC’s
+assertion of authority to regulate “locational monopolies.” 117
+F.3d at 562. The majority responds that the FCC never said it
+would consider intrastate rate caps as the means of breaking up
+such monopolies. See Op. at 25. But the FCC, as we noted in
+Illinois, “specifically reserved the right to modify its
+deregulation scheme, for example, by limiting the number of
+compensable calls from each payphone.” 117 F.3d at 563.
+                                8
+Limiting the number of compensable calls per phone is, of
+course, economically similar to limiting the rate per call; either
+incentivizes broader deployment of payphones to maintain the
+same revenue levels. Thus, the FCC contemplated, and the
+Court approved, just the sort of pro-consumer regulation the
+FCC eventually undertook in the Order under review.
+     Petitioners argue that in the rule at issue in Illinois, the
+FCC had merely claimed the authority “to adjust the per-call
+compensation scheme that the FCC itself put in place to ensure
+fair compensation,” not the “authority to regulate existing
+market rates.” ICS Pet’rs Br. 46 n.31. That is a false
+dichotomy. Cf. Illinois, 117 F.3d at 563 (“A market-based
+approach is as much a compensation scheme as a rate-setting
+approach.”). The bottom line is that the FCC anticipated the
+problem of monopoly power in the provision of payphone
+services, and this Court ratified the agency’s authority to
+combat that problem by reducing providers’ compensation,
+including by adjusting end-user rates. There is thus no basis
+for the majority’s contention that “the FCC consistently
+construed its authority over intrastate payphone rates as limited
+to addressing the problem of under-compensation for ICS
+providers.” Op. at 5.
+     The majority also takes issue with the Order’s invocation
+of New England, but the FCC correctly relied on that precedent
+for the limited point that “section 276 unambiguously and
+straightforwardly authorizes the Commission to regulate [the
+Bell Operating Companies’] intrastate payphone line rates.” 30
+FCC Rcd. at 12815 (quoting 334 F.3d at 75). The fact that the
+FCC and this court previously articulated section 276 authority
+in terms of generic rate regulation is relevant here. And,
+contrary to the majority, New England’s holding that section
+276(b)(1)(C) does not apply to non-Bell Operating Companies
+has no resonance in this case. The provision at issue here,
+section 276(b)(1)(A), is indisputably applicable to non-BOCs:
+                                9
+it requires that “all payphone service providers [be] fairly
+compensated.” 47 U.S.C. § 276(b)(1)(A) (emphasis added).
+     None of this is to suggest that the FCC has the same “broad
+plenary authority to regulate and cap intrastate rates” that it has
+over interstate rates. Op. at 26. Notably, whereas section 201
+broadly requires that “[a]ll charges, practices, classifications,
+and regulations for and in connection with [interstate]
+communication service[] shall be just and reasonable,” section
+276 is more narrowly focused on “compensation.” The FCC
+simply did not need “broad plenary authority” to conclude that
+inmate calling service providers charging as much as $56.00
+for a four-minute call, see Op. at 11, were not being “fairly
+compensated.”
+                                II.
+     The majority also holds that the FCC’s complete exclusion
+of site commissions from its cost calculus and its use of
+industry-wide averages were arbitrary and capricious. See Op.
+at 28-33. It is unclear why the majority finds it necessary to
+address how the caps were calculated, given its rejection of the
+FCC’s power to cap at all. In any event, the majority’s analysis
+is misguided.
+     Regarding site commissions, the majority says that
+“[i]gnoring costs that the Commission acknowledges to be
+legitimate is implausible.” Op. at 29. But the FCC did not
+acknowledge site commissions as legitimate costs. Quite to the
+contrary, the FCC agreed with a commenter who described site
+commissions as “legal bribes to induce correctional agencies to
+provide ICS providers with lucrative monopoly contracts.” 30
+FCC Rcd. at 12821. In other words, the FCC viewed site
+commissions not as real costs of doing business, but as “an
+apportionment of profit” between providers and correctional
+facilities. Id. at 12822. The majority suggests that if site
+commissions are “directly related to the provision” of inmate
+                              10
+calling services in that they are conditions of receiving
+contracts to provide such services, they are “therefore
+legitimate.” Op. at 30. That equation makes no sense; the fact
+that a cost was charged under a prior regulatory regime cannot
+mean the agency is required to recognize that cost as
+“legitimate” and is disempowered from regulating it.
+     Simply put, the fact that a state may demand them does not
+make site commissions a legitimate cost of providing calling
+services. The majority asserts that “[i]n some instances,
+commissions are mandated by state statute,” Op. at 29, but the
+record reflects that there is only one such statute, Tex. Gov’t
+Code Ann. § 495.027(a)(2). That statute categorically
+demands site commissions of at least 40 per cent of the
+provider’s gross revenue, which only illustrates the problem
+that site commissions are a form of monopoly rent not tied to
+actual costs.
+     Indeed, considering site commissions as a compensable
+cost would effectively negate the FCC’s authority to mitigate
+locational monopolies. Imagine that a payphone provider (in
+the pre-cell phone era) contracted with a large stadium to
+provide just three payphones, anticipating that its monopoly
+would enable it to charge several dollars per minute while
+kicking back some percentage to the stadium. Plainly, the
+statutory goals of “competition” and “widespread deployment
+of payphone services” could be well served by a rule imposing
+reasonable, market-sensitive price caps to spur providers to
+offer more phones to maintain the same levels of revenue. 47
+U.S.C. § 276(b)(1). But any such price cap would be worthless
+if it had to be calculated to ensure that the provider could
+continue its kickbacks to the stadium.            The kickback
+arrangement might, in some sense, be “related” to the provision
+of payphone services at the stadium, but it is not “reasonably”
+related because acceding to such preexisting contractual
+relationships is inconsistent with the statutory scheme.
+                                11
+    On the averaging issue, the majority concludes that
+because the Order “makes calls with above-average costs . . .
+unprofitable,” it “does not fulfill the mandate of § 276 that
+‘each and every’ inter- and intrastate call be fairly
+compensated.” Op. at 32. This holding seems to follow from
+the majority’s pinched interpretation of section 276 as a one-
+way ratchet whereby providers are always entitled to recoup
+“actual” costs incurred under monopoly conditions, no matter
+how extravagant. As I have explained, I believe that section
+276 conveys some authority to lower rates, which means the
+FCC need not take as given “calls with above-average costs.”
+      Additionally, the majority fails to reckon with the FCC’s
+independent authority to cap rates for interstate calls under
+section 201, despite acknowledging that this power is “broad”
+and “plenary.” Op. at 26. In my view, the FCC has wide
+discretion under its section 201 “just and reasonable” interstate
+ratemaking authority to decide which costs to take into account
+and to use industry-wide averages that do not necessarily
+compensate “each and every” call, as section 276 requires. See
+Nat’l Ass’n of Regulatory Util. Comm’rs v. FERC, 475 F.3d
+1277, 1280 (D.C. Cir. 2007) (agency is not “weaponless
+against conduct that might encourage or cloak the running up
+of unreasonable costs”). As the state petitioners aptly
+summarized, section 201 “gave the Commission broad
+regulatory authority over interstate communication in a
+‘traditional form,’ mirroring regulation of railroads and public
+utilities, enabling it to set rates to allow a monopolistic utility
+to recover a reasonable profit but also protect the consumer
+from unjustly high prices.” State Pet’rs Br. at 28-29. The
+majority never explains why the FCC’s rate-setting
+methodology would be impermissible as to the interstate caps.
+                               III.
+     Finally, I note that the majority offers no persuasive reason
+for abandoning the Chevron framework (which it admittedly
+                                12
+does only in dicta, as Chevron deference plays no role in an
+opinion holding section 276 unambiguous). It acknowledges
+that the Order is “presumptively subject” to deferential review,
+but then concludes that “it would make no sense for this court
+to determine whether the disputed agency positions advanced
+in the Order warrant Chevron deference when the agency has
+abandoned those positions.” Op. at 18. Absent any briefing on
+the subject or any citation to precedent, I cannot agree.
+     The FCC, through notice-and-comment rulemaking, took
+certain positions—most notably that section 276 authorizes
+regulation of the fairness of intrastate inmate-calling rates—
+and defended them vigorously in briefing before this court.
+Less than a month before argument, the court on its own motion
+directed the parties to explain whether this case should be held
+in abeyance in light of recent personnel changes at the FCC.
+The FCC responded that the court should “move forward on
+the current schedule.” Doc. No. 1656116 (Jan. 17, 2017). Two
+weeks later, and just a week before argument, the FCC
+informed us that it would no longer defend certain points that
+it had briefed, but that the Wright Petitioners would “defend all
+aspects of the Order.” Doc. No. 1658521 (Jan. 31, 2017). The
+FCC has not committed to formally reviewing the Order, as
+other similarly situated agencies have recently done. See, e.g.,
+Murray Energy Corp. v. EPA, No. 15-1385, Doc. No. 1670218
+(April 7, 2017) (requesting postponement of oral argument so
+that agency could “fully review” the relevant rule). By
+suggesting that agencies can relinquish judicial deference
+through such limited and belated maneuvers as refusing to
+defend portions of their briefs during oral argument, the
+majority risks enabling agencies to end-run the principle that
+they must “use the same procedures when they amend or repeal
+a rule as they used to issue the rule in the first instance.” Perez
+v. Mortgage Bankers Ass’n, 135 S. Ct. 1199, 1206 (2015).
+                              ***
+                               13
+     The majority appears to leave an opening for the FCC—
+on some other record and by some other reasoning—to rein in
+excessive inmate-calling rates, both interstate and intrastate.
+See Op. at 20, 29, 32 (limiting its analysis to the record in this
+case). And the majority invites the FCC to determine whether
+some “portions of site commissions” are illegitimate and non-
+compensable. Op. at 30. Still, because the majority
+shortchanges the FCC’s authority to reduce excessive,
+monopoly-driven rates, finds “implausible” the agency’s
+reasoned approach to a grave problem, and unnecessarily
+suggests limitations on Chevron deference, I respectfully
+dissent from Sections II.B through II.F of the majority opinion.
+

@@ -1,0 +1,551 @@
+             Case: 17-14670    Date Filed: 05/09/2019   Page: 1 of 13
+
+
+                                                                        [PUBLISH]
+
+
+
+               IN THE UNITED STATES COURT OF APPEALS
+
+                        FOR THE ELEVENTH CIRCUIT
+                          ________________________
+
+                                No. 17-14670
+                          ________________________
+
+                   D.C. Docket No. 1:16-cv-00876-WKW-TFM
+
+FLAT CREEK TRANSPORTATION, LLC,
+an Alabama limited liability company,
+
+                                                              Plaintiff - Appellant,
+
+                                      versus
+
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION,
+KENNY PRICE,
+in his capacity as Alabama Division Administrator
+(Federal Motor Carrier Safety Administration),
+ELAINE L. CHAO,
+in her capacity as Secretary of the United States Department of Transportation,
+
+                                                           Defendants - Appellees,
+
+ANTHONY R. FOXX,
+in his capacity as Secretary of the United States Department of Transportation,
+
+                                                                        Defendant.
+               Case: 17-14670       Date Filed: 05/09/2019       Page: 2 of 13
+
+
+                              ________________________
+
+                      Appeal from the United States District Court
+                          for the Middle District of Alabama
+                            ________________________
+                                    (May 9, 2019)
+
+Before TJOFLAT, NEWSOM, and GILMAN, * Circuit Judges.
+
+NEWSOM, Circuit Judge:
+
+       Flat Creek Transportation sued for declaratory and injunctive relief on the
+
+ground that the Federal Motor Carrier Safety Administration had unfairly targeted
+
+it for compliance reviews and used an unsound methodology in doing so. The
+
+district court determined that it lacked subject matter jurisdiction to consider Flat
+
+Creek’s claims. We reach the same destination, albeit by a different route. We
+
+hold that Flat Creek has failed to establish that it suffered an injury in fact
+
+sufficient to confer standing to sue.
+
+                                               I
+
+       Flat Creek is a commercial trucking company that transports non-hazardous
+
+materials—mainly refrigerated food products. Because it operates in interstate
+
+commerce, Flat Creek is subject to Department of Transportation regulations. And
+
+because its claim in this case arises against the backdrop of that regulatory
+
+
+
+
+*
+ Honorable Ronald L. Gilman, United States Circuit Judge for the Sixth Circuit, sitting by
+designation.
+
+                                               2
+              Case: 17-14670     Date Filed: 05/09/2019   Page: 3 of 13
+
+
+framework, we begin with an overview. (Warning: Unavoidable Acronyms
+
+Ahead.)
+
+                                          A
+
+      Within the Department of Transportation, the Federal Motor Carrier Safety
+
+Administration (“FMCSA”) investigates carriers and operators to ensure that they
+
+are safe to operate on the nation’s roadways. FMCSA uses a safety-fitness rating
+
+methodology—the Safety Measurement System (“SMS”)—to quantify carriers’
+
+performance. For example, the SMS pulls data from the Motor Carrier
+
+Management Information System (“MCMIS”) related to the following metrics: (1)
+
+unsafe driving, (2) fatigued driving, (3) driver fitness, (4) controlled-substance and
+
+alcohol usage, (5) vehicle maintenance, (6) hazardous-material compliance, and (7)
+
+crash history. See 75 Fed. Reg. 18256, 18258 (April 9, 2010). A carrier is given a
+
+weighted score in each category, and then ranked against other carriers. A non-
+
+passenger carrier like Flat Creek will receive a “High Risk” designation only if it
+
+both (1) has “not received an onsite investigation in the previous 18 months” and
+
+(2) scores at or above the 90th percentile for two consecutive months in two or
+
+more of the MCMIS categories “most closely correlated with crash risk”: unsafe
+
+driving, fatigued driving, vehicle maintenance, and crash history. See 81 Fed. Reg.
+
+11875–11876 Table 2 (March 7, 2016).
+
+
+
+
+                                          3
+               Case: 17-14670    Date Filed: 05/09/2019     Page: 4 of 13
+
+
+      This “High Risk” designation matters to carriers because FMCSA
+
+concentrates its compliance-review resources on high-risk carriers. A compliance
+
+review is an in-depth “on-site investigation of the carrier’s operations” that
+
+examines the carrier’s compliance with FMCSA regulations. 49 C.F.R. § 385.3;
+
+see generally 49 C.F.R. § 350 et seq. During a compliance review, an investigator
+
+will commonly check driver-qualification files, records of duty status (basically, a
+
+measure of the number of hours a driver works per 24-hour day), and vehicle-
+
+maintenance data. Within 30 days of the review, FMCSA is required to give the
+
+carrier written notice that it has received one of three safety ratings: Satisfactory,
+
+Conditional, or Unsatisfactory. 49 C.F.R. §§ 385.3, 385.11(a).
+
+      Safety ratings become “final” in slightly different ways. A Satisfactory
+
+rating, the highest possible, is final and effective on the date of notice. 49 C.F.R.
+
+§ 385.11(b). A Conditional or Unsatisfactory rating becomes final after 60 days if
+
+it is not upgraded or overturned. Id. § 385.11(c). If a carrier seeks administrative
+
+review of an Unsatisfactory or Conditional rating, FMCSA’s Chief Safety Officer
+
+must issue a written decision, which will constitute final agency action. Id.
+
+§ 385.15. Alternatively, a carrier can take corrective action to remedy a reported
+
+defect and then request an upgrade from FMCSA. Id. § 385.11(f). If a carrier
+
+receives a final Unsatisfactory safety rating, it is prohibited from operating. Id.
+
+§ 385.13(a).
+
+
+                                           4
+              Case: 17-14670    Date Filed: 05/09/2019    Page: 5 of 13
+
+
+      Naturally, commercial carriers don’t particularly want a “High Risk”
+
+designation—because it increases their odds of a compliance review, which in turn
+
+increases the odds of suffering an Unsatisfactory safety rating. To address carriers’
+
+concerns about the accuracy of the data that factor into the MCMIS system and
+
+that can prompt a high-risk designation, FMCSA operates DataQs, an online
+
+system that permits carriers to contest those data. See FMCSA Notice to Amend a
+
+System of Records, 77 Fed. Reg. 42548-02, 42551 (July 19, 2012).
+
+                                          B
+
+      Flat Creek’s managing member is Charles Patterson Sr.; Charles’ son,
+
+Charles Patterson Jr., formed and operates a separate trucking company, Liberty
+
+Express. In July 2016, FMCSA’s Alabama Division conducted a compliance
+
+review of Liberty. Flat Creek alleges that during Liberty’s review, FMCSA agents
+
+asked a bunch of questions about Flat Creek. Not long after, Flat Creek says, its
+
+regulatory consultant “received surreptitious reports from confidential informant(s)
+
+that agents … planned an unannounced on-site compliance investigation at Flat
+
+Creek with the intent to falsely charge Flat Creek with multiple regulatory
+
+violations sufficient to … forc[e] a cessation of Flat Creek’s operations and likely
+
+leading to business closure.” Br. of Appellant at 8–9.
+
+      Flat Creek further asserts that it received “flawed” scores and misleading
+
+crash indicators from the MCMIS data, which FMCSA failed to keep “complete,
+
+
+                                          5
+              Case: 17-14670      Date Filed: 05/09/2019   Page: 6 of 13
+
+
+timely, and accurate” as required by 49 U.S.C. § 31106(a)(3)(F). Flat Creek insists
+
+that, contrary to the MCMIS data, the company’s industry performance was above
+
+average. Because of the allegedly false data, Flat Creek contends that it “has been
+
+consistently but illegally targeted and harassed with multiple unwanted
+
+interventions by FMCSA agents.” Compl. at ¶ 47. It points to three specific
+
+events: an allegedly false Notice of Violation on October 6, 2011; another of the
+
+same, on August 10, 2012; and an unfavorable compliance-review report on June
+
+15, 2015. And even before those three instances, Flat Creek alleges that it was
+
+subject to “an unusually high number of [compliance review] interventions.” Id. at
+
+¶ 48. Most provocatively, Flat Creek further asserts that FMCSA’s adverse
+
+regulatory actions were taken in part due to “on[going] prejudice and bias” against
+
+Patterson Sr. Compl. at ¶ 58.
+
+      Flat Creek admits that none of the additional compliance reviews “resulted
+
+in a safety rating less than ‘Satisfactory.’”
+
+                                           C
+
+      Flat Creek filed a complaint seeking declaratory and injunctive relief under
+
+the Administrative Procedure Act, 5 U.S.C. § 500 et seq. (2000). FMCSA
+
+responded with a motion to dismiss for lack of subject matter jurisdiction pursuant
+
+to Federal Rule of Civil Procedure 12(b)(1). While the motion to dismiss was
+
+pending, Flat Creek received a letter from FMCSA’s Alabama Division notifying it
+
+
+                                            6
+                Case: 17-14670        Date Filed: 05/09/2019         Page: 7 of 13
+
+
+of an impending on-site compliance review. Seeking to head off that review, Flat
+
+Creek filed an emergency motion for a preliminary injunction. Flat Creek’s
+
+motion was denied, and the review went ahead as scheduled.
+
+       Following the compliance review, FMCSA initially advised Flat Creek that
+
+its safety rating would be downgraded from Satisfactory to Conditional. FMCSA
+
+argued to the district court that the case was unripe because the new Conditional
+
+rating was not yet final. A month later, however, FMCSA notified the district
+
+court that the agency had reviewed Flat Creek’s downgraded safety rating sua
+
+sponte, removed a violation incorrectly included in the calculation, and restored the
+
+rating to Satisfactory. 1
+
+       The district court granted FMCSA’s Rule 12(b)(1) motion on the ground that
+
+the Hobbs Act, 28 U.S.C. § 2342(3)(A), vested the courts of appeals with exclusive
+
+
+
+
+1
+  Because Flat Creek’s safety rating was upgraded during the course of this litigation, its most
+recent “Satisfactory” mark is not reflected in its complaint. Flat Creek contends that the district
+court erred when it said that it was engaging in a “facial attack” analysis of subject matter
+jurisdiction—which limits a court to a plaintiff’s allegations—and then proceeded to look
+beyond the complaint for proof that Flat Creek ultimately received a “Satisfactory” rating.
+Ranging beyond the complaint, Flat Creek asserts, is permissible only in the case of a “factual
+attack” on subject matter jurisdiction. See Garcia v. Copenhaver, Bell & Assoc., 104 F.3d 1256,
+1260–61 (11th Cir. 1997) (citing Lawrence v. Dunbar, 919 F.2d 1525, 1528–29 (11th Cir.
+1990)). But, where the extra-complaint fact does not implicate the merits of the plaintiff’s case,
+“the trial court is free to weigh the evidence and satisfy itself as to the existence of its power to
+hear the case.” Garcia, 104 F.3d at 1261 (quoting Lawrence, 919 F.2d at 1529). Moreover, and
+in any event—and dispositively here—the fact that Flat Creek’s safety rating is now
+“Satisfactory” is undisputed. See Br. of Appellant at 21 (“Flat Creek’s … “Satisfactory” safety
+rating [is] ultimately the result of the March 28, 2017 compliance review.”).
+
+                                                  7
+               Case: 17-14670        Date Filed: 05/09/2019        Page: 8 of 13
+
+
+jurisdiction to provide Flat Creek the injunctive relief that it had requested. 2 We
+
+find it unnecessary to decide the Hobbs Act question, because we conclude that
+
+Flat Creek has failed to establish standing to sue.
+
+                                                II
+
+       We review de novo whether a party has standing. See Perry v. Cable News
+
+Network, Inc., 854 F.3d 1336, 1339 (11th Cir. 2017). Flat Creek contends that it
+
+has standing to sue because it was injured in two ways: first, its most recent safety
+
+rating—which originally came back “Conditional” but was thereafter upgraded to
+
+“Satisfactory”—and second, by the ongoing potential for agency bias in the
+
+conduct of compliance reviews. We hold that the injuries that Flat Creek alleges
+
+do not establish the requisite standing.
+
+       The doctrine of standing is “an essential and unchanging part” of the case-
+
+or-controversy requirement embodied in Article III of the Constitution. Lujan v.
+
+Defenders of Wildlife, 504 U.S. 555, 560 (1992). The “‘irreducible constitutional
+
+
+
+2
+ Not that Hobbs Act. See 18 U.S.C. § 1951. This one vests exclusive jurisdiction in the courts
+of appeals
+
+       to enjoin, set aside, suspend (in whole or in part), or to determine the validity of
+       … all rules, regulations, or final orders of the Secretary of Transportation issued
+       … pursuant to part B or C of subtitle IV, subchapter III of chapter 311, chapter
+       313, or chapter 315 of title 49.
+
+28 U.S.C. § 2342(3)(A) (emphasis added). The question that we excuse ourselves from deciding
+today is whether Flat Creek’s challenges are sufficiently broad that they, in effect, contest the
+validity of an agency rule, regulation, or final order.
+
+                                                 8
+              Case: 17-14670     Date Filed: 05/09/2019    Page: 9 of 13
+
+
+minimum’ of standing” requires a plaintiff to show that he “(1) suffered an injury
+
+in fact, (2) that is fairly traceable to the challenged conduct of the defendant, and
+
+(3) that is likely to be redressed by a favorable judicial decision.” Spokeo, Inc. v.
+
+Robins, 136 S. Ct. 1540, 1547 (2016) (quoting Lujan, 504 U.S. at 560–61). “The
+
+plaintiff, as the party invoking federal jurisdiction, bears the burden of establishing
+
+these elements.” Id. And because standing doctrine is intended to “confine[] the
+
+federal courts to a properly judicial role,” id., we take seriously the requirement
+
+that a plaintiff clearly demonstrate each requirement. Finally, and importantly
+
+here, the Supreme Court has made clear that “Article III demands that an ‘actual
+
+controversy’ persist throughout all stages of litigation” and, therefore, that standing
+
+requirements “must be met by persons seeking appellate review, just as [they] must
+
+be met by persons appearing in courts of first instance.” Hollingsworth v. Perry,
+
+570 U.S. 693, 705 (2013) (quoting Already, LLC v. Nike, Inc., 568 U.S. 85, 90–91
+
+(2013), and Arizonans for Official English v. Arizona, 520 U.S. 43, 64 (1997)).
+
+      “First and foremost” among the standing doctrine’s requirements is “injury
+
+in fact.” Spokeo, 136 S. Ct. at 1547 (quoting Steel Co. v. Citizens for a Better
+
+Env’t, 523 U.S. 83, 103 (1998)). In order to satisfy the injury-in-fact requirement,
+
+“a plaintiff must show that he or she suffered ‘an invasion of a legally protected
+
+interest’” that is both (1) “‘concrete and particularized’” and (2) “‘actual or
+
+imminent.’” Id. at 1548 (quoting Lujan, 504 U.S. at 560). For an injury to be
+
+
+                                           9
+               Case: 17-14670        Date Filed: 05/09/2019        Page: 10 of 13
+
+
+“concrete,” “it must actually exist”—that is, it must be “‘real,’ and not ‘abstract.’”
+
+Id. (quoting Webster’s Third New International Dictionary 472 (1971)). And for
+
+an injury to be “particularized,” “it ‘must affect the plaintiff in a personal and
+
+individual way.’” Id. (quoting Lujan, 504 U.S. at 560).
+
+       Flat Creek’s allegations don’t meet the constitutional standard. To begin
+
+with the most obvious point, Flat Creek has no standing to pursue its once-upon-a-
+
+time pre-enforcement effort to prevent FMCSA from conducting a compliance
+
+review. While Flat Creek’s case was pending in the district court, the compliance
+
+review went forward, and all now agree that Flat Creek received a Satisfactory
+
+safety rating, the highest possible mark. Flat Creek certainly suffered no
+
+cognizable injury as a result of a passing rating. See Ezzell Trucking, Inc. v. Fed.
+
+Motor Carrier Safety Admin., 309 F.3d 24, 25–26 (D.C. Cir. 2002) (dismissing
+
+carrier’s challenge for lack of standing under similar circumstances).3
+
+       Separately, and notwithstanding its Satisfactory rating, Flat Creek alleges
+
+that it continues to suffer present injury because it remains subject to an enhanced
+
+threat of future compliance reviews at the hands of (in its view) a biased agency.
+
+In particular, Flat Creek asserts that FMCSA has an “improper on[going] prejudice
+
+
+
+3
+  Alternatively, one might view this aspect of Flat Creek’s lawsuit as moot, in that it “no longer
+present[s] a case or controversy under Article III, § 2 of the Constitution”—as it must “through
+all stages of federal judicial proceedings, trial and appellate.” Spencer v. Kemna, 523 U.S. 1, 7
+(1998).
+
+                                                10
+             Case: 17-14670     Date Filed: 05/09/2019    Page: 11 of 13
+
+
+and bias against [Charles] Patterson, Sr. and Flat Creek” and that FMCSA will use
+
+future compliance reviews “as a pretext for [its] real but illegal purpose of
+
+fabricating regulatory violations” and ultimately “terminating Flat Creek’s
+
+operations.” Compl. at ¶¶ 58–59. These allegations fail to satisfy the
+
+constitutional test. The injury that Flat Creek asserts—designation as a “High
+
+Risk” carrier, subject to an increased likelihood of compliance reviews—is neither
+
+“concrete” nor “imminent,” but rather “conjectural” and “hypothetical.” Spokeo,
+
+136 S. Ct. at 1548. That is so for two related reasons. First, as a matter of sheer
+
+timing, Flat Creek can’t be designated “High Risk” for a full 18 months after an
+
+onsite investigation. See FMCSA Notification of Changes to the Definition of High
+
+Risk Motor Carrier, 81 Fed. Reg. 11875, 11875 (March 6, 2016) (“Non-passenger
+
+carriers are considered ‘High Risk’ if they have two or more” safety categories “at
+
+or above the 90th percentile for two consecutive months and they have not
+
+received an onsite investigation in the previous 18 months.” (emphasis added)).
+
+As already noted, during the course of this litigation, in April 2017, the
+
+Administration conducted an onsite investigation of Flat Creek—meaning that Flat
+
+Creek wasn’t even eligible for a “High Risk” classification until October 2018.
+
+Flat Creek has given us no indication during the pendency of this appeal that any
+
+such contingency has materialized. Cf. Whitmore v. Arkansas, 495 U.S. 149, 158
+
+
+
+
+                                          11
+                 Case: 17-14670      Date Filed: 05/09/2019       Page: 12 of 13
+
+
+(1990) (holding that “[a]llegations of possible future injury” do not confer Article
+
+III standing).
+
+       Second, even after the 18-month period runs, a carrier can be deemed “High
+
+Risk” only if additional conditions obtain. In particular, before a carrier can be
+
+designated “High Risk,” it must be determined that the carrier scores at or above
+
+the 90th percentile on two of the following metrics: (1) unsafe driving, (2) fatigued
+
+driving, (3) vehicle maintenance, and (4) crash history. See 81 Fed. Reg. 11875,
+
+11876 Table 2. Again, so far as we can tell from the record and Flat Creek’s
+
+arguments to us, there is no indication that any of those conditions has been
+
+satisfied.4
+
+       Because Flat Creek has shown neither concreteness nor imminence, it has
+
+failed to establish that it has suffered a cognizable injury in fact. Accordingly, it
+
+lacks standing to sue.
+
+                                             * * *
+
+
+
+
+4
+  Note that, just as Flat Creek’s challenge to the April 2017 compliance review could be deemed
+moot—in addition to insufficiently injurious for standing purposes—its allegation that it faces
+future compliance reviews at some unspecified time down the road might be thought to be
+unripe—in addition to impermissibly hypothetical and conjectural for standing purposes. See,
+e.g., Texas v. United States, 523 U.S. 296, 300 (1998) (holding that a claim that “rests upon
+contingent future events that may not occur as anticipated, or indeed may not occur at all” is not
+ripe for adjudication).
+
+                                                12
+             Case: 17-14670     Date Filed: 05/09/2019   Page: 13 of 13
+
+
+      Flat Creek has failed to establish the requisite standing to sue under Article
+
+III of the Constitution. We lack jurisdiction to address its claim, and therefore
+
+AFFIRM the district court’s dismissal of Flat Creek’s complaint.
+
+
+
+
+                                          13
+

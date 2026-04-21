@@ -1,0 +1,1566 @@
+Case: 24-60209         Document: 113-1          Page: 1    Date Filed: 06/24/2025
+
+
+
+
+          United States Court of Appeals
+               for the Fifth Circuit
+                                 ____________                           United States Court of Appeals
+                                                                                 Fifth Circuit
+
+
+                                  No. 24-60209
+                                                                               FILED
+                                                                           June 24, 2025
+                                 ____________
+                                            Lyle W. Cayce
+Texas Corn Producers; Texas Sorghum Producers; Clerk
+National Sorghum Producers;
+Texas Food & Fuel Association,
+
+                                                                         Petitioners,
+
+                                       versus
+
+United States Environmental Protection Agency;
+Lee Zeldin, in his official capacity as the Administrator of
+the United States Environmental Protection Agency,
+
+                                                                       Respondents.
+                  ______________________________
+
+                      Petition for Review of an Order of
+                    the Environmental Protection Agency
+                   Agency Nos. EPA-HQ-OAR-2022-0829,
+                             FRL-8953-04-OAR
+                  ______________________________
+
+Before Smith, Graves, and Duncan, Circuit Judges.
+Jerry E. Smith, Circuit Judge:
+      Petitioners, which span the gasoline supply chain, allege that the
+Environmental Protection Agency (“EPA”) promulgated an unlawful equa-
+tion for calculating vehicle fuel economy. 1 Specifically, they contend that
+      _____________________
+      1
+          Multi-Pollutant Emissions Standards for Model Years 2027 & Later Light-Duty
+Case: 24-60209         Document: 113-1          Page: 2      Date Filed: 06/24/2025
+
+
+
+
+                                     No. 24-60209
+
+
+EPA set one part of that equation—known as the “Ra factor”—arbitrarily
+low, causing a backdoor increase in the federal fuel economy standards and
+thereby decreasing demand for their gasoline products.
+        EPA’s Ra Rule is unreasonable and unreasonably explained. The
+Agency violated the Administrative Procedure Act (“APA”) by ignoring
+comments that flagged flaws in EPA’s determination of the Ra factor. We
+therefore grant the petition for review and vacate the challenged portion of
+the Ra Rule.
+
+                                           I.
+        In 1975, Congress sought “to provide for improved energy efficiency
+of motor vehicles,” so it enacted a law requiring new automobiles to achieve
+progressively higher fuel economy. 42 U.S.C. § 6201(5); 49 U.S.C. § 32902.
+Under that law, the National Highway Traffic Safety Administration
+(“NHTSA”) sets standards based on “the maximum feasible average fuel
+economy level that . . . the manufacturers can achieve.” 2
+        NHTSA prescribes Corporate Average Fuel Economy (“CAFE”)
+standards for automakers’ passenger automobile and light-duty truck fleets.
+49 U.S.C. § 32902(b)(1). When a manufacturer’s fleetwide average falls
+short of the applicable CAFE standard, the law imposes civil penalties.
+49 U.S.C. §§ 32911, 32912. On the other hand, manufacturers that exceed
+their standards earn credits. 49 U.S.C. § 32903. Automakers can apply cred-
+its to their own automobiles or trade them to manufacturers with deficits. Id.
+So, as CAFE standards increase, manufacturers produce cars that consume
+
+
+        _____________________
+& Medium-Duty Vehicles, 89 Fed. Reg. 27,842 (Apr. 18, 2024) (the “Ra Rule”).
+        2
+         49 U.S.C. § 32902(a); see 49 C.F.R. § 1.95(a) (delegating the authority from the
+Secretary of Transportation to NHTSA).
+
+
+
+
+                                           2
+Case: 24-60209         Document: 113-1         Page: 3      Date Filed: 06/24/2025
+
+
+
+
+                                    No. 24-60209
+
+
+less gasoline.
+       Congress put EPA in charge of calculating manufacturers’ CAFE
+compliance. 49 U.S.C. § 32904. To that end, the agency promulgates the
+test procedures that manufacturers must use to measure their vehicles’ fuel
+economy. Id. EPA’s test procedures are also used to assess the “gas guz-
+zler” tax—a sales tax that Congress imposes on new automobiles with a fuel
+economy below 22.5 miles per gallon (“mpg”). 26 U.S.C. § 4064(a), (c)(1).
+       The law strictly circumscribes EPA’s authority to amend fuel econ-
+omy test procedures. The Agency must “use the same procedures . . . used
+for model year 1975 . . ., or procedures that give comparable results.”
+49 U.S.C. § 32904(c); see also 26 U.S.C. § 4064(c)(1). That requirement
+prevents EPA from tinkering with the stringency of NHTSA’s CAFE
+standards—or Congress’s tax—through a backdoor.
+       Because the fuels used to test fuel economy have changed since 1975,
+EPA has implemented an adjustment to ensure the statutorily required
+“comparable results.” Specifically, EPA created a sensitivity factor known
+as the “R” factor to measure how much a vehicle’s fuel economy changes in
+response to an alteration in the test fuel’s energy content. 3 Setting the right
+sensitivity factor is important because a vehicle’s measured fuel economy
+differs based on the energy density of the test fuel. 4 An R of 1.0 signifies that
+a vehicle’s fuel economy changes by the same percentage as fuel energy
+content—that is, the engine fully adjusts to the new fuel.
+       In 1986, EPA promulgated a fleetwide R factor of 0.6—meaning that
+
+       _____________________
+       3
+         Fuel Economy Test Procedures; Revised Fuel Economy Calculation Equation &
+Light Truck Mileage Accumulation Limits, 51 Fed. Reg. 37,844 (Oct. 24, 1986).
+       4
+         Vehicle Test Procedure Adjustments for Tier 3 Certification Test Fuel, 85 Fed.
+Reg. 28,564, 28,567–68 (NPRM) (May 13, 2020).
+
+
+
+
+                                          3
+Case: 24-60209         Document: 113-1        Page: 4      Date Filed: 06/24/2025
+
+
+
+
+                                    No. 24-60209
+
+
+for every 1% change in fuel energy content, vehicles would respond on aver-
+age with a 0.6% change in fuel economy. 51 Fed. Reg. at 37,847. That was
+because the engine technology of that era was not advanced enough to realize
+100% of the gains from increases in fuel energy content. Id. EPA recognized,
+though, that “as technological improvements allow an engine to more effici-
+ently convert the heat energy content of the fuel to mechanical energy, the
+‘R’ value may increase.” Id.
+       Although EPA never revised its 1986 R factor, that delay had limited
+impact on fuel economy metrics because the test fuel did not evolve signifi-
+cantly. 5 Things changed, however, in 2014, when EPA announced a shift
+from “Tier 2” to “Tier 3” test fuel. 6 Tier 3 test fuel is E10 (meaning that it
+contains 10% ethanol), whereas the Tier 2 test fuel was E0 (no ethanol).
+79 Fed. Reg. at 23,419. The addition of ethanol meant that the test fuel’s
+energy density decreased considerably compared to the 1975 baseline. So,
+without a proper adjustment factor, the fuel economy equation would not
+yield “comparable results” to the 1975 test procedures.
+       EPA therefore postponed the shift from E0 to E10 for fuel economy
+tests until it could calculate the proper sensitivity factor. 79 Fed. Reg.
+at 23,531–33. The Agency similarly delayed E10 testing for greenhouse gas
+(“GHG”) compliance to determine any impact of the shift. Id. Since imple-
+mentation of the 2014 rule, manufacturers have been required to use E10 for
+criteria pollutant emissions compliance, but they have continued to use E0
+for fuel economy and GHG certification. Id. EPA anticipated that, by
+“early to mid 2015,” the bifurcated certification testing would produce a
+       _____________________
+       5
+        See Comments of Ill. Corn Growers Ass’n et al. at 8, EPA-HQ-OAR-2016-0604-
+0086 (Aug. 14, 2020) (“Biofuels Coal. Comments”).
+       6
+         Control of Air Pollution from Motor Vehicles: Tier 3 Motor Vehicle Emission &
+Fuel Standards, 79 Fed. Reg. 23,414 (Apr. 28, 2014).
+
+
+
+
+                                          4
+Case: 24-60209           Document: 113-1        Page: 5      Date Filed: 06/24/2025
+
+
+
+
+                                     No. 24-60209
+
+
+dataset that the Agency could use to calculate R. Id. at 23,531–32.
+        EPA deferred any revisions to R until 2020, when it proposed a new
+“Ra” factor. 85 Fed. Reg. 28,564. The new Ra factor “in effect incorpor-
+ates” the old R factor and “other impacts that may result from the change in
+test fuel . . . and . . . the updated methodologies that we now use to measure
+fuel properties.” Id. at 23,568. And instead of using manufacturer certifica-
+tion data as originally planned, EPA conducted its own Test Program. 7 The
+Agency gathered data from eleven model-year (“MY”) 2013 to 2016 vehi-
+cles “equipped with technologies” that, EPA predicted, would “represent
+how the fleet will look in the future.” Id.; Test Program Report at 7. EPA
+proposed an Ra value of 0.81 based on test results from ten of those vehicles. 8
+        Commenters criticized the proposal to set Ra at 0.81, contending that
+the true sensitivity factor is much closer to 1.0 for modern engines. 9 The
+comments included extensive analysis and reasoned that EPA had tested too
+few vehicles, had used unrepresentative vehicle technologies, and had arbi-
+trarily analyzed data from the Test Program. See generally All. Comments
+and Biofuels Coal. Comments. Commenters also suggested that EPA should
+use manufacturer certification data or other published studies to set the
+sensitivity factor. 10
+
+
+        _____________________
+        7
+        Id. See Tier 3 Certification Fuel Impacts Test Program, EPA-420-R-18-004 (Jan.
+2018) (“Test Program Report”).
+        8
+          85 Fed. Reg. at 28,575. EPA excluded data from the eleventh vehicle because the
+Agency concluded it “showed an unexpected level of fuel economy sensitivity to the test
+fuel’s octane rating.” 85 Fed. Reg. at 28,572. See infra part III.C.
+        9
+         See, e.g., Comments of All. for Auto. Innovation, EPA-HQ-OAR-2016-0604-0087
+(Aug. 14, 2020) (“Alliance Comments”); Biofuels Coal. Comments.
+        10
+       All. Comments at 27–31, 39–42; Biofuels Coal. Comments at 32–34; Brian West
+Comments, EPA-HQ-OAR-2016-0604-0078 (Aug. 13, 2020).
+
+
+
+
+                                           5
+Case: 24-60209          Document: 113-1           Page: 6      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+        Following the comment period, EPA did nothing for years, then in
+2023 it revived the 0.81 Ra proposal as part of a much broader Clean Air Act
+rulemaking. 11 EPA proposed adopting “an ‘R-factor’ of 0.81” as “described
+in the 2020 proposal.” 88 Fed. Reg. at 29,241. It explained that it “will be
+reevaluating comments received on the 2020 proposal as well as the com-
+ments for this proposal.” Id. In response, commenters renewed their object-
+tions to the Ra value. 12
+        EPA finalized the 0.81 Ra factor in 2024 “based on the technical anal-
+ysis provided in the 2020 [proposal].” 89 Fed. Reg. at 27,912. The final Ra
+Rule requires manufacturers to certify fuel economy using E10 test fuel
+beginning in MY 2027, but it allows carryover of E0 test results for certain
+MY 2027–2029 vehicles. Id. at 27,911–12. Importantly, the Agency devoted
+a mere two paragraphs to responding to the extensive comments on the Ra
+value. See EPA Response to Comments at 1278, EPA-HQ-OAR-2022-0829-
+5743.
+        The petitioners are several agricultural organizations and a trade
+organization representing various segments of the gasoline fuel supply chain.
+Their members are harmed when demand for gasoline decreases. The peti-
+tioners challenge the portion of the Rule that sets and implements the Ra of
+0.81. They contend that that Ra is too low, such that it artificially increases
+the stringency of fuel economy standards. In response to an increase in fuel
+economy standards, manufacturers build and sell vehicles that consume less
+
+        _____________________
+        11
+        Multi-Pollutant Emissions Standards for Model Years 2027 & Later Light-Duty
+& Medium-Duty Vehicles, 88 Fed. Reg. 29,184 (May 5, 2023) (NPRM).
+        12
+          Comments of All. for Auto. Innovation, EPA-HQ-OAR-2022-0829-0701 (July 5,
+2023); Comments of Clean Fuels Dev. Coal., EPA-HQ-OAR-2022-0829-0712 (July 5,
+2023). The “Clean Fuels Development Coalition” is composed of many of the same
+organizations in the Biofuels Coalition. Compare id. at 1 with Biofuels Coal. Comments at 1.
+
+
+
+
+                                             6
+Case: 24-60209           Document: 113-1           Page: 7      Date Filed: 06/24/2025
+
+
+
+
+                                       No. 24-60209
+
+
+fuel, which depresses gasoline demand. Pointing to the analysis in the com-
+ments, the petitioners allege that EPA’s Rule flunks the APA because it is
+unreasonable and unreasonably explained.
+        We have jurisdiction to review the Ra Rule under 49 U.S.C.
+§§ 32909(a)(1) and 32904(c).
+
+                                             II.
+        A petitioner has associational standing “when (1) individual members
+would have standing, (2) the association seeks to vindicate interests germane
+to its purpose, and (3) neither the claim asserted nor the relief requested
+requires the individual members’ participation.” 13
+        The petitioners easily satisfy the second and third requirements. The
+mission of each group is to represent the economic and legal interests of their
+members. And participation of the individual members is unnecessary here
+because the APA claim does not require individualized proof and petitioners
+seek only declaratory and equitable relief. 14
+        With the second and third associational-standing requirements met,
+we must determine whether the petitioners’ individual members would have
+standing. For an individual member, “the irreducible constitutional mini-
+mum of standing contains three elements.” Lujan v. Defs. of Wildlife,
+504 U.S. 555, 560 (1992). It “must show (i) that [it] suffered an injury in fact
+that is concrete, particularized, and actual or imminent; (ii) that the injury
+
+        _____________________
+        13
+           Students for Fair Admissions, Inc. v. Univ. of Tex. at Austin, 37 F.4th 1078, 1084
+(5th Cir. 2022) (footnote omitted).
+        14
+            See Hunt v. Wash. State Apple Advert. Comm’n, 432 U.S. 333, 344 (1977) (holding
+that a “request for declaratory and injunctive relief” is “properly resolved in a group con-
+text” when “individualized proof” is not required); see also Ass’n of Am. Physicians & Sur-
+geons, Inc. v. Tex. Med. Bd., 627 F.3d 547, 552–53 (5th Cir. 2010).
+
+
+
+
+                                             7
+Case: 24-60209           Document: 113-1           Page: 8       Date Filed: 06/24/2025
+
+
+
+
+                                        No. 24-60209
+
+
+was likely caused by the defendant; and (iii) that the injury would likely be
+redressed by judicial relief.” TransUnion LLC v. Ramirez, 594 U.S. 413, 423
+(2021).
+        Individual member standing turns on whether the alleged error in the
+EPA’s Ra factor is substantially likely to cause a decrease in domestic
+demand for automobile gasoline. 15 The petitioners are trade and agricultural
+organizations whose members span the gasoline fuel supply chain.
+        For members that sell gasoline or gasoline inputs, the standing analy-
+sis is straightforward: Their revenue is directly tied to gasoline sales, so if the
+Rule decreases demand for gas, the members experience a classic economic
+injury that is caused by the Rule and redressable by vacatur. The petitioners
+have established standing because the purpose of the CAFE standards is to
+reduce gasoline fuel consumption, so an increase in CAFE stringency pre-
+dictably harms the petitioners’ members by reducing demand for their
+products.
+
+                                              A.
+        We first address whether the petitioners have shown an imminent
+injury-in-fact to their members. The petitioners allege that the EPA’s Ra
+value of 0.81 is too low and that the true Ra factor is at or near 1.0. “We
+assume, for purposes of the standing analysis, that [the petitioners are]
+correct on the merits of [their] claim that the [Rule] was promulgated in
+violation of the APA.” Texas v. EEOC, 933 F.3d 433, 447 (5th Cir. 2019). If
+the real-world Ra is 1.0, then the EPA’s adjustment factor underestimates
+
+        _____________________
+        15
+           See Dep’t of Com. v. New York, 588 U.S. 752, 767 (2019) (quoting Susan B.
+Anthony List v. Driehaus, 573 U.S. 149, 158 (2014)) (“[F]uture injuries . . . ‘may suffice if
+the threatened injury is certainly impending, or there is a substantial risk that the harm will
+occur.’”).
+
+
+
+
+                                              8
+Case: 24-60209          Document: 113-1          Page: 9      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+vehicle fuel economy, artificially increasing the stringency of the CAFE
+standards. The stringency difference between EPA’s Ra and the petitioners’
+alleged Ra is around 0.52%. See Third Dunham Decl. ¶¶ 22–24. The predict-
+able response of automobile manufacturers will be to raise the average fuel
+economy of their vehicles to meet that increased stringency. A more fuel-
+efficient domestic vehicle fleet produces less demand for gasoline because
+drivers can travel the same distance with fewer gallons of gasoline. That
+injures petitioners’ members because their businesses depend on gasoline
+sales.
+         “[A]n economic injury is the ‘quintessential injury upon which to base
+standing.’” 16 “The injury need not be actualized; a threatened injury suf-
+fices if it is ‘real, immediate, and direct.’ A high risk of economic injury is
+sufficiently real, immediate, and direct.” Tex. Ass’n of Mfrs. v. Consumer
+Prod. Safety Comm’n, 989 F.3d 368, 377 (5th Cir. 2021) (citations omitted).
+“The Supreme Court routinely recognizes probable economic injury result-
+ing from governmental actions that alter competitive conditions.” Id. (citing
+Clinton v. City of New York, 524 U.S. 417, 433 (1998)). And even “[a] dollar
+of economic harm is still an injury-in-fact for standing purposes.” Carpenters
+Indus. Council v. Zinke, 854 F.3d 1, 5 (D.C. Cir. 2017) (Kavanaugh, J.). The
+injury “need not measure more than an identifiable trifle” because “the
+injury in fact requirement under Article III is qualitative, not quantitative, in
+nature.” 17
+         The petitioners assert that the “predictable effect of Government
+action on the decisions of third parties”—automakers—will increase the fuel
+         _____________________
+         16
+          Young Conservatives of Tex. Found. v. Smatresk, 73 F.4th 304, 309 (5th Cir. 2023)
+(quoting Tex. Democratic Party v. Benkiser, 459 F.3d 582, 586 (5th Cir. 2006)).
+         17
+          Id. at 309 (quotation omitted); Ass’n of Cmty. Orgs. For Reform Now v. Fowler,
+178 F.3d 350, 357–58 (5th Cir. 1999).
+
+
+
+
+                                            9
+Case: 24-60209          Document: 113-1           Page: 10      Date Filed: 06/24/2025
+
+
+
+
+                                       No. 24-60209
+
+
+efficiency of the domestic automobile fleet, thus decreasing demand for gaso-
+line. Dep’t of Com., 588 U.S. at 768. And that injury is sufficiently imminent
+because basic economic incentives show that there is a “substantial risk” of
+the predicted harm. 18
+        The EPA counters that automakers might respond to the inflated
+CAFE stringency in four different ways—not all of which decrease gasoline
+demand. Thus, EPA contends, the petitioners’ alleged injury is too specu-
+lative to support Article III standing. But EPA misses the forest for the trees.
+Indeed, reducing fuel demand is the core purpose of the CAFE standards. As
+NHTSA explained in its latest CAFE rulemaking, the current standards are
+estimated to “reduce gasoline consumption by 64 billion gallons relative to
+reference baseline levels for passenger cars and light trucks . . . through cal-
+endar year 2050.” 19         If EPA additionally increases CAFE stringency
+through the backdoor, then gasoline consumption will predictably fall even
+further.
+        First, EPA acknowledges that a manufacturer might change the tech-
+nology in their vehicles to improve their fuel economy. That, of course,
+would decrease fuel consumption and cause precisely the injury that peti-
+tioners allege.
+        Second, EPA posits that “the cost of implementing new, fuel-saving
+technologies could be comparable to a penalty,” so manufacturers might pay
+        _____________________
+        18
+          Clapper v. Amnesty Int’l USA, 568 U.S. 398, 414 n.5 (2013); see also Dep’t of Com.,
+588 U.S. at 767 (quoting Susan B. Anthony List, 573 U.S. at 158) (“[F]uture injuries . . .
+‘may suffice if the threatened injury is certainly impending, or there is a substantial risk
+that the harm will occur.’”).
+        19
+        Corporate Average Fuel Economy Standards for Passenger Cars & Light Trucks
+for Model Years 2027 & Beyond & Fuel Efficiency Standards for Heavy-Duty Pickup
+Trucks & Vans for Model Years 2030 & Beyond, 89 Fed. Reg. 52,540, 52,545 (June 24,
+2024).
+
+
+
+
+                                             10
+Case: 24-60209         Document: 113-1           Page: 11      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+the CAFE civil penalty instead of fixing any shortfall in mpg. That theory
+doesn’t destroy standing, either. A monetary penalty increases costs to the
+manufacturer, which puts upward pressure on vehicle sales prices. At higher
+prices, consumers are expected to purchase and drive fewer cars, which
+means that demand for gasoline decreases.
+        Third, EPA suggests that a manufacturer could use (or buy) CAFE
+credits to cover the artificial fuel economy shortfall. But the effect here is the
+same as the monetary penalty. If the Rule depletes more of the manufac-
+turer’s credits, that leaves it with fewer credits to use or sell. That effectively
+raises the manufacturer’s expenses, which in turn increases the price of cars.
+Higher prices result in a lower quantity of cars demanded, and fewer cars
+mean less demand for gasoline.
+        Finally, EPA theorizes that “automakers may lower their standard by
+changing their fleet compositions to favor larger, less fuel-efficient vehicles.”
+That notion is more complex, and the analysis requires additional back-
+ground on how CAFE compliance works and how the alleged Ra error
+increases stringency. In sum: Although manufacturers could respond to the
+alleged Ra error by increasing their average vehicle size, there is a “substantial
+risk” that any such incentive will be outweighed by other factors and that the
+Rule will thus depress gasoline demand. Dep’t of Com., 588 U.S. at 767.
+        Each vehicle has an individual CAFE “target” mpg based on its
+“footprint,” which is roughly the size of the rectangular area enclosed by the
+wheels. 89 Fed. Reg. at 52,547–48. CAFE compliance standards are based
+on fleetwide averages, with compliance measured at the fleetwide level. 20
+        _____________________
+        20
+         There are separate standards for passenger car fleets and light-duty truck fleets.
+49 U.S.C. § 32902(b)(1)–(3); 89 Fed. Reg. at 52,582. The CAFE system also bifurcates
+compliance assessments for domestic and imported passenger car fleets. 49 U.S.C.
+§ 32904(b); 89 Fed. Reg. at 52,582.
+
+
+
+
+                                            11
+Case: 24-60209       Document: 113-1         Page: 12    Date Filed: 06/24/2025
+
+
+
+
+                                  No. 24-60209
+
+
+The CAFE standard for a given automaker equals the harmonic average of
+all the individual CAFE targets for the vehicles in its fleet. 89 Fed. Reg.
+at 52,587. As long as the harmonic average of all its vehicles meets the
+required fleetwide average, a manufacturer can comply with its CAFE re-
+quirement by producing some vehicles that exceed their individual targets
+and some that fall short.
+       The alleged Ra error artificially increases the fuel economy standard
+by a percentage of mpg, so it increases stringency at a greater rate for high-
+efficiency fleets relative to low-efficiency fleets. Meanwhile, the penalties for
+CAFE shortfalls are measured in absolute terms—$17 per vehicle per
+0.1 mpg shortfall. 89 Fed. Reg. at 52,920–21. Thus, a relatively greater pen-
+alty at the high-efficiency end of the spectrum could induce manufacturers to
+shift toward lower-efficiency fleet mixes.
+       The petitioners assert that such a response is unlikely because the
+footprint-based target curves are carefully calibrated to eliminate the incen-
+tive to enlarge vehicles in response to CAFE standards. They cite EPA and
+NHTSA’s assessment that “the shape of the footprint curves themselves is
+approximately ‘footprint-neutral,’ that is, that it should neither encourage
+manufacturers to increase the footprint of their fleets, nor to decrease it.” 21
+       The petitioners’ logic, however, omits the fact that the alleged Ra
+error changes the shape of the footprint curves by disproportionately increas-
+ing stringency at the low-efficiency end of the curves. Thus, if the slopes of
+the curves were footprint-neutral, then the Ra-induced change to those slopes
+means neutrality has been lost. The new footprint curves would be (margin-
+ally) biased toward low-efficiency fleet mixes.
+
+       _____________________
+       21
+          EPA, NHTSA, & Cal. Air Res. Bd., EPA-420-D-16-900, Joint Draft Technical
+Assessment Report 8-2 (July 2016).
+
+
+
+
+                                       12
+Case: 24-60209         Document: 113-1          Page: 13      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+        If manufacturers respond to the Rule by switching to lower-efficiency
+fleet mixes even marginally, then demand for gasoline could theoretically
+increase—to the benefit of petitioners.
+        In the final analysis, however, that armchair economic speculation
+cannot survive a rendezvous with reality. Economic logic and common sense
+create a “substantial risk” that any fleet-alteration bias will be outweighed by
+other incentives that result in reduced gasoline consumption. See Dep’t of
+Com., 588 U.S. at 767; Tex. Ass’n of Mfrs., 989 F.3d at 377.
+        First, manufacturers consider many factors when determining their
+fleet mix. Consumer preferences and other regulatory factors are obvious
+examples. 22 Such marginal changes to the shape of the footprint curves are
+hardly likely to result in systematic fleet-mix adjustments. The most plausi-
+ble response to the increased CAFE standards is for automakers to increase
+fuel economy—or to absorb a higher cost of production through the assess-
+ment of CAFE fines or the depletion of CAFE credits. Each of those
+responses creates precisely the harm that petitioners allege: less demand for
+gasoline.
+        The theoretical possibility that all three of those responses would be
+outweighed by a marginal change to the footprint curve is unlikely. That is
+especially so because an erroneous Ra factor still increases the CAFE strin-
+gency for every fleet mix, even if the increase is unevenly distributed.
+        Second, even if some manufacturers respond by altering their fleet
+
+        _____________________
+        22
+            EPA notes that automakers are selling “more larger trucks and fewer smaller
+cars than they were 10 years ago” (quoting 89 Fed. Reg. at 52,590). But the passage EPA
+cites does not attribute that market phenomenon to CAFE incentives (as distinguished
+from some other factor or factors). 89 Fed. Reg. at 52,590–91. Further, that same rule-
+making attributed recent increases in passenger vehicle size to shifts in consumer demand.
+Id. at 52,782.
+
+
+
+
+                                           13
+Case: 24-60209       Document: 113-1        Page: 14    Date Filed: 06/24/2025
+
+
+
+
+                                  No. 24-60209
+
+
+mixes, vehicle prices will rise because larger cars cost more to produce than
+smaller ones. Ceteris paribus, price increases reduce quantity demanded.
+Thus, fewer vehicles would be sold, which would at least partially offset any
+increase in per-vehicle fuel consumption.
+       Finally, the Ra error affects more than just CAFE stringency: It arti-
+ficially raises the “gas guzzler” tax. Federal law imposes a tax on the sale of
+automobiles with a fuel economy below 22.5 mpg. 26 U.S.C. § 4064(a). The
+tax rates increase in one-mile-per-gallon brackets, and they range from
+$1,000 to $7,700. Id. The Rule’s Ra factor allegedly underestimates actual
+fuel economy, so it will increase the tax burden. The higher tax will discour-
+age production of gas guzzlers, so less gas will be consumed. And even if
+manufacturers opt to absorb the tax instead of shifting production, that raises
+their effective cost of production. That creates upward pressure on sales
+prices, which means fewer gas guzzlers sold and thus less gas demanded.
+       EPA observes that only a small fraction of new vehicles are subject to
+the gas guzzler tax and that even fewer vehicles lie on the “edge” of a tax
+bracket. But just because an effect is small does not erase the injury for stand-
+ing purposes. “[T]o confer standing, such injury need not measure more
+than an identifiable trifle.” Young Conservatives of Tex. Found., 73 F.4th
+at 309 (quotation omitted).
+       The commonsense economic logic and record evidence that we have
+catalogued sufficiently demonstrates that petitioners’ members are harmed
+by the Ra Rule, but we also note that the petitioners have adduced even more
+evidence in support of standing. First, the petitioners submitted a declara-
+tion by Taylor Myers, Ph.D, a mechanical engineer who ran NHTSA’s
+CAFE Model to simulate the effects of the alleged change in CAFE strin-
+gency caused by the Ra Rule. See Myers Decl. The results of that simulation
+indicated that the petitioners’ alleged error in CAFE stringency decreases
+
+
+
+
+                                       14
+Case: 24-60209      Document: 113-1        Page: 15    Date Filed: 06/24/2025
+
+
+
+
+                                 No. 24-60209
+
+
+demand for gasoline. Myers Decl. ¶¶ 9–13. Second, the petitioners and their
+members submitted declarations demonstrating how a reduction in demand
+for gasoline decreases their profitability. See Gibson Decl.; Hardin Decl.;
+Cleveland Decl.; Lust Decl.; and Fischer Decl. That evidence further
+supports our conclusion that the alleged Ra error injures the petitioners’
+members.
+       In summary, the whole point of the CAFE standards and the gas guzz-
+ler tax is to reduce gasoline consumption. Increasing the stringency of those
+standards is substantially likely to do just that. The petitioners’ members
+would be harmed by reduced gasoline consumption, so they have an injury
+cognizable by Article III.
+
+                                      B.
+       “Causation and redressability . . . flow naturally from the injury.”
+Contender Farms, L.L.P. v. Dep’t of Agric., 779 F.3d 258, 266 (5th Cir. 2015).
+As the injury-in-fact analysis demonstrates, causation is satisfied because the
+petitioners “have met their burden of showing that third parties”—the
+automakers—“will likely react in predictable ways to the [Ra Rule]” that will
+decrease demand for gasoline. Dep’t of Com., 588 U.S. at 768. “Because
+Article III requires no more than de facto causality, traceability is satisfied
+here.” Id. (cleaned up).
+       In Diamond Alternative Energy, LLC v. EPA, the Supreme Court held
+that fuel producers had standing to challenge EPA’s approval of California
+regulations requiring automakers to produce more electric vehicles and fewer
+gasoline-powered vehicles. --- S. Ct. ----, 2025 WL 1716141 (2025). EPA did
+not “meaningfully dispute[] injury in fact or causation,” but it “argue[d] that
+the fuel producers did not establish redressability.” Id. at *7.
+       First, the Supreme Court explained that injury and causation were
+“straightforward” and easily satisfied. Id. at *8. Fuel producers “make
+
+
+
+                                      15
+Case: 24-60209         Document: 113-1           Page: 16      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+money by selling fuel,” so a “decrease in purchases of gasoline and other
+liquid fuels . . . hurts their bottom line.” Id. “As for causation, . . . [t]he
+regulations likely cause fuel producers’ monetary injuries because the
+regulations likely cause a decrease in purchases of gasoline . . . . Indeed, that
+is the whole point of the regulations.” Id. So too here. The alleged
+Ra-induced increase in CAFE stringency will likely cause manufacturers to
+produce cars that use less gasoline. That will reduce demand for the gasoline
+(and gasoline inputs) that petitioners’ members produce and sell. “Indeed,
+that is the whole point of the [CAFE] regulations.” Id.
+        Nor is that causal link too attenuated from EPA’s action. 23 Like
+Diamond Alternative Energy, “[t]his case presents what the Court has
+described as the ‘familiar’ circumstance where government regulation of a
+business ‘may be likely’ to cause injuries to other linked businesses.” Id. at
+*9 (quoting Alliance, 602 U.S. at 384). Causation may be satisfied “when the
+government regulates . . . a business” and that regulation “cause[s] down-
+stream or upstream economic injuries to others in the chain, such as certain
+manufacturers, retailers, suppliers, competitors, or customers.” Alliance,
+602 U.S. at 384. Many (if not all) of the petitioners’ members are very close
+to the automakers in the chain of commerce. Many of them sell gasoline
+directly. There is a tight link between the gasoline sellers and a regulation
+that directly affects gasoline demand. 24
+
+        _____________________
+        23
+          See FDA v. All. for Hippocratic Med., 602 U.S. 367, 383 (2024) (“The causation
+requirement also rules out attenuated links—that is, where the government action is [too]
+far removed from its distant (even if predictable) ripple effects[.]”).
+        24
+          Some of petitioners’ members are further downstream in the causal chain, such
+as equipment suppliers that support the gasoline sellers. We need not decide whether all
+of the members would have individual standing, however, because only one member must
+have standing to sue. United Food & Com. Workers Union Loc. 751 v. Brown Grp., Inc.,
+517 U.S. 544, 554 (1996). Petitioners have identified gasoline-selling members that have
+standing. See Fischer Decl. (identifying a gasoline wholesaler, Midtex Oil, LP, and a gaso-
+
+
+
+
+                                            16
+Case: 24-60209         Document: 113-1            Page: 17   Date Filed: 06/24/2025
+
+
+
+
+                                     No. 24-60209
+
+
+        Next, Diamond Alternative Energy held that the fuel producers satis-
+fied redressability because “invalidating the California regulations would
+likely redress at least some of the fuel producers’ monetary injuries,” and
+“[e]ven one dollar of additional revenue for the fuel producers would satisfy
+the redressability component of Article III standing.” --- S. Ct. ----, 2025 WL
+1716141, at *8 (quotation omitted) (citing Uzuegbunam v. Preczewski, 592 U.S.
+279 (2021)).
+        The Court evaluated “commonsense economic realities” and “rec-
+ord evidence” to conclude that invalidating a regulation aimed at reducing
+the number of gasoline vehicles would likely ameliorate at least some of the
+harm to fuel producers. Id. at *9–11. “[I]t may not be certain, but it is at least
+‘predictable’ that invalidating the California regulations would likely result
+in the fuel producers ultimately selling more gasoline and other liquid fuels.”
+Id. at *13. This case is analogous: commonsense economic realities and the
+record evidence demonstrate a substantial likelihood that vacatur of the Ra
+Rule would reduce the allegedly-inflated CAFE stringency, causing auto-
+makers to build less fuel-efficient vehicles and thereby ameliorating the
+reduction in gasoline demand that harms the petitioners’ members.
+                                     * * * * *
+        The petitioners’ members are allegedly injured by a Rule that
+depresses demand for their products. The reduction in gasoline demand is
+directly traceable to EPA’s Ra Rule, and vacatur of the Rule would redress
+that harm. The individual members thus have standing. And the petitioners
+have associational standing. See Students for Fair Admissions, 37 F.4th
+at 1084.
+
+
+        _____________________
+line retailer, Juniper Ventures of Texas, LLC).
+
+
+
+
+                                           17
+Case: 24-60209        Document: 113-1           Page: 18    Date Filed: 06/24/2025
+
+
+
+
+                                    No. 24-60209
+
+
+                                         III.
+       The APA requires us to “hold unlawful and set aside agency action”
+that is “arbitrary, capricious, an abuse of discretion, or otherwise not in
+accordance with law.” 5 U.S.C. § 706(2). “Arbitrary and capricious review
+focuses on whether an agency articulated a rational connection between the
+facts found and the decision made.” ExxonMobil Pipeline Co. v. Dep’t of
+Transp., 867 F.3d 564, 571 (5th Cir. 2017) (quotation omitted). “In reviewing
+that explanation, we must consider whether the decision was based on a con-
+sideration of the relevant factors and whether there has been a clear error of
+judgment.” 25 An agency fails to “consider the relevant factors” when it does
+not address comments raising “points which, if true and which, if adopted,
+would require a change in an agency’s proposed rule.” 26
+       EPA’s 2024 Ra Rule succinctly stated that the Agency “is finalizing
+an R-Factor of 0.81 based on the technical analysis provided in the 2020 . . .
+NPRM.” 89 Fed. Reg. at 27,912. The Rule briefly acknowledged comments
+asserting that the Ra factor was too low, and it referred to “section 6.3 of the
+[Response to Comments] for a more detailed discussion of [these] com-
+ments.” 89 Fed. Reg. at 27,912–13. Those two paragraphs comprise the
+entirety of that “more detailed discussion”:
+       [W]e are retaining the updated Ra-factor of 0.81 to represent
+       equivalent fuel economy performance within the CAFE pro-
+       gram. This factor was generated from a study carefully de-
+       signed and rigorously conducted at EPA’s lab. The decision
+       to include data from the 2013 Malibu was based on its perform-
+
+       _____________________
+       25
+          Texas v. EPA, 983 F.3d 826, 835 (5th Cir. 2020) (quoting Motor Vehicle Mfrs.
+Ass’n of U.S. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)).
+       26
+          Mexican Gulf Fishing Co. v. Dep’t of Com., 60 F.4th 956, 971 (5th Cir. 2023)
+(cleaned up).
+
+
+
+
+                                         18
+Case: 24-60209       Document: 113-1         Page: 19     Date Filed: 06/24/2025
+
+
+
+
+                                   No. 24-60209
+
+
+       ance being within the expected range.
+       In addition, we want to clarify that R-factor values in the liter-
+       ature (e.g., in Sluder, et al.) are generally intended to isolate the
+       actual sensitivity of fuel economy to fuel energy content, while
+       the Ra factor here rolls up multiple impacts related to this spe-
+       cific pair of test fuels that include the energy content differ-
+       ence, additional charge cooling due to ethanol’s heat of vapori-
+       zation, and potentially some marginal impacts of the octane
+       change. Thus, we wouldn’t expect this Ra value to precisely
+       match other R-factors found in the literature.
+EPA Response to Comments at 1278.
+       The petitioners contend that EPA’s Ra factor of 0.81 is arbitrary for
+four reasons. First, that EPA ignored comments alleging fatal flaws in the
+Test Program’s small, eleven-vehicle sample size. Second, that the Agency
+did not address comments raising significant flaws in the kinds of vehicles
+tested. Third, that it brushed off comments that it improperly included data
+from a malfunctioning test vehicle and excluded data from a properly func-
+tioning test vehicle. Finally, that it arbitrarily rejected alternative data that it
+had requested from commenters. As a result of those several failures, peti-
+tioners aver the Ra factor is far too low and does not yield “comparable” fuel
+economy results as required by law. 49 U.S.C. § 32904(c).
+       In answer to the petitioners, EPA stops just short of admitting defeat
+on the merits: “Although [the Agency’s] explanations provide a sufficient
+basis for the Court to reasonably discern how and why EPA set the Ra Factor
+at 0.81, the Agency acknowledges that it did not fully respond to specific
+comments on the proposal.”
+       But that half-hearted defense is lipstick on a pig. The administrative
+record is replete with comments containing detailed, rigorous analyses that
+undermine EPA’s Ra Rule. The Agency failed entirely to respond to several
+
+
+
+
+                                        19
+Case: 24-60209       Document: 113-1         Page: 20    Date Filed: 06/24/2025
+
+
+
+
+                                   No. 24-60209
+
+
+significant points in comments which, if true, would have necessitated a
+change in course. Mexican Gulf Fishing, 60 F.4th at 971. EPA thus flunked
+the APA because it did not demonstrate that its decision was “the product
+of reasoned decisionmaking.” State Farm, 463 U.S. at 52.
+
+             A. The Number of Vehicles in EPA’s Test Program
+       The petitioners contend that the number of vehicles EPA tested is
+woefully insufficient to establish an accurate fleetwide Ra factor—and the
+Agency offered no response to comments that raised the issue. The peti-
+tioners are correct. The EPA thus violated the APA’s “require[ment] that
+agency action be reasonable and reasonably explained.” FCC v. Prometheus
+Radio Project, 592 U.S. 414, 423 (2021).
+       EPA’s Test Program gathered data from a mere eleven vehicles, and
+it included data from only ten of them to calculate its Ra factor. See generally
+Test Program Report. Commenters pointed to “two primary sources of un-
+certainty” in determining a fleetwide Ra value: “variability in the measure-
+ment of Ra on any individual vehicle” (within-vehicle variability) and “varia-
+bility in the actual Ra across different vehicles” (between-vehicle variability).
+Biofuels Coal. Comments at 26.
+       In the 2020 NPRM, EPA described in detail how it reduced within-
+vehicle variability. But commenters warned that the Test Program’s vehicle
+sample size was far too small to account for between-vehicle variability.
+       Individual Ra values varied widely among the vehicles EPA tested. 27
+Among the ten vehicles EPA included in its final calculations, Ra ranged from
+
+
+       _____________________
+       27
+         The EPA did not present individual vehicle Ra calculations, but commenters
+computed them from EPA’s data. See Biofuels Coal. Comments at 27, Exhibit L; All.
+Comments at 39.
+
+
+
+
+                                        20
+Case: 24-60209          Document: 113-1            Page: 21       Date Filed: 06/24/2025
+
+
+
+
+                                        No. 24-60209
+
+
+0.44 to 1.05. 28
+
+
+
+
+Commenters submitted detailed analyses urging that a fleetwide Ra deter-
+mination required tests on far more vehicles than the Test Program assessed.
+They also noted that EPA had previously concluded that an R-factor deter-
+mination would require testing of at least 75 to 100 vehicles. See EPA Guid-
+ance Letter CD-95-09 (June 1, 1995).
+        One commenter performed a statistical analysis on the Test Pro-
+gram’s Ra values, which revealed an “unacceptably large” “level of uncer-
+tainty.” Biofuels Coal. Comments at 27. The results indicated that “EPA
+can only state, with 95% confidence, that an accurate fleet-wide Ra factor falls
+somewhere between 0.42 and 1.20.” Id. The result “conclusively estab-
+lishes,” according to the commenter, that the EPA needed to test more vehi-
+cles to achieve a “sufficient level of statistical certainty.” Id. And it “cor-
+roborates” the Agency’s previous guidance that far more vehicles would
+
+        _____________________
+        28
+          The petitioners compiled this chart of the individual Ra factors as computed by
+the Biofuels Coalition. See Biofuels Coal. Comments Exhibit L. EPA excluded the elev-
+enth vehicle, the Acura, from its Ra calculation. 85 Fed. Reg. at 28,572; see infra part III.C.
+
+
+
+
+                                              21
+Case: 24-60209         Document: 113-1      Page: 22    Date Filed: 06/24/2025
+
+
+
+
+                                  No. 24-60209
+
+
+need to be tested. Id. (citing EPA Guidance Letter CD-95-09 at 3).
+       With such high vehicle-to-vehicle variance in the sensitivity factor,
+“[t]he choice of a slightly different vehicle mix could have resulted in a sig-
+nificantly different ‘average’ R value.” All. Comments at 40. Petitioners
+contend that the heterogeneity of the data shows that a much larger sample
+size was needed. “If the material being sampled is heterogeneous, random
+error will be large; a larger sample will be needed to offset the heterogeneity.”
+Fed. Jud. Ctr., Reference Manual on Scientific Evidence
+246 (3d ed. 2011). EPA tested too few vehicles to determine an accurate Ra
+value for the fleet.
+       The petitioners aver that EPA flunked the APA because it failed to
+respond to these “detailed criticisms” raised in the comments. EPA
+asserted generically that its Ra factor “was generated from a study carefully
+designed and rigorously conducted at EPA’s lab.” EPA Response to Com-
+ments at 1278. Faced with these extensive critiques about sample size, the
+Agency did not respond at all. The Agency thus violated the APA because
+those comments “raised points which, if true and which, if adopted, would
+require a change in [EPA’s] proposed rule.” Mexican Gulf Fishing, 60 F.4th
+at 971 (cleaned up).
+       In its brief, EPA cannot point to any response to comments (because
+there is none). Instead, EPA, citing the 2020 NPRM, says “[f]uel effects
+on . . . fuel economy relate primarily to combustion characteristics of the
+engine, rather than to vehicle characteristics.” 85 Fed. Reg. at 28,568. Thus,
+EPA says, it chose eleven vehicles with “a variety of engine technologies”
+that the Agency thought were representative of the future fleet.
+       That argument completely misses the commenters’ point. EPA im-
+plies that vehicle differences are a non-issue because fuel economy depends
+on engine technology.      But engine-to-engine variability is, of course, a
+
+
+
+
+                                       22
+Case: 24-60209        Document: 113-1          Page: 23     Date Filed: 06/24/2025
+
+
+
+
+                                    No. 24-60209
+
+
+component of vehicle-to-vehicle variability, rendering EPA’s response
+unresponsive.
+       EPA also cites the 2020 NPRM to show that it was focused on mini-
+mizing test-to-test variability. That’s a non-answer. It is wholly unrespon-
+sive to commenters’ concerns about vehicle-to-vehicle variability, the other
+primary source of uncertainty.
+       EPA’s failure to respond to significant comments dooms its Rule
+under the APA. “Under the arbitrary-and-capricious standard, the [EPA]
+must show that it has ‘reasonably considered the relevant issues and reason-
+ably explained the decision.’” 29 The APA requires an agency to consider all
+“relevant factors.” 30 That means that it “must respond” to comments “that
+can be thought to challenge a fundamental premise underlying the proposed
+agency decision or include points that if true and adopted would require a
+change in an agency’s proposed rule.”               Chamber I, 85 F.4th at 774
+(cleaned up).
+       EPA offered zero response to extensive comments about the Test Pro-
+gram’s insufficient sample size. That is fatal to the Rule because those com-
+ments, “if true and adopted,” would require a change to the Rule. See Mexi-
+can Gulf Fishing, 60 F.4th at 971 (cleaned up). For the sake of being thorough,
+however, we address the rest of the petitioners’ arguments.
+
+                B. The Kinds of Vehicles in EPA’s Test Program
+       The petitioners assert that EPA selected the wrong vehicles for its
+Test Program and did not respond to comments raising that issue. As it did
+       _____________________
+       29
+          Chamber of Com. v. SEC, 85 F.4th 760, 774 (5th Cir. 2023) (“Chamber I”)
+(quoting Prometheus Radio Project, 592 U.S. at 423).
+       30
+          State Farm, 463 U.S. at 43; Huawei Techs. USA, Inc. v. FCC, 2 F.4th 421, 434,
+449 (5th Cir. 2021).
+
+
+
+
+                                          23
+Case: 24-60209         Document: 113-1          Page: 24      Date Filed: 06/24/2025
+
+
+
+
+                                     No. 24-60209
+
+
+with the sample-size critiques, EPA failed to respond to extensive comments
+raising potential significant flaws in the Rule. The EPA thus acted arbitrarily
+and capriciously in violation of the APA.
+        In the 2020 NPRM, EPA emphasized that “it was critical that the
+agency select vehicles equipped with technologies that represent how the
+fleet will look in the future.” 85 Fed. Reg. at 28,568. The Agency “con-
+cluded that it was important to cover a wide range of engine configurations
+and cylinder displacements, and related technologies,” and it “also included
+newer transmission technologies to reveal any potential effects beyond the
+engine.” Id. EPA specifically “request[ed] comment on [its] decision to
+focus [its] test vehicle selection . . . on vehicles with certain engine and
+powertrain technologies, and on the specific technologies [it] selected.” Id.
+at 28,570.
+        Commenters took EPA up on that request and explained that the Test
+Program did not include vehicles of the “future”—even by MY 2020
+standards. EPA’s test vehicles all ranged from MY 2013 to MY 2016. Test
+Program Report at 7. Commenters pointed out that “the EPA program
+chose vehicles that are so out of date that three out of four General Motors
+engines represented in the test program are no longer in production, having
+been replaced by more efficient engines.” 31 “Engine technology continues
+to advance, and testing done on vehicles that [were already] five to eight years
+old [in 2020] cannot be considered representative of the vehicles that will be
+on the road in the future.” All. Comments at 31.
+        The petitioners point to additional vehicle technologies that were
+
+        _____________________
+        31
+          All. Comments at 32. See also Biofuels Coal. Comments at 24, 32 (observing that
+three high-displacement, lower-efficiency engines used in the Test Program “are not even
+offered for the 2020 model year vehicles”).
+
+
+
+
+                                           24
+Case: 24-60209        Document: 113-1          Page: 25     Date Filed: 06/24/2025
+
+
+
+
+                                    No. 24-60209
+
+
+underrepresented in EPA’s Test Program: 32
+
+
+
+
+Again, EPA’s defense falls far short. The Agency cannot point to any re-
+sponse to these serious, detailed comments—because it gave none. Instead,
+EPA refers this court to the 2020 NPRM, which explained that EPA
+selected vehicles with technologies that the Agency was “reasonably certain
+. . . will dominate the light-duty fleet in coming years.” 85 Fed. Reg.
+at 28,568. But commenters pointed to data demonstrating that the EPA got
+that prediction wrong. EPA was apprised in 2020—nearly four years before
+its   final   Rule—that      its   vehicle     technology     was    outdated     and
+unrepresentative.
+        Those are precisely the kind of comments “which, if true and which,
+if adopted, would require a change in [EPA’s] proposed rule.” Mexican Gulf
+Fishing, 60 F.4th at 971 (cleaned up). “[T]he requirement for an agency to
+respond to significant issues raised by public comments would be utterly
+toothless if it could ignore comments like those presented here.” Id. at 972.
+        The APA required the EPA to update its data or, at the very least, to
+explain why updated data was unnecessary. See Chamber I, 85 F.4th at 774;
+
+        _____________________
+        32
+          The petitioners’ chart comes from the Biofuels Coalition Comments at 25, with
+updated MY 2022 data taken from the 2023 EPA Automotive Trends Report. The chart
+does not include data from the excluded Acura.
+
+
+
+
+                                          25
+Case: 24-60209        Document: 113-1         Page: 26      Date Filed: 06/24/2025
+
+
+
+
+                                    No. 24-60209
+
+
+Prometheus Radio Project, 592 U.S. at 423. We must “set aside [EPA’s Ra]
+action” because it is “premised on reasoning that fails to account for relevant
+factors [and] evinces a clear error of judgment.” Clarke v. Commodity Futures
+Trading Comm’n, 74 F.4th 627, 641 (5th Cir. 2023) (cleaned up).
+
+               C. Inclusion and Exclusion of Test Program Data
+       Petitioners aver that EPA arbitrarily excluded data from one vehicle
+and arbitrarily included data from another. Those decisions, they allege, were
+neither “reasonable” nor “reasonably explained.” See Prometheus Radio Pro-
+ject, 592 U.S. at 423. We agree.
+       First, the petitioners fault the EPA for excluding the Acura from its
+Ra calculation because commenters demonstrated that the Acura’s data was
+sound. In the 2020 NPRM, EPA explained that it “showed an unexpected
+level of fuel economy sensitivity to the test fuel’s octane rating.” 85 Fed.
+Reg. at 28,572. Commenters responded that an “unexpected” result is not
+a scientifically proper basis for exclusion and that, in any event, the Acura’s
+octane sensitivity was insignificant.
+       Based on EPA’s data, one commenter estimated that the Acura’s fuel
+economy on regular E10 gasoline “was only about 0.15 to 0.20 percent lower
+than [its] premium E10 fuel economy.” 33 “If there was a significant octane
+effect, one would expect the fuel economy for the regular E10 tests to be sub-
+stantially lower than the fuel economy observed on premium E10.” All.
+Comments at 37. But the Alliance presented evidence that that was not so.
+Id. at 36–38. In any event, the EPA did not present any calculations of the
+Acura’s regular-to-premium fuel economy variance, nor did it reveal how
+
+       _____________________
+       33
+         All. Comments at 37. EPA did not report the fuel economy data for the Acura’s
+E10 premium tests, so the Alliance estimated those numbers “within a couple hundredths
+of an mpg” based on CO2 emissions data. Id. at 36–37.
+
+
+
+
+                                         26
+Case: 24-60209         Document: 113-1          Page: 27      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+much sensitivity it “expected.” Commenters thus stated that EPA should
+not have excluded the Acura’s results.
+        Second, the petitioners insist that EPA should not have included the
+Malibu 1 because commenters raised significant red flags regarding its data.
+Commenters noted that the Malibu 1 experienced an “accelerator fault
+code” during the E0 highway cycle testing, and they explained how that fault
+decreases fuel economy. 34         EPA nonetheless justified inclusion of the
+Malibu 1 data because “there was not a violation of speed trace,” so “there
+was not sufficient grounds to exclude the test.” Test Program Report at 27.
+But commenters warned that that didn’t address the problem. Importantly,
+the accelerator fault occurred only when the vehicle was tested on E0—not
+E10, so “a bias was introduced to the data.” All. Comments at 36. That
+explains why the Malibu 1 had by far the lowest Ra value of the eleven vehicles
+that EPA tested. Id.
+        Indeed, the Malibu 1’s Ra value was so low that commenters’ analyses
+showed it was a likely statistical outlier. 35 And the comments pointed to addi-
+tional markers of data-unreliability. First, the Malibu 1’s highway cycle fuel
+economy data was “‘conspicuous for the [large] size of its standard devia-
+tions, particularly on the [E0] fuel’ tests.” Biofuels Coal. Comments at 28
+(quoting Test Program Report at 20). Second, one category of drive quality
+statistics—which measure test repeatability—was comparatively poor for
+the Malibu 1’s highway test. 36 Given the Malibu 1’s malfunctioning and the
+        _____________________
+        34
+         All. Comments at 35–36; Biofuels Coal. Comments at 28–31. See also Test Pro-
+gram Report at 27 (explaining that the fault code message indicated reduced engine power).
+        35
+           All. Comments at 33–35 (analysis showing that Malibu 1 is an outlier, but Acura
+is not); Biofuels Coal. Comments at 29, Exhibit E (analysis showing that Malibu 1 is an
+outlier).
+        36
+         Id. at 28–29; Test Program Report at 26. The EPA study asserted that “we
+would expect some differences in drive characteristics” because the Malibu 1’s highway
+
+
+
+
+                                           27
+Case: 24-60209          Document: 113-1           Page: 28      Date Filed: 06/24/2025
+
+
+
+
+                                       No. 24-60209
+
+
+other red flags in its data, commenters urged EPA to exclude it from the Ra
+computation.
+        In response to this petition, EPA points only to the 2020 NPRM and
+the Test Program Report. Specifically, EPA (1) repeats the assertion that
+the Acura’s octane sensitivity was “unexpected” and (2) contends that the
+Agency “resolved some of the [Malibu 1’s] issues and lacked ‘sufficient
+grounds’ to exclude the test results” (quoting Test Program Report at 27).
+        EPA does not cite any response to comments about the Acura, and its
+only “response” to comments about the Malibu 1 was that “[t]he decision to
+include data from the 2013 Malibu was based on its performance being within
+the expected range.” EPA Response to Comments at 1278. But a summary
+proffer that the Malibu 1 was “within the expected range” fails to respond to
+the specific and extensive comments explaining how the accelerator fault
+code biased EPA’s data.
+        That is a far cry from the “reasoned response” that the APA requires.
+Ohio v. EPA, 603 U.S. 279, 293–94 (2024). EPA’s “single conclusory sen-
+tence . . . is no substitute for a ‘reasonable and reasonably explained’ deci-
+sion.” Texas v. Biden, 10 F.4th 538, 555 (5th Cir. 2021) (per curiam) (quoting
+Prometheus Radio Project, 592 U.S. at 423).
+        The comments, right or wrong, raised—and supported—critiques of
+EPA’s Rule so “significant” that they “require[d] response.” Huawei
+Techs., 2 F.4th at 449. Whereas the Acura had the highest individual Ra, the
+Malibu 1 had the lowest. If commenters are correct that the former should
+
+        _____________________
+tests “were rerun with a different driver.” Test Program Report at 26. But, as petitioners
+point out, the “Malibu 1’s drive statistics show significantly larger differences than other
+vehicles that were also rerun with a different driver, . . . so that alone cannot account for
+Malibu 1’s variability.” See also id. at 26–28.
+
+
+
+
+                                             28
+Case: 24-60209          Document: 113-1           Page: 29      Date Filed: 06/24/2025
+
+
+
+
+                                       No. 24-60209
+
+
+have been included and the latter excluded, EPA’s fleetwide Ra would have
+changed considerably, from 0.81 to 0.90. See Biofuels Coal. Comments at 32.
+So, those comments “if true and adopted would require a change in” EPA’s
+Rule. 37 The APA required EPA to respond with a reasoned explanation of
+its decisions, yet, it did not, making the Rule arbitrary and capricious.
+
+                          D. Rejection of Alternative Data
+        Petitioners assert that comments offered EPA superior alternative
+data, including manufacturer certification data and data from published
+studies in which the EPA had participated. The petitioners aver that EPA
+acted arbitrarily and capriciously by failing adequately to explain why it
+rejected those alternatives. Although EPA sufficiently justified its rejection
+of the studies, the Agency gave no explanation for why it refused to consider
+the manufacturer data—even after specifically requesting comment on how
+such data could be used. That failure renders EPA’s Ra Rule unlawful.
+Chamber I, 85 F.4th at 774, 776.
+
+                                  1. Published Studies
+        Commenters pointed to data from studies—in which EPA had
+participated—showing “uniformly . . . higher average R factors than EPA’s
+proposed Ra of 0.81.” 38 The petitioners posit that EPA rejected that data
+without a sufficient explanation. EPA answers by pointing to its response to
+those comments:
+        [W]e want to clarify that R-factor values in the literature (e.g.,
+
+        _____________________
+        37
+           Chamber I, 85 F.4th at 774 (quoting Mexican Gulf Fishing, 60 F.4th at 971 (cleaned
+up)); see also Huawei Techs., 2 F.4th at 449.
+        38
+          Biofuels Coal. Comments at 32–34; see also C. Sluder et al., Determination of the
+R Factor for Fuel Economy Calculations Using Ethanol-Blended Fuels over Two Test Cycles,
+7 SAE Int’l J. Fuels & Lubricants 551; Brian West Comments at 2.
+
+
+
+
+                                             29
+Case: 24-60209       Document: 113-1        Page: 30    Date Filed: 06/24/2025
+
+
+
+
+                                  No. 24-60209
+
+
+       in Sluder, et al.) are generally intended to isolate the actual
+       sensitivity of fuel economy to fuel energy content, while the Ra
+       factor here rolls up multiple impacts related to this specific pair
+       of test fuels that include the energy content difference, addi-
+       tional charge cooling due to ethanol’s heat of vaporization, and
+       potentially some marginal impacts of the octane change. Thus,
+       we wouldn’t expect this Ra value to precisely match other
+       R-factors found in the literature.
+EPA Response to Comments at 1278.
+       The petitioners reply that EPA’s answer is a “red herring” because
+the redesignation of “R” as “Ra” merely “account[s] for minor changes to
+the fuel economy equation for E10, primarily how fuel properties are calcu-
+lated” (citing 85 Fed. Reg. at 28,575). Moreover, petitioners allege, the Alli-
+ance showed that “R” and “Ra” produce “the exact same values . . . for each
+individual test vehicle.” All. Comments at 30 (emphasis deleted).
+       But the petitioners are wrong on those points because they tell only
+half the story. In its proposal to replace the old “R” factor with a new “Ra”
+factor, EPA explained that Ra accounts not only for updated methods for
+measuring fuel properties but also for non-energy-content differences between the
+Tier 2 and Tier 3 test fuels. 85 Fed. Reg. at 28,568. One such difference is the
+“change in aromatics content,” id., while others include “additional charge
+cooling due to ethanol’s heat of vaporization, and potentially some marginal
+impacts of the octane change.” EPA Response to Comments at 1278. And
+although the Alliance’s comment demonstrated that the updated fuel-
+property-measurement methods do not cause Ra to diverge from R, the Alli-
+ance did not show that that was also the case for the non-energy-content
+differences between the Tier 2 and Tier 3 test fuels. See All. Comments
+
+
+
+
+                                       30
+Case: 24-60209         Document: 113-1           Page: 31       Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+at 29–31. 39
+        EPA’s response to comments thus suffices to show why the agency
+did not use the data from the proffered studies. It is not the “red herring”
+that petitioners claim. EPA made a reasonable judgment and, in response to
+comments, explained that choice rationally. That is all the APA requires.
+See Prometheus Radio Project, 592 U.S. at 423 (“The APA’s arbitrary-and-
+capricious standard requires that agency action be reasonable and reasonably
+explained.”). EPA “articulated a satisfactory explanation for its action in-
+cluding a rational connection between the facts found and the choice made,”
+so “we cannot substitute our judgment for that of the agency.” Huawei
+Techs., 2 F.4th at 434 (cleaned up).
+
+                        2. Manufacturer Certification Data
+        EPA initially planned to use manufacturer data to update its sensitiv-
+ity factor. Under the 2014 Tier 3 rule, manufacturers have been testing with
+two fuels: (1) E0 to certify fuel economy and greenhouse gas compliance and
+(2) E10 to certify criteria pollutant compliance. 79 Fed. Reg. at 23,531–33.
+EPA explained in 2014 that it planned to compare paired E0/E10 manufac-
+turer certification data to assess the R factor. Id. But the Agency changed
+course. In the 2020 NPRM, EPA proposed using its Test Program data—
+rather than automaker data—to determine Ra because manufacturer data did
+not sufficiently minimize test-to-test variability. 85 Fed. Reg. at 28,569.
+EPA listed twelve methodological features of its Test Program that con-
+trolled for that variability, and it noted that manufacturer data lacked most of
+
+        _____________________
+        39
+           The petitioners also assert that the studies cited by commenters did not actually
+seek to isolate the effects of energy-content changes. But the published analysis of those
+studies explained that the “R” concept “is intended” to isolate energy-content differ-
+ences, though it acknowledged that in practice “other impacts on fuel economy . . . may
+also be attributed to the R factor.” C. Sluder et al. at 554.
+
+
+
+
+                                            31
+Case: 24-60209          Document: 113-1           Page: 32      Date Filed: 06/24/2025
+
+
+
+
+                                       No. 24-60209
+
+
+those features. Id. at 28,569–70. Still, EPA “request[ed] comments on ways
+that manufacturer certification data submitted to EPA, or any other data,
+might be used as an appropriate supplemental or alternative source of data.”
+Id. at 28,570.
+        The Alliance obliged. It provided paired manufacturer certification
+data from 95 newer, MY 2016 to 2021 vehicles, which showed an average Ra
+factor “much closer to . . . 1.0.” 40 The Alliance explained that those vehicles
+“represent[] the newest technologies and [are] essentially all compliant with
+Tier 3 criteria emissions standards.” All. Comments at 41. In response to
+EPA’s concerns in the NPRM about test-to-test variability, the Alliance did
+not dispute the absence of most of the twelve controls that EPA identified as
+lacking in manufacturer tests. See id. (directly disputing only one of those
+controls). But the Alliance explained that EPA’s concern “can be minimized
+through use of a large sample set” and that “testing additional test vehicles
+provides more statistical certainty than replicate tests on a limited number of
+test articles.” Id.
+        EPA did not respond. The Agency merely points this court to the
+concerns identified in the NPRM. But EPA specifically asked for “comments
+on ways that manufacturer certification data submitted to EPA . . . might be
+used” to determine Ra. 85 Fed. Reg. at 28,570.
+        The Alliance gave the Agency “exactly what it had asked for.” Cham-
+ber I, 85 F.4th at 776. To be sure, the comment did not directly dispute every
+
+        _____________________
+        40
+           All. Comments at 41; see also id. at 31–32, 39–42. The Alliance comment denom-
+inates “[t]he resulting Ra calculated,” id. at 41, but it is unclear from context whether the
+Alliance attempted to isolate energy-content differences (R) or whether it also accounted
+for non-energy-content impacts (Ra). In any event, the data showed a sensitivity factor far
+higher than EPA’s, and, as explained below, EPA never responded when presented with
+that data.
+
+
+
+
+                                             32
+Case: 24-60209      Document: 113-1         Page: 33   Date Filed: 06/24/2025
+
+
+
+
+                                 No. 24-60209
+
+
+source of test-to-test variability. But it did show, as EPA had requested, how
+“manufacturer certification data . . . might be used as an appropriate supple-
+mental or alternative source” to set Ra. 85 Fed. Reg. at 28,570. Specifically,
+the Alliance explained that its vehicles contained newer technology and that
+the sample size—far larger than EPA’s—minimized concerns about test-to-
+test uncertainty. All. Comments at 32, 41. And the manufacturer certifica-
+tion values were considerably higher than EPA’s value, “reinforc[ing] the
+expectation that vehicles with newer technologies . . . will see an Ra con-
+verging on 1.0.” Id. at 41.
+       EPA still might have made the judgment that the industry data was
+insufficient, but the APA required that the Agency “explain its rejection of
+a reasonably obvious alternative.” 10 Ring Precision, Inc. v. Jones, 722 F.3d
+711, 724 (5th Cir. 2013) (cleaned up). The EPA cannot “ask for—and then
+ignore—already-existing data it did not want to consider.” Chamber I,
+85 F.4th at 776. But that is precisely what it did.
+       EPA’s Ra Rule is therefore arbitrary and capricious because the
+Agency did not demonstrate that its judgment was “the product of reasoned
+decisionmaking.” State Farm, 463 U.S. at 52.
+
+                                E. Conclusion
+       EPA requested and received extensive comments on its proposal to
+set an Ra factor of 0.81. In response, the Agency mustered only two para-
+graphs, ignoring several key points that commenters raised and supported
+with rigorous analysis. EPA ignored comments that its Test Program design
+was fatally flawed because it tested too few vehicles and chose unrepresen-
+tative vehicles. It disregarded comments that it arbitrarily included and
+excluded test vehicle data. And it rejected, sans explanation, alternative data
+and analysis that it had specifically requested.
+       Each of those comments, if true, demonstrates that EPA’s Ra value
+
+
+
+                                       33
+Case: 24-60209         Document: 113-1           Page: 34      Date Filed: 06/24/2025
+
+
+
+
+                                      No. 24-60209
+
+
+was far too low. So, if the commenters were correct, EPA would have had
+to change course. The APA thus required the Agency to respond to those
+comments—either by defending its prior analysis or by changing the Rule.
+See Mexican Gulf Fishing, 60 F.4th at 971. The Agency did not, so its rationale
+for the 0.81 Ra value cannot “reasonably be discerned” from the record.
+Sierra Club v. Dep’t of Interior, 990 F.3d 898, 904 (5th Cir. 2021) (quotation
+omitted). EPA therefore did not demonstrate that its Ra action was the
+“product of reasoned decisionmaking,” so the Rule is arbitrary and caprici-
+ous. State Farm, 463 U.S. at 52.
+
+                                     IV.
+        We turn to the remedy for the EPA’s deficiencies.
+        Section 706 of the APA instructs that reviewing courts shall “hold
+unlawful and set aside agency action . . . found to be . . . arbitrary, capricious,
+an abuse of discretion, or otherwise not in accordance with law.” 5 U.S.C.
+§ 706(2). Fifth Circuit precedent establishes that Section 706 “extends
+beyond the mere non-enforcement remedies available to courts that review
+the constitutionality of legislation, as it empowers courts to ‘set aside’—i.e.,
+formally nullify and revoke—an unlawful agency action.” 41
+        “The default rule is that vacatur is the appropriate remedy.” Data
+Mktg. P’ship, 45 F.4th at 859. “Departing from that default rule is justifiable
+only in rare cases satisfying two conditions.” Chamber of Com. v. SEC,
+88 F.4th 1115, 1118 (5th Cir. 2023) (“Chamber II”) (quotation omitted).
+        First, there must be a serious possibility that the agency will be
+        able to correct the rule’s defects on remand. Remand without
+        vacatur is therefore inappropriate for agency action suffering
+
+        _____________________
+        41
+         Data Mktg. P’ship, LP v. Dep’t of Lab., 45 F.4th 846, 859 (5th Cir. 2022) (quoting
+Jonathan F. Mitchell, The Writ-of-Erasure Fallacy, 104 Va. L. Rev. 933, 950 (2018)).
+
+
+
+
+                                            34
+Case: 24-60209       Document: 113-1         Page: 35    Date Filed: 06/24/2025
+
+
+
+
+                                   No. 24-60209
+
+
+       from one or more serious procedural or substantive deficien-
+       cies. Second, vacating the challenged action would produce dis-
+       ruptive consequences.
+Id. (quotations and citations omitted). To satisfy the first condition, there
+must be a serious possibility that the agency can “substantiate its decision
+given an opportunity to do so.” Texas v. United States, 50 F.4th 498, 529 (5th
+Cir. 2022) (quoting Tex. Ass’n of Mfrs., 989 F.3d at 389).
+       Given the record before us, we cannot conclude there is a “serious
+possibility that [EPA] will be able to substantiate its decision” to set Ra at
+0.81 if “given the opportunity to do so.” Id. EPA summarily proffers that it
+“would likely be able to justify its decision to establish an Ra Factor of 0.81
+on remand.” But it provides no reason for us to believe that is so. EPA
+merely asserts─without evidence─that it can explain itself: “EPA can
+explain how and why” test-to-test variability controls obviate the need for a
+larger sample size, and “EPA can correspondingly also explain why” the
+importance of such controls “meant that the Agency could not rely on the
+manufacturer certification data.” EPA identifies no evidence to support that
+“trust-us-we’re-the-experts” response.
+       Indeed, the evidence indicates that the opposite is true: It is sub-
+stantially unlikely that a 0.81 Ra value can be justified. The Ra factor will apply
+to hundreds of vehicle models and configurations, but the eleven-vehicle
+EPA Test Program demonstrates that just a slight alteration in test-vehicle
+mix would have resulted in a considerably different Ra value. So, the peti-
+tioners are likely correct that EPA’s small sample size resulted in a miscal-
+culation of Ra. Similarly, because even slight changes to the vehicle mix could
+have altered the Ra value, EPA’s use of outdated, unrepresentative vehicle
+technology means its 0.81 Ra value is likely flawed. That likelihood is under-
+scored by the fact that EPA’s sensitivity factor is so much lower than manu-
+facturer values calculated from more and newer vehicles.
+
+
+
+
+                                        35
+Case: 24-60209           Document: 113-1         Page: 36     Date Filed: 06/24/2025
+
+
+
+
+                                       No. 24-60209
+
+
+        It is telling that EPA has “decided to reconsider its decision that the
+Ra factor should be set at 0.81” “[i]n response to [this] Petition for
+Review.” 42 The Agency insists that it has not confessed error. But EPA
+decided to test more and newer vehicles mere months after finalizing its Ra
+factor. It’s difficult to interpret that decision as anything other than a tacit
+admission of error.
+        Finally, EPA contends that vacatur is inappropriate because it would
+be disruptive for automakers, and any near-term harm that the Rule causes
+petitioners would be minimal. But where, as here, there is no serious possi-
+bility that the Agency can substantiate its decision on remand, vacatur is
+required even if it would be disruptive. 43 We therefore hew to the APA’s
+default remedy and vacate the unlawful Rule.
+
+                                      * * * * *
+        The petitioners have standing to challenge EPA’s Ra Rule because an
+underestimate of Ra artificially increases CAFE stringency, decreasing de-
+mand for gasoline and harming petitioners’ members. The Rule is arbitrary
+and capricious because EPA ignored key comments that evinced fundamen-
+tal flaws in its Ra determination.
+        The petition for review is GRANTED. The Ra Rule is VACATED
+to the extent that it (1) sets an Ra factor of 0.81 and (2) implements that factor
+by shifting the test fuel from E0 to E10 for fuel economy compliance.
+
+
+
+
+        _____________________
+        42
+             First Dunham Decl. ¶ 14; see also EPA Mot. for Voluntary Remand.
+        43
+          See Chamber II, 88 F.4th at 1118 (describing as conjunctive the “two conditions”
+for departing from the “default rule” of vacatur); see also Tex. Med. Ass’n v. HHS,
+110 F.4th 762, 779 (5th Cir. 2024).
+
+
+
+
+                                            36
+

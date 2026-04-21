@@ -1,0 +1,481 @@
+                               RECOMMENDED FOR PUBLICATION
+                               Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 21a0036p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                 FOR THE SIXTH CIRCUIT
+
+
+
+ LOUISVILLE GAS & ELECTRIC COMPANY; KENTUCKY                ┐
+ UTILITIES COMPANY,                                         │
+                                    Petitioners,            │
+                                                            │         No. 19-4225
+                                                             >
+       v.                                                   │
+                                                            │
+                                                            │
+ FEDERAL ENERGY REGULATORY COMMISSION,                      │
+                                   Respondent,              │
+                                                            │
+ CITY UTILITY COMMISSION        OF     THE    CITY    OF    │
+ OWENSBORO, KENTUCKY,                                       │
+                                                            │
+                                             Intervenor.
+                                                            │
+                                                            ┘
+
+            On Petition for Review from the Federal Energy Regulatory Commission.
+                              Nos. EL18-203-000; EL18-203-001.
+
+                                     Argued: October 7, 2020
+
+                            Decided and Filed: February 17, 2021
+
+                 Before: BOGGS, STRANCH, and THAPAR, Circuit Judges.
+
+                                      _________________
+
+                                             COUNSEL
+
+ARGUED: Matthew C. Blickensderfer, FROST BOWN TODD LLC, Cincinnati, Ohio, for
+Petitioners. Carol J. Banta, FEDERAL ENERGY REGULATORY COMMISSION,
+Washington, D.C., for Respondent. David E. Pomper, SPIEGEL & MCDIARMID LLP,
+Washington, D.C., for Intervenor. ON BRIEF: Matthew C. Blickensderfer, FROST BOWN
+TODD LLC, Cincinnati, Ohio, Jason P. Renzelmann, FROST BROWN TODD LLC, Louisville,
+Kentucky, for Petitioners.      Carol J. Banta, FEDERAL ENERGY REGULATORY
+COMMISSION, Washington, D.C., for Respondent. David E. Pomper, Thomas C. Trauger,
+SPIEGEL & MCDIARMID LLP, Washington, D.C., Patrick D. Pace, KAMUF, PACE &
+KAMUF, Owensboro, Kentucky, for Intervenor.
+ No. 19-4225                     Louisville G&E Co., et al. v. FERC                         Page 2
+
+
+                                       _________________
+
+                                            OPINION
+                                       _________________
+
+       THAPAR, Circuit Judge. When you skip over the basics, things get complicated. At its
+core, this is a straightforward case of contract interpretation.      But rather than address the
+operative text, the Federal Energy Regulatory Commission began with other portions of the
+contract and treated the matter as an invitation to make complex policy choices.                 The
+Commission’s resulting order cannot withstand arbitrary-and-capricious review, so we grant the
+petition for review, vacate the order, and remand for another go.
+
+                                                 I.
+
+       This dispute takes place against the backdrop of the interstate wholesale electricity
+market—not exactly everybody’s cup of tea. So we begin with some (simplified) background.
+
+                                                 A.
+
+       Start with the market itself.
+
+       Imagine you order hand sanitizer online. The company transfers the item from storage to
+a large truck. The truck gets on the road, merges onto the interstate, and covers an enormous
+distance. It passes through different states, some of which charge tolls. It maneuvers through
+different routes and turnpikes. Finally, the truck leaves the highway for a local road and drops
+off the item at your house.
+
+       The journey of electricity from a power plant to a home or business is not so different. A
+power plant creates the electricity.       The electricity then travels long distances across
+“transmission lines.” Fed. Energy Regulatory Comm’n (“FERC”), Staff Report, Energy Primer:
+A Handbook for Energy Market Basics 47, 54 (Apr. 2020) (“Energy Primer”); FERC, Staff
+Report, Reliability Primer 16 (Dec. 2016) (“Reliability Primer”). Interconnected transmission
+lines make up the grid (much like the interstate). Reliability Primer 16. And just as states
+control the roads within their borders, different utilities own and operate the transmission lines in
+their respective territories. That means that electricity must sometimes cross from one utility’s
+ No. 19-4225                    Louisville G&E Co., et al. v. FERC                         Page 3
+
+
+lines to another’s, and the wholesale customer incurs charges from each utility along the way.
+See Ill. Commerce Comm’n v. FERC, 721 F.3d 764, 778 (7th Cir. 2013); Wabash Valley Power
+Ass’n v. FERC, 268 F.3d 1105, 1116 (D.C. Cir. 2001). Eventually the electricity reaches the
+target geographic area and then travels across local “distribution lines” to the destination.
+Energy Primer 47; Reliability Primer 10.
+
+       Just as there may be separate charges for your hand sanitizer and its delivery, so too there
+are separate costs for the electricity and its transmission from the generator (power plant) to the
+destination. A wholesale purchaser of electricity can choose between paying for transmission as
+needed or securing a long-term reservation of transmission rights (like a membership). The
+former is cheaper (but may not always be available); the latter guarantees that the transmission
+lines will have capacity when the purchaser needs them. See Promoting Wholesale Competition
+Through Open Access Non-Discriminatory Transmission Servs. by Pub. Utils., Order No. 888,
+61 Fed. Reg. 21,540, 21,573–74 (1996) (“Order No. 888”).
+
+                                                B.
+
+       Now consider one fear the government has about this market.
+
+       The Federal Energy Regulatory Commission regulates the wholesale electricity market.
+See New York v. FERC, 535 U.S. 1, 26 (2002). Part of the agency’s job is to improve reliability
+and to ensure that utilities’ rates and practices are “just and reasonable.” Id.; FERC v. Elec.
+Power Supply Ass’n, 136 S. Ct. 760, 777 (2016). If the rates and practices are not just and
+reasonable, then the Commission must determine the proper remedy. 16 U.S.C. §§ 824d(a),
+824e(a); Elec. Power Supply Ass’n, 136 S. Ct. at 774. One means of ensuring fair pricing is to
+promote “a free market in wholesale electricity.” Elec. Power Supply Ass’n, 136 S. Ct. at 774
+(citation omitted). The Commission’s goal is to enhance competition.
+
+       One of the Commission’s concerns is the “pancaked rate.” See Reg’l Transmission
+Orgs., Order No. 2000, 65 Fed. Reg. 810, 915 (2000). To understand the pancaked rate, imagine
+that your delivery driver crosses through five states between loading the truck and delivering the
+hand sanitizer to your door. Now imagine that each state imposes a toll that you must ultimately
+pay (either as a surcharge to a one-time delivery fee or through a more expensive membership).
+ No. 19-4225                     Louisville G&E Co., et al. v. FERC                       Page 4
+
+
+The more states along the journey, the higher the charge, if each state charges a fixed fee for
+using its roads. Same for electricity: Each utility charges a fixed separate transmission fee, so
+the more utilities along the way, the higher the charge. That is the pancaked rate (i.e., multiple
+fixed transmission fees stacked on top of one another). In the Commission’s view, pancaked
+rates stifle market competition and harm consumers. Id. at 817.
+
+       But there are ways around the pancaked rate. What if your state joined several of its
+neighbors to form a regional alliance? Collectively, they could agree that residents in each state
+get reciprocal access to roads throughout the region for one flat fee. Entities called independent
+system operators provide a similar solution for wholesale electricity customers. See Louisville
+Gas & Elec. Co., 82 F.E.R.C. ¶ 61,308, p. 62,222 (1998) (“Merger Order”); Energy Primer 39.
+They take over operational control of interconnected transmission lines owned by different
+utilities. See Order No. 888 at 21,595–96; Energy Primer 39. The area controlled by the
+independent system operator is the operator’s service territory. And the utilities that own the
+transmission lines within the area are the operator’s members. Independent system operators
+then charge all wholesale customers a uniform rate for access to all the transmission lines in the
+service territory. Order No. 888 at 21,596. The Commission regulates their activity (just as it
+regulates the activities of utilities) and encourages the formation of these operators. Id. at
+21,595–96.
+
+                                                 C.
+
+       The petitioners here—Louisville Gas and Electric Company, and Kentucky Utilities
+Company—own and operate electric generation, transmission, and distribution facilities in
+Kentucky and Virginia. Together, they serve nearly one million customers and own thousands of
+miles of electric transmission and distribution lines.
+
+       About two decades ago, Louisville Gas and Kentucky Utilities joined the Midcontinent
+Independent System Operator (“MISO”). See Louisville Gas & Elec. Co., et al., 114 F.E.R.C.
+¶ 61,282, p. 61,925 (2006) (“Withdrawal Order”). MISO operates across fifteen states (including
+Kentucky) and one Canadian province. MISO Transmission Owners v. FERC, 860 F.3d 837,
+839 (6th Cir. 2017); Energy Primer 91. Customers pay a single rate for access to transmission
+ No. 19-4225                    Louisville G&E Co., et al. v. FERC                        Page 5
+
+
+lines throughout the MISO service territory (even if those lines are owned by multiple utilities),
+although the precise rate each customer pays is determined by where in MISO it’s located.
+Midwest Indep. Transmission Sys. Operator, Inc., 109 F.E.R.C. ¶ 61,168, pp. 61,810 & n.14,
+61,826 (2004).
+
+         Around the same time as they joined MISO, the two companies (hereinafter “Louisville
+Gas”) filed a merger application with the Commission.         Based in part on the companies’
+participation in MISO, the Commission concluded that the merger would not stifle competition.
+Merger Order at 62,214; see also Inquiry Concerning the Comm’n’s Merger Pol’y Under the
+Fed. Power Act, Order No. 592, 61 Fed. Reg. 68,595 (1996). It approved the application.
+
+         Then, some years ago, Louisville Gas asked the Commission for permission to withdraw
+from the network. The Commission approved the withdrawal, provided that the conditions of the
+merger remained satisfied. In other words, that Louisville Gas implement certain measures to
+provide its wholesale customers protections like those they enjoyed when Louisville Gas was
+part of MISO. Withdrawal Order at 61,924, 61,940.
+
+         To be specific, protection from pancaked rates. When Louisville Gas was a member of
+MISO, a transmission of energy from a within-MISO generator to a wholesale customer’s
+facilities occurred entirely within the service territory on MISO lines, so there was only one
+charge. But once Louisville Gas withdrew, its wholesale customers could face two charges for
+that same transmission: one from MISO for the first leg of the trip (from the power plant to the
+MISO/Louisville Gas border), then another from Louisville Gas for the second leg (from the
+border to the final destination). This double-charging is the pancaked rate the Commission was
+worried about.    Id. at 61,941.   So the Commission required Louisville Gas to implement
+measures to absorb any additional cost caused by the two transmission legs (to “de-pancake” the
+rate).   Id. at 61,940–41.   Louisville Gas did so by contracting with its various wholesale
+customers. And the Commission ultimately approved this arrangement. See Rev. Rate Schedule
+FERC No. 402 (“Schedule”), App. 34–43.
+ No. 19-4225                    Louisville G&E Co., et al. v. FERC                        Page 6
+
+
+                                                D.
+
+       One of those wholesale customers (and the intervenor here) was the City Utility
+Commission of the City of Owensboro, Kentucky (“Owensboro”). Owensboro is a municipally
+owned utility within the Louisville Gas service territory that provides electricity to retail
+customers in south-central Kentucky. A few years ago, Owensboro realized that its coal-fired
+power plant would need to be closed within the next decade. Owensboro wanted to secure
+backup service in case the plant suffered intermittent outages before the closure date.
+
+       To that end, Owensboro bought a five-year reservation of transmission rights from
+MISO, beginning on February 1, 2018. If at any time Owensboro wanted electricity from a
+source within MISO’s territory, MISO’s transmission lines would be available to complete the
+first leg of the trip. Ultimately, though, Owensboro (at least on the record before us) used the
+MISO lines only three days during the first year of the contract. It purchased electricity for a
+two-day period from within-MISO generators in July, 2018. Then Owensboro entered a long-
+term reservation of electricity from Big Rivers Electric Company (another within-MISO
+generator), but Owensboro only once needed that electricity delivered to its facilities, on
+September 26, 2018.
+
+       Owensboro asked Louisville Gas to absorb the costs Owensboro paid to MISO for the
+transmission rights, relying on the de-pancaking contract. Owensboro pointed to Louisville
+Gas’s promise to “shield” wholesale customers “from any pancaking of transmission . . .
+charges” for certain transactions “in which” they “purchase[d] electricity from a source in the”
+MISO service territory “for delivery” in Louisville Gas’s service territory. Schedule at 2, App.
+35. When Louisville Gas refused to credit the charges, Owensboro brought a complaint before
+the Commission, seeking enforcement of the contract.              16 U.S.C. § 825e; 18 C.F.R.
+§ 385.206(a).
+
+       The Commission agreed with Owensboro that the contract required Louisville Gas to
+absorb all the costs that Owensboro had incurred from MISO since February, 2018. The agency
+thus directed Louisville Gas to credit Owensboro for those transmission costs and denied
+Louisville Gas’s subsequent request for rehearing. Owensboro Mun. Utils. v. Louisville Gas &
+ No. 19-4225                         Louisville G&E Co., et al. v. FERC                                 Page 7
+
+
+Elec. Co. and Ky. Utils. Co., 166 F.E.R.C. ¶ 61,131, p. 61,563 (2019) (“Order”), reh’g denied,
+169 F.E.R.C. ¶ 61,030, 2019 WL 5288283 (Oct. 17, 2019) (“Reh’g Order”). Louisville Gas now
+petitions this court for review. 16 U.S.C. § 825l(b).
+
+                                                       II.
+
+        In reviewing an agency decision, we consider questions of law, such as the interpretation
+of filed tariffs, de novo. See MISO Transmission Owners, 860 F.3d at 841; Cincinnati Gas &
+Elec. Co. v. FERC, 724 F.2d 550, 554 (6th Cir. 1984). And we defer to the Commission “only
+when the Commission bases its interpretation on its ‘factual findings or technical expertise.’”
+MISO Transmission Owners, 860 F.3d at 841 (quoting Cincinnati Gas & Elec. Co., 724 F.2d at
+554).
+
+        But in all cases agencies must engage in “reasoned decisionmaking.” Motor Vehicle
+Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 52 (1983). They must “examine the
+relevant data and articulate a satisfactory explanation for [their] action including a rational
+connection between the facts found and the choice made.” Id. at 43 (cleaned up). When they
+fail to do so, the resulting action is considered “arbitrary and capricious.” Id. at 56. And from
+there, the proper disposition is clear: We “shall” hold the action “unlawful” and “set [it] aside.”
+5 U.S.C. § 706(2)(A). That is precisely what we do here.
+
+                                                       A.
+
+        Here are the basics of the legal issue that was presented to the Commission. From the
+first page of Owensboro’s complaint before the agency, this has explicitly been an action for
+“enforcement (rather than change)” of an existing contract. Compl., App. 1 n.1. To enforce the
+contract, of course, the Commission must interpret the contract.
+
+        Kentucky contract law governs interpretation of the contract. Schedule at 9, App. 42
+(choice-of-law clause); see S. Cal. Edison Co. v. FERC, 502 F.3d 176, 181 (D.C. Cir. 2007).1
+
+
+        1
+          No party has mentioned choice of law, but the issue is “necessarily raise[d]” in a challenge to the
+Commission’s contract interpretation. Pennzoil Co. v. FERC, 645 F.2d 360, 384 n.46 (5th Cir. 1981). And even
+before an agency, contract law is state law. Erie R.R. Co. v. Tompkins, 304 U.S. 64, 78 (1938); Pennzoil, 645 F.2d
+at 383–87.
+ No. 19-4225                     Louisville G&E Co., et al. v. FERC                       Page 8
+
+
+That means the reader starts with the text’s “ordinary meaning.” Smith v. Crimson Ridge Dev.,
+LLC, 410 S.W.3d 619, 621 (Ky. Ct. App. 2013). That text is, at first, a bit daunting:
+
+       With respect to any MMD Transaction in which [Owensboro] purchases
+       electricity from a source in [MISO] for delivery to [Owensboro]’s load . . . : (i)
+       [Louisville Gas] shall credit [its transmission billings] to [Owensboro] by an
+       amount equal to the [MISO charges] which [Owensboro] incurs to deliver such
+       purchased electricity to the [MISO]/[Louisville Gas border] . . . .
+
+Schedule at 2, App. 35. But the text becomes less daunting if we return to the basics. The
+provision answers four essential questions: Who? What? When? And how much?
+
+       •     Who? Owensboro is seeking something from Louisville Gas.
+       •     What? Owensboro wants a credit against the amount it owes Louisville Gas for
+             reserving transmission rights within Louisville Gas’s service territory.
+       •     When? Whenever Owensboro enters certain “MMD Transaction[s],” which here
+             means “transaction[s]” “in which [Owensboro] [1] purchases electricity from a source
+             in the [MISO service territory]” [2] to be delivered to Owensboro’s facilities.
+             Schedule at 1–2, App. 34–35.
+       •     How Much? The amount Owensboro “incurs” from MISO “to deliver such purchased
+             electricity” from the generator to the MISO/Louisville Gas border.
+
+This case is about the “when” and the “how much.” Did Owensboro enter into an eligible
+transaction? And if so, how much did Owensboro incur to deliver the bought electricity?
+
+       With this much in mind, we turn to the Commission’s analysis.
+
+                                                B.
+
+       The Commission did not take long to deviate from a focus on the text’s ordinary
+meaning. That text, the Commission said, did not support Louisville Gas’s view of the case.
+Order at 61,562–63. The Commission did not provide any further analysis of the operative
+provision.
+
+       So what did it analyze? The Commission started with a separate provision (a full page
+later in the contract) stating that the de-pancaking obligation was “intended to implement” prior
+orders from the Commission. It then looked at an “introductory sentence” stating that Louisville
+Gas would shield wholesale customers “from any pancaking of transmission and ancillary
+ No. 19-4225                         Louisville G&E Co., et al. v. FERC                                  Page 9
+
+
+services charges” for MMD Transactions. Id. The agency would later clarify, in denying
+rehearing, that it had found the operative provision “ambiguous.” Reh’g Order at *4. But that
+order, too, lacked any analysis of the operative text.
+
+        From there, the Commission viewed (and continues to view) this case as one about
+regulatory policy.       See Order at 61,562–63; Resp. Br. 24–25, 28–41.                     The Commission
+emphasized that the contract was “intended to implement various orders” from the agency’s
+earlier proceedings. Order at 61,562–63; Reh’g Order at *3–5. The focus then turned to “the
+Commission’s expectations as discussed” in those prior orders, and the Commission explained
+that those expectations would “guide[]” its “holding.” Order at 61,563.
+
+        The Commission next tried to address the “when” question but gave no discernible
+answer. Owensboro, the agency found, had “demonstrated [its] current[] need[]” for the MISO
+transmission reservation, and so the reservation qualified for reimbursement. Id. at 61,563–64.
+The Commission also suggested (inexplicably) that Owensboro need not purchase any electricity
+for a transaction to be one “in which [Owensboro] purchases electricity.” Schedule at 2, App.
+35; compare Order at 61,564 (declining to require any “minimum” usage but stating that
+Owensboro “used th[e] reservation”), with Reh’g Order at *5 (“[A] showing of transmission
+reservations was sufficient to trigger the reimbursement obligation.”).2 As for the “how much”
+question, the Commission just skipped the matter altogether. The result, though, was clear:
+Louisville Gas had to provide credit for all MISO reservation charges to Owensboro beginning
+on February 1, 2018, apparently for the life of the contract with MISO.
+
+                                                        C.
+
+        There are at least three major problems with the Commission’s analysis. First, the failure
+to explain its finding of ambiguity. It is a well-accepted tenet of contract law that “a contract is
+not ambiguous unless, after applying established rules of interpretation, [the language] remains
+reasonably susceptible to at least two reasonable but conflicting meanings.” CNH Indus. N.V. v.
+Reese, 138 S. Ct. 761, 765 (2018) (per curiam) (cleaned up); accord Ky. Shakespeare Festival,
+
+        2
+          To the extent that the Commission articulated inconsistent views in the Order and Rehearing Order, it had
+an obligation to explain the change. FCC v. Fox Television Studios, Inc., 556 U.S. 502, 515 (2009).
+ No. 19-4225                     Louisville G&E Co., et al. v. FERC                     Page 10
+
+
+Inc. v. Dunaway, 490 S.W.3d 691, 694–95 (Ky. 2016). Even when the Commission finally
+discussed ambiguity in the denial of rehearing, it never articulated what the operative text might
+mean, let alone that the language supported multiple reasonable interpretations, or what those
+interpretations were.
+
+       The second problem is that the Commission relied upon its own unwritten expectations—
+specifically, that Louisville Gas would provide credit for transactions that its customers
+“needed.” See Order at 51,564. But the whole point of contract interpretation is to determine the
+intention of the parties (not the government). E.g., 11 Richard A. Lord, Williston on Contracts
+§ 30:2 (4th ed. 2020 update).      Even if the Commission’s unwritten expectations constitute
+evidence of the “conditions under which the contract was written” (one relevant parol-evidence
+consideration), that should be used to solve ambiguities about the parties’ intent, not to create
+them, as happened here. Frear v. P.T.A. Indus., Inc., 103 S.W.3d 99, 106 (Ky. 2003) (citation
+omitted) (discussing the permissible use of extrinsic evidence in contract interpretation); see
+Reh’g Order at *4 (contending that the language does not have “an unambiguous plain meaning”
+in part because of the prior orders).
+
+       True, the contract makes explicit reference to prior Commission orders and makes clear
+that the parties intended to comply with them. See Schedule at 1, 3, App. 34, 36. But the prior
+orders are not the same as the Commission’s intentions that accompanied those orders. And
+nothing in the text of the contract nor the Commission’s prior orders suggests that the agency
+intended Louisville Gas to provide credit for any transaction its customers would “need” to enter.
+
+       The third problem is that the Commission’s free-form approach, untethered from basic
+contract law, leaves the parties with many unresolved questions: Why did the entire period
+qualify as one (or multiple) eligible transaction(s)? Why were the total charges from MISO
+equivalent to the costs Owensboro “incur[red] to deliver” isolated purchases of electricity on
+three occasions to the MISO/Louisville Gas border? Are Owensboro’s needs or reasonable
+actions relevant? To what extent? See Schedule at 2, App. 35. These questions leave the parties
+in a difficult position moving forward.
+ No. 19-4225                     Louisville G&E Co., et al. v. FERC                        Page 11
+
+
+                                                III.
+
+        What is the Commission to do on remand?
+
+                                                 A.
+
+        Begin with the “when” question. Are Owensboro’s reservations of transmission rights
+from MISO “transaction[s]” “in which [Owensboro] [1] purchase[d] electricity . . . [2] for
+delivery” to its facilities? Paying MISO in exchange for transmission rights seems like a
+“transaction” in any normal sense of the word. And on at least a few occasions, Owensboro
+undisputedly “purchased electricity” within the MISO service territory “for delivery” to its
+facilities.
+
+        The sticking point is how many transactions there were. One could say that the initial
+reservation of transmission rights on February 1, 2018, began a transaction that will remain
+ongoing until Owensboro cancels its rights or the five-year reservation ends.            But maybe
+Owensboro and MISO signed renewable three-month contracts and each renewal triggered a new
+transaction. Or maybe MISO has monthly pay periods, see Compl., App. 12, and maybe each
+time Owensboro pays the latest fee, a new transaction starts.
+
+        Maybe the answer is none of the above. The point is that when one transaction stops and
+another one starts is unclear.
+
+        Why does this hairsplitting matter? Owensboro bought electricity from within the MISO
+service territory for delivery on three days in the summer of 2018 (two in July; one in
+September).    At other times, it “purchased electricity” from Big Rivers that was not “for
+delivery,” but instead lay in reserve. Order at 61,564–65. If a transaction began on February 1
+and is still running, then there would seem to be only one transaction, which would be eligible
+for credit in its entirety. If each month was a transaction, by contrast, then there would be eight
+transactions between February and September, two of which (July and September) would be
+eligible for credit. If every two months were a transaction, then there would be four transactions,
+and so on. Depending on how much Louisville Gas must credit Owensboro for each eligible
+transaction (see infra Part III.B), the scope of the word “transaction” could matter a great deal.
+ No. 19-4225                            Louisville G&E Co., et al. v. FERC                                       Page 12
+
+
+       At least from our view, this is where the analysis gets trickier and the text might leave the
+Commission with some further work to do. Nothing in the contract seems to clarify the scope of
+a transaction. We know that MMD Transactions must either “source[] in the [MISO] and sink[]
+in [Louisville Gas’s] control area” or vice versa. Schedule at 1, App. 34. In other words, the
+“location of the generator(s) (source)” and the “ultimate load” or destination (sink) must be in
+separate service territories. See Open-Access Same-Time Info. Sys. and Standards of Conduct,
+83 F.E.R.C. ¶ 61,360, p. 62,453 (1998). That does not move the ball forward.
+
+       Sometimes textual analysis only narrows the field of reasonable interpretations, leaving a
+few still on the table. Antonin Scalia & Bryan A. Garner, Reading Law xxviii (2012). A
+straightforward examination of the text suggests that the meaning of “transaction” and
+“purchases electricity . . . for delivery” is plain at a general level, but the Commission may need
+more information to apply the terms to the facts before it. See State Farm Mut. Auto Ins. Co. v.
+Slusher, 325 S.W.3d 318, 322 (Ky. 2010). The intention of the parties when they signed the
+contract would then become crucial. Frear, 103 S.W.3d at 106. This would be a question of
+fact. The agency could consult the contract’s purpose-related statements, along with evidence
+outside the four corners of the contract (known as “parol evidence”)—including prior dealings of
+the parties, as well as industry practice and terminology—to figure out how these terms apply to
+the facts presented. Reynolds Metals Co. v. Barker, 256 S.W.2d 17, 19 (Ky. 1953).
+
+                                                            B.
+
+       The next issue is the “amount” of credit Louisville Gas owes for each eligible transaction.
+See Schedule at 2, App. 35. Previously, the Commission avoided this question. The agency
+ordered Louisville Gas to provide credit to Owensboro in “an amount equal to the MISO charges
+for th[e] transmission reservation . . . with interest.” Order at 61,563 (emphasis added). But it
+never acknowledged that the contract’s language (“[c]harges . . . incur[red] to deliver such
+purchased electricity”) might not be categorically synonymous with the charges Owensboro
+incurred to reserve transmission rights (which seem to remain the same whether electricity is
+purchased for delivery or not).3 Schedule at 2, App. 35. If the two metrics are not the same, a
+
+       3
+           Of course, these reservation costs may indeed be part (or all) of the “[c]harges . . . incur[red].”
+ No. 19-4225                     Louisville G&E Co., et al. v. FERC                        Page 13
+
+
+question of fact exists over how much Owensboro incurred in each particular eligible
+transaction to deliver bought electricity. The Commission, of course, is best equipped to conduct
+such an investigation. What it may not do is equate the two metrics without explanation. State
+Farm, 463 U.S. at 56–57.
+
+                                                 C.
+
+       There is one other contract provision relevant to this dispute, which conditions certain
+credits on whether MISO and Louisville Gas offered “corresponding services.” See Schedule at
+3, App. 36. We express no view on the Commission’s interpretation of this provision—that firm
+and non-firm services are “corresponding.” Louisville Gas never mentioned the provision in its
+request for rehearing, so the matter is beyond our jurisdiction. See 16 U.S.C. § 825l(b) (limiting
+appellate jurisdiction to the “objection[s] . . . urged before the Commission in [an] application for
+rehearing”); Ky. Utils. Co. v. FERC, 766 F.2d 239, 241 & n.1, 248 (6th Cir. 1985). We
+acknowledge only that the Commission is free to reevaluate that interpretation on remand.
+
+                                          *      *       *
+
+       The Commission must decide Louisville Gas’s obligation to provide credit to Owensboro
+based on the text of the contract and relevant legal principles. Once the agency determines what
+the parties intended the scope of a transaction to be, it should then interpret the “how much”
+language consistent with Kentucky contract law. The Commission can then order Louisville Gas
+to provide credit in the appropriate amount for each eligible transaction.
+
+                                                IV.
+
+       Contracts call for contract analysis. That is precisely what the Commission needs to do.
+We grant the petition for review, vacate the order below, and remand to the Commission for
+further proceedings consistent with this opinion.
+

@@ -1,0 +1,788 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued December 7, 2022                Decided June 30, 2023
+
+                        No. 21-1263
+
+   BOARD OF COUNTY COMMISSIONERS OF WELD COUNTY,
+                     COLORADO
+                    PETITIONER
+
+                              v.
+
+          ENVIRONMENTAL PROTECTION AGENCY,
+                    RESPONDENT
+
+BOARD OF COUNTY COMMISSIONERS OF BOULDER COUNTY, ET
+                       AL.,
+            INTERVENORS FOR RESPONDENT
+
+
+                 Consolidated with 21-1013
+
+
+        On Petitions for Review of an Action of the
+       United States Environmental Protection Agency
+
+
+    Ethan G. Shenkman argued the cause for petitioner Board
+of County Commissioners of Weld County, Colorado. With
+him on the briefs were Charles Birkel, John R. Jacus, Shannon
+Stevenson, and Kathleen Pritchard. Bill Davis, Deputy
+Solicitor General, Office of the Attorney General of the State
+of Texas, argued the cause for petitioners State of Texas and
+Texas Commission on Environmental Quality. With him on
+                               2
+the briefs were Ken Paxton, Attorney General, Brent Webster,
+First Assistant Attorney General, Judd E. Stone II, Solicitor
+General, and Michael R. Abrams, Assistant Solicitor General.
+
+     Alexandra L. St. Romain, Attorney, U.S. Department of
+Justice, argued the cause for respondent. With her on the briefs
+were Todd Kim, Assistant Attorney General, Laura J.
+Glickman, Attorney, U.S. Department of Justice, and Seth
+Buchsbaum, Attorney, U.S. Environmental Protection Agency.
+Elliot Higgins, Attorney, U.S. Department of Justice, also
+argued the cause for respondent.
+
+     David Baake and Ryan Maher argued the cause for Board
+of County Commissioners of Boulder County, et al. With them
+on the brief were Robert Ukeiley and Joshua D. Smith.
+
+    Before: SRINIVASAN, Chief Judge, KATSAS, Circuit Judge,
+and ROGERS, Senior Circuit Judge.
+
+    Opinion for the Court by Circuit Judge KATSAS.
+
+     KATSAS, Circuit Judge: This case involves regulation of
+ozone levels under the Clean Air Act. In August 2018, the
+Environmental Protection Agency designated northern Weld
+County, Colorado and El Paso County, Texas as areas that had
+already attained a 2015 ozone pollution standard. But EPA
+reversed course after Clean Wisconsin v. EPA, 964 F.3d 1145
+(D.C. Cir. 2020), remanded these designations. In November
+2021, EPA folded northern Weld and El Paso Counties into
+areas previously designated as not having attained the standard.
+
+     Weld County contends that EPA improperly relied on data
+available in 2018, rather than updated data, and that the data do
+not support its adverse designation. We hold that EPA
+                               3
+reasonably relied on the same data it had used to make the
+original designation and that the data support the revised one.
+
+      Texas argues that El Paso’s 2021 nonattainment
+designation was impermissibly retroactive because EPA made
+it effective as of the 2018 attainment designation. As a result,
+a statutory deadline for El Paso to attain the governing standard
+passed some three months before EPA made the nonattainment
+designation. And missing the deadline triggered adverse legal
+consequences. We therefore agree with Texas that El Paso’s
+revised designation, backdated to the date of the original one,
+was impermissibly retroactive.
+
+                                I
+
+                               A
+
+    The Clean Air Act establishes a comprehensive scheme to
+reduce the atmospheric concentration of various air pollutants.
+The scheme works in three relevant steps.
+
+    First, EPA must establish and periodically revise national
+ambient air quality standards (NAAQS) for pollutants that may
+endanger public health or welfare. These standards set forth
+the maximum permissible concentration of the pollutant in the
+atmosphere. 42 U.S.C. §§ 7408(a)(1)(A), 7409(a)–(b).
+
+    Second, EPA must divide the country into geographic
+areas and designate them according to whether they satisfy the
+new standard. 42 U.S.C. § 7407(d)(1)(B)(i)–(iii). EPA marks
+an area as “attainment” when local atmospheric concentration
+of the pollutant—the area’s so-called “design value”—falls
+below the relevant NAAQS. However, an area must be
+designated as “nonattainment” if its design value exceeds that
+                               4
+level or if the area “contributes” to nonattainment in a “nearby
+area.” Id. § 7407(d)(1)(A)(i).
+
+     EPA works with the States to make these designations.
+Within a year of a new NAAQS, each State must make “initial
+designations” suggesting appropriate areas and attainment
+designations. 42 U.S.C. § 7407(d)(1)(A)–(B). If EPA
+proposes to modify an initial designation, it must notify the
+State in advance and allow it to contest the proposal. Id.
+§ 7407(d)(1)(B)(ii). EPA must finalize its designations within
+two years of promulgating the new standard—a deadline
+extendable for at most one year. Id. § 7407(d)(1)(B)(i).
+
+     Third, States must ensure that their designated areas
+achieve or maintain attainment status. To that end, a State must
+prepare a State Implementation Plan (SIP) specifying how each
+of its areas will do so. 42 U.S.C. § 7407(a). EPA sets the SIP
+deadline, which must be within three years of any
+nonattainment designation. Id. § 7502(b).
+
+     A nonattainment designation triggers more stringent
+regulation. For attainment areas, the SIP need only set forth
+measures “to prevent significant deterioration of air quality.”
+42 U.S.C. § 7471. But for nonattainment areas, the SIP must
+impose “all reasonably available” measures to achieve
+attainment “as expeditiously as practicable.” Id. § 7502(c)(1).
+
+     In addition, the Clean Air Act imposes deadlines for
+nonattainment areas to achieve attainment, which are called
+“attainment dates.” For ozone standards, EPA must designate
+nonattainment areas as marginal, moderate, serious, severe, or
+extreme. Areas designated as marginal nonattainment have
+three years to attain, while areas with worse designations have
+correspondingly longer deadlines. 42 U.S.C. § 7511(a)(1).
+                               5
+    A worse nonattainment designation triggers more stringent
+regulation. For moderate nonattainment areas, SIPs must
+undertake to significantly reduce emissions. 42 U.S.C.
+§ 7511a(b)(1)(A)(i). And for serious, severe, or extreme
+nonattainment areas, SIPs must undertake even more. Id.
+§ 7511a(c)–(e).
+
+     Failing to achieve attainment by the attainment date also
+has consequences. Within six months of that deadline, EPA
+must determine whether the area achieved attainment. 42
+U.S.C. § 7511(b)(2)(A). In general, an area that missed the
+deadline—i.e., failed to timely achieve attainment—must be
+“reclassified by operation of law” into a worse nonattainment
+status.     Id. § 7511(b)(2)(A)(i)–(ii).       And in some
+circumstances, EPA may sanction a State by taking away
+federal highway funds or by imposing further environmental
+regulations. Id. § 7509(a)–(b). So as a practical matter, States
+with nonattainment areas must “implement potentially
+expensive technology or expensive process changes to reduce
+pollution levels over a relatively short period of time.” Miss.
+Comm’n on Env’t Quality v. EPA, 790 F.3d 138, 146 (D.C. Cir.
+2015) (per curiam).
+
+                               B
+
+    Ground-level ozone forms when its precursors, nitrogen
+oxides and volatile organic compounds, react with sunlight.
+Power plants, motor vehicles, and combustion engines emit the
+precursors. Because ozone and its precursors travel easily
+through the atmosphere, nonattainment can occur hundreds of
+miles away from where the precursors were emitted.
+
+    In 2015, EPA reduced the NAAQS for ozone from 0.075
+to 0.070 parts per million. National Ambient Air Quality
+Standards for Ozone, 80 Fed. Reg. 65,292 (Oct. 26, 2015). For
+                               6
+this standard, EPA calculates design values based on three
+years of certified data. Id. at 65,294.
+
+    At the same time, EPA issued a guidance memo on how to
+designate areas under the 2015 ozone standard. The memo
+flagged five primary considerations: air quality, emissions,
+weather, topography, and jurisdictional boundaries. J.A. 152.
+
+     In 2018, EPA promulgated its designations. Additional
+Air Quality Designations for the 2015 Ozone National Ambient
+Air Quality Standards, 83 Fed. Reg. 25,776 (June 4, 2018).
+The agency relied primarily on data from 2014 to 2016, which
+was “the most recent data that states were required to certify at
+the time the EPA notified the states of its intended
+modifications to their recommendations.” Id. at 25,779. The
+designations went into effect in August 2018, starting the clock
+for nonattainment areas to attain. See 40 C.F.R. § 51.1303(a).
+
+                               C
+
+     In Clean Wisconsin, this Court held that EPA had acted
+arbitrarily in designating northern Weld County and El Paso
+County as attainment areas.
+
+     Weld is a large Colorado county located north of Denver.
+EPA concluded that the southern part of Weld County, but not
+the northern part, contributed to ozone pollution in the Denver
+metropolitan area. So it folded the southern part into a
+nonattainment area encompassing greater Denver, and it
+designated the northern part as a standalone attainment area.
+We were skeptical because northern Weld County produced
+emissions that “approached or exceeded those of several entire
+counties in the nonattainment area.” 964 F.3d at 1168. And
+we found EPA’s analysis of the local weather and topography
+to be shallow and inconsistent. Id. at 1169.
+                               7
+
+    El Paso County lies in western Texas and borders New
+Mexico. In 2018, EPA designated it as an attainment area. But
+when the Clean Wisconsin petitioners argued that El Paso
+contributed to nonattainment in Doña Ana County, New
+Mexico, EPA asked us to remand the designation for further
+explanation. We obliged but instructed the agency to revise its
+analysis “as expeditiously as practicable.” 964 F.3d at 1176.
+
+     We remanded the northern Weld and El Paso designations
+without vacating either one. In declining to vacate, we
+perceived a “realistic possibility” that EPA would be able to
+justify the original designations on remand. 964 F.3d at 1177.
+
+     EPA promulgated the revised designations in November
+2021. Additional Revised Air Quality Designations for the
+2015 Ozone National Ambient Air Quality Standards: El Paso
+County, Texas and Weld County, Colorado, 86 Fed. Reg.
+67,864 (Nov. 30, 2021) (Final Rule). These designations rest
+only on data that was available to EPA when it promulgated its
+original designations. Id. at 67,868–69. Based on this data, the
+agency concluded that the disputed areas contribute to nearby
+nonattainment. So EPA folded northern Weld County into the
+greater Denver marginal nonattainment area, and it folded El
+Paso County into a marginal nonattainment area that includes
+Doña Ana County. Id. at 67,873.
+
+     In doing so, EPA declined to recognize new attainment
+dates running from the date of the revised designations. Final
+Rule, 86 Fed. Reg. at 67,869. Because EPA designated Doña
+Ana County as a marginal nonattainment area in August 2018,
+its attainment date passed in August 2021—three months
+before the Final Rule folded El Paso County into that area. And
+because EPA recognized no new deadline, El Paso had no
+opportunity to meet its attainment date and thus timely attain.
+                              8
+EPA did extend one other deadline: Because Texas “had no
+notice that it should prepare a marginal area SIP submission”
+for the expanded nonattainment area, EPA gave Texas one
+more year to prepare a SIP with planning requirements for a
+marginal nonattainment area. Id. EPA later concluded that the
+El Paso-Doña Ana County area had not attained the 2015 ozone
+standard as of its August 2021 attainment date. Determination
+of Attainment by the Attainment Date But for International
+Emissions for the 2015 Ozone National Ambient Air Quality
+Standard; El Paso-Las Cruces, Texas-New Mexico, 88 Fed.
+Reg. 14,095 (Mar. 7, 2023).
+
+    Weld County and Texas seek review of the revised
+designations. We have jurisdiction under 42 U.S.C.
+§ 7607(b)(1).
+
+                              II
+
+     Weld County offers two reasons for why EPA acted
+arbitrarily in designating the entire county as marginal
+nonattainment. First, EPA failed to consider the most current
+available data. Second, the older data do not support the
+designation. Neither argument persuades.
+
+                              A
+
+     On remand, EPA faced a choice about what data to use in
+considering whether northern Weld County contributes to
+nonattainment in Denver. One option was to use only the
+certified data, gathered primarily from 2014 to 2016, that EPA
+had considered in making the original designations. Another
+option was to consider the most recent certified data, which
+was gathered from 2015 to early 2021. Weld contends that it
+was arbitrary for EPA to use the original data. We disagree.
+                               9
+     The Clean Air Act allows us to reverse rules that are
+“arbitrary, capricious, an abuse of discretion, or otherwise not
+in accordance with law.” 42 U.S.C. 7607(d)(9)(a). Under this
+familiar standard, copied from the Administrative Procedure
+Act, we uphold a rule if the agency “considered all relevant
+factors and articulated a rational connection between the facts
+found and the choice made.” Miss. Comm’n, 790 F.3d at 150
+(cleaned up).
+
+     EPA reasonably explained its decision to use only the data
+at its disposal while making the original designations. First,
+using the same data for localized redesignations would
+standardize its analysis and thus facilitate consistent treatment
+of all affected counties. J.A. 676. Second, using the original
+data would streamline the process and thus comply with our
+instruction in Clean Wisconsin to make any redesignations “as
+expeditiously as practicable.” 964 F.3d at 1176; see J.A. 677.
+
+     Mississippi Commission bolsters EPA’s choice. In that
+case, EPA used older data to designate a tristate nonattainment
+area despite possessing more recent, certified data from two of
+the three states. We declined “to declare irrational the EPA’s
+conclusion that comparing data from the same time period
+would be more appropriate than analyzing data from different
+time periods in the same evaluation process.” 790 F.3d at 160.
+So too here. If EPA could choose a matched dataset to classify
+a nonattainment area spanning multiple states, then it can also
+choose a matched dataset to classify a nonattainment area
+spanning multiple counties within a state.
+
+     We recognize that an agency generally must base its
+decisions on the best available data. But the question here is
+whether EPA was required to use one data set (the most recent
+certified data) in assessing northern Weld County’s
+contribution to ozone pollution in greater Denver even though
+                               10
+it had used another data set (the certified data available at the
+time of the original designations) in assessing the contribution
+of at least eight other counties in the same area. In these
+circumstances, EPA plausibly explained why the benefits of a
+matched dataset—greater parity among counties and faster
+turnaround—make the original data a better choice than partial
+updating.
+
+    Weld County objects that EPA failed to act consistently.
+Weld notes that EPA refused to consider certain air quality data
+from 2014 to 2016. But this data was not made available to
+EPA until 2020 and 2021, so its exclusion was consistent with
+EPA’s overall approach to stay within the record available
+when it made the original designations. Weld further notes that
+EPA, in making those designations, did consider some data
+from as late as 2017. EPA did so to the extent that some States
+chose to certify air quality data ahead of schedule. But because
+Colorado did not avail itself of this option, EPA based its 2018
+designation on Colorado’s certified data from 2014 to 2016.
+None of this suggests that EPA acted inconsistently or
+otherwise arbitrarily.
+
+                               B
+
+     Weld County further argues that the certified data do not
+support including its northern part in the greater Denver
+nonattainment area. As noted above, EPA uses five factors to
+define areas and determine their attainment status. The last
+four factors (emissions, weather, topography, and jurisdictional
+boundaries) bear on the appropriate boundaries for a particular
+area. The first factor (air quality) bears on its appropriate
+designation. If EPA determines that one area contributes to
+another’s nonattainment, it will combine those areas into a
+single nonattainment area.
+                               11
+    Weld County does not challenge this overall framework
+for making the designations. Instead, it contends that EPA
+unreasonably applied the framework to conclude that northern
+Weld County contributes to Denver’s nonattainment. We see
+no reason to disturb this highly technical judgment.
+
+     1. Air Quality. EPA assesses air quality by considering
+whether local monitors report NAAQS violations—i.e., a
+design value above 0.070 parts per million. The presence of a
+single violating monitor justifies a nonattainment designation.
+In the Denver metropolitan area, EPA found five of them.
+
+     Weld contends that EPA erred by using outlier data
+associated with wildfires and stratospheric intrusions. EPA
+may disregard data that arises from an “exceptional event.” 40
+C.F.R. § 50.14. But to exclude data on this ground, a State
+must prove to EPA that an exceptional event “caused a specific
+air pollution concentration at a particular air quality monitoring
+location.” Id. § 50.14(a)(1)(ii). Colorado made no effort to
+link the Denver monitor readings to any exceptional event. To
+the contrary, in opposing the Final Rule, Colorado
+acknowledged its failure to submit any “exceptional event
+demonstrations.” J.A. 631.
+
+     2. Emissions. This factor primarily considers the origin
+and quantity of precursor emissions. Data showed that Weld
+County produces more than three times the emissions of the
+next-highest-emitting county in the Denver metropolitan area.
+And although northern Weld County accounts for only a small
+fraction of the County’s overall emissions, we noted in Clean
+Wisconsin that a small fraction of a large number can still be a
+large number. 964 F.3d at 1168.
+
+    On remand, EPA concluded that northern Weld County
+produces significant emissions because (a) the County
+                              12
+produces far more emissions than any nearby county, (b) most
+of its emissions come from oil-and-gas wells, and (c) nearly
+eight percent of the County’s 36,682 wells are in its northern
+portion. Furthermore, northern Weld County has three
+individual sources that each emit over 100 tons of ozone
+precursors per year. In our view, these facts support EPA’s
+revised conclusion.
+
+     Weld again claims inconsistency. It objects that EPA
+failed to reevaluate emissions from the northern part of nearby
+Larimer County, which EPA excluded from the Denver
+nonattainment area. But no data in the relevant set compares
+the emissions of northern Weld and northern Larimer counties.
+Instead, Weld flags data comparing the combined emissions of
+northern Weld and northern Larimer counties to emissions
+from the Denver nonattainment area. We cannot infer from this
+that northern Larimer’s emissions exceed northern Weld’s.
+
+     Weld continues that northern Larimer County is a stronger
+candidate for inclusion in the nonattainment area because it has
+a higher population density and more vehicle miles travelled
+than does northern Weld County. But as EPA explained,
+northern Larimer and northern Weld Counties differ in other
+important respects, such as topography, that cut in favor of
+designating only northern Weld County.            To establish
+arbitrariness based on inconsistency, Weld must show that
+EPA “treated genuinely similar counties dissimilarly.” Miss.
+Comm’n, 790 F.3d at 169 (cleaned up). Given the various
+cross-cutting considerations we have noted, Weld has not made
+that showing.
+
+    3.    Weather.     EPA considers how meteorological
+conditions affect the movement of ozone and its precursors
+through the atmosphere. EPA uses a model to determine this
+movement from data about wind speed and direction,
+                                13
+temperature, humidity, and air pressure. The model predicts
+the paths, known as “back trajectories,” traveled by air parcels
+that reach a violating monitor. Clean Wisc., 964 F.3d at 1155.
+If the model’s projections show air parcels moving from a
+region to the violating monitor, that supports including the
+region in the nonattainment area. According to EPA, the model
+indicates that emissions from northern Weld County move into
+the Denver nonattainment area.
+
+     Weld contends that EPA ignored certain model projections
+suggesting otherwise. But EPA did consider these projections,
+and it offered three sound reasons for discounting them: First,
+the projections missed all back trajectories from one of the
+violating monitors. Second, they missed back trajectories from
+2016. Third, they missed back trajectories from each day when
+a monitor registered an above-NAAQS design value. In any
+event, EPA further explained that even the County’s preferred
+data suggest that air flow from northern Weld County “affect[s]
+violating monitors” in the Denver area. J.A. 682.
+
+     Weld also highlights supposed flaws in EPA’s data. First,
+it complains that the data tracks air parcels arriving at a monitor
+only during a single hour of the day. But Weld did not raise
+this argument below, and we thus need not consider it. In any
+event, EPA sensibly focused on the time of day when ozone
+concentrations were highest. Plus, data from other times could
+only expand the possible source regions; they could not change
+the critical fact that some air parcels travel from northern Weld
+County to greater Denver. Second, Weld objects that EPA did
+not try to predict how terrain near violating monitors might
+influence particle trajectory. But the model seeks to measure
+the paths traveled by air parcels to a violating monitor; it is not
+concerned with how terrain near violating monitors impacts
+particle trajectory.
+                              14
+     4. Topography. In originally excluding northern Weld
+County from the Denver nonattainment area, EPA claimed that
+its boundary line tracked an elevation called the Cheyenne
+Ridge, which assertedly blocks local emissions from reaching
+Denver. But in Clean Wisconsin, we found that the ridge was
+in the northernmost part of Weld County, along the boundary
+between Colorado and Wyoming. See 964 F.3d at 1168.
+
+     On remand, EPA agreed with our assessment and then
+concluded that the local topography funneled, rather than
+impeded, the flow of air from Northern Weld County to greater
+Denver. Weld objects that EPA again misplaced the ridgeline,
+but it provides no convincing response to the evidence already
+credited by this Court.
+
+    5. Jurisdictional boundaries. The last main factor that
+EPA considers is existing jurisdictional boundaries. All else
+equal, administration is easier when area designations track
+preexisting boundaries such as county lines. So here, EPA
+reasoned, such boundaries support combining northern and
+southern Weld County.
+
+     The County objects that EPA failed to quantify the
+emissions contributions of its northern portion. But we have
+allowed EPA to designate nonattainment areas without
+isolating and quantifying the exact emissions from each subpart
+of a jurisdiction. Catawba Cnty., N.C. v. EPA, 571 F.3d 20, 40
+(D.C. Cir. 2009). Weld notes considerations such as its size
+and uneven elevation. But we cannot conclude that EPA was
+legally compelled to subdivide the County, particularly given
+some affirmative evidence that northern Weld County does
+contribute to Denver’s nonattainment.
+                               15
+
+                               III
+
+     Texas argues that the Final Rule is impermissibly
+retroactive because, in December 2021, it folded El Paso
+County into a nonattainment area for which the August 2021
+attainment date had already passed. We agree.
+
+                               A
+
+     Agencies cannot promulgate retroactive rules without
+express statutory authorization.        See, e.g., Bowen v.
+Georgetown Univ. Hosp., 488 U.S. 204, 224 (1988) (Scalia, J.,
+concurring). And this Court has held that nothing in the Clean
+Air Act gives EPA “the unusual ability to implement rules
+retroactively.” Sierra Club v. Whitman, 285 F.3d 63, 68 (D.C.
+Cir. 2002). So, if the Final Rule operates retroactively as
+applied to El Paso, then it cannot stand.
+
+     A rule operates retroactively when it “would impair rights
+a party possessed when he acted, increase a party’s liability for
+past conduct, or impose new duties with respect to transactions
+already completed.” Landgraf v. USI Film Prods., 511 U.S.
+244, 280 (1994). In other words, “retroactive rules alter the
+past legal consequences of past actions.” Arkema, Inc. v. EPA,
+618 F.3d 1, 7 (D.C. Cir. 2010) (quoting Bowen v. Georgetown
+Univ. Hosp., 488 U.S. 204, 219 (1988) (Scalia, J., concurring))
+(cleaned up); see Landgraf, 511 U.S. at 269–70 (“the court
+must ask whether the new provision attaches new legal
+consequences to events completed before its enactment”). On
+the other hand, it is not enough that a rule “upsets expectations
+based in prior law,” id. at 269, or “draws upon antecedent facts
+for its operation,” id. at n.24 (cleaned up).
+                              16
+     The Final Rule is impermissibly retroactive. Recall that a
+marginal nonattainment designation gives rise to an attainment
+date that is three years after the designation. 42 U.S.C.
+§ 7511(a). If a State misses the deadline, EPA must reclassify
+the designated area to a worse nonattainment status “by
+operation of law.” Id. § 7511(b)(2)(A)(i)–(ii). And the
+reclassification triggers the various additional burdens that
+come with the downgraded status. Id. § 7511a(b)(1). By
+design, this scheme provides strong incentives for States with
+nonattainment areas to use the three-year runway to achieve
+attainment. And 17 of the 36 areas designated as marginal
+nonattainment for the 2008 ozone NAAQS did timely attain.
+See Determinations of Attainment by the Attainment Date, 81
+Fed. Reg. 26,697, 26,700 (May 4, 2016).
+
+     Here, Texas never had the requisite opportunity to reach
+timely attainment. In August 2018, EPA classified El Paso as
+an attainment area. Texas thus had no reason to plan for
+improving El Paso’s air quality at that time. Yet in November
+2021, EPA folded El Paso into an existing nonattainment
+area—three months after that area’s August 2021 attainment
+deadline had passed. And despite considering the question at
+length, EPA refused to recognize an attainment date for El Paso
+running from the date of its new nonattainment designation.
+J.A. 661–63. Thus, despite designating El Paso as a
+nonattainment area in November 2021, EPA effectively
+backdated to August 2018 the start of its three-year runway for
+reaching attainment. The Final Rule thereby imposed
+liabilities on Texas’s inaction between August 2018 and
+August 2021—i.e., it imposed on Texas the consequences of
+missing a compliance deadline that passed before the
+underlying legal obligation was imposed.
+
+     Our caselaw confirms that the Final Rule operates
+retroactively. We have made clear that because EPA lacks
+                               17
+statutory authority to promulgate retroactive rules, it cannot
+impose on States new obligations with compliance deadlines
+already in the past. Three decisions prove this point.
+
+     Start with Sierra Club v. Whitman. In 1991, EPA
+designated St. Louis as a moderate nonattainment area,
+triggering a 1996 attainment date. After EPA missed its own
+1997 deadline for determining whether St. Louis had timely
+attained, the agency refused to backdate to that deadline its
+later determination that the city had not timely attained.
+Upholding the refusal to backdate, we invoked the principle
+that EPA cannot engage in “retroactive rulemaking.” 285 F.3d
+at 68. Likewise, we explained that the requested backdating
+would have “likely impose[d] large costs on the States, which
+would face fines and suits for not implementing air pollution
+prevention plans in 1997, even though they were not on notice
+at the time” of any legal obligation to do so. Id.
+
+     The same logic guided our decision in Sierra Club v. EPA,
+356 F.3d 296 (D.C. Cir. 2004). In that case, EPA downgraded
+the District of Columbia from serious to severe nonattainment.
+But because the deadline for submitting a severe nonattainment
+SIP had already passed, EPA gave the District a new deadline
+for doing so. We again rejected a contention that the original
+deadline should control—which, we said, would make the
+reclassification retroactive “by holding the States in default of
+their submission obligations before the events necessary to
+trigger that obligation (reclassification) occurred.” Id. at 309
+(cleaned up).
+
+     Last is WildEarth Guardians v. EPA, 830 F.3d 529 (D.C.
+Cir. 2016). After we held that EPA had been using the wrong
+statutory scheme to regulate fine particulate matter, the agency
+adjusted the SIP and attainment deadlines under the correct
+scheme “to avoid treating states as having already missed
+                              18
+deadlines of which they were never aware.” Id. at 531. We
+rejected a contention that EPA should have assumed the correct
+framework had been applied all along. In doing so, we
+described the adjustments as necessary to avoid imposing
+“retroactive consequences on states.” Id. at 540. We also
+rejected a proposed distinction between “present findings of
+noncompliance” and the sort of “backdated findings” in the
+Sierra Club cases. Id. In either instance, we reasoned, “States
+would be held to long-passed deadlines of which they were
+unaware, with meaningful legal consequences.” Id. at 541.
+
+                              B
+
+     EPA’s responses are unpersuasive. EPA objects that
+Texas did not preserve its retroactivity argument below. But in
+opposing the proposed Final Rule, Texas could not have been
+much clearer. It argued that the El Paso County area “should
+not be tied retroactively to implementation deadlines that
+existed prior to the area being designated as nonattainment.”
+J.A. 614. And it warned that “[a]ny attempt to ‘link’ El Paso
+County to the [Doña Ana] nonattainment designation
+implementation dates would exceed” EPA’s statutory
+authority. J.A. 615. The Texas Association of Manufacturers
+echoed these concerns. It objected that EPA lacked statutory
+authority to eliminate Texas’s three-year attainment runway
+“[b]y retroactively attaching Dona Ana County’s attainment
+date to El Paso.” J.A. 411. This comment also preserved the
+retroactivity issue. See Ne. Md. Waste Disposal Auth. v. EPA,
+358 F.3d 936, 948 n.12 (D.C. Cir. 2004) (“It is sufficient that
+an issue was raised by any commenter; the party petitioning for
+judicial review need not have done so itself.”).
+
+    On the merits, EPA contends that its classification of El
+Paso as a nonattainment area imposed only prospective
+obligations on Texas—the requirement to submit a new SIP,
+                              19
+for which EPA imposed a new deadline, and the future
+planning requirements associated with nonattainment status.
+But as discussed, EPA refused to set an attainment date keyed
+to the November 2021 designation. Texas thus found itself in
+the unenviable position of learning in November 2021 that El
+Paso County either had to have reached attainment by its
+August 2021 attainment date or would suffer the consequences
+flowing “by operation of law” from having missed that
+deadline. 42 U.S.C. § 7511(b)(2)(A). To be sure, a downgrade
+does not happen by itself, but only after EPA determines that
+the area has missed the deadline. See id. But EPA’s decision
+to backdate El Paso’s nonattainment designation retroactively
+adjusted Texas’s legal rights by increasing the State’s exposure
+to the harsh consequences that follow from failing to meet an
+already past deadline.
+
+     We recognize that El Paso may yet avoid the additional
+burdens flowing from a downgraded attainment classification.
+The Clean Air Act provides an exception to the mandatory
+downgrade if a State proves to EPA that the nonattainment area
+would have met its deadline “but for emissions emanating from
+outside of the United States.” 42 U.S.C. § 7509a(a)(2); see
+Implementation of the 2015 National Ambient Air Quality
+Standards for Ozone, 83 Fed. Reg. 62,998, 63,009 & n.24 (Dec.
+6, 2018). Several months after oral argument, EPA proposed a
+rule reflecting its tentative judgment that the El Paso-Doña Ana
+area would have timely attained but for emissions from
+Mexico. Determination of Attainment by the Attainment Date
+But for International Emissions for the 2015 Ozone National
+Ambient Air Quality Standard, 88 Fed. Reg. at 14,101. This
+proposed rule does not change our analysis. For one thing, it
+is not final and thus currently lacks the force of law. In any
+event, the nonattainment designation still created substantial
+legal exposure for Texas based on its inaction between August
+2018 and August 2021. The fact that a distinct affirmative
+                               20
+defense might extinguish it does not change the retroactive
+character of the rule creating the exposure in the first place.
+
+     The intervenors press two further retroactivity points,
+which we reject. First, they claim Texas knew all along that El
+Paso’s status could change. For support, they invoke Treasure
+State Resource Industry Association v. EPA, 805 F.3d 300
+(D.C. Cir. 2015), which held that a NAAQS designation is not
+impermissibly retroactive just because it relies on old data. Id.
+at 305–06; see also Landgraf, 511 U.S. at 269 n.24. But Texas
+does not contend that El Paso’s nonattainment designation in
+November 2021 was impermissibly retroactive because it was
+based on air quality data from earlier years. Instead, Texas
+contends that the designation was impermissibly backdated to
+August 2018. Moreover, agencies always may prospectively
+change their regulations, just as legislatures always may
+prospectively amend their statutes. If that possibility were
+enough to vitiate retroactivity concerns, the presumption
+against retroactive statutes and rules would amount to nothing.
+
+     Second, the intervenors object that Texas failed to identify
+any different steps it would have taken if EPA had designated
+El Paso as a nonattainment area in 2018. But Texas need not
+make that showing. As explained above, a rule that “attaches
+new legal consequences to events completed before its
+enactment” is retroactive, see Landgraf, 511 U.S. at 269–70,
+and thus “invalid unless specifically authorized.” Nat’l
+Petrochemical & Refiners Ass’n v. EPA, 630 F.3d 145, 159
+(D.C. Cir. 2010). On the other hand, a rule that merely “upsets
+expectations based in prior law” is not retroactive in the same
+way; it is instead only “secondarily retroactive,” and thus
+“invalid only if arbitrary and capricious.” Id. (quoting
+Landgraf, 511 U.S. at 269); see Nat’l Cable & Telecomm.
+Ass’n v. FCC, 567 F.3d 659, 670–71 (D.C. Cir. 2009). In
+reviewing a rule with such secondary retroactivity, we must
+                                21
+balance the harm of “upsetting prior expectations” against any
+benefits of applying the rule “to those preexisting interests.”
+Nat’l Cable & Telecomm. Ass’n, 567 F.3d at 670; see also
+Bowen, 488 U.S. at 220 (Scalia, J., concurring) (“A rule that
+has unreasonable secondary retroactivity—for example,
+altering future regulation in a manner that makes worthless
+substantial past investment incurred in reliance upon the prior
+rule—may for that reason be ‘arbitrary’ or ‘capricious.’”). For
+this inquiry, the extent of any reliance or expectation interests
+is obviously critical. But the intervenors cite no case
+suggesting that a statute or regulation exhibiting primary
+retroactivity, by changing the past legal consequences of past
+actions, is presumptively valid absent a showing of case-
+specific reliance by adversely affected parties.
+
+     By backdating El Paso’s 2021 nonattainment designation
+to 2018, EPA changed the legal consequences of Texas’s
+inaction over that past period. The designation thus exhibited
+primary retroactivity—and was invalid for that reason.
+
+                                IV
+
+     Our final task is to determine the appropriate remedy. The
+Clean Air Act permits us to “reverse” any EPA “action” found
+to be arbitrary. 42 U.S.C. 7607(d)(9). Texas asks us to reverse
+the Final Rule itself. But regulations—like statutes—are
+presumptively severable: If parts of a regulation are invalid
+and other parts are not, we set aside only the invalid parts unless
+the remaining ones cannot operate by themselves or unless the
+agency manifests an intent for the entire package to rise or fall
+together. This is true for agency rules in general, e.g., Finnbin,
+LLC v. CPSC, 45 F.4th 127, 136 (D.C. Cir. 2022); Carlson v.
+Postal Regul. Comm’n, 938 F.3d 337, 351 (D.C. Cir. 2019),
+and for EPA rules in particular, e.g., Virginia v. EPA, 116 F.3d
+499, 500–01 (D.C. Cir. 1997); Davis Cnty. Solid Waste Mgmt.
+                              22
+v. EPA, 108 F.3d 1454, 1459 (D.C. Cir. 1997). Moreover,
+judicial remedies should be “no more burdensome to the
+defendant than necessary to provide complete relief” to the
+plaintiffs or petitioners. Califano v. Yamasaki, 442 U.S. 682,
+702 (1979); see also California v. Texas, 141 S. Ct. 2104, 2115
+(2021) (remedies “operate with respect to specific parties”
+rather than “on legal rules in the abstract”) (cleaned up).
+
+     Under these standards, the revised Weld County and El
+Paso designations are clearly severable. They adjust the
+geographic boundaries, and thereby the attainment status, of
+areas hundreds of miles apart. Each revised designation
+functions perfectly well on its own, and we have no reason to
+think that EPA would want both the revised designations to fall
+simply because one of them is invalid. For these reasons, we
+decline to disturb the Weld County designation.
+
+     A distinct severability question relates to the El Paso
+nonattainment designation. As we have explained, its
+impermissible retroactivity arises not from the designation
+itself, but from the designation combined with EPA’s refusal
+to recognize a new attainment date. We could cure the legal
+violation by reversing either decision. But since EPA has
+strenuously argued that a new attainment date would create
+both fairness and administrability concerns, J.A. 662–64, we
+are reluctant to force that option on EPA. Instead, we think it
+more prudent simply to reverse the nonattainment designation,
+leaving EPA free on remand to decide whether to make a new
+designation with its own attainment date or simply to let well
+enough alone.
+
+                               V
+
+     For these reasons, we deny Weld County’s petition for
+review, grant Texas’s petition for review, and reverse the Final
+                             23
+Rule insofar as it designates El Paso County to be a marginal
+nonattainment area.
+
+                                                 So ordered.
+

@@ -1,0 +1,502 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 9, 2023               Decided August 8, 2023
+
+                        No. 22-5121
+
+                  OPTIMAL WIRELESS LLC,
+                       APPELLANT
+
+                              v.
+
+            INTERNAL REVENUE SERVICE, ET AL.,
+                       APPELLEES
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:20-cv-02297)
+
+
+
+    Jason B. Freeman argued the cause and filed the briefs for
+appellant. Kodie P. Bennion and Glen E. Frost entered
+appearances.
+
+    Ellen P. DelSole, Attorney, U.S. Department of Justice,
+argued the cause for appellees. With her on the brief were
+Francesca Ugolini and Geoffrey J. Klimas, Attorneys.
+
+    Before: SRINIVASAN, Chief Judge, WILKINS, Circuit
+Judge, and TATEL, Senior Circuit Judge.
+
+    Opinion for the Court filed by Chief Judge SRINIVASAN.
+                              2
+    SRINIVASAN, Chief Judge: The Affordable Care Act
+obligates large employers to provide their full-time employees
+with health insurance coverage meeting certain requirements.
+If an employer fails to provide coverage or provides
+noncomplying coverage, it is liable for an exaction under 26
+U.S.C. § 4980H.
+
+     In 2019, the Internal Revenue Service sent two letters
+proposing exactions under Section 4980H to appellant Optimal
+Wireless, a wireless communications company. Optimal then
+filed an action against the IRS and the Department of Health
+and Human Services, claiming that the agencies had failed to
+satisfy certain procedural requirements before imposing the
+proposed exactions. Optimal sought a declaratory judgment
+and an injunction barring the IRS from collecting any money
+without complying with those procedures.
+
+     The district court dismissed Optimal’s suit for lack of
+jurisdiction. The court held that an exaction under Section
+4980H is a “tax” for purposes of the Anti-Injunction Act, which
+strips courts of jurisdiction over suits having the “purpose of
+restraining the assessment or collection of any tax.” 26 U.S.C.
+§ 7421(a). We agree with the district court.
+
+                              I.
+
+                              A.
+
+    The Patient Protection and Affordable Care Act (ACA)
+“aims to increase the number of Americans covered by health
+insurance and decrease the cost of health care.” Nat’l Fed’n of
+Indep. Bus. v. Sebelius, 567 U.S. 519, 538 (2012) (NFIB). The
+ACA contains both an individual mandate and an employer
+mandate.
+                               3
+     The individual mandate “requires most Americans to
+maintain ‘minimum essential’ health insurance coverage.” Id.
+at 539 (quoting 26 U.S.C. § 5000A). Many people obtain the
+required coverage through their employer. Id. A person who
+does not comply with the individual mandate must pay a
+“[s]hared responsibility payment” to the federal government.
+Id. (alteration in original) (quoting 26 U.S.C. § 5000A(b)). The
+Supreme Court upheld the individual mandate in NFIB as a
+constitutional exercise of Congress’s power to tax. Id. at 574.
+Congress, though, later “effectively nullified the penalty by
+setting its amount at $0.” California v. Texas, 141 S. Ct. 2104,
+2112 (2021) (citing 26 U.S.C. § 5000A(c)).
+
+     To facilitate compliance with the individual mandate’s
+requirement for Americans to obtain health insurance, the ACA
+also imposes obligations upon employers. The employer
+mandate, which is at issue in this case, requires “large
+employer[s]” to give full-time employees “the opportunity to
+enroll in minimum essential coverage under an eligible
+employer-sponsored plan.”          26 U.S.C. § 4980H(a)(1),
+(b)(1)(A). A “large” employer is an employer that had an
+average of at least fifty full-time employees in the preceding
+year. Id. § 4980H(c)(2)(A).
+
+     The employer mandate is backed by exactions imposed
+against noncomplying employers. Id. § 4980H(a)–(b). To
+avoid incurring an exaction, employers must do more than just
+offer minimum essential coverage. First, they must provide an
+“affordable” health care option, defined by reference to the
+applicable taxpayer’s household income.                See id.
+§ 36B(c)(2)(C)(i)(II). Second, they must offer a plan providing
+“minimum value,” defined as a plan covering 60 percent or
+more of the total allowed costs. See id. § 36B(c)(2)(C)(ii).
+                                 4
+     If an employer fails to provide coverage meeting those
+requirements (or fails to provide coverage altogether), its
+employees may be eligible to receive a premium tax credit or
+cost-sharing reduction, mechanisms the ACA established to
+defray the costs of health insurance and health care. See id.
+§ 36B (premium tax credits); 42 U.S.C. § 18071 (cost-sharing
+reduction). And if an employee claims a premium tax credit or
+cost-sharing reduction, thus denoting a failure by her employer
+to provide the requisite coverage, her employer is subject to
+one of two exactions imposed by subsections (a) and (b) of
+Section 4980H.
+
+    First, under Section 4980H(a), an employer is liable for an
+exaction if it “fails to offer to its full-time employees (and their
+dependents) the opportunity to enroll in minimum essential
+coverage under an eligible employer-sponsored plan . . . for
+any month.” 26 U.S.C. § 4980H(a)(1). Under that provision,
+an employer is subject to “an assessable payment equal to the
+product of the applicable payment amount [of 1/12 of $2,000]
+and the number of individuals employed . . . as full-time
+employees during such month.” Id. § 4980H(a), (c)(1).
+
+     Second, under Section 4980H(b), an employer is liable for
+an exaction if it does “offer[] to its full-time employees (and
+their dependents) the opportunity to enroll in minimum
+essential coverage” but an employee is still certified as having
+received a premium tax credit or cost-sharing reduction. Id.
+§ 4980H(b). (That can occur if the offered coverage is
+unaffordable or inadequate in value.) In that case, an employer
+is subject to “an assessable payment equal to the product of the
+number of full-time employees” having received such
+certification “and an amount equal to 1/12 of $3,000.” Id.
+§ 4980H(b)(1). The statute also provides that an exaction
+under Section 4980H(b) cannot exceed the maximum possible
+exaction under Section 4980H(a). See id. § 4980H(b)(2).
+                                5
+
+     Section 4980H(a) thus differs from Section 4980H(b) in
+two ways. First, Section 4980H(a) applies when an employer
+does not provide minimum essential coverage at all, whereas
+Section 4980H(b) applies when the employer offers coverage
+but that coverage fails to qualify as affordable or as providing
+minimum value. Second, Section 4980H(a)’s exaction amount
+is a function of the employer’s total number of full-time
+employees, whereas Section 4980H(b)’s exaction amount is a
+function of only the number of employees certified as having
+received a premium tax credit or cost-sharing reduction.
+
+                                B.
+
+    Because the district court resolved this case on a motion to
+dismiss the complaint, we take as true the factual allegations in
+Optimal’s complaint. Sparrow v. United Air Lines, Inc., 216
+F.3d 1111, 1113 (D.C. Cir. 2000).
+
+     Optimal provides wireless communications services and
+products in Texas, New Mexico, Oklahoma, and Louisiana. In
+2019, the IRS sent letters to Optimal certifying that, for at least
+one month in 2016 and 2017, one or more of Optimal’s
+employees had been enrolled in a qualified health plan for
+which a premium tax credit was allowed. As a result, the IRS’s
+letters explained, Optimal owed the IRS exactions under
+Section 4980H equaling $395,640 for 2016 and $736,383 for
+2017.
+
+     Optimal then filed an action in district court against the
+IRS and the Department of Health and Human Services (HHS).
+Optimal argued that the applicable regulations require HHS
+(rather than the IRS) to issue the certification concerning an
+employee’s receipt of a premium tax credit or cost-sharing
+reduction, but HHS had not done so. See 42 U.S.C.
+                               6
+§ 18081(e)(4)(B)(iii); 45 C.F.R. § 155.310(h). Optimal further
+contended that HHS had not provided it with an appeals
+process as required by 42 U.S.C. § 18081(f)(2)(A). Finally,
+Optimal submitted that neither the IRS nor HHS had complied
+with 26 U.S.C. § 6751(b), which requires the immediate
+supervisor of the person making the determination to give
+written approval of an assessment.
+
+     Optimal sought attorneys’ fees, declaratory relief, and an
+injunction barring the assessment and collection of the Section
+4980H exactions absent compliance with the procedural
+requirements alleged to have been infringed. The government
+moved to dismiss Optimal’s suit on various grounds, including
+that the Anti-Injunction Act divests the district court of
+jurisdiction over the action.
+
+     The district court granted the government’s motion to
+dismiss for lack of jurisdiction. See Optimal Wireless LLC v.
+IRS, No. 1:20-cv-02297, 2022 WL 1462325 (D.D.C. Mar. 8,
+2022). The court held that an exaction under Section 4980H is
+a “tax” for purposes of the Anti-Injunction Act’s jurisdictional
+bar against a court maintaining any suit seeking to “restrain[]
+the assessment or collection of any tax.” 26 U.S.C. § 7421(a).
+
+                              II.
+
+    The Anti-Injunction Act provides that, with certain
+exceptions, “no suit for the purpose of restraining the
+assessment or collection of any tax shall be maintained in any
+court by any person, whether or not such person is the person
+against whom such tax was assessed.” 26 U.S.C. § 7421(a).
+The Act “protects the Government’s ability to collect a
+consistent stream of revenue, by barring litigation to enjoin or
+otherwise obstruct the collection of taxes.” NFIB, 567 U.S. at
+543. Because of the Act’s general prohibition against suits
+                                7
+seeking to restrain the assessment or collection of a tax, “taxes
+can ordinarily be challenged only after they are paid, by suing
+for a refund.” Id.
+
+     In this case, Optimal plainly seeks to “restrain[] the
+assessment or collection” of an exaction under Section
+4980H. 26 U.S.C. § 7421(a). “The Anti-Injunction Act kicks
+in when the target of a requested injunction is a tax obligation,”
+and courts determine the target of a suit by looking at the “face
+of the taxpayer’s complaint.” CIC Servs., LLC v. IRS, 141 S.
+Ct. 1582, 1589–90 (2021). The face of Optimal’s complaint
+requests the district court to “enjoin the IRS from assessing and
+collecting the assessable payment under 26 U.S.C. § 4980H
+against Optimal Wireless.” Compl. ¶ F, J.A. 12. And while
+Optimal also requested declaratory relief to that same end, see
+id. ¶¶ A–E, J.A. 11–12, that request, for purposes of the Anti-
+Injunction Act, rises or falls with its request for injunctive
+relief, see Cohen v. United States, 650 F.3d 717, 727–28 (D.C.
+Cir. 2011) (en banc).
+
+     Because Optimal’s complaint seeks to “restrain[] the
+assessment or collection” of a Section 4980H exaction, 26
+U.S.C. § 7421(a), the pivotal question for purposes of the Anti-
+Injunction Act is whether that exaction is a “tax” within the
+meaning of the Act. If so, the Act deprives a court of
+jurisdiction over Optimal’s suit. Our fellow circuits have
+disagreed on whether a Section 4980H exaction is a “tax” for
+purposes of the Act’s jurisdictional bar. Compare Hotze v.
+Burwell, 784 F.3d 984, 996–99 (5th Cir. 2015) (Section 4980H
+exaction is a tax), with Liberty Univ., Inc. v. Lew, 733 F.3d 72,
+87–89 (4th Cir. 2013) (Section 4980H exaction is not a tax);
+see also Korte v. Sebelius, 735 F.3d 654, 671 (7th Cir. 2013)
+(indicating that Section 4980H exaction would not constitute a
+tax). We hold that an exaction under Section 4980H is a “tax”
+within the meaning of the Anti-Injunction Act.
+                                8
+
+     Optimal contends as a threshold matter that, for us to reach
+that conclusion, Section 4980H must contain a clear statement
+that its exactions constitute a “tax.” Optimal relies on decisions
+requiring a party to “clear a high bar to establish that a
+statute . . . is jurisdictional,” given the “harsh consequences”
+attending such a reading. United States v. Wong, 575 U.S. 402,
+409 (2015); see Sebelius v. Auburn Reg’l Med. Ctr., 568 U.S.
+145, 153 (2013). The statute subject to that “high bar,”
+however, is the Anti-Injunction Act, not Section 4980H. And
+there is no dispute that the Anti-Injunction Act is
+jurisdictional—i.e., that it “deprive[s] the District Court of
+jurisdiction” when it applies. Bob Jones Univ. v. Simon, 416
+U.S. 725, 749 (1974). The question of whether another statute
+is best read to implicate the Anti-Injunction Act’s jurisdictional
+bar—which here turns on whether Section 4980H imposes a
+“tax”—is governed by ordinary principles of statutory
+interpretation, not by any clear-statement rule.
+
+     In NFIB, accordingly, the Supreme Court assessed
+whether the ACA’s individual mandate imposed a “tax” for
+purposes of the Anti-Injunction Act’s jurisdictional bar without
+invoking any clear-statement rule. See 567 U.S. at 543–45.
+The Court explained that, because the “Anti-Injunction Act and
+the Affordable Care Act . . . are creatures of Congress’s own
+creation,” “[h]ow they relate to each other is up to Congress.”
+Id. at 544. And “the best evidence of Congress’s intent” in that
+regard “is the statutory text.” Id. The Court concluded that
+because Congress repeatedly described the exaction for
+noncompliance with the individual mandate as “a ‘penalty’
+rather than a ‘tax,’” the Anti-Injunction Act’s jurisdictional bar
+did not apply. Id. at 543–44 (quoting 26 U.S.C. § 5000A(b),
+(g)(2)); see id. at 546.
+                                9
+     Applying that same approach to Section 4980H’s exaction
+yields the opposite conclusion. Whereas Congress consistently
+labeled the exaction associated with the individual mandate a
+“penalty” and never once referred to it as a “tax,” Congress
+described the Section 4980H exaction as a “tax” four different
+times.
+
+     Of those four references, three are found in Section 4980H
+itself. First, subsection (b)(2) of that provision, which pertains
+to employers who offer coverage that is unaffordable or
+inadequate in value, states that the “aggregate amount of tax
+determined under [subsection (b)(1)] . . . shall not exceed the
+product of the applicable payment amount and the number of
+individuals employed by the employer as full-time employees
+during such month.” 26 U.S.C. § 4980H(b)(2) (emphasis
+added). Second, subsection (c)(7) provides that, “[f]or denial
+of deduction for the tax imposed by this section, see section
+275(a)(6).” Id. § 4980H(c)(7) (emphasis added). Third, that
+same subsection is titled “Tax nondeductible.” Id. (emphasis
+added). Fourth, beyond the multiple references in the terms of
+Section 4980H itself, another provision directs the Secretary of
+Health and Human Services to “establish a separate appeals
+process for employers who are notified” that they “may be
+liable for a tax imposed by section 4980H of Title 26.” 42
+U.S.C. § 18081(f)(2)(A) (emphasis added).
+
+     As the Supreme Court explained in NFIB, “[i]t is up to
+Congress whether to apply the Anti-Injunction Act to any
+particular statute, so it makes sense to be guided by Congress’s
+choice of label on that question.” 567 U.S. at 564; see id. at
+544. The multiple statutory references to Section 4980H’s
+exaction as a “tax” thus render it a tax for purposes of the Anti-
+Injunction Act. Indeed, the Supreme Court has “applied the
+Anti-Injunction Act to statutorily described ‘taxes’ even where
+that label was inaccurate” (in that the relevant payment
+                               10
+obligation fell outside of Congress’s tax power). Id. at 544
+(citing Bailey v. George, 259 U.S. 16 (1922)). If that is so, the
+Anti-Injunction Act necessarily applies to the “statutorily
+described ‘taxes’” imposed by Section 4980H.
+
+     Optimal attempts to explain why, for reasons apart from
+the Anti-Injunction Act, Congress might have wanted to
+describe Section 4980H’s exaction as a “tax” in two of the
+aforementioned provisions, 26 U.S.C. § 4980H(c)(7) and 42
+U.S.C. § 18081(f)(2)(A). But even if Congress’s choice to use
+the label “tax” has consequences beyond the Anti-Injunction
+Act, Optimal does not explain why we should disregard the
+implications of that choice for purposes of the Anti-Injunction
+Act, too. To the contrary, insofar as the decision to invoke the
+term “tax” carries multiple implications, we generally assume
+that “Congress said what it meant and meant what it said”
+throughout. Loughrin v. United States, 573 U.S. 351, 360
+(2014). There is no reason to assume otherwise here.
+
+     Notably, Optimal offers no alternate explanation for the
+use of the term “tax” in Section 4980H(b)(2)’s reference to the
+“aggregate amount of tax determined under [Section
+4980H(b)(1)].” 26 U.S.C. § 4980H(b)(2). True, Optimal
+incurred its penalty under Section 4980H(a) rather than Section
+4980H(b), as it failed to provide minimum essential coverage
+altogether (as opposed to providing coverage that was
+unaffordable or inadequate in value). But Congress repeatedly
+referred to the exaction imposed by Section 4980H as a “tax”
+without distinguishing between subsections (a) and (b), and
+Optimal provides no plausible reason that Congress would
+have intended to treat the subsections differently under the
+Anti-Injunction Act. See id. § 4980H(c)(7) (referring to the
+“tax imposed by this section”); 42 U.S.C. § 18081(f)(2)(A)
+(referring to the “tax imposed by section 4980H of Title 26”).
+                               11
+     Optimal emphasizes that, in addition to describing the
+exaction imposed by Section 4980H as a “tax” in multiple
+provisions, Congress also labeled the same exaction an
+“assessable payment” or a “penalty.” Congress’s use of those
+additional labels, though, does not dissuade us from concluding
+that its repeated references to the exaction as a “tax” require
+treating it as one for purposes of the Anti-Injunction Act.
+
+     First, Section 4980H uses the phrase “assessable payment”
+seven times to describe the provision’s exaction. See 26 U.S.C.
+§ 4980H(a) (imposing “assessable payment” for failure to
+provide minimum essential coverage); id. § 4980H(b)(1) (same
+for failure to provide coverage that is affordable or adequate in
+value); id. § 4980H(c)(2)(D)(i)(I) (providing instructions on
+determining employer size “for purposes of calculating . . . the
+assessable payment under subsection (a)”); id. § 4980H(d)(1)
+(stating that “[a]ny assessable payment provided by this section
+shall be paid upon notice and demand by the Secretary”); id.
+§ 4980H(d)(2) (stating that the “Secretary may provide for the
+payment of any assessable payment provided by this section on
+an annual, monthly, or other periodic basis”); id. § 4980H(d)(3)
+(directing the Secretary to “prescribe rules, regulations, or
+guidance for the repayment of any assessable payment” when
+certain conditions are met and “the assessable payment would
+not have been required to be made but for” those conditions).
+
+     Congress’s use of the phrase “assessable payment” does
+not conflict with—or otherwise detract from the import of—its
+choice to label the Section 4980H exaction a “tax” in multiple
+provisions. The terms are not mutually exclusive. To the
+contrary, a tax is one species of assessable payment: it is
+“assessable,” and its assessment calls for a “payment.” Indeed,
+the terms of the Anti-Injunction Act refer to the “assessment”
+of a “tax” as well as its “collection” (i.e., its payment). Id.
+§ 7421(a). If Congress had only used the more general term
+                               12
+“assessable payment” to describe an exaction under Section
+4980H, it might be unclear whether the exaction qualifies as a
+“tax” for purposes of the Anti-Injunction Act. But because
+Congress also used the more specific term “tax” to describe the
+same exaction (and did so repeatedly), it thereby established
+the applicability of the Anti-Injunction Act.
+
+     The same is true of Congress’s more occasional use of the
+word “penalty” to describe the Section 4980H exaction. One
+previously mentioned provision that labels that exaction a “tax”
+in one subsection also describes it as a “penalty” in a
+neighboring subsection. Compare 42 U.S.C. § 18081(f)(2)(B)
+(referring to the “penalty under section 4980H of Title 26”),
+with id. § 18081(f)(2)(A) (referring to the “tax imposed by
+section 4980H of Title 26”). And one already mentioned
+provision in Section 4980H that uses the term “assessable
+payment” also uses the term “assessable penalt[y]” in its title.
+26 U.S.C. § 4980H(c)(2)(D) (titled “Application of employer
+size to assessable penalties”); see id. § 4980H(c)(2)(D)(i)(I)
+(referring to “the assessable payment under subsection (a)”).
+
+     As is the case with the phrase “assessable payment,” the
+term “penalty” is not inconsistent with the term “tax.” Rather,
+an exaction can be described as both a “tax” and a “penalty.”
+Compare Tax, Black’s Law Dictionary (11th ed. 2019) (“A
+charge, usu. monetary, imposed by the government on persons,
+entities, transactions, or property to yield public revenue.”),
+with Penalty, Black’s Law Dictionary (11th ed. 2019)
+(“Punishment imposed on a wrongdoer, usu. in the form of
+imprisonment or fine; esp., a sum of money exacted as
+punishment for either a wrong to the state or a civil
+wrong . . . .”). After all, “taxes that seek to influence conduct
+are nothing new.” NFIB, 567 U.S. at 567. And such taxes,
+even if they are “designed mainly to influence private conduct,
+rather than to raise revenue,” do not receive a “special pass
+                               13
+from the Anti-Injunction Act” by virtue of their regulatory
+nature. CIC Servs., 141 S. Ct. at 1593.
+
+     To be sure, when examining whether an exaction lies
+within Congress’s tax power as a constitutional matter, the
+Supreme Court generally uses the term “penalty” to describe
+exactions whose characteristics take them outside the tax
+power. See, e.g., NFIB, 567 U.S. at 565–68 (citing United
+States v. Reorganized CF & I Fabricators of Utah, Inc., 518
+U.S. 213, 224 (1996); United States v. La Franca, 282 U.S.
+568, 572 (1931)). In that light, “Congress cannot change
+whether an exaction is a tax or a penalty for constitutional
+purposes simply by describing it as one or the other.” Id. at
+544. But even if (permissible) taxes and (impermissible)
+penalties fall into separate categories as a descriptive matter
+when courts discuss the constitutionality of Congress’s
+exercise of the tax power, “Congress can, of course, describe
+something as a penalty but direct that it nonetheless be treated
+as a tax for purposes of the Anti-Injunction Act.” Id. A telltale
+way for Congress to do so would be to expressly label the
+exaction a “tax,” as Congress repeatedly did for the exaction
+under Section 4980H. See CIC Servs., 141 S. Ct. at 1587
+(describing a statute that “deem[s]” penalties “to be ‘tax[es]’
+for purposes of the . . . Anti-Injunction Act”).
+
+    Because Congress repeatedly called the Section 4980H
+exaction a tax, Optimal’s suit is barred by the Anti-Injunction
+Act. That conclusion, contrary to Optimal’s contention, is not
+foreclosed by our decision in Halbig v. Burwell, 758 F.3d 390
+(D.C. Cir. 2014), reh’g en banc granted and judgment vacated,
+No. 14-5018, 2014 WL 4627181 (D.C. Cir. Sept. 4, 2014),
+appeal dismissed, No. 14-5018, 2015 WL 5209629 (D.C. Cir.
+July 9, 2015). Optimal attempts to glean from that case’s
+complicated history an implicit conclusion by our court that the
+Anti-Injunction Act does not apply to challenges to exactions
+                               14
+under Section 4980H. But whatever else may be true of our
+decision in that case, it “d[id] not reach the issue” of “our
+jurisdiction over” the employers’ challenge, meaning that it
+necessarily did not address the applicability of the Anti-
+Injunction Act. Id. at 396. Our decision thus has no
+precedential effect with respect to that issue. Cf. Steel Co. v.
+Citizens for a Better Env’t, 523 U.S. 83, 91 (1998).
+
+     In concluding that Optimal’s suit falls within the Anti-
+Injunction Act’s jurisdictional bar, we necessarily do not reach
+the merits of Optimal’s challenge to the imposition against it of
+exactions under Section 4980H. As the government suggests,
+Optimal may still be able to obtain judicial review of its
+challenge by bringing a refund suit after it pays any assessed
+exactions. See Gov’t Br. 61–62, 63–66; see also 26 U.S.C.
+§ 7422(a); Fla. Bankers Ass’n v. U.S. Dep’t of the Treasury,
+799 F.3d 1065, 1067 (D.C. Cir. 2015).
+
+      Nor do we reach Optimal’s argument, raised for the first
+time on appeal, that its suit falls within certain enumerated
+exceptions to the Anti-Injunction Act. The Act prohibits suits
+to restrain the assessment or collection of any tax “[e]xcept as
+provided in” a list of provisions, including Sections 6212(a)
+and 6213(a) of Title 26. See 26 U.S.C. § 7421(a). Optimal
+maintains that those provisions prescribe a specific collection
+process for certain deficiency payments that fall outside the
+Act’s reach, and that exactions under Section 4980H are one
+such deficiency payment. The government disagrees. Because
+Optimal did not raise that argument to the district court in the
+first instance, we decline to consider it on appeal. See Potter
+v. Dist. of Columbia, 558 F.3d 542, 550 (D.C. Cir. 2009).
+                             15
+                     *   *   *    *   *
+
+    For the foregoing reasons, we affirm the district court’s
+grant of dismissal for lack of jurisdiction.
+
+                                                 So ordered.
+

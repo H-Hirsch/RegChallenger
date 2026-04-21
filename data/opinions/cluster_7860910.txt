@@ -1,0 +1,635 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued December 3, 2021           Decided August 26, 2022
+
+                       No. 21-1123
+
+                       VIASAT, INC.,
+                        APPELLANT
+
+                            v.
+
+         FEDERAL COMMUNICATIONS COMMISSION,
+                     APPELLEE
+
+           SPACE EXPLORATION HOLDINGS, LLC,
+                     INTERVENOR
+
+
+
+       Consolidated with 21-1125, 21-1127, 21-1128
+
+
+    On Notices of Appeal and Petition for Review of an
+    Order of the Federal Communications Commission
+
+
+
+     William M. Jay argued the cause for appellants Viasat,
+Inc. and The Balance Group. With him on the briefs were
+Colin L. Ward, David J. Zimmer, Gerard J. Cedrone, Jordan
+Bock, Michael F. Smith, and Stephen L. Goodman.
+                               2
+   Pantelis Michalopoulos argued the cause for appellant
+DISH Network Corporation. With him on the briefs were
+Mark C. Savignac and William Travis West.
+
+   Ivan L. London, Jean-Claude Andre, and Philip E.
+Karmel were on the brief for amicus curiae Professor Andy
+Lawrence in support of appellants.
+
+    James M. Carr and Rachel Proctor May, Counsel,
+Federal Communications Commission, argued the causes for
+appellee. With them on the brief were Todd Kim, Assistant
+Attorney General, U.S. Department of Justice, Robert B.
+Nicholson, Robert J. Wiggers, Justin Heminger, and Allen
+Brabender, Attorneys, and Jacob M. Lewis, Associate
+General Counsel, Federal Communications Commission.
+
+     Pratik A. Shah argued the cause for intervenor Space
+Exploration Holdings, LLC in support of appellee. With him
+on the brief was Z. W. Julius Chen.
+
+     Corbin K. Barthold and James E. Dunstan were on the
+brief for amicus curiae TechFreedom in support of appellee.
+
+    Before: WILKINS, KATSAS, and WALKER, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge KATSAS.
+
+     KATSAS, Circuit Judge: The Federal Communications
+Commission approved a request by Space Exploration
+Holdings, LLC to fly its satellites at a lower altitude. One
+competitor contends that the FCC did not adequately consider
+the risk of signal interference, a claim we reject on the merits.
+Another competitor, joined by an environmental group, raises
+a claim under the National Environmental Policy Act. We
+decline to consider it because the environmental group lacks
+                               3
+Article III standing, and the competitor’s asserted injury does
+not fall within the zone of interests protected by NEPA.
+
+                               I
+
+                               A
+
+    The Communications Act of 1934 authorizes the FCC to
+grant radio station licenses, including for the operation of
+communications satellites.      47 U.S.C. § 307(a).       The
+Commission may modify licenses if it finds that the
+modification would serve the public interest, convenience,
+and necessity. Id. § 316(a)(1). The Telecommunications Act
+of 1996 requires the agency to facilitate the provision of
+broadband internet service to unserved areas. Id. § 1302.
+
+     To further that goal, the FCC granted Space Exploration
+Holdings, LLC (which goes by SpaceX) a license to provide
+internet service by satellite. In re Space Exploration
+Holdings, LLC, 33 FCC Rcd. 3391 (2018). Once operational,
+this service will reach currently unserved areas.
+
+     SpaceX uses new technology to expand its coverage area.
+Traditional communications satellites move in geostationary
+orbit, or GSO. GSO satellites orbit at the same speed as the
+Earth’s rotation, so they appear fixed in the sky. A single
+GSO satellite has a continuous sight line to users within its
+coverage area—and thus can provide continuous service to
+them. SpaceX’s satellites, by contrast, move at lower
+altitudes in a non-geostationary orbit, or NGSO. The lower
+altitude reduces transmission latency, making NGSO satellites
+better suited to provide high-speed internet service. But these
+satellites do not synchronize with the Earth’s spin, so a single
+satellite cannot maintain a sight line with any given user.
+SpaceX solved this problem by deploying multiple satellites
+that move and communicate as a constellation: When one
+                                4
+satellite moves out of view of a user’s ground antenna, it
+transfers the signal to the next satellite in line.
+
+                                B
+
+     After receiving authorization for its satellites and
+launching about half of them, SpaceX requested permission to
+operate the constellation at a lower altitude. Given the
+complexity of satellite system design, the FCC seeks where
+possible to allow licensees “to modify the technical design of
+their satellites as they are being built.” Teledesic LLC, Order
+and Authorization, 14 FCC Rcd. 2261, 2264 (Int’l Bureau
+1999). But technical changes can interfere with signals from
+other satellites, so the Commission must find that “the
+proposed modification does not present any significant
+interference problems.” Id. Various FCC rules govern this
+interference determination.
+
+     First, regulations prioritize GSO systems over NGSO
+systems. An NGSO system “must not cause unacceptable
+interference to” a GSO system. 47 C.F.R. § 25.289. More
+specifically, NGSO systems must operate within power limits
+set by the International Telecommunications Union (ITU), a
+United Nations agency responsible for addressing signal
+interference internationally. See id. The licensee must use
+ITU-approved software to show compliance with the power
+limits. Initially, the licensee enters its satellite data into the
+software and certifies the results to the FCC. 47 C.F.R.
+§ 25.146(a); see Update to Parts 2 and 25 Concerning Non-
+Geostationary, Fixed-Satellite Service Systems and Related
+Matters, 32 FCC Rcd. 7809 ¶ 41 (2017) (NGSO Order). The
+licensee then submits the data to the ITU, which must make a
+“favorable” or “qualified favorable” finding before the
+licensee may provide service. 47 C.F.R. § 25.146(c).
+                               5
+     The rules also address interference among NGSO
+systems. Priority is based on the order in which the
+competing systems were licensed; systems licensed later must
+not unduly interfere with those licensed earlier. NGSO Order,
+32 FCC Rcd. 7809 ¶ 61. An NGSO licensee can modify its
+license without losing its priority only if the changes will not
+cause “significant interference” to existing services.
+Teledesic, 14 FCC Rcd. 2261 ¶ 5.
+
+                               C
+
+     In 2019, the FCC’s International Bureau approved
+SpaceX’s request to lower roughly half the satellites in its
+constellation, after finding that the changes would impose no
+undue interference and would serve the public interest. In re
+Space Exploration Holdings, LLC, 34 FCC Rcd. 2526 (Int’l
+Bureau Apr. 26, 2019) (First Modification Order). Because of
+a backlog at the ITU, the Bureau waived the ITU-finding
+requirement in part: It allowed the satellites to fly at the
+lower altitude after SpaceX certified compliance with ITU
+power limits using ITU-approved software. Id. ¶ 28. But the
+Bureau still required SpaceX to submit its data to the ITU and
+cautioned that SpaceX would have to adjust its operations if
+the ITU were to make an unfavorable finding. Id.
+
+     In the order under review, the full Commission
+authorized SpaceX to lower the remainder of its constellation.
+In re Space Exploration Holdings, LLC, 36 FCC Rcd. 7995
+(2021) (Second Modification Order). Again, the FCC
+permitted SpaceX to act upon a successful software
+certification. See id. ¶ 41. But it reiterated that SpaceX
+would have to bring its system into compliance if the ITU
+were to make an adverse finding. Id. ¶ 97(p).
+
+   DISH Network Corporation, one of SpaceX’s
+competitors, objected to the modification. DISH argued that
+                                6
+the proposed changes would interfere with its GSO satellite
+television service. Another competitor, Viasat, Inc., jointly
+objected with an environmental organization calling itself The
+Balance Group. They argued that NEPA required the FCC to
+prepare an environmental assessment before granting the
+modification. The FCC rejected both contentions. Second
+Modification Order, 36 FCC Rcd. 7995 ¶¶ 47, 92.
+
+    DISH, Viasat, and The Balance Group appeal the FCC’s
+order. SpaceX has intervened to support the Commission.
+We have statutory jurisdiction under 47 U.S.C. § 402(b)(6). 1
+
+                                II
+
+   We first consider interference issues. DISH argues that
+the FCC’s interference determination violated the
+Administrative Procedure Act and the Communications Act.
+DISH also challenges the regulatory procedure for showing
+compliance with ITU power limits.
+
+                                A
+
+     The APA requires us to set aside agency action that is
+arbitrary or capricious. 5 U.S.C. § 706(2)(A). An action is
+arbitrary if the agency relied on inappropriate factors, failed to
+consider important aspects of the problem, or ignored relevant
+evidence. Motor Vehicle Mfrs. Ass’n v. State Farm Mut.
+Auto. Ins. Co., 463 U.S. 29, 43 (1983). Conversely, agency
+action is not arbitrary if it is “reasonable and reasonably
+
+    1
+       Because we have jurisdiction over the appeals under section
+402(b), we dismiss Viasat’s petition for review under section
+402(a). See Sprint Nextel Corp. v. FCC, 524 F.3d 253, 256 n.4
+(D.C. Cir. 2008) (sections 402(a) and 402(b) are “mutually
+exclusive”).
+                               7
+explained.” FCC v. Prometheus Radio Project, 141 S. Ct.
+1150, 1158 (2021). DISH contends that the interference
+determination was arbitrary for three reasons.
+
+                               1
+
+    DISH first argues that the FCC unreasonably refused to
+consider expert reports claiming that SpaceX’s proposed
+changes would interfere with DISH’s GSO satellites. But the
+reports use a different method for assessing interference than
+what binding regulations require.
+
+     The FCC must “adhere to its own rules and regulations.”
+AT&T Corp. v. FCC, 448 F.3d 426, 434 (D.C. Cir. 2006).
+Here, the governing rules require interference between GSO
+and NGSO systems to be assessed through the method used in
+the ITU-approved validation software. 47 C.F.R. § 25.146(a),
+(c)(2). DISH acknowledges that SpaceX’s desired changes
+pass muster under that approach. Nevertheless, DISH argues
+that its experts have a better method for calculating
+interference. DISH thus faults the FCC for following its own
+interference rules. But an agency “abuses its discretion when
+it arbitrarily violates its own rules, not when it follows them.”
+BDPCS, Inc. v. FCC, 351 F.3d 1177, 1184 (D.C. Cir. 2003).
+
+     DISH cites American Radio Relay League v. FCC, 524
+F.3d 227 (D.C. Cir. 2008), to support its argument. There, we
+faulted the FCC for failing to consider data that undermined a
+regulation. Id. at 240–41. But we did so in reviewing the
+regulation itself, not its application in a later licensing
+proceeding. See id. at 236; see also Env’t Health Trust v.
+FCC, 9 F.4th 893, 903 (D.C. Cir. 2021) (same for agency
+decision not to initiate a rulemaking). As we have explained,
+“an agency need not—indeed should not—entertain a
+challenge to a regulation, adopted pursuant to notice and
+comment, in an adjudication or licensing proceeding.” Trib.
+                                8
+Co. v. FCC, 133 F.3d 61, 68 (D.C. Cir. 1998). The FCC did
+not err by following that “hornbook” rule of administrative
+law. Id. 2
+
+                                2
+
+     DISH argues that the FCC misapplied Teledesic in
+refusing to lower the priority of SpaceX’s NGSO license.
+Under Teledesic, the FCC generally permits NGSO licensees
+to modify licenses without losing priority if the changes do
+not cause “significant interference” to other systems and are
+“otherwise consistent with Commission policies.” 14 FCC
+Rcd. 2261 ¶ 5. DISH argues that the FCC failed to consider
+interference to GSO systems. But the agency expressly found
+that lowering SpaceX’s constellation “will not increase
+interference to GSO satellite systems.” Second Modification
+Order, 36 FCC Rcd. 7995 ¶ 47. And as explained above, it
+applied the correct legal standard in making that finding based
+on a certified compliance with ITU power limits. Id. ¶ 40; see
+47 C.F.R. § 25.289.
+
+                                3
+
+    Finally, DISH argues that the FCC unreasonably waived
+the requirement of a favorable ITU finding, thus allowing
+SpaceX to proceed based on software validation alone. The
+FCC may waive its rules “for good cause shown.” 47 C.F.R.
+§ 1.3. Good cause exists “when particular facts would make
+strict compliance inconsistent with the public interest.”
+AT&T Wireless Servs. v. FCC, 270 F.3d 959, 965 (D.C. Cir.
+2001). To satisfy the APA, the FCC must “clearly state in the
+
+    2
+         As explained below, the regulations themselves permit
+waivers “for good cause shown.” 47 C.F.R. § 1.3. DISH does not
+contend that its expert reports compelled the FCC to formally waive
+the validation method required by section 25.146(c)(2).
+                              9
+record its reasons for granting the waiver.” Keller Commc’ns
+v. FCC, 130 F.3d 1073, 1076 (D.C. Cir. 1997).
+
+    The FCC met these requirements. When the International
+Bureau first granted the waiver, it determined that an ITU
+backlog would significantly delay the start of operations even
+though SpaceX had already certified compliance with ITU
+power limits using ITU-approved software.                 First
+Modification Order, 34 FCC Rcd. 2526 ¶ 28. We have held
+that “harm resulting from delay” can be good cause for a
+waiver. Omnipoint v. FCC, 78 F.3d 620, 631 (D.C. Cir.
+1996). Here, the Bureau reasonably granted a waiver to avoid
+long delays in the provision of internet service to Americans
+who remain “totally unserved by other broadband solutions.”
+First Modification Order, 34 FCC Rcd. 2526 ¶ 1. And it
+reasonably concluded that the certification of compliance
+would provide some assurance of no harmful interference.
+
+    DISH faults the FCC for not justifying the waiver anew in
+the Second Modification Order. But, in that order, the
+Commission explained that allowing SpaceX to lower the
+remainder of its constellation “will facilitate deployment” of
+broadband internet and “improve service to remote and
+underserved areas.” 36 FCC Rcd. 7995 ¶ 13. Seeing “no
+reason to revoke” the previously granted waiver, id., the
+agency extended it to the rest of SpaceX’s constellation. That
+decision was reasonable and reasonably explained.
+
+    DISH also challenges the waiver as discriminatory and
+illogical. It cites WorldVu Satellites Ltd., 32 FCC Rcd. 5366
+(2017), to show that the FCC has not waived the ITU-finding
+requirement for other licensees. But the licensee there
+received a waiver of a different rule. Id. ¶ 19. DISH cannot
+show improper discrimination by offering only an “apples-
+and-oranges comparison.” Barbour v. Browner, 181 F.3d
+                              10
+1342, 1347 (D.C. Cir. 1999). As for logic, DISH questions
+the utility of requiring SpaceX to receive a favorable ITU
+finding in the future, despite the possibility of harmful
+interference in the present. Although DISH is right that future
+ITU review will neither prevent nor undo any current
+interference, it still serves a purpose: If the ITU should make
+an unfavorable finding, SpaceX will have to eliminate
+interference going forward. Second Modification Order, 36
+FCC Rcd. 7995 ¶ 97(p). In the meantime, other licensees
+may report any present interference through established
+regulatory channels. See id. ¶ 97(i).
+
+                              B
+
+     As a fallback to its arguments about arbitrariness, DISH
+argues that the FCC’s interference determination violated
+sections 303 and 316 of the Communications Act. Section
+303 requires the FCC to promulgate regulations “to prevent
+interference between stations.” 47 U.S.C. § 303. As detailed
+above, the Commission has done so. Section 316 permits
+license modifications to promote the “public interest,” which
+is undermined by harmful interference. See id. § 316(a)(1).
+DISH’s argument rests on the premise that the FCC failed to
+adequately address the question of harmful interference, so it
+fails for reasons explained above.
+
+                              C
+
+    Finally, DISH raises a structural challenge to 47 C.F.R.
+§ 25.146(c), which requires licensees to obtain a favorable
+ITU finding. According to DISH, this requirement violates
+constitutional and statutory rights to judicial review, because
+courts cannot review the ITU finding. Moreover, DISH
+continues, the regulation impermissibly delegates FCC
+authority to the ITU.
+                             11
+     We lack jurisdiction to consider these arguments, which
+DISH failed to press before the FCC. The Communications
+Act bars judicial review of “questions of fact or law upon
+which the Commission, or designated authority within the
+Commission, has been afforded no opportunity to pass.” 47
+U.S.C. § 405(a). Quoting a phrase from one of our cases,
+DISH contends that the Act’s exhaustion requirement applies
+only to “technical defects” in an FCC decision. See Time
+Warner Entm’t v. FCC, 144 F.3d 75, 79–81 (D.C. Cir. 1998).
+DISH is mistaken. In Time Warner, we held that section
+405(a) applies with special rigor to “technical or procedural”
+errors; in that context, a party must “raise the precise claim
+before the Commission” so that the agency has an opportunity
+to correct any mistake. Id. at 81. But we did not suggest that
+section 405(a) applies only to technical or procedural errors.
+To the contrary, we explained at length that section 405(a)
+requires all claims to be “flagged” or “teed up” before the
+Commission, whether by the appellant or by some other party,
+before they may be pursued in court. See id. at 79–81; see
+also Nat’l Lifeline Ass’n v. FCC, 983 F.3d 498, 509 (D.C. Cir.
+2020) (“we will not review arguments that have not first been
+presented to the Commission”). Here, no party teed up—with
+precision or otherwise—the judicial-review and delegation
+claims that DISH now seeks to raise.
+
+                             III
+
+    We now turn to the environmental claim. Viasat and The
+Balance Group contend that the FCC violated NEPA by
+allowing SpaceX to proceed without first preparing an
+environmental assessment.
+
+    Before reaching the merits of this claim, we must ask
+whether any party has standing to raise it. For constitutional
+standing under Article III, a party must show it has suffered
+                               12
+an injury that is actual, imminent, or certainly impending.
+See, e.g., Clapper v. Amnesty Int’l USA, 568 U.S. 398, 410
+(2013). On the other hand, a “speculative” possibility of
+future injury does not suffice. See, e.g., id.; Lujan v. Defs. of
+Wildlife, 504 U.S. 555, 583–84 (1992); City of Los Angeles v.
+Lyons, 461 U.S. 95, 109 (1983). In addition, to pursue NEPA
+claims under the APA, the party must show that its injury “is
+to interests of the sort protected by NEPA.” Fla. Audubon
+Soc’y v. Bentsen, 94 F.3d 658, 665 (D.C. Cir. 1996) (en banc);
+see Bennett v. Spear, 520 U.S. 154, 162–63 (1997)
+(explaining the “zone of interests” rule for APA review). The
+“injury that supplies constitutional standing must be the same
+as the injury within the requisite ‘zone of interests.’” Mount.
+States Legal Found. v. Glickman, 92 F.3d 1228, 1232 (D.C.
+Cir. 1996).
+
+    Because neither Viasat nor The Balance Group has met
+both requirements, we do not reach the merits of their claim.
+
+                               A
+
+     Viasat competes against SpaceX as a provider of
+satellite-communications services. It asserts three distinct
+injuries from the approval of SpaceX’s constellation.
+
+                               1
+
+     Viasat worries that SpaceX’s satellites may cause debris
+to collide with its own satellites. Viasat operates only a single
+satellite that flies close to SpaceX’s constellation, and it does
+not seriously contend that the probability of a direct collision
+is high enough to support Article III standing. Instead, Viasat
+posits that SpaceX’s satellites may collide with other orbiting
+bodies, which may cause more space debris, which may in
+turn collide with a Viasat satellite.
+                               13
+     This theory of injury is much too speculative. To ground
+standing on the risk of future harm, a party must show both
+that the risk is substantial and that the challenged action
+substantially increases it. Food & Water Watch, Inc. v.
+Vilsack, 808 F.3d 905, 914 (D.C. Cir. 2015). Viasat posits too
+many unlikely contingencies to clear those hurdles. First, one
+of SpaceX’s satellites would have to suffer a collision. The
+FCC estimated this risk to be a chance between 1-in-44 and
+1-in-200 over the next century, depending on the number of
+satellites launched and the disposal failure rate. Second
+Modification Order, 36 FCC Rcd. 7995 ¶ 63. Second, the
+collision would have to generate a debris field of its own, with
+particles large enough to damage another satellite. According
+to Viasat, only 0.5 percent of debris particles currently in orbit
+are large enough to cause such damage. Finally, a debris
+particle large enough and traceable to an impact with a
+SpaceX satellite would have to happen upon a collision
+course with Viasat’s satellite, remain undetected, and thwart
+satellite protocols to avoid collisions. Viasat’s standing
+affidavit is long on the general problem of space debris, but
+short on the probability that any SpaceX impact might
+imminently harm a Viasat satellite. Viasat’s theory of space-
+debris collision does not cross the line from speculative to
+certainly impending.
+
+                                2
+
+     Alternatively, Viasat asserts that SpaceX’s constellation
+increases its own operating costs—for example, by making it
+more technically complex and more expensive for Viasat to
+launch its own satellites. Those harms are economic—and
+thus fall outside the zone of interests protected by NEPA.
+See, e.g., Gunpowder Riverkeeper v. FERC, 807 F.3d 267,
+274 (D.C. Cir. 2015) (“The zone of interests protected by the
+NEPA is, as its name implies, environmental; economic
+                              14
+interests simply do not fall within that zone.”); Mount. States,
+92 F.3d at 1235–36 (“NEPA’s rather sweeping list of interests
+… do not include purely monetary interests, such as the
+competitive effect that a construction project may have on
+plaintiff’s commercial enterprise.”).
+
+     Viasat responds that predominating economic injuries,
+although themselves unprotected by NEPA, do not disqualify
+a party from asserting other, “environmental” injuries, Nat’l
+Ass’n of Home Builders v. Army Corps of Eng’rs, 417 F.3d
+1272, 1287 (D.C. Cir. 2005), or injuries with “an
+environmental as well as an economic component,” Monsanto
+v. Geertson Seed Farms, 561 U.S. 139, 155 (2010). Viasat
+reasons that its economic injury flows from “orbital
+crowding”—in other words, congestion in outer space—
+which Viasat says is a “classic environmental concern.”
+Viasat Reply Br. at 22–23.
+
+     We reject this argument. To be sure, we have suggested
+that congestion such as “vehicular and pedestrian traffic” is an
+environmental harm against which NEPA is directed. Realty
+Income Trust v. Eckerd, 564 F.2d 447, 452 n.10 (D.C. Cir.
+1977) (quoting Hanly v. Mitchell, 460 F.2d 640, 647 (2d Cir.
+1972)).    Individuals subjected to these nuisances may
+therefore sue to prevent NEPA violations. An apartment
+owner “in Manhattan” may object to the building of a jail
+“across the street.” Hanly, 460 F.2d at 642. And the owner
+of buildings “in downtown Jackson, Mississippi” may object
+to “the construction of a new federal office building in
+downtown Jackson.” Realty Income Trust, 564 F.2d at 452.
+But Article III standing is not geographically unbounded.
+Individuals wishing to look at elephants in the Bronx Zoo
+cannot complain about the treatment of elephants in Sri
+Lanka. See Defs. of Wildlife, 504 U.S. at 566. Likewise,
+commuters in New York City cannot complain about actions
+                              15
+that worsen traffic in Washington, D.C. To press a NEPA
+claim, an individual must be close to the wildlife that he
+wants to experience or the congestion that he wants to avoid.
+This follows from the bedrock standing principle that “the
+‘injury in fact’ test requires more than an injury to a
+cognizable interest. It requires the party seeking review to be
+himself among the injured.” Sierra Club v. Morton, 405 U.S.
+727, 734 (1972); see also Match-E. Band of Pottawatomi
+Indians v. Patchak, 567 U.S. 209, 227 (2012) (a “neighboring
+landowner” may challenge federal land acquisition over
+aesthetic and environmental concerns). We do not question
+that space congestion attributable to SpaceX may impose
+economic costs on Viasat itself. But we do not think that
+Viasat (or its shareholders, officers, employees, customers,
+suppliers, or other stakeholders) can fairly be described as
+having personally suffered a nuisance, aesthetic, or other
+environmental injury from congestion in outer space.
+
+                              3
+
+    Finally, Viasat claims injury because the FCC licensed
+one of its competitors. That is a pure economic harm well
+beyond the purview of NEPA. ANR Pipeline Co. v. FERC,
+205 F.3d 405, 408 (D.C. Cir. 2000) (“suppressing competition
+… is not within the zone of interests protected by NEPA”).
+
+                              B
+
+     The second party seeking to raise a NEPA claim is The
+Balance Group. According to its “operating officer” Joseph
+Sandri, the Group “exists to provide a balanced approach to
+solving large, systemic issues” about technology’s “impact on
+the human condition and the environment at large.” Sandri
+Decl. ¶ 3. The Group asserts standing as an organization and
+as an association acting on behalf of its members.
+                              16
+                               1
+
+     To determine organizational standing, we “conduct the
+same inquiry as in the case of an individual.” Havens Realty
+Corp. v. Coleman, 455 U.S. 363, 378 (1982). Thus, the
+Group must show that it has suffered a concrete, imminent
+injury from the FCC’s licensing decision. See Defs. of
+Wildlife, 504 U.S. at 560.        A mere “setback to the
+organization’s abstract social interests” is not enough.
+Havens Realty, 455 U.S. at 378. The Group must prove that
+its “discrete programmatic concerns are being directly and
+adversely affected.” PETA v. USDA, 797 F.3d 1087, 1093
+(D.C. Cir. 2015) (quoting Am. Legal Found. v. FCC, 808 F.2d
+84, 92 (D.C. Cir. 1987)).
+
+     A party seeking to challenge agency action in court bears
+the same burden to prove standing “as that of a plaintiff
+moving for summary judgment.” Ams. for Safe Access v.
+DEA, 706 F.3d 438, 443 (D.C. Cir. 2013). Thus, unless
+standing is clear from the administrative record, the party
+must submit evidence to prove it. See D.C. Cir. R. 28(a)(7);
+Sierra Club v. EPA, 292 F.3d 895, 899 (D.C. Cir. 2002). In
+this context as elsewhere, “barebones” statements do not
+suffice. Twin Rivers Paper Co. v. SEC, 934 F.3d 607, 613–14
+(D.C. Cir. 2019).
+
+     The Group’s affidavit is too conclusory to establish
+organizational standing. The Group says that the FCC’s
+licensing decision has forced it to “redeploy personnel and
+divert other resources” from research projects about terrestrial
+networks. Sandri Decl. ¶¶ 5–6. But which personnel and
+resources, and to where were they redeployed? Sandri does
+not say, beyond a threadbare claim that “equipment and
+personnel” were needed to “measure the impacts of the
+SpaceX system.” Id. ¶ 5. Sandri estimates that the Group
+                               17
+spent “at least $10,000” on “activities related to” SpaceX’s
+constellation, but he gives no concrete sense of what the funds
+were spent on. Id. ¶ 7. These unadorned assertions do not
+enable us to fairly assess whether the Group has satisfied the
+requirements for organizational standing under Havens Realty
+and PETA. See Conservation Force v. Jewell, 733 F.3d 1200,
+1207 (D.C. Cir. 2013) (“We do not insist on record evidence
+and affidavits to establish standing because we are misguided
+nitpickers, but rather because we must respect the limits of
+our jurisdiction.”).
+
+                               2
+
+     Associations sometimes may assert standing on behalf of
+their individual members, Hunt v. Wash. State Apple Advert.
+Comm’n, 432 U.S. 333, 343 (1977), but the Group has not
+shown that it qualifies as a membership association.
+
+     To assert associational standing, an organization must
+have the “indicia of a traditional membership association.”
+Sorenson Commc’ns v. FCC, 897 F.3d 214, 225 (D.C. Cir.
+2018) (quoting Am. Legal Found., 808 F.2d at 90). This turns
+on considerations such as whether members finance the
+organization, guide its activities, or select its leadership. See
+id.; Gettman v. DEA, 290 F.3d 430, 435 (D.C. Cir. 2002). On
+the other hand, it is not enough for putative members simply
+to read a group’s publications, subscribe to its e-mail list, or
+follow its Facebook page. See Sorenson Commc’ns, 897 F.3d
+at 225; Gettman, 290 F.3d at 435. In Gettman and American
+Legal Foundation, we applied these criteria to deny
+associational standing to groups that fell on the wrong side of
+this line. See 290 F.3d at 435; 808 F.2d at 89–90. And in
+Sorenson Communications, we denied standing to a group
+whose affidavit left it “unclear” whether the group satisfied
+these criteria. 897 F.3d at 225.
+                             18
+     Here, the Group has given us no insight into how it
+relates with its members. Two purported members submitted
+affidavits, but neither describes involvement in the Group
+beyond a bare assertion of membership. See Baddiley Decl.
+¶ 2; Malina Decl. ¶ 2. And the Group’s own affidavit,
+submitted by its operating officer, makes no reference to
+membership. Again, we are left with no basis to determine
+whether the requisite elements of standing have been met—an
+issue on which the Group bore the burden of proof.
+
+                             IV
+
+   The FCC adequately explained its conclusion that the
+modification of SpaceX’s license would not interfere with
+DISH’s satellites, and there is no proper party to pursue the
+NEPA claim.
+
+                       Affirmed in part and dismissed in part.
+

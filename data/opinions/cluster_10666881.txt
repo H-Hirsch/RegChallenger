@@ -1,0 +1,1290 @@
+                  United States Court of Appeals
+                             For the Eighth Circuit
+                         ___________________________
+
+                                 No. 24-1721
+                         ___________________________
+
+State of Iowa; State of Arkansas; State of Florida; State of Idaho; State of Kansas;
+State of Mississippi; State of Missouri; State of Montana; State of Nebraska; State
+    of Ohio; State of Oklahoma; State of Texas; State of Utah; American Free
+                         Enterprise Chamber of Commerce
+
+                                              Petitioners
+
+                                         v.
+
+Chris Wright, 1 in his official capacity as Secretary of the United States Department
+    of Energy; Louis Hrkman,2 in his official capacity as the Principal Deputy
+ Assistant Secretary for Energy Efficiency and Renewable Energy; United States
+Department of Energy; Lee Zeldin, 3 in his official capacity as the Administrator of
+  United States Environmental Protection Agency; United States Environmental
+                                   Protection Agency
+
+                                          Respondents
+
+                        Alliance for Automotive Innovation
+
+                                              Intervenor
+
+
+      1
+       Secretary Chris Wright is automatically substituted as respondent pursuant
+to Federal Rule of Appellate Procedure 43(c)(2).
+      2
+        Principal Deputy Assistant Secretary Louis Hrkman is automatically
+substituted as respondent pursuant to Federal Rule of Appellate Procedure 43(c)(2).
+      3
+       Administrator Lee Zeldin is automatically substituted as respondent pursuant
+to Federal Rule of Appellate Procedure 43(c)(2).
+                               ------------------------------
+
+                   American Fuel & Petrochemical Manufacturers
+
+                                   Amicus on Behalf of Petitioner
+
+               Natural Resources Defense Council, Inc.; Sierra Club
+
+                                   Amici on Behalf of Respondent
+                                    ____________
+
+                        Petition for Review of an Order of the
+                                Department of Energy
+                                    ____________
+
+                             Submitted: January 15, 2025
+                              Filed: September 5, 2025
+                                   ____________
+
+Before SMITH, BENTON, and ERICKSON, Circuit Judges.
+                           ____________
+
+BENTON, Circuit Judge
+
+       The Department of Energy promulgated a rule changing its method of
+calculating the “petroleum equivalency factor,” used in determining the equivalent
+petroleum-based fuel economy values of electric vehicles. Among other changes,
+DOE had proposed eliminating the 1/0.15 “fuel content factor” that artificially
+inflates the fuel economy of electric vehicles. But, in the final rule, DOE chose to
+phase out the fuel content factor, rather than eliminate it. In another part of the final
+rule, DOE switched to using the “cumulative gasoline-equivalent fuel economy of
+electricity,” calculated over the projected useful life of an electric vehicle fleet—a
+method DOE had not proposed. Several states and the American Free Enterprise
+Chamber of Commerce filed a petition for review. Because the fuel content factor
+exceeds DOE’s authority under the substantive statute, and because DOE violated
+notice-and-comment procedures, this court vacates and remands the final rule.
+
+                                            -2-
+                                          I.
+
+       In 1975, Congress required the Department of Transportation to prescribe
+“average fuel economy standards for automobiles manufactured by a manufacturer
+in that model year.” 49 U.S.C. § 32902(a). Car manufacturers get credits for
+meeting the corporate average fuel economy (CAFE) standards. § 32903(a). The
+statute penalizes a manufacturer that violates a CAFE standard. § 32912(b). The
+Environmental Protection Agency determines the average fuel economy of a
+manufacturer’s fleet. § 32904(a).
+
+       Five years later, Congress directed EPA to evaluate whether to include a
+manufacturer’s electric vehicles in determining the average fuel economy of the
+manufacturer’s fleet. Because electric vehicles do not burn fuel internally, Congress
+directed the Department of Energy to determine “equivalent petroleum based fuel
+economy values” for various classes of electric vehicles. § 32904(a)(2)(b). EPA
+includes these values when calculating the average fuel economies of manufacturers’
+fleets. Id. The statute requires the Department of Energy to “review those values
+each year and determine and propose necessary revisions” based on several factors:
+
+      (i)     the approximate electrical energy efficiency of the vehicle,
+              considering the kind of vehicle and the mission and weight of the
+              vehicle.
+
+      (ii)    the national average electrical generation and transmission
+              efficiencies.
+
+
+      (iii)   the need of the United States to conserve all forms of energy and
+              the relative scarcity and value to the United States of all fuel
+              used to generate electricity.
+
+      (iv)    the specific patterns of use of electric vehicles compared to
+              petroleum-fueled vehicles.
+
+Id.
+
+                                         -3-
+                                        A.
+
+       In 1980, the Department of Energy proposed how to calculate the equivalent
+petroleum-based fuel economy values of electric vehicles. DOE multiplied the
+“energy equivalent fuel economy value” by the “petroleum equivalency factor.” 45
+Fed. Reg. 34008, 34011 (May 21, 1980) (proposed rule). The “energy equivalent
+fuel economy value” addressed subsection (i). Id. at 34011-12. DOE calculated the
+“petroleum equivalency factor” using:
+      • A “driving pattern factor,” addressing subsection (iv) by
+        incorporating how DOE expected electric vehicles to be driven
+        compared to petroleum-fueled vehicles;
+      • An “electrical transmission efficiency factor,” addressing
+        subsection (ii) by accounting for energy lost in transmitting
+        electricity;
+      • An “accessory factor,” addressing subsections (iii) and (iv) by
+        including the fuel consumption of petroleum-fueled accessories, like
+        heaters and defrosters, that might be in electric vehicles; and
+      • An “electricity generation efficiency and relative value factor,”
+        addressing subsections (ii) and (iii) by considering the total
+        electricity generated in the United States, the sources of this
+        electricity, and the ratio of the prices of the sources to the price of
+        gasoline.
+
+Id. at 34011–13.
+
+       DOE promulgated the rule in 1981. DOE’s method for calculating the
+petroleum-equivalency factor was written as:
+
+                                                    Etotal
+                        PEF = DPF × 𝑛𝑛t × AF ×
+                                                    ∑i Ii Vi
+
+
+
+                                        -4-
+“Where: DPF = driving pattern factor;” “nt = average national electricity
+transmission efficiency;” “AF = accessory factor;” “Etotal = total amount of electricity
+generated from all fuel sources for the model year;” “Ii = input energy of fuel used
+to generate electricity from fuel source i (quads);” and “Vi = relative value factor of
+fuel source i.” Id. at 22748.
+
+       DOE had proposed setting the driving pattern factor at 0.85. 45 Fed. Reg.
+73684, 73686 (Nov. 6, 1980). But, in the final rule, DOE set the driving pattern
+factor at 1.0 because “EVs are expected to be used primarily in urban driving
+situations” and internal-combustion-engine vehicles “operate inefficiently” in urban
+settings “due to the effects of stop-and-go driving, prolonged idling, and cold starts.”
+46 Fed. Reg. at 22752.
+
+       For the values in the “electricity generation efficiency and relative value
+factor,” DOE used projections about the prices of various fuels, the input energy of
+various fuels, and the total amount of electricity generation from all fuel sources in
+each model year over the next seven years. 45 Fed. Reg. at 73685–86. Thus, in the
+final rule, electric vehicles from model years 1981 through 1987 had different
+petroleum-equivalency factors. 46 Fed. Reg. at 22754.
+
+                                          B.
+
+       In 1994, DOE proposed to make a permanent method for calculating the
+petroleum-equivalency factor. 59 Fed. Reg. 5336, 5337 (Feb. 4, 1994). The factors
+in this proposal resembled the factors in the 1981 rule, but with some changes.
+Relevant here, DOE proposed changing the “electricity generation efficiency and
+relative value factor” into a “electricity generation efficiency and relative scarcity
+factor.” Instead of comparing the price of an individual fuel used to generate
+electricity to the price of gasoline, the proposed factor focused on the scarcity of fuel
+sources. DOE proposed deriving the “relative scarcity factor” by determining “the
+U.S. percent and numeric share of the world reserve market . . . , and calculating the
+rate at which the U.S. is depleting each fuel source’s reserves.” Id. at 5338. Like
+                                          -5-
+the 1981 rule, the 1994 proposal asserted that accounting for the “average electricity
+generation efficiency” was required by subsection 32904(a)(2)(b)(ii) and the
+“relative scarcity factor” was required by subsection 32904(a)(2)(b)(iii). Id.
+
+       However, DOE never promulgated this rule. Instead, in 1999, DOE proposed
+a new rule, with a new method to calculate the petroleum-equivalency factor. DOE
+replaced the “relative scarcity factor” with a “‘fuel content’ factor” of 1/0.15. 64
+Fed. Reg. 37905, 37907 (July 14, 1999). DOE explained that many comments to
+the 1994 proposal criticized the “scarcity factor.” On reexamination, DOE
+concluded: “faulty assumptions and calculations were present in some of the steps
+in the development of the scarcity factor.” Id. at 37906. It then considered
+alternative methods “for quantifying scarcity and value,” including using the market
+price of the fuels used to generate electricity. Id. at 37907. However, it determined
+that these alternative methods rested on assumptions that were “contradictory or
+highly subjective.” Id. DOE then did “an additional search of the literature
+regarding reserves of the fuels used to generate electricity.” Id. It determined that
+although fossil fuel reserves are “obviously finite,” fuels used to generate electricity
+“are quite abundant rather than scarce.” Id. It concluded that “scarcity does not
+appear to be a concern, and should not be a guiding factor in the rulemaking at this
+time.” Id.
+
+       DOE then looked beyond 49 U.S.C. § 32904(a)(2)(B), to section 32905’s
+method of determining the petroleum-equivalent fuel economy of various alternative
+fuels. Section 32905 provides that the fuel economy measured for models of cars
+that only use alternative fuel “shall be based on the fuel content of the alternative
+fuel used to operate the automobile.” 49 U.S.C. § 32905(a). But it exempted electric
+vehicles from this provision. Id. It then set the fuel content for “liquid alternative
+fuel” at “.15 gallon of fuel” for every “gallon of a liquid alternative fuel used to
+operate a dedicated automobile.” Id. Because this ratio applies to “liquid”
+alternative fuels, it does not apply to electricity. At the time, two common liquid
+alternative fuels for cars were 85% alternative fuel and 15% unleaded gasoline—
+hence the 1/0.15 ratio. 64 Fed. Reg. at 37907. But the statute also provides that a
+                                          -6-
+“gallon equivalent of gaseous fuel is deemed to have a fuel content of .15 gallon of
+fuel.” 49 U.S.C. § 32905(c). In its proposed rule, DOE said: “The true energy
+efficiency of both liquid and gaseous fueled alternative fuel vehicles is intentionally
+and substantially overstated by the methods specified in 49 U.S.C. 32905, since only
+15 percent of their actual energy consumption is accounted for in determining their
+petroleum-equivalent fuel economy.” 64 Fed. Reg. at 37907. DOE proposed using
+a similar approach for electric vehicles.
+
+       To calculate the petroleum-equivalency factor, DOE proposed multiplying a
+“gasoline-equivalent energy content of electricity factor” by a “fuel content factor”
+of 1/0.15, as well as a driving pattern factor and an accessory factor. Id. at 37908.
+
+       The “gasoline-equivalent energy content of electricity factor” incorporated
+the “relative energy efficiency of the full energy cycles of gasoline and electricity.”
+Id. To calculate the gasoline-equivalent energy content of electricity factor, DOE
+multiplied the “U.S. average fossil-fuel electricity generation efficiency,” the “U.S.
+average electricity transmission efficiency,” and a “Watt-hours of energy per gallon
+of gasoline conversion factor.” It then divided this value by the “petroleum refining
+and distribution efficiency.” Id. DOE stated that it included the U.S. average fossil-
+fuel electricity generation efficiency and the U.S. average electricity transmission
+efficiency “to satisfy a requirement from Congress (49 U.S.C. 32904(a)(2)(B)).” Id.
+
+       DOE justified including a fuel content factor of 1/0.15 based on “(i)
+Consistency with existing regulatory and statutory procedures, (ii) Provision of
+similar treatment to manufactures of all types of alternative fuel vehicles, and (iii)
+simplicity and directness.” Id. DOE believed that the new approach was “simpler,
+more consistent with the regulatory treatment of other alternative fuel vehicles, and
+better embodies the Congressional intent.” Id. at 37906.
+
+       DOE promulgated the new rule in 2000. 65 Fed. Reg. 36986 (June 12, 2000).
+DOE reiterated that “fuels (raw resources) used to produce electricity are abundant,
+as are the raw resources used to produce gasoline and diesel fuel.” Id. at 36988.
+                                         -7-
+DOE elaborated that the fuel content factor “is not intended to be a scarcity factor
+per se, but it does result in a very substantial adjustment to the raw calculated energy
+efficiency of electric vehicles. It is included to reward electric vehicles’ benefits to
+the Nation relative to petroleum-fueled vehicles . . . .” Id. Under the 2000 rule, the
+petroleum-equivalency factor for electric vehicles without any petroleum-fueled
+accessories was 82,049 Watt-hours per gallon. 10 C.F.R. § 474.3(b)(1). DOE’s
+method of calculating the petroleum-equivalency factor was written as,
+
+                           PEF = Eg * 1/0.15 * AF * DPF
+
+“where: Eg = Gasoline-equivalent energy content of electricity factor,” “1/0.15 =
+‘Fuel content’ factor,” “AF = Petroleum-fueled accessory factor,” and “DPF =
+Driving pattern factor.” 65 Fed. Reg. at 36987. DOE retained the driving pattern
+factor at 1.0 because it believed “that electric vehicles eligible for inclusion in CAFE
+will offer capabilities (perhaps excepting driving range) similar to those of
+conventional vehicles. Id.
+
+       Finally, to calculate the equivalent petroleum-based fuel economy values of
+electric vehicles, the petroleum-equivalency factor was divided by the “combined
+electrical energy consumption” value. Id. at 36992. EPA calculates the energy
+consumption value for an electric vehicle by testing the vehicle with two test cycles,
+one to simulate highway driving and one to simulate urban driving. Id.
+
+                                          C.
+
+       In 2023, after a petition for rulemaking under 5 U.S.C. § 553(e), DOE
+proposed updating its method for calculating the equivalent petroleum-based fuel
+economy values of electric vehicles. It proposed eliminating the fuel content factor
+from the petroleum-equivalency factor. 88 Fed. Reg. 21525, 21528 (Apr. 11, 2023).
+It explained that although DOE “did not expressly incorporate scarcity” in the 2000
+rule, DOE had added the 1/0.15 fuel content factor “in part, to help address scarcity
+issues by rewarding electric vehicles’ benefits to the Nation relative to petroleum-
+                                          -8-
+fueled vehicles.” Id. However, DOE now believed that the fuel content factor “no
+longer accurately addresses the need to conserve energy and relative scarcity issues
+and is no longer appropriate for use in the PEF derivation.” Id. DOE justified
+eliminating the fuel content factor for three reasons. First, due to advances in electric
+vehicle technology and growth in electric vehicles’ market share, treating electric
+vehicles like other alternative fuel vehicles “is no longer appropriate.” Id. at 21529.
+Second, by overvaluing the fuel-efficiency of electric vehicles, the fuel content
+factor (ironically) allowed manufactures to comply with fuel-economy standards
+while still manufacturing inefficient internal combustion engine vehicles. “This runs
+counter to the need of the nation to conserve energy, particularly petroleum.” Id. at
+21530. Third, the fuel content factor has “no basis” in either section 32905 or 32904.
+Although DOE asserted it “could potentially utilize a fuel content factor under the
+four factors of section 32904,” it acknowledged “that is not the basis for the current
+1/0.15 fuel content factor.” Id.
+
+       DOE proposed retaining the driving pattern factor at 1.0 because it “continues
+to believe that current EVs are equivalently capable vehicles that are likely to be
+used similarly to gasoline-powered or hybrid-electric vehicles.” Id. at 21530. DOE
+proposed making the accessory factor for all electric vehicles 1.0 because no electric
+vehicles currently produced included petroleum-powered accessories, “nor are
+future EVs likely to include them.” Id. at 21527.
+
+       Thus, DOE’s proposed value for the petroleum-equivalency factor was
+“simply the gasoline-equivalent energy content of electricity on a full life-cycle
+basis.” Id. at 21531. DOE proposed updating the “inputs for generation and
+transmission efficiencies and relative grid mix projections.” Id. at 21527. DOE took
+a “forward-looking approach based on projections for the electricity generation grid”
+during model years 2027 through 2031. Id. at 21531. In other words, DOE
+estimated the petroleum-equivalency factor for electric vehicles of a model year
+using a forecast of the percentages of fuel sources for the electrical grid that year.
+DOE then made the petroleum-equivalency factor for electric vehicles of model
+years 2027 through 2031 “the average of the annually calculated value of the PEF,
+                                          -9-
+based on calendar-year projections for the electric grid.” Id. DOE expected the
+Department of Transportation to promulgate new CAFE standards for model years
+2027 through 2031, so DOE applied the same petroleum-equivalency factor for all
+five model years to “simplify compliance with the CAFE standard.” Id. at 21532.
+For electric vehicles of model years 2027 to 2031, DOE proposed making the
+petroleum-equivalency factor 23,160 Watt-hours per gallon. Id.
+
+       DOE recognized that using projected generation mixes of the electric grid in
+future years resulted in a greater petroleum-equivalency factor than using the
+generation mix in 2020. Id. at 21536 (23,160 vs. 20,136 Watt-hours per gallon).
+But DOE noted that “a typical vehicle sold today will be expected to be on the road
+for well over a decade, at which point the PEF value would not account for
+improvements in overall grid efficiency as the grid decarbonizes.” Id. DOE
+concluded that looking to projected future generation mixes, rather than the current
+generation mix, “would better account for the electricity generation mix of models
+sold throughout the CAFE compliance period and over the course of the vehicle’s
+useful life.” Id.
+
+                                          D.
+
+       DOE received several comments on its proposed rule. Some commenters
+worried that manufacturers could not respond rapidly to an instant elimination of the
+fuel content factor. In the final rule, DOE decided instead to phase out the fuel
+content factor during model years 2027 through 2030. DOE reasoned that other
+incentives and support for electric vehicles would become more fully operative and
+effective over time, reducing the need for the fuel content factor. But, in the
+meantime, DOE agreed with commenters that “there is still an opportunity to
+incentivize additional EV production.” 89 Fed. Reg. 22041, 22050 (Mar. 29, 2024)
+(final rule). DOE found that retaining the fuel content factor for a limited time was
+“likely to incentivize manufactures’ production of EVs in the near term.” Id. at
+22051. DOE argued that consideration of “the need of the United States to conserve
+all forms of energy and the relative scarcity and value to the United States of all fuel
+                                         -10-
+used to generate electricity” justified its choice. Id. at 22052, quoting 49 U.S.C.
+§ 32904(a)(2)(B)(iii).
+
+       DOE also received comments opposing its proposal to base the petroleum-
+equivalency factor on projections about the electrical grid during model years 2027
+through 2031. 89 Fed. Reg. at 22047. Commenters noted that “vehicles are driven
+for many years after their initial sale, not just the five years considered in the NOPR.”
+Id. at 22047-48. “On further analysis, and in response to these comments,” DOE
+decided to base the petroleum equivalency factor on “the expected survivability-
+weighted lifetime mileage schedule of the fleet of vehicles sold over the regulatory
+period.” Id. at 22048. DOE recognized that the average life of a vehicle is 15 years,
+but “the influence of a fleet of vehicles produced in a given model year lasts much
+longer.” Id. at 22045. DOE followed the parameters from the Department of
+Transportation’s CAFE model, projecting the annual vehicle miles traveled by a fleet
+of light duty vehicles each year over 40 years. Id. at 22046, 22048. DOE calculated
+the “cumulative gasoline-equivalent fuel economy of electricity” by multiplying
+“the annual gasoline-equivalent fuel economy of electricity” by the percentage of a
+fleet’s lifetime vehicle miles traveled in the corresponding year, then adding all 40
+numbers together. Id. at 22048. This method “requires calculating electricity
+generation and transmission efficiency 40 years into the future.” 89 Fed. Reg. at
+22046. DOE claimed that its new method “provides a better representation of how
+vehicles sold during the regulatory period will be used than did the methodology
+used in the 2023 NOPR.” Id. DOE emphasized that “the mix of electricity
+generation sources is a critical variable impacting the value of the PEF” and the “mix
+of energy sources changes over time and is likely to continue changing in the future.”
+Id. DOE concluded that looking at the sources of energy for the United States’
+electrical grid over time was “consistent with Congressional direction at 49 U.S.C.
+32904(a)(2)(b)(ii) and (iii) to consider national average electrical generation
+efficiency and the need to conserve all forms of energy.” Id.
+
+      DOE published its final rule on March 29, 2024. It continues the petroleum-
+equivalency factor of 82,049 Watt-hours per gallon for electric vehicles without
+                                          -11-
+petroleum-powered accessories throughout “model year (MY) 2024, MY 2025, and
+MY 2026.” 10 C.F.R. § 474.3(b). For model years 2027 to 2030, the petroleum-
+equivalency factor for all electric vehicles is:
+
+                Model Year                        Petroleum-Equivalency Factor
+                                                      (in Watt-hours per gallon)
+                  2027                                          79,989
+                  2028                                          50,427
+                  2029                                          36,820
+            2030 (and beyond)                                   28,996
+                                                (fuel content factor fully phased out)
+
+§ 474.3(c), (d), (e), (f).
+
+       DOE’s new methodology is written as:
+
+                             PEF = CEg × FCF × AF × DPF
+
+“Where CEg, or cumulative Eg, is the sum of annual gasoline-equivalent energy
+content of electricity (Eg) over the 40-year survivability-weighted lifetime mileage
+schedule (in Wh/gal), FCF is the fuel content factor . . . , AF is the accessory factor
+(unitless and equal to 1), and DPF is the driving pattern factor (unitless and equal to
+1).” 89 Fed. Reg. at 22053.
+
+       Finally, DOE did not change the method for calculating the “combined
+electrical energy consumption” value of an electric vehicle. Id. at 22059.
+Responding to comments asking DOE to use different tests for electric vehicles,
+DOE highlighted that EPA used the same method to calculate the fuel economy
+values of internal combustion engine vehicles for CAFE compliance. “Because the
+purpose of the [petroleum-equivalency factor] is to provide a fuel economy
+conversion factor for EVs,” DOE concluded that “it is reasonable and appropriate to
+adopt a consistent methodology that helps ensure a level playing field.” Id. at 22044.
+
+                                         -12-
+       On April 5, 2024, several states and the American Free Enterprise Chamber
+of Commerce petitioned for review. See 49 U.S.C. § 32909(a)(1) (“A person that
+may be adversely affected by a regulation prescribed in carrying out any of
+sections 32901–32904 or 32908 of this title may apply for review of the regulation
+by filing a petition for review in the United States Court of Appeals for the District
+of Columbia Circuit or in the court of appeals of the United States for the circuit in
+which the person resides or has its principal place of business.”). Also, the Alliance
+for Automotive Innovation, a trade association of automobile manufacturers,
+intervenes by an unopposed motion, which this court granted. Fed. R. App. P.
+15(d).
+
+                                         II.
+
+       This court must first decide whether the petitioners have standing. Animal
+Legal Defense Fund v. Reynolds, 89 F.4th 1071, 1076 (8th Cir. 2024). The states
+and the American Free Enterprise Chamber of Commerce have the burden to
+establish standing. Id. at 1077. Only one petitioner needs standing. Biden v.
+Nebraska, 600 U.S. 477, 489 (2023). For standing, a petitioner must show it
+suffered an injury in fact, fairly traceable to the challenged action, and likely
+redressable by a favorable decision of the court. Spokeo, Inc. v. Robins, 578 U.S.
+330, 338 (2016). An injury in fact is “‘an invasion of a legally protected interest’
+that is ‘concrete and particularized’ and ‘actual or imminent, not conjectural or
+hypothetical.’” Id. at 339, quoting Lujan v. Defenders of Wildlife, 504 U.S. 555,
+560 (1992). Here, the states suffer injuries in fact fairly traceable to DOE’s final
+rule and redressable by a favorable decision of this court.
+
+                                         A.
+
+       The states assert multiple ways that at least some of them are injured.
+According to them, because the inflated equivalent petroleum-based fuel economy
+values of electric vehicles enable car manufacturers to continue to produce less
+efficient gasoline vehicles, DOE’s final rule results in more energy consumption
+                                        -13-
+than the proposed rule would. Increased energy consumption in turn results in
+increased greenhouse gas emissions. For those states with coastlines—Florida,
+Mississippi, and Texas—the increase in greenhouse gas emissions threatens to raise
+global sea levels and erode their sovereign territory. This, the Supreme Court holds,
+is an injury in fact. Massachusetts v. EPA, 549 U.S. 497, 521–23 (2007).
+
+       Petitioners for appellate review of an agency action “must prove each element
+of standing as if they were moving for summary judgment in a district court.” Iowa
+League of Cities v. EPA, 711 F.3d 844, 869 (8th Cir. 2013). They must set forth
+“specific facts supported by affidavit or other evidence.” Id. at 870 (internal
+quotation marks omitted). DOE points out that the states never actually stated in
+their opening brief what harm they will suffer from increased greenhouse gas
+emissions. But the states did cite Massachusetts v. EPA, 549 U.S. 497, 522–23
+(2007), which explains that rising sea levels erode the territory of a coastal state.
+The states submitted affidavits explaining how the 2024 final rule would increase
+carbon-dioxide emissions. One affidavit paraphrased an “endangerment finding” by
+EPA that “higher greenhouse gas emissions increase the rate of sea-level rise,
+harming coastal states.” The states have proved the existence of an injury in fact
+with specific facts, supported by affidavits and evidence.
+
+       Alternatively, the states assert standing because the rule will increase their
+costs of maintaining public roads. An affidavit explains that electric vehicles are
+heavier than gasoline-powered vehicles. Heavier vehicles accelerate road wear,
+requiring increased expenditures to repair public roads and adapt them to
+accommodate the heavier vehicles. The affidavit quotes DOE’s final rule that
+phasing out the fuel content factor, rather than eliminating it all at once, “will help
+manufactures continue to invest in the EV transition and serve as a near-term
+incentive for vehicle manufactures to invest in and sell EVs, thereby . . . accelerating
+the widespread adoption of electric vehicles in the United States during this pivotal
+time.” 89 Fed. Reg. at 22051. Thus, because the final rule will increase the adoption
+of electric vehicles, the rule will increase wear to public roads, increasing costs to
+the states to maintain their roads. “For standing purposes, a loss of even a small
+                                         -14-
+amount of money is ordinarily an ‘injury.’” Czyzewski v. Jevic Holding Corp., 580
+U.S. 451, 464 (2017). The states conclude that they suffer injury in fact.
+
+       The harm to the states is particularized and concrete. “For an injury to be
+‘particularized,’ it ‘must affect the plaintiff in a personal and individual way.’”
+Spokeo, 578 U.S. at 339, quoting Lujan, 504 U.S. at 560 n.1. To be concrete, an
+injury “must be ‘de facto’; that is, it must actually exist.” Spokeo, 578 U.S. at 340.
+A harm can be widespread and still be particularized and concrete. Massachusetts,
+549 U.S. at 517. Here, increased costs to maintain public roads is an injury that
+actually exists and is particular to the states as states. They do not assert “broad
+generalities,” nor is the possibility of harm “too speculative for Article III purposes.”
+McNaught v. Nolen, 76 F.4th 764, 770 (8th Cir. 2023). Rather, the affidavit is
+specific in explaining how an increase in electric vehicles harms the states. The
+states set forth specific facts, supported by affidavit as well as the reasoning of
+DOE’s final rule, that prove a particularized and concrete injury.
+
+        The injury to the states is also imminent. Future injuries may satisfy the
+“actual or imminent” requirement for an injury in fact “if the threatened injury is
+certainly impending, or there is a substantial risk that the harm will occur.”
+Department of Commerce v. New York, 588 U.S. 752, 767 (2019). The harms to
+the state will not occur “at an unspecified and indefinite time.” Id. at 771. There is
+a clear timeline for the harm to the states. The final rule preserves the fuel content
+factor through model year 2026 and, instead of then eliminating it, gradually phases
+it out starting in model year 2027. Thus, the harm to the states is imminent.
+
+       DOE argues that the states are not truly harmed by increased costs to repair
+their public roads because those costs are offset by the states charging higher fees
+for heavier vehicles. But that does not account for the costs from electric vehicles
+driven in one state but registered in another. “Our standing analysis is not an
+accounting exercise, so the existence of some purported benefit from an injurious
+government action does not preclude standing.” Missouri v. Trump, 128 F.4th 979,
+989 (8th Cir. 2025). DOE also objects that the vehicles affected by its final rule are
+                                          -15-
+small—in contrast to buses or heavy-goods trucks—and thus make a negligible
+contribution to road wear regardless of fuel type. But negligible is not nothing.
+“Injury in fact necessary for standing need not be large; an identifiable trifle will
+suffice.” Sierra Club v. U.S. Army Corps of Engineers, 645 F.3d 978, 988 (8th Cir.
+2011). The states suffer an injury in fact.
+
+       DOE highlights that the states are not directly regulated by the final rule. It
+argues the harm to the states is not fairly traceable to the final rule. Yes, “where (as
+here) a plaintiff challenges the government’s unlawful regulation . . . of someone
+else, standing is not precluded, but it is ordinary substantially more difficult to
+establish.” FDA v. All. for Hippocratic Med., 602 U.S. 367, 382 (2024) (internal
+quotation marks omitted). True, “federal policies frequently generate indirect effects
+on state revenues or state spending. And when a State asserts, for example, that a
+federal law has produced only those kinds of indirect effects, the State’s claim for
+standing can become more attenuated.” United States v. Texas, 599 U.S. 670, 680
+n.3 (2023) (holding that states lack standing to challenge immigration non-
+enforcement decisions by the Executive Branch). The question here is: “Is it likely
+that the government’s regulation or lack of regulation of someone else will cause a
+concrete and particularized injury in fact to the unregulated plaintiff”? FDA, 602
+U.S. at 385 n.2. The Supreme Court has explained that an indirect harm to states by
+federal rules is still fairly traceable to the challenged rule if the harm is a “predictable
+effect” of the rule “on the decisions of third parties.” New York, 588 U.S. at 768.
+Here, it is a predictable effect—DOE’s predicted effect—that the final rule will
+accelerate the manufacture and adoption of electric vehicles. 89 Fed. Reg. at 22051.
+This court can make the “commonsense economic inferences” that incentivizing the
+production of electric vehicles will result in manufactures making more electric
+vehicles, and more electric vehicles being produced will result in more electric
+vehicles being used, harming the states. Cf. Diamond Alt. Energy, LLC v. EPA,
+145 S. Ct. 2121, 2138 (2025). The harm to the states is fairly traceable to the final
+rule.
+
+
+
+                                           -16-
+       The harm to the states is likely redressable by a decision vacating and
+remanding the final rule. “After all, the fact that a regulation was designed to
+produce a particular effect on the market ordinarily means that the likely result of
+vacating that regulation would be to reduce that effect on the market.” Id. at 2137.
+Petitioners “adversely affected by a discretionary agency decision generally have
+standing to complain that the agency based its decision upon an improper legal
+ground.” FEC v. Akins, 524 U.S. 11, 25 (1998) (elaborating that a court can
+“redress” an injury by setting aside an agency action and remanding it to the agency
+even if “the agency . . . might later, in the exercise of its lawful discretion, reach the
+same result for a different reason”). The states also argue that DOE failed to follow
+notice-and-comment procedures for parts of the rule. Vacating and remanding the
+rule would also likely remedy the harm to the states by prompting DOE to
+“reconsider the decision that allegedly harmed the litigant.” See Iowa League of
+Cities, 711 F.3d 844, 871 (8th Cir. 2013), quoting Massachusetts, 549 U.S. at 518.
+
+      However, DOE argues that any harm to the states is not redressable by
+challenging the final rule. DOE points to new emissions standards from EPA, which
+impose more stringent fleetwide emissions requirements on car manufacturers than
+what the Department of Transpiration’s fuel-economy standards allow them to emit.
+DOE (and the Alliance for Automotive Innovation) conclude that, because of the
+existence of EPA’s emissions standards, the final rule will not actually affect
+greenhouse gas emissions.
+
+       DOE also argues that because the final rule will not result in greater carbon-
+dioxide-emission reductions than under EPA’s standards, the final rule will not cause
+an increase in the production of electric vehicles. DOE concludes that harm to the
+states from an increase in electric vehicles is not redressable by challenging the final
+rule. (The Alliance for Automotive Innovation believes that EPA’s standards, not
+DOE’s final rule, will exert the controlling regulatory influence on the number of
+electric vehicles manufactured.).
+
+
+
+                                          -17-
+       However, EPA made its new emission standards publicly available on April
+17, 2024, publishing them the next day. 89 Fed. Reg. 27842 (Apr. 18, 2024). That
+is, EPA promulgated the standards after the states and AmFree filed for review on
+April 5, 2024. Standing is “determined as of the commencement of the suit.” Iowa
+League of Cities, 711 F.3d at 869. Because the petition for review “marks the
+commencement of the litigation in federal court,” standing here is determined as of
+April 5. McNaught, 76 F.4th at 769. DOE does not dispute that, measured on April
+5, its final rule would cause an increase in emissions and an increase in the
+manufacture and adoption of electric vehicles. 4 Thus, there was an injury in fact to
+the states fairly traceable to DOE’s final rule, and likely redressable by this court. 5
+This court concludes that the states have standing.6
+
+
+      4
+       The Department of Justice informs this court that, as of July 4, 2025, the
+penalties for manufacturers violating CAFE standards are now $0.00. 49 U.S.C.
+§ 32912(b). However, this does not change this court’s analysis of standing because
+standing is measured at the commencement of the suit, April 5, 2024.
+      5
+       EPA highlights that petitioners must “demonstrate standing for each claim
+that they press against each” respondent. Murthy v. Missouri, 603 U.S. 43, 44
+(2024). EPA argues that the states do not in their opening brief allege any harm EPA
+has done to them, nor request any remedy against EPA specifically. EPA asks to be
+dismissed from this case. True, “a petitioner whose standing is not self-evident
+should establish its standing at the first appropriate point in the review proceeding.”
+Owner-Operator Indep. Drivers Ass’n, Inc. v. U.S. Dep’t of Transp., 831 F.3d 961,
+968 (8th Cir. 2016). But, in their opening brief, the states do explain that the statute
+requires EPA to “calculate the average fuel economy of a manufacturer” and to
+“include in the calculation of average fuel economy” the equivalent petroleum-based
+fuel economy values determined by DOE. 49 U.S.C. § 32904(a). Because the states
+explain how they are harmed by inflated equivalent petroleum-based fuel economy
+values of electric vehicles, it is self-evident that this harm is also fairly traceable to
+the agency that applies those values and is redressable by vacating DOE’s final rule.
+This court does not dismiss EPA from this case.
+      6
+       Because only one petitioner needs standing for this case to continue, this
+court need not decide whether the American Free Enterprise Chamber of Commerce
+also has standing. This court declines to do so.
+                                        -18-
+                                            B.
+
+       DOE invoking EPA’s new emissions standards raises a question of “mootness,
+not standing, that addresses whether an intervening circumstance has deprived the
+plaintiff of a personal stake in the outcome of the lawsuit.” West Virginia v. EPA,
+597 U.S. 697, 719 (2022). Unlike with standing, DOE, “not the petitioners, bears
+the burden to establish that a once-live case has become moot.” Id. DOE does not
+meet its burden of establishing that this case is moot.
+
+       “A case becomes moot when it becomes impossible for the court to grant any
+effectual relief.” Robinson v. Pfizer, Inc., 855 F.3d 893, 897 (8th Cir. 2017). This
+court “can assume that governments do not usually continue to enforce and defend
+regulations that have no continuing effect in the relevant market.” Diamond Alt.
+Energy, LLC, 145 S. Ct. at 2139. In a supplemental affidavit,7 the states explain
+how, even with EPA’s new standards, the final rule still has the effect of increasing
+emissions and accelerating the manufacture of electric vehicles. Thus, vacating and
+remanding the rule would grant effectual relief to the states, so this case is not moot.
+
+       Regardless, the final rule could harm the states in the future. DOE’s final rule
+“remains on the books.” National Ass’n of Mfrs. V. Dep’t of Def., 583 U.S. 109,
+120 (2018). EPA’s standards are currently being challenged in the D.C. Circuit by
+several states, including some of the states here. See Kentucky v. EPA, No. 24-1087
+(D.C. Cir. filed Apr. 18, 2024). If EPA’s standards are vacated, then DOE’s final
+rule would once again increase emissions and accelerate the production and adoption
+of electric vehicles. Thus, DOE’s final rule would harm the states. Vacating and
+remanding it would thus provide effectual relief. “It is not enough that the practical
+impact of any decision is not assured.” Gutierrez v. Saenz, 145 S. Ct. 2258, 2269
+(2025). Because it is still possible for this court to grant effectual relief, this case is
+not moot.
+
+      7
+       This court grants the petitioners’ unopposed motion to file the supplemental
+affidavit. Cf. Nat’l Council for Adoption v. Blinken, 4 F.4th 106, 111–12 (D.C. Cir.
+2021).
+                                         -19-
+                                         III.
+
+       The task of this court is to “determine whether Congress statutorily
+authorized” DOE to retain the fuel content factor for a limited time in its calculation
+of the equivalent petroleum-based fuel economy values of electric vehicles. See
+Union Pacific R.R. Co. v. Surface Transp. Board, 113 F.4th 823, 833 (8th Cir.
+2024). “Administrative agencies are creatures of statute. They accordingly possess
+only the authority that Congress has provided.” Id., quoting NFIB v. OSHA, 595
+U.S. 109, 117 (2022) (per curiam). Also, under the Administrative Procedure Act,
+Congress requires this court to “set aside” agency rules promulgated without valid
+statutory authority. United States ex rel. O’Keefe v. McDonnell Douglas Corp.,
+132 F.3d 1252, 1257 (8th Cir. 1998), citing 5 U.S.C. § 706(2)(C). Cf. Owner-
+Operator Independent Drivers Ass’n, Inc. v. Federal Motor Carrier Safety Admin.,
+656 F.3d 580, 587 (7th Cir. 2011) (describing the “well-established rule that when
+an agency fails to consider a factor mandated by its organic statute, this omission is
+alone ‘sufficient to establish an arbitrary-and-capricious decision requiring vacatur
+of the rule’”), quoting Public Citizen v. Federal Motor Carrier Safety Admin., 374
+F.3d 1209, 1216 (D.C. Cir. 2004).
+
+       The parties agree that the APA sets the standard of review. DOE argues that
+this court applies a “highly deferential standard” when reviewing agency actions
+under the APA. Organization for Competitive Markets v. U.S. Dep’t of Agric., 912
+F.3d 455, 459 (8th Cir. 2018). DOE asserts that if “an agency’s determination is
+supportable on any rational basis,” then this court “must uphold it.” Id. However,
+that language addresses agency actions that might be “arbitrary, capricious, an abuse
+of discretion, or otherwise not in accordance with law.” Id., quoting 5 U.S.C.
+§ 706(2)(A). That language does not set the standard of review for agency actions
+that are “in excess of statutory jurisdiction, authority, or limitations, or short of
+statutory right.” § 706(2)(C). Instead, the APA provides that, in reviewing agency
+actions, this court “shall decide all relevant questions of law” and “interpret . . .
+statutory provisions.” § 706. “Courts must exercise their independent judgment in
+deciding whether an agency has acted within its statutory authority, as the APA
+                                         -20-
+requires.” Loper Bright Enters. v. Raimondo, 603 U.S. 369, 412 (2024). Section
+706 “makes clear that agency interpretations of statutes . . . are not entitled to
+deference.” Id. at 393. In determining whether the statute authorizes DOE’s action,
+this court begins “with the statute’s plain language, giving words the meaning that
+proper grammar and usage would assign them.” Union Pacific, 113 F.4th at 833.
+Also, this court may “seek aid from the interpretations of those responsible for
+implementing particular statutes.” Loper Bright, 603 U.S. at 394. “In the
+construction of a doubtful and ambiguous law, the contemporaneous construction of
+those who were called upon to act under the law, and were appointed to carry its
+provisions into effect, is entitled to very great respect.” Id. at 385–86.
+
+        Agencies “are bound, not only by the ultimate purposes Congress has selected,
+but by the means it has deemed appropriate, and prescribed, for the pursuit of those
+purposes.” MCI Telecomm. Corp. v. AT&T, 512 U.S. 218, 231 (1994). DOE relies
+on section 32904, which requires basing electric vehicles’ equivalent petroleum-
+based fuel economy values on, among other factors, “the need of the United States
+to conserve all forms of energy and the relative scarcity and value to the United
+States of all fuel used to generate electricity.” 49 U.S.C. § 32904(a)(2)(B)(iii).
+DOE explains that gradually phasing out the fuel content factor increases the
+adoption of electric vehicles. DOE emphasizes that electric vehicles are more
+energy efficient than gasoline-powered vehicles. It also highlights that greater
+adoption of electric vehicles helps to conserve scarce fuels. While petroleum used
+to power gasoline-fueled vehicles is finite, DOE projects that nearly half of
+electricity will soon be powered by renewable sources of energy, like wind or solar
+power. Thus, DOE concludes that retaining temporarily the fuel content factor is
+justified based on the considerations of subsection 32904(a)(2)(B)(iii).
+
+      DOE’s reading of subsection 32904(a)(2)(B)(iii) is broad, contradicting
+DOE’s decades-long construction of the statute. Unlike its initial method for
+calculating the petroleum-equivalency factor in 1981, or its 1994 proposed method,
+DOE no longer tries to quantify the relative value or scarcity of various fuels. 45
+Fed. Reg. at 34012–13 (proposing to make the “relative value factor” for various
+                                        -21-
+fuels “the ratio of the average price of the individual fuel used to generate electricity
+to the average price of gasoline”); 59 Fed. Reg. at 5338 (proposing to derive the
+“relative scarcity factor” for various fuels “by determining the U.S. percent and
+numeric share of the world reserve market . . . , and calculating the rate at which the
+U.S. is depleting each fuel source’s reserves”). Here, DOE does not calculate
+different values for different fuels. Instead, it applies a flat fuel content factor.
+
+       The term “value” includes cost.                    Value, Merriam-Webster,
+https://www.merriam-webster.com/dictionary/value (defining “value” first as “the
+monetary worth of something: Market Price” and second as “a fair return or
+equivalent in goods, services, or money for something exchanged”) (last visited Aug.
+6, 2025). But unlike in 1981, DOE does not justify having a flat fuel content factor
+as representing the relative costs of various fuels. Instead, DOE justifies retaining
+the fuel content factor as serving to “incentive EV production, and hence to conserve
+energy, specifically petroleum.” 89 Fed. Reg. at 22052. Under DOE’s reading of
+the statute, the fuel content factor need not be 1/0.15. DOE could choose a different
+value so long as “applying such a fuel content factor would in fact conserve energy.”
+Id. This reading of subsection 32904(a)(2)(B)(iii) is not DOE’s “contemporaneous
+construction” of the statute. Loper Bright, 603 U.S. at 385–86. Indeed, this reading
+is even broader than DOE’s justification for the fuel content factor in 2000, which
+confined the fuel content factor to 1/0.15—the value Congress assigned to liquid
+alternative fuels and gaseous fuels. The stark difference between DOE’s first
+determination of a “relative value factor” and its current reading of subsection
+32904(a)(2)(B)(iii) contradicts DOE’s current reading of the statute.
+
+       The breadth of DOE’s current reading also shows it is not the best reading of
+the statute. The statute directs DOE to “determine” the “equivalent petroleum based
+fuel economy values” of electric vehicles “based on” several factors in four
+subsections. 49 U.S.C. § 32904(a)(2)(B). Subsection 32904(a)(2)(B)(iii) is only
+one of the four. This court presumes that Congress “does not alter the fundamental
+details of a regulatory scheme in vague terms or ancillary provisions—it does not,
+one might say, hide elephants in mouseholes.” Whitman v. American Trucking
+                                          -22-
+Ass’n, 531 U.S. 457, 468 (2001). If Congress aimed to empower DOE to incentivize
+the production of electric vehicles so long as the use of electric vehicles conserved
+energy overall and scarce fuels in particular, “Congress easily could have drafted”
+the statute “in that broad manner.” See National Ass’n of Mfrs. v. Dep’t of Defense,
+583 U.S. 109, 128 (2018).
+
+       Other subsections conflict with DOE’s reading of subsection (iii). Subsection
+(i) directs DOE to consider “the approximate electrical energy efficiency of the
+vehicle.” Subsection (ii) directs DOE to consider “the national average electrical
+generation.” DOE argues that subsection (iii) empowers considering both the
+efficiency of electric vehicles relative to gasoline-powered vehicles, and the
+percentages of the various fuels generating the electricity used to power electric
+vehicles. DOE’s reading renders subsections (i) and (ii) redundant, violating the
+canon against surplusage. See Pulsifer v. United States, 601 U.S. 124, 143 (2024)
+(“When a statutory construction thus renders an entire subparagraph meaningless . . .
+the canon against surplusage applies with special force.”) (cleaned up); Chicago v.
+Fulton, 592 U.S. 154, 159 (2021) (“The canon against surplusage is strongest when
+an interpretation would render superfluous another part of the same statutory
+scheme.”). It is “more than a little doubtful that Congress would have tucked into
+the mousehole of” subsection 32904(a)(2)(B)(iii) “an elephant that tramples the
+work done by” subsections (i) and (ii). See Epic Sys. Corp. v. Lewis, 584 U.S. 497,
+516 (2018).
+
+       Section 32905, an adjacent section, also shows that section 32904 does not
+empower DOE to include a fuel content factor of 1/0.15. See Robinson v. Shell Oil
+Co., 519 U.S. 337, 345 (1997) (highlighting that “broader context provided by other
+sections of the statute provides considerable assistance” in resolving the meaning of
+an ambiguous statute). In section 32905, Congress explicitly said that the “fuel
+economy” of alternative liquid fuel vehicles and gaseous fuel vehicles would be
+“based on” their “fuel content.” 49 U.S.C. § 32905(a), (c). Congress specifically
+set the “fuel content” at 1/0.15. Id. But Congress did not do so for electric vehicles,
+because section 32905 explicitly exempted electric vehicles. § 32905(a). Instead,
+                                         -23-
+Congress listed specific factors to calculate the equivalent petroleum-based fuel
+economy values of electric vehicles. § 32904(a)(2)(B). The different language in
+sections 32905 and 32904 shows that they have different meanings. See, e.g.,
+Golan-Pertez v. United States, 498 U.S. 395, 404 (1991); Custis v. United States,
+511 U.S. 485, 491-92 (1994); Holder v. Humanitarian Law Project, 561 U.S. 1, 17
+(2010); University of Texas Sw. Med. Center v. Nassar, 570 U.S. 338, 357 (2013);
+Southwest Airlines Co. v. Saxon, 596 U.S. 450, 457–58 (2022) (describing the
+application of the “meaningful-variation canon” across multiple statutes).
+Congress’s “omission of similar language” in section 32094 “indicates that it did not
+intend” to include a fuel content factor of 1/0.15 as a factor for the equivalent
+petroleum-based fuel economy of electric vehicles. See Custis, 511 U.S. at 491–92.
+
+       DOE has a different view of sections 32094 and 32095. According to it,
+section 32094 reflects that Congress trusted DOE to decide how best to account for
+the need of the United States to conserve all forms of energy and the relative scarcity
+and value of fuels, among other factors. The Alliance for Automotive Innovation
+adds that because Congress did not specify how to weigh each factor in section
+32094, “the agency is authorized to exercise a degree of discretion” in weighing each
+factor. See Loper Bright, 603 U.S. at 394. Cf. Wilson v. CFTC, 322 F.3d 555, 559
+(8th Cir. 2003) (“Where the issue involves the agency’s specialized knowledge and
+Congress has vested the agency with discretion in a technical area, the courts should
+recognize the agency’s presumed competence and expertise, and uphold the
+agency’s conclusion if it is rationally based.”).
+
+       “Particularly in cases involving agencies, ‘[a] statute’s meaning may well be
+that the agency is authorized to exercise a degree of discretion.” Zimmer Radio of
+Mid-Missouri, Inc. v. FCC, 2025 WL 2056854, at *5 (8th Cir. July 23, 2025),
+quoting Loper Bright, 603 U.S. at 395. This court agrees that section
+32094(a)(2)(B) does grant DOE some discretion to decide how to operationalize the
+factors. The plethora of factors listed and the general language used in the section
+indicate that DOE has some discretion. Also, DOE contemporaneously and
+consistently interpreted section 32904 to grant it some discretion. Since its first
+                                         -24-
+proposal, DOE has included an “accessory factor,” even as it acknowledged that the
+statute “does not specifically identify petroleum-powered accessories as a parameter
+in calculating equivalent petroleum-based fuel economy.” 45 Fed. Reg. at 34012
+(interpreting subsections (iii) and (iv) to authorize DOE to include the accessory
+factor).
+
+       But even accepting that section 32904 grants some discretion to DOE, “fixing
+the boundaries of the delegated authority” is the role of this court. Loper Bright,
+603 U.S. at 395 (cleaned up). DOE may have discretion to consider how best to
+quantify the need to conserve energy overall, as well as the relative value and relative
+scarcity of various fuels. But here DOE exceeds the boundaries of its statutory
+authority for the reasons discussed—the dramatic difference between DOE’s current
+view and its previous constructions of section 32904, the broadness of the authority
+DOE asserts by including the fuel content factor, the risk of making other
+subsections superfluous, and Congress’s choice to exempt electric vehicles from
+section 32905. DOE cannot “discover in a long-extant statute an unheralded power
+representing a transformative expansion in its regulatory authority.” West Virginia
+v. EPA, 597 U.S. at 724 (cleaned up).               DOE misinterprets subsection
+32904(a)(2)(B)(iii).
+
+       DOE and the Alliance for Automotive Innovation stress the statutory purpose
+to incentivize the production of electric vehicles. See 45 Fed. Reg. at 34009
+(describing the purpose of section 32904 as “to provide an incentive for vehicle
+manufactures to produce electric vehicles”). They also emphasize a purpose to
+“conserve all forms of energy.” 49 U.S.C. § 32904(a)(2)(B)(iii). See also 45 Fed.
+Reg. at 34008 (describing the purpose of the Energy Policy and Conservation Act
+of 1975 is to “conserve energy through improvements in the energy efficiency of
+motor vehicles”). However, the general purposes of the statute do not resolve
+whether subsection 32904(a)(2)(B)(iii) empowers DOE to incentivize the
+production of electric vehicles. See Director, Office of Workers’ Comp. Programs
+v. Newport News Shipbldg. & Dry Dock Co., 514 U.S. 122, 136 (1995) (“Every
+statute proposes, not only to achieve certain ends, but also to achieve them by
+                                         -25-
+particular means—and there is often a considerable legislative battle over what those
+means ought to be.”); Luna Perez v. Sturgis Public Schools, 598 U.S. 142, 150
+(2023) (emphasizing that statutes “are the product of compromise, and no law
+pursues its purposes at all costs”) (cleaned up). The incentive to manufacture electric
+vehicles was created “by including the expected high equivalent fuel economy of
+these vehicles in the CAFE calculation.” Id. For decades, DOE did not act as if
+subsection 32904(a)(2)(B)(iii) empowered it to incentivize the production of electric
+vehicles by artificially inflating their fuel economy. Instead, DOE tried to quantify
+the relative values of various fuels. 45 Fed. Reg. at 34012–13. The “incentive”
+occurred “by including the expected high equivalent fuel economy of these vehicles
+in the CAFE calculation.” Id. at 34009. DOE’s “contemporaneous construction”
+indicates that subsection 32904(a)(2)(iii) does not empower DOE to pursue goals by
+artificially inflating the fuel-economy of electric vehicles. Loper Bright, 603 U.S.
+at 385-86.
+
+       The Alliance for Automotive Innovation argues that the petitioners cannot
+raise the issue of unlawfulness here because they did not raise it before DOE. See
+ExxonMobil Oil Corp. v. FERC, 487 F.3d 945, 962 (D.C. Cir. 2007) (explaining
+that requiring petitioners to raise an issue with the agency before seeking judicial
+review “ensures ‘simple fairness’ to the agency and other affected litigants” and
+“provides this Court with a record to evaluate complex regulatory issues”). Here,
+however, “simple fairness” is not threatened, and there is an ample record to
+evaluate. Multiple commenters objected to the lawfulness of the fuel content factor,
+including any attempt to justify it under section 32904. DOE replied to these
+comments, expressly claiming that section 32904 provides “an adequate statutory
+basis for retaining the fuel content factor for a limited time period.” 89 Fed. Reg. at
+22049, 22052. Although the states themselves did not raise the issue during notice
+and comment, the agency and other affected parties were aware of the objection and
+there is a record to review.
+
+      The Alliance for Automotive Innovation also argues that if DOE eliminated
+the fuel content factor all at once, as in its notice of proposed rulemaking, then it
+                                         -26-
+would have had to consider the reliance interests of car manufacturers. See Encino
+Motorcars, LLC v. Navarro, 579 U.S. 211, 221–22 (2016) (holding that an agency
+“must at least display awareness that it is changing its position and show that there
+are good reasons for the new policy. In explaining its changed position, an agency
+must also be cognizant that longstanding policies may have engendered serious
+reliance interests that must be taken into account”) (cleaned up). But that does not
+support DOE’s final rule. The question before this court is not whether the proposed
+rule would have been lawful. The question is whether the final rule is lawful. The
+part of DOE’s final rule that preserves and then phases out the fuel content factor is
+unlawful because the fuel content factor—as currently determined and justified by
+DOE—lacks statutory authority.8
+
+                                         IV.
+
+       The states and the American Free Enterprise Chamber of Commerce
+challenge DOE’s calculation of the cumulative equivalent fuel economy of
+electricity “based on the expected survivability-weighted lifetime mileage schedule
+of the fleet of vehicles.” 89 Fed. Reg. at 22048. They argue DOE’s calculation
+violates notice-and-comment procedures, is arbitrary and capricious, and is
+unlawful. This court concludes that DOE’s interpretation of the statute is lawful.
+But DOE violated notice-and-comment procedures. This court thus need not decide
+whether DOE acted arbitrarily and capriciously in this part of the rule.
+
+
+
+
+      8
+       Also, DOE’s decision to retain the same two-cycle test procedure for electric
+vehicles as EPA uses for internal combustion engine vehicles is downstream of
+DOE’s decisions about the petroleum-equivalency factor. 89 Fed. Reg. at 22044.
+Because DOE on remand will reconsider at least some parts of the petroleum-
+equivalency factor, this court need not rule on whether DOE acted arbitrarily and
+capriciously in retaining the two-cycle test procedure. Public Citizen, 374 F.3d at
+1217 (declining to “render a final decision on petitioners’ other objections to the
+rule” when one objection was dispositive “and especially because the agency’s
+handling of the other factors may be different after reconsideration”).
+                                        -27-
+                                          A.
+
+       The states and AmFree challenge the “cumulative” aspect of the “cumulative
+equivalent fuel economy of electricity.” They argue that DOE’s consideration of the
+useful life of electric vehicles exceeds its authority under section 32904. They
+highlight that the lifetime of electric vehicles is not listed in the four subsections of
+section 32904(a)(2)(B). Instead, subsection (ii) requires DOE to consider “the
+national average electrical generation and transmission efficiencies.” 49 U.S.C.
+§ 32904(a)(2)(B)(ii). The states and AmFree emphasize that the statute instructs
+DOE to review the equivalent petroleum-based fuel economy values “each year” and
+propose necessary revisions. § 32904(a)(2)(B). The states and AmFree argue that
+the ordinary meaning of the word “the” is that DOE must consider only the
+generation mix of the electrical grid during the model year of the electric vehicle
+fleet, not the generation mixes of the electrical grid for every year of the electric
+vehicle fleet’s useful lifetime. Finally, they say that DOE’s reading of the statute
+makes its fact-finding “mere speculation” about the United States’ electrical grid
+decades in the future. See Business Roundtable v. SEC, 647 F.3d 1144, 1150 (D.C.
+Cir. 2011).
+
+       Again, this court must exercise its “independent judgment” in deciding
+whether DOE “has acted within its statutory authority.” Loper Bright, 603 U.S. at
+412. This court is unpersuaded that DOE has exceeded its discretionary authority.
+Section 32904 tasks DOE with determining the “equivalent petroleum based fuel
+economy values” of electric vehicles. 49 U.S.C. § 32904. The statute defines “fuel
+economy” as “the average number of miles traveled by an automobile for each gallon
+of gasoline (or equivalent amount of other fuel) used.” § 32901(11). Because the
+mix of fuels generating electricity in the United States is likely to change over an
+electric vehicle’s lifetime, the amount of electricity equivalent to a gallon of gasoline
+“used” by electric vehicle’s is also likely to change. Although the statute charges
+DOE with reviewing and revising the equivalent petroleum-based fuel economy
+values “each year,” DOE does not revise these values for past model years. § 32904.
+Credits are earned at the end of a model year. § 32903(b). Thus, DOE reasons that
+                                          -28-
+determining the equivalent petroleum-based fuel economy values of electric vehicles
+required considering the equivalent fuel economy of electricity over the lifetime of
+an electric vehicle fleet, not just in the year the fleet was produced. The requirement
+to review the values “each year” does not prohibit DOE from considering the lifetime
+of electric vehicles and the average miles traveled each year during their lifetime.
+
+        Nor does the requirement that DOE base the values on “the national average
+electrical generation and transmission efficiencies” prohibit DOE from considering
+these efficiencies over the lifetime of electric vehicles. The states and AmFree argue
+that the combination of “the” and “each year” in the statute requires DOE to use the
+generation and transmission efficiencies in the model year that an electrical vehicle
+fleet is produced. True, “the” can indicate “that a following noun or noun equivalent
+is definite or has been previously specified by context.” Nielsen v. Preap, 586 U.S.
+392, 408 (2019). But here, “the” is not followed by a noun. Rather, “the” is followed
+by an adjective “national average.” 49 U.S.C. § 32904(a)(2)(B)(ii). In context, the
+word “the” is “used as a function word . . . to limit the application of the modified
+noun to that specified by the adjective.”                    The, Merriam-Webster,
+https://www.merriam-webster.com/dictionary/the (last visited July 27, 2025). Thus,
+the presence of “the” in subsection (ii) does not support the states’ reading. This
+court will not impose “limits on an agency’s discretion that are not supported by the
+text.” Little Sisters of the Poor v. Penn., 591 U.S. 657, 677 (2020). “It is a
+fundamental principle of statutory interpretation that absent provisions cannot be
+supplied by the courts.” Id. (cleaned up). The text of Section 32904 does not limit
+DOE to considering generation and transmission efficiencies only during the model
+year of a fleet.
+
+       Finally, the states point to DOE’s original and longstanding practices, arguing
+that they are entitled to “respect” while DOE’s new construction is not. See Loper
+Bright, 603 U.S. at 386. True, DOE has not before now interpreted section 32904
+to allow it to consider the vehicle miles traveled over the lifetime of an electric
+vehicle fleet. In 1981, for electrical vehicles of a model year, DOE based the
+petroleum-equivalency factor on the projected state of the grid and relative values
+                                         -29-
+of various fuels in that model year, not over the expected lifetime of the vehicles.
+45 Fed. Reg. at 73686. But DOE still used projections about the future. Id. DOE’s
+early practice thus contradicts the states’ reading of section 32904. Regardless of
+DOE’s prior practices, this court must “independently interpret the statute and
+effectuate the will of Congress subject to constitutional limits.” Loper Bright, 603
+U.S. at 395. DOE did not act unlawfully in considering the expected vehicle miles
+traveled each year over the lifetime of an electric vehicle fleet.
+
+                                         B.
+
+       The states and the AmFree argue that DOE promulgated an “entirely new”
+methodology in its final rule, violating notice-and-comment procedures. Owner-
+Operator Indep. Drivers Ass’n, Inc. v. Federal Motor Carrier Safety Admin., 494
+F.3d 188, 201 (D.C. Cir. 2007). The APA requires that agencies give notice that
+includes “either the terms or substance of the proposed rule or a description of the
+subjects and issues involved.” 5 U.S.C. § 553(b)(3). And the APA provides that
+this court “shall hold unlawful and set aside” an agency action found to be “without
+observance of procedure required by law.” § 706(2)(D). “If a petitioner challenges
+the agency’s compliance with the APA’s procedural requirements, then de
+novo review is required because compliance is not a matter that Congress has
+committed to the agency's discretion.” Custom Commun’cs, Inc. v. FTC, 142 F.4th
+1060, 1070 (8th Cir. 2025).
+
+       Notice “should be sufficiently descriptive of the ‘subjects and issues involved’
+so that interested parties may offer informed criticism and comments.” Northwest
+Airlines, Inc. v. Goldschmidt, 645 F.2d 1309, 1319 (8th Cir. 1981), quoting 5 U.S.C.
+§ 553(b)(3). DOE emphasizes that notice “need not contain ‘every precise proposal
+which (the agency) may ultimately adopt as a rule.’” Northwest Airlines, Inc., 645
+F.2d at 1319. DOE points out that in its notice of proposed rulemaking it proposed
+calculating the petroleum-equivalency factor “based on projections for the electricity
+grid in the future.” 88 Fed. Reg. at 21531. More, DOE specifically requested
+comments on its proposal to make the petroleum-equivalency factor for electric
+                                         -30-
+vehicles of model years 2027 through 2031 “the average of the annually calculated
+value of the PEF, based on calendar-year projections for the electric grid.” Id. This
+court recognizes a difference between a notice that “expressly asked for comments
+on a particular issue” and a notice that only “mentioned an issue but ‘gave no
+indication that the agency was considering a different approach.’” Citizens
+Telecommun’cs Co. of Minn., LLC v. FCC, 901 F.3d 991, 1004 (8th Cir. 2018).
+Here, DOE did indicate it was considering a different approach.
+
+        But DOE still failed to give “notice of the range of alternatives being
+considered.” Id.; cf. Prometheus Radio Project v. FCC, 652 F.3d 431, 452 (3d Cir.
+2011) (holding that an agency “‘must describe the range of alternatives being
+considered with reasonable specificity. Otherwise interested parties will not know
+what to comment on, and notice will not lead to better-informed agency decision-
+making’”) (cleaned up), quoting Horsehead Resource Dev. Co., Inc. v. Browner,
+16 F.3d 1246, 1268 (D.C. Cir. 1994). DOE highlighted multiple alternative
+approaches it considered for calculating the petroleum-equivalency factor. But none
+of the alternatives included looking at the expected miles traveled each year during
+the lifetime of an electric vehicle fleet. 88 Fed. Reg. at 21536. DOE gave interested
+parties almost no idea it was considering the generation mix of the electrical grid
+each year over a 40-year survivability-weighted lifetime milage schedule. DOE
+mentioned once that its forward-looking approach “would better account for the
+electricity generation mix . . . over the course of the vehicle’s useful life.” Id. at
+21536. But this mention was far away from DOE’s request for comment. Rather,
+before requesting comment on its “proposed approach,” DOE explained that it used
+projections of the grid from 2027 through 2031 because it expected the Department
+of Transportation’s next CAFE standards to be for those years. 88 Fed. Reg. at
+21531. DOE justified applying the same average petroleum-equivalency factor for
+all five years because “a fixed value for the CAFE standards period improves the
+ability of DOT to determine CAFE standards that are ‘the maximum feasible average
+fuel economy level’ and provides greater certainty to stakeholders from year to
+year.” Id. DOE’s request for comment “could well have appeared” to be a request
+for comment about its proposal to average the petroleum-equivalency factors for
+                                        -31-
+model years 2027 through 2031 and apply the same petroleum-equivalency factors
+for all electric vehicles of those five years. See Council Tree Commun’cs, Inc. v.
+FCC, 619 F.3d 235, 256 (3d Cir. 2010).
+
+        Thus, DOE’s notice did not allow “interested parties to offer informed
+criticism and comments.” Missouri Limestone Producers Ass’n, Inc. v. Browner,
+165 F.3d 619, 622 (8th Cir. 1999). DOE cites three comments pointing out that
+DOE’s proposed method did not consider how the generation mix of the electrical
+grid will change over the expected lifetime of electric vehicles. One comment, by
+the American Council for an Energy-Efficient Economy, proposed that DOE “use
+the projected year-by-year PEF values over the full vehicle life, weighted by
+expected annual vehicle miles traveled (VMT), which declines with vehicle age.”
+But DOE “cannot bootstrap notice from a comment.” Citizens Telecommun’cs, 901
+F.3d at 1006. DOE’s “cumulative gasoline-equivalent fuel economy of electricity”
+differs from DOE’s proposal in several ways. DOE’s proposed method to calculate
+the petroleum-equivalency factor did not include projecting the useful lifetime of an
+electric vehicle fleet, the annual vehicle miles traveled each year during that lifetime,
+nor the generation mix of the electrical grid each year. See 89 Fed. Reg. at 22045-
+46, 22047-48. In its final rule, DOE used data from the Department of
+Transportation about the lifetime vehicle miles traveled by light duty fleets in
+general, 89 Fed. Reg. at 22048, because there is no robust data about the useful
+lifetime and annual miles traveled by electric vehicle fleets in particular. Before this
+court, the parties argue whether electric vehicle fleets will have the same lifetimes
+and the same annual vehicle miles traveled as the average of a manufacture’s whole
+fleet. The lack of engagement with these issues in the comments indicates that
+DOE’s notice was insufficient. The APA’s notice-and-comment procedures are
+“designed to assure due deliberation.” Smiley v. Citibank (S.D.), N.A., 517 U.S.
+735, 741 (1996). Because DOE did not propose using a cumulative gasoline-
+equivalent fuel economy of electricity, “it did not allow for informed participation
+by interested parties in that portion of the rulemaking, and its notice was
+insufficient.” Citizens Telecommun’cs, 901 F.3d at 1005.
+
+
+                                          -32-
+       The Alliance for Automotive Innovation argues that a final rule may differ
+from a proposal if the final rule is a “logical outgrowth” of the proposal. American
+Fed’n of Lab. & Cong. of Indus Orgs. v. Donovan, 757 F.2d 330, 338 (D.C. Cir.
+1985) (“The whole rationale of notice and comment rests on the expectation that the
+final rules will be somewhat different—and improved—from the rules originally
+proposed by the agency.”); see also Burlington Northern R.R. Co. v. Minn., 882
+F.2d 1349, 1355 (8th Cir. 1989) (highlighting that “the final action taken by an
+agency often differs from the proposed rule, in many cases reflecting the comments
+of interested parties”). The Alliance argues that the comment by the American
+Council for an Energy-Efficient Economy reveals that DOE’s final rule is a logical
+outgrowth of DOE’s proposal. But the object of the APA’s notice-and-comment
+procedures is “one of fair notice.” Long Island Care at Home, Ltd. v. Coke, 551
+U.S. 158, 174 (2007); see also American Fed’n of Lab. & Cong. of Indus Orgs.,
+757 F.2d at 338 (“If the final rule deviates too sharply from the proposal, affected
+parties will be deprived of notice and an opportunity to respond to the proposal.”)
+(cleaned up). That “some sophisticated observers” thought to mention the changes
+in the generation mix over the expected lifetime of electric vehicles, does not mean
+that DOE provided sufficient notice. Council Tree Commun’cs, Inc., 619 F.3d at
+256. This is not a case where “[m]any interested parties understood” what DOE was
+considering and “they submitted comments opposing or advocating the proposed
+rules, specifically addressing” looking at the generation mix over the expected
+vehicle miles traveled each year during the useful lifetime of an electric vehicle fleet.
+Burlington Northern R.R. Co., 882 F.2d at 1355. DOE’s proposal was not
+“sufficiently descriptive of the ‘subjects and issues involved’ so that interested
+parties may offer informed criticism and comments.” Citizens Telecommun’cs, 901
+F.3d at 1005. DOE violated notice-and-comment procedures.
+
+       The states and AmFree were prejudiced because they “lost the opportunity to
+dissuade” DOE from adopting the cumulative gasoline-equivalent fuel economy of
+electricity factor. Custom Commun’cs, Inc., 142 F.4th at 1073. As demonstrated
+by the arguments before this court, the states and AmFree would have presented
+several reasons why DOE should not adopt its cumulative approach. “Petitioners
+                                          -33-
+have raised enough uncertainty whether their comments would have had some
+effect.” Id. (cleaned up). DOE violated notice-and-comment procedures in this
+portion of the rulemaking. 9
+
+                                         V.
+
+       The states and AmFree argue that DOE violates subsection 32904(a)(2)(B)(iv)
+by retaining the driving pattern factor at 1.0. Subsection (iv) provides that DOE
+shall base the equivalent petroleum-based fuel economy values of electric vehicles
+on “the specific patterns of use of electric vehicles compared to petroleum-fueled
+vehicles.” 48 U.S.C. § 32904(a)(2)(B)(iv). The states and AmFree emphasize that
+DOE originally recognized that the “petroleum-fueled vehicle has a greater number
+of vehicle miles travelled annually than the electric vehicle due to the limited range
+restriction of electric vehicles.” 45 Fed. Reg. at 34012. They conclude that DOE
+ignores subsection (iv) by setting a 1.0 driving pattern factor without evidence that
+electric vehicles have similar performance and are driven the same number of miles
+as petroleum-fueled vehicles.
+
+      Again, this court must exercise its “independent judgment” in deciding
+whether DOE “has acted within its statutory authority.” Loper Bright, 603 U.S. at
+412. This court concludes that DOE did not violate subsection (iv) by retaining the
+driving pattern factor at 1.0. As discussed, the statute delegates some discretion to
+DOE in how to operationalize that factor. Nothing in the text of subsection (iv)
+prohibits DOE from setting the driving pattern factor at 1.0 in the proper
+circumstances. In fact, DOE has maintained the 1.0 driving pattern factor since
+1981. 45 Fed. Reg. at 73686. Interpretations “issued contemporaneously with the
+
+
+      9
+        This court need not decide whether this part of DOE’s final rule was arbitrary
+and capricious. Ruling here on the merits of DOE’s calculation of the cumulative
+gasoline-equivalent fuel economy of electricity would “short-circuit the APA’s
+notice and comment procedures and preclude interested parties from participating in
+the agency’s analytic process.” Iowa League of Cities, 711 F.3d at 877. Instead,
+this court remands this part of the rule to DOE for “further consideration.” Id.
+                                          -34-
+statute at issue, and which have remained consistent over time, may be especially
+useful in determining the statute’s meaning.” Loper Bright, 603 U.S. at 394.
+Retaining a driving pattern factor of 1.0 is within the authority that the statute
+delegates to DOE.
+
+                                         VI.
+
+      Having addressed the three substantive challenges to DOE’s final rule, this
+court considers whether the insufficiencies are severable from the final rule.
+Generally, “the entire rule rises and falls with its challenged provisions.” Missouri
+v. Trump, 128 F.4th at 998. But, in “certain circumstances, portions of a rule can be
+severed if doing so would ‘not impair the function of the statute as a whole, and there
+is no indication that the regulation would not have passed’ had the unlawful
+provision not been included.” Id., quoting K Mart Corp. v. Cartier, Inc., 486 U.S.
+281, 294 (1988).
+
+      DOE believes that Congress intended to “provide an incentive for vehicle
+manufactures to produce electric vehicles.” 45 Fed. Reg. at 34009. See Loper
+Bright, 603 U.S. at 394 (reaffirming that “interpretations issued contemporaneously
+with the statute at issue, and which have remained consistent over time, may be
+especially useful in determining the statute’s meaning”). DOE explains that
+preserving permanently the fuel content factor would disincentivize increased
+production of electric vehicles. 89 Fed. Reg. at 22050–51. Thus, holding unlawful
+and vacating only the rule’s provision that phases out the fuel content factor would
+undermine the purpose of the statute.
+
+      On this record, DOE would not have promulgated the rule without addressing
+the fuel content factor. DOE began its rulemaking in response to a petition by
+National Resources Defense Council and Sierra Club. More than any other issue,
+they expressed concern about the 1/0.15 fuel content factor. They argued that the
+multiplier to the fuel economy of electric vehicles enabled manufacturers to comply
+with CAFE standards without “meaningful improvements in the real-world average
+                                         -35-
+fuel economy of automakers’ overall fleets.” 86 Fed. Reg. 73992, 73995 (Dec. 29,
+2021). They also highlighted that the 1/0.15 value neither accounted “for a real-
+world improvement in fuel conservation” nor “had the effect of causing net
+improvements in real-word fuel efficiency.” Id. at 73996. They labeled as
+“questionable” DOE’s legal justification for including the 1/0.15 value in the final
+rule. Id. The fact that the 1/0.15 value was a primary concern of the petition that
+prompted DOE’s rulemaking indicates that DOE would not have promulgated the
+final rule without the provision addressing the fuel content factor.
+
+       Also, DOE’s final rule phasing out of the fuel content factor increases the
+petroleum-equivalency factor for multiple years relative to DOE’s initial proposal
+eliminating it all at once. Likewise, the final rule’s “cumulative gasoline-equivalent
+fuel economy of electricity” increases the petroleum-equivalency factor relative to
+DOE’s initial proposal to average the “annual gasoline-equivalent fuel economy of
+electricity” values for 2027 through 2031. See 89 Fed. Reg. at 22047-48. Because
+DOE believes that the purpose the statute is to provide an incentive to manufacture
+electric vehicles, it is reasonable to conclude that DOE would not have promulgated
+the final rule without including these changes incentivizing the manufacture of
+electric vehicles.
+
+       Finally, the final rule lacks a severability clause. See Custom Commun’cs,
+Inc., 142 F.4th at 1074–75 (vacating the whole rule despite the rule having a
+severability clause). Rather, the fuel content factor and the cumulative gasoline-
+equivalent fuel economy of electricity are two variables in a larger equation for
+calculating the equivalent petroleum-based fuel economy values of electric vehicles.
+DOE did not significantly change the other parts of this equation from the 2000 rule.
+DOE continued the same two-cycle test to determine the combined electrical energy
+consumption values of electric vehicles. 89 Fed. Reg. at 22044. DOE kept the
+driving pattern factor at 1.0. Id. at 22052. DOE did change the accessory factor to
+1.0 for all electric vehicles. Id. In the 2000 rule, DOE had the accessory factor at
+1.0 for electric vehicles with no petroleum-powered accessories and 0.9 for electric
+vehicles with those accessories. 65 Fed. Reg. at 36987. But this change from DOE’s
+                                        -36-
+2000 rule had little practical effect because, as DOE explains: “No EVs currently
+produced include such accessories and it is unlikely that future EVs will include
+them.” 89 Fed. Reg. at 22052. The lack of changes to the other factors used in
+calculating equivalent petroleum-based fuel economy values of electric vehicles
+indicates that DOE would not have promulgated a new rule without changing the
+fuel content factor and the gasoline-equivalent energy content of electricity.
+
+           Because the rule is not severable, this court’s remedy applies to the whole
+rule. 10
+
+                                           VII.
+
+       The final question is the proper remedy. Both DOE and the Alliance for
+Automotive Innovation request that this court not vacate the final rule, even if this
+court remands the rule to DOE. This court, in determining petitions for review, may
+“fashion the relief most appropriate to the circumstances of the case before the
+court.” U.S. Steel Corp. v. EPA, 649 F.2d 572, 576 (8th Cir. 1981). This court
+“must yet determine what relief will best remedy the injury of” the petitioners for
+review “but minimize any frustration of the purposes” of the statute. Id. The 2000
+rule remains valid and will spring back into effect if this court vacates the 2024 final
+rule. Menorah Med. Ctr. v. Heckler, 768 F.2d 292, 297 (8th Cir. 1985) (“Unless
+special circumstances are present . . . prior regulations remain valid until replaced
+by a valid regulation or invalidated by a court.”). The 2000 rule also has a 1/0.15
+fuel content factor. Thus, DOE argues, vacating the 2024 final rule would not
+remedy the states’ and AmFree’s injuries. DOE adds that vacating the rule would
+disrupt the statute’s energy-conservation goals and disrupt the reliance interests of
+
+
+
+           10
+         This court need not consider whether DOE violated notice-and-comment
+procedures or acted arbitrarily and capriciously in its decision to retain the driving
+pattern factor at 1.0. See Hayes v. Apfel, 187 F.3d 641, at *2 (8th Cir. 1999) (Table)
+(finding it “unlikely” that other complained of issues in an agency’s decisionmaking
+“will reoccur on remand”).
+                                         -37-
+car manufacturers, who decide about car production years in advance.          DOE
+concludes that this court should not vacate the final rule.
+
+       However, in the one binding precedent DOE cites, an agency violated notice-
+and-comment procedure without good cause. U.S. Steel Corp., 649 F.2d at 577
+(remanding but not vacating the rule). See also Custom Commun’cs, Inc., 142 F.4th
+at 1074–75 (vacating the rule even though the insufficiencies in the rulemaking were
+only procedural). Here, DOE exceeds the authority granted by a substantive statute.
+“Agency action taken without statutory authority must be set aside.” Union Pacific
+R.R. Co. v. Surface Transp. Bd., 863 F.3d 816, 822 (8th Cir. 2017). See also
+O’Keefe, 132 F.3d at 1257 (“An agency's promulgation of rules without valid
+statutory authority implicates core notions of the separation of powers, and we are
+required by Congress to set these regulations aside”), citing 5 U.S.C. § 706(2)(C).
+See generally Sierra Club v. EPA, 705 F.3d 458, 465 (D.C. Cir. 2013)
+(distinguishing between a case where the agency action had a “procedural defect”
+and a case where the agency action had a “substantive defect” and the agency asked
+the court to vacate its action). Because DOE’s rule violates a substantive statute,
+this court vacates and remands.
+
+                                   *******
+
+     This court grants the petition for review, vacates the 2024 final rule, and
+remands to DOE.
+                     ______________________________
+
+
+
+
+                                       -38-
+

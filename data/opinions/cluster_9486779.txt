@@ -1,0 +1,1674 @@
+Case: 23-40076     Document: 140-1         Page: 1   Date Filed: 03/21/2024
+
+
+
+
+        United States Court of Appeals
+                                                                  United States Court of Appeals
+
+             for the Fifth Circuit                                         Fifth Circuit
+
+                                                                         FILED
+                            ____________
+                                                                   March 21, 2024
+
+                             No. 23-40076                           Lyle W. Cayce
+                            ____________                                 Clerk
+
+R J Reynolds Tobacco Company; Santa Fe Natural
+Tobacco Company, Incorporated; ITG Brands LLC;
+Liggett Group LLC; Neocom, Incorporated;
+Rangila Enterprises, Incorporated; Rangila LLC;
+Sahil Ismail, Incorporated; Is Like You, Incorporated,
+
+                                                       Plaintiffs—Appellees,
+
+                                  versus
+
+Food & Drug Administration; United States
+Department of Health and Human Services;
+Robert M. Califf, Commissioner of Food and Drugs; Xavier
+Becerra, Secretary, U.S. Department of Health and Human Services,
+
+                                      Defendants—Appellants.
+              ______________________________
+
+              Appeal from the United States District Court
+                   for the Eastern District of Texas
+                        USDC No. 6:20-CV-176
+              ______________________________
+
+Before Smith, Elrod, and Graves, Circuit Judges.
+Jerry E. Smith, Circuit Judge:
+      In 2009, Congress enacted the Family Smoking Prevention and
+Tobacco Control Act (“TCA” or “Act”), which revised the required warn-
+ings each cigarette manufacturer must place on its packages and advertise-
+Case: 23-40076             Document: 140-1           Page: 2       Date Filed: 03/21/2024
+
+
+
+
+                                          No. 23-40076
+
+
+ments.1 Modernizing the ubiquitous text of the Surgeon General’s current
+warnings, the Act requires cigarette packages to include “color graphics
+depicting the negative health consequences of smoking to accompany the
+[updated] label statements.” 15 U.S.C. § 1333(d). Those graphics and state-
+ments (together “Warnings”) “shall comprise the top 50 percent of the front
+and rear panels of the package” of cigarettes and “at least 20 percent of the
+area of [any] advertisement . . . .” Id. § 1333(a)(2), (b)(2).
+        Tobacco companies quickly brought a facial challenge to the TCA’s
+constitutionality, but the Sixth Circuit upheld it in 2012.2 The FDA’s first
+attempt at a rule interpreting and applying the Act fared less well, as the FDA
+failed to rebut an as-applied First Amendment challenge before the D.C.
+Circuit in 2014.3 Now, ten years later, the FDA has tried again, so we are the
+third circuit to weigh in.
+        R.J. Reynolds Tobacco Company (“RJR”) and other cigarette manu-
+facturers and retailers claim that the FDA’s newest attempt at implementing
+the Act’s warning-label requirement violates the First Amendment, the
+Administrative Procedure Act (“APA”), and the requirements of the TCA
+itself. On cross-motions for summary judgment, the district court agreed
+with the plaintiffs’ First Amendment challenge and granted summary judg-
+ment without reaching the remaining claims. But we disagree—the warnings
+are both factual and uncontroversial, so Zauderer4 scrutiny applies, and the
+
+        _____________________
+        1
+         Pub. L. No. 111-31, div. A, title II, §§ 201(a), 202(b), 206, 123 Stat. 1776, 1842–50
+(2009) (codified as amended in scattered sections of Titles 15 and 21 U.S.C.).
+        2
+         See Discount Tobacco City & Lottery, Inc. v. United States, 674 F.3d 509, 552 (6th
+Cir. 2012) (controlling opinion by Stranch, J.).
+        3
+        See R.J. Reynolds Tobacco Co. v. FDA, 696 F.3d 1205 (D.C. Cir. 2012), overruled
+by Am. Meat Inst. v. USDA, 760 F.3d 18 (D.C. Cir. 2014) (en banc).
+        4
+            Zauderer v. Off. of Disciplinary Couns. of Sup. Ct. of Ohio, 471 U.S. 626 (1985).
+
+
+
+
+                                                    2
+Case: 23-40076           Document: 140-1             Page: 3   Date Filed: 03/21/2024
+
+
+
+
+                                        No. 23-40076
+
+
+rule passes constitutional muster. Therefore, we reverse and remand the
+remaining claims for initial consideration by the district court.
+
+                                              I.
+A.     The TCA and Its Antecedents
+       In 1965, Congress passed the Federal Cigarette Labeling and Advertis-
+ing Act.5 For the first time, all cigarettes manufactured, imported, or pack-
+aged for sale or distribution within the United States had to display
+“CAUTION: Cigarette Smoking May Be Hazardous to Your Health.”6
+       Four years later, Congress revised that warning to state,
+“WARNING: The Surgeon General Has Determined That Cigarette Smok-
+ing Is Dangerous To Your Health.”7 Then, in 1984, Congress again updated
+the warnings with the Comprehensive Smoking Education Act.8 Under that
+act, the warnings now read,
+       SURGEON GENERAL’S WARNING: Smoking Causes
+       Lung Cancer, Heart Disease, Emphysema, And May Compli-
+       cate Pregnancy.
+       SURGEON GENERAL’S WARNING: Quitting Smoking
+       Now Greatly Reduces Serious Risks to Your Health.
+       SURGEON GENERAL’S WARNING: Smoking By Pregnant
+       Women May Result in Fetal Injury, Premature Birth, and Low
+       Birth Weight.
+       SURGEON GENERAL’S WARNING: Cigarette Smoke
+       Contains Carbon Monoxide.
+
+       _____________________
+       5
+           Pub. L. No. 89-92, 79 Stat. 282 (1965).
+       6
+           Id. § 4.
+       7
+           See Public Health Cigarette Smoking Act of 1969, Pub. L. No. 91-222, 84 Stat. 87.
+       8
+           Pub. L. No. 98-474, 98 Stat. 2200 (1984).
+
+
+
+
+                                                     3
+Case: 23-40076             Document: 140-1      Page: 4     Date Filed: 03/21/2024
+
+
+
+
+                                       No. 23-40076
+
+
+Id. § 4.9
+       Between 1984 and 2009, though, Congress found that “efforts to
+restrict advertising and marketing of tobacco products,” including the warn-
+ings, had “failed adequately to curb tobacco use by adolescents, [so] compre-
+hensive restrictions on the sale, promotion, and distribution of such products
+[were] needed.” TCA § 2(6). Thus, it enacted the TCA.
+       In the TCA, Congress made extensive and significant legislative find-
+ings, including that (1) minors still often see and are exposed to tobacco prod-
+uct advertising10; (2) the “overwhelming majority of Americans who use
+tobacco products begin using such products while they are minors and
+become addicted to the nicotine in those products before reaching the age
+of 18”11; and (3) “[r]educing the use of tobacco by minors by 50 percent
+would prevent well over 10,000,000 of today’s children from becoming
+regular, daily smokers, saving over 3,000,000 of them from premature death
+due to tobacco-induced disease[s]” and would “result in approximately
+$75,000,000,000 in savings attributable to reduced health care costs.”12
+       In light of those findings, Congress believed it necessary to update the
+1984 Surgeon General’s Warnings with new ones. It chose nine new warn-
+ings that would rotate regularly, stating,
+       WARNING: Cigarettes are addictive.
+       WARNING: Tobacco smoke can harm your children.
+
+       _____________________
+       9
+          Until the FDA implements the TCA’s requirements, manufacturers must con-
+tinue to use those warnings from 1984. Manufacturers typically place the warnings on the
+side panel of each cigarette package, occupying approximately 5% of each’s surface area.
+       10
+            TCA § 2(15), (17), (18).
+       11
+            Id. § 2(31).
+       12
+            Id. § 2(14).
+
+
+
+
+                                                4
+Case: 23-40076          Document: 140-1    Page: 5     Date Filed: 03/21/2024
+
+
+
+
+                                  No. 23-40076
+
+
+       WARNING: Cigarettes cause fatal lung disease.
+       WARNING: Cigarettes cause cancer.
+       WARNING: Cigarettes cause strokes and heart disease.
+       WARNING: Smoking during pregnancy can harm your baby.
+       WARNING: Smoking can kill you.
+       WARNING: Tobacco smoke causes fatal lung disease in
+       nonsmokers.
+       WARNING: Quitting smoking now greatly reduces serious
+       risks to your health.
+15 U.S.C. § 1333(a)(1). The new warnings, Congress determined, must
+“comprise the top 50 percent of the front and rear panels of” each cigarette
+package and “at least 20 percent of the area of [any] advertisement . . . .” Id.
+§ 1333(a)(2), (b)(2).
+       But updating the text and the font size of the warnings was not
+enough—Congress also wanted images with the textual warnings. So, it
+instructed the Secretary of Health and Human Services to “issue regulations
+that require color graphics depicting the negative health consequences of
+smoking to accompany the label statements.” Id. § 1333(d). And Congress
+gave the Secretary the authority to “adjust the type size, text and format of
+the label statements” for clarity, conspicuousness, and legibility. Id. Recog-
+nizing the difficulty manufacturers may have in updating their packaging,
+though, Congress delayed enforcement of the regulations for fifteen months
+after their issuance. Id. § 1333 note.
+       Finally, acknowledging the likelihood of judicial review, Congress
+included a severability clause: If a court finds any part of the Act unlawful
+and invalid, that court should keep “the remainder” enforceable “to the full-
+est extent possible.” TCA § 5.
+
+
+
+
+                                           5
+Case: 23-40076        Document: 140-1         Page: 6     Date Filed: 03/21/2024
+
+
+
+
+                                   No. 23-40076
+
+
+B.      The TCA’s Implementation and Litigation History
+     1. Pre-Rule Litigation
+        Before the FDA could issue a rule under the TCA’s graphics require-
+ment, several manufacturers and sellers of tobacco products—including
+RJR13—sued the United States, alleging, inter alia, that the Act violated their
+First Amendment rights. See Discount Tobacco, 674 F.3d at 520–21; see also
+id. at 553. The district court granted summary judgment to the government
+on the First Amendment claim, and the Sixth Circuit, reviewing the plain-
+tiffs’ claims as a facial challenge to the Act, affirmed. Id. at 551–52.
+        The Sixth Circuit first determined the applicable standard of review,
+framing it as a choice between Zauderer and strict scrutiny. See id. at 554. It
+began with Zauderer. The court noted that “[t]he factual content of the tex-
+tual warnings [wa]s undisputed.” Id. at 558. So, for Zauderer not to apply,
+“[p]laintiffs would have to establish that a graphic warning cannot convey
+the negative health consequences of smoking accurately, a position tanta-
+mount to concluding that pictures can never be factually accurate, only writ-
+ten statements can be.” Id. at 559. The court rejected that position, offering
+instead several examples of the “many graphic warnings that would consti-
+tute factual disclosures under Zauderer.” Id. Those included
+        a picture or drawing of a nonsmoker’s and smoker’s lungs dis-
+        played side by side; a picture of a doctor looking at an x-ray of
+        either a smoker’s cancerous lungs or some other part of the
+        body presenting a smoking-related condition; a picture or
+        drawing of the internal anatomy of a person suffering from a
+        smoking-related medical condition; a picture or drawing of a
+
+        _____________________
+        13
+         The plaintiffs were Discount Tobacco City & Lottery, Inc.; Lorillard Tobacco
+Company; National Tobacco Company, L.P.; RJR; Commonwealth Brands, Inc.; and
+American Snuff Company, LLC, FKA Conwood Company, LLC. See Discount Tobacco,
+674 F.3d at 521 n2.
+
+
+
+
+                                             6
+Case: 23-40076         Document: 140-1          Page: 7      Date Filed: 03/21/2024
+
+
+
+
+                                     No. 23-40076
+
+
+        person suffering from a smoking-related medical condition;
+        and any number of pictures consisting of text and simple gra-
+        phic images.
+Id. Therefore, Zauderer supplied the applicable standard of review for the
+pre-enforcement facial challenge.
+        Applying Zauderer’s very deferential test, the Sixth Circuit held that
+“graphic and textual warnings that convey factual information about the
+health risks of tobacco use are reasonably related to the purpose of preventing
+consumer deception.” Id. at 562. That deception, the court explained, arose
+inherently from the past decades of false advertising and misleading research
+by the companies that were proclaiming that tobacco had no health risks and
+was not addictive.14 Further, the court found that the warnings were not
+unduly burdensome, despite the 50%-coverage requirement. Id. at 567.15
+Finally, the court rejected “the underlying premise [of the dissent] that a dis-
+closure that provokes a visceral response must fall outside Zauderer’s ambit.
+Facts can disconcert, displease, provoke an emotional response, spark con-
+troversy, and even overwhelm reason, but that does not magically turn such
+facts into opinions.” Id. at 569. Instead, “whether a disclosure is scrutinized
+under Zauderer turns on whether the disclosure conveys factual information
+or an opinion, not on whether the disclosure emotionally affects its audience
+or incites controversy.” Id. (citing Zauderer, 471 U.S. at 650–51).
+
+
+
+
+        _____________________
+        14
+          See Discount Tobacco, 674 F.3d at 562–63 (citing United States v. Philip Morris
+USA Inc., 566 F.3d 1095, 1105–08, 1119–20, 1122–24 (D.C. Cir. 2009) (per curiam)).
+        15
+            That court pointed out the incongruity between plaintiffs’ claiming that “the
+warnings will not reduce the use of their tobacco products” and their assertion that the
+warnings were so unduly burdensome as to drown out their advertising and marketing.
+Id. at 567.
+
+
+
+
+                                               7
+Case: 23-40076             Document: 140-1        Page: 8      Date Filed: 03/21/2024
+
+
+
+
+                                       No. 23-40076
+
+
+    2. The First Rule’s Litigation
+        While the Discount Tobacco litigation was pending, FDA issued a Final
+Rule implementing the Act’s graphics requirements.16 The warnings used
+the exact language of the Act and included graphics of side-by-side healthy
+and damaged lungs, a dead body, and a crying woman.17 Each warning also
+showed the phone number 1-800-QUIT-NOW.
+        Five companies—now led by RJR18—challenged the 2011 Rule,
+asserting the warnings violated the First Amendment. The district court
+granted the companies’ motion for summary judgment, and the D.C. Circuit
+affirmed. See R.J. Reynolds, 696 F.3d at 1208. That court held that the warn-
+ings were not “a remedial measure designed to counteract specific deceptive
+claims made by the [c]ompanies” as required by Zauderer. Id. at 1215. Fur-
+ther, it ruled the chosen graphics were not “‘purely factual and uncontro-
+versial’ information” because the images “could be misinterpreted by con-
+sumers” and “are primarily intended to evoke an emotional response, or, at
+most, shock the viewer into retaining the information in the text warning.”
+Id. at 1216 (quoting Zauderer, 471 U.S. at 651). So, by its reasoning, Zauderer
+scrutiny did not apply. Id. at 1217.19
+        Applying instead Central Hudson’s more stringent scrutiny, the court
+
+        _____________________
+        16
+          See Required Warnings for Cigarette Packages and Advertisements, 76 Fed. Reg.
+36,628 (June 22, 2011) (“2011 Rule”).
+        17
+             Id. at 36649–57, 36674.
+        18
+          Plaintiffs there were RJR; Lorillard Tobacco Co.; Commonwealth Brands, Inc.;
+Liggett Group LLC; and Santa Fe Natural Tobacco Co., Inc. See Complaint at 4–5, R.J.
+Reynolds, 823 F. Supp. 2d 36 (D.D.C. 2011) (No. 1:11-CV-01482), 2011 WL 3611561.
+        19
+            Instead of attempting to distinguish the Sixth Circuit’s reasoning in Discount
+Tobacco—to which the dissent cited repeatedly—the majority in R.J. Reynolds never men-
+tioned it, relying instead on the lack of deception and on the emotional implications of the
+graphics as grounds to apply Central Hudson.
+
+
+
+
+                                                 8
+Case: 23-40076          Document: 140-1          Page: 9      Date Filed: 03/21/2024
+
+
+
+
+                                      No. 23-40076
+
+
+struck down the rule as violative of the First Amendment. Id. at 1221–22
+(citing Cent. Hudson Gas & Elec. Corp. v. Public Serv. Comm’n of N.Y.,
+447 U.S. 557, 566 (1980)). “Assuming FDA’s interest in reducing smoking
+rates is substantial,” the D.C. Circuit explained that the 2011 Rule nonethe-
+less failed Central Hudson scrutiny because it lacked even “a shred of evi-
+dence . . . showing that the graphic warnings will ‘directly advance’ [FDA’s]
+interest in reducing the number of Americans who smoke.” Id. at 1218–19.
+
+    3. The Current Rule’s Litigation
+        Eight years later, in 2020, the FDA finally issued this Rule.20 The
+FDA asserted that the Rule—and its eleven new warnings, reproduced
+below—were justified by “the Government’s interest in promoting greater
+public understanding of the negative health consequences of cigarette smok-
+ing.”21 FDA also claimed that the Rule “dissipat[es] the possibility of con-
+sumer confusion or deception,” thereby advancing the government’s inter-
+est in preventing “consumer misperceptions regarding the risks presented by
+cigarettes.” 85 Fed. Reg. at 15645 (quoting Zauderer, 471 U.S. at 651).
+
+
+
+
+        _____________________
+        20
+             See Required Warnings for Cigarette Packaging and Advertisements, 85 Fed. Reg.
+15638 (Mar. 18, 2020) (codified at 21 C.F.R. §§ 1141.1–12). The FDA issued this rule only
+after litigious prompting. See Am. Acad. of Pediatrics v. FDA, No. 1:16-cv-11985, 2019 WL
+1047149, at *3 (D. Mass. 2019).
+        21
+          85 Fed. Reg. at 15638; see id. at 15643–50; see also Required Warnings for Cig-
+arette Packages and Advertisements, 84 Fed. Reg. 42754, 42778 (Aug. 16, 2019) (Proposed
+Rule).
+
+
+
+
+                                                 9
+Case: 23-40076   Document: 140-1   Page: 10   Date Filed: 03/21/2024
+
+
+
+
+                           No. 23-40076
+
+
+
+
+                                   10
+Case: 23-40076         Document: 140-1          Page: 11      Date Filed: 03/21/2024
+
+
+
+
+                                      No. 23-40076
+
+
+
+
+        The Warnings do not precisely match the warnings required by the
+TCA—FDA kept one, split one of the TCA’s warnings into two, updated
+three others, and replaced the remaining four with five new warnings.22 The
+FDA claims that the authority to make those changes derives from § 201 of
+the TCA, which allows the agency to “adjust the . . . text . . . of the cigarette
+        _____________________
+        22
+           FDA kept “Tobacco smoke can harm your children.” It then split “Cigarettes
+cause cancer” into “Smoking causes head and neck cancer” and “Smoking causes bladder
+cancer, which can lead to bloody urine.” 85 Fed. Reg. at 15673–75; see also 84 Fed. Reg.
+at 42768, 42774. It updated “Smoking during pregnancy can harm your baby” to read
+“Smoking during pregnancy stunts fetal growth.” 85 Fed. Reg. at 15676; see also 84 Fed.
+Reg. at 42774. It clarified “Cigarettes cause strokes and heart disease” now to explain
+“Smoking can cause heart disease and strokes by clogging arteries.” 85 Fed. Reg. at 15677;
+see also 84 Fed. Reg. at 42774–75. It expanded “Cigarettes cause fatal lung disease” into
+“Smoking causes COPD, a lung disease that can be fatal.” 85 Fed. Reg. at 15678; see also
+84 Fed. Reg. at 42775. Finally, it added “Smoking reduces blood flow, which can cause
+erectile dysfunction,” 85 Fed. Reg. at 15680; “Smoking reduces blood flow to the limbs,
+which can require amputation,” id. at 15681; “Smoking causes type 2 diabetes, which raises
+blood sugar,” id. at 15682; and “Smoking causes cataracts, which can lead to blindness,”
+id. at 15683; see also 84 Fed. Reg. at 42776–77.
+
+
+
+
+                                                11
+Case: 23-40076           Document: 140-1          Page: 12        Date Filed: 03/21/2024
+
+
+
+
+                                        No. 23-40076
+
+
+health warnings . . . .”         85 Fed. Reg. at 15641–42 (quoting 15 U.S.C.
+§ 1333(d)). As the FDA explained, the Surgeon General’s 2014 report newly
+attributed eleven diseases to smoking, and the Warnings better reflected
+those findings.23
+       The Rule also included its own severability provision. There, the
+FDA explained,
+       [T]he individual aspects of this rule are workable on their own
+       and should go forward in the event that some are invalidated.
+       . . . FDA has determined that severability both is consistent
+       with Congressional intent and would best advance the Govern-
+       ment’s interest in promoting greater public understanding of
+       the negative health consequences of cigarette smoking. . . . [I]n
+       a circumstance where some but not all of the rule’s provisions
+       are invalidated, FDA’s intent is for the other provisions to go
+       into effect . . . [because] each other portion of the rule would
+       ‘function sensibly’ on its own . . . .
+Id. at 15695.24
+
+       _____________________
+       23
+        See 85 Fed. Reg. at 15652 (citing U.S. Dept. of Health and Human
+Services, The Health Consequences of Smoking—50 Years of Prog-
+ress: A Report of the Surgeon General iii (2014)).
+       24
+            Anticipating the district court’s actions here, FDA also wrote,
+       if a court were to invalidate some of the cigarette health warnings (i.e., text-
+       and-image-pairings), but some of the pairings remained valid, FDA in-
+       tends that the remaining required warnings would go into effect. As an-
+       other example, if a court were to invalidate some but not all of the images
+       within the cigarette health warnings, FDA intends that those images would
+       be severed and the corresponding textual warning statements would go
+       into effect without the invalidated images, along with the remaining cig-
+       arette health warnings that pair a textual warning statement with an image.
+       As a third example, if a court were to invalidate all of the images within the
+       cigarette health warnings, FDA intends for the invalidated images to be
+       severed and all the warnings to go into effect with only their textual warn-
+
+
+
+
+                                                  12
+Case: 23-40076            Document: 140-1   Page: 13    Date Filed: 03/21/2024
+
+
+
+
+                                    No. 23-40076
+
+
+        Less than a month after FDA promulgated the Rule, plaintiffs sued.
+They decried the Warnings as “unprecedented” and “precisely the type of
+compelled speech that the First Amendment prohibits.” They alleged that
+each of the Warnings “misrepresent[s] or exaggerate[s] the potential effects
+of smoking.” Further, they complained that “[c]ontrary to FDA’s charac-
+terization, the peer reviewers raised serious, substantive concerns about
+FDA’s studies” used to support the selected Warnings. Thus, plaintiffs con-
+tended, (1) the Rule violates the First Amendment, (2) the Act violates the
+First Amendment, and (3) the Rule violates the APA and the Act. Addi-
+tionally, they urged the court to delay the implementation of the warning
+requirement until fifteen months after FDA issued a legally valid new rule.
+        Reviewing cross-motions for summary judgment, the district court
+began and ended with the First Amendment challenge to the Rule. It found
+that Zauderer did not apply because the Warnings were “not inherently
+‘accurate,’ and ‘purely factual and uncontroversial.’”25 Rather, the imagery
+is fundamentally so “prone to ambiguous interpretation” that “it is unclear
+how a court would go about determining whether it[] . . . is ‘accurate’ and
+‘factual’ in nature.” 2022 WL 17489170, at *13–14. In other words, the
+court reasoned that no photorealistic image could ever be purely factual and
+uncontroversial because different viewers will ascribe to it different mean-
+ings. The inherent ambiguity in any graphic warning—e.g., that viewers may
+interpret the heart disease warning to suggest that open-heart surgery “is the
+most common treatment for heart disease” or the best—means that the
+Warnings cannot be “‘purely factual and uncontroversial’ and objectively
+        _____________________
+        ing statements.
+Id. at 15695.
+        25
+           R.J. Reynolds Tobacco Co. v. FDA, No. 6:20-CV-00176, 2022 WL 17489170,
+at *13 (E.D. Tex. Dec. 7, 2022).
+
+
+
+
+                                            13
+Case: 23-40076        Document: 140-1        Page: 14   Date Filed: 03/21/2024
+
+
+
+
+                                   No. 23-40076
+
+
+accurate as required to allow relaxed Zauderer review.” Id. at *14–15. Fur-
+ther, the court found that the graphic portions of the Warnings fell beyond
+Zauderer’s reach because they are inherently “provocative.” Id.
+          The district court then turned to Central Hudson. Id. at *15. The
+court acknowledged that it is unsettled whether Central Hudson intermediate
+scrutiny, or instead strict scrutiny, applies to compelled speech. Id. But the
+government failed to satisfy Central Hudson’s narrow-tailoring requirement,
+so it a fortiori failed strict scrutiny. Id. at *17. The Rule was more extensive
+than necessary because the government had not increased funding for anti-
+smoking advertisements, increased its own anti-smoking communications, or
+“test[ed] the efficacy of ‘smaller or differently placed warnings.’” Id. (quot-
+ing 85 Fed. Reg. at 13650).
+          The district court concluded by declining to sever the Warnings, even
+though it had considered only three of the eleven in detail. Id. That, the
+court ruled, was because “[t]he Act . . . does not allow the court to ‘sever’
+the FDA’s warnings by simply deleting their graphical component[s].” Id.
+at *18.
+          Relying on the preceding analysis, the district court declared that
+enforcing any part of the Rule against the plaintiffs would violate the First
+Amendment; it then vacated the entire Rule. FDA appeals.
+
+                                       II.
+          FDA raises four issues on appeal: whether (1) the Warnings violate
+the First Amendment, (2) the Rule survives APA review, (3) the district
+court should have considered each Warning individually and severed the
+unconstitutional from the constitutional, and (4) vacatur was a proper rem-
+edy. Before turning to those issues, though, we first must assure ourselves
+we even need to.
+
+
+
+
+                                             14
+Case: 23-40076            Document: 140-1          Page: 15       Date Filed: 03/21/2024
+
+
+
+
+                                         No. 23-40076
+
+
+A.      Preclusion
+        This is the second TCA-related case styled R.J. Reynolds v. FDA, and
+we are the third circuit to consider a challenge to that Act. In all three cases,
+RJR has been a party,26 and in all three, the plaintiffs have challenged the
+validity of the same provisions of the Act under the First Amendment.27 Yet
+the FDA has not asserted any form of preclusion.
+        Because they are affirmative defenses, the defendant must typically
+“plead and prove” res judicata or collateral estoppel for us to consider
+them.28 When proper, though, we may raise preclusion sua sponte.29 Yet we
+rarely do so, for it is a “drastic step” to “invok[e] res judicata for the first
+time on appeal and revers[e] the district court below as a consequence.”
+United Home Rentals, Inc. v. Tex. Real Est. Comm’n, 716 F.2d 324, 330 (5th
+Cir. 1983).
+        We deem it unnecessary to take that drastic step here. Although this
+case meets the requirements for a district court to consider preclusion sua
+sponte—“all of the relevant facts are contained in the record and are
+uncontroverted”30—we could not resolve the entire case on preclusion
+alone. Even if we dismissed RJR’s First Amendment challenge to the TCA
+as precluded, we would still need to resolve its challenge to the Rule. So, we
+
+        _____________________
+        26
+             Like RJR, Santa Fe and Liggett were parties in R.J. Reynolds. See supra note 18.
+        27
+           Contra Whole Women’s Health v. Hellerstedt, 579 U.S. 582, 604–06 (2016),
+abrogated on other grounds by Dobbs v. Jackson Women’s Health Org., 597 U.S. 215 (2022).
+        28
+          Sacks v. Tex. S. Univ., 83 F.4th 340, 344 (5th Cir. 2023) (citing Taylor v. Sturgell,
+553 U.S. 880, 907 (2008)); see Fed. R. Civ. P. 8(c)(1).
+        29
+           See, e.g., Mowbray v. Cameron Cnty., 274 F.3d 269, 281 (5th Cir. 2001) (res judi-
+cata); OneBeacon Am. Ins. Co. v. Barnett, 761 F. App’x 396, 399 (5th Cir. 2019) (collateral
+estoppel).
+        30
+             Energy Dev. Corp. v. St. Martin, 296 F.3d 356, 363 (5th Cir. 2002) (per curiam).
+
+
+
+
+                                                   15
+Case: 23-40076            Document: 140-1          Page: 16      Date Filed: 03/21/2024
+
+
+
+
+                                         No. 23-40076
+
+
+turn to the merits.
+
+B.      First Amendment
+        We begin by addressing FDA’s contention that the Warnings do not
+violate the First Amendment. We usually do not turn first to a constitutional
+issue where a challenge presents multiple pathways for review.31 But “fed-
+eral courts have emphasized the importance of resolving First Amendment
+cases at the earliest possible junction.” Green v. Miss U.S.A., LLC, 52 F.4th
+773, 800 (9th Cir. 2022). Further, the district court resolved only the consti-
+tutional issue.32 Thus, we will do the same.
+        The outcome-determinative question for the First Amendment issue
+is whether the district court properly found that the Warnings do not receive
+Zauderer’s deferential scrutiny. The district court erred. The Warnings are
+both factual and uncontroversial, despite the emotional impact the graphics
+may have. Therefore, we reverse.
+
+     1. Zauderer and Central Hudson
+        The Warnings are government-compelled speech—not speech re-
+strictions. Because of that, the many cases plaintiffs and their amici cite
+regarding prohibitions or restrictions on speech provide, at best, merely per-
+suasive authority.33 That said, government-compelled speech inherently reg-
+        _____________________
+        31
+             See Jean v. Nelson, 472 U.S. 846, 854 (1985).
+        32
+           See also United Home Rentals, 716 F.2d at 328 (Typically, “the initial review of
+the constitutionality of a state agency’s interpretation of its own rules is a matter that the
+federal courts should undertake only when circumstances warrant it, and abstention would
+serve no purpose.”). Here, however, not only do we address a federal agency’s interpreting
+an act of Congress instead of a rule, but also the First Amendment challenge is the only one
+before us.
+        33
+         For example, one of the amici cites ten speech-restriction cases but only two
+compelled-speech cases. Those two are National Institute of Family & Life Advocates v.
+
+
+
+
+                                                   16
+Case: 23-40076          Document: 140-1          Page: 17       Date Filed: 03/21/2024
+
+
+
+
+                                       No. 23-40076
+
+
+ulates speech on the basis of its content.34 And, as plaintiffs point out, we
+generally review content-based regulations of speech under strict scrutiny
+unless they come within an exception such as the commercial speech excep-
+tions of Zauderer or Central Hudson.
+        For decades, the Supreme Court has consistently applied Central
+Hudson and Zauderer to cases implicating regulation of commercial speech.35
+We, too, are no strangers to those frameworks.36
+        In Central Hudson, the Public Service Commission of New York had
+banned all advertising promoting the use of electricity, and Central Hudson
+Gas & Electric Corporation challenged the ban as a violation of its First
+Amendment rights. 447 U.S. at 558–59. The Court acknowledged that
+“[t]he First Amendment . . . protects commercial speech” because it “fur-
+thers the societal interest in the fullest possible dissemination of informa-
+tion.” Id. at 561–62 (citing Va. State Bd. of Pharmacy v. Va. Citizens Consumer
+Council, Inc., 425 U.S. 748, 761–62 (1976)). But the government may still
+regulate commercial speech more than it does “other constitutionally guar-
+        _____________________
+Becerra (NIFLA), 585 U.S. 755 (2018), and 303 Creative LLC v. Elenis, 600 U.S. 570 (2023).
+But 303 Creative is inapplicable because that case dealt not with disclosures about the terms
+under which the service was available, but instead with compelling those services. See
+600 U.S. at 580; cf. NetChoice, L.L.C. v. Paxton, 49 F.4th 439, 485 (5th Cir. 2022) cert.
+granted in part, 144 S. Ct. 477 (2023). In other words, 303 Creative was much more like
+West Virginia Board of Education v. Barnette, 319 U.S. 624 (1943), or Wooley v. Maynard,
+430 U.S. 705 (1977), where the government compelled substantive speech, whereas this
+case is much more like NetChoice and Zauderer, where the government compelled certain
+terms. NIFLA is applicable, though, and we discuss it infra.
+        34
+           Hurley v. Irish-Am. Gay, Lesbian & Bisexual Grp. of Bos., 515 U.S. 557, 573–74
+(1995); see also Riley v. Nat’l Fed’n of the Blind of N.C., Inc., 487 U.S. 781, 795 (1988).
+        35
+        See, e.g., Milavetz, Gallop & Milavetz, P.A. v. United States, 559 U.S. 229 (2010);
+NIFLA, 585 U.S. 755.
+        36
+          See, e.g., NetChoice, 49 F.4th at 485; Chamber of Com. v. SEC, 85 F.4th 760 (5th
+Cir. 2023).
+
+
+
+
+                                                 17
+Case: 23-40076            Document: 140-1           Page: 18        Date Filed: 03/21/2024
+
+
+
+
+                                          No. 23-40076
+
+
+anteed expression.” Id. at 563 (citing Ohralik v. Ohio State Bar Ass’n,
+463 U.S. 447, 456 (1978)). So, the Court applied a form of intermediate
+scrutiny—requiring narrow tailoring and a substantial government interest—
+to the Commission’s rule and struck it down. Id. at 569–72.
+        Five years later, in Zauderer, the Court created a carve-out to Central
+Hudson’s rule for government-compelled commercial speech. The Court
+reviewed the discipline of an Ohio attorney who had published two news-
+paper advertisements. The Court began by explaining that “advertising . . .
+falls within those bounds” of commercial speech that “is entitled to the
+protection of the First Amendment, albeit to protection somewhat less
+extensive than that afforded ‘noncommercial speech.’” Zauderer, 471 U.S.
+at 637 (citations omitted). And the Court applied Central Hudson to the
+speech restrictions. Id. at 638.
+        The Court applied a different standard, however, to compelled dis-
+closures in advertising. It acknowledged that “in some instances[,] compul-
+sion to speak may be as violative of the First Amendment as prohibitions on
+speech”37 and that no State may “prescribe what shall be orthodox in poli-
+tics, nationalism, religion, or other matters of opinion or force citizens to con-
+fess by word or act their faith therein.”38 Yet speakers have no protected
+interests in false statements,39 and Ohio had “prescribe[d] what shall be
+orthodox [only] in commercial advertising,” not all speech. Id. at 651 (empha-
+sis added). Further, the “prescription ha[d only] taken the form of a require-
+ment that [Zauderer] include . . . purely factual and uncontroversial infor-
+
+        _____________________
+        37
+          471 U.S. at 638 (citing Wooley, 430 U.S. 705; Miami Herald Publ’g Co. v. Tornillo,
+418 U.S. 241 (1974)).
+        38
+             471 U.S. at 651 (quoting Barnette, 319 U.S. at 642).
+        39
+             See id. at 638 (citing Friedman v. Rogers, 440 U.S. 1 (1979)).
+
+
+
+
+                                                    18
+Case: 23-40076         Document: 140-1          Page: 19       Date Filed: 03/21/2024
+
+
+
+
+                                      No. 23-40076
+
+
+mation . . . .” Id. Thus, his limited rights in commercial advertising were
+“adequately protected” because his “interest in not providing any particular
+factual information in his advertising [wa]s minimal.” Id. And the disclosure
+requirements were neither (1) “unjustified or unduly burdensome” nor
+(2) “[un]related to the State’s interest in preventing deception of con-
+sumers.” Id.; see also id. at 651 & n.14.
+        Then, in Milavetz, 559 U.S. at 249–50, the Court applied Zauderer to
+uphold the Bankruptcy Abuse Prevention and Consumer Protection Act of
+2005. The Bankruptcy Code’s disclosure requirement was “directed at
+misleading commercial speech”; “the challenged provisions impose[d] a dis-
+closure requirement rather than an affirmative limitation on speech”; and
+“the disclosures entail[ed] only an accurate statement . . . .” Id. (emphasis
+omitted). Therefore, the law did not violate the First Amendment.
+        Most recently in NIFLA in 2018, the Court distinguished Zauderer. It
+struck down a California law that required crisis-pregnancy centers to pro-
+vide notices related to, among other things, the availability of state-sponsored
+abortion services. 585 U.S. 760–62, 765. Describing Zauderer, the Court did
+not refer to any requisite claimed state interest in preventing misleading
+speech. Id. at 768–69, 776–77.40 Instead, the Court distinguished Zauderer
+by focusing on the controversial nature of abortion as well as the fact that the
+disclosures discussed state-provided services rather than compelled-speaker-
+provided services. Id. at 768–69.
+        Four years after NIFLA, we applied Zauderer in NetChoice. Describ-
+ing our pre-enforcement review of a law requiring social media companies to
+publish three censorship disclosures as “controlled by . . . Zauderer,” we
+
+        _____________________
+        40
+           Indeed, the Court assumed that the informational interest was substantial before
+it preliminarily enjoined the law for failing narrow tailoring. 585 U.S. at 776–78.
+
+
+
+
+                                                19
+Case: 23-40076           Document: 140-1           Page: 20        Date Filed: 03/21/2024
+
+
+
+
+                                         No. 23-40076
+
+
+declared the disclosures to be factual and noncontroversial. 49 F.4th at 485.
+Then, we held that the state’s interest in “enabling users to make an in-
+formed choice regarding whether to use [social media] Platforms” was suffi-
+cient to survive review under Zauderer. Id. (cleaned up).
+        Finally, just a few months ago, in Chamber of Commerce, we reviewed
+the SEC’s ability to compel speech by publicly traded companies related to
+share buybacks. 85 F.4th at 766–67. Applying Zauderer and NetChoice, we
+ruled that the disclosure of a company’s rationale for a stock buyback was
+purely factual and uncontroversial commercial speech. Id. at 768–72 (citing
+NetChoice, 49 F.4th at 485–88).
+        Distilling that precedent, Zauderer applies where the compelled
+speech is (1) purely factual and (2) uncontroversial. To survive Zauderer
+scrutiny, the warnings must (3) be justified by a legitimate state interest and
+(4) not unduly burdensome. FDA’s Warnings meet all four requirements.
+
+        a. The Warnings Are Purely Factual.
+        Despite the myriad applications of Zauderer, neither the Supreme
+Court nor this court has expressly defined “purely factual . . . information.”
+Zauderer, 471 U.S. at 651. The closest comes from the distinction between a
+statement of fact that “expresses certainty about a thing,” and “a statement
+of opinion . . . [that] does not.”41 We have similarly described “‘explain[ing]
+        _____________________
+        41
+           Omnicare, Inc. v. Laborers Dist. Council Const. Indus. Pension Fund, 575 U.S. 175,
+183 (2015); see also generally Peel v. Att’y Registration & Disciplinary Comm’n of Ill., 496 U.S.
+91, 101 (1990). We recognize that “the language of an opinion is not always to be parsed as
+though we were dealing with language of a statute.” Nat’l Pork Producers Council v. Ross,
+598 U.S. 356, 374 (2023) (quoting Reiter v. Sonotone Corp., 442 U.S. 330, 341 (1979)). But
+the “difference between [a statement of fact and a statement of opinion] is so ingrained in
+our everyday ways of speaking and thinking” that the use of “factual” suggests little else.
+Omnicare, 575 U.S. at 183. With that ruling, we join the Sixth Circuit in its interpretation
+of Zauderer, see Discount Tobacco, 674 F.3d at 556–58, and the Second Circuit, see Nat’l Elec.
+
+
+
+
+                                                   20
+Case: 23-40076          Document: 140-1           Page: 21      Date Filed: 03/21/2024
+
+
+
+
+                                       No. 23-40076
+
+
+the reason’ for [a company’s] actions [as] a purely factual disclosure.”
+Chamber of Comm., 85 F.4th at 769 (quoting NetChoice, 49 F.4th at 446, 485).
+But, we have cautioned, the government may not demand a private party
+“undertake contextual analyses, weighing and balancing many factors . . .
+that depend on community standards,” to determine the speech it must par-
+rot. Book People, Inc. v. Wong, 91 F.4th 318, 340 (5th Cir. 2024).
+        Those interpretations closely mirror common usage as seen in several
+dictionaries. As a grammatical matter, both “purely” and “factual” describe
+“information.” Therefore, we set our baseline understanding by defining
+“information”; and then we narrow it.
+        The Oxford English Dictionary (“OED”) defines “information” as
+“[f]acts provided or learned about something” and as “[w]hat is conveyed
+or represented by a particular arrangement or sequence of things.”42 Simi-
+larly, Garner’s Dictionary of Legal Usage (“Garner’s”) defines “informa-
+tion” through “knowledge,” but as “a broader term, covering the full gamut
+ranging from all that is meant by knowledge to putative facts, unverified and
+unverifiable facts, and a collection of falsehoods.”43 Therefore, we define
+“information” quite broadly.
+        Zauderer narrows that baseline by requiring that the information be
+factual. Garner’s defines “factual” as “of or involving facts” or as “true.”44
+        _____________________
+Mfrs. Ass’n v. Sorrell, 272 F.3d 104, 114 n.5 (2d Cir. 2001).
+        42
+           Information, Oxford English Dictionary, tinyurl.com/8f83y7dd (last
+visited Feb. 22, 2024).
+        43
+            Knowledge, Garner’s             Dictionary       of     Legal       Usage,
+tinyurl.com/38hcdcsu (last visited Feb. 22, 2024) (emphasis omitted).
+        44
+           See Fact (adj.); factual, Garner’s Dictionary of Legal Usage,
+tinyurl.com/2fyb6hjz (last visited Feb. 22, 2024). Garner’s also defines “fact” as, inter
+alia, “an event, an occurrence, or a circumstance.” Fact (n.); factum, Garner’s Dic-
+
+
+
+
+                                                  21
+Case: 23-40076         Document: 140-1         Page: 22       Date Filed: 03/21/2024
+
+
+
+
+                                     No. 23-40076
+
+
+OED similarly explains that “factual” means (1) “[c]oncerned with what is
+actually the case rather than interpretations of or reactions to it” and (1.a)
+“actually occurring.”45 Applying those definitions, we understand “factual”
+to limit “information” to falsifiable material and inferences fairly drawn from
+it, rather than one’s non-falsifiable “interpretations[,] . . . reactions,” or
+opinions.
+        To reach this understanding, we reject the construction that plaintiffs
+and the district court proffer—that, to be factual, the information must be
+true. Despite that such a reading matches Garner’s second definition, were
+we to adopt that interpretation, we would create surplusage: The adverb
+“purely” becomes entirely redundant in the phrase “purely factual informa-
+tion” if “factual information” already excludes any information that is not
+true and objective.46 Therefore, instead of reading surplusage into the
+phrase, we adopt the more natural reading.47
+        Guided by that understanding of Zauderer, we must determine
+whether the Warnings are (1) statements composed of only (a) information
+supported by facts and (b) conclusions driven by those facts, and (2) not akin
+to unfalsifiable statements of opinion.48
+
+        _____________________
+tionary of Legal Usage, tinyurl.com/mrunrusp (last visited Feb. 22, 2024).
+        45
+           Factual, Oxford English Dictionary, tinyurl.com/3v4k9y3y (last
+visited Feb. 22, 2024).
+        46
+           See Purely, Oxford English Dictionary, tinyurl.com/yafbr6mh (last
+visited Feb. 22, 2024) (defining “purely” as “[e]ntirely; exclusively.”).
+        47
+            Additionally, if we understood “factual” to mean “true,” we could only define
+“uncontroversial” as relevant to politics or disfavor. As explained below, we see no
+justification for that reading.
+        48
+          We expressly refrain from suggesting that a factual statement is necessarily an
+accurate one. Cf. Scott v. Harris, 550 U.S. 372, 380 n.7 (2007). As we discuss infra,
+
+
+
+
+                                               22
+Case: 23-40076          Document: 140-1          Page: 23       Date Filed: 03/21/2024
+
+
+
+
+                                       No. 23-40076
+
+
+        Because plaintiffs challenge each component of the Warnings as well
+as the Warnings as a whole, we begin with the text. The Surgeon General’s
+2014 report found that cigarette smoking causes the negative health conse-
+quences identified in the textual warnings.49 Without contesting the Surgeon
+General’s report, plaintiffs allege that the updated textual warnings create
+Warnings that “misleadingly exaggerate smoking risks” and improperly
+“focus on conditions that less frequently arise from smoking.” Yet they ac-
+knowledge that the 1984 (and currently used) “Surgeon General’s warnings
+are purely factual[ and] uncontroversial.”
+        We cannot square those contentions. Consequences supported by
+scientific findings, even if exaggerated or non-modal, are still, by definition,
+factual. Thus, though the Rule does not use the TCA’s exact language, we,
+like the Sixth Circuit, hold that the “factual content of the textual warnings
+is undisputed.”50 So, the crux of the dispute must center on the images.
+        We agree with the Sixth Circuit’s reasoning and its examples of
+images that might be factual. The Warnings fall well within the ambit of those
+examples. The addition of images to the textual warnings makes no dif-
+ference to the constitutional analysis of factuality.
+        In Discount Tobacco, the Sixth Circuit read Zauderer’s depiction of an
+IUD to “demonstrate[] that a picture can be accurate and factual.” 674 F.3d
+
+
+        _____________________
+accuracy is a matter of controversy. Instead, the “factual” nature of a statement turns on
+the certainty the statement expresses. See Omnicare, 575 U.S. at 183.
+        49
+          See 85 Fed. Reg. at 15646, 15670, 15672–84; see also supra note 23 and accom-
+panying text.
+        50
+          Discount Tobacco, 674 F.3d at 558; see also Altria Grp., Inc. v. Good, 555 U.S. 70,
+87–91 (2008) (suggesting that “statements of tar and nicotine content . . . shown to be
+accurate and fully substantiated by tests” are factual statements (cleaned up)).
+
+
+
+
+                                                 23
+Case: 23-40076            Document: 140-1           Page: 24       Date Filed: 03/21/2024
+
+
+
+
+                                          No. 23-40076
+
+
+at 560 (citing Zauderer, 471 U.S. at 647–49).51 It then suggested several
+examples of images that it would consider factual.52 For this Rule, “FDA
+used a certified medical illustrator to design images that depicted common
+visual presentations of the health conditions and/or showed disease states
+and symptoms as they are typically experienced, and that present the health
+conditions in a realistic and objective format devoid of non-essential ele-
+ments.” 85 Fed. Reg. at 15646. As one of the amici explained it, each of the
+images provides “a straightforward, science-based, objectively truthful
+depiction of the accompanying text.” The images are no different from those
+a medical student might see in a textbook, and several are of exactly the type
+described by the Sixth Circuit as purely factual. We see no reason to split
+from our sister circuit.
+        Plaintiffs then claim the Rule is unlawful because it conveys an ideo-
+logical or provocative message. They imply a requirement that is absent, and
+we join the Sixth Circuit in rejecting their imaginative, novel limitation. See
+Discount Tobacco, 674 F.3d at 569.
+        A fact does not become “value-laden” merely because the fact drives
+a reaction. But even if it did, ideological baggage has no relevance to the first
+Zauderer prong. Any number of factual messages are, of course, ideological.53
+
+        _____________________
+        51
+            See also Peel, 496 U.S. at 106–07 (describing an attorney’s statement as a
+“Certified Civil Trial Specialist by the National Board of Trial Advocacy” as “pos[ing] no
+greater potential of misleading consumers than . . . confusing a reader with an accurate
+illustration” and citing Zauderer, 471 U.S. 626); Pub. Citizen Inc. v. La. Att’y Disciplinary
+Bd., 632 F.3d 212, 219 (5th Cir. 2011) (“A depiction of a scene or picture can be presented
+in a non-deceptive way in an attorney advertisement.” (citing Zauderer, 471 U.S. at 647)).
+        52
+             See supra part B.1 (citing Discount Tobacco, 674 F.3d at 559).
+        53
+            See Glickman v. Wileman Bros. & Elliot, Inc., 521 U.S. 457, 492 n.6 (1997) (Sou-
+ter, J., dissenting). We offer the following example: “The Nazis committed genocide.”
+That is a factual statement. It is also a statement that denounces the Nazi’s actions and
+
+
+
+
+                                                    24
+Case: 23-40076          Document: 140-1         Page: 25      Date Filed: 03/21/2024
+
+
+
+
+                                      No. 23-40076
+
+
+Similarly, emotional response to a statement is irrelevant to its truth. That
+someone may have to declare bankruptcy is likely to engender strong emo-
+tions. But the Court never even discussed that aspect of the mandatory dis-
+closures of Milavetz. See 559 U.S. at 249–50.
+        Further, unlike the images before the D.C. Circuit in R.J. Reynolds,
+these images are “meant to be interpreted literally.” 696 F.3d at 1216. They
+are not “primarily intended to evoke an emotional response” but instead to
+draw attention to the warning and depict a possible medical consequence of
+smoking. Id. Thus, at most, the emotional response of viewers is incidental
+to their retention of information about the health risks. Consequently, even
+if we adopted the D.C. Circuit’s reasoning, the emotional impact of the
+Warnings does not abrogate their factual nature.
+        Plaintiffs and the district court next suggest that because the images
+may be subject to several interpretations, they cannot possibly have one fac-
+tual meaning.54 Plaintiffs take further issue with the FDA’s lack of “testing
+to ensure the warnings have only one meaning.” But when each image is
+paired with a fact-based, textual warning, any reasonable viewer interprets
+the image in light of the words. Each image emphasizes the factual meaning
+of the words it accompanies; it does not impart distinct, novel meaning. In
+other words, it provides context.55
+
+        _____________________
+beliefs as morally repugnant. That is an ideological message. Though the government may
+not be able to compel Volkswagen to include that message in its advertising without justi-
+fication, a court would likely still review any such attempt under Zauderer.
+        54
+          In the abstract, they are right. To one viewer, Little Boy’s atomic plume shows
+the greatest threat to human survival ever created. To another, it symbolizes the end of
+World War II. Regardless of the interpretation, though, it factually shows the result of
+dropping a nuclear bomb.
+        55
+             Cf. Milavetz, 559 U.S. at 252 (“The required statement that the advertiser
+
+
+
+
+                                               25
+Case: 23-40076          Document: 140-1           Page: 26       Date Filed: 03/21/2024
+
+
+
+
+                                       No. 23-40076
+
+
+        In its analysis, the district court considered the possible different
+interpretations of the image bereft of the text. That was error. Consumers
+will see not just the image, but the image with the text. That context matters.
+        Finally, contrary to the district court’s reasoning, we uncover no case-
+law requiring the government to choose only the most common side-effect or
+consequence of the disease or injury discussed in a warning.56 Indeed, Mila-
+vetz forecloses the “single, objective meaning” approach to determining
+whether a compelled disclosure is factual. People may interpret “debt relief
+agency” in many ways, but disclosing that a business is one is still purely fac-
+tual. See 559 U.S. at 251–52. Similarly, there is no requirement that cigarette
+manufacturers “undertake contextual analyses, weighing and balancing
+many factors to determine” the warning—the FDA did that for them. Book
+People, 91 F.4th at 339. Therefore, the Warnings are factual so long as FDA’s
+claims are inferable from scientific observation.
+        Thus, the Warnings are factual under Zauderer.
+
+        b.       The Warnings Are Uncontroversial.
+        Plaintiffs claim that the Warnings are not uncontroversial for the same
+reasons they are not factual. We review the cases discussed above and
+disagree.
+        In NIFLA, the Court found that the abortion-services notifications
+were controversial, 585 U.S. at 769, but, in NetChoice, we found that dis-
+closures of social media censorship decisions were not controversial, 49 F.4th
+
+        _____________________
+‘help[s] people file for bankruptcy relief’ gives meaningful context to the term ‘debt relief
+agency.’” (emphasis added)).
+        56
+           As FDA points out, it would “not [be] feasible . . . for a single warning to convey
+all the information that may be related to a particular health condition.” 85 Fed. Reg.
+at 15684.
+
+
+
+
+                                                 26
+Case: 23-40076          Document: 140-1           Page: 27        Date Filed: 03/21/2024
+
+
+
+
+                                        No. 23-40076
+
+
+at 485. From these disparate results, we distill the following: A factual state-
+ment is “controversial” under Zauderer where the truth of the statement is
+not settled or is overwhelmingly disproven or where the inherent nature of
+the subject raises a live, contentious political dispute.57 In other words, that
+the speaker does not like the message does not make it controversial; there
+must be something more. See Chamber of Com., 85 F.4th at 770 (weighing the
+level of political controversy). If mere dislike sufficed, Zauderer would have
+prevailed, as he certainly did not want to drive away potential clients by tell-
+ing them they might still be liable for costs. Similarly, if mere connection to
+a live, contentious, political issue sufficed, NetChoice would have
+prevailed.58
+        Yet, plaintiffs never suggest any good-faith debate that the Warnings
+are not truthful. As discussed in the section above, we evaluate the com-
+pelled speech’s truthfulness as a matter of “controversy.” But where, as
+here, neither party disputes the Warnings’ claims and amici offer even more
+support for their factualness, any controversy must derive from the subject
+matter or the presentation of the Warnings.
+        Nevertheless, the assertion of controversy fails here too. Plaintiffs
+contend only that the Warnings are emotion-inducing and ideological. They
+do not assert that cigarette warnings are an inherent part of a national political
+debate. Instead, plaintiffs merely dislike the nature of the warnings. Yet, just
+as bankruptcy warnings, disclosure of stock buyback rationales, and explana-
+
+        _____________________
+        57
+          See Consol. Edison Co. of N.Y., Inc. v. Pub. Serv. Comm’n of N.Y., 447 U.S. 530,
+535 (1980); Pac. Gas & Elec. Co. v. Pub. Utils. Comm’n., 475 U.S. 1, 8–9 (1986); see also Nat’l
+Ass’n of Wheat Growers v. Bonta, 85 F.4th 1263, 1277–78 (9th Cir. 2023).
+        58
+           Indeed, if mere dislike sufficed, the government could never compel any dis-
+closure. If the speaker liked the disclosure, it would presumably already be making it. That
+proves too much.
+
+
+
+
+                                                  27
+Case: 23-40076      Document: 140-1       Page: 28      Date Filed: 03/21/2024
+
+
+
+
+                                 No. 23-40076
+
+
+tions of social media censorship decisions may induce emotions or be related
+to ideological and political issues while remaining uncontroversial, so too the
+Warnings.
+       Thus, the Warnings are uncontroversial under Zauderer.
+
+   2. The Rule Satisfies Zauderer.
+       Assured that the Warnings are both factual and uncontroversial, we
+now apply Zauderer’s deferential standard of review, under which the Warn-
+ings must be “reasonably related to the State’s interest” and not “unjustified
+or unduly burdensome.” Zauderer, 471 U.S. at 651.
+       Plaintiffs aver that the warnings are unjustified for two reasons. First,
+that FDA does not claim an interest in preventing deception, which plaintiffs
+contend Zauderer requires. Second, that even if Zauderer does not require an
+anti-deception interest, FDA still has not proven its informational interest
+sufficient or the Warnings effective.
+
+       a.     FDA’s Interest Is of the Type Subject to Zauderer Scrutiny.
+       Plaintiffs claim that, because Zauderer upheld the compelled speech
+as “reasonably related to the State’s interest in preventing deception of con-
+sumers[,]” only that interest suffices. 471 U.S. at 651. In other words, anti-
+deception is a necessary interest, and that interest must independently justify
+the entire rule on Zauderer review. Yet, mirroring the TCA, the FDA jus-
+tifies the Rule by claiming primarily that the government has an interest in
+“greater public understanding” of the risks of smoking. 85 Fed. Reg.
+at 15650; see TCA § 3(6). So, in plaintiffs’ view, the government’s interest
+is not cognizable under Zauderer. Once again, we conclude otherwise: Zau-
+derer does not require the state to assert an anti-deception interest.
+       Plaintiffs’ primary contention is that “the Supreme Court has never
+held that Zauderer applies outside the consumer-deception context.” So, it
+
+
+
+
+                                          28
+Case: 23-40076             Document: 140-1            Page: 29    Date Filed: 03/21/2024
+
+
+
+
+                                              No. 23-40076
+
+
+must not apply in any other context. Our sister circuits have read Zauderer
+differently, though. As the D.C. Circuit explained in American Meat Institute,
+“the principles articulated in Zauderer apply more broadly to factual and un-
+controversial disclosures required to serve other government interests” than
+the prevention of deception. 760 F.3d at 21–23. The First,59 Second,60
+Sixth,61 and Ninth Circuits62 have also taken that approach.
+         Chamber of Commerce and NetChoice also endorse that broader appli-
+cation of Zauderer. In Chamber of Commerce, we upheld the buyback dis-
+closure law on the ground that the “SEC has a legitimate interest in pro-
+moting the free flow of commercial information”; we ruled that was “more
+than enough to satisfy this prong of Zauderer.” 85 F.4th at 771. That analysis
+pointedly dropped the deception-of-consumers rationale from its description
+of Zauderer. In NetChoice, we similarly described Zauderer as mandating that
+“disclosure requirements . . . be reasonably related to a legitimate state inter-
+est, like preventing deception of consumers.” 49 F.4th at 485 (emphasis
+added).
+         Further, the Supreme Court implicitly adopted that reasoning in
+NIFLA when it declined to “decide what type of state interest is sufficient to
+sustain a disclosure requirement . . . .” 585 U.S. at 776. Therefore, we follow
+the Supreme Court, finish the job started by NetChoice and Chamber of Com-
+merce, and join our sister circuits’ interpretation.
+         One of the amici suggests that in Test Masters Educational Services, Inc.
+
+         _____________________
+         59
+              See Pharm. Care Mgmt. Ass’n v. Rowe, 429 F.3d 294, 310 n.8 (1st Cir. 2005).
+         60
+              See Sorrell, 272 F.3d at 115.
+         61
+              See Discount Tobacco, 674 F.3d at 556–58.
+         62
+              See CTIA—The Wireless Ass’n v. City of Berkeley, 928 F.3d 832, 844 (9th Cir.
+2019).
+
+
+
+
+                                                      29
+Case: 23-40076                Document: 140-1      Page: 30      Date Filed: 03/21/2024
+
+
+
+
+                                         No. 23-40076
+
+
+v. Robin Singh Educational Services, Inc.,63 this court based its holding on the
+interest of eschewing the “deception of consumers.”64 Thus, amicus con-
+tends, we are limited to applying Zauderer only to that interest. But no anal-
+ysis accompanied our statement in Test Masters. Instead, like Zauderer, we
+merely concluded the government’s interest in preventing deception suf-
+ficed, not that that interest was necessary.65 The same can be said for Public
+Citizen, where we again accepted the interest in preventing deception as suf-
+ficient without deciding it was necessary. 632 F.3d at 227. Further, we see
+no way to adopt the amicus’s reading of Public Citizen without disregarding
+our acknowledgment that the government also had a “substantial interest in
+promoting the ethical integrity of the legal profession” as we upheld that
+case’s disclaimer requirement. Id. at 228.66
+           In other words, our review uncovers both (1) in-circuit applications of
+Zauderer with non-consumer deception interests claimed by the state and
+
+           _____________________
+           63
+           799 F.3d 437 (5th Cir. 2015), on reh’g, No. 13-20250, 2015 WL 13768849 (5th
+Cir. Oct. 22, 2015).
+           64
+                See id. at 453.
+           65
+                See id. (“This standard applies because Singh’s original posting was decep-
+tive.”).
+           66
+           That same amicus also contends that we have applied heightened scrutiny to
+“compelled disclosures unrelated to preventing consumer deception,” so we must do so
+here under Hersh v. United States ex rel. Mukasey, 553 F.3d 743, 764–68 (5th Cir. 2008). But
+that case only very briefly made mention of Zauderer. We neither distinguished Zauderer
+nor suggested it did not apply because we did not need to do so. In Hersh, the district court
+had found that the disclosure survived heightened scrutiny, so we had no need to determine
+the applicable level of scrutiny.
+         Allstate Ins. Co v. Abbott, 495 F.3d 151, 165 (5th Cir. 2007), presents a similarly
+distinguishable application. There, we cited Zauderer for the state’s anti-deception inter-
+est. Next, we immediately turned to Central Hudson. In other words, we never explicitly
+ruled that Zauderer applies only to deceptive advertising; we held only that Central Hudson
+applies to restrictions on speech (as distinguished from compelled speech).
+
+
+
+
+                                                   30
+Case: 23-40076          Document: 140-1           Page: 31        Date Filed: 03/21/2024
+
+
+
+
+                                        No. 23-40076
+
+
+(2) persuasive out-of-circuit applications. Joining our sister circuits, we hold
+that Zauderer applies even when the government’s claimed primary interest
+is not the prevention of consumer deception. The standard is not that only
+anti-deception interests suffice, but that any legitimate state interest suffices,
+and anti-deception is a legitimate state interest. See Chamber of Com.,
+85 F.4th at 768. Increasing public understanding of the risks of smoking, par-
+ticularly given the “long history of deception concerning consumer health
+risks in the cigarette industry,” is a legitimate state interest, meeting that
+standard.67
+
+        b.       FDA’s Claimed Interest Justifies the Warnings.
+        Plaintiffs compare the Warnings to the disclosures struck down in
+NIFLA and claim that the Warnings are unjustified because (1) the interest
+is insufficient or too amorphous and (2) FDA has not proven the Warnings
+effective. We conclude otherwise.
+        We begin with the claimed interest in the images. FDA asserts that
+the images serve an informational interest. In Zauderer, the Court explained
+that “[t]he use of illustrations or pictures in advertisements serves important
+communicative functions: it attracts the attention of the audience to the
+advertiser’s message, and it may also serve to impart information directly.”
+471 U.S. at 647. The Warnings do exactly that—they “attract attention” and
+        _____________________
+        67
+           85 Fed. Reg. at 15645. Even if Zauderer required an anti-deception interest, FDA
+has sufficiently alleged, and has an interest in preventing, consumer deception related to
+tobacco marketing. Congress explicitly found that “[t]obacco product advertising often
+misleadingly portrays the use of tobacco as socially acceptable and healthful to minors.”
+TCA § 2(17). Further, FDA describes its interest in remedying the public’s “misperceptions
+about the health risks caused by smoking” and the “long history of deception concerning
+consumer health risks in the cigarette industry.” 85 Fed. Reg. at 15638, 15645 (emphases
+added); see also generally Philip Morris, 566 F.3d 1095. Finally, the Sixth Circuit took a sim-
+ilar approach in Discount Tobacco, and we see no reason to suggest it did so improperly. See
+674 F.3d at 562–63.
+
+
+
+
+                                                  31
+Case: 23-40076         Document: 140-1           Page: 32       Date Filed: 03/21/2024
+
+
+
+
+                                      No. 23-40076
+
+
+“impart information.”
+        Indeed, FDA justified the Warnings through an informational inter-
+est, specifically focusing on raising consumer awareness: the agency tested
+the Warnings’ effectiveness in raising consumer awareness and then refined
+them based on those results. See 84 Fed. Reg. 42768–69. Consequently, the
+informational interest suffices under Zauderer, and FDA’s selection of
+images in the Warnings serves that interest.
+        Next, we turn to the breadth of the claimed interest. In NIFLA, the
+Court explained that a compelled disclosure is justified only if it will “remedy
+a harm that is ‘potentially real[,] not purely hypothetical,’ and . . . ‘extend[s]
+no broader than reasonably necessary.’”68 Plaintiffs challenge that the cur-
+rent Surgeon General’s warnings are sufficient, so the imposition of the new
+Warnings must inherently “extend” the First Amendment harm more “than
+reasonably necessary.”
+        Not only did the Sixth Circuit reject that position in Discount Tobacco,
+see 674 F.3d at 563–64, but that claim also ignores FDA’s significant evidence
+that consumers do not notice, much less internalize, the text-only warnings
+in the status quo.69 The updated warnings serve to remedy the harm that
+
+        _____________________
+        68
+           NIFLA, 585 U.S. at 776 (first quoting Ibanez v. Fla. Dept. of Bus. & Pro. Regul.,
+Bd. of Accountancy, 512 U.S. 136, 146 (1994), then quoting In re R.M.J., 455 U.S. 191, 203
+(1982)).
+        69
+           See 85 Fed. Reg. at 15653–57; 84 Fed. Reg. at 42760–65. Plaintiffs inconsistently
+claim that the disclosure requirements are overly emotional and ideological such that they
+become non-factual speech, while also asserting that FDA’s informational interest does not
+justify the Warnings because they will not be effective. In other words, plaintiffs suggest
+consumers will simultaneously notice and not notice the warnings. But, as an amicus
+explains, “disclosure requirements would serve little purpose if they could be invalidated
+on the ground that consumers might use the information provided in deciding whether to
+purchase and use the products or services at issue.” Though we do not rely on that
+
+
+
+
+                                                32
+Case: 23-40076           Document: 140-1           Page: 33        Date Filed: 03/21/2024
+
+
+
+
+                                        No. 23-40076
+
+
+buyers might (1) not know about tobacco’s harms or (2) ignore the existing
+Surgeon General’s warnings. In other words, FDA and Congress have well
+justified the extent of the new warnings.
+        Finally, we consider the effectiveness of the Warnings. Plaintiffs
+assert that alleged flaws in the FDA’s studies should be reason to discount
+their results. At the current stage, though, we search only for the regulation’s
+reasonable relation to the legitimate state interest.70 Whether FDA’s use of
+the studies survives APA review is a question we consider separately from
+our Zauderer review. FDA has sufficiently proven that the Warnings rea-
+sonably relate to and further its legitimate, and substantial, interest.71
+        Thus, for purposes of Zauderer, the legitimate state interest justifies
+the Warnings.
+
+        c.        The Warnings Are Not Unduly Burdensome.
+        Plaintiffs challenge the Warnings as an undue burden by claiming that
+the size and content of the Warnings will make it nearly impossible to convey
+information to potential customers. Three fatally erroneous assumptions
+underlie plaintiffs’ assertion:
+        First, plaintiffs conflate Zauderer and Central Hudson, describing Zau-
+derer as merely an application of Central Hudson.72 But those are different
+
+        _____________________
+inconsistency in ruling that the Warnings are sufficiently justified, it does weaken plaintiffs’
+claim. See also supra note 15.
+        70
+             See Chamber of Commerce, 85 F.4th at 771.
+        71
+           As discussed above, that people already know smoking is dangerous does not
+mean that they know all the health consequences of smoking. Informing them of those is a
+legitimate state interest.
+        72
+         To justify this reading, plaintiffs cite then-Judge Kavanaugh’s concurrence in
+American Meat Institute. See 760 F.3d at 33. But that concurrence did not receive a majority
+
+
+
+
+                                                   33
+Case: 23-40076         Document: 140-1         Page: 34       Date Filed: 03/21/2024
+
+
+
+
+                                     No. 23-40076
+
+
+tests. That some speech fails Central Hudson does not mean that speech
+automatically fails Zauderer. Indeed, the Court applied Central Hudson in
+Zauderer when it addressed speech restrictions, but it then declined expressly
+to adopt Central Hudson in its analysis of compelled speech. See Zauderer,
+471 U.S. at 651 & n.14. Further, the Supreme Court treats the two as dis-
+tinct.73 Thus we decline to merge these distinct tests into one.
+        Second, plaintiffs focus their claim of burden solely on the size of the
+warnings. Yet these Warnings are no larger than those upheld by the Sixth
+Circuit when it reviewed the TCA. See Discount Tobacco, 674 F.3d at 567.
+Even though FDA updated the Warnings from those Congress selected in
+the TCA, they have not changed the size of the Warnings. We decline to give
+RJR a new chance to relitigate this issue without any factual distinctions.
+        Third, and most fundamentally, we reject plaintiffs’ claim that any
+burden is inherently undue. True, the Warnings impose a burden on plain-
+tiffs.74 But that alone does not offend the Constitution. Instead, we must
+inquire whether that burden is undue. In other words, the regulation cannot
+impose a burden excessive or disproportionate to the benefits gained.
+        We draw that balancing requirement both from the plain meaning of
+“undue”75 and from precedent. In NIFLA, the Court weighed the disclosure
+
+        _____________________
+vote of the D.C. Circuit, has never been adopted by the Supreme Court, and has never been
+accepted by this court.
+        73
+          In NIFLA, the Court first concluded Zauderer did not apply. Then, it expressly
+admitted to uncertainty over the standard applied to compelled speech that does not
+receive Zauderer scrutiny: Central Hudson or strict scrutiny. See NIFLA, 585 U.S. at 773.
+        74
+          Nor is that unique to the Warnings. Any compelled speech, particularly com-
+pelled speech with which the speaker disagrees, inherently imposes some burden.
+        75
+         See Undue, Oxford English Dictionary, tinyurl.com/56jcsuhx (“Un-
+warranted or inappropriate because excessive or disproportionate.”).
+
+
+
+
+                                               34
+Case: 23-40076       Document: 140-1       Page: 35      Date Filed: 03/21/2024
+
+
+
+
+                                  No. 23-40076
+
+
+requirement and found it lacking. The requirements (1) were “wholly dis-
+connected from California’s informational interest”; (2) allowed for no con-
+sideration of “what the facilities say on site or in their advertisements”; and
+(3) “cover[ed] a curiously narrow subset of speakers.” 585 U.S. at 777; see
+also id. at 777–79. Therefore, the burden outweighed any possible benefit.
+       In NetChoice, after deciding that Zauderer applied, we similarly turned
+to whether the disclosure requirements were unduly burdensome. 49 F.4th
+at 485. Our analysis focused on the possibility of chilling protected com-
+mercial speech. Id. at 486 (citing Zauderer, 471 U.S. at 651). We found that
+the one-and-done and the biannual transparency disclosure requirements
+would not possibly “burden the Platforms’ protected speech,” so they both
+survived Zauderer review. Id. Then, we upheld the complaint-and-appeal
+disclosure requirement because the burden of the disclosure was not so
+significant in the context of the “statute’s plainly legitimate sweep” that it
+reached the level of an undue burden. Id. at 487 (quoting Ams. for Prosperity
+Found. v. Bonta, 141 S. Ct. 2373, 2387 (2021)). In other words, we balanced
+the harm and the benefit, found the harm was minimal and the benefit
+significant, and ruled the burden was constitutional.
+       Finally, in Chamber of Commerce, we similarly balanced the interests.
+We explained that the compelled disclosures were not unduly burdensome
+because they “neither burden[] issuers’ protected speech nor drown[] out
+their message.” 85 F.4th at 772. We found the balance tilted toward the SEC
+because it had imposed additional speech only “within the narrow confines
+of SEC filings . . . .” Id. (citing NetChoice, 49 F.4th at 486).
+       As explained earlier, FDA claims the Warnings directly alleviate infor-
+mation asymmetry regarding the harms tobacco causes and consumers’ sub-
+optimal awareness of and response to those harms. And the government has
+shown a significant benefit from the resultant reduction in those harms. See
+
+
+
+
+                                           35
+Case: 23-40076        Document: 140-1        Page: 36       Date Filed: 03/21/2024
+
+
+
+
+                                    No. 23-40076
+
+
+TCA § 2; see also 84 Fed. Reg. at 42,779; supra part II.B.2.b.
+       On the other hand, plaintiffs claim two large burdens—that the gov-
+ernment is infringing on their First Amendment rights and that they will suf-
+fer financial harm.
+       The scale tilts toward the benefits for two reasons.
+       First, plaintiffs can still speak on 80% of their advertisements, and they
+still control more than 50% of the total surface area of their cigarette packages.
+See 15 U.S.C. § 1333(a)(2), (b)(2). The remaining portions offer “ample
+room for manufacturers to distinguish their products from other products.”
+85 Fed. Reg. at 15647. Thus, we are not concerned that the brands will be
+“drown[ed] out” by the warnings such that plaintiffs would have no reason
+to speak at all. Contra NIFLA, 585 U.S. at 778. Though the Warnings will
+not produce “additional speech” in the same way the novel disclosures did
+in NetChoice or Chamber of Commerce, they also do not impose a dispropor-
+tionate requirement that would “‘effectively rule[] out’ the possibility of
+having [an advertisement] in the first place.” NIFLA, 585 U.S. at 778 (quot-
+ing Ibanez, 512 U.S. at 146). So, it is extremely unlikely that the Warnings
+will chill protected commercial speech. See NetChoice, 49 F.4th at 485.
+       Second, as mentioned earlier, plaintiffs have, at most, a minimal inter-
+est in not withholding useful and factual information from their customers.
+See Zauderer, 471 U.S. at 651. Any harm suffered purely because of an
+infringement on that minimal interest is limited.
+       Thus, the Warnings are not unduly burdensome under Zauderer.
+                         *      *        *         *    *
+       In sum, because the Warnings are (1) purely factual and (2) uncon-
+troversial, Zauderer scrutiny applies. Then, because the Warnings address a
+legitimate state interest, are justified, and are not unduly burdensome in light
+
+
+
+
+                                             36
+Case: 23-40076          Document: 140-1           Page: 37        Date Filed: 03/21/2024
+
+
+
+
+                                        No. 23-40076
+
+
+of that interest and justification, the Warnings survive Zauderer scrutiny.
+
+C.      APA Claim
+        We turn to plaintiffs’ contention that FDA issued the Rule in violation
+of the APA. The district court never reached the issue, granting summary
+judgment for plaintiffs solely on its finding that the Rule violated the First
+Amendment. We generally prefer not to resolve a complicated fact-intensive
+dispute without the benefit of the district court’s reasoning, and the instant
+case is no exception. So we remand for consideration in the first instance.
+        Plaintiffs are right that “this Court may affirm . . . on any ground
+supported by the record and presented to the district court.” Wantou v. Wal-
+Mart Stores Tex., L.L.C., 23 F.4th 422, 430 (5th Cir. 2022). But we generally
+“will not reach the merits of an issue not considered by the district court”
+and we see no reason to stretch for them here.76
+        We recognize that an exception to that well-established rule arises
+where there are “special circumstances.” PHH, 80 F.4th at 563 (citing Man
+Roland, Inc. v. Kreitz Motor Exp., Inc., 438 F.3d 476, 483 (5th Cir. 2006)). But
+those circumstances are not present here. The extensive dispute in the dis-
+trict court, and the limited briefing on appeal, repudiate any suggestion that
+the “proper resolution is beyond any doubt.”77 Id. (quoting Baker v. Bell,
+
+        _____________________
+        76
+          PHH Mortg. Corp. v. Old Republic Nat’l Title Ins. Co., 80 F.4th 555, 563 (5th Cir.
+2023) (quoting Magnolia Island Plantation, L.L.C. v. Whittington, 29 F.4th 246, 252 (5th
+Cir. 2022)); see also Browning v. Kramer, 931 F.2d 340, 345 (5th Cir. 1991) (“As a court for
+review of errors, we are not to decide facts or make legal conclusions in the first instance.
+Our task is to review the actions of a trial court for claimed errors.”).
+        77
+           Although, at oral argument, both sides requested that we decide the APA issue
+now, and though they briefed the merits of the APA dispute in the district court, the parties
+presented us with comparatively little on the subject on appeal. They spent a combined
+11 pages of the 157 in their briefs on this issue, and the district court never addressed it in
+its order.
+
+
+
+
+                                                  37
+Case: 23-40076        Document: 140-1          Page: 38       Date Filed: 03/21/2024
+
+
+
+
+                                      No. 23-40076
+
+
+630 F.2d 1046, 1056 (5th Cir. 1980)). Further, after an adverse APA ruling
+by the district court, either party may still appeal, without any concern that
+“injustice might otherwise result.” Thus, the case does not present the nec-
+essary “special circumstances” for us to resolve an issue “not passed on
+below.” Id. Consequently, we remand for the district court to conduct an
+initial analysis of the APA claims.
+                          *       *        *         *    *
+       We summarize our conclusions as follows:
+       When determining whether Zauderer applies, (1) images can be fac-
+tual; (2) ideological or emotion-inducing statements are not per se contro-
+versial or non-factual; (3) “uncontroversial” means not subject to good-faith
+dispute about the accuracy of the factual statement; and (4) legitimate state
+interests other than the prevention of consumer deception are cognizable
+under Zauderer. For the reasons detailed above, the district court erred by
+finding Zauderer inapplicable to the FDA’s newest Warnings.78
+       Applying Zauderer, the Warnings survive constitutional muster
+against the First Amendment challenge. We REVERSE and REMAND
+with direction for the district court to consider the merits of the APA
+challenge.
+
+
+
+
+       _____________________
+       78
+           Because we reverse on the First Amendment ruling, we pass no judgment on the
+district court’s declination to sever or on its application of vacatur.
+
+
+
+
+                                               38
+

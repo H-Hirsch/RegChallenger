@@ -1,0 +1,2807 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued November 1, 2024              Decided June 20, 2025
+
+                       No. 23-1177
+
+            CENTER FOR BIOLOGICAL DIVERSITY,
+                       PETITIONER
+
+                             v.
+
+       ENVIRONMENTAL PROTECTION AGENCY, ET AL.,
+                   RESPONDENTS
+
+         AMERICAN PETROLEUM INSTITUTE, ET AL.,
+                    INTERVENORS
+
+
+
+  Consolidated with 23-1240, 23-1243, 23-1246, 23-1247,
+                         23-1249
+
+
+          On Petitions for Review of a Final Rule
+          of the Environmental Protection Agency
+
+
+
+    Elizabeth B. Dawson and Jonathan G. Hardin argued the
+causes for Refiner Petitioners. With them on the briefs were
+Robert J. Meyers, Alexandra Magill Bromer, Michael R.
+Huston, Jeffrey R. Holmstead, Brittany M. Pemberton, Richard
+S. Moskowitz, Tyler J. Kubik, and Karl J. Worsham.
+                              2
+     Margaret A. Coulter and Carrie Apfel argued the causes
+for Environmental Petitioners. With them on the briefs were
+Jason C. Rylander, Peter Lehner, and Ashley Ingram.
+
+     Sandra P. Franco argued the cause for petitioner
+Sustainable Advanced Biofuel Refiners Coalition. With her on
+the briefs was Jerome C. Muys, Jr.
+
+     Jeremy M. Bylund argued the cause for petitioner Neste
+US, Inc. With him on the briefs were Amina Dammann, Ilana
+Saltzbart, Ashley C. Parrish, and K. Paige Tenkhoff.
+
+    Alexander M. Purpuro and John H. Martin, Attorneys,
+U.S. Department of Justice, argued the causes for respondents.
+With them on the brief were Todd Kim, Assistant Attorney
+General, and Kimere J. Kimball and Joseph Crusham,
+Attorneys.
+
+    David M. Lehn argued the cause for Biofuel Intervenors
+responding to Refiner Petitioners’ brief. With him on the brief
+were Matthew W. Morrison, Shelby L. Dyl, Sandra P. Franco,
+Bryan Killian, and Douglas Hastings.
+
+     Ethan G. Shenkman argued the cause for Biofuel
+Intervenors responding to Environmental Petitioners’ brief.
+With him on the brief were Matthew W. Morrison, Bryan
+Killian, and Douglas Hastings.
+
+     Robert J. Meyers, Elizabeth B. Dawson, Richard S.
+Moskowitz, Tyler Kubik, Robert A. Long, Jr., Kevin F. King,
+Thomas R. Brugato, MaKade C. Claypool, John Wagner, and
+Michele Schoeppe were on the brief for intervenors American
+Fuel & Petrochemical Manufacturers and American Petroleum
+Institute in support of respondents. Daniel G. Randolph
+entered an appearance.
+                              3
+    Kyle Danish, Tyson C. Kade, and Charlene Koski were on
+the brief for amici curiae Agricultural, Biomass, and
+Greenhouse Gas Lifecycle Scientists in support of respondents.
+
+    Before: PILLARD, KATSAS and CHILDS, Circuit Judges.
+
+    Opinion for the Court filed PER CURIAM:
+
+    Background
+        A. The Renewable Fuel Standards Program
+        B. The Endangered Species Act
+        C. The Set Rule
+        D. Petitioners
+        E. Jurisdiction and Standards of Review
+    Discussion
+        I. Environmental Petitioners
+            A. Clean Air Act
+            B. Endangered Species Act
+            C. Remedy
+        II. Refiner Petitioners
+            A. Late and Supplemental Standards
+            B. All Volumes
+            C. Conventional Renewable Fuels
+            D. Cellulosic Biofuels
+            E. RIN Cost-Passthrough Theory
+       III. Neste
+            A. Recordkeeping Provisions
+            B. RIN Generation Provision
+        IV. SABR
+    Conclusion
+
+    Opinion concurring in part and dissenting in part filed by
+Circuit Judge KATSAS.
+                               4
+      PER CURIAM: By now, EPA is accustomed to challenges
+to its implementation of the Clean Air Act’s (CAA) Renewable
+Fuel Standards (RFS) Program. The RFS Program is generally
+recognized as Congress’s attempt to promote renewable energy
+and lower greenhouse gas emissions by requiring the petroleum
+industry to introduce increasing volumes of renewable fuel
+from year to year. See 42 U.S.C. § 7545(o). Last year, we
+reviewed RFS Program standards for the years 2020, 2021, and
+2022. See Sinclair Wyo. Refin. Co. LLC v. EPA (Sinclair Wyo.
+I), 101 F.4th 871, 877 (D.C. Cir. 2024). We now consider
+consolidated petitions for review of EPA’s RFS Program
+standards for the years 2023, 2024, and 2025. See Renewable
+Fuel Standard (RFS) Program: Standards for 2023-2025 and
+Other Changes, 88 Fed. Reg. 44,468 (July 12, 2023)
+(hereinafter the Set Rule).
+
+     Petitioners representing two nonprofit conservation
+organizations (Environmental Petitioners), many refiners of
+petroleum products (Refiner Petitioners), a renewable fuel
+producer (Neste), and the Sustainable Advanced Biofuel
+Refiners Coalition (SABR), a trade association representing
+certain biodiesel stakeholders, filed challenges to the Set Rule.
+Only two of those challenges have merit: the Environmental
+Petitioners’ claims that (1) EPA failed to adequately explain
+why—for purposes of addressing lifecycle greenhouse gas
+(GHG) emissions associated with crop-based biofuels—it re-
+used the results of an admittedly outdated study instead of
+newer data collected from EPA’s literature review of the most
+reliable post-2010 findings; and (2) the United States Fish and
+Wildlife Service (FWS) failed to adequately explain how its
+conclusion that the Set Rule will have “no effect” on
+endangered species or their critical habitats accords with the
+legal framework set forth in its Consultation Handbook and the
+implementing regulations of the Endangered Species Act
+(ESA). We therefore grant Environmental Petitioners’ petition
+                                5
+only to the extent that we will remand the Set Rule to EPA and
+FWS without vacatur for further consideration and explanation.
+We deny the petitions of Neste and Refiner Petitioners and
+dismiss SABR’s petition for untimeliness and lack of standing.
+
+                       BACKGROUND
+
+     Because of the successive nature of challenges to the RFS
+Program, we provide a complete but streamlined explanation
+of the statutory scheme for purposes of understanding the
+issues in this appeal. Additional background is reflected in
+prior decisions involving challenges to the Program.1
+
+       A. The Renewable Fuel Standards Program
+
+     Congress created the RFS Program by way of the Energy
+Policy Act of 2005, codified in Section 211(o) of the CAA (42
+U.S.C. § 7545(o)), and further expanded it in the Energy
+Independence and Security Act of 2007. Overview of RFS
+Program, EPA (last updated May 16, 2024),
+https://perma.cc/TV47-8CUQ. The RFS Program “requires an
+increasing amount of renewable fuel to be introduced into the
+Nation’s transportation fuel supply each year.” Ams. for Clean
+Energy v. EPA (ACE), 864 F.3d 691, 696 (D.C. Cir. 2017)
+(referencing 42 U.S.C. § 7545(o)). “To accomplish th[is]
+goal[], the Program regulates suppliers through ‘applicable
+volume[s]’—mandatory and annually increasing quantities of
+
+1
+ See Nat’l Petrochemical & Refiners Ass’n v. EPA, 630 F.3d 145
+(D.C. Cir. 2010); Am. Petroleum Inst. v. EPA, 706 F.3d 474 (D.C.
+Cir. 2013); Monroe Energy, LLC v. EPA, 750 F.3d 909 (D.C. Cir.
+2014); Ams. for Clean Energy v. EPA, 864 F.3d 691 (D.C. Cir. 2017);
+Alon Refin. Krotz Springs, Inc. v. EPA, 936 F.3d 628 (D.C. Cir.
+2019); Am. Fuel & Petrochemical Mfrs. v. EPA, 937 F.3d 559 (D.C.
+Cir. 2019); Growth Energy v. EPA, 5 F.4th 1 (D.C. Cir. 2021);
+Wynnewood Refin. Co., LLC v. EPA, 77 F.4th 767 (D.C. Cir. 2023).
+                               6
+renewable fuels that must be ‘introduced into commerce in the
+United States’ each year—and tasks the EPA Administrator
+with ‘ensur[ing]’ that those annual targets are met.” Am. Fuel
+& Petrochemical Mfrs. v. EPA, 937 F.3d 559, 568 (D.C. Cir.
+2019) (quoting 42 U.S.C. § 7545(o)(2)(A)(i)). Accordingly,
+Congress charged EPA with promulgating regulations to
+ensure that each requisite type of fuel introduced into
+commerce in the United States satisfies the RFS Program’s
+applicable volume requirements.               42 U.S.C. §
+7545(o)(2)(A)(i).
+
+     “After EPA determines the volume requirements for the
+various categories of renewable fuel, it has a ‘statutory
+mandate’ to ‘ensure[ ]’ that those requirements are met,” which
+it fulfills “by translating the annual volume requirements into
+‘percentage standards,’” ACE, 864 F.3d at 698-99 (citations
+omitted), i.e. what percentage of the nation’s transportation
+fuel must be comprised of each congressionally specified
+renewable fuel. “The percentage standards inform each
+obligated party of how much renewable fuel it must introduce
+into U.S. commerce based on the volumes of fossil-based
+gasoline or diesel it imports or produces.” Id. at 699. “Once
+EPA issues a rule informing obligated parties . . . of their
+renewable fuel obligations, it is up to the obligated parties to
+comply with the statute.” Id.
+
+     The statute provides EPA latitude to impose “renewable
+fuel obligation[s]” on “refineries, blenders, and importers,” as
+appropriate. 42 U.S.C. § 7545(o)(3)(B)(ii)(I). EPA has chosen
+by rule to impose obligations only on parties that introduce
+fossil fuels into the United States economy: refiners and
+importers. See Alon Refin. Krotz Springs, Inc. v. EPA, 936 F.3d
+628, 648-53 (D.C. Cir. 2019); 40 C.F.R. § 80.2 (designating
+obligated parties). Obligated parties must purchase compliance
+credits known as Renewable Identification Numbers (RINs)
+                              7
+from renewable fuel producers in volumes sufficient to meet
+their percentage standard obligations and then prove their
+compliance annually by retiring those RINs with EPA. 42
+U.S.C. § 7545(o)(5); 40 C.F.R. §§ 80.2, 80.1426, 80.1427(a),
+80.1428(b).
+
+     The RFS Program establishes volumes for four
+congressionally chosen categories of renewable fuel: (1)
+cellulosic biofuel; (2) biomass-based diesel; (3) advanced
+biofuel; and (4) total renewable fuel.             42 U.S.C.
+§ 7545(o)(1)(B), (D), (E), (J). The categories vary in their
+renewable biomass sources and their GHG emissions.
+According to the CAA, biofuels used to meet RFS Program
+obligations must achieve “certain GHG reductions based on a
+lifecycle analysis (LCA).” 88 Fed. Reg. at 44,500. Each
+category of fuel under the program must reduce GHG
+emissions by a certain percentage from the baseline established
+by petroleum-based fuels. Id. In general, to qualify as a
+renewable fuel under the program, a fuel must be produced
+from approved feedstocks and have lifecycle GHG emissions
+at least 20 percent less than the baseline. Id. Advanced
+biofuels and biomass-based diesel must have at least 50 percent
+lower GHG emissions than baseline fuels, “while cellulosic
+biofuel is required to have lifecycle emissions at least 60
+percent less than baseline fuels.” Id.
+
+     The renewable fuel types “are ‘nested,’ meaning that
+cellulosic biofuel and biomass-based diesel are kinds of
+advanced biofuel, and advanced biofuel in turn is a kind of
+renewable fuel that may be credited toward the total renewable
+fuel obligation.” ACE, 864 F.3d at 697-98. In this regard,
+nested RINs satisfy obligations for all categories that include
+them. For example, cellulosic biofuel is counted toward its
+own volume obligation, the advanced biofuel volume
+                               8
+obligation, and the total renewable fuel volume obligation. Id.
+at 698.
+
+     The statute contains tables that set the annual, nationally
+applicable volume requirements for each renewable fuel
+category: cellulosic biofuel, advanced biofuel, and total
+renewable fuel through the year 2022; and biomass-based
+diesel through 2012. 42 U.S.C. § 7545(o)(2)(B)(i). For later
+years, Congress gave EPA statutory authority to set applicable
+volumes and directed it to base the volume numbers on a
+review of the implementation of the program in previous years
+and an analysis of the six factors (set criteria) found in 42
+U.S.C. § 7545(o)(2)(B)(ii). The set criteria are:
+
+    (I) the impact of the production and use of renewable
+    fuels on the environment, including on air quality,
+    climate change, conversion of wetlands, ecosystems,
+    wildlife habitat, water quality, and water supply;
+
+    (II) the impact of renewable fuels on the energy
+    security of the United States;
+
+    (III) the expected annual rate of future commercial
+    production of renewable fuels, including advanced
+    biofuels in each category (cellulosic biofuel and
+    biomass-based diesel);
+
+    (IV) the impact of renewable fuels on the
+    infrastructure of the United States, including
+    deliverability of materials, goods, and products other
+    than renewable fuel, and the sufficiency of
+    infrastructure to deliver and use renewable fuel;
+
+    (V) the impact of the use of renewable fuels on the
+    cost to consumers of transportation fuel and on the
+    cost to transport goods; and
+                                 9
+    (VI) the impact of the use of renewable fuels on other
+    factors, including job creation, the price and supply of
+    agricultural     commodities,        rural    economic
+    development, and food prices.
+
+Id. § 7545(o)(2)(B)(ii)(I-VI).
+
+     In determining volumes, EPA may reduce the applicable
+volumes by issuing waivers. The statute authorizes two waiver
+types: (1) a cellulosic waiver allowing reduction of “the
+applicable volume of cellulosic biofuel . . . to the projected
+volume available during that calendar year” whenever the
+projected volume falls short of the volume in the statutory
+table, id. § 7545(o)(7)(D)(i); and (2) a general waiver
+permitting the reduction of “the national quantity of renewable
+fuel required . . . based on a determination . . . that
+implementation of the requirement would severely harm the
+economy or environment of a State, a region, or the United
+States . . . or [that] there is an inadequate domestic supply,” id.
+§ 7545(o)(7)(A).
+
+     “EPA must meet two different statutory deadlines when
+promulgating volume requirements and percentage standards.”
+ACE, 864 F.3d at 716. “First, EPA must promulgate all
+renewable fuel percentage standards for a given year by
+November 30 of the preceding year.” Id. (citing 42 U.S.C.
+§ 7545(o)(3)(B)(i)). “Second, EPA must promulgate the
+volume requirements for those years not covered by the
+statutory tables ‘no later than 14 months before the first year’
+for which such volume requirements will apply.” Id. at 716-17
+(citing 42 U.S.C. § 7545(o)(2)(B)(ii)). However, EPA may
+issue late volume requirements “with retroactive effect so long
+as EPA reasonably mitigates any burdens that its lateness
+imposes on obligated parties,” id. at 717, “by considering the
+‘benefits and the burdens attendant to its approach’ of issuing
+                                10
+late renewable fuel requirements,” id. at 718 (quoting Nat’l
+Petrochemical & Refiners Ass’n v. EPA, 630 F.3d 145, 166
+(D.C. Cir. 2010)).
+
+     Congress mandated that EPA determine and publish in the
+Federal Register the renewable fuel obligations for the
+upcoming calendar year in the form of volume percentages of
+transportation fuel sold or imported into the United States. 42
+U.S.C. § 7545(o)(2)(B). In essence, if each obligated party
+were to include the RFS Program’s percentage requirement of
+renewable fuel in the obligated party’s total fuel production,
+the volume requirements for the Program would be achieved.
+EPA determines the percentage for each of the four renewable
+fuel types under the Program by dividing the projected annual
+volume of each fuel type by the estimated total of gasoline and
+diesel volume that will be used in the upcoming year. 40
+C.F.R. § 80.1405(c).
+
+              B. The Endangered Species Act
+
+     EPA must evaluate the potential impacts of any regulation
+stemming from the RFS Program on critical habitats and
+entities listed in the ESA. 16 U.S.C. §§ 1531-1544. “Congress
+enacted the ESA ‘to provide a means whereby the ecosystems
+upon which endangered species and threatened species depend
+may be conserved’ . . . ‘to provide a program for the
+conservation of such endangered species and threatened
+species[]’ . . . [and] to ‘halt and reverse the trend toward species
+extinction, whatever the cost.’” Ctr. for Biological Diversity v.
+EPA, 861 F.3d 174, 177 (D.C. Cir. 2017) (citations omitted).
+Under Section 7 of the ESA, EPA must “insure that any action
+authorized, funded, or carried out by [the] agency . . . is not
+likely to jeopardize the continued existence of any endangered
+species or threatened species or result in the destruction or
+adverse modification of habitat of such species.” 16 U.S.C.
+                              11
+§ 1536(a)(2). To satisfy this requirement, before taking any
+proposed action, EPA consults with FWS and the National
+Marine Fisheries Service (NMFS) (together, the Services),
+which “share responsibilities for administering the [ESA].” 50
+C.F.R. § 402.01(b).            “This process, called . . .
+‘consultation,’ . . . ‘ensur[es] that such action does not go
+forward without full consideration of its effects on listed
+species.’” Ctr. for Biological Diversity, 861 F.3d at 177-78
+(quoting Lujan v. Defs. of Wildlife, 504 U.S. 555, 603 (1992)).
+
+                      C. The Set Rule
+
+     On July 12, 2023, EPA published the Set Rule that, in
+relevant part, (1) announced the volume and percentage
+standards of cellulosic biofuel, advanced biofuel, total
+renewable fuel, and biomass-based diesel for the years 2023,
+2024, and 2025; (2) addressed outstanding volume remaining
+from a remand of 2016 annual total renewable fuel volume in
+ACE; (3) amended RFS regulatory provisions, including
+adjusting the conversion factor for biomass-based diesel; and
+(4) clarified recordkeeping provisions for renewable fuel
+producers and RIN generation for fuel not used in the United
+States.
+
+                              1.
+
+    As a starting point, to determine the volumes for the four
+categories of renewable fuel encompassed by the RFS
+Program, EPA developed “‘candidate volumes’ for each
+category.” 88 Fed. Reg. at 44,480. EPA developed these
+candidate volumes (meaning preliminary projected volumes)
+by analyzing “a subset of the statutory factors that are most
+closely related to supply of and demand for renewable fuel”
+(supply-and-demand-related factors), namely production and
+use of renewable fuels, the expected annual rate of future
+commercial production of renewable fuels, and the sufficiency
+                              12
+of infrastructure to deliver and use renewable fuel. Id. In
+developing candidate volumes, EPA also considered the
+historical supply of renewable fuel.
+
+     To assess the effects of the candidate volumes, EPA
+established a baseline of renewable fuel volumes EPA
+projected would be produced in a scenario in which the Set
+Rule did not exist. EPA then used the candidate volumes to
+conduct analyses of the other environmental and economic
+factors under the remaining statutory factors not yet
+considered. Based on the results of these analyses, EPA
+determined the final volume requirements for the four
+categories for the years 2023, 2024, and 2025. Below is a table
+summarizing the final renewable fuel volume targets (in
+billions of RINs) issued by EPA in the Set Rule.
+
+
+
+
+88 Fed. Reg. at 44,470. EPA also conveyed the percentage
+standards for the years 2023, 2024, and 2025.
+                               13
+Id. at 44,471.
+
+                               2.
+
+     In the Set Rule, EPA completed the process of addressing
+our remand in ACE of the 2014, 2015, and 2016 annual
+volumes. As to those volumes, EPA had originally relied on
+the general waiver authority for inadequate domestic supply to
+lower the 2016 total renewable fuel volume by 500 million
+gallons. See RFS Program: Standards for 2014, 2015, and 2016
+and Biomass-Based Diesel Volume for 2017, 80 Fed. Reg.
+77,420, 77,433 (Dec. 14, 2015). In ACE, we held that “EPA
+exceeded its authority under the ‘inadequate domestic supply’
+provision,” “vacate[d] EPA’s decision . . . and remand[ed] . . .
+for further consideration.” 864 F.3d at 703. To address the
+ACE remand, EPA “impose[d] a 500-million-gallon
+supplemental volume requirement for renewable fuel over two
+years.” 88 Fed. Reg. at 44,509. EPA “required the first 250-
+million-gallon supplement in 2022,” id., which we recently
+upheld. See Sinclair Wyo. I, 101 F.4th at 893-96. In the Set
+Rule at issue here, EPA mandated compliance with the second
+250-million-gallon supplement. 88 Fed. Reg. at 44,509.
+
+                               3.
+
+     Pursuant to its statutory mandate under 16 U.S.C. § 1536,
+EPA engaged in informal consultation with the Services
+regarding the Set Rule. In the first half of 2023, EPA provided
+a Biological Evaluation and supportive documentation as part
+of its informal consultation with the Services. In its Biological
+Evaluation, “EPA . . . determined that the production of crop-
+based feedstocks ha[d] the potential to affect endangered and
+threatened species . . . and critical habitat by contributing to
+land use changes that could . . . lead to habitat loss or water
+quality impairments via runoff from agricultural lands.” EPA
+Biological Evaluation at 6 (J.A. 1025). Therefore, as a result
+                               14
+of the Set Rule, consultation was necessary because species or
+habitats could be affected “where crops of corn, soybean, and
+canola are currently grown in the U.S. and . . . downstream
+areas could be impacted by agricultural runoff and pollution
+from such crop areas.” EPA Biological Evaluation at 6 (J.A.
+1025). “EPA found that the Set Rule action area overlaps with
+a total of 712 unique species: 672 FWS species, 32 NMFS
+species, and 8 that are both FWS and NMFS species . . . [a]nd
+. . . a total of 810 populations [we]re evaluated in th[e]
+Biological Evaluation.” EPA Biological Evaluation at 6 (J.A.
+1025). Ultimately, EPA determined “that the Set Rule may
+affect, but is not likely to adversely affect . . . any of the 810
+populations within the Set Rule action area or their critical
+habitat.” EPA Biological Evaluation at 13 (J.A. 1032).
+
+       In its Set Rule concurrence letter expressing agreement
+with EPA’s determination, the National Marine Fisheries
+Service observed that “[t]he applicable standard to find that a
+proposed action is not likely to adversely affect ESA-listed
+species or designated critical habitat is whether the effects to
+listed species and critical habitat are expected to be
+discountable, insignificant, or completely beneficial.” NMFS
+Concurrence at 9 (J.A. 2050). Based on its analysis of available
+information regarding changes in crop production and water
+quality, NMFS concurred “with EPA that the effects of [the Set
+Rule] may affect, but are not likely to adversely affect the ESA-
+listed and proposed species and/or designated and proposed
+critical habitats.” NMFS Concurrence at 25 (J.A. 2066).
+
+      The Fish and Wildlife Service took a different approach.
+In its response to EPA’s request for concurrence, FWS asserted
+that, according to the ESA Section 7 Consultation Handbook,
+“a ‘may affect’ determination is appropriate when ‘a proposed
+action may pose any effects on listed species or critical
+habitat.’” FWS Concurrence at 2 (J.A. 2069). However,
+                              15
+“[b]ecause there [we]re no general environmental changes
+identified in the [Biological Evaluation] that would not occur
+but for EPA’s action and that are reasonably certain to occur,”
+FWS concluded “that the Set Rule will not result in any ‘effects
+of the action,’ and a determination of ‘no effect’ [wa]s
+appropriate.” FWS Concurrence at 2 (J.A. 2069). Having
+concluded that the Set Rule would have no effect, FWS
+concurred with “EPA’s finding that the Set Rule is not likely to
+adversely affect ESA-listed species or designated critical
+habitats.” FWS Concurrence at 9 (J.A. 2076).
+
+                               4.
+
+    In the Set Rule, EPA acknowledged its adoption of
+specified regulatory changes to improve the RFS Program.
+First, EPA revised the conversion factor used in the calculation
+of applicable biomass-based diesel percentage standards from
+1.5 to 1.6 to reflect the increasing volume of renewable diesel
+in the biomass-based diesel pool. 88 Fed. Reg. at 44,546-47.
+Next, EPA addressed RIN generation by revising 40 C.F.R.
+§ 80.1426 to specify that “renewable fuel producers and
+importers may only generate RINs . . . for qualifying renewable
+fuel.” Id. at 44,547. Finally, EPA addressed the generation
+and maintenance of records for waste feedstocks by “providing
+an option to allow independent auditors to verify records held
+by the feedstock aggregator,” id. at 44,548.
+
+                       D. Petitioners
+
+    Various petitioners challenge the Set Rule. Environmental
+Petitioners are advocacy organizations. Refiner Petitioners are
+(or represent) refiners and retailers of petroleum products
+subject to the Set Rule’s volume requirements. “Neste is a
+foreign producer of renewable fuel that generates RINs under
+the RFS [P]rogram.” Neste Br. 4. SABR is a trade association
+of stakeholders in biodiesel, and includes “feedstock growers
+                                16
+to biodiesel producers, distributors, retailers, and consumers,
+as well as infrastructure, products, and services suppliers.”
+SABR Br. C-4.
+
+    Intervenors also filed briefs.    Two of the Refiner
+Petitioners—American Petroleum Institute and American Fuel
+& Petrochemical Manufacturers—intervened to oppose
+SABR’s petition. Several Biofuel Intervenors filed in support
+of the Set Rule and in opposition to the petitions for review
+filed by the Refiner Petitioners and the Environmental
+Petitioners.2
+
+         E. Jurisdiction and Standards of Review
+
+     This Court has jurisdiction to review EPA’s Set Rule
+pursuant to 42 U.S.C. § 7607(b)(1). Because “we apply the
+same standard of review under the [CAA] as we do under the
+Administrative Procedure Act,” Allied Loc. & Reg’l Mfrs.
+Caucus v. EPA, 215 F.3d 61, 68 (D.C. Cir. 2000), we will
+uphold EPA’s action unless it is “arbitrary, capricious, an abuse
+of discretion, or otherwise not in accordance with law . . . .” 42
+U.S.C. § 7607(d)(9)(A). Our review is narrow; if an action is
+not contrary to law, “agency action simply [must] be
+‘reasonable and reasonably explained.’” Cmtys. for a Better
+Env’t v. EPA, 748 F.3d 333, 335 (D.C. Cir. 2014) (citation
+omitted). EPA is required to “examine the relevant data and
+articulate a satisfactory explanation for its action including a
+‘rational connection between the facts found and the choice
+made.’” Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983) (citation omitted).
+
+
+
+2
+ Coalition for Renewable Natural Gas did not join the other Biofuel
+Intervenors in opposing the Environmental Petitioners’ petition for
+review.
+                              17
+An EPA rule is arbitrary and capricious if:
+
+    [T]he agency (1) ‘has relied on factors which
+    Congress has not intended it to consider,’ (2) ‘entirely
+    failed to consider an important aspect of the problem,’
+    (3) ‘offered an explanation for its decision that runs
+    counter to the evidence before the agency,’ or (4) ‘is
+    so implausible that it could not be ascribed to a
+    difference in view or the product of agency expertise.’
+
+U.S. Sugar Corp. v. EPA, 830 F.3d 579, 606 (D.C. Cir. 2016)
+(quoting Motor Vehicle Mfrs. Ass’n, 463 U.S. at 43). The Court
+“owes particular deference to EPA when its rulemakings rest
+upon matters of scientific and statistical judgment within [its]
+sphere of special competence and statutory jurisdiction.” Id.
+(citation omitted). But the Court is “hesitant to rubber-stamp
+EPA’s invocation of statistics without some explanation of the
+underlying principles or reasons why its formulas would
+produce an accurate result.” Id. (citation omitted). Moreover,
+if an agency changes positions, it must “display awareness that
+it is changing position.” FCC v. Fox Television Stations, Inc.,
+556 U.S. 502, 515 (2009) (emphasis in original). Thus, an
+agency “may not, for example, depart from a prior policy sub
+silentio.” Id.
+
+                        DISCUSSION
+
+   We discuss the challenges in the following order:
+Environmental Petitioners, Refiner Petitioners, Neste, and
+SABR.
+
+                I. Environmental Petitioners
+
+    The Environmental Petitioners challenge the volumes
+established in the Set Rule as contrary to the CAA and the ESA.
+                               18
+They claim that EPA’s statutorily mandated analysis of the
+effects of the Set Rule on climate change was inadequate, and
+that deficient ESA compliance by EPA, the NMFS and the
+FWS will harm listed species or critical habitat. We address
+the various claims advanced under each statute in turn,
+ultimately concluding that EPA’s analysis of the effects of the
+Set Rule on climate change under the CAA was arbitrary and
+capricious and that, while NMFS adequately complied, FWS’s
+concurrence with EPA as to the effects of the Set Rule on
+endangered species under the ESA rests on arbitrary and
+capricious analysis. We remand to EPA and FWS for further
+explanation without vacating the Set Rule’s volumes.
+
+                      A. Clean Air Act
+
+     The Environmental Petitioners challenge the volumes in
+the Set Rule under the CAA and the Administrative Procedure
+Act (APA). They claim that EPA’s weighing of the statutorily
+required factors was arbitrary and capricious, as was its
+analysis of the Set Rule’s effects on climate change. Only the
+latter challenge succeeds.
+
+                               1.
+
+     The CAA requires EPA to set volumes based on “a review
+of the implementation of the [RFS Program]” in prior years and
+an analysis of six factors. 42 U.S.C. § 7545(o)(2)(B)(ii).
+Those statutory factors are: (1) the impact of the production and
+use of renewable fuels on the environment; (2) the impact of
+renewable fuels on the United States’ energy security; (3) the
+expected annual rate of future commercial production of
+renewable fuels; (4) the impact of renewable fuels on the
+infrastructure of the United States; (5) the impact of renewable
+fuels on the cost to consumers of fuel and on the cost to
+transport goods; and (6) the impact of renewable fuels on other
+factors, including job creation, the price and supply of
+                               19
+agricultural commodities, rural economic development, and
+food prices. Id. As part of its analysis of those statutorily
+required factors, EPA considered the effect of the Set Rule on
+environmental justice, which EPA defines as “the fair
+treatment and meaningful involvement of all people regardless
+of race, color, national origin, or income with respect to the
+development, implementation, and enforcement of
+environmental laws, regulations, and policies.” 88 Fed. Reg.
+at 44,506.
+
+     The Environmental Petitioners argue that EPA gave short
+shrift to the Set Rule’s harms to the environment, communities
+that manifest environmental justice concerns, and consumers.
+The Environmental Petitioners acknowledge that EPA
+considered those harms but maintain that they are so grave
+compared to the potential benefits of the Rule that EPA failed
+to justify its decision to “finalize volumes that lead to such an
+imbalance in positive to negative impacts.” Env’t Pet. Br. 38.
+In their view, the severity of those harms requires vacatur of
+the volumes the Set Rule established for crop-based renewable
+fuels.
+
+     Our dissenting colleague would vacate the volumes for
+distinct but related reasons. He contends that EPA has failed
+to explain how the costs associated with the program are
+justified by countervailing benefits and accordingly has not
+fulfilled its duty to select volumes “based on” an analysis of the
+six statutory factors. See post at 7-8. On the partial dissent’s
+reading, the large discrepancy between the monetized costs and
+benefits of the Rule further magnifies EPA’s error and renders
+its decision arbitrary and capricious. Id. at 9-10.
+
+    We reject those arguments for two reasons. First, EPA did
+more than merely acknowledge those harms. It rationally
+explained why its balancing of the potential harms and benefits
+                               20
+associated with the Set Rule supported the volumes it
+established. Specifically, EPA used a subset of the factors most
+closely related to the supply and demand for renewable fuels to
+identify candidate volumes (i.e. preliminary projected
+volumes) for the relevant renewable fuel categories. See 88
+Fed. Reg. at 44,480. It then analyzed the effect of those
+candidate volumes on the other statutorily required
+environmental and economic factors to arrive at final volumes.
+Id.
+
+     EPA’s process for setting cellulosic biofuel volumes
+illustrates that process. EPA established its candidate volumes
+for cellulosic biofuel based on its analysis of projected growth
+in cellulosic biofuel production and constraints on
+consumption (e.g., vehicle compatibility). Id. at 44,512; Regul.
+Impact Analysis (RIA) at 277-95 (J.A. 1585-1604).
+Considering the effects of that volume on the other statutory
+factors, EPA found that cellulosic biofuel’s impact on the
+environment is broadly positive because it emits significantly
+fewer greenhouse gases than fossil fuels and its feedstocks are
+largely waste or byproducts that do not require dedicating
+farmland acreage to its production. 88 Fed. Reg. at 44,512.
+And, because cellulosic biofuel largely uses waste or byproduct
+feedstocks, EPA found its impact on several other statutory
+factors like the price and supply of agricultural commodities
+and food prices to be minimal. Id. But EPA found that
+cellulosic biofuel’s impact on transportation fuel costs to
+consumers is relatively high—adding as much as 2 cents per
+gallon to the price of gasoline and diesel. Id. at 44,513; RIA at
+44 (J.A. 1352).
+
+    Based on its balancing of all the factors, EPA ultimately
+decided to set final volumes for cellulosic biofuel at the
+candidate levels it had projected. 88 Fed. Reg. at 44,513. EPA
+similarly analyzed each of the other statutory renewable fuel
+                               21
+categories. By using available data bearing on the statutory
+supply-side factors to develop preliminary candidate volumes,
+then balancing all the statutory factors before setting final
+volumes, EPA fulfilled its statutory obligation for each
+category of renewable fuel. Id. at 44,512-18.
+
+     Our dissenting colleague takes issue with EPA’s approach
+because of its outcome. In his view, that the Set Rule’s final
+volumes largely tracked candidate volumes means EPA gave
+too much weight to the “subset of statutory factors” that it used
+to determine the candidate volumes and merely “report[ed] the
+various high economic and environmental costs” the statute
+also requires it to analyze. Post at 7. But that is not what EPA
+did. As the cellulosic biofuel example demonstrates, EPA
+analyzed those economic and environmental considerations,
+reasonably found that the benefits outweighed the costs, and so
+decided to set the final volumes at candidate volume levels.
+See 88 Fed. Reg. at 44,513. And to the extent that implies EPA
+gave greater weight to the supply-related factors it used to set
+candidate volumes, that choice was well within its
+“considerable discretion to weigh and balance the various
+factors required by statute.” Sinclair Wyo. I, 101 F.4th at 887
+(citation and internal quotation marks omitted).
+
+     Second, the Environmental Petitioners’ (and our
+dissenting colleague’s) argument that EPA should have set
+lower volumes because of the purported imbalance between the
+positive and negative impacts of the Set Rule fundamentally
+misunderstands the statute. In Sinclair Wyoming I, we
+considered an identical challenge brought by refiners to an RFS
+Program Rule asserting that the rule would drive up
+compliance costs and GHG emissions. The refiners argued
+EPA’s failure to reconcile the “vast disparity” between the
+monetized costs and monetized benefits of the Rule rendered
+the volumes it set arbitrary and capricious. 101 F.4th at 888-
+                               22
+89. A key reason we rejected that argument was that “the
+statute does not state what weight should be accorded to the
+relevant factors,” and so “we give EPA considerable discretion
+to weigh and balance the various factors required by statute.”
+Id. at 887 (citation and internal quotation marks omitted).
+
+     The same reasoning applies here: The text of the CAA
+does not require EPA to monetize or otherwise quantify all of
+the factors it must consider, nor to conduct a cost-benefit
+analysis to set volumes. Instead, the Act states that EPA “shall
+. . . determine[]” those volumes “based on a review of the
+implementation of the program” in past years and “an analysis”
+of six other statutory factors. 42 U.S.C. § 7545(o)(2)(B)(ii).
+Contrary to our dissenting colleague’s characterization, those
+factors are not “categories of cost.” Post at 8. In fact, only one
+of those factors—the impact of renewable fuels on the cost to
+consumers of transportation fuel and on the cost to transport
+goods—explicitly requires EPA to analyze monetary costs. Id.
+§ 7545(o)(2)(B)(ii)(V).       EPA undertook that analysis,
+estimating that the Set Rule would impose significant fuel costs
+on consumers between 2023 and 2025. 88 Fed. Reg. at 44,506.
+But, as we have previously noted, Congress in the RFS
+Program “made a policy choice to accept higher fuel prices” in
+exchange for the benefits of energy security and reduced GHG
+emissions. Sinclair Wyo. I, 101 F.4th at 889.
+
+    Nothing in the Act or precedent supports a freestanding
+requirement that EPA balance the quantifiable costs and
+benefits of the volumes it sets, let alone that EPA may
+implement the RFS Program only insofar as its benefits—
+quantified or not—outweigh its costs. Indeed, in National
+Association of Home Builders v. EPA, 682 F.3d 1032 (D.C. Cir.
+2012), we rejected a similar argument under a kindred
+provision of the Toxic Substances Control Act (TSCA). The
+Home Builders contended that TSCA imposed a duty on EPA
+                               23
+to demonstrate that the benefits of a rule promulgated under the
+Act outweighed its costs. Id. at 1039. We noted that while the
+TSCA requires EPA to “consider,” among other factors, the
+“economic consequences” of action taken pursuant to the
+statute—it does not require a cost-benefit analysis. Id. EPA
+had nonetheless opted to do a cost-benefit analysis, which we
+accordingly reviewed and sustained as reasonable. Id. at 1039-
+41; see also Nat’l Wildlife Fed’n v. EPA, 286 F.3d 554, 570-71
+(D.C. Cir. 2002) (per curiam). And those cases are fully
+consistent with the Supreme Court’s decision in Michigan v.
+EPA, 576 U.S. 743 (2015). There, the Court held that while
+EPA had to “consider cost . . . before deciding whether
+regulation is appropriate and necessary,” id. at 759, it did not
+need to conduct “a formal cost-benefit analysis” because it was
+“up to the Agency to decide . . . how to account for cost.” Id.
+
+     Thus, contrary to the Environmental Petitioners’ and the
+partial dissent’s assertion, it does not matter that the monetized
+benefits of the Rule may be less than its monetized costs. What
+matters is whether EPA acted in a reasonable, non-arbitrary
+manner in setting volumes based on its review of the prior
+implementation of the program and its consideration of the
+statutorily required factors. EPA did so. Its decision to set the
+challenged volumes was reasonable and reasonably explained.
+
+                               2.
+
+     Separately, the Environmental Petitioners argue that
+EPA’s analysis of the effect of the Set Rule on climate change
+was arbitrary and capricious. The statute requires EPA to
+analyze the “impact of the production and use of renewable
+fuels on the environment, including on . . . climate change.” 42
+U.S.C. § 7545(o)(2)(B)(ii)(I). The mandatory climate analysis
+is “related to, but distinct from” EPA’s duty to ensure that
+specific renewable fuels satisfy minimum GHG emission
+                               24
+reduction targets mandated by the CAA. 88 Fed. Reg. at
+44,500-01; see also 42 U.S.C. § 7545(o)(2)(A)(i) (requiring the
+various renewable fuels produced from new facilities to
+achieve a minimum of 20-60 percent reductions in emissions
+compared to baseline). The Environmental Petitioners advance
+three reasons why they believe EPA’s analysis was arbitrary
+and capricious. On our independent review, we reject two but
+conclude that one of them has merit: EPA disregarded the
+results of its own literature review without adequate
+explanation. We turn first to that meritorious challenge.
+
+                               a.
+
+     The Environmental Petitioners take issue with EPA’s
+review of the latest scientific literature estimating the quantity
+of GHG emissions attributable to renewable fuels and EPA’s
+ensuing analysis of the effects of the Set Rule on climate
+change. The review identified a wide range of estimates for
+each renewable fuel depending on what assumptions and
+analyses each study used. For example, one study yielded what
+turned out to be the low-end estimate within the literature that
+corn-based ethanol emits 38 grams of carbon dioxide per
+megajoule of energy generated (gCO2e/MJ), while another
+study yielded a high-end estimate that it emits 116 gCO2e/MJ.
+88 Fed. Reg. at 44,501 (Table IV.A–1). In comparison, studies
+estimate that petroleum gasoline emits between 84 and 98
+gCO2e/MJ.
+
+     EPA made inconsistent use of the data it culled from the
+literature. It used the high-end and low-end estimate of each
+range reflected in the literature to construct worst-case and
+best-case scenarios, respectively, for the effects of the Set Rule
+on GHG emissions over a thirty-year period relative to a
+baseline scenario that assumed the Set Rule did not exist. RIA
+at 164-66 (J.A. 1472-74). But for crop-based renewable fuels
+                               25
+like corn-based ethanol and soybean oil-based biodiesel, EPA
+did not use the ranges derived from the literature review. For
+only that subset of renewables, EPA turned back to (lower)
+figures it drew from a study it had conducted in 2010 to identify
+renewable fuels that met the Clean Air Act’s GHG emission
+reduction targets. RIA at 161-62 (J.A. 1469-70). The
+Environmental Petitioners argue that EPA never reasonably
+explained why it used the results of the literature review to
+construct its estimates on some of the effects of the Set Rule
+but not others.
+
+     We agree. EPA has failed to justify its climate conclusions
+regarding the GHG emission reductions attributable to the Set
+Rule. To be clear, EPA’s use of ranges derived from credible
+publications like peer-reviewed journal articles and
+government reports to make projections was not, by itself,
+objectionable. EPA explained that, because “all [lifecycle
+emissions] studies and models have particular strengths and
+weaknesses, as well as uncertainties and limitations,” its goal
+for the literature review was “to consider the ranges of
+published estimates, not to adjudicate which particular studies,
+estimates or assumptions are most appropriate.” 88 Fed. Reg.
+at 44,500. But EPA’s unexplained decision to generally rely
+on those published estimates for every other fuel category and
+to disregard them for crop-based renewable fuels in favor of
+ranges derived from its dated 2010 study was arbitrary and
+capricious.
+
+     To begin with, that decision to rely on a nearly 15-year-
+old study is inconsistent with EPA’s acknowledgement that the
+modeling framework “EPA ha[d] previously relied upon”—
+primarily, the results of the 2010 study—to analyze the effects
+of renewable fuels on climate change “is old” and newer data
+and research is now available. 88 Fed. Reg. at 44,501.
+                               26
+     That decision also was not reasonably explained. EPA
+stated that it used the results of the 2010 study because it was
+the “only study identified in [the literature review]
+that . . . report[s] an annual stream of land use change
+emissions.” RIA at 161 (J.A. 1469). Land use change
+emissions are those GHG emissions attributable to growing
+crops as feedstocks for renewable fuels on land that was
+previously not used for that purpose. According to EPA, an
+annual stream is important to calculating emission changes
+from crop-based biofuels over a thirty-year period because the
+initial conversion of land to grow the needed crops leads to
+relatively high emissions at the start of the period, when the
+land is converted, but lower emissions over the long term once
+the conversion is complete. RIA at 129 (J.A. 1437). EPA
+contends that the studies in the literature review systematically
+overestimate GHG emissions attributable to crop-based
+renewable fuels. RIA at 161 (J.A. 1469). According to EPA,
+“an annual stream of land use change emissions” over a period
+of years is required for accurate estimation of GHG effects, and
+“[t]he only study identified in our review that does report an
+annual stream of land use change emissions is the analysis for
+the 2010 RFS2 rule.” RIA at 161 (J.A. 1469).
+
+     There are two problems with EPA’s explanation. First,
+EPA’s statement that the 2010 study was the “only” one to
+report an annual stream of land use change emissions
+contradicts its statement on the same page that “[t]he majority
+of the land use change GHG estimates in the literature”—i.e.
+not all of them—“do not report an annual stream.” RIA at 161
+(J.A. 1469) (emphasis added). EPA clearly implies that some
+minority of the studies EPA considered did in fact report annual
+streams of emissions associated with land use change.
+
+    Second, EPA asserts that it was justified in using the
+substantially lower emissions estimates from its 2010 RFS
+                               27
+study for corn-based ethanol and soybean-based renewable
+fuels in lieu of the aggregate range of estimates from its
+literature review because the latter systematically
+overestimated GHG emissions from land use changes. But that
+assertion of systemic skew is contradicted by EPA’s own
+figures showing that GHG emissions estimates drawn from the
+literature review were effectively identical to those included in
+the 2010 study for all crop-based renewable fuel—except corn-
+based ethanol. Compare RIA at 161 (J.A. 1469) (charting
+ranges based on the literature review), with RIA at 162 (J.A.
+1470) (charting virtually identical ranges based on the 2010
+RFS2 rule for soybean-based renewable fuels). The 2010
+study’s high-end emissions estimate for soybean oil-based
+biodiesel was only slightly lower—72 gCO2e/MJ rather than
+73—and the high-end estimate for soybean oil-based
+renewable diesel remained unchanged when the 2010 study’s
+results were used. RIA at 161-62 (J.A. 1469-70). Only for
+corn-based ethanol was there a significant difference: In
+contrast to the high-end emissions estimate of 116 gCO2e/MJ
+for corn-based ethanol from the updated literature review, the
+high-end emissions estimate from the 2010 study was only 91
+gCO2e/MJ—more than 20 per cent lower. RIA at 161-62 (J.A.
+1469-70).
+
+     That substantial, unexplained discrepancy is particularly
+problematic for EPA because it plays an outsized role in the
+program overall. Corn-based ethanol is by volume the largest
+category of renewable fuel produced in the United States—and
+it drives the largest aggregate portion of GHG emissions
+attributable to renewable fuels. If EPA improperly relied on a
+lower high-end emission estimate for corn-based ethanol, it
+lacks support for its climate conclusion that “on average [corn-
+based ethanol] provides some GHG reduction in comparison to
+gasoline.” 88 Fed. Reg. at 44,517. And that unsupported
+                              28
+conclusion potentially skewed EPA’s ultimate assessment of
+the various factors and the volumes EPA set.
+
+      Accordingly, we hold that EPA failed to articulate a
+“rational connection between the facts found and the choice
+made” to use the results of the 2010 study, which, absent
+further explanation, renders its climate change analysis
+arbitrary. Motor Vehicle Mfrs. Ass’n, 463 U.S. at 43 (internal
+quotation marks omitted). EPA placed significant weight on
+its climate conclusions in establishing the implied conventional
+renewable fuel volume requirement. If EPA cannot justify its
+use of the results of the 2010 study on remand, it will need to
+explain how other, appropriate data affect its climate
+conclusions, whether properly supported climate conclusions
+change EPA’s assessment of the statutory factors, and whether
+its updated analysis justifies the volumes it set.
+
+                              b.
+
+    Second, the Environmental Petitioners fault EPA for not
+using the results of the model comparison exercise EPA
+conducted to evaluate the Set Rule’s climate change effects.
+The model comparison exercise studied five different models
+that estimate the effects of crop-based renewable fuel
+production and consumption on global GHG emissions by
+running hypothetical scenarios involving major increases in
+renewable fuel production through the models and comparing
+the results. See 88 Fed. Reg. at 44,501-02. Two of those
+models estimated that an increase in global demand for
+soybean oil-based biodiesel would lead to a net increase in
+GHG emissions, while one estimated a decrease. Model
+Comparison Exercise Tech. Document at 113 (J.A. 1993). The
+Environmental Petitioners argue that because the model
+outputs are based on a common set of hypothetical scenarios
+about renewable fuel production, the model comparison
+                               29
+exercise, and not the literature review, is “the best evidence”
+concerning the Set Rule’s effect on climate change. Env’t Pet.
+Br. 30.
+
+     But this argument misunderstands the purpose of the
+model comparison exercise. In its Notice of Proposed
+Rulemaking, EPA stated that it was conducting the exercise to
+better understand the capabilities of various models and to
+locate the underlying reasons model estimates differ, not to
+produce a “single robust estimate of the [GHG] impacts
+associated with the volume requirements.” RFS Program:
+Standards for 2023-2025 and Other Changes, 87 Fed. Reg.
+80,582, 80,611 (proposed Dec. 30, 2022). And EPA ultimately
+decided not to rely on the exercise’s results to inform final
+volumes because it wanted to “engage with stakeholders and
+receive feedback . . . before deciding how to use any results in
+a rulemaking context.” 88 Fed. Reg. at 44,501. That was
+because it found that the models had differing underlying
+assumptions and degrees of flexibility that produced
+fundamentally different analyses, underscoring the need for
+further study before EPA could use the models to estimate the
+effects of the Set Rule. For current purposes, EPA simply
+noted that insights derived from the model comparison exercise
+would inform its “future analytical efforts” to assess the effect
+of the RFS Program on climate change. Id. Given EPA’s
+acknowledgement that its previous approach is outdated, these
+new efforts are welcome.
+
+     In the meantime, we do not fault EPA for choosing not to
+use the results of the model comparison exercise to evaluate the
+Rule’s climate effects. We give an “extreme degree of
+deference” to the “evaluation of scientific data within [EPA’s]
+technical expertise,” Sinclair Wyo. I, 101 F.4th at 883 (internal
+quotation marks omitted), including the agency’s assessment
+that more research on analytical tools like these climate change
+                               30
+models is needed before they are more broadly deployed.
+Accordingly, we hold that EPA’s decision not to use the results
+of the model comparison exercise to evaluate the effects of the
+Set Rule on climate change was reasonable and reasonably
+explained.
+
+                               c.
+
+     Third, the Environmental Petitioners argue that EPA erred
+in not including the “carbon opportunity cost” of renewable
+fuel production in its analysis of the effects of the Set Rule on
+climate change. Env’t Pet. Br. 31-32. The carbon opportunity
+cost of renewable fuel production refers to a calculation of the
+difference between the climate benefits of using land to grow
+crops for renewable fuel and hypothetical uses of the same land
+in other ways potentially more beneficial to the climate. One
+of those possible uses would be to let land lie fallow to
+regenerate native vegetation, which sequesters carbon dioxide.
+The Environmental Petitioners extrapolate from that possibility
+that the CAA’s requirement that EPA consider “the impact of
+the production and use of renewable fuels on the environment,”
+42 U.S.C. § 7545(o)(2)(B)(ii)(I), obligates the agency to
+compute how much carbon dioxide the land could sequester if,
+rather than producing crops for renewable fuels, it were
+allowed to revert to native vegetation. By not incorporating
+such a computation into its analysis, the Environmental
+Petitioners contend, EPA missed a “significant climate change
+impact of land use” related to renewable fuels. Env’t Pet. Br.
+32.
+
+     That argument centrally relies on the flawed assumption
+that, in the absence of the Set Rule, farmers would repurpose
+land from growing renewable fuel feedstocks to lying fallow
+and regenerating native vegetation. But the Act empowers
+EPA to set volumes for renewable fuels that obligated parties
+                              31
+must meet; it does not authorize the agency to control farmers’
+land use decisions. And any assumption that land not used for
+renewable fuels will necessarily lie fallow or be devoted to
+regenerating native flora is questionable as a factual matter.
+Experience shows that land no longer used to grow crops is
+often sold for commercial or residential development.
+
+     EPA accordingly set aside the only study in the literature
+that attempted to incorporate a carbon opportunity cost into its
+analysis because it assumed forest regeneration as the
+alternative land use. EPA instead assumed, consistent with the
+bulk of the empirical literature, that absent the Set Rule land
+would be used in a “business as usual” fashion—which is to
+say, as it was used before the Set Rule came into effect. RIA
+at 138 n.241 (J.A. 1446 n.241). We therefore hold that EPA’s
+decision not to adopt the Environmental Petitioners’ preferred
+analysis of carbon opportunity cost effects of the Set Rule on
+climate change was reasonable and reasonably explained.
+
+                             ***
+
+     In response to the Environmental Petitioners’ claims, we
+hold that EPA’s climate change analysis under the CAA was
+arbitrary and capricious for its failure to adequately explain
+why it used a nearly 15-year-old study to estimate the effect of
+crop-based renewable fuel production on GHG emissions
+rather than the updated literature review it had conducted for
+expressly that purpose and used to estimate effects of other
+types of renewable fuels. We reject the Environmental
+Petitioners’ other challenges to the Set Rule under the CAA and
+APA.
+
+                B. Endangered Species Act
+
+   Separately, the Environmental Petitioners challenge the
+compliance of EPA, NMFS, and FWS with the ESA and its
+                               32
+implementing regulations. They argue that each of those
+entities acted arbitrarily and capriciously—and in the case of
+FWS, contrary to the statute—in determining that the Set Rule
+was not likely to adversely affect endangered species or their
+critical habitats. We grant the Environmental Petitioners’
+petition with respect to FWS, concluding that its concurrence
+was arbitrary and capricious. We reject all the other ESA
+challenges.
+
+      Section 7 of the ESA imposes a duty on federal agencies
+to prevent harm to endangered wildlife and flora, reflecting a
+“conscious decision by Congress to give endangered species
+priority over the ‘primary missions’ of federal agencies.”
+Tenn. Valley Auth. v. Hill, 437 U.S. 153, 185 (1978).
+Specifically, under Section 7(a)(2), each federal agency “shall
+. . . insure that any action . . . is not likely to jeopardize the
+continued existence of any endangered species or threatened
+species or result in the destruction or adverse modification of
+[critical] habitat of such species.” 16 U.S.C. § 1536(a)(2). To
+ensure compliance with that statutory mandate, the ESA’s
+implementing regulations require each federal agency to
+determine whether its proposed action “may affect listed
+species or critical habitat.” 50 C.F.R. § 402.14(a). If so, the
+agency must engage in formal consultation with NMFS and
+FWS (collectively, the Services) as to the potential effects of
+its proposed action on the endangered species or their critical
+habitats under each Service’s jurisdiction and discuss steps the
+agency can take to mitigate harm. Id. § 402.14(g).
+
+     After the agency determines that its action “may affect”
+endangered species or their critical habitats, the factual record
+may nonetheless support a determination that the agency’s
+action “is not likely to adversely affect any listed species or
+critical habitat.” Id. § 402.14(b)(1). If the agency so determines
+and the Services concur with that assessment, formal
+                                33
+consultation is not required. Id. In ESA parlance, those
+sequential determinations are referred to as “may affect” (as
+opposed to “no effect”) and “is not likely to adversely affect”
+determinations. The criteria for making those determinations
+are set forth in two separate sets of regulatory materials.
+
+     The Services’ joint Endangered Species Consultation
+Handbook (Handbook) establishes the procedures for the
+Services’ consultations with federal agencies pursuant to ESA
+Section 7. It states that a “may affect” determination is
+appropriate when a proposed agency action “may pose any
+effects on listed species or designated critical habitat.”
+Handbook at xvi (J.A. 2127) (emphasis in original).
+Conversely, it states that a “no effect” determination is
+appropriate when a proposed agency action will not affect a
+listed species or designated critical habitat. Finally, it states
+that a determination that the agency action “is not likely to
+adversely affect” listed species or critical habitat is appropriate
+when effects have been identified, but they “are expected to be
+discountable, insignificant, or completely beneficial.”
+Handbook at xv (J.A. 2126). An identified but “discountable”
+effect is one that is “extremely unlikely to occur.” Id. at xvi
+(J.A. 2127). An “insignificant” effect is one that the agency
+identified but would not “be able to meaningfully measure,
+detect, or evaluate.” Handbook at xvi (J.A. 2127).
+
+     Separately, the ESA’s implementing regulations define the
+“effect” of an agency action as “all consequences to listed
+species or critical habitat that are caused by the proposed
+action.” 50 C.F.R. § 402.02(d). That regulation lists two
+criteria that together identify when a consequence is caused by
+an agency action (and thus counts as an “effect” under the
+ESA): A consequence is a cognizable effect of an agency
+action when (1) the agency action is the “but for” cause of the
+                                34
+consequence; and (2) the consequence is “reasonably certain to
+occur.” Id.
+
+     How to reconcile the apparent tension between the
+definition of “effect” in the regulations (reasonably certain
+effect of which the federal action is a but-for cause) and the
+definition of a “may affect” determination in the Handbook
+(the federal action may pose any effect) is not discussed in
+either source.
+
+                                1.
+
+    The Environmental Petitioners first argue that EPA’s
+determination in its Biological Evaluation that the Set Rule
+“may affect” but is “not likely to adversely affect” endangered
+species or their critical habitats was arbitrary and capricious for
+two reasons. Neither has merit.
+
+     In its Biological Evaluation, EPA determined that the Set
+Rule may affect endangered species or their critical habitats if
+they induce the conversion of critical habitat into farmland to
+grow crops (corn, soybeans, and canola) for renewable fuels,
+which could also impair water quality by increasing fertilizer
+and pesticide runoff into nearby waterways. As part of its
+estimation of the magnitude of the Set Rule’s effects, EPA
+predicted how many acres of land the Rule would cause to be
+newly converted to grow crops for renewable fuels. To make
+that prediction, EPA extrapolated from recent studies
+evaluating the effect of renewable fuel production on the
+conversion of land to farmland. And, to predict where land
+conversion was likely to occur, EPA used data-based models
+that allocate the anticipated increased cropland acreage across
+the United States. By overlaying the predicted locations of
+land conversions onto the habitat ranges of endangered species,
+EPA generated a list of those endangered species that could be
+                              35
+affected by the Set Rule and estimated how much of their
+habitat was at risk of conversion.
+
+     The Environmental Petitioners first claim that EPA set the
+wrong environmental baseline against which to measure the
+effects of the Set Rule on endangered species or their critical
+habitats. They argue that, rather than calculating incremental
+land conversion as EPA did by comparing the effects of the Set
+Rule to a hypothetical circumstance in which the Set Rule did
+not go into effect, EPA should have compared the effects of the
+Set Rule to a hypothetical circumstance in which the entire RFS
+Program, from 2007 onward, never existed. Env’t Pet. Br. 18.
+They defend that baseline by pointing out that “EPA had full
+statutory discretion to set volumes for corn and soy[beans] at
+zero.” Id. In the Environmental Petitioners’ view, using their
+preferred baseline would have forced EPA to reckon with the
+cumulative environmental effects of all previous rules
+promulgated since the RFS Program’s inception for which EPA
+did not comply with its ESA obligations.
+
+     It is true that EPA has generally failed to comply with its
+ESA obligations in previous RFS Program rulemakings. In
+American Fuel & Petrochemical Manufacturers v. EPA, for
+example, we held that EPA’s failure to make an effects
+determination as to the 2018 RFS Rule violated the ESA. 937
+F.3d at 597-98. And in Growth Energy v. EPA, 5 F.4th 1 (D.C.
+Cir. 2021), we held that EPA’s determination that its 2019 RFS
+Rule would have “no effect” on endangered species or their
+critical habitats was arbitrary and capricious. Id. at 32.
+
+    But the fact that the Set Rule represents EPA’s first full
+attempt to comply with its obligations under the ESA does not
+mean the agency must here account for the RFS Program’s
+cumulative effects on endangered species since the program’s
+outset. The Environmental Petitioners identify no authority for
+                               36
+that proposition, and the ESA’s implementing regulations
+foreclose it. The regulations define an “environmental
+baseline” as “the condition of the listed species or its
+designated critical habitat in the action area, without the
+consequences to the listed species or designated critical habitat
+caused by the proposed action.” 50 C.F.R. § 402.02(d)
+(emphasis added). In this case, the proposed agency action is
+the Set Rule establishing volumes for 2023 through 2025. The
+environmental baseline includes “the past and present impacts
+of all Federal . . . actions.” Id. That definition requires EPA to
+include the cumulative impact of previous rules promulgated
+under the RFS Program in its environmental baseline.
+Accordingly, EPA’s use of a baseline that excludes only the
+effects of the Set Rule, and not the full impact of the Program
+since its inception, was reasonable and not contrary to law.
+
+     The Environmental Petitioners next contend that EPA
+failed to analyze any harms to endangered species from
+increased water pollution despite listing it as a potential effect
+of the Set Rule. EPA acknowledged that cropland expansion
+attributable to the Set Rule could result in increased fertilizer
+and pesticide runoff into waterways near expected areas of
+cropland expansion, leading to problems like hypoxia for
+endangered species. But, contrary to the Environmental
+Petitioners’ claims, EPA did analyze those harms, ultimately
+determining that the effects on endangered species were
+discountable (that is, extremely unlikely to occur) or
+insignificant (that is, not measurable). EPA based that
+determination on extrapolation from a 2021 study published by
+Chen et al. (Chen study) that modeled the impact on water
+quality from crop expansion in the Missouri River Basin. That
+study estimated that crop expansion had led to, at most, an
+increase of 0.8% and 2.1% in the amount of nitrogen and
+phosphorous, respectively, in that waterway, representing only
+                               37
+“minor increase[s]” from existing conditions. EPA Biological
+Evaluation at 178, 234 (J.A. 1197, 1253).
+
+     The Environmental Petitioners critique the Chen study for
+not addressing upstream tributaries. But EPA determined that
+study was a “reasonable proxy” for the effects of the Set Rule
+and that it “provides the best information available” on the
+topic; the Environmental Petitioners do not point to any
+alternative source in the record, let alone a better one. EPA
+Biological Evaluation at 175 (J.A. 1194). Because “what
+constitutes the best scientific and commercial data available is
+itself a scientific determination,” it “belongs to the agency’s
+special expertise and warrants substantial deference.” Nat’l
+Fam. Farm Coal. v. EPA, 966 F.3d 893, 925 (9th Cir. 2020)
+(citation and internal quotation marks omitted); see also Shafer
+& Freeman Lakes Env’t Conservation Corp. v. FERC, 992
+F.3d 1071, 1090 (D.C. Cir. 2021) (holding that FWS’s
+judgment in selecting a particular method for calculating the
+effects of agency action “merits the deference traditionally
+given to an agency when reviewing a scientific analysis within
+its area of expertise”) (citation and internal quotation marks
+omitted).
+
+     We thus hold that EPA reasonably considered the effects
+of increased water pollution from the Set Rule on endangered
+species; its determination that the Set Rule is not likely to
+adversely affect endangered species or their critical habitats
+was reasonable and reasonably explained.
+
+                               2.
+
+    The Environmental Petitioners also challenge as arbitrary
+and capricious the National Marine Fisheries Service’s
+concurrence with EPA’s view that the Set Rule is not likely to
+adversely affect endangered species or their critical habitats. In
+its Biological Evaluation, EPA identified 73 ESA-listed
+                                38
+species and 57 designated critical habitats under NMFS
+jurisdiction that the Set Rule may affect through habitat
+conversion and water pollution. Based on the information EPA
+provided, NMFS considered two different scenarios in which
+harm could come to species under its jurisdiction: when a
+species lives (1) near or (2) downstream of a potential crop
+conversion area. NMFS determined that the effects of the Set
+Rule on species in the first scenario were discountable, and that
+in the second scenario they were insignificant. The Service
+therefore concurred with EPA that, while the Set Rule may
+affect endangered species or critical habitat, it was not likely to
+adversely affect them.
+
+     The Environmental Petitioners concede that NMFS’s
+“discountable” determination was reasonable, but contest
+NMFS’s “insignificant” determination as to species or habitat
+downstream of potential crop conversion areas.               That
+determination is arbitrary, they say, because “insignificant”
+means that “no harm will occur to even a single individual of
+that species, not that impacts appear tiny,” and EPA’s own
+Biological Evaluation predicted, for example, hundreds of
+additional acres in corn cultivation and thousands more in
+soybean cultivation in the Chesapeake Atlantic Sturgeon’s
+range. Env’t Pet. Br. 24; EPA Biological Evaluation at 227
+(J.A. 1246). But the Handbook defines an “insignificant”
+effect as one that a person would not “be able to meaningfully
+measure, detect, or evaluate.” Handbook at xvi (J.A. 2127).
+So, while the Environmental Petitioners are correct that an
+effect cannot be insignificant if it harms an endangered species
+or its habitat, the nature and magnitude of the effect matters. A
+harm that cannot be meaningfully detected or measured cannot
+be attributed to an agency action.
+
+    NMFS determined here that the effect of the Set Rule on
+overall water pollutant concentrations was extremely minor,
+                               39
+representing only a slight change from baseline conditions.
+NMFS’s research demonstrated that species’ exposure to
+pollutants like pesticides can vary by over 10% due to intrinsic
+differences in climate and soil conditions and that species’
+mortality rates can vary by more than 5% even if the species
+are not exposed to additional pollutants. NMFS Concurrence
+at 22 (J.A. 2063). In view of those facts, NMFS reasonably
+determined that it could not meaningfully measure or detect the
+projected effects of the Set Rule on species or habitat
+downstream of potential crop conversion areas and that
+accordingly, those effects are insignificant. As NMFS put it,
+an extremely minor increase in pollutant exposure leads to
+minimal increases in exposure and mortality among species,
+and those minimally increased levels remain within the routine
+variability of “the baseline conditions prior to any crop
+conversion.” NMFS Concurrence at 22 (J.A. 2063).
+
+     Finally, the Environmental Petitioners argue that, even if
+NMFS’s determinations as to the effects of the Set Rule on
+endangered species or habitats were reasonable, NMFS erred
+by failing to give the “benefit of the doubt” to the species,
+contradicting what petitioners claim is its longstanding practice
+and policy. Env’t Pet. Br. 26. In support of that claim, they
+quote from the Handbook, which instructs: “If the nature of
+the effects [of the agency action] cannot be determined, benefit
+of the doubt is given to the species. Do not concur in this
+instance.” Handbook at 3-12 (J.A. 2134). The problem with
+that argument is that EPA did determine the nature of the
+effects of the Set Rule: It could lead to habitat conversion and
+increased water pollution that might harm endangered species
+or their critical habitats.      It then further determined,
+consistently with the Handbook, that those effects were either
+discountable or insignificant. Thus, NMFS did not err by
+concurring with EPA on those grounds.
+                               40
+                               3.
+
+     The Environmental Petitioners also challenge the Fish and
+Wildlife Service’s concurrence with EPA as both contrary to
+the ESA and arbitrary and capricious. Unlike NMFS, FWS did
+not concur with EPA by determining the Set Rule’s effects on
+the 685 endangered species and 155 critical habitats under
+FWS jurisdiction to be insignificant or discountable. Instead,
+FWS made a threshold determination that the Set Rule would
+have “no effect” on any endangered species or critical habitat,
+and that it follows “[l]ogically” from such determination “that
+these species or critical habitats are not likely to be adversely
+affected by the action.” FWS Concurrence at 1 & n.2 (J.A.
+2068 & n.2).
+
+     FWS rested its “no effect” determination on the definition
+of the “effect” of an agency action in the ESA implementing
+regulations. FWS reasoned that, because EPA could not
+identify with geographical certainty where any cropland
+conversions triggered by the Set Rule would occur, the Rule
+could not be the but-for cause of any such conversions, making
+them not “reasonably certain to occur.” 50 C.F.R. § 402.02.
+Accordingly, FWS determined that the Set Rule would have
+“no effect” on any endangered species or critical habitat under
+50 C.F.R. § 402.02 and thus would not likely adversely affect
+those species or habitats.
+
+     The Environmental Petitioners argue that FWS’s approach
+is contrary to the ESA because it relies on the definition of
+“effect” in the ESA’s implementing regulations in a way that is
+not reflected in—and indeed conflicts with—the relevant
+Handbook passage, which FWS and NMFS jointly developed
+and have treated as authoritative for more than 50 years. EPA
+identified hundreds of species under FWS jurisdiction that it
+concluded the Rule “may affect.” In the Environmental
+                                41
+Petitioners’ view, FWS then failed to use scientific techniques
+to assess the potential effects on those species, instead resorting
+to a novel, acontextual reading of a regulatory definition that
+conflicts with EPA and NMFS’s determinations.
+
+     For its part, EPA contends that FWS’s concurrence was a
+reasonable application of ESA’s implementing regulations and
+is supported by the Handbook because FWS has the final
+responsibility, as the concurring service, to determine the
+“effects of the action.” EPA Br. 130. And, EPA claims, it is
+of no import that NMFS and FWS rested their concurrences on
+different rationales because “neither the ESA, its regulations,
+nor the Handbook mandate[s] a uniform methodology for
+making no-effect/may-effect determinations.” EPA Br. 131-
+32.
+
+     Faced with those disparate approaches, neither party
+provides a cohesive framework for understanding the
+relationship between the ESA’s implementing regulations and
+the Handbook’s guidance. The Environmental Petitioners
+ignore the plain text of 50 C.F.R. § 402.02, which defines the
+“effect” of an agency action. If there is no effect of an agency
+action because, for example, it is not “reasonably certain” that
+a consequence of the action will occur, it is hard to see how an
+agency action “may affect” an endangered species or critical
+habitat. Handbook at xvi (J.A. 2127). EPA, on the other hand,
+ignores the tensions between the Handbook and the ESA’s
+implementing regulations. For example, if a consequence must
+be “reasonably certain to occur” to constitute an “effect” of an
+agency action, 50 C.F.R. § 402.02, how can an action’s effects
+ever be identifiable because they “may affect” species, yet be
+“discountable,” which the Handbook defines as one that is
+“extremely unlikely to occur”? Handbook at xvi (J.A. 2127).
+And it is difficult to see how FWS can be right that the Rule
+had “no effect” at all if EPA and NMFS correctly determined
+                               42
+that there were identifiable effects of the Set Rule—albeit
+effects that were “insignificant” or “discountable.”
+
+     We need not resolve the parties’ conflicting legal positions
+because the inadequacy of FWS’s record and reasoning alone
+makes clear that FWS’s concurrence was arbitrary and
+capricious. Specifically, FWS’s concurrence failed to engage
+with EPA’s resolution of the problem of geographical
+uncertainty using forecasting models. FWS based its “no
+effects” determination chiefly on the lack of geographical
+certainty as to where cropland conversions would occur. That
+information is inevitably somewhat uncertain because EPA
+cannot control where or whether farmers will convert land to
+cropland to meet the increased supply for renewable fuels
+induced by the Set Rule. But in its Biological Evaluation, EPA
+acknowledged the geographical uncertainty and addressed it
+using forecasting models to predict the locations where
+cropland conversion is most likely to occur. For new acres of
+corn and canola, EPA employed a “probabilistic approach” to
+select plots projected for conversion from land EPA identified
+as the most likely to be converted to cropland based on
+historical land use conversions. EPA Biological Evaluation at
+133-34, 166 (J.A. 1152-53, 1185). Repeating that process
+many times, EPA generated a list of locations most likely to be
+converted under the Set Rule to cropland to grow corn and
+canola. And for new acres of soybeans, EPA developed a
+model that ranked acres of land in the United States by their
+suitability for soybean farming based on several factors,
+including the land’s ability to grow soybeans, proximity to
+existing soybean fields, and historic soybean cultivation rates.
+EPA then used that model to predict where conversion of land
+to soybean cultivation is most likely to occur.
+
+   FWS’s concurrence acknowledged the existence of those
+models, yet did not explain why they were flawed or
+                              43
+inadequate to support an aggregate estimate of the geographical
+impact of the Set Rule. FWS simply dismissed their results as
+uncertain. But certainty is not required. FWS simply ignored
+what were, in EPA’s view, the “best estimates using the
+available data” to resolve inherent uncertainty regarding the
+geographical effects of the RFS Program. EPA Biological
+Evaluation at 231 (J.A. 1250); Exchange Between EPA and
+NMFS at 4 (J.A. 1278). Because FWS failed to engage with
+the results of those models or, in the alternative, identify why
+they did not constitute the best available science and data, it
+“entirely failed to consider an important aspect of the
+problem.” Motor Vehicle Mfrs. Ass’n, 463 U.S. at 43.
+Accordingly, we hold that FWS’s concurrence with EPA’s
+bottom line based on FWS’s determination that the Set Rule
+will have “no effect” on endangered species or their critical
+habitats was arbitrary and capricious.
+
+                            * * *
+
+     In sum, we grant the petition as to two of the
+Environmental Petitioners’ challenges: The CAA challenge to
+EPA’s climate change analysis and the ESA challenge to
+FWS’s concurrence with EPA’s Biological Evaluation. As to
+those two challenges, the Environmental Petitioners are correct
+that EPA and FWS, respectively, failed to adequately explain
+the basis for their decisions. We deny the petition in all other
+respects.
+
+                         C. Remedy
+
+     With respect to remedy, the ordinary response to a
+violation is to vacate the unlawful agency action. See 5 U.S.C.
+§ 706(2). And the Environmental Petitioners request vacatur
+of the Set Rule’s volumes of corn-based ethanol and soybean
+oil-based renewable fuels. But in some cases, instead of
+vacating the action we remand for the agency to correct its
+                               44
+errors. See Allied-Signal, Inc. v. U.S. Nuclear Regul. Comm’n,
+988 F.2d 146, 150-51 (D.C. Cir. 1993). The appropriateness of
+the remand-without-vacatur remedy turns on two factors: “(1)
+the seriousness of the deficiencies of the action, that is, how
+likely it is the agency will be able to justify its decision on
+remand; and (2) the disruptive consequences of vacatur.”
+United Steel v. Mine Safety & Health Admin., 925 F.3d 1279,
+1287 (D.C. Cir. 2019) (citation and internal quotation marks
+omitted).
+
+     Here, both factors support remanding without vacatur to
+give the agencies an opportunity to correct their errors. As for
+the likelihood of justifying their decisions on remand, EPA and
+FWS each erred by inadequately explaining the connection
+between the result it reached and the record underlying its
+decision. The CAA provides EPA with significant discretion
+as to how it structures its analysis of the effect of the Set Rule
+on climate change. The agency may well be able to justify its
+chosen volumes so long as it adequately explains why the older
+2010 study, rather than the updated literature review, remains
+the best source of data for estimating crop-based renewable
+fuels’ long-term effects on GHG emissions. Similarly, FWS
+may be able to better explain its reasoning for concurring with
+EPA’s determination that the Set Rule is not likely to adversely
+affect endangered species or their critical habitats. Both FWS
+and NMFS received the same set of data and analyses from
+EPA, and NMFS was able to adequately explain its decision.
+Moreover, vacatur would be highly disruptive to all
+stakeholders in the RFS Program as the compliance deadlines
+for 2023 and 2024 have already passed.
+
+    Accordingly, we remand to EPA and FWS without
+vacating the Set Rule’s volumes for further explanation of their
+decisions.
+                              45
+                   II. Refiner Petitioners
+
+     The Refiner Petitioners challenge several aspects of the
+volumes established in the Set Rule. First, they claim EPA’s
+2023 and 2024 volume requirements were impermissibly late
+and the 2023 Supplemental Standard was not authorized by
+statute. Second, they assail the process EPA used to set all the
+volumes as contrary to the CAA or alternatively, arbitrary and
+capricious. Third, they attack the volumes established in the
+Set Rule for specific categories of renewable fuels. Fourth,
+they dispute EPA’s reliance on the economic theory that the
+cost to obligated parties of complying with the Set Rule’s
+volume mandates is passed through to consumers, also known
+as the “RIN-passthrough theory.” We address each of those
+challenges in turn, concluding they either lack merit or were
+not properly preserved.
+
+           A. Late and Supplemental Standards
+
+    We begin with legal claims that the 2023 and 2024 volume
+requirements were impermissibly late and that the 2023
+Supplemental Standard was not authorized by statute. As
+explained below, our precedent forecloses both contentions.
+
+                               1.
+
+    Refiner Petitioners ask us to set aside the 2023 and 2024
+volume requirements because EPA missed the statutory
+deadlines for promulgating them. In years without a statutory
+volume requirement, the CAA requires EPA to promulgate
+volume requirements “no later than 14 months before the first
+year for which such applicable volume will apply.” 42 U.S.C.
+§ 7545(o)(2)(B)(ii). That means EPA was required to
+promulgate 2023 requirements by the end of October 2021 and
+2024 requirements by the end of October 2022. But EPA did
+not promulgate volume requirements for either year until July
+                               46
+2023. See 88 Fed. Reg. at 44,468. Requirements for both years
+thus were tardy, and the 2023 requirements, promulgated
+midway through that compliance year, also were partially
+retroactive. Refiner Petitioners contend that we should
+therefore vacate the requirements for both years and instruct
+EPA to set new requirements no higher than the 2022
+requirements. We disagree.
+
+     We repeatedly have held that EPA may promulgate late,
+and even retroactive, volume requirements so long as it
+“reasonably considers and mitigates any hardship caused to
+obligated parties by reason of the lateness.” Sinclair Wyo. I,
+101 F.4th at 887 (citation omitted). For example, in National
+Petrochemical & Refiners Association v. EPA, 630 F.3d 145
+(D.C. Cir. 2010), we rejected a challenge to late and partially
+retroactive volume requirements because EPA reasonably
+considered whether obligated parties had adequate lead time
+and access to a sufficient number of RINs to comply with the
+delayed requirements. See id. at 165; see also Sinclair Wyo. I,
+101 F.4th at 887 (applying National Petrochemical); Monroe
+Energy, LLC v. EPA, 750 F.3d 909, 920 (D.C. Cir. 2014)
+(same).
+
+     EPA reasonably considered the requisite factors here. It
+explained that the market would produce enough renewable
+fuel to enable obligated parties to satisfy the requirements. See
+88 Fed. Reg. at 44,478. It also explained that obligated parties
+would have at least nine months to bring themselves into
+compliance with the 2023 requirements, and at least 22 months
+to bring themselves into compliance with the 2024
+requirements. Id. at 44,479. And EPA noted that any
+remaining hardship would be minimal because, if an obligated
+party could not acquire sufficient RINs within those times, it
+could still achieve compliance by using carryover RINs or
+carrying forward RIN deficits. Id.
+                               47
+     Refiner Petitioners make two objections. First, they
+contend that our precedents approving late volume
+requirements are inapposite because they involved
+requirements derived from statutory volume tables whereas the
+volumes here were set by rule. ACE squarely forecloses that
+argument. There, we held that the principles established in
+National Petrochemical and Monroe Energy govern regardless
+of whether the tardy volume requirements were derived from
+the statutory tables or imposed in the first instance by EPA. See
+864 F.3d at 721. Second, Refiner Petitioners contend that EPA
+did not give enough lead time for the renewable-fuel industry
+to increase production in response to the higher volume
+requirements. In other words, the industry is unlikely to
+produce enough fuel to enable obligated parties to achieve
+compliance. But EPA set volume requirements within the
+range that it found the renewable-fuel industry could produce.
+Moreover, when EPA promulgated the requirements, it noted
+that “RIN generation data from the first quarter of 2023
+suggest[ed] the market [was] on track to supply the volumes [it
+was] finalizing for 2023.” 88 Fed. Reg. at 44,478. In light of
+that factual finding—which Refiner Petitioners do not
+contest—EPA reasonably concluded that the RIN supply
+would be adequate.
+
+                               2.
+
+     Refiner Petitioners also challenge the 250-million-gallon
+2023 Supplemental Standard. EPA imposed that standard in
+response to ACE, which vacated EPA’s decision to reduce the
+2016 statutory renewable-fuel requirement by 500 million
+gallons. See ACE, 864 F.3d at 713. To remedy the underlying
+legal error, EPA added 250 million gallons to both the 2022
+and 2023 volume requirements. See Sinclair Wyo. I, 101 F.4th
+at 893. We upheld the 2022 Supplemental Standard in Sinclair
+Wyoming I as a valid exercise of EPA’s authority under 42
+                               48
+U.S.C. § 7545(o)(3)(B)(i) to “ensure” that applicable volumes
+are “met.” See id. at 893-96. Because Refiner Petitioners
+identify no meaningful difference between the 2022 and 2023
+Supplemental Standards, we are bound to reject this challenge.
+
+                       B. All Volumes
+
+      The Refiner Petitioners argue that the process EPA used to
+set all volumes in the Set Rule was contrary to the statute and
+arbitrary and capricious for two reasons. First, they claim EPA
+exceeded the bounds of the CAA by relying on a policy of
+continuously increasing volumes that Congress did not intend
+it to consider. Second, like the Environmental Petitioners, they
+contend that EPA’s weighing of the statutory factors was
+arbitrary and capricious—with the Refiner Petitioners arguing
+that the monetized costs of the Set Rule are unjustifiably
+greater than its monetized benefits. Neither claim succeeds.
+
+                               1.
+
+     The Refiner Petitioners argue that EPA “prioritized its
+own policy over Congress’s text,” relying on an “extra-
+statutory . . . policy of ever-increasing volumes of renewable
+fuel” that misreads Congress’s intent. Refiner Pet. Br. 12-13,
+14-15. For support, the Refiner Petitioners point to the
+statutory mandate that EPA set volumes based on “a review of
+the implementation of the [RFS Program]” in prior years
+together with its analysis of the six factors Congress specified.
+42 U.S.C. § 7545(o)(2)(B)(ii). The Refiners stress that,
+because some of those factors may weigh against higher
+renewable fuel volumes, the volumes that EPA set can only be
+explained as the result of a tacit EPA policy of ever-increasing
+volumes.
+
+     The Refiner Petitioners also point to three fuel-specific
+statutory guardrails as indicia that Congress did not intend EPA
+                               49
+to require ever-greater renewable fuel volumes: Congress set
+a floor for biomass-based diesel volumes at one billion gallons
+but gave no “direction that biomass-based diesel should
+increase aspirationally year-over-year.” Refiner Pet. Br. 14. It
+required advanced biofuel to make up at least as high a
+percentage of total renewable fuel as it did in 2022, thereby
+effectively limiting the implied conventional renewable fuel
+volume by linking it to the volume of less readily available
+advanced biofuel. And Congress required EPA to set the
+cellulosic biofuel volume at a level that would not require it to
+issue a waiver reducing those volumes in the future, thereby
+limiting the volumes to what is reliably attainable. See id. at
+13-14 (citing 42 U.S.C. § 7545(o)(2)(B)(iii)-(v)).          The
+implication of those guardrails, according to the Refiner
+Petitioners, is that EPA should have set lower volumes for
+renewable fuels.
+
+     Refiner Petitioners catalog statutory indicia that Congress
+did not intend EPA to employ a policy of setting ever-
+increasing RFS volumes, but they fail to establish that EPA
+used any such policy in setting the volumes that it did. They
+do not, for example, contend that EPA exceeded any of the
+guardrails they identify. The bare fact that the volumes
+established in the Set Rule increase each year from 2023 to
+2025 does not show that EPA followed a tacit policy of
+continuous expansion contrary to the statute as written.
+
+     Refiner Petitioners also point to EPA’s statement in the
+Final Rule that “[t]he volumes that [it] is finalizing continue to
+support ongoing growth in renewable fuels, recognizing their
+benefits, and based on EPA’s consideration of the multiple
+factors identified in the statute.” 88 Fed. Reg. at 44,473. This,
+they suggest, shows EPA’s impermissible adherence to an
+extra-statutory goal to increase volumes each year from 2023
+to 2025. But nothing about that statement suggests action
+                               50
+inconsistent with the terms of the statute as Refiner Petitioners
+themselves read it. We therefore reject the Refiner Petitioners’
+contention that EPA violated the Act by relying on any extra-
+statutory factor of ever-increasing growth of the requisite
+volumes of renewable fuels.
+
+                               2.
+
+     Like the Environmental Petitioners, the Refiner Petitioners
+also argue that EPA’s weighing of the statutory factors was
+arbitrary and capricious because it failed to account for the
+large disparity between the benefits and costs of the Set Rule.
+Specifically, they point to the Rule’s monetized cost in
+increased fuel prices, which was estimated at $23.8 billion
+from 2023 to 2025, while the monetized benefit of improved
+energy security was estimated at $513 million. By not
+addressing that disparity when it set the challenged volumes,
+they argue, EPA failed to consider an important aspect of the
+problem, rendering its volumes arbitrary and capricious.
+
+     But the Refiner Petitioners’ argument fails for the same
+reason as the Environmental Petitioners’. As explained in
+Section I.A.1, the CAA does not require EPA to conduct a cost-
+benefit analysis to set volumes. And nothing in our precedent
+supports a freestanding requirement that, in setting volumes,
+EPA must balance the quantified costs and benefits of each
+volume it sets, let alone that the quantified benefits of the
+volume must outweigh the quantified costs. Instead, the statute
+affords EPA discretion in assessing the statutory factors. EPA
+explained how it weighed the statutory factors in setting the
+volumes it did, and its decision to set those volumes was not
+arbitrary and capricious simply because the estimated
+quantified costs of the Rule were greater than the quantified
+benefits. We therefore deny the Refiner Petitioners’ various
+                              51
+challenges to the process EPA used to set all volumes in the Set
+Rule.
+
+            C. Conventional Renewable Fuels
+
+     Next up is Refiner Petitioners’ contention that EPA
+arbitrarily set unattainable implied volume requirements for
+conventional renewable fuel, as primarily met by corn ethanol.
+EPA set those volumes at 15 billion gallons per year even
+though its candidate volume projections ranged from about
+13.8 billion to 14 billion gallons per year. See 88 Fed. Reg. at
+44,517. In doing so, EPA recognized that ethanol production
+was unlikely to reach 15 billion gallons in any year through
+2025. Id. But it noted that “[t]he implied volume requirement
+for conventional renewable fuel can also be satisfied by non-
+ethanol advanced biofuel, such as conventional biodiesel and
+renewable diesel or advanced biodiesel and renewable diesel
+beyond what is required by the advanced biofuel volume
+requirement.” Id. And it reduced the non-cellulosic advanced
+biofuel requirement by an amount sufficient to offset the
+projected ethanol shortfall. See id. at 44,516. In sum, EPA
+shifted slightly more than one billion gallons per year from the
+implied non-cellulosic advanced biofuel volume to the implied
+conventional volume.
+
+     EPA made this decision in an effort to incentivize a push
+beyond the E10 blendwall. See id. at 44,517. By shifting
+volumes from the advanced biofuel requirement to the
+conventional requirement, EPA permitted obligated parties to
+satisfy that volume with either type of fuel. In doing so, EPA
+promised rewards for market actors who find ways to enable
+increased ethanol consumption—for example, by producing
+more motor vehicles that can use fuel with higher
+concentrations of ethanol. But EPA declined to mandate
+increased ethanol consumption, which would have strained
+                               52
+obligated parties’ ability to comply with their RFS obligations.
+These choices were reasonable and reasonably explained.
+
+     Refiner Petitioners primarily object that EPA’s shifting of
+volumes will increase RIN prices for ethanol. Perhaps so. But
+the shift also reduced advanced biofuel volumes by
+corresponding amounts, so one might expect an offsetting
+decrease in RIN prices for that category. According to Refiner
+Petitioners, the offsetting reduction merely indicates that EPA
+arbitrarily set the advanced biofuel requirement too low. That
+objection is difficult to understand, for the shift allows Refiner
+Petitioners more compliance flexibility: If increased ethanol
+consumption proves impossible, Refiner Petitioners may
+achieve compliance by acquiring more RINs for advanced
+biofuel, which also count toward the total renewable fuel
+requirement, as would have been required absent the volume
+shift away from that category. And in any event, if the volume
+shift does engender an increase in ethanol RIN prices, that is
+not problematic standing alone. As we have explained,
+“increases in RIN prices are a completely understandable
+effect” of any regulatory “pressure to expand renewable
+volumes.” Alon Refin., 936 F.3d at 652.
+
+     Refiner Petitioners’ other objections fare no better. They
+contend that EPA lacks statutory authority to tailor volume
+requirements in order to incentivize ethanol use. But ethanol
+is a kind of renewable fuel that the CAA seeks to incentivize,
+and EPA justified its decision by reference to the factors that
+the statute requires it to consider. See 88 Fed. Reg. at 44,517.
+Further, Refiner Petitioners suggest that EPA’s decision will
+not impact the overall consumption of renewable fuel. That is
+true but irrelevant. As detailed above, EPA reasonably
+explained its decision to shift volume from a narrower category
+to a broader one.
+                               53
+                   D. Cellulosic Biofuels
+
+     Refiner Petitioners also challenge the cellulosic biofuel
+volume requirements, which were keyed to the amount of that
+fuel EPA thought would be produced in the relevant years. See
+id. at 44,482-83. In the notice of proposed rulemaking, EPA
+projected a 13.1 percent annual growth rate in the production
+of cellulosic biofuel over 2022 levels. See id. at 44,482. In the
+Final Rule, it revised that rate upward to 25 percent. See id.
+
+     Refiner Petitioners object that this projected growth rate
+was arbitrarily high. That is wrong. EPA based its initial
+projection on increased production in 2021 and 2022. After
+receiving comments, EPA concluded that the COVID
+pandemic had temporarily depressed growth over that time, so
+EPA expanded its sample size to consider production growth
+rates from 2015 through 2022. EPA reasoned that doing so
+would mitigate the effect of COVID-related distortions and so
+would more accurately reflect projected growth in the
+cellulosic biofuel industry through 2025. See id. at 44,483.
+Refiner Petitioners object that growth rates in the production of
+cellulosic biofuel were trending downward before the onset of
+COVID. See Response to Comments (RTC) at 30 (J.A. 1789).
+Nonetheless, it appears that year-over-year growth remained
+around 25 percent in April 2020, and EPA reasonably
+concluded that the pandemic brought additional headwinds.
+Under these circumstances, EPA reasonably based its projected
+growth rate on increases observed over a longer period.
+
+             E. RIN Cost-Passthrough Theory
+
+     Refiner Petitioners object to EPA’s invocation of the “RIN
+cost-passthrough theory,” which assumes that “obligated
+parties pass through their RIN costs to consumers and that fuel
+blenders reflect the RIN value of the renewable fuels in the
+price of the blended fuels they sell.” See 88 Fed. Reg. at
+                              54
+44,505. As Refiner Petitioners note, we have recognized that
+this theory does not always hold true, and hardship exemptions
+might be required in instances where it does not. See Sinclair
+Wyo. Refin. Co. v. EPA (Sinclair Wyo. II), 114 F.4th 693, 712-
+14 (D.C. Cir. 2024). Yet we have also acknowledged that its
+central premise—refineries are able to pass RIN costs along to
+consumers—is generally true. See id. at 714 (RIN costs
+“generally are passed through from [obligated parties] to their
+customers” (emphasis in original) (citing Alon Refin., 936 F.3d
+at 649)). Here, EPA reasonably invoked that generally true
+premise in setting generally applicable volume requirements.
+
+     EPA also invoked the RIN cost-passthrough theory in
+considering its obligations under the Regulatory Flexibility Act
+(RFA). That statute generally requires agencies to prepare a
+regulatory flexibility analysis for any rule subject to notice-
+and-comment rulemaking procedures. See 5 U.S.C. § 604(a).
+An agency need not do so, however, if it certifies that the rule
+will not have a significant economic impact on a substantial
+number of small entities. See id. § 605(b). EPA made such a
+certification based on a determination that small refineries
+would pass on their RIN costs to consumers. See 88 Fed. Reg.
+at 44,552. Refiner Petitioners contend this was arbitrary
+because, even if obligated parties generally pass RIN costs
+along to consumers, small refineries often may be unable to do
+so. Refiner Petitioners again invoke Sinclair Wyoming II,
+which held that EPA had arbitrarily relied on the passthrough
+theory to deny hardship exemptions to two small refineries.
+See 114 F.4th at 714. In particular, we criticized EPA for
+applying the theory without showing that every small refiner
+could immediately pass on RIN costs to its customers. See id.
+
+     That argument was not preserved before EPA in the
+rulemaking at issue here. The CAA generally forecloses
+judicial review of objections that were not “raised with
+                               55
+reasonable specificity during the period for public comment,”
+42 U.S.C. § 7607(d)(7)(B), and no commenter raised the RFA
+during that period. The Refiner Petitioners respond that they
+did raise the factual predicate for their RFA claim—namely that
+obligated parties do not in fact pass all of their RIN costs onto
+consumers. But they did so only in the context of a challenge
+to the volume requirements themselves. And as we have
+explained, assessing whether the general rule was arbitrary
+may be a far different inquiry from assessing an RFA claim,
+which is keyed to the specific impact of the rule on small
+businesses. Because no party put EPA “on notice” of an RFA
+challenge, the CAA now bars that claim. Appalachian Power
+Co. v. EPA, 135 F.3d 791, 818 (D.C. Cir. 1998).
+
+                             * * *
+
+    We therefore deny the Refiner Petitioners’ petition in all
+respects.
+
+                          III. Neste
+
+     Neste challenges the Set Rule’s recordkeeping and RIN
+generation provisions, arguing that they are arbitrary and
+capricious. According to Neste, the recordkeeping provisions
+improperly impose new location, amount, and certification
+requirements on renewable fuel producers. In Neste’s view,
+EPA neither adequately justified these changes nor reasonably
+responded to objections. Separately, Neste asserts that EPA
+failed to justify revisions to its RIN generation requirements.
+We address each challenge in turn.
+
+               A. Recordkeeping Provisions
+
+    Neste is a foreign producer of renewable fuel that
+generates RINs under the RFS program. Section 211 of the
+                                56
+CAA mandates that qualifying renewable fuel must be
+produced from renewable biomass.             See 42 U.S.C.
+§ 7545(o)(1)(J). To ensure compliance, RFS regulations
+require that “any RIN-generating foreign producer of a
+renewable fuel . . . must keep records of feedstock purchases
+and transfers associated with renewable fuel for which RINs
+are generated, sufficient to verify that feedstocks used are
+renewable biomass.” 40 C.F.R. § 80.1454(c).
+
+     Certain feedstocks, such as separated food waste, are
+subject to additional requirements to confirm compliance. Id.
+§ 80.1454(j).        Producers must maintain documents
+demonstrating the “amounts, by weight, purchased” from
+separated waste sources, id. § 80.1454(j)(1)(i), and the
+“location of any establishment(s) from which the waste stream
+consisting solely of . . . separated food waste . . . is collected,”
+id. § 80.1454(j)(1)(ii). Initially, producers were required to
+submit a plan at registration documenting feedstock types,
+collection methods, verification measures, and, where
+applicable, how the cellulosic and non-cellulosic portions of
+waste would be quantified. See id. § 80.1450(b)(1)(vii)(B)
+(cleaned up).
+
+     Because producers were required to update their
+information each time their feedstock suppliers changed, in
+2016, EPA proposed removing the registration requirement
+while maintaining the requirement that producers comply with
+general recordkeeping obligations under 40 C.F.R. § 80.1454.
+See Renewables Enhancement and Growth Support Rule, 81
+Fed. Reg 80,828, 80,902-03 (Nov. 16, 2016). Producers still
+“must have documents from their feedstock supplier certifying
+that the feedstock qualifies as renewable biomass, describing
+the feedstock and identifying the process that was used to
+generate the feedstock.” 40 C.F.R. § 80.1454(c)(1)(iii). In
+2020, EPA finalized the removal of the registration
+                               57
+requirement and promulgated a provision at 40 C.F.R.
+§ 80.1454(j)(1)(ii) to emphasize that the general requirement
+remained. See RFS Program: Standards for 2020 and Biomass-
+Based Diesel Volume for 2021 and Other Changes, 85 Fed.
+Reg. 7,016, 7,062 & n.230 (Feb. 6, 2020).
+
+      EPA’s 2020 rule clarified that the term “location” in
+subsection (j) refers to “the physical address that the aggregator
+obtained the waste used as feedstocks from, not the physical or
+company address of the aggregator.” See id. at 7,062
+(clarifying the meaning of “location” in recognition that “many
+renewable fuel producers receive wastes used as feedstocks
+from an aggregator”). The Set Rule maintained those
+recordkeeping requirements without modification. See 88 Fed.
+Reg. at 44,547-48. EPA further clarified that self-declarations
+are not permitted under subsections 80.1454(d) and (j) due to
+the difficulty of auditing records that often originate from
+parties outside EPA’s direct regulation, including those that
+originate outside the United States. See RTC at 367 (J.A.
+1904).     To allay producer concerns about requesting
+confidential business information from aggregators, EPA
+added a compliance option based on independent auditors’
+verification of records held by the feedstock aggregator. See
+88 Fed. Reg. at 44,548.
+
+                               1.
+
+    We deny Neste’s challenge as to the Set Rule’s location-
+recordkeeping requirement because that provision comports
+with RFS regulations without capricious deviation. Neste
+argues that the requirement imposes a new burden inconsistent
+with prior guidance. In its view, prior to the Set Rule,
+producers were permitted to comply by reporting the physical
+address of an aggregator rather than of the original source.
+Neste points to EPA’s 2015 guidance, which it insists allowed
+                               58
+producers to rely on aggregator addresses and regional
+information, as evidence of a significant policy shift. RFS
+Registration Presentation at 3-4 (J.A. 2153-54). But this
+argument overlooks the plain language of the regulation, the
+statutory framework, and the broader purpose of the RFS
+Program.
+
+     EPA reasonably justifies requiring records that ensure
+feedstock can be traced back to its origins, rather than only to
+aggregators that receive feedstock from those original sources.
+First, the statute requires documentation of “the location of any
+establishment(s) from which the waste stream consisting solely
+of separated yard waste, separated food waste, or biogenic
+waste oils/fats/greases is collected,” expressly focusing on
+recording the place where the feedstock originated. The point
+of the recordkeeping is to ensure traceability to confirm that
+feedstocks meet the statutory definition of renewable biomass.
+40 C.F.R. § 80.1454(j)(1)(ii). Tellingly, the 2020 clarification
+frames “location” as the source from which “the aggregator
+obtained the waste used as feedstocks,” distinguishing it from
+“the physical or company address of the aggregator.” 85 Fed.
+Reg. at 7,062 (emphasis added). That reading of the regulation
+is further reinforced by a related provision, which requires all
+domestic producers to “keep documents . . . that identify where
+the feedstocks were produced and are sufficient to verify that
+feedstocks used are renewable biomass.” 40 C.F.R.
+§ 80.1454(d)(1).
+
+    Second, Neste fails to account for the regulatory history.
+Recordkeeping provisions have consistently required
+producers to document the origin of feedstocks. Compare 40
+C.F.R. § 80.1454(c)(1), (d)(1) with (j)(1)(ii). The 2015
+guidance Neste cites concerns only the RFS Program’s now-
+revoked registration requirements and has no bearing on the
+recordkeeping obligations that remain in place. The 2015
+                              59
+guidance does not transform the Set Rule’s discussion of the
+requirement to record source location into a new or
+unexplained deviation from the existing recordkeeping
+framework. See El Puente v. U.S. Army Corps of Eng’rs, 100
+F.4th 236, 256 (D.C. Cir. 2024). To the contrary, there is no
+deviation. Neste has not pointed to any pre-2020 EPA rule or
+guidance that interprets the relevant recordkeeping provisions
+in a way that diverges from EPA’s current understanding.
+
+     Finally, the purpose of the location recordkeeping
+requirement further underscores its validity.         Accurate
+documentation of original source locations ensures that
+feedstocks qualify as renewable biomass. 40 C.F.R. §
+80.1454(c)(1).      Traceability prevents fraud, enhances
+accountability, and ensures renewable fuel achieves its
+intended environmental benefits. RTC at 365 (J.A. 1902). By
+requiring source documentation and prohibiting self-
+declarations, the Set Rule strengthens compliance, deters fraud,
+and promotes transparency. EPA reasonably explained that “it
+is not possible to verify self-declarations without additional
+documentation.” RTC at 367 (J.A. 1904). These measures
+implement Congress’s directive to prevent fraudulent RIN
+generation and ensure that renewable fuel meets rigorous
+environmental standards. See RTC at 365 (J.A. 1902).
+
+                               2.
+
+    We also deny Neste’s challenges to the Set Rule’s
+requirement to document waste amounts. Neste argues that the
+Set Rule’s amount-recordkeeping provision imposes new
+burdens by requiring detailed tracking of amounts at individual
+sources. In its view, EPA’s prior practices and guidance
+permitted producers to rely on aggregate amount data rather
+than records for each specific source. Neste contends that the
+Set Rule effects a significant policy shift and imposes
+                                60
+impractical obligations on renewable fuel producers. These
+arguments are unpersuasive.
+
+     First, the unchallenged regulatory text plainly requires
+documentation of the “amounts, by weight, purchased” from
+waste sources. 40 C.F.R. § 80.1454(j)(1)(i). And such
+specificity is critical to verifying that the feedstocks qualify as
+renewable biomass. As EPA explained in its Response to
+Comments, the requirement ensures transparency and prevents
+the generation of fraudulent RINs. See RTC at 365 (J.A. 1902).
+EPA did not make substantive changes to the amount
+requirement in the Set Rule; Neste offers no evidence that EPA
+has ever interpreted this regulation differently than it does now.
+Its assertion that EPA has shifted policy is therefore
+unsubstantiated. See El Puente, 100 F.4th at 256.
+
+     Second, EPA provided a reasonable explanation for
+maintaining the amount-recordkeeping requirement. EPA
+clarified that, while the now-revoked registration provision
+only required enough information for EPA to determine it was
+possible for producers to obtain qualifying feedstocks, more
+detail is required if the recordkeeping requirements are to
+provide means to verify that the quantities of feedstocks used
+to produce renewable fuel are, in fact, in compliance with the
+statute. See RTC at 374-75 (J.A. 1911-12). While Neste
+argues that requiring records of feedstock amounts from each
+original source significantly burdens producers that rely on
+confidential information from aggregators to supply separated
+waste, Neste Comment at 12 (J.A. 552), any such burden is
+mitigated by the alternative recordkeeping pathway. See
+generally 40 C.F.R. § 80.1479; 88 Fed. Reg. at 44,548.
+
+     Under that alternative compliance option, aggregators can
+maintain detailed amount records on behalf of producers,
+alleviating concerns about operational inefficiencies or the
+                               61
+confidentiality of aggregators’ sources.             40 C.F.R.
+§ 80.1479(e); see Spirit Airlines, Inc. v. Dep’t of Transp., 997
+F.3d 1247, 1255 (D.C. Cir. 2021) (citing Chamber of Com. v.
+SEC, 412 F.3d 133, 145 (D.C. Cir. 2005) (“Where a party raises
+facially reasonable alternatives, the agency must either
+consider those alternatives or give some reason for declining to
+do so.”) (cleaned up)). EPA reasonably considered industry
+feedback in developing this pathway, which balances
+compliance oversight with practical flexibility. See RTC at
+359-78 (J.A. 1896-1915); see also Fox Television Stations, 556
+U.S. at 515; Motor Vehicle Mfrs. Ass’n, 463 U.S. at 43.
+
+    Accordingly, we reject Neste’s challenges to the amount
+requirement.
+
+                               3.
+
+     Neste also claims that the Set Rule arbitrarily eliminated
+the use of self-certification by aggregators. We conclude that
+EPA never issued authoritative guidance suggesting that
+aggregators could satisfy all RFS recordkeeping requirements
+merely with self-certification.        To comply with the
+recordkeeping       requirements,    RIN-generating      foreign
+renewable fuel producers and importers must secure
+certification from originating feedstock suppliers verifying that
+their feedstocks qualify as renewable biomass.              Such
+certification has always been required of importers and foreign
+producers that generate RINs.                 See 40 C.F.R
+§ 80.1454(c)(1)(iii).     They must also “keep records of
+feedstock purchases and transfers . . . sufficient to verify that
+feedstocks used are renewable biomass.” Id. § 80.1454(c)(1).
+
+     In the Set Rule, EPA merely reaffirmed that aggregators’
+self-certifications cannot meet these requirements because they
+lack independent verifiability. In this regard, RFS regulations
+have always stated that regulated entities must provide “such
+                                62
+other records as may be requested by EPA.” 40 C.F.R.
+80.1454(j)(1)(iii); see EPA Br. 98. EPA identified significant
+fraud risks that may lead to an increase in misrepresented
+feedstock compliance. RTC at 370 (J.A. 1907). Because
+aggregators may assume recordkeeping responsibilities,
+provided they register and submit to EPA oversight under
+Section 80.1479, EPA’s approach reasonably balances the RFS
+program’s integrity with flexibility for industry participants.
+
+    We therefore reject Neste’s challenge to the certification
+requirement.
+
+                B. RIN Generation Provision
+
+     We further deny Neste’s challenges to the Set Rule’s
+restriction on generating RINs for fuel not ultimately used in
+the United States. Neste contends that this restriction
+constitutes an arbitrary and capricious policy shift and imposes
+retroactive burdens on producers. We are unpersuaded.
+
+     In the Set Rule, EPA reinforced that: (1) RINs may not be
+generated for renewable fuel that is not produced for use in the
+United States, 40 C.F.R. § 80.1426(c)(2); and (2) RINs
+corresponding to fuel that is not sold in the United States are
+invalid, id. § 80.1431(a)(1)(viii). See 88 Fed. Reg. at 44,582.
+Neste argues that those two provisions are at odds with one
+another and represent an unjustified substantive change that
+imposes new burdens on producers. However, when read
+together, those provisions reflect a consistent statutory mandate
+under the CAA.        The statute directs EPA to ensure that
+“transportation fuel sold or introduced into commerce in the
+United States . . . contains at least the applicable volume of
+renewable fuel.” 42 U.S.C. § 7545(o)(2)(A)(i). Congress
+focused on whether the renewable fuel is in fact consumed
+within the United States. It is insufficient that the fuel might at
+some point have been intended for U.S. consumption.
+                                63
+     The interplay between subsections 80.1426(c)(2) and
+80.1431(a)(1)(viii) addresses potential discrepancies between
+intended and actual fuel destinations, particularly in dynamic
+global markets where fuel originally produced for domestic use
+may ultimately be used elsewhere. See 88 Fed. Reg. at 44,547.
+By aligning RIN validity with actual domestic usage, EPA’s
+interpretation ensures consistency with the statutory goal of
+promoting renewable fuel consumption within U.S. borders.
+See, e.g., 88 Fed. Reg. at 44,525 n.264.
+
+     Neste contends that the Rule’s prohibition on generating
+RINs from renewable fuel not used in the United States
+imposes impractical burdens by requiring producers to predict
+market dynamics and fuel destinations. However, EPA
+reasonably addressed these concerns by noting the regulatory
+flexibility available to foreign producers. See 88 Fed. Reg. at
+44,547. Foreign producers can modify their storage practices
+to eliminate the need to predict the final destination of their fuel
+or, alternatively, rely on U.S.-based importers to generate
+RINs, so long as the requirements are met under 40 C.F.R.
+§ 80.1426. Id.; RTC at 358 (J.A. 1895). And producers may
+notify EPA to invalidate RINs generated in error for fuel not
+ultimately used in the United States.
+
+     Neste also argues that the Set Rule’s requirements amount
+to a retroactive regulatory change, creating unforeseen burdens
+on producers who generated RINs under prior rules.
+Retroactivity principles bar agencies from imposing new
+obligations on past actions without clear statutory authority.
+See Sierra Club v. Whitman, 285 F.3d 63, 68 (D.C. Cir. 2002).
+However, the record does not support this claim. Here, EPA’s
+clarification reinforces its longstanding framework; it does not
+alter past obligations or otherwise impose any retroactive
+changes. See 88 Fed. Reg. at 44,547.
+                               64
+    For these reasons, we hold that EPA’s interpretation of
+RIN generation requirements is neither arbitrary nor
+capricious. Accordingly, we deny Neste’s challenges.
+
+                          IV. SABR
+
+    In addition to joining with Petitioners’ other challenges as
+discussed above, SABR challenges EPA’s decision to include
+renewable diesel and renewable jet fuel in the Set Rule’s
+biomass-based diesel program. The biomass-based diesel
+category encompasses both biodiesel and renewable diesel.
+Both of those fuels are substitutes for fossil-based diesel but
+each is produced by a different chemical process. EPA Br. 69-
+70. SABR accordingly asserts that it was arbitrary and
+capricious for EPA to continue to allow “renewable diesel, and
+renewable jet fuel to be used to meet the ‘biomass-based diesel’
+volume requirements.” SABR Br. 10. In SABR’s view, EPA
+should have “revised its compliance provisions to ensure that
+only ‘biodiesel’ that qualifies as ‘biomass-based diesel’ is used
+to meet that requirement.” Id. at 10-11.
+
+    Before reaching the merits of SABR’s challenge, we must
+determine whether it is timely. Section 307 of the CAA
+requires a challenge to a final EPA action to
+
+    be filed within sixty days from the date notice of such
+    promulgation, approval, or action appears in the
+    Federal Register, except that if such petition is based
+    solely on grounds arising after such sixtieth day, then
+    any petition for review . . . shall be filed within sixty
+    days after such grounds arise.
+
+42 U.S.C. § 7607(b)(1). “This time bar is jurisdictional.”
+Growth Energy, 5 F.4th at 12 (citation omitted).
+                              65
+     EPA asserts that SABR’s challenge to the categorical
+makeup of the biomass-based diesel volumes is untimely
+because EPA included renewable diesel and renewable jet fuel
+as biomass-based diesel in 2010, more than thirteen years
+before SABR filed its petition. In 2007, EPA explicitly
+interpreted “biodiesel” under 42 U.S.C. § 13220(f) to include
+both mono-alkyl ester biodiesel and non-ester renewable
+diesel. Regulation of Fuels and Fuel Additives: Renewable
+Fuel Standard Program, 72 Fed. Reg. 23,900, 23,917 (May 1,
+2007). EPA then implemented its interpretation of the
+biomass-based diesel category in 2010, when it set its first
+volume standards for biomass-based diesel. See Regulation of
+Fuels and Fuel Additives: Changes to Renewable Fuel
+Standard Program, 75 Fed. Reg. 14,670, 14,686 (Mar. 26,
+2010); 40 C.F.R. § 80.1401 (2010). Thereafter, EPA’s 2010
+regulations explained that biomass-based diesel “includes both
+biodiesel (mono-alkyl esters) and non-ester renewable diesel
+(including cellulosic diesel),” and defined biomass-based
+diesel to include renewable diesel and renewable jet fuel. 75
+Fed. Reg. at 14,686, 14,864; 40 C.F.R. § 80.1401 (2010). In
+2013, EPA further clarified that biomass-based diesel RINs
+“may be generated for renewable jet fuel.” Regulation of Fuels
+and Fuel Additives: Identification of Additional Qualifying
+Renewable Fuel Pathways Under the Renewable Fuel Standard
+Program, 78 Fed. Reg. 14,190, 14,201 (Mar. 5, 2013). To be
+timely, SABR needed to file a petition within sixty days of one
+of these instances of rulemaking. It failed to do so, and its
+current petition is untimely as to this issue. Moreover, SABR
+does not contend that any “after-arising” grounds exist. See 42
+U.S.C. § 7607(b)(1). We therefore lack jurisdiction to reach
+the merits of SABR’s biomass-based diesel challenge.
+
+     SABR next challenges EPA’s decision to adjust the
+conversion factor for biomass-based diesel based on the
+increasing share of that category composed of renewable
+                              66
+diesel. According to EPA, however, SABR lacks Article III
+standing to challenge the biomass-based diesel conversion
+factor in the percentage standard equation because its members
+suffer no injury from EPA’s upward adjustment of the
+biomass-based diesel conversion factor.          For standing
+purposes, there must be an injury-in-fact—an “invasion of a
+judicially cognizable interest which is (a) concrete and
+particularized and (b) actual or imminent, not conjectural or
+hypothetical.” Bennett v. Spear, 520 U.S. 154, 167 (1997).
+
+     “In the Set Rule, EPA adjusted the conversion factor from
+1.5 to 1.6 to account for the increase in the amount of
+renewable diesel relative to biodiesel in the biomass-based
+diesel category.” EPA Br. 84 (citing 88 Fed. Reg. at 44,546-
+47). “Early in the RFS [P]rogram, virtually all biomass-based
+diesel was mono-alkyl ester biodiesel, so EPA set the
+conversion factor based on the value for mono-alkyl ester
+biodiesel, 1.5.” Id. at 85 (citing 88 Fed. Reg. at 44,545). “In
+the Set Rule, EPA explained that due to the growth of
+renewable diesel, the percentage standard equation for
+biomass-based diesel should be adjusted to account for that
+growth.” Id. (citing 88 Fed. Reg. at 44,546-47). As a result,
+“EPA increased the biomass-based diesel conversion factor
+from 1.5 to 1.6.” Id. “The effect of this change is a higher
+annual volume obligation for biomass-based diesel.” Id. The
+higher volume benefits SABR members because it means
+obligated parties have a higher compliance obligation in the
+“biomass-based diesel” category. They can satisfy that
+compliance obligation by blending or purchasing RINs of any
+qualifying type of biomass-based diesel, including the
+biodiesel SABR members produce and distribute. Because
+SABR members lack a discernible injury, SABR lacks standing
+to challenge the biomass-based diesel conversion factor. We
+therefore must dismiss its petition as nonjusticiable.
+                              67
+                      CONCLUSION
+
+     For the foregoing reasons, we grant in part Environmental
+Petitioners’ petition to the extent that we remand the Set Rule
+to EPA and FWS without vacatur for EPA and FWS to conduct
+further proceedings consistent with this decision. We deny the
+petitions of Refiner and Neste Petitioners and dismiss SABR’s
+petition.
+
+                                                   So ordered.
+     KATSAS, Circuit Judge, concurring in part and dissenting
+in part: Imagine I am planning a celebratory chambers dinner.
+I ask a law clerk to select a restaurant based on three
+considerations—quality of food, cost, and proximity to the
+courthouse. The clerk begins by surveying food ratings and,
+based on that consideration alone, tentatively picks the Inn at
+Little Washington. Then, the clerk determines the expected
+cost of the meal ($300 per person, without wine) and expected
+travel time (1.5 hours one-way, assuming no traffic). Without
+addressing whether this expensive and distant meal is worth it,
+and without assessing the quality, cost, or travel time for dinner
+at any other restaurant, the clerk announces that he has
+considered all the relevant factors and then books a reservation
+at the Inn. Would anyone think that the clerk has fairly
+understood my instructions and reasonably explained his
+choice? Obviously not.
+
+     In this case, the Environmental Protection Agency did
+something quite similar. Congress instructed the EPA to set
+renewable fuel standards based on six considerations, including
+production capacity, environmental impacts, energy security,
+and fuel and food costs. Yet in setting the standards at issue,
+EPA considered only one of these factors—how much
+renewable fuel the industry might be capable of producing.
+Then, addressing the other statutory factors, EPA determined
+various costs and benefits of the standards as so set. But EPA
+never weighed those costs and benefits. Nor did it consider the
+costs and benefits of possible standards other than the ones
+keyed to maximum production capacity. And EPA omitted
+these steps even though its own analysis showed that costs—
+including monetized fuel and food costs, as well as
+unmonetized environmental costs—would dramatically
+outstrip any climate or other benefits.
+
+    In my view, these standards are neither reasonable nor
+reasonably explained. I agree that they are arbitrary for the
+narrow reasons flagged by my colleagues. But I respectfully
+                               2
+disagree with my colleagues’ broader conclusion that EPA
+adequately accounted for the relevant costs and benefits. And
+because the flaws in EPA’s analysis run much deeper than my
+colleagues acknowledge, I not only would hold that the
+standards are arbitrary, but also would set them aside.
+
+                                I
+
+     The Clean Air Act requires minimum volumes of
+renewable fuels to be sold in the United States as transportation
+fuel. 42 U.S.C. § 7545(o)(2)(A)(i). These fuels vary according
+to their feedstocks and expected reductions in greenhouse-gas
+emissions. Id. § 7545(o)(1)(B), (D), (E), (J). For each of four
+renewable fuel categories, Congress itself set minimum annual
+volumes, in statutory tables running through 2022. Id.
+§ 7545(o)(2)(B)(i)(I)–(IV). For years after 2022, EPA must set
+minimum annual volumes “based on a review of the
+implementation of the program during calendar years specified
+in the tables, and an analysis of” six enumerated factors:
+
+    (I) the impact of the production and use of renewable
+    fuels on the environment, including on air quality,
+    climate change, conversion of wetlands, ecosystems,
+    wildlife habitat, water quality, and water supply;
+
+    (II) the impact of renewable fuels on the energy
+    security of the United States;
+
+    (III) the expected annual rate of future commercial
+    production of renewable fuels ... ;
+
+    (IV) the impact of renewable fuels on the
+    infrastructure of the United States ... ;
+                               3
+    (V) the impact of the use of renewable fuels on the
+    cost to consumers of transportation fuel and on the
+    cost to transport goods; and
+
+    (VI) the impact of the use of renewable fuels on other
+    factors, including job creation, the price and supply of
+    agricultural     commodities,        rural    economic
+    development, and food prices.
+
+Id. § 7545(o)(2)(B)(ii). Simplified, this provision requires
+EPA to set minimum annual volumes “based on” its analysis of
+(1) environmental impacts, including climate change, (2)
+energy security, (3) production of renewable fuels, (4)
+infrastructure, (5) costs, including fuel and food costs, and (6)
+other factors.
+
+    At issue here are the minimum volumes that EPA set for
+2023, 2024, and 2025. For each of the statutory renewable-fuel
+categories, the volume requirements steadily increase from
+year to year. Renewable Fuel Standards (RFS) Program:
+Standards for 2023–2025 and Other Changes, 88 Fed. Reg.
+44,468, 44,470 (July 12, 2023) (Final Rule).
+
+     EPA sought to justify these requirements in two steps.
+First, it established “candidate volumes” based on what it
+described as “a subset of the statutory factors that are most
+closely related to supply of and demand for renewable fuel.”
+Final Rule, 88 Fed. Reg. at 44,480. EPA acknowledged that
+these “supply-related factors” did not encompass “the other
+economic and environmental factors” referenced in the statute,
+including factors related to costs. Id. But EPA described the
+candidate volumes as “a reasonable first step” to “narrow[] the
+scope for the multifactor analysis.” Id.
+
+    Second, EPA determined various costs and benefits of the
+candidate volumes, measured against a baseline of no required
+                               4
+minima. EPA summarized those effects in the rule itself, Final
+Rule, 88 Fed. Reg. at 44,499–506, and it elaborated on them in
+an accompanying Regulatory Impact Analysis (RIA), J.A.
+1297–1773. The RIA identified some 28 “[p]otential impacts
+associated with” the candidate volumes, organized around the
+six statutory factors. RIA at v. Most strikingly, it determined
+that these requirements would cost consumers at least $41
+billion over three years: $23.8 billion in increased fuel costs
+and $17.2 billion in increased food costs. Id. (fuel); see id. at
+370 (food). The RIA also described in qualitative terms fifteen
+different environmental harms from production and use of the
+candidate volumes: four adverse effects on air quality; three
+adverse effects on wetlands, ecosystems, and wildlife habitat;
+six adverse effects on soil and water quality; and two adverse
+effects on water quantity and availability. Id. at v.
+
+     On the other side of the ledger, the RIA identified an
+energy-security benefit of $513 million over the same three-
+year time frame. RIA at v. In qualitative terms, the RIA
+identified benefits of increased employment and economic
+development in agricultural sectors, with the caveat that
+“increases in employment in some sectors may be offset by
+unemployment in other sectors.” See id. at 351. Finally, the
+RIA discussed at length possible climate benefits from use of
+the candidate volumes, as measured by reduced greenhouse-
+gas emissions over a thirty-year timeframe. See id. at 120–210.
+But after surveying the relevant literature, EPA could report
+only a range of widely varying estimates, and it expressly
+declined to “adjudicate which particular studies, estimates or
+assumptions are most appropriate.” Final Rule, 88 Fed. Reg.
+at 44,500. These ranges even indicated a possibility that some
+renewable fuels might increase GHG emissions because lower
+emissions from burning the fuel might not offset higher
+emissions from producing it. See RIA at 128. For example,
+EPA noted studies indicating that lifecycle GHG emissions
+                                 5
+from ethanol—the most common type of renewable fuel—may
+be as high as 116 grams of carbon dioxide per unit of energy,
+compared to a range of 84 to 98 grams per unit of energy for
+petroleum-based fuel. See id. at 161.
+
+     Despite its agnosticism about the extent of any climate
+benefit, EPA went on to calculate “Illustrative Scenario[s]”
+regarding GHG emissions reductions. RIA at 164. One
+scenario assumed relatively high emissions for petroleum-
+based fuels and relatively low emissions for biofuels; it showed
+that the candidate volumes produced a sizable reduction in
+emissions over three decades. Id. at 174. Another scenario
+assumed relatively low emissions for petroleum-based fuels
+and relatively high emissions for biofuels; it showed only a
+marginal reduction in GHG emissions over the same
+timeframe. See id. at 178. EPA then monetized those results
+using three possible discount rates. The first scenario produced
+a climate benefit somewhere between $19 billion and $115
+billion. See id. at 198. The second scenario produced a climate
+harm somewhere between $1.2 billion and $1.5 billion. See id.
+at 206.1
+
+    After identifying the potential costs and benefits
+associated with the candidate volumes, EPA imposed those
+volumes with one immaterial exception.2 In doing so, EPA
+
+    1
+       In the second scenario, marginally reduced GHG emissions
+cashed out as a net climate harm because use of renewable fuels
+causes a substantial short-term increase in emissions due to land-use
+changes, followed by decreased emissions gradually occurring over
+longer periods and thus discounted over longer timeframes.
+    2
+        EPA shifted about one billion gallons from the advanced
+biofuel requirement to the implied requirement for conventional
+renewable fuel, thereby pushing the latter requirement some one
+billion gallons above the outer bound of what EPA thought the
+market could produce. See Final Rule, 88 Fed. Reg. at 44,517–18.
+                                   6
+stated that it had “balance[d] the relevant factors” and found
+the candidate volumes “appropriate.” Final Rule, 88 Fed. Reg.
+at 44,472. But neither the Final Rule nor the RIA attempted to
+compare the various costs and benefits, whether quantitative or
+qualitative, of the candidate volumes. Nor did EPA compare
+the costs and benefits of the candidate volumes to the costs and
+benefits of any lower possible volumes other than zero.3
+
+                                   II
+
+     The Clean Air Act requires us to reverse rules that are
+“arbitrary, capricious, an abuse of discretion, or otherwise not
+in accordance with law.” 42 U.S.C. § 7607(d)(9)(A). This text
+copies the familiar standard of review set forth in the
+Administrative Procedure Act. See 5 U.S.C. § 706(2)(A).
+Therefore, in construing the governing legal standard, we must
+not defer to the EPA’s views. See Loper Bright Enters. v.
+Raimondo, 603 U.S. 369, 392 (2024). And in assessing EPA’s
+explanation of its policy choice, we must consider whether the
+decision “was based on a consideration of the relevant factors
+and whether there has been a clear error of judgment.” Motor
+Vehicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co., 463 U.S.
+29, 43 (1983) (cleaned up). Likewise, we must set aside the
+
+     3
+        EPA made similarly conclusory statements in adopting the
+component categories of the candidate volumes. See Final Rule, 88
+Fed. Reg. at 44,513 (“Based on our analyses of all of the statutory
+factors, we find that the benefits of higher volumes of cellulosic
+biofuel outweigh the potential negative impacts.”); id. at 44,516
+(“Based on our analyses of all of the statutory factors, we believe that
+the candidate volumes derived [for advanced biofuel] would be
+reasonable and appropriate to require.”); id. at 44,517 (“Our analysis
+of several of the statutory factors highlighted, in our view, the
+importance of ongoing support for corn ethanol generally and for an
+implied conventional renewable fuel volume requirement that helps
+to incentivize the domestic consumption of corn ethanol.”).
+                               7
+volume requirements if EPA “entirely failed to consider an
+important aspect of the problem” or “offered an explanation for
+its decision that runs counter to the evidence” before it. Id. In
+short, we must consider whether the requirements are
+“reasonable and reasonably explained.” FCC v. Prometheus
+Radio Project, 592 U.S. 414, 417 (2021).
+
+                               A
+
+     Start with the governing statutory standard. It requires
+EPA to set volume requirements “based on” six factors. In
+ordinary parlance, that phrase connotes some measure of
+balancing. If my hapless law clerk selects the Inn at Little
+Washington for its superlative food quality and then simply
+reports the high costs and travel times, he has not made a
+decision “based on” the three relevant factors. Likewise, if
+EPA selects volumes based on a “subset” of statutory factors
+excluding economic and environmental considerations, Final
+Rule, 88 Fed. Reg. at 44,480, and then merely reports the
+various high economic and environmental costs associated
+with those volumes, it has not selected the volumes “based on”
+the six statutory considerations.
+
+     EPA claims to have “balance[d] all the relevant factors,”
+Final Rule, 88 Fed. Reg. at 44,472, but the record indicates
+otherwise. At every turn, the RIA simply racked up the many
+costs and few benefits associated with the candidate volumes.
+See, e.g., RIA at 115 (impact on pollutants); id. at 198 & 207
+(GHG emissions); id. at 222 (wetland conversions); id. at 237–
+38 (soil and water quality); id. at 270 (energy security); id. at
+1675 (commodity prices); id. at 367 (food prices). But neither
+the RIA nor the Final Rule attempted to weigh these competing
+costs and benefits, or to explain why any concededly
+speculative, long-term climate benefit might outweigh the
+concededly certain, immediate, and onerous economic and
+                              8
+environmental costs. Likewise, after setting candidate volumes
+for the express purpose of determining maximum industry
+production capacity, EPA never sought to consider whether
+less ambitious standards might produce more sensible
+tradeoffs. (Just as, say, my law clerk never considered whether
+a Zagat-rated 28 dinner, a few minutes away and costing only
+$100 per person, might be a more sensible choice than the 29-
+rated dinner at the Inn.) And EPA never addressed whether to
+temper the candidate volumes, even as the RIA racked up one
+cost after another.
+
+     My colleagues contend that EPA need not balance the
+relevant costs and benefits at all. Ante at 22. But even when a
+statute says nothing about costs, agencies must take them into
+account because “reasonable regulation ordinarily requires
+paying attention to the advantages and the disadvantages of
+agency decisions.” Michigan v. EPA, 576 U.S. 743, 752–53
+(2015); see also id. at 769 (Kagan, J., dissenting) (“Cost is
+almost always a relevant—and, usually, a highly important—
+factor in regulation.”). My colleagues invoke cases suggesting
+that a requirement to “consider” costs does not require formal
+cost-benefit analysis. See Nat’l Ass’n of Home Builders v.
+EPA, 682 F.3d 1032, 1039–41 (D.C. Cir. 2012); Nat’l Wildlife
+Fed’n v. EPA, 286 F.3d 554, 570–71 (D.C. Cir. 2002) (per
+curiam); ante at 22–23. These cases are in some tension with
+Michigan v. EPA, which stressed the importance of cost
+considerations unless Congress explicitly makes them
+irrelevant. But in any event, the cases are inapposite here,
+where the governing statute does more than simply require
+some consideration of costs. As explained above, Congress
+required EPA to promulgate volume requirements “based on”
+specific categories of costs, 42 U.S.C. § 7545(o)(2)(B)(ii),
+which implies more than merely identifying strikingly high
+costs and then moving ahead anyway.
+                               9
+                               B
+
+    EPA’s failure to weigh costs and benefits was no small
+oversight. The petitioners here, including various industry and
+environmental groups, contend that the costs of the Final Rule
+“dwarf” its benefits. Env’t Pet. Br. 37. They are correct.
+
+    The economic costs are striking. By EPA’s own measure,
+they run to at least $41 billion over three years. See RIA at v,
+370. “[T]hat’s billion with a b.” White Stallion Energy Cir.,
+LLC v. EPA, 748 F.3d 1222, 1259 (D.C. Cir. 2014)
+(Kavanaugh, J., concurring in part and dissenting in part), rev’d
+sub nom. Michigan v. EPA, 576 U.S. 743 (2015). And they
+exceed the lone monetized benefit—energy security—by
+almost 80 times over. See RIA at v.
+
+     Of course, climate impacts must also be considered. But
+EPA declined to make any estimate of reduced GHG
+emissions, other than to note widely varying ranges reflected
+in the literature. And EPA declined to commit itself to any
+monetized climate benefit, other than to run calculations
+showing wildly disparate values depending on the emissions
+estimates and discount rates selected. Moreover, even on
+assumptions favorable to EPA, the numbers do not add up.
+Assume for example the first scenario noted above, which
+posits relatively high GHG emissions for petroleum-based
+fuels and relatively low GHG emissions for renewable fuels.
+Also assume a three percent discount rate—the intermediate
+rate used by EPA. On those assumptions, the candidate
+volumes yield a climate-change benefit of $75 billion over
+thirty years, see RIA at 198, compared to increased fuel and
+food costs of $41 billion over the first three years alone. One
+need hardly be a trained economist to discern that, in any
+apples-to-apples comparison over comparable timeframes,
+EPA’s own analysis would show costs dwarfing benefits, even
+                               10
+accounting for the climate. And this says nothing of the
+second, less favorable scenario presented by EPA, in which
+there is no climate benefit at all.
+
+     Turning to other qualitative impacts, the picture becomes
+even bleaker. Most notably, consider environmental impacts
+besides climate change. According to EPA, the candidate
+volumes will cause increased emission of ammonia, carbon
+monoxide, nitrogen oxides, sulphur dioxide, and volatile
+organic compounds, among other pollutants. RIA at v. They
+will cause increased conversion of various habitats to cropland,
+decreased plant diversity, and increased use of harmful
+pesticides. Id. They will increase erosion, deplete soil
+nutrients, risk chemical contaminations, and increase stress on
+aquatic life. Id. And they will deplete aquifers and divert water
+used to meet human needs. Id. EPA briefly flagged economic
+benefits for rural sectors that supply feedstock for renewable
+fuel. See id. at 354–57. But it also noted that those benefits
+may be offset by countervailing harms in other sectors, like
+those supplying inputs for petroleum products. See id. at 351.
+And it nowhere explained how these upstream economic
+impacts could justify the eleven-digit price-tag and multiple
+environmental harms noted above.
+
+                               C
+
+    To justify the 2023–25 volume requirements, EPA
+primarily invokes Sinclair Wyoming Refining Co. LLC v. EPA,
+101 F.4th 871 (D.C. Cir. 2024), which upheld the 2022 volume
+requirements. Sinclair involved an exercise of EPA’s reset
+authority. Before 2022, this provision required EPA to
+prospectively adjust statutory volume requirements if it had
+waived substantial portions of such volumes in preceding
+years.    42 U.S.C. § 7545(o)(7)(F).       In making these
+adjustments, EPA was required to take account of the same six
+                               11
+factors at issue here. See id. For 2022, the reset authority was
+triggered by waivers due to chronic shortfalls in the availability
+of one narrow category of renewable fuel—cellulosic biofuel.
+See Sinclair Wyo., 101 F.4th at 880. EPA took that shortfall
+into account, but otherwise preserved all of the express and
+implied statutory volume requirements. See id. In upholding
+the reset 2022 requirements, we concluded that EPA had
+“reasonably used the implied statutory volumes in setting the
+2022 applicable volumes.” Id. at 888.
+
+     By contrast, there are no statutory volume requirements for
+EPA to fall back on for 2023–25. EPA acknowledged that this
+absence required a fundamentally different approach to setting
+the requisite volumes:
+
+    We acknowledge that we are taking a different
+    approach to developing candidate volumes in this rule
+    than we did under the reset authority in the 2020–2022
+    rule. The primary difference is that in the 2020–22
+    rule the candidate volumes for non-cellulosic
+    advanced biofuel and conventional renewable fuel
+    were generally in the implied statutory volumes for
+    these fuel types in comparison to the statutory
+    volumes. In this rule we are establishing volumes for
+    2023–2025, a time period for which there are no
+    statutory targets.    We therefore developed the
+    candidate volumes for non-cellulosic biofuel and
+    conventional biofuel based primarily on a
+    consideration of supply-related factors, with a
+    consideration of other relevant factors as noted in the
+    following sections.
+
+Final Rule, 88 Fed. Reg. at 44,480. Given the different
+statutory considerations and agency rationales, Sinclair does
+not compel affirmance here.
+                                  12
+                             * * * *
+
+     In sum, EPA’s decision to impose candidate-volume
+requirements is difficult to understand in light of the six
+statutory factors. And all EPA offers to suggest that it balanced
+those factors is its own ipse dixit, which is no substitute for
+reasoned decision-making. See Am. Clean Power Ass’n v.
+FERC, 54 F.4th 722, 727 (D.C. Cir. 2022).
+
+                                  III
+
+    For these reasons, as well as the narrower ones identified
+by my colleagues, I would hold that the 2023–25 volume
+requirements are arbitrary. Because those requirements are
+more deeply flawed than my colleagues recognize, and because
+EPA has shown no significant possibility that it will be able to
+rehabilitate the requirements on remand, I would set aside the
+requirements rather than simply remanding without vacatur.
+See 42 U.S.C. § 7607(d)(9)(A); Allied-Signal, Inc. v. U.S.
+Nuclear Regul. Comm’n, 988 F.2d 146, 151 (D.C. Cir. 1993).4
+
+
+
+
+     4
+         Other than the points addressed above, I agree with the
+analysis in the per curiam opinion. Accordingly, I respectfully
+dissent from parts I.A.1, I.C, and II.B.2 of that opinion, and join the
+rest.
+

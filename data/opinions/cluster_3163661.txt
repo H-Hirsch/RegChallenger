@@ -1,0 +1,736 @@
+                FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+
+THE PEOPLE OF THE STATE OF            No. 13-71276
+CALIFORNIA, EX REL. KAMALA D.
+HARRIS, ATTORNEY GENERAL;              FERC No.
+PUBLIC UTILITIES COMMISSION OF        EL01-10-076
+THE STATE OF CALIFORNIA;
+SOUTHERN CALIFORNIA EDISON CO.,
+                       Petitioners,
+
+                v.
+
+FEDERAL ENERGY REGULATORY
+COMMISSION,
+                    Respondent,
+
+CARGILL POWER MARKETS, LLC; EL
+PASO MARKETING COMPANY, LLC;
+EXELON GENERATION COMPANY,
+LLC; IDACORP ENERGY SERVICES
+COMPANY; IDAHO POWER
+COMPANY; TALEN MONTANA, LLC;
+TALEN ENERGY MARKETING, LLC;
+PUBLIC SERVICE COMPANY OF
+COLORADO; SHELL ENERGY NORTH
+AMERICA (US), L.P.; TRANSCANADA
+ENERGY LTD.,
+          Respondents-Intervenors.
+2           STATE OF CALIFORNIA V. FERC
+
+THE CITY OF SEATTLE,                     No. 13-71487
+WASHINGTON,
+                         Petitioner,      FERC No.
+                                         EL01-10-076
+PORTLAND GENERAL ELECTRIC
+COMPANY; DYNEGY POWER
+MARKETING; MPS MERCHANT                   OPINION
+SERVICES, INC; MPS CANADA CORP.,
+                      Intervenors,
+
+                 v.
+
+FEDERAL ENERGY REGULATORY
+COMMISSION,
+                    Respondent,
+
+TALEN MONTANA, LLC; TALEN
+ENERGY MARKETING, LLC;
+TRANSALTA ENERGY MARKETING
+(US), INC.; TRANSALTA ENERGY
+MARKETING (CALIFORNIA), INC.; EL
+PASO MARKETING COMPANY, LLC,
+            Respondents-Intervenors.
+
+
+       On Petition for Review of an Order of the
+       Federal Energy Regulatory Commission
+
+                 Argued and Submitted
+       June 16, 2015—San Francisco, California
+
+               Filed December 17, 2015
+                STATE OF CALIFORNIA V. FERC                           3
+
+ Before: Sidney R. Thomas, Chief Judge, and M. Margaret
+    McKeown and Richard R. Clifton, Circuit Judges.
+
+                  Opinion by Judge McKeown
+
+
+                           SUMMARY*
+
+
+         Federal Energy Regulatory Commission
+
+     The panel denied a petition for review from a decision of
+the Federal Energy Regulatory Commission (“FERC”) with
+respect to petitioners’ claim that the Mobile-Sierra
+presumption, which requires FERC to presume that the rate
+set in a freely negotiated wholesale-energy contract was just
+and reasonable, cannot apply to the spot sales at issue; and
+dismissed evidentiary challenges for lack of jurisdiction.
+
+    The panel held that there was jurisdiction to review
+FERC’s decision to employ the Mobile-Sierra presumption
+in the class of contracts at issue because, pursuant to the
+inquiry in Steamboaters v. FERC, 759 F.2d 1382 (9th Cir.
+1985), the test for final action under the Federal Power Act
+was met. The panel held that it lacked jurisdiction to consider
+the individual evidentiary restrictions raised in these cases
+because they were interim rulings whose consequences could
+not be determined with any finality at this juncture.
+
+
+
+
+  *
+    This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+4             STATE OF CALIFORNIA V. FERC
+
+    The panel held that FERC reasonably applied the Mobile-
+Sierra presumption to the class of contracts at issue in these
+cases.
+
+
+                        COUNSEL
+
+Kevin J. McKeon (argued), Judith D. Cassel, Whitney E.
+Snyder, Hawke McKeon & Sniscak LLP, Harrisburg,
+Pennsylvania; Kamala D. Harris, Attorney General of
+California, Mark Breckler, Chief Assistant Attorney General,
+Martin Goyette, Senior Assistant Attorney General, San
+Francisco, California; David M. Gustafson, Deputy Attorney
+General, Oakland, California, for Petitioner People of the
+State of California ex rel. Kamala D. Harris, Attorney
+General.
+
+Candace J. Morey, Sarah R. Thomas, Public Utilities
+Commission of the State of California, San Francisco,
+California; Paul B. Mohler, Law Offices of Paul B. Mohler,
+PLC, Washington, D.C., for Petitioner Public Utilities
+Commission of the State of California.
+
+Rex S. Heinke (argued), Akin Gump Strauss Hauer & Feld
+LLP, Los Angeles, California; Jerry E. Rothrock, Moyers
+Martin, LLP, Tulsa, Oklahoma; Gregory C. Narver, Seattle
+City Attorney’s Office, Seattle, Washington, for Petitioner
+City of Seattle.
+
+David L. Morenoff, General Counsel, Robert H. Solomon,
+Solicitor, Lona T. Perry (argued), Deputy Solicitor, Susanna
+Y. Chu, Attorney, Washington, D.C., for Respondent Federal
+Energy Regulatory Commission.
+              STATE OF CALIFORNIA V. FERC                 5
+
+Lawrence G. Acker, Van Ness Feldman, LLP, Washington,
+D.C.; Rex Blackburn, Brian R. Buckham, Idaho Power
+Company, Boise, Idaho, for Respondents-Intervenors Idaho
+Power Company and IDACORP Energy Services Co.
+
+Floyd L. Norton, IV, Morgan, Lewis & Bockius LLP,
+Washington, DC, for Respondents-Intervenors Cargill Power
+Markets, LLC and Public Service Company of Colorado.
+
+Andrea J. Chambers, Katharine E. Leesman, Ballard Spahr
+LLP, Washington, D.C., for Respondent-Intervenor Exelon
+Generation Company, LLC.
+
+Joseph B. Williams, Matthew D. Spohn, Ryan C. Norfolk,
+Norton Rose Fulbright US LLP, Washington, D.C., for
+Respondent-Intervenor El Paso Marketing Company, LLC.
+
+Jeffrey D. Watkiss, McDermott Will & Emery, LLP,
+Washington, D.C., for Respondent-Intervenor Shell Energy
+North America (US), L.P.
+
+Damien R. Lyster, Vinson & Elkins LLP, Washington, D.C.,
+for Respondents-Intervenors TansAlta Energy Marketing
+(U.S.) Inc. and TransAlta Energy Marketing (California) Inc.
+
+Kenneth L. Wiseman (argued), Mark F. Sundback, Andrews
+Kurth, LLP, Washington, D.C., for Rrespondent-Intervenor
+TransCanada Energy Ltd.
+6               STATE OF CALIFORNIA V. FERC
+
+                             OPINION
+
+McKEOWN, Circuit Judge:
+
+    These appeals are the latest in a series of petitions that
+stem from the energy crisis in California and other western
+states in 2000 and 2001. The key issue we consider is the
+applicability of the Mobile-Sierra doctrine, which requires
+the Federal Energy Regulatory Commission (“FERC”) to
+“presume that the rate set out in a freely negotiated
+wholesale-energy contract meets the ‘just and reasonable’
+requirement” imposed by law. Morgan Stanley Capital Grp.,
+Inc. v. Pub. Util. Dist. No. 1, 554 U.S. 527, 530 (2008).
+
+                          BACKGROUND
+
+     The circumstances of the California energy crisis are
+detailed in numerous cases.1 We recount only the history that
+is relevant to these petitions.
+
+    After the California legislature deregulated the electricity
+market in the mid-1990s, “wholesale electricity prices
+skyrocketed.” Port of Seattle v. FERC, 499 F.3d 1016, 1022
+(9th Cir. 2007). Average rates soared in the California and
+Pacific Northwest short-term supply markets (also known as
+“spot markets”). Id. at 1022–23. The spot markets in this
+case were somewhat unique in the particular way that rates
+were set:
+
+
+    1
+   See, e.g., Port of Seattle v. FERC, 499 F.3d 1016, 1022–26 (9th Cir.
+2007); Pub. Utils. Comm’n of State of Cal. v. FERC, 462 F.3d 1027,
+1036–44 (9th Cir. 2006) (“Pub. Utils. Comm’n”); Bonneville Power
+Admin. v. FERC, 422 F.3d 908, 910–14 (9th Cir. 2005); Cal. ex rel.
+Lockyer v. FERC, 383 F.3d 1006, 1008–11 (9th Cir. 2004) (“Lockyer”).
+              STATE OF CALIFORNIA V. FERC                    7
+
+       Unlike the California spot market, which
+       operated through a centralized power
+       exchange using a central clearing price, the
+       Pacific Northwest spot market operated
+       through bilateral contracts negotiated
+       independently between buyers and sellers,
+       without a central clearing price. Most of these
+       contracts were entered into under the terms of
+       the Western Systems Power Pool (“WSPP”)
+       Agreement, a standard form contract for
+       electricity sales.
+
+Id. at 1023 (citation omitted). These rates became the subject
+of an investigation before FERC.
+
+    Under the Federal Power Act (“FPA”), the rates charged
+by a public utility must be “just and reasonable, and any such
+rate or charge that is not just and reasonable is hereby
+declared to be unlawful.” 16 U.S.C. § 824d(a). Section 206
+of the FPA gives FERC the authority, on its own initiative or
+upon filing of a complaint, to investigate whether a particular
+rate is “just and reasonable.” Port of Seattle, 499 F.3d at
+1023. If FERC finds a rate “unjust, unreasonable, unduly
+discriminatory or preferential,” it must determine a just and
+reasonable rate and order that rate to be “observed and in
+force.” Id. (citing 16 U.S.C. § 824e(a)). FERC may also
+order sellers to pay refunds to those entities that bought
+energy at the unlawful rate. Id. (citing 16 U.S.C. § 824e(b)).
+Such refunds are limited to a fifteen-month period following
+the “refund effective date,” a date established by FERC that
+may be no earlier than the filing of the complaint nor later
+than five months after the filing. 16 U.S.C. § 824e(b). FERC
+may not order any refunds for the period before the refund
+effective date. Port of Seattle, 499 F.3d at 1023.
+8             STATE OF CALIFORNIA V. FERC
+
+    The petitioners here challenge several FERC orders that
+were issued following our remand in Port of Seattle. In Port
+of Seattle we reviewed several challenges to FERC’s denial
+of refunds to wholesale buyers of electricity that purchased
+energy in the Pacific Northwest spot market at unusually high
+prices. We explained that FERC erred by initially excluding
+from the refund proceeding purchases made by the California
+Energy Resources Scheduling (“CERS”) division of the
+California Department of Water Resources, and that FERC
+abused its discretion by denying potential relief for
+transactions involving energy that was ultimately consumed
+in California. Id. at 1022, 1032–34.
+
+    We also held that FERC’s failure to consider evidence of
+market manipulation was arbitrary and capricious. Id. at
+1034–36. It appeared that “Pacific Northwest sellers were
+apparently involved in Enron’s manipulation” of western
+energy markets.” Id. at 1035. As a consequence, FERC had
+to “consider the possibility that the Pacific Northwest spot
+market was not . . . functional and competitive.” Id. On
+remand, FERC was instructed to examine the evidence of
+market manipulation “in detail and account for it in any
+future orders regarding the award or denial of refunds in the
+Pacific Northwest proceeding.” Id. at 1035–36. If the record
+was not sufficient to inform a reasoned decision, we noted
+that FERC may “find it necessary to call for additional
+fact-finding.” Id. at 1036.
+
+     After the remand, FERC proceeded to plan evidentiary
+hearings. See Puget Sound Energy, Inc. v. All Jurisdictional
+Sellers of Energy, 137 FERC ¶ 61,001 (Oct. 3, 2011). For the
+first time in the history of this proceeding, FERC took the
+position that it would invoke the Mobile-Sierra doctrine,
+under which the rates set forth in “short-term bilateral power
+              STATE OF CALIFORNIA V. FERC                    9
+
+sales contracts” like these would be presumptively just and
+reasonable. Id. at paras. 20–21. The presumption could only
+be avoided or overcome if specific criteria were met, such as
+“where it can be shown that one party to a contract engaged
+in such extensive unlawful market manipulation as to alter the
+playing field for contract negotiations.” Id.
+
+    Adoption of the Mobile-Sierra presumption carried
+implications for the scope of evidence that FERC intended to
+permit in the proceeding. Electricity buyers would need to
+“demonstrate that a particular seller engaged in unlawful
+market activity in the spot market and that such unlawful
+activity directly affected the particular contract or contracts
+to which the seller was a party.” Id. at para. 21. “[G]eneral
+allegations of market dysfunction” would be insufficient to
+avoid or overcome the presumption. Id. FERC explained
+that parties could submit evidence of several specific
+violations that might entitle them to refunds: (1) violation of
+the WSPP Agreement; (2) violation of the terms of a specific
+bilateral contract underlying a particular purchase of
+electricity; or (3) certain other violations identified in a
+previous FERC case. Id. at paras. 18–19.
+
+    According to FERC, a market-wide remedy would be
+inappropriate because the Pacific Northwest spot market
+operated solely through bilateral contracts. Id. at para. 24.
+These contracts distinguished the transactions from those
+conducted by California’s centralized power exchange, which
+operated through central clearing prices instead of negotiated
+contracts.
+
+    The California Parties and Seattle requested rehearing and
+challenged FERC’s invocation of the Mobile-Sierra
+presumption and the scope of permissible evidence. A
+10            STATE OF CALIFORNIA V. FERC
+
+request for expedited treatment of the requests for rehearing
+initially went unanswered by the agency, and the proceeding
+continued. FERC set a schedule for parties to present
+contract-specific refund claims as a part of settlement
+procedures.
+
+    While the requests for rehearing remained pending and
+settlement activity proceeded, FERC further addressed the
+Mobile-Sierra presumption and the scope of the Pacific
+Northwest proceeding in another order. Drawing on Morgan
+Stanley, which FERC cited to support its invocation of the
+Mobile-Sierra presumption, FERC clarified that refund
+claimants may overcome the presumption “by presenting
+evidence that a particular contract rate imposes an excessive
+burden on consumers or seriously harms the public interest.”
+141 FERC ¶ 61,248 at paras. 1, 12–15 (Dec. 21, 2012).
+FERC acknowledged that it had spawned confusion regarding
+the scope of the proceeding, but claimed that it had not
+intended to modify the law as summarized in Morgan
+Stanley. 141 FERC ¶ 61,248, at paras. 12–14.
+
+    FERC eventually denied the requests for rehearing and
+reaffirmed its application of the Mobile-Sierra presumption.
+143 FERC ¶ 61,020 at para. 13 (Apr. 5, 2013). It also
+reaffirmed the limits it imposed on the scope of permissible
+evidence. Id. at para. 23. These petitions for review
+followed.
+
+    While these petitions were pending before us, the FERC
+proceeding marched on. Phase I of the proceeding was
+directed to whether the parties made a sufficient showing to
+avoid or overcome the Mobile-Sierra presumption with
+respect to their particular contracts and whether they were
+entitled to modification of their contracted rates. If
+               STATE OF CALIFORNIA V. FERC                   11
+
+necessary, Phase II would address refund methodology.
+Following an initial decision on Phase I, 146 FERC ¶ 63,028
+(Mar. 28, 2014), FERC then ruled on exceptions to the
+decision, 151 FERC ¶ 61,173 (May 22, 2015). FERC
+affirmed some of the Administrative Law Judge’s (“ALJ”)
+rulings and reversed others, ultimately remanding with
+instructions to the ALJ to make additional findings. Id. at
+para. 3.
+
+                          ANALYSIS
+
+I. JURISDICTION
+
+    We first address our jurisdiction over these petitions.
+Seattle and the California Parties characterize their Mobile-
+Sierra challenge as purely legal and ripe for immediate
+review. According to FERC, the refund orders are not final
+reviewable actions. We disagree with both sides in part.
+
+    Our jurisdiction is governed by Section 313(b) of the
+FPA. 16 U.S.C. § 825l(b) (providing for review in the United
+States Court of Appeals of “an order issued by the
+Commission”). “Although section 313(b) is not limited on its
+face to final orders,” we have joined other circuits in the view
+that “review under section 313(b) is limited to orders of
+definitive substantive impact, where judicial abstention would
+result in irreparable injury to a party.” Steamboaters v.
+FERC, 759 F.2d 1382, 1387 (9th Cir. 1985) (citing Papago
+Tribal Util. Auth. v. FERC, 628 F.2d 235, 238 (D.C. Cir.
+1980) (“Papago”)). Under Steamboaters, we ask first
+“whether the order is final; second, whether, if unreviewed,
+it would inflict irreparable harm on the party seeking review;
+and third, whether judicial review at this stage of the process
+12               STATE OF CALIFORNIA V. FERC
+
+would invade the province reserved to the discretion of the
+agency.” Id. at 1387–88.
+
+    Before proceeding with the Steamboaters inquiry, we
+underscore that the petitions raise two types of issues. The
+petitioners’ threshold question is whether FERC properly
+invoked the Mobile-Sierra presumption. This challenge does
+not implicate the scope of admissible evidence; the objection
+is to the use of the Mobile-Sierra doctrine to shape the
+proceeding at all. We think of this issue as a facial
+applicability question: Did FERC appropriately invoke the
+Mobile-Sierra presumption under these circumstances?2
+Petitioners also challenge the restrictions that FERC imposed
+on the evidentiary proceeding. They want to be allowed to
+introduce evidence of, among other things, reporting
+violations, violations of obligations under the Uniform
+Commercial Code and state contract law, and violations by
+sellers that were not parties to the challenged contracts. We
+think of this issue as a question of the scope of the evidentiary
+proceeding.
+
+    With regard to the facial applicability issue, the criteria of
+Steamboaters are satisfied. FERC’s decision to adopt the
+presumption in the context of short-term spot market
+
+
+
+   2
+     We note that the question of whether Mobile-Sierra applies at all
+admits of both a facial applicability analysis and a contract-specific, as-
+applied analysis that is more appropriate in individual proceedings before
+the agency. This distinction becomes relevant when we turn to the legal
+question of whether FERC’s interpretation of the “just and reasonable”
+standard is permissible. FERC’s application of the Mobile-Sierra doctrine
+to a class of contracts may be reasonable even if it becomes unreasonable
+when individual parties to a proceeding produce evidence that undermines
+the presumption.
+                STATE OF CALIFORNIA V. FERC                          13
+
+contracts has been definitively resolved, and we therefore
+have jurisdiction to review this final agency decision.
+
+    In order after order, FERC has not budged from its
+position. FERC’s response that the decision is not final,
+because the parties can overcome the presumption, begs the
+question. Unless the presumption applies, there is no legal
+hurdle to overcome. The petitioners challenge only the facial
+applicability of the Mobile-Sierra presumption in a particular
+class of cases, not how FERC will apply it in the specific
+proceedings before it.3 As to the facial applicability question,
+FERC has made a final decision that plainly “affects the legal
+positioning of the parties.” City of Fremont v. FERC,
+336 F.3d 910, 914 (9th Cir. 2003).
+
+    The practical consequence of not accepting review at this
+stage is that, if FERC is wrong about the applicability of the
+Mobile-Sierra doctrine, the remaining proceedings will be
+predicated on a faulty legal ground. As in City of Fremont,
+the Mobile-Sierra presumption “will be treated as a
+benchmark” and petitioners face “the uphill task” to
+overcome it in their individual proceedings. Id. at 914.
+These proceedings, which have multiplied and taken years to
+arrive at this stage, are no ordinary proceedings. To refrain
+from reviewing FERC’s facial applicability determination and
+introduce a risk, however slight, that FERC would change its
+invocation of Mobile-Sierra, would be to ignore the greater
+risks to the parties in these ongoing proceedings. We take to
+heart that “[t]he reviewability of an order must . . . be
+
+
+
+ 3
+   To the extent that they challenge individualized determinations under
+the Mobile-Sierra doctrine, those determinations have not yet been made
+and there would be no final agency action to review.
+14            STATE OF CALIFORNIA V. FERC
+
+determined by reference to its practical function and
+consequences.” Papago, 628 F.2d at 239.
+
+    Finally, the issue presents a legal question capable of
+resolution by this court in a way that does not invade the
+agency’s province. Deciding this pure legal issue in no way
+interferes with FERC’s discretion to accept evidence in
+rebuttal in the remaining proceedings. See Cal. Dep’t of
+Water Res. v. FERC, 361 F.3d 517, 520 (9th Cir. 2004);
+Papago, 628 F.2d at 238. “[I]mmediate review of the
+Commission’s determination will not disrupt the continuing
+proceeding, nor will it raise the danger of multiple appellate
+proceedings concerning identical issues.” Papago, 628 F.2d
+at 245.
+
+    We thus conclude that the test for final action under the
+FPA is met and that we have jurisdiction to review FERC’s
+decision to employ the Mobile-Sierra presumption in the
+class of contracts at issue here.
+
+   When it comes to the scope of the evidentiary proceeding,
+however, the challenged orders are preliminary and lack
+“definitive substantive impact.” Steamboaters, 759 F.2d at
+1387; see also FPC v. Metro. Edison Co., 304 U.S. 375,
+383–84 (1938) (noting that “affording opportunity for
+constant delays. . .for the purpose of reviewing mere
+procedural requirements or interlocutory directions” would
+“do violence” to the FPA); Cities of Anaheim v. FERC,
+723 F.2d 656, 660 (9th Cir. 1984) (stating that “procedural
+orders” are not reviewable). The orders do not have the
+requisite “definitive character dealing with the merits of a
+proceeding before the Commission” to support review under
+Section 313(b) of the FPA. ASARCO, Inc. v. FERC, 777 F.2d
+              STATE OF CALIFORNIA V. FERC                    15
+
+764, 771 (D.C. Cir. 1985) (quoting Metropolitan Edison Co.,
+304 U.S. at 384) (emphasis added).
+
+    For instance, FERC has already shifted course on the
+“shape” of the proceeding in a way that suggests some
+elements of its orders may not be sufficiently final for review.
+In October 2011, FERC articulated what evidence it would
+permit. 137 FERC ¶ 61,001 (Oct. 3, 2011). More than a year
+later, in December 2012, FERC refined its statement of the
+scope of the proceeding, acknowledging that confusion had
+resulted from the prior order. 141 FERC ¶ 61,248 (Dec. 21,
+2012). Significantly, it appears that despite arguments raised
+by the petitioners, at least some evidence of bad faith may
+have been admitted in the Phase I proceeding.
+
+    While some harm might flow from proceeding under a
+flawed evidentiary framework, see City of Fremont, 336 F.3d
+at 914, the same risk stems from any order setting boundaries
+for a hearing. It is not enough to overcome the lack of
+finality of these orders on the scope of the evidentiary
+proceedings. The final order that results from the remand
+hearing will be reviewable and, indeed, will admit of more
+effective review of the evidentiary decisions since the court
+will be able to review all of the evidence taken together. The
+individual evidentiary restrictions challenged here are classic
+interim rulings whose consequence cannot be determined
+with any finality at this juncture.
+
+    Judicial review of the evidentiary issues thus “properly
+follows the conclusion of the proceeding.” Papago, 628 F.2d
+at 240; see also Cities of Anaheim, 723 F.2d at 661. In
+contrast, an interim or midstream determination on the scope
+of the evidentiary proceeding would invite the “disruptive
+consequences of judicial interference” and “bring[] the courts
+16             STATE OF CALIFORNIA V. FERC
+
+into the adjudication of the lawfulness of rates in advance of
+administrative consideration.” Papago, 628 F.2d at 242
+(quoting S. Ry. Co. v. Seaboard Allied Milling Corp.,
+442 U.S. 444, 460 (1979)); see also Delmarva Power & Light
+Co. v. FERC, 671 F.2d 587, 595 (D.C. Cir. 1982) (warning
+against intruding on FERC’s province where “the facts
+bearing on the interpretation of [filings and orders] are
+unclear and disputed, and these facts will bear heavily on
+determining whether the statute was violated”).
+
+    “Under the rule in Steamboaters, the fact that one part of
+an agency order remains pending before the agency does not
+deprive this court of jurisdiction to review a discrete issue
+that has been definitively resolved by the agency.” Cal.
+Dep’t of Water Res., 361 F.3d at 520. We therefore exercise
+jurisdiction only as to the issue of whether FERC erred by
+invoking the Mobile-Sierra doctrine and hold that we lack
+jurisdiction to review FERC’s evidentiary orders.
+
+II. FACIAL APPLICABILITY OF THE MOBILE-SIERRA
+    DOCTRINE
+
+     The Mobile-Sierra doctrine takes its name from two cases
+that dealt with the authority of FERC’s predecessor, the
+Federal Power Commission, to determine whether rates set
+bilaterally by contract (as opposed to those set unilaterally by
+tariff) are just and reasonable. See United Gas Pipe Line Co.
+v. Mobile Gas Serv. Corp. (“Mobile”), 350 U.S. 332 (1956);
+Fed. Power Comm’n v. Sierra Pac. Power Co. (“Sierra”),
+350 U.S. 348 (1956). Where it applies, the doctrine requires
+FERC to presume that a contracted-for rate is “just and
+reasonable” under the FPA.
+                  STATE OF CALIFORNIA V. FERC                              17
+
+    In 2008, after we decided Port of Seattle, the Supreme
+Court issued Morgan Stanley, its first Mobile-Sierra decision
+in decades. 554 U.S. 527. While Mobile and Sierra arose
+from suits brought by regulated sellers claiming that rates
+were too low, Morgan Stanley involved buyers’ challenges to
+high contract rates. The Court explained that “[t]here is only
+one statutory standard for assessing wholesale electricity
+rates, whether set by contract or tariff—the just-and-
+reasonable standard.” Id. at 545. Addressing the contract
+context, the Court set forth the baseline rule that FERC must
+“presume that the rate set out in a freely negotiated
+wholesale-energy contract meets the ‘just and reasonable’
+requirement imposed by law.” Id. at 530. In invoking the
+presumption here, FERC cited this rule from Morgan Stanley.
+137 FERC ¶ 61,001, para. 20.
+
+    The Supreme Court emphasized that the Mobile-Sierra
+presumption is justified by the particular role that contracts
+play in the administrative scheme. “The regulatory system
+created by the [FPA] is premised on contractual agreements
+voluntarily devised by the regulated companies; it
+contemplates abrogation of these agreements only in
+circumstances of unequivocal public necessity.” Morgan
+Stanley, 554 U.S. at 534 (quoting In re Permian Basin Area
+Rate Cases, 390 U.S. 747, 822 (1968)). Where the
+presumption applies, the inquiry into whether the rate is
+lawful focuses on whether the contract rate “seriously harm[s]
+the public interest.” Id. at 548.4
+
+
+  4
+     The Court has since explained that “the Mobile-Sierra public interest
+standard is not an exception to the statutory just-and-reasonable standard;
+it is an application of that standard in the context of rates set by contract.”
+NRG Power Mktg., LLC v. Maine Pub. Utils. Comm’n, 558 U.S. 165, 168
+(2010); see also Morgan Stanley, 554 U.S. at 546 (explaining the doctrine
+18              STATE OF CALIFORNIA V. FERC
+
+    The petitioners argue that Morgan Stanley does not
+support FERC’s decision to invoke the Mobile-Sierra
+presumption with respect to contracts of the nature at issue
+here. The circumstances here, according to petitioners,
+render the presumption illogical because the contracts were
+not freely negotiated long-term contracts with lawful prices.
+Instead, the transactions were short-term spot sales with a
+high degree of pressure on buyers. Petitioners’ argument is
+essentially that the FPA’s “just and reasonable” standard
+should not be interpreted as impliedly incorporating the
+Mobile-Sierra doctrine, as it was in Morgan Stanley. Id. at
+545–46. Although it is true that the statutory language does
+not clearly spell out the application of the “just and
+reasonable” standard, under Chevron, we defer to FERC’s
+reasonable determination that Mobile-Sierra extends to the
+context of short-term spot sales. Chevron U.S.A. Inc. v.
+Natural Resources Defense Council, Inc., 467 U.S. 837, 843
+(1984).
+
+    The mere short-term nature of these spot sale contracts
+does not render FERC’s application of the Mobile-Sierra
+doctrine unreasonable. Although long-term contracts may
+play a special role in stabilizing the energy market (a role
+spotlighted by the “turmoil in the spot market” in the 2000-
+2001 energy crisis, Morgan Stanley, 554 U.S. at 539–40,
+547–48), the Supreme Court has drawn the rule so that the
+presumption may be invoked with regard to any contracted-
+for rate. Id. at 551; see also NRG Power Mktg., LLC,
+558 U.S. at 168 (“The ‘venerable Mobile-Sierra doctrine’
+rests on ‘the stabilizing force of contracts.’”) (quoting
+
+
+provides “a definition of what it means for a rate to satisfy the
+just-and-reasonable standard in the contract context—a definition that
+applies regardless of when the contract is reviewed”).
+                  STATE OF CALIFORNIA V. FERC                            19
+
+Morgan Stanley, 554 U.S. at 548). The fact that some
+contracts adopted the form of the WSPP Agreement (a
+FERC-jurisdictional standardized form agreement) does not
+change our analysis, as the sales were still made pursuant to
+contracts. After the presumption is invoked, the parties may
+avoid or rebut it based on an evidentiary showing,5 but
+FERC’s baseline assumption that the presumption applies to
+the contracts at issue is not unreasonable in light of Morgan
+Stanley.
+
+    The petitioners’ numerous other arguments are also
+unconvincing. We see no reason why having notice of a
+§ 206 proceeding when the contracts were formed would
+render it irrational to apply the presumption. The petitioners
+also overstate Lockyer, which stopped short of establishing
+that sellers who fail to meet reporting requirements have
+automatically charged unlawful prices so as to defeat the
+presumption. 383 F.3d at 1008.
+
+
+
+
+ 5
+   It is important to remember that just because the presumption has been
+invoked at the beginning of a given proceeding does not mean it ultimately
+will apply to that case in the end. “FERC has ample authority to set aside
+a contract where there is unfair dealing at the contract formation
+stage—for instance, if it finds traditional grounds for the abrogation of the
+contract such as fraud or duress. In addition, if the ‘dysfunctional’ market
+conditions under which the contract was formed were caused by illegal
+action of one of the parties, FERC should not apply the Mobile-Sierra
+presumption.” Morgan Stanley, 554 U.S. at 547 (citation omitted). FERC
+cited these possibilities in its December 2012 order. 141 FERC ¶ 61,248,
+at para. 7. Where the presumption is rebutted in this way, a party
+challenging a rate no longer has to show that the “contract rates at issue
+impose an excessive burden or seriously harm the public interest” in order
+to prove that a rate is unlawful. See id. at para. 14.
+20               STATE OF CALIFORNIA V. FERC
+
+    The WSPP Agreement does not contain a “Memphis”
+clause6 that permits parties to amend their contracts
+unilaterally by complaint. The WSPP Agreement establishes
+standardized terms for power transactions to which individual
+terms (such as price, volume, and duration) are appended in
+separate confirmation agreements. The sections identified by
+petitioners do not permit unilateral amendments to
+confirmation agreements or the associated contractual rates.
+
+    Finally, the factual and evidentiary issues raised by the
+petitioners are more appropriately considered in the context
+of eventual challenges to the scope of the evidentiary
+proceedings. For example, the California Parties argue that
+CERS was bullied into making purchases via these bilateral
+contracts when sellers refused to sell in the usual channels.
+Seattle claims that FERC disregarded this court’s instruction
+in Port of Seattle to take into account evidence of market
+manipulation. These arguments relate to downstream
+proceedings, such as whether the presumption can be
+overcome and whether FERC’s eventual decision is based on
+a proper record. These types of factual and evidentiary
+matters do not speak to whether FERC properly invoked
+Mobile-Sierra as a baseline, even if the evidence surrounding
+these contested circumstances ultimately warrants avoidance
+or rebuttal of the presumption. “[T]he mere fact that the
+market is imperfect, or even chaotic, is no reason to
+undermine the stabilizing force of contracts.” See Morgan
+
+
+  6
+    The name of the clause comes from United Gas Pipe Line Co. v.
+Memphis Light, Gas & Water Div., 358 U.S. 103, 110–13 (1958), in which
+the Supreme Court held that parties may “contract out of the Mobile-
+Sierra presumption by specifying in their contracts that a new rate filed
+with the Commission would supersede the contract rate.” Morgan
+Stanley, 554 U.S. at 534.
+              STATE OF CALIFORNIA V. FERC                   21
+
+Stanley, 554 U.S. at 547–48. We thus decline to extend our
+analysis to these disguised efforts to rebut the presumption as
+applied to these individual parties before FERC has had an
+opportunity to conclude the proceedings. We need only
+decide whether FERC reasonably applied Mobile-Sierra to
+the class of contracts at issue here, and we hold that FERC’s
+interpretation is reasonable.
+
+    We deny the petition with respect to petitioners’ claim
+that the Mobile-Sierra presumption cannot apply to the spot
+sales at issue in this case and dismiss the evidentiary
+challenges for lack of jurisdiction.
+
+   DENIED IN PART; DISMISSED IN PART.
+

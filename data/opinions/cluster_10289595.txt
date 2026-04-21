@@ -1,0 +1,1412 @@
+                              RECOMMENDED FOR PUBLICATION
+                              Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                     File Name: 24a0265p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ COMMONWEALTH OF KENTUCKY (23-3216); KENTUCKY
+                                                             │
+ ENERGY AND ENVIRONMENT CABINET (23-3225),
+                                                             │
+                                       Petitioners,          │
+                                                              >      Nos. 23-3216/3225
+                                                             │
+       v.                                                    │
+                                                             │
+                                                             │
+ UNITED STATES ENVIRONMENTAL PROTECTION AGENCY;              │
+ MICHAEL S. REGAN, Administrator, United States              │
+ Environmental Protection Agency,                            │
+                                                             │
+                                         Respondents.
+                                                             ┘
+
+                      On Petition for Review of a Final Agency Action
+                  of the United States Environmental Protection Agency.
+                Nos. EPA-HQ-OAR-2021-0663; EPA-R04-OAR-2021-0841.
+
+                                    Argued: May 8, 2024
+
+                           Decided and Filed: December 6, 2024
+
+              Before: BOGGS, KETHLEDGE, and MURPHY, Circuit Judges.
+                               _________________
+
+                                          COUNSEL
+
+ARGUED: Matthew F. Kuhn, OFFICE OF THE KENTUCKY ATTORNEY GENERAL,
+Frankfort, Kentucky, for Petitioner Commonwealth of Kentucky.    Jarrod L. Bentley,
+KENTUCKY ENERGY AND ENVIRONMENT CABINET, Frankfort, Kentucky for Petitioner
+Kentucky Energy and Environment Cabinet. Jeffrey T. Hammons, UNITED STATES
+DEPARTMENT OF JUSTICE, Washington, D.C., for Respondents. Claiborne E. Walthall,
+OFFICE OF THE ATTORNEY GENERAL OF THE STATE OF NEW YORK, Albany, New
+York, for Amici Curiae. ON BRIEF: Matthew F. Kuhn, OFFICE OF THE KENTUCKY
+ATTORNEY GENERAL, Frankfort, Kentucky, for Petitioner Commonwealth of Kentucky.
+Jarrod L. Bentley, Joseph A. Newberg, II, KENTUCKY ENERGY AND ENVIRONMENT
+CABINET, Frankfort, Kentucky for Petitioner Kentucky Energy and Environment Cabinet.
+Jeffrey T. Hammons, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                           Page 2
+
+
+Respondents. Claiborne E. Walthall, Elizabeth A. Brody, OFFICE OF THE ATTORNEY
+GENERAL OF THE STATE OF NEW YORK, Albany, New York, Deena Tumeh, Kathleen
+Riley, Neil Gormley, EARTHJUSTICE, Washington, D.C., Shaun A. Goho, Hayden W.
+Hashimoto, CLEAN AIR TASK FORCE, Boston, Massachusetts, for Amici Curiae.
+
+         MURPHY, J., delivered the opinion of the court in which BOGGS and KETHLEDGE,
+JJ., joined. MURPHY, J. (pp. 34–41), also delivered a separate concurring opinion.
+                                      _________________
+
+                                           OPINION
+                                      _________________
+
+        MURPHY, Circuit Judge. After the Environmental Protection Agency (EPA) changed its
+air-quality standard for ozone under the Clean Air Act, the States needed to amend their state
+plans to implement the new standard. To help the States with their plan revisions, the EPA
+issued two guidance memoranda. It told the States that they could use specific modeling to
+identify their emissions that cross state lines. And it told them that they presumptively need not
+worry about any interstate emissions that fall below a specific minimum threshold.            This
+guidance led Kentucky to propose a plan that did not reduce its emissions further. But the EPA
+sat on Kentucky’s proposed plan for some two years—well past the Clean Air Act’s deadline for
+the agency to act.    It then belatedly disapproved the plan.       To Kentucky’s surprise, this
+disapproval rested on different modeling that came out after the EPA’s deadline and on a lower
+threshold than the one the EPA told Kentucky it could use. Kentucky petitioned our court to
+vacate the EPA’s disapproval. In response, the EPA sought to transfer Kentucky’s challenge to
+the D.C. Circuit because the EPA had disapproved Kentucky’s plan in a rule that also rejected 20
+other state plans.
+
+        We deny the EPA’s motion to send this case to the D.C. Circuit. Kentucky properly sued
+in this court because the EPA’s disapproval was not a “nationally applicable . . . final action” or
+one “based on a determination of nationwide scope or effect[.]” 42 U.S.C. § 7607(b)(1). The
+EPA’s view that a rule touching less than half the country can qualify as “nationally applicable”
+conflicts with that phrase’s ordinary meaning and would create much confusion over where to
+sue. At any rate, the EPA cannot turn the quintessential “local” action (a state-plan decision)
+into a national one merely by combining it with others. To fend off legal challenges on the
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                          Page 3
+
+
+merits, the EPA’s final rule also clarified that its decision to disapprove Kentucky’s plan rested
+on Kentucky’s unique facts. So its action was not “based on a determination of nationwide
+scope or effect.”
+
+       We next hold that the EPA’s disapproval of Kentucky’s plan violated the Administrative
+Procedure Act (APA). The EPA acted in an “arbitrary” way by telling Kentucky one thing and
+then doing another. 5 U.S.C. § 706(2)(A). It recommended that Kentucky use certain modeling
+and a certain threshold. Yet it denied Kentucky’s plan using different modeling and a different
+threshold. Ralph Waldo Emerson might have approved of this approach, since he once opined
+that “[a] foolish consistency is the hobgoblin of little minds[.]”      Antonin Scalia, Assorted
+Canards of Contemporary Legal Analysis, 40 Case W. Res. L. Rev. 581, 587 (1989) (quoting
+Ralph Waldo Emerson, Self-Reliance, in Essays and English Traits 66 (C.W. Eliot ed. 1909)).
+But this “canard” has no place in legal reasoning because “[c]onsistency is the very foundation
+of the rule of law.” Id. at 588. Congress thus kept it out of our administrative law by passing the
+APA. Because the EPA has not justified its inconsistencies here, we vacate its disapproval of
+Kentucky’s plan.
+
+                                                 I
+
+                                                 A
+
+       Like most laws, the Clean Air Act represents a compromise of competing interests.
+Cf. Luna Perez v. Sturgis Pub. Schs., 598 U.S. 142, 150 (2023). Congress sought to reduce
+pollution.   42 U.S.C. § 7401(a)(1)–(2).     But it also sought to respect state authority.     Id.
+§ 7401(a)(3)–(4). The Act thus seeks to improve air quality in a specific way: through “a model
+of cooperative federalism.” Sierra Club v. Korleski, 681 F.3d 342, 343 (6th Cir. 2012) (quoting
+Ellis v. Gallatin Steel Co., 390 F.3d 461, 467 (6th Cir. 2004)).
+
+       The cooperative process begins at the federal level.         The EPA must impose and
+periodically revise “national ambient air quality standards” for each air pollutant. 42 U.S.C.
+§ 7409(a)(1), (d). The EPA should set these standards at a level that will “protect the public
+health.” Id. § 7409(b)(1).
+ Nos. 23-3216/3225              Commonwealth of Ky., et al. v. EPA                          Page 4
+
+
+          When the EPA adopts a revised air-quality standard for a pollutant, the regulatory process
+shifts to the States. Each State must develop an “implementation plan” (or “[s]tate plan” for
+short) that will maintain and enforce this standard within its borders. Id. §§ 7407(a); 7410(a). A
+State must submit its plan to the EPA for approval within three years of the revised air-quality
+standard. Id. § 7410(a)(1). Its plan must satisfy many statutory criteria. See id. § 7410(a)(2).
+The plan, for example, must contain the emissions limits required to meet the new standard. Id.
+§ 7410(a)(2)(A).
+
+          Once the State submits its plan, the EPA must approve or disapprove it within 18 months.
+Id. § 7410(k)(1)–(3). The EPA must evaluate the plan only against the statutory criteria. If the
+plan meets the criteria, the EPA cannot reject it on the ground that the State has chosen an
+unwise method to attain the air-quality standard. See Ohio v. EPA, 603 U.S. 279, 284 (2024).
+
+          If the EPA disapproves a state plan, the agency must issue a “[f]ederal implementation
+plan” that meets the revised air-quality standard within the State. 42 U.S.C. § 7410(c)(1)(B).
+The agency may issue this federal plan “at any time within 2 years” from its disapproval of the
+state plan. Id. § 7410(c)(1). But if the State timely revises its plan to correct the original’s
+deficiencies and the EPA approves that revised plan, the EPA need not issue its own federal plan.
+Id. § 7410(c)(1)(B); see also EPA v. EME Homer City Generation, L.P., 572 U.S. 489, 507–10
+(2014).
+
+                                                  B
+
+          This case concerns a specific requirement that state plans must meet: the “Good Neighbor
+Provision.” EME Homer, 572 U.S. at 495. Pollutants emitted from a source (say, a power plant)
+in one State often do not stop at that State’s borders. Rather, the wind can carry the pollutants
+“over hundreds of miles” to one or more States. Id. at 496. This fact creates a classic “negative
+externality”: an upwind State can shift some of the cost of its activities (such as energy
+production) to downwind States. See id. at 495. Without national regulation, upwind States
+would have little incentive to take these external costs into account. See id. So downwind States
+might have to impose greater limits on their own activities to achieve acceptable pollution levels.
+See id.
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                          Page 5
+
+
+       Congress adopted the Good Neighbor Provision to create the national coordination
+required for States to “internalize” these harms. See 42 U.S.C. § 7410(a)(2)(D). This provision
+requires a state plan to include terms that prohibit “any source or other type of emissions activity
+within the State from emitting any air pollutant in amounts which will . . . contribute
+significantly to nonattainment in, or interfere with maintenance by, any other State with respect
+to” an air-quality standard.    Id. § 7410(a)(2)(D)(i).    How will States know whether their
+emissions will have these interstate effects? To help them identify emissions that they may have
+to reduce, the EPA must classify all areas as “nonattainment” (if an area does not meet an air-
+quality standard) or “attainment” (if it does). See id. § 7407(d); EME Homer, 572 U.S. at 498.
+
+       The Supreme Court has addressed the Good Neighbor Provision once when evaluating
+the “Cross-State Air Pollution Rule” (or “Transport Rule”) that the EPA issued in 2011. EME
+Homer, 572 U.S. at 500. The Transport Rule adopted a “two-step approach” for determining
+whether pollution sources in an upwind State “contribute[d] significantly to nonattainment” in a
+downwind State. Id. (citation omitted). First, the EPA asked whether the upwind State had
+sources linked to a downwind State’s “receptor[s]” (places where the EPA measures air quality).
+Id. At this “screening” step, if an upwind State’s sources contributed only a small part of the
+total pollutant at a downwind receptor (less than 1% of the air-quality standard for that
+pollutant), the Transport Rule decided that the State did not “contribute[] significantly” to the
+downwind State’s pollution problems. Id. at 501. Second, the Transport Rule relied on a cost-
+benefit analysis to control emissions from States whose pollution contributions at a receptor
+exceeded this 1% threshold. Id. at 500–01. Ultimately, the Court relied on the now-overruled
+review scheme from Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S.
+837 (1984), to hold that the Good Neighbor Provision’s text permitted this approach. See EME
+Homer, 572 U.S. at 495–96; cf. Loper Bright Enters. v. Raimondo, 144 S. Ct. 2244, 2273 (2024).
+
+                                                 C
+
+       This case also concerns a specific pollutant: ozone. Although ozone in the atmosphere
+helps protect us “from the sun’s radiation,” the pollutant at ground levels can harm human health
+(for example, by inflaming our lungs) and the earth’s vegetation (for example, by reducing crop
+yields). Ohio, 603 U.S. at 284; National Ambient Air Quality Standards for Ozone, 80 Fed. Reg.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                          Page 6
+
+
+65292, 65302–11, 65369–73 (Oct. 26, 2015). In October 2015, the EPA lowered the air-quality
+standard for ozone from 75 to 70 parts per billion (or ppb). 80 Fed. Reg. at 65330, 65365. This
+revision required the States to submit revised implementation plans within three years. See
+42 U.S.C. § 7410(a).      To help States develop plans that would meet the Good Neighbor
+Provision, the EPA released two memoranda in 2018.
+
+       March 2018 Memorandum. The EPA issued its first guidance in March 2018. It told the
+States that it planned to determine each State’s good-neighbor obligations using the same
+approach from the Transport Rule (but the agency now divided this approach into four steps).
+Mar. Mem., J.A. 76–77. At Step 1, the relevant federal or state regulator should “identify
+downwind” locations that will struggle to attain or maintain the air-quality standard. Id. At Step
+2, the regulator should identify the upwind States whose pollution sources “contribute enough to
+those downwind air quality problems to warrant further review[.]” Id. at 76. At Step 3, the
+regulator should rely on cost considerations (among other things) to calculate the amount of
+emissions reductions (if any) that an upwind State must make so that it does not contribute to the
+“downwind air quality problems[.]”       Id. at 77.   At Step 4, the regulator should identify
+“permanent and enforceable measures” to achieve these reductions. Id. The EPA told States that
+their plans could follow this approach or “alternative frameworks” that comported with the Good
+Neighbor Provision. Id.
+
+       This March 2018 Memorandum also included “modeling” data to predict ozone problems
+in downwind States in 2023 and to identify the upwind contributors. Id. The EPA suggested
+that the States could “consider using this national modeling to develop” their plans. Id. at 80.
+The modeling relied on data centered on pollution from 2011, so we will call it the “2011
+modeling.” Id. at 77–80. It identified two types of downwind “receptors”: those showing that a
+location would not attain the ozone standard in 2023 (“nonattainment receptors”) and those
+showing that a location would struggle to maintain that standard in 2023 (“maintenance
+receptors”). Id. at 78.
+
+       August 2018 Memorandum. Five months later, the EPA issued more “recommendations”
+for state plans.    Aug. Mem., J.A. 98.     These recommendations addressed “Step 2”—the
+“screening” step at which the EPA eliminates the upwind States that contribute only a small
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                         Page 7
+
+
+amount to downwind receptors. Id. at 99. As with the Transport Rule, the EPA historically
+screened out States that contributed less than 1% of an air-quality standard. See EME Homer,
+572 U.S. at 500 & n.3. If the EPA applied this rule to the ozone standard of 70 ppb, it would set
+a .7 ppb “threshold” that a State’s contributions must exceed. Aug. Mem., J.A. 100. The August
+2018 Memorandum compared this 1% rule (.7 ppb) to a larger threshold: 1 ppb. Id. It found that
+“the amount of upwind collective contribution” under both thresholds was “generally
+comparable[.]” Id. at 101. The EPA thus told States that they could use the higher 1 ppb
+threshold. Id. According to the EPA, if a State’s ozone contributions fell below 1 ppb at a
+receptor, the State could find that it did not contribute enough pollutants to warrant further
+review at Steps 3 and 4. Id. at 99. Yet the EPA also refused to guarantee approval of a state plan
+that followed this recommendation because the recommendation might “not apply to the facts
+and circumstances” of all States. Id. at 98.
+
+                                                D
+
+       Kentucky relied on these memoranda to draft its plan. It used the 2011 modeling from
+the March 2018 Memorandum and the 1 ppb threshold from the August 2018 Memorandum.
+State Plan, J.A. 151–52. At Step 2, these choices showed that Kentucky exceeded the screening
+threshold at only one maintenance receptor in Harford County, Maryland. Id. at 152; Mar.
+Mem., J.A. 89. Kentucky contributed 1.52 ppb of ozone to this location. State Plan, J.A. 152.
+
+       Turning to Step 3, Kentucky decided that it need not impose further emissions reductions
+despite the link to the Maryland receptor. Id. Kentucky gave several reasons for this conclusion.
+To begin with, the Maryland receptor was a “maintenance” receptor, so the pollution there was
+less severe than the pollution at a “nonattainment” receptor. Id. Kentucky’s ozone-producing
+emissions also would continue to decrease in future years because of other regulations and
+because of the expected “retirement of several” power plants. Id. at 163–66, 177–78. Kentucky
+also opined that “local” emissions in Maryland (such as local car traffic) contributed far more
+than Kentucky emissions to ozone in the area. Id. at 173–77. The Commonwealth believed that
+the EPA should compel “local sources” to reduce their emissions before requiring far-away
+sources to “over-control” their emissions. Id. at 173.
+ Nos. 23-3216/3225           Commonwealth of Ky., et al. v. EPA                         Page 8
+
+
+       During Kentucky’s notice-and-comment process, the EPA commented on its state plan.
+EPA Comments, J.A. 124–28.         Among other things, Kentucky’s plan used an “intricate
+combination” of the 2011 modeling from the March 2018 Memorandum and additional modeling
+from a Kentucky contractor. Id. at 126. The EPA recommended that Kentucky simply use the
+EPA’s 2011 modeling and its 1 ppb screening threshold as an “alternative, more straightforward
+approach[.]” Id. The agency added that this approach would still connect Kentucky only to the
+Maryland monitor. Id. The EPA separately noted that Kentucky should specifically identify the
+power-plant closures that EPA’s 2011 modeling failed to capture. Id.
+
+       After this feedback, Kentucky formally submitted its plan in January 2019. State Plan,
+J.A. 129. When discussing the EPA’s comments, Kentucky “concur[red] with EPA’s” simplified
+proposal. Id. at 454. Despite the link to the Maryland monitor, Kentucky also continued to find
+that it need not reduce emissions. Id. at 178. In that respect, it identified the planned power-
+plant “shutdown” that the 2011 modeling had not considered. Id. at 454.
+
+       Under the Act, the EPA had until July 2020 to rule on Kentucky’s plan. 42 U.S.C.
+§ 7410(k)(1)(B), (2). That date came and went without a ruling.
+
+       Nearly 20 months after the deadline, the EPA proposed a rule to disapprove Kentucky’s
+plan. Air Plan Disapproval, 87 Fed. Reg. 9498, 9498 (Feb. 22, 2022). This rule included two
+surprises. As for the first, the EPA used different modeling than the modeling in its March 2018
+Memorandum. See id. at 9500–01. The new modeling centered on pollution in 2016, so we will
+call it the “2016v2 modeling.” Id. As for the second, the EPA rejected the 1 ppb threshold that
+its August 2018 Memorandum had recommended to screen out small upwind contributions. Id.
+at 9502–03. The agency proposed returning to the lower threshold that the Transport Rule had
+used: 1% of the air-quality standard (.7 ppb for the ozone standard). Id. These changes affected
+Kentucky in different ways. On the one hand, the new modeling no longer linked Kentucky to
+the Maryland receptor because that receptor was now adequately attaining the air-quality
+standard. Id. at 9507, 9509. On the other hand, the .7 ppb threshold linked Kentucky to three
+nonattainment receptors in Connecticut and one maintenance receptor in Pennsylvania. Id.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                          Page 9
+
+
+       A year later, the EPA disagreed with Kentucky’s objections and issued a final rule
+disapproving its plan. Air Plan Disapprovals, 88 Fed. Reg. 9336, 9356 (Feb. 13, 2023). This
+rule combined the EPA’s denial of Kentucky’s plan with its denial of 20 others. See id. at 9336–
+38 & n.8. The rule contained two fresh surprises. The EPA again switched to new modeling: the
+“2016v3 modeling.” See id. at 9339, 9344. Although this modeling contained similar data as the
+2016v2 modeling, it included “models, methods, and source datasets that became available in
+calendar years 2020 through 2022[.]” Id. at 9345. Further, the EPA now identified a third type
+of “receptor”—what it called a “violating monitor”—in addition to maintenance and
+nonattainment receptors. Id. at 9342. It chose this third group as a cautionary matter. Fresh
+information from 2021 and 2022 showed that certain locations were not attaining the ozone
+standard even though the EPA’s modeling predicted that these areas would meet the standard.
+Id. at 9349. At the same time, the EPA used these new monitors only on a “confirmatory basis”
+and chose not to rely on them as a sole ground to deny a state plan. Id.
+
+       How did these fresh changes affect Kentucky? The 2016v3 modeling and 1% threshold
+continued to link Kentucky to three Connecticut receptors. 2016v3 Modeling, J.A. 577. The
+EPA also linked Kentucky to four new violating monitors in Connecticut, New York, Michigan,
+and Ohio. Id. at 578; see 88 Fed. Reg. at 9356. Relying on these links at Step 2, the EPA found
+Kentucky’s proposal inadequate at Step 3. See 88 Fed. Reg. at 9356.
+
+                                                E
+
+       The EPA’s disapproval of these 21 state plans triggered a flood of litigation. Many States
+sought review of the EPA’s denials in their regional circuit courts. Kentucky and its Energy and
+Environment Cabinet (collectively, Kentucky) filed petitions for review in our court, asking us to
+vacate the EPA’s disapproval of their plan.         The EPA responded by moving to transfer
+Kentucky’s case to the D.C. Circuit. Meanwhile, the Commonwealth moved to stay the EPA’s
+disapproval of its plan pending our full review. In May 2023, a motions panel granted a short
+administrative stay while it considered these motions. The same month, other circuit courts also
+stayed the denials of other state plans. See Ohio, 603 U.S. at 288–89.
+ Nos. 23-3216/3225              Commonwealth of Ky., et al. v. EPA                          Page 10
+
+
+         A few days after we granted our administrative stay, the EPA imposed its own federal
+implementation plan on Kentucky and 22 other States for the 2015 ozone standard. Federal
+“Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality Standards, 88 Fed.
+Reg. 36654, 36654 (June 5, 2023). States challenged that plan in the D.C. Circuit. See Ohio,
+603 U.S. at 290.
+
+         As litigation over the federal plan progressed, regional circuits continued to stay the
+EPA’s disapproval of state plans. See id. In July 2023, we turned our administrative stay into a
+stay pending our full review. Kentucky v. EPA, 2023 WL 11871967, at *5 (6th Cir. July 25,
+2023) (order). We also denied the EPA’s motion to transfer the suit to the D.C. Circuit. See id.
+at *1–3.
+
+         A short time later, the EPA stayed its federal plan for the States that had obtained judicial
+stays.     Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality
+Standards, 88 Fed. Reg. 49295, 49295 (July 31, 2023). These stays grew to cover “12 of the 23”
+States subject to the federal plan.      Ohio, 603 U.S. at 289–90.        Yet this plan’s emissions
+reductions rested on the premise that all States would participate. See id. at 287–88, 293–94.
+The Supreme Court thus stayed the federal plan pending judicial review of that plan’s validity.
+See id. at 300.
+
+                                               * * *
+
+         The Supreme Court’s decision completes the backdrop against which we must review
+Kentucky’s petitions here. Those petitions raise three questions. Did Kentucky sue in the right
+court? If so, did the EPA lawfully deny Kentucky’s plan? If not, what is the proper remedy?
+Our short answers: Yes, No, and Vacatur. We will fill in the details to each answer in turn.
+
+                              II. Did Kentucky Sue in the Right Court?
+
+         The EPA has renewed its request to transfer Kentucky’s petitions to the D.C. Circuit.
+Kentucky responds that we should reject this request based solely on the motions panel’s earlier
+order denying the EPA’s motion to transfer. See Kentucky, 2023 WL 11871967, at *1–3.
+According to Kentucky, we must “defer[]” to “the decisions of motions panels” and “cannot
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                            Page 11
+
+
+simply” reject them. Wallace v. FedEx Corp., 764 F.3d 571, 583 (6th Cir. 2014). Yet we have
+never explained the amount of deference due these decisions. Indeed, why should we defer at
+all? We can (and sometimes do) depart from unpublished opinions. See Bell v. Johnson, 308
+F.3d 594, 611 (6th Cir. 2002). And other circuits do not defer to similar interlocutory rulings.
+See Tex. Democratic Party v. Abbott, 978 F.3d 168, 176 (5th Cir. 2020); United States v. Lopez-
+Armenta, 400 F.3d 1173, 1175 (9th Cir. 2005); Am. Fed’n of Grain Millers, Loc. 24 v. Cargill
+Inc., 15 F.3d 726, 727 (7th Cir. 1994); 16AA Charles A. Wright et al., Federal Practice and
+Procedure § 3973.3, at 256–60 (5th ed. 2023). Still, we may save that question for another day.
+Even reviewing the EPA’s motion de novo, we agree with the motions panel that it lacks merit.
+
+                                       A. Background Law
+
+       The Clean Air Act allows a party injured by an EPA action to file a “petition for review”
+challenging the action in a circuit court of appeals. 42 U.S.C. § 7607(b)(1). The Act’s (lengthy)
+judicial-review provision contains three basic parts. First, the provision gives the D.C. Circuit
+the authority to review the EPA’s “nationally applicable” “regulations” or “final action”:
+
+       A petition for review of action of the Administrator in promulgating any national
+       primary or secondary ambient air quality standard, any emission standard or
+       requirement under section 7412 of this title, any standard of performance or
+       requirement under section 7411 of this title,[] any standard under section 7521 of
+       this title (other than a standard required to be prescribed under section 7521(b)(1)
+       of this title), any determination under section 7521(b)(5) of this title, any control
+       or prohibition under section 7545 of this title, any standard under section 7571 of
+       this title, any rule issued under section 7413, 7419, or under section 7420 of this
+       title, or any other nationally applicable regulations promulgated, or final action
+       taken, by the Administrator under this chapter may be filed only in the United
+       States Court of Appeals for the District of Columbia.
+
+Id. Second, the provision gives the appropriate regional circuit court the authority to review the
+EPA’s “locally or regionally applicable” actions:
+
+       A petition for review of the Administrator’s action in approving or promulgating
+       any implementation plan under section 7410 of this title or section 7411(d) of this
+       title, any order under section 7411(j) of this title, under section 7412 of this title,
+       under section 7419 of this title, or under section 7420 of this title, or his action
+       under section 1857c-10(c)(2)(A), (B), or (C) of this title (as in effect before
+       August 7, 1977) or under regulations thereunder, or revising regulations for
+       enhanced monitoring and compliance certification programs under section
+ Nos. 23-3216/3225              Commonwealth of Ky., et al. v. EPA                        Page 12
+
+
+       7414(a)(3) of this title, or any other final action of the Administrator under this
+       chapter (including any denial or disapproval by the Administrator under
+       subchapter I) which is locally or regionally applicable may be filed only in the
+       United States Court of Appeals for the appropriate circuit.
+
+Id. Third, the provision redirects even a locally or regionally applicable action to the D.C.
+Circuit if the action is “based on a determination of nationwide scope or effect” and the EPA
+notes that the action has this scope or effect:
+
+       Notwithstanding the preceding sentence a petition for review of any action
+       referred to in such sentence may be filed only in the United States Court of
+       Appeals for the District of Columbia if such action is based on a determination of
+       nationwide scope or effect and if in taking such action the Administrator finds and
+       publishes that such action is based on such a determination.
+
+Id.
+
+       Our court has yet to decide on the nature of this provision.             Does it impose a
+(nonwaivable) jurisdictional ban on the wrong circuit’s adjudication of a petition or instead a
+(waivable) limit on the proper venue in which to sue? See Wachovia Bank v. Schmidt, 546 U.S.
+303, 315–16 (2006). Other courts have read § 7607(b) as granting jurisdiction to all circuit
+courts, and they have added that its circuit-specific rules identify only the proper venue. See
+Texas v. EPA, 829 F.3d 405, 418 (5th Cir. 2016); Dalton Trucking, Inc. v. EPA, 808 F.3d 875,
+879–80 (D.C. Cir. 2015); Clean Water Action Council of Ne. Wis., Inc. v. EPA, 765 F.3d 749,
+751–52 (7th Cir. 2014). But the parties did not brief this distinction. And our holding that
+Kentucky sued in the right court eliminates the need to decide it. Cf. Jaber v. Gonzales, 486
+F.3d 223, 228 n.3 (6th Cir. 2007).
+
+                                           B. Application
+
+       The EPA offers two reasons why this suit belongs in the D.C. Circuit. It first argues that
+its disapproval of the 21 state plans qualifies as a “nationally applicable . . . final action.” And
+even if the disapproval of Kentucky’s plan was “locally or regionally applicable,” the EPA next
+argues that it was “based on a determination of nationwide scope or effect.” These claims have
+created a circuit split. Apart from Kentucky, several States have challenged the disapprovals of
+their plans in regional circuits. And most circuit courts have held that they (not the D.C. Circuit)
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 13
+
+
+represent the proper tribunal for the suits. See West Virginia v. EPA, 90 F.4th 323, 331 (4th Cir.
+2024) (citing cases).   The Tenth Circuit, by contrast, has sent challenges to the denial of
+Oklahoma’s plan to the D.C. Circuit. See Oklahoma ex rel. Drummond v. EPA, 93 F.4th 1262,
+1266–69 (10th Cir. 2024), cert. granted, 2024 WL 4529798 (U.S. Oct. 21, 2024). We agree with
+the courts that have rejected the EPA’s two arguments for D.C. Circuit review.
+
+       1. Did the EPA take a “nationally applicable” action when denying Kentucky’s plan?
+
+       The EPA argues that its rule disapproving the state plans qualifies as a single “nationally
+applicable . . . final action” rather than many “locally or regionally applicable” actions.
+42 U.S.C. § 7607(b)(1). This claim misreads the phrases “nationally applicable” and “final
+action.”
+
+       Nationally Applicable. The EPA first misconstrues the phrase “nationally applicable” in
+§ 7607(b)(1). As with any case, we start with the “ordinary meaning” of the words Congress
+used. Engine Mfrs. Ass’n v. S. Coast Air Quality Mgmt. Dist., 541 U.S. 246, 252 (2004) (quoting
+Park ‘N Fly, Inc. v. Dollar Park & Fly, Inc., 469 U.S. 189, 194 (1985)); see Nat’l Ass’n of Mfrs.
+v. Dep’t of Def., 583 U.S. 109, 127 (2018). The key words—“nationally applicable regulations
+promulgated, or final action taken,” by the EPA—convey that the challenged regulations or
+action must apply to the entire country. 42 U.S.C. § 7607(b)(1). Because the phrasal adjective
+“nationally applicable” modifies the nouns “regulations” and “action,” the regulations or action
+must “have reference to” (“applicable”) the “nation as a whole” (“nationally”). 1 Oxford English
+Dictionary 575 (2d ed. 1989); 10 Oxford English Dictionary, supra, at 235; Webster’s Third New
+Int’l Dictionary 105, 1505 (1976). We doubt that we need dictionaries for this point. Would
+anyone say that Congress passed a “nationally applicable” law if the law formally applied to only
+40% of the country? No, the word “‘[n]ational’ contemplates an activity with a nationwide
+scope.” Black’s Law Dictionary 923 (5th ed. 1979). And here, all agree that the EPA’s rule
+formally applies to just 21 States—not the whole country.
+
+       Two canons of construction confirm this reading. The sentence in § 7607(b)(1) that
+contains the “nationally applicable” clause triggers the “ejusdem generis” canon. That canon
+applies to a catchall clause following a list of items. See Bissonnette v. LePage Bakeries Park
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                          Page 14
+
+
+St., LLC, 601 U.S. 246, 252 (2024). It instructs courts to interpret the catchall as falling within
+the same class as the specific items that precede it. See id. So, for example, the phrase “seamen,
+railroad employees, or any other class of workers” covers only transportation workers—not all
+workers. 9 U.S.C. § 1; see Bissonnette, 601 U.S. at 252–53. The catchall clause here—“any
+other nationally applicable regulations promulgated, or final action taken, by the” EPA—also
+follows a list of specific actions that parties must challenge in the D.C. Circuit. 42 U.S.C.
+§ 7607(b)(1). And as far as we can tell, those actions have nationwide applicability. See id. For
+example, challengers must sue in the D.C. Circuit over “any national primary or secondary
+ambient air quality standard[.]” Id. Likewise, they must sue in the D.C. Circuit over the EPA’s
+“standards” for stationary sources, hazardous pollutants, motor vehicles, fuels, and aircraft under
+42 U.S.C. §§ 7411, 7412, 7521, 7545, and 7571. Id. § 7607(b)(1). And they must sue in that
+court over the general “rules” that govern enforcement (or similar) proceedings under §§ 7413,
+7419, and 7420. Id. § 7607(b)(1). Given that the list in § 7607(b)(1) includes several national
+regulations, we read the catchall to have a similar breadth. See Bissonnette, 601 U.S. at 252.
+
+       Next, courts presume that Congress means to adopt “clear boundaries” in “jurisdictional
+statutes” to avoid wasteful litigation over the proper forum. Direct Mktg. Ass’n v. Brohl, 575
+U.S. 1, 11 (2015); see Miss. ex rel. Hood v. AU Optronics Corp., 571 U.S. 161, 172–73 (2014);
+Hertz Corp. v. Friend, 559 U.S. 77, 94 (2010). Even if § 7607(b)(1) is a mere venue provision,
+the Supreme Court would likely extend this “clear boundaries” principle to § 7607(b)(1). See
+New York v. EPA, 133 F.3d 987, 990 (7th Cir. 1998). And our reading has “administrative
+simplicity” because it asks an objective question: Does the action formally apply to the nation?
+Hertz, 559 U.S. at 94. The EPA’s view, by contrast, would engender perpetual litigation over the
+actions that are “nationally applicable.” The agency says its rule here falls within that phrase
+because the rule covers 21 States in different parts of the country. Would this logic reach an
+action that covered only California, Maine, and Alabama because they fall in different parts of
+the country? If not, how many more States are needed? The EPA does not even try to answer
+these questions.
+
+       Final Action. The EPA also misconstrues the phrase “final action” in § 7607(b)(1). It
+argues that its disapprovals of the 21 state plans all qualify as a single consolidated action rather
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 15
+
+
+than 21 separate actions. It thus advocates for a “rulemaking approach” that treats as a single
+“action” any regulatory decisions that the EPA combines into a single rule in the Federal
+Register. According to Kentucky, by contrast, the phrase “final action” adopts a “statutory
+approach” that treats each activity the Clean Air Act allows the EPA to take as a distinct
+“action”—whether the EPA announces these activities in a single rule or separate rules in the
+Federal Register.
+
+       We side with Kentucky in this debate. This time, though, the ordinary meaning of
+“action” does not help all that much. That word means simply a “thing done” or “something
+done.” Webster’s Third, supra, at 21; Black’s, supra, at 26. So these (circular) definitions leave
+the critical question unanswered: Did the EPA do 21 “things” or a single “thing” in the rule?
+
+       That said, Kentucky’s approach better fits the “structure” of the judicial-review
+provision. Engine Mfrs. Ass’n, 541 U.S. at 252. As a general matter, § 7607(b)(1) focuses on
+the statute (not the rulemaking) to distinguish the EPA actions that parties must challenge in the
+D.C. Circuit from those they must challenge in regional circuits. See Texas v. EPA, 2023 WL
+7204840, at *4 (5th Cir. May 1, 2023) (per curiam). The provision ties the proper tribunal to the
+activity taken “under this chapter” (that is, under the Clean Air Act). 42 U.S.C. § 7607(b)(1).
+For example, § 7409(a)(1) requires the EPA to issue a national air-quality standard “for each air
+pollutant,” and § 7607(b)(1) sends a challenge to “any” such “standard” to the D.C. Circuit. On
+the other hand, § 7419(a)(1)(A) allows the EPA to issue a “primary nonferrous smelter order” for
+a specific smelter, and § 7607(b)(1) sends a challenge to such an “order” to a regional circuit.
+Nothing in § 7607(b)(1)’s text would allow the EPA to obtain D.C. Circuit review of the smelter
+order simply by combining it with the air-quality standard. Rather, the standard and the order
+represent distinct “actions” even if the EPA publishes them in the same rule in the Federal
+Register.
+
+       Congress also knows how to refer to rules in the Federal Register when it wants to.
+Section 7607(b)(1) makes the “notice” of an EPA action “in the Federal Register” relevant to the
+60-day limit for suing. Id. Congress also required a “promulgated rule” to go through several
+procedures. Id. § 7607(d)(6)(A). Yet Congress used “final action” (not “promulgated rule”)
+when deciding where parties must sue.       Id. § 7607(b)(1), (d)(6)(A).   And courts normally
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                          Page 16
+
+
+presume Congress acts intentionally with such different word choices. See Burlington N. &
+Santa Fe Ry. Co. v. White, 548 U.S. 53, 63 (2006); Gen. Motors Corp. v. United States, 496 U.S.
+530, 541 (1990).
+
+       As a specific matter, § 7607(b)(1) clarifies that the disapproval of each state plan
+qualifies as a distinct “action” that falls on the local side of this divide. The Clean Air Act
+requires the EPA to “act” on each State’s “submission” on a plan-by-plan basis within a specific
+time. 42 U.S.C. § 7410(k)(2); see West Virginia, 90 F.4th at 330. The judicial-review provision
+then indicates that the EPA’s “action in approving . . . any implementation plan” (in the singular)
+belongs in a regional circuit. 42 U.S.C. § 7607(b)(1). And while the EPA denied Kentucky’s
+plan, this decision falls within the catchall for “locally or regionally applicable” actions (which
+includes a “denial or disapproval”). Id. As then-Judge Kavanaugh explained, EPA action on a
+state plan qualifies as the “prototypical” decision that belongs in a regional circuit because of its
+local character. Am. Rd. & Transp. Builders Ass’n v. EPA, 705 F.3d 453, 455 (D.C. Cir. 2013).
+So each state-plan denial in the EPA’s rule qualifies as a distinct “action” under the Clean Air
+Act. This reading makes this case easy: the EPA’s disapproval of Kentucky’s plan is a locally
+applicable action.
+
+       The EPA’s contrary arguments do not convince us otherwise. The agency offers no
+textual theory for its view that the phrase “nationally applicable” can reach an action applying to
+a hodgepodge of States that make up less than half the nation. It instead jumps to precedent,
+suggesting that courts have treated EPA actions as “nationally applicable” if they affect a large
+(unidentified) number of States. See S. Ill. Power Coop. v. EPA, 863 F.3d 666, 671 (7th Cir.
+2017); ATK Launch Sys., Inc. v. EPA, 651 F.3d 1194, 1197 (10th Cir. 2011); Texas v. EPA, 2011
+WL 710598, at *3–4 (5th Cir. Feb. 24, 2011); W. Va. Chamber of Com. v. Browner, 1998 WL
+827315, at *2, *6–8 (4th Cir. Dec. 1, 1998) (per curiam). But the Fifth Circuit has since clarified
+that the EPA misread its precedent. See Calumet Shreveport Refin., L.L.C. v. EPA, 86 F.4th
+1121, 1131 (5th Cir. 2023), cert. granted, 2024 WL 4529794 (U.S. Oct. 21, 2024). True, a
+regulation can be “nationally applicable” if its “legal effect” applies to the whole country—even
+if its practical effect is felt only by a subset of States. Id. The EPA could, for example, adopt a
+universal regulation imposing requirements that practically apply to only some States
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                         Page 17
+
+
+(say, because of their different geographies or because the remaining States already satisfy the
+regulation). But the EPA seeks to go well beyond that valid principle because it makes no claim
+that a rule disapproving 21 state plans formally applies everywhere.
+
+        As for the remaining circuits, we disagree with their view that a regulation need not
+regulate the nation as a whole to be “nationally applicable.” Take the Tenth Circuit’s decision in
+ATK Launch Systems, 651 F.3d at 1197. It did not try to interpret the phrase “nationally
+applicable.” Rather, it merely concluded that a regulation’s reach “from coast to coast and
+beyond” suffices even if the regulation does not formally apply to the whole nation. Id. But the
+court did not say why. And it left many questions unanswered. How many States must a rule
+cover? How spread out must the covered States be? Nothing in the statute can answer these
+questions.
+
+        Next, the EPA suggests that we must consider the “face of [its] rule”—not the rule’s
+“practical effect” as applied to Kentucky—to decide whether it is “nationally applicable.”
+Respondents’ Br. 32 (quoting ATK Launch Sys., 651 F.3d at 1197). This argument conflates the
+rule issued in the Federal Register (the EPA’s words) with the “final action” that the EPA takes
+(the statute’s words). 42 U.S.C. § 7607(b)(1). Those phrases do not mean the same thing. And
+the relevant final action (the denial of Kentucky’s plan) applies only to Kentucky on its face.
+
+        The EPA also argues that its disapprovals of the 21 plans represent a single “nationally
+applicable” action because the disapprovals rested on a “uniform legal interpretation and
+common, nationwide analytical methods[.]” Respondents’ Br. 35 (quoting 88 Fed. Reg. at 9380–
+81). This theory conflicts with § 7607(b)(1)’s text and structure. Starting with text, the phrase
+“nationally applicable” modifies the action that the EPA takes—not the reasons for it. And here,
+the action was a “prototypical” local decision. Am. Rd. & Transp. Builders Ass’n, 705 F.3d at
+455.   Turning to structure, Congress recognized that local actions might rest on national
+decisions. So it allowed D.C. Circuit review if the EPA showed that a local action was “based
+on a determination of nationwide scope or effect[.]” 42 U.S.C. § 7607(b)(1). We would unravel
+this layered scheme if we looked to an action’s justification at the start to decide whether the
+action is national or local.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                       Page 18
+
+
+       The EPA ends with policy. It suggests that Kentucky’s view inefficiently requires many
+courts to “concurrently” review actions that rest on the “same legal interpretations, policy
+decisions, and analytical methodology,” which could generate “inconsistent” results.
+Respondents’ Br. 37. Yet we see competing “wisdom” in “allowing difficult issues to mature
+through full consideration” by different courts. E.I. du Pont de Nemours & Co. v. Train, 430
+U.S. 112, 135 n.26 (1977). This expanded review increases the likelihood that the Supreme
+Court will have all arguments before it when it resolves the issue. See id. Regardless, the axiom
+that “no legislation pursues its purposes at all costs” applies just as much to procedural
+provisions as it does to substantive ones. CTS Corp. v. Waldburger, 573 U.S. 1, 12 (2014)
+(quoting Rodriguez v. United States, 480 U.S. 522, 525–26 (1987) (per curiam)). We thus must
+enforce the judicial-review provision as written even if it conflicts with the EPA’s views of
+“sound policy.” Nat’l Ass’n of Mfrs., 583 U.S. at 132 (quoting Florida Power & Light Co. v.
+Lorion, 470 U.S. 729, 746 (1985)). And the written text makes clear that the EPA took a locally
+applicable action when disapproving Kentucky’s plan.
+
+       2. Is the denial of Kentucky’s plan “based on a determination of nationwide
+          scope or effect”?
+
+       The EPA alternatively claims that, even if its disapproval of Kentucky’s plan was
+“locally or regionally applicable,” that disapproval was “based on a determination of nationwide
+scope or effect” under § 7607(b)(1). 88 Fed. Reg. at 9380. The EPA said as much in the final
+rule itself, so it met the separate requirement that it “publish” this finding. Id.; 42 U.S.C.
+§ 7607(b)(1). The agency reasoned that all 21 disapprovals were “based on a common core of
+nationwide policy judgments and technical analysis concerning the interstate transport of
+pollutants throughout the continental U.S.” 88 Fed. Reg. at 9380. The EPA then listed three
+examples. First, the agency used the same four-step “framework” when disapproving all 21
+plans. Id. Second, the disapprovals rested on the 2016v3 modeling and a uniform approach to
+identifying maintenance and nonattainment receptors.        Id. at 9380–81.     Third, the EPA
+considered requests to use “alternative approaches or alternative sets of data” under the same
+standards.   Id. at 9381.   This interpretation misreads two other phrases in § 7607(b)(1):
+“determination” and “based on.”
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                          Page 19
+
+
+       Determination. The EPA argues that each analytical step in the chain of reasoning to its
+ultimate decision for a “final action” qualifies as an independent “determination” that triggers
+review in the D.C. Circuit if at least one step (considered in isolation) has a “nationwide scope or
+effect.” 42 U.S.C. § 7607(b)(1). To give the obvious example, the EPA reasons that every
+approval or disapproval of a state plan includes the choice to follow its four-step “framework”
+for applying the Good Neighbor Provision. 88 Fed. Reg. at 9380. Because this framework
+applies everywhere, the EPA says that every one of its actions on a state plan will be “based on a
+determination of nationwide scope or effect” about the Good Neighbor Provision’s meaning.
+
+       This broad reading of “determination” lacks merit. We again start with the “ordinary
+meaning” of the text. Engine Mfrs. Ass’n, 541 U.S. at 252. Admittedly, “determination” in the
+abstract could mean what the EPA says because it can refer to any academic resolution of a
+“question by argument or reasoning.” Webster’s Third, supra, at 616. But the EPA’s reading
+does not fit the context. When used to describe a ruling from an “administrative agency,”
+Black’s Law Dictionary, supra, at 405, “determination” has a more precise “legal meaning” that
+refers to the agency’s ultimate decision—not each preliminary step on the road to that decision.
+Smith v. Spizzirri, 601 U.S. 472, 477 (2024); United States v. Hansen, 599 U.S. 762, 774 (2023).
+In other words, the word “implies an ending or finality of a controversy or suit,” Black’s Law
+Dictionary, supra, at 405, and directs us to look to the “authoritative decision” of the “matter at
+issue,” 4 Oxford English Dictionary, supra, at 548; Webster’s Third, supra, at 616; see also
+McQuillin v. Hartford Life & Accident Ins. Co., 36 F.4th 416, 420 (2d Cir. 2022).              This
+understanding shows that courts should ask whether the ultimate decision underlying the EPA’s
+“final action” has a “nationwide scope or effect.” 42 U.S.C. § 7607(b)(1); see West Virginia, 90
+F.4th at 328–29.
+
+       The EPA’s “unbounded interpretation,” by contrast, would upset Congress’s “careful
+delineation” of the actions that parties should challenge in the D.C. Circuit and those that they
+should challenge in regional circuits. Fischer v. United States, 603 U.S. 480, 493 (2024). If
+“determination” covered each discrete choice the EPA makes en route to a final decision, every
+“final action” rests on a nationwide “determination.” After all, the EPA always must ground its
+actions in a “national rule or standard” in the Clean Air Act or its regulations. West Virginia, 90
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                          Page 20
+
+
+F.4th at 328. The agency cannot haphazardly regulate parties by adopting one view of the law
+for some States and the opposite view for others. The EPA’s reading thus would allow it to send
+every action to the D.C. Circuit despite Congress’s presumptive choice to keep local actions
+local.
+
+         To be sure, the EPA’s reading would not make Congress’s choice entirely “superfluous.”
+Fischer, 603 U.S. at 493. Even if all local actions rest on nationwide determinations (as the EPA
+implies), the agency still must “publish[]” a finding to that effect. 42 U.S.C. § 7607(b)(1). If it
+opts not to, parties could sue in regional circuits. The EPA thus asks us to give it total discretion
+to decide where parties should sue. But this fact confirms its error because § 7607(b)(1) does not
+grant it this discretion. Recall that the relevant sentence sends a local action to the D.C. Circuit
+only if both the action “is based on a determination of nationwide scope or effect and” the EPA
+“publishes that such action is based on such a determination.” Id. (emphasis added). So the
+action must rest on a nationwide determination (the first requirement) independent of the EPA’s
+published views (the second requirement). Congress would not have written this sentence in the
+conjunctive if it meant to give the EPA complete discretion. It would have simply said that a
+local action belongs in the D.C. Circuit if the EPA finds that it rests on a national determination.
+All told, then, “determination” refers to the EPA’s “authoritative” answer to the question it
+resolves when taking an action. 4 Oxford English Dictionary, supra, at 548.
+
+         This definition proves the EPA’s error here. The agency suggests that its preliminary
+choices (such as its use of the four-step framework for the Good Neighbor Provision) were
+independent “determination[s]” under § 7607(b)(1). But those choices did not “end[]” the
+“controversy”: whether the EPA should approve Kentucky’s plan. 4 Oxford English Dictionary,
+supra, at 548. Instead, the “determination” underlying the EPA’s disapproval was its ultimate
+decision that Kentucky did not satisfy the Good Neighbor Provision. See 88 Fed. Reg. at 9356.
+
+         We thus must ask whether this decision about Kentucky’s plan had a “nationwide scope
+or effect” under § 7607(b)(1). It did not. Like “nationally applicable,” the word “nationwide”
+shows that a determination’s “scope or effect” must exist “throughout [the] entire nation.”
+Webster’s Third, supra, at 1505; West Virginia, 90 F.4th at 328. And the phrase “scope or
+effect” shows that this provision reaches EPA decisions that apply to the entire country as a legal
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                          Page 21
+
+
+matter (de jure) or as a practical one (de facto). That is, a determination might have a nationwide
+“scope” if its formal “area” of operation covers the country. 14 Oxford English Dictionary,
+supra, at 672; see Webster’s Third, supra, at 2035. And it might have a nationwide “effect” if its
+“operative influence” is felt everywhere.      5 Oxford English Dictionary, supra, at 79; see
+Webster’s Third, supra, at 724.
+
+       Nothing about the EPA’s decision to deny Kentucky’s plan has this scope or effect. To
+the contrary, the agency decided that Kentucky’s plan did not satisfy the Good Neighbor
+Provision due to “circumstances . . . unique” to that plan. West Virginia, 90 F.4th at 328. To
+start, the EPA found that Kentucky wrongly suggested at Step 2 of its framework that the
+Commonwealth’s emissions sources were linked only to a Maryland receptor. See 87 Fed. Reg.
+at 9509. The EPA decided instead that Kentucky sources were linked to three Connecticut
+receptors. 88 Fed. Reg. at 9356; 2016v3 Modeling, J.A. 577. Next, the EPA disagreed with
+Kentucky’s “particular arguments” for using the higher 1 ppb threshold (rather than the lower
+1% threshold) to weed out the receptors with which it had an insufficient connection. 88 Fed.
+Reg. at 9373 (emphasis added). Because Kentucky’s connection to the Connecticut receptors
+fell in between these thresholds, the EPA proceeded to Step 3. See id. at 9356. It lastly found
+that Kentucky did not adequately show at that step why it need not reduce any emissions to help
+the Connecticut receptors attain the ozone standard. Id. This logic applied only to Kentucky and
+had, at most, regional effects.      So the EPA does not even try to argue that its final
+“determination” had any sort of nationwide scope or effect.
+
+       Based On. Apart from the EPA’s overbroad reading of “determination,” it disregards that
+the final action must be “based on” the identified determinations. 42 U.S.C. § 7607(b)(1). In
+ordinary English, one would say that a person’s action (say, taking an umbrella on a trip) is
+“based on” a factor (say, the high chance of rain) if the person has “ground[ed]” the action in that
+factor. McGraw-Hill’s Dictionary of American Idioms and Phrasal Verbs 34 (2005). When a
+statute uses a phrase like “based on” to connect one thing to another in this way, the Supreme
+Court has relied on a “traditional background principle[]”—but-for causation—to eliminate
+factors that an action could not have been based on. Burrage v. United States, 571 U.S. 204,
+213–14 (2014); Safeco Ins. Co. of Am. v. Burr, 551 U.S. 47, 63 (2007); see also Univ. of Tex. Sw.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                         Page 22
+
+
+Med. Ctr. v. Nassar, 570 U.S. 338, 350 (2013). Under this test, the person’s decision to take an
+umbrella could not have been based on the chance of rain unless the person would have left the
+umbrella at home “but for” this chance. Burrage, 571 U.S. at 212. That is, the chance of rain
+must have mattered to that decision. See id. at 211–12. Here, then, if the EPA would have taken
+the same “action” without the alleged “determination,” nobody would say the action was “based
+on” the determination.
+
+       This reading of “based on” independently dooms the EPA’s reliance on two of the
+alleged “determinations” identified in the final rule. The agency suggested that its denial of
+Kentucky’s plan rested on its decision to rely on the 2016v3 modeling and its use of “uniform”
+criteria to evaluate each State’s request to use a 1 ppb threshold rather than a threshold of 1% of
+the ozone standard (.7 ppb). 88 Fed. Reg. at 9380. In this court, however, the EPA claims that it
+would have denied Kentucky’s plan even if it had allowed Kentucky to use the 2011 modeling
+and 1 ppb threshold. Respondents’ Br. 56–57. Under that older modeling and higher threshold,
+Kentucky sources were still linked to a Maryland receptor. State Plan, J.A. 152. And the EPA
+argues that Kentucky did not adequately explain why it need not cut emissions to allow this
+receptor to meet the ozone standard. Respondents’ Br. 57–68. Yet if the EPA would have
+denied Kentucky’s plan anyway, that denial could not have been “based on” the agency’s use of
+the later modeling and lower threshold. So these decisions cannot allow the EPA to take this
+case to the D.C. Circuit.
+
+       The EPA’s responses again lack merit. It makes two textual arguments to support its
+reading of “determination.” The agency first points out that the statute uses “a” to modify
+“determination” (“based on a determination of nationwide scope or effect”). This indefinite
+article allegedly implies that an action can rest on multiple determinations and that only one need
+have a “nationwide scope or effect.” But the EPA places too much weight on this article.
+Because “determination” is a “countable noun[],” basic grammar rules required Congress to use
+the article (nobody would say “based on determination”). Niz-Chavez v. Garland, 593 U.S. 155,
+162–63 (2021). And the use of “a” says nothing about whether “determination” should reach
+each of the EPA’s nonfinal interpretive choices or just its final decision. If anything, the
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                       Page 23
+
+
+decision to use a singular noun could just as well convey that the final action must rest on a
+“single” decision—not on many separate decisions. Id. at 163.
+
+       The EPA also suggests that our reading of “determination” suffers from the same
+problem as its reading: we allegedly strike this clause out of the statute because the final
+“applying-the-law-to-the-facts” decision that underlies any local action will never have the
+required nationwide scope or effect. Yet caselaw existing before Congress amended the key
+language in § 7607(b)(1) offers examples of state-plan “determinations” that might have a
+“nationwide scope or effect.” Take Dayton Power & Light Co. v. EPA, 520 F.2d 703 (6th Cir.
+1975). There, the EPA followed a “unitary rule-making procedure” to adopt regulations that had
+“the effect of amending every state’s air quality implementation plan in precisely the same way.”
+Id. at 705. Interpreting an earlier version of the statute, we held that the challenges to these
+uniform state-plan amendments belonged in the D.C. Circuit. Id. at 706–09. Thus, when the
+“automatic application of standard, nation-wide guidelines to all plans simultaneously preordains
+wholesale” actions, the EPA “determination” may well have a nationwide scope or effect. Nat.
+Res. Def. Council, Inc. v. EPA, 465 F.2d 492, 494 (1st Cir. 1972) (per curiam). But the EPA
+makes no such claim here.
+
+       Moving away from the text, the EPA argues that the legislative history supports its view.
+When discussing this judicial-review provision, a House Report agreed “with the comments” in a
+statement accompanying recommended amendments that had been proposed by the
+Administrative Conference of the United States. H.R. Rep. 95-294, at 324 (1977) (discussing
+Admin. Conf. of the U.S., Recommendations on Judicial Review Under the Clean Air Act, 41
+Fed. Reg. 56767, 56769 (Dec. 30, 1976) (Statement of G. William Frick)). These comments
+suggested that Congress should send “‘national’ [state-plan] issues” to the D.C. Circuit. 41 Fed.
+Reg. at 56769. Yet this meaningless statement says nothing about the key question: Which state-
+plan issues are “national”? In fact, this legislative history may well cut the other way. The
+statement relied on by the EPA cites decisions like Dayton Power & Light as examples of the
+uniform regulations that belong in the D.C. Circuit. See 41 Fed. Reg. at 56769 & n.3. And
+again, the EPA’s denial of Kentucky’s plan here looks nothing like the regulations in that case.
+In all events, we cannot use (at best) ambiguous legislative history to muddy the unambiguous
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                       Page 24
+
+
+meaning of statutory phrases like “nationwide.” See Food Mktg. Inst. v. Argus Leader Media,
+588 U.S. 427, 437 (2019). Nothing about the disapproval of Kentucky’s plan has a national
+sweep.
+
+         The EPA also claims that we should use a “deferential standard” to review whether an
+agency action rests on “a determination of nationwide scope or effect” under § 7607(b)(1).
+Respondents’ Br. 46. But the Supreme Court has recently told courts that we should no longer
+defer to an agency’s answers to legal questions. See Loper Bright, 144 S. Ct. at 2273. And the
+EPA resolves a pure question of law when it interprets the key terms in § 7607(b)(1) (such as
+“nationally applicable” or “determination”). After Loper Bright, we must review (and correct)
+the agency’s mistaken interpretation of those terms without giving it deference.
+
+         The EPA lastly makes a big-picture point. It says that any decision about the Good
+Neighbor Provision will always involve nationwide issues because this part of the Clean Air Act
+concerns pollution that crosses state lines. This argument all but confirms its error: it reads
+words like “nationally applicable” and “nationwide” to mean “regionally applicable” or
+“regional.” The Good Neighbor Provision regulates pollution as long as it is emitted from one
+“State” and travels to “any other State[.]” 42 U.S.C. § 7410(a)(2)(D)(i). It thus would cover
+pollution emitted from St. Louis that landed just across the Mississippi River in East St. Louis.
+Yet nobody would say that the EPA made a “nationwide” determination when it decided whether
+Missouri adequately accounted for this Illinois pollution problem. In the end, the EPA’s fact-
+specific denial of Kentucky’s plan belongs in our court, not the D.C. Circuit.
+
+                    III. Did the EPA Lawfully Disapprove Kentucky’s Plan?
+
+         Because Kentucky sued in the right tribunal, we proceed to the merits. Our court has
+evaluated the EPA’s disapprovals of state plans using the APA’s general standards. See Navistar
+Int’l Transp. Corp. v. EPA, 941 F.2d 1339, 1341 (6th Cir. 1991); Dressman v. Costle, 759 F.2d
+548, 555 (6th Cir. 1985); cf. 42 U.S.C. § 7607(d)(1), (9). Under those standards, a court must
+“hold unlawful and set aside agency action” that the court finds “arbitrary, capricious, an abuse
+of discretion, or otherwise not in accordance with law.” 5 U.S.C. § 706(2)(A).
+ Nos. 23-3216/3225              Commonwealth of Ky., et al. v. EPA                        Page 25
+
+
+          We need not proceed past § 706(2)(A)’s ban on “arbitrary” and “capricious” actions to
+resolve this case. That ban requires agencies to make reasonable decisions in a reasonable way.
+See FCC v. Prometheus Radio Project, 592 U.S. 414, 423 (2021); Dep’t of Homeland Sec. v.
+Regents of the Univ. of Cal., 591 U.S. 1, 16 (2020). Under this deferential “reasonableness” test,
+a court cannot set aside an action simply because it would have made a different choice. See
+Prometheus Radio Project, 592 U.S. at 423.           But the court must ensure that the agency
+considered each “important aspect of the problem” and issued a decision rooted in the law and
+facts. Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983).
+
+          When an agency departs from its prior position, the change creates unique “aspect[s] of
+the problem” that it must confront. Id.; Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221–
+22 (2016). To start, the agency must “display awareness” that it has, in fact, jettisoned its past
+views. FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515 (2009). This requirement does
+not compel the agency to meet a “heightened” reasonableness test as compared to when it adopts
+a policy from scratch. Id. at 514. Still, the agency must acknowledge the change and explain
+why it sees things differently. See Encino Motorcars, 579 U.S. at 221. So while the agency can
+make a “U-turn,” it cannot make an unexplained one. Casey v. Berryhill, 853 F.3d 322, 329 (7th
+Cir. 2017). Courts thus have found agency action arbitrary and capricious when it rested on an
+“[u]nexplained inconsistency” with past practice. Encino Motorcars, 579 U.S. at 222 (citation
+omitted).
+
+          Next, the agency must address how a change will affect those who have relied on its prior
+position. See Fox, 556 U.S. at 515; Smiley v. Citibank (S.D.), N.A., 517 U.S. 735, 742 (1996).
+The agency should identify these reliance interests and weigh them against the “policy” reasons
+supporting the change. Regents of the Univ. of Cal., 591 U.S. at 33. The Supreme Court has
+held, for example, that an agency arbitrarily adopted a more employee-friendly view of the
+wage-and-hour laws when the agency ignored that employers had structured their payment
+arrangements based on the agency’s past interpretation. See Encino Motorcars, 579 U.S. at 222–
+24. And this mandate to address reliance interests applies just as much to an agency’s departure
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 26
+
+
+from informal guidance as it does to its departure from formal regulations. See Perez v. Mortg.
+Bankers Ass’n, 575 U.S. 92, 105–06 (2015).
+
+       The EPA failed to live up to these standards here. The agency’s denial of Kentucky’s
+plan departed from prior guidance in three respects.         For one, the EPA’s March 2018
+Memorandum told the States (including Kentucky) that they “may consider using” the 2011
+modeling to develop their plans for the first two steps of the EPA’s four-step approach to the
+Good Neighbor Provision.       Mar. Mem., J.A. 80.       For another, the EPA’s August 2018
+Memorandum told the States that “it may be reasonable and appropriate for [them] to use a 1 ppb
+contribution threshold” when identifying the links to downwind receptors that require more
+scrutiny at the agency’s later steps. Aug. Mem., J.A. 101. The EPA issued this memo to
+“provide[] recommendations” to States but added that this presumption of a 1 ppb threshold may
+not fit “the facts” of a particular State. Id. at 98. For a third, the EPA saw nothing about
+Kentucky’s unique “facts” that warranted a departure from these recommendations. Id. To the
+contrary, the EPA told Kentucky during the Commonwealth’s notice-and-comment process that
+it could “rely entirely” on the 2011 modeling and 1 ppb threshold as a “more straightforward
+approach” at Step 2. EPA Comments, J.A. 126.
+
+       The EPA threw out all this guidance when it disapproved Kentucky’s plan. The EPA
+relied on the 2016v3 modeling—not the 2011 modeling that it had recommended—to identify
+Kentucky’s links to downwind receptors. 88 Fed. Reg. at 9356. Even worse, this new modeling
+showed that Kentucky’s highest contribution to a maintenance or nonattainment receptor was
+only “0.84 ppb,” which is below the 1 ppb threshold that the EPA had recommended. Id. Yet
+the EPA denied Kentucky’s plan by using a lower threshold: 1% of the ozone standard (.7 ppb).
+See id.; see also id. at 9342. The EPA acted arbitrarily because it did not adequately explain
+either change.
+
+       Threshold Change. The EPA did not even “display awareness” that its switch from a
+1 ppb threshold to a .7 ppb threshold changed anything. Fox, 556 U.S. at 515. The EPA’s final
+rule reasoned that its August 2018 Memorandum had cautioned that the recommended 1 ppb
+threshold might not fit the “facts and circumstances” of all States. 88 Fed. Reg. at 9372. It then
+invoked this disclaimer to find that no State “made a sufficient showing” to use this threshold.
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                            Page 27
+
+
+Id. at 9373. Yet the EPA’s logic flipped the key presumption. The August 2018 Memorandum
+treated the 1 ppb threshold as presumptively acceptable unless a State’s unique facts made the
+threshold improper, but the final rule treated the 1 ppb threshold as presumptively unacceptable
+unless that threshold fit a State’s facts. The August 2018 Memorandum had presumptively
+allowed States to use the 1 ppb threshold because it was “generally comparable” to a .7 ppb
+threshold in capturing upwind contributors to downwind receptors. Aug. Mem., J.A. 101. When
+departing from this presumption, did the EPA disagree that the thresholds were generally
+comparable in this way? Did it change for another reason? The EPA did not even acknowledge
+the change, let alone explain it. See Encino Motorcars, 579 U.S. at 221–22.
+
+       The EPA instead accused States like Kentucky of “misunderstanding” the August 2018
+Memorandum by accepting at face value what it said. 88 Fed. Reg. at 9373. “That’s a bit rich.”
+Mingo Logan Coal Co. v. EPA, 829 F.3d 710, 740 (D.C. Cir. 2016) (Kavanaugh, J., dissenting).
+It is especially rich in Kentucky’s case. The EPA specifically told Kentucky that it could “rely”
+on the 1 ppb threshold. EPA Comments, J.A. 126. So by “disagree[ing] with Kentucky’s
+arguments for” that threshold, the agency was disagreeing with itself. 88 Fed. Reg. at 9356.
+
+       Modeling Change. When deciding to switch to the 2016v3 modeling, by comparison, the
+EPA ignored the “serious reliance interests” that arose from its earlier assurance that States could
+use the 2011 modeling. Fox, 556 U.S. at 515. To justify the newer modeling, the EPA reasoned
+that it should be able to use “the best information available to it at the time it” decides on a plan’s
+validity. 88 Fed. Reg. at 9366. This logic ignored an “important aspect of the problem”:
+Kentucky’s reliance on the March 2018 Memorandum. State Farm, 463 U.S. at 43. Indeed, the
+EPA’s briefing cites nothing in the rule that even acknowledged this reliance interest.
+
+       If the EPA had “considered” Kentucky’s reliance, it might have chosen an alternative to
+its flat disapproval. Regents of the Univ. of Cal., 591 U.S. at 32. As Kentucky suggested, the
+EPA could have announced in advance that it would use newer data and given States the option
+to update their plans. Ky. Comments, J.A. 513–14. In response to comments like this one, the
+EPA argued that the Clean Air Act did not require it to give States “specific metrics” to help
+them comply with the Good Neighbor Provision. 88 Fed. Reg. at 9363 (quoting EME Homer,
+572 U.S. at 510). Yet this generic response ignores the key question: May the EPA affirmatively
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 28
+
+
+give the States one set of “metrics” to draft their plans and then use another set of metrics to
+grade them? The EPA’s response thus confirms its utter disregard of Kentucky’s reliance
+interest.
+
+         The EPA’s defenses of these changes lack merit. First, the EPA rests on the disclaimer
+in the August 2018 Memorandum that its recommended 1 ppb threshold might not fit a State’s
+facts.      But this disclaimer does the EPA no good as applied to Kentucky.          Again, the
+memorandum proposed the 1 ppb threshold because it captured a “generally comparable”
+amount of upwind contributions to downwind receptors as would a .7 ppb threshold. Aug.
+Mem., J.A. 101. So if the 1 ppb threshold was not “comparable” to a .7 ppb threshold for a
+particular State and receptor, this approach might give way. But the EPA has made no receptor-
+specific argument for Kentucky. Indeed, the memorandum itself listed all receptors to which
+Kentucky contributed over .7 ppb when finding the two thresholds comparable. Compare Aug.
+Mem., J.A. 102–03, with State Plan, J.A. 152. The EPA instead argues that Kentucky did not
+provide an adequate “technical justification” for the higher threshold. Respondents’ Br. 70. Yet
+the EPA does not explain what “technical” justification Kentucky needed beyond the one in the
+EPA’s own prior memorandum.
+
+         Second, the EPA suggests that its comments about Kentucky’s draft plan did not promise
+that Kentucky could rely on the 2011 modeling or 1 ppb threshold “without conducting further
+analysis and offering technical justification.”   Respondents’ Br. 70.     That is false.   When
+discussing the modeling data in Kentucky’s plan, the EPA stated: “An alternative, more
+straightforward approach would be to rely entirely upon the EPA’s [2011 modeling] and apply
+the 1 ppb screening threshold” from the August 2018 Memorandum. EPA Comments, J.A. 126
+(emphasis added). The EPA did not then warn that it might still reject the state plan despite this
+recommendation.
+
+         Third, the EPA says that Kentucky could not have relied on the two memoranda because
+the EPA did not have a “longstanding policy” of using only modeling data in existence when a
+State submitted a plan or a 1 ppb threshold. Respondents’ Br. 72, 88 (quoting Breeze Smoke,
+LLC v. FDA, 18 F.4th 499, 507 (6th Cir. 2021) (order)). This argument misunderstands the law.
+While “longstanding policies” suffice to create reliance interests, Encino Motorcars, 579 U.S. at
+ Nos. 23-3216/3225           Commonwealth of Ky., et al. v. EPA                        Page 29
+
+
+222, they are not necessary to do so. Such interests can arise in other ways—such as when an
+agency tells a party that it can do something during the rulemaking process.          See EPA
+Comments, J.A. 126. A contrary holding would allow agencies to “pull a surprise switcheroo”
+by issuing a final action that flatly contradicts prior guidance, as long as the action does not
+depart from some traditional practice. Env’t Integrity Project v. EPA, 425 F.3d 992, 996 (D.C.
+Cir. 2005).
+
+       The EPA’s support for this alleged “longstanding policy” requirement—our decision in
+Breeze Smoke—is not to the contrary. There, we recognized that an agency’s earlier guidance
+was not “longstanding,” so a party could not rely on caselaw refusing to defer to agency actions
+that inexplicably departed from traditional practice. Breeze Smoke, 18 F.4th at 507. But we did
+not uphold the agency action in Breeze Smoke on this basis alone. Rather, we also rejected the
+regulated party’s other claim that the agency had told the party one thing during the regulatory
+process and then done something different when taking the final action. See id. at 506–07. We
+reasoned that the final action comported with the earlier guidance, so the party could not have
+relied on anything in that guidance to believe that the agency would act differently. See id.
+Here, by contrast, a clear conflict exists. The EPA told Kentucky that it could use the 2011
+modeling and 1 ppb threshold and then denied Kentucky’s plan in large part because Kentucky
+had done what the EPA told it to do. Because the EPA did not adequately consider Kentucky’s
+“reliance interests” when changing course in these ways, it acted arbitrarily. Fox, 556 U.S. at
+515.
+
+       Fourth, the EPA argues that Kentucky did not prove its reliance because it did not incur
+“substantial” monetary “costs” using the 2011 modeling. Respondents’ Br. 93. But Kentucky
+wasted the costs it incurred drafting its plan because the EPA evaluated that plan using a
+different yardstick from the one the agency promised.       Regardless, as a sovereign entity,
+Kentucky possesses the “primary responsibility” to regulate pollution emitted from its borders
+and the discretion to decide how best to meet air-quality standards. 42 U.S.C. § 7401(a)(3);
+Ohio, 603 U.S. at 284. Kentucky placed this important regulatory interest on the line when it
+chose to rely on the EPA’s 2011 modeling. And it lost that interest when the EPA used newer
+data to disapprove its plan and to impose a federal plan that took the Commonwealth’s
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                          Page 30
+
+
+regulatory discretion.   See 42 U.S.C. § 7410(c).      Given the Clean Air Act’s “cooperative
+federalism” design, Sierra Club, 681 F.3d at 343 (quoting Ellis, 390 F.3d at 467), this type of
+sovereign reliance interest warrants protection under the APA, see Ohio, 603 U.S. at 291.
+
+                                              * * *
+
+       Even if the EPA acted arbitrarily and capriciously in the ways that we have explained, the
+agency claims that we should find its mistakes harmless. The EPA opines that it would have
+denied Kentucky’s plan even if it had judged the plan using Kentucky’s 2011 modeling and
+1 ppb threshold. Under those datapoints, Kentucky still contributed to a Maryland monitor at
+Step 2. State Plan, J.A. 152. And the EPA now argues that Kentucky gave inadequate reasons at
+Step 3 as to why it need not cut omissions to keep this monitor in attainment. Respondents’ Br.
+57–68. The problem? Under basic principles of administrative law, agencies may invoke in
+court only the grounds that they relied on at the time they took the challenged action. See
+Regents of the Univ. of Cal., 591 U.S. at 20. If those relied-upon reasons cannot sustain an
+agency action, neither a court nor an agency may salvage the action by invoking “better” reasons
+for it in litigation. See id. at 22–23; see also Calcutt v. FDIC, 598 U.S. 623, 628–29 (2023) (per
+curiam).
+
+       This principle renders the EPA’s harmless-error arguments premature. The EPA did not
+rely on its current Step 3 claims to deny Kentucky’s state plan. To be sure, its rule did state that
+Kentucky “did not conduct an adequate Step 3 analysis.” 88 Fed. Reg. at 9356. But the EPA’s
+four-part approach raises distinct “steps” for a reason. The validity of a State’s decision on what
+emissions to cut at Step 3 depends on the State’s links at Step 2. And the EPA’s rule used the
+2016v3 modeling at Step 2 to link Kentucky to Connecticut receptors.              See id.; 2016v3
+Modeling, J.A. 577. At Step 3, then, the rule analyzed these receptors. The agency noted, for
+example, that Kentucky was still linked to them even after the agency considered Kentucky’s
+planned power-plant shutdowns. See 88 Fed. Reg. at 9356. The rule, by contrast, did not
+suggest that Kentucky’s Step 3 analysis would fall short for the Maryland receptor linked to
+Kentucky under the 2011 modeling. Because the EPA abandoned this modeling, it did not even
+ask that question.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 31
+
+
+       Nor do we find it a forgone conclusion that the EPA would deny Kentucky’s plan on
+remand. See Calcutt, 598 U.S. at 629–30. Suppose the EPA kept its 2016v3 modeling but
+retained the higher 1 ppb threshold. In that scenario, Kentucky would not be linked to any
+maintenance or nonattainment receptors because its “highest-level contribution” to any such
+receptor was .84 ppb under that newer modeling. 88 Fed. Reg. at 9356. Or suppose the EPA
+relied on the older modeling showing only a single Kentucky link to the Maryland receptor. It
+might not make much sense to find Kentucky’s Step 3 analysis inadequate for this receptor.
+Kentucky’s plan predicted that its then-existing emissions reductions would allow the Maryland
+receptor to maintain the new ozone standard. State Plan, J.A. 177–78. And the EPA’s newer
+data may well have proved Kentucky right because Kentucky is no longer linked to this receptor.
+2016v3 Modeling, J.A. 577.
+
+       In short, we have no idea how the EPA would have acted if it had not committed the legal
+errors that we have identified. The agency thus has failed to show that the errors did not
+prejudice Kentucky. Yet nothing we have said in this opinion would prohibit the EPA from
+properly raising any new concerns in additional administrative proceedings on remand.
+
+                               IV. What Is the Proper Remedy?
+
+       Despite the errors underlying its action, the EPA lastly asks us to remand to the agency
+without vacating its disapproval of Kentucky’s plan. Substantial out-of-circuit caselaw underlies
+this request. Several courts have held that they may remand an illegal action to an agency
+without vacating the action—allowing the action to continue to have binding force in the
+meantime. See Black Warrior Riverkeeper, Inc. v. U.S. Army Corps of Eng’rs, 781 F.3d 1271,
+1290 (11th Cir. 2015) (collecting cases); see also 33 Charles A. Wright et al., Federal Practice
+and Procedure § 8382, at 289–93 (2d ed. 2018). Yet the parties cite only one of our own
+decisions that has remanded to an agency without vacating its action. See Sierra Club v. EPA, 60
+F.4th 1008, 1021–23 (6th Cir. 2023). There, we did not find the action unlawful and instead
+remanded for additional proceedings at the agency’s request. See id. at 1020–21. So the case
+says nothing about whether we may refuse to vacate illegal actions. The EPA asks us to break
+new ground.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                          Page 32
+
+
+       We need not do so to resolve this case. Even assuming that the APA permits this
+remand-without-vacatur remedy, it would not apply to the EPA’s errors. The courts that have
+permitted remand-without-vacatur relief consider two primary factors when deciding on the
+propriety of that relief. See id. at 1022. They first ask how serious of an error the agency made.
+See id. If the agency committed a technical error that it could easily fix on remand, courts are
+more likely to keep its action in place.      See id. If, by contrast, the agency committed a
+“fundamental” error—such as taking a substantively illegal action or ignoring notice-and-
+comment requirements—these courts will not let the action stand. See Long Island Power Auth.
+v. FERC, 27 F.4th 705, 717 (D.C. Cir. 2022); Allina Health Servs. v. Sebelius, 746 F.3d 1102,
+1110–11 (D.C. Cir. 2014).
+
+       The courts that permit a remand-without-vacatur remedy next ask how disruptive their
+vacatur would be. See Sierra Club, 60 F.4th at 1022. If vacatur would, say, upend years of
+transactions entered in reliance on the agency’s action, courts are more likely to keep it in place.
+See Am. Great Lakes Ports Ass’n v. Schultz, 962 F.3d 510, 518–19 (D.C. Cir. 2020). If,
+however, an agency can point to just the normal uncertainty that follows every vacatur of agency
+action, courts are more likely to vacate the action. See Sierra Club, 60 F.4th at 1023; Nat. Res.
+Def. Council v. Wheeler, 955 F.3d 68, 85 (D.C. Cir. 2020).
+
+       Apart from these two factors, courts treat vacatur as the default and remand without
+vacatur as the “rare” remedy. United Steel, Paper & Forestry, Rubber, Mfg., Energy, Allied
+Indus. & Serv. Workers Int’l Union v. Mine Safety & Health Admin., 925 F.3d 1279, 1287 (D.C.
+Cir. 2019); see Am. Great Lakes Ports Ass’n, 962 F.3d at 518. And the two factors merely
+structure the inquiry because the proper remedy will depend on all the equities. See Sierra Club,
+60 F.4th at 1022.
+
+       The EPA has failed to establish that the equities justify remand without vacatur here. For
+starters, while the EPA may try to rely on distinct grounds to fix its errors on remand, its current
+disapproval contains a “fundamental” defect. Allina Health Servs., 746 F.3d at 1110 (citation
+omitted). The agency’s bait-and-switch tactics left Kentucky with the type of “deficient notice”
+that has justified vacatur in other cases. Id. If anything, this case warrants that relief even more
+because the EPA undercut the Clean Air Act’s “cooperative federalism” structure. Sierra Club,
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 33
+
+
+681 F.3d at 343 (quoting Ellis, 390 F.3d at 467). If we did not vacate its disapproval, the agency
+would have every “incentive” to take similar shortcuts in the future. Env’t Def. Fund v. FERC, 2
+F.4th 953, 976 (D.C. Cir. 2021).
+
+       The EPA has also not shown that vacatur would have any unusually disruptive effects.
+See Sierra Club, 60 F.4th at 1023. It asserts that vacatur will bar it from imposing its federal
+implementation plan on Kentucky and thus will delay that plan’s emissions reductions. Yet the
+Supreme Court has already indefinitely stayed the federal plan. See Ohio, 603 U.S. at 300. So
+the agency could not enforce its emissions reductions even if we refused to vacate the
+disapproval of Kentucky’s plan. And the EPA’s long delay in acting on this state plan undercuts
+any claim that an urgent need exists to compel Kentucky to reduce its emissions. See Texas,
+2023 WL 7204840, at *11. Besides, the EPA’s arguments simply assume the conclusion on the
+merits: that Kentucky’s current plan falls short of meeting its good-neighbor obligations. But “it
+is far from certain” that the EPA will reach that same conclusion on remand. Env’t Def. Fund, 2
+F.4th at 976.
+
+       All told, we deny the EPA’s motion to transfer. We also grant Kentucky’s petitions for
+review, vacate the EPA’s disapproval of Kentucky’s state implementation plan, and remand to
+the agency for further proceedings consistent with this opinion.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                           Page 34
+
+
+                                      _________________
+
+                                       CONCURRENCE
+                                      _________________
+
+       MURPHY, Circuit Judge, concurring. Our holding that the Environmental Protection
+Agency (EPA) acted arbitrarily and capriciously and our assumption that the remand-without-
+vacatur remedy exists allow us to fully resolve this case. I write this separate concurrence to
+highlight two issues that we need not conclusively decide. First, the EPA’s failure to timely act
+on Kentucky’s state implementation plan may have provided an independent ground to vacate
+the EPA’s disapproval under the Administrative Procedure Act (APA). Second, the validity of
+the remand-without-vacatur remedy may depend on the nature of this “vacatur” relief.
+
+       I. Did the EPA’s Untimely Disapproval of Kentucky’s Plan Violate the APA?
+
+       Apart from barring arbitrary and capricious agency action, the APA also requires
+agencies to act “in accordance with law[.]” 5 U.S.C. § 706(2)(A). Kentucky and the EPA have
+debated whether the EPA violated this mandate by disapproving Kentucky’s plan in an untimely
+manner using data generated after its deadline to act. I think it may well have done so.
+
+       Start with some statutory background. The Clean Air Act imposes two deadlines on the
+EPA after a State submits a plan. The EPA must first decide whether the plan contains the
+“information necessary to enable [the agency] to determine whether the plan submission
+complies with the” Act. 42 U.S.C. § 7410(k)(1)(A). The EPA has no duty to “act on” a plan
+until it contains this information. Id. Yet the EPA should make this “[c]ompleteness” finding
+within 60 days. Id. § 7410(k)(1)(B). And if the EPA has failed to make the finding “6 months
+after” the State submitted the plan, the plan “shall on that date be deemed by operation of law to
+meet [the] minimum criteria” necessary for the EPA’s review. Id. The second deadline then
+identifies when the EPA must approve or disapprove the plan: “[w]ithin 12 months” of the
+EPA’s completeness finding (whether made expressly or “by operation of law”).                   Id.
+§ 7410(k)(2)–(3).
+
+       The parties agree on how this law applied here. Kentucky submitted its plan in January
+2019. But the EPA never expressly found that this plan contained all the required information.
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                           Page 35
+
+
+By operation of law, therefore, that finding occurred in July 2019. See id. § 7410(k)(1)(B). This
+date, in turn, required the EPA to act on Kentucky’s plan by July 2020. See id. § 7410(k)(2)–(3).
+But the EPA missed this deadline. It disapproved the plan more than two years later in February
+2023. What consequences should follow from the missed deadline?
+
+       Background principles help answer this question.           Many statutes command public
+officials to act within a certain time. See United States v. James Daniel Good Real Prop., 510
+U.S. 43, 63 (1993). The Supreme Court has repeatedly held that officials who miss these
+statutory deadlines do not automatically forfeit the power to act belatedly if the statute itself does
+not impose that penalty. See id.; Nielsen v. Preap, 586 U.S. 392, 411 (2019) (plurality opinion);
+Barnhart v. Peabody Coal Co., 537 U.S. 149, 158–63 (2003); Brock v. Pierce County, 476 U.S.
+253, 259–62 (1986); see also McIntosh v. United States, 601 U.S. 330, 337–42 (2024). When a
+statute does not identify the consequence for a violation, the Court has explained, courts may not
+simply pick the remedy they think best as a common-law matter. See James Daniel Good,
+510 U.S. at 63; Gen. Med., P.C. v. Azar, 963 F.3d 516, 526 (6th Cir. 2020) (Murphy, J.,
+concurring).
+
+       These principles provide the first step in the analysis: The Clean Air Act says nothing
+about what should happen if the EPA misses its “[d]eadline for action” on a state plan.
+42 U.S.C. § 7410(k)(2). And we cannot create our “own coercive sanction” (say, an automatic
+approval of the state plan) to remedy the EPA’s untimely action on the plan. Barnhart, 537 U.S.
+at 159 (quoting James Daniel Good, 510 U.S. at 63). Indeed, the Act’s silence stands out
+compared to the remedy that applies when the EPA misses the initial deadline to decide whether
+the plan contains all required information. In that event, the Act “deem[s]” the plan complete
+“by operation of law[.]”       42 U.S.C. § 7410(k)(1)(B).        And Congress presumably acted
+intentionally with its inclusion of this express remedy for the first deadline and its omission of
+the remedy for the second one. See State Farm Fire & Cas. Co. v. United States ex rel. Rigsby,
+580 U.S. 26, 34 (2016).
+
+       As other background principles show, however, this conclusion does not allow the EPA
+to violate the Clean Air Act’s timelines with impunity. Rather, additional sources of law can
+allow courts to enforce a statute’s requirements even when the statute itself lacks its own
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                         Page 36
+
+
+remedy.   As one example from the Supreme Court’s caselaw, Article III gives courts the
+“inherent power” to sanction parties for violating court rules—even if no statute gives them this
+power. Id. at 37 (citing Chambers v. NASCO, Inc., 501 U.S. 32, 43–46 (1991)). So when a
+statute required plaintiffs to file complaints under seal, this background power allowed courts to
+punish plaintiffs who violated the sealing requirement despite the lack of a statutory remedy. See
+id. If courts rely on these other remedies, however, they must also respect the limitations that
+come with the remedies. In criminal cases, for instance, district courts must overlook all errors
+that do not harm the defendant. See Fed. R. Crim. P. 52(a); McIntosh, 601 U.S. at 338. This
+harmless-error rule covers the failure of courts or prosecutors to meet various statutory deadlines
+in criminal cases. See Dolan v. United States, 560 U.S. 605, 617 (2010); United States v.
+Montalvo-Murillo, 495 U.S. 711, 722 (1990).
+
+       These principles provide the second step in the analysis: Although the Clean Air Act does
+not explain what should happen if the EPA acts on a state plan after its deadline, the APA applies
+to this untimely action. And this second legal source does allow us to “set aside” (and issue an
+“injunction” against) an EPA “action” if it is “not in accordance with” the Clean Air Act’s
+timelines. 5 U.S.C. §§ 703, 706(2)(A). The EPA also seemingly violated the Clean Air Act’s
+clear command that it “shall act on” Kentucky’s plan within 12 months of its completeness
+finding. 42 U.S.C. § 7410(k)(2). The word “shall” suggests that the EPA lacks discretion to
+miss this deadline. See State Farm, 580 U.S. at 33–34. In short, courts need not rely on their
+“own coercive sanction” to remedy violations of the Clean Air Act’s timelines. James Daniel
+Good, 510 U.S. at 63. They need only rely on the APA’s sanction for this violation.
+
+       That said, like the harmless-error rule in criminal cases, the APA requires us to give “due
+account” to “the rule of prejudicial error.” 5 U.S.C. § 706. If the EPA’s violation of the deadline
+when ruling on Kentucky’s plan did not harm Kentucky, the APA would give us no basis to
+overturn the untimely disapproval. See Shinseki v. Sanders, 556 U.S. 396, 406–07 (2009). For
+several reasons, however, the illegal delay may well have “had a ‘substantial influence’ on the
+outcome of the proceeding” in this case. Montalvo-Murillo, 495 U.S. at 722 (quoting Bank of
+Nova Scotia v. United States, 487 U.S. 250, 256 (1988)); see Shinseki, 556 U.S. at 407–08.
+Those reasons all follow from the EPA’s decision to base its untimely disapproval on data in the
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                         Page 37
+
+
+2016v3 modeling that postdated the EPA’s deadline to act. See Air Plan Disapprovals, 88 Fed.
+Reg. 9336, 9345 (Feb. 13, 2023).
+
+       For starters, the Clean Air Act notes that the EPA “shall approve” a state plan within the
+required timeframe if the plan “meets all of the applicable requirements” of the Act. 42 U.S.C.
+§ 7410(k)(3) (emphasis added). So if the information on the date of the EPA’s deadline shows
+that the plan complies with the Act, the EPA must approve the plan. See id. The Act does not
+give the EPA residual discretion. See Ohio v. EPA, 603 U.S. 279, 284 (2024). Given this
+statutory scheme, the EPA’s use of after-the-fact data perhaps shows the required harm to
+Kentucky.
+
+       A related provision confirms this point. The EPA admits that Kentucky could have sued
+back in July 2020 to obtain a court order requiring the EPA to timely act while Kentucky’s plan
+remained pending with the EPA. See 42 U.S.C. § 7604(a)(2); 88 Fed. Reg. at 9365; Brock, 476
+U.S. at 260 n.7. Yet a court-imposed deadline to rule on the plan in, say, 2021 would likewise
+have barred the EPA from relying on “datasets” that did not exist until 2022. 88 Fed. Reg. at
+9345. As a result, even the EPA’s preferred remedy shows that its delay harmed Kentucky
+because it allowed the EPA to rely on post-deadline data that Congress did not intend for it to
+consider. See Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S.
+29, 43 (1983).
+
+       A structural point reinforces the same idea. The Clean Air Act does not leave the EPA
+powerless to consider new information. It provides a remedy when new facts show that an
+approved state plan “is substantially inadequate to attain or maintain” an air-quality standard. 42
+U.S.C. § 7410(k)(5). In a paragraph entitled “[c]alls for plan revisions,” the Act allows the EPA
+to “require [a] State to revise” this plan. Id. But such a compelled amendment requires the EPA
+to jump through several procedural hoops. The EPA must notify the State of its concerns, and
+the State (not the EPA) gets to take the lead in deciding on the revisions that will address those
+concerns.   See id.   This cooperative process also shows that EPA’s unlawful delay likely
+prejudiced Kentucky. If the EPA had taken this statutorily contemplated path, Kentucky would
+have retained the authority to devise revisions that accounted for the EPA’s post-deadline
+modeling. See id. By delaying action on Kentucky’s plan and then disapproving it using this
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                       Page 38
+
+
+modeling, the EPA kicked Kentucky out of this process by triggering the power to impose a
+federal plan. See Ohio, 603 U.S. at 284–86; Texas v. EPA, 2023 WL 7204840, at *9 (5th Cir.
+May 1, 2023) (per curiam).
+
+       As far as I can tell, nothing in the EPA’s briefing justifies its unlawful delay and
+prejudicial use of post-deadline data. The agency first cites caselaw holding that agencies might
+violate the APA’s ban on arbitrary-and-capricious conduct if they “ignore new and better data.”
+Dist. Hosp. Partners, L.P. v. Burwell, 786 F.3d 46, 56–57 (D.C. Cir. 2015). The EPA thus
+suggests that it would have acted arbitrarily if it overlooked the 2016v3 modeling. Yet this
+caselaw has rejected arbitrary-and-capricious challenges when the EPA had good reasons to use
+older data. See Sierra Club v. EPA, 356 F.3d 296, 308 (D.C. Cir. 2004); see also Bd. of Cnty.
+Comm’rs of Weld Cnty. v. EPA, 72 F.4th 284, 289–90 (D.C. Cir. 2023). The EPA perhaps had
+such reasons here: the Act required it to approve or disapprove the plan in a timely manner, not
+to wait on constantly updated modeling. See Sierra Club, 356 F.3d at 308. To be sure, I agree
+that this fact does not mean that the EPA should “ignore” this newer modeling. Dist. Hosp.
+Partners, 786 F.3d at 57. It just means that the EPA should follow the Clean Air Act’s rules for
+how to use it: by issuing a call for the revision of an approved plan—not by unlawfully
+postponing its decision on a proposed one.
+
+       The EPA next relies on a decision that rejected the claim that the agency must rely on
+pollution conditions as they existed on the deadline for States to submit their plans.       See
+Wisconsin v. EPA, 938 F.3d 303, 322 (D.C. Cir. 2019) (per curiam). The EPA places undue
+emphasis on Wisconsin. There, the EPA proposed a federal plan in 2016 using data about
+expected pollution conditions in 2017. See id. at 312, 321. This data revealed that a downwind
+State (Delaware) would have no problematic receptors. Id. at 321. But Delaware argued that the
+Good Neighbor Provision required the EPA to consider pollution conditions as they existed in
+2011. Id. The State relied on the fact that the Act required upwind States to submit their plans
+for meeting the relevant air-quality standard at that time. Id. at 321–22. The D.C. Circuit
+rejected this view. Because the Good Neighbor Provision uses the future tense (covering States
+that “will” contribute to downwind nonattainment), the court interpreted the provision as
+regulating pollution conditions in future years—not as of the plan-submission date. Id. at 322
+ Nos. 23-3216/3225             Commonwealth of Ky., et al. v. EPA                         Page 39
+
+
+(quoting 42 U.S.C. § 7410(a)(2)(D)(i)). Nothing I say here conflicts with this logic. Both the
+2011 modeling that Kentucky used and the 2016v3 modeling that the EPA used predicted
+pollution in a future year: 2023. See Mar. Mem., J.A. 77; 88 Fed. Reg. at 9345. Neither source
+modeled pollution existing when Kentucky submitted its plan in 2019. And since Wisconsin
+involved a federal plan, it did not discuss what should happen if the EPA violates its statutory
+deadline to rule on a state plan. Wisconsin thus did not suggest that the EPA could deny a state
+plan using new data generated after its deadline to act.
+
+       When the EPA turns to the Clean Air Act’s text, it concedes that the Act imposes a
+mandatory deadline for the agency to decide on a plan’s validity. But the EPA calls the statutory
+deadline “procedural” and suggests that it is “not ‘central to the regulatory scheme.’”
+Respondents’ Br. 80 (quoting Wisconsin, 938 F.3d at 322). The agency adds that it may freely
+disregard “procedural” rules in pursuit of achieving the “Act’s central object”: attaining the air-
+quality standard. Id. (quoting Wisconsin, 938 F.3d at 316). I see three problems with this ends-
+justify-the-means logic.   As an initial matter, the Constitution does not give agencies any
+prerogative power to “dispense” with statutory requirements that they find “unimportant.” See
+Michael W. McConnell, The President Who Would Not Be King 115–19 (2020). Next, because
+“no legislation pursues its purposes at all costs,” CTS Corp. v. Waldburger, 573 U.S. 1, 12
+(2014) (quoting Rodriguez v. United States, 480 U.S. 522, 525–26 (1987) (per curiam)), the
+“limitations” on a statute’s main goals are “often [its] price of passage[.]” Henson v. Santander
+Consumer USA Inc., 582 U.S. 79, 89 (2017). So courts must respect those limitations just as
+much as the primary provisions. See Kucana v. Holder, 558 U.S. 233, 252 (2010). Finally,
+Congress’s findings reveal that it viewed respect for state authority as a central goal of the Clean
+Air Act. See 42 U.S.C. § 7401(a)(3). And the EPA’s unlawful delay here did not just run afoul
+of a procedural deadline; it also undercut the Act’s primary “cooperative federalism” design.
+Sierra Club v. Korleski, 681 F.3d 342, 343 (6th Cir. 2012) (quoting Ellis v. Gallatin Steel Co.,
+390 F.3d 461, 467 (6th Cir. 2004)).
+
+       All told, the EPA’s untimely disapproval of Kentucky’s plan may have violated the APA
+for this independent reason. Given that it acted in an arbitrary and capricious way when
+disapproving that plan, though, we need not conclusively resolve the issue.
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 40
+
+
+       II. Does the APA Authorize a Remand-Without-Vacatur Remedy?
+
+       The EPA has asked us to remand its disapproval of Kentucky’s plan to the agency for
+reconsideration without vacating that disapproval.      In my view, its arguments about the
+availability of this remedy have broader ramifications. The correct answer might turn on a
+debate about whether the APA permits vacatur of an agency action as a remedy distinct from an
+injunction enjoining the action’s enforcement. Compare Corner Post, Inc. v. Bd. of Governors
+of Fed. Rsrv. Sys., 144 S. Ct. 2440, 2460–70 (2024) (Kavanaugh, J., concurring), with United
+States v. Texas, 599 U.S. 670, 693–703 (2023) (Gorsuch, J., concurring in the judgment). The
+APA instructs courts that they “shall” “set aside” agency action found unlawful. 5 U.S.C.
+§ 706(2). What does this text mean? On the one hand, many have read it to create a distinct
+vacatur remedy against agency actions (rather than an injunction remedy against their
+enforcement). See Corner Post, 144 S. Ct. at 2462–63 (Kavanaugh, J., concurring) (citing
+cases); Mila Sohoni, The Power to Vacate a Rule, 88 Geo. Wash. L. Rev. 1121, 1131–37, 1162–
+63 (2020). Yet this reading cuts against the notion that courts may refuse to vacate actions found
+illegal. Section 706(2) uses the word “shall” and suggests that courts must vacate illegal actions
+if the section creates a distinct judicial remedy. See Milk Train, Inc. v. Veneman, 310 F.3d 747,
+757 (D.C. Cir. 2002) (Sentelle, J., dissenting) (quoting Checkosky v. SEC, 23 F.3d 452, 491
+(D.C. Cir. 1994) (Randolph, J., concurring)).
+
+       On the other hand, others have not read § 706(2)’s “set aside” text as creating a
+standalone remedy. See Texas, 599 U.S. at 695–97 (Gorsuch, J., concurring in the judgment);
+Arizona v. Biden, 40 F.4th 375, 396–97 (6th Cir. 2022) (Sutton, C.J., concurring); John Harrison,
+Section 706 of the Administrative Procedure Act Does Not Call for Universal Injunctions or
+Other Universal Remedies, 37 Yale J. Reg. Bull. 37, 41–46 (2020). They have instead read it as
+codifying an idea first made famous by Marbury v. Madison, 5 U.S. 137 (1803): that a court
+need not give effect to an unlawful rule and may “disregard[]” it when deciding on the parties’
+legal rights. Id. at 177–78; see Harrison, supra, at 43. Those on this side of the debate have
+added that the APA allows courts to grant only traditional remedies like “declaratory judgments
+or writs of prohibitory or mandatory injunction[.]” 5 U.S.C. § 703; see Harrison, supra, at 37.
+This differing view might make the remand-without-vacatur remedy more defensible. If the
+ Nos. 23-3216/3225            Commonwealth of Ky., et al. v. EPA                        Page 41
+
+
+“vacatur” of an action amounts to nothing more than an injunction, the remedy could trigger the
+equitable discretion that courts possess when deciding whether to grant that relief. The relief is
+never “a matter of right” even for parties with valid claims. Hill v. McDonough, 547 U.S. 573,
+584 (2006); see Winter v. Nat. Res. Def. Council, Inc., 555 U.S. 7, 24 (2008). And notably,
+courts holding that they may remand without vacatur have justified this remedy on the ground
+that vacatur qualifies as an “equitable remedy” subject to their discretion.      Black Warrior
+Riverkeeper, Inc. v. U.S. Army Corps of Eng’rs, 781 F.3d 1271, 1290 (11th Cir. 2015).
+
+        At day’s end, our resolution of this case allows us to avoid these tricky issues. We need
+not decide whether we have the power to keep illegal action in place. Even if we did, the EPA
+has not justified that remedy on the facts here. So we also need not decide whether “vacatur”
+qualifies as a new remedy or as an injunction by another name. Nothing turns on that distinction
+here.
+
