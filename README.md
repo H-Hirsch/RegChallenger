@@ -4,8 +4,6 @@
 
 RegChallenger is a Streamlit dashboard that estimates how a federal rule would fare if challenged in court. A user searches the Federal Register, selects a rule, and the tool retrieves the most legally analogous historical challenges, reranks them by doctrinal relevance, and produces a structured vulnerability assessment grounded in those analogs.
 
-Developed as a Master's capstone project at the George Washington University Regulatory Studies Center.
-
 ## What it does
 
 Given any final rule published in the Federal Register:
