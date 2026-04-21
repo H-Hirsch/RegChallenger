@@ -1,0 +1,874 @@
+ United States Court of Appeals
+          FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued March 31, 2017                Decided August 11, 2017
+
+                         No. 15-1354
+
+     ALL AMERICAN TELEPHONE COMPANY, INC., ET AL.,
+                     PETITIONERS
+
+                               v.
+
+   FEDERAL COMMUNICATIONS COMMISSION AND UNITED
+               STATES OF AMERICA,
+                  RESPONDENTS
+
+                        AT&T CORP.,
+                        INTERVENOR
+
+
+            On Petition for Review of an Order of
+          the Federal Communications Commission
+
+
+     Jonathan E. Canis argued the cause and filed the briefs for
+petitioners.
+
+    C. Grey Pash, Jr., Counsel, Federal Communications
+Commission, argued the cause for respondents. With him on
+the brief were Robert B. Nicholson and Jonathan H. Lasken,
+Attorneys, U.S. Department of Justice, Jonathan B. Sallet,
+General Counsel at the time the brief was filed, Federal
+Communications Commission, David M. Gossett, Deputy
+General Counsel, and Richard K. Welch, Deputy Associate
+                              2
+General Counsel. Jacob M. Lewis, Associate General Counsel
+and Lisa S. Gelb, Attorney, Federal Communications
+Commission, entered appearances.
+
+     James F. Bendernagel Jr. and Michael J. Hunseder were
+on the brief for intervenor in support of respondents.
+
+    Before: TATEL, GRIFFITH, and MILLETT, Circuit Judges.
+
+    Opinion for the court filed by Circuit Judge MILLETT.
+
+     MILLETT, Circuit Judge: The Federal Communications
+Commission held that Petitioners All American Telephone Co.,
+e-Pinnacle Communications Inc., and Chasecom improperly
+engaged in a scheme designed to collect millions of dollars in
+unwarranted long-distance access charges from AT&T. All
+American and the other petitioning companies do not challenge
+that liability determination.      They challenge only the
+Commission’s award of damages to AT&T and statements in
+the Commission’s decision that refer to the merits of the
+companies’ state-law claims against AT&T, which are pending
+in a separate action in the Southern District of New York. We
+uphold the Commission’s award of damages, but vacate those
+aspects of the Commission’s order that tread on the merits of
+the companies’ state-law claims.
+
+                              I
+
+                              A
+
+     The Federal Communications Commission regulates
+common-carrier providers of wired telephone services,
+including the fees that they charge to customers. See 47 U.S.C.
+§ 201. One of the fees that the Commission regulates is for
+“exchange access services” rendered for long-distance
+                                3
+telephone calls. See 47 C.F.R. § 61.26. Those fees are often
+referred to as “access charges.” They work like this: When a
+person places a long-distance call, a local exchange carrier
+operating in the caller’s geographic area will route the call to
+an “interstate exchange carrier,” also known as an
+“interexchange carrier.” That interexchange carrier, in turn,
+will connect the call to the recipient’s local exchange carrier.
+When the recipient’s local exchange carrier completes the call
+to the recipient, the interexchange carrier must pay an access
+charge to the local carrier for the connection service. See
+Northern Valley Communications, LLC v. FCC, 717 F.3d 1017,
+1018 (D.C. Cir. 2013).
+
+     When it comes to determining the amount of that access
+charge, however, not all local carriers are the same under
+federal communications law. As part of an effort to encourage
+competition, federal law divides local carriers into “incumbent
+local exchange carriers” and “competitive local exchange
+carriers.” See United States Telecom Ass’n v. FCC, 359 F.3d
+554, 561 (D.C. Cir. 2004) (noting Congress’s intent “to foster
+a competitive market in telecommunications”). Incumbent
+carriers are those that, on or prior to February 8, 1996, provided
+service to a particular area or were part of an exchange carrier
+association. 47 U.S.C. § 251(h). Competitive carriers are all
+other local carriers, including new carriers that entered the
+market after that time period and compete with the incumbent
+carriers within a specific geographic region. See 47 C.F.R.
+§ 51.903(a).
+
+     Incumbent carriers cannot impose access charges unless
+they file a valid tariff with the Commission. See 47 U.S.C.
+§ 203(a). Competitive carriers, by contrast, can impose access
+charges at or below a Commission-determined rate by filing
+their own tariff, or they can impose access charges through a
+contract they individually negotiate with the interexchange
+                                  4
+carrier. See 47 C.F.R. § 61.26(b); Hyperion Telecomms., 12
+FCC Rcd. 8596, 8613 (1997).
+
+                                  B
+
+      It has been said that “[t]he darkest hour of any man’s life
+is when he sits down to plan how to get money without earning
+it.” 1 But that does not seem to keep people from trying.
+Through a scheme known as “traffic pumping” or “access
+stimulation,” some local exchange carriers sought to artificially
+inflate the number of local calls they could connect, thereby
+increasing both the call volume and the rates that they could
+charge interexchange carriers. More specifically, a local
+exchange carrier would enter into a contractual relationship
+with a company that generates a high volume of telephone
+calls, such as a conference calling provider or a provider of
+sexually explicit chat lines. The local carrier would house the
+phone-call-generating partner’s equipment on its premises for
+free and would sometimes even provide the equipment itself at
+no cost. Not only would the local carrier forgo charging its
+partner for the phone calls that came in, but in fact the carrier
+would pay the partner a share of the per-minute long-distance
+access rates it charged the interexchange carriers. See, e.g.,
+Qwest Communications Corp. v. Free Conferencing Corp., 837
+F.3d 889, 893–894 (8th Cir. 2016); Northern Valley, 717 F.3d
+at 1018.
+
+     Those traffic-pumping arrangements were a “win-win” for
+the local carrier and its phone-call-generating partner.
+Northern Valley, 717 F.3d at 1018. The local carrier received
+a higher call volume and thus more revenue from access
+charges, while the partner got free service for its business plus
+a cut of the local carrier’s revenue. On the losing end, however,
+
+    1
+        Attributed to Horace Greeley.
+                                5
+were the public and the interexchange carriers “who ha[d] to
+* * * pay significant amounts to” the local exchange carriers in
+the form of artificially inflated and distorted access charges to
+complete the long-distance calls. Id. at 1018–1019.
+
+     Starting in 2010, the Commission issued a series of orders
+concluding that such traffic-pumping schemes were unlawful
+under Sections 201(b) and 203(c) of the Communications Act,
+47 U.S.C. §§ 201(b), 203(c). The Commission ruled in
+particular that local exchange carriers could not charge
+interexchange carriers to connect long-distance calls to a non-
+paying end user. See, e.g., Qwest Communications Co. v.
+Sancom, Inc., 28 FCC Rcd. 1982 (2013); Qwest
+Communications Co. v. Northern Valley Communications,
+LLC, 26 FCC Rcd. 8332 (2011), aff’d, Northern Valley, 717
+F.3d at 1017; AT&T Corp. v. YMax Communications Corp., 26
+FCC Rcd. 5743 (2011); Qwest Communications Corp. v.
+Farmers & Merchants Mut. Tel. Co., 24 FCC Rcd. 14801
+(2009), aff’d, Farmers & Merchants Mut. Tel. Co. v. FCC, 668
+F.3d 714 (D.C. Cir. 2011).
+
+     We have twice upheld that interpretation of the
+Communications Act by the Commission. See Northern
+Valley, 717 F.3d at 1019; Farmers, 668 F.3d at 724.
+Accordingly, it is now “well-settled that a [local exchange
+carrier] cannot bill an [interstate exchange carrier] under its
+tariff for calls ‘terminated’ at a conference call bridge when the
+conference calling company does not pay a fee for th[ose]
+services.” Qwest Communications, 837 F.3d at 894.
+
+                                C
+
+   Petitioners All American Telephone Co., e-Pinnacle
+Communications, Inc., and Chasecom (collectively, “the
+Companies”) have held themselves out as competitive local
+                                6
+exchange carriers authorized to operate in Utah and Nevada.
+Standing behind them were Beehive Telephone Company, Inc.
+of Nevada, and Beehive Telephone Company, Inc. of Utah
+(collectively, “Beehive”), which operated as incumbent local
+exchange carriers in rural Nevada and Utah, respectively. Joy
+Enterprises, Inc., is a Nevada corporation that provides
+conferencing and sexually explicit chat line services. Until the
+early 2000s, Joy and Beehive were engaged in a classic traffic-
+pumping scheme: Beehive paid Joy kickbacks in exchange for
+the inflated traffic that Joy’s conference and sexually explicit
+chat line services generated. Beehive, however, soon became
+a victim of its own success: As its traffic numbers skyrocketed,
+its access charge rates, which were determined by a filed tariff,
+began to plummet.
+
+     Unwilling to let a good scheme end, Beehive worked to
+create competitive local exchanges—the Companies—that
+would have greater rate flexibility. Beehive then had the
+Companies take its place in the arrangement. Beehive assisted
+the Companies in preparing and filing tariffs, and worked free
+of charge to obtain the necessary approval for All American to
+operate in the state of Utah. Beyond the regulatory paperwork,
+Beehive provided material support to all three Companies by
+serving as the co-lessee/guarantor for equipment rentals,
+installing and maintaining the Companies’ equipment at
+Beehive’s facilities, assigning them telephone numbers
+Beehive had obtained, and managing and coordinating the
+Companies’ billings.
+
+    All American began operating in Beehive’s territory in
+Utah in 2004, although it did not apply for a certificate of public
+convenience from the Utah Public Service Commission until
+2006. See In the Matter of the Consideration of the Rescission,
+Alteration, or Amendment of the Certificate of Authority of All
+American to Operate as a Competitive Local Exchange Carrier
+                               7
+within the State of Utah at 1, No. 08-2469-01 (Utah Pub. Serv.
+Comm’n April 26, 2010) (“Utah Commission Order”). Shortly
+after All American obtained its certificate, Beehive and All
+American entered into an interconnection agreement that
+allowed All American to use Beehive’s equipment for a fee,
+despite the fact that the Utah state license prohibited All
+American from operating in Beehive’s territory. Id. at 6; see
+47 U.S.C. § 252(d)(1) (addressing interconnection
+agreements).
+
+     The Companies that Beehive helped to create have never
+marketed their services to the general public or to businesses in
+Utah or Nevada. From the time it began operating, All
+American has served only a single client: Joy Enterprises. In
+addition, All American has never charged Joy Enterprises for
+its services.
+
+    Similarly, e-Pinnacle and Chasecom have only ever
+serviced conference-calling companies and have never charged
+them for their services. Like Joy Enterprises, e-Pinnacle and
+Chasecom engaged in a traffic-pumping kickback scheme with
+Beehive prior to becoming independent carriers.
+
+     In exchange for all of its free aid, Beehive was paid
+through the interconnection agreement with All American and
+through revenue-sharing schemes with e-Pinnacle and
+Chasecom. Beehive also directly benefited from the increased
+traffic generated by All American’s arrangement with Joy
+Enterprises, and by e-Pinnacle’s and Chasecom’s arrangements
+with their conference-call providers, because Beehive could
+directly charge interexchange carriers other types of fees (such
+as tandem switching and transport fees) associated with the
+inflated traffic. Petitioners e-Pinnacle and Chasecom ceased
+operations in 2007. In 2010, the Utah Commission rescinded
+All American’s certificate to operate as a competitive local
+                               8
+exchange carrier, concluding that it was “a mere shell
+company, paying others for technical services, management
+fees, consulting fees and equipment fees.” Utah Commission
+Order at 18; see also id. at 35.
+
+                               D
+
+                               1
+
+     In 2007, the Companies filed a civil suit against AT&T
+Corporation in the United States District Court for the Southern
+District of New York. In their complaint, the Companies
+represented that they and AT&T were “telecommunications
+common carriers, and their interstate service offerings are
+subject to the jurisdiction of the FCC.” First Amended
+Complaint ¶ 11, All American Tel. Co. v. AT&T Corp., No. 07-
+cv-861 (S.D.N.Y. filed March 6, 2007). The Companies
+alleged that, pursuant to valid tariffs filed with the
+Commission, they had provided access services to AT&T for
+which AT&T had refused to pay. Id. ¶¶ 37–42. The
+Companies sought recovery of those access fees under both a
+tariff collection action, id. ¶¶ 73–76, and a state-law quantum
+meruit claim, id. ¶¶ 103–107.
+
+     In response, AT&T filed a counterclaim alleging that the
+Companies existed “for the sole purpose of executing ‘traffic
+pumping’ schemes, not to offer wireline local telephone service
+to the residents” in their service areas. Counterclaim ¶ 16, All
+American Tel. Co. v. AT&T Corp., No. 07-cv-861 (S.D.N.Y.
+filed March 26, 2007). As relevant here, AT&T claimed that
+the Companies’ conduct violated their filed tariffs and Sections
+201 and 203 of the Communications Act, 47 U.S.C.
+§§ 201, 203. Id. ¶¶ 34, 43.
+                               9
+     In March 2009, the district court sua sponte decided to
+refer    AT&T’s       counterclaims     arising     under    the
+Communications Act to the Federal Communications
+Commission pursuant to the primary jurisdiction doctrine.
+Memorandum & Order at 7, All American Tel. Co. v. AT&T
+Corp., No. 07-cv-861 (S.D.N.Y. March 16, 2009). Under the
+primary jurisdiction doctrine, if “adjudicating a claim would
+‘require[] the resolution of issues which, under a regulatory
+scheme, have been placed within the special competence of an
+administrative body,’” a court may “suspend the judicial
+process ‘pending referral of such issues to the administrative
+body for its view.’” United States v. Phillip Morris USA Inc.,
+686 F.3d 832, 837 (D.C. Cir. 2012) (alteration in original;
+citation omitted). The case is not “referr[ed]” to the agency in
+the traditional sense because there is usually “no mechanism
+whereby a court can on its own authority demand or request a
+determination from the agency[.]” Reiter v. Cooper, 507 U.S.
+258, 268 n.3 (1993). Instead, the court “merely stay[s] its
+proceedings while the [parties] file[] an administrative
+complaint” and the agency disposes of it. Id.
+
+     Following the March 2009 referral, the district court
+entered a second order supplementing the issues referred and
+staying the litigation. Order Referring Issues to the Federal
+Communications Commission at 2, All American Tel. Co. v.
+AT&T Corp., No. 07-cv-861 (S.D.N.Y. Feb. 5, 2010)
+(“Referral Order”).
+
+    The key questions referred by the district court to the
+Commission were whether: (1) the Companies engaged in
+unreasonable conduct under the Communications Act; (2) the
+Companies provided services “pursuant to the terms of valid
+and applicable tariffs”; (3) the Companies “provide[d] some
+other regulated service to AT&T for which they are entitled to
+compensation”; (4) any recovery by the Companies “under a
+                                 10
+quantum meruit, quasi-contract, or constructive contract
+theory” was permissible (i.e., not preempted); and (5) AT&T
+“violate[d] § 201(b) or 203(a), or any other provision of the
+Communications Act” when it failed to pay the billed charges.
+Referral Order, supra, at 1, Ex. A.
+
+                                  2
+
+     To effectuate the referral, AT&T filed a complaint with the
+Commission. In its complaint, AT&T raised the first, second,
+third, and fourth questions. It also elected to bifurcate liability
+and damages, as permitted by Commission rules, see 47 C.F.R.
+§ 1.722(d). AT&T’s complaint alleged that the Companies,
+Joy, and Beehive engaged in a modified version of a traffic-
+pumping scheme, with the Companies serving as sham entities
+designed to unlawfully and unreasonably inflate the rate of
+access charges billed to AT&T. 2
+
+     The Commission issued a decision on liability concluding
+that the Companies had “participated in an access stimulation
+scheme designed to collect in excess of eleven million dollars
+of improper terminating access charges from AT&T[.]” AT&T
+Corp. v. All American Tel. Co., 28 FCC Rcd. 3477, 3477 ¶ 1
+(2013) (“Liability Order”). In its Liability Order, the
+Commission found that the Companies were “‘sham’ [carriers]
+created to ‘capture access revenues that could not otherwise be
+obtained by lawful tariffs,’” in violation of Section 201(b) of
+
+     2
+       The Companies, in turn, filed a complaint that raised the fifth
+question. The Commission denied that complaint on the ground that
+the Communications Act does not regulate AT&T when it is acting
+as a customer. All American Tel. Co. v. AT&T Corp., 26 FCC Rcd.
+723, 732 ¶ 21 (2011) (“The law is settled that a carrier-customer’s
+failure to pay tariffed access charges does not violate either section
+201(b) or section 203(c) of the Act.”). The Companies have not
+sought our review of that aspect of the Commission’s decision.
+                               11
+the Communications Act, 47 U.S.C. § 201(b). Liability Order,
+28 FCC Rcd. at 3487 ¶ 24.
+
+     The Commission further ruled that the Companies “had no
+intention at any point in time to operate as bona fide [carriers]
+or provide local exchange service to the public at large.”
+Liability Order, 28 FCC Rcd. at 3488 ¶ 25. The Commission
+found that the Companies “neither owned nor leased facilities,
+nor did they purchase unbundled network elements typically
+used by [carriers] to provide any telecommunications services
+to the public.” Id. Rather, “Beehive installed and maintained
+their equipment (which was collocated in Beehive’s facilities),
+coordinated and managed their billing and collection services,
+and provided power and other services” needed by the
+Companies. Id. at 3483 ¶ 16 (footnotes omitted). Beehive’s
+creation of the Companies “allowed the access stimulation
+arrangements [between Beehive and Joy] to continue at rates”
+that otherwise “would have been unsustainable.” Id. at 3489
+¶ 27. On top of that, Beehive benefited from charging AT&T
+“for tandem switching and transport of the stimulated traffic.”
+Id. at 3489 ¶ 28.
+
+    The Commission concluded that this arrangement
+“constitute[d] an unjust and unreasonable practice in violation
+of Section 201(b) of the Act.” Liability Order, 28 FCC Rcd. at
+3488 ¶ 24. It also ruled that the Companies’ charges to AT&T
+were not made under a valid tariff because all of the customers
+served by the three Companies paid nothing for the service
+provided. Id. at 3494–3495 ¶ 38. Therefore, under Farmers
+and Northern Valley, the access charges were not incurred for
+switching services to an end user within the meaning of the
+Communications Act. Id. The Commission also noted that the
+Companies charged AT&T under a tariff for services that
+ended in Nevada, even though the actual “end user” was the
+conferencing equipment at Beehive’s facility in Utah. Id. at
+                                12
+3492–3495 ¶ 35. Because the Companies did not have any
+valid tariffs for access charges applied to calls terminating in
+Beehive’s territory in Utah, they had no authority under the
+Communications Act to charge AT&T for those services. Id.
+at 3493 ¶ 34.
+
+     The Commission denied the Companies’ petition for
+reconsideration. See AT&T Corp. v. All American Tel. Co., 29
+FCC Rcd. 6393 (2014). The Companies did not seek further
+review of the Commission’s liability determination or its
+factual findings.
+
+                                 3
+
+     Because of the bifurcation of liability and damages, the
+Commission conducted a second proceeding to determine
+whether AT&T should be awarded damages. The Companies
+objected that the Commission lacked jurisdiction over them,
+having found them to be sham entities. The Commission
+disagreed, reasoning that it had jurisdiction because the
+Companies had “held themselves out as ‘providing services as
+common carriers,’ and * * * operated with nationwide
+authority under” the Communications Act. AT&T Corp. v. All
+American Tel. Co., 30 FCC Rcd. 8959, 8960 ¶ 8 (2015)
+(“Damages Order”) (footnote omitted). Additionally, the
+Companies had “obtained state certificates to operate as [local
+exchange carriers], filed tariffs for their interstate services, and
+billed for those services[.]” Id. at 8961 ¶ 8; see also id. at 8961
+¶ 10 (“Defendants presented themselves to the public as
+common carriers and therefore are themselves subject to
+Section 208.”).
+
+     The Commission then ordered the Companies to refund
+the $252,496.37 that AT&T had previously paid them in access
+charges. Damages Order, 30 FCC Rcd. at 8962 ¶ 11. The
+                               13
+Commission noted that the Companies “admit[ted]” that
+Beehive was the entity that actually provided AT&T with
+interconnection services. Id.
+
+    The Companies filed a timely petition for review.
+
+                               II
+
+      We will “uphold the Commission’s decision unless it is
+arbitrary, capricious, an abuse of discretion, or otherwise not in
+accordance with law.” Achernar Broadcasting Co. v. FCC, 62
+F.3d 1441, 1445 (D.C. Cir. 1995) (quoting 5 U.S.C.
+§ 706(2)(A)); see 47 U.S.C. § 402(g) (providing for review of
+FCC orders “in the manner prescribed by section 706 of Title
+5”). An order from the Commission that exceeds the scope of
+its statutory authority is, by definition, not in accordance with
+the law and subject to vacatur. See, e.g., American Library
+Ass’n v. FCC, 406 F.3d 689, 708 (D.C. Cir. 2005).
+
+    We hold that the Commission’s damages award was
+lawful, but that those portions of the Commission’s decision
+touching on the merits of the Companies’ state-law claims are
+without legal effect.
+
+                                A
+
+     The Companies’ opening salvo is jurisdictional.
+Specifically, they contend that, because the Commission’s
+Liability Order found them to be sham entities rather than
+genuine common carriers, the Commission’s jurisdiction over
+them evaporated, leaving it powerless to award damages. The
+Companies cannot wiggle out of responsibility for their
+violations of the Communications Act that easily.
+                                  14
+     The Commission has jurisdiction over complaints alleging
+“anything done or omitted to be done by any common carrier
+* * * in contravention of the provisions” of the
+Communications Act. 47 U.S.C. § 208(a). Thus, for “common
+carriers,” taking actions that run afoul of the Communications
+Act does not get them out from under the Commission’s
+authority.
+
+     A “common carrier,” in turn, is “any person engaged as a
+common carrier for hire, in interstate or foreign communication
+by wire or radio.” 47 U.S.C. § 153(11). To “engage” someone
+in the business context is to hire or secure the services of that
+entity. 3 OXFORD ENGLISH DICTIONARY 173–174 (def. 5a)
+(1933) (reprint 1978) (defining “engage” as “[t]o hire, secure
+the services of (a servant, workman, agent, etc.)” and “[t]o
+enter into an agreement for service”). 3 Thus, at the very least,
+a “common carrier” includes entities providing services
+pursuant to a tariff—an agreement—filed with the
+Commission, even if the tariffs are subsequently determined to
+be invalid.
+
+     In addition, in deciding whether the Companies are
+“common carriers,” we look to the common law meaning of
+that phrase. See, e.g., National Ass’n of Regulatory Util.
+Comm’rs v. FCC (“NARUC”), 525 F.2d 630, 640–642 (D.C.
+Cir. 1976) (turning to the common law to interpret the statutory
+definition of common carrier); see also Cellco P’ship v. FCC,
+700 F.3d 534, 545–546 (D.C. Cir. 2012).
+
+
+
+     3
+       See also WEBSTER’S NEW INTERNATIONAL DICTIONARY 847
+(transitive def. 8; intransitive def. 2) (2d ed. 1934) (defining
+“engage” as “[t]o secure or bespeak the services of (a person); to hire;
+enlist” and “[t]o embark in a business; * * * to employ or involve
+oneself”).
+                                15
+     Importantly, under the common law, “one may be a
+common carrier by holding oneself out as such[.]” NARUC,
+525 F.2d at 643. As this Court has recognized, the “primary
+sine qua non of common carrier status is a quasi-public
+character,” which arises out of the “undertaking ‘to carry for
+all people indifferently[.]’” National Ass’n of Regulatory Util.
+Comm’rs v. FCC, 533 F.2d 601, 608 (D.C. Cir. 1976) (italics
+added); see also Verizon v. FCC, 740 F.3d 623, 651 (D.C. Cir.
+2014) (“[T]he basic characteristic that distinguishes common
+carriers from ‘private’ carriers” is the “common law
+requirement of holding oneself out to serve the public
+indiscriminately[.]”) (citation omitted); Southwestern Bell Tel.
+Co. v. FCC, 19 F.3d 1475, 1481 (D.C. Cir. 1994) (“[T]he
+indiscriminate offering of service on generally applicable terms
+* * * is the traditional mark of common carrier service.”)
+(emphasis added).
+
+     Substantial evidence supports the Commission’s
+determination that the Companies held themselves out to the
+public, including AT&T, as common carriers for hire. They
+offered to provide their common-carrier services pursuant to an
+agreement—a tariff that was filed with the Commission. They
+also obtained state certificates to operate as common carriers,
+and they represented in their district court complaint that they
+were common carriers. Furthermore, the Companies sought to
+obtain the benefits of common carrier status, such as the
+protections of the filed-rate doctrine. See Oral Argument Tr. at
+6:11–13 (Petitioners’ Counsel: “[W]e sought the benefits of
+being a common carrier, the benefit of being able to file a tariff,
+to collect regulated access fees under that tariff, and [to] us[e]
+the filed rate doctrine[.]”). Indeed, an important predicate for
+the Companies’ district court action is that AT&T accepted
+access services and the Companies billed AT&T for those
+services pursuant to a tariff filed with the Commission, albeit
+one later found to be invalid.
+                              16
+
+     Notably, in Farmers, supra, we rejected a similar
+jurisdictional argument as “flatly wrong.” 668 F.3d at 719.
+There, the defendant company Farmers, as part of a traffic-
+pumping scheme, had “held itself out as a common carrier
+providing access service” to interexchange carriers, and billed
+for that service pursuant to a tariff. Id. We held that the
+Commission’s ruling that Farmers had violated the
+Communications Act by improperly charging for its services
+“could not immunize [Farmers] from the complaint process.”
+Id.
+
+     Likewise here, having held themselves out as common
+carriers and having charged AT&T for services under a
+common-carrier tariff, the Companies were “engaged as a
+common carrier for hire,” 47 U.S.C. § 153(11), and thus were
+subject to the Commission’s jurisdiction. They cannot now
+wield their violation of the Communications Act as a shield
+against remedial liability for that same wrongdoing.
+
+                              B
+
+    Turning to the merits, we hold that the Commission’s
+damages award was permissible.            The Commission’s
+conclusion that the Companies did not render any service to
+AT&T chargeable under the Communications Act is supported
+by substantial evidence in the record. Damages Order, 30 FCC
+Rcd. at 8962 ¶¶ 11, 13.
+
+     To begin with, the Companies themselves repeatedly
+conceded that Beehive, not they, provided the access services
+that AT&T received. See, e.g., Answer and Affirmative
+Defenses ¶ 3, AT&T Corp. v. All American Tel. Co., File No.
+EB-09-MD-010 (FCC filed Dec. 1, 2014) (“Nevertheless, [the
+Companies] admit that they billed AT&T for Local Switching
+                               17
+service that was provided by Beehive[.]”); id. ¶ 57 (“[The
+Companies] admit that Beehive carried all traffic relevant to
+the case at bar, and was responsible for the routing and
+termination of the calls that AT&T’s customers made to chat
+and conference service providers.”); id. ¶ 59 (“[The
+Companies] admit that all of the traffic at issue was routed from
+AT&T to its point of termination in Beehive’s facilities by
+Beehive.”).
+
+    In addition, the Companies stipulated that the amount of
+the award—$252,496.37—was the amount that AT&T had
+paid to the Companies for access services. Damages Order, 30
+FCC Rcd. at 8962 ¶ 11.
+
+     Finally, the Commission reasonably concluded that the
+Companies were obligated to reimburse AT&T the amount that
+AT&T paid to them for what turned out to be no qualifying
+access service. There is nothing arbitrary or capricious about
+the Commission’s decision that paying something for nothing
+that is properly chargeable under the Communications Act is a
+compensable harm.
+
+     The Companies argue that the proper measure of damages
+should have been AT&T’s actual pecuniary loss, not the rate
+they paid. They contend specifically that AT&T failed to prove
+that it suffered an actual pecuniary loss because it received a
+connection service and, whether rendered by Beehive or the
+Companies, AT&T owed the same amount of money either
+way. Paying the Companies rather than Beehive directly thus
+took nothing extra out of AT&T’s pockets.
+
+     The Companies are correct that AT&T bore the burden of
+showing both a violation of the law and “actual damages
+suffered as a consequence of such violation.” New Valley
+Corp. v. Pacific Bell, 15 FCC Rcd. 5128, 5134 ¶ 14 (2000); see
+                               18
+also Communications Satellite Corp., 97 F.C.C.2d 82, 91 ¶ 26
+(1984) (“It is also well established that in a complaint
+proceeding, the complainant has the burden of proving both the
+fact and the amount of damages[.]”).
+
+     But New Valley and Communications Satellite stand only
+for the proposition that the party seeking damages must prove
+a financial loss that was caused by the alleged violation. See
+New Valley, 15 FCC Rcd. at 5133 ¶ 12 (party had not proven
+how the defendant’s failure to file tariff charges for services
+actually rendered had caused any injury); Communications
+Satellite, 87 F.C.C.2d at 92 ¶ 30 (party failed to show how its
+failure to win a Department of Defense bid was the proximate
+cause of any loss of profits).
+
+     AT&T met that burden.          AT&T presented expert
+declarations evidencing the amount of money it paid the
+Companies for no actual access service authorized by the
+Communications Act, and the parties ultimately stipulated to
+that measure of damages. In addition, unlike New Valley and
+Communications Satellite, AT&T causally linked its damages
+to the Companies’ traffic-pumping scheme, showing that, in
+the eyes of the Communications Act, they were sham entities
+that rendered no chargeable access services to AT&T.
+
+     The Companies’ actual-loss argument, at bottom, reduces
+to the claim that its liability should be excused because AT&T
+might have owed Beehive those same access charges. The
+Commission, however, permissibly held the Companies
+financially responsible for the payments they received as a
+result of their own conduct. See Damages Order, 30 FCC Rcd.
+at 8958 ¶ 1 (“Because Defendants may charge only for services
+they actually provide, it would be unjust to allow them to retain
+the amounts AT&T paid.”).
+                              19
+                              C
+
+     Finally, the Companies contend that the Commission
+improperly analyzed the merits of their state-law quantum
+meruit claims, which include a claim of unjust enrichment.
+Those state common law claims fall outside the Commission’s
+wheelhouse, and are still pending before the district court. We
+agree that a few aspects of the Commission’s decision have
+strayed beyond its authority, and hold that those portions are
+invalid to the extent that they speak to the merits of the
+Companies’ state-law claims.
+
+     The controverted language in the Commission’s liability
+order appears in two places. First, in responding to the
+Companies’ assertion of an unjust enrichment defense to
+AT&T’s damages claim, the Commission explained that the
+Companies had failed to show “that they may plead equitable
+defenses in a Section 208 complaint proceeding,” Damages
+Order, 30 FCC Rcd. at 8963 ¶ 13. Fair enough. The problem
+is that the Commission went on to say that, “[e]ven assuming”
+such a common-law claim could be decided by the
+Commission, the Companies’ unjust enrichment claim is
+without merit because the Companies had “failed to establish
+the necessary elements for unjust enrichment, because they did
+not provide a service to, or confer a benefit on, AT&T.” Id.
+
+     Second, at the end of its decision, the Commission
+dismissed the remaining referred issues as moot—which
+included the quantum meruit claims, see Referral Order, supra,
+at Ex. A, ¶ 2—because the Companies “did not provide any
+service to AT&T.” Damages Order, 30 FCC Rcd. at 8966 ¶ 21.
+                                20
+                                 1
+
+    Before proceeding to the merits of the Companies’
+challenge to those aspects of the Commission’s decision, we
+must first address the Commission’s threshold challenges to
+our ability to decide that question.
+
+     First, the Commission argues that the Companies lack
+standing to raise these arguments because the Commission’s
+statements do not injure them. The Commission contends that
+the Companies will not be harmed by the decisional language
+unless the district court gives effect to it in its own proceedings.
+
+      To establish standing, the Companies must demonstrate
+either actual injury from the Commission’s ruling, a “certainly
+impending” injury, or “substantial risk” of such an injury.
+Susan B. Anthony List v. Driehaus, 134 S. Ct. 2334, 2341
+(2014). To have standing, then, the Companies must
+demonstrate a substantial risk that the district court will credit
+the Commission’s determinations in resolving the Companies’
+common law claims. In this rather unique context, such a
+substantial risk of injury to the Companies exists because,
+going forward, the district court will be powerless to set aside
+any erroneous Commission determinations pertaining to their
+state-law claims. That is because the Hobbs Act vests
+exclusive jurisdiction to review final decisions of the
+Commission in the federal courts of appeals, not the district
+courts. 28 U.S.C. § 2342(1); see also FCC v. ITT World
+Communications, Inc., 466 U.S. 463, 468 (1984) (“Exclusive
+jurisdiction for review of final [Commission] orders * * * lies
+in the Court of Appeals.”). Litigants “may not evade these
+provisions by requesting the District Court to enjoin action that
+is the outcome of the agency’s order,” even if the agency order
+is allegedly ultra vires. ITT World Communications, 466 U.S.
+at 468.
+                               21
+
+     As a consequence, once the primary jurisdiction referral is
+completed, the Companies will be powerless to challenge the
+merits of the Commission’s decision before the district court,
+and the district court will be “without authority to review the
+merits of the [Commission’s] decision.” Port of Boston Marine
+Terminal Ass’n v. Rederiaktiebolaget Transatlantic, 400 U.S.
+62, 69 (1970).
+
+     Given that, the Companies face a substantial risk that the
+district court would take the Commission’s statements at face
+value and hold that the common law unjust enrichment claim
+is foreclosed. Because the Companies have no other avenue to
+challenge that asserted overreach by the Commission, they
+have standing to pursue that claim here.
+
+     Second, the Commission insists that the Companies’
+argument is foreclosed because they failed to file a petition for
+reconsideration raising their objection to the Commission
+addressing their common law claims. The filing of a petition
+for reconsideration is a “condition precedent to judicial review”
+whenever a party “relies on questions of fact or law upon which
+the Commission * * * has been afforded no opportunity to
+pass.” 47 U.S.C. § 405(a). Accordingly, those who wish to
+challenge a Commission decision must ensure that the
+Commission is afforded “a fair opportunity to review the
+arguments” before raising them in court. BDPCS, Inc. v. FCC,
+351 F.3d 1177, 1183 (D.C. Cir. 2003).
+
+    We do not, however, require that the issue be raised with
+“[a]bsolute precision,” and “judicial review is permitted so
+long as ‘the issue is necessarily implicated by the argument
+made to the Commission.’” EchoStar Satellite LLC v. FCC,
+704 F.3d 992, 996 (D.C. Cir. 2013) (quoting Time Warner
+Entm’t Co. v. FCC, 144 F.3d 75, 80 (D.C. Cir. 1998)); see also
+                               22
+Sprint Nextel Corp. v. FCC, 524 F.3d 253, 257 (D.C. Cir. 2008)
+(“The pith of the test is this: ‘the argument made to the
+Commission’ must ‘necessarily implicate[]’ the argument
+made to us.”) (alteration in original; citation omitted).
+
+     Here, the Companies (as well as AT&T) repeatedly argued
+to the Commission that it lacked the authority to address the
+state-law claims. The Companies pointed out that “the possible
+merits of their equitable claims” were “not before the
+Commission in the instant proceeding, as AT&T admits in
+footnote 87, and so are irrelevant.” Answer and Affirmative
+Defenses, supra, ¶ 78. Doubling down, the Companies added
+that “the Commission lacks authority to hear [their] claims for
+damages against AT&T, as a non-carrier,” and that “[t]o the
+extent AT&T has arguments for the SDNY court, it should
+make them there, and not in this proceeding.” Id. ¶ 88.
+
+     AT&T agreed. See Supplemental Complaint of AT&T
+Corp. for Damages ¶ 77 n.87, AT&T v. All American Tel. Co.,
+File No. EB-09-MD-010 (FCC filed Oct. 24, 2014) (“[T]he
+Commission does not generally have jurisdiction to address the
+merits of any particular state law quasi-contract claim[.]”);
+Reply Legal Analysis in Support of Supplemental Complaint
+at 33, AT&T Corp. v. All American Tel. Co., File No. EB-09-
+MD-010 (FCC filed Dec. 22, 2014) (“[T]he Commission
+should not decide the merits of any state law claim[.]”); see
+also Bartholdi Cable Co. v. FCC, 114 F.3d 274, 280 (D.C. Cir.
+1997) (“[Section] 405 does not require that the party seeking
+judicial review of an issue be the party that provided the
+Commission with opportunity to pass on the issue.”).
+
+    Because the Commission was afforded a full and fair
+opportunity to consider its treatment of the state-law claims and
+was fully apprised of the Companies’ position, Section 405(a)
+is no bar to reaching the merits. See, e.g., Sorenson
+                                 23
+Communications, Inc. v. FCC, 765 F.3d 37, 50 (D.C. Cir. 2014)
+(issue is ripe for review when “the Commission had an
+‘opportunity to pass’ upon the question of fact or law raised in
+the petition” even if no petition for reconsideration was filed)
+(citation omitted). 4
+
+                                 2
+
+     The Companies are correct that the Commission lacked the
+legal authority to discuss the merits of their state-law quantum
+meruit claims. Congress has vested the Commission only with
+the authority to address allegations of actions taken “in
+contravention of” the Communications Act. 47 U.S.C.
+§ 208(a). A state common law claim, by definition, does not
+arise under or state a violation of the Communications Act, and
+thus falls outside the scope of the Commission’s jurisdiction.
+
+    In addition, the Companies’ state-law claims seek to
+determine the rights of a carrier against a customer: the
+Companies want the district court to order AT&T to pay them
+for services allegedly rendered. But for more than half a
+century, the Commission has held that it lacks jurisdiction to
+“determin[e] * * * the carrier’s rights against a subscriber[.]”
+Thornell Barnes Co. v. Illinois Bell Tel. Co., 1 F.C.C.2d 1247,
+1275 (1965); see also AT&T Corp. v. Bell Atl.-Pa., 14 FCC
+
+    4
+       Prior decisions of this court have held that Section 405(a)
+“constitutes ‘an exhaustion requirement, rather than * * * a
+jurisdictional prerequisite.’” M2Z Networks, Inc. v. FCC, 558 F.3d
+554, 558 (D.C. Cir. 2009) (citation omitted; alteration in original);
+see also Southern Indiana Broadcasting, Ltd. v. FCC, 935 F.2d 1340,
+1342 (D.C. Cir. 1991) (“[W]e have treated this as an ‘exhaustion’
+requirement, rather than a jurisdictional prerequisite, and have
+allowed exceptions[.]”). In any event, for the reasons given, the
+briefing by both the Companies and AT&T fairly presented the issue
+to the Commission.
+                                 24
+Rcd. 556, 599 n.240 (1998) (the Commission has “no
+authority” to conduct “adjudications of carrier’s rights against
+their customers”). Indeed, the Commission here dismissed the
+Companies’ complaint against AT&T for that very reason. All
+American Tel. Co., 26 FCC Rcd. at 726 ¶ 10. And we have
+previously affirmed and enforced this limitation on the
+Commission’s jurisdiction. See MCI Telecomms. Corp. v.
+FCC, 59 F.3d 1407, 1417 (D.C. Cir. 1995) (vacating portion of
+a Commission order that “involve[d] a determination of the
+carrier’s rights against a [customer], over which this
+Commission has no jurisdiction”) (second alteration in
+original) (quoting Thornell Barnes Co., 1 F.C.C.2d at 1275
+¶ 67).
+
+     Accordingly, the Commission’s discussion of the
+Companies’ ability to satisfy the “necessary elements for unjust
+enrichment,” Damages Order, 30 FCC Rcd. at 8963 ¶ 13, and
+its determination that the quantum meruit claims referred to the
+Commission were “moot[ed]” by the Commission’s decision
+that the Companies “did not provide any service to AT&T,” id.
+at 8966 ¶ 21, were improper and ultra vires to the extent that
+they addressed the Companies’ state-law claims.             The
+Companies’ petition for review is granted only with respect to
+those aspects of the decision that reached beyond the
+Commission’s statutory authority.         The merits of the
+Companies’ state-law claims must be decided by the district
+court in the first instance. 5
+
+                                  ***
+
+
+
+    5
+      Because the Commission’s order does not reach the question
+of whether the Communications Act preempts the Companies’ state-
+law claims, that question also remains open for the district court to
+address in the first instance.
+                              25
+     The petition for review is granted in part and denied in
+part. The Commission’s award of damages is affirmed, but
+insofar as the Commission reached and decided any questions
+of state law or the merits of the Companies’ quantum meruit
+claims, those parts of the decision are without legal effect and
+vacated in relevant part.
+
+                                                    So ordered.
+

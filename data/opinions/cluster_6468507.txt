@@ -1,0 +1,3457 @@
+Appellate Case: 18-9011         Document: 010110683986   Date Filed: 05/13/2022   Page: 1
+
+
+
+                                          PUBLISH                     FILED
+                                                          United States Court of Appeals
+                           UNITED STATES COURT OF APPEALS         Tenth Circuit
+
+                                 FOR THE TENTH CIRCUIT                      May 13, 2022
+                             _________________________________
+                                                                      Christopher M. Wolpert
+                                                                          Clerk of Court
+  RESERVE MECHANICAL CORP., f/k/a
+  Reserve Casualty Corp.,
+
+         Petitioner - Appellant,
+
+  v.                                                          No. 18-9011
+
+  COMMISSIONER OF INTERNAL
+  REVENUE,
+
+         Respondent - Appellee.
+
+  --------------------------------
+
+  ALABAMA CAPTIVE INSURANCE
+  ASSOCIATION, INC.; ARIZONA
+  CAPTIVE INSURANCE ASSOCIATON,
+  INC.; DELAWARE CAPTIVE
+  INSURANCE ASSOCIATION INC.;
+  GEORGIA CAPTIVE INSURANCE
+  ASSOCIATION, INC.; HAWAII
+  CAPTIVES INSURANCE COUNCIL;
+  KENTUCKY CAPTIVE ASSOCIATION,
+  INC.; MISSOURI CAPTIVE
+  INSURANCE ASSOCIATION;
+  MONTANA CAPTIVE INSURANCE
+  ASSOCIATION, INC.; NORTH
+  CAROLINA CAPTIVE INSURANCE
+  ASSOCIATION,; UTAH CAPTIVE
+  INSURANCE ASSOCIATION; SELF
+  INSURANCE INSTITUTE OF
+  AMERICA,
+
+         Amici Curiae.
+                             _________________________________
+
+
+                                              1
+Appellate Case: 18-9011    Document: 010110683986         Date Filed: 05/13/2022    Page: 2
+
+
+
+                  Appeal from the Commissioner of Internal Revenue
+                                (CIR No. 014545-16)
+                       _________________________________
+
+ Val J. Albright, Foley & Lardner, LLP, Dallas, Texas (Michelle Y. Ku, Foley & Lardner,
+ LLP, Dallas, Texas, E. John Gorman, Logan R. Gremillion, and Coby M. Hyman, The
+ Feldman Law Firm LLP, Houston, Texas, with him on the briefs) for the Petitioner-
+ Appellee.
+
+ Geoffrey J. Klimas, Attorney, Tax Division (Richard E. Zuckerman, Principal Deputy
+ Assistant Attorney General, Joshua Wu, Deputy Assistant Attorney General, Francesca
+ Ugolini, Attorney, Arthur T. Catterall, Attorney, Tax Division, with him on the brief),
+ Department of Justice, Washington, D.C., for Respondent-Appellee.
+
+ Elizabeth J. Bondurant (Jonathan Reid Reich, with her on the brief), Womble Bond
+ Dickinson (US) LLP, Atlanta, Georgia, filed a brief for Amici Curiae The Alabama
+ Captive Insurance Association, Inc., Arizona Captive Insurance Association, Inc.,
+ Delaware Captive Insurance Association Inc., Georgia Captive Insurance Association,
+ Inc., Hawaii Captives Insurance Council, Kentucky Captive Association, Inc., Missouri
+ Captive Insurance Association, Montana Captive Insurance Association, Inc., North
+ Carolina Captive Insurance Association, Utah Captive Insurance Association, and Self
+ Insurance Institute of America.
+                         _________________________________
+
+ Before HARTZ, HOLMES, and PHILLIPS, Circuit Judges.
+                   _________________________________
+
+ HARTZ, Circuit Judge.
+                          _________________________________
+
+       Reserve Mechanical Corp. appeals the decision of the Tax Court affirming the
+
+ decision of the Commissioner of Internal Revenue that it did not qualify for an exemption
+
+ from income tax as a small insurance company and that the purported insurance
+
+ premiums it received must therefore be taxed at a 30% rate under I.R.C. § 881(a). We
+
+ hold that the record supports the Tax Court’s decision that the company was not engaged
+
+ in the business of insurance. The court had two grounds for deciding that Reserve was not
+
+ an insurance company. First, it determined that Reserve had not adequately distributed
+
+                                             2
+Appellate Case: 18-9011     Document: 010110683986          Date Filed: 05/13/2022     Page: 3
+
+
+
+ risk among a large number of independent insureds—a hallmark of any true insurance
+
+ company. Virtually all the insured risk was that of one insured, a company that had the
+
+ same ownership as Reserve itself. To appear to distribute risk, Reserve entered into an
+
+ insurance pool with other purported insurance companies, each owned by an affiliate of
+
+ its insured, but the arrangement lacked substance and the pool itself did not distribute
+
+ risk. Second, the Tax Court determined that the policies issued by Reserve were not
+
+ insurance in the commonly accepted sense. For example, the premiums were not the
+
+ result of arm’s-length transactions and were not reasonable, and Reserve was not
+
+ operated in the way legitimate insurance companies operate. In addition, Reserve argues
+
+ that if it was not an insurance company, the premiums it received must be treated as
+
+ nontaxable capital contributions. We also reject that argument.
+
+        I.     OVERVIEW
+
+        From 2008 to 2010, when Reserve Mechanical Corp. was known as Reserve
+
+ Casualty Corp., it issued a number of insurance policies to Peak Mechanical Corp. Two
+
+ men, Norman Zumbaum and Cory Weikel, owned both Reserve (through Reserve’s
+
+ parent corporation, Peak Casualty) and Peak. Before these policies were issued, Peak had
+
+ limited its insurance coverage to commercial policies that cost about $100,000 a year.
+
+ Peak maintained those policies but also paid Reserve more than $400,000 a year for the
+
+ supplemental insurance obtained through the new policies. The relationship between
+
+ Reserve and Peak is often termed “captive” insurance. See 3 Steven Plitt et al., Couch on
+
+ Insurance § 39:2 (3d ed. 2021) (“A captive insurer is a corporation organized for the
+
+
+
+                                              3
+Appellate Case: 18-9011       Document: 010110683986           Date Filed: 05/13/2022      Page: 4
+
+
+
+ purpose of insuring the liabilities of its shareholders or their affiliates.” (internal
+
+ quotation marks omitted)).
+
+        Peak did not appear to get much in return for its $400,000 annual payment to
+
+ Reserve. The appellate record indicates that Peak recovered on only one loss, receiving a
+
+ payment of slightly less than $340,000; and even then, as we shall see, the bona fides of
+
+ the claim were questionable and the handling of the claim was highly irregular. The high
+
+ premiums on the policies could, however, be a significant financial benefit to Zumbaum
+
+ and Weikel even if—indeed, especially if—Peak never suffered a loss covered by the
+
+ policies issued by Reserve. The benefit arises from the tax treatment of small insurance
+
+ companies, which has special consequences when the small insurer is a captive insurer,
+
+ sometimes referred to as a “micro-captive.” As the Supreme Court recently explained:
+
+        A micro-captive transaction is typically an insurance agreement between a
+        parent company and a “captive” insurer under its control. The [Internal
+        Revenue] Code provides the parties to such an agreement with tax
+        advantages. The insured party can deduct its premium payments as business
+        expenses. And the insurer can exclude . . . those premiums from its own
+        taxable income, under a tax break for small insurance companies. The result
+        is that the money does not get taxed at all.
+
+ CIC Servs., LLC v. IRS, 141 S. Ct. 1582, 1587 (2021) (citations omitted). Thus, Peak
+
+ could treat the $400,000 in annual premiums it paid to Reserve as a deductible business
+
+ expense on its federal income-tax returns, while Reserve would be exempt from income
+
+ taxation so long as it qualified as an insurance company under the tax laws. (Reserve
+
+ relied on I.R.C. § 501(c)(15), which exempts insurance companies from income taxation
+
+ under § 501(a) if they receive no more than $600,000 a year in premiums.) The $400,000
+
+ moved from one entity owned by Zumbaum and Weikel to another entity they owned; so,
+
+                                                 4
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022         Page: 5
+
+
+
+ pre-tax, they had the same wealth despite the transfer. But their businesses paid
+
+ significantly less tax. In particular, the more paid in premiums on the insurance policies,
+
+ the greater the tax deduction, so there would be a strong financial incentive for those who
+
+ owned both the business and its captive to set the premiums as high as possible, unlike
+
+ the usual incentive for a business to reduce its expenses. Such tax benefits and incentives
+
+ have led micro-captive transactions to come under scrutiny because of “their potential for
+
+ tax evasion.” CIC Servs., 141 S. Ct. at 1587.
+
+        Capstone Associated Services, Ltd., which consulted for and managed a number of
+
+ captive insurance companies besides Reserve, advised Zumbaum and Weikel in creating
+
+ Reserve and handled the technical and management issues, such as preparing policies and
+
+ recommending premiums. It believed that for Reserve to be a qualified insurance
+
+ company it would have to receive at least 30% of its premiums from companies not
+
+ affiliated with it, a threshold we can assume to be correct for purposes of this appeal.
+
+        In the Background section of this opinion we will describe in some detail how
+
+ Reserve purported to obtain this diversification of risks. But it may be useful to orient the
+
+ reader by sketching the key aspects of the arrangement now. Capstone ostensibly created
+
+ diversification of risks in two ways, which together accounted for about 30% of the
+
+ “premiums” received by Reserve. First, it arranged for 50-some captives under its
+
+ management to, in essence, be liable on reinsurance policies issued to each other. In a
+
+ reinsurance relationship one insurance company, the reinsurer, acts as an insurer of
+
+ another insurance company; typically, the reinsured insurance company pays a premium
+
+ to the reinsurer and the reinsurer assumes a portion of the liabilities of the reinsured
+
+                                               5
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 6
+
+
+
+ company on the insurance policies issued by the reinsured company—that is, the
+
+ reinsured company “cedes” some of its liability to the reinsurer. See Black’s Law
+
+ Dictionary 1539 (11th ed. 2019) (defining reinsurance as “[i]nsurance of all or part of
+
+ one insurer’s risk by a second insurer, who accepts the risk in exchange for a percentage
+
+ of the original premium”); 13A John Alan Appleman & Jean Appleman, Insurance Law
+
+ and Practice § 7681, at 480 (1976) (“Reinsurance, to an insurance lawyer, means one
+
+ thing only—the ceding by one insurance company to another of all or a portion of its
+
+ risks for a stipulated portion of the premium, in which the liability of the reinsurer is
+
+ solely to the reinsured, which is the ceding company, and in which contract the ceding
+
+ company retains all contact with the original insured, and handles all matters prior to and
+
+ subsequent to loss.”); but cf. Colonial Am. Life Ins. Co. v. Comm’r, 491 U.S. 244, 247
+
+ (1989) (adopting a more expansive notion of reinsurance). For example, a company that
+
+ issues homeowners insurance may pay a premium to a reinsurer to protect the
+
+ homeowner-insurance company from unsustainable losses if a major fire destroys too
+
+ many homes insured by the company.
+
+        The reinsurance arranged by Capstone was accomplished through PoolRe
+
+ Insurance Corp., another company managed by Capstone. Through PoolRe each of the
+
+ captive insurers in effect reinsured, and was reinsured by, each of the other captives, with
+
+ PoolRe acting as the intermediary. See Figure 1.
+
+
+
+
+                                               6
+Appellate Case: 18-9011     Document: 010110683986          Date Filed: 05/13/2022      Page: 7
+
+
+
+
+                                Figure 1 – Capstone’s Role
+
+ The process involved two steps. To begin with, on each policy issued by Reserve and the
+
+ other captives, PoolRe provided what was termed stop-loss coverage (purportedly to
+
+ protect the captive insurers from excess losses) through an endorsement on the policy that
+
+ required PoolRe to assume a portion of the liability incurred by the captive insurer on the
+
+ policy covering the insured (such as Peak). The restrictions on payment under the stop-
+
+ loss coverage, which will be explored later, were sufficiently intricate and demanding
+
+ that it appears they were never satisfied during the years in question (either on the stop-
+
+ loss coverage for Reserve policies or the stop-loss coverage provided for the other
+
+ captives), so there were no payouts on the coverage. For this stop-loss coverage, PoolRe
+
+ received a fixed percentage (18.5% the first year) of the premiums paid on the policies
+
+ issued by the captives. 1 As the second step, the captives in turn reinsured all of PoolRe’s
+
+
+
+
+        1
+          Strictly speaking this was not a reinsurance agreement since PoolRe was directly
+ liable to the insured (such as Peak) under an endorsement on the policy from the captive
+ insurer (such as Reserve) to the insured.
+
+                                               7
+Appellate Case: 18-9011     Document: 010110683986          Date Filed: 05/13/2022      Page: 8
+
+
+
+ stop-loss coverage, with each captive receiving a premium from PoolRe equal to the
+
+ premium its insured paid to PoolRe. See Figure 2.
+
+
+
+
+                      Figure 2 – How the Reinsurance Pool Worked
+
+        The net result of this arrangement was that each captive insurer received the full
+
+ premium paid by its insureds—the 81.5 % paid directly to the captive by the insured plus
+
+ the 18.5% paid to PoolRe, which in turn later paid that amount to the captive. Through
+
+ this arrangement, all the captive insurers shared the entire risk of the stop-loss coverage
+
+ provided by PoolRe. If one of the captives incurred liability that triggered the stop-loss
+
+ coverage, PoolRe would pay its share of the loss but would be fully reimbursed through
+
+ the reinsurance it obtained from the captives as a whole, with each captive paying its
+
+ proportionate share. As previously mentioned, however, this risk apparently never
+
+ materialized. At least during the period relevant to this appeal, PoolRe did not need to
+
+                                               8
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 9
+
+
+
+ pay on any stop-loss coverage, so the payments to and from PoolRe were a wash. But
+
+ Reserve could argue that 18.5% of the premiums paid by Peak came to Reserve from
+
+ PoolRe, rather than from its affiliate (Peak), and that it thereby distributed risk beyond its
+
+ affiliates.
+
+         The second way in which Capstone arranged for the captives to ostensibly
+
+ diversify risks was by purportedly arranging for each captive to reinsure a small
+
+ percentage of risk that PoolRe assumed from coinsuring thousands of vehicle-service
+
+ contracts with another insurance company. See Black’s Law Dictionary 954 (11th ed.
+
+ 2019) (providing one definition of coinsurance as “[i]nsurance provided jointly by two or
+
+ more insurers”). Reserve claimed to have received about 15% of its premiums through
+
+ this arrangement. In each year for which we have a record, Reserve reported that it
+
+ incurred liability from this reinsurance approximately equal to the amount it was owed in
+
+ premiums. Taken together, the premiums from both these plans constituted more than
+
+ 30% of the premiums Reserve received from Peak and PoolRe.
+
+         Questioning the bona fides of Reserve’s various arrangements, the IRS rejected
+
+ Reserve’s claim to be a qualified insurance company and assessed it for back taxes.
+
+ Reserve challenged the assessment in the United States Tax Court but lost. Reserve has
+
+ appealed to this court. Exercising jurisdiction under 26 U.S.C. § 7482(a), we affirm. 2 In
+
+ the Tax Court proceedings Reserve had the burden of proving that the IRS’s assessment
+
+
+
+
+         Reserve appealed to this circuit, perhaps because it filed its tax return in Utah.
+         2
+
+ See 26 U.S.C. § 7482(b)(1)(B). The Commissioner has not challenged venue.
+
+                                               9
+Appellate Case: 18-9011      Document: 010110683986           Date Filed: 05/13/2022      Page: 10
+
+
+
+  was incorrect. On the record before it, the court could properly find that Reserve had not
+
+  satisfied its burden—in particular, Reserve had not proved that its purported insurance
+
+  transactions were truly arrangements for insurance. We also reject Reserve’s challenge to
+
+  the Tax Court’s refusal to accept Reserve’s claim that its receipts from Peak were, if not
+
+  insurance, nontaxable capital contributions.
+
+         Our discussion will proceed as follows: First, we describe at length the facts
+
+  relevant to the issues before us. Second, we review the applicable law and the decision of
+
+  the Tax Court holding that Reserve was not an insurance company. Third, we explain
+
+  why we affirm that holding. Fourth, we reject Reserve’s argument that it owes no taxes
+
+  even if it was not an insurance company because the “premium” payments from Peak
+
+  must then be deemed nontaxable contributions of capital.
+
+         II.    BACKGROUND
+
+         In this section we will discuss the formation of Reserve, the policies it issued to
+
+  Peak, the reinsurance arrangements it made with PoolRe that ostensibly allowed it to
+
+  distribute risk to entities not affiliated with Peak, and the tax claim instituted against
+
+  Reserve.
+
+         We recite the evidence of record in some detail. The amicus brief submitted to this
+
+  court, as well as the briefs of Reserve itself, suggest that the decision of the Tax Court
+
+  undermines perfectly proper practices in the creation and operation of captive insurance
+
+  companies. But the specific evidence presented can make all the difference. Two
+
+  transactions that appear similar in form may be treated quite differently under the law
+
+  because of differences in the underlying substance. We do not hold that the forms of the
+
+                                                 10
+Appellate Case: 18-9011     Document: 010110683986         Date Filed: 05/13/2022     Page: 11
+
+
+
+  transactions involving Reserve are improper (for example, insurance pools such as
+
+  PoolRe may be perfectly legitimate in other circumstances); we hold only that the Tax
+
+  Court could properly conclude that they were not insurance transactions in substance.
+
+                A.     Formation of Reserve
+
+         Zumbaum and Weikel formed Peak in the mid-nineties to operate near deep
+
+  underground mines in Idaho’s Silver Valley. Peak continues to do business in Idaho,
+
+  primarily on the Bunker Hill Superfund Site, but also in other locations in Idaho and
+
+  Nevada. It manufactures and sells equipment that supports underground mining
+
+  operations. This equipment includes ventilation fans that control the temperature of the
+
+  mines, submersible pumps that remove the groundwater from the mines, and vehicles that
+
+  transport workers, explosives, and fuel to, from, and within the mines. Peak also repairs
+
+  and cleans mining equipment that is often contaminated with hazardous waste like lead or
+
+  zinc. Because the cleaning operations risk creating hazardous-waste runoff, Peak employs
+
+  various measures, such as the use of cleaning bays, sumps, and containment areas, to
+
+  prevent spreading the contaminants.
+
+         In 2008 and 2009 Peak had 17 employees, including two shop managers, ten shop
+
+  staff, and two outside salespersons. By 2010 it was down to 13 employees. Zumbaum and
+
+  Weikel also owned two other business entities: RocQuest holds the real estate that Peak
+
+  leases for its operations, and ZW was created by Zumbaum and Weikel to lend money to
+
+  Zumbaum’s secretary when she wanted to buy a bar in Silver Valley. At trial Zumbaum
+
+  described the operations of RocQuest and ZW as insignificant.
+
+
+
+                                              11
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 12
+
+
+
+           Before obtaining insurance from Reserve, Peak relied on several commercial
+
+  policies for its insurance needs: Most recently it had paid premiums of $95,828 for 2007,
+
+  and $57,300 for the first half of 2008. The coverage limits for the policies ranged from
+
+  $5,000 to $2 million. Peak filed few claims under these policies—some claims under its
+
+  auto-insurance policies and a claim under its commercial-property policy for snowstorm
+
+  damage to the roof of one of Peak’s buildings (Peak spent $25,000 to replace the roof but
+
+  recovered only $2,000 from the insurer). Although Peak claimed that it was unhappy with
+
+  its insurers’ handling of these claims, Peak continued its policies with them, even after
+
+  procuring the additional coverage from Reserve.
+
+           Zumbaum and Weikel reached out to Capstone after a mentor recommended
+
+  taking a look at forming a captive insurance company. Stuart Feldman, chief executive
+
+  officer of Capstone’s general partner, Capstone Holdings Corp., and Lance McNeel,
+
+  Capstone’s director of insurance operation, conducted an on-site visit of Peak in August
+
+  2008. Before the visit Peak provided Capstone with background documents on Peak’s
+
+  finances, taxes, and current insurance. The visit lasted six to eight hours. McNeel and
+
+  Feldman toured Peak’s facilities and discussed Peak’s business operations and insurance
+
+  risks.
+
+           After the visit Capstone began preparing a “Captive Insurance Company
+
+  Feasibility Study” to “evaluate[] Peak’s desire to explore the option of forming a captive
+
+  insurer for the purpose of writing coverages that are generally unavailable or impractical
+
+  to obtain in the conventional insurance marketplace.” Aplt. App., Vol. 7 at 2027, 2030
+
+  (emphasis added). For reasons not explained in the record, Capstone did not produce the
+
+                                              12
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022       Page: 13
+
+
+
+  final version of the study until August 2009. The study outlined advantages of captives,
+
+  such as “lower risk costs,” investment income, tailored policies, coverage prices that
+
+  “track closely with the risks inherent in an insured’s own exposures,” access to
+
+  reinsurance, and “complete control over the operation of [the] captive[].” Id. at 2040–42.
+
+  It said that “[c]overage lines that address reasonably predictable, non-catastrophic
+
+  exposures are good candidates for coverage by a captive,” and that other “unpredictable
+
+  exposures may also be good candidates,” but that those exposures would likely require
+
+  “pooling or reinsurance.” Id. at 2040.
+
+         As for Peak specifically, the study noted that Peak’s “current conventional policies
+
+  . . . offer broad and comprehensive coverage that is appropriately designed and priced,”
+
+  id. at 2047, and it acknowledged that Peak “had no losses of any significance” on its
+
+  current policies, id. at 2061. But it stated that a captive could insure against additional
+
+  risks, and it mentioned 13 categories of such risks, describing each in one to four
+
+  sentences. There was no discussion of the likelihood of any risk. The study did not
+
+  mention either ZW or RocQuest.
+
+         Zumbaum and Weikel did not wait for the final feasibility study before beginning
+
+  their insurance project. On December 3, 2008, about four months after the site visit, they
+
+  incorporated Reserve (as a subsidiary of their holding company named Peak Casualty) in
+
+  Anguilla, British West Indies, with an initial capital investment of $100,000. Reserve had
+
+  no employees and was managed by Capstone. Also in December, Reserve issued its first
+
+  set of policies.
+
+
+
+                                                13
+Appellate Case: 18-9011     Document: 010110683986         Date Filed: 05/13/2022     Page: 14
+
+
+
+               B.     Reserve’s Direct Policies
+
+        Reserve issued 13 policies to Peak (RocQuest and ZW were also named insureds,
+
+  but we will generally refer only to Peak) on December 4, 2008:
+
+        1)     Excess Directors & Officers Liability (for liability for wrongful acts
+               committed by directors and officers acting in such capacity)
+        2)     Special Risk – Loss of Major Customer (for reduction in net income caused
+               by loss of major customer)
+        3)     Special Risk – Expense Reimbursement (for expenses to mitigate adverse
+               publicity arising from incidents such as a liability incident, product recall,
+               labor dispute, or bankruptcy; and civil-liability defense costs if there was no
+               underlying insurer or all defense expenses have been exhausted)
+        4)     Special Risk – Loss of Services (for loss of services of employees to be
+               specifically named)
+        5)     Special Risk – Weather Related Business Interruption (for losses from
+               interruption of business caused by weather)
+        6)     Excess Pollution Liability (for cost of cleaning up on-site pollution and
+               liability for creating pollution)
+        7)     Special Risk – Tax Liability (if tax liability exceeds 115% of filed tax
+               liability)
+        8)     Excess Intellectual Property Package (for liability for wrongful acts by
+               Peak and for damage to Peak’s intellectual property caused by wrongful
+               acts of others)
+        9)     Special Risk – Regulatory Changes (for damages to business from changes
+               in the law)
+        10)    Special Risk – Punitive Wrap Liability (for punitive damages that would be
+               paid by one of the other Reserve policies to Peak except that a law or
+               judicial ruling precludes insuring punitive damages)
+        11)    Excess Employment Practices Liability (for liability for wrongful
+               discharge, workplace harassment, retaliation for exercising employment-
+               related legal rights, breach of employment contract, etc.)
+        12)    Excess Cyber Risk (for liability and for business and property loss caused
+               by others)
+        13)    Special Risk – Product Recall (for expenses of recall of products
+               manufactured or sold by Peak)
+
+        For each policy the policy period was less than a month, extending from December
+
+  4, 2008, to January 1, 2009, and the liability limit was $1 million. The total premium was
+
+  $412,089.02. The policies were claims-made policies: The claim must have been based
+
+                                              14
+Appellate Case: 18-9011      Document: 010110683986           Date Filed: 05/13/2022      Page: 15
+
+
+
+  on acts, errors, or omissions after the policy inception date or, if applicable, after the
+
+  earlier retroactive date set forth in the policy. And the claim must have been made and
+
+  reported to Reserve after the policy inception date and during the policy period or, if
+
+  applicable, during the extended reporting period set forth in the policy. Policy # 7—the
+
+  tax-liability policy—had special provisions on retroactivity and reporting, apparently
+
+  intending to cover tax returns due before 2009 if covered losses were reported within four
+
+  years of the due date. Six policies (1, 6, 8, 10, 11, 12) had a retroactive date of January 1,
+
+  2005 (so the act or omission giving rise to the claim could have predated the policy by as
+
+  much as four years) and an extended reporting period of three or four years (so the claim
+
+  could have been made and reported to Peak as late as December 2012). The remaining
+
+  policies had no retroactive date but extended reporting periods of one year or, in one case
+
+  (policy #13), four years. Each policy contained an other-insurance clause, which
+
+  provided, “The limits and deductibles stated herein only apply after coverage is
+
+  exhausted from any and all other valid insurance policies issued by any other insurer,”
+
+  Reserve Mech. Corp. v. Comm’r, T.C. Memo. 2018-86 at 14, 115 T.C.M. (CCH) 1475
+
+  (T.C. 2018) (Reserve) (capitalization omitted); 3 so if Peak suffered a loss that could be
+
+  covered by both a Reserve policy and one of its commercial policies, Reserve would pay
+
+
+
+
+        For simplicity and uniformity we refer to the pagination of the Tax Court’s
+         3
+
+  memorandum opinion throughout this opinion.
+
+                                                15
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 16
+
+
+
+  nothing unless the claim exhausted the benefits under the commercial policy.
+
+         Several of these policies were executed with singular carelessness. For example,
+
+  two of the policies erroneously listed Pacific Arts Entertainment, LLC and Pacific Arts
+
+  Presents, LLC as the insureds, rather than Peak, RocQuest, and ZW. And although the
+
+  directors-and-officers policy stated that it covered the specific officers and directors listed
+
+  in Schedule 1-A, an attachment to the policy, Schedule 1-A did not list a single insured
+
+  person, so the policy—for which Peak paid $17,122—would provide no coverage. Also,
+
+  in the apparent rush to issue the policies (and pay premiums that would be deductible in
+
+  2008), Peak paid for three policies—employment-practices liability, weather-related
+
+  business disruption, and cyber risk—that apparently were deemed unnecessary after a
+
+  little further consideration, as they were dropped in 2009, after being in place for less
+
+  than one month. 4 (Notably, the later-issued feasibility study described one of the
+
+  discontinued coverages—employment-practices liability—as a “major liability
+
+  concern[]” for Peak. Aplt. App., Vol. 7 at 2062.)
+
+                       1.      Policy Premiums
+
+         There are also remarkable errors in pricing the premiums on two policies. McNeel,
+
+  Capstone’s director of the insurance operation, prepared a rating worksheet for each of
+
+
+
+         4
+            Besides dropping the three policies in 2009, Peak replaced the expense-
+  reimbursement policy by two policies covering the same risks—one to mitigate adverse
+  publicity and one to provide for civil-liability defense costs. Also, on six policies the
+  liability limit was reduced from $1 million to $500,000, so the total limit of liability
+  dropped from $13 to 8 million. Peak paid premiums of $448,127.03 on the 11 policies in
+  2009. Peak kept the same 11 policies and paid $445,314.01 in 2010.
+
+                                                16
+Appellate Case: 18-9011     Document: 010110683986          Date Filed: 05/13/2022     Page: 17
+
+
+
+  the policies. On the 2008 worksheet, for example, one column set the annual premium for
+
+  each policy, and an adjacent column contained a pro rata percentage to account for how
+
+  premiums calculated on an annual basis should be adjusted for retroactive and partial-
+
+  year coverage. For those policies with retroactive coverage the pro rata percentage was
+
+  usually 95%. For four of the policies (loss of major customer, loss of services, product-
+
+  recall reimbursement, and weather-related business interruption) with no retroactive
+
+  coverage (so the occurrence had to be during December 2008) the pro rata percentage
+
+  was 10% (presumably reflecting that the coverage was for occurrences during less than
+
+  10% of a full year). But for Special Risk – Regulatory Changes, which also had no
+
+  retroactive coverage, the pro rata percentage was 95%. When asked about this at oral
+
+  argument, counsel for Reserve responded, “It certainly strikes me as an error.” Oral Arg.
+
+  at 37:30. 5 A similar error was made with respect to the policy for Special Risk – Expense
+
+  Reimbursement.
+
+
+         5
+            In a letter to the court sent a few days after oral argument, counsel for Reserve
+  retracted this statement, stating that there was no proration error. The letter asserts that
+  the proration factor on the worksheet reflected McNeel’s “judgment of the percentage of
+  risk of the policy remaining,” and notes that the premium was comparable to that on a
+  document provided by Mid-Continent General Agency, Inc., which purportedly was
+  produced independently and provided premiums that “were pro-rated for short term
+  policies.” Appellant Reserve Mechanical Corp.’s Suppl. Letter Br., at 2. What is absent
+  from the retraction, however, is any plausible explanation of why the regulatory-changes
+  premium for one month of coverage was essentially the same as the premium for a year’s
+  coverage, particularly when the premiums for the other non-retroactive policies were
+  treated so differently. The loss-of-major-customer premium jumped from $7,268 (for a
+  policy limit of $1 million) for the one-month coverage in 2008 to $50,625 (for a
+  $500,000 limit) for the year-long coverage in 2009; the loss-of-services premium jumped
+  from $4,874 ($1 million policy limit) in 2008 to $62,791 ($1 million limit) in 2009; and
+  the product-recall-reimbursement premium jumped from $5,087 to $35,438 even though
+                                               17
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022        Page: 18
+
+
+
+         Perhaps more important, the manner of arriving at the premium prices on
+
+  McNeel’s rating worksheet was questionable. The core task in setting premiums for an
+
+  insurance policy is predicting risk: the size and frequency of losses covered by the policy.
+
+  See Owens v. Aetna Life & Cas. Co., 654 F.2d 218, 240 (3d Cir. 1981) (“The [insurance]
+
+  company must set its premiums based on its prediction of two cost variables: the
+
+  probability of a particular risk of loss occurring and the magnitude of the loss if it
+
+  occurs.”). But the record is devoid of evidence of the necessary risk assessment by
+
+  Reserve. Peak had no history of any losses that would be covered by the Reserve policies,
+
+  so the premiums could not be based on Peak’s actual experience. The feasibility study
+
+  briefly described the risks that would be covered by the policies, but it contained no
+
+  discussion of the probability or size of the risks. For example, when the feasibility study
+
+  discussed Peak’s need for employment-practices liability coverage, it merely stated that
+
+  this liability “has become a hot topic over the past several years as complaints and legal
+
+  action nationwide have skyrocketed for wrongful termination, discrimination,
+
+  harassment, and other employment-related practices.” Aplt. App., Vol. 7 at 2056. (Again,
+
+  Peak dropped its excess-employment-practices-liability coverage after one month, before
+
+  the feasibility study was issued.)
+
+
+  the policy limit dropped from $1 million to $500,000. (The weather-related-business-
+  interruption policy was not continued in 2009.) In contrast, for the regulatory-changes
+  coverage, the one-month premium in 2008 of $64,899 (for a $1 million policy limit)
+  dropped to $47,588 for annual coverage in 2009 (with a $500,000 policy limit). In
+  examining whether the Tax Court properly determined that Reserve did not satisfy its
+  burden of establishing that it was providing insurance, we are not inclined to give any
+  weight to an ipse dixit by counsel.
+
+                                                18
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 19
+
+
+
+         One source of information would have been insurance-industry data. Yet even
+
+  though one of Reserve’s expert witnesses testified that commercial insurance policies
+
+  were available as an alternative to several of the Reserve policies, there is no evidence
+
+  that anyone compared the rates on such policies or otherwise considered industry
+
+  standards. Instead, the record suggests that McNeel based the rates on the premiums
+
+  charged by other captive insurers managed by Capstone. For the most part those
+
+  premiums were apparently based solely on the annual projected sales revenue of the
+
+  insured—for example, regardless of the particulars of the business (nature of the
+
+  business, location, etc.) the premium for the coverage depended only on the projected
+
+  sales revenue. The only exception was employment-practices-liability coverage, the
+
+  premiums for which were based on the number of employees. McNeel prepared a
+
+  document that summarized the premium rates per $250,000 of coverage on all the
+
+  different policies issued by Capstone entities. The document, in the words of the Tax
+
+  Court, “provided both an average and a range of rates from which [McNeel] could choose
+
+  for each type of policy.” Reserve, at 15. But McNeel’s testimony contained no suggestion
+
+  that he looked at the businesses insured under the other policies to see if they would be
+
+  likely to have risks comparable to those of Peak. On the contrary, he acknowledged that
+
+  he was unaware whether the other captives were in a business similar to Peak, or were
+
+  similar in other respects to Peak. Nor was there any evidence showing that the premiums
+
+  charged by the other Capstone entities (who likely had the same tax incentive as Reserve
+
+  to charge as high a premium as possible) were themselves reasonable.
+
+
+
+                                               19
+Appellate Case: 18-9011       Document: 010110683986            Date Filed: 05/13/2022       Page: 20
+
+
+
+         Reserve claims that McNeel’s proposed premiums were supported by the
+
+  independent work of Mid-Continent General Agency, Inc., “a managing general
+
+  underwriter,” which provided what are called “pricing indication[s],” Aplt. App., Vol. 5
+
+  at 1209, 1242, that closely correlated with McNeel’s suggested premiums. But how these
+
+  indications were generated was left unexplained. McNeel testified that someone from
+
+  Mid-Continent visited Capstone’s office for about 10 days and looked at its files, but
+
+  what files in particular are not specified. No representative from Mid-Continent testified
+
+  at trial. And the only documentation offered to show how Mid-Continent arrived at these
+
+  prices was a letter from Mid-Continent to McNeel that purported to “comment on the
+
+  methodology [Mid-Continent] use[s] to assist in developing premium quotations.” Aplt.
+
+  App., Vol. 12 at 3560. The letter, however, stated merely that Mid-Continent’s methods
+
+  “involve[] the evaluation of exposures for a given line of insurance, examination of
+
+  historic loss date [sic], if any, the consideration of increased limits factors[6] . . . , and
+
+  acknowledgement of market rate adjustments.” Id. at 3560–61. The letter did not provide
+
+  further details, and it did not mention Peak or Reserve’s policies.
+
+         We recognize that Reserve called two experts as witnesses to defend the pricing of
+
+  the Peak policies, Esperanza Mead and Michael Solomon. Although Mead testified that
+
+
+         6
+            Limit factors are used to compute what the premium should be for a particular
+  liability limit based on the premium already determined for a different liability limit.
+  Because the likelihood of a large loss is generally significantly less than the likelihood of
+  a smaller loss, the premium is not proportional to the liability limit. For example, if the
+  proper premium for $250,000 of coverage is $1,000, one could calculate the proper
+  premium for $1 million coverage by multiplying $1,000 by the appropriate limit factor
+  (3.4 in McNeel’s calculations) to arrive at a premium of $3,400.
+
+                                                  20
+Appellate Case: 18-9011     Document: 010110683986          Date Filed: 05/13/2022     Page: 21
+
+
+
+  the Reserve premiums were reasonable, her conclusions rested on questionable
+
+  assumptions. Reserve had no loss data for her to use nor did she use any risk information
+
+  from general industry sources. And to the extent that she relied on the premise that the
+
+  premiums for the policies issued by the other Capstone captive insurers were reasonable,
+
+  that premise was not supported by loss data from those insurers. Mead’s report does
+
+  tabulate the claims payments by Capstone captives for a five-year period; but she
+
+  assessed this information as having “low credibility” for actuarial purposes because so
+
+  few claims were paid, and the information had no material effect on her conclusions.
+
+  Aplt. App., Vol. 5 at 1256. She instead reached her conclusion that the premiums charged
+
+  by Reserve and the other Capstone captives were reasonable only by making the
+
+  assumption, unsupported by any data, that the captives would ultimately pay claims equal
+
+  to about 75% of the premiums. She employed that figure solely because it is standard in
+
+  the insurance industry (which means merely that 25% of insurance premiums ordinarily
+
+  go to overhead, administrative expenses, and profit). Under this assumption one would
+
+  expect Peak, a business with almost no history of insurance losses and only general
+
+  concerns about the future, to average over $300,000 in submitted claims per year going
+
+  forward. Neither Reserve nor its experts offered data, or even an explanation, to justify
+
+  this assumption.
+
+         As for Solomon, at least he looked at real-world data—for example, he assessed
+
+  the risk of loss to Peak from recall of products it manufactured or sold by looking at the
+
+  “annual economic impact of food safety outbreaks.” Aplt. App., Vol. 16 at 4724. But he
+
+  opined on only six of the 13 policy coverages; and rather than assessing the
+
+                                              21
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022       Page: 22
+
+
+
+  reasonableness of the premiums for each coverage, he said only that the total premium
+
+  for the reviewed coverages was “reasonable in the aggregate.” Aplt. App., Vol. 13 at
+
+  3889. In any event, his report (and Mead’s as well) was prepared many years after
+
+  issuance of the policies of concern on this appeal, and there is no evidence in the record
+
+  that the premiums for those policies were based in any way on the data he used (much of
+
+  which in fact postdated the policies). Neither expert examined what the real risks to Peak
+
+  were.
+
+          As summarized in the Commissioner’s brief:
+
+          [N]either Solomon nor Mead compared taxpayer’s premiums to premiums
+          charged by unrelated third-party insurers; therefore, neither had a basis to
+          determine whether taxpayer’s premiums were commercially reasonable.
+          Solomon merely opined that the aggregate premiums charged by taxpayer
+          were reasonable when compared to Capstone’s internal pricing guidelines.
+          Similarly, Mead merely opined that the aggregate premiums charged by
+          taxpayer were reasonable when compared to rates charged by other
+          Capstone-managed captives.
+
+  Aplee. Br. at 60–61 (citations omitted). Reserve’s reply brief does not respond to, much
+
+  less challenge, the quoted statement. Although the testimony of the two experts is quite
+
+  technical, our understanding of the testimony supports what the Commissioner says.
+
+                        2.     Comparison to Commercially Available Policies
+
+          Nor is there evidence of any effort to determine what other insurers might have
+
+  charged Peak as premiums for similar policies. True, Capstone’s feasibility study stated
+
+  that Peak wanted to create a captive insurer “for the purpose of writing coverages that are
+
+  generally unavailable or impractical to obtain in the conventional insurance
+
+  marketplace.” Aplt. App., Vol. 7 at 2030 (emphasis added). But the report of another of
+
+
+                                               22
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 23
+
+
+
+  Reserve’s experts, Robert Snyder, who in fact co-authored that feasibility study, said that
+
+  at least six coverages provided to Peak by Reserve—pollution liability, intellectual
+
+  property, “commercial property gap,” “punitive damages wrap,” cyber risk, and tax
+
+  liability coverages—were available in the commercial market. Aplt. App., Vol. 12 at
+
+  3582–85 (capitalization omitted).
+
+         Zumbaum and Weikel were apparently not particularly interested in Peak’s saving
+
+  money on insurance premiums. Zumbaum admitted that he did not explore coverage on
+
+  the commercial insurance market before creating Reserve. And although McNeel and
+
+  Feldman both testified that Zumbaum and Weikel were the most significant people in
+
+  determining the policies, pricing, and coverage, McNeel could not recall whether
+
+  Zumbaum or Weikel questioned the premium numbers. Zumbaum testified that he did
+
+  not review the Reserve policies in detail; instead, he testified that he “[p]robably scanned
+
+  through them.” Aplt. App., Vol. 4 at 1134. Zumbaum also admitted that he relied on “Mr.
+
+  McNeel, Mr. Feldman or other folks from Capstone” to tell him about the policies and
+
+  that he would “believe[]” whatever they told him. Id.
+
+         Aside from the premium calculations, there is also no evidence in the record that
+
+  the choice of policies, or their specific contents, was based on an assessment of Peak’s
+
+  particular needs. The feasibility study stressed that captive insurers are ideal for
+
+  providing so-called “manuscript[]” policies, which it defined as policies with “coverage[]
+
+  to address specific concerns.” Aplt. App., Vol. 7 at 2031. And Feldman testified that one
+
+  advantage of captive insurers was that captives “design[] coverages not with a blunt
+
+  instrument but with a scalpel”—effectively “tailoring coverages directly to the needs of
+
+                                                23
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 24
+
+
+
+  the business.” Aplt. App., Vol. 5 at 1372. But there is no evidence of such tailoring for
+
+  the policies issued to Peak. McNeel acknowledged that Capstone “had policies that were
+
+  common to a lot of different clients.” Id. at 1250. And the Tax Court described these as
+
+  “‘cookie-cutter’” policies, noted testimony from Capstone employees that “they
+
+  administered many of the same policies for all of their clients,” and observed that “[i]n
+
+  many instances the [Peak] policies were not reasonably suited to the needs of the
+
+  insureds, particularly Rocquest and ZW.” Reserve, at 54. (Of course, form policies have a
+
+  very large, and quite proper, role in the insurance industry. In themselves, they do not
+
+  suggest impropriety.) 7
+
+                       3.     Claim-Handling
+
+         In addition, Reserve’s claims-handling operations were, to say the least, far from
+
+  businesslike. Reserve handled only one claim during the years at issue—a claim from
+
+  Peak under the special-risk policy for partial loss of a major customer. That policy, as the
+
+  name suggests, reimbursed Peak for business losses “as a result of the loss of or reduction
+
+  of services of a [m]ajor [c]ustomer.” Aplt. App., Vol. 12 at 3302. But the policy imposed
+
+  significant restrictions on when coverage would be provided. For example, it would not
+
+  cover the loss of a major customer if Peak “initiate[d] the termination,” or if Peak did
+
+
+         7
+          Altogether, Reserve did not provide the advantages touted by the feasibility
+  study. Rather than Peak having “complete control” over Reserve, Aplt. App., Vol. 7 at
+  2042, Reserve was managed entirely by Capstone. Rather than Reserve providing
+  “manuscript” coverage, id. at 2041, it issued boilerplate policies. And rather than
+  providing insurance that is “generally unavailable or impractical to obtain in the
+  conventional insurance marketplace,” id. at 2030, at least six of Peak’s policies were
+  commercially available.
+
+                                               24
+Appellate Case: 18-9011     Document: 010110683986         Date Filed: 05/13/2022        Page: 25
+
+
+
+  “not attempt or intend to replace” the customer, or if Peak caused the customer to leave
+
+  by breaching the terms of its contract with the customer. Id. And the claim would not be
+
+  paid under the policy if the insured had knowledge of the loss before the effective date of
+
+  the policy.
+
+         Peak filed its claim under the major-customer policy on April 6, 2009, about four
+
+  months into the coverage period. Reserve’s initial notice of claim dated the loss as
+
+  occurring during the first week of the policy period, on January 5, 2009. It described the
+
+  claim as arising from a “[s]ignificant reduction of orders from Stillwater Mining
+
+  Company, a customer representing 35% of sales.” Aplt. App., Vol. 19 at 5407. It said that
+
+  “[t]he reduction in orders from Stillwater represents 16% of the insured’s sales for the
+
+  period,” and said that its net income had dropped from $422,440 in the first quarter of
+
+  2008 to $232,620 in the first quarter of 2009, a drop of about 45%. Id. After subtracting
+
+  the $25,000 deductible, the claim value for lost net income was $164,820. The underlying
+
+  claim document that Peak allegedly submitted to Reserve to substantiate and explain
+
+  these numbers is not in the record. In fact, the record contains no supporting
+
+  documentation from Peak whatsoever. And Zumbaum gave conflicting testimony about
+
+  whether Peak submitted the claim to Reserve or to Capstone. Moreover, there is no
+
+  evidence that Reserve investigated the claim to determine if the loss was covered under
+
+  the policy—did Peak know of the coming reduction in sales by January 1, 2009, the
+
+
+
+
+                                              25
+Appellate Case: 18-9011     Document: 010110683986          Date Filed: 05/13/2022     Page: 26
+
+
+
+  effective date of the policy; 8 was the reduction caused by a breach of contract by Peak;
+
+  etc.?
+
+          Reserve paid $150,000 on the claim on April 21, 2009—about two weeks after
+
+  Peak filed the claim. One month later, on May 27, Reserve and Peak executed a
+
+  settlement agreement. The agreement (which misstates the coverage limit for the relevant
+
+  policy as $1 million, rather than the actual $500,000) stated, among other things, that
+
+  Reserve would pay Peak the full value of the claim—$164,820—and in return, Peak
+
+  would “completely release[] and forever discharge[] [Reserve] from any and all past or
+
+  present claims, demands, obligations, actions, causes of action, judgments, expenses and
+
+  compensation . . . [that] may in any way grow out of the specified loss.” Aplt. App., Vol.
+
+  12 at 3553. Reserve then issued a second payment of $14,820 the same day as the
+
+  agreement. Four months later, however, on September 10, 2009, Reserve issued a third
+
+  check to Peak for $175,000. The sole possible explanation in the record is a line dated
+
+  August 25, 2009, on the Notice of Claim form stating: “Re-open claim due to extended
+
+  losses from lost customer.” Aplt. App., Vol. 19 at 5407. There is no supporting
+
+  documentation for the $175,000 sum. All three checks from Reserve to Peak were signed
+
+
+          8
+           The December 2008 policy indemnified Peak “for any Business Interruption loss
+  of up to twelve (12 months) suffered as a result of losing the services of a Major
+  Customer.” Aplt. App., Vol. 11 at 3126 (emphasis added). The 2009 policy, which took
+  effect five days before the “date of occurrence” stated on the Notice of Loss, changed the
+  language to encompass “any Business Interruption loss . . . suffered as a result of the loss
+  of or reduction of services of a Major Customer.” Aplt. App., Vol. 12 at 3302 (emphasis
+  added). The loss on which Reserve paid Peak—which was not for the total loss of
+  services but just a reduction of services—may not have been covered under the language
+  of the December 2008 policy.
+
+                                               26
+Appellate Case: 18-9011     Document: 010110683986        Date Filed: 05/13/2022       Page: 27
+
+
+
+  by a Peak employee. More than two years later, on January 30, 2012, the parties executed
+
+  an addendum to the settlement agreement, which stated in full: “In consideration of the
+
+  release set forth above, the Insurer agrees to pay the Insured the sum of Three Hundred
+
+  Thirty Nine Thousand, Eight Hundred Twenty Dollars ($339,820.00). The foregoing
+
+  sum [has] been paid by Insurer through two checks made payable to ‘Peak Mechanical &
+
+  Components, Inc.’” Aplt. App., Vol. 12 at 3556.
+
+               C.     Reserve’s Reinsurance Policies
+
+        Capstone believed that Reserve would need to obtain at least 30% of its premiums
+
+  from insureds not related to it—that is, from insureds other than Peak—in order to
+
+  receive favorable tax treatment as a qualified insurance company. To meet the 30%
+
+  threshold Reserve therefore engaged in two arrangements with PoolRe, each of which
+
+  contributed about 15% of the total premiums it received. PoolRe managed similar
+
+  arrangements for some 50 other captive insurance companies that issued about 400
+
+  policies altogether. As previously noted, these captive insurance companies as well as
+
+  PoolRe were all managed by Capstone.
+
+                      1.     Stop-Loss and Quota-Share Agreements
+
+        The first arrangement involved stop-loss coverage provided by PoolRe to Peak.
+
+  Through endorsements on all of Reserve’s direct policies with Peak, PoolRe received
+
+  18.5% of the premiums paid by Peak on each policy in 2008 and 2009, and 19.9% of the
+
+  premiums in 2010. See Figure 3 (showing the 2008 and 2009 arrangements). In return,
+
+  PoolRe assumed (through an endorsement on the policy) some of Reserve’s exposure on
+
+  each policy. A financial backstop for Reserve was ostensibly important because it could
+
+                                             27
+Appellate Case: 18-9011       Document: 010110683986            Date Filed: 05/13/2022   Page: 28
+
+
+
+  face liabilities exceeding $8 million per year on the policies issued to Peak; at least for
+
+  the first few years of its operation, such liabilities could not be covered by the
+
+  combination of Reserve’s $100,000 initial capitalization and the additional capital
+
+  acquired from annual premium payments. But PoolRe did not provide much of a
+
+  backstop. The amount that PoolRe could be required to pay each year on the stop-loss
+
+  coverage was strictly limited, and the requirements for it to make any payment at all were
+
+  intricate, restrictive, and highly unlikely to materialize.
+
+
+
+
+                       Figure 3 – Reserve’s Reinsurance Relationship
+
+         We describe in some detail the limits with respect to the 2009 policies to illustrate
+
+  the general issues. First, PoolRe incurred no liability under the stop-loss coverage until
+
+
+                                                28
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022     Page: 29
+
+
+
+  Reserve received claims from Peak in excess of the total premiums paid by Peak (18.5%
+
+  of which went to PoolRe). Thus Peak needed to submit claims to Reserve in excess of
+
+  $448,127.03 to trigger the stop-loss coverage. If that condition was satisfied, PoolRe
+
+  would then pay amounts exceeding the total premiums, but only up to a maximum of
+
+  150% of those premiums. PoolRe could therefore not be required to pay more than about
+
+  $672,000 in stop-loss coverage on the 2009 policies, even though the liability of Reserve
+
+  to Peak could have been as high as $8 million on those policies.
+
+         The amount that PoolRe would have to pay on Reserve’s policies was also
+
+  restricted by an additional requirement that had little to do with Reserve. PoolRe’s total
+
+  liability on all its stop-loss coverage for the captive insurers was limited to 125% of the
+
+  total yearly premiums paid for stop-loss coverage by all the captive insurers. In 2009
+
+  PoolRe received just under $83,000 in premiums on the Reserve policies; from all the
+
+  captive insurers together, it received about $6 million. If a number of the other captive
+
+  insurers suffered large losses in the same year, the amount that Reserve could recoup
+
+  from PoolRe for that year could be further reduced.
+
+         Another feature of the PoolRe coverage, however, made the above limitations
+
+  more theoretical than real. The limitations were unlikely to ever come into play because
+
+  PoolRe would incur liability only if what the policy called an “Attachment Point” were
+
+  satisfied. Aplt. App., Vol. 12 at 3411. There were four possible attachment points, each
+
+  requiring at least two significant losses. Thus, a single catastrophic loss on one of the
+
+  Reserve policies would not trigger any payments by PoolRe. The first attachment point
+
+  was that Peak suffer at least two losses where (1) each loss was caused by a separate
+
+                                               29
+Appellate Case: 18-9011       Document: 010110683986          Date Filed: 05/13/2022       Page: 30
+
+
+
+  event and (2) each loss cost Peak at least $100,000. A second attachment point would be
+
+  triggered only when Peak experienced three losses, each caused by a separate event, that
+
+  caused the loss of at least $60,000. The third required four separate losses of $36,000 or
+
+  more; and the fourth required five separate losses of $20,000 or more. 9 Even then,
+
+  PoolRe would pay no more than the amount that exceeded the attachment point on the
+
+  claim where the attachment point was first satisfied (and for all later claims). For
+
+  example, if the first claim was for $1 million, and the second was for $125,000, PoolRe
+
+  would pay only $25,000, the amount by which the second claim exceeded the $100,000
+
+  threshold. The other captive insurers in the program had similar arrangements with
+
+  PoolRe, which made no payments under the stop-loss coverages to any of the 50-odd
+
+  captive insurers (on their 400-plus policies) for at least the period at issue in this case.
+
+         Because it was so unlikely that any money would ever be paid under the stop-loss
+
+  coverage provided by PoolRe, one might infer that it was of very little financial utility to
+
+  Peak or Reserve. But PoolRe was an essential part of the mechanism that created the
+
+  appearance that Reserve had substantially diversified its risks beyond those faced by its
+
+  affiliate Peak. What created that appearance was Reserve’s reinsurance of liabilities of
+
+  PoolRe. Not only did PoolRe provide stop-loss coverage for the insureds of Reserve and
+
+
+
+         9
+           In 2010 the conditions for payment under the stop-loss coverage were revised.
+  For that year the stop-loss insurance from PoolRe would have been triggered if the total
+  claims submitted from Peak to Reserve reached 35% of the total, aggregate premiums for
+  all of Reserve’s direct policies. Above that threshold, PoolRe would pay 50% of the
+  claims, though it would not pay more than the total premiums themselves. There were no
+  longer any separate Attachment Points that needed to be satisfied.
+
+                                                30
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022       Page: 31
+
+
+
+  the 50 other captive insurers, but Reserve and the other captives in turn reinsured
+
+  PoolRe’s stop-loss coverage for all the captives’ insureds (such as Peak), thereby
+
+  assuming all the liability of PoolRe for the stop-loss coverage. In other words, PoolRe
+
+  was essentially only an intermediary. The liability for paying for stop-loss claims
+
+  incurred by a captive insurer ultimately rested on all the captive insurers as a group. This
+
+  risk-pooling reinsurance arrangement, which was called a quota-share agreement, gave
+
+  the appearance that each captive insurer (such as Reserve) was spreading its risk beyond
+
+  its affiliated companies (such as Peak) by incurring liability on the stop-loss coverage
+
+  provided for the benefit of the other captive insurers.
+
+         For participating in the reinsurance pool, each captive received from PoolRe a
+
+  premium equal to the amount that PoolRe itself had received from that captive’s insureds
+
+  for the stop-loss coverage, so that, in effect, the captive insurer (such as Reserve)
+
+  ultimately received all the premiums paid by its insured (such as Peak). For example, in
+
+  2009 Peak paid 18.5% of its premiums (about $83,000) directly to PoolRe for the stop-
+
+  loss coverage, but PoolRe then paid Reserve that same amount ($83,000) for its
+
+  reinsurance of stop-loss coverage, so Reserve ended up receiving 100% of what Peak
+
+  paid for insurance. See Figure 3 above. In return for receiving this premium from PoolRe,
+
+  the captive insurer was liable for a corresponding percentage of the liability incurred on
+
+  the reinsurance provided to PoolRe by the captive insurers as a group. If the captive
+
+  insurer received 3% of the total premiums paid by PoolRe for reinsurance, it was liable
+
+  for 3% of what PoolRe had to pay on its stop-loss coverage.
+
+
+
+                                               31
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022        Page: 32
+
+
+
+         The nature of the arrangement can be illustrated by a simplified example. Say, the
+
+  PoolRe risk pool had three captives, A, B, and C, which respectively reinsure 50%, 30%,
+
+  and 20% of the total stop-loss risk, because A’s insureds pay 50% of the premiums to
+
+  PoolRe for the stop-loss coverage, B’s pay 30%, and C’s pay 20%. If Captive B’s insured
+
+  has a covered claim that requires PoolRe to pay it $100, then Captive A must pay PoolRe
+
+  $50, Captive B must pay $30, and Captive C must pay $20. B ends up reducing its
+
+  potential $100 loss to $30, while the other pool members are out $50 and $20. No matter
+
+  which captive insurer incurs the loss, the loss is ultimately borne in the same 5:3:2
+
+  proportions by the three captives.
+
+         In the actual PoolRe arrangement for 2009, the percentage of the total reinsurance
+
+  paid by a captive ranged from 0.0984% (for a captive whose insureds paid $5,550 in
+
+  stop-loss premiums) to 3.3235% (for a captive whose insureds paid $187,434 in
+
+  premiums). Reserve’s percentage was about 1.47%, based on Peak’s paying PoolRe
+
+  $82,904 in premiums for the stop-loss coverage on Peak’s policies with Reserve. PoolRe
+
+  then paid Reserve the identical sum as the premium for reinsurance.
+
+         Although Reserve ultimately received premiums precisely matching the combined
+
+  total that Peak paid to Reserve and PoolRe, the reinsurance arrangement gave the
+
+  appearance that Reserve was receiving only 81.5% of the premiums paid by Peak and a
+
+  substantial premium paid by PoolRe (equal to 18.5% of the premiums paid by Peak) for
+
+  reinsurance of stop-loss coverage for about 400 businesses (the insureds of the other
+
+  captives) who were not affiliated with Reserve. (Recall that Capstone believed that for
+
+  Reserve to be qualified as an insurer under the tax laws, Reserve needed to receive at
+
+                                               32
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022       Page: 33
+
+
+
+  least 30% of its premiums from its insurance of unaffiliated insureds, and the quota-share
+
+  arrangement purportedly provided about half of that amount.) We recognize that a
+
+  legitimate pool with a similar arrangement might properly distribute risk among insurers,
+
+  even captive insurers. Here, however, the question was whether the stop-loss coverage
+
+  was a legitimate risk. As previously noted, no claims under that coverage were made
+
+  during the years in question by any of the 400 or so companies insured by the captive
+
+  insurers participating in the PoolRe pool.
+
+         In addition, even assuming that the stop-loss coverage provided by PoolRe was
+
+  not illusory, the only support in the record for the pricing of this coverage for the 2008
+
+  and 2009 policies is a 2005 letter signed by Robert Snyder, the director of risk consulting
+
+  for the firm Myron Steves, who later served as one of the authors of Reserve’s 2009
+
+  feasibility study, and eventually as a director of PoolRe itself. The letter was in response
+
+  to a request from PoolRe to comment on the reasonableness of its Stop-Loss/Reinsurance
+
+  premium structure, under which PoolRe would receive 18.5% of the premium paid by the
+
+  insured. The letter concluded that “both the quota share premium retained by PoolRe and
+
+  the quota share reinsurance premium(s) ceded to the captives via the pooling mechanism
+
+  are reasonable.” Aplt. App., Vol. 12 at 3568. The letter explains, however, that its
+
+  “analysis and observations are limited to general commentary regarding stop loss
+
+  insurance and the reinsurance pooling concept, and specifically, our assessment of the
+
+  proposed premium structure.” Id. at 3567. It does not indicate that Snyder had undertaken
+
+  any specific assessment of the risks arising from the underlying insurance policies of the
+
+  PoolRe captives or examined how any particular provisions of the stop-loss coverage,
+
+                                               33
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022       Page: 34
+
+
+
+  such as the highly restrictive attachment points, affected the insurer’s risks. It noted that a
+
+  review of the premiums was “necessarily subjective,” id., and stated that the premiums
+
+  employed by PoolRe are reasonable, “recognizing that in our judgment stop loss
+
+  coverage in general might fairly be priced at anywhere from 2.5% to 30% of written
+
+  premium.” Id. at 3568. Talk about going out on a limb.
+
+         There is no evidence Capstone performed any further risk analysis before settling
+
+  on 18.5% as the price paid by all captive insureds in 2008 and 2009. 10 The premium for
+
+  stop-loss coverage should depend on both the likelihood of losses covered by the Reserve
+
+  policy and the likelihood that the losses during the year would satisfy the attachment-
+
+  point and other conditions of the stop-loss coverage, which depends both on the amount
+
+  of the loss and the frequency of losses. Not only does nothing in the record provide
+
+  reason to believe that 18.5% of the total premium is the appropriate premium for the stop-
+
+  loss coverage for any particular captive insured, but Reserve has also failed to explain
+
+  why it should be the same percentage for every captive insured. Reserve has provided no
+
+  reason to believe, for instance, that for every (properly priced) insurance policy with a $1
+
+  million coverage limit, the probability of incurring two losses exceeding $100,000 in the
+
+  same year is identical. And there is no indication in the record that the owners of Reserve
+
+
+         10
+            In 2010, in addition to the previously discussed changes in stop-loss coverage,
+  Capstone changed the premium percentage received by PoolRe to 19.9%. Reserve
+  submitted a letter from Glicksman Consulting, LLC in support of this number. But that
+  letter did not assess any risk. Rather, it presented a range of options based on a number of
+  (unsubstantiated) risk assumptions provided by PoolRe and said that it was beyond “the
+  scope of th[e] review to recommend a specific change” to the stop-loss premium rate.
+  Aplt. App., Vol. 12 at 3564.
+
+                                                34
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022        Page: 35
+
+
+
+  or anyone else on its behalf exercised any diligence or investigated the risks it was
+
+  assuming from participation in the PoolRe pool. One would think that pool members
+
+  would want to make sure that the premium prices, and therefore their quota-share
+
+  percentages, accurately reflected the risks involved because if one of the captives’ stop-
+
+  loss endorsements triggered a disproportionate number of claims, then that captive would
+
+  receive a greater benefit than the rest of the pool members. 11
+
+         In the absence of due diligence in assessing the risks of the other captives in the
+
+  PoolRe pool, the willingness of the captives, including Reserve, to join the pool can
+
+  perhaps be explained by the unusual, if not unique, fact that both PoolRe and all the
+
+  captives were managed by Capstone. (One of Reserve’s experts testified that he had
+
+  never seen a risk pool where all the participants and the pool were managed by the same
+
+
+
+         11
+             Say the amount of premiums paid by Peak for its insurance was identical to the
+  amount paid by the insureds of captive insurer A in the pool, but Peak was only 1% as
+  likely as the insureds of A to incur a loss covered by the stop-loss coverage provided by
+  PoolRe. Reserve and A each would forgo the same amount in premiums (18.5% of the
+  total premiums in 2009) to PoolRe and each would be paid that same amount from
+  PoolRe for reinsurance premiums. So Reserve and A would each effectively receive all
+  premiums paid by its insureds. The problem would arise from the discrepancy between
+  the liability each insurer would incur for reinsuring PoolRe’s stop-loss liability and the
+  benefit each would receive from that coverage. Since each had to forgo (at least in form)
+  the same amount in premiums to PoolRe, each would be liable for the same percentage of
+  losses incurred by PoolRe when it had to pay on claims under the stop-loss coverage to
+  any of the captive insurers in the pool. This would be highly unfair to Reserve under our
+  assumption that Reserve would expect to receive only 1% as much benefit as A would
+  receive from the stop-loss coverage. Reserve would be shelling out a lot more to reinsure
+  A’s losses than it would be getting in return from A. If the stop-loss risks to the other
+  captive insurers in the pool were more like the risks to A than the risks to Reserve, it
+  would be foolish for Reserve to join the PoolRe pool.
+
+                                               35
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 36
+
+
+
+  entity.) Zumbaum, for his part, testified that he completely relied on Capstone. Also, the
+
+  captives may have determined, or been advised by consultants, that they would almost
+
+  surely incur no liability under the stop-loss reinsurance policies, so the premiums for that
+
+  coverage (which would come back to the captives via the reinsurance of PoolRe) was of
+
+  no import.
+
+                       2.     Credit-Coinsurance Arrangement
+
+         The other way in which Reserve purportedly distributed risk was through a
+
+  coinsurance arrangement between PoolRe and an insurer called CreditRe, which
+
+  ostensibly accounted for about 15% of Reserve’s premiums receipts. CreditRe was not a
+
+  Capstone-managed entity; rather, it was owned and operated by a man named Gary Fagg.
+
+  Under the agreement between PoolRe and CreditRe, CreditRe ceded to PoolRe a portion
+
+  of the risk that CreditRe assumed from vehicle-service contracts between consumers and
+
+  another insurer, Lyndon Property Insurance Co. PoolRe then executed a separate
+
+  agreement with Reserve—called the “Credit Insurance Coinsurance Contract”—under
+
+  which Reserve reinsured about 1% of PoolRe’s liability from the coinsurance contract
+
+  and, in return, PoolRe would pay a premium to Reserve. Aplt. App., Vol. 11 at 3261.
+
+         The bona fides of the arrangement, however, could be questioned. Very little
+
+  money changed hands between Reserve and PoolRe. The financial records do not show
+
+  any premium payment actually transmitted to Reserve during the years in question. Nor is
+
+  there any record of particular claims paid by PoolRe or Reserve. The sole payments in the
+
+  relationship appear to be annual deposits of less than $200 each from PoolRe to Reserve
+
+  purportedly equal to the amount by which the annual premiums exceeded the annual
+
+                                               36
+Appellate Case: 18-9011     Document: 010110683986            Date Filed: 05/13/2022    Page: 37
+
+
+
+  reinsurance obligations incurred by Reserve. Reserve’s ledgers reflect actually receiving
+
+  only three payments totaling $530 across three years under this agreement.
+
+         Further, there is nothing in the record showing what liability Reserve was
+
+  allegedly insuring. Reserve did not submit any underlying vehicle-service contracts. And
+
+  when government counsel asked Fagg to “elaborate on what those claims [the vehicle-
+
+  service claims] would generally entail,” he replied: “I’m familiar with them in the sense
+
+  of I know them in terms of dollars. But I was not directly involved in the adjudication of
+
+  those claims or any of that.” Aplt. App., Vol. 5 at 1285.
+
+         Nor was there any evidence of how the premiums for the credit-coinsurance
+
+  agreements were calculated. The agreement stated merely that the premium amounts
+
+  would correspond to the share of risk that PoolRe assumed. Fagg testified that “in
+
+  discussion with PoolRe,” he “basically asked them how much [risk] they would be
+
+  willing to accept,” and then ceded that amount. Id.
+
+                D.     Tax Dispute
+
+         On its income-tax returns Peak deducted the premiums it paid Reserve. The Tax
+
+  Code generally treats a business’s payment of insurance premiums as a tax deductible
+
+  “ordinary and necessary expense[]” of doing business. I.R.C. § 162(a); see 4 Couch on
+
+  Insurance, supra, § 63.5 (internal quotation marks omitted). But there was no
+
+  corresponding taxable income reported by Reserve. Reserve paid no income tax on the
+
+  premiums it received, claiming that it qualified under § 501(c)(15) as a tax-exempt
+
+  insurance company receiving premiums under $600,000 per year.
+
+
+
+                                              37
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 38
+
+
+
+         The IRS sent Reserve a Notice of Deficiency challenging this claim, disputing that
+
+  Reserve was tax exempt under § 501(c)(15). The notice said that Reserve’s “purported
+
+  insurance and/or reinsurance transactions lack[ed] economic substance,” and that the
+
+  money it had received was “not paid to an insurance company and . . . [was] not paid for
+
+  insurance.” Aplt. App., Vol. 6 at 1592. As a result, the IRS assessed Reserve for taxes for
+
+  2008, 2009, and 2010. It classified Reserve’s income as FDAP income, which is “[F]ixed
+
+  or [D]eterminable [A]nnual or [P]eriodical gains, profits, and income” that is “received
+
+  from sources within the United States,” but “not effectively connected with the conduct
+
+  of a trade or business within the United States.” I.R.C. § 881(a). FDAP income is subject
+
+  to a 30% tax rate. See id. Reserve contested the assessment, arguing that it was in fact an
+
+  insurance company and that if it was not, the purported premiums it received were a
+
+  nontaxable capital contribution to the company. The case was tried to the Tax Court,
+
+  which affirmed the IRS. Reserve appeals.
+
+         III. APPLICABLE LAW AND THE TAX COURT’S DECISION THAT
+         RESERVE WAS NOT AN INSURANCE COMPANY
+
+         Under § 501(c)(15) of the Tax Code, “[i]nsurance companies (as defined in
+
+  section 816(a)) other than life” are tax exempt if “(I) the gross receipts for the taxable
+
+  year do not exceed $600,000, and (II) more than 50 percent of such gross receipts consist
+
+  of premiums.” I.R.C. § 501(c)(15)(A)(i). The core question before the Tax Court was
+
+  whether Reserve was an insurance company. I.R.C. § 816(a) defines insurance company
+
+  as “any company more than half of the business of which during the taxable year is the
+
+
+
+
+                                                38
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 39
+
+
+
+  issuing of insurance or annuity contracts or the reinsuring of risks underwritten by
+
+  insurance companies.”
+
+         But no part of the Code defines the term insurance. Unfortunately, this is not
+
+  because the definition is obvious. Indeed, the meaning can depend on the context. See
+
+  Robert E. Keeton & Alan I. Widiss, Insurance Law: A Guide to Fundamental Principles,
+
+  Legal Doctrines and Commercial Practices § 1.1, at 5 (1988) (“There is no single
+
+  conception of insurance that is universally applicable for use in disputes involving
+
+  questions of law.”). At the core of the notion of insurance, however, are risk transfer and
+
+  distribution. The insured transfers its risk of loss to the insurance company, and the
+
+  insurer distributes that risk by charging premiums to many insureds. See id. at 4 (“[R]isk
+
+  transference and risk distribution are among the basic characteristics of almost all
+
+  insurance transactions.”); Grp. Life & Health Ins. Co. v. Royal Drug Co., 440 U.S. 205,
+
+  211 (1979) (“The primary elements of an insurance contract are the spreading and
+
+  underwriting of a policyholder’s risk.”); Beech Aircraft Corp. v. United States, 797 F.2d
+
+  920, 922 (10th Cir. 1986) (“‘Risk-shifting’ means one party shifts [its] risk of loss to
+
+  another, and ‘risk-distributing’ means that the party assuming the risk distributes [its]
+
+  potential liability, in part, among others. An arrangement without the elements of risk-
+
+  shifting and risk-distributing lacks the fundamentals inherent in a true contract of
+
+  insurance.”); Stearns-Roger Corp. v. United States, 774 F.2d 414, 415 (10th Cir. 1985)
+
+  (“[F]or there to be ‘insurance’ there must be a shifting of the risk of loss or a spreading of
+
+  the risk.”).
+
+
+
+                                               39
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022         Page: 40
+
+
+
+         The Supreme Court decision in Helvering v. Le Gierse, 312 U.S. 531 (1941),
+
+  illustrates that a transaction must display the basic attributes of insurance and that
+
+  substance trumps form. A woman of 80 purchased a life-insurance policy and an annuity
+
+  at the same time from the same life insurance company. The two contracts were formally
+
+  treated as distinct transactions, but neither would have been purchased without the other.
+
+  She paid $4,179 for an annuity that provided an annual payment of $589.80 throughout
+
+  her life, and she paid $22,946 for a life-insurance contract that would pay $25,000 upon
+
+  her demise. To obtain the policy she did not have to submit to a physical examination or
+
+  answer the typical questions. She died a month later. The government claimed that the
+
+  $25,000 payment under the contract could not be excluded from her taxable estate as life-
+
+  insurance proceeds. The Court agreed. It observed that “Congress used the word
+
+  ‘insurance’ in its commonly accepted sense,” and that “[h]istorically and commonly
+
+  insurance involves risk-shifting and risk-distributing.” Id. at 539–40. In those respects the
+
+  decedent had not acquired insurance. The Court said that the desirability of life insurance
+
+  stems from its being “a device to shift and distribute risk of loss from premature death,”
+
+  id. at 539, but the combination of the decedent’s two contracts “fail[ed] to spell out any
+
+  element of insurance risk,” id. at 541. It noted that “annuity and insurance are
+
+  opposites”—“[f]rom the company’s viewpoint, insurance looks to longevity, annuity to
+
+  transiency.” Id. Through the combination of the two contracts, said the Court, “the one
+
+  neutralizes the risk customarily inherent in the other.” Id. It concluded that the risk
+
+  assumed by the insurance company “was an investment risk similar to the risk assumed
+
+  by a bank; it was not an insurance risk.” Id. at 542.
+
+                                                40
+Appellate Case: 18-9011       Document: 010110683986          Date Filed: 05/13/2022       Page: 41
+
+
+
+         We cannot anticipate every nuance that may arise and provide a comprehensive
+
+  explication of what is required for a purported insurer to satisfy § 816(a), but this court
+
+  has previously followed the approach of Le Gierse. See, e.g., Stearns-Roger Corp., 774
+
+  F.2d at 415. Taking our lead then from that Supreme Court decision, we think that to be a
+
+  “company more than half of the business of which . . . is the issuance of insurance . . .
+
+  contracts,” I.R.C. § 816(a), the company must deal in the transference and distribution of
+
+  risk and it must do so as a “business,” conducting itself through practices that one would
+
+  expect from a reasonably ordered insurance enterprise.
+
+         In our view, the Tax Court has captured the essence of the statutory requirement in
+
+  the tests that it has employed to determine whether a taxpayer is an insurance company
+
+  under § 816(a). In this case it stated that “[c]ourts have looked to four criteria in deciding
+
+  whether an arrangement constitutes insurance: (1) the arrangement involves insurable
+
+  risks; (2) the arrangement shifts the risk of loss to the insurer; (3) the insurer distributes
+
+  the risk among its policy holders; and (4) the arrangement is insurance in the commonly
+
+  accepted sense.” Reserve, at 33 (citing Harper Grp. v. Comm’r, 96 T.C. 45, 57–58
+
+  (1991), aff’d, 979 F.2d 1341 (9th Cir. 1992), and AMERCO & Subs v. Comm’r, 96 TC
+
+  18, 38 (1991), aff’d 979 F.2d 162 (9th Cir. 1992)); see also Caylor Land & Dev., Inc. v.
+
+  Comm’r, 121 T.C.M. (CCH) 1205 (2021) at *31–32; Avrahami v. Comm’r, 149 T.C. 144,
+
+  177 (2017). Neither party objects to this framework. The Tax Court held that Reserve’s
+
+  policies failed to satisfy requirements (3) and (4). We begin with risk distribution.
+
+
+
+
+                                                 41
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022        Page: 42
+
+
+
+                A.     Risk Distribution
+
+         Risk distribution is “essential” to insurance. Le Gierse, 312 U.S. at 539; see
+
+  Comm’r v. Treganowan, 183 F.2d 288, 291 (2d Cir. 1950) (describing risk distribution as
+
+  “the very essence of insurance” (internal quotation marks omitted)); Keeton & Widiss,
+
+  supra, § 1.3, at 12 (“When insurance is considered from the viewpoint of an insurer or of
+
+  society, it is appropriately viewed as a system for distribution[.]”). “Insuring many
+
+  independent risks,” that is, independent in the sense that the likelihood of a loss under
+
+  one policy is independent of the likelihood of a loss under a separate policy, “in return for
+
+  numerous premiums serves to distribute risk.” Clougherty Packing Co. v. Comm’r, 811
+
+  F.2d 1297, 1300 (9th Cir. 1987); see Beech Aircraft Corp., 797 F.2d at 922. The success
+
+  of insurance derives from the “law of large numbers.” Clougherty Packing Co., 811 F.2d
+
+  at 1300. When, as is assumed when writing insurance policies, the risk of an adverse
+
+  event to each insured is random, with a chance of, say, X% per year, there is always the
+
+  possibility that fate will strike a cruel blow and a number of adverse events will occur at
+
+  the same time or in quick succession. The insurer may have to pay out much more in
+
+  claims than it anticipated when it set the premiums on the policies, perhaps jeopardizing
+
+  its financial solvency. The law of large numbers is no more than an expression of a
+
+  simple computation using the mathematics of probability—when there are a sufficiently
+
+  large number of independent risks each having an annual probability of occurrence of
+
+  X%, there is an extraordinarily small likelihood that the percentage of insureds that suffer
+
+  a loss during a year will deviate significantly from X%. (If a coin is tossed a million
+
+  times, it is highly unlikely that the percentage of heads will differ appreciably from 50%.)
+
+                                               42
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022        Page: 43
+
+
+
+  Thus, insuring a large number of independent risks protects the insurer against financial
+
+  calamity. See Keeton & Widiss, supra, § 1.3 at 12–13 (“As the number of ventures
+
+  included in a group or ‘pool’ is increased, there is a greater likelihood that the favorable
+
+  and the harmful experiences will tend to be balanced – that is, grouping a large number of
+
+  ventures in a pool increases the probability that the losses suffered by all the ventures will
+
+  be spread over time.”). By writing policies for enough independent risks, an insurer can
+
+  predict “the frequency and amount of loss within this larger group . . . [and] set the
+
+  premium at a level that will cover the losses, cover the insurer’s overhead and expenses,
+
+  and earn a profit.” 1 Daniel W. Gerber et al., New Appleman on Insurance Law Library
+
+  Edition § 1.01 (2021).
+
+         The Tax Court began by finding that Reserve’s direct written policies for Peak,
+
+  RocQuest, and ZW did not themselves distribute risk. It said that because “most or all of
+
+  the risk of loss was associated with the business operations of just one insured [Peak],”
+
+  “the number of insureds and the total number of independent exposures were too few to
+
+  distribute the risk that Reserve assumed under [those] policies.” Reserve, at 36. Reserve
+
+  does not challenge this determination.
+
+         The court therefore turned to Reserve’s contention that it distributed risk through
+
+  the arrangements with PoolRe. It noted that Reserve relied on Harper, a Tax Court case
+
+  holding that a particular captive insurer had “‘a sufficient pool of insureds to provide risk
+
+  distribution’” when “approximately 30% of the captive’s business came from insuring
+
+  unrelated parties.” Id. at 38 (quoting Harper Grp., 96 T.C. at 60). It pointed out that when
+
+  it had previously held that risk distribution had been achieved through insuring unrelated
+
+                                               43
+Appellate Case: 18-9011       Document: 010110683986           Date Filed: 05/13/2022       Page: 44
+
+
+
+  parties, it had “determined that the transactions with the unrelated parties were insurance
+
+  transactions for Federal income tax purposes.” Id. Therefore, the court said, “[b]efore we
+
+  can determine whether Reserve effectively distributed risk through these agreements, we
+
+  must determine whether PoolRe was a bona fide insurance company.” Id. It set forth nine
+
+  factors that the Tax Court had previously considered in making such a determination:
+
+         (1) whether [the purported insurance company] was created for legitimate
+         nontax reasons;
+         (2) whether there was a circular flow of funds;
+         (3) whether the entity faced actual and insurable risk;
+         (4) whether the policies were arm’s-length contracts;
+         (5) whether the entity charged actuarially determined premiums;
+         (6) whether comparable coverage was more expensive or even available;
+         (7) whether it was subject to regulatory control and met minimum
+          statutory requirements;
+         (8) whether it was adequately capitalized; and
+         (9) whether it paid claims from a separately maintained account.
+
+  Id. at 38–39 (quoting Avrahami, 149 T.C. at 185, with numbering added).
+
+                        1.      Quota-Share Arrangement
+
+         Beginning with the quota-share arrangement, the Tax Court addressed only the six
+
+  factors that it found to be “the most relevant.” Id. at 39. 12 First, it determined that the
+
+  “arrangement looks suspiciously like a circular flow of funds.” Id. at 41 (internal
+
+  quotation marks omitted). It said that because Reserve never “had any losses or expenses
+
+  in connection with its purported quota share liabilities[,] . . . the end result for each tax
+
+  year . . . was that Reserve would receive payments from PoolRe in exactly the same
+
+
+         12
+           The Tax Court did not address three factors—comparable commercial coverage,
+  adequate capitalization, and a separate account for claim payments. Neither party
+  complains about the failure to address those factors.
+
+                                                 44
+Appellate Case: 18-9011       Document: 010110683986          Date Filed: 05/13/2022    Page: 45
+
+
+
+  amount as the payments that PoolRe was entitled to receive from Peak . . . for the stop
+
+  loss coverage.” Id.
+
+         Second, the Tax Court concluded “that the amounts that PoolRe was to pay
+
+  Reserve under the quota share arrangement were not determined at arm’s length or using
+
+  objective criteria.” Id. at 42. It explained:
+
+         The perfect matching of payments under the corresponding stop-loss
+         endorsements and quota share policies (from insureds to PoolRe, and from
+         PoolRe to captives) indicates that the quota share arrangement was not the
+         product of arm’s-length considerations. Peak’s risks that were insured
+         through PoolRe were different from the risks that PoolRe ceded to Reserve
+         under the quota share policies. The risks that PoolRe purported to assume
+         under the stop loss endorsements related to various unrelated business
+         activities and the policies covering various unrelated lines of insurance.
+         Reserve has not shown that the risks were comparable in scale.
+
+  Id. at 41. The court noted that Reserve had not produced “evidence which shows
+
+  the risks of other Capstone entities, . . . [such as] evidence regarding their
+
+  industries, locations, operations, types of risk, and exposure to risk.” Id. at 42.
+
+         Third, for similar reasons, the Tax Court concluded that the quota-share premiums
+
+  were not actuarially determined. Not only was there “no evidence to support the
+
+  calculation of the premiums,” but it was concerned that “all participants in the quota
+
+  share arrangement agreed to direct their affiliated insureds to pay the same percentage of
+
+  direct written premiums to PoolRe.” Id. at 42–43. Such a “one-size-fits-all” approach
+
+  appeared inconsistent with actual actuarial determination. Id. at 43.
+
+         As for whether the quota-share policies insured an actual and insurable risk, the
+
+  Tax Court stated that “PoolRe was removed far from any actual risk associated with the
+
+  business or operations of Reserve’s insureds.” Id. at 44. Before obtaining insurance from
+
+                                                  45
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 46
+
+
+
+  Reserve, Peak had “never suffered any losses that would even come close to triggering
+
+  the stop loss coverage provided for in the stop loss endorsements.” Id.
+
+         The fifth factor was whether PoolRe was licensed and regulated as an insurance
+
+  company. The Tax Court observed that “Reserve executed both its 2008 and 2009
+
+  reinsurance agreements with PoolRe before it obtained an insurance license in Anguilla,”
+
+  and there was no evidence that PoolRe was a licensed insurer before then. Id. at 45.
+
+         Sixth, the Tax Court found that “Reserve has not established that PoolRe was
+
+  created or operated for legitimate nontax reasons.” Id. It said that “[a]ll the facts and
+
+  circumstances in this case indicate that Reserve did not enter into the quota share
+
+  arrangement with the intention of distributing its risk.” Id. Instead, “[t]he only purpose
+
+  PoolRe served through the quota share arrangement was to shift income from Peak to
+
+  Reserve.” Id.
+
+         The Tax Court concluded that “the facts surrounding Reserve’s quota share
+
+  policies with PoolRe establish that those agreements were not bona fide insurance
+
+  agreements.” Id. “PoolRe’s activities as they relate to [the Reserve] policies,” it said,
+
+  “were not those of a bona fide insurance company.” Id. at 46.
+
+         One aspect of the Tax Court’s analysis must be emphasized. Contrary to what is
+
+  suggested in some briefs filed in this court, the Tax Court did not criticize risk pools as a
+
+  general matter. Instead, its findings were specific to the PoolRe risk pool.
+
+                       2.      Credit-Coinsurance Arrangement
+
+         Turning to the credit-coinsurance contract, the Tax Court summarily rejected
+
+  Reserve’s contention that it provided risk distribution. It said that Reserve had “failed to
+
+                                                46
+Appellate Case: 18-9011     Document: 010110683986         Date Filed: 05/13/2022         Page: 47
+
+
+
+  provide evidence that the vehicle service contracts, which formed the basis for the
+
+  reinsurance that PoolRe re-ceded in the coinsurance contracts, actually existed.” Id. at
+
+  46–47. And it found that even if there were valid coinsurance contracts, PoolRe assumed
+
+  a “de minimis” amount of risk from CreditRe and the amount ceded to Reserve was also
+
+  de minimis. Id. at 47. Thus, “the coinsurance contracts were not bona fide reinsurance
+
+  agreements.” Id.
+
+                B.     Insurance in the Commonly Accepted Sense
+
+         As an alternative basis for rejecting Reserve’s appeal, the Tax Court held that
+
+  Reserve’s policies “did not constitute insurance in the commonly accepted sense.” Id. at
+
+  48. The Tax Court considered the following factors: “[1] whether the company was
+
+  organized, operated, and regulated as an insurance company; [2] whether it was
+
+  adequately capitalized; [3] whether the policies were valid and binding; [4] whether the
+
+  premiums were reasonable and the result of an arm’s-length transaction; and [5] whether
+
+  claims were paid.” Id. at 48. These are all factors that the Tax Court had previously
+
+  considered over the years. See, e.g., Avrahami, 149 T.C. at 191; R.V.I. Guar. Co., Ltd. v.
+
+  Comm’r, 145 T.C. 209, 231 (2015); Harper, 96 T.C. at 60; Securitas Holdings, Inc. v.
+
+  Comm’r, 108 T.C.M. (CCH) 490 (T.C. 2014) at *10; see also Caylor, 121 T.C.M. (CCH)
+
+  1205 at *39–40. Reserve does not challenge that approach on appeal.
+
+         First, the Tax Court said that although Reserve had observed the necessary
+
+  formalities in incorporating under the law of Anguilla and complying with the insurance
+
+  regulations of that country, it had not been operated as an insurance company. The court
+
+  observed that “[o]ther than the feasibility study that Capstone produced, there is no
+
+                                              47
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 48
+
+
+
+  evidence that any due diligence was performed for the policies that Reserve issued.”
+
+  Reserve, at 50. And it noted that the feasibility study was not complete until after Reserve
+
+  issued its policies for 2008 and 2009, that many of the background documents attached to
+
+  the study covered periods after Reserve had been incorporated and issued policies, and
+
+  that the study said nothing about RocQuest and ZW even though those entities were
+
+  covered under the policies. Also, Reserve’s operations (like its planning and
+
+  incorporation) “were managed entirely by Capstone.” Id. Reserve had no employees of its
+
+  own and Zumbaum—who was Reserve’s 50% owner, president, and chief executive
+
+  officer—knew “virtually nothing about its operations,” and at trial showed “very little
+
+  knowledge of provisions in the policies that Peak and his other entities held with
+
+  Reserve.” Id. It further found that there was “no evidence that Reserve performed any due
+
+  diligence with respect to the reinsurance agreements that it executed with PoolRe,” that
+
+  “[n]othing in the record indicates that Reserve or anyone performing activities on
+
+  Reserve’s behalf evaluated [the risks assumed by Reserve under the quota-share
+
+  agreement] before executing the quota share policies,” and that no one with a financial
+
+  interest in Reserve considered whether the quota-share or credit-coinsurance agreements
+
+  would actually distribute risk. Id. at 51–52.
+
+         The Tax Court also found that Reserve handled “in an irregular manner” its only
+
+  claim—the one for loss of a major customer. Id. at 53. It said that “no supporting
+
+  documentation accompanied the claim notice”; that Reserve never insisted on
+
+  documentation of “the occurrence or the amount of the claimed loss”; that Reserve issued
+
+  its first claim payment before Peak and Reserve executed their settlement agreement, and
+
+                                                  48
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 49
+
+
+
+  then issued another payment months after the settlement agreement without executing an
+
+  addendum to the settlement agreement “reflecting this payment until years after the tax
+
+  years in issue”; and that all the payments from Reserve to Peak were signed by a Peak
+
+  employee. Id. at 52. The Tax Court concluded that “Reserve was not operated as an
+
+  insurance company in the commonly accepted sense.” Id. at 53. It saw no virtue in
+
+  Capstone’s management of Reserve, saying that “Capstone directed Reserve’s activities
+
+  and directed a series of transactions between its managed entities so that Reserve
+
+  appeared to be engaged in the business of issuing insurance contracts.” Id. (emphasis
+
+  added).
+
+         As for the second factor—adequate capitalization—the Tax Court observed that
+
+  “[g]enerally [its] caselaw holds that meeting the statutory requirements of the captive’s
+
+  domicile jurisdiction is sufficient to show that the captive was adequately capitalized.” Id.
+
+  And it concluded that because “Reserve met the minimum capitalization requirements of
+
+  Anguilla,” this factor favored Reserve. Id. 13
+
+         The Tax Court next found that “Reserve’s direct written policies contained the
+
+  necessary terms to make them valid and binding insurance.” Id. at 54. But it noted that
+
+  the policies were “cookie cutter”—“[t]he policies on their face indicate[d] that they were
+
+  the copyrighted material of Capstone, and Capstone employees testified at trial that they
+
+
+         13
+           Reserve had plenty of capital if, as may well have been the case, the probability
+  of a covered loss was extremely low. But, given the low probability that an attachment
+  point would ever be satisfied, Reserve could not count on any reinsurance backup in case
+  of a major loss that it could not pay out of its own funds, and it would take several years
+  of accumulating premiums before Reserve could have sufficient capital to pay more than
+  one policy-limits loss out of its own funds.
+                                               49
+Appellate Case: 18-9011      Document: 010110683986           Date Filed: 05/13/2022       Page: 50
+
+
+
+  administered many of the same policies for all of their clients”—and “were not
+
+  reasonably suited to the needs of the insureds, particularly Roc[Q]uest and ZW, both of
+
+  which had extremely limited operations.” Id. at 54 (internal quotation marks omitted).
+
+  The Tax Court also reiterated that Reserve’s only claim—the loss-of-a-major-customer
+
+  claim—was paid in full without any “due diligence to determine whether the claim was
+
+  actually covered by the relevant policy.” Id. at 55. The court concluded that the third
+
+  factor—whether the policies were valid and binding—was a “neutral factor.” Id.
+
+         The fourth factor considered by the Tax Court was whether Reserve’s premiums
+
+  were reasonable and the result of arm’s-length transactions. The court acknowledged that
+
+  “Capstone calculated Reserve’s premium using objective criteria and what appear to be
+
+  actuarial methods,” id. at 61, and that to make his recommendations for premium pricing,
+
+  McNeel used a spreadsheet showing the premiums charged by other Capstone entities for
+
+  various lines of coverage and “pricing indications” from Mid-Continent, id. at 55.
+
+         But the court said that “[d]espite [this] methodology . . . a number of factors
+
+  indicate that the premiums that the insureds were required to pay under the direct written
+
+  policies were not reasonable in relation to the risk of loss.” Id. at 56. It observed that
+
+  Peak’s policies with Reserve caused a dramatic increase in Peak’s insurance expenses:
+
+  Peak’s 2007 insurance expenses had been $95,828, but its Reserve premiums were more
+
+  than “$412,089, and this was in addition to the premiums that Peak continued to pay for
+
+  third-party commercial insurance.” Id. And it noted that despite this immense increase in
+
+  cost, Reserve’s policies would be excess to any other policy that covered the same loss
+
+  because of the other-insurance clauses in every Reserve policy.
+
+                                                50
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022    Page: 51
+
+
+
+         The Tax Court also noted apparent irregularities in the pricing of the policies. For
+
+  example, the 2008 regulatory-changes policy (discussed earlier in this opinion) provided
+
+  coverage for occurrences during only one month and charged a $64,899 premium for $1
+
+  million in coverage, while the 2009 and 2010 versions of the policy charged a lower
+
+  premium, $47,588, and offered $500,000 in coverage for a one-year coverage period.
+
+  There was “no explanation” for this inconsistency. Id. at 57.
+
+         In addition, the Tax Court questioned Peak’s assertion that it required unique
+
+  pollution coverage from a captive insurer because one of its operations is located on a
+
+  Superfund site. The court noted that “Peak itself did not engage in mining practices that
+
+  spread pollutants, and it already had systems in place to control the fluid runoff when it
+
+  cleaned equipment used in polluted mines.” Id. Moreover, Peak had operated at the same
+
+  location “continuously for over 10 years,” and there was “no evidence that Peak had ever
+
+  incurred costs during that time for excess pollution liability.” Id.
+
+         Continuing this analysis, the Tax Court expressed doubts about Zumbaum’s
+
+  testimony on the need to create Reserve. Zumbaum testified that one reason Peak wanted
+
+  to create a captive was because it was unhappy with how its current commercial-liability
+
+  insurer handled a claim for roof damage. But “no documentation was produced to
+
+  substantiate” this point, id., and Peak continued to keep its policies with the commercial-
+
+  liability insurers. Also, Zumbaum “did not know which of Peak’s policies with Reserve
+
+  would have covered a loss like the one that was not covered by [its commercial insurer].”
+
+  Id. at 58. And although Reserve contended that Peak risked substantial liability if one of
+
+  its mining parts malfunctioned, “[t]here [was] no convincing evidence that legitimate
+
+                                                51
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 52
+
+
+
+  concerns about this kind of liability should have been greater in 2008 than in previous
+
+  years.” Id. For example, the feasibility study “provided no information on the probability
+
+  of a loss event that the direct written policies covered.” Id. at 59. The court added that
+
+  Reserve “failed to explain why Peak would maintain its full set of third-party commercial
+
+  insurance coverage, which it contends was insufficient, even after it paid roughly 400%
+
+  more for additional coverage from Reserve.” Id. at 58.
+
+         The Tax Court also pointed out that Zumbaum’s testimony about Peak’s business
+
+  projections was inconsistent with the documentary evidence. Zumbaum testified that
+
+  Peak was interested in obtaining additional insurance coverage because it expected that
+
+  its business would “continue growing during the next few years.” Id. But “the rating
+
+  worksheets that Capstone produced for calculating Reserve’s premiums reflect that
+
+  Peak’s projected sales stayed the same for all of the tax years in issue,” and as it turned
+
+  out, “Peak actually had fewer employees in 2010 than it did in 2008.” Id.
+
+         After “conclu[ding] that any purported concerns about increased risks for the
+
+  insureds were unfounded,” id. at 59, the court noted that in determining whether
+
+  premiums charged by captive insurers were reasonable, it looked to whether “the
+
+  amounts agreed upon by the parties were the result of arm’s-length negotiations,” id. at
+
+  60. It said: “In determining whether an arrangement constitutes insurance in the
+
+  commonly accepted sense we consider more than whether the premiums chosen can be
+
+  arrived at by actuarial means. We consider whether the facts demonstrate that the terms
+
+  of the arrangement were driven by arm’s-length considerations.” Id. By that measure,
+
+  Reserve failed to make its case. The Tax Court found that “the facts and circumstances of
+
+                                               52
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022     Page: 53
+
+
+
+  this case demonstrate that the direct written policies were not the result of arm’s-length
+
+  negotiations.” Id. at 61. In its view, “no unrelated party would reasonably agree to pay
+
+  Reserve the premiums that Peak and the other insureds did for the coverage provided by
+
+  the direct written policies.” Id. It summarized: “Although Capstone calculated Reserve’s
+
+  premiums using objective criteria and what appear to be actuarial methods, the absence of
+
+  a real business purpose for Reserve’s policies leads us to conclude that the premiums paid
+
+  for the policies were not reasonable and not negotiated at arm’s length.” Id.
+
+         Turning to the fifth factor—the payment of claims—the Tax Court observed that
+
+  Reserve did pay the single claim for loss of a major customer. And although it noted that
+
+  “the circumstances surrounding the payment of [the loss-of-a-major-customer] claim
+
+  were unusual,” it ultimately determined that this factor “weigh[ed] slightly in Reserve’s
+
+  favor.” Id.
+
+         The Tax Court said that on balance the evidence favored a conclusion “that
+
+  Reserve’s transactions were not insurance transactions in the commonly accepted sense.”
+
+  Id. at 62. It placed particular emphasis on (1) Reserve’s not being operated as a bona fide
+
+  insurance company, (2) the lack of a legitimate business purpose for the policies, and
+
+  (3) the large increase in payments for new insurance while still maintaining prior
+
+  coverages. See id.
+
+         IV. THE TAX COURT DID NOT ERR IN RULING THAT RESERVE
+         WAS NOT AN INSURANCE COMPANY
+
+         “We review decisions of the Tax Court in the same manner as civil actions tried
+
+  without a jury.” Hamilton v. Comm’r, 955 F.3d 1169, 1171 (10th Cir. 2020). That is, we
+
+
+                                               53
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022        Page: 54
+
+
+
+  “review legal conclusions de novo and factual determinations only for clear error.” Id. at
+
+  1172 (emphasis omitted). And we review the evidence in the light most favorable to the
+
+  Tax Court’s ruling. See Exxon Corp. v. Gann, 21 F.3d 1002, 1005 (10th Cir. 1994) (“On
+
+  appeal, we view the evidence in the light most favorable to the district court’s ruling and
+
+  must uphold any district court finding that is permissible in light of the evidence.”
+
+  (citation omitted)).
+
+         The essence of the Tax Court’s ruling was that Reserve’s insurance policies issued
+
+  to Peak did not provide true insurance even though Reserve complied with some (but by
+
+  no means all) of the customary formalities for insurance companies and went through
+
+  some of the motions associated with pricing insurance premiums.
+
+         Perhaps we would have emphasized different evidence than did the Tax Court. But
+
+  that court’s findings and conclusions were supported by overwhelming evidence in the
+
+  record. No experience, expertise, or studies supported the need for Peak to obtain the
+
+  policies. And the premiums for that additional insurance were not supported by any study
+
+  of similar commercially available policies or careful analysis of Peak’s risks of loss. Nor
+
+  has Reserve raised any persuasive challenges to the Tax Court’s conclusions. We now
+
+  address those challenges in turn.
+
+                A.       Risk Distribution—the Quota-Share Arrangement
+
+         To qualify as an insurance company, Reserve needed to distribute risk. Reserve
+
+  acknowledges that issuing a dozen-odd policies to essentially one insured (Peak) did not
+
+  fill the bill. Rather, it relies on the reinsurance arrangements it had with PoolRe to
+
+  establish risk distribution. The Tax Court rejected that reliance. Reserve challenges that
+
+                                               54
+Appellate Case: 18-9011        Document: 010110683986       Date Filed: 05/13/2022      Page: 55
+
+
+
+  rejection, arguing that the court improperly held that risk could not be distributed via
+
+  PoolRe simply because PoolRe was not a bona fide insurer.
+
+         Reserve does not challenge the Tax Court’s conclusion that PoolRe was not a bona
+
+  fide insurer with respect to the quota-share agreement. Instead, it argues that “the tax
+
+  court misapplied the legal test for analyzing risk distribution” by considering whether
+
+  PoolRe—rather than Reserve—was a bona fide insurance company. Aplt. Br. at 37. It
+
+  contends that “the existence of a bona fide insurance company is not necessary for risk
+
+  distribution to exist.” Id. at 38.
+
+         As an abstract legal proposition, Reserve’s point has some merit. The courts have
+
+  recognized, and the Commissioner concedes, that certain arrangements distributing risk
+
+  provide insurance even though there is no insurance company involved. See Ross v.
+
+  Odom, 401 F.2d 464, 466–67 (5th Cir. 1968) (Although “[t]he amounts payable to
+
+  beneficiaries under the system were not funded or reinsured by any independent
+
+  insurance company [,] . . . we fully approve the Trial Court’s holding that the [payment]
+
+  constituted amounts received under a life insurance contract.”); Treganowan, 183 F.2d at
+
+  290–91 (plan under which all members of an organization pledged to pay a set sum to a
+
+  deceased member’s beneficiary constituted insurance). Reserve argues that an insurance
+
+  company could reinsure such risks without jeopardizing its status as an insurance
+
+  company. Perhaps. 14 But that proposition does not help Reserve here.
+
+
+         14
+           We note that the definition of insurance company cited by Reserve is “any
+  company more than half of the business of which during the taxable year is the issuing of
+  insurance or annuity contracts or the reinsuring of risks underwritten by insurance
+  companies.” I.R.C. § 816(a) (emphasis added). It is not clear whether reinsurance of risks
+                                               55
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 56
+
+
+
+         To begin with, the Tax Court’s conclusion that PoolRe was not a bona fide
+
+  insurance company was not based on the absence of formalities. True, one of the six
+
+  factors discussed by the court was whether PoolRe was licensed and regulated as an
+
+  insurance company; and the court noted that there was no evidence that it was so licensed
+
+  when the first two sets of policies were issued to Peak (in December 2008 and January
+
+  2009). But that factor apparently had little or no effect on the court’s conclusion, since it
+
+  reached the same conclusion about PoolRe for the policies issued in 2010 as well, and the
+
+  “Conclusion” section of this part of the court’s opinion makes no mention of the licensing
+
+  issue when it summarizes why it finds that “PoolRe’s activities as they relate to [the
+
+  quota-share] policies were not those of a bona fide insurance company.” Reserve, at 46.
+
+         Elsewhere in that Conclusion the Tax Court used language that fairly encompasses
+
+  a determination that the quota-share arrangement did not distribute risk for Reserve. The
+
+  heart of the problem was not that PoolRe was not an insurance company but that its
+
+  product was not actual insurance. The court concluded that “the facts surrounding
+
+  Reserve’s quota share policies with PoolRe establish that those agreements were not bona
+
+  fide insurance agreements.” Id. at 45. We agree with the Commissioner’s characterization
+
+  of the Tax Court’s analysis: “[T]he Tax Court did not invalidate the quota share
+
+  arrangement on the ground that PoolRe failed to meet the formal definition of an
+
+  insurance company. Rather, it invalidated the quota share arrangement on the ground
+
+
+
+
+  that have not been underwritten by an insurance company would qualify in the way
+  Reserve hopes.
+
+                                               56
+Appellate Case: 18-9011       Document: 010110683986        Date Filed: 05/13/2022       Page: 57
+
+
+
+  that, as a matter of substance, PoolRe did not perform the functions of an insurance
+
+  company—regardless of label—vis-à-vis the quota share arrangement.” Aplee. Br. at 40.
+
+  In short, what the Tax Court determined is what Reserve contends should have been
+
+  determined—whether the quota-share arrangement was a true insurance arrangement for
+
+  the distribution of risk.
+
+         The Tax Court did not err when it assessed PoolRe’s bona fides. Reserve’s
+
+  opening brief does not point to, and we do not see, any significant flaw in the analysis by
+
+  the Tax Court in reaching its conclusions that “Reserve’s quota share policies with
+
+  PoolRe . . . were not bona fide insurance agreements” and that “Reserve did not enter into
+
+  the quota share arrangement with the intention of distributing its risk.” Reserve, at 45. On
+
+  the contrary, the Tax Court opinion, if anything, understates the compelling evidence that
+
+  the quota-share arrangement was a sham.
+
+         Because Reserve’s reinsurance of PoolRe’s quota-share arrangement did not
+
+  create any meaningful risk for Reserve, Reserve did not satisfy even the distribution
+
+  threshold that Capstone set for it—obtaining 30% of its insurance premiums by insuring
+
+  unaffiliated risks. Reserve has not argued that it could reach the 30% figure based only on
+
+  the reinsurance of the credit-coinsurance agreements. The Tax Court’s ruling must
+
+  therefore stand. But we briefly discuss the credit-coinsurance arrangement because the
+
+  Tax Court’s ruling on that arrangement is an alternative basis for affirmance.
+
+                 B.     Risk Distribution—The Credit-Coinsurance Arrangement
+
+         The Tax Court determined that the credit-coinsurance agreements were not bona
+
+  fide reinsurance agreements for two reasons: (1) there was no evidence that the
+
+                                              57
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 58
+
+
+
+  underlying risk existed because Reserve never produced the vehicle-service contracts and
+
+  (2) even if the agreements insured an actual risk, both the amount of risk PoolRe assumed
+
+  and the amount ceded to Reserve were too “de minimis” to constitute “actual risk.” Id. at
+
+  47.
+
+         Reserve challenges the first of the Tax Court’s reasons, contending that the court
+
+  should not have faulted it for failing to produce the vehicle-service contracts. It argues
+
+  that because the reinsurance arrangements were what are called “treaty” arrangements
+
+  (under which the reinsurer is “bound to automatically accept all the policies and losses
+
+  covered thereby”), Reserve “would not have examined risks, investigated claims, or even
+
+  received notices of losses from the original insureds.” Aplt. Br. at 44. Therefore, it says,
+
+  the Tax Court’s criticism for not providing documentary evidence of the vehicle-service
+
+  contracts is “misplaced and ignores not only the evidence in the record but also the
+
+  rationale behind treaty reinsurance. Indeed, if a reinsurer were required to duplicate the
+
+  costly but necessary efforts of a primary insurer in evaluating risks and handling claims,
+
+  reinsurance simply would not work because it would not be economical to place and
+
+  administer.” Id. at 44–45 (citations omitted). This argument ignores, however, (1) the
+
+  need for the information sought by the court in checking the bona fides of the
+
+  “reinsurance” arrangement, (2) the documents that apparently gave PoolRe the right of
+
+  access to the information sought, and (3) the need for a prospective treaty insurer to
+
+  examine such information in some fashion when deciding whether or not to enter into a
+
+  treaty-insurance relationship in the first place. But we need not resolve the merits of
+
+
+
+                                               58
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022      Page: 59
+
+
+
+  Reserve’s arguments on this point, because we must affirm on the other ground (de
+
+  minimis risk) for the Tax Court’s decision.
+
+         There is certainly substantial evidence suggesting that Reserve incurred very little
+
+  risk from the agreements. Over the course of 2008–10, Reserve received no payment of
+
+  annual premiums and made no payment on claims. It instead received only one deposit
+
+  each year, purportedly equal to the net of premiums less claims for that year, for a total of
+
+  $530 over three years. Perhaps there are factual or legal flaws in the Tax Court’s analysis
+
+  of the extent of risk assumed by Reserve through the credit-coinsurance arrangement, but
+
+  Reserve’s opening brief raised no factual or legal challenge to the analysis. It completely
+
+  failed to address the court’s determination that the risk from the vehicle-service contracts
+
+  did not constitute actual risk. The issue is therefore waived, and we must affirm the Tax
+
+  Court’s determination that the credit-coinsurance arrangements did not distribute risk.
+
+  See Lebahn v. Nat’l Farmers Union Unif. Pension Plan, 828 F.3d 1180, 1188 (10th Cir.
+
+  2016) (“When a district court dismisses a claim on two or more independent grounds, the
+
+  appellant must challenge each of those grounds.”).
+
+                C.     Insurance in the Commonly Accepted Sense
+
+         As a third alternative ground for rejecting Reserve’s appeal, the Tax Court ruled
+
+  that the Reserve policies did not satisfy the requirement that they be insurance in the
+
+  commonly accepted sense. We also affirm this ruling.
+
+         We have already discussed at some length the evidence supporting the Tax Court’s
+
+  determination that Reserve did not act like a company in the business of writing
+
+  legitimate insurance policies. Its only true insured was Peak. The arrangements with
+
+                                                59
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 60
+
+
+
+  PoolRe lacked substance. There was no apparent business reason for the credit-
+
+  coinsurance contracts. And the Tax Court was fully justified in determining that the
+
+  quota-share reinsurance arrangement was a sham. The attachment points that had to be
+
+  met before PoolRe had any liability to the Capstone captive insureds defied explanation.
+
+  Reserve provided no evidence to overcome the logical inference that the reason to set
+
+  such intricate limitations on liability was to ensure that PoolRe would never have to make
+
+  a payment (particularly when the risk of loss under any of the underlying policies issued
+
+  by the captive insurers was apparently low to start with), so there was really nothing for
+
+  Reserve or the other captive insurers to reinsure.
+
+         Moreover, there was no evidence of any reasonable risk assessments to determine
+
+  whether Peak needed any of the additional policies. Nor was there any evidence of due
+
+  diligence to determine whether the premiums charged on the policies were worth it to
+
+  Peak. And Reserve was hardly run like a business. The preparation of the original one-
+
+  month policies in an apparent rush to obtain a large business deduction for Peak in 2008
+
+  was laughable. It suffices to note that on two of the policies the listed insureds, rather
+
+  than Peak, RocQuest, and ZW, were “Pacific Arts Entertainment, LLC” and “Pacific Arts
+
+  Presents, LLC.” Nor did Reserve operate in a more businesslike fashion thereafter. No
+
+  self-respecting insurance company would have paid $340,000 on the loss-of-customer
+
+  claim without any investigation or supporting documentation. And it was clear from his
+
+  testimony that Zumbaum, the Chief Executive Officer of Reserve, knew zero about its
+
+  business. The Tax Court was fully warranted in its finding that “Reserve’s transactions
+
+  were not insurance transactions in the commonly accepted sense.” Reserve, at 62.
+
+                                                60
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022         Page: 61
+
+
+
+         Nevertheless, Reserve raises three challenges to the Tax Court’s analysis of this
+
+  issue: (1) the court mischaracterized Reserve’s policies as providing only excess
+
+  coverage; (2) the court erroneously determined that the premiums were unreasonable and
+
+  not negotiated at arm’s length; and (3) the court erroneously determined that Reserve was
+
+  not operated like an insurance company because it was managed by hired professionals.
+
+  We address these challenges in turn.
+
+                       1.      Alleged Mischaracterization of Reserve’s Policies
+
+         Reserve contends that the Tax Court misinterpreted the other-insurance clauses in
+
+  Reserve’s policies to mean that they provided only excess coverage. But those clauses
+
+  stated: “The coverages afforded by this policy are excess over any other valid and
+
+  collectible insurance policy issued by any other insurer. The limits and deductibles stated
+
+  herein only apply after coverage is exhausted from any and all other valid insurance
+
+  policies issued by any other insurer.” Reserve, at 14 (capitalization and ellipsis omitted).
+
+  In other words, if Reserve’s policies covered the same loss as another policy, then
+
+  Reserve’s liability would not arise until that other insurance was exhausted. See 15 Couch
+
+  on Insurance, supra, § 219:1–2 (discussing purpose of other-insurance clauses). The Tax
+
+  Court quoted this language in its recitation of the facts, and later observed that “the
+
+  polic[ies] would be valid only after insurance coverage from other insurers was
+
+  exhausted.” Reserve, at 60. This observation is not clearly erroneous. To be sure, it
+
+  appears that at least some of the policies issued by Reserve covered risks that were not
+
+  covered by Peak’s commercial policies; consequently, there would often be no coverage
+
+  from other policies that Peak would have to exhaust. But Reserve has not pointed to any
+
+                                               61
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 62
+
+
+
+  language by the Tax Court to the contrary. There was no mischaracterization of the
+
+  policies.
+
+                       2.      Unreasonableness of Premiums
+
+         Reserve’s second challenge is that the basis for the Tax Court’s determination that
+
+  the premiums were unreasonable and not negotiated at arm’s length “flowed directly
+
+  from its misreading of Reserve’s policies” as providing only excess insurance. Aplt. Br.
+
+  at 53. We beg to differ. First, as just stated, the Tax Court did not misread the policies.
+
+  And there were multiple reasons supporting the Tax Court’s determination. The
+
+  observation that the policies provided only excess insurance was only a small component
+
+  of the total analysis. We have repeatedly set forth a number of the questionable features
+
+  of the policies issued by Reserve. Most important, however, was Reserve’s utter failure to
+
+  provide a reasonable explanation of how it calculated the risks covered by those policies.
+
+  The best it could do at the hearing before the Tax Court was to suggest, through the
+
+  testimony of experts who were not familiar with Peak, that the premiums were in line
+
+  with the premiums charged for similar insurance by other captive insurers managed by
+
+  Capstone. But there was no evidence that those other captive insurers faced risks similar
+
+  to those of Peak, nor was there any evidence that the premiums charged by those other
+
+  captive insurers were themselves reasonable. The Tax Court was fully justified when it
+
+  said that “[t]aking into consideration all the surrounding facts and circumstances, . . . no
+
+  unrelated party would reasonably agree to pay Reserve the premiums that Peak and the
+
+  other insureds did for the coverage provided by the direct written policies,” and then
+
+
+
+                                                62
+Appellate Case: 18-9011      Document: 010110683986           Date Filed: 05/13/2022      Page: 63
+
+
+
+  found that “the polic[i]es were not reasonable and not negotiated at arm’s length.”
+
+  Reserve, at 61.
+
+         Reserve argues that the Tax Court should not have faulted Reserve for issuing
+
+  policies in “the absence of a significant history of losses for Peak.” Aplt. Br. at 54. It
+
+  likens the Tax Court’s analysis to “saying that automobile insurance is unnecessary for
+
+  drivers who have not yet had an accident.” Id. But the Tax Court did not conclude that
+
+  Reserve’s policies were per se unreasonable just because Peak did not have a history of
+
+  losses that would be covered by the policies. Instead, it observed that the lack of loss
+
+  history was suspicious given that (1) the Reserve policies increased Peak’s insurance
+
+  expenses by roughly 400%, (2) the policies’ other-insurance clauses meant that Reserve’s
+
+  policies would provide only excess coverage if Peak’s other policies covered the same
+
+  loss, (3) “Peak had never come close to exhausting the policy limits of its third-party
+
+  commercial insurance coverage,” Reserve, at 60, and (4) Reserve provided no risk
+
+  assessment to support the high premiums.
+
+         The Tax Court did not clearly err when it concluded that Reserve’s premiums
+
+  were unreasonable and not negotiated at arm’s-length.
+
+                        3.     Irregularities of Reserve’s Operation
+
+         Reserve also argues that the Tax Court should not have considered the fact that
+
+  Reserve was managed by the hired professionals at Capstone and should not have faulted
+
+  Zumbaum for being unable to discuss Reserve’s policies in any detail. It says that
+
+  “existing caselaw recogniz[es] that most captive insurance companies operate without
+
+  any employees and routinely delegate operational functions, financial reporting,
+
+                                                63
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022       Page: 64
+
+
+
+  regulatory compliance and day-to-day tasks to captive managers.” Aplt. Br. at 58. It says
+
+  that it is “meaningless that [Zumbaum] could not recall details about the very subjects
+
+  that he had hired professionals to handle,” and likewise of no importance that Reserve
+
+  was managed by Capstone. Id. at 60.
+
+         But the Tax Court did not criticize Reserve simply because it was managed by
+
+  Capstone. Instead, the Tax Court observed that Reserve’s operations were irregular
+
+  because it had no employees, it maintained an address in Anguilla without ever doing
+
+  business there, and Zumbaum—the co-owner, president, and CEO—“knew virtually
+
+  nothing about its operations.” Reserve, at 50. Even if we credit Reserve’s position that
+
+  captives are frequently managed by third parties, Reserve does not explain why
+
+  Zumbaum—the responsible officer of both Reserve and Peak—could not testify about the
+
+  specifics of any of the policies or their pricing even though McNeel testified that
+
+  Zumbaum and Weikel were “the most significant” people in determining premium prices,
+
+  Aplt. App., Vol. 5 at 1247, and Feldman testified that Zumbaum had the final say on
+
+  “[p]olicies, pricing, which coverages, everything.” Aplt. App., Vol. 5 at 1430. Moreover,
+
+  Zumbaum’s lack of knowledge about Reserve and Capstone’s management of Reserve
+
+  contradicts Capstone’s feasibility study, which emphasized that a prerequisite to forming
+
+  a captive was “wholehearted top management support” and “strong internal oversight.”
+
+  Aplt. App., Vol. 7 at 2039–40 (capitalization omitted). It is one thing to seek technical
+
+  and administrative assistance from professionals; it is quite another to abandon all
+
+  responsibility for how your company is handling $400,000 of insurance and simply
+
+  believe everything Capstone says.
+
+                                               64
+Appellate Case: 18-9011     Document: 010110683986         Date Filed: 05/13/2022     Page: 65
+
+
+
+         Further, the Tax Court also observed that Reserve’s highly unprofessional
+
+  handling of its only claim suggested that it was not operating as an insurer. The Tax
+
+  Court observed that “no supporting documentation accompanied the claim notice,” that
+
+  “Peak did not submit and Reserve did not insist on obtaining any documents to
+
+  substantiate the occurrence or the amount of the claimed loss,” that the first payment was
+
+  made to Peak “more than a month before” the settlement agreement, that the final
+
+  payment—which increased the total payments from $165,820 to $339,820—was made
+
+  several months after the settlement agreement, that Peak and Reserve did not prepare an
+
+  addendum to the settlement agreement reflecting the increase in payments until years
+
+  later, and finally, that all Reserve’s payments were issued via checks signed by a Peak
+
+  employee. Reserve, at 52. (As shown by our description earlier in the opinion of how the
+
+  claim was handled, these irregularities do not exhaust the improprieties in the
+
+  processing.) Reserve does not dispute on appeal any of these findings regarding its claim
+
+  handling, or even the Tax Court’s conclusions from these findings.
+
+         The Tax Court did not clearly err in concluding that Reserve did not operate as an
+
+  insurance company in the commonly accepted sense.
+
+         V.  THE TAX COURT DID NOT ERR IN REFUSING TO
+         RECHARACTERIZE PEAK’S “PREMIUMS” AS CAPITAL
+         CONTRIBUTIONS
+
+         Having concluded that the premiums Reserve received from Peak and PoolRe
+
+  were not payments for insurance, the IRS determined that the receipts instead constituted
+
+  FDAP income, which is “fixed or determinable annual or periodical gains, profits, and
+
+  income” that is “received from sources within the United States” but “not effectively
+
+                                              65
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 66
+
+
+
+  connected with the conduct of a trade or business within the United States.” I.R.C.
+
+  § 881(a). Such income is taxed at a rate of 30%.
+
+         Reserve challenges this characterization. It argues that if it does not qualify for
+
+  treatment as an insurance company under the Internal Revenue Code, the IRS should
+
+  have treated its receipts as contributions to capital, which are not taxable income for the
+
+  recipient. The Tax Court rejected this argument below, correctly noting that whether a
+
+  payment constitutes a capital contribution turns on the motive of the payor. See United
+
+  States v. Chi., Burlington & Quincy R.R. Co., 412 U.S. 401, 411 (1973) (identifying “the
+
+  intent or motive of the transferor” as “determin[ing] the tax character of the transaction”
+
+  when deciding whether payment by nonshareholder was a contribution to capital); Wash.
+
+  Athletic Club v. United States, 614 F.2d 670, 674 (9th Cir. 1980) (“[T]he motive or
+
+  purpose and intent [of a club member] in making the contributions is a dominant factor in
+
+  determining whether [the payments were] a capital contribution or payment for goods and
+
+  services.” (internal quotation marks omitted)); Bd. of Trade v. Comm’r, 106 T.C. 369,
+
+  381 (1996) (for both shareholders and nonshareholders, payor’s intent controls whether a
+
+  payment is a contribution to capital); cf. Sammons v. Comm’r, 472 F.2d 449, 451–53 (5th
+
+  Cir. 1972) (applying both objective test and subjective-purpose test to determine whether
+
+  to characterize the transfer of property from one corporation to another corporation as a
+
+  dividend to an individual who has an ownership interest in both corporations followed by
+
+  a capital contribution to the transferee corporation). The court pointed out that Reserve
+
+  had the burden to show that the payments it received were not FDAP income but “did not
+
+  produce evidence” supporting that position. Reserve, at 64. It said that “[t]he record does
+
+                                               66
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 67
+
+
+
+  not reflect that the parties to the purported insurance transactions treated or intended the
+
+  amounts paid to Reserve as additional capital contributions.” Id. at 65. The absence of
+
+  evidence is particularly striking since Zumbaum was a witness at the hearing and could
+
+  have testified to a capital-contribution intent (although such testimony would, of course,
+
+  have undermined the argument that the premiums were for insurance coverage).
+
+         We review for clear error a Tax Court finding that a taxpayer has not satisfied its
+
+  burden of persuasion on a factual element of its claim. See Hamilton, 955 F.3d at 1172;
+
+  Wash. Mut., Inc. v. United States, 856 F.3d 711, 721 (9th Cir. 2017) (reviewing failure of
+
+  proof in tax-refund case for clear error).
+
+         On appeal Reserve does not dispute that it had the burden of proving its receipts
+
+  were not FDAP income. Nor does it dispute that if its receipts were not capital
+
+  contributions, they meet the criteria for FDAP income. It also does not dispute that it
+
+  listed these payments as income on its tax returns and Peak reported them as deductible
+
+  expenses; and it does not dispute that the payor’s intent is a crucial element when
+
+  determining whether a payment constitutes a capital contribution. It does not even dispute
+
+  that it provided no direct or indirect evidence that its receipts were intended as capital
+
+  contributions rather than business income. On the contrary, Reserve asserts that Peak did
+
+  not intend to contribute to capital, stating, “Both the payors (the Direct Insureds) and the
+
+  payee (Reserve) undeniably intended the payments to be insurance premiums.” Reply Br.
+
+  at 31. On this record alone, we can conclude that the Tax Court did not clearly err by
+
+  finding Reserve failed to satisfy its burden.
+
+
+
+                                                  67
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022       Page: 68
+
+
+
+         Reserve nevertheless argues that because the Tax Court found no legitimate
+
+  business purpose or non-tax reason for the issuance of the insurance policies, the only
+
+  logical conclusion that the Tax Court could draw is that the payments from Peak to
+
+  Reserve—the purported policy premiums—were capital contributions. See, e.g., Aplt. Br.
+
+  at 63 (“The tax court’s determination that there was no legitimate non-tax reason for
+
+  Reserve’s receipt of the payments is dispositive of the issue of the characterization of the
+
+  amounts received from the perspective of Reserve.”). It points to IRS Revenue Ruling
+
+  2005-40, 2005-2 C.B. 4, 2005 WL 1415557 (2005), which states that “an arrangement
+
+  that purports to be an insurance contract but lacks the requisite risk distribution may
+
+  instead be characterized as a deposit arrangement, a loan, a contribution to capital . . . , an
+
+  indemnity arrangement that is not an insurance contract, or otherwise.” Id. at *1. Reserve
+
+  claims that among these options, the only possible characterization for a transaction
+
+  without a business purpose or nontax reason is as a contribution to capital. Reserve relies
+
+  on Carnation Co. v. Commissioner, 71 T.C. 400 (1978), aff’d, 640 F.2d 1010 (9th Cir.
+
+  1981), where the Tax Court determined that a corporation’s payment to a subsidiary
+
+  insurance company was not an insurance premium and recharacterized that payment as a
+
+  capital contribution, see 71 T.C. at 415.
+
+         We disagree. To begin with, Carnation is not persuasive authority that whenever
+
+  an affiliate of a captive insurer deducts a purported “premium” paid to the insurer and the
+
+  insurer is found not to be an insurance company, then the premium should be
+
+  recharacterized as a capital contribution to the insurer. In Carnation there was no dispute
+
+  between the parties regarding how the payments should be recharacterized, see id.; and
+
+                                                68
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022      Page: 69
+
+
+
+  there was compelling evidence of intent in any event, since the parent had entered into an
+
+  agreement with a third-party insurance company to provide an additional $3 million of
+
+  capitalization to the subsidiary insurance company, see id. at 403–04. Nor is the situation
+
+  here like that where a portion of a purported deductible business expense paid by one
+
+  subsidiary to another is properly recharacterized as a dividend from the paying subsidiary
+
+  to the parent company followed by a capital contribution from the parent to the other
+
+  subsidiary. This may occur when the paying subsidiary pays an excessive amount (well
+
+  above what would have been paid in an arm’s-length transaction) for goods or services
+
+  from a second subsidiary. In that circumstance, the Commissioner can consider the larger
+
+  picture and infer that the purpose of the transaction was to increase the capital of the
+
+  second subsidiary by, in essence, making a distribution (a taxable dividend) of the excess
+
+  price from the first subsidiary to the parent, which then transfers that excess to the second
+
+  subsidiary as an infusion of capital. See IRS Revenue Ruling 78-83, 1978-1 C.B. 79,
+
+  1978 WL 42300 (1978) (engaging in such reallocation under authority of IRC § 482,
+
+  which permits Commissioner to reallocate gross income, deductions, etc., between two
+
+  organizations controlled by the same interests if Commissioner “determines that such
+
+  distribution, apportionment, or allocation is necessary in order to prevent an evasion of
+
+  taxes or clearly to reflect the income of any of such organizations”); Sammons, 472 F.2d
+
+  at 452–53 (“The concept that a transfer of property between corporations with common
+
+  ownership may constitute a dividend to the common owner, even when the stockholder
+
+  has not received funds or property from either corporation, has been well established . . . .
+
+  In [this] situation . . . the theory is that the funds pass from the transferor to the common
+
+                                                69
+Appellate Case: 18-9011      Document: 010110683986           Date Filed: 05/13/2022      Page: 70
+
+
+
+  stockholder as a dividend and then to the transferee as a capital contribution.” (emphasis
+
+  added)). But Reserve can point to no evidence, and has conceded there is none, that
+
+  would support such an inference regarding Peak’s purpose here. In particular, it has
+
+  proffered no reason why Peak would want to make a capital contribution to Reserve.
+
+         Revenue Ruling 2005–40 does not declare that when an ostensible insurance
+
+  arrangement fails to adequately distribute risk it must be recharacterized as a contribution
+
+  to capital. The Revenue Ruling mentions some alternatives but those are not exclusive.
+
+  Whether an alternative characterization is appropriate depends upon both the objective
+
+  facts of the transaction and the subjective intent of the parties. Here, the objective reality
+
+  is that Peak and Reserve entered into contracts that required Reserve to pay Peak if Peak
+
+  suffered losses covered by the contracts. Although the Tax Court held that those contracts
+
+  were not insurance contracts and that the policies, with their unreasonable premiums, had
+
+  no legitimate business purpose, that does not mean that the transfer of funds from Peak to
+
+  Reserve could not serve a legitimate business purpose. The court’s findings are consistent
+
+  with the characterization of the transaction proffered by the Commissioner—namely, that
+
+  the transaction was just a movement of funds offshore “to self-insure against business
+
+  losses.” Aplee. Br. at 66. Reserve does not challenge the Commissioner’s assertion that
+
+  the receipt of money by Reserve in such a transaction would be taxable under IRC
+
+  § 881(a), by analogy to the taxation of the receipt of payments for underwriting or for
+
+  providing a guarantee. Cf. Gulf Oil Corp. v. Comm’r, 914 F.2d 396, 411–13 (3d Cir.
+
+  1990) (although premiums paid to an insurance subsidiary were not deductible as
+
+  payments for insurance because the risk was not truly distributed, court refused to
+
+                                                70
+Appellate Case: 18-9011      Document: 010110683986          Date Filed: 05/13/2022       Page: 71
+
+
+
+  characterize the premium payments by subsidiaries as dividends to the parent corporation
+
+  followed by a capital contribution from the parent to the purported insurance company
+
+  because the insurance subsidiary did provide a benefit—risk coverage—to its affiliates).
+
+         In any event, what is totally absent here is proof of the essential element of
+
+  motive, purpose, or intent—evidence from which one can infer that Peak intended to
+
+  make a capital contribution. The Tax Court’s finding that the policies issued by Reserve
+
+  were not true insurance policies said nothing about Peak’s intent. The finding was based
+
+  on objective facts regarding risk distribution and conducting affairs as an insurance
+
+  business. Reserve has not suggested any reason why Peak or its owners would want to
+
+  make a capital contribution to Reserve. Nor has it presented any argument why a
+
+  factfinder could not infer that Peak’s intent was simply the intent to create a plausible
+
+  insurance company through which Peak could obtain a substantial tax deduction without
+
+  reducing the funds available to its two owners. The intent behind the act does not change
+
+  just because the act failed to achieve its purpose. (In fact, the arrangement did accomplish
+
+  Peak’s purpose. Counsel for the Commissioner reported at oral argument that it was too
+
+  late to challenge Peak’s business deductions for insurance premiums paid to Reserve for
+
+  2008–10.) By the same token, Reserve earned income by creating the appearance of
+
+  issuing insurance policies to Peak, even if it ultimately failed to convince the
+
+  Commissioner that the policies were bona fide. Reserve could have reported the
+
+  transactions with Peak on its tax returns as the receipt of capital contributions, but it did
+
+  not do so. “[W]hile a taxpayer is free to organize his affairs as he chooses, nevertheless,
+
+  once having done so, he must accept the tax consequences of his choice, whether
+
+                                                71
+Appellate Case: 18-9011      Document: 010110683986         Date Filed: 05/13/2022         Page: 72
+
+
+
+  contemplated or not, and may not enjoy the benefit of some other route he might have
+
+  chosen to follow but did not.” Comm’r v. Nat’l Alfalfa Dehydrating & Milling Co., 417
+
+  U.S. 134, 149 (1974) (citations omitted). We have been pointed to nothing in the Tax
+
+  Code that required the Commissioner to recharacterize the obvious intent of the parties to
+
+  enable Reserve to escape taxation.
+
+         We must emphasize, however, that the Commissioner did not need to prove that
+
+  the transfer of funds from Peak to Reserve was not a capital contribution. Reserve bears
+
+  the burden of persuasion. In particular, Reserve had to prove Peak’s intent to make a
+
+  capital contribution. To rule against Reserve, it sufficed for the Tax Court to not be
+
+  persuaded that this was Peak’s intent. That court did not commit clear error in failing to
+
+  be persuaded.
+
+         VI.      CONCLUSION
+
+         We AFFIRM the judgment of the Tax Court.
+
+
+
+
+                                               72
+

@@ -1,0 +1,739 @@
+                 FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+
+THE PEOPLE OF THE STATE OF               No. 12-71958
+CALIFORNIA, ex rel. Kamala D.
+Harris, Attorney General; PUBLIC          FERC No.
+UTILITIES COMMISSION OF THE              EL02-71-036
+STATE OF CALIFORNIA; PACIFIC GAS
+& ELECTRIC COMPANY; SOUTHERN
+CALIFORNIA EDISON;                        OPINION
+                          Petitioners,
+
+                  v.
+
+FEDERAL ENERGY REGULATORY
+COMMISSION,
+                    Respondent,
+
+SHELL ENERGY NORTH AMERICA
+(US), L.P.; TRANSCANADA ENERGY
+LTD.; MPS MERCHANT SERVICES,
+INC.; MIECO, INC.; HAFSLUND
+ENERGY TRADING LLC; MERRILL
+LYNCH CAPITAL SERVICES, INC.;
+KOCH ENERGY TRADING, INC.;
+ILLINOVA CORPORATION;
+COMMERCE ENERGY INC.;
+ALLEGHENY ENERGY SUPPLY
+COMPANY LLC;
+            Respondents-Intervenors.
+2               STATE OF CALIFORNIA V. FERC
+
+           On Petition for Review of an Order of the
+           Federal Energy Regulatory Commission
+
+                    Argued and Submitted
+         February 11, 2015—San Francisco, California
+
+                       Filed April 29, 2015
+
+    Before: Sidney R. Thomas, Chief Judge and M. Margaret
+       McKeown and Richard R. Clifton, Circuit Judges.
+
+                Opinion by Chief Judge Thomas
+
+
+                           SUMMARY*
+
+
+          Federal Energy Regulatory Commission
+
+     The panel granted a petition for review brought by the
+people of the state of California and related parties
+challenging a series of orders issued by the Federal Energy
+Regulatory Commission on remand following the panel’s
+decision in California ex rel. Lockyer v. FERC, 383 F.3d
+1006 (9th Cir. 2004), concerning market-based energy tariffs.
+
+    In Lockyer, the panel held that FERC could authorize
+market-based energy tariffs, so long as that regulatory
+framework incorporated both an ex ante marker power
+analysis and enforceable post-approval transaction reporting.
+
+
+  *
+    This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+              STATE OF CALIFORNIA V. FERC                  3
+
+The panel remanded because FERC had not appropriately
+implemented the market-based tariff.
+
+    The panel held that FERC structured the remand
+proceedings in a manner contrary to the terms of the Lockyer
+decision. The panel further held that FERC omitted a
+necessary component of the market-based tariff approved in
+Lockyer by insisting on proof of market concentration under
+its hub-and-spoke test as a precondition to any relief for
+reporting deficiencies. The panel held that reliance on the
+hub-and-spoke market share measure alone immunized sellers
+from any consequence for failure to report market
+transactions and ignored the agency’s statutory charge under
+§ 205 of the Federal Power Act: to determine whether sellers
+charged a “just and reasonable” rate. The panel remanded for
+further proceedings.
+
+
+                        COUNSEL
+
+Kevin J. McKeon (argued), Judith D. Cassel, and Whitney E.
+Snyder, Hawke McKeon & Sniscak LLP, Harrisburg,
+Pennsylvania; Kamala D. Harris, Attorney General of
+California, Mark Breckler, Chief Assistant Attorney General,
+and Martin Goyette, Senior Assistant Attorney General, San
+Francisco, California; David M. Gustafson, Deputy Attorney
+General, Oakland, California, for Petitioner.
+
+Frank R. Lindh, Sarah R. Thomas, Christopher E. Clay,
+Candace J. Morey, and Charlyn A. Hook, Public Utilities
+Commission of the State of California, San Francisco,
+California, for Petitioner Public Utilities Commission of the
+State of California.
+4             STATE OF CALIFORNIA V. FERC
+
+Richard L. Roberts and Catherine M. Giovannoni, Steptoe &
+Johnson LLP, Washington, D.C.; Russell C. Swartz, J. Eric
+Isken, and Russell Archer, Southern California Edison Co.,
+Rosemead, California, for Petitioner Southern California
+Edison Company.
+
+Stan Berman, Eric Todderud, and Heather Curlee, Sidley
+Austin LLP, Seattle, Washington; Mark D. Patrizio and
+Joshua Levenberg, Pacific Gas and Electric Co., San
+Francisco, California, for Petitioner Pacific Gas and Electric
+Company.
+
+Beth G. Pacella (argued), Senior Attorney, David L.
+Morenoff, Acting General Counsel, and Robert H. Solomon,
+Solicitor, Federal Energy Regulatory Commission,
+Washington, D.C., for Respondent.
+
+David C. Frederick (argued), Scott H. Angstreich, and
+Brendan J. Crimmins, Kellogg, Huber, Hansen, Todd, Evans
+& Figel, P.L.L.C., Washington, D.C., for Respondents-
+Intervenors Shell Energy North America (US), L.P.,
+TransCanada Energy Ltd., MPS Merchant Services, Inc.,
+MIECO, Inc., Hafslund Energy Trading LLC, Merrill Lynch
+Capital Services, Inc., Koch Energy Trading, Inc., Illinova
+Corporation, Commerce Energy Inc., and Allegheny Energy
+Supply Company LLC.
+
+Jeffrey D. Watkiss, McDermott Will & Emery LLP,
+Washington, D.C., for Respondent-Intervenor Shell Energy
+North America (US), L.P.
+
+Kenneth L. Wiseman, Mark F. Sundback, William M.
+Rappolt, and Allison E. Hellreich, Andrews Kurth LLP,
+              STATE OF CALIFORNIA V. FERC                 5
+
+Washington, D.C., for Respondent-Intervenor TransCanada
+Energy Ltd.
+
+John N. Estes III and Karis Anne Gong, Skadden, Arps, Slate,
+Meagher & Flom LLP, Washington, D.C., for Respondents-
+Intervenors MPS Merchant Services, Inc. and Illinova
+Corporation.
+
+Steven A. Weiler and Robert C. Fallon, Stinson Leonard
+Street LLP, Washington, D.C., for Respondent-Intervenor
+MIECO, Inc.
+
+Stephen Angle and Damien R. Lyster, Vinson & Elkins
+L.L.P., Washington, D.C., for Respondent-Intervenor
+Hafslund Energy Trading LLC.
+
+Catherine M. Krupka and Alexandra D. Konieczny,
+Sutherland Asbill & Brennan LLP, Washington, D.C., for
+Respondents-Intervenors Merrill Lynch Capital Services, Inc.
+and Commerce Energy Inc.
+
+William E. Schroeder and Aliya M. McLendon, Sullivan &
+Cromwell, LLP, New York, New York, for Respondent-
+Intervenor Koch Energy Trading, Inc.
+
+Gordon A. Coffee and Steffen N. Johnson, Winston & Strawn
+LLP, Washington, D.C., for Respondent-Intervenor
+Allegheny Energy Supply Company LLC.
+6             STATE OF CALIFORNIA V. FERC
+
+                         OPINION
+
+THOMAS, Chief Judge:
+
+    Petitioners, the people of the state of California through
+their Attorney General Kamala D. Harris, the California
+Public Utilities Commission, Pacific Gas & Electric
+Company, and Southern California Edison (“the California
+Parties”), seek review of a series of orders issued by the
+Federal Energy Regulatory Commission (“FERC” or “the
+Commission”) on remand following our decision in
+California ex rel. Lockyer v. FERC (“Lockyer”), 383 F.3d
+1006 (9th Cir. 2004). There, we held that FERC may
+authorize market-based energy tariffs, so long as that
+regulatory framework incorporates both an ex ante market
+power analysis and enforceable post-approval transaction
+reporting. Id. at 1014. We remanded the case because FERC
+had not appropriately implemented the market-based tariff.
+Id. at 1015.
+
+    In this case, the California Parties petition for review of
+FERC’s actions after our remand, claiming that FERC failed
+to follow Lockyer and violated the Federal Power Act
+(“FPA”) by requiring proof of excessive market share as a
+necessary condition for relief for transaction reporting
+violations.
+
+    We conclude that FERC structured the remand
+proceedings in a manner contrary to the terms of our Lockyer
+decision. Enforceable transaction reporting is a necessary
+ingredient of a lawful market-based tariff. Id. By insisting
+on proof of market concentration under its hub-and-spoke test
+as a precondition to any relief for reporting deficiencies,
+FERC omitted a necessary component of the market-based
+              STATE OF CALIFORNIA V. FERC                    7
+
+tariff approved in Lockyer. Reliance on the hub-and-spoke
+market share measure alone immunizes sellers from any
+consequence for failure to report market transactions and
+ignores the agency’s statutory charge under § 205 of the FPA:
+to determine whether sellers charged a “just and reasonable”
+rate. 16 U.S.C. § 824d(a). We therefore grant the petition for
+judicial review and remand to the agency for further
+proceedings.
+
+                               I
+
+    The essence of the California Parties’ complaint is
+presented in some detail at the outset of our Lockyer decision.
+See 383 F.3d at 1008–11. A summary of our Lockyer
+decision and an exposition of events that transpired before
+FERC on remand follows.
+
+                              A
+
+    In Lockyer, we denied the California Parties’ facial
+challenge to market-based ratemaking. Id. at 1013. We held
+that the agency’s segmented approach, which requires an ex
+ante finding of an absence of market power coupled with
+regular transaction reports, does not per se violate the FPA.
+Id. at 1012–13. However, we granted the California Parties’
+as-applied challenge, holding that FERC’s enforcement and
+review of market-based rates during the 2000–01 California
+energy crisis was unlawful. Id. at 1014. We held that FERC
+abdicated its regulatory responsibility by summarily
+dismissing electricity wholesalers’ failure to comply with
+reporting requirements. Id. at 1014–15. “[B]ecause the
+reporting requirements [are] an integral part of a market-
+based tariff that . . . pass[es] legal muster, FERC cannot
+dismiss the requirements as mere punctilio.” Id. at 1015. We
+8                STATE OF CALIFORNIA V. FERC
+
+remanded to FERC to reconsider the California Parties’ claim
+for a refund of the amount sellers charged in excess of just
+and reasonable rates during the crisis. Id. at 1018.
+
+                                   B
+
+        On remand, FERC ordered
+
+           a trial-type hearing before an ALJ to make
+           findings of fact regarding whether, based on
+           the facts and circumstances associated with
+           each individual seller, that seller’s improper
+           or untimely filing of its quarterly transaction
+           reports masked an accumulation of market
+           power such that the market rates were unjust
+           and unreasonable, during the relevant period
+           ....
+
+California ex rel. Lockyer v. B.C. Power Exch. Corp.1 (“Mar.
+21, 2008 Order”), 122 FERC ¶ 61,260, 62,504–05 (Mar. 21,
+2008). FERC defined the threshold issue for the ALJ
+proceeding as whether sellers accumulated market power and
+set parameters for the ALJ to use in conducting that inquiry.
+Id. at 62,505–06. Specifically, FERC limited the market
+power assessment to whether a seller, under the hub-and-
+spoke test, “did or did not gain an increased generation
+market share sufficient to give it the ability to exercise market
+power and cause market-based rates to be unjust and
+
+
+
+
+    1
+      Because all remand proceedings are captioned thusly before the
+agency, to avoid confusion, hereinafter each is denominated by reference
+to the date and title of the document.
+                STATE OF CALIFORNIA V. FERC                           9
+
+unreasonable as a result.”2 Id. at 62,505. Other claims of
+tariff violations, such as gaming and anomalous bidding
+behavior, were off the table. Id. at 62,505 n.65. The
+Commission reserved determination of the remedy for
+violations by each particular seller, if any. Id. at 62,505.
+
+    The California Parties urged FERC to reconsider its
+definition of the objective of the ALJ proceeding, claiming
+that the Commission’s decision to focus on identifying
+sellers’ market power based on market share levels stood
+contrary to the FPA, our remand instructions in Lockyer, and
+agency precedent. See Oct. 6, 2008 Order, 125 FERC
+¶ 61,016, 61,040. The state claimed that FERC’s initial order
+on remand unjustifiably collapsed the two-tiered approach
+approved in Lockyer by conflating the ex ante market power
+determination and the ex post reporting requirement. Id. It
+identified FERC decisions holding that the purpose of
+market-based rate quarterly transaction reporting is to meet
+the filed rate requirements of the FPA, evaluate the
+reasonableness of rates, and monitor sellers’ market power on
+an ongoing basis. Id. Furthermore, the California Parties
+argued that the hub-and-spoke test prescribed by the agency
+was an inadequate screen for market power. Id.
+
+    FERC denied rehearing. Id. The Commission declared
+the state’s claims an impermissible collateral attack on the
+market power analysis FERC used at the time of the
+transactions and explained that the purpose of market-based
+
+
+ 2
+   The hub-and-spoke test considers a seller’s market share of installed
+and uncommitted generation capacity in its control area market and each
+control area market to which it is directly interconnected and finds the
+potential for market power where the seller holds a market share of 20
+percent or more in each relevant market. Id. at 62,505 n.70.
+10            STATE OF CALIFORNIA V. FERC
+
+quarterly reports “is not to re-run the Commission’s market
+power screens, but rather . . . to monitor and evaluate market
+concentration on an ongoing basis.” Id. at 61,040–41. FERC
+rejected the state’s suggestion that the hub-and-spoke test was
+an inappropriate screen for market power, claiming that it
+must use only those standards in effect at the time of the
+reviewed transactions. Id. at 61,041–42.
+
+    The California Parties also argued that FERC erred in its
+March 21, 2008 Order by excluding evidence of other tariff
+violations and market manipulation from the ALJ proceeding.
+Id. at 61,042. The California Parties sought to introduce
+evidence of alternative analyses of market power and market
+function, based on information presented in sellers’ reports,
+to show a nexus between deficient reporting, market function,
+and market power. Id. FERC denied rehearing on this issue
+because other potential seller misconduct, such as gaming and
+anomalous bidding, was the subject of another proceeding
+before the agency, which it determined should remain distinct
+and separate. Id.
+
+    Shortly thereafter, the California Parties again requested
+rehearing regarding the evidentiary basis for its reporting
+allegations. Dec. 28, 2009 Order, 129 FERC ¶ 61,276,
+62,530. The California Parties again sought to introduce
+evidence of market manipulation and tariff violations,
+explaining that these concerns were not adequately addressed
+by other proceedings before FERC. Id. FERC denied the
+request as an impermissible request for rehearing of an order
+denying rehearing. Id. The Commission also reasoned that
+the California Parties’ argument about the scope of evidence
+in the remand proceeding was incongruous with evidence of
+deficient reporting presented in the original complaint. Id. at
+62,531. The Commission definitively limited the allegations
+               STATE OF CALIFORNIA V. FERC                   11
+
+to be considered in the ALJ proceedings to the California
+Parties’ reporting and hub-and-spoke market power claims,
+not allegations of market manipulation or other measures of
+market power. Id.
+
+                               C
+
+    After briefing and submission of written testimony, but
+without hearing argument, the ALJ granted sellers’ motions
+for summary disposition in an Initial Decision issued March
+18, 2010. 130 FERC ¶ 63,017, 66,159–62. After crediting
+the California Parties’ evidence of reporting violations, the
+ALJ ruled in the sellers’ favor because the state did not
+demonstrate that sellers accumulated market power under the
+hub-and-spoke test. Id. at 66,162. The ALJ reasoned that
+“[a]bsent a showing by the California Parties in their direct
+testimony that each [seller] possessed generation market
+power under the Commission’s hub-and-spoke test, no
+material factual issues remain for hearing on the central issue
+in this proceeding.” Id. at 66,195. The ALJ set aside the
+California Parties’ seller misconduct and alternative market
+power analyses as outside the scope of the proceeding and
+contrary to sellers’ due process right to notice. Id. at 66,194.
+
+    In a May 4, 2011 Order, the Commission affirmed the
+ALJ decision. 135 FERC ¶ 61,113. The Commission rested
+on its previous rulings on the California Parties’ exceptions
+and objections. Id. at 61,655–56. FERC reasoned, “[g]iven
+that the issue of whether suppliers accumulated market power
+was the threshold issue in this proceeding, and given the
+California Parties’ failure to offer any evidence to
+demonstrate the accumulation of market power under the
+hub-and-spoke standard, summary disposition was
+appropriate.” Id. at 61,655. The Commission later denied the
+12             STATE OF CALIFORNIA V. FERC
+
+California Parties’ request for rehearing. June 13, 2012
+Order, 139 FERC ¶ 61,211. This petition followed shortly
+thereafter.
+
+                               II
+
+    We have jurisdiction to hear this petition for judicial
+review pursuant to § 313(b) of the FPA. 16 U.S.C. § 825l(b).
+The California Parties timely filed this petition on June 20,
+2012. See id. “Upon the filing of such petition such court
+shall have jurisdiction, which upon the filing of the record
+with it shall be exclusive, to affirm, modify, or set aside such
+order in whole or in part.” Id.
+
+    We review FERC decisions to determine whether they are
+“arbitrary, capricious, an abuse of discretion, unsupported by
+substantial evidence, or not in accordance with the law.” Cal.
+Dep’t of Water Res. v. FERC, 341 F.3d 906, 910 (9th Cir.
+2003). “The finding of the Commission as to the facts, if
+supported by substantial evidence, shall be conclusive.”
+16 U.S.C. § 825l(b). Questions of law are subject to de novo
+review. Am. Rivers v. FERC, 201 F.3d 1186, 1194 (9th Cir.
+1999). FERC’s interpretation of the FPA is reviewed under
+the deferential framework in Chevron U.S.A. Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837, 842 (1984).
+Port of Seattle, Wash. v. FERC, 499 F.3d 1016, 1026 (9th Cir.
+2007). However, “Chevron does not require blind deference;
+the Supreme Court has articulated a more thorough and
+nuanced approach.” Lockyer, 383 F.3d at 1016. When
+considering “whether Congress has directly spoken to the
+precise question at issue,” Chevron, 467 U.S. at 842, this
+court is guided by statutory context and “common sense as to
+the manner in which Congress is likely to delegate a policy
+               STATE OF CALIFORNIA V. FERC                    13
+
+decision.” Lockyer, 383 F.3d at 1016–17 (citation and
+internal quotation marks omitted).
+
+                               III
+
+     Adjudication of the petition turns on interpretation of
+§ 205 of the FPA, which commands that “any . . . rate or
+charge that is not just and reasonable is hereby declared to be
+unlawful.” 16 U.S.C. § 824d(a). Although “[o]ur role in
+determining whether rates are just and reasonable is limited,”
+Mont. Consumer Counsel v. FERC, 659 F.3d 910, 918 (9th
+Cir. 2011), in Lockyer, we held that § 205 authorizes FERC
+to order retroactive refunds for seller reporting failures, based
+on the “integral nature” of reporting requirements to a lawful,
+i.e., “just and reasonable,” market-based tariff, 383 F.3d at
+1014–16. The structure of the remand proceedings is not
+square with this conclusion. We remanded the matter to
+FERC “to reconsider its remedial options in the first
+instance,” id. at 1018, observing that “FERC may elect not to
+exercise its remedial discretion by requiring refunds, but it
+unquestionably has the power to do so,” id. at 1016. FERC
+abdicated its discretion by structuring the remand proceedings
+in a manner that prevented any meaningful review of sellers’
+failure to file transaction reports during the crisis.
+
+    FERC held that the California Parties’ “failure to offer
+any evidence to demonstrate the accumulation of market
+power under the hub-and-spoke standard” foreclosed relief.
+May 4, 2011 Order, 135 FERC ¶ 61,113, 61,655. By granting
+summary disposition to the sellers, the Commission denied
+the California Parties’ claims that reporting deficiencies
+violated the FPA and justified refunds of amounts sellers
+charged in excess of the just and reasonable rates. By
+structuring the remand proceedings in this manner,
+14            STATE OF CALIFORNIA V. FERC
+
+predicating the “just and reasonable” inquiry required under
+§ 205 on accumulation of market power under the hub-and-
+spoke test, FERC insulated sellers from liability for reporting
+violations and thereby ran afoul of the FPA. FERC casts
+market power identified solely through excessive market
+share as a necessary condition to conclude that a seller’s rate
+is unjust or unreasonable. This view undercuts the essential
+importance of transaction reporting and the distinct purpose
+of each prong of a viable market-based tariff system. In
+Lockyer, when we deemed FERC’s market-based ratemaking
+approach a viable extension of the agency’s authority under
+the FPA, we went to great lengths to distinguish market-based
+regulatory schemes rejected by the Supreme Court in MCI
+Telecommunications Corp. v. AT&T, 512 U.S. 218 (1994),
+and Maislin Industries U.S., Inc. v. Primary Steel, Inc.,
+497 U.S. 116 (1990). See Lockyer, 383 F.3d at 1013. “The
+structure of the tariff complied with the FPA, so long as it
+was coupled with enforceable post-approval reporting that
+would enable FERC to determine whether the rates were ‘just
+and reasonable’ and whether market forces were truly
+determining the price.” Id. at 1014. “[T]he crucial difference
+between MCI/Maislin and the present circumstances is the
+dual requirement of an ex ante finding of the absence of
+market power and sufficient post-approval reporting
+requirements.” Id. at 1013 (emphasis in original).
+
+    Our discussion of the California Parties’ as-applied
+challenge in Lockyer underscores the independence and
+import of each prong of the analysis. In testing FERC’s claim
+that reporting violations were mere compliance issues, we
+observed that each prong of the framework serves a different
+purpose. Enforceable post-approval reporting is necessary to
+enable FERC to determine whether sellers’ rates complied
+with § 205 and to investigate whether market forces truly
+               STATE OF CALIFORNIA V. FERC                     15
+
+determined the rate charged. Id. at 1014. Without “active
+ongoing review” brought about by an enforceable transaction
+reporting requirement, “the only arguably serious regulatory
+screening that exists is FERC’s initial determination with
+respect to a seller’s market power—a determination that may
+bear little or no relation to the realities of subsequent
+circumstances.” Id. at 1017. We went on to observe that the
+FPA remedial scheme comports only with a dual-track
+regulatory framework because market-based ratemaking
+premised solely on an initial analysis of market power would
+eliminate retrospective refund relief under the Act. Id.
+
+    FERC erred by structuring the remand proceedings to
+focus exclusively on market-share evidence of market power.
+By doing so, FERC unlawfully administered the market-
+based tariff. “If the ability to monitor the market, or gauge
+the ‘just and reasonable’ nature of the rates is eliminated, then
+effective federal regulation is removed altogether. Without
+the required filings, neither FERC nor any affected party may
+challenge the rate. Pragmatically, under such circumstances,
+there is no filed tariff in place at all.” Id. at 1015–16.
+
+    In addition to ignoring our remand instructions, FERC’s
+interpretation is at odds with the position it took in the initial
+appeal. There, “FERC . . . affirmed . . . that it is not
+contending that approval of a market-based tariff based on
+market forces alone would comply with the FPA or the filed
+rate doctrine.” Id. at 1013. FERC argued that the presence of
+reporting requirements differentiated its market-based tariffs
+from those rejected by the Court in MCI and Maislin, and this
+court agreed. Id. In fact, even before Lockyer, in its initial
+order on the complaint FERC stated that “[a]fter-the-fact
+quarterly reports provide a means for spotting price trends,
+discriminatory patterns, or other indicia of the exercise of
+16            STATE OF CALIFORNIA V. FERC
+
+market power.” May 31, 2002 Order, 99 FERC ¶ 61,247,
+62,063. As we said once before, “FERC cannot have it both
+ways.” Lockyer, 383 F.3d at 1016. “If the tariff is interpreted
+as FERC urges here, then the tariff runs afoul of Maislin, the
+filed rate doctrine, and the FPA.” Id.
+
+    FERC argues that the reasonableness of market-based
+rates charged by sellers without market power, as measured
+by market share, cannot be challenged. It therefore claims
+that following an alleged reporting violation, analysis of a
+seller’s market share alone is sufficient. For this proposition
+the Commission cites a paragraph in Lockyer that describes
+two D.C. Circuit decisions approving market-based
+ratemaking in the market for natural gas and wholesale
+electricity. See id. at 1012–13. However, FERC takes that
+passage out of context. Those cases involve a traditional
+bilateral transaction, that is, a bargained-for exchange
+between an interested buyer and willing seller. Id. That is
+not directly analogous to the factual circumstances here
+involving clearinghouse sales during the energy crisis. See
+id. at 1008–10.
+
+     FERC also cites Blumenthal v. FERC, 552 F.3d 875, 882
+(D.C. Cir. 2009), but makes no effort to explain its relevance
+to its claim that the rate charged by sellers without hub-and-
+spoke market power is per se “just and reasonable.”
+Blumenthal concerns a different factual circumstance:
+Connecticut’s challenge to FERC’s approval of a “‘hybrid’
+market, in which some electricity generators sell power at
+regulated rates and others at market rates.” Id. at 878. Even
+so, the D.C. Circuit relied on FERC’s requirement of
+“quarterly and annual reports assessing the competitiveness
+of the market based on transactional data reflecting the
+behavior of each market participant.” Id. at 882. The court
+               STATE OF CALIFORNIA V. FERC                      17
+
+explained that its holding approving of the “hybrid” market
+structure comports with Lockyer by requiring “[r]egular
+reports based on ‘transaction-specific data[.]’” Id. “FERC
+violates its oversight duty when it imposes no reporting
+requirements on generators and instead resorts to ‘largely
+undocumented reliance on market forces as the principal
+means of rate regulation.’” Id. (quoting Farmers Union Cent.
+Exch., Inc. v. FERC, 734 F.2d 1486, 1508 (D.C. Cir. 1984)
+(footnote omitted)). Because it recognizes the necessity and
+intrinsic value of transactional reporting, Blumenthal does not
+support the proposition FERC presents.
+
+     The record on remand demonstrates that FERC did not
+“examine the relevant data and articulate a satisfactory
+explanation for its action” and thereby did not meet its burden
+to engage in reasoned decisionmaking. Motor Vehicle Mfrs.
+Ass’n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983). The manner in which FERC structured the
+proceedings on remand is arbitrary, capricious, and otherwise
+not in accordance with law. The agency collapsed a lawful
+two-step market-based tariff to an impermissible one-step
+inquiry focused solely on whether a seller controlled 20
+percent of the generation market in its hub-and-spoke area.
+FERC may not limit its review of the reporting deficiencies
+to the hub-and-spoke market power screen. To fully consider
+whether a reported rate was just and reasonable, the agency
+must consider claims and evidence beyond the hub-and-spoke
+analysis.
+
+   FERC attempts to justify its position by claiming that the
+California Parties’ claims have been addressed in other
+proceedings. For example, FERC stated that “this proceeding
+focuses solely on violations of our quarterly transaction
+reports as a basis for potential refund liability . . . this is not
+18               STATE OF CALIFORNIA V. FERC
+
+a proceeding to address other potential tariff violations (such
+as gaming and anomalous bidding behavior), which is the
+subject of the CPUC proceeding.”3 Oct. 6, 2008 Order, 125
+FERC ¶ 61,016, 61,042; see also Mar. 18, 2010 Initial
+Decision, 130 FERC ¶ 63,017, 66,194; Mar. 21, 2008 Order,
+122 FERC ¶ 61,260, 62,505 n.65. The California Parties
+counter that the agency is playing a shell game, artificially
+limiting the scope of these proceedings and promising that
+excluded claims will be addressed elsewhere. They argue
+that this limitation excluded their evidence that sellers
+exercised market power in ways not detected by the 20-
+percent hub-and-spoke test. Specifically, the California
+Parties argue that evidence of sellers’ actual market positions,
+gaming, anomalous bidding behavior, and other market
+manipulation is relevant to determining whether rates were
+“just and reasonable” and whether “market forces were truly
+determining the price.”
+
+    An agency errs when it “entirely fail[s] to consider an
+important aspect of the problem.” Motor Vehicle Mfrs. Ass’n,
+463 U.S. at 43. FERC framed the issue in this appeal as
+whether deficient reporting masked an accumulation of
+market power such that the market rates charged were unjust
+and unreasonable. By requiring the California Parties to
+demonstrate that a seller exercised market power solely by
+reference to the hub-and-spoke test, FERC ignored other
+important aspects of the problem of market power masked by
+
+
+ 3
+  Pub. Utils. Comm’n of the State of Cal. v. FERC (“CPUC”), 462 F.3d
+1027 (9th Cir. 2006). Before the agency, CPUC is denominated San
+Diego Gas & Electric Co. v. Sellers of Energy and Ancillary Services Into
+Markets Operated by the California Independent System Operator
+Corporation and the California Power Exchange (“SDG&E”). SDG&E,
+149 FERC ¶ 61,116, 2014 WL 5860025 (Nov. 10, 2014).
+              STATE OF CALIFORNIA V. FERC                    19
+
+deficient reporting.       This is so regardless of the
+Commission’s consideration of manipulation claims in
+CPUC. FERC entered a final order authorizing refunds for
+manipulative tariff violations in the CPUC remand
+proceedings on November 10, 2014. SDG&E, 149 FERC
+¶ 61,116. These proceedings did not concern the nexus
+between manipulative conduct and reporting violations,
+however. SDG&E, 135 FERC ¶ 61,183, 62,088 (May 26,
+2011). The existence of widespread reporting violations and
+market manipulation by sellers during the 2000–01 crisis has
+been established.        See Lockyer, 383 F.3d at 1014
+(“[N]on-compliance with FERC’s reporting requirements was
+rampant throughout California’s energy crisis. FERC itself
+has acknowledged that during the height of the energy crisis
+the quarterly reports of several major wholesalers failed to
+include the transaction-specific data through which the
+agency at least theoretically could have monitored the
+California energy market[.]”); SDG&E, 149 FERC ¶ 61,116,
+2014 WL 5860025 at *13 (finding “34,020 . . . transactions
+that constituted tariff violations, more than 20,000 affected
+the market clearing prices”). While the nexus of these
+findings may be unclear at this juncture, the merits of that
+issue are not now before the court. FERC granted summary
+disposition without considering this argument or any
+evidence in support. We therefore remand to the agency with
+instructions to evaluate reporting deficiencies and related
+market-based rates to determine whether they were unjust and
+unreasonable in light of the California Parties’ nexus claims.
+The California Parties’ manipulation claims are integral to
+their allegation that reporting deficiencies fostered the subtle
+accumulation of market power and resulted in an excessive
+rate. This claim has not yet been tested by FERC and it is
+most appropriate for the agency to resolve the question in the
+20               STATE OF CALIFORNIA V. FERC
+
+first instance. See SEC v. Chenery Corp., 318 U.S. 80, 88
+(1943).4
+
+     Whether the California Parties’ claims have been resolved
+in other proceedings is also a merits question that must be
+resolved by the agency. The Commission has recognized its
+capacity to “be cognizant of the factual scope of each
+proceeding and the ramifications of [its] actions here on
+other, related proceedings.” Oct. 6, 2008 Order, 125 FERC
+¶ 61,016, 61,042. That awareness does not translate into
+authority to sidestep due process and reasoned analysis for
+claims the agency believes have been litigated and decided in
+other proceedings. Obviously, parties are not entitled to
+double recovery, but that is an analysis that the agency can
+undertake on remand. This opinion does not address the
+question of potential refunds from sellers who were not
+themselves responsible for any manipulation that FERC may
+determine occurred, but who may have benefitted from it.
+This issue is appropriately within FERC’s province in the
+first instance.
+
+    In summary, FERC’s response to Lockyer, that refunds
+are unavailable because no seller exercised market power
+under the hub-and-spoke test, falls short. When we approved
+market-based ratemaking in Lockyer we repeatedly
+emphasized the importance of “the dual requirement of an ex
+ante finding of the absence of market power and sufficient
+post-approval reporting requirements.” Lockyer, 383 F.3d at
+
+
+ 4
+   We are aware of Respondents-Intervenors’ claim that Morgan Stanley
+Capital Group Inc. v. Public Utility District No. 1 of Snohomish County,
+554 U.S. 527 (2008), bars relief for reporting deficiencies in the context
+of bilateral CERS transactions. This merits argument is also most
+appropriately addressed by FERC in the first instance.
+              STATE OF CALIFORNIA V. FERC                  21
+
+1013. After FERC dismissed sellers’ widespread reporting
+deficiencies as a mere compliance issue, we granted the
+state’s petition for judicial review and remanded this case to
+correct the oversight. On remand, FERC structured the
+proceedings so as to again deny the intrinsic import of
+transaction reporting.
+
+    We therefore remand to the agency once again for
+adjudication of the complaint in a manner that respects the
+Lockyer mandate and the FPA. To remedy reporting
+violations, FERC must review the transaction reports to
+determine whether a just and reasonable price was charged by
+each seller, with specific attention to whether reporting
+deficiencies masked manipulation or accumulation of market
+power. If so, FERC may then elect to exercise its remedial
+discretion as appropriate. “The FPA cannot be construed to
+immunize those who overcharge and manipulate markets in
+violation of the FPA.” Id. at 1017.
+
+   PETITION GRANTED; REMANDED.
+

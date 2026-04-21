@@ -1,0 +1,815 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued March 6, 2023                   Decided May 16, 2023
+
+                        No. 22-1148
+
+GPA MIDSTREAM ASSOCIATION AND AMERICAN PETROLEUM
+                   INSTITUTE,
+                  PETITIONERS
+
+                              v.
+
+   UNITED STATES DEPARTMENT OF TRANSPORTATION AND
+       PIPELINE AND HAZARDOUS MATERIALS SAFETY
+                    ADMINISTRATION,
+                     RESPONDENTS
+
+
+           On Petition for Review of a Final Rule
+            of the Department of Transportation
+
+
+
+     Keith J. Coyle argued the cause for petitioners. With him
+on the briefs was Christina Manfredi McKinley.
+
+    Anna O. Mohan, Attorney, U.S. Department of Justice,
+argued the cause for respondent. With her on the brief were
+Brian M. Boynton, Principal Deputy Assistant Attorney
+General, Abby C. Wright, Attorney, Paul M. Geier, Assistant
+General Counsel, U.S. Department of Transportation, and
+Charles E. Enloe, Senior Trial Attorney.
+                               2
+    Before: CHILDS, Circuit Judge, and EDWARDS and
+GINSBURG, Senior Circuit Judges.
+
+    Opinion for the Court filed by Senior Circuit Judge
+GINSBURG.
+
+     GINSBURG, Senior Circuit Judge: The Pipeline and
+Hazardous Materials Safety Administration (PHMSA)
+prescribes safety standards for pipelines on behalf of the
+Secretary of Transportation. 49 U.S.C. § 60102(a)(2); 49
+C.F.R. § 1.97(a)(1). Two oil and gas associations, GPA
+Midstream and the American Petroleum Institute, petition for
+review of a safety standard requiring their members to install
+remote-controlled or automatic shut-off valves in some types
+of new or replaced gas and hazardous liquid pipelines. 87 Fed.
+Reg. 20,940 (2022). The petitioners challenge the standard as
+it applies to “gathering” pipelines used to collect raw gas or
+crude oil from a well. They argue the PHMSA unlawfully
+failed to disclose the economic basis for regulating gathering
+pipelines when it proposed the standard, and also failed to
+make a reasoned determination that regulating these pipelines
+was appropriate.
+
+     We agree. The PHMSA said nothing about the
+practicability or the costs and benefits of the standard for
+gathering pipelines until promulgating the final rule, even
+though the law required it to address those subjects when
+publishing the proposed rule for public comment and peer
+review. The PHMSA also ultimately failed to make a reasoned
+determination that the benefits of regulating gathering
+pipelines would exceed the costs, and that doing so would be
+practicable, as required by law. We therefore grant the petition
+for review.
+                              3
+                      I.   Background
+
+    We begin with some regulatory and factual background.
+
+A. Regulated Gathering Lines
+
+     In order to collect raw gas or crude oil from one or more
+wells, oil and gas companies rely upon so-called gathering
+pipelines, which pass mostly through rural areas. 49 C.F.R.
+§§ 192.3, 195.2. Oil and gas companies then rely upon a large
+network of transmission or “main” lines to transport gas, crude
+oil, and petroleum products long distances further down the
+supply chain, as illustrated by this graphic from the PHMSA.
+
+
+
+
+     The PHMSA regulates these pipelines under the
+Secretary’s longstanding authority to “prescribe minimum
+safety standards for pipeline transportation and for pipeline
+facilities.” 42 U.S.C. § 60102(a)(2). Although it has broad
+authority, the agency must follow detailed rulemaking
+procedures. As relevant here, a 1996 law provides the PHMSA
+must (1) “identify the costs and benefits associated with the
+proposed standard” in a risk assessment, and (2) submit this
+risk assessment to an advisory committee of experts for peer
+                               4
+review, and to the public for comment. Accountable Pipeline
+Safety and Partnership Act of 1996, § 4, Pub. L. 104-304, 110
+Stat. 3794, 3795, codified at 49 U.S.C. § 60102(b)(3)(B), (4).
+Ultimately, the PHMSA must regulate “only upon a reasoned
+determination that the benefits, including safety and
+environmental benefits, of the intended standard justify its
+costs.” 49 U.S.C. § 60102(b)(5).
+
+     Transmission pipelines have long been subject to federal
+safety standards. By contrast, for many years, gathering
+pipelines in rural areas were not subject to federal safety
+standards. In the 2000s, however, the PHMSA defined a new
+class of “regulated gathering line” subject to federal safety
+standards in rural areas. See 71 Fed. Reg. 13,289 (2006)
+(defining regulated gathering line for gas); 73 Fed. Reg. 31,634
+(2008) (defining regulated rural gathering line for hazardous
+liquids); see also 49 U.S.C. § 60101(b)(2)(A) (authorizing the
+PHMSA to define the term “regulated gathering line”). This
+definition depends upon the proximity of a pipeline segment to
+an area where a rupture may cause serious harm.
+
+     A gas pipeline carries methane, which is a safety hazard.
+When a cloud of methane ignites, the resulting fireball and heat
+can kill and burn anything nearby. Since 2006, the PHMSA,
+therefore, has regulated segments of gas gathering pipeline
+near more than ten buildings intended for human occupancy,
+where burning gas may take lives and destroy property. 49
+C.F.R. §§ 192.8(c)(1), 192.5(b)(2)–(4). The agency no longer
+treats rural and non-rural gas gathering pipelines differently.
+
+     Also in 2006, the PHMSA created two tiers of regulated
+gas gathering line—Types A and B—based upon “hoop
+stress,” that is, the force on the wall of a steel pipe as fluid
+                                  5
+pushes outward against it.* Hoop stress is an important physical
+variable. When hoop stress exceeds the stress specified by the
+manufacturer, the pipe may permanently expand like an
+overstretched rubber band, thus thinning out the wall, which
+may eventually burst. This important specification is known as
+the “specified minimum yield strength” (SMYS) of the pipe.
+Thomas O. Miesner & William L. Leffler, Oil and Gas
+Pipelines in Non-Technical Language 232 (2006). A Type A
+line operates at or above 20% of the SMYS of the pipe, while
+a Type B line operates at a lower stress. 49 C.F.R. § 192.8(c).
+The PHMSA determined the stress of a Type A line was
+“indicative of onshore gathering lines whose operating
+pressure presents a significant enough risk in certain
+circumstances to warrant the same amount of regulation as
+transmission lines,” with exceptions not here relevant. 71 Fed.
+Reg. at 13,296/3; see also 49 C.F.R. § 192.9(c) (“An operator
+of a Type A regulated onshore gathering line must comply with
+the requirements of this part applicable to transmission lines,
+except . . .”). By contrast, a low stress Type B line must meet
+fewer safety standards. 49 C.F.R. § 192.9(d).
+
+     Hazardous liquid gathering pipelines, which largely
+transport crude oil, may contaminate drinking water or natural
+resources. In 2008, the PHMSA therefore regulated rural
+gathering pipelines located within a quarter mile of a source of
+drinking water or of an important ecological resource (e.g., a
+wetland frequented by migratory birds or by an endangered
+species), as long as the pipeline falls within a certain diameter
+range and operates at or above 20% of the SMYS of the steel
+pipe. Id. § 195.11(a). A regulated rural gathering line must
+
+*
+  Office of Pipeline Safety, Interpretation Response PI-70-024
+(1970), https://perma.cc/GEW6-SQBQ. Hoop stress is determined
+by S = D × P / 2t, where S is hoop stress, D is diameter, P is internal
+operating pressure, and t is wall thickness. Id.
+                                6
+comply with many of the safety standards that apply to a
+transmission line carrying hazardous liquids. See id.
+§ 195.11(b); see also 73 Fed. Reg. at 31,640/3 (describing the
+overlapping rules). The PHMSA also continued regulating any
+gathering “pipeline located in a non-rural area.” 49 C.F.R.
+§ 195.1(a)(4)(i). As a result, regulated gathering lines and
+transmission lines are now generally subject to many of the
+same safety standards.
+
+B. The 2011 Act
+
+     In 2010, the rupture of a gas transmission pipeline
+destroyed a neighborhood in San Bruno, California. The
+ignition blast and fire resulting from the rupture killed eight and
+injured 51 persons, and destroyed or damaged more than 100
+homes. It took 95 minutes to stop the flow of gas from the
+rupture, as firefighters struggled to contain the flames.
+
+     The National Transportation Safety Board investigated
+and prepared a report. Pacific Gas and Electric Company
+Natural Gas Transmission Pipeline Rupture and Fire,
+NTSB/PAR-11/01 (2011), https://perma.cc/868M-ASNR. As
+relevant here, the Board found property damage could have
+been mitigated had two nearby valves been equipped with
+automatic or remote-controlled shut-off valves, which do not
+require dispatching a local mechanic to the site of the valve. Id.
+at 103–104, 125. The Board accordingly recommended that the
+PHMSA require automatic or remote-control shut-off valves in
+high-consequence areas and high-density locations. Id. at 129.
+
+     Within a few months, the Congress passed the Pipeline
+Safety, Regulatory Certainty, and Job Creation Act of 2011, § 4
+of which directs the PHMSA to require automatic or remote-
+controlled valves “if appropriate” in “transmission pipeline
+facilities”:
+                               7
+
+    Not later than 2 years after the date of enactment of this
+    subsection, and after considering the factors specified in
+    subsection (b)(2), the [PHMSA], if appropriate, shall
+    require by regulation the use of automatic or remote-
+    controlled shut-off valves, or equivalent technology,
+    where economically, technically, and operationally
+    feasible on transmission pipeline facilities constructed or
+    entirely replaced after the date on which the [PHMSA]
+    issues the final rule containing such requirement.
+
+49 U.S.C. § 60102(n)(1).
+
+C. The Proposed Rule
+
+    In 2020, the PHMSA published a notice of proposed
+rulemaking to implement § 4. The agency proposed requiring
+automatic or remote-controlled shut-off valves or an equivalent
+technology “on all newly constructed or entirely replaced
+natural gas transmission and hazardous liquid pipelines that
+have nominal diameters of 6 inches or greater.” 85 Fed. Reg.
+7162, 7164/1 (2020). As required by law, the PHMSA also
+prepared a risk assessment purporting to “identify the costs and
+benefits associated with the proposed standard.” 49 U.S.C.
+§ 60102(b)(3)(B). Notably, however, the notice of proposed
+rulemaking and risk assessment said nothing about the costs
+and benefits of applying the standard to gathering pipelines.
+
+     Pursuant to certain pre-existing rules, however, new or
+replaced regulated gathering lines would have been subject to
+the proposed standard unless expressly carved out by the rule.
+In their comments, the petitioners accordingly sought an
+exemption for gathering pipelines. Among other things, they
+argued the risk assessment lacked the cost-benefit data needed
+to justify applying the rule to gathering pipelines.
+                                8
+
+D. The Advisory Committee Recommendation
+
+     As required by law, the PHMSA also made the risk
+assessment available for public comment and for peer review
+by two federal advisory committees, one for gas pipelines and
+one for pipelines carrying hazardous liquids. 49 U.S.C.
+§§ 60102(b)(4)(A)–(B), 60115. Because the risk assessment
+said nothing about the costs and benefits of applying the safety
+standard to gathering pipelines in particular, however, the
+public committees had no economic data or analysis about
+gathering pipelines to review and analyze.
+
+     Nevertheless, when the PHMSA presented the proposal to
+the advisory committees, the agency revealed for the first time
+that it would be applying the standard to at least some regulated
+gathering lines. Members of the committees argued this was
+inappropriate because they had been given no analysis or data
+for gathering pipelines. Because of this gap, the committees
+recommended deferring the safety standard for gathering
+pipelines until a future rulemaking.
+
+E. The Final Rule
+
+     The PHMSA plowed ahead anyway. In the final rule, the
+PHMSA required automatic or remote-controlled shut-off
+valves in many new or replaced pipelines with a diameter of
+six or more inches, including Type A lines and regulated rural
+gathering lines that carry hazardous liquids across a body of
+water wider than 100 feet. 68 Fed. Reg. at 20,941/3, 20,949.
+
+     The PHMSA addressed some objections in the preamble
+to the final rule. Id. at 20,949. It pointed out that the proposed
+rule never said regulated gathering lines would be exempt—
+which is correct because the proposed rule said nothing at all
+                                9
+about gathering lines. Id. at 20,949/1. The PHMSA also said
+regulating Type A lines made sense because “ruptures on these
+pipelines will generally present a higher risk of public safety
+consequences, similar to gas transmission lines.” Id.
+
+     The risk assessment accompanying the final rule included
+some data about gathering pipelines. To identify the costs, the
+PHMSA estimated the number of new or replaced miles of
+pipeline that would be subject to the standard each year—
+including, for the first time, the number of miles of gathering
+pipelines. Still, when the PHMSA then estimated the number
+of valves needed, the annualized cost of the equipment, and
+other costs, it used no data for gathering pipelines; nor did it
+discuss the benefits of applying the standard to regulated
+gathering lines. It filled the gap by assuming the methodology
+and data for transmission pipelines were also valid for
+gathering lines.
+
+     The PHMSA said it was “not able to quantify the benefits,”
+because “a detailed projection of avoided incidents and avoided
+costs of those incidents is not available”; therefore, it discussed
+benefits in qualitative terms. The PHMSA claimed the standard
+could avoid “significant” property and environmental
+damages. To support this claim, the PHMSA relied upon a
+foundational technical study the agency commissioned from
+Oak Ridge National Laboratory, modeling the property and
+environmental damages that could be avoided by using
+automatic or remoted-controlled valves in specific scenarios.
+See Studies for the Requirements of Automatic and Remotely
+Controlled Shutoff Valves on Hazardous Liquids and Natural
+Gas Pipelines with Respect to Public and Environmental
+Safety, ORNL/TM-2012/411 (2012), https://perma.cc/QZP7-
+6FKX (Oak Ridge). The study, however, covered only
+transmission pipelines. Id. at 6 (“The results of this study apply
+to natural gas and hazardous liquid transmission lines.”).
+                                 10
+
+    Relying upon this final risk assessment, the PHMSA
+concluded, in the preamble to the final rule, that the
+“(unquantified) public safety, environmental, and equity
+benefits of the final rule . . . justify the costs of the final rule.”
+68 Fed. Reg. at 20,943/1.
+
+                           II. Analysis
+
+     We begin by considering whether the petition for review
+is timely. Finding it is, we proceed to the merits, applying the
+familiar standards of review in the Administrative Procedure
+Act (APA). 49 U.S.C. § 60119(a)(3). To the extent the
+petitioners argue the safety standard exceeds the PHMSA’s
+authority, we deny the petition. We agree, however, that the
+PHMSA prescribed the standard “without observance of
+procedure required by law.” 5 U.S.C. § 706(2)(D). We further
+agree that the PHMSA ultimately failed to show that regulating
+gathering pipelines would be “appropriate.” 49 U.S.C.
+§ 60102(b)(2)(B).
+
+A. The Petition for Review Is Timely
+
+     A petition for review of a safety standard must be filed
+“not later than 89 days after the regulation is prescribed.” 49
+U.S.C. § 60119(a)(1). A final rule is “prescribed” when it is
+“established authoritatively.” Nat. Res. Def. Council v. Nat’l
+Highway Traffic Safety Admin., 894 F.3d 95, 106 (2d Cir.
+2018) (brackets omitted) (quoting Black’s Law Dictionary
+(10th ed. 2014)). A legislative rule is established
+authoritatively when it is duly fixed and so becomes binding on
+the public, “even if it sets a future effective date.” Humane
+Soc’y v. Dep’t of Agric., 41 F.4th 564, 571 (D.C. Cir. 2022).
+                                 11
+     A final rule is not duly fixed at least until it is filed for
+public inspection with the Office of the Federal Register. See
+id. at 570. Until then, it may be withdrawn without explanation
+or notice and comment and is “not valid” and enforceable
+against the public at large. 44 U.S.C. § 1507; Humane Soc’y,
+41 F.4th at 575. Because a legislative rule that is unenforceable
+and may be withdrawn at will is not “duly fixed,” we hold a
+standard is not “prescribed” by the PHMSA at least until the
+agency files the final rule for public inspection. Cf. James
+Madison, The Federalist, No. 62, at 381 (Clinton Rossiter ed.,
+1961) (“Law is defined to be a rule of action; but how can that
+be a rule, which is little known, and less fixed?”).
+
+     That was done on April 7, 2022. The petitioners filed their
+petition on July 1, 2022, 85 days later. The petition is therefore
+timely. Because the petition is timely, we have no occasion to
+decide whether the filing clock started running only after the
+rule was first published in the Federal Register, as the
+petitioners argue, citing Natural Resources Defense Council,
+894 F.3d at 106 (“[A] regulation is not ‘prescribed’ until it has
+legal effect, and it does not have legal effect until it is published
+in the Federal Register.”). Nor have we occasion to decide
+whether the 89-day deadline is jurisdictional.
+
+B. The PHMSA Did Not Exceed Its Legal Authority
+
+     In their briefs, the petitioners argued § 4 of the 2011 Act,
+49 U.S.C. § 60102(n)(1), strips the PHMSA of power to require
+automatic or remote-controlled shut-off valves in gathering
+pipelines under its general rulemaking authority. Id.
+§ 60102(a)(2). During oral argument, however, counsel for
+petitioners conceded the PHMSA retains this power. Any
+argument to the contrary is, therefore, waived.
+                               12
+     The petitioners now press a narrower argument. They
+claim the PHMSA needed to find automatic or remote-
+controlled shut-off valves “appropriate” for new transmission
+pipelines pursuant to § 4 before it could require them for
+gathering pipelines. Now that the PHMSA has made that
+finding under § 4, however, the petitioners concede the agency
+may “use [its] general rulemaking authority tomorrow to go out
+and do a rule” for gathering pipelines. In other words, they
+argue that § 4 creates only a condition precedent, not a ban.
+
+     Section 4 creates neither a condition precedent nor a ban.
+As the petitioners themselves explain at length in their opening
+brief, § 4 does not apply to gathering pipelines. Section 4 by its
+plain terms applies only to “transmission pipeline facilities.”
+We do not understand how § 4 could plausibly be read to create
+a condition precedent for a different type of pipeline facility.
+Nor do we see any reason to think the condition precedent, if
+there were one, would have to be met through a separate
+rulemaking. More to the point, we have no discretion to order
+a separate rulemaking unless a statute clearly ordains a
+particular sequence of procedures. See Perez v. Mortg. Bankers
+Ass’n, 575 U.S. 92, 102 (2015) (“Agencies are free to grant
+additional procedural rights in the exercise of their discretion,
+but reviewing courts are generally not free to impose them if
+the agencies have not chosen to grant them.” (quoting Vt.
+Yankee Nuclear Power Corp. v. Nat. Res. Def. Council, Inc.,
+435 U.S. 519, 524 (1978))).
+
+C. The PHMSA Failed To Observe the Rulemaking
+   Procedures
+
+     Although the PHMSA had the power to regulate, the
+agency had to follow the hybrid rulemaking procedures laid out
+in the APA, 5 U.S.C. § 553(c), and the pipeline safety laws. 49
+U.S.C. § 60102(b)(3)–(4). The petitioners argue the PHMSA
+                                13
+did not follow those procedures because the risk assessment
+made available for peer review and public comment said
+nothing about regulating gathering pipelines.
+
+     Indeed, the notice of proposed rulemaking and
+accompanying risk assessment were all about transmission
+lines. They contained no data, analysis, or conjecture about the
+costs and benefits of applying the proposed safety standard to
+gathering facilities. The study by Oak Ridge, upon which the
+agency relied to show the feasibility and benefits of the safety
+standard, also addresses only transmission pipelines. The
+proposed rule did not even make a finding that the standard
+would be “appropriate” for gathering pipelines. Gathering
+pipelines, it seems, were a mere afterthought when they
+surfaced during the advisory committees’ deliberation.
+
+     Both the pipeline safety laws and the APA require more.
+Under the former, the PHMSA must consider “the
+appropriateness of the standard for the particular type of
+pipeline     transportation      or    facility.”     49    U.S.C.
+§ 60102(b)(2)(B). To be appropriate for a particular type of
+pipeline facility, the standard must be “practicable,” and the
+benefits must justify the costs. Id. § 60102(b)(1)(A), (5); cf.
+Michigan v. EPA, 576 U.S. 743, 752 (2015) (“No regulation is
+‘appropriate’ if it does significantly more harm than good.”).
+The PHMSA, therefore, had to explain why the safety standard
+is practicable and makes sense for regulated gathering lines, but
+it made no effort to do so until issuing the final rule, when there
+could be no peer review or public comment.
+
+     That was a serious error. We have long held that, in order
+to provide the public with a meaningful chance of participating
+in the rulemaking process, as required by the APA, see 5 U.S.C.
+§ 553(c), an agency must disclose critical information
+justifying the proposal in time for public comment. See Owner-
+                               14
+Operator Indep. Drivers Ass’n, Inc. v. Fed. Motor Carrier
+Safety Admin., 494 F.3d 188, 199 (D.C. Cir. 2007) (citing
+cases). The procedures required by the pipeline safety laws are
+more specific and still more demanding. As noted above, the
+PHMSA must submit for peer review and make available for
+public comment a risk assessment identifying “the costs and
+benefits associated with the proposed standard.” 49 U.S.C.
+§ 60102(b)(3)(B), (4)(A). It must also “identify technical data
+or other information upon which the risk assessment
+information and proposed standard is based.” Id.
+§ 60102(b)(3)(D). In sum, the risk assessment made available
+for comment and peer review had to contain the technical and
+cost-benefit information critically needed to justify the safety
+standard for each type of pipeline transportation and facility.
+The risk assessment did not comply with this requirement
+because it said nothing about the practicability or the costs and
+benefits of regulating the gathering sector of the pipeline
+industry.
+
+     The PHMSA tries to make something out of nothing, but
+that is an impossible task. Cf. Kooritzky v. Reich, 17 F.3d 1509,
+1513 (D.C. Cir. 1994) (“Something is not a logical outgrowth
+of nothing.”).
+
+     The agency first argues the analysis for transmission
+pipelines was good enough. The petitioners do not dispute this.
+The agency then points out the methodology and data for
+transmission pipelines were exposed to comment and
+refutation. Again, no dispute. Because it later used the same
+methodology and data to calculate the costs for gathering
+pipelines, the PHMSA argues, in essence, that the final risk
+assessment merely “expands on and confirms data in the
+rulemaking record,” which is permitted under our precedent.
+Competitive Enter. Inst. v. Dep’t of Transp., 863 F.3d 911, 920
+                               15
+(D.C. Cir. 2017); see also Chamber of Commerce v. SEC, 443
+F.3d 890, 900 (D.C. Cir. 2006).
+
+     That is not an accurate account of the final rule. For one,
+the PHMSA’s estimate of the number of miles of gathering line
+subject to the safety standard “was entirely new.” Owner-
+Operator Indep. Drivers Ass’n, 494 F.3d at 201. That datum is
+critical, as it determines the number of valves needed to comply
+and hence the cost. More important still, the PHMSA had never
+before exposed its methodological assumption that the analysis
+and data regarding transmission lines would be equally
+applicable to gathering lines. This was not a “minor
+modification used to check or confirm prior analysis.” Id. If the
+PHSMSA thought the information for transmission pipelines
+was valid for gathering lines, then it should have said so in time
+for peer review and public comment. By remaining silent about
+this critical assumption until the final risk assessment, the
+PHMSA sandbagged the advisory committees and the public,
+sidestepping the process of public deliberation required by law.
+
+     The PHMSA argues the final rule came as no surprise
+because transmission and regulated gathering lines are treated
+alike by default under preexisting rules. That is beside the
+point. The petitioners do not dispute the rule was a logical
+outgrowth of the proposal; they cheerfully concede they knew
+regulated gathering lines would be regulated unless carved out.
+Their gripe is with the agency’s failure to do an adequate risk
+assessment in time for peer review and public comment. The
+agency may not avoid these “troublesome rulemaking
+procedures . . . simply by announcing its independence in a
+general rule.” United States v. Picciotto, 875 F.2d 345, 347
+(D.C. Cir. 1989).
+
+     The PHMSA argues it satisfied the requirements, at least
+for Type A pipelines, because of its longstanding judgment that
+                               16
+Type A lines present “a significant enough risk in certain
+circumstances to warrant the same amount of regulation as
+transmission lines.” 71 Fed. Reg. at 13,296/3. The petitioners
+do not quibble with this general proposition about a similarity
+in risk, and it may have support in the record. Operating at 20%
+of the SMYS may increase the risk of a rupture. See, e.g., 87
+Fed. Reg. at 20,960/2 (“PHMSA is aware of data that would
+indicate that pipelines operating at pressures lower than 20
+percent of SMYS are at less risk of rupturing.”). Hoop stress is
+also related to internal pressure and diameter, which increase
+the rate of gas flow and thus the magnitude of the expected
+harm of a rupture. See Oak Ridge at 8, 11. If a finding that a
+Type A line presents a risk comparable to that of a transmission
+line were enough, then perhaps the PHMSA would be in the
+clear.
+
+     A similarity in risk, operating pressures, or diameters,
+however, does not mean the safety standard is practicable or
+has similar benefits and costs when applied to a different sector
+of the pipeline industry. For example, according to the
+PHMSA’s risk assessment, the cost of the equipment needed to
+comply with the final rule doubles when a pipeline operator
+must upgrade from a manual valve rather than from a valve
+already equipped with an “automating actuator” (a motor or
+equivalent device, which still requires adding a
+communications system to operate a valve remotely or
+automatically). If gathering operators use actuators at a lower
+rate than do transmission operators, then they would face
+greater costs per mile to upgrade their equipment in order to
+comply with the standard, regardless of similarity in risk,
+operating pressure, or diameter.
+
+    Finally, the PHMSA argues it actually did say something
+about gathering pipelines in its proposal. Here the PHMSA
+points to a Leak Detection Study, which it cited in the preamble
+                               17
+to the proposal, that discusses past accidents in both
+transmission and gathering pipelines. The study expressly says,
+however, it “does not address th[e] issue of shut-off valves.”
+David Shaw et al., Leak Detection Study 2-2 (Dec. 2012),
+https://perma.cc/SNG6-6GAQ; see also 87 Fed. Reg. at
+20,945/2–3 (summarizing the report). A report that does not
+address the relevant safety technology is not a starting point for
+a risk assessment of the proposed standard.
+
+     We conclude that, although the PHMSA was required by
+law to identify the costs and benefits of requiring automatic or
+remote-controlled shut-off valves for gathering pipelines in a
+risk assessment of the proposed rule, it did not even attempt to
+do so. By remaining mum, the PHMSA flouted the pipeline
+safety laws and a cardinal rule of administrative law.
+
+D. The PHMSA’s Procedural Error Is Prejudicial
+
+     The petitioners have shown the PHMSA erred, but they
+also must show the error is prejudicial to them, as we do not
+right wrongs that make no difference. 5 U.S.C. § 706. To show
+prejudice, the petitioners must raise a credible argument about
+the merits of the rule. Owner-Operator Indep. Drivers Ass’n,
+Inc., 494 F.3d at 202. They need not show the agency, had it
+adhered to the procedural requirements of the law, “would have
+reached a different result.” Chamber of Commerce, 443 F.3d at
+905. They need only show they “had something useful to say.”
+Id.
+
+     We are convinced the petitioners do have something useful
+to say to the PHMSA, and that they raise a credible argument
+on the merits. Indeed, as we explain next, the petitioners have
+shown the final rule was arbitrary and capricious, so they
+necessarily have satisfied their burden of proof. See Owner-
+Operator Indep. Drivers Ass’n, Inc., 494 F.3d at 202–03
+                               18
+(finding the procedural error prejudicial because the petitioners
+also showed the agency did not reasonably explain the analysis
+in the final rule).
+
+E. The PHMSA            Failed      To   Make    a    Reasoned
+   Determination
+
+     Apart from following the statutory procedures, the
+PHMSA was ultimately required to show regulating gathering
+pipelines would be “appropriate.” 49 U.S.C. § 60102(b)(2)(B).
+To do so reasonably, it had to consider the relevant factors and
+explain why regulating gathering pipelines would be
+practicable, and show that the benefits would justify the costs.
+It did not do so.
+
+     The PHMSA claims it satisfied its statutory duty by
+asserting in a footnote of the final risk assessment that
+regulated gathering lines are similar to transmission lines “in
+terms of design and operating characteristics, and risks to
+public safety and the environment,” and therefore “similar
+behavior by operators is expected.” It argues we must defer to
+this “general analysis based on informed conjecture.” Chamber
+of Commerce v. SEC, 412 F.3d 133, 142 (D.C. Cir. 2005).
+Because we conclude the PHMSA’s conjecture was not
+“informed,” we do not defer to it.
+
+     At best, the record shows regulated gathering lines and
+transmission pipelines pose a comparable risk. As we have
+already explained, however, this does not mean gathering
+pipelines are similar in all important respects. Indeed, the
+petitioners point out the PHMSA failed to consider how
+gathering pipelines are different from transmission pipelines in
+a number of other respects. For example, they submit
+declarations with their opening brief stating that regulated
+segments of gathering line are typically short and regulated
+                               19
+only intermittently, which they argue will make compliance far
+more difficult and expensive than the PHMSA recognized. The
+PHMSA never considered this aspect of the problem during the
+rulemaking and never disputed the merits of this argument in
+its brief, so we assume it is true. During oral argument, counsel
+for the PHMSA did say the agency could take these difficulties
+into account later because the rule authorizes site-specific
+exemptions when an operator shows compliance is not feasible.
+See 49 C.F.R. §§ 192.179(g); 195.258(e). Because this
+argument would impermissibly shift the burden of proof to the
+petitioners and other operators, we must reject it.
+
+     The operators point to several other differences between
+gathering and transmission lines. They tell us, for example, that
+transmission pipelines are run from “evolved control rooms”
+that complement automatic or remote-controlled shut-off
+valves, whereas the gathering sector is made up of smaller
+players that rely more upon on-site personnel. They also tell us
+gas transmission operators behave differently because they are
+price-regulated public utilities, while the gas gathering sector
+relies upon market prices to recover costs. Although we cannot
+fully evaluate the importance of these asserted differences
+precisely because the agency failed to develop an adequate
+administrative record in time for comment, they surely seem
+relevant to the agency’s decision making, and at a minimum
+show the agency’s procedural error was prejudicial.
+
+     The PHMSA concedes there may be a difference in cost.
+In particular, it concedes gathering operators may install
+automatic or remote-controlled shut-off valves at lower rates,
+or not at all. By contrast, many transmission operators already
+install compliant valves, and their high baseline rate of
+compliance means they will incur little additional cost for
+equipment. A lower baseline rate of compliance for gathering
+pipelines, therefore, “could in turn increase compliance costs
+                               20
+for those lines,” as the PHMSA conceded in a footnote to its
+final risk assessment. This would seem a relevant factor as
+well. The PHMSA nonetheless downplayed its significance on
+the ground that few gathering pipelines will be subject to the
+rule, so the increase in the total cost of the final rule will be
+small and, if the baseline rate of compliance is lower for
+gathering lines, then “the benefits of the rulemaking would be
+higher.”
+
+     We are not reassured. The relevant question under the law
+is whether the benefits of regulating gathering lines justify the
+costs, and that question cannot be answered by comparing costs
+against costs. As to the “higher” benefits, we would perhaps
+find this assertion more persuasive had the agency made the
+requisite “thorough” assessment of the benefits it claims to
+have made. Far from finding the assessment “thorough,”
+however, we find it inadequate, and conclude the agency failed
+to make a “reasoned determination that the benefits, including
+safety and environmental benefits, of the intended standard
+justify its costs.” 49 U.S.C. § 60102(b)(5).
+
+     The risk assessment does not quantify any of the benefits
+of the standard. This is troubling enough, as a reasoned
+decision would explain why any unquantified benefits cannot
+reasonably be quantified. Id. § 60102(b)(2)(D), (b)(5); see also
+Bus. Roundtable v. SEC, 647 F.3d 1144, 1149 (D.C. Cir. 2011)
+(agency “failed adequately to quantify the certain costs or to
+explain why those costs could not be quantified”). Quantifying
+benefits always requires making projections, so it is no answer
+to say “a detailed projection of avoided incidents and avoided
+costs is not available.” The agency even conceded “it could be
+possible [to] estimate the benefit of this rule for hazardous
+pipelines,” and still, it did not do so. Without quantified
+benefits to compare against costs, it is not apparent just how
+                               21
+the agency went about weighing the benefits against the costs.
+49 U.S.C. § 60102(b)(5).
+
+     Even the qualitative discussion of the benefits does not say
+anything about gathering pipelines. The risk assessment relies
+upon estimates of avoided damages modeled in the Oak Ridge
+study but, as mentioned above, that study by its terms does not
+cover gathering pipelines. The PHMSA now argues the same
+results and hypothetical pipeline configuration would be
+representative for gathering pipelines of a similar pressure and
+diameter, but that is not obvious; the study relies upon a
+“hypothetical” pipeline configuration where, among other
+things, “pump stations are located at 100 mile intervals along
+the pipeline.” Oak Ridge at 34, 150. That may be typical of
+long-distance transmission pipelines, but it would seem highly
+unusual among gathering pipelines. Be that as it may, the
+agency did not make this point in the administrative record so
+for us to consider it would “contradict[] the foundational
+principle of administrative law that a court may uphold agency
+action only on the grounds that the agency invoked when it
+took the action.” Michigan, 576 U.S. at 758 (citing SEC v.
+Chenery Corp., 318 U.S. 80, 87 (1943)).
+
+     Because the PHMSA invites us to rely upon the estimates
+of avoided damages in the Oak Ridge study, we note two
+additional problems lest the agency overlook them in any
+further rulemaking applying the safety standard to gathering
+lines.
+
+     First, the avoided damages touted by the agency ignore the
+probability of a rupture. Oak Ridge modeled avoided damages
+“based on the premise that the releases occur (100% failure
+likelihood),” and, to boot, assuming the worst type of rupture—
+a “guillotine” break that slices a pipeline, exposing the entire
+diameter of the pipe. Oak Ridge at 34, 150. As Oak Ridge
+                                22
+carefully noted, however, the benefit of the technology is also
+“a function” of the “probability of failure,” and the probability
+of a rupture, let alone the worst type of rupture, “is low.” Id. at
+33. In order to identify the expected benefits of avoiding a
+rupture, a rational analysis would have to consider the
+probability of a rupture, not just the magnitude of the harm
+avoided. Cf. Cass Sunstein, Worst-Case Scenarios 2 (2007)
+(“People who are sensible, or even sane, do not treat a 1 percent
+risk of loss the same as a certainty of a loss.”). The agency
+keeps detailed data on the frequency of pipeline accidents, so
+the limitations of the Oak Ridge study do not excuse the
+agency’s failure to consider the low probability of a rupture
+when reporting avoided costs.
+
+     Second, and more important still, the study does not help
+justify the standard for gas gathering pipelines. Far from it.
+According to Oak Ridge, the cost-benefit ratio for automatic or
+remote-controlled shut-off valves on gas pipelines is generally
+“negative” because most of the severe damage from a gas fire
+happens “before valve closure can isolate the damaged pipeline
+and begin limiting the amount of natural gas that escapes and
+burns.” Oak Ridge at 181. Even assuming the worst type of
+rupture occurs with certainty, id. at 34, Oak Ridge found no net
+safety benefit in any scenarios it modeled for a gas pipeline
+(even for a high-pressure, large-diameter gas transmission
+pipeline located in a densely populated area) unless the valves
+close within “10 minutes or less after the break.” Id. at 184.
+
+     The final rule gives operators 30 minutes to close the
+valves “measured from an operator’s identification of a rupture
+after notification of a potential rupture,” which may be well
+after the rupture occurred. 68 Fed. Reg. at 20,941/3, codified at
+49 C.F.R. § 192.636(b). As the PHMSA itself observed,
+“potential property damages are likely to be largely complete
+before the 30-minute limit.” The PHMSA says it expects
+                               23
+operators will overcomply, but it does not explain why or by
+how much, or whether they will usually be able to shut off
+valves within 10 minutes after a break. Therefore, even if the
+results of the Oak Ridge study applied to gathering pipelines,
+the agency fails adequately to explain why the study supports
+the agency’s position on the merits.
+
+    Considering asserted differences between transmission
+and gathering pipelines with respect to their operations and the
+cost of compliance; the PHMSA’s failure to quantify any
+benefits; its weak qualitative analysis; and the record as a
+whole, we conclude the agency has not reasonably explained
+why the rule is appropriate for gathering pipelines.
+
+F. The Remedy Is a Limited Vacatur
+
+     That leaves the question of remedy. The petitioners argue
+for vacatur of the rule only as it applies to gathering pipelines.
+The PHMSA agrees with the proposed remedy, asking us,
+should we find a prejudicial error, to “sever the portion of the
+rule applicable to transmission lines and vacate the rule only as
+applied to gathering lines.” Although the text of the final rule
+is not divisible in this way, we may “invalidate only some
+applications even of indivisible text.” Nat. Res. Def. Council v.
+Wheeler, 955 F.3d 68, 81 (D.C. Cir. 2020). We therefore vacate
+the rule in its entirety as it applies to gathering pipeline
+facilities.
+
+                        III. Conclusion
+
+    As the Supreme Court has said, “the Government should
+turn square corners in dealing with the people.” Dep’t of
+Homeland Sec. v. Regents of the Univ. of Cal., 140 S. Ct. 1891,
+1909 (2020). The PHMSA did not turn square corners here. It
+cut corners to the prejudice of the petitioners, the
+                               24
+administrative process, and thus the public. We therefore grant
+the petition for review and vacate the final rule as it applies to
+gathering pipeline facilities.
+                                                     So ordered.
+

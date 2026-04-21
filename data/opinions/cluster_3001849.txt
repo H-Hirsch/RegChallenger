@@ -1,0 +1,431 @@
+                          In the
+ United States Court of Appeals
+              For the Seventh Circuit
+                       ____________
+
+No. 07-3042
+JPMORGAN CHASE & CO.
+(Successor in interest to Bank One
+Corporation, Successor in interest to
+First Chicago NBD Corporation,
+Formerly NBD Bankcorp, Inc.,
+Successor in interest to First Chicago
+Corporation) and Affiliated
+Corporations,
+                                          Petitioner-Appellant,
+                              v.
+
+
+COMMISSIONER OF INTERNAL REVENUE,
+                                          Respondent-Appellee.
+                       ____________
+            Appeal from the United States Tax Court.
+           Nos. 5759-95 & 5956-97—David Laro, Judge.
+                       ____________
+        ARGUED MAY 29, 2008—DECIDED JULY 1, 2008
+                       ____________
+
+
+  Before FLAUM, MANION, and EVANS, Circuit Judges.
+  FLAUM, Circuit Judge. This case concerns the taxation of
+JPMorgan’s income from swap transactions. JPMorgan
+tried to carve out and defer a part of this income for cer-
+2                                               No. 07-3042
+
+tain costs and expenses associated with the swaps. The
+Commissioner of the Internal Revenue Service (“Com-
+missioner”), and ultimately the Tax Court, concluded
+that these income deferrals were not proper, and that
+JPMorgan’s valuation methodology did not clearly re-
+flect income. JPMorgan then appealed the Tax Court’s
+decision to this Court, and we remanded the case so that
+the Tax Court could apply a more deferential standard of
+review to the Commissioner’s valuation methodology.
+After the proceedings below were again decided in the
+Commissioner’s favor, JPMorgan now appeals here for a
+second time. On this appeal, JPMorgan does not contest
+the income deferral and valuation issues—it only dis-
+putes certain computations regarding the amounts of
+these carve-outs. Because we find no error in the Tax
+Court’s acceptance of the Commissioner’s computations,
+we affirm.
+
+
+                      I. Background1
+  JPMorgan Chase & Company (“JPMorgan”)2 is one of the
+largest dealers of a set of contracts known as “swaps.”
+While the mechanics are not especially relevant in this case,
+these are essentially contracts between two parties de-
+signed to serve as protection against fluctuations embed-
+
+
+1
+  As this is the second time this case has come before this
+Court, and because we are addressing a fairly narrow issue,
+we will briefly restate only the relevant facts. For a more
+fulsome account of the background, see JP Morgan Chase &
+Co. v. Commissioner, 458 F.3d 564 (7th Cir. 2006).
+2
+   JPMorgan brought this suit as successor and on behalf of
+its affiliated corporation, First National Bank of Chicago.
+No. 07-3042                                                    3
+
+ded in an investment. These fluctuations can come from a
+number of sources, such as interest rates, commodities,
+or currencies. The two parties to a swap contract agree to
+exchange payments at specified intervals. The value
+inherent in a swap is a function of the difference between
+the amount of money that one party takes in from and
+gives out to the other party (i.e., the “counterparty”). To
+clarify, in the context of an interest rate swap, the magni-
+tude of payments in both directions is determined by
+multiplying the relevant interest rate by some constant
+referred to as the “notional amount.”3 Usually, one party
+multiplies this notional amount by a fixed interest rate,
+and the other party multiplies this amount by a floating
+interest rate (e.g., the London Interbank Offered Rate).
+These payments are then exchanged, or swapped, periodi-
+cally. If the floating rate is, for instance, below the fixed
+rate, the party paying out the floating rate takes in
+money, and the other party loses money on the swap.
+  In 1993, JPMorgan had at least 100 billion dollars worth
+of swaps on its books. Valuing these instruments even
+independent of this vast quantity can be difficult.4 Even
+so, JPMorgan had to do so on an annual basis in order to
+
+
+3
+  What this amount actually is does not directly matter, be-
+cause it does not actually get paid out. It is a constant that is
+usually tethered to the amount at stake in the underlying
+investment that the investor is trying to hedge.
+4
+  JPMorgan was on both the “fixed” and “floating” side of many
+of these transactions. The average of the difference between the
+rate it paid out and the rate it was paid, or the bid-ask spread,
+in regards to a particular swap was projected out for the term
+of the swap to arrive at a “midmarket value.” This is the
+value that JPMorgan used to value its swaps.
+4                                              No. 07-3042
+
+report income accurately and pay taxes. At first, JPMorgan
+deferred a portion of this income for (1) administrative
+costs associated with handling the swaps, and (2) risk
+associated with counterparties who may default on their
+obligations. It is the latter portion of these deferrals—the
+credit risk—that is at issue in this appeal. Specifically,
+JPMorgan used two different methods to calculate the
+annual income deferrals associated with credit risk. The
+amount that it deferred was then “amortized,” or put
+back, into income in some future year. The deferrals,
+known as “swap fee carve-outs,” were designed to prevent
+the full valuation of a swap from being recognized up
+front.
+   In the Commissioner’s view, JPMorgan’s deferral ac-
+counting method did not clearly reflect income. Accord-
+ingly, JPMorgan received notices of deficiency from the
+Internal Revenue Service (“IRS”) that, in essence, re-
+quired it to add back the deferrals taken for administra-
+tive and credit risk costs into income for each relevant
+year. The amounts ranged from about $3.5 to $5.8 million
+each year, from 1990 through 1993. After receiving its
+first notice of deficiency, JPMorgan filed suit in the Tax
+Court arguing that its method of deferral accounting
+(which deferred income to match related expenses) was
+an accurate way to reflect income. While the case was
+being argued in that court, JPMorgan turned about-face
+and conceded that the deferral method was actually not
+allowed under these circumstances.
+  The Tax Court then issued its ruling and concluded
+that neither party’s method for calculating income was
+appropriate. Understanding these various methods for
+valuing swaps is not specifically relevant to the issue in
+this appeal, but we mention and summarize them for
+No. 07-3042                                                    5
+
+completeness. Overall, the Tax Court agreed with the
+Commissioner that JPMorgan could not defer swap-
+related income associated with administrative costs and
+credit risk. But it also determined that these amounts
+should not be fully added back into income for the years
+1990 through 1993. Instead, it advocated an “adjusted
+midmarket valuation” which would essentially allow
+for no deferrals and exclude the income associated with
+administrative costs and credit risk. The Commissioner
+agreed with this methodology in theory, but believed
+that JPMorgan’s method for calculating administrative
+cost and credit risk deferrals was flawed. From the Com-
+missioner’s perspective, JPMorgan’s poor recordkeeping
+made it difficult to ascertain the extent to which the
+midmarket value should be adjusted for credit risk-
+related expenses.
+  Regardless, the Tax Court then ordered the parties to
+compute JPMorgan’s deficiency given this new valua-
+tion methodology pursuant to Tax Court Rule 155.5
+JPMorgan and the Commissioner came to an agreement
+regarding administrative costs for each year and for
+credit risk in 1993, but they could not reach an agree-
+ment on the amount of credit risk deferrals taken from
+1990 to 1992. The Commissioner calculated this amount
+
+
+
+5
+  Tax Court Rule 155(a) provides that after the court files its
+opinion “determining the issues in a case, it may withhold entry
+of its decision for the purpose of permitting the parties to sub-
+mit computations pursuant to the court’s determination of the
+issues, showing the correct amount of the deficiency . . . to be
+entered as the decision.” The parties are allowed to provide
+separate computations where they do not agree on the com-
+putations.
+6                                               No. 07-3042
+
+to be approximately $14.4 million total from 1990 to 1993.
+It relied primarily on the notices of deficiency for arriving
+at this value because, in its view, JPMorgan did not keep
+the statutorily mandated records that would be needed
+to arrive at a more precise estimate. In contrast, JPMorgan
+capped this amount at approximately $3.6 million total
+over the 1990-1993 period, and relied on a disputed
+summary chart (prepared for this litigation) to arrive at
+this result. The Tax Court was not pleased with either
+result, and ordered both parties to submit supplemental
+computations. Nothing new surfaced in these additional
+proceedings. The Tax Court then entered its decision in
+favor of the Commissioner’s computations.
+  JPMorgan then appealed the decision to this court
+and challenged both the Tax Court’s valuation methodol-
+ogy and the Rule 155 computations. We did not reach
+the substance of this issue because we remanded back to
+the Tax Court on the grounds that it should apply a
+deferential standard of review to the Commissioner’s
+method of accounting for the swap valuations. In that
+decision, we concluded that deference to the Commis-
+sioner’s method was due “particularly . . . given the
+peculiar record and circumstances of this case,” in-
+cluding “taxpayer’s failure to keep or provide records.” JP
+Morgan, 458 F.3d at 571. At the same time, however,
+we expressed “concern about the perfunctory adoption
+of the Commissioner’s computations” and requested
+“[g]reater explanation” regarding the computations. Id.
+at 572.
+  On remand, the Tax Court did provide a more robust
+account of why it agreed with the Commissioner’s compu-
+tations. It found that JPMorgan had failed to demonstrate
+that the cumulative effect of removing its improper
+credit risk deferrals was capped at $3.6 million for the
+No. 07-3042                                                     7
+
+years at issue, rather than the $14.4 million advocated by
+the Commissioner and reflected in its previous decisions.
+The Tax Court chose this route6 because JPMorgan’s
+computations were not supported by the record and
+violated the principle of annual accounting (i.e., it only
+gave a total amount for the three years, as opposed to a
+year-by-year breakdown). It also refused to adopt the
+numbers contained in JPMorgan’s summary chart, Ex-
+hibit 149-P. JPMorgan then filed a motion to vacate and
+both parties reiterated the same arguments made above.
+The Tax Court denied this motion for similar reasons: there
+was no credible evidence of the credit risk deferrals. Given
+the deficiencies in the record, the Tax Court did not
+know whether the actual amount of JPMorgan’s credit
+risk deferrals was the amount computed by the Com-
+missioner, the amount computed by JPMorgan, or wheth-
+er the actual amount was closer to one or the other. In
+sum, the Tax Court found that it did not want to “reward[ ]
+[taxpayer] and its successors for their lack of recordkeeping
+or, in other words, allow[ ] [taxpayer] to escape taxation.”
+
+
+                        II. Discussion
+  In this second appeal, JPMorgan does not challenge the
+Tax Court’s valuation methodology; it only disputes its
+
+
+6
+  There was a three-step procedure involved here: (1) an
+adjustment to reverse the annual decreases to swap income
+from the initial credit risk deferrals in each year for 1990-1993;
+(2) an adjustment pursuant to I.R.C. § 481 to correct for the
+previously omitted income in prior years (i.e., in pre-1990 years)
+and return those previously claimed deferrals to income; and
+(3) an adjustment to reverse the amortization into income of
+the disallowed deferrals.
+8                                               No. 07-3042
+
+acceptance of the Commissioner’s Rule 155 computations.
+We review the Tax Court’s adoption of computations
+submitted by one or the other of the parties pursuant to
+Tax Court Rule 155 for an abuse of discretion. Chimblo v.
+Commissioner, 177 F.3d 119, 127 (2d Cir. 1999). Rule 155
+proceedings are limited to purely computational items
+that must, by the terms of the rule, be consistent with the
+findings and conclusions of the Tax Court’s opinion. Tax
+Ct. R. 155(b). If the parties disagree as to the amount to be
+entered as the decision, then each party may file with
+the Tax Court a separate computation that it believes is
+in accord with the court’s findings and conclusions. The
+Tax Court will then enter its decision. Id.
+  Crucially, the “starting point for the [Rule 155] computa-
+tion is the statutory notice of deficiency from which the
+parties compute the redetermined deficiency based upon
+matters agreed by the parties or ruled upon by the Court.”
+Home Group, Inc. v. Commissioner, 91 T.C. 265, 269 (1988),
+aff’d 875 F.2d 377 (2d Cir. 1989). As a general matter, the
+Commissioner’s deficiency determinations are “presump-
+tively correct,” and “the taxpayer has the burden of
+proving otherwise.” Zuhone v. Commissioner, 883 F.2d
+1317, 1323 (7th Cir. 1989). Additionally, taxpayers are
+required to keep adequate records from which their
+correct tax liability may be determined. See I.R.C. § 6001;
+Treas. Reg. § 1.6001-1 (26 C.F.R.). Indeed, in the
+previous incarnation of this case, we noted that “the tax
+court should bear in mind that the taxpayer retains the
+burden of proof, and any inadequacies with the Commis-
+sioner’s method that are due to taxpayer’s failure to keep
+or provide records . . . may be taken into account.” JP
+Morgan, 458 F.3d at 571.
+  Here, the Tax Court found (as both parties had stipu-
+lated) that JPMorgan had deferred $981,995 of swap in-
+No. 07-3042                                               9
+
+come for credit risk in 1993, but it did not make
+specific findings for 1990-1992. The Commissioner
+argues that JPMorgan failed to substantiate the amounts
+of its credit risk deferrals and amortization for 1990-1992
+and that, for those years, the amounts contained in the
+notices of deficiency should be used because the taxpayer
+bears the burden of proving error in the deficiency
+notices. JPMorgan argued that the notices of deficiency
+were arbitrary and excessive. The Tax Court held to the
+contrary and found that (1) the notices of deficiency
+were not arbitrary or excessive; (2) the taxpayer bore the
+burden of disproving the deferral amounts set out in the
+notices; (3) the only credit risk deferral amount that
+JPMorgan established was that for 1993; and (4) the only
+credit risk amortization JPMorgan established was the
+stipulated amount of credit risk deferrals amortized in
+1993. To get at credit risk for 1990-1992, the Commissioner
+took the notices of deficiency which contained credit risk
+deferrals and administrative cost deferrals for that peri-
+od, and subtracted the latter quantity. The bottom line
+here, from the Commissioner’s perspective, is that the
+deficiency determinations are presumptively correct,
+and JPMorgan did not produce countervailing evidence
+(and in fact produced a dearth of evidence, which led to the
+use of the deficiency determinations) to rebut its correct-
+ness.
+  JPMorgan argues that the Tax Court’s partial rejection
+of the government’s valuation methodology negates the
+presumption of correctness associated with the notices
+of deficiency. This argument seems to have some sur-
+face appeal, but there is not basis for it in the law. To be
+sure, the Tax Court explicitly upheld the Commissioner’s
+determination to disallow taxpayer’s deferral accounting
+method. It is true that the Tax Court rejected the
+midmarket (government) valuation approach for an
+10                                            No. 07-3042
+
+adjusted midmarket approach, but that does not take
+away from the presumption of correctness associated
+with the notices of deficiency. The Tax Court determined
+that the original deficiency determination should be
+corrected, but that too does not diminish its value. See
+Paccar, Inc. v. Commissioner, 849 F.2d 393, 400 (9th Cir.
+1988) (“Where the Commissioner has conceded errors in
+his original computations, and the tax court has sus-
+tained the Commissioner’s corrected determination, those
+errors are not a basis for overcoming the presumption of
+correctness.”).
+  Apart from whether there is a presumption of correct-
+ness that attaches to the notices of deficiency, JPMorgan
+asserts that it has presented sufficient evidence to show
+that the amounts contained in the notices are not accurate.
+Specifically, it relies on Exhibit 149-P, which is a sum-
+mary chart that purportedly displays accumulated
+credit risk reserve balances. This chart indicates that the
+credit risk reserve balance at the end of 1993 was $3.6
+million. The logic of JPMorgan’s argument is as follows:
+we know the amount of this balance at the end of 1993,
+and we know the extent of credit risk deferrals taken in
+1993 (about $900,000), and so we can subtract these
+values to arrive at a credit risk reserve balance for the
+end of 1992. This is how JPMorgan arrives at its
+$2.7 million figure, which it believes represents the
+total amount of credit risk deferrals that can be added
+back into income for the 1990-1992 period. How this $2.7
+million is to be allocated for each year is of no moment,
+JPMorgan maintains. The simple point is that the total
+amount that is to be allocated for 1990-1993 cannot ex-
+ceed $3.6 million, and is certainly nowhere near the
+$14.4 million figure put forth by the government.
+No. 07-3042                                                  11
+
+   The fatal flaw in JPMorgan’s argument is that it assumes
+that the $3.6 million figure is accurate—it is not. This is true
+for at least two reasons. First, the figure is derived from
+Exhibit 149-P, which purports to summarize all outstand-
+ing credit risk deferrals recorded in a particular piece of
+equipment known as the “Devon System.” But JPMorgan,
+by its own admission, conceded that the Devon System
+was not used to value all of its swaps. For instance, in
+its own findings of fact in the Tax Court, JPMorgan notes
+that it used “a different system to compute mid-market
+values” for “commodity swaps.” Additionally, it admits
+that “Devon was not used to value” a set of currency
+swaps. Second, JPMorgan has not made any efforts to
+demonstrate the exhibit’s accuracy in regards to those
+swaps that it actually does value. The exhibit is merely
+a one-page summary of over 600 pages of reports that
+were not admitted into evidence. Moreover, the exhibit
+is labeled as a “Summary of Monthly Devon Reports,”
+but many months (e.g., January through September of 1991)
+are missing. JPMorgan cannot overcome the presumption
+of correctness connected with the Commissioner’s notices
+of deficiency with an oversimplified, unsubstantiated, and
+incomplete one-page summary chart.
+  What JPMorgan had to do here was present the same
+information to the Tax Court regarding its 1990-1992
+swap transactions that it presented for its 1993 trans-
+actions. JPMorgan complied with I.R.C. § 6001’s record-
+keeping requirement that year and was able to demonstrate
+that it entered into 488 swap transactions in 1993. The
+anemic records prevented the Tax Court from making
+similar findings for the previous years in question.
+JPMorgan cites two cases, Transport Mfg. & Equip. Co. v.
+Commissioner, 374 F.2d 173 (8th Cir. 1967), and Commissioner
+12                                               No. 07-3042
+
+v. Jacobson, 164 F.2d 594 (7th Cir. 1947), for the proposition
+that the Tax Court should not solely rely on notices of
+deficiency when making Rule 155 computations. Nobody
+disagrees with this point as a general matter—the Tax
+Court’s hands were tied here because of the dearth of
+evidence produced by JPMorgan for 1990-1992. It is
+precisely because of situations like this that we have pre-
+sumptions and burdens of proof. The Tax Court even
+gave JPMorgan a second chance on remand to establish
+credit risk deferrals and related amortization for 1990-
+1992, and it squandered this opportunity by failing to
+produce additional evidence and obstinately relying on
+Exhibit 149-P. We must therefore conclude that “in arriving
+at the tax deficiency, the Tax Court, as the trier of the
+facts, is warranted in bearing heavily against the taxpayer,
+whose own failure to keep records has created the di-
+lemma.” Mitchell v. Commissioner, 416 F.2d 101, 103 (7th Cir.
+1969). The Tax Court is not required to take a stab in the
+dark, particularly when the party asking it to do so has
+turned out the lights.
+
+
+                      III. Conclusion
+  For the foregoing reasons, we AFFIRM the Tax Court’s
+judgment.
+
+
+
+
+                    USCA-02-C-0072—7-1-08
+

@@ -1,0 +1,652 @@
+                               In the
+
+    United States Court of Appeals
+                 For the Seventh Circuit
+                     ____________________
+No. 21-1942
+ILLINOIS INSURANCE GUARANTY FUND,
+                                                  Plaintiff-Appellant,
+                                 v.
+
+XAVIER BECERRA,
+Secretary of Health and Human Services, et al.,
+                                      Defendants-Appellees.
+                     ____________________
+
+         Appeal from the United States District Court for the
+           Northern District of Illinois, Eastern Division.
+          No. 1:20-cv-05920 — Robert W. Gettleman, Judge.
+                     ____________________
+
+     ARGUED DECEMBER 3, 2021 — DECIDED MAY 6, 2022
+                ____________________
+
+   Before ROVNER, HAMILTON, and JACKSON-AKIWUMI, Circuit
+Judges.
+    HAMILTON, Circuit Judge. Plaintiﬀ-appellant Illinois Insur-
+ance Guaranty Fund is the state-created insolvency insurer for
+member insurance companies in Illinois. When a member in-
+surer becomes insolvent, the Fund steps in to pay covered
+claims. In the case of an insolvent health insurer, many claims
+are for patients who are eligible for both Medicare beneﬁts
+2                                                     No. 21-1942
+
+and private health insurance. Figuring out how to allocate
+overlapping coverage for patients covered by both Medicare
+and private health insurance can be challenging in the best of
+times. When the insurer becomes insolvent, it gets worse.
+    In this case, the Illinois Fund sued the federal government
+seeking a determination that it is not subject to reporting re-
+quirements under section 111 of the Medicare, Medicaid, and
+SCHIP Extension Act of 2007, Pub. L. No. 110-173, § 111, 121
+Stat. 2492, 2497–500 (2007), codiﬁed at 42 U.S.C. § 1395y(b)(7)
+& (b)(8). Section 111 requires primary plans, including many
+private medical insurers, to ﬁle certain reports about plan par-
+ticipants and claimants to help the government identify when
+a primary plan is responsible for repaying medical expenses
+that Medicare covers conditionally. The Medicare Secondary
+Payer Act cuts Medicare spending by placing ﬁnancial re-
+sponsibility for medical costs with available primary plans
+ﬁrst. See United States v. Baxter Int’l, Inc., 345 F.3d 866, 874–78
+(11th Cir. 2003) (recounting history of Medicare Secondary
+Payer Act); Zinman v. Shalala, 67 F.3d 841, 845 (9th Cir. 1995)
+(describing Medicare Secondary Payer Act as serving the
+“overarching statutory purpose of reducing Medicare costs”).
+Recognizing that time may be of the essence in medical treat-
+ment, though, Congress also authorized the government to
+make conditional payments to cover medical expenses for
+Medicare beneﬁciaries insured by a primary plan, subject to
+later reimbursement from a primary plan. See 42 U.S.C.
+§ 1395y(b)(2)(B)(i).
+   To help the government recoup these conditional pay-
+ments, section 111 imposes reporting requirements on health
+insurers so that the government can identify the primary plan
+responsible for payment. See § 1395y(b)(7) & (b)(8). These
+No. 21-1942                                                    3
+
+reporting requirements diﬀer between group health plans
+and other types of primary plans, which are placed in a catch-
+all category termed “applicable plan.” See id. The Illinois
+Fund believes that it is not an “applicable plan” and thus need
+not make reports under section 111. It ﬁled this suit seeking a
+declaratory judgment to that eﬀect. The defendants moved to
+dismiss for lack of subject-matter jurisdiction, arguing in part
+that the district court lacked jurisdiction unless and until the
+government makes a ﬁnal decision through its administrative
+processes. The district court agreed and granted the motion
+to dismiss. We agree with the district court that 42 U.S.C.
+§ 405(h) forecloses subject-matter jurisdiction in this case. The
+Fund can obtain judicial review of its claim in a federal court
+only by channeling its appeal through the administrative pro-
+cess provided under 42 U.S.C. § 405(g). We recognize that us-
+ing the administrative process increases costs and delay for
+the Fund, but precedent requires (and prudent policy for the
+massive Medicare program is consistent) that we not permit
+the Fund’s desired shortcut to federal court. We also explain
+below how, under these particular statutes, the usually-wai-
+vable defense of failure to exhaust administrative remedies
+has become a jurisdictional bar here.
+I. Factual and Legal Background
+   The Fund’s case centers on the interaction between diﬀer-
+ent provisions of the Medicare Act designed to allow the gov-
+ernment to recoup medical expenses it has paid conditionally.
+We begin by introducing the Fund, the Medicare Secondary
+Payer Act, and section 111 reporting. Also, because this suit
+was in part a reaction to a similar suit involving the California
+insolvency insurer, this section closes with a discussion of the
+4                                                     No. 21-1942
+
+California suit and the path the Illinois Fund took to court in
+this case.
+    A. The Illinois Fund
+    The plaintiﬀ Fund is a nonproﬁt, unincorporated legal en-
+tity created by the Illinois legislature to manage consequences
+for claimants and policyholders when an Illinois insurance
+company becomes insolvent. See 215 Ill. Comp. Stat. 5/532(a),
+535; Lucas v. Illinois Insurance Guaranty Fund, 367 N.E.2d 469,
+470 (Ill. App. 1977). The Fund assumes the obligation for cov-
+ered claims against an insolvent insurance company and
+helps distribute its assets. See 215 Ill. Comp. Stat. 5/532, 534.3,
+537.4; Roth v. Illinois Insurance Guaranty Fund, 852 N.E.2d 289,
+295–97 (Ill. App. 2006) (discussing limits on covered claims);
+see also California Insurance Guarantee Ass’n v. Azar, 940 F.3d
+1061, 1064 (9th Cir. 2019) (summarizing history of state insur-
+ance guaranty funds), abrogated on other grounds by R.J.
+Reynolds Tobacco Co. v. County of Los Angeles, 29 F.4th 542, 553
+n.6 (9th Cir. 2022).
+     The Fund pays for its activities by levying assessments on
+Illinois insurance companies. See 215 Ill. Comp. Stat. 5/537.6.
+As a matter of state law, the Fund is “considered ‘a source of
+last resort.’” Illinois Insurance Guaranty Fund v. Virginia Surety
+Co., 979 N.E.2d 503, 506 (Ill. App. 2012), quoting Illinois Insur-
+ance Guaranty Fund v. Farmland Mutual Insurance Co., 653
+N.E.2d 856, 857 (Ill. App. 1995). The Fund generally steps into
+the shoes of the insolvent insurer when the Fund assumes the
+obligations on a policy, but the Fund is authorized to pay only
+“covered claims” as deﬁned by Illinois law. See 215 Ill. Comp.
+Stat. 5/534.3, 537.2; Hasemann v. White, 686 N.E.2d 571, 573 (Ill.
+1997) (noting that Fund’s liability on a covered claim is subject
+to statutory limits, such as a maximum amount); Barbee v.
+No. 21-1942                                                                5
+
+Illinois Insurance Guaranty Fund, 915 N.E.2d 871, 873 (Ill. App.
+2009).
+    B. Medicare as a Secondary Payer
+    Medicare is the familiar federal health insurance program
+for the elderly and people with disabilities. See 42 U.S.C.
+§§ 1395–1395lll; Abraham Lincoln Memorial Hospital v. Sebelius,
+698 F.3d 536, 541 (7th Cir. 2012). The Secretary of Health and
+Human Services is responsible for Medicare and administers
+the program through the Centers for Medicare and Medicaid
+Services, also known as CMS.
+    Medicare originally provided primary health coverage
+even when an insurer such as a group health plan or a liability
+insurer might also have been responsible for paying the cost
+of a beneﬁciary’s care, with limited exceptions. See Social Se-
+curity Amendments of 1965, Pub. L. No. 89-97, § 1862(b), 79
+Stat. 286, 325 (barring Medicare from paying for items or ser-
+vices under a workers’ compensation law or plan); Zinman, 67
+F.3d at 843. That changed in the 1980s when Congress acted
+repeatedly to cut costs by making Medicare the secondary
+payer for health care when other insurance was available to
+cover patients. California Insurance Guarantee Ass’n, 940 F.3d at
+1065 & n.1 (summarizing how Medicare Secondary Payer Act
+changed Medicare); Baxter Int’l, 345 F.3d at 874–75. 1
+
+
+    1 See Omnibus Reconciliation Act of 1980, Pub. L. No. 96-499, § 953,
+94 Stat. 2599, 2647 (making Medicare the secondary payer for services cov-
+ered by automobile or liability insurance policies or plans, or no-fault in-
+surance); Deficit Reduction Act of 1984, Pub. L. No. 98-369, § 2344, 98 Stat.
+494, 1095–96 (authorizing United States to bring actions against primary
+payers who do not reimburse Medicare); Omnibus Budget Reconciliation
+Act of 1986, Pub. L. No. 99-509, § 9319(a), 100 Stat. 1874, 2010–11 (making
+Medicare the secondary payer for certain persons with disabilities covered
+6                                                          No. 21-1942
+
+    The Medicare Secondary Payer Act bars Medicare from
+paying for a beneﬁciary’s health care when payment has al-
+ready been made by a primary plan but also when such a pay-
+ment could reasonably be expected. 42 U.S.C.
+§ 1395y(b)(2)(A). In many cases, however, the other payer
+may refuse or delay payment. For example, if a Medicare ben-
+eﬁciary is injured in a traﬃc accident, disputes about liability
+may delay payments by an automobile liability insurer. To
+avoid leaving beneﬁciaries helpless in such cases, Congress
+authorized Medicare to make immediate payments for care
+but required that primary plans later reimburse Medicare
+when they bear ultimate responsibility for conditional pay-
+ments. § 1395y(b)(2)(B)(i) & (B)(ii).
+    Medicare contractors can recoup a conditional payment
+owed to CMS by sending the primary plan an initial determi-
+nation explaining the reimbursement due. § 1395ﬀ(a)(1); 42
+C.F.R. §§ 405.904(a)(2), 405.924(b)(16). If a primary plan disa-
+grees with an initial determination, it has a right to appeal
+through the administrative review process. 42 U.S.C.
+§ 1395y(b)(2)(B)(viii). Congress incorporated provisions of
+the Social Security Act into Medicare so that an individual or
+primary plan must exhaust administrative remedies before
+seeking relief in federal court. See § 1395ii (incorporating bar
+on federal-question jurisdiction from § 405(h) of Social Secu-
+rity Act); § 1395ﬀ(b)(1)(A) (incorporating provisions for ad-
+ministrative and judicial review from § 405(b) and (g) of So-
+cial Security Act).
+
+
+
+by large group health plans); Omnibus Budget Reconciliation Act of 1989,
+Pub. L. No. 101-239, § 6202, 103 Stat. 2106, 2225–35 (introducing “second-
+ary payer” term).
+No. 21-1942                                                     7
+
+    The appeals process for an initial determination by CMS
+has four steps. 42 C.F.R. § 405.904(a)(2). First, the plan can ask
+the contractor making initial determinations on behalf of CMS
+to perform a redetermination. § 405.940. Next, the plan can
+seek reconsideration from a “qualiﬁed independent contrac-
+tor.” § 405.960. Then the plan can request a hearing before an
+administrative law judge, who conducts a review de novo.
+§§ 405.1000, 405.1042. Finally, a plan can seek de novo review
+from the Medicare Appeals Council, which issues the Secre-
+tary’s ﬁnal decision on the matter. §§ 405.1100, 405.1130.
+    Under 42 U.S.C. § 405(b), a district court has jurisdiction
+to review a decision by the Medicare Appeals Council. See
+also 42 C.F.R. §§ 405.1130, 405.1136(a). Section 405(h) bars fed-
+eral-question jurisdiction for such appeals at any point in the
+review process. The only statutory source of subject-matter
+jurisdiction for an appeal of a repayment demand is § 405(g)’s
+grant of jurisdiction to review a ﬁnal administrative decision.
+Thus, if a failure to exhaust administrative remedies defeats
+jurisdiction under § 405(g), subject-matter jurisdiction is lack-
+ing, and failure to exhaust administrative remedies, which is
+usually a waivable aﬃrmative defense, becomes a jurisdic-
+tional bar.
+   C. Medicare’s Section 111 Reporting Requirements
+    To seek reimbursement from a private insurer, however,
+CMS needs to know that the insurer might provide coverage
+for the Medicare patient. In 2007, Congress amended the stat-
+ute to require primary plans to ﬁle reports with information
+about claimants entitled to Medicare beneﬁts. See Pub. L. No.
+110-173, § 111, 121 Stat. at 2497–500. For purposes of these re-
+porting requirements, section 111 divides primary plans into
+two groups with diﬀerent rules: (i) group health plans, 42
+8                                                    No. 21-1942
+
+U.S.C. § 1395y(b)(7), and (ii) “applicable plan[s],” the catch-all
+term for other types of primary plans. § 1395y(b)(8).
+    In 2012, Congress amended section 111 to give CMS dis-
+cretion to impose a penalty of up to $1,000 per day for viola-
+tions. The statute requires CMS to issue regulations specify-
+ing how these sanctions would be implemented. See Medicare
+IVIG Access and Strengthening Medicare and Repaying Tax-
+payers Act of 2012, Pub. L. No. 112-242, § 203, 126 Stat. 2374,
+2380. In 2013, CMS published an advance notice of proposed
+rulemaking, and in 2020, CMS published for comment a pro-
+posed rule specifying how the agency would impose penal-
+ties for violations of section 111. See Medicare Program; Med-
+icare Secondary Payer and Certain Civil Money Penalties, 85
+Fed. Reg. 8793 (Feb. 18, 2020); 78 Fed. Reg. 75304 (Dec. 11,
+2013).
+    In response to comments on the advance notice of pro-
+posed rulemaking, CMS noted that it expected the ﬁnal rule
+to ﬁt within the existing structure for appeals of civil mone-
+tary penalties assessed by the Department of Health and Hu-
+man Services. 85 Fed. Reg. at 8795–96, citing 42 C.F.R.
+§§ 402.19, 1005.1–.23. CMS also said that the ﬁnal rule, which
+has not yet been issued, will be enforced only prospectively.
+Id. at 8796.
+    D. The California CIGA Litigation
+   The California counterpart of the Illinois Fund, the Cali-
+fornia Insurance Guarantee Association, known as CIGA,
+sued CMS in 2015 to challenge whether it was obliged to re-
+imburse Medicare for payments advanced by the government
+when the primary insurer had become insolvent. CIGA ar-
+gued that it was not a “primary plan” with obligations to
+No. 21-1942                                                  9
+
+reimburse Medicare for payments. California Insurance Guar-
+antee Ass’n v. Burwell, 227 F. Supp. 3d 1101, 1106 (C.D. Cal.
+2017), rev’d, 940 F.3d 1061 (9th Cir. 2019). When CIGA ﬁled
+suit, the current four-tier appeals process for reimbursement
+demands by CMS was not yet in eﬀect. CMS conceded in that
+case that its formal demand letters for repayment amounted
+to ﬁnal agency actions subject to judicial review. Id. at 1106
+n.2; see also Medicare Program; Right of Appeal for Medicare
+Secondary Payer Determinations Relating to Liability Insur-
+ance (Including Self-Insurance), No-Fault Insurance, and
+Workers’ Compensation Laws and Plans, 80 Fed. Reg. 10611
+(Feb. 27, 2015).
+   The California district court found that the insurance
+plans administered by CIGA were primary plans subject to
+reimbursement demands from CMS. California Insurance
+Guarantee Ass’n, 940 F.3d at 1066. On appeal, the Ninth Circuit
+reversed and agreed with CIGA that it was not a primary plan
+and was not obliged to reimburse CMS for conditional pay-
+ments. Id. at 1071.
+    In March 2020, CIGA asked the government whether the
+Ninth Circuit’s determination that it was not a primary plan
+meant that CIGA was also not required to ﬁle reports under
+section 111. The Director of CMS’s Oﬃce of Financial Man-
+agement replied that CIGA no longer had section 111 report-
+ing obligations for payments made on behalf of insolvent Cal-
+ifornia members.
+   E. Procedural History
+   Shortly after CMS told CIGA it was oﬀ the hook for section
+111 reporting, the Illinois Fund asked the government
+whether the logic of the Ninth Circuit’s holding in CIGA
+10                                                 No. 21-1942
+
+meant that the Illinois Fund also had no reporting obligations
+under section 111. The Director of CMS’s Oﬃce of Financial
+Management replied via letter in August 2020 that (i) the Cal-
+ifornia Insurance Guarantee Association decision did not apply
+to the Illinois Fund; and (ii) the Oﬃce of Financial Manage-
+ment would not provide written conﬁrmation that the Fund
+is exempt from section 111 reporting obligations.
+    The Fund then ﬁled this suit in the district court against
+the Secretary of Health and Human Services, the Department,
+and CMS. The Fund seeks a declaratory judgment determin-
+ing (i) that the Fund is not a primary plan or an applicable
+plan subject to section 111 reporting; (ii) that CMS’s August
+2020 letter is a ﬁnal agency action under the Administrative
+Procedure Act that should be set aside as arbitrary and capri-
+cious; and (iii) that the Fund was not required to go through
+any existing administrative process to obtain relief.
+     Defendants moved to dismiss for lack of standing and lack
+of subject-matter jurisdiction. The district court granted the
+motion, ﬁnding no Article III standing, no federal-question ju-
+risdiction, and no subject-matter jurisdiction under 42 U.S.C.
+§ 405(g) because the Fund had failed to exhaust administra-
+tive remedies. Illinois Insurance Guaranty Fund v. Cochran, No.
+20 C 5920, 2021 WL 1600172, at *2–5 (N.D. Ill. Apr. 23, 2021).
+The Fund has appealed, arguing that (i) the district court
+erred in ﬁnding no standing when section 111 reporting obli-
+gations impose ongoing, present compliance costs; and
+(ii) there is subject-matter jurisdiction because no administra-
+tive channel exists to appeal the Fund’s status as an applicable
+plan.
+No. 21-1942                                                    11
+
+II. Discussion
+   A. Exhaustion of Administrative Remedies
+     We review de novo the issues of law presented by a dis-
+missal of a complaint for lack of subject-matter jurisdiction
+under Federal Rule of Civil Procedure 12(b)(1). Int’l Union of
+Operating Engineers, Local 139 v. Daley, 983 F.3d 287, 294 (7th
+Cir. 2020); Fuqua v. U.S. Postal Service, 956 F.3d 961, 964 (7th
+Cir. 2020). Subject-matter jurisdiction sometimes depends on
+disputed factual issues, and we review for clear error a district
+court’s ﬁndings on jurisdictional facts. See City of Chicago ex
+rel. Rosenberg v. Redﬂex Traﬃc Systems, Inc., 884 F.3d 798, 802
+(7th Cir. 2018). There is no such factual dispute here. We may
+aﬃrm the dismissal of a complaint for lack of jurisdiction on
+any ground that is supported by the record, at least so long as
+the party asserting jurisdiction has had a fair opportunity to
+be heard on the issue. See Fuqua, 956 F.3d at 964; see also, e.g.,
+American Homeland Title Agency, Inc. v. Robertson, 930 F.3d 806,
+810 (7th Cir. 2019).
+    Federal courts have long applied the general rule that a
+plaintiﬀ must exhaust available administrative remedies be-
+fore seeking judicial review. See Myers v. Bethlehem Shipbuild-
+ing Corp., 303 U.S. 41, 50–51 & n.9 (1938) (compiling cases).
+The exhaustion requirement protects the authority of admin-
+istrative agencies and promotes judicial eﬃciency. Woodford
+v. Ngo, 548 U.S. 81, 89 (2006). Even when no statutory provi-
+sion requires exhaustion, courts apply the doctrine pruden-
+tially. 4 Charles H. Koch, Jr. & Richard Murphy, Administra-
+tive Law and Practice § 12:21 (3d ed.). This prudential require-
+ment can be overcome in some cases of futility and other ex-
+ceptions. Id. Congress has codiﬁed administrative exhaustion
+as a requirement for judicial review under many regulatory
+12                                                    No. 21-1942
+
+regimes, including programs ranging from Social Security,
+Medicare, and Medicaid to employment discrimination, envi-
+ronmental protection, and immigration.
+    In programs like Medicare, governed by the judicial re-
+view provisions of the Social Security Act, the Act imposes a
+strong administrative exhaustion requirement in 42 U.S.C.
+§ 405(g) and (h). Section 405(g) authorizes judicial review of
+an agency’s “ﬁnal decision,” and section 405(h) forecloses
+other routes to federal court: “No action against the United
+States, the Commissioner of Social Security, or any oﬃcer or
+employee thereof shall be brought under section 1331 or 1346
+of Title 28 to recover on any claim arising under this subchap-
+ter.”
+    Section 405(h)’s jurisdictional bar extends beyond “ordi-
+nary administrative law principles of ‘ripeness’ and ‘exhaus-
+tion of administrative remedies.’” Shalala v. Illinois Council on
+Long Term Care, Inc., 529 U.S. 1, 12 (2000). Courts consistently
+hold that § 405(h) bars judicial review of Medicare claims
+made by plaintiﬀs who fail to exhaust available administra-
+tive remedies as required by § 405(g). See, e.g., Ancillary Aﬃl-
+iated Health Services, Inc. v. Shalala, 165 F.3d 1069, 1070–71 (7th
+Cir. 1999); Homewood Professional Care Center, Ltd. v. Heckler,
+764 F.2d 1242, 1253 (7th Cir. 1985). Section 405(g) is the only
+statutory source of jurisdiction for most Medicare claims.
+    The Supreme Court has recognized a narrow exception to
+the exhaustion requirement so as to allow federal-question ju-
+risdiction for judicial review apart from § 405(g) when there
+is simply no other method for a plan or individual to obtain
+relief under the Medicare Act. The Fund has not persuaded us
+that it can ﬁt this case into that narrow exception, however.
+Because the Fund’s failure to exhaust administrative remedies
+No. 21-1942                                                            13
+
+means it cannot invoke the grant of subject-matter jurisdiction
+in § 405(g), we do not consider the Fund’s standing to sue. 2
+    B. Case Law on the Jurisdictional Bar of § 405(h)
+   By its terms, § 405(h) bars federal-question jurisdiction un-
+der 28 U.S.C. § 1331 for claims arising under the Medicare Act.
+See Your Home Visiting Nurse Services, Inc. v. Shalala, 525 U.S.
+449, 456 (1999); Mathews v. Eldridge, 424 U.S. 319, 326–27
+(1976), citing Weinberger v. Salﬁ, 422 U.S. 749 (1975) (applying
+limits of § 405(h) to claim under Social Security Act). In the
+overwhelming majority of cases, subject-matter jurisdiction
+over a Medicare claim stems only from § 405(g) of the Act,
+which requires a party (i) to present the claim to the Secretary;
+and (ii) to exhaust administrative remedies. See Eldridge, 424
+U.S. at 328, citing Salﬁ, 422 U.S. at 764; Martin v. Shalala, 63
+F.3d 497, 502 (7th Cir. 1995). The presentment requirement is
+essential and non-waivable, though the agency can waive a
+plaintiﬀ’s failure to exhaust some or all of the steps in the ad-
+ministrative review process without defeating jurisdiction
+under § 405(g). Eldridge, 424 U.S. at 328.
+
+
+
+    2 The district court found that the Fund had waived any argument for
+
+federal-question jurisdiction under 28 U.S.C. § 1331 despite the limits of
+§ 405(h). The Fund did not present this argument to the district court as
+clearly as it should have, but its reliance on the Michigan Academy case,
+discussed below, implicitly and necessarily relied on § 1331 jurisdiction.
+We therefore elect not to rely on waiver but instead explain why the Fund
+cannot take advantage of the Michigan Academy exception to § 405(h). The
+district court also found that the Fund had waived its arguments under
+the Declaratory Judgment Act and the Administrative Procedure Act. The
+Fund has not raised those issues on appeal, and we do not consider them.
+14                                                 No. 21-1942
+
+    This rather abstract distinction between presentment and
+exhaustion under § 405(g) is counterintuitive and needs some
+explanation. In Eldridge, the Supreme Court distinguished
+presentment from “the requirement that the administrative
+remedies prescribed by the Secretary be exhausted” to em-
+phasize the Secretary’s power to waive administrative review
+only for claims presented to him. 424 U.S. at 328. Neither the
+Secretary nor the court can waive presentment because
+§ 405(g) requires a decision, and without presentment the Sec-
+retary cannot make any decision at all. See id.
+     Courts have not been entirely consistent in how they refer
+to the prerequisites for obtaining jurisdiction under § 405(g)
+and may refer to it simply as an “exhaustion” requirement
+unless presentment is speciﬁcally at issue. See, e.g., Illinois
+Council, 529 U.S. at 15 (noting that plaintiﬀ failed to present
+its claim to the agency and therefore could not establish juris-
+diction under § 405(g)); Ancillary Aﬃliated, 165 F.3d at 1070
+(referring to § 405(g) as an “exhaustion requirement”); Martin,
+63 F.3d at 503 (accepting district court’s conclusion that the
+“nonwaivable presentment prerequisite” of § 405(g) was
+met); see also Salﬁ, 422 U.S. at 765–66 (discussing presentment
+as part of process of exhausting remedies before Eldridge drew
+this distinction).
+    This distinction between presentment and exhaustion of
+remedies makes no diﬀerence here, however, because CMS
+has not waived the exhaustion defense. When the government
+invokes the defense, we enforce the exhaustion requirement.
+Even styling a claim arising under the Medicare Act as a con-
+stitutional challenge does not ordinarily permit a plaintiﬀ to
+forgo exhausting administrative remedies. E.g., Ancillary
+No. 21-1942                                                  15
+
+Aﬃliated, 165 F.3d at 1070, citing Homewood Professional Care
+Center, 764 F.2d at 1253.
+    Still, the Fund sees daylight for this case because the Su-
+preme Court has left open a narrow path where a party can
+show that enforcement of the exhaustion requirement would
+make judicial review truly impossible. The Court recognized
+this path in Bowen v. Michigan Academy of Family Physicians,
+476 U.S. 667, 680–81 (1986), in which it considered an attack
+on the validity of a regulation implementing Medicare Part B.
+Medicare Part A provides insurance for hospital and other in-
+patient care, 42 U.S.C. §§ 1395c to 1395i-6, while Part B pro-
+vides supplemental insurance for outpatient medical services
+through private insurance carriers. §§ 1395j to 1395w-6. When
+Michigan Academy was decided, judicial review was available
+under § 405(g) for claims related to an amount of beneﬁts un-
+der Part A but not Part B. Amount claims under Part B entitled
+a claimant to no more than a “fair hearing” by the insurance
+carrier, with no access to judicial or administrative review.
+See United States v. Erika, Inc., 456 U.S. 201, 207–08 (1982).
+    Michigan Academy distinguished the doctors’ challenge to
+the validity of the regulatory methodology used to determine
+amounts payable under Part B from challenges to the amount
+determinations themselves. Michigan Academy, 476 U.S. at
+675–76. Challenges to amount determinations under Part B
+were “quite minor matters,” and the Court accepted Con-
+gress’s intent to delegate them to private carriers. Id. at 680
+(citation omitted). The Court rejected, however, the Secre-
+tary’s contention that the Act provided “no [judicial] review
+at all” for the doctors’ statutory and constitutional challenges
+to the method of determining beneﬁts under Part B. Id. The
+Court found a lack of “clear and convincing evidence” needed
+16                                                   No. 21-1942
+
+to overcome the strong presumption against prohibiting judi-
+cial review altogether. Id. at 680–81 (citation omitted). Con-
+gress made this amount/methodology dichotomy irrelevant
+in 1986 when it amended the Medicare Act to provide admin-
+istrative and judicial review for claims under both Parts A and
+B under § 405(g). See Pub. L. No. 99-509, § 9341(a), 100 Stat.
+1874, 2037–38.
+    A few years later in Illinois Council, the Supreme Court
+made clear that the Michigan Academy exception remains nar-
+row and will be construed strictly. The Court expressly re-
+jected the suggestion that a party could circumvent the ex-
+haustion requirement “simply because that party shows that
+postponement would mean added inconvenience or cost in an
+isolated, particular case.” 529 U.S. at 22. The Court applied a
+practical and realistic standard, but it insisted on a showing
+that “hardships likely found in many cases [would turn] what
+appears to be simply a channeling requirement into complete
+preclusion of judicial review.” Id. at 22–23 (emphasis in origi-
+nal), citing McNary v. Haitian Refugee Center, Inc., 498 U.S. 479,
+496–97 (1991).
+     C. Judicial Review Not Completely Foreclosed by § 405(h)
+    The Fund’s claims here arise under the Medicare Act
+within the meaning of § 405(h). See Ancillary Aﬃliated, 165
+F.3d at 1070; see also Salﬁ, 422 U.S. at 760–61. To obtain judi-
+cial review via the typical path under § 405(g), the Fund
+would need to have (i) presented its claim to the Secretary;
+and (ii) exhausted administrative remedies or secured a
+waiver. Eldridge, 424 U.S. at 328. Here, the Fund has not ex-
+hausted administrative remedies, and CMS has not agreed to
+waive exhaustion. As a result, we have no need to consider
+whether the Fund’s letter to CMS satisﬁed the presentment
+No. 21-1942                                                   17
+
+requirement. In any event, there is no jurisdiction over this
+claim under § 405(g). The only way for the Fund’s claim to
+move forward in federal court is if an exception to § 405(h)
+applies. As was true for the plaintiﬀ in Illinois Council, “with-
+out Michigan Academy, the [Fund] cannot win.” 529 U.S. at 15.
+    The crux of the Fund’s argument for avoiding § 405(h)’s
+jurisdictional bar is that CMS has not yet issued a ﬁnal rule
+providing a mechanism for directly challenging section 111
+reporting requirements. According to the Fund, this means
+that applying § 405(h) would completely preclude judicial re-
+view. The argument has some appeal, but a closer look shows
+that the Fund could challenge its obligations to ﬁle reports un-
+der section 111 by arguing that it is not a “primary plan” dur-
+ing administrative review of a speciﬁc demand for reimburse-
+ment by Medicare.
+    As noted above, section 111 divides primary plans into
+two categories with diﬀerent reporting requirements. The
+term “primary plan” means (i) a group health plan or large
+group health plan, and (ii) a workers’ compensation law or
+plan, an automobile or liability insurance policy or plan, in-
+cluding a self-insured plan, and no-fault insurance. 42 U.S.C.
+§ 1395y(b)(2)(A). Section 111 reporting requirements for
+group health plans are speciﬁed in § 1395y(b)(7), and require-
+ments for applicable plans in § 1395y(b)(8). The parties do not
+argue that the Fund is a group health plan, so the speciﬁcs of
+how that term is deﬁned are not relevant here.
+   More immediately, “applicable plan” means liability in-
+surance (including self-insurance), no-fault insurance, and
+workers’ compensation laws or plans. § 1395y(b)(8)(F). Be-
+cause the term “primary plan” includes group health plans
+and all types of applicable plans, if an entity does not qualify
+18                                                  No. 21-1942
+
+as a primary plan, the entity necessarily has no reporting ob-
+ligations under section 111.
+     The Fund claims there is currently no way to challenge di-
+rectly its reporting obligations under section 111 so that ap-
+plication of § 405(h) would totally bar judicial review of its
+claim. But the Fund can challenge a demand for reimburse-
+ment of a conditional payment made by Medicare through the
+four-step appeals process described above. See generally 42
+C.F.R. §§ 405.900–.1140. During such an administrative ap-
+peal, the Fund could argue that it is not a primary plan. See,
+e.g., North Carolina Insurance Guaranty Ass’n v. Becerra, No. 20-
+CV-522-FL, 2021 WL 4302243, at *9–10 (E.D.N.C. Sept. 21,
+2021) (requiring North Carolina insolvency insurer to present
+its claim that it is not a primary plan to CMS before obtaining
+judicial review), appeal docketed, No. 21-2185 (4th Cir. Oct.
+20, 2021).
+    If the Fund remained dissatisﬁed with the outcome, it
+could obtain judicial review of the question under § 405(g) af-
+ter exhausting administrative remedies or (perhaps) obtain-
+ing an agreement from CMS to waive the requirement of fur-
+ther exhaustion. A determination in any of these administra-
+tive or judicial proceedings that the Fund is not a primary
+plan would clarify that the Fund has no reporting obligations
+under section 111. Nor does it matter that the adjudicator in a
+particular step of the administrative process may not be able
+or willing to answer whether the Fund is a primary plan: “The
+fact that the agency might not provide a hearing for that par-
+ticular contention, or may lack the power to provide one is be-
+side the point because it is the ‘action’ arising under the
+No. 21-1942                                                              19
+
+Medicare Act that must be channeled through the agency.”
+Illinois Council, 529 U.S. at 23 (internal citations omitted). 3
+    The relevant statutory provisions reveal that a determina-
+tion that the Fund is not a primary plan would necessarily
+mean that it has no section 111 reporting obligations. While
+applying § 405(h) to foreclose federal-question jurisdiction
+might cause delay and inconvenience, it would not amount to
+a “complete preclusion of judicial review.” 529 U.S. at 23. Ac-
+cordingly, the Michigan Academy exception for such complete
+preclusion is not available to the Fund here.4
+    Our decision does not conﬂict with the Ninth Circuit’s de-
+cision in California Insurance Guarantee Association, 940 F.3d
+1061. The Ninth Circuit determined that the California insol-
+vency insurer was not a primary plan and was not subject to
+demands for repayment under the Medicare Secondary Payer
+Act. Id. at 1071. Those issues are not presented in this appeal.
+The Ninth Circuit found, without elaboration, that the district
+
+    3  The Fund does not allege that it receives no demands for repayment
+under the Medicare Secondary Payer Act that could serve as vehicles for
+appealing its status as a primary plan. In fact, the Fund informed us that
+it is now pursuing an administrative appeal of such a demand. It can pre-
+sent its theories in that forum. We do not decide here whether the Michigan
+Academy exception to § 405(h)’s jurisdictional bar would be available to an
+entity that never receives initial determinations capable of being appealed.
+    4 After oral argument, we ordered defendants to submit a letter ad-
+dressing whether a determination that the Fund is not a primary plan
+“also conclusively determines whether the [Fund] is required to submit
+reports under Section 111 of the statute.” CMS responded that if the Fund
+“is categorically excluded from being a primary plan, it cannot be an ap-
+plicable plan as defined by § 1395y(b)(8)(F) and cannot be responsible for
+reporting [under section 111].” Appellees’ Letter at 2. We agree for the
+reasons explained above.
+20                                                  No. 21-1942
+
+court had jurisdiction under 28 U.S.C. § 1331. Id. at 1066. The
+relevant regulation providing an appeals process for primary
+plans to challenge reimbursement determinations was not ﬁ-
+nalized until after CIGA ﬁled suit, so the initial determina-
+tions sent to CIGA were deemed ﬁnal agency actions subject
+to judicial review. California Insurance Guarantee Ass’n, 227 F.
+Supp. 3d at 1106 n.2; see also 80 Fed. Reg. 10611.
+     In contrast, the jurisdictional bar of § 405(h) controls the
+Illinois Fund’s claim because it can use the appeals process for
+Medicare demands for repayment to challenge its status as a
+primary plan. Success in such an appeal would show that the
+Fund has no section 111 reporting obligations. Because the po-
+tential exception to the administrative channeling require-
+ments of § 405(g) and (h) discussed in Michigan Academy and
+elaborated upon in Illinois Council is not met here, there is no
+federal-question jurisdiction over this case.
+    We respect the Fund’s desire to avoid the risk of breaking
+the law and incurring penalties, but the ongoing burden of
+complying with section 111’s requirements does not entitle
+the Fund to evade the Medicare Act’s channeling require-
+ments. The Fund cannot obtain judicial review of its claim un-
+less it ﬁrst exhausts administrative remedies via § 405(g). We
+AFFIRM the district court’s dismissal for lack of subject-mat-
+ter jurisdiction.
+

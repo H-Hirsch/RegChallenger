@@ -1,0 +1,651 @@
+                                RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 21a0095p.06
+
+                  UNITED STATES COURT OF APPEALS
+                                  FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ GREGORY ACKERMAN,
+                                                             │
+                                               Plaintiff,    │
+                                                             │         No. 19-2056
+ ACKERMAN & SON, LLC, et al.,                                 >
+                                                             │
+                                 Plaintiffs-Appellants,      │
+                                                             │
+        v.                                                   │
+                                                             │
+                                                             │
+ UNITED STATES DEPARTMENT OF AGRICULTURE, et al.,            │
+                            Defendants-Appellees.            │
+                                                             ┘
+
+                        Appeal from the United States District Court
+                      for the Eastern District of Michigan at Bay City.
+                 No. 1:17-cv-11779—Thomas L. Ludington, District Judge.
+
+                                   Argued: October 21, 2020
+
+                             Decided and Filed: April 28, 2021
+
+                  Before: GUY, CLAY, and KETHLEDGE, Circuit Judges.
+
+                                      _________________
+
+                                            COUNSEL
+
+ARGUED: Mark Granzotto, MARK GRANZOTTO, PC, Berkley, Michigan, for Appellants.
+Leif Overvold, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for
+Federal Appellees. ON BRIEF: Mark Granzotto, MARK GRANZOTTO, PC, Berkley,
+Michigan, John D. Tallman, JOHN D. TALLMAN, PLC, Grand Rapids, Michigan, for
+Appellants. Sarah E. Weiner, UNITED STATES DEPARTMENT OF JUSTICE, Washington,
+D.C., for Federal Appellees. Robert G. Kamenec, Elaine M. Pohl, PLUNKETT COONEY,
+Bloomfield Hills, Michigan, for Insurance Appellees.
+
+       KETHLEDGE, J., delivered the opinion of the court in which GUY, J., joined. CLAY, J.
+(pp. 10–19), delivered a separate dissenting opinion.
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.        Page 2
+
+
+                                      _________________
+
+                                           OPINION
+                                      _________________
+
+       KETHLEDGE, Circuit Judge. To recite the facts in this case is essentially to decide it.
+The short version is that an agency within the Department of Agriculture summarily approved a
+proposed plan for dry-bean crop insurance in Michigan based upon the mistaken belief that the
+terms of the proposed endorsement for the Michigan policy were identical to the terms of the
+endorsement for a Minnesota policy that the agency had approved the year before. But the terms
+of the two endorsements were quite different, because the Michigan endorsement contained a
+different pricing mechanism—for determining the beans’ “harvest price”—than the mechanism
+the agency had approved as part of the Minnesota endorsement. That difference later caused
+significant harm to Michigan farmers who had purchased the coverage, some of whom then
+brought this suit. In the district court, the government compounded the agency’s mistake when it
+mistakenly told the district court that the pricing mechanisms in the Michigan and Minnesota
+endorsements were the same. Based in part upon that representation, the district court granted
+summary judgment to the government. On appeal, the government’s brief unhelpfully elides
+both mistakes rather than acknowledge them; but Plaintiffs’ counsel on appeal has made the
+existence of those mistakes clear enough. We therefore reverse in part the district court’s grant
+of summary judgment.
+                                                I.
+
+                                               A.
+
+                                                1.
+
+       For decades, beginning in the 1930s, the Federal Crop Insurance Corporation (FCIC)
+provided various forms of crop insurance directly to farmers.            Congress expanded the
+crop-insurance program when it enacted the Federal Crop Insurance Act of 1980 (the Act),
+which for the first time allowed private actors to offer crop-insurance policies approved by the
+FCIC. Those policies include the Common Crop Insurance Policy (Common Policy), whose
+provisions are codified at 7 C.F.R. § 457.8. But the Act also allows private actors to propose
+ No. 19-2056             Ackerman, et al. v. United States Dep’t of Agric., et al.       Page 3
+
+
+new types of crop insurance, which in some instances might “provide a new kind of coverage for
+a commodity that previously had no available crop insurance.” 7 U.S.C. § 1508(h)(3)(A)(ii)(III).
+These policies typically include an endorsement that modifies various terms of the Common
+Policy.
+
+          To obtain approval for a new kind of crop insurance, a private actor must submit an
+application to the FCIC. The application—called a 508(h) submission—must include, among
+other things, a detailed analysis of the new coverage’s utility and the text of the proposed
+policy’s terms. See 7 C.F.R. § 400.705. The FCIC then forwards the 508(h) submission “to at
+least five expert reviewers.” Id. § 400.706(b)(2). Thereafter the submission “shall be approved
+by the [FCIC]” if, among other things, the proposed policy “adequately protect[s]” farmers’
+interests. 7 U.S.C. § 1508(h)(3)(A).
+
+          Upon approval of a 508(h) submission, the applicant may offer the new coverage or
+license to other entities the right to offer it. See 7 C.F.R. § 400.712(l). When the coverage
+is offered to farmers, the FCIC publishes a “Handbook” for the policy, which “provides the
+FCIC-approved procedures for administering” the policy. The original applicant may thereafter
+propose changes to the policy, but the FCIC must review any “significant changes” as a new
+508(h) submission. See id. § 400.709(a)(2)(ii).
+
+                                                  2.
+
+          As relevant here, federal crop insurance typically takes one of two forms:       yield
+protection or revenue protection. The narrower form is yield protection, which “only provides
+protection against a production loss[,]” i.e., a smaller-than-expected harvest. 7 C.F.R. § 457.8.
+The broader—and more expensive—form is revenue protection, which “provides protection
+against loss of revenue due to a production loss, price decline or increase, or a combination of
+both.” Id. Revenue protection thus protects against losses from production or price.
+
+          Typically, a farmer is entitled to payment under the price-protection component of a
+revenue-protection policy when the “harvest price” for the farmer’s crop falls short of the
+“projected price.” The harvest price is a measure of the actual market price for a crop during a
+particular crop year. The FCIC (or the Risk Management Agency (RMA), which oversees the
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.         Page 4
+
+
+FCIC within the Department of Agriculture) determines a crop’s projected and market price each
+year, typically by utilizing data from commodities exchanges.           Section 3(c)(5)(ii) of the
+Common Policy provides that, if data from the exchanges is insufficient for the agency to
+employ its usual methodology for a particular crop during a particular year, “[r]evenue protection
+will continue to be available[,]” and “[t]he harvest price will be determined and announced by
+FCIC”—presumably by making its best estimate based upon its expertise and the available
+information.
+                                                B.
+
+                                                1.
+
+       In November 2011, an economic consulting firm, Watts and Associates, filed a lengthy
+508(h) submission for a pilot program of revenue insurance for dry beans in Minnesota and
+North Dakota (the “Minnesota 508(h) submission”).          At that time, revenue insurance was
+unavailable for dry beans because they lacked a commodities exchange that could provide the
+data necessary to calculate projected and harvest prices. To remedy that deficiency, Watts
+suggested using data from sales by farmers directly to bean processors. Specifically, Watts
+proposed, the RMA would determine a particular type of bean’s projected price for a crop year
+based upon an average of prices offered by processors for that bean before the planting season;
+and the RMA would determine the harvest price for that bean based upon market prices reported
+weekly (September through November) in the Bean Market News, a Department publication.
+Yet Watts acknowledged that, in the past, even the Bean Market News had occasionally reported
+little or no data as to those market prices. In that event, the proposed endorsement would do
+exactly what the Common Policy did: provide that the “harvest price will be determined and
+announced by FCIC[.]” Watts’s proposed Handbook for the policy likewise provided that, in the
+event of insufficient data from the Bean Market News, the RMA would set the harvest price.
+
+       The Board referred Watts’s proposal for expert review, which for the most part was
+positive. In March 2012, the Board approved the proposal—including provisions in both the
+endorsement and the Handbook stating that, if data from the Bean Market News proved
+insufficient to support a determination of a bean’s harvest price, the FCIC (or the RMA) would
+determine that price.
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.         Page 5
+
+
+       Yet for reasons that are obscure on this record, the policies actually sold to Minnesota
+and North Dakota bean farmers did not include those same provisions from the approved
+endorsement and Handbook. Quite the contrary: the endorsement for the policies sold in those
+states provided that, in the event of insufficient data from the Bean Market News, “the harvest
+price will be equal to the projected price.”         (Emphasis added.)    As a result, the pricing
+mechanism in these policies would simply default to the projected price—which would make the
+revenue protection virtually worthless, since for the most part that coverage requires payment to
+the farmer only when the harvest price falls below the projected price.
+
+       Meanwhile, in July 2013, Watts applied to have its Minnesota and North Dakota pilot
+program expanded to Michigan (the “Michigan 508(h) submission”). The Michigan 508(h)
+submission included a proposed endorsement with the same pricing mechanism (default to the
+projected price) that had inexplicably made its way into the Minnesota and North Dakota
+policies. The pricing mechanism was therefore different than the pricing mechanism (the agency
+determines the harvest price) that the FCIC had actually approved as part of the Minnesota
+508(h) submission. Under the agency’s own regulations, that difference between approved and
+proposed pricing mechanisms constituted a “significant change” requiring plenary review by the
+agency and its experts. See 7 C.F.R. § 400.701. Moreover, the proposed Handbook for the
+Michigan expansion did include the pricing mechanism that the FCIC approved as part of the
+Minnesota 508(h) submission—thereby creating an intra-submission discrepancy in addition to
+the inter-submission one. Yet the FCIC missed these discrepancies and waved through the
+proposed expansion on the ground that it amounted to a “non-significant” change.
+
+                                                2.
+
+       During the 2015 crop year, Michigan bean farmers bought 1,286 revenue-protection
+policies pursuant to the expansion of the Watts pilot program. That year brought a bountiful
+bean harvest, which apparently caused harvest prices to fall well below projected prices—
+precisely the contingency for which the farmers had bought revenue protection. But that year the
+Bean Market News published too little data to support a determination of harvest prices. Under
+those circumstances, the Handbook for the Michigan policies (like the Common Policy) provided
+that the agency itself would determine the harvest price. But the endorsement for the Michigan
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.         Page 6
+
+
+policies provided that, under these circumstances, the harvest price “will be equal to the
+projected price”; and in the event of a conflict between these documents, the FCIC concluded,
+the endorsement controlled.       The farmers who bought these policies were thus left
+empty-handed.
+
+                                                3.
+
+       Plaintiffs (the “farmers”)—all of whom are dry bean farmers in Michigan—thereafter
+brought this suit against the Department of Agriculture, the FCIC, certain third-party insurers,
+and Watts itself. The district court dismissed without prejudice the claims against Watts and the
+insurers, on grounds not relevant here. (The farmers do not challenge either dismissal.) The
+government then moved for summary judgment on the farmers’ claims against the Department of
+Agriculture and the FCIC. In support of that motion, as mentioned above, the government told
+the district court that the default pricing mechanisms in the Michigan 508(h) submission and in
+the “approved” Minnesota 508(h) submission were the same.
+
+       That representation was false.          The government’s brief in support of its
+summary-judgment motion asserted that the proposed endorsement approved as part of the
+Minnesota 508(h) submission provided as follows:
+
+       (2) If the harvest price cannot be calculated for the crop year for a type for which
+       a projected price was determined in accordance with section 7 of this
+       endorsement, the harvest price will be equal to the projected price.
+
+(Emphasis added by the government.)
+
+       But that language—especially the bolded part—was not part of the Minnesota 508(h)
+submission. Instead, the quoted language came from the endorsement for policies actually sold
+in Minnesota—which, as noted above, inexplicably departed from the endorsement language
+approved as part of the Minnesota 508(h) submission. The relevant endorsement language
+actually approved as part of the Minnesota 508(h) submission was as follows:
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.          Page 7
+
+
+       (2) If the harvest price as defined cannot be calculated for the crop year for a type
+       for which a projected price was determined in accordance with the definition:
+               (i) A harvest price will be determined and announced by FCIC in lieu of
+               the terms contained in the definition of harvest price[.]
+
+(Emphasis added.)
+
+       The default pricing mechanisms in the Michigan and Minnesota 508(h) submissions were
+therefore different—indeed different in a way that proved critical when dry-bean prices fell
+sharply two years later. Based on the government’s mistake, however, the district court assumed
+that the two pricing mechanisms were the same; and in part for that reason, the district court
+granted summary judgment in favor of the government. This appeal followed.
+
+                                                II.
+
+       We review de novo the district court’s grant of summary judgment to the government.
+See Ky. Waterways All. v. Johnson, 540 F.3d 466, 473 (6th Cir. 2008). The farmers’ primary
+argument on appeal is that the FCIC’s approval of the Michigan 508(h) submission was
+“arbitrary, capricious,” and done “without observance of procedure required by law[.]” 5 U.S.C.
+§ 706(2)(A), (D).
+
+       The premise of that argument is that the Michigan 508(h) submission included a
+“significant change” from the Minnesota 508(h) submission that the FCIC had approved the year
+before. The farmers are indisputably correct about that: the agency’s own regulation expressly
+defines “significant change” to include “[a]ny change” in “pricing methodologies[.]” 7 C.F.R.
+§ 400.701. And the Michigan 508(h) submission included a different pricing methodology than
+the Minnesota one: as recited above, the endorsement included as part of the Michigan 508(h)
+submission provided that, in the event of inadequate data from the Bean Market News, the
+“harvest price will be equal to the projected price;” whereas the endorsement in the Minnesota
+508(h) submission provided that, in that same event, the “harvest price will be determined and
+announced by FCIC[.]” (Emphasis added.) The Michigan provision thus required the agency to
+declare the harvest price to be the projected price—thereby rendering the revenue protection in
+that event essentially worthless, as the FCIC itself acknowledged in a 2016 letter to the Michigan
+farmers; whereas the Minnesota submission afforded the FCIC discretion to determine a harvest
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.       Page 8
+
+
+price of its own.   Yet the FCIC found that the Michigan 508(h) proposal presented only
+“non-significant changes” to the Minnesota one.
+
+       The government responds that the farmers have waived (by which the government means
+forfeited) any argument that the Michigan 508(h) submission proposed significant changes to the
+Minnesota one. That assertion amounts to a claim that the farmers took too long to catch the
+government’s mistake in the district court. That mistake, by all appearances, was inadvertent;
+and one might have hoped that the Department of Justice would have confessed error on this
+point in its brief on appeal. But instead the government has studiously elided the point, never
+quoting the relevant text from the Minnesota 508(h) submission or otherwise recognizing any
+difference between the pricing mechanisms in the Minnesota and Michigan submissions. See
+Gov’t Br. at 10-11, 36-37. This court has therefore been left to “conduct the equivalent of an
+archaeological dig” through the record to demonstrate the government’s mistake. John B. v.
+Emkes, 710 F.3d 394, 406 (6th Cir. 2013). Under these circumstances, suffice it to say, we will
+exercise our discretion to consider the farmers’ argument on the merits. See generally Golden v.
+Kelsey-Hayes Co., 73 F.3d 648, 658 (6th Cir. 1996).
+
+       The merits themselves are straightforward.             As shown above, the agency
+violated 7 C.F.R. § 400.701 when it found that the Michigan 508(h) proposal presented only
+“non-significant changes” to the Minnesota one. (A September 2016 revision to § 400.701 is
+inapposite here.) Again the mistake was by all appearances inadvertent: the FCIC appears
+simply not to have realized that the endorsements in the Michigan and Minnesota 508(h)
+proposals included different default pricing mechanisms. That change was plainly “significant,”
+so the agency was required to treat the Michigan submission as “a new 508(h) submission” and
+to “forward the complete 508(h) submission to at least five expert reviewers[.]” 7 C.F.R.
+§§ 400.709, 400.706. The FCIC did neither of those things, so its approval of the Michigan
+submission was done “without observance of procedure required by law[.]”              5 U.S.C.
+§ 706(2)(D).
+
+       The record likewise makes clear that, because of the same mistake, the agency did not
+adequately consider the impact of the default pricing mechanism in the Michigan 508(h)
+submission. Nor did the agency adequately consider whether “the interests of producers [were]
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.        Page 9
+
+
+adequately protected” by that submission. 7 U.S.C. § 1508(h)(3)(A)(i). The agency’s approval
+of the submission was therefore arbitrary and capricious.        See Encino Motorcars, LLC v.
+Navarro, 136 S. Ct. 2117, 2125 (2016).
+
+       The government responds that the FCIC did consider the risk that the Bean Market News
+would report insufficient data to support a determination of harvest price in a particular crop
+year. But the FCIC was obligated to analyze not only the magnitude of that risk, but also what to
+do if that risk materialized. The FCIC was therefore required to analyze the Michigan default
+pricing mechanism directly, in light of the interests spelled out in § 1508(h)(3)(A). The agency
+did not do that here.
+
+       We therefore reverse the district court’s grant of summary judgment in favor of the
+government on Count II of the farmers’ Amended Complaint. We affirm the court’s grant of
+summary judgment on Count I because the farmers’ argument as to that count—that the agency
+should have interpreted the text of the Michigan default pricing provision to afford the agency
+discretion to make its own determination of harvest prices—is plainly without merit.
+
+                                          *     *     *
+
+       The district court’s July 12, 2019 Order is affirmed in part and reversed in part, and the
+case is remanded for further proceedings consistent with this opinion.
+ No. 19-2056                 Ackerman, et al. v. United States Dep’t of Agric., et al.                    Page 10
+
+
+                                             _________________
+
+                                                    DISSENT
+                                             _________________
+
+         CLAY, Circuit Judge, dissenting. The majority opinion begins with the broad
+pronouncement that “[t]o recite the facts in this case is essentially to decide it.” Majority Op. at
+1. This introduction foreshadows the majority’s focus on the “facts” as it sees them at the
+expense of any significant legal analysis. Two related errors are critical to the majority’s
+decision to reverse the district court’s grant of summary judgment to the government defendants.
+First is the failure to accord proper deference to the Federal Crop Insurance Corporation’s
+(“FCIC”) determination that the expansion of the dry bean crop insurance pilot to Michigan was
+a non-significant change. Second, the reversal is not based on a review of the whole record, but
+rather is limited to the evidence that supports the majority’s conclusion. I respectfully dissent
+and would affirm the district court’s judgment dismissing Plaintiffs’ suit in its entirety.
+
+         I. Background
+
+         The facts in this case are not as straightforward as the majority asserts. The federal crop
+insurance program is complex, and Plaintiffs’ claims require review of multiple agency decisions
+under that regime. See, e.g., Helena Agri-Enters., LLC v. Great Lakes Grain, LLC, 988 F.3d
+260, 269-70 (6th Cir. 2021) (describing “complex regulations [that] govern the use of crop
+production histories” by the FCIC).              Moreover, as the majority rightfully emphasizes, the
+government’s filings before the district court were inaccurate on a critical point, which, despite
+Plaintiffs’ raising of the issue, the government did not attempt to address or clarify on appeal,
+complicating this Court’s task.1
+
+         This case arises out of an effort to make revenue protection insurance available to farmers
+of dry beans (black, dark red kidney, navy, pinto, and small red beans). Revenue protection
+insures farmers against price fluctuations, in addition to providing coverage against production
+
+         1
+          The majority also correctly points out that the September 2016 version of the crop insurance regulations
+that the government cites on appeal and appended to its brief does not apply in this case challenging agency
+decisions from 2015 and earlier. See Moses v. Providence Hosp. & Med. Ctrs., Inc., 561 F.3d 573, 583–84 (6th Cir.
+2009) (describing presumption against applying a regulation “to events arising prior to the regulation’s enactment”).
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.       Page 11
+
+
+loss. There are two types of revenue protection: one simply called “revenue protection” and
+“revenue protection with harvest price exclusion.” 7 C.F.R. § 457.8. Plaintiffs here purchased
+the latter type to protect themselves against the risk that the market price for their crops would
+fall. Revenue protection of either kind was not previously available for producers of dry beans
+because there is no futures market for these commodities, which is the traditional source of
+determining projected and harvest prices, which, in turn, are critical components of calculating
+the indemnity under a revenue protection policy.
+
+       On July 8, 2010, a consulting firm, Watts and Associates, Inc. (“Watts”) filed a concept
+proposal under 7 U.S.C. § 1508(h) with the FCIC to provide revenue protection for dry beans.
+Watts proposed a pilot program in certain counties in Minnesota and North Dakota that would
+use data collected by an industry group to determine the projected price. As for the harvest
+price, Watts sought to use weekly price data based on actual cash sales of the crops, as reported
+in the Agricultural Marketing Service’s (“AMS”) Bean Market News, a government publication.
+
+       On August 12, 2010, the FCIC referred Watts’ proposal to two experts for review, both of
+whom agreed the proposal should be submitted to the board of the FCIC (“the Board”) for
+further development. Both experts recognized the innovation of Watts’ submission was its effort
+to calculate projected and harvest prices in the absence of a futures market for the crops. One of
+the expert reviewers, however, specifically asked, “[W]hat would happen to the proposed
+methodology and insurance program if the AMS stopped providing weekly prices?” (Admin. R.,
+R. 83-3, Page ID #2624.) Watts answered the expert’s question in its dry bean “Crop Revenue
+Pilot Program” submission to the FCIC in October 2011, which was revised in November 2011.
+
+       That submission, in a section entitled “Rating Methods,” described using certain data
+from the AMS Bean Market News to determine “the harvest price estimate.” (Id. at Page ID
+#2830.) After concluding that “[t]he timely publishing of prices makes AMS prices useful as a
+harvest price option,” Watts recognized there could be issues with relying on AMS data because
+“there have been occasions in recent years where AMS has failed to report prices for some types
+[of dry beans] during the September through November marketing period.” (Id.) Watts further
+noted that “[i]f AMS prices are to be used as part of the insurance policy, contingency
+procedures will need to be developed to handle situations where AMS prices are not available.”
+ No. 19-2056             Ackerman, et al. v. United States Dep’t of Agric., et al.        Page 12
+
+
+(Id.) It went on to state that the contingency “[t]he developer recommends [is] that the projected
+price be substituted for any missing AMS monthly harvest price observations.” (Id.)
+
+       The November 2011 submission also included a policy document entitled “Dry Bean
+Crop Provisions,” which endorsed a different contingency plan in the event that insufficient
+AMS Bean Market News data was produced. That document stated that “[i]f the harvest price as
+defined cannot be calculated for the crop year . . . [, a] harvest price will be determined and
+announced by FCIC in lieu of the terms contained in the definition of harvest price . . . .” (Id. at
+Page ID #2924.) That same submission also contained a document titled “Dry Bean Revenue
+Program Insurance Standards Handbook,” which endorsed yet another contingency in the event
+that the AMS Bean Market News failed to publish the data necessary for determining the harvest
+price. The handbook stated that “[i]f a harvest price cannot be determined as described by its
+definition but a projected price was established according to its definition, RMA will establish
+the harvest price.” (Id. at Page ID #2953.) “RMA” refers to the Risk Management Agency, the
+agency within the U.S. Department of Agriculture which manages the FCIC.                The FCIC
+approved Watts’ submission for additional expert review on November 17, 2011.
+
+       One of the expert reports considered what would happen under Watts’ submission if
+AMS failed to report a harvest price for dry beans. On this expert’s view, the policy of Watts’
+submission was that “[i]f AMS fails to report a price for September, October, or November, the
+submitter proposes to substitute the projected price for the missing month when calculating
+harvest price,” that is, the contingency plan described in the “Ratings Method” section of the
+submission, not in the crop provisions document or handbook. (Id. at Page ID #3176.) The
+expert further explained that “[i]n the extreme case where AMS fails to report a price for
+September, October, and November[,] the harvest price would be equal to the projected price and
+the revenue insurance product (with or without the harvest price exclusion) would revert to a
+yield insurance product.” (Id.) The report then described exactly what happened in 2015 in
+Michigan: “In this extreme case, insured growers would pay for revenue insurance coverage but
+would only receive yield insurance coverage.” (Id.) The expert recognized “the need to have a
+contingency plan for situations when AMS fails to report a price. However, it seems unfair to
+ No. 19-2056              Ackerman, et al. v. United States Dep’t of Agric., et al.          Page 13
+
+
+growers who pay for revenue insurance for that contingency plan to effectively shift the policy
+away from revenue coverage and toward yield coverage.” (Id.)
+
+       Watts presented its submission to the Board on March 1, 2012.                  In a PowerPoint
+presentation, Watts included a slide that recognized “AMS has not reported some types in the
+past” and explained that, in such cases, the harvest price would be determined by
+“[s]ubstitut[ing] projected price – convert[ing] to yield policy.” (Id. at Page ID #2670.) In an
+executive summary also submitted for the Board’s consideration on March 1, 2012, Watts
+addressed a number of issues raised by external reviewers (i.e., experts) and the RMA. (Admin.
+R., 83-4, Page ID #3376.) Under the heading of “General Concerns,” Watts noted, again,
+“[t]here have been occasions in the past when AMS prices have not been available.” (Id. at Page
+ID #3378.) It then, consistent with other materials submitted to the Board, stated:             “The
+submission indicates that if this situation arises in the future, the projected price will be
+substituted for the harvest price which essentially converts the revenue offer to yield protection
+with the insured paying the premium for revenue coverage but only getting yield coverage.”
+(Id.) On March 1, 2012, the Board, “pursuant to the information” contained in the executive
+summary and “other material[s] that were submitted to the Board on this matter,” approved
+Watts’ dry bean revenue proposal for Minnesota and North Dakota, granting RMA “the authority
+to make such technical policy changes as are necessary to make the policy legally sufficient.”
+(Id. at Page ID #3435.)
+
+       The dry bean revenue endorsement that was sold to Minnesota and North Dakota farmers
+for the 2013 crop year explained that “[i]f the harvest price cannot be calculated for the crop year
+. . . , the harvest price will be equal to the projected price.” (See id. at Page ID #3437.)
+However, the insurance standards handbook for that policy year still stated that “[i]f a harvest
+price cannot be determined for black beans, dark red kidney beans, navy beans, and pinto beans
+. . . , RMA will establish the harvest price.” (Admin. R., R. 83-3, Page ID #2370.)
+
+       In July 2013, Watts submitted a maintenance package to the Board, which sought to
+expand the dry bean revenue endorsement into Michigan. Watts explained that it was providing
+“a scaled-back completed 508(h) submission” because “the Dry Bean Revenue Endorsement is
+currently in service and this package serves to expand the product into Michigan . . . .” (Admin.
+ No. 19-2056                  Ackerman, et al. v. United States Dep’t of Agric., et al.       Page 14
+
+
+R., R. 83-4, Page ID #4110.) Watts specifically noted that “[m]any of the program materials
+required are the same as for the existing, approved Dry Bean Revenue Endorsement program.
+Accordingly, many of the issues related to this expansion package were addressed in the original
+Pulse Crop Submission to the FCIC Board in 2012.” (Id.)
+
+       Like the previous submission, the 2013 maintenance package stated that “[i]f there is not
+an adequate amount of data” from the AMS Bean Market News, “then the harvest price will
+equal the projected price for that type” of dry bean. (Id. at Page ID #4216.) Watts explained that
+while it “does not anticipate this problem occurring often because we have been assured by AMS
+that more constant and reliable data will be presented in future years,” it was “important to
+provide a mechanism for determining harvest prices in data-sparse events.”                (Id.)   Watts
+summarized its proposal as simply an expansion to Michigan using an identical method for
+calculating projected price and harvest price “to the one in existence . . . .” (Id.)
+
+       Included in the maintenance package was a copy of the “Dry Bean Revenue
+Endorsement,” which, as relevant here, was identical to what had been sold in Minnesota and
+North Dakota and provided that “[i]f the harvest price cannot be calculated . . . , the harvest price
+will be equal to the projected price.” (Id. at Page ID #4173.) The insurance standards handbook
+submitted with the maintenance package still stated that if a harvest price could not be
+calculated, “RMA will establish the harvest price.” (Id. at Page ID #4195.)
+
+       On August 8, 2013, the Board “determined the requested expansion is non-significant and
+the submission does not require expert review,” approving the revenue protection program in
+Michigan beginning with the 2014 crop year. (Id. at Page ID #4258.)
+
+       In 2015, there was a bumper, or unusually productive, bean crop both in the United States
+and in bean importing countries. Since there was very little product moving, many entities
+stopped reporting prices to AMS. As a consequence, there was no harvest price established for
+dark red kidney beans, navy beans, small red beans, or pinto beans in Michigan in 2015.2
+According to the terms of the Dry Bean Revenue Endorsement that the Michigan farmers had
+
+
+       2
+           Only navy and small red beans are at issue in this suit.
+ No. 19-2056             Ackerman, et al. v. United States Dep’t of Agric., et al.         Page 15
+
+
+purchased, the harvest price was set equal to the projected price, effectively meaning that those
+who had paid additional premiums for revenue protection were left only with yield protection.
+
+       II. Standard of Review
+
+       “When a district court upholds on summary judgment an administrative agency’s final
+decision under the Administrative Procedure Act, this court ‘review[s] the district court’s
+summary judgment decision de novo, while reviewing the agency’s decision under the arbitrary
+and capricious standard.’”     City of Cleveland v. Ohio, 508 F.3d 827, 838 (6th Cir. 2007)
+(alteration in original) (Coal. for Gov’t Procurement v. Fed. Prison Indus., Inc., 365 F.3d 435,
+457 (6th Cir. 2004)). We may affirm the grant of summary judgment on any ground supported
+by the record, even if that differs from the reasoning of the district court. Thomas v. City of
+Columbus, 854 F.3d 361, 364 (6th Cir. 2017).
+
+       The FCIC’s decision is reviewed under the arbitrary and capricious standard despite the
+fact that claims, like Plaintiffs’, brought under 5 U.S.C. § 706(2)(A), (D) for agency action not
+taken “in accordance with law” or “without observance of procedure required by law” are
+generally reviewed de novo. Coal. for Gov’t Procurement, 365 F.3d at 457. Abuse of discretion
+review is appropriate here because “even in cases arising under § 706(2)(D), our review as a
+practical matter is often more deferential than that [i.e., de novo]. The reason is that the question
+whether a certain procedure is required in a particular circumstance, or whether a certain
+methodology satisfies the procedure is often left to the agency’s discretion.” Meister v. U.S.
+Dep’t of Agric., 623 F.3d 363, 370 (6th Cir. 2010). This is one of those cases. In Marsh v.
+Oregon Natural Resources Council, 490 U.S. 360, 375 (1989), the Supreme Court held in
+administrative review actions under the “in accordance with law” clause of § 706(2)(A) and
+§ 706(2)(D), the question of “significan[ce]” “is a classic example of a factual dispute the
+resolution of which implicates substantial agency expertise.”           Accordingly, the Board’s
+determination that the Michigan expansion was a non-significant change from the Minnesota and
+North Dakota pilot “should not be set aside” unless it was “arbitrary and capricious . . . .” Id. at
+377.
+ No. 19-2056              Ackerman, et al. v. United States Dep’t of Agric., et al.          Page 16
+
+
+        Under arbitrary and capricious review, “a court is not to substitute its judgment for that of
+the agency and should uphold a decision of less than ideal clarity if the agency’s path may
+reasonably be discerned.” F.C.C. v. Fox Television Stations, Inc., 556 U.S. 502, 514 (2009)
+(cleaned up); see also Encino Motorcars, LLC v. Navarro, 136 S. Ct. 2117, 2125 (2016) (same).
+A decision is arbitrary and capricious if the agency has “entirely failed to consider an important
+aspect of the problem . . . .” Nat’l Ass’n of Home Builders v. Defs. of Wildlife, 551 U.S. 644, 658
+(2007) (citation omitted).
+
+        We have also held that “an agency’s violation of its procedural rules will not result in
+reversible error absent a showing that the claimant has been prejudiced on the merits or deprived
+of substantial rights because of the agency’s procedural lapses.” Wilson v. Comm’r of Soc. Sec.,
+378 F.3d 541, 547 (6th Cir. 2004) (quoting Connor v. U.S. Civ. Serv. Comm’n, 721 F.2d 1054,
+1056 (6th Cir. 1983)); see also Wollschlager v. Fed. Deposit Ins. Corp., --- F.3d ---, 2021 WL
+1204969, at *5 (6th Cir. Mar. 31, 2021) (recognizing that § 706 requires a reviewing court to
+take “due account . . . of the rule of prejudicial error”).
+
+        III. Discussion
+
+        The FCIC’s determination that Watts’ proposal to expand the revenue insurance pilot to
+Michigan was a non-significant change was not an abuse of discretion.                 Accordingly, the
+determination that additional expert review was not required was “in accordance with law” and
+in “observance of procedure required by law.” 5 U.S.C. § 706(2)(A), (D). Similarly, the Board
+did not fail to consider whether Watts’ submission “adequately protected” the interests of
+farmers. 7 U.S.C. § 1508(h)(3)(A)(i).
+
+        The majority errs because of its narrow focus on one part of Watts’ 2011 and 2013
+submissions, the so-called “endorsement.”3 The majority is correct that the version of the dry
+bean revenue crop provisions originally proposed for Minnesota and North Dakota stated that
+“[i]f the harvest price as defined cannot be calculated for the crop year for a type for which a
+projected price was determined in accordance with the definition . . . [, a] harvest price will be
+
+        3
+        Technically, Watts’ original submission included a full policy, which was later condensed to an
+endorsement to RMA’s basic crop insurance provisions.
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.      Page 17
+
+
+determined and announced by FCIC in lieu of the terms contained in the definition of harvest
+price . . . .” (Admin R., R. 83-3, Page ID #2924.) In contrast, the copy of the dry bean revenue
+endorsement submitted with the maintenance package in support of Watts’ request to expand the
+program to Michigan stated that, under the same circumstances (i.e., when a harvest price could
+not be calculated under the normal methods), “the harvest price will be equal to the projected
+price.” (Admin. R., R. 83-4, Page ID #4173.)
+
+       As the majority also recognizes, Watts’ 2011 submission was “lengthy”—nearly 350
+pages. Majority Op. at 4. But its analysis focuses only on the proposed “endorsement,” which
+would have had the FCIC set the harvest price in the event that insufficient AMS Bean Market
+News data was published, and the insurance standards handbook, which provided yet another
+different contingency method—that the RMA would set the harvest price under the same
+scenario. This was incorrect. Watts’ 2011 submission proposed that if the harvest price could
+not be determined, the harvest price would be set equal to the projected price, providing neither
+the FCIC or the RMA any discretion. Under the Administrative Procedure Act (“APA”), “the
+court shall review the whole record” in determining whether an agency action was “not in
+accordance with law” or “without observance of procedure required by law . . . .” 5 U.S.C.
+§ 706(2)(A), (D). We have interpreted this provision of the APA as a requirement that “courts
+‘review the whole record’ compiled by the agency when evaluating the lawfulness of an agency
+decision . . . .” Klein v. U.S. Dep’t of Energy, 753 F.3d 576, 580 (6th Cir. 2014) (quoting
+§ 706(2)).
+
+       The majority’s analysis ignores multiple pieces of evidence indicating that when the
+Board approved the revenue insurance pilot in 2012, the Board was approving a policy under
+which, if the harvest price could not be calculated, the harvest price would be set equal to the
+projected price. Watts’ 2011 submission declared that “[i]f AMS prices are to be used as part of
+the insurance policy, contingency procedures will need to be developed to handle situations
+where AMS prices are not available. The developer recommends that the projected price be
+substituted for any missing AMS monthly harvest observations.” (Admin. R., R. 83-3, Page ID
+#2830.) While the majority recognizes that Watts’ proposal was referred for expert review, it
+does not discuss how one group of those experts explicitly critiqued what it understood as Watts’
+ No. 19-2056             Ackerman, et al. v. United States Dep’t of Agric., et al.         Page 18
+
+
+proposal “to substitute the projected price for the missing month when calculating harvest price”
+in the event of insufficient AMS data. (Id. at Page ID #3176.)
+
+       Not only did the Board know that substituting the projected price for the harvest price
+was Watts’ contingency plan, but the Board also knew the potential consequences of that
+proposal—that farmers’ revenue protection could be converted to yield protection. The same
+expert report stated that “it seems unfair to growers who pay for revenue insurance for that
+contingency plan to effectively shift the policy away from revenue coverage and toward yield
+coverage.” (Id.) There is also no mention in the majority opinion of Watts’ submission of
+materials to the Board recognizing concerns about AMS price data availability and responding
+that “if this situation arises in the future, the projected price will be substituted for the harvest
+price which essentially converts the revenue offer to yield protection with the insured paying the
+premium for revenue coverage but only getting yield coverage.” (Admin. R., R. 83-4, Page ID
+#3378.) The majority also ignores the PowerPoint presentation that Watts prepared for the
+Board in February 2012, which explained that, if AMS failed to report sufficient data, Watts’
+revenue protection would essentially be converted into a yield policy.
+
+       Given these multiple submissions by Watts and the understanding of experts, particularly
+in light of the deference owed an agency determination in this context, I would defer to the
+Board’s determination that the 2013 expansion of the revenue protection program for dry beans
+was a non-significant change. The policy considered and approved by the Board in March 2012
+for the Minnesota and North Dakota pilot sought to substitute the projected price for the harvest
+price in the event that AMS did not publish sufficient data. Accordingly, the Board was not
+required to treat the Michigan expansion as a new submission, with all that entails, including
+referral to five independent experts.     See 7 C.F.R. § 400.709(a)(2)(ii) (2012) (“Significant
+changes must be submitted to the Board for review in accordance with this subpart and will be
+considered as a new submission[.]”).
+
+       IV. Conclusion
+
+       Under arbitrary and capricious review, “our role is limited to reviewing the
+administrative record ‘to determine whether there exists a rational connection between the facts
+ No. 19-2056            Ackerman, et al. v. United States Dep’t of Agric., et al.      Page 19
+
+
+found and the choice made.’” Nat’l Truck Equip. v. Nat’l Highway Traffic Safety Admin.,
+711 F.3d 662, 667 (6th Cir. 2013) (quoting Alliance for Cmty. Media v. F.C.C., 529 F.3d 763,
+786 (6th Cir. 2008)). “The facts found, of course, must be supported by substantial evidence in
+the record as a whole.” Id. Deference when reviewing agency action means the question
+presented here is whether there was sufficient evidence in the record to support the agency’s
+determination that the Michigan expansion was a non-significant change that did not require
+reconsideration as a new submission, not whether there is evidence in the record to the contrary.
+See id. at 669. The majority mistakenly asks and answers the second question. I dissent.
+

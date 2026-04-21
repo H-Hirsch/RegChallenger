@@ -1,0 +1,695 @@
+USCA4 Appeal: 23-1192     Doc: 67         Filed: 03/04/2025    Pg: 1 of 15
+
+
+
+
+                                           UNPUBLISHED
+
+                              UNITED STATES COURT OF APPEALS
+                                  FOR THE FOURTH CIRCUIT
+
+
+                                             No. 23-1192
+
+
+        APPALACHIAN POWER COMPANY
+
+                            Petitioner
+
+        BLUE RIDGE POWER AGENCY
+
+                            Intervenor
+
+                     v.
+
+        FEDERAL ENERGY REGULATORY COMMISSION,
+
+                            Respondent.
+
+
+
+        On Petition for Review of an Order of the Federal Energy Regulatory Commission. (21-
+        97-000)
+
+
+        Argued: September 26, 2024                                      Decided: March 4, 2025
+
+
+        Before NIEMEYER, Circuit Judge, FLOYD, Senior Circuit Judge, and Kenneth D. BELL,
+        United States District Judge for the Western District of North Carolina, sitting by
+        designation.
+
+
+        Petition for review denied by unpublished per curiam opinion.
+
+
+        ARGUED: William Keyser, III, STEPTOE LLP, Washington, D.C., for Petitioner. Carol
+        J. Banta, FEDERAL ENERGY REGULATORY COMMISSION, Washington, D.C., for
+        Respondent. ON BRIEF: Karen Bruni, Megan McDowell, STEPTOE & JOHNSON
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025    Pg: 2 of 15
+
+
+
+
+        LLP, Washington, D.C.; Jessica A. Cano, Assistant General Counsel, AMERICAN
+        ELECTRIC POWER SERVICE CORPORATION, Columbus, Ohio, for Petitioner.
+        Matthew R. Christiansen, General Counsel, Robert H. Solomon, Solicitor, FEDERAL
+        ENERGY REGULATORY COMMISSION, Washington, D.C., for Respondent.
+
+
+        Unpublished opinions are not binding precedent in this circuit.
+
+
+
+
+                                                    2
+USCA4 Appeal: 23-1192       Doc: 67         Filed: 03/04/2025     Pg: 3 of 15
+
+
+
+
+        PER CURIAM:
+
+               This case concerns the interpretation of contracts between member utilities of the
+
+        Blue Ridge Power Agency and Petitioner Appalachian Power Company (APCO). The
+
+        Federal Energy Regulatory Commission (FERC) issued an order declaring that Blue Ridge
+
+        members may install battery storage, energize the batteries with electricity purchased from
+
+        APCO, and discharge that electricity during periods of peak demand without violating
+
+        those agreements.    APCO filed a petition for review challenging the Commission’s
+
+        decision. For the reasons we explain below, we deny the petition.
+
+
+
+                                                      I.
+
+               Blue Ridge, appearing as intervenor aligned with FERC, is a non-profit entity that
+
+        negotiates wholesale power purchase contracts on behalf of its members and monitors
+
+        performance of those contracts. In 2017, APCO and three Blue Ridge members—Craig-
+
+        Botetourt Electric Cooperative and the cities of Radford and Salem, Virginia (collectively,
+
+        the “Members”)—executed three respective agreements for “Full Requirements Electric
+
+        Service.” J.A. 352. Under these agreements, APCO sells to the Members all electricity
+
+        required to meet their end-use customers’ needs. In return, the Members purchase all the
+
+        electricity they require from APCO and no one else. These three agreements contained
+
+        substantially identical language and did not expressly authorize or forbid installation of
+
+        battery storage technology (BST). This technology is aptly named: it consists of large-
+
+        scale batteries capable of storing energy and discharging it to the electrical grid on demand.
+
+        A fourth agreement for APCO to supply wholesale electricity to Virginia Polytechnic
+
+                                                      3
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025      Pg: 4 of 15
+
+
+
+
+        Institute and State University (Virginia Tech) in Blacksburg, Virginia, contained
+
+        provisions limiting BST installation. The Virginia Tech Agreement was executed in 2019.
+
+        Relevant to the present appeal, each of these contracts also contained a choice of law clause
+
+        providing for its interpretation under Virginia law.
+
+               In 2021, Blue Ridge informed APCO that its members intended to install BST to
+
+        manage electrical loads at times of peak demand. These batteries would be energized using
+
+        power purchased from APCO during off-peak times, when electricity costs less. The
+
+        Members intended to then discharge electricity to meet customer demand during peak
+
+        times, reducing the amount they must purchase from APCO at higher rates. APCO sent a
+
+        response to Blue Ridge indicating it did not believe the agreements permitted the
+
+        implementation of BST as contemplated by the Members.
+
+               Blue Ridge filed a petition seeking a declaratory judgment with the Commission
+
+        shortly thereafter. See 18 C.F.R. § 385.207(a)(2) (permitting party to file petition for
+
+        declaratory order); see also 5 U.S.C. § 554(e) (permitting FERC to issue “declaratory order
+
+        to terminate a controversy or remove uncertainty”). Blue Ridge asked the Commission to
+
+        declare that the agreements were not a barrier to installing BST and using it to manage
+
+        electricity demand. APCO filed a response arguing the agreements foreclosed BST
+
+        installation and its use in the manner the Members intended, and it asked the Commission
+
+        to issue a judgment declaring accordingly.
+
+               On October 21, 2022, FERC issued an order finding the Members’ agreements with
+
+        APCO permitted installation of BST. Specifically, the Commission concluded that “[t]he
+
+        use of battery storage does not affect the parties’ obligations under the Agreements”
+
+                                                     4
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025     Pg: 5 of 15
+
+
+
+
+        because the Members would have all their electricity needs met by APCO—including the
+
+        power to energize the batteries—and the agreements contemplated that the quantity of
+
+        electricity the Members purchased would vary from day to day. Blue Ridge Power Agency,
+
+        181 FERC ¶ 61,048 at PP 29–36 (2022).            Further, the Commission noted that the
+
+        agreements prohibited the installation of “generation resources,” but reasoned that “battery
+
+        storage cannot be defined as a generation resource” under the agreements “because a
+
+        battery can only store Energy for later use, but cannot produce energy.” Id. P 29 (citing N.
+
+        Carolina E. Mun. Power Agency (NCEMPA), 172 FERC ¶ 61,249 at P 37 (2020)
+
+        (concluding battery storage is not “inherently a form of generation” when charged with
+
+        electricity from wholesale seller)). The Commission also found that installation and use of
+
+        battery storage would not violate prohibitions on “newly constructed or purchased
+
+        generation resources” or entering “new power purchase agreements.” Id. P 36.
+
+               The Commission reached a different conclusion with respect to APCO’s contract
+
+        with Virginia Tech. It pointed to that agreement’s limitation on construction of “New
+
+        Generation” and the fact that the agreement expressly listed “battery storage” as a form of
+
+        New Generation. Id. PP 37–38. Further, the Virginia Tech agreement precluded the use
+
+        of BST for the purpose of demand reduction, and Blue Ridge intended to use it for that
+
+        purpose. The Commission disagreed with Blue Ridge’s arguments that the Virginia Tech
+
+        agreements permitted installation of greater BST capacity than its express terms.
+
+        Therefore, it concluded that Virginia Tech lacked “broad and uncapped” authority to install
+
+        BST, and any installation of that technology would be subject to the capacity limitations
+
+        and educational-purpose requirements contained in the contract. Id. P 44.
+
+                                                     5
+USCA4 Appeal: 23-1192      Doc: 67          Filed: 03/04/2025     Pg: 6 of 15
+
+
+
+
+               APCO timely appeals. It primarily focuses its arguments on the Commission’s
+
+        interpretation of the agreements with the Members. It argues that the agency decision
+
+        should be vacated because the Commission failed to cite to Virginia law, would have
+
+        reached a different result if it had, and substituted a policy judgment for a legal one.
+
+        Finally, it contends the Commission erred in failing to ensure rates would be “just and
+
+        reasonable” if the Members installed the proposed BST.               No party appeals the
+
+        Commission’s order with respect to the Virginia Tech agreement.
+
+
+
+                                                     II.
+
+               An agency action, like the Commission’s order, is reviewed under the familiar
+
+        “arbitrary and capricious” standard. Sierra Club v. State Water Control Bd., 64 F.4th 187,
+
+        194 (4th Cir. 2023). “Agency action is arbitrary and capricious if the agency relies on
+
+        factors that Congress did not intend for it to consider, entirely ignores important aspects of
+
+        the problem, explains its decision in a manner contrary to the evidence before it, or reaches
+
+        a decision that is so implausible that it cannot be ascribed to a difference in view.” Friends
+
+        of Buckingham v. State Air Pollution Control Bd., 947 F.3d 68, 80 (4th Cir. 2020) (quoting
+
+        Appalachian Voices v. State Water Control Bd., 912 F.3d 746, 753 (4th Cir. 2019)). In
+
+        other words, we “must ensure that the agency has examined the relevant data and
+
+        articulated a satisfactory explanation for its action.” Mountain Valley Pipeline, LLC v. N.
+
+        Carolina Dep’t of Envtl. Quality, 990 F.3d 818, 826 (4th Cir. 2021) (quoting Defs. of
+
+        Wildlife v. Dep’t of the Interior, 931 F.3d 339, 345 (4th Cir. 2019)).
+
+
+
+                                                      6
+USCA4 Appeal: 23-1192      Doc: 67        Filed: 03/04/2025     Pg: 7 of 15
+
+
+
+
+              This case also concerns the Commission’s interpretation of a contract.
+
+        “[I]nterpretation of [a] contract’s language” is “a question of law clearly within the
+
+        competence of courts,” so our review is de novo. Burgin v. Off. Personnel Mgmt., 120
+
+        F.3d 494, 497–98 (4th Cir. 1997) (citing 5 U.S.C. § 706).
+
+
+
+                                                   A.
+
+              We start with the interpretation of the agreements. The Commission determined the
+
+        Members were not constrained from installing BST and discharging the batteries at times
+
+        of peak customer demand. It began by emphasizing the agreements’ exclusive focus on
+
+        “generation” and its requirements that APCO serve as the exclusive electricity wholesaler
+
+        for the Members to meet demand. Blue Ridge, 181 FERC ¶ 61,048 at P 28. The agreements
+
+        expressly prohibited the Members from using “newly constructed or purchased generation
+
+        resources”—in other words, the Members could not build their own power plants or
+
+        purchase electricity from any entity besides APCO. Id. P 29.
+
+              The Commission determined that battery storage would not affect the parties’
+
+        obligations under the agreements because batteries “can only store Energy for later use,
+
+        but cannot produce Energy.” Id. (citing NCEMPA, 172 FERC ¶ 61,249 at P 37). To further
+
+        support its decision, FERC reasoned the agreements acknowledged electricity demand (and
+
+        how much Members must purchase from APCO) would fluctuate from day to day. The
+
+        agreements also did not fix minimum purchase or usage requirements. Therefore, the
+
+        Commission found that while the agreements might change the timing of the Members’
+
+
+
+                                                    7
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025     Pg: 8 of 15
+
+
+
+
+        use of electricity purchased from APCO, it would not change the fact the members were
+
+        purchasing electricity exclusively from APCO as the contracts require. Id. PP 30–31.
+
+               The Commission also rejected APCO’s argument that the Members were precluded
+
+        from installing BST because the agreements did not expressly allow them to do so. Again,
+
+        the Commission pointed out the agreements’ language only requires the Members “to take
+
+        their full requirements service from APCO and to pay a charge based on those
+
+        requirements.” Id. P 31. APCO also argued that the use of the batteries to reduce peak
+
+        demand (also referred to in the industry as “peak shaving”) was not expressly permitted in
+
+        the agreements, and therefore prohibited. Id. P 32. But the Commission rejected that
+
+        argument too, noting that the agreements did not proscribe that use of batteries, and the
+
+        terms in fact contemplated fluctuating demand without limitation as to how the Members
+
+        might effectuate that fluctuation. Id. P 33. Accordingly, the Commission determined BST
+
+        installation would not violate the agreements.
+
+               The Commission cited cases in the federal courts discussing fundamental contract
+
+        principles and constructive canons to support its order. See id. PP 31–33 & nn. 53, 57 ((“a
+
+        company is not ‘entitled to be relieved of its improvident bargain’”) (quoting Fed. Power
+
+        Comm’n v. Sierra Pac. Power Co., 350 U.S. 348, 355 (1956)) and (“the canon expressio
+
+        unius est exclusio alterius [the expression of one thing is the exclusion of the other]”
+
+        applies only where items are of an associated group or series) (quoting Barnhart v. Peabody
+
+        Coal Co., 537 U.S. 149, 168 (2003))). APCO argues this was error because the agreements
+
+        called for interpretation under Virginia law.
+
+
+
+                                                        8
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025     Pg: 9 of 15
+
+
+
+
+               As we explain below, APCO does not demonstrate that Virginia law warrants a
+
+        result different than the Commission’s. Its order declaring BST installation would not
+
+        violate the agreements was therefore not “arbitrary, capricious, an abuse of discretion, or
+
+        otherwise not in accordance with law.”       5 U.S.C. § 706(2)(A). With that said, the
+
+        Commission has authority to issue a declaratory order interpreting a contract between
+
+        private parties (no party argues it lacks that authority here) and it is good practice, at a
+
+        minimum, to honor choice of law clauses incorporated in an agreement. We now address
+
+        APCO’s arguments.
+
+               APCO contends that the agreements’ plain terms foreclose BST installation. It cites
+
+        the language stating APCO “shall sell and deliver” and the Members “shall exclusively
+
+        receive and purchase Full Requirements Electric Service sufficient to serve Customer’s
+
+        Retail Load.” Pet. Br. at 22. APCO then refers to provisions requiring it be “solely
+
+        responsible for satisfying all requirements and paying all costs incurred or to be incurred
+
+        to provide Full Requirements Service” and the Members “pay for such Full Requirements
+
+        Electric Service[.]” Id. at 23. With this language in the background, APCO then asserts
+
+        the compensation structure of the agreements—measuring peak monthly use and allocating
+
+        costs accordingly—does not allow BST because using it to reduce the Members’ peak
+
+        electrical loads would “allow [the Members] to avoid paying for the full cost of the
+
+        generation needed to serve them.” Id. at 23–24.
+
+               It does not follow that the exclusive buyer-seller relationship and compensation
+
+        terms proscribe the installation of battery technology here. APCO argues we cannot ignore
+
+        that compensation is calculated by reference to peak demand and BST’s intended use to
+
+                                                     9
+USCA4 Appeal: 23-1192      Doc: 67          Filed: 03/04/2025     Pg: 10 of 15
+
+
+
+
+        reduce peak demand because “a court should read the contract as a single document and
+
+        give meaning to every clause where possible.” Id. at 24 (citing Berry v. Klinger, 300 S.E.2d
+
+        792, 796 (Va. 1983)). In other words, APCO asserts that BST installation is inconsistent
+
+        with the agreements’ express intent for an exclusive supply-demand agreement. But the
+
+        problem with that argument is that nothing about BST installation changes the fact that the
+
+        Members will buy all the power needed to meet demand from APCO. Whether current
+
+        flows directly to end-use customers or first makes a figurative “stop” in battery storage, it
+
+        remains true that the Members purchase that electricity from APCO. Even if the Members
+
+        strategically discharge the batteries to reduce load at the time load is measured for purposes
+
+        of compensation, APCO is the original source of the electricity as the agreements require.
+
+               APCO also looks to the expressio unius canon to support its preferred readings of
+
+        the agreements. Under Virginia law, that maxim “provides that the mention of a specific
+
+        item . . . implies that other omitted items were not intended to be included[.]” Blake Constr.
+
+        Co./Poole & Kent v. Upper Occoquan Sewage Auth., 587 S.E.2d 711, 718 (Va. 2003)
+
+        (quoting Smith Mountain Lake Yacht Club, Inc. v. Ramaker, 542 S.E.2d 392, 395 (Va.
+
+        2001)). The contracts require APCO to provide electric service “regardless of changes in
+
+        Retail Load arising from daily fluctuations, increased or decreased usage, extreme weather
+
+        and/or similar events.” Pet. Br. at 28. APCO argues “systematic use of storage” to reduce
+
+        electricity load is “not analogous” to any of the named items in this list and so it is
+
+        prohibited. Pet. Br. at 28.
+
+               The expressio unius canon—which is nonbinding under Virginia law, see Turner v.
+
+        Commonwealth, 758 S.E.2d 81, 86 (Va. Ct. App. 2014)—does not require or even point
+
+                                                     10
+USCA4 Appeal: 23-1192         Doc: 67      Filed: 03/04/2025      Pg: 11 of 15
+
+
+
+
+        towards a different result than the one the Commission reached. Nothing in the agreement
+
+        suggests that this list comprehensively sets out the only permissible types of “fluctuations”
+
+        in peak demand—indeed, the items listed are mostly expressed in already broad terms:
+
+        “daily fluctuations, increased or decreased usage,” and “similar events.” Pet. Br. at 28. We
+
+        therefore decline to vacate the Commission’s decision based upon this nonbinding
+
+        interpretive canon.
+
+               APCO also argues that the Commission improperly looked beyond the four corners
+
+        of the agreements by referencing its NCEMPA decision, 172 FERC ¶ 61,249 (2020) (BST
+
+        installation permitted in part because it is not “inherently” generation), and the fact that
+
+        several Members’ end-use customers participated in a demand response program, which
+
+        has the effect of reducing electricity load at peak times, in its order. APCO contends the
+
+        Court was “not at liberty to search for its meaning beyond the instrument itself.” Pet. Br.
+
+        at 32 (quoting Hitachi Credit Am. Corp. v. Signet Bank, 166 F.3d 614, 624 (4th Cir. 1999)
+
+        (recognizing principle under Virginia law)).
+
+               We disagree that this requires us to vacate the Commission’s order. APCO seems
+
+        to suggest the Commission relied on its NCEMPA decision as controlling in this case, but
+
+        that is not quite correct. For starters, the Commission focused extensively on the language
+
+        in the agreements and the agreements’ failure to define generation to include battery
+
+        storage or forbid Member-induced changes in electricity demand by use of battery storage.
+
+        Blue Ridge, 181 FERC ¶ 61,048 at PP 27–33. The Commission then zeroed in on its
+
+        NCEMPA decision, acknowledged that that order did not “dictate” the outcome in this case,
+
+        but concluded that it was “highly relevant” to its interpretation of the Members’ agreements
+
+                                                     11
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025     Pg: 12 of 15
+
+
+
+
+        with APCO. Id. PP 34–36. The Commission supported its order by pointing out the
+
+        conclusion it reached aligned with a prior agency decision under similar facts, which was
+
+        not error.
+
+               Nor was it erroneous to point out in a single sentence that some end-use customers
+
+        participated in a demand response program without objection from APCO. After noting
+
+        the agreements acknowledged electricity demand would fluctuate and placed no limitation
+
+        on how the Members “can effectuate such variation,” id. P33, the Commission cited these
+
+        customers’ participation as examples of similar conduct APCO had ostensibly permitted
+
+        until this dispute arose. This “course of performance” justification makes up only a small
+
+        part of the Commission’s reasoning and does not require us to vacate its order.
+
+               APCO last argues that the Virginia Tech agreement—which expressly places limits
+
+        upon BST installation and use—makes clear that the agreements with the Members
+
+        prohibit BST installation and use, too. It now asks us, under the assumption the agreements
+
+        are ambiguous as to whether BST installation is allowed, to find the Virginia Tech
+
+        agreement shows the parties also intended the agreements at issue to prohibit BST.
+
+               The agreements between the Members and APCO were executed in 2017, and the
+
+        Virginia Tech agreement was executed in 2019. Virginia law recognizes that a contract
+
+        may be modified by a subsequent agreement or course of conduct. See Smith Dev., Inc. v.
+
+        Conway, 896 S.E.2d 88, 97 (Va. Ct. App. 2024). But the party asserting modification must
+
+        show the parties had a “mutual intention” to modify the agreement, and that intention must
+
+        be shown by “clear, unequivocal and convincing evidence, direct or implied.” Id. (quoting
+
+        Gov’t Emps. Ins. Co. v. Hall, 533 S.E.2d 615, 618 (Va. 2000)).
+
+                                                    12
+USCA4 Appeal: 23-1192      Doc: 67         Filed: 03/04/2025     Pg: 13 of 15
+
+
+
+
+              The Virginia Tech agreement’s terms do not suggest any mutual intent to modify
+
+        the Salem, Radford, and Craig-Botetourt agreements to forbid BST, let alone suggest the
+
+        parties intended that meaning from the start. First, even though Blue Ridge negotiates on
+
+        behalf of the Members, the agreements only bind APCO and each respective Member.
+
+        Second, the terms of the agreements with the Members could have been different than the
+
+        Virginia Tech agreement for any number of reasons; it makes sense that the provisions of
+
+        a wholesale electricity purchase contract for a college campus might be different than one
+
+        for a municipality. For example, the parties may seek to accommodate a significant drop
+
+        in power demand during school breaks. It is also possible that APCO decided to make sure
+
+        BST was expressly limited or prohibited in agreements after 2017 and sought to include
+
+        the term’s presence in the Virginia Tech agreement. At bottom, we are not persuaded that
+
+        the Salem, Radford, or Craig-Botetourt agreements prohibit those entities from installing
+
+        and using BST, whether looking within the four corners of their agreements with APCO or
+
+        by reference to APCO’s agreement to sell electricity to Virginia Tech.
+
+              We conclude by reiterating that honoring choice of law clauses in private contracts,
+
+        when appropriate, is good agency practice so that parties may be afforded the benefit of
+
+        their negotiated agreement. Our sister circuits have, for example, vacated FERC orders
+
+        where the Commission did not adhere to the parties’ selected outcome-determinative law.
+
+        See, e.g., Louisville Gas & Elec. Co. v. FERC, 988 F.3d 841 (6th Cir. 2021) (Commission’s
+
+        failure to honor choice of law clause left important issues unresolved following agency
+
+        proceedings); S. Cal. Edison Co. v. FERC, 502 F.3d 176 (D.C. Cir. 2007) (Commission’s
+
+        failure to apply California law left unclear whether condition precedent was satisfied). In
+
+                                                    13
+USCA4 Appeal: 23-1192       Doc: 67          Filed: 03/04/2025      Pg: 14 of 15
+
+
+
+
+        this case, APCO has not persuaded us that the Commission’s decision would have, or even
+
+        could have, been different if it had looked to Virginia law instead. Nor has it shown that
+
+        the Commission ignored relevant contract principles. We therefore decline to vacate the
+
+        agency decision on the grounds it was contrary to law.
+
+
+
+                                                      B.
+
+               We now address APCO’s argument that the Commission’s decision must be vacated
+
+        because it will result in unjust and unreasonable electricity rates, in violation of the Federal
+
+        Power Act. See 16 U.S.C. § 824d(a) (“All rates . . . shall be just and reasonable”). APCO
+
+        contends the Commission’s decision contravenes a duty to prevent cost-shifting among
+
+        customers, because the Members could discharge the batteries when APCO was otherwise
+
+        providing the needed electricity from facilities it had already invested in.
+
+               We reject this argument. First, because the Commission was not addressing a newly
+
+        filed contract, rate tariff, or claim that an existing contract or rate tariff had become unjust
+
+        or unreasonable. Instead, the Commission was tasked with answering the question of
+
+        whether the agreements permitted BST installation and use.                 We cannot say the
+
+        Commission erred by deciding the rates issue was irrelevant to the matter before it. See
+
+        Mobil Oil Expl. & Producing Se. Inc. v. United Distrib. Cos., 498 U.S. 211, 230–31 (1991)
+
+        (agencies “enjoy[] broad discretion” in determining how to handle “related, yet discrete,
+
+        issues” and an agency “need not solve every problem before it in the same proceeding”).
+
+               Further, the agreements say what they say. As we have explained, these contracts
+
+        that the cities of Salem and Radford, Virginia and the Craig-Botetourt Electric Cooperative
+
+                                                      14
+USCA4 Appeal: 23-1192      Doc: 67          Filed: 03/04/2025    Pg: 15 of 15
+
+
+
+
+        executed with APCO do not prevent those entities from installing BST. These are contracts
+
+        between private parties governing the terms of wholesale power purchases.             The
+
+        Commission did not err when it focused on the terms of the agreements before it and
+
+        concluded BST installation as the Members intended would not violate those agreements
+
+        and did not engage in speculation as to whether BST would result in unjust or unreasonable
+
+        rates at some time in the future.
+
+
+
+                                                    III.
+
+               For the foregoing reasons, we deny APCO’s petition for review.
+
+                                                                PETITION FOR REVIEW DENIED
+
+
+
+
+                                                    15
+

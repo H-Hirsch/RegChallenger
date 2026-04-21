@@ -1,0 +1,732 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued March 17, 2025                    Decided July 1, 2025
+
+                         No. 24-1039
+
+    MICHIGAN ELECTRIC TRANSMISSION COMPANY, LLC,
+                     PETITIONER
+
+                              v.
+
+        FEDERAL ENERGY REGULATORY COMMISSION,
+                     RESPONDENT
+
+         MICHIGAN PUBLIC POWER AGENCY, ET AL.,
+                     INTERVENORS
+
+
+
+                 Consolidated with 24-1084
+
+
+          On Petitions for Review of Orders of the
+          Federal Energy Regulatory Commission
+
+
+
+     Aaron M. Streett argued the cause for petitioner. With him
+on the briefs were Jay Ryan, J. Mark Little, and Christopher E.
+Tutunjian.
+
+    Robert M. Kennedy, Senior Attorney, Federal Energy
+Regulatory Commission, argued the cause for respondent.
+With him on the brief were Matthew R. Christiansen, General
+                               2
+Counsel, at the time the brief was filed, and Robert H. Solomon,
+Solicitor. Angela X. Gao, Trial Attorney, entered an
+appearance.
+
+     Debra D. Roby argued the cause for intervenors for
+respondent. With her on the brief were Michael J. Rustum, Alan
+I. Robbins, and Thomas B. Steiger III. Neil H. Koslowe entered
+an appearance.
+
+    Before: WALKER, Circuit Judge, and EDWARDS and
+GINSBURG, Senior Circuit Judges.
+
+    Opinion for the Court filed by Senior Circuit Judge
+GINSBURG.
+
+     GINSBURG, Senior Circuit Judge: Petitioner Michigan
+Electric Transmission Company (METC) owns a high-voltage
+transmission line jointly with two other transmission
+companies, the Michigan Public Power Agency (MPPA) and
+the Wolverine Power Supply Cooperative. This case involves
+ownership of new transmission facilities — referred to as
+“network upgrades” — that will connect a new solar generation
+park to the transmission line. The question is which company
+will own the new facilities, and whether certain existing
+agreements with the operator of the regional transmission
+system or among the companies provide the answer. METC
+claims each agreement grants it exclusive ownership of the
+network upgrades; MPPA and Wolverine claim no agreement
+grants METC that exclusive ownership.
+
+    The Federal Energy Regulatory Commission held no
+agreement identified by METC conclusively determined
+ownership rights and therefore declined to decide the question
+of ownership. Because we agree with the Commission’s inter-
+                                3
+pretation of the relevant agreements, we deny METC’s peti-
+tions for review.
+
+                        I.   Background
+
+     The Midcontinent Independent System Operator (MISO)
+runs the electricity transmission system in portions of 15
+midwestern and southern states. METC, Wolverine, and MPPA
+are “Transmission Owners” (TOs) in the MISO system, which
+means they have conveyed functional control of their
+transmission facilities (in whole or in part) to MISO. See
+Midcontinent Open Access Transmission Tariff (MISO Tariff),
+§ 1.T, https://perma.cc/8MPS-HWVB. MISO TOs sign a
+Transmission Owners Agreement (TOA) under which the TO
+“retains ownership and physical control over [its] facilities, but
+operates them according to MISO’s instructions.” Wis. Pub.
+Power, Inc. v. FERC, 493 F.3d 239, 248 (D.C. Cir. 2007)
+(cleaned up).
+
+      Under MISO’s tariff, all customers pay a “single rate to
+use the entire MISO transmission system, based upon the
+volume of power the customer carries on the system.” Midwest
+ISO Transmission Owners v. FERC, 373 F.3d 1361, 1365 (D.C.
+Cir. 2004) (cleaned up). MISO’s TOA and tariff operate
+alongside certain contracts signed prior to the creation of MISO
+— referred to as Grandfathered Agreements (GFAs) —
+between TOs and other utilities. See MISO Tariff, Attach. P
+(listing the GFAs). Certain of those agreements, including the
+GFAs relevant to this case, are “carved out” of the tariff,
+meaning they are not subject to most tariff requirements. See
+id. §§ 1.C, 1.G (defining “Carved Out GFA(s)” and
+“Grandfathered Agreement(s)”); §§ 38.8.4–38.8.4.7 (setting
+out the terms by which carved-out GFAs must abide); Wis. Pub.
+Power, Inc., 493 F.3d at 253–55.
+                               4
+A. The Network Upgrade Process
+
+     When a generator of electricity (referred to as an
+Interconnection Customer) in MISO’s service area seeks to
+bring its power to market, it submits a request to interconnect
+to the MISO transmission grid. MISO then analyzes the request
+and determines whether any network upgrades are needed to
+ensure that the new connection does not harm the grid. MISO
+sends to the Interconnection Customer and the affected TO(s)
+a pro forma Generator Interconnection Agreement (GIA) that
+identifies the specific upgrades required and their estimated
+cost. See Pioneer Trail Wind Farm, LLC v. FERC, 798 F.3d
+603, 606 (7th Cir. 2015).
+
+     The parties negotiate over the appendices to the pro forma
+GIA, which in this case address, among other issues, the
+ownership of the network upgrades and the reimbursement of
+construction costs. Once executed, the GIA becomes effective.
+If negotiations reach an impasse, however, then any party “may
+request to end negotiations,” after which MISO will submit the
+unexecuted GIA to the Commission to resolve the disputed
+issues. MISO Tariff, Attach. X, § 11.2; see also
+Standardization of Generator Interconnection Agreements and
+Procedures, 104 FERC ¶ 61,103, at ¶¶ 233–235, 296 (2003).
+
+     In this case, Eagle Creek Solar Park LLC is developing a
+120-megawatt (MW) solar generation facility that will provide
+power to MISO’s grid. MISO determined that interconnection
+with the grid will require the construction of network upgrades,
+which will connect the solar park to the grid by way of an
+existing line known as Styx-Murphy. See Figure 1 (denoting
+the solar park in green and the Styx-Murphy line in fuschia).
+                             5
+     Figure 1: Network Upgrades for Palomino Line
+
+
+
+
+The Styx-Murphy line is jointly owned by METC (1%), MPPA
+(35%), and Wolverine (64%). MPPA and Wolverine acquired
+their ownership interests in 1992 through separate GFAs with
+Consumers Energy Company as part of an antitrust settlement
+to remedy Consumers’s market power in the supply of bulk
+power in Lower Michigan. See Belle River Transmission
+Ownership and Operating Agreement Between Consumers
+Power Company and the Michigan Public Power Agency
+(MPPA Agreement), Dec. 1, 1982, App. 197–362; Wolverine
+Transmission Ownership and Operating Agreement Between
+Consumers Power Company and Wolverine Power Supply
+Cooperative, Inc. (Wolverine Agreement), July 27, 1992, App.
+364–412. In 2020 METC acquired its ownership interest in the
+line from Consumers. We shall refer to the agreements
+collectively as the Styx-Murphy Agreements.
+                                6
+B. The Ownership Provisions
+
+     Negotiations over the proposed GIA for the Eagle Creek
+solar park include determining which of METC, MPPA, and
+Wolverine will own what network upgrades, if any. Per METC,
+three pre-existing agreements purportedly govern those
+negotiations. The first is the TOA: Appendix B, § VI (herein-
+after “§ VI”) provides that
+
+    (i) ownership and the responsibility to construct facilities
+    which are connected to a single Owner’s system belong to
+    that Owner . . . (ii) ownership and the responsibilities to
+    construct facilities which are connected between two (2)
+    or more Owners’ facilities belong equally to each Owner,
+    . . . and (iii) ownership and the responsibility to construct
+    facilities which are connected between an Owner(s)’
+    system and a system or systems that are not part of MISO
+    belong to such Owner(s) unless the Owner(s) and the non-
+    MISO party or parties otherwise agree[.]
+
+The meaning of this provision is at the core of the parties’
+dispute.
+
+     The other two are the Styx-Murphy Agreements. They
+grant MPPA and Wolverine (1) the right to transmit electricity
+over the Styx-Murphy line, see MPPA Agreement § 1.11;
+Wolverine Agreement, §§ 1.5, 3.1, and (2) an undivided
+ownership interest in that line as a tenant in common, see
+MPPA Agreement § 2.1; Wolverine Agreement, § 2.1. The
+MPPA Agreement also specifies that MPPA’s ownership
+interest is “related to its ownership interest” in the Belle River
+generation station, § 12.2.1, and the Wolverine Agreement
+specifies Wolverine’s ownership interest “has been acquired to
+provide Wolverine with the right to transmit 105 MW over
+Consumers’ transmission system,” § 2.1.
+                              7
+     During negotiations over the proposed GIA, MISO, Eagle
+Creek, METC, MPPA, and Wolverine were unable to reach an
+agreement on the ownership of any of the network upgrades
+identified by MISO apart from two that all agree will be owned
+solely by METC.
+
+C. The Proceedings Before the Commission
+
+     In July 2023, MISO submitted a proposed GIA to the
+Commission to address this dispute, explaining that Eagle
+Creek could not make a decision about proceeding with its
+solar facility until the dispute was resolved. The proposed GIA
+would have assigned the ownership of the network upgrades
+equally between METC, MPPA, and Wolverine pursuant to
+§ VI(ii) of the TOA. MPPA and Wolverine supported this
+proposal. METC, on the other hand, opposed the proposal,
+arguing MPPA and Wolverine do not have any ownership rights
+in the network upgrades.
+
+     According to METC, the Styx-Murphy Agreements do not
+provide for those rights, and only those Agreements could be a
+basis for ownership of the network upgrades because § VI of
+the TOA was not intended to address issues related to the
+ownership of network upgrades necessitated by the generator
+interconnection process. METC therefore asked that the
+Commission hold MPPA and Wolverine ineligible for owner-
+ship of the network upgrades and direct MISO to execute a
+three-party agreement among itself, Eagle Creek, and METC.
+
+     After multiple submissions from METC, MPPA, and
+Wolverine, the Commission declined to determine ownership
+rights and rejected the GIA without prejudice to MISO’s filing
+another GIA. Midcontinent Indep. Sys. Operator, Inc., 185
+FERC ¶ 61,182 (2023). It first concluded MISO incorrectly
+relied upon § VI(ii) of the TOA to determine ownership rights
+because that clause applies only when network upgrades are
+                               8
+being connected “between two (2) or more [Transmission]
+Owners’ facilities.” It also disagreed with METC’s argument
+that the Styx-Murphy Agreements excluded MPPA and
+Wolverine from having an ownership interest in network
+upgrades, finding instead that “nothing in the GFAs prohibit
+them from owning generator interconnection-related network
+upgrades” or “limit [their] ownership interest to their trans-
+mission capacity entitlements[.]” Id. at ¶¶ 83–84. In sum, the
+Commission held no provision instanced by the parties
+determined ownership of the network upgrades.
+
+     METC petitioned for a rehearing, arguing for the first time
+that Clause (i) of § VI unambiguously grants it ownership of
+the contested network upgrades. Only it, per METC, is a TO
+that owns a “system” as that term is used in Clause (i). In its
+view, the jointly-owned Styx-Murphy line is a “facility,” not a
+“system.” It also reiterated its arguments that the Styx-Murphy
+Agreements preclude MPPA and Wolverine from owning any
+of the network upgrades. The Commission rejected both these
+positions. Midcontinent Indep. Sys. Operator, Inc., 187 FERC
+¶ 61,015 (2024) (Rehearing Order). The Commission again
+“decline[d] to determine ownership rights,” leaving it to the
+TOs to negotiate ownership of the network upgrades among
+themselves. METC then petitioned this court for review of both
+Commission decisions.
+
+    Four months after the Commission denied rehearing,
+MISO submitted an updated proposed GIA to the Commission
+with a “placeholder” provision for joint ownership of the
+network upgrades. See MISO, Inc., FERC Dkt. ER24-2900
+(Aug. 28, 2024). The Commission accepted this GIA for filing.
+See id. (Oct. 7, 2024) (letter order). When asked at oral
+argument, counsel for METC reported that, despite the
+ownership being unresolved, METC is now building the net-
+work upgrades. Oral Arg. Tr. 5:19–23. Eagle Creek is initially
+                                9
+funding a large portion of the construction costs, for which it
+may later be reimbursed per the 2024 GIA, Ex. A9 (explaining
+its eligibility for 100% reimbursement pursuant to Attachment
+FF, § III.A.2.d.4 of the TOA).
+
+                         II.    Analysis
+
+     METC reiterates here the arguments it made in its request
+for rehearing by the Commission: Section VI(i) of the TOA and
+the Styx-Murphy Agreements each independently compels the
+conclusion that METC is the sole owner of all the disputed
+network upgrades.
+
+A. Standing and Ripeness
+
+     Under Section 313(b) of the Federal Power Act, 16 U.S.C.
+§ 825l(b), we have jurisdiction to review a petition only from a
+party “aggrieved” by an order of the Commission. A party is
+“aggrieved” if it makes “the same showing of injury that
+suffices to establish standing” under Article III of the
+Constitution of the United States. San Diego Gas & Elec. Co.
+v. FERC, 913 F.3d 127, 136 (D.C. Cir. 2019). That is, the
+petitioner must show it (1) suffered an injury in fact, (2) that is
+fairly traceable to the challenged agency action, and (3) will
+likely be redressed by a favorable decision. Kan. Corp.
+Comm’n v. FERC, 881 F.3d 924, 929 (D.C. Cir. 2018) (citing
+Lujan v. Defs. of Wildlife, 504 U.S. 555, 560–61 (1992)).
+
+     The Commission argues that METC does not have
+standing because the Commission rejected the proposed GIA
+to which METC had objected, in effect ruling in METC’s favor.
+See Showtime Networks Inc. v. FCC, 932 F.2d 1, 4 (D.C. Cir.
+1991). That is, “the substance of the [Commission’s] decision
+itself” did not result in an injury-in-fact, and therefore does not
+support METC’s standing. New England Power Generators
+Ass’n v. FERC, 707 F.3d 364, 369 (D.C. Cir. 2013).
+                              10
+     The Commission is incorrect. To be sure, “neither a FERC
+decision’s legal reasoning nor the precedential effect of such
+reasoning confers standing unless the substance of the decision
+itself gives rise to an injury in fact.” Id. at 369. Here the
+Commission, on the way to declining to determine ownership
+rights, rejected METC’s claim that it has exclusive ownership
+of the network upgrades. As METC puts it, the Commission’s
+decision is equivalent to a dismissal without prejudice despite
+METC’s request for, in effect, a dismissal with prejudice. See
+El Paso Nat. Gas Co. v. United States, 750 F.3d 863, 885 (D.C.
+Cir. 2014) (“Even though [appellant] prevailed on the
+counterclaim, it is within its rights to ‘appeal a dismissal
+without prejudice on the grounds that it wants one with
+prejudice’” (quoting Sea–Land Serv., Inc. v. DOT, 137 F.3d
+640, 647 n.4 (D.C. Cir. 1998))).
+
+     As a result, METC must now engage in complex and
+costly negotiations with MPPA and Wolverine that would not
+otherwise be necessary. METC’s continuing inability to ascer-
+tain its ownership share also means it “cannot estimate the
+eventual amount of financial return from the project,” METC
+Reply Br., Declaration of Andrew Jamieson ¶ 8, which hinders
+“its present ability to plan for capital expenditures and
+financing,” id.
+
+     This harm is not, as the Commission argues, attenuated or
+hypothetical. Rather, it has “a present injurious effect on
+[METC’s] business decisions[.]” Great Lakes Gas
+Transmission Ltd. v. FERC, 984 F.2d 426, 430 (D.C. Cir. 1993).
+Because its injury would be redressed if this court were to hold
+that it alone owns the network upgrades, it has standing to
+pursue its claim here.
+
+     The Commission also argues this petition is not ripe for
+review because any injury to METC “depends on the
+                              11
+[Commission] later accepting, over [METC’s] objection, an
+interconnection agreement reflecting shared ownership of the
+contested network upgrades.” FERC Br. 35. In other words,
+METC has suffered no imminent injury.
+
+    Here the Commission has merely “repackaged its standing
+argument” as a ripeness argument. City of Clarksville v. FERC,
+888 F.3d 477, 482 (D.C. Cir. 2018). “Our discussion of
+standing dooms that contention,” id.; for, as we have seen, the
+Commission’s decision not to determine ownership rights
+imposes a present injury on METC.
+
+B. The Relevant Agreements Do Not Give METC
+   Exclusive Ownership of the Network Upgrades.
+
+     An order by the Commission will be set aside if it is
+“arbitrary, capricious, an abuse of discretion, or otherwise not
+in accordance with law.” 5 U.S.C. § 706(2)(A). “This standard
+of review is deferential to the agency; we must uphold
+decisions that are reasonable and reasonably explained.”
+NextEra Energy Res., LLC v. FERC, 118 F.4th 361, 368 (D.C.
+Cir. 2024) (cleaned up).
+
+     We previously “have deferred to [the Commission’s]
+reasonable interpretation of ambiguous tariffs and contracts
+within its jurisdiction” under principles of deference that are
+“Chevron-like” in nature. NextEra Energy Res., 118 F.4th at
+368 (referring to Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837,
+843–44 (1984)). We need not decide whether those principles
+survive the overruling of Chevron in Loper Bright Enterprises
+v. Raimondo, 603 U.S. 369 (2024), because “[the
+Commission’s] interpretation of the disputed provisions of the
+[relevant agreements] are in fact correct.” Id.
+                               12
+        1. Exclusive Ownership Under the TOA
+
+     As in its request for rehearing, METC argues MPPA and
+Wolverine are ineligible for ownership of the network upgrades
+as owners of the jointly-owned Styx-Murphy line because only
+METC’s transmission network, and not the line, qualifies as a
+“system” within the meaning of § VI(i) of the TOA. As detailed
+above, § VI provides in relevant part that ownership of
+facilities:
+
+    [i] which are connected to a single Owner’s system belong
+    to that Owner . . . [ii] which are connected between two (2)
+    or more Owners’ facilities belong equally to each Owner,
+    unless such Owners otherwise agree . . . and [iii] which are
+    connected between an Owner(s)’ system and a system or
+    systems that are not part of MISO belong to such Owner(s)
+    unless the Owner(s) and the non-MISO party or parties
+    otherwise agree.
+
+As discussed, the Commission rejected METC’s argument,
+reasoning that because the Styx-Murphy line is jointly owned,
+and § VI does not address the interconnection of network
+upgrades to a jointly owned system, no provision of § VI
+applies to this situation.
+
+     METC argues the Styx-Murphy line should properly be
+understood as a “facility” within METC’s broader system —
+and not as a “system” itself. The premise of its argument is that
+“[t]he TOA uses the words ‘system’ and ‘facilities’ to mean
+different things.” Whereas the Styx-Murphy line is a jointly
+owned facility to which no provision of § VI applies, METC
+argues it alone among the contending parties owns a collection
+of facilities that qualifies as a “system” under § VI. Moreover,
+METC contends it is the “single Owner” of this “system,” so
+that § VI(i) grants it exclusive ownership of the network
+upgrades.
+                                 13
+      Let us take a step back to view this issue in context. The
+meaning of the TOA is governed by Delaware law. “When
+interpreting a contract, Delaware courts read the agreement as
+a whole and enforce the plain meaning of clear and unambig-
+uous language.” Manti Holdings, LLC v. Authentix Acquisition
+Co., 261 A.3d 1199, 1208 (Del. 2021); see also Okla. Gas &
+Elec. Co. v. FERC, 11 F.4th 821, 827 (2021) (“A tariff provision
+must be understood according to its plain meaning, which we
+draw from its text and context”). It is important to interpret con-
+tracts “as a whole . . . so as not to render any part of the contract
+mere surplusage” or “to render a provision or term meaningless
+or illusory.” In re Shorenstein Hays-Nederlander Theatres LLC
+Appeals, 213 A.3d 39, 56 (Del. 2019) (cleaned up).
+
+     METC is correct, of course, that Clauses (i) and (ii) of § VI
+revolve around different terms, respectively “system” and
+“facilities.” Its argument that the MISO signatories intended
+these two terms always to mean different things, despite its
+appeal in the abstract, is unconvincing — indeed unworkable
+— as applied. METC proceeds from a dictionary definition of
+“system” as “a regularly interacting or interdependent group of
+items forming a unified whole.” MERRIAM-WEBSTER (2025),
+https://perma.cc/T8AZ-GJVJ. It follows, per METC, that a
+“system” must be the aggregation of facilities into something
+larger, which excludes the Styx-Murphy line. But that line is
+itself the aggregation of an “interdependent group of items.”
+See Wolverine Agreement, Ex. A (listing the “structures,
+equipment and facilities” of the Tittabawassee-South line, now
+known as the Styx-Murphy line). The definition METC relies
+upon therefore does not demarcate as sharp a distinction
+between a “system” and a “facility” as METC would like.
+
+     Perhaps for that reason, METC does not attempt to draw a
+line between a “system” and a “facility” generally, instead
+arguing only that the Styx-Murphy line cannot be characterized
+                               14
+as a “system.” Rather than the dictionary definition, METC
+here relies primarily upon passing references, in Commission
+orders from this and prior cases, to METC’s “system” and to
+the Styx-Murphy “facility.” METC Br. 24–25 (collecting
+references). The orders METC cites, however, merely refer to
+METC’s “transmission system” and the Styx-Murphy line as a
+“facility” without reference to § VI; indeed, nothing in those
+orders turned upon the definition of these words. See, e.g.,
+Midwest Indep. Transmission Sys. Operator, Inc., 106 FERC
+¶ 61,219, at ¶ 16 (2004) (finding the continued use of
+transmission service rights pursuant to the Styx-Murphy
+Agreements just and reasonable in a settlement agreement
+about a joint pricing zone); Mich. Pub. Power Agency, 128
+FERC ¶ 61,268, at ¶ 2 (2009) (resolving a dispute over
+allocation of certain charges under the Michigan Joint Zone
+settlement agreement). As a result, although METC is correct
+that the Commission’s interpretation of a tariff provision in a
+prior order is relevant to its interpretation of an analogous
+provision at a later date, see N.Y. Power Authority & Hudson
+Transmission Partners, LLC v. FERC, 109 F.4th 550, 557–58
+(D.C. Cir. 2024), no prior order here decided an issue that bears
+upon the interpretation of § VI.
+
+     A better and more harmonious reading of § VI and of the
+MISO TOA as a whole supports the Commission’s conclusion
+that the Styx-Murphy line qualifies as a “system” because the
+signatories did not intend for “system” and “facilities” always
+to mean different things. Begin with the Commission’s
+observation that the definition of Transmission System in the
+TOA “meaningfully inform[s]” the interpretation of “system”
+in § VI of the Appendix thereto. A Transmission System
+includes “[t]he transmission facilities of the Owners which are
+committed to the operation of MISO” and that meet certain
+conditions. MISO Tariff, § 1.T. This definition indicates that a
+                               15
+“system” is not an abstract entity but is rather a tangible
+collection of facilities.
+
+    METC would have us stop there, arguing a “system”
+cannot be just one facility. METC Reply Br. 13. Not so. As the
+Commission pointed out, the owner of a single facility
+committed to the MISO Transmission System is a TO, so any
+reading of “system” in § VI(i) to apply only to an Owner of
+multiple facilities would prevent any ownership of a network
+upgrade by a TO with a single facility. Rehearing Order, 187
+FERC ¶ 61,015, at ¶ 37 n.90 (citing Republic Trans., Inc., 161
+FERC ¶ 61,036 (2017)). It would make no sense for the other
+TO signatories or for MISO itself to discriminate in this manner
+against the Owner of only one facility.
+
+     METC’s other arguments against the relevance and
+substance of the definition of “Transmission System” in the
+tariff are unpersuasive. METC first argues reliance upon this
+defined term “override[s] Section VI’s clear delineation
+between ‘system’ and ‘facilities,’” which are undefined terms.
+METC Br. 29. But METC starts from a false premise: as we
+have seen, the delineation between these two undefined terms
+in § VI is hardly clear.
+
+     METC’s next argument, that the definition of
+“Transmission System” cannot support the Commission’s
+interpretation because that term refers to the collective MISO
+system and not to a single facility, fares no better. Although
+METC may be correct that “Transmission System” refers to the
+overall MISO system, the Commission did not import that
+definition into § VI. Instead it determined that the definition of
+“system” in § VI should not be understood to exclude a single
+transmission line. 1 Indeed, even METC’s “system” is a subset
+
+1
+  The Commission also argues that it appropriately looked to the
+definition of “Transmission System” in MISO’s unexecuted GIA to
+                                 16
+of the larger MISO Transmission System. It is therefore
+unsurprising that a “system” as used in § VI may be a subset of
+a larger “system.”
+
+     The structure of § VI also supports the Commission’s
+interpretation. Consider a situation in which a network upgrade
+will connect the facilities of two Owners and those facilities sit
+within a third Owner’s “system.” As the Commission
+concluded, METC’s rigid distinction between “system” and
+“facility” would mean that both Clause (i) and Clause (ii)
+would apply to this situation, and METC could obtain owner-
+ship of the network upgrades — despite not owning the facili-
+ties to which the network upgrade would connect — “simply
+because that existing facility was located within its ‘system.’”
+That result “would ignore the ownership, and responsibilities,
+of the actual owner(s) of the existing transmission facilit(ies)”
+and “would render . . . section VI(ii) . . . meaningless.” Indeed,
+this scenario would be avoided if the signatories used “system”
+and “facility” interchangeably, in which case only Clause (ii)
+would apply.
+
+      METC responds that this argument is purely hypothetical
+and could be avoided with “interpretive principles,” but the
+better reading of § VI is one that “gives effect to all of [the
+provisions of § VI] and . . . avoids rendering any provision
+meaningless.” Okla. Gas & Elec. Co., 11 F.4th at 828–29
+(cleaned up). The Commission’s interpretation of § VI does
+this.
+
+    METC attempted to evade this scenario at oral argument
+by positing that Clause (ii) applies only to a “facility”
+connecting two different “systems” within the MISO
+
+bolster its interpretation of “system.” Because that definition is not
+in the TOA itself, we do not find it probative of the definition of
+“system” in § VI.
+                               17
+Transmission System, such as between a system in Iowa and a
+system in Wisconsin. If so, METC argues Clause (ii) would not
+apply to the interconnection of network upgrades between the
+facilities of two Owners where those facilities sit within a third
+Owner’s “system.” This view actually cuts against METC:
+First, it conflates the meaning of “system” and of “facility”:
+METC argues that Clause (ii) applies to multiple MISO
+“systems,” but that provision speaks of “facilities.” Second, the
+orders METC cited in support merely hold that Clause (ii) was
+correctly applied to the interconnection at issue in that order.
+They did not foreclose applying that clause to the connection
+of network upgrades between two facilities that are located
+within a single system. ITC Midwest, LLC v. Am. Transmission
+Co., 142 FERC ¶ 61,096, at ¶¶ 38–39, 41 (2013); Xcel Energy
+Servs. Inc. v. Am. Transmission Co., 140 FERC ¶ 61,058, at
+¶¶ 58–61 (2012), reh’g denied 147 FERC ¶ 61,089 (2014);
+Pioneer Transmission, LLC v. N. Ind. Pub. Serv. Co., 140
+FERC ¶ 61,057 (2012).
+
+     Finally, METC again makes the argument that because
+Clause (i) addresses the connection of a network upgrade to a
+“system” and Clause (ii) addresses the connection of a network
+upgrade to “facilities,” these two terms must always mean
+different things. That argument, however, ignores Clause (iii),
+which addresses the connection of network upgrades “between
+an Owner(s)’ system and a system or systems that are not part
+of MISO.” Clauses (ii) and (iii) use “facilities” and “system” to
+describe the objects to which a network upgrade connects even
+though the key distinction between these provisions is whether
+a connection is being made between two MISO members or
+between a MISO member and a nonmember. METC makes no
+attempt to reconcile Clause (iii) with its interpretation of
+Clause (i).
+                               18
+     The Commission made a somewhat different point in its
+brief, asserting that “[t]he meaningful distinction in Section VI
+is the number of Midcontinent Owners at the points of
+interconnection.” FERC Br. 42. METC contends this point
+cannot be found in the Commission’s decisions and is therefore
+a post-hoc rationalization that this court cannot consider.
+METC Reply Br. 15 (citing Motor Vehicle Mfrs. Ass’n of U.S.,
+Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 50 (1983)).
+We, however, do not rely upon the point in the Commission’s
+brief; instead, we simply observe that Clause (iii) bolsters the
+Commission’s holding in the Commission’s Rehearing Order
+that § VI uses “system” and “facilities” interchangeably.
+
+     In sum, we agree with the Commission that the Styx-
+Murphy line is a “system” as that term is used in § VI(i).
+Because METC is not the “single” Owner of that line, its claim
+to exclusive ownership of the network upgrades fails.
+
+    2. The Styx-Murphy Agreements
+
+     As an alternative to its arguments about the MISO TOA,
+METC contends the overall “language and intent” of the Styx-
+Murphy Agreements preclude MPPA’s and Wolverine’s
+ownership of network upgrades. As mentioned in Part I.B,
+METC cites as support for this view the provisions granting
+those TOs the right to transmit power over the Styx-Murphy
+line, awarding them an ownership interest in the line, and
+specifying both that MPPA’s ownership interest is “related to
+its ownership interest” in the Belle River generation station and
+that Wolverine’s ownership interest “has been acquired to
+provide Wolverine with the right to transmit 105 MW over
+Consumers’ transmission system.” METC argues those provi-
+sions create “limited grants of ownership in specified facilities”
+only to transmit specified amounts of power over Consumers’s
+(now METC’s) network. METC Br. 39. METC also claims the
+                               19
+origin of the Agreements as a product of an antitrust settlement
+further supports its position; the Agreements were intended
+only to prevent Consumers from denying competitors market
+access. It would therefore be wrong, per METC, to read the
+Agreements as “convey[ing]” to MPPA and Wolverine any
+ownership interest in network upgrades. Id.
+
+     Michigan law governs the interpretation of the Styx-
+Murphy Agreements. “The cardinal rule” in interpreting a
+contract is to determine the intent of the parties. City of Grosse
+Pointe Park v. Mich. Mun. Liab. & Prop. Pool, 473 Mich. 188,
+702 N.W.2d 106, 113 (2005) (cleaned up) (Cavanagh, J.). “[I]f
+the language of the contract is clear and unambiguous, it is to
+be construed according to its plain sense and meaning.” Zahn
+v. Kroger Co. of Michigan, 483 Mich. 34, 764 N.W.2d 207, 211
+(2009). A Michigan court “will not create ambiguity where the
+terms of the contract are clear.” City of Grosse Pointe Park, 702
+N.W.2d at 113 (cleaned up).
+
+    Contrary to METC’s characterization, the Commission did
+not determine the Styx Murphy Agreements “convey”
+ownership in the network upgrades to MPPA and Wolverine.
+Rather, the Commission examined the Styx Murphy
+Agreements and found “nothing in the [Agreements] prohibit
+[MPPA and Wolverine] from owning interconnection-related
+network upgrades.” (Emphasis added.)
+
+     It is clear that none of the specific provisions to which
+METC points in any way bars the ownership of network
+upgrades. METC accordingly argues the contracts as a whole
+and their antitrust origin demonstrate an intent to impose that
+bar. We think not. The Agreements as a whole granted MPPA
+and Wolverine each, for the purpose of transmitting power on
+the Styx-Murphy line, both a capacity entitlement and an
+undivided ownership interest in the line as a tenant in common,
+                                20
+which means they may transmit power across the Styx-Murphy
+line and may do so as an owner of the line. See Tenancy in
+Common, Black’s Law Dictionary (6th ed. 1990) (defining a
+“tenancy in common” as “[a] form of ownership whereby each
+tenant (i.e., owner) holds an undivided interest in property”
+with no right of survivorship). Nothing in the Agreements
+suggests these owners are unlike any other joint owner with
+respect to the ownership of network upgrades along their line.
+
+     Nor does the history of these Agreements provide any
+support for METC’s position. We proceed from METC’s
+explanation that the Styx-Murphy Agreements were the
+product of an antitrust settlement, intended to remedy
+Consumers’s market power in the supply of bulk power in
+Lower Michigan. The Agreements were therefore intended to
+guarantee MPPA’s and Wolverine’s ability to transmit power to
+their customers and, per METC, nothing more.
+
+     As an initial matter, it is unclear whether the history of the
+Agreements should inform our analysis here. METC does not
+claim the Agreements are ambiguous, and relatively recent
+Michigan case law says a “clear and unambiguous” contractual
+term is to be construed “according to its plain sense and
+meaning.” Zahn, 764 N.W.2d 207, 211 (2009); but see W. O.
+Barnes Co., Inc. v. Folsinski, 337 Mich. 370, 60 N.W.2d 302,
+306 (1953) (explaining a court must construe a contract in light
+of the parties’ purpose “as indicated by the language used, read
+in the light of the attendant facts and circumstances”).
+
+     In any event, we do not agree that the history of the
+Agreements has the significance METC suggests. If the parties
+intended the Agreements narrowly to “eliminate Consumers’s
+ability to exclude its competitors in the generation market from
+using its lines,” METC Br. 40 (cleaned up), the Agreements
+could have included only the right for MPPA and Wolverine to
+                              21
+transmit power over the Styx-Murphy line. That the
+Agreements also grant the TOs a tenancy in common suggests
+that unrestricted pro rata ownership in the Styx-Murphy line
+would enable them to compete on an equal footing with other
+TOs, for example by exercising their right to build network
+upgrades when doing so would be advantageous. Limiting the
+Agreements as METC requests, therefore, could only help
+entrench rather than restrain METC, an effect at odds with the
+pro-competitive purpose of the agreements.
+
+     In sum, reading the Agreements to prevent the ownership
+of network upgrades would extend the terms related to
+transmission over, and ownership of, the Styx-Murphy line to
+circumstances that are unmentioned and unlike those the
+Agreements do address. Although METC claims it is merely
+interpreting the Agreements as written, we agree with the
+Commission that METC in essence would add to the
+Agreements a new prohibition against ownership of network
+upgrades. That, however, we cannot do. Zahn, 764 N.W.2d at
+211 (stating a court “may not make a new contract for parties
+under the guise of a construction of the contract, if doing so
+will ignore the plain meaning of words chosen by the parties”).
+
+                     III.    Conclusion
+
+    For the foregoing reasons, the petitions for review are
+
+                                                       Denied.
+

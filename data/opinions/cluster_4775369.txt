@@ -1,0 +1,1509 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued May 11, 2020                Decided August 14, 2020
+
+                       No. 19-1139
+
+             POET BIOREFINING, LLC, ET AL.,
+                     PETITIONERS
+
+                             v.
+
+    ENVIRONMENTAL PROTECTION AGENCY AND ANDREW
+             WHEELER, ADMINISTRATOR,
+                   RESPONDENTS
+
+
+        On Petition for Review of an Action of the
+      United States Environmental Protection Agency
+
+
+    Seth P. Waxman argued the cause for petitioners. With
+him on the briefs were Brian M. Boynton, David M. Lehn, Paul
+Vanderslice, Ethan G. Shenkman, Jonathan S. Martel, William
+C. Perdue, and Sally L. Pei.
+
+    Paul E. Salamanca, Attorney, U.S. Department of Justice,
+argued the cause for respondents. On the brief were Jonathan
+D. Brightbill, Principal Deputy Assistant Attorney General,
+and Kate R. Bowers, Attorney. Perry Rosen, Attorney, entered
+an appearance.
+
+    Before: HENDERSON, GARLAND, and PILLARD, Circuit
+Judges.
+                               2
+    Opinion for the Court filed by Circuit Judge PILLARD.
+
+    Opinion concurring in part and dissenting in part filed by
+Circuit Judge HENDERSON.
+
+     PILLARD, Circuit Judge: Cellulosic biofuel is a renewable
+fuel derived from plant fibers like switchgrass or the husks of
+corn kernels, and it produces the least lifecycle greenhouse gas
+emissions of the four renewable fuels promoted by the Clean
+Air Act’s Renewable Fuel Standard program. See 42 U.S.C.
+§ 7545(o)(1). Quantifying how much cellulosic biofuel
+companies produce becomes complicated when they make
+ethanol from partially cellulosic feedstocks like corn kernels.
+Biochemically processing the kernels produces ethanol
+representing both conventional biofuel from the starchy
+innards and, in some fraction, cellulosic biofuel from the husks.
+The challenge is finding an accurate method to measure the
+amount of cellulosic biofuel in the homogenous ethanol yielded
+by the whole kernels.
+
+     Recognizing the difficulty of ascertaining the cellulosic
+fraction, the U.S. Environmental Protection Agency (EPA)
+adopted a regulation known as the Pathways II Rule, allowing
+renewable-fuel producers to use a measurement method
+(1) “certified by a voluntary consensus standards body”
+(VCSB), or a method (2) “that would produce reasonably
+accurate results as demonstrated through peer reviewed
+references.” 40 C.F.R. § 80.1450(b)(1)(xiii)(B)(3). EPA soon
+noticed what it considered to be troublingly wide variation in
+producers’ measurements, so it issued “Guidance on
+Qualifying an Analytical Method for Determining the
+Cellulosic Converted Fraction of Corn Kernel Fiber Co-
+Processed with Starch” (the Cellulosic Guidance, or Guidance)
+to explain its interpretation of the applicable regulatory
+requirements and clarify the types of analyses and
+                               3
+demonstrations that might meet them.        The Guidance
+elaborated the support needed before EPA could deem a
+VCSB-certified or peer-reviewed method acceptable under the
+Pathways II Rule.
+
+     POET Biorefining, LLC, and ten of its operating
+subsidiaries (collectively, POET) now petition us for review of
+the Cellulosic Guidance, contending that it is a legislative rule
+invalidly promulgated without notice and comment, conflicts
+with the Pathways II Rule it purports to interpret, and imposes
+arbitrary requirements that are impossible to meet. We
+conclude that POET’s challenge to the Guidance’s treatment of
+VCSB-certified methods is unripe because no such method yet
+exists and POET’s registration efforts rely on the peer-
+reviewed alternative. As for POET’s challenge to the
+Guidance’s discussion of peer-reviewed methods, we hold the
+Guidance announces a final, interpretive rule that lawfully
+construes the underlying regulation. We therefore dismiss in
+part and deny in part the petition for review.
+
+                    I. BACKGROUND
+
+    The Clean Air Act’s Renewable Fuel Standard program
+charges EPA with increasing the domestic supply of four types
+of renewable fuel: cellulosic biofuel, biomass-based diesel,
+advanced biofuel, and total renewable fuel (which includes
+conventional biofuel that is not one of the three other types).
+See 42 U.S.C. § 7545(o). The four fuel types are partially
+“nested,” meaning that cellulosic biofuel is a subcategory of
+advanced biofuel, which in turn is a subcategory of total
+renewable fuel. See Alon Refining Krotz Springs v. EPA, 936
+F.3d 628, 635-36 (D.C. Cir. 2019) (per curiam). Each year,
+based on annual quotas set for each of the four statutorily
+defined renewable fuels, see 42 U.S.C. § 7545(o)(2), EPA
+identifies what percentage of the total amount of transportation
+                               4
+fuel marketed in the United States should consist of each of the
+four types, see id. § 7545(o)(3)(B). To meet those goals, EPA
+annually requires refiners and importers to introduce each type
+of renewable fuel in an amount proportionate to their overall
+fossil-fuel business. See 40 C.F.R. § 80.1407(a). EPA uses
+Renewable Identification Numbers (RINs) to track the type and
+volume of renewable fuels introduced into the U.S. economy.
+See id. § 80.1425.
+
+     RINs make the Renewable Fuel Standard program credit-
+based: Refiners and importers of fossil fuels satisfy their
+annual obligations by acquiring and submitting to EPA a
+quantity of RINs in requisite proportion to the fossil fuel they
+supplied the U.S. transportation market that year. See id.
+§ 80.1427(a)(1); see also 42 U.S.C. § 7545(o)(5). The refiners
+and importers need not themselves produce or introduce
+renewable fuels, but instead can purchase and submit to EPA
+the necessary RINs from renewable-fuel producers like POET.
+See Ams. for Clean Energy v. EPA, 864 F.3d 691, 699 (D.C.
+Cir. 2017). Because RINs play a central role in tracking
+individual compliance and the volume of the overall
+renewable-fuel market, they must accurately reflect the volume
+and type of renewables produced or imported. To promote
+accuracy, EPA requires renewable-fuel producers to include
+certain information with their applications to generate RINs
+and, once registered with EPA, to comply with various
+reporting and recordkeeping requirements. See 40 C.F.R.
+§ 80.1426(a)(1)(iii).
+
+    EPA’s statutory duty to assign each batch of renewable
+fuel “an appropriate amount” of RINs, 42 U.S.C.
+§ 7545(o)(5)(A)(i), becomes more complicated when a
+producer biochemically processes partially cellulosic
+feedstocks (like POET’s corn kernels) into ethanol, a fraction
+of which the producer asserts is derived from the kernels’ husks
+                               5
+so appropriately designated as cellulosic biofuel. One
+difficulty is the absence of “any ready test that could be used
+to identify the amount of a finished fuel that was derived from
+cellulosic versus non-cellulosic components,” the relative
+amounts of which vary significantly depending on the
+producer’s fuel-making process. Regulation of Fuels and Fuel
+Additives: RFS Pathways II, and Technical Amendments to the
+RFS Standards and E15 Misfueling Mitigation Requirements,
+79 Fed. Reg. 42,128, 42,132 (July 18, 2014) (Pathways II
+Rule).
+
+    Here, POET challenges the procedural and substantive
+lawfulness of the Cellulosic Guidance, which explains, in view
+of additional data and experience, EPA’s understanding of the
+Pathways II Rule’s requirement that any method of measuring
+the proportion of cellulosic biofuel must do so with
+“reasonabl[e] accura[cy].” 40 C.F.R.80.1450(b)(1)(xiii)(B)(3).
+
+    A. Pathways II Rule & Memo
+
+     To address the problem of allocating RINs to the portion
+of cellulosic biofuel, if any, produced together with
+conventional biofuel from partially cellulosic feedstocks like
+corn kernels, EPA finalized the Pathways II Rule in July 2014.
+See Pathways II Rule, 79 Fed. Reg. at 42,132. Because they
+are triple-counted (as reflected in cellulosic biofuel’s position
+nested within two larger categories), cellulosic-biofuel RINs
+are more valuable than conventional-biofuel RINs both in
+terms of satisfying annual regulatory obligations and
+generating revenue in the RIN market. See 40 C.F.R.
+§ 80.1427(a)(2)-(3) (providing that RINs corresponding to
+cellulosic biofuel simultaneously count toward cellulosic
+biofuel, advanced biofuel, and total renewable fuel totals, while
+conventional-biofuel RINs count only as total renewable fuel).
+                               6
+     In the Pathways II Rule, EPA describes assignment of
+cellulosic-biofuel RINs to a portion of the renewable fuel
+produced from partially cellulosic feedstocks in terms of what
+it calls the “cellulosic converted fraction”—the “portion of the
+feedstock that is converted” into cellulosic biofuel through an
+applicant’s chosen fuel-making process.             40 C.F.R.
+§ 80.1426(f)(3)(vi); see also Pathways II Rule, 79 Fed. Reg.
+at 42,132, 42,134. The Pathways II Rule requires that
+producers like POET, seeking to register with EPA to begin
+generating cellulosic-biofuel RINs from biochemically
+processing partially cellulosic feedstocks, identify “[t]he
+cellulosic converted fraction (CF) that will be used for
+generating [cellulosic-biofuel] RINs.”             40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(2). To enable EPA to determine
+whether a producer’s cellulosic converted fraction is a
+sufficiently reliable basis for EPA to award cellulosic-biofuel
+RINs, the Pathways II Rule requires producers to supply the
+data “used to calculate the cellulosic CF.”                  Id.
+§ 80.1450(b)(1)(xiii)(B)(3); see also Pathways II Rule, 79 Fed.
+Reg. at 42,135.
+
+     Establishing the converted fraction of cellulosic biofuel
+produced through biochemical processing of partially
+cellulosic feedstocks is not straightforward. A producer that
+processes partially cellulosic whole corn kernels into
+renewable fuel cannot directly measure how much of the
+resultant fuel was derived from the cellulose and how much
+from the starch. Measuring the proportion of cellulosic biofuel
+derived from corn kernels is additionally challenging when the
+producer’s conversion process is biochemical rather than
+thermochemical, as POET’s is: Whereas a thermochemical
+process yields cellulosic biofuel in “proportion[] to the
+cellulosic content of the organic fraction of the feedstock
+material” from which the fuel is made, biochemical fuel-
+making processes “convert different fractions of the cellulosic
+                               7
+and non-cellulosic carbohydrates to finished fuel.” Pathways
+II Rule, 79 Fed. Reg. at 42,134.
+
+     In general, EPA estimates (and POET does not dispute)
+that some 5-9% of a corn kernel’s total mass is fiber, and that
+biochemical processing may convert only about 20% of that
+fiber into cellulosic biofuel. See EPA Br. 5-6. By contrast,
+EPA estimates that about 70% of the kernel’s mass is starch
+and that biochemical processing can convert approximately
+88-93% of that starch into non-cellulosic biofuel. See id.
+Based on those estimates, it appears that a very small fraction
+of the resulting ethanol is cellulosic, with the precise fraction
+both difficult to pin down and subject to significant variation
+depending on the specific feedstocks used, and the type and
+efficiency of the producer’s biochemical fuel-making process.
+See Pathways II Rule, 79 Fed. Reg. at 42,134.
+
+     Because there is no way of directly monitoring what
+proportion of ethanol made from whole kernels derives from
+kernel husks, producers must obtain the data necessary to
+calculate the cellulosic converted fraction indirectly by
+devising some method of assessing the cellulosic content of the
+biomass that goes into and is left over from their biochemical
+fuel-making process. Recognizing that no easy or universally
+accepted method exists, the Pathways II Rule requires
+producers to show in their registrations to generate cellulosic-
+biofuel RINs that their method accurately measures the
+cellulosic output of their fuel-making process. See Pathways II
+Rule, 79 Fed. Reg. at 42,132 & n.12, 42,134-35. The Rule
+relies on third parties’ expertise to evaluate methodological
+soundness, requiring that, when calculating the cellulosic
+converted fraction, producers use data that are “representative
+and obtained [1] using an analytical method certified by a
+voluntary consensus standards body, or [2] using a method that
+would produce reasonably accurate results as demonstrated
+                               8
+through peer reviewed references provided to the third party
+engineer performing the engineering review.” 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3). The producer must also describe
+how it uses the data produced by its VCSB-certified or peer-
+reviewed measurement method to calculate the cellulosic
+converted fraction. See id. § 80.1450(b)(1)(xiii)(B)(4).
+
+     To accompany publication of the Pathways II Rule, EPA
+prepared a memorandum—the Pathways II Memo—discussing
+several measurement methods the agency thought might be
+sufficiently rigorous “to determine the [cellulosic] converted
+fraction” in support of a successful application to register for
+cellulosic-biofuel RINs. Id. at 42,132 n.12. One method it
+identified is to measure “the starch content of the feedstock and
+[of the] residual material after conversion”—the portion of the
+incoming feedstock that was not converted to ethanol—to
+determine “how much starch was converted to fuel” and then
+use that estimate to “determine the cellulosic converted
+fraction.” EPA-HQ-OAR-2012-0401-0242, Additional Detail
+on the Calculation of the Cellulosic Converted Fraction, and
+Attribution of Batch RINs for D-Code Dependent Feedstocks 8
+(July 1, 2014) (Pathways II Memo) (J.A. 101). Such an
+estimate would presumably rest on the assumption that non-
+starch elements in the feedstock going into the fuel-making
+process, as well as in the residual material coming out, must be
+cellulosic. The parties use “mass closure” to refer to such a
+method of measuring all non-cellulosic components of the
+inputs and outputs of the producer’s fuel-making process—
+“such as starch, lipids, proteins, ash, and free sugars”—and
+treating the balance of inputs and outputs as cellulosic. EPA
+Br. 13 & n.7; see POET Br. 19.
+
+     When releasing the Pathways II Memo, EPA cautioned
+that such an indirect method of estimating by process of
+elimination the proportion of fiber converted to fuel must
+                               9
+satisfy regulatory “requirements,” including reasonable
+accuracy. Pathways II Rule, 79 Fed. Reg. at 42,132 n.12. To
+help EPA assure the integrity of registrations for cellulosic-
+biofuel RINs, the Pathways II Rule requires producers to
+collect new data and report an updated cellulosic converted
+fraction to EPA on a regular basis and in response to significant
+data variation. See 40 C.F.R. § 80.1451(b)(1)(ii)(U).
+
+     In the years following the Pathways II Rule’s
+promulgation, EPA “observed data showing very high
+variability in results reported for various facilities for the
+cellulosic converted fraction” and received requests from
+stakeholders for additional guidance, prompting the agency to
+reexamine its approach. Compliance Div., EPA Office of
+Transp. & Air Quality, Guidance on Qualifying an Analytical
+Method for Determining the Cellulosic Converted Fraction of
+Corn Kernel Fiber Co-Processed with Starch 3, 8 (May 2019)
+(Cellulosic Guidance) (J.A. 85, 90). To study that variability,
+EPA undertook a statistical analysis—a Monte Carlo (random
+number) simulation using unspecified industry data—to
+examine how converted fractions varied across a range of
+possible data. Id. at 9 (J.A. 91).
+
+     Around the time EPA conducted its Monte Carlo
+simulation, POET applied to EPA to register for cellulosic-
+biofuel RINs using the cellulosic converted fraction it
+calculated using a peer-reviewed method of quantifying
+through mass closure the cellulosic content of the inputs and
+outputs of its biochemical process of making renewable fuel
+from whole corn kernels. After EPA objected to the large data
+variability in POET’s original application, a POET subsidiary
+from South Dakota, POET Biorefining–Hudson, LLC,
+submitted a revised application.
+                               10
+    B. Cellulosic Guidance & Hudson Letter
+
+    On May 7, 2019, POET-Hudson received a letter from
+Assistant EPA Administrator Bill Wehrum following up on
+POET-Hudson’s meeting with EPA Administrator Andrew
+Wheeler (the Hudson Letter). The Hudson Letter explained
+EPA’s interpretation of the Pathways II Rule’s requirements,
+and its then-current view of the shortcomings in POET-
+Hudson’s pending registration application. See Letter from
+William L. Wehrum, Assistant Adm’r, EPA Office of Air &
+Radiation, to Jeff Broin, Chairman & CEO, POET, LLC (May
+7, 2019) (Hudson Letter) (J.A. 107-15). Within a day, the
+Compliance Division of EPA’s Office of Transportation and
+Air Quality released nationally applicable guidance—the
+Cellulosic Guidance—reproducing almost verbatim the
+Hudson Letter’s interpretation of the Pathways II Rule. EPA
+appended to both the Cellulosic Guidance and the Hudson
+Letter the results from its Monte Carlo simulation showing
+high variability, so likely unreliability, of data presented under
+the Rule.
+
+     The parties agree that the Cellulosic Guidance and Hudson
+Letter’s discussion of the requirements for VCSB-certified and
+peer-reviewed methods of obtaining cellulosic data has several
+components, all but one of which deal with what counts as a
+reasonably accurate peer-reviewed method. The documents
+clarify EPA’s position that a producer cannot demonstrate
+“reasonably accurate results” through peer review without
+using a “known, representative reference material.” Cellulosic
+Guidance at 3 (J.A. 85). A reference material is a sample of
+“corn grain biomass” assessed both before and after
+biochemical processing that experts have determined contains
+a certain amount of cellulose. Id. at 3 n.7 (J.A. 85). A producer
+can rely on a reference material with known cellulosic content
+to test the accuracy of its own “analytical method” of
+                               11
+measuring cellulose. Id. at 3 (J.A. 85). Applying the
+producer’s analytical method to the reference material to show
+how close its method comes to the known result for the
+reference material can bolster EPA’s confidence that the same
+method can, in turn, accurately measure the cellulosic content
+in the producer’s own fuel-making process. See id. at 3 & n.8
+(J.A. 85). According to the Guidance and the Letter, any
+method thus verified can be a suitable basis on which to assign
+RINs. See id. at 5 (J.A. 87).
+
+     Recognizing that no “representative reference material” is
+yet available, EPA notes that another federal agency, the
+National Institute of Standards and Technology (NIST), is
+developing “a reference material containing both starch and
+cellulose” in known proportions that reflect corn kernels’
+composition at various stages in a biochemical fuel-making
+process. Id. at 3 (J.A. 85). The documents also clarify that
+producers “cannot” show an analytical method to be
+“reasonably accurate” under the Pathways II Rule if the method
+relies solely on starch-based measurements and then infers the
+proportion of cellulose through mass closure. Id. at 4 (J.A. 86).
+Instead, the method should “directly” measure cellulose. Id.
+
+     Turning to the requirements for VCSB-certified methods,
+the Cellulosic Guidance and Hudson Letter acknowledge that
+no such method yet exists. See id. at 2 (J.A. 84). Nonetheless,
+the documents voice EPA’s skepticism about the ongoing
+effort of one VCSB, the American Society for Testing and
+Materials (ASTM), to certify a method that “derive[s] the
+cellulosic converted fraction by directly measuring the
+conversion of starch,” not cellulose. Hudson Letter at 6
+(J.A. 112); accord Cellulosic Guidance at 6 (J.A. 88). Given
+EPA’s judgment that a solely starch-based method “cannot”
+produce accurate results, both the Guidance and the Letter
+recommend that, if ASTM votes to certify the method under
+                             12
+consideration, producers using that method “should be
+prepared to demonstrate” reasonable accuracy in the same way
+as they would for a peer-reviewed method. Id.
+
+     After discussing how peer-reviewed and VCSB-certified
+methods must establish “reasonably accurate” results, the
+Hudson Letter proceeds to discuss POET-Hudson’s request to
+generate cellulosic-biofuel RINs. POET-Hudson’s peer-
+reviewed methodology relied on mass closure to estimate the
+cellulosic converted fraction of renewable fuel produced from
+biochemically processing corn kernels—measuring “all non-
+cellulosic components” and assuming “the remaining fraction
+that is not measured is ‘cellulosic.’” Hudson Letter at 7 n.17
+(J.A. 113). EPA commended POET-Hudson’s effort to “limit
+variability,” but expressed “significant concerns with relying
+on reference materials that do not contain both starch and
+cellulose.” Id. at 9 (J.A. 115). Because it deemed POET-
+Hudson’s proposed method to be incapable of “reasonably
+approximat[ing] the amount of cellulose that is actually being
+converted into fuel,” EPA explained that it would have to
+further evaluate POET-Hudson’s registration request “once a
+representative reference material with reportable starch and
+cellulosic values has been produced by NIST.” Id.
+
+     POET-Hudson petitioned the Eighth Circuit for review of
+the Hudson Letter’s consideration of its registration
+application. See POET Biorefining – Hudson, LLC v. EPA,
+No. 19-2429 (8th Cir. argued June 16, 2020). That petition
+remains pending. POET and various subsidiaries, including
+POET-Hudson, petitioned for our review of the Cellulosic
+Guidance, which they contend is a “nationally applicable” EPA
+action that (unlike the adjudication of POET-Hudson’s
+application) is reviewable in this court.            42 U.S.C.
+§ 7607(b)(1).
+                              13
+     Specifically, POET argues that the Cellulosic Guidance is
+a legislative rule improperly promulgated without an
+opportunity for notice and comment. Alternatively, even if the
+Guidance is a procedurally proper interpretive rule, POET
+contends that it substantively conflicts with the Pathways II
+Rule by “arrogat[ing]” from third-party reviewers and VCSBs
+to EPA the power to decide what constitutes a reasonably
+accurate method of measuring a biochemical fuel-making
+process’ cellulosic production. POET Br. 45. According to
+POET, EPA has exercised that power in a way that, due to the
+lack of a VCSB-certified method and a NIST-approved
+reference material, leaves producers unable to generate the
+cellulosic-biofuel RINs that the Pathways II Rule affords them.
+
+                    II. JURISDICTION
+
+     Before reaching the merits, we must determine whether we
+have jurisdiction, which here requires deciding whether
+POET’s petition is ripe under Article III of the U.S.
+Constitution and whether the challenged EPA Guidance is a
+“final” agency action under the Clean Air Act, 42 U.S.C.
+§ 7607(b)(1).
+
+    A. POET’s Challenge to the Guidance’s VCSB
+       Discussion Is Unripe
+
+     “The ripeness doctrine generally deals with when a federal
+court can or should decide a case.” Am. Petroleum Inst. v. EPA,
+683 F.3d 382, 386 (D.C. Cir. 2012). We conclude that POET’s
+challenge to the Cellulosic Guidance’s discussion of VCSB-
+certified methods is unripe, but that the challenge to the
+Guidance’s interpretation of the regulatory requirements for
+peer-reviewed methods, which EPA has already applied and
+which presents a purely legal question, is ripe for our review.
+                               14
+     Constitutional ripeness “is subsumed into the Article III
+requirement of standing, which requires a petitioner to allege
+inter alia an injury-in-fact that is ‘imminent’ or ‘certainly
+impending.’” Id. (quoting Nat’l Treasury Emps. Union v.
+United States, 101 F.3d 1423, 1427-28 (D.C. Cir. 1996)).
+Standing—and thus constitutional ripeness—is “not evaluated
+‘in gross,’” so a petitioner challenging distinct components of
+an agency’s guidance must show that we have jurisdiction to
+consider each claim. Sierra Club v. EPA, 873 F.3d 946, 951
+(D.C. Cir. 2017) (quoting Lewis v. Casey, 518 U.S. 343, 358
+n.6 (1996)); see also Del. Dep’t of Nat. Res. & Envtl. Control v.
+EPA, 785 F.3d 1, 10 (D.C. Cir. 2015). Nobody disputes that
+the Pathways II Rule distinguishes VCSB-certified and peer-
+reviewed methods as separate, alternative ways to gain EPA
+approval and generate cellulosic-biofuel RINs, so we evaluate
+the Guidance’s ripeness as to each method. See 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3); POET Br. 20-21; EPA Br. 16-17.
+
+     Because POET has not sought to rely on any VCSB-
+certified method, it has no “actual or imminent” injury in fact
+that is “fairly traceable to the challenged” interpretation
+regarding such methods, so cannot show that portion of its
+petition is ripe. Kan. Corp. Comm’n v. FERC, 881 F.3d 924,
+929 (D.C. Cir. 2018) (quoting Lujan v. Defs. of Wildlife, 504
+U.S. 555, 560 (1992)). “A petitioner that asserts a harm that
+may occur ‘some day,’ with no ‘specification of when the some
+day will be,’ does not establish its standing.” Id. at 930
+(quoting Defs. of Wildlife, 504 U.S. at 564). Uncertainty over
+whether, let alone when, a VCSB might approve a method of
+obtaining data to calculate the cellulosic converted fraction
+renders POET’s challenge to the Guidance’s treatment of
+VCSB-certified methods constitutionally unripe. We therefore
+dismiss POET’s premature challenge to the Cellulosic
+Guidance insofar as it addresses VCSB-certified methods.
+                               15
+     By contrast, the Guidance’s interpretation of the Pathways
+II Rule’s requirements for peer-reviewed methods has already
+had real-world effects. Most concretely, EPA has relied on the
+Guidance in declining to grant POET-Hudson’s application to
+register for cellulosic-biofuel RINs using a peer-reviewed
+method of obtaining cellulosic data. That part of the petition,
+which presents a “purely legal claim in the context of a facial
+challenge” to the Guidance, is ripe for our review. Nat’l Ass’n
+of Home Builders v. U.S. Corps of Eng’rs, 417 F.3d 1272, 1282
+(D.C. Cir. 2005).
+
+    B. The Guidance’s Interpretation Is Final Action
+
+     The Clean Air Act’s requirement of “final action” tracks
+the Administrative Procedure Act’s finality requirement, see
+5 U.S.C. § 704, except that—in contrast to APA finality—
+“finality is jurisdictional” under the Clean Air Act. Valero
+Energy Corp. v. EPA, 927 F.3d 532, 536 (D.C. Cir. 2019). An
+agency’s action is final “if two independent conditions are met:
+(1) the action ‘mark[s] the consummation of the agency’s
+decisionmaking process’ and is not ‘of a merely tentative or
+interlocutory nature;’ and (2) it is an action ‘by which rights or
+obligations have been determined, or from which legal
+consequences will flow.’” Soundboard Ass’n v. FTC, 888 F.3d
+1261, 1267 (D.C. Cir. 2018) (quoting Bennett v. Spear,
+520 U.S. 154, 177-78 (1997) (alteration in Soundboard
+Ass’n)).
+
+     “The consummation prong of the finality inquiry requires
+us to determine ‘whether an action is properly attributable to
+the agency itself and represents the culmination of that
+agency’s consideration of an issue,’ or is, instead, ‘only the
+ruling of a subordinate official, or tentative.’” NRDC v.
+Wheeler, 955 F.3d 68, 78 (D.C. Cir. 2020) (quoting
+Soundboard Ass’n, 888 F.3d at 1267). The Guidance
+                                16
+consistently speaks in EPA’s voice, setting forth the
+“interpretation” and “guidance” of the agency. Cellulosic
+Guidance at 1 (J.A. 83). EPA does not dispute that the
+Guidance was approved by Assistant EPA Administrator Bill
+Wehrum, who was then EPA Administrator Wheeler’s
+“principal advisor . . . in matters pertaining to air and radiation
+programs,” Cal. Cmtys. Against Toxics v. EPA, 934 F.3d 627,
+636 (D.C. Cir. 2019) (quoting 40 C.F.R. § 1.41), and whom we
+have described in the context of finality analysis as “no mere
+subordinate” within EPA, id.
+
+     EPA contends that the Guidance’s explication of how
+peer-reviewed methods might be shown to be “reasonably
+accurate” does not represent the consummation of agency
+decision making because it is “explicitly premised on the
+agency’s current understanding of the science, which itself is
+expressly recognized as under development.” EPA Br. 32. The
+possibility of revision “is a common characteristic of agency
+action, and does not make an otherwise definitive decision
+nonfinal.” U.S. Army Corps of Eng’rs v. Hawkes Co., 136 S.
+Ct. 1807, 1814 (2016); see also Safari Club Int’l v. Jewell, 842
+F.3d 1280, 1289 (D.C. Cir. 2016); Nat’l Envtl. Dev. Ass’n’s
+Clean Air Project v. EPA, 752 F.3d 999, 1006-07 (D.C. Cir.
+2014); Gen. Elec. Co. v. EPA, 290 F.3d 377, 380 (D.C. Cir.
+2002); Appalachian Power Co. v. EPA, 208 F.3d 1015, 1022
+(D.C. Cir. 2000). Even though agency action taken at scientific
+frontiers is especially susceptible to future alteration, that fact
+alone does not alone defeat finality. EPA’s considered
+Guidance, based on its best scientific understanding at the time,
+consummated its decision making regarding which currently
+available, peer-reviewed measurement methods are
+“reasonably accurate” for the purpose of assigning cellulosic-
+biofuel RINs. 40 C.F.R. § 80.1450(b)(1)(xiii)(B)(3).
+                             17
+     Proceeding to the second question under Bennett,
+“whether an agency action has direct and appreciable legal
+consequences,” we “pragmatic[ally]” focus on “the concrete
+consequences [the] action has or does not have as a result of
+the specific statutes and regulations that govern it.” Cal.
+Cmtys., 934 F.3d at 637 (internal quotation marks omitted).
+The Guidance carries legal consequences because it withdraws
+some of the discretion the Pathways II Rule afforded EPA in
+evaluating the reliability of peer-reviewed methodologies. In
+contrast to EPA’s suggestion at the time of the Pathways II
+Rule that producers could “indirectly determine the cellulosic
+converted fraction” by measuring “starch content,” Pathways
+II Memo at 8 (J.A. 101), EPA has since concluded with the
+benefit of additional information that solely starch-based
+measurements “cannot ensure that resulting estimates of
+cellulosic conversion are reasonably accurate,” Cellulosic
+Guidance at 4 (J.A. 86).         The Guidance also imposes
+obligations by directing applicants for cellulosic biofuel
+registration to demonstrate to EPA the reliability of their
+methods via a representative reference material. Those
+elaborations on what counts as a “reasonably accurate” method
+of      obtaining       cellulosic     data,    40     C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3), have concrete consequences for
+producers like POET seeking to show EPA that their method
+meets the Pathways II Rule’s requirements, see Gen. Elec.,
+290 F.3d at 380; Appalachian Power, 208 F.3d at 1023.
+
+     The unequivocal language of the Guidance also signals
+that EPA has “definitively interpreted” the Pathways II Rule’s
+reasonable-accuracy requirement to demand use of a cellulosic
+reference material. NRDC v. EPA, 643 F.3d 311, 320 (D.C.
+Cir. 2011). For example, the Guidance document declares that
+“it is not possible” to assess whether a method satisfies the
+regulatory      standard—reasonable         accuracy—without
+evaluating the performance of the method on a “known,
+                               18
+representative reference material” that includes cellulose.
+Cellulosic Guidance at 3 (J.A. 85). By declaring that achieving
+reasonable accuracy is impossible without using such material,
+the Guidance makes the “permissibility” of methods not using
+a cellulosic reference material a “closed question,” at least for
+now. NRDC, 643 F.3d at 320. EPA’s Cellulosic Guidance
+“leads private parties . . . to believe that it will declare
+[registrations] invalid unless they comply with the terms of the
+document.” Appalachian Power, 208 F.3d at 1021.
+
+     Indeed, EPA has already applied the Guidance as if it were
+binding in the context of the Hudson Letter. The Hudson
+Letter’s use of the Cellulosic Guidance to analyze POET-
+Hudson’s registration application reinforces the Guidance’s
+finality and is properly part of our finality analysis. For
+example, we have examined an agency directive’s role in a
+separate “permit decision” to conclude it was final. Clean Air
+Project, 752 F.3d at 1007. The Hudson Letter explained that,
+despite POET-Hudson’s effort to tweak its methodology to
+reduce data variability, the company could not register for
+cellulosic-biofuel RINs without proving its method’s accuracy
+using “a representative reference material with reportable
+starch and cellulosic values.” Hudson Letter at 9 (J.A. 115).
+The Hudson Letter illustrates the firmness of the Guidance’s
+demand that producers use a cellulosic reference material to
+show reasonable accuracy.
+
+     Contending the Cellulosic Guidance is nonfinal, EPA
+unsuccessfully analogizes to Clean Air Act cases in which,
+unlike here, challenged guidance did not affect “the amount of
+discretion permitting authorities retain,” Sierra Club, 955 F.3d
+56, 64 (D.C. Cir. 2020); “d[id] not impose any requirements in
+order to obtain” agency approval, Nat’l Mining Ass’n v.
+McCarthy, 758 F.3d 243, 252 (D.C. Cir. 2014); and was never
+applied in a “binding” manner, Sierra Club, 873 F.3d at 952.
+                              19
+EPA also asserts the Cellulosic Guidance is nonfinal because it
+“merely interpret[s] existing requirements” instead of “creating
+new ones.” EPA Br. 24. But we recently reiterated that an
+interpretive rule construing existing law can constitute final
+action under 42 U.S.C. § 7607(b)(1) even though, standing
+alone, it would lack “the force and effect of law” carried by an
+underlying legislative rule or statute. Cal. Cmtys., 934 F.3d at
+635 (quoting Perez v. Mortg. Bankers Ass’n, 575 U.S. 92, 103
+(2015)).
+
+     Finally, EPA contends that we need not exercise
+jurisdiction over the Guidance because producers like POET-
+Hudson can still petition regional circuits to challenge
+individual RIN registration decisions based on the Guidance.
+That argument proves too much. The Clean Air Act
+“specifically provides for ‘preenforcement’ review” of
+nationally applicable actions like the Guidance even if parties
+could also seek review in connection with individual
+adjudications. Whitman v. Am. Trucking Ass’ns, 531 U.S. 457,
+479-80 (2001) (construing 42 U.S.C. § 7607(b)(1)). In contrast
+to the cases EPA cites, there is no alternative judicial-review
+provision applicable here that might suggest we should not
+exercise jurisdiction under section 7607(b)(1). Cf. Cal. Cmtys.,
+934 F.3d at 639 (holding guidance to be nonfinal under
+section 7607(b)(1) in view of section 7661d’s judicial-review
+regime); Valero, 927 F.3d at 538 (similar, in view of the
+opportunity for review under section 7604(a)(2)). The
+substantial investment, research, and development required to
+generate cellulosic biofuels compliant with the Renewable Fuel
+Standard program underscores why the prospect of eventual
+review of an application disapproval is no reason to deny here
+the opportunity for pre-enforcement review the Act provides.
+
+     As in Appalachian Power, “[t]he short of the matter” here
+is that the Guidance’s interpretation of the Pathway II Rule’s
+                                20
+peer-review requirements “is final agency action, reflecting a
+settled agency position which has legal consequences both for”
+EPA officials allocating RINs and “for companies like those
+represented by petitioners” who must obtain EPA approval to
+generate RINs. 208 F.3d at 1023. Having confirmed our
+jurisdiction over the Cellulosic Guidance’s treatment of peer-
+reviewed methods of obtaining cellulosic data, we proceed to
+review the merits of its interpretation.
+
+                         III. MERITS
+
+      The first step in our merits analysis is to determine whether
+the Guidance is a legislative rule or an interpretive one, because
+if it is legislative we must invalidate it at the outset as never
+having been subjected to notice and comment. See 42 U.S.C.
+§ 7607(d) (incorporating 5 U.S.C. § 553(b)); NRDC, 955 F.3d
+at 85. Only if the Guidance is an interpretive rule need we
+address petitioners’ substantive challenge to the Guidance as
+contrary to the Pathways II Rule it purports to interpret.
+
+     A. The Guidance is an Interpretive Rule
+
+     “[T]he critical feature of interpretive rules is that they are
+issued by an agency to advise the public of the agency’s
+construction of the statutes and rules which it administers.”
+Perez, 575 U.S. at 97 (internal quotation marks omitted). In
+contrast to legislative rules, which “effect[] a substantive
+change in existing law or policy,” interpretive rules “clarify a
+statutory or regulatory term, remind parties of existing
+statutory or regulatory duties, or ‘merely track[]’ preexisting
+requirements and explain something the statute or regulation
+already required.” Mendoza v. Perez, 754 F.3d 1002, 1021
+(D.C. Cir. 2014) (quoting Nat’l Family Planning & Reprod.
+Health Ass’n v. Sullivan, 979 F.2d 227, 237 (D.C. Cir. 1992)).
+To decide whether a rule is interpretive or legislative, we look
+to the rule’s “language” and “ask whether the agency intended
+                               21
+to speak with the force of law,” including “whether the agency
+has published the rule in the Code of Federal Regulations and
+whether it explicitly invoked its general legislative authority.”
+Guedes v. Bureau of Alcohol, Tobacco, Firearms & Explosives,
+920 F.3d 1, 18 (D.C. Cir. 2019) (per curiam) (internal quotation
+marks omitted); see also Gen. Motors Corp. v. Ruckelshaus,
+742 F.2d 1561, 1565 (D.C. Cir. 1984) (en banc). We also
+consider whether the challenged rule comports with or changes
+the text of whatever prior rule it professes to interpret. See,
+e.g., Perez, 575 U.S. at 103-04.
+
+     The Cellulosic Guidance could hardly be clearer that it
+interprets the regulatory requirement that biofuel producers’
+methodologies yield “reasonably accurate results as
+demonstrated through peer reviewed references.” 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3). The title, “Interpretation of the
+‘Reasonable Accuracy’ Requirement,” identifies the function
+of the Guidance: to explain what the Pathways II Rule requires
+when a company seeks to show the accuracy of its peer-
+reviewed method of measuring how much of its ethanol
+produced from whole corn kernels derives from cellulosic
+material in support of its registration for cellulosic-biofuel
+RINs. Cellulosic Guidance at 2 (J.A. 84). Without ever
+invoking EPA’s legislative authority or deviating from the
+Pathways II Rule’s text, it explains how biofuel producers must
+“demonstrate[]” their method’s reasonable accuracy using “a
+known, representative reference material” capable of
+producing a “true value” of the renewable fuel’s cellulosic
+content against which accuracy can be reliably assessed. Id.
+at 3 & n.8 (J.A. 85). In short, the Guidance interprets the
+“reasonable accuracy” regulatory requirement in light of
+EPA’s accumulated experience in this particular context.
+
+   By “deriv[ing] a proposition from an existing document
+whose meaning compels or logically justifies the proposition,”
+                               22
+the Guidance’s discussion of peer-reviewed methods qualifies
+as an interpretive rule. Mendoza, 754 F.3d at 1021 (quoting
+Catholic Health Initiatives v. Sebelius, 617 F.3d 490, 494 (D.C.
+Cir. 2010)). Indeed, here the EPA has not even shifted its
+policy objective: The agency remains committed to issuing
+RINs to biofuel producers who can show with reasonable
+accuracy what portion, if any, of the fuel they make from
+partially cellulosic feedstocks actually derives from the
+cellulosic material. The Guidance does no more than account
+for data, accumulated since EPA issued the Pathways II Rule
+and Memo, suggesting that previously contemplated
+measurement methods are inaccurate. In spelling out what
+EPA believes it means to “produce reasonably accurate results”
+under the Pathways II Rule, thereby aiding industry to steer
+clear of demonstrated measurement problems, 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3), the agency cannot fairly be said to
+have substantively amended the regulation.
+
+     To the extent that the Cellulosic Guidance is a “new” and
+more detailed articulation of the Pathways II Rule’s
+requirements for peer-reviewed methods, POET Br. 39, POET
+errs in asserting that such limited novelty makes the Guidance
+a legislative rule. If an agency’s interpretation were a
+legislative rule simply because it drew “crisper and more
+detailed lines than the authority being interpreted,” then “no
+rule could pass as an interpretation of a legislative rule unless
+it were confined to parroting the rule or replacing the original
+vagueness with another”—a regime we have squarely rejected.
+Am. Mining Cong. v. MSHA, 995 F.2d 1106, 1112 (D.C. Cir.
+1993). Rules that are fairly drawn from underlying statutes or
+regulations may articulate even relatively detailed legal
+obligations without thereby becoming legislative rules subject
+to notice and comment.
+                               23
+     We have, time and again, upheld interpretive rules that
+narrow or remove leeway afforded to regulated parties under a
+prior interpretation. Examples include a Program Policy Letter
+of the Mine Safety and Health Administration specifying the
+minimum opacity a chest X-ray needs to count as a reportable
+diagnosis under mine-safety regulations, see id.; a section of
+the Medicare Provider Reimbursement Manual advising how
+the Medicare statute and regulations work in particular
+reimbursement claims, see Shalala v. Guernsey Mem’l Hosp.,
+514 U.S. 87, 97-99 (1995); a new Federal Communications
+Commission order explaining how an existing order regarding
+portability would apply to wireless telephone carriers, see Cent.
+Tex. Tel. Co-op., Inc. v. FCC, 402 F.3d 205, 213-14 (D.C. Cir.
+2005); and a letter from the Federal Aviation Administration’s
+deputy counsel explaining how to calculate pilots’ required rest
+periods under an FAA regulation imposing flight-time
+limitations, see Air Transp. Ass’n of Am., Inc. v. FAA, 291 F.3d
+49, 56 (D.C. Cir. 2002). The common thread running through
+the cases is that even a consequential, “conduct-altering” rule
+remains interpretive so long as it can “fairly be viewed as
+interpreting—even incorrectly—a statute or regulation.” Cent.
+Tex., 402 F.3d at 212, 214.
+
+     Requiring EPA to undertake notice and comment
+whenever it refines an interpretation of its rules or statutory
+authorities would discourage the agency from synthesizing and
+documenting helpful and reliable advice like the Cellulosic
+Guidance. “[I]nformal communications between agencies and
+their regulated communities . . . are vital to the smooth
+operation of both government and business.” Indep. Equip.
+Dealers Ass’n v. EPA, 372 F.3d 420, 428 (D.C. Cir. 2004).
+After all, “[t]he agency that wrote the regulation will often have
+direct insight into what that rule was intended to mean” in a
+given context and “how it was supposed to apply to some
+problem.” Kisor v. Wilkie, 139 S. Ct. 2400, 2412 (2019)
+                               24
+(plurality opinion of Kagan, J.) (internal quotation marks
+omitted). Guidance offering “convenient notice” of an
+agency’s interpretation of a statute or regulation it administers
+is often preferable to leaving regulated parties and the public to
+piece together interpretive strands reflected in individual
+adjudications. Am. Mining Cong., 995 F.2d at 1112. The
+Cellulosic Guidance’s discussion of what it means under the
+Pathways II Rule to demonstrate reasonable accuracy through
+peer review is the sort of clarifying elaboration interpretive
+rules legitimately provide.
+
+     POET asserts that the Cellulosic Guidance “repudiates or
+is irreconcilable with” the Pathways II Rule, so must be a
+legislative rule. POET Br. 39 (quoting Ass’n of Flight
+Attendants-CWA v. Huerta, 785 F.3d 710, 718 (D.C. Cir.
+2015)).      We conclude, however, that EPA’s reasoned
+elaboration of what it means to demonstrate a peer-reviewed
+method’s reasonable accuracy is consistent with the Pathways
+II Rule, and nothing like the kind of stark “volte face”
+necessary to support POET’s argument. Nat’l Family
+Planning, 979 F.2d at 235 (quoting Homemakers N. Shore,
+Inc. v. Bowen, 832 F.2d 408, 412 (7th Cir. 1987)). Indeed, an
+agency may work even a “fundamental change in its
+interpretation of a substantive regulation,” and yet the result
+may still constitute an interpretive rule that does not require
+notice and comment. Perez, 575 U.S. at 101 (internal quotation
+marks omitted).         At bottom, EPA’s interpretation of
+“[a]ccuracy” to mean “how closely the measured value
+approximates its true value,” and its call for a reference
+material capable of supplying that true value, Cellulosic
+Guidance at 3 n.8 (J.A. 85), interprets the Pathways II Rule’s
+reasonably-accuracy requirement. POET’s argument that the
+Cellulosic Guidance reads the Pathways II Rule incorrectly
+relates not to the Guidance’s classification as an interpretive
+rule, but to its substantive merits.
+                                25
+     Our disagreement with our dissenting colleague over
+whether the Cellulosic Guidance is an interpretive or legislative
+rule is relatively limited: The dissent concludes that the
+Guidance is in part a legislative rule—only “with respect to the
+reference material requirement.” Dissent at 1. Because no
+representative reference material presently exists, see
+Cellulosic Guidance at 3 n.7 (J.A. 85), the dissenting opinion
+argues that EPA substantively changed the regulation by
+“clos[ing] a regulatory pathway opened by the Pathways II
+Rule,” Dissent at 7. There is no substantive change: The
+Pathways II Rule authorizes RIN registrations for cellulosic
+biofuel only in “certain circumstances,” 79 Fed. Reg.
+at 42,132—namely, where producers utilize a measurement
+method that obtains “reasonably accurate results,” 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3). EPA is under no obligation to
+approve applications that fail to meet this requirement, or to
+bend the science behind “reasonable accuracy” to ensure that
+producers are permitted to register. Certainly, if EPA took a
+view of “reasonable accuracy” contrary to that of “100
+cellulosic fuel experts,” Dissent at 6, its interpretation might be
+arbitrary. That counterfactual is not before us here, where the
+record includes unquestioned data and ample scientific support
+for EPA’s doubts that an analytical method’s accuracy can be
+established without a representative reference material. More
+fundamentally, differences of expert opinion would go to the
+substantive merits, to which we now turn.
+
+    B. The Guidance’s Interpretation Is Reasonable
+
+     POET challenges the Cellulosic Guidance’s construction
+of the Pathways II Rule as “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law,” in
+violation of the Clean Air Act. 42 U.S.C. § 7607(d)(9)(A).
+“The arbitrary and capricious standard is deferential; it requires
+that agency action simply be ‘reasonable and reasonably
+                              26
+explained.’” Cmtys. for a Better Env’t v. EPA, 748 F.3d 333,
+335 (D.C. Cir. 2014) (quoting Nat’l Tel. Coop. Ass’n v. FCC,
+563 F.3d 536, 540 (D.C. Cir. 2009)). The parties dispute the
+precise level of deference EPA enjoys as the author of the
+Guidance and the regulation that it interprets, but because we
+conclude that EPA’s interpretation is valid even under the less
+deferential “power to persuade” standard, Christopher v.
+SmithKline Beecham Corp., 567 U.S. 142, 150 (2012) (quoting
+United States v. Mead Corp., 533 U.S. 218, 228 (2001)), we
+need not resolve their dispute.
+
+     The Pathways II Rule’s requirement that biofuel producers
+show that their methods of obtaining cellulosic data “would
+produce reasonably accurate results as demonstrated through
+peer reviewed references provided to the third party engineer
+performing the engineering review at registration,” 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3), limits EPA to approving methods
+that have been favorably peer reviewed. Contrary to POET’s
+contention, however, the Pathways II Rule does not
+“unambiguously          delegate[]”       reasonable-accuracy
+determinations to third-party engineers and peer reviewers.
+POET Br. 42. To the contrary, the regulation requires
+producers, supported by the specified professional analyses, to
+“demonstrate[]” to EPA that their methods of determining the
+cellulosic fraction of their biofuel are reasonably accurate.
+40 C.F.R. § 80.1450(b)(1)(xiii)(B)(3).
+
+     Peer-reviewed references and the accompanying third-
+party engineer’s report “must be submitted and accepted by
+EPA” before producers can register the corresponding RINs.
+Id. § 80.1450(b). Confirming that the agency retains the
+decisive role in choosing whether to “accept[]” peer reviewers’
+conclusions, id., EPA explained that the Pathways II Rule’s
+peer-review requirement “allow[s] EPA to verify that the
+[cellulosic converted fraction] is being applied appropriately
+                               27
+for cellulosic biofuel RIN generation,” Pathways II Rule, 79
+Fed. Reg. at 42,132.         Like an academic journal that
+incorporates the results of peer review into the publication
+decisions its editorial board makes or a funder that looks to peer
+review to guide its grantmaking, EPA required peer review to
+help it “verify” methodological soundness without displacing
+the agency’s ultimate approval authority or ability to say more
+precisely what it is looking for. Id.
+
+     POET claims support in the National Technology Transfer
+and Advancement Act of 1995 for its view that the Pathways II
+rule delegates the reasonable-accuracy determination to peer
+reviewers. But the provision POET cites, which directs federal
+agencies to “use technical standards that are developed or
+adopted by voluntary consensus standards bodies,” Pub. L.
+No. 104-113, § 12(d)(2), 110 Stat. 775, 783 (1996) (codified at
+15 U.S.C. § 272 note), deals with agencies’ interactions with
+VCSBs, not their use of peer-reviewed methods—and even that
+directive is subject to agencies’ direction, interests, and goals.
+POET also points to EPA’s general policy on peer review, but
+that policy supports EPA’s position, not POET’s, insofar as it
+explains that peer review helps “ensur[e] that the EPA’s
+decisions rest on sound science and data,” not that the peer
+reviewers’ determinations are themselves deemed to be EPA’s.
+EPA Sci. & Tech. Pol’y Council, Peer Review Handbook
+§ 1.3.1, at 25 (4th ed. Oct. 2015). Nor does the Guidance
+reduce peer reviewers to “mere fact checkers of a mathematical
+test,” POET Br. 42; rather, the Guidance aids effective peer
+review by articulating benchmarks for reviewers’ assessments
+whether a producer’s method can accurately measure the
+cellulosic yield of its particular fuel-making process on a
+consistent basis.
+
+    Congress requires EPA to ensure RINs are
+“appropriate[ly]” assigned. 42 U.S.C. § 7545(o)(5)(A)(i). The
+                               28
+regulation at issue explicitly preserves EPA’s authority to
+decide whether to “accept[]” a “demonstrat[ion]” that a peer-
+reviewed method produces reasonably accurate results.
+40 C.F.R. § 80.1450(b). In that role, EPA appropriately issued
+the Cellulosic Guidance to help peer reviewers and applicants
+identify the kinds of data that EPA has determined are required
+in registrations for cellulosic-biofuel RINs. The Guidance
+explains what EPA deems necessary to verify the accuracy of
+producers’ claims as to the quantity of fuel they derive from the
+small cellulosic portion of their corn-kernel feedstocks, as
+opposed to the larger starch component. In sum, we are
+unpersuaded by POET’s contention that the Pathways II Rule’s
+peer-review requirement somehow forces EPA into
+unquestioned deference to peer reviewers’ conclusions and
+prevents it from requiring applicants to comply with its own
+understanding of reasonable accuracy.
+
+     POET next contends that three interpretations within the
+Guidance are arbitrary: that producers must demonstrate their
+method’s accuracy both in theory and in fact; that producers
+must use a representative reference material to prove their
+method’s accuracy; and that producers cannot rely on methods
+that measure a fuel’s cellulosic content by process of
+elimination—i.e., through mass closure. POET refers to those
+three interpretations as the Demonstration Requirement, the
+Reference Material Requirement, and the Mass Closure
+Prohibition. (POET understands the Demonstration and
+Reference Material Requirements also to “mandat[e]” that a
+measurement method “actually yield[] results within 20% of
+the known quantities of starch and cellulose in a representative
+reference material,” but makes clear it is not “separately
+challeng[ing] that 20% standard.” Reply Br. 8 n.1.) We
+conclude that all three survive arbitrary-and-capricious review.
+                               29
+     Demonstration Requirement. The Cellulosic Guidance’s
+Demonstration Requirement interprets the regulatory
+obligation on producers to show how their method “would
+produce reasonably accurate results as demonstrated through
+peer       reviewed       references.”            40      C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3). The Guidance construes that
+language to direct peer reviewers to evaluate both “the
+potential performance” of their method and “the accuracy of
+the results of that method.” Cellulosic Guidance at 3 (J.A. 85).
+Because “demonstrate” ordinarily means “[t]o show . . . by
+operation, reasoning, or evidence,” Animal Legal Def. Fund,
+Inc. v. Perdue, 872 F.3d 602, 616 (D.C. Cir. 2017) (quoting
+Black’s Law Dictionary 432 (6th ed. 1990)), not merely to
+predict or hypothesize, EPA reasonably reads the regulatory
+requirement of “demonstrated” accuracy to require peer
+reviewers to pass on both the theoretical soundness of a
+producer’s method, and whether its application “has, in fact,
+yielded a calculation of the cellulosic converted fraction that is
+reasonably accurate,” Cellulosic Guidance at 3 (J.A. 85).
+
+    POET reads the regulation’s use of conditional language—
+requiring that analytic methods “would produce reasonably
+accurate results,” 40 C.F.R. § 80.1450(b)(1)(xiii)(B)(3)
+(emphasis added)—to stop short of calling for review of any
+results actually produced by the method. We understand the
+form “would produce” simply to reflect that producers seek
+peer review before they obtain EPA approval to generate RINs
+in compliance with the regulation. We are unpersuaded that
+the regulatory text bars EPA from requiring reviewers to
+examine data demonstrating a method’s accuracy in practice.
+The Demonstration Requirement permissibly interprets
+“demonstrated” in line with its ordinary meaning.
+
+    Reference Material Requirement.    The Cellulosic
+Guidance interprets accuracy to mean “how closely the
+                              30
+measured value approximates its true value.” Cellulosic
+Guidance at 3 n.8 (J.A. 85). The Guidance explains that
+“accurately measuring how much of a cellulosic feedstock is
+converted into fuel” requires testing the measurement method
+on a “representative reference material,” id. at 3 (J.A. 85), to
+see how closely the method’s results approach such a
+material’s known “cellulosic value,” id. at 3 n.6 (J.A. 85). The
+Guidance’s conception of accuracy parallels what EPA
+understands accuracy to mean in other environmental
+programs. See, e.g., 40 C.F.R. § 72.2 (defining “Flow meter
+accuracy” and “Monitor accuracy” by “the closeness of the
+measurement . . . to the reference value”); id. § 80.47(a)(2)
+(“Accuracy means the closeness of agreement between an
+observed value from a single test measurement and an accepted
+reference value.”); id. § 194.22(c)(1) (conceiving of “Data
+accuracy” as “the degree to which data agree with an accepted
+reference or true value”). The Guidance further observes that
+the absence of a known value against which to measure
+accuracy has caused unacceptable data variability, as
+manifested both in producers’ reporting and EPA’s own Monte
+Carlo simulation. See Cellulosic Guidance at 3-4 (J.A. 85-86).
+
+     POET seizes on EPA’s acknowledgment that NIST has not
+yet made available the only suitable reference material
+identified in the Guidance, arguing that its current
+unavailability makes the requirement “impossible to fulfill and
+thus . . . arbitrary and capricious” under our decision in
+Alliance for Cannabis Therapeutics v. DEA, 930 F.2d 936, 940
+(D.C. Cir. 1991). This case is readily distinguishable from
+Cannabis Therapeutics, however, where we invalidated an
+agency’s interpretation of a provision in the Controlled
+Substances Act, 21 U.S.C. § 812(b)(2)(B), that created a
+seemingly permanent Catch-22: Parties seeking to reclassify
+marijuana as a Schedule II drug needed to show that marijuana
+“enjoys general ‘availability’ or ‘use,’” but had to make that
+                                31
+showing during a period when marijuana remained a
+Schedule I drug, which by definition is not generally available.
+930 F.2d at 940. The challenge posed by the Guidance’s
+Reference Material Requirement, by contrast, flows not from
+intractably contradictory agency directives, but the ongoing
+effort to develop a suitable reference material that, once
+complete, will provide a path forward. Unlike the legally
+unachievable marijuana “general availability” requirement,
+ability to meet the Reference Material Requirement awaits
+scientific development by NIST or some other entity of a
+reference material capable of supplying a known, standard
+value against which the claimed accuracy of producers’
+methods can be tested. There is nothing arbitrary about EPA’s
+refusal to approve a methodology to make measurements that
+nobody has yet shown can be made with reasonable accuracy.
+
+      POET also claims the Reference Material Requirement is
+unreasonable to the extent that it is unmet by synthetic
+reference materials. Notably, however, neither the Cellulosic
+Guidance nor the Hudson Letter’s general discussion disallows
+synthetic materials as such, and EPA told us that “the Guidance
+does not foreclose a peer reviewer from concluding that the use
+of a synthetic reference material is appropriate” and persuading
+EPA to that effect. EPA Br. 44. The only discussion specific
+to synthetic rather than natural reference materials comes in the
+Hudson Letter’s determination that POET-Hudson’s proposed
+reliance on a synthetic reference material to validate its analytic
+method would not produce the requisite “reasonably accurate
+results.” Hudson Letter at 9 (J.A. 115). Because POET’s
+petition for review in this case is limited to the Cellulosic
+Guidance, with POET-Hudson having separately petitioned the
+Eighth Circuit for review of the Hudson Letter, the synthetic-
+material issue is not before us and we express no view on it
+here. We sustain the interpretation embodied in the Reference
+Material Requirement notwithstanding that no reference
+                              32
+material capable of establishing a true cellulosic value
+currently exists.
+
+     Mass Closure Prohibition. Flowing from the same
+proposition that ascertaining reasonable accuracy requires
+knowing how well a proposed method measures known
+cellulosic content, the Mass Closure Prohibition declares that
+methods of calculating cellulosic content “based on starch
+reference values alone cannot ensure that resulting estimates of
+cellulosic conversion are reasonably accurate.” Cellulosic
+Guidance at 4 (J.A. 86). Recall that mass closure estimates
+cellulosic content indirectly by measuring all non-cellulosic
+components of the partially cellulosic inputs and outputs of the
+producer’s fuel-making process and assumes the remainders
+must be cellulosic (kernel husk inputs on one hand, and
+cellulosic biofuel on the other). After five years of observing
+a “wide degree of variability in [renewable-fuel producers’]
+data” and conducting its own “statistical analysis,” id. at 3-4
+(J.A. 85-86), EPA recognized that mass closure’s reliance on a
+series of non-cellulosic measurements—each with its own
+error rate—has had unacceptably distorting cumulative effects
+on the resulting measurement of cellulosic content. EPA’s
+Guidance thus concludes that the agency lacks evidence that
+indirectly estimating cellulosic content by relying on mass
+closure’s process of elimination can accurately measure the
+fuel’s relatively small cellulosic content.
+
+    While the Cellulosic Guidance’s disapproval of mass
+closure methods retreats from EPA’s earlier expressions of
+amenability to such methods, see Pathways II Memo at 8
+(J.A. 101), agencies are free to shift interpretive positions,
+especially where, as here, they do so on a comprehensively
+updated record, see Ark Initiative v. Tidwell, 816 F.3d 119,
+129-30 (D.C. Cir. 2016). Agencies may change interpretations
+without subjecting the new interpretive rule to “notice-and-
+                              33
+comment procedures,” Perez, 575 U.S. at 101, or “to more
+searching [judicial] review,” FCC v. Fox Television Stations,
+Inc., 556 U.S. 502, 514 (2009). EPA made clear when it
+promulgated the Pathways II Rule that it was open to, if not yet
+convinced of, the prospect that producers could reliably use
+mass closure to quantify the cellulosic component of renewable
+fuel produced from feedstocks like corn kernels that are
+predominantly non-cellulosic. See Pathways II Rule, 79 Fed.
+Reg. at 42,132 & n.12; Pathways II Memo at 5-6 (J.A. 98-99).
+Informed by the wildly variable data that mass closure methods
+have produced in the ensuing years and by its own statistical
+analysis, EPA has now reasonably decided to replace the
+Pathways II Memo’s unstudied agnosticism with the
+Guidance’s evidence-based understanding that mass closure
+cannot achieve reasonable accuracy. No further justification is
+required.
+
+     To the extent POET claims it presented evidence in
+connection with POET-Hudson’s application to generate
+cellulosic-biofuel RINs that undermines the Mass Closure
+Prohibition, both the Guidance and EPA’s briefing make clear
+that an individual applicant may gain EPA’s approval of a
+method utilizing mass closure if it presents data or scientific
+developments that address the general concerns set forth in the
+Guidance. See Cellulosic Guidance at 1 (J.A. 83); EPA Br. 48.
+In light of that understanding, we uphold the interpretation
+embodied in the Guidance’s Mass Closure Prohibition and
+leave the Eighth Circuit to determine whether the Hudson
+Letter’s individualized consideration of POET-Hudson’s
+proposed use of mass closure was lawful.
+
+     Throughout its briefing, POET contests various policy
+judgments underlying the Cellulosic Guidance’s interpretation
+of the Pathways II Rule, such as the wisdom of explaining
+criteria that expert peer reviewers must account for, yet “[o]ur
+                              34
+review under the ‘arbitrary and capricious’ standard is narrow
+and does not permit us to substitute our policy judgment for
+that of [EPA].” Maryland v. EPA, 958 F.3d 1185, 1210 (D.C.
+Cir. 2020) (per curiam) (quoting Bluewater Network v. EPA,
+370 F.3d 1, 11 (D.C. Cir. 2004)). We conclude the Cellulosic
+Guidance is an interpretive rule that reasonably explains how
+under the Pathways II Rule renewable-fuel producers must
+demonstrate that peer-reviewed methods of obtaining
+cellulosic data can yield “reasonably accurate results” that
+justify EPA awarding them cellulosic-biofuel RINs. 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3).
+
+                          *    *   *
+
+     In sum, we dismiss the petition for review as unripe to the
+extent     it  challenges     the     Cellulosic    Guidance’s
+recommendations for RIN registrations relying on a VCSB-
+certified method to support calculation of the cellulosic
+converted fraction. We deny the balance of the petition
+because POET has not shown that the Guidance’s discussion
+of the Pathways II Rule’s registration requirements for peer-
+reviewed methods—a discussion that amounts to a final,
+interpretive rule—is arbitrary, capricious, or otherwise
+unlawful.
+
+                                                    So ordered.
+     KAREN LECRAFT HENDERSON, Circuit Judge, concurring
+in part and dissenting in part: I agree with my colleagues that
+the VCSB portion of the Guidance is not ripe and that the
+remainder of the Guidance constitutes final agency action
+subject to our review. I disagree, however, with their
+conclusion that the Guidance is an interpretive rule. The
+Guidance’s reference material requirement changes the
+regulatory scheme to register the in situ biofuel production
+process 1 by constricting biofuel producers’ ability to show
+reasonably accurate results to a single possible means that is
+currently not possible. This change means that producers like
+POET are indefinitely foreclosed from successfully registering
+that type of biofuel production process. In my view, the
+Guidance is a legislative rule with respect to the reference
+material requirement because it limits and thus
+effectively amends the 2014 regulation, 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3) (codifying the Pathways II Rule). I
+would “invalidate [the Guidance] at the outset as never having
+been subjected to notice and comment.” Majority Op. 20
+(citing 42 U.S.C. § 7607(d)).
+
+     An agency’s characterization of its rule as interpretive,
+“while relevant, is not dispositive.” Gen. Motors Corp. v.
+Ruckelshaus, 742 F.2d 1561, 1565 (D.C. Cir. 1984) (en banc).
+And, although in deciding this question, we look to “whether
+the agency ‘intended’” for its action “to speak with the force of
+
+    1
+       The “in situ process” is the “biochemical hydrolysis treatment
+where cellulosic and non-cellulosic components of feedstocks (at
+least one of which is not predominantly cellulosic) are
+simultaneously hydrolyzed to fermentable sugars (e.g., corn starch
+and a crop residue).” Regulation of Fuels and Fuel Additives: RFS
+Pathways II, and Technical Amendments to the RFS Standards and
+E15 Misfueling Mitigation Requirements (Pathways II Rule), 79
+Fed. Reg. 42128, 42134 (July 18, 2014). In short, it is a process by
+which the cellulosic fiber of a corn kernel is processed
+“simultaneously with the starch processing.” POET Br. at 11; see
+also J.A. 94.
+                                2
+law,” Guedes v. Bureau of Alcohol, Tobacco, Firearms &
+Explosives, 920 F.3d 1, 18 (D.C. Cir. 2019) (per curiam)
+(citation omitted), agency intent alone is likewise not decisive.
+Were it otherwise, an agency could simply label—and intend—
+a regulatory overhaul that changes the permissible conduct of
+regulated parties as interpretive and avoid notice and comment
+requirements. See Appalachian Power Co. v. EPA, 208 F.3d
+1015, 1024 (D.C. Cir. 2000) (“It is well-established that an
+agency may not escape the notice and comment requirements .
+. . by labeling a major substantive legal addition to a rule a mere
+interpretation.”). Thus, in determining whether a rule is
+legislative or interpretive, we consider the substantive effect of
+the rule in question. See Mendoza v. Perez, 754 F.3d 1002,
+1021 (D.C. Cir. 2014) (“The court’s inquiry in distinguishing
+legislative rules from interpretative rules ‘is whether the new
+rule effects a substantive regulatory change to the statutory or
+regulatory regime.’” (quoting Elec. Privacy Info. Ctr. v. U.S.
+Dep’t of Homeland Sec., 653 F.3d 1, 6–7 (D.C. Cir. 2011)));
+Office of Commc’n of United Church of Christ v. FCC, 826
+F.2d 101, 105 (D.C. Cir. 1987) (“Since the court reviews not
+the label but the agency pronouncement that underlies the label,
+it is that pronouncement itself that governs the determination
+of its status.”); cf. Strange ex rel. Strange v. Islamic Republic
+of Iran, No. 19-7083, 2020 WL 3886202, at *8 (D.C. Cir. July
+10, 2020) (“Substance, not name or label, is what matters
+here.”).
+
+     In conducting this inquiry, we have held that a rule that
+“effectively amends” an existing regulation—i.e., a regulation
+created by a final rule promulgated through notice and
+comment rulemaking—is itself a legislative rule. U.S. Telecom
+Ass’n v. FCC, 400 F.3d 29, 34 (D.C. Cir. 2005); see Ass’n of
+Flight Attendants-CWA v. Huerta, 785 F.3d 710, 718 (D.C. Cir.
+2015) (“[I]f a second rule repudiates or is irreconcilable with a
+prior legislative rule, the second rule must be an amendment of
+                                 3
+the first; and, of course, an amendment to a legislative rule must
+itself be legislative.” (quoting Am. Mining Cong. v. MSHA, 995
+F.2d 1106, 1109 (D.C. Cir. 1993))). A “volte face” is
+unquestionably sufficient to effectively amend a preexisting
+regulation, see Majority Op. 24 (quoting Nat’l Family Planning
+& Reprod. Health Ass’n v. Sullivan, 979 F.2d 227, 235 (D.C.
+Cir. 1992)), but a 180-degree turn is not necessary. Rather,
+“[o]ur cases have formulated this ‘effective amendment’ test in
+a number of ways,” including by concluding that “‘new
+rules that work substantive changes,’ or ‘major substantive
+legal addition[s],’ to prior regulations are subject to the APA’s
+procedures.” U.S. Telecom Ass’n, 400 F.3d at 34–35 (first
+quoting Sprint Corp. v. FCC, 315 F.3d 369, 374 (D.C. Cir.
+2003); then quoting Appalachian Power Co., 208 F.3d at
+1024). Moreover, as the United States Supreme Court has
+explained, “if an agency adopts ‘a new position inconsistent
+with’ an existing regulation, or effects ‘a substantive change
+in the regulation,’ notice and comment are required.” Id. at 35
+(quoting Shalala v. Guernsey Mem’l Hosp., 514 U.S. 87, 100
+(1995)). “Although these verbal formulations vary somewhat,
+their underlying principle is the same: fidelity to the
+rulemaking requirements of the APA bars courts from
+permitting agencies to avoid those requirements by calling a
+substantive regulatory change an interpretative rule.” 2 Id.
+
+    The Guidance does just that. Its new reference material
+requirement effectively amends the 2014 regulation allowing
+biofuel producers to utilize the in situ process by indefinitely
+foreclosing that process while characterizing its indeterminate
+
+    2
+        Granted, an agency need not provide notice and comment
+when it amends an earlier interpretive rule with a subsequent
+interpretive rule. See Perez v. Mortg. Bankers Ass’n, 575 U.S. 92,
+101 (2015); Majority Op. 24. It must do so, however, if a subsequent
+rule labeled as interpretive “effectively amends” an existing
+regulation. U.S. Telecom Ass’n, 400 F.3d at 34.
+                               4
+halt as an interpretation of the 2014 regulation.
+Notwithstanding the EPA’s label, the reference material
+requirement is not simply the EPA’s interpretation of what
+constitutes “reasonably accurate results” under 40 C.F.R.
+§ 80.1450(b)(1)(xiii)(B)(3). Rather, the Guidance changes the
+regulatory scheme for the in situ biofuel production process by
+indefinitely barring producers planning to utilize that process.
+Its reference material requirement forces producers to use a
+single approach to demonstrate reasonably accurate results
+instead of allowing the producers’ peer reviewers to use their
+expertise on how best to demonstrate such results. And
+because that single method—the cellulosic reference material
+requirement—is not currently possible, see Hudson Letter at 9
+(J.A. 115) (“It is EPA’s intention to continue evaluating Poet’s
+registration request for coprocessing corn kernel fiber and
+starch once a representative reference material with reportable
+starch and cellulosic values has been produced by NIST . . . .”
+(emphasis added)); EPA Br. at 12; POET Br. at 18, producers
+are indefinitely prevented from registering RINs using the in
+situ process, in contravention of the Pathways II Rule which
+permitted such registration. For these reasons, I believe the
+Guidance—to the extent it imposes the reference material
+requirement—is interpretive in name (label) only.
+
+    As the Guidance explains, “[i]n the 2014 Pathways II Final
+Rule, EPA added a pathway for the production of cellulosic
+ethanol from corn kernel fiber and promulgated the regulations
+necessary to implement this pathway.” Guidance at 1 (J.A. 83)
+(footnotes omitted). In the Pathways II Rule, the EPA
+explained that, although at the time of the proposed rule, it was
+not aware of a “ready test” to determine the amount of fuel
+“derived from cellulosic versus non-cellulosic components,”
+the comments it received indicated that “there are methods
+available for [that] purpose.” 79 Fed. Reg. at 42,132. The EPA
+decided to utilize those methods, “believ[ing] it [was]
+                                5
+reasonable to require the use of these existing methods under
+certain circumstances . . . to verify that the [cellulosic and non-
+cellulosic] values . . . are as accurate as possible” and therefore
+“requir[ed] the use of these available test methods.” Id. In
+other words, the EPA chose to allow the use of existing
+methods without defining a specific approach that must be
+used—either for the analytical methods themselves or for how
+those methods demonstrated reasonably accurate results.
+Regarding the latter, the EPA deferred to producers’ peer-
+reviewed references in its additional registration requirements
+for the in situ process—namely, allowing a producer to use any
+non-VCSB method so long as “the method used is an adequate
+means of providing reasonably accurate results by providing
+peer reviewed references to the third party engineer performing
+the engineering review at registration.” Id. at 42,135; see 40
+C.F.R. § 80.1450(b)(1)(xiii)(B)(3). Although the EPA has the
+ultimate say on whether to accept a particular method for
+registration, see Majority Op. 26, the Pathways II Rule did not
+tell the peer reviewers how to demonstrate that a method would
+produce reasonably accurate results; instead it created a
+registration system that gave those reviewers flexibility in
+deciding how to do so.
+
+     Then, the EPA issued the 2019 Guidance, upending the
+registration scheme for producers using the in situ process.
+Questioning “the wide degree of variability in the data” it had
+reviewed, the EPA concluded that “it is not possible, as a
+technical matter, to assess whether a method is accurately
+measuring” the cellulosic content of fuel produced via the in
+situ method without using “a known, representative reference
+material.” Guidance at 3 (J.A. 85). Thus, going forward,
+producers (and their peer reviewers) could demonstrate that a
+non-VCSB method would produce reasonably accurate results
+by using a cellulosic reference material only. The result? The
+in situ process pathway is closed.
+                                  6
+     The combination of the registration change wrought by the
+Guidance’s reference material requirement for the in situ
+process and its effect in indefinitely foreclosing future
+registrations amounts, in effect, to an amendment of the 2014
+regulation, thus making the Guidance a legislative rule. The
+Guidance takes the broad discretion given to peer reviewers to
+demonstrate that a method will produce reasonably accurate
+results and narrows it to one possible way: comparison to a
+cellulosic reference material. “To the applicant reading the
+[Guidance] . . . the message is clear: in reviewing applications
+the Agency will not be open to considering approaches other
+than [the one] prescribed in the [Guidance],” Gen. Elec. Co. v.
+EPA., 290 F.3d 377, 384 (D.C. Cir. 2002), notably, an approach
+not       included       in      the       2014      regulation,
+§ 80.1450(b)(1)(xiii)(B)(3). Without a cellulosic reference
+material, a registration application based on an in situ process
+is dead on arrival. Although the 2014 regulation placed no
+restriction on how producers could show that a method
+produces reasonably accurate results, the Guidance “requires
+them to conform” to one technique, “that is, not to submit an
+application based upon a [different] way.” Gen. Elec. Co., 290
+F.3d at 384. For example, even if a producer’s application were
+supported by the top 100 cellulosic fuel experts who all
+confirmed that the method used would produce reasonably
+accurate results, that application would not be considered if it
+did not use a cellulosic reference material. 3
+
+
+     3
+        My colleagues say that if this hypothetical occurred, the
+EPA’s interpretation might be “arbitrary” but that would go to the
+“substantive merits” of the Guidance. Majority Op. 25. But the
+point of the hypothetical involves something greater—what the
+Guidance in fact is, i.e., legislative or interpretive. In other words,
+the Guidance is clear that no matter the number of experts nor the
+how persuasive their analysis supporting an application, a reference
+material is required to show that a method produces reasonably
+                                 7
+     The practical effect of this regulatory change is that
+producers are indefinitely foreclosed from registering an in situ
+process.     Because no VCSB-approved method exists,
+producers are limited to using non-VCSB methods to register
+an in situ biofuel process. But with the addition of the
+Guidance’s reference material requirement, producers are
+barred from pursuing registration of the in situ process in toto
+because the reference material does not yet exist. And no
+alternative appears to exist—the Guidance makes clear starch-
+based reference materials will not do, see Guidance at 4 (J.A.
+86), and the Hudson letter shows that synthetic reference
+materials will fare no better, see Hudson Letter at 9 (J.A. 115). 4
+Thus, the Guidance closes a regulatory pathway opened by the
+Pathways II Rule, leaving producers utilizing the in situ process
+in limbo until a reference material requirement is created. The
+Guidance’s substantive change and its practical effect do in fact
+manifest, in my view, a “stark ‘volte face,’” Majority Op. 24
+(quoting Nat’l Family Planning, 979 F.2d at 235) that “runs
+180 degrees counter to the plain meaning of the regulation,”
+Nat’l Family Planning, 979 F.2d at 235.
+
+     Requiring a producer to compare its method to a cellulosic
+reference material may well be prudent, especially if the EPA’s
+
+
+accurate results. That requirement substantively changes the scheme
+of the 2014 regulation; it does not simply interpret the regulation,
+whether arbitrarily or otherwise.
+     4
+       Despite my colleagues’ reliance on the EPA’s assertion in its
+brief that “the Guidance does not foreclose a peer reviewer from
+concluding that the use of a synthetic reference material is
+appropriate,” Majority Op. 31 (quoting EPA Br. 44), nothing in the
+Guidance itself suggests that the EPA will accept “approaches other
+than what EPA has laid out in the Guidance,” EPA Br. 44. The
+Guidance message to producers is plain: use a representative
+cellulosic reference material or do not bother applying to register.
+See Gen. Elec. Co., 290 F.3d at 384.
+                                  8
+data questions about the amount of cellulose produced through
+the in situ process are accurate. Nevertheless, the EPA is not
+free to change its existing regulations to meet those concerns
+however it sees fit. It must follow the required procedures.
+Because the Guidance’s reference material requirement
+effectively amends the 2014 regulation, the EPA was obligated
+to promulgate that requirement via notice and comment
+rulemaking. That Administrative Procedure Act obligation
+(incorporated here under the Clean Air Act) 5 protects regulated
+parties, like the producers, by ensuring their input and by
+requiring the Agency to consider and respond thereto before it
+effects a substantive change in the regulatory framework relied
+upon by those parties. 6 See Make The Rd. N.Y. v. Wolf, 962
+F.3d 612, 634 (D.C. Cir. 2020) (“[A] central purpose of notice-
+and-comment rulemaking is to subject agency decisionmaking
+to public input and to obligate the agency to consider and
+respond to the material comments and concerns that are
+voiced.”). Biofuel producers like POET were entitled to
+formally and publicly comment and have those comments
+considered and responded to by the EPA before it added a
+requirement that substantively amended the 2014 regulation
+and indefinitely foreclosed their ability to utilize the in situ
+process.
+
+    Because the EPA failed to follow that required procedure,
+I would vacate and remand the Guidance with respect to its
+
+
+
+     5
+       See 42 U.S.C. § 7607(d); 5 U.S.C. § 553.
+     6
+        And because the Guidance’s reference material requirement
+is more than a “clarifying elaboration,” Majority Op. 23, the ease and
+efficiency of “offering ‘convenient notice,’” id. at 24 (citation
+omitted), through issuance of a Guidance must yield to lawful
+procedure—a procedure designed to keep agency rule-making
+transparent and to give regulated parties a seat at the table.
+                            9
+reference material requirement. Accordingly, I respectfully
+dissent in part.
+

@@ -1,0 +1,316 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 8, 2017               Decided March 24, 2017
+
+                        No. 15-1497
+
+     NATIONAL ASSOCIATION OF REGULATORY UTILITY
+                  COMMISSIONERS,
+                     PETITIONER
+
+                             v.
+
+   FEDERAL COMMUNICATIONS COMMISSION AND UNITED
+               STATES OF AMERICA,
+                  RESPONDENTS
+
+             VONAGE HOLDINGS CORPORATION,
+                     INTERVENOR
+
+
+            On Petition for Review of an Order of
+          the Federal Communications Commission
+
+
+    James Bradford Ramsay argued the cause for petitioner.
+With him on the briefs was Jennifer Murphy.
+
+     Matthew J. Dunne, Counsel, Federal Communications
+Commission, argued the cause for respondents. With him on the
+briefs were Robert B. Nicholson and Sean Sandoloski,
+Attorneys, U.S. Department of Justice, Jonathan B. Sallet,
+General Counsel, Federal Communications Commission, David
+M. Gossett, Deputy General Counsel, and Richard K. Welch,
+Deputy Associate General Counsel. Jacob M. Lewis, Associate
+                               2
+
+General Counsel, Federal Communications Commission,
+entered an appearance.
+
+     Elizabeth A. Bonner argued the cause for intervenor. With
+her on the brief was Brita D. Strandberg.
+
+   Before: GARLAND, Chief Judge, and HENDERSON and
+ROGERS, Circuit Judges.
+
+     PER CURIAM: This petition challenges the Order of the
+Federal Communications Commission authorizing
+interconnected Voice-over-Internet-Protocol service providers
+(“I-VoIPs”) to obtain North American Numbering Plan
+telephone numbers directly from the Numbering Administrators
+rather than through intermediary local phone service numbering
+partners. Numbering Policies for Modern Communications, 30
+FCC Rcd. 6839 (2015) (“Order”). The National Association of
+Regulatory Utility Commissioners (“NARUC”) challenges the
+Order, contending that the Commission has effectively classified
+I-VoIP service as a Title II telecommunications service, or acted
+arbitrarily by delaying a classification decision or by extending
+Title II rights and obligations to I-VoIPs in the absence of
+classification. Because NARUC fails to show that it has
+standing to challenge the Order, the court lacks jurisdiction and
+the petition is dismissed.
+
+                               I.
+
+     The Communications Act, as amended by the
+Telecommunications Act of 1996, defines two mutually
+exclusive categories of communication services:
+“telecommunications service” and “information service.” 47
+U.S.C. § 153(24), (53). Providers of telecommunications
+service are subject to regulation as common carriers under Title
+II of the Act, id. § 153(51), while information services are not.
+                                3
+
+See Nat’l Cable & Telecomms. Ass’n v. Brand X Internet Servs.,
+545 U.S. 967, 974 (2005).
+
+     Prior to the challenged Order, the Commission’s regulations
+required “an entity requesting numbering resources to
+demonstrate that it is ‘authorized’ to provide service in the area
+for which it is requesting telephone numbers.” Order ¶ 20. The
+entity had to produce “evidence of either a state certificate of
+public convenience and necessity [ ] or a Commission license.”
+Id. ¶ 4. Absent such evidence, I-VoIPs had to “partner with a
+carrier,” usually a local exchange carrier (“LEC”), and pay that
+carrier a Primary Rate Interface service fee in order to get
+telephone numbers. Id. ¶¶ 17 n. 54, 69. In 2004, the
+Commission issued a notice of proposed rulemaking to classify
+VoIP, among others, as a “telecommunications service,” In re
+IP-Enabled Services, WC Docket No. 04–36, 19 FCC Rcd. 4863
+(2004), but had taken no further action in that separate
+proceeding when the challenged Order was issued.
+
+     In 2005, the Commission began granting waivers of its rules
+to permit I-VoIPs, including Vonage Holdings Corporation, to
+“obtain numbers directly from the Numbering Administrators”
+without a carrier partner. Order ¶ 4. I-VoIPs that received
+direct number access through waivers had to “process[] port
+requests directly rather than going through a LEC.” In re
+Administration of the North American Numbering Plan, 20 FCC
+Rcd. 2957, 2962 (2005), at ¶ 9. For I-VoIPs that did not receive
+waivers, the regulations, beginning in 2007, imposed portability
+requirements where “both an interconnected VoIP provider and
+its numbering partner [ ] facilitate a customer’s porting request
+to or from an interconnected VoIP provider.” In re Telephone
+Number Requirements for IP-Enabled Service Providers, 22
+FCC Rcd. 19531, 19532, 19548–49 (2007), at ¶¶ 1, 30, 31, 32,
+aff’d Nat’l Tel. Coop. Ass’n v. FCC, 563 F.3d 536 (D.C. Cir.
+2009).
+                               4
+
+     The Order revised the regulations to allow I-VoIPs, without
+state certification, to “obtain telephone numbers directly from
+the Numbering Administrators, subject to several conditions
+designed to minimize number exhaust and preserve the integrity
+of the numbering system.” Order App. C ¶ 3. Following a six-
+month trial period that demonstrated “there are no technical
+barriers preventing interconnected VoIP providers from
+accessing numbering resources directly,” Order ¶ 4, the
+Commission concluded direct access would “facilitate
+innovative technologies and services that will benefit both
+consumers and providers, and further the Commission’s
+recognized pro-consumer, pro-competition, and public safety
+goals,” id. ¶ 2. The Commission thereby allowed number access
+“directly to interconnected VoIP providers, without regard to
+whether they are [common] carriers,” id. ¶ 78, noting that it had
+yet to classify “interconnected VoIP services as either
+telecommunications services or information services,” id. ¶ 79
+n. 282. The revised regulations continued to ensure that users of
+I-VoIP services would obtain the benefits of local number
+portability, regardless of whether the I-VoIP provider obtained
+numbers directly or through a carrier partner. Id. ¶ 55.
+
+     The Commission rejected NARUC’s argument that its
+exclusive authority over numbering under 47 U.S.C. § 251(e)(1),
+is limited by provisions imposing number portability and cost
+recovery obligations on “telecommunications carriers.” See 47
+U.S.C. §§ 251(b) & (e), 153(37) & (51). It interpreted these
+provisions to set a statutory floor that did not limit the
+Commission’s authority to extend numbering requirements to
+other service providers. See Order ¶¶ 79–82.
+
+    NARUC petitions for review of the Order.
+                                 5
+
+                                II.
+
+     As a threshold matter, the Commission and Vonage
+Holdings Corporation maintain that NARUC members lack
+standing under Article III of the Constitution to challenge the
+Order because NARUC has failed to show its members suffered
+any injury-in-fact as a result of the Order. In the Commission’s
+view, NARUC members were not harmed by the Order and any
+harm stems from the Commission’s failure to date to classify
+VoIP services as a “telecommunications service, subject to Title
+II common carriage regulation.” Resp’t’s Br. 22. Vonage
+Holdings Corporation, in turn, argues that the Order does not
+change the rights or responsibilities of NARUC members but
+maintains the status quo ante authority of the state commissions
+to regulate VoIPs. Intervenor’s Br. 17–18.
+
+      “[A]n association has standing to bring suit on behalf of its
+members when [ ] its members would otherwise have standing
+to sue in their own right; [ ] the interests it seeks to protect are
+germane to [its] purpose; and [ ] neither the claim asserted nor
+the relief requested requires the participation of individual
+members in the lawsuit.” Hunt v. Wash. State Apple Advert.
+Comm’n, 432 U.S. 333, 343 (1977); Pub. Citizen, Inc. v. Nat’l
+Highway Traffic Safety Admin., 489 F.3d 1279, 1289 (D.C. Cir.
+2007). So, to establish standing under Article III, NARUC must
+demonstrate that: (1) at least one of its members was injured in
+fact, meaning an “actual or imminent, not conjectural or
+hypothetical” injury; (2) the injury was caused by the Order; and
+(3) the court can redress the injury. Lujan v. Defenders of
+Wildlife, 504 U.S. 555, 560–61 (1992) (citations omitted).
+Where, as here, NARUC members are not directly regulated by
+the challenged agency action, standing is “substantially more
+difficult to establish.” Id. at 562; see Pub. Citizen, Inc., 489
+F.3d at 1279. Furthermore, “[b]are allegations are insufficient
+[ ] to establish a petitioner’s standing,” and where that standing
+                                6
+
+is not self-evident, the petitioner in its opening brief “must
+support each element of its claim to standing by affidavit or
+other evidence.” Sierra Club v. EPA, 292 F.3d 895, 898, 899
+(D.C. Cir. 2002) (quotation omitted); Scheduling Order 2 (Feb.
+24, 2016) (citing D.C. Cir. Rule 28(a)(7)). Although the court
+sua sponte may seek supplemental submissions to satisfy itself
+that the petitioner has Article III standing, see American Library
+Association v. FCC, 401 F.3d 489, 494 (D.C. Cir. 2005), no
+supplemental submission is needed here.
+
+     Although NARUC bears the “burden of proof . . . to show
+a substantial probability that it has been injured,” Sierra Club,
+292 F.3d at 899 (quotation omitted), NARUC does not address
+standing in its opening brief beyond a single sentence, asserting
+without elaboration that “the Order undermines its members’
+authority directly and indirectly.” Pet’r’s Br. 17. In its Reply
+Brief, NARUC states standing is “evident” from its opening
+brief, Reply Br. 12, because the Order “impacted” state
+commissions’ ability to carry out “tasks central to a federal
+scheme,” id. at 15. Essentially, then, NARUC maintains its
+standing is self-evident and consequently it is relieved of the
+obligation of present affidavits or other evidence in support of
+standing. See Sierra Club, 292 F.3d at 899. NARUC offers two
+theories of standing in its Reply Brief but neither is persuasive,
+and its standing is not self-evident.
+
+     First, NARUC maintains that the Commission’s actions
+injure its members’ “designated role in Congress[’s] plan,”
+Reply Br. 19, by allowing I-VoIP service providers to obtain
+telephone numbers without being classified as
+“telecommunications carriers,” Pet’r’s Br. 33. This failure to
+classify I-VoIPs, NARUC suggests, denies states certain
+regulatory authority that applies only to telecommunications
+carriers. Yet NARUC does not challenge the I-VoIP’s ability to
+obtain numbers directly. Instead, it maintains that the Order has
+                                7
+
+the effect of classifying I-VoIPs as a Title II telecommunications
+service and this court should either confirm that fact, see Pet’r’s
+Br. 17–33, or vacate the Order and remand this matter to require
+the Commission to so classify I-VoIPs by a date certain, see id.
+at 62. It is undisputed that if the Commission had so classified
+I-VoIP service providers they would have direct access to
+numbers and number portability rights and obligations. See
+Order ¶ 4; Pet’r’s Br. 39. Consequently, NARUC has shown no
+injury-in-fact that is caused by the Order, but at most only harm
+as a result of the legal route and rationale the Commission used
+to reach its result. Because NARUC has not demonstrated it
+was “adversely affected by the Commission’s holding,” its
+objection to the Order’s underlying rationale is not the kind of
+harm that generally constitutes injury-in-fact. Int’l Bhd. of Elec.
+Workers v. Interstate Commerce Comm’n, 862 F.2d 330, 334
+(D.C. Cir. 1988); cf. Telecomm. Research & Action Ctr. v. FCC,
+917 F.2d 585, 588 (D.C. Cir. 1990).
+
+     Moreover, although NARUC asserts the Order diminishes
+its members’ regulatory authority, it never ties that claimed
+harm to the regulatory changes made in the Order. Specifically,
+NARUC states that I-VoIP’s “unresolved [classification] status”
+undercuts its members’ authority to “arbitrate interconnection
+disputes between telecommunications carriers,” Pet’r’s Br. 13;
+Reply Br. 14 n. 4 (citing 47 U.S.C. § 252) (emphasis in
+original), and to protect “customers of telecommunications
+services,” Pet’r’s Br. 9 n. 11 (citing 47 U.S.C. § 253) (emphasis
+in original). The Order addresses only direct number access and
+enhanced portability, leaving undisturbed the Commission’s
+separate classification proceeding. Order ¶ 79 n. 282. “Because
+this Order is not the source” of the harm arising from the
+Commission’s classification delay, NARUC’s claim of injury is
+misdirected. Cf. Nat’l Tel. Coop. Ass’n v. FCC, 563 F.3d 536,
+541–42 (D.C. Cir. 2009). Absent affidavits or other supporting
+evidence, NARUC fails to explain how it suffers a concrete,
+                                8
+
+particularized injury simply because I-VoIPs are not yet
+classified by the Commission. NARUC identifies no state
+authority that depends on whether interconnected VoIP is
+classified by the Commission as a telecommunications service;
+instead, all the statutory provisions NARUC invokes depend on
+whether I-VoIP is a telecommunications service. See, e.g.,
+Pet’r’s Br. 13 (citing 47 U.S.C. §§ 252, 253(b)). Under
+NARUC’s view that “I-VoIP is a [t]elecommunications
+[s]ervice,” Pet’r’s Br. 28, the states can already exercise those
+statutory powers. NARUC fails to explain what additional
+concrete benefit the Commission classification would provide to
+states. Therefore, NARUC fails to identify a concrete harm
+inflicted by the Order’s inaction on classification.
+
+     Second, NARUC maintains its members are injured by the
+“Order’s raison d’etre — which is to permit I-VoIP providers
+the option to bypass either becoming State-certified or dealing
+with a State-certified carrier.” Reply Br. 12 (citing Order ¶ 21).
+It maintains that its members suffered an injury because “the
+Order substitutes a necessarily less direct and arguably more
+burdensome procedure for States” to carry out their role in
+“actively polic[ing] utilization (to avoid State area code
+exhaustions).” Reply Br. 13; see Oral Arg. Tape 6:15–6:50;
+9:28–9:40. The Commission has delegated to state commissions
+the authority to “resolve matters involving the introduction of
+new area codes within their states,” which includes “[d]irecting
+whether area code relief will take the form of a geographic split,
+an overlay area code, or a boundary realignment.” 47 C.F.R.
+§ 52.19(a); see Order ¶ 27 n. 88. NARUC does not explain how
+these proceedings have become more burdensome, much less
+how the Order has caused a more burdensome procedure for the
+state commissions to carry out their delegated duties. That
+objection overlooks that the Commission has preserved the
+numbering authority of state commissions. See Order ¶ 24. The
+Order requires I-VoIP service providers to “file requests for
+                                 9
+
+numbers with the relevant state commission(s) at least 30 days
+before requesting numbers from the Numbering Administrators,”
+id. ¶ 24, and I-VoIPs that directly access numbers are required to
+“adher[e] to the numbering authority delegated to state
+commissions for access to data and number reclamation,” id. ¶
+27. Indeed, when NARUC’s counsel was asked during oral
+argument to describe, in light of Paragraph 24, how the Order
+harmed NARUC, counsel appeared to deflect the question,
+responding that its members “were not happy” with the Order.
+Oral Arg. Tape 32:30–34:20. Unhappiness, however, does not
+meet the first prong of Article III standing. Because it is not
+self-evident that state commissions’ procedures have become
+more burdensome for NARUC members, NARUC fails to
+demonstrate an injury-in-fact. Again, “[b]are allegations” are
+insufficient. Sierra Club, 292 F.3d at 898.
+
+     Accordingly, because NARUC has failed to demonstrate an
+injury-in-fact, and thus failed to establish Article III standing to
+challenge the Order, the court lacks jurisdiction and the petition
+for review is dismissed.
+

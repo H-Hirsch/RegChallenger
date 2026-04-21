@@ -1,0 +1,763 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued December 11, 2023                Decided July 12, 2024
+
+                         No. 22-1337
+
+       INTERNATIONAL DARK-SKY ASSOCIATION, INC.,
+                      APPELLANT
+
+                              v.
+
+          FEDERAL COMMUNICATIONS COMMISSION,
+                      APPELLEE
+
+            SPACE EXPLORATION HOLDINGS, LLC,
+                      INTERVENOR
+
+
+
+                 Consolidated with 23-1001
+
+
+              On Appeals from an Order of the
+            Federal Communications Commission
+
+
+
+     Charles Lee Mudd Jr. argued the cause and filed the briefs
+for appellant International Dark-Sky Association, Inc.
+
+    Pantelis Michalopoulos argued the cause for appellant
+DISH Network Corporation. With him on the briefs were Mark
+C. Savignac and William Travis West.
+                               2
+
+    James M. Carr and Rachel Proctor May, Counsel, Federal
+Communications Commission, argued the causes for appellee.
+With them on the brief was Jacob M. Lewis, Deputy General
+Counsel.
+
+     Pratik A. Shah argued the cause for intervenor in support
+of appellee. With him on the brief were Michael Weisbuch and
+Z.W. Julius Chen.
+
+     Corbin K. Barthold and James E. Dunstan were on the
+brief for amicus curiae TechFreedom in support of appellee.
+
+    Before: RAO and CHILDS, Circuit Judges, and GINSBURG,
+Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge RAO.
+
+     RAO, Circuit Judge: The Federal Communications
+Commission licensed a new satellite system owned by Space
+Exploration Holdings (“SpaceX”). DISH Network challenges
+the license on several grounds, including that the Commission
+did not adequately consider the risk of signal interference with
+other satellites. The International Dark-Sky Association also
+appeals the order, asserting that the Commission failed to
+conduct the environmental review required by the National
+Environmental Policy Act. Because the Commission’s order
+was lawful and reasonably explained, we affirm.
+
+                               I.
+
+                              A.
+
+   We begin with the statutory and regulatory framework.
+The Federal Communications Commission (“FCC” or
+“Commission”) may grant broadcast licenses, including for
+                                 3
+satellites, when it would serve the “public convenience,
+interest, or necessity.” Communications Act of 1934, Pub. L.
+No. 73-416, ch. 652, § 307(a), 48 Stat. 1064, 1083 (codified as
+amended at 47 U.S.C. § 307(a)). The Commission must also
+regulate as “necessary to prevent interference between”
+satellite systems. 47 U.S.C. § 303(f).
+
+     As relevant here, there are two types of satellite systems.
+Geostationary orbit satellites “remain in fixed positions relative
+to the earth” and transmit direct broadcast services like those
+offered by DISH. Northpoint Tech., Ltd. v. FCC, 412 F.3d 145,
+155 (D.C. Cir. 2005). Non-geostationary orbit satellites
+“continuously circle the earth” and include satellite
+constellations like SpaceX’s Starlink system. Id. When issuing
+a license, the FCC limits non-geostationary satellites to those
+that do not “cause unacceptable interference to” existing
+geostationary satellite systems. 47 C.F.R. § 25.289.
+Interference is measured in terms of “power flux-density,”
+which must remain below set limits. Id. §§ 25.103, 25.289.
+
+     In 2017, the Commission incorporated the power flux-
+density limits set by the International Telecommunications
+Union (“ITU”) in its 2016 Radio Regulations. 1 See id.
+§ 25.289; see also Update to Parts 2 and 25 Concerning Non-
+Geostationary, Fixed-Satellite Service Systems and Related
+Matters (“2017 Order”), 32 FCC Rcd. 7809, 7843 (2017).
+Because the ITU has validation software to assess a satellite
+system’s compliance with the power limits, the FCC
+determined it was unnecessary to create a separate compliance
+
+
+1
+  The ITU Constitution and Convention, a multi-national treaty to
+which the United States is a signatory, established the International
+Telecommunications Union to address signal interference. See ITU
+Convention, Dec. 22, 1992, 1825 U.N.T.S. 390, 492; Constitution of
+the ITU art. 1, ¶ 2(b), Dec. 22, 1992, 1825 U.N.T.S. 331, 333, 376.
+                                4
+verification system and instead required applicants to use the
+ITU’s software. 2017 Order, 32 FCC Rcd. at 7822.
+
+     A license applicant must now follow a two-step process.
+First, it must certify that it will comply with the ITU’s power
+limits. 47 C.F.R. § 25.146(a). Second, it must submit power
+flux-density data to the ITU and have the ITU confirm that the
+system in fact complies with the power limits. Id. § 25.146(c).
+If the ITU issues a favorable finding, the Commission may
+issue the license.
+
+                               B.
+
+     This case involves SpaceX’s second generation Starlink
+satellite system (“Gen2 Starlink”). SpaceX applied for a license
+to operate 29,988 low-altitude non-geostationary orbit
+satellites to deliver internet service. SpaceX first certified its
+satellites would satisfy the ITU’s power limits. It then
+submitted its data to the ITU for verification. In order to avoid
+delay from the ITU’s backlog of applications, SpaceX also
+requested the FCC grant the license while it waited for the
+ITU’s finding.
+
+     The FCC conditionally approved SpaceX’s license for
+7,500 satellites, even though the ITU determination was still
+pending. The Commission explained that licensing Gen2
+Starlink was in the public interest because the system would
+“improve[] broadband to unserved and underserved regions of
+the United States and worldwide.” And it was also in the public
+interest to approve deployment “as soon as possible” instead of
+waiting for the ITU’s finding. The Commission explicitly
+conditioned Gen2 Starlink’s continued operations on receiving
+a favorable finding from the ITU, cautioning SpaceX that it
+would need to adjust its operations to comply with the power
+flux-density limits if it failed to obtain the requisite finding.
+After the license issued, SpaceX was required to make the data
+                                  5
+it ran through the ITU software available to any party that
+requested it.
+
+                                 C.
+
+     The two appellants before us opposed SpaceX’s Gen2
+Starlink license application in the FCC proceedings.2 First,
+DISH, a satellite owner and operator and SpaceX competitor,
+petitioned the Commission to deny the license because SpaceX
+would cause unacceptable interference to DISH’s satellites.
+DISH also argued the Commission’s reliance on the ITU
+standards and verification process amounted to an unlawful
+delegation of the Commission’s licensing authority to an
+outside party. The FCC declined to consider the evidence of
+interference that DISH submitted to support its petition because
+SpaceX was required only to self-certify its compliance with
+the ITU limits. And it concluded that the ITU’s role in
+reviewing power flux-density compliance was not an unlawful
+delegation.
+
+     Second, International Dark-Sky, an environmental group
+composed of amateur astronomers and dark-sky enthusiasts,
+objected to the FCC’s decision not to perform an
+environmental review of the light pollution and atmospheric
+effects of Gen2 Starlink. International Dark-Sky maintained
+such a review was required under the National Environmental
+Policy Act (“NEPA”). See Pub. L. No. 91-190, 83 Stat. 852
+(codified at 42 U.S.C. §§ 4321 et seq.). The FCC concluded its
+
+
+
+2
+  Licensing proceedings require public notice and an opportunity for
+comment. See 47 C.F.R. § 25.151(a), (d). Interested parties may
+submit informal objections to the license or formally petition to deny
+the license. See id. § 25.154. The FCC must examine these objections
+before deciding whether to grant the license. See id. § 25.156(a).
+                               6
+regulations did not require an environmental review and denied
+International Dark-Sky’s request.
+
+    Both DISH and International Dark-Sky appealed the
+Commission’s order granting SpaceX a license for its satellites.
+See 47 U.S.C. § 402(b)(6). We consolidated the cases and
+granted SpaceX’s motion to intervene.
+
+                               II.
+
+     We first address DISH’s appeal. DISH argues the
+Commission acted arbitrarily and capriciously by disregarding
+evidence that Gen2 Starlink will exceed the power flux-density
+limits, by deferring the ITU favorable finding requirement, and
+by withholding SpaceX’s data from public release until after
+the licensing proceeding concluded. DISH also argues the
+Commission unlawfully subdelegated its decisionmaking
+authority to the ITU.
+
+     The Administrative Procedure Act requires courts to set
+aside agency actions, including licensing decisions, that are
+arbitrary and capricious or not in accordance with law. 5 U.S.C.
+§ 706(2)(A); accord NRDC v. NRC, 823 F.3d 641, 648–49
+(D.C. Cir. 2016) (applying § 706 to licensing decisions). An
+action is arbitrary and capricious when the agency relies on
+inappropriate factors, fails to consider important aspects of the
+problem, or ignores relevant evidence. See Motor Vehicle Mfrs.
+Ass’n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983).
+Within an agency’s lawful authority, courts will uphold agency
+action that is “reasonable and reasonably explained.” FCC v.
+Prometheus Radio Project, 141 S. Ct. 1150, 1158 (2021).
+                                7
+                               A.
+
+    DISH first argues the Commission acted arbitrarily and
+capriciously by disregarding evidence that Gen2 Starlink will
+exceed the power flux-density limits.
+
+     After running its data through the ITU software, SpaceX
+certified that its satellites complied with the ITU’s power flux-
+density limits. DISH submitted its own analysis showing that
+Gen2 Starlink would exceed the limits. DISH attributes the
+different results to the chosen data input file. SpaceX divided
+the Gen2 Starlink power data into 18 separate files when it ran
+the ITU analysis. After self-certifying its compliance, and at
+the ITU’s request, SpaceX submitted its data to the
+Commission in a “single combined filing” to “facilitate
+preparation for ITU coordination.” DISH analyzed Gen2
+Starlink’s compliance based on the combined file rather than
+the 18 separate files. DISH maintains the Commission’s refusal
+to consider its submission fails to respond meaningfully to
+objections.
+
+     The Commission was not required to consider DISH’s
+analysis. At the first step of the licensing process, an applicant
+must self-certify compliance with the ITU’s power limits. 47
+C.F.R. § 25.146(a). Nothing in the regulation required the FCC
+to independently verify the certification. DISH does not dispute
+that agencies may employ reasonable methods of self-
+certification and need not second guess such certifications any
+time an objection is raised by a third party.
+
+     While it is true we have held an agency cannot reasonably
+ignore “smoking gun” evidence of a fraudulent self-
+certification, no such evidence was presented here. See Animal
+Legal Def. Fund, Inc. v. Perdue, 872 F.3d 602, 619 (D.C. Cir.
+2017). DISH does not point to any evidence beyond its study
+that indicates Gen2 Starlink is violating the power flux-density
+                                8
+limits or that the FCC is aware of any violation. By contrast, in
+Animal Legal Defense Fund, the record included clear and
+egregious evidence contradicting the applicant’s self-
+certification. The Department of Agriculture “knew that the
+[license applicants] were grossly and consistently out of
+compliance” and that they had been repeatedly cited for
+regulatory violations. Id. at 618–19. We held that “[r]eliance
+on facts that an agency knows are false at the time it relies on
+them is the essence of arbitrary and capricious
+decisionmaking.” Id. at 619 (cleaned up).
+
+     In this case, DISH argues simply that SpaceX grouped its
+data for the analysis in a way that satisfied the ITU limits, while
+a different grouping would not. But the regulations do not
+specify how an applicant must group its data. SpaceX was
+required to certify only the results of running its data—grouped
+in whatever way—through the ITU software. SpaceX even
+“consulted ITU staff on how to present datafiles for purposes
+of [power flux-density] analysis.” SpaceX also later confirmed
+the “combined filing,” not just the separate files, “demonstrates
+compliance” with the ITU limits. DISH’s proffered evidence
+falls well short of a smoking gun that would require the FCC
+to disregard SpaceX’s self-certification.
+
+   Relying on its self-certification licensing framework, the
+Commission reasonably explained why it declined to consider
+DISH’s alternative analysis.
+
+                                B.
+
+    Second, DISH argues the Commission acted arbitrarily
+and capriciously by allowing SpaceX to begin operations
+before receiving a favorable finding from the ITU. See 47
+C.F.R. § 25.146(c). DISH also contends that it is internally
+incoherent, and thus unreasonable, for the Commission to rely
+on the ITU’s confirmation of SpaceX’s certification while
+                                  9
+providing an interim waiver of that favorable finding
+requirement.3 We disagree.
+
+     The Commission’s decision to grant SpaceX’s license
+while waiting for the ITU’s determination was reasonable and
+reasonably explained. The Commission can waive its rules “for
+good cause shown,” id. § 1.3, including when “strict
+compliance” would be “inconsistent” with its statutory
+mandate to act in the public interest, AT&T Wireless Servs. v.
+FCC, 270 F.3d 959, 965 (D.C. Cir. 2001) (cleaned up). The
+FCC here found it was “in the public interest to … allow
+[SpaceX] to begin deployment as soon as possible to bring
+next-generation [internet] service to unserved and underserved
+areas of the country and globally.” It relied on many of the
+same factors that justified granting an interim waiver to license
+SpaceX’s first generation satellite system. Reviewing that
+license, this court held the interim waiver was reasonable
+because the FCC sought to avoid the harm resulting from “long
+delays in the provision of internet service to Americans who
+remain totally unserved by other broadband solutions.” Viasat,
+Inc. v. FCC, 47 F.4th 769, 777 (D.C. Cir. 2022) (cleaned up).
+We reach the same conclusion here.
+
+     Moreover, the Commission’s interim waiver is not
+inconsistent with its reliance on the ITU providing a favorable
+finding. The waiver does not relieve SpaceX of its regulatory
+obligation. SpaceX must still obtain a favorable finding, and
+the Commission clearly stated that any deployment in the
+interim was “at SpaceX’s own risk.” If SpaceX ultimately fails
+to secure a favorable finding, it will need to “adjust its
+
+
+3
+  The parties refer to this as a “partial waiver,” but it is merely an
+interim waiver. The FCC continued to require SpaceX to receive a
+favorable finding from the ITU; it just granted the license
+provisionally before the finding was made.
+                                10
+operations accordingly to come into compliance” with the
+power flux-density limits.
+
+    The Commission’s decision to grant SpaceX’s license
+before the ITU made its compliance determination was
+reasonable and consistent with previous decisions of this court.
+
+                                C.
+
+     Third, DISH argues the Commission unreasonably and
+unlawfully withheld SpaceX’s data from public release until
+after the conclusion of the licensing proceeding. DISH
+maintains it had a due process right and a right under the
+Commission’s regulations to review SpaceX’s data. Because
+the data was not part of the administrative record, DISH argues
+it could not adequately participate in the licensing proceeding.
+
+     Ex parte communications between an agency and a license
+applicant are prohibited when the communications are
+“inconsisten[t] … with the notion of a fair hearing and with the
+principles of fairness implicit in due process.” U.S. Lines, Inc.
+v. Fed. Mar. Comm’n, 584 F.2d 519, 539 (D.C. Cir. 1978). An
+ex parte communication must not “deprive the public of the
+right to participate meaningfully in the decisionmaking
+process.” Id. at 540.
+
+    Withholding SpaceX’s data did not deprive DISH of an
+opportunity to participate meaningfully in the licensing
+proceeding because the Commission did not evaluate SpaceX’s
+data at either stage of the licensing process. 4 At the first step,
+SpaceX was required only to self-certify, which by definition
+did not involve agency analysis. And at the second step, the
+
+4
+ Because DISH was able to fully participate in the proceeding, we
+need not decide whether DISH had a due process interest in
+SpaceX’s license.
+                               11
+ITU independently analyzed the data and made a finding, so
+there was no opportunity for DISH to participate. Neither step
+required the FCC to independently evaluate SpaceX’s data, and
+so DISH’s participation in the process was not impeded by the
+unavailability of that data.
+
+     DISH fares no better with its claim of a regulatory right to
+SpaceX’s data. Commission rules require public disclosure of
+a “written ex parte presentation” that is “directed to the merits
+or outcome of a proceeding.” 47 C.F.R. §§ 1.1206(a), (b)(2),
+1.1202(a). But the regulation explicitly exempts records
+“prepared in connection with coordination” of satellite systems
+under the ITU Radio Regulations. Id. § 0.457(d)(1)(vii)(B).
+The Commission explained that the exemption applied because
+SpaceX’s data submission was used only “to facilitate ITU
+coordination.” DISH provides no reason to doubt the
+Commission’s explanation of how it used (or did not use)
+SpaceX’s data, nor does DISH offer any evidence to overcome
+the presumption of regularity we afford to agencies. See
+LeBoeuf, Lamb, Greene & MacRae, L.L.P. v. Abraham, 347
+F.3d 315, 320 (D.C. Cir. 2003). We find the Commission
+reasonably explained why the data was exempt from public
+disclosure under its regulations.
+
+     DISH also contends that, if it is true the Commission did
+not rely on SpaceX’s data, its decision to license SpaceX’s
+satellites was unsupported. But as we have already explained,
+the FCC was not required to analyze the data because the
+regulations require only a license applicant’s self-certification
+and the ITU’s confirmation. Accordingly, failing to rely on
+SpaceX’s data does not undermine the decision to grant the
+license.
+                                 12
+     The Commission did not violate due process or its
+regulations by declining to release SpaceX’s data before the
+license approval.
+
+                                 D.
+
+    Finally, DISH argues the Commission has unlawfully
+subdelegated its statutory authority by incorporating the ITU’s
+power limits and assigning the ITU responsibility for verifying
+compliance. We disagree.
+
+     When Congress confers regulatory authority on an agency,
+subdelegation of that authority “to outside parties [is] assumed
+to be improper absent an affirmative showing of congressional
+authorization.” U.S. Telecom Ass’n v. FCC, 359 F.3d 554, 565
+(D.C. Cir. 2004). Not all third-party involvement in the
+regulatory process is such a delegation, however. We have
+recognized “three specific types of legitimate outside party
+input into agency decision-making processes: (1) establishing
+a reasonable condition for granting federal approval; (2) fact
+gathering; and (3) advice giving.” Id. at 566.
+
+    We need not consider whether Congress has authorized the
+FCC to subdelegate to the ITU because there has been no
+subdelegation of decisionmaking authority here. 5 The
+Commission’s use of the ITU power flux-density limits is a
+
+5
+  The FCC has statutory authority to align its regulations with the
+ITU’s power flux-density limits, a point DISH does not dispute.
+Congress directed the FCC to “[m]ake such rules and
+regulations … as may be necessary to carry out the provisions
+of … any international radio or wire communications treaty or
+convention.” 47 U.S.C. § 303(r). The ITU’s Radio Regulations,
+which set the power flux-density limits, are incorporated into the ITU
+Constitution and Convention and “binding on all Members.” See
+Constitution of the ITU art. 4, ¶ 3, 1825 U.N.T.S. at 335.
+                              13
+type of legitimate outside party input. An agency may permit
+outside parties to perform “nondiscretionary activities such as
+compiling, hearing, and transmitting technical information.”
+Id. at 567 (cleaned up). The ITU limits are highly technical and
+based on the threshold at which conflicting radio waves begin
+to interfere with satellite performance. Cf. Amerada Hess
+Pipeline Corp. v. FERC, 117 F.3d 596, 601 (D.C. Cir. 1997)
+(holding an agency may adopt technical standards
+“promulgated by an independent organization” without
+“surrender[ing] its responsibility for adopting” standards).
+
+     An agency may “turn to an outside entity for advice and
+policy recommendations, provided the agency makes the final
+decisions itself.” U.S. Telecom Ass’n, 359 F.3d at 568. The
+FCC retains all decisionmaking authority to set the power limit.
+The Commission’s regulations are not indexed to the ITU’s
+determinations, but rather incorporate a particular set of
+limits—namely those in the ITU’s 2016 Radio Regulations.
+See 47 C.F.R. § 25.108(c)(2). The ITU therefore cannot
+unilaterally change the limits applicable in an FCC licensing
+proceeding. Any change to the ITU standards would be
+incorporated only if the FCC chose to revise its regulation. See
+ITU Convention, Dec. 22, 1992, 1825 U.N.T.S. 390, 492 (“Nor
+shall the United States of America be deemed to have
+consented to be bound by revisions of the Administrative
+Regulations … adopted subsequent to the date of signature.”).
+
+     Furthermore, tasking the ITU with verifying an applicant’s
+compliance with the power limits is legitimate outside party
+input because it is nondiscretionary “fact gathering.” U.S.
+Telecom Ass’n, 359 F.3d at 566. DISH attempts to characterize
+the ITU’s role as more than fact gathering, suggesting that the
+ITU made the final determination as to “whether SpaceX may
+operate it[s] system.” But the ITU merely uses its software to
+calculate a satellite system’s power flux-density, compares that
+                              14
+value to the ITU limits, and reports to the Commission whether
+the value satisfies the limits. The ITU’s fact gathering is not
+regulatory decisionmaking.
+
+     Importantly, a favorable finding by the ITU does not
+automatically yield a license. The Commission must consider
+a variety of factors, including satellite interference, to
+determine whether a license is in the public interest. After
+receiving the ITU’s compliance finding, the Commission
+makes the final decision about whether to grant a license.
+
+    The Commission incorporates the ITU standards and relies
+on the ITU for fact finding, but the agency retains its
+decisionmaking authority. We therefore reject DISH’s
+subdelegation challenge.
+
+                             ***
+
+     The Commission’s decision to license SpaceX’s Gen2
+Starlink satellites was lawful and reasonable. We therefore
+reject DISH’s appeal.
+
+                             III.
+
+     We next address International Dark-Sky’s appeal
+challenging the Commission’s refusal to conduct an
+environmental review before approving SpaceX’s license.
+International Dark-Sky has standing; however, it has failed to
+demonstrate the Commission’s actions were arbitrary,
+capricious, or contrary to law.
+
+                              A.
+
+    International Dark-Sky asserts both associational and
+organizational standing, which SpaceX contests. Because we
+conclude International Dark-Sky has associational standing,
+                               15
+we need not consider whether it would also have organizational
+standing.
+
+     At the outset, International Dark-Sky has demonstrated
+that it is a genuine membership organization. It submitted
+declarations from two members who alleged injury from the
+licensing of new SpaceX satellites and affirmed that
+International Dark-Sky represented their interests. One
+member, James Lowenthal, an astronomy professor, explained
+the negative effects of light pollution on his professional
+research and teaching, as well as on his personal interest in
+viewing the night sky. Another member, Diana Umpierre,
+explained the harm from light pollution and from not having
+the results of an environmental assessment to educate the
+public about the impact of SpaceX’s satellites. When “an
+organization has identified members and represents them in
+good faith, our cases do not require further scrutiny into how
+the organization operates.” Students for Fair Admissions, Inc.
+v. President & Fellows of Harvard Coll., 143 S. Ct. 2141, 2158
+(2023).
+
+     To establish associational standing, an organization must
+show that “(1) its members would otherwise have standing to
+sue in their own right; (2) the interests it seeks to protect are
+germane to the organization’s purpose; and (3) neither the
+claim asserted nor the relief requested requires the participation
+of individual members in the lawsuit.” Ctr. for Sustainable
+Econ. v. Jewell, 779 F.3d 588, 596 (D.C. Cir. 2015) (cleaned
+up).
+
+     International Dark-Sky has demonstrated its members
+would have standing to sue in their own right. For the
+procedural harm alleged here, there must be an injury in fact,
+but the standards for redressability and causation are relaxed.
+“[E]nvironmental plaintiffs adequately allege injury in fact
+                               16
+when they aver that they use the affected area and are persons
+‘for whom the aesthetic and recreational values of the area will
+be lessened’ by the challenged activity.” Friends of the Earth,
+Inc. v. Laidlaw Env’t Servs. (TOC), Inc., 528 U.S. 167, 183
+(2000) (cleaned up). International Dark-Sky alleges its
+members are stargazers and astronomers who “use” the sky and
+whose aesthetic and recreational activities will be inhibited by
+light pollution from the satellites. And it submitted declarations
+from its members to that effect. This suffices to allege an injury
+in fact.
+
+     International Dark-Sky has also satisfied the causation and
+redressability requirements. For a procedural injury, an
+organization “need demonstrate only that the procedural step
+was connected to the substantive result, not that the agency
+would have reached a different substantive result but for the
+alleged procedural error.” Sierra Club v. FERC, 827 F.3d 59,
+65 (D.C. Cir. 2016) (cleaned up). The alleged procedural harm
+here was linked to the approval of SpaceX’s satellite license. If
+the Commission switched course and performed an
+environmental review, “the Commission could change its
+position and deny” the license on remand, reducing the alleged
+harms. Id. at 67.
+
+     Second, this environmental challenge is germane to
+International Dark-Sky’s purpose. “The germaneness
+requirement mandates pertinence between litigation subject
+and organizational purpose.” Ctr. for Sustainable Econ., 779
+F.3d at 597 (cleaned up). International Dark-Sky exists
+primarily to provide information and education to the public.
+Its self-described mission is “to encourage communities, parks,
+and protected areas around the world to preserve and protect
+dark skies through responsible lighting practices and public
+education.” Environmental assessments produce the type of
+information relevant to an educational organization’s purpose.
+                              17
+     Third, participation by International Dark-Sky’s
+individual members is not necessary. The appeal turns on
+whether the FCC complied with its statutory obligations, and
+the relief sought is vacatur of the license and remand for an
+environmental review. Neither the legal claims nor the relief
+sought involve individualized grievances. See id.
+
+     We therefore hold that International Dark-Sky has
+satisfied this court’s requirements for associational standing.
+
+                              B.
+
+    International Dark-Sky maintains the Commission’s
+decision to grant SpaceX a license without performing an
+environmental review was arbitrary and capricious and not in
+accordance with law. 5 U.S.C. § 706(2)(A).
+
+     NEPA requires federal agencies to consider the effects of
+their decisions on the human environment before acting. See 42
+U.S.C. § 4332. When applicable, such review would require a
+license applicant to prepare an environmental assessment of its
+proposed action. 47 C.F.R. § 1.1308(b). But there are
+“categories of actions that normally do not have a significant
+effect on the human environment, … and therefore do not
+require preparation of an environmental assessment.” 40
+C.F.R. § 1501.4(a). The FCC has determined in its NEPA
+regulations that, subject to a few exceptions not relevant here,
+all FCC actions (including granting licenses) “are deemed
+individually and cumulatively to have no significant effect on
+the quality of the human environment and are categorically
+excluded from environmental processing.” 47 C.F.R.
+§ 1.1306(a). The only way to overcome this categorical
+exemption is if the FCC “determines that the action may have
+a significant environmental impact.” Id. § 1.1307(c).
+                               18
+    SpaceX’s license falls within the categorical exclusion, so
+an environmental assessment was required only if the FCC
+determined that the license may have a significant
+environmental impact. The FCC reasonably concluded that no
+such impact was present here, and International Dark-Sky’s
+arguments to the contrary are unavailing.
+
+                               1.
+
+     First, International Dark-Sky argues the FCC acted
+arbitrarily and capriciously because its determination that Gen2
+Starlink would have no significant environmental impact was
+conclusory and lacked record support. In particular,
+International Dark-Sky maintains the FCC failed to respond
+adequately to a report showing that SpaceX’s satellite system
+would cause significant atmospheric effects from rocket
+launches and reentry as well as light pollution from orbiting
+satellites.
+
+     Relying on two European Space Agency studies, the FCC
+reasonably concluded that the volume of atmospheric material
+emanating from satellite launch and reentry would not
+comprise a significant environmental impact. The FCC
+concluded the studies were “the most relevant evidence in the
+record” and “sufficiently persuasive … to conclude that there
+would not be a significant environmental impact associated
+with a constellation of 7,500 Gen2 Starlink satellites.”
+Moreover, the Commission explained it relied on these studies
+because they “focus[] specifically on atmospheric effects of
+reentering spacecrafts,” while the report relied on by
+International Dark-Sky emphasized the limited scientific
+understanding of satellite constellation emissions. The FCC
+further discounted the alternative report because it considered
+the effects of all 29,988 satellites, but the Commission licensed
+only a fraction of that number.
+                               19
+      We find the Commission adequately responded to
+International Dark-Sky’s comments and reasonably explained
+its reliance on the European Space Agency studies.
+
+                                2.
+
+    Second, International Dark-Sky argues the FCC cannot
+rely on SpaceX’s mitigation efforts when assessing the
+significance of the satellites’ environmental impact.
+
+     But an agency may consider mitigation when weighing the
+significance of potential environmental effects. 40 C.F.R.
+§ 1501.4(b)(1); see also Sierra Club v. Van Antwerp, 661 F.3d
+1147, 1156 (D.C. Cir. 2011) (“[A] project with a potentially
+significant impact will not require [environmental review] if
+changes or safeguards sufficiently reduce the impact.” (cleaned
+up)). The FCC reasonably concluded SpaceX’s mitigation
+efforts would help minimize any environmental impact.
+
+     SpaceX demonstrated that it was changing its software and
+hardware between its first and second generation systems to
+decrease the satellites’ brightness. It also confirmed it was
+collaborating with many of the groups that raised reflectivity
+concerns—including NASA and the National Science
+Foundation—to optimize its mitigation efforts. The FCC
+explained that Gen2 Starlink satellites orbit lower than
+previous satellites, which reduces reflectivity at night, and that
+SpaceX’s satellite tracking system allows astronomers to
+account for and avoid the satellites when observing the night
+sky. While there may still be effects from the Gen2 Starlink
+satellites, the Commission concluded the conditions it imposed
+on SpaceX, “in addition to SpaceX’s planned mitigation
+efforts, are sufficient to avoid significant environmental
+effects, and therefore environmental review under NEPA is not
+warranted.” The Commission’s approach is well within its
+regulatory discretion. See 47 C.F.R. § 1.1307(c).
+                               20
+     International Dark-Sky also suggests the Commission’s
+reliance on SpaceX’s mitigation efforts is evidence there would
+be significant environmental effects from the license. But
+recognizing the need for, and value of, mitigation cannot be the
+standard for finding a substantial environmental impact.
+Otherwise, as the Ninth Circuit noted in a similar NEPA
+challenge, if proposed mitigation strategies “trigger the need to
+prepare” an environmental assessment, agencies will be
+incentivized “to leave out important conditions on permits for
+fear that the presence of the conditions would preclude the
+availability of the categorical exclusion.” Alaska Ctr. for the
+Env’t v. U.S. Forest Serv., 189 F.3d 851, 860 (9th Cir. 1999).
+Here, the Commission reasonably imposed mitigation
+measures and considered those measures when concluding
+there was no significant environmental impact from SpaceX’s
+satellites.
+
+                               3.
+
+     Finally, International Dark-Sky maintains the FCC’s
+reliance on the Federal Aviation Administration’s (“FAA”)
+programmatic environmental assessment cannot be reconciled
+with 47 C.F.R. § 1.1311(e). An agency action based on a
+flawed interpretation of a statute or regulation is contrary to
+law. See CREW v. FEC, 993 F.3d 880, 892 (D.C. Cir. 2021).
+
+     An applicant “need not … submit[]” an environmental
+assessment to the FCC “if another agency … has assumed
+responsibility for determining whether [the action] … will
+have a significant effect on the” environment. 47 C.F.R.
+§ 1.1311(e). Following this regulatory directive, the FCC
+concluded that it “need not conduct an environmental review
+of the Gen2 Starlink satellite launch activity” because the FAA
+had already completed a review and concluded the launches
+“would not significantly affect the quality of the human
+                              21
+environment.” Moreover, SpaceX was involved in the FAA’s
+programmatic environmental assessment. The Commission
+expressed its “confidence the FAA ha[d] conducted, and will
+continue to conduct as necessary, thorough environmental
+reviews of SpaceX’s launch activities.”
+
+     International Dark-Sky argues the Commission could not
+rely on the FAA’s assessment because the FAA did not assume
+responsibility for the environmental review of SpaceX’s
+satellite license, the agency action at issue here, and the FAA
+was required to “assum[e] responsibility” as a precondition of
+the Commission’s reliance. We decline to adopt this overly
+literal reading of the NEPA regulations. The Commission
+relied on the FAA’s assessment only when considering the
+environmental impact of SpaceX’s rocket launches. And the
+FAA in fact conducted an environmental review of those
+launches, pursuant to its statutory authority. See 51 U.S.C.
+§ 50901(b)(3). The Commission’s reliance on the FAA’s
+environmental review was therefore reasonable and consistent
+with its regulatory requirements.
+
+     In sum, we reject International Dark-Sky’s claims because
+the FCC’s determination that Gen2 Starlink would not have a
+significant environmental impact was reasonable, reasonably
+explained, and consistent with the Commission’s legal
+obligations.
+
+                            ***
+
+     For the foregoing reasons, we affirm the FCC’s order
+licensing SpaceX’s Gen2 Starlink satellites.
+
+                                                   So ordered.
+

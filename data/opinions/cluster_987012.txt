@@ -1,0 +1,600 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued April 15, 2013                    Decided July 2, 2013
+
+                         No. 12-1124
+
+               THE CONFERENCE GROUP, LLC,
+                       PETITIONER
+
+                              v.
+
+          FEDERAL COMMUNICATIONS COMMISSION
+             AND UNITED STATES OF AMERICA,
+                     RESPONDENTS
+
+                    CISCO WEBEX LLC,
+                INTERVENOR FOR PETITIONER
+
+             VERIZON AND VERIZON WIRELESS,
+              INTERVENORS FOR RESPONDENTS
+
+
+            On Petition for Review of An Order of
+          the Federal Communications Commission
+
+
+     Ross A. Buntrock argued the cause for petitioner. With him
+on the briefs was Michael B. Hazzard.
+
+   Christopher J. Wright argued the cause for intervenor Cisco
+WebEx LLC. With him on the briefs was Brita D. Strandberg.
+
+   Joel Marcus, Counsel, Federal Communications
+Commission, argued the cause for respondent. On the brief were
+                               2
+
+Robert B. Nicholson and Nickolai G. Levin, U.S. Department of
+Justice, Attorneys, and Sean A. Lev, General Counsel, Federal
+Communications Commission, Peter Karanjia, Deputy General
+Counsel, Richard K. Welch, Deputy Associate General Counsel,
+and Laurel R. Bergold, Attorney.
+
+      Helgi C. Walker argued the cause for intervenors Verizon,
+et al. With her on the brief were Elbert Lin, Michael E. Glover,
+and Christopher M. Miller.
+
+    Before: GARLAND, Chief Judge, ROGERS, Circuit Judge,
+and SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge ROGERS.
+
+     ROGERS, Circuit Judge: In 2008 the Federal
+Communications Commission decided that the audio bridging
+services provided by InterCall, Inc. are properly classified as
+“telecommunications” under the Communications Act of 1934,
+as amended, and thereby obligate it and “similarly situated”
+providers to contribute directly to the Universal Service Fund
+(“USF”), 47 U.S.C. § 254(d). The Conference Group, joined by
+intervenor Cisco WebEx, contends that the Commission
+converted an unlawful decision by the administrator of the USF
+as to InterCall, Inc.’s contribution obligation into an industry-
+wide legislative rule without adequate notice or comment, in
+violation of section 553 of the Administrative Procedure Act
+(“APA”), and that the Commission’s action was arbitrary and
+capricious because it ignored uncontroverted facts and legal
+precedent.
+
+    The Conference Group has standing to challenge the
+Commission’s decision as procedurally unlawful rulemaking,
+but we conclude that there is no merit to that challenge. The
+Commission’s decision involved a statutory interpretation that
+                                 3
+
+could be rendered in the form of an adjudication, not only in a
+rulemaking. Because the decision was an adjudication and the
+The Conference Group was not a party, it lacks standing to
+challenge the merits of that adjudication. Although the
+Commission stated its decision would apply to “similarly
+situated” providers, that is true of all precedents. And this court
+has held that the mere fact that an adjudication creates a
+precedent that could harm a non-party does not create the injury-
+in-fact required for Article III standing. If the Commission
+applies its rule of decision for InterCall, Inc. to The Conference
+Group, The Conference Group can present its substantive
+arguments in its own adjudication. Intervenor Cisco WebEx’s
+lack of standing is a fortiori because it claims it is not similarly
+situated to InterCall, Inc. and thus can claim no injury as a
+consequence of the Commission’s decision. Accordingly, we
+deny The Conference Group’s petition in part and dismiss it in
+part for lack of jurisdiction.
+
+                                 I.
+
+     The Communications Act of 1934, as amended by the
+Telecommunications Act of 1996, 47 U.S.C. § 151 et seq. (“the
+Act”), defines two categories of regulated entities relevant here:
+telecommunications carriers and information-service providers.
+See generally Nat’l Cable & Telecomm. Ass’n v. Brand X
+Internet Serv., 545 U.S. 967, 975 (2005) (“Brand X”). The Act
+regulates the former as common carriers, and providers of
+telecommunications services are required to contribute to the
+USF. 47 U.S.C. § 254(d). It also authorizes the Commission to
+impose additional regulatory obligations on non-common
+carriers under its Title I ancillary jurisdiction to regulate
+interstate and foreign communications. See Brand X, 545 U.S.
+at 975 (citing 47 U.S.C. §§ 151–161). The Act defines
+“telecommunications” as “the transmission, between or among
+points specified by the user, of information of the user’s
+                               4
+
+choosing, without change in the form or content of the
+information as sent and received.” 47 U.S.C. § 153(50). Thus,
+“telecommunications service” is “the offering of
+telecommunications for a fee directly to the public, or to such
+classes of users as to be effectively available directly to the
+public, regardless of the facilities used.” Id. § 153(53). In
+contrast, “information service” is “the offering of a capability
+for generating, . . . or making available information via
+telecommunications, and includes electronic publishing, but
+does not include any use of any such capability for the
+management, control, or operation of a telecommunications
+system or the management of a telecommunications service.”
+Id. § 153(24).
+
+    Section 254, on universal service, provides, in relevant part:
+
+         Every telecommunications carrier that provides
+         interstate telecommunications services shall contribute,
+         on an equitable and nondiscriminatory basis, to the
+         specific, predictable, and sufficient mechanisms
+         established by the Commission to preserve and
+         advance universal service. . . . Any other provider of
+         interstate telecommunications may be required to
+         contribute to the preservation and advancement of
+         universal service if the public interest so requires.
+
+Id. § 254(d) (emphases added). By regulation, the Commission
+announced that, in addition to “telecommunications services”
+providers such as common carriers, “[c]ertain other providers of
+interstate telecommunications . . . also must contribute to the
+universal service support mechanisms.” 47 C.F.R. § 54.706(a).
+Specifically:
+
+         Interstate telecommunications include, but are not
+         limited to: (1) Cellular telephone and paging services;
+                               5
+
+        (2) Mobile radio services; (3) Operator services; (4)
+        Personal communications services (PCS); (5) Access
+        to interexchange service; (6) Special access service; (7)
+        WATS; (8) Toll-free service; (9) 900 service; (10)
+        Message telephone service (MTS); (11) Private line
+        service; (12) Telex; (13) Telegraph; (14) Video
+        services; (15) Satellite service; (16) Resale of interstate
+        services; (17) Payphone services; and (18)
+        Interconnected VoIP services[;] (19) Prepaid calling
+        card providers.
+
+Id. (emphasis added). Required USF contributions are based on
+a provider’s projected net end-user telecommunications
+revenues, id. § 54.706(b), and filed in accordance with the
+Telecommunications Reporting Worksheet (FCC Form 499), id.
+§ 54.711(a), (c). Since 2002 the instructions accompanying the
+FCC Form 499 for annual filings have provided that “toll
+teleconferencing” is subject to direct USF contributions. See
+FCC Form 499-A Telecommunications Reporting Worksheet at
+20 (Feb. 2002).
+
+     The Commission has delegated administration of the USF
+to the Universal Service Administrative Company (“USAC”),
+see In re Changes to the Board of Directors of the National
+Exchange Carrier Association, Inc. and Federal-State Joint
+Board on Universal Service, 12 FCC Rcd. 18400, 18407 ¶ 11
+(1997) (“Second Order on Reconsideration”). It has no policy
+or interpretive role, see 47 C.F.R. § 54.702(c), and must seek
+guidance from the Commission where the Act or the
+Commission’s rules are unclear or do not address a particular
+situation, id. Upon appeal of the USAC’s contribution
+decisions, the Commission conducts de novo review of “novel
+questions of fact, law, or policy.” Id. § 54.723(b).
+                                6
+
+     In 2007, the USAC initiated an audit of InterCall, Inc. for
+the purpose of determining whether it owed USF contributions.
+As self-described, InterCall, Inc. offers an audio bridging
+service that “allows multiple end users to communicate and
+collaborate with each other using telephone lines” by “link[ing]
+multiple communications together and feed[ing] to each station
+a composite audio input minus the user’s own audio.” See In the
+Matter of Request for Review by InterCall, Inc. of Decision of
+the Universal Service Administrator at 4, CC Docket No. 96-45
+(Feb. 1, 2008) (“Request for Review”). “The audio bridge also
+performs conference validation functions, collects billing and
+participant information . . . and enables numerous conference
+control features, including recording, delayed playback, mute
+and unmute of callers and operator assistance.” Id. InterCall,
+Inc. provides a “stand-alone” audio bridge service and
+“purchases toll-free, international and/or local number-based
+services from one or more telecommunications vendors” in
+order to obtain the telecommunications input required to operate
+its service. Id. at 5.
+
+     The USAC found that the audio bridging services provided
+by InterCall, Inc. are toll teleconferencing services subject to
+direct USF contribution obligations. See Letter from USAC to
+Steven A. Augustino, Esq. (Jan. 15, 2008) (“USAC Decision”).
+InterCall, Inc. sought review by the Commission and a stay,
+arguing that the USAC acted beyond its authority, and that
+InterCall, Inc.’s audio bridging service is an information service
+that is not obligated to make USF payments. See Request for
+Review at 1, 6-10. It argued that the Commission had to
+proceed by rulemaking to modify audio bridging providers’ USF
+contribution requirements, id. at 23-25, and, alternatively, that
+even if audio bridging services were telecommunications,
+InterCall, Inc. and other stand-alone audio bridging service
+providers are not subject to common carrier regulations and thus
+not subject to § 254(d)’s mandatory contribution obligations, see
+                               7
+
+id. at 12-17. The Commission issued a public notice on
+February 14, 2008, seeking comment on InterCall, Inc.’s request
+for review of the USAC Decision and a stay. Comments by
+interested parties were due, and comments were received, by
+February 25, 2008 as were reply comments due, and in fact
+received, by March 3, 2008.
+
+     The Commission denied in part and granted in part
+InterCall, Inc.’s request for review. In re Request for Review by
+InterCall, Inc. of Decision of Universal Service Administrator,
+23 FCC Rcd. 10731 (2008) (“InterCall Order”). The
+Commission found that “the audio-bridging services InterCall
+provides are equivalent to teleconferencing services and are
+‘telecommunications’ under the Telecommunications Act of
+1996 (1996 Act) and the Universal Service First Report and
+Order.” InterCall Order, 23 FCC Rcd. at 10731 ¶ 1 (citing
+Federal-State Joint Board on Universal Service, 12 FCC Rcd.
+8776 (1997) (“Universal Service First Report and Order”), aff’d
+in part, rev’d in part, remanded in part sub nom, Texas Office
+of Public Utility Counsel v. FCC, 183 F.3d 393 (5th Cir. 1999),
+cert. denied, 530 U.S. 1210 (2000), cert. dismissed, 531 U.S.
+975 (2000)). It explained that such audio bridging services are
+properly classified as “telecommunications” because “the
+purpose and function of the bridge is simply to facilitate the
+routing of ordinary telephone calls.” Id. at 10735 ¶ 11. As it
+had “previously determined in performing a similar analysis,”
+the Commission observed that “this results in no more than the
+creation of the transmission channel chosen by the customer.”
+Id. (citing In re North American Telecommunications
+Association Petition for Declaratory Ruling Under § 64.702 of
+the Commission’s Rules Regarding the Integration of Centrex,
+Enhanced Services, and Customer Premises Equipment, ENF
+84-2, Mem. Op. & Order, 101 FCC 2d 349, 363 ¶ 31 (1985)
+(“No. Am. Telecomm. Petition”)).
+                                 8
+
+     The Commission further found that the add-on “features
+offered in conjunction with InterCall’s service are not
+‘integrated,’” id., and thus “do not change a service from
+telecommunications to an information service,” id. at 10735
+¶ 12. Such “features perform validation functions, collect
+billing and participant information, and enable the participants
+to record, delete playback, mute and unmute, and access
+operator assistance,” id. (citing In re Regulation of Prepaid
+Calling Card Services, 21 FCC Rcd. 7290, 7295-96 ¶¶ 14-15
+(2006) (“Prepaid Calling Card Order”)), and “do not alter the
+fundamental character of InterCall’s telecommunications
+offering so that the entire offering becomes an information
+service,” id. at 10735 ¶ 13. Rather, “[c]onsistent with the
+decision in the Prepaid Calling Card Order, these separate
+capabilities are part of a package in which the customer can still
+conduct its conference call with or without accessing these
+features.” Id. They “therefore, are not sufficiently integrated
+into the offering to convert the offering into an information
+service.” Id. Because “[p]roviders of [telecommunications]
+services must contribute directly to the USF based on revenues
+from these services,” the Commission denied InterCall, Inc.’s
+request to reverse the USAC Decision in that regard. Id. at
+10731 ¶ 1.
+
+     The Commission granted InterCall, Inc.’s request for
+review insofar as the USAC had required contributions based on
+past revenues, and instead chose to apply its decision on a
+prospective basis, partly in view of the lack of clarity regarding
+the direct contribution obligations of stand-alone audio bridging
+service providers. Id. at 10738 ¶ 24. The Commission directed
+the USAC “to implement the findings in this order with respect
+to all audio bridging service providers,” id. at 10739 ¶ 25, “and
+reiterate[d] that all similarly situated providers, i.e., stand-alone
+teleconferencing providers as well as integrated teleconferencing
+providers, are, at a minimum, providers of telecommunications
+                                9
+
+for the purposes of contributing to the [USF] . . . .” Id. at 10739
+¶ 26. InterCall, Inc. was ordered to “contribute directly to the
+USF beginning as of the calendar quarter immediately following
+the next scheduled FCC Form 499-Q[uarterly] filing after the
+release date of this order.” Id. at 10731 ¶ 1. The Commission
+“further direct[ed] USAC to ensure that all similarly situated
+audio bridging service providers contribute directly to the USF
+beginning as of this same time frame.” Id.
+
+     Other audio bridging service providers, but not InterCall,
+Inc., petitioned for reconsideration and clarification. After
+providing public notice and receiving comments, the
+Commission denied the petitions. In re Universal Service
+Contribution Methodology, 27 FCC Rcd. 898 (2012)
+(“Reconsideration Order”). The Conference Group, joined by
+intervenor Cisco WebEx, petitions for review of the InterCall
+Order, invoking the court’s jurisdiction under 47 U.S.C.
+§ 402(a).
+
+                                II.
+
+     As a threshold matter, the court must address whether
+petitioner The Conference Group and intervenor Cisco WebEx
+have standing to challenge the InterCall Order, as it implicates
+our jurisdiction. See Am. Library Ass’n v. FCC, 401 F.3d 489,
+492 (D.C. Cir. 2005); Fund for Animals, Inc. v. Norton, 322 F.3d
+728, 733 (D.C. Cir. 2003) (citing Sierra Club v. EPA, 292 F.3d
+895, 898 (D.C. Cir. 2002)); see also Steel Co. v. Citizens for a
+Better Environment, 523 U.S. 83, 93 (1998). Neither was the
+specific company whose audio bridging service was addressed
+in the InterCall Order, and The Conference Group and Cisco
+WebEx each has the burden of establishing its standing. See
+Am. Library Ass’n, 401 F.3d at 492–93 (citing Sierra Club, 292
+F.3d at 899–901). Of the three elements of standing under
+Article III of the U.S. Constitution — injury-in-fact, causation,
+                                 10
+
+and redressability — the Supreme Court has instructed that the
+first requires a showing of “an invasion of a legally protected
+interest which is (a) concrete and particularized, and (b) actual
+or imminent, not conjectural or hypothetical.” Lujan v.
+Defenders of Wildlife, 504 U.S. 555, 560 (1992) (internal
+citations and quotations omitted). If The Conference Group or
+Cisco WebEx has shown the requisite injury, that it has shown
+the other two elements is not in doubt here.
+
+    We hold that The Conference Group has standing to
+challenge the Commission’s decision as procedurally unlawful
+rulemaking, but lacks standing to challenge the merits of the
+decision adopted in the InterCall Order if it was an adjudication.
+
+     In contending that the Commission engaged in unlawful
+rulemaking, The Conference Group states that it “is ‘similarly
+situated’ to InterCall, Inc., . . . the immediate subject of both the
+USAC determination and the [InterCall] [O]rder at issue in this
+case,” Pet’r. Br. at 4, as it too “provides audio, web, and video
+conferencing services which allow multiple parties to
+communicate with each other through an audio bridging
+device,” id. at iv. It claims that it has suffered a concrete injury
+because the InterCall Order “erroneously requires The
+Conference Group now to make direct payments to the USF as
+a provider of ‘telecommunications service’ based upon its
+conference bridging service revenues, an obligation that has
+significantly increased the cost of The Conference Group’s
+overhead.” Id. at 14–15. For purposes of standing, the court
+must assume The Conference Group would prevail on the merits
+of its claim that the InterCall Order “improperly imposed new
+legislative rules on the entire conference bridging industry
+without providing the notice and comment safeguards required
+by Section 553 of the APA,” id. at 25. See City of Waukesha v.
+EPA, 320 F.3d 228, 235 (D.C. Cir. 2003) (citing Warth v. Seldin,
+422 U.S. 490, 502 (1975)). So understood, The Conference
+                                 11
+
+Group has identified a cognizable harm to it as a result of the
+InterCall Order in the form of additional financial costs and
+regulation. See Sea-Land Serv., Inc. v. Dep’t of Transp., 137
+F.3d 640, 648 (D.C. Cir. 1998). This injury-in-fact, its causation
+and redressability show that The Conference Group has Article
+III standing to challenge the InterCall Order as unlawful
+rulemaking. The Conference Group has also established that it
+has prudential standing, for “‘the interest it seeks to protect is
+arguably within the zone of interests to be protected or regulated
+by the statute . . . in question’ or by any provision ‘integral[ly]
+relat[ed]’ to it.” Grocery Mfrs. Ass’n v. EPA, 693 F.3d 169, 179
+(D.C. Cir. 2012) (quoting Nat’l Petrochem. Refiners Ass’n v.
+EPA, 287 F.3d 1130, 1147 (D.C. Cir. 2002) (quoting Ass’n of
+Data Processing Serv. Orgs. v. Camp, 397 U.S. 150, 153
+(1970))); see Kowalski v. Tesmer, 543 U.S. 125, 129–130
+(2004) (citing Warth v. Seldin, 422 U.S. 490, 499 (1975));
+Clarke v. Sec. Indus. Ass’n, 479 U.S. 388, 399 (1987).
+
+     The Conference Group lacks Article III standing, however,
+to challenge the merits of the InterCall Order if it was an
+adjudication. The court has rejected the view that “the mere
+potential precedential effect of an agency action affords a
+bystander to that action a basis for complaint.” Shipbuilders
+Council of Am. v. United States, 868 F.2d 452, 457 (D.C. Cir.
+1989); see Am. Family Life Assurance Co. v. FCC, 129 F.3d
+625, 629 (D.C. Cir. 1997) (quoting Radiofone, Inc. v. FCC, 759
+F.2d 936, 939 (D.C. Cir. 1985) (Scalia, J., sep. op.)); Sea-Land
+Serv., 137 F.3d at 648; Gulf Oil Corp. v. Brock, 778 F.2d 834,
+838 (D.C. Cir. 1985). Because The Conference Group’s claimed
+injury was due merely to the unfavorable precedent created by
+the InterCall Order, its “plea is essentially, a request for judicial
+advice — a declaration that a line of agency rulings should
+henceforth have no precedential effect.” Shipbuilders Council
+of Am., 868 F.2d at 456.
+                               12
+
+     Although “merely foreseeable future litigation resulting
+from a statutory interpretation that an agency has adopted in an
+adjudication is ‘alone,’— i.e., without more — too speculative
+to satisfy Article III's injury-in-fact requirement,” Teva
+Pharmaceuticals USA, Inc. v. Sebelius, 595 F.3d 1303, 1313
+(D.C. Cir. 2010) (citing Sea-Land, 137 F.3d at 648), there are
+circumstances where the court has “allowed a party to challenge
+in advance an agency policy adopted via adjudication when the
+prospect of impending harm was effectively certain,” id. at
+1314. For instance, Teva had sought a declaratory judgment in
+the district court for a mandatory injunction that the Food and
+Drug Administration (“FDA”) grant its generic drug application
+so as to give Teva a statutory six-month period of market
+exclusivity.     Absent that grant Teva faced immediate
+competition from other generic drug manufacturers with no
+possibility of an adequate remedy on appeal. The court held that
+Teva had standing to challenge FDA’s statutory interpretation
+because “[a]ny imminent deprivation of Teva’s allegedly
+deserved exclusivity would be directly attributable to the FDA’s
+statutory interpretation,” and a declaratory judgment would
+redress its injury. Id. at 1312.
+
+      Notably, in Teva, the FDA’s policy had been announced in
+previous adjudications but Teva was not appealing the
+adjudication of another party, as The Conference Group seeks
+to do here. Rather, Teva brought its own action in the district
+court. Moreover, in Teva the plaintiff could “point[] to a
+particular imminent application of the disputed agency policy .
+. . , the firmness of which is not in dispute, on a fast-arriving
+date certain.” Id. at 1313. Here, The Conference Group does
+not identify any imminent Commission enforcement action
+against it. Finally, if the Commission decides to apply the rule
+of decision in the InterCall Order to The Conference Group,
+The Conference Group has the option to raise its substantive
+arguments in its own adjudication. In Teva, by contrast, the
+                                13
+
+imminent threat was not the FDA’s decision but third-party
+competition whose effects on the market a reviewing court
+would be unable to unscramble, and it seems unlikely that Teva
+could have obtained a stay to stop this presumably lawful third-
+party conduct that the FDA declined to block. The situation
+here is quite different, for The Conference Group can raise its
+substantive argument before being forced to contribute to the
+USF.
+
+     Cisco WebEx’s lack of standing to challenge both the
+method of adopting and the merits of the InterCall Order is a
+fortiori. Cisco WebEx states that “[t]he [InterCall] Orders
+addressed a service . . . that differs significantly from WebEx’s
+service, as InterCall’s service provides only audio bridging and
+does not include any of the other advanced capabilities
+[provided by Cisco WebEx].” Cisco WebEx Intervenor Br. at
+3; see Cisco WebEx Rule 28(j) letter at 2 (Apr. 11, 2013). If it
+is not “similarly situated” to InterCall, Inc., then it can claim no
+injury from those orders. Cisco WebEx’s brief is silent on the
+question of whether it has standing, but see Sierra Club, 292
+F.3d at 900, and states, as relevant, only that it “is concerned
+that the [InterCall] Orders may have adopted a classification
+standard that, if given precedential value, would lead to
+improper future classification decisions,” id. at 3. Before the
+Commission its parent corporation similarly stated regarding the
+InterCall Order: “[W]e think it is clear that the Commission did
+not sub silentio narrow or modify its long-standing tests for
+whether a service is functionally integrated and ‘alters the
+fundamental character of [a] telecommunications offering,’” and
+suggested only that “the Commission would do well to re-
+emphasize that it was merely applying existing law, not
+rewriting it.” Comments of Cisco Systems, Inc. at 4 (Sept 18,
+2008) (quoting InterCall Order, 23 FCC Rcd. at 10735 ¶ 13).
+These comments underscore the speculative nature of Cisco
+WebEx’s “concern[].” As this court stated in Capital Legal
+                               14
+
+Foundation v. Commodity Credit Card Corporation, 711 F.2d
+253, 258 (D.C. Cir. 1983), a “sincere, vigorous interest in the
+action challenged, or in the provisions of law allegedly violated,
+will not do to establish standing” because to satisfy Article III
+standing there must be an injury-in-fact. Cisco WebEx has
+shown no “concrete and particularized” or “no[n] conjectural”
+injury, Lujan, 504 U.S. at 560, stemming from the InterCall
+Order.
+
+     Because neither petitioner The Conference Group, nor
+Cisco WebEx as intervenor in support of petitioner, has standing
+to challenge the merits raised in another party’s case, it follows
+that defendant intervenor Verizon and Verizon Wireless, which
+seeks to appear only to defend the merits of the Commission’s
+decision in the InterCall Order, cannot have standing either.
+
+                               III.
+
+     The Conference Group contends that the Commission
+converted an unlawful decision by the USAC as to one audio
+bridging provider’s contribution obligation into an industry-wide
+legislative rule imposing new substantive duties on all audio
+bridging service providers without adequate notice and
+comment, in violation of APA section 553. For the following
+reasons, we hold that the statutory interpretation by the
+Commission in the InterCall Order was neither a legislative nor
+an interpretative rule. Rather it was simply an interpretation
+given in the course of an informal adjudication. Cf. Sugar Cane
+Growers Coop. of Fla. v. Veneman, 289 F.3d 89, 95–96 (D.C.
+Cir. 2002); Harborlite Corp.v. ICC, 613 F.2d 1088, 1093 n.11
+(D.C. Cir. 1979).
+
+    In interpreting and administering its statutory obligations
+under the Act, the Commission has very broad discretion to
+decide whether to proceed by adjudication or rulemaking. See
+                               15
+
+Qwest Services Corp. v. FCC, 509 F.3d 531, 536 (D.C. Cir.
+2007); Time Warner Entm’t Co. v. FCC, 240 F.3d 1126, 1141
+(D.C. Cir. 2001); see also 47 U.S.C. § 154(j). The InterCall
+Order has none of the hallmarks of legislative rulemaking that
+this court has identified, such as amending a prior legislative
+rule or explicitly invoking the Commission’s general legislative
+authority. See Am. Mining Congress v. MSHA, 995 F.2d 1106,
+1112 (D.C. Cir. 1993); Fertilizer Institute v. EPA, 935 F.2d
+1303, 1308 (D.C. Cir. 1991). In concluding that InterCall, Inc.
+was required to make direct payments to the USF, the
+Commission relied primarily on the statutory definitions of
+“telecommunications” and “information service” as interpreted
+in its Universal Service Orders and implementing regulations.
+See InterCall Order, 23 FCC Rcd. at 10731-32 ¶¶ 2-3 (citing
+Universal Service Orders First Report and Order, 12 FCC Rcd.
+at 9183-84 ¶ 795, 9207 ¶¶ 846-47; Second Order on
+Reconsideration, 12 FCC Rcd. at 18499-513, Appendix A). (In
+the former, the Commission extended the USF contribution
+obligation to private providers of interstate telecommunications,
+see Universal Service First Report and Order, 12 FCC Rcd. at
+9183-84 ¶ 795; the latter set forth how the amount of the
+contribution is calculated and filed, see Second Order on
+Reconsideration, 12 FCC Rcd. at 18499-513, Appendix A.) The
+Commission also relied on its relevant classification precedent,
+including that addressing when add-on features change
+“transmission service” into an “information service.” See
+InterCall Order, 23 FCC Rcd. at 10735 ¶ 13 (citing Prepaid
+Calling Card Order, 21 FCC Rcd. at 7295-96 ¶¶ 14-15);
+Reconsideration Order, 27 FCC Rcd. 898, 903-04 ¶¶ 12-13
+(same).
+
+     The Commission thus proceeded as it had in the order under
+review in AT&T v. FCC, 454 F.3d 329, 333 (D.C. Cir. 2006),
+where the court viewed the Commission’s order classifying
+AT&T’s prepaid calling cards for the first time to be an
+                               16
+
+adjudication. There, the court concluded that, as here, “[t]he
+Commission’s rulings reflect a highly fact-specific, case-by-case
+style of adjudication.”       Here too, the Commission’s
+classification order “is simply the latest application of this
+approach,” id.
+
+     The only remaining question is whether the Commission’s
+inclusion of the “similarly situated” phrase in the InterCall
+Order, 23 FCC Rcd. at 10731 ¶ 1, transmutes that adjudication
+into a rulemaking. It does not. Without the phrase, the
+precedential effect of the order would be the same. “[T]he nature
+of adjudication is that similarly situated non-parties may be
+affected by the policy or precedent applied, or even merely
+announced in dicta.” Goodman v. FCC, 182 F.3d 987, 994 (D.C.
+Cir. 1999); see also NLRB v. Bell Aerospace Co., 416 U.S. 267,
+292 (1974); NLRB v. Wyman-Gordon Co., 394 U.S. 759, 765–66
+(1969) (plurality opinion); id. at 772 (concurring opinion).
+Similarly, the statements in paragraphs 25 and 26 of the
+InterCall Order, on which counsel for The Conference Group
+focused during oral argument, elaborate upon the Commission’s
+statutory interpretation of when a stand-alone service like
+InterCall, Inc.’s is subject to direct USF contributions, but
+represent no more than an interpretative precedent for the
+Commission to apply. The fact that an order rendered in an
+adjudication “may affect agency policy and have general
+prospective application,” New York State Comm’n on Cable
+Television v. FCC, 749 F.2d 804, 814 (1984) (quoting Chisholm
+v. FCC, 538 F.2d 349, 365 (D.C. Cir. 1976)), does not make it
+rulemaking subject to APA section 553 notice and comment.
+The Commission, accordingly, could properly proceed by
+adjudication in addressing for the first time the proper
+classification of audio bridging service provided by InterCall,
+Inc., cf. Bell Aerospace, 416 U.S. at 292–93, and was not
+required to provide more notice than it did. The APA’s notice
+and comment requirements do not apply (unless required by
+                                17
+
+statute) to “interpretative rules” or “general statements of
+policy.” 5 U.S.C. § 553(b)(3)(A).
+
+     Accordingly, because the Commission rendered its
+classification interpretation by adjudication rather than
+legislative rulemaking, and because The Conference Group was
+not a party to that adjudication and fails to show it has standing
+to object to the merits of the adjudication, we dismiss in part and
+deny in part The Conference Group’s petition for review.
+

@@ -1,0 +1,687 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued September 6, 2024            Decided January 21, 2025
+
+                        No. 23-1089
+
+                   HECATE ENERGY LLC,
+                       PETITIONER
+
+                              v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+              PJM INTERCONNECTION, L.L.C.,
+                      INTERVENOR
+
+
+
+                 Consolidated with 23-1182
+
+
+              On Petitions for Review of Orders
+       of the Federal Energy Regulatory Commission
+
+
+
+    Aaron M. Streett argued the cause for petitioner. With him
+on the briefs were Michael A. Yuffee, J. Mark Little, and
+Christopher E. Tutunjian.
+
+     Angela X. Gao, Attorney, Federal Energy Regulatory
+Commission, argued the cause for respondent. With her on the
+brief were Matthew R. Christiansen, General Counsel, and
+                               2
+Robert H. Solomon. Susanna Y. Chu, Attorney, entered an
+appearance.
+
+    Wendy B. Warren argued the cause for intervenor in
+support of respondent. With her on the brief were Elizabeth P.
+Trinkle and David S. Berman.
+
+    Before: HENDERSON, PILLARD, and CHILDS, Circuit
+Judges.
+
+    Opinion for the Court filed by Circuit Judge PILLARD.
+
+     PILLARD, Circuit Judge: Hecate Energy, LLC, develops
+and operates facilities to generate and store renewable power.
+It petitions for our review of two Federal Energy Regulatory
+Commission orders that approve comprehensive reforms
+proposed by PJM Interconnection, LLC, a regional
+transmission grid operator, to the criteria PJM uses to process
+requests to connect new electricity sources to the electrical
+grid. One issue PJM faces in processing interconnection
+requests is whether connecting new sources will require
+upgrades to the grid and, if so, how upgrade costs will be
+allocated among generators seeking to connect. Hecate
+challenges a single aspect of FERC’s orders: Its approval of
+PJM’s proposal to help clear its backlog of pending
+interconnection requests by expediting requests that are
+projected to be assessed upgrade costs of $5 million or less.
+FERC defends its orders on the merits, but it first contests
+Hecate’s standing to challenge the orders in court. We hold
+that Hecate lacks Article III standing to challenge the $5
+million cap, and therefore dismiss its petitions for review.
+Hecate’s injury is not redressable because the relief it requests
+from this court—vacatur of FERC’s approval of PJM’s
+comprehensive reform package—is unlikely to lead to the
+expediting of its over-$5 million project.
+                                 3
+                        BACKGROUND
+
+                                A.
+
+      Section 205 of the Federal Power Act requires electric
+utilities’ rates and rules for transmitting electricity to be “just
+and reasonable” and not “undu[ly] preferen[tial].” 16 U.S.C.
+§ 824d(a), (b). Under Section 205 and the Federal Energy
+Regulatory Commission’s (FERC or Commission)
+implementing regulations, when a regional transmission
+organization like PJM seeks to change any rates or rules, it
+must file the proposed changes with the Commission. Id.
+§ 824d(d); 18 C.F.R. § 35.34(j)(1)(iii). “FERC must accept
+proposed rate changes filed under Section 205 so long as the
+changes are just and reasonable” and not unduly
+discriminatory. NRG Power Mktg., LLC v. FERC, 862 F.3d
+108, 113 (D.C. Cir. 2017); 16 U.S.C. § 824d(a), (b).
+
+     In evaluating proposed rule changes under Section 205,
+FERC plays “an essentially passive and reactive role.”
+Advanced Energy Mgmt. All. v. FERC, 860 F.3d 656, 662 (D.C.
+Cir. 2017) (internal quotation marks omitted). “FERC may
+accept or reject the proposal,” but it may not “suggest
+modifications that result in an entirely different rate design than
+the utility’s original proposal or the utility’s prior rate scheme.”
+NRG Power, 862 F.3d at 114-15 (internal quotation marks
+omitted). The Commission may not propose modifications that
+“und[o] the compromise that had been the basis for [the]
+proposal” or “eviscerate[] the terms of the bargain” underlying
+the original proposal. Id. at 116.
+
+                                B.
+
+    PJM is a regional transmission organization—an
+independent, non-profit, FERC-approved entity that manages
+the electrical grid covering parts of 13 Mid-Atlantic and
+                                4
+Midwestern states and the District of Columbia. See Advanced
+Energy, 860 F.3d at 659. One of PJM’s responsibilities is to
+facilitate the interconnection of new power sources to the grid.
+See FPL Energy Marcus Hook, L.P. v. FERC, 430 F.3d 441,
+443 (D.C. Cir. 2005). That process involves conducting
+multiple studies to determine what network upgrades (if any)
+are necessary to support the connection of new generators to
+the grid, and how the costs of those required upgrades—which
+“improve the network for the benefit of all users,” Exxon Mobil
+Corp. v. FERC, 571 F.3d 1208, 1212-13 (D.C. Cir. 2009)—
+should be allocated among the various generators seeking to
+connect. See Marcus Hook, 430 F.3d at 443.
+
+     For decades, PJM has used a serial, “first-come, first-
+served” model for acting on interconnection requests, in which
+“[t]he submission of an interconnection request triggers a
+review by [PJM] and holds the requestor’s place in the
+interconnection queue” until PJM conducts the requisite
+studies, allocates network upgrade costs, and provides the
+generator with a proposed interconnection service agreement.
+ESI Energy, LLC v. FERC, 892 F.3d 321, 325 (D.C. Cir. 2018).
+In recent years, that serial, “first-come, first-served” model has
+not kept up with the rising number of interconnection requests,
+leading to delays in connecting new generators to the grid.
+
+     The current system’s rules incentivize project developers
+to submit speculative and duplicative interconnection requests
+that they often withdraw late in the study process. For
+example, submitting an interconnection request is relatively
+cheap, there are few requirements for a project to keep its place
+in the queue, and projects may withdraw from the queue at any
+time with minimal financial penalty. In fact, the vast majority
+of interconnection requests are withdrawn before the requestor
+signs a final interconnection service agreement: Of requests
+submitted between January 2020 and February 2021, 80% were
+                               5
+withdrawn during the review process. In addition, PJM
+determines and assigns network upgrade costs based in part on
+a project’s queue position relative to other requests. For
+instance, if there is still enough excess capacity in the grid to
+accommodate the connection of another generator, a project
+submitted earlier in time might not have to pay for network
+upgrades necessitated by the connection of generators farther
+down in the queue. See Marcus Hook, 430 F.3d at 444.
+Because of that, almost every withdrawal requires PJM to re-
+study and potentially re-allocate network upgrade costs among
+the projects that remain in the queue behind the withdrawn
+project. Given large increases in the number of interconnection
+requests in recent years, the rules countenancing such a grossly
+inefficient cycle of withdrawals and restudies have hamstrung
+PJM’s ability to timely connect new generators to the grid and
+contributed to a backlog of 1,857 interconnection requests in
+various stages of study.
+
+     To address those issues, PJM organized a two-and-a-half-
+year process during which its stakeholders developed,
+negotiated, and approved a comprehensive package of reforms
+to PJM’s interconnection process. The proposed reforms—
+approved by 87% of PJM’s Markets and Reliability Committee
+and 90% of PJM’s Members Committee—are designed to
+transition PJM to a cluster-based approach. Under that new
+approach, all interconnection requests submitted during a
+defined time period are grouped together for joint study and
+cost allocation in one review cycle. By enabling a single study
+and simultaneous cost allocation to all projects within a review
+cycle, and by also limiting project modifications and
+withdrawals to specific periods during the cycle, the cluster-
+based approach eliminates the need for iterative, inefficient
+restudies. Those changes allow PJM to perform a single
+“retool” study of previously performed analyses at the end of
+the cycle to account for all withdrawals during the cycle. The
+                               6
+proposed reforms also aim to reduce the number of speculative
+requests and late-stage withdrawals by imposing more
+stringent requirements for projects to enter and remain in the
+interconnection approval process.
+
+     The reform package also includes exhaustively negotiated
+rules governing the transition from PJM’s legacy, serial
+process to the new cluster-based approach. While most
+stakeholders wanted their pending projects to remain under the
+serial process, PJM sought to quickly transition to the cluster-
+based process so it could more efficiently clear its large
+backlog of requests. To balance those competing interests in
+serial versus cluster-based consideration, the transition rules
+temporarily preserve a serial “Expedited Process” open to
+projects submitted between April 2018 and September 2020
+whose network upgrade cost allocation is estimated at $5
+million or less. Under the transition rules, PJM will first
+serially consider and allocate costs to projects under the
+Expedited Process. It will then study and act on all other
+projects under the new cluster-based approach.
+
+     The $5 million cap for Expedited Process eligibility was a
+“carefully negotiated term that active PJM stakeholders
+debated extensively during the stakeholder process,” including
+by “discuss[ing] alternative proposals for the transition
+mechanism at great length” and “debat[ing] the impacts such
+proposals would have on projects in the various queue
+windows,” and on PJM’s ability to clear its backlog.
+Comments in Support of Pine Gate Renewables, LLC and
+Cypress Creek Renewables, LLC at 9 (J.A. 391). Indeed, of all
+of the aspects of the proposed reforms, “the question of a
+[t]ransition process and how it should be structured involved
+the most compromise among stakeholders in order to achieve
+the consensus that was reached on the overall reform package.”
+                                7
+PJM Tariff Revisions for Interconnection Process Reform at 42
+(J.A. 80).
+
+                               C.
+
+     In June 2022, PJM filed its final package of proposed
+reforms for the Commission’s approval under Section 205.
+Hecate intervened, filing a “limited protest” to PJM’s proposed
+reforms. Mot. to Intervene and Limited Protest of Hecate
+Energy LLC at 1 (J.A. 295). Hecate was “generally very
+supportive” of the reform package but asked the Commission
+to reject the $5 million cap for eligibility in the Expedited
+Process. Id. Hecate argued that the $5 million cutoff for
+participation in the limited extension of project-specific, first-
+to-file processing was both “arbitrary” and “unduly
+discriminatory” because, it claimed, PJM failed to advance an
+evidence-based, rational justification for distinguishing
+between projects below and above its proposed $5 million cap.
+Id. at 7-12 (J.A. 301-06).
+
+     The Commission approved PJM’s proposed package of
+reforms, including the $5 million cap for inclusion in the
+Expedited Process and cluster-based review for more
+expensive projects and for projects submitted after September
+2020. FERC denied Hecate’s request for rehearing. In both its
+order accepting PJM’s reforms and its order explaining its
+denial of Hecate’s rehearing request, the Commission
+determined that PJM had reasonably justified the $5 million
+cap in light of its experience that projects assigned network
+upgrade costs of up to $5 million were simpler and quicker to
+process than those assigned costs above $5 million.
+
+    Hecate petitioned for our review of both orders. We
+granted PJM’s motion for leave to intervene in support of the
+Commission.
+                                 8
+                         DISCUSSION
+
+     Hecate argues that the Commission acted arbitrarily and
+capriciously in concluding that the $5 million cap was not
+“unduly discriminatory” under Section 205. Specifically,
+Hecate maintains that the Commission’s determination was not
+supported by substantial evidence because PJM’s purported
+experience was insufficient and that it was arbitrary and
+capricious in its failure to consider alternative eligibility rules
+for the Expedited Process that include projects above the $5
+million cutoff. We do not reach the merits arguments because
+Hecate lacks standing to raise them.
+
+     The “irreducible constitutional minimum” of standing has
+three familiar parts: injury in fact, causation, and redressability.
+Spokeo, Inc. v. Robins, 578 U.S. 330, 338 (2016) (quoting
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 560 (1992)). The
+party invoking federal court jurisdiction bears the burden of
+establishing each of those elements. Id.
+
+    Hecate’s claimed injury-in-fact is the exclusion of at least
+one of its projects from the Expedited Process. Hecate has five
+projects pending in PJM’s queue that will be sorted into either
+the Expedited Process or a cluster-based review cycle,
+depending on each project’s estimated assigned network
+upgrade costs. At least one of those projects has such assigned
+costs of over $5 million and is therefore excluded from the
+Expedited Process. According to Hecate, that exclusion will
+cause it significant and expensive delays.
+
+     FERC argues that Hecate’s claimed injury is too
+speculative to satisfy the injury-in-fact requirement because
+one or more of its four other pending projects may be eligible
+for the Expedited Process, which means that Hecate could
+enjoy a net benefit from the Expedited Process eligibility rules
+it challenges. We need not embrace the Commission’s net-
+                                9
+benefit theory or determine whether Hecate has otherwise
+alleged an injury-in-fact because, even if it has, it fails to
+demonstrate that its claimed injury is redressable.
+
+      “Redressability examines whether the relief sought,
+assuming that the court chooses to grant it, will likely alleviate
+the particularized injury alleged by the plaintiff.” Fla.
+Audubon Soc’y v. Bentsen, 94 F.3d 658, 663-64 (D.C. Cir.
+1996) (en banc). As we have previously stated, “[t]he key word
+is ‘likely.’” West v. Lynch, 845 F.3d 1228, 1235 (D.C. Cir.
+2017) (quoting Lujan, 504 U.S. at 561). When, as in this case,
+“a plaintiff’s asserted injury arises from the government’s
+allegedly unlawful regulation (or lack of regulation) of
+someone else”—here, PJM—“redressability . . . hinge[s] on
+the response of the regulated (or regulable) third party to the
+government action or inaction—and perhaps on the response of
+others as well.” Lujan, 504 U.S. at 562. That makes it
+“substantially more difficult to establish” redressability, as it
+would depend on future choices by PJM, “whose exercise of
+broad and legitimate discretion the courts cannot presume
+either to control or to predict.” Id. (internal quotation marks
+omitted). Indeed, we recently noted that redressability in cases
+where “plaintiffs sue the government in order to change third-
+party behavior” imposes “a significant barrier [to establishing
+standing]—courts have routinely rejected suits for injunctive
+relief that are directed against executive agencies but that seek
+to change the behavior of third parties.” Johnson v. Becerra,
+111 F.4th 1237, 1244 (D.C. Cir. 2024).
+
+     Such an injury is still redressable if the court’s action will
+“amount to a significant increase in the likelihood that the
+plaintiff w[ill] obtain relief that directly redresses the injury
+suffered.” Utah v. Evans, 536 U.S. 452, 464 (2002). But the
+record must “present[] substantial evidence of a causal
+relationship between the government policy and the third-party
+                                 10
+conduct, leaving little doubt as to . . . the likelihood of redress.”
+Nat’l Wrestling Coaches Ass’n v. Dep’t of Educ., 366 F.3d 930,
+941 (D.C. Cir. 2004). If it is instead “just as plausible” that the
+court’s action will not redress the plaintiff’s injury as that it
+will, Article III’s redressability requirement is not met. Simon
+v. E. Ky. Welfare Rights Org., 426 U.S. 26, 43-46 (1976). Put
+otherwise, “standing theories that require guesswork as to how
+independent decisionmakers will exercise their judgment” do
+not suffice; “[r]ather than guesswork, [] plaintiffs must show
+that the third-party [actor] will likely react in predictable ways
+to the defendants’ conduct.” Murthy v. Missouri, 603 U.S. 43,
+57-58 (2024) (internal quotation marks omitted).
+
+     For instance, in Simon v. Eastern Kentucky Welfare Rights
+Organization, the plaintiffs challenged an IRS revenue ruling
+rescinding the requirement that hospitals offer free healthcare
+to low-income populations in order to receive favorable tax
+treatment. 426 U.S. at 28-32. The plaintiffs, who lived below
+the poverty line, alleged that the ruling injured them by
+depriving them of free hospital services. Id. at 32-33, 40-41.
+As relevant to redressability, they contended that ordering the
+IRS to rescind the revenue ruling would cause the hospitals to
+resume providing the free services in order to retain the
+favorable tax treatment attending nonprofit status. Id. at 42-43.
+The Court rejected that argument, holding that the plaintiffs
+failed to demonstrate redressability because it was “just as
+plausible” that, if the Court invalidated the revenue ruling, the
+hospitals would “elect to forgo favorable tax treatment to avoid
+the undetermined financial drain of an increase in the level of
+uncompensated services.” Id. at 43. The plaintiffs accordingly
+failed to allege a “substantial likelihood” that their injury
+would be redressed by “victory in this suit.” Id. at 45-46.
+
+    Utah v. Evans further demonstrates the tight causal
+connection between the plaintiff’s requested relief and the
+                                11
+redress of their asserted injury necessary to establish standing.
+There, Utah complained that the Census Bureau’s unlawful use
+of a particular method of imputing census data had overcounted
+North Carolina’s population relative to Utah’s, causing Utah to
+lose a House seat to North Carolina. Evans, 536 U.S. at 457-
+59. Utah sought an injunction ordering the census officials to
+recalculate the population numbers and recertify the official
+census result—relief that the courts could order. Id. at 459-61.
+But Utah’s injury would be redressed only if the President then
+submitted those recertified numbers to Congress and the Clerk
+of the House of Representatives sent certificates to each state
+specifying the number of representatives to which they were
+entitled. Id. at 461. The Court held that Utah’s injury was
+redressable because it was “substantially likely that the
+President and other executive and congressional officials”
+would carry out the “purely mechanical” “calculations and
+consequent apportionment-related steps” necessary to convert
+the court-ordered census report into an additional
+representative for Utah. Id. at 463-64 (internal quotation marks
+omitted).
+
+     Utah’s injury was redressable in Evans because, even
+though the court’s action would not directly redress the injury,
+it would very likely spur the next steps necessary to redress it.
+By contrast, in Simon the plaintiffs’ injury was not redressable
+because, given the various considerations in play, the hospitals
+were just as likely to continue to deny plaintiffs free services
+as they were to reverse course in response to a court order
+changing the tax implications of the denial. 426 U.S. at 43-44.
+
+     Hecate’s situation is akin to that of the plaintiffs in Simon.
+Hecate asks us to vacate FERC’s order approving the $5
+million cap as arbitrary and capricious. But Hecate does not
+show that our doing so would make it likely—let alone
+“substantially likely,” Evans, 536 U.S. at 464—that its
+                                12
+requested relief would spur PJM to take the additional steps
+necessary to include Hecate’s project in its Expedited Process.
+Rather, it is “just as plausible” (and in fact more plausible) that
+its injury would not be redressed by its requested relief.
+
+     Hecate’s injury would be redressed only if, after our
+vacatur, PJM re-submitted its complete package of proposed
+reforms with a change to the Expedited Process eligibility rules
+to include at least some projects, including Hecate’s, assessed
+over $5 million in network upgrade costs. But, given PJM’s
+aims, incentives, and independent decisionmaking authority,
+that outcome is particularly unlikely. Both the Commission
+and this court lack the authority in response to Hecate’s claim
+to direct PJM to make that change. And PJM would have a
+wide array of options for curing the alleged defect with the $5
+million cap that do not involve—and are more conducive to its
+goals than—expediting projects assessed over $5 million in
+network upgrade costs.
+
+     Recall that in a Section 205 proceeding, “the Commission
+undertakes an essentially passive and reactive role and restricts
+itself to evaluating the confined proposal.” Advanced Energy,
+860 F.3d at 662 (internal quotation marks omitted). “FERC
+may accept or reject the proposal,” and it can suggest “minor”
+modifications to the proposal. NRG Power, 862 F.3d at 114-
+15. But it cannot insist on or even suggest modifications that
+“result in an entirely different rate design than the utility’s
+original proposal,” including modifications that “und[o] the
+compromise that had been the basis for PJM’s proposal” and
+“eviscerate[] the terms of the bargain” underlying the original
+proposal. Id. at 114-16 (internal quotation marks omitted).
+
+    The eligibility rules for the Expedited Process, including
+the $5 million cap, were the subject of extensive negotiation
+and compromise among PJM’s stakeholders. Under the
+                                13
+strictures described in NRG Power, the Commission thus
+cannot modify PJM’s proposal by removing the $5 million cap,
+as Hecate concedes. If we were to vacate FERC’s orders, the
+Commission would have no choice but to reject PJM’s entire
+package of reforms, at which point PJM would be free to re-
+submit a new comprehensive proposal to attempt to cure the
+putative arbitrariness of the challenged $5 million cap.
+
+     There are a number of ways PJM could accomplish that
+goal. If we were to hold that PJM failed to support the $5
+million cap with substantial evidence, PJM might bolster its
+evidentiary basis for using $5 million as the dividing line
+between relatively simple, quick-to-process projects and more
+complex, time-intensive ones. Evidence that the cap is a non-
+arbitrary basis of distinction would cure the claimed defect
+because “mere differential treatment of two entities” does not
+violate Section 205; rather, it amounts to undue discrimination
+“only if the entities are similarly situated, such that there is no
+reason for the difference.” City of Lincoln v. FERC, 89 F.4th
+926, 935 (D.C. Cir. 2024) (internal quotation marks omitted).
+But such a fix would do nothing to afford Hecate the expedited
+treatment it seeks. Alternatively, if we held that the
+Commission unjustifiably failed to consider alternatives to the
+$5 million cutoff by which PJM could accomplish its goals
+while expediting projects like Hecate’s, PJM might
+demonstrate on remand why those alternatives do not
+accomplish the necessary objectives advanced by the $5
+million rule. Again, that fix would not redress Hecate’s injury.
+
+    Taking a different tack, PJM could abandon the $5 million
+cap and select an entirely different rule governing eligibility for
+the Expedited Process with no guarantee that the new rule
+would encompass Hecate’s project. For instance, PJM might
+expedite only projects submitted before a certain date or
+pending for a certain duration. Or, as the Commission noted in
+                              14
+its Rehearing Order, PJM could abandon the Expedited Process
+entirely. That would eliminate the $5 million limit Hecate
+views as arbitrary, but would provide no expedited treatment
+to any project, including Hecate’s.
+
+    As these examples illustrate, a court order invalidating the
+$5 million cap leaves PJM with myriad options that would
+resolve the defect without redressing Hecate’s asserted injury
+of exclusion from the Expedited Process. Thus, while it is
+possible that vacatur of the Commission’s order would
+expedite Hecate’s project, that outcome cannot fairly be
+described as “likely.”
+
+     Indeed, it is particularly unlikely that PJM would adopt a
+rule allowing projects with over $5 million in assessed network
+upgrade costs to participate in the Expedited Process. In its
+filing requesting FERC’s acceptance of its proposed tariff
+reforms, PJM explained that expanding access to the Expedited
+Process “would not only be contrary to the results of the
+stakeholder process, but would delay implementation of PJM’s
+Cycle process, and harm PJM’s efforts to clear its
+interconnection backlog.”         PJM Tariff Revisions for
+Interconnection Process Reform at 42 (J.A. 80). In light of the
+critical necessity of clearing its backlog and quickly
+transitioning to a cycle-based process, PJM is unlikely to
+choose to expand the Expedited Process as Hecate urges.
+
+     The likelihood that PJM would expand the Expedited
+Process is further diminished given that PJM’s stakeholders
+earlier expressly rejected at least one such proposal. During
+the stakeholder process, Hecate proposed modifying the $5
+million cap so that projects assessed network upgrade costs
+over $5 million would be allowed to enter the Expedited
+Process so long as the developer posted security covering the
+costs allocated to that project. Only 30% of stakeholders
+                               15
+expressed support for that proposal, which is far short of the
+required two-thirds majority needed for approval. While
+changed circumstances could conceivably affect the degree of
+stakeholder support, that failed vote demonstrates
+stakeholders’ negative reaction to the proposed expansion of
+the Expedited Process in a way that would include Hecate’s
+project.
+
+     In sum, if we were to vacate the Commission’s orders
+under either of Hecate’s theories, PJM would have multiple
+avenues for correcting the deficiency that would be more
+conducive to its goals than modifying the Expedited Process
+eligibility rules in a way that expedites its review of Hecate’s
+over-$5 million project. It is thus not only “just as plausible,”
+but in fact more plausible that PJM would respond to Hecate’s
+“victory in this suit” with a new package of proposed reforms
+that would not provide Hecate the expediting it seeks. Simon,
+426 U.S. at 43-46. Accordingly, Hecate has failed to
+demonstrate that its injury is redressable.
+
+     This result accords with our many other decisions applying
+Simon, in which we have held that plaintiffs fail to establish
+redressability when their injury is caused by “third parties who
+took actions because of allegedly unlawful agency decisions,
+but who would have no compelling reason to reverse those
+actions were the decisions held unlawful by a court.” Bennett
+v. Donovan, 703 F.3d 582, 587 (D.C. Cir. 2013). For instance,
+in National Wrestling Coaches Ass’n v. Department of
+Education—“[o]ur seminal case discussing standing in the
+context of a regulated third party,” Bennett, 703 F.3d at 587—
+several men’s wrestling organizations challenged Title IX
+guidance documents issued by the Department of Education,
+claiming they incentivized schools to eliminate men’s
+wrestling programs. Nat’l Wrestling, 366 F.3d at 934-36. We
+held that revoking the guidance would not redress the
+                              16
+plaintiffs’ asserted injury because schools had independent
+reasons “unrelated to the challenged legal requirements” not to
+reinstate men’s wrestling teams, regardless of the challenged
+guidance. Id. at 939-40. Similarly, in Renal Physicians Ass’n
+v. U.S. Department of Health & Human Services, 489 F.3d
+1267 (D.C. Cir. 2007), a medical association challenged an
+agency regulation that allegedly caused clinics to reduce the
+wages of the association’s members. Id. at 1271. We held that
+its injury was not redressable because, even if the regulation
+were invalidated, the clinics would have independent economic
+reasons to continue paying the reduced wages. Id. at 1276-78.
+And in Johnson v. Becerra, Medicare beneficiaries with
+chronic illnesses challenged agency policies that allegedly
+facilitated home health companies’ denial of services to
+chronically ill Medicare patients. 111 F.4th at 1242-43. We
+held that the lack of service was not redressable because the
+home health companies had “many economic and practical
+reasons” to continue denying service regardless of the agency’s
+policies. Id. at 1245-46.
+
+     Hecate’s situation presents a slight variation on these
+cases, in that respondent FERC did not require PJM to impose
+the challenged $5 million cap on expedited review; PJM did so
+of its own accord, subject to FERC approval. But this case
+shares the key characteristic fatal to redressability that
+reversing the agency’s action will not remove PJM’s incentive
+or ability to continue inflicting the asserted injury—here,
+excluding Hecate’s project from expedited review. That
+scenario makes it unlikely, in the absence of other indications,
+that reversing the agency’s action will redress the claimant’s
+injury. Here, for instance, for all the reasons discussed above,
+even if we were to invalidate FERC’s approval of the $5
+million cap as arbitrary and capricious, PJM would have other,
+independent reasons and means to exclude Hecate’s project
+                               17
+from expedited review, making it unlikely that vacating the
+Commission’s orders would redress Hecate’s injury.
+
+     Importantly, Hecate does not suggest—nor do we see how
+it could—that its injury stems from the Commission’s failure
+to follow proper procedures, and that it is thus entitled to
+establish redressability under the relaxed standard that
+recognizes standing based on procedural injuries without the
+claimant “having to show that proper procedures would have
+caused the agency to take a different substantive action.” Renal
+Physicians, 489 F.3d at 1278-79. Nor does Hecate contend that
+the allegedly arbitrary exclusion of its project from the
+Expedited Process inflicts a stigmatic, “noneconomic” injury
+by signaling that Hecate is a member of an “innately inferior”
+group of “less worthy participants in the political community,”
+such that simply eliminating the Expedited Process would
+redress its injury. Heckler v. Mathews, 465 U.S. 728, 739
+(1984) (internal quotation marks omitted). Rather, Hecate
+asserts a run-of-the-mill substantive economic injury that must
+meet the ordinary standards for redressability, which require
+Hecate to show that the relief sought will “likely alleviate” its
+asserted injury. Fla. Audubon Soc’y, 94 F.3d at 663-64.
+
+      Hecate contends that, under our decision in Orangeburg v.
+FERC, 862 F.3d 1071 (D.C. Cir. 2017), it has shown
+redressability insofar as an order from this court invalidating
+the $5 million cap would “diminish the obstacles” preventing
+it from gaining access to the Expedited Process. Id. at 1084.
+But, as we have explained, the mere “possibility that
+[petitioners] may have ‘better odds’ of [obtaining] their desired
+[relief] plainly falls far short of the mark.” Nat’l Wrestling,
+366 F.3d at 942. Orangeburg is not to the contrary. There,
+North Carolina power supplier Duke Energy agreed to the
+interstate sale of electricity to the city of Orangeburg, South
+Carolina at cheap, “native load” rates until a North Carolina
+                               18
+state agency enforced a state-regulatory condition on Duke—
+imposed as part of a merger agreement with another utility
+years earlier—that limited its native-load pricing to customers
+that agency approved. Orangeburg, 862 F.3d at 1074-76.
+Once the state agency denied approval to Duke’s proposed
+contract for sale into South Carolina and decided to treat Duke
+as receiving phantom income from Orangeburg under state law
+(effectively suppressing the price Duke could charge its in-state
+customers), Duke backed out of the deal. Id. Orangeburg
+challenged FERC’s approval of a later merger agreement that
+imposed the state agency’s same pricing constraint on Duke,
+which in Orangeburg’s view amounted to interstate wholesale
+rate regulation preempted by the Federal Power Act. Id. at
+1076-77.
+
+    We held that Orangeburg’s injury was redressable because
+this court’s conclusion that the later merger agreement
+“enact[ed] a regime in which [the North Carolina state agency]
+[wa]s empowered to act as a gatekeeper for interstate wholesale
+power transactions[] in violation of [federal law]” would
+remove the primary obstacle to Orangeburg’s ability to buy
+cheap power from Duke. Id. at 1083. “Such a determination”
+would make it “likely” (even if not certain) that Duke would
+again agree to sell to Orangeburg at native-load prices. Id. at
+1084.
+
+     Granted, like PJM, the state agency in Orangeburg also
+had various options to choose from in reacting to this court’s
+judgment that vacated FERC’s approval of Duke’s later merger
+agreement. Because the state agency was not directly bound
+by Orangeburg, it might have persisted in enforcing its
+regulatory ascription of phantom income to Duke under the
+earlier merger deal. After all, “[i]t is a federal court’s
+judgment, not its opinion, that remedies an injury; thus it is the
+judgment, not the opinion, that demonstrates redressability.”
+                               19
+Haaland v. Brackeen, 599 U.S. 255, 294 (2023). And FERC
+had “repeatedly sidestepped the legal issues” and “declined to
+preempt [the state agency’s] alleged gatekeeping regime” as
+part of a “pattern of acquiescence,” so it was perhaps fair to
+assume that FERC would continue to tolerate some state
+encroachment on its jurisdiction going forward. Orangeburg,
+862 F.3d at 1074, 1081.
+
+     However, Orangeburg is distinguishable from this case. It
+would be far easier for PJM to bolster its evidence for the $5
+million cap or explain more thoroughly why it rejected
+Hecate’s proposed alternatives than it would have been for the
+state agency in Orangeburg to somehow legitimate a scheme
+that impinged on FERC’s exclusive jurisdiction. As we
+explained in Orangeburg, the state agency was “unlikely to
+maintain its policy” once it was “[f]aced with [] a decision from
+a federal court” declaring that policy unlawful. Id. at 1084.
+Even if the state agency did so with regard to Duke’s earlier
+merger agreement, Orangeburg could contract with a different
+North Carolina utility to obtain cheap energy and point to
+Orangeburg if the state agency sought to block that deal.
+
+     Here, by contrast, there is no clear path from an order
+invalidating the $5 million cap to the likely inclusion of
+Hecate’s projects in the Expedited Process. To the contrary, as
+we have explained, it is significantly more likely that PJM
+would remedy the defect Hecate claims via a modification that
+would not expedite the Hecate project at issue. Such a remote
+likelihood of redress defeats Hecate’s claimed standing.
+
+                          *     *   *
+
+    For the foregoing reasons, the petitions for review are
+dismissed for lack of standing.
+
+                                                    So ordered.
+

@@ -1,0 +1,959 @@
+                                        PUBLISHED
+
+                      UNITED STATES COURT OF APPEALS
+                          FOR THE FOURTH CIRCUIT
+
+
+                                        No. 18-2277
+
+
+ESTATE OF ARTHUR E. KECHIJIAN, DECEASED; SUSAN P. KECHIJIAN,
+individually and as co-executor; SCOTT E. HOEHN, co-executor,
+
+            Petitioners – Appellants,
+
+v.
+
+COMMISSIONER OF INTERNAL REVENUE,
+
+            Respondent – Appellee.
+
+
+
+
+                                  No. 18-2402
+
+
+LARRY E. AUSTIN; BELINDA AUSTIN,
+
+            Petitioners – Appellants,
+
+v.
+
+COMMISSIONER OF INTERNAL REVENUE SERVICE,
+
+            Respondent - Appellee.
+
+
+
+Appeals from the United States Tax Court. (Tax Ct. Nos. 8967-10; 8966-10)
+
+
+Submitted: May 8, 2020                                        Decided: June 23, 2020
+Before WILKINSON, NIEMEYER, and KING, Circuit Judges.
+
+
+Affirmed by published opinion. Judge Wilkinson wrote the opinion, in which Judge
+Niemeyer and Judge King joined.
+
+
+Lynn F. Chandler, Stephanie C. Daniel, Lucas D. Garber, SHUMAKER, LOOP &
+KENDRICK, LLP, Charlotte, North Carolina, for Appellants. Richard E. Zuckerman,
+Principal Deputy Assistant Attorney General, Richard Farber, Jennifer M. Rubin, Tax
+Division, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for
+Appellee.
+
+
+
+
+                                        2
+WILKINSON, Circuit Judge:
+
+       This case concerns the federal income tax consequences arising from a complex set
+
+of business transactions orchestrated by petitioners Arthur Kechijian and Larry Austin. 1
+
+The IRS Commissioner maintains that petitioners substantially underreported their taxable
+
+income for the 2004 tax year. After a trial, the Tax Court agreed. It held that petitioners
+
+had failed to report approximately $41.2 million of compensation income that they realized
+
+when certain restricted stockholdings that they owned became substantially vested in
+
+January 2004.     The Tax Court also upheld the Commissioner’s decision to impose
+
+accuracy-related penalties for negligence and substantial understatement of tax liability,
+
+and it denied petitioners’ post-trial attempt to offset their underreported income with
+
+various net operating loss carrybacks. Petitioners challenge each of these holdings. After
+
+careful review of the record, we find no error in the Tax Court’s rulings and accordingly
+
+affirm its judgment. Petitioners cannot be allowed to proceed on any assumption that the
+
+sheer complexity of their corporate transactions will assist them in the evasion of their
+
+appropriate tax liability.
+
+                                              I.
+
+                                             A.
+
+       Petitioners were partners in the distressed debt loan portfolio business for
+
+approximately fifteen years, beginning in 1990. At the most basic level, petitioners’
+
+
+
+       1
+          Arthur Kechijian died in 2013; his estate was substituted as a party petitioner on
+October 23, 2013. Petitioners’ wives, Belinda Austin and Susan Kechijian, are also parties
+to this action by virtue of having filed joint federal income tax returns with their husbands.
+                                              3
+business entailed raising funds from outside investors to finance the acquisition of
+
+distressed debt from financial institutions and government agencies. Corporate entities
+
+controlled by petitioners would then own and service that debt. Each man brought a
+
+different set of skills to their partnership. Austin performed “front-end work,” such as
+
+acquiring loan portfolios, conducting due diligence on potential acquisitions, formulating
+
+bid strategies, performing cashflow analyses, and maintaining investor relationships. On
+
+the other hand, Kechijian performed “back-end work,” including servicing the loan
+
+portfolios, collection activities, human resources, and other back-office operations.
+
+       In 1998, petitioners reorganized their business. Prior to that year, petitioners were
+
+the owners and operators of a group of corporations and limited liability companies
+
+(“LLCs”) known as the “UMLIC entities.” Petitioners decided to consolidate the separate
+
+UMLIC entities into a single holding company known as UMLIC Consolidated, Inc. (the
+
+“UMLIC S-Corp.”).       UMLIC S-Corp. was a North Carolina corporation for which
+
+petitioners elected so-called “S corporation status.” The goals of this restructuring were
+
+threefold: (1) allowing assets to be moved more efficiently between the various entities;
+
+(2) reducing the number of tax and financial filings the businesses were required to make;
+
+and (3) achieving substantial tax benefits.
+
+       To effectuate the contemplated reorganization, petitioners executed a series of
+
+transactions relevant to the instant case. First, each man transferred the entirety of his
+
+shareholdings in the UMLIC entities, each valued at $142,566, to UMLIC S-Corp. in return
+
+for 47,500 shares of UMLIC S-Corp. common stock. Simultaneously, petitioners executed
+
+two collateral agreements, the Restricted Stock Agreement (“RSA”) and the Employment
+
+                                              4
+Agreement (“EA”). Taken together, these agreements provided that either petitioner would
+
+lose at least 50% of the value of his UMLIC S-Corp. stock if he voluntarily terminated his
+
+employment with the company before January 1, 2004. This five-year “earnout” period
+
+was designed to incentivize petitioners to continue working for UMLIC S-Corp. so that the
+
+new company would benefit from their diverse skill sets.
+
+       The ownership of UMLIC S-Corp. was further divided over the next few years. In
+
+December 1998, petitioners created an employee stock ownership plan (“ESOP”) for
+
+UMLIC S-Corp. The ESOP purchased 5,000 shares of UMLIC S-Corp. common stock at
+
+a price of $500,000. In August 1999, petitioners each transferred 24,500 shares of their
+
+UMLIC S-Corp. stock to two new, irrevocable trusts established for the benefit of their
+
+families. These shares remained subject to the RSA and EA. Thus, as of August 1999,
+
+petitioners, their trusts, and the ESOP were the only shareholders of UMLIC S-Corp.
+
+       As alluded to above, petitioners had an additional, non-business motive for creating
+
+this elaborate corporate shareholding structure, namely the deferral of federal income tax
+
+on the profits of UMLIC S-Corp. Four background principles are necessary to understand
+
+this intricate scheme. First, I.R.C. § 83 applies where property, including stock, is
+
+transferred to a taxpayer “in connection with the performance of services.” At the
+
+taxpayer’s election, he may defer tax inclusion of any gains from such a transfer until the
+
+first taxable year in which his rights in the property “are not subject to a substantial risk of
+
+forfeiture,” 26 U.S.C. § 83(a), i.e., when his rights become “substantially vested,” 26
+
+C.F.R. § 1.83-1. Importantly, such rights “are subject to a substantial risk of forfeiture
+
+if . . . [they] are conditioned upon the future performance of substantial services by any
+
+                                               5
+individual.” 26 U.S.C. § 83(c)(1). Second, under the Internal Revenue Code (“IRC”), an
+
+S corporation does not itself pay income taxes; rather, it passes any income or losses it
+
+makes through to its outstanding shareholders who must then report the same on their
+
+individual income tax returns. Third, restricted stock in an S corporation “that is issued in
+
+connection with the performance of services . . . and that is substantially nonvested . . . is
+
+not treated as outstanding stock of the corporation” for tax purposes. 26 C.F.R. § 1.1361-
+
+1(b)(3). As such, profits or losses of an S corporation will not flow through to a holder of
+
+non-vested stock and need not be included on the holder’s individual income tax returns.
+
+Fourth, an ESOP is a tax-exempt entity.
+
+       In combination, these principles allowed petitioners to avoid reporting any income
+
+from UMLIC S-Corp. on their federal tax returns from 2000 to 2003, despite the fact that
+
+the company was profitable during that period. The Tax Court aptly summarized the
+
+functioning of this scheme: “[petitioners] took the position that their stock (and that owned
+
+by their grantor trusts) was subject to a ‘substantial risk of forfeiture’ and was thus
+
+‘substantially nonvested’ . . . . Because the 95,000 shares owned by petitioners and their
+
+grantor trusts were deemed to be ‘non-outstanding,’ UMLIC S-Corp. for tax years 2000–
+
+2003 allocated 100% of its income, losses, deductions, and other tax items to the ESOP.
+
+Consistently with the company’s reporting, neither petitioner reported any flow-through
+
+items from UMLIC S-Corp. on the joint return he filed with his spouse for 2000, 2001,
+
+2002, or 2003. And because the ESOP was a tax-exempt entity, it likewise reported no
+
+taxable income from UMLIC S-Corp. for 2000–2003.” Austin v. Comm’r, T.C. Memo.
+
+
+
+                                              6
+2017-69, at *14–15. In other words, between 2000–2003, no one paid any federal income
+
+tax on UMLIC S-Corp.’s profits.
+
+       In late 2003, petitioners again undertook to restructure their business operations.
+
+This second reorganization was undertaken for two purposes. First, petitioners hoped to
+
+attract greater outside investment from hedge funds and private equity firms, which they
+
+felt would be difficult while the business continued to operate as an S corporation. Second,
+
+Congress had amended the tax laws to close the loophole by which petitioners had avoided
+
+reporting taxable income on the earnings of UMLIC S-Corp. As such, the existing
+
+structure would cease to provide tax benefits as of January 1, 2005.
+
+       To effectuate this restructuring, petitioners formed UMLIC Holdings, LLC
+
+(“Holdings”), a Delaware limited liability corporation in which petitioners each held a 50%
+
+interest. In November 2003, Holdings purchased all of UMLIC S-Corp.’s operating assets
+
+in exchange for a $190 million interest-bearing promissory note and the assumption of
+
+various liabilities. Though UMLIC S-Corp. realized $174.6 million of capital gain on this
+
+sale, it allocated the entirety of that gain to the tax-exempt ESOP, which, according to
+
+petitioners, was still the only outstanding shareholder of UMLIC S-Corp.
+
+       On January 1, 2004, the restrictions imposed by the RSA and EA on petitioners’
+
+UMLIC S-Corp. stock lapsed and their shares became fully vested. At this point, the fair
+
+market value of the shares held by each petitioner and his respective trust was
+
+approximately $45.9 million. But petitioners did not hold these shares for long. On March
+
+30, 2004, petitioners entered into identical “surrender” and “subscription” agreements with
+
+UMLIC S-Corp. (the “Surrender Transactions”). Pursuant to the Surrender Transactions,
+
+                                             7
+petitioners purported to (1) return the entirety of their newly vested shares to UMLIC S-
+
+Corp. and (2) simultaneously repurchase 47,500 identical shares from UMLIC S-Corp. in
+
+exchange for a $41.5 million promissory note.          On their 2004 income tax returns,
+
+petitioners reported $4.5 million in compensation income from this series of transactions,
+
+which represented the difference between the fair market value of the new UMLIC S-Corp.
+
+shares and the price paid to purchase those shares, i.e., the $41.5 million promissory notes.
+
+       On June 22, 2004, UMLIC S-Corp. redeemed the 5,000 shares owned by the ESOP
+
+at a price of approximately $10.4 million. At that point, UMLIC S-Corp. became entirely
+
+owned by petitioners and their trusts. It continued to operate in this manner until the
+
+petitioners’ business failed during the 2008 financial crisis.
+
+                                             B.
+
+       The IRS examined petitioners’ income tax returns for the years 2000–2004. In the
+
+course of its investigation, the IRS concluded that petitioners had underreported their tax
+
+liability and significantly underpaid tax over that five-year period. Consequently, on
+
+January 15, 2010, the IRS issued timely notices of deficiency to petitioners. As relevant
+
+here, the IRS asserted that: (1) petitioners’ stock in UMLIC S-Corp. was substantially
+
+vested upon receipt in 1998, such that petitioners were required to report their pro rata
+
+shares of the company’s income each year; and (2) even if the stock did not substantially
+
+vest until the RSA restrictions lapsed in January 2004, petitioners should have reported the
+
+fair market value of that stock as taxable income in 2004, notwithstanding their purported
+
+“surrender” of the shares. The IRS also assessed accuracy-related penalties for negligence
+
+and substantial understatement of tax liability for all five years. Petitioners disputed the
+
+                                              8
+IRS’s findings and sought redetermination in the Tax Court. Their case eventually
+
+proceeded to trial in 2015.
+
+       The Tax Court resolved the first issue in petitioners’ favor. Specifically, it held that
+
+petitioners’ UMLIC S-Corp. stock remained subject to a substantial risk of forfeiture until
+
+the RSA restrictions lapsed. See Austin, T.C. Memo. 2017-69, at *28. And because
+
+petitioners’ shares were not substantially vested between 2000–2003, they were not
+
+required to report the company’s income on their individual returns during that period.
+
+       But petitioners did not get off scot-free. The Tax Court agreed with the IRS that
+
+“[s]ection 83(a)(1) requires that the [fair market value] of stock be treated as compensation
+
+income to the shareholder at the first time the stock becomes substantially vested.” Austin,
+
+T.C. Memo. 2017-69, at *38–39 (internal quotation marks omitted). As such, when
+
+petitioners’ stock vested on January 1, 2004, they each “received taxable compensation in
+
+excess of $45 million at that time” and could not “unring this bell by subsequent actions
+
+with respect to the stock, whether that action consisted of sale to a third party or surrender
+
+to the corporation.” Id. at *39. Likewise, the Tax Court concluded that both the Surrender
+
+Transactions and the promissory notes delivered to UMLIC S-Corp. as part of those
+
+Transactions were “palpably lacking in economic substance” and should be disregarded in
+
+calculating tax liability. Ibid. This because, according to the Tax Court, the Transactions
+
+were undertaken for no purpose other than avoiding tax liability and had no reasonable
+
+possibility of generating an economic profit. Id. at *39–41. Thus, the Tax Court held that
+
+petitioners each were required to include compensation income of approximately $45.7
+
+
+
+                                              9
+million for tax year 2004, 2 and it upheld the Commissioner’s decision to impose accuracy
+
+penalties for that year. See id. at *44–48.
+
+       The Tax Court then ordered the parties to file computations under Tax Court Rule
+
+155 regarding the exact tax liability owed by petitioners. As relevant here, in filing their
+
+computations, petitioners asserted that they had sustained various net operating losses
+
+(“NOLs”) in taxable year 2008 and that they had permissibly carried back those losses to
+
+taxable year 2003. They further maintained that they should now be permitted to carry
+
+those NOLs forward to taxable year 2004 to offset some of the tax liability resulting from
+
+the Tax Court’s decision. The Tax Court rejected this argument on the grounds that “[a]n
+
+NOL carryback or carryforward claim is a new issue that cannot be raised for the first time
+
+in a Rule 155 proceeding.” J.A. 1578.
+
+       Finally, on August 28, 2018, the Tax Court issued an order setting the Austins’
+
+deficiency in 2004 income tax due at $1,665,619, J.A. 1641, and the Kechijians’ at
+
+$1,835,130, J.A. 1639. The court also imposed accuracy-related penalties on the Austins
+
+in the amount of $333 thousand, J.A. 1642, and on the Kechijians in the amount of $367
+
+thousand, J.A. 1640. This appeal followed.
+
+
+
+
+       2
+        The Tax Court arrived at this figure by subtracting petitioners’ basis in their
+UMLIC S-Corp. shares, which was $142,566, from the fair market value of those shares
+on January 1, 2004, which was $45,857,434. Austin, T.C. Memo. 2017-69, at *37.
+Because petitioners reported $4.5 million of income on their UMLIC S-Corp. shares in
+2004, the total amount of income that they each failed to report was $41,214,868. Id. at
+*44.
+
+                                              10
+                                              II.
+
+       Petitioners challenge two aspects of the Tax Court’s decision: (1) that the court erred
+
+in holding that petitioners each realized and were required to report $45.7 million of taxable
+
+income when their UMLIC S-Corp. stock substantially vested in taxable year 2004 and (2)
+
+that the court erred in upholding the accuracy-related penalties imposed by the
+
+Commissioner.
+
+       We review the Tax Court’s decisions “on the same basis as decisions in civil bench
+
+trials in United States district courts,” that is “[q]uestions of law are reviewed de novo, and
+
+findings of fact for clear error.” Baxter v. Comm’r, 910 F.3d 150, 156 (4th Cir. 2018).
+
+                                              A.
+
+       Petitioners argue that they were not required to report the $45.7 million in gain that
+
+they realized when their UMLIC S-Corp. shares vested. In reaching its contrary holding,
+
+the Tax Court noted that a taxpayer realizes compensation income “at the first time” that
+
+restricted stock transferred pursuant to I.R.C. § 83 becomes substantially vested, which, in
+
+this case, occurred on January 1, 2004. Austin v. Comm’r, T.C. Memo. 2017-69, at *39–
+
+40 (2017); see also 26 U.S.C. § 83(a)(1). Petitioners do not seriously contest this point.
+
+See Petitioners’ Opening Br. 15 (acknowledging that petitioners “were in constructive
+
+receipt of compensation income on January 1, 2004 when [their shares] became available
+
+to them without substantial restrictions”). Instead, they maintain that the subsequent
+
+Surrender Transactions effectively negated or reversed their receipt of this compensation,
+
+such that they were not required to include it in their gross income. For the reasons that
+
+follow, we disagree.
+
+                                              11
+                                              1.
+
+       It is a well-settled principle of tax law that compensation is included in the taxable
+
+income of the person who earned it, notwithstanding any assignment or transfer of that
+
+compensation to a third party. See Lucas v. Earl, 281 U.S. 111, 114–15 (1930). Thus, the
+
+mere fact that petitioners purported to return their vested shares back to UMLIC S-Corp.
+
+has no effect on their individual tax liability. Likely aware of this fundamental rule,
+
+petitioners advance a slightly different argument premised on the tax rescission doctrine. 3
+
+Specifically, they maintain that the Surrender Transactions effectuated a complete
+
+rescission of their contractual agreements with UMLIC S-Corp., and because that
+
+rescission occurred in the same year as petitioners’ receipt of compensation income under
+
+those agreements, that income should be disregarded for federal income tax purposes.
+
+       We do not see it. The Surrender Transactions did not restore petitioners “to the
+
+relative positions that they would have occupied had no contract been made,” which is a
+
+fundamental requirement for application of the rescission doctrine. Rev. Rul. 80-58, 1980-
+
+1 C.B. 181, 181; Hutcheson v. Comm’r, 71 T.C.M. (CCH) 2425, at *4 (1996) (“For the
+
+rescission to be effective, both buyer and seller must be put back in their original
+
+positions.”); see also Reeves v. United States, 173 F. Supp. 779, 781 (M.D. Ala. 1959). Put
+
+simply, if you can’t restore, you can’t rescind. The contracts at issue here were for personal
+
+services, namely the five years of services performed by petitioners on behalf of UMLIC
+
+
+
+       3
+          The parties dispute whether petitioners have waived any argument based on the
+rescission doctrine. We need not resolve this question because, as discussed below, we find
+that petitioners’ rescission arguments are unavailing even if properly presented.
+                                             12
+S-Corp. When a personal services contract has actually been performed, it is essentially
+
+impossible for the individual who rendered the services to be “returned” to his position ex
+
+ante. See Jasper L. Cummings, Circular Cash Flows and the Federal Income Tax, 64 Tax
+
+Law. 535, 602 (2011) (noting that “compensation arrangements are not well suited” to
+
+analysis under the tax rescission doctrine “because the employee cannot usually give back
+
+his or her performance”). What is more, as part of the underlying contracts, petitioners
+
+transferred the entirety of their interests in the UMLIC entities to UMLIC S-Corp., but they
+
+did not receive those assets back in the Surrender Transactions. See J.A. 1109–11. As
+
+such, the Surrender Transactions are completely unlike the prototypical instance of
+
+rescission, in which all property that changes hands is returned to its original owner. See
+
+Rev. Rul. 80-58, 1980-1 C.B. 181.
+
+       In attempting to fit the square peg of the Surrender Transactions into the round hole
+
+of the rescission doctrine, petitioners point to a line of authorities suggesting that
+
+compensation is not taxable to an employee if returned to his employer in the year it was
+
+received. See, e.g., Russel v. Comm’r, 35 B.T.A. 602 (1937). But those precedents are
+
+inapposite here. As the Tax Court has clarified, they stand only for the limited proposition
+
+that returned compensation may not be taxable income where “the original salary
+
+agreements . . . [were] subject to modification by the taxpayers and their employers and
+
+not absolute.” Jones v. Comm’r, 82 T.C. 586, 591 (1984). There is no indication that
+
+petitioners’ compensation agreements with UMLIC S-Corp. were open-ended in the sense
+
+contemplated by those cases, and petitioners’ belated attempt to modify those agreements
+
+via the Surrender Transactions could not affect their tax liability. See Leicht v. Comm’r,
+
+                                            13
+137 F.2d 433, 435 (8th Cir. 1943) (“[I]t is not given to a taxpayer to lift the federal tax-
+
+hand from income, which he has once received in absolute right, by an attempt thereafter
+
+to alter its legal status through modification of the agreement out of which it arose.”).
+
+                                              2.
+
+       In any event, even if the Surrender Transactions could somehow be seen as
+
+rescinding petitioners’ employment and compensation agreements with UMLIC S-Corp.,
+
+we agree with the Tax Court’s conclusion that those transactions were totally devoid of
+
+economic substance and must be disregarded for federal income tax purposes.
+
+       The economic substance doctrine effectuates the Supreme Court’s command that
+
+the tax effect of a transaction should be based on “the objective economic realities of [the]
+
+transaction rather than . . . the particular form the parties employed.” Frank Lyon Co. v.
+
+United States, 435 U.S. 561, 573 (1978). The doctrine permits the IRS to “ignore for tax
+
+purposes any sham transaction, i.e., a transaction designed to create tax benefits rather than
+
+to serve a legitimate business purpose.” Hines v. United States, 912 F.2d 736, 739 (4th
+
+Cir. 1990). We employ a two-prong test to determine if a given transaction should be
+
+disregarded pursuant to the doctrine. “To treat a transaction as a sham, the court must find
+
+[1] that the taxpayer was motivated by no business purposes other than obtaining tax
+
+benefits in entering the transaction, and [2] that the transaction has no economic substance
+
+because no reasonable possibility of profit exists.” Rice’s Toyota World, Inc. v. Comm’r,
+
+752 F.2d 89, 91 (4th Cir. 1985). The first prong of the test is subjective, and the second is
+
+objective; nevertheless, while we “examine both the subjective motivations of the taxpayer
+
+and the objective reasonableness of the investment, in both instances our inquiry is directed
+
+                                             14
+to the same question: whether the transaction contained economic substance aside from the
+
+tax consequences.” Black & Decker Corp. v. United States, 436 F.3d 431, 441 (4th Cir.
+
+2006) (internal quotation marks omitted). Whether a particular transaction was a sham is
+
+a question of fact that we review only for clear error. Rice’s Toyota World, Inc., 752 F.2d
+
+at 92.
+
+         Application of the foregoing principles to the instant case reveals that the Surrender
+
+Transactions were indeed nothing more than a sham to avoid tax liability and were rightly
+
+disregarded by the Tax Court.
+
+         Petitioners’ own admissions satisfy the first prong of the economic substance test.
+
+At trial, petitioners proffered only one business purpose for the Surrender Transactions—
+
+relieving UMLIC S-Corp. from the burden of withholding and paying payroll and
+
+employment taxes attributable to the $92 million of compensation income realized by
+
+petitioners when their restricted stock vested. See J.A. 1295–96. But as the Tax Court
+
+noted, “[t]hat is in itself a tax-avoidance purpose,” and “by admitting that [they] sought to
+
+avoid payment of employment taxes, [petitioners] in effect admitted that they sought to
+
+avoid payment of income taxes, because the former would not be payable unless the latter
+
+were payable also.” Austin, T.C. Memo. 2017-69, at *40–41.
+
+         Surprisingly, petitioners double down on their position in this appeal.         They
+
+candidly acknowledge that the only reason they executed the Surrender Transactions was
+
+to enable UMLIC S-Corp. to avoid withholding and remitting approximately $33 million
+
+in state and federal payroll and income taxes. Petitioners maintain that this course of action
+
+was necessary to ensure UMLIC S-Corp.’s continued viability as a going concern. This is
+
+                                               15
+because, according to petitioners, UMLIC S-Corp. did not have enough cash on hand to
+
+cover its tax withholding obligations, an assertion that the Tax Court found to be
+
+unsupported by the evidence at trial. See Austin, T.C. Memo. 2017-69, at *40 n.13. But
+
+even if that were true, it does nothing to change the fact that the sole purpose for the
+
+Surrender Transactions was the avoidance of tax obligations, both those of UMLIC S-Corp.
+
+and, by extension, those of petitioners. Under our case law, that is enough to satisfy the
+
+first prong of the economic substance test. See Friedman v. Comm’r, 869 F.2d 785, 792
+
+(4th Cir. 1989) (noting that the first prong “requires a showing that the only purpose for
+
+entering into the transaction was the tax consequences”).
+
+      The second prong of the economic substance test is likewise met here. As the Tax
+
+Court found, it is inconceivable that either petitioner “could envision a reasonable
+
+possibility of profit by surrendering, for no consideration, stock worth $45.8 million.”
+
+Austin, T.C. Memo. 2017-69, at *41. The fact that petitioners each gave UMLIC S-Corp.
+
+a $41.5 million promissory note as part of the Surrender Transactions only bolsters this
+
+conclusion, as “no rational person would incur indebtedness of $41.5 million to acquire
+
+stock that he already owned free and clear.” Ibid. On the record before us, we cannot say
+
+that these findings were anything but sound.
+
+      Petitioners’ final argument regarding economic substance is based on the
+
+promissory notes that they conveyed in exchange for the newly issued UMLIC S-Corp.
+
+stock. On petitioners’ telling, because those notes constituted recourse debt, they had
+
+independent economic substance such that their value should have been added to
+
+petitioners’ basis in their UMLIC S-Corp. shares. This basis increase would have caused
+
+                                           16
+them to realize only $4.2 million in taxable income when those shares vested, rather than
+
+the $45.7 million found by the Tax Court.
+
+       Again, we must disagree. For starters, we concur with the Tax Court’s finding that
+
+that the notes lacked economic substance and should be disregarded for tax purposes
+
+because they were issued by petitioners to a company owned and controlled by petitioners.
+
+In other words, petitioners effectively issued the notes to themselves. See Austin, T.C.
+
+Memo. 2017-69, at *41. But there is an additional problem with their argument. As
+
+petitioners themselves point out, the notes were “used to purchase stock in UMLIC.”
+
+Petitioners’ Reply Br. 11 (emphasis added). Thus, even if the notes had economic
+
+substance, their value would be included in petitioners’ basis for the new UMLIC stock
+
+that they purchased in March 2004, not the original UMLIC stock that they acquired in
+
+1998. See 26 U.S.C. § 1012(a) (defining “basis of property” as “the cost of such property”).
+
+Thus, the notes could not possibly offset any of the taxable income petitioners realized
+
+when the original shares vested in January 2004.
+
+                                             B.
+
+       Petitioners also take issue with the Tax Court’s decision affirming the
+
+Commissioner’s imposition of accuracy-related penalties.
+
+       I.R.C. § 6662 provides for the imposition of a 20% penalty on “any portion of an
+
+underpayment of tax” that is attributable to, inter alia, “[n]egligence or disregard of rules
+
+or regulations” or “[a]ny substantial understatement of income tax.” 26 U.S.C. § 6662(a),
+
+(b)(1), (b)(2). But “[n]o penalty shall be imposed under section 6662 . . . with respect to
+
+any portion of an underpayment if it is shown that there was a reasonable cause for such
+
+                                             17
+portion and that the taxpayer acted in good faith with respect to such portion.” 26 U.S.C.
+
+§ 6664(c)(1). In determining whether a taxpayer acted with reasonable cause and good
+
+faith, we consider “all the pertinent facts and circumstances,” but “[g]enerally the most
+
+important factor is the extent of the taxpayer’s effort to assess [his] proper tax liability.”
+
+Treas. Reg. § 1.6664-4(b)(1). Whether a taxpayer acted with reasonable cause and in good
+
+faith is a question of fact, thus we review the Tax Court’s findings on this score only for
+
+clear error. Baxter, 910 F.3d at 165 (citing Antonides v. Comm’r, 893 F.2d 656, 659 (4th
+
+Cir. 1990)).
+
+       The Tax Court held that each petitioner’s failure to report $41.2 million of income
+
+on his UMLIC S-Corp. stock was attributable to negligence and amounted to a substantial
+
+understatement of tax. Austin, T.C. Memo. 2017-69, at *45. Petitioners do not contest this
+
+conclusion. Rather, they maintain that they should not have been subject to accuracy-
+
+related penalties because they had reasonable cause for the tax position they took with
+
+respect to the Surrender Transactions, they acted in good faith, and the issues presented in
+
+this case are novel.
+
+       We disagree. For starters, as the Tax Court pointed out, petitioners have presented
+
+neither evidence nor legal authority to suggest that they made any effort to accurately
+
+assess their 2004 tax liability. See Austin, T.C. Memo. 2017-69, at *46–47. They did not
+
+obtain or rely on the opinion of a tax professional in adopting their position regarding the
+
+tax effect of the Surrender Transactions. Moreover, petitioners structured the Transactions
+
+with the specific purpose of evading tax liability on the compensation income that even
+
+petitioners admit they realized at the moment their shares substantially vested. And they
+
+                                             18
+can point to no legal authority suggesting that the Surrender Transactions were anything
+
+other than a sham designed to avoid taxes that should be disregarded. In sum, we agree
+
+with the Tax Court’s finding that “[p]etitioners’ overall conduct shows that they were fully
+
+aware of the tax consequences of their stock’s becoming substantially vested,” and their
+
+efforts to escape that liability did not rest on an “honest misunderstanding of fact or law
+
+that was reasonable under all the circumstances.” Austin, T.C. Memo. 2017-69, at *47
+
+(internal quotation marks omitted). As such, petitioners have failed to establish a defense
+
+of reasonable cause and good faith.
+
+       Petitioners’ argument that the tax law issues in this case are novel does nothing to
+
+change our conclusion. For one thing, we have never recognized novelty as a stand-alone
+
+defense to the imposition of accuracy-related penalties. See Baxter, 910 F.3d at 168. More
+
+importantly, there is nothing novel about the legal issues presented by or doctrines applied
+
+in this case. That the law prohibits a taxpayer from avoiding tax liability by means of a
+
+sham transaction is a rule almost as old as the federal income tax system. See, e.g., Gregory
+
+v. Helvering, 293 U.S. 465, 468–70 (1935); see also Baxter, 910 F.3d at 168 (rejecting a
+
+similar novelty argument on the grounds that “it [is] well-established that transactions
+
+lacking economic substance must be disregarded for tax purposes”). There is no reason
+
+that petitioners, sophisticated businessmen who were clearly cognizant of the tax
+
+consequences of their actions, could have reasonably expected that the Surrender
+
+Transactions would be exempted from this longstanding rule. See Treas. Reg. § 1.6664-
+
+4(b)(1) (noting that “the experience, knowledge, and education of the taxpayer” is relevant
+
+in assessing accuracy-related penalty defenses).
+
+                                             19
+                                              III.
+
+       Petitioners further maintain that the Tax Court erred in refusing to consider their
+
+NOL carryback claim during post-trial computation proceedings conducted pursuant to
+
+Tax Court Rule 155. In short, petitioners assert that the Tax Court was affirmatively
+
+required to take account of their NOL claims during this computational phase because, if
+
+those claims were valid, they could have affected petitioners’ tax liability for the taxable
+
+year at issue in this case. That argument is contrary to both the rules and well-settled
+
+precedent of the Tax Court, and we reject it.
+
+       Rule 155 authorizes the Tax Court to conduct further proceedings after it “has filed
+
+or stated its opinion or issued a dispositive order determining the issues in a case,” for the
+
+limited purpose of calculating a party’s precise tax liability. T.C. Rule 155(a). In the
+
+course of these proceedings, parties are specifically prohibited from raising “new issues”
+
+that go beyond “computation of the amount to be included in the decision resulting from
+
+the findings and conclusions made by the Court.” Id. 155(c); Vessio v. Comm’r, 60 T.C.M.
+
+(CCH) 1150, 1150 (1990) (“The exclusive purpose of proceedings under Rule 155 . . . is
+
+the computation of the deficiency, liability, or overpayment resulting from the findings and
+
+conclusions made by the Court.”); see also Vento v. Comm’r, 152 T.C. 1, 9 (2019) (noting
+
+that the bar on new issues is “rigorously enforce[d]” by the Tax Court). For purposes of
+
+Rule 155, a new issue is one that “was neither placed in issue by the pleadings, addressed
+
+as an issue at trial, nor discussed by [the Tax] Court in its prior opinion,” or one that “would
+
+necessitate retrial or reconsideration.” Vento, 152 T.C. at 8 (internal quotation marks
+
+omitted). We review the Tax Court’s refusal to consider a new issue in Rule 155
+
+                                              20
+proceedings for abuse of discretion. See Powell v. Comm’r, 581 F.3d 1267, 1269–70 (10th
+
+Cir. 2009).
+
+       Petitioners’ NOL claim was clearly a “new issue” within the meaning of Rule 155.
+
+Quite simply, petitioners’ entitlement to NOL carrybacks from 2008 was not meaningfully
+
+addressed in the Tax Court proceedings on the merits. On the contrary, petitioners did not
+
+include any NOL carryback claims in their original or amended petitions and failed to raise
+
+them in their final pre-trial memorandum and post-trial briefing. The merits of the issue
+
+were not litigated at trial. Consequently, the question of petitioners’ entitlement to NOL
+
+carrybacks formed no part of the “decision resulting from the findings and conclusions
+
+made by the [Tax] Court,” and consideration of that issue would have required the court to
+
+reopen the record. T.C. Rule 155(c); see also Vento, 152 T.C. at 8 (noting that the Tax
+
+Court has found a taxpayer’s “entitlement to a net operating loss carryback” to be a new
+
+issue for the purposes of Rule 155 (citing Vest v. Comm’r, 69 T.C.M. (CCH) 2491, 2493
+
+(1995))). As such, it was no abuse of discretion for the Tax Court to reject petitioners’
+
+attempt to raise this new issue during Rule 155 proceedings.
+
+       In an effort to evade the effect of Rule 155, petitioners assert that a provision of the
+
+I.R.C., namely Section 6214(b), required the Tax Court to consider their NOL claim. In
+
+pertinent part, Section 6214(b) provides that “in redetermining a deficiency of income tax
+
+for any taxable year,” the Tax Court “shall consider such facts with relation to the taxes for
+
+other years or calendar quarters as may be necessary correctly to redetermine the amount
+
+of such deficiency.”     26 U.S.C. § 6214(b).        On petitioners’ reading, this section
+
+“specifically requires the Tax Court to consider such facts with relation to the taxes for
+
+                                              21
+other years as may be necessary to correctly redetermine the amount of any tax deficiency.”
+
+Petitioners’ Reply Br. 18. And because, according to petitioners, application of their 2008
+
+NOLs to taxable year 2004 could have reduced their tax liability for that year, the Tax
+
+Court had no discretion to exclude them from its Rule 155 computations.
+
+       We cannot accept petitioners’ expansive understanding of Section 6214(b). For
+
+starters, petitioners’ argument proves too much. If adopted, it would effectively vitiate
+
+Rule 155, as the Tax Court would be required to consider every new issue raised during
+
+the computation phase that could conceivably affect the taxpayer’s ultimate liability.
+
+Petitioners have failed to identify any authority supporting such a broad interpretation, and
+
+we have found none. But that is hardly surprising, as petitioners completely misread
+
+Section 6214(b). Rather than an affirmative mandate to the Tax Court, Section 6214(b) is
+
+simply a jurisdictional provision authorizing that court to consider facts from taxable years
+
+not at issue when calculating liability for those years that are at issue. See Estate of
+
+Branson v. Comm’r, 264 F.3d 904, 912–13 (9th Cir. 2001) (characterizing Section 6214(b)
+
+as jurisdictional). It does not limit the Tax Court’s ability to regulate its own proceedings
+
+or insist on the timely presentation of substantive claims prior to the Rule 155
+
+computational phase.
+
+                                            IV.
+
+       In conclusion, we affirm the decision of the Tax Court on all issues.
+
+
+
+                                                                                AFFIRMED
+
+
+
+                                             22
+

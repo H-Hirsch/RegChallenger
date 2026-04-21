@@ -1,0 +1,697 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 25, 2021               Decided July 29, 2022
+
+                       No. 20-1424
+
+                 CITADEL SECURITIES LLC,
+                       PETITIONER
+
+                             v.
+
+         SECURITIES AND EXCHANGE COMMISSION,
+                      RESPONDENT
+
+                INVESTORS EXCHANGE LLC,
+                      INTERVENOR
+
+
+             On Petition for Review of an Order
+        of the Securities and Exchange Commission
+
+
+
+     Jeffrey B. Wall argued the cause for petitioner. On the
+briefs were Jeffrey B. Korn, Patricia O. Haynes, Mark T.
+Stancil, and Kristin Bender.
+
+     Christina M. Carroll, Kristen C. Rodriguez, Douglas W.
+Henkin, and Richard M. Zuckerman were on the brief for amici
+curiae New York Stock Exchange, LLC, et al. in support of
+petitioner.
+                              2
+     Alexandra A.E. Shapiro and Daniel J. O=Neill were on the
+brief for amicus curiae Andrew N. Vollmer in support of
+petitioner.
+
+    Emily True Parise, Senior Litigation Counsel, U.S.
+Securities and Exchange Commission, argued the cause for
+respondent. With her on the brief were Michael A. Conley,
+Acting General Counsel, Dominick V. Freda, Assistant
+General Counsel, and Brooke Wagner, Attorney.
+
+    Catherine E. Stetson argued the cause for intervenor. With
+her on the brief were Katherine B. Wellington and Reedy C.
+Swanson.     Sundeep Iyer and Neal K. Katyal entered
+appearances.
+
+    Dennis M. Kelleher, Stephen W. Hall, and Jason R. Grimes
+were on the brief for amicus curiae Better Markets, Inc. in
+support of respondent.
+
+     Daniel A. Rubens and Alexandra Bursak were on the brief
+for amicus curiae XTX Markets, LLC in support of respondent.
+
+    Thomas A. Burns was on the brief for amicus curiae
+Healthy Markets Association in support of respondent.
+
+    Before: RAO and WALKER, Circuit Judges, and SENTELLE,
+Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge WALKER.
+                               3
+
+
+
+    WALKER, Circuit Judge: The Securities and Exchange
+Commission approved a recent attempt by a securities
+exchange to prevent investors from buying and selling
+securities before other investors can know that market prices
+have changed.
+
+    We deny the petition challenging the SEC’s decision.
+
+                                I
+
+     Gone are the days of stock traders who yelled out orders
+from crowded trading floors as they stared at a scrolling
+tickertape. Today, securities exchanges are electronic, and
+orders move at the speed of light.
+
+     This section describes (A) a few basics about those
+securities exchanges; (B) some of the rules governing them;
+(C) the concept of “latency arbitrage”; (D) an exchange’s new
+strategy to protect investors from latency arbitrage; and (E) the
+SEC’s approval of that strategy.
+
+                               A
+
+     Securities traders can play two roles: liquidity provider or
+liquidity taker. A taker seeks to accept a provider’s “bid” to
+buy or “offer” to sell. When all goes well, the trade executes,
+meaning the taker either buys what the provider offered or sells
+what the provider bid for. A single trader can don and doff a
+provider or taker hat at any time.
+
+    The trades between providers and takers happen through
+orders, which are instructions sent from traders to exchanges.
+There are many types of orders. For example, orders can be
+                                4
+either “displayed” or “non-displayed,” meaning publicly
+viewable or not publicly viewable. And certain orders called
+“limit orders” stipulate that a security must trade for a pre-
+specified price or better from the provider’s perspective.
+
+     Here’s an example that combines some of what we’ve
+covered so far: A liquidity provider posts a displayed limit
+order on the New York Stock Exchange. The order bids to
+“buy 10 shares of Apple stock at $10.00 per share or lower.”
+A liquidity taker then sees that bid and sends its own order to
+the New York Stock Exchange that accepts the bid and sells the
+10 shares of Apple stock for $10.00 per share.
+
+                                B
+
+     In 2005, the SEC promulgated a series of initiatives
+dubbed “Regulation NMS,” which stands for National Market
+System. One of those initiatives established the concept of the
+“[n]ational best bid and national best offer,” which are the best
+bid and best offer for a security, from the taker’s point of view,
+across all U.S. securities exchanges.                 17 C.F.R.
+§ 242.600(b)(50). In other words, the national best bid or offer
+is the highest-priced bid to buy or the lowest-priced offer to sell
+a security on any U.S. exchange.
+
+     Regulation NMS also classifies some providers’ orders as
+“protected” bids or offers (collectively “protected quotations”).
+Protected quotations are “automated,” publicly displayed, and
+the national best bid or offer. Id. § 242.600(b)(70).
+
+     That classification matters because Rule 611 of Regulation
+NMS requires exchanges to implement policies that prevent the
+execution of trades for protected quotations that are worse for
+the taker than the national best bid or offer. Id. § 242.611(a)(1).
+So if a security’s national best bid or offer changes, then the
+                               5
+correct execution price for protected quotations of that security
+changes as well. As a result, exchanges must constantly
+communicate to keep abreast of securities’ nationwide prices.
+See Nasdaq Stock Market LLC v. SEC, No. 21-1167, 2022 WL
+2431638, at *2 (D.C. Cir. July 5, 2022) (“At the heart of the
+national market system is the collection, consolidation and
+dissemination of securities market data from the various
+securities exchanges.” (cleaned up)).
+
+                               C
+
+     Now speed enters the picture. When a security’s national
+best bid or offer changes, providers must update their orders to
+reflect that change.
+
+    To do so, providers send electronic messages to the
+exchanges. Those messages often arrive faster than the blink
+of an eye. Still, the updates are not instantaneous. It takes a
+moment for an update to reach exchanges all over the country.
+That moment is called “latency.”
+
+     During that latency, certain high-frequency traders can
+take securities at old, stale prices — just before updated prices
+reach the exchanges — and then turn around and trade those
+securities at the newly updated national best bid or offer. That
+practice is called “latency arbitrage.”
+
+     The high-frequency traders that engage in such latency
+arbitrage are extreme short-term investors. That’s because they
+seek to end each trading day with the same investments that
+they had at the beginning of the day. See Concept Release on
+Equity Market Structure, Exchange Act Release No. 34-61358,
+75 Fed. Reg. 3,594, 3,606 (Jan. 21, 2010) (“characteristics
+often attributed to proprietary firms engaged in” high-
+frequency trading include “ending the trading day in as close
+                                 6
+to a flat position as possible”). Indeed, they immediately seek
+to either (a) sell what they’ve just bought or (b) buy back what
+they’ve just sold. For example, according to the Intervenor:
+
+    A stock price may be in the process of changing from
+    $10.00 to $10.01 across different exchanges. A high-
+    speed trader might swoop in and buy at $10.00 from
+    an investor that cannot update its quote fast enough,
+    and then sell at $10.01 – the price the investor could
+    have received microseconds later if the arbitrageur
+    had not intervened. That penny that would have gone
+    to the investor goes instead to the arbitrageur.
+
+Intervenor’s Brief 5-6 (cleaned up).
+
+     For ease, we will refer to such extreme short-term
+investors simply as “short-term investors.”1 By contrast, we
+will call traders that don’t engage in latency arbitrage “long-
+term investors.”
+
+                                 D
+
+    Investors Exchange LLC — commonly called IEX
+— began to operate as a securities exchange in 2016. From the
+beginning, IEX has sought to attract business from liquidity
+providers by combating latency arbitrage on its exchange.
+
+     To do that, IEX uses two tools: a thirty-eight-mile-long
+coil of wire called the “speedbump” and a publicly available
+algorithm called the “crumbling quote indicator,” which
+predicts imminent changes to the national best bid or offer.
+
+1
+  There are of course less extreme short-term investors who do not
+engage in latency arbitrage, such as day traders. We do not implicate
+them in our shorthand.
+                                  7
+
+     Here’s how they work. All orders going to IEX must
+traverse the speedbump before reaching IEX. That whole trip
+takes about 350 microseconds (about 1/11th the blink of an
+eye).2 But communications coming from other exchanges to
+IEX bypass the speedbump. Those communications include
+updates to the prices of securities on those exchanges. The
+upshot is that IEX gets information from other exchanges about
+imminent changes to the national best bid or offer for securities
+a bit before it receives orders from traders.
+
+     The information from other exchanges then goes into the
+crumbling quote indicator’s algorithm to determine whether
+the national best bid or offer for a particular security is about
+to change. If the algorithm says that the national best bid or
+offer for a security is about to change, then the crumbling quote
+indicator “turns on” for that security for two milliseconds.3
+
+     When that happens, for the order type at issue in this case,
+IEX then updates the security’s price to reflect the changing
+national best bid or offer. And the update happens while
+incoming orders from liquidity takers, including short-term
+investors, are stuck in the speedbump. Usually that update
+makes buy orders go down a penny and sell orders go up a
+penny.
+
+     If IEX’s strategy works as intended, orders protected by it
+are less likely to fall prey to latency arbitrage. When the short-
+term investor’s order reaches IEX, the order will not execute if
+the new market price is too low or too high to satisfy a short-
+term investor who is only interested in taking when providers’
+bids and offers are stale.
+
+2
+    There are 1,000,000 microseconds in a second.
+3
+    There are 1,000 milliseconds in a second.
+                               8
+
+                               E
+
+     For several years, IEX applied the speedbump and
+crumbling quote indicator only to certain non-displayed orders.
+But then, in 2019, IEX submitted a proposed rule change to the
+SEC asking to add a new “Discretionary Limit” order type that
+is (1) displayed and (2) subject to IEX’s anti-latency-arbitrage
+regime described above. Investors Exchange LLC; Notice of
+Filing of Proposed Rule Change to Add a New Discretionary
+Limit Order Type, Exchange Act Release No. 34-87814, 84
+Fed. Reg. 71,997 (Dec. 30, 2019).
+
+    The SEC took comments on the proposed D-Limit order
+for several months and ultimately approved it. Investors
+Exchange LLC; Order Approving a Proposed Rule Change to
+Add a New Discretionary Limit Order Type Called D-Limit,
+Exchange Act Release No. 34-89686, 85 Fed. Reg. 54,438
+(Sept. 1, 2020). Citadel Securities, a high-frequency trader and
+objecting commenter, now petitions for review.
+
+     At issue is not whether companies like Citadel may seek
+advantages in the market by using advanced technology and
+ingenious trading strategies. No one in this case has alleged
+that latency arbitrage is unlawful. The issue, instead, is
+whether the SEC may allow IEX to innovate, with the D-Limit
+order, in a way that offers new opportunities to long-term
+investors.
+
+                               II
+
+    We review the SEC’s order according to the
+Administrative Procedure Act’s “arbitrary and capricious
+standard.” Laccetti v. SEC, 885 F.3d 724, 725 (D.C. Cir.
+2018); see also 5 U.S.C. § 706(2)(A). That standard requires
+                               9
+that the SEC’s “action be reasonable and reasonably
+explained.”     Laccetti, 885 F.3d at 725.       The SEC’s
+“determinations based upon highly complex and technical
+matters are entitled to great deference.” Domestic Securities,
+Inc. v. SEC, 333 F.3d 239, 248 (D.C. Cir. 2003) (quoting
+Appalachian Power Co. v. EPA, 251 F.3d 1026, 1035 (D.C.
+Cir. 2001)). And its factual findings are conclusive if
+supported by substantial evidence. 15 U.S.C. § 78y(a)(4).
+
+     Citadel argues that the SEC lacked substantial evidence for
+one of its findings and that three of the SEC’s decisions were
+arbitrary and capricious.
+
+    We disagree.
+
+                               A
+
+     The Securities Exchange Act of 1934 states that an
+exchange’s rules may not be “designed to permit unfair
+discrimination” or impose an undue burden on competition. 15
+U.S.C. § 78f(b)(5), (8).
+
+     The SEC determined that because the D-Limit order
+benefits “all market participants” by “narrowly” targeting
+latency arbitrage, it does not unfairly discriminate against
+liquidity takers or unduly burden competition.        Order
+Approving D-Limit, 85 Fed. Reg. at 54,451.
+
+     Citadel’s first two claims concern that determination.
+According to Citadel, (1) the SEC lacked substantial evidence
+to find that the crumbling quote indicator accurately identifies
+latency arbitrage rather than normal trading activity, and (2)
+even if the crumbling quote indicator does identify latency
+arbitrage, the SEC’s conclusion that the D-Limit order
+narrowly targets latency arbitrage was arbitrary and capricious.
+                                10
+
+    Neither claim succeeds.
+
+     To start, substantial evidence supports the SEC’s finding
+that the crumbling quote indicator accurately identifies latency
+arbitrage. The crumbling quote indicator turns on for a given
+security for an average 0.007% of the trading day (about 1.64
+seconds). Id. at 54,440. But in that “very short” time, 24% of
+IEX’s displayed liquidity is traded. Id. at 54,440 n.36. That
+disparity — 24% of displayed liquidity trading in 0.007% of
+the day — is substantial evidence that short-term investors
+engage in latency arbitrage during the same “small increments
+of time” that the crumbling quote indicator turns on. Id. at
+54,442.4
+
+     That substantial evidence also resolves Citadel’s arbitrary-
+and-capricious claim. The SEC determined that, by definition,
+the D-Limit order narrowly targets latency arbitrage because
+IEX changes a price only when the crumbling quote indicator
+turns on. Id. at 54,449. Considering the “great deference” that
+we afford the SEC when making such “determinations based
+upon highly complex and technical matters,” we see nothing
+unreasonable about the SEC’s conclusion.               Domestic
+Securities, Inc., 333 F.3d at 248 (quoting Appalachian Power
+Co., 251 F.3d at 1035).
+
+    Citadel’s five counter-arguments do not convince us
+otherwise.
+
+
+4
+  Additional data from IEX similarly showed that the crumbling
+quote indicator “was on between 0.026% (for January 2020) and
+0.125% (for March 2020) of the time during regular market hours
+and the percent of displayed volume that traded when the [Indicator]
+was on during that period ranged between 22% (for March 2020) to
+24.4% (for January 2020).” Id. at 54,448 (cleaned up).
+                                 11
+     First, Citadel says that the correlation between the
+crumbling quote indicator turning on and substantial trading
+activity just shows flurries of trading, not latency arbitrage. It
+points out that normal trading activity often happens through
+large market sweeps (orders taking a security off all exchanges)
+that could turn on the crumbling quote indicator. See JA 372.
+
+     But trading during the two-millisecond moments that the
+crumbling quote indicator is on requires either incredible
+chance or incredible technological advantages that permit
+timing orders down to the microsecond. The SEC reasonably
+concluded that the latter explanation is correct — the
+crumbling quote indicator is unlikely to affect normal trading
+activity during the “small part of the day” that it is on because,
+as “dozens of commenters” stated, only a small set of high-
+frequency traders have the technological ability to target those
+precise moments. Order Approving D-Limit, 85 Fed. Reg. at
+54,446. And to the extent that traders worry that a large market
+sweep might trigger the crumbling quote indicator, the SEC
+stated that those traders “can, and generally do, account for this
+fact” by sending orders to IEX a hair sooner than they send
+orders to other exchanges so that the orders hit all the
+exchanges in the same instant and avoid triggering the
+crumbling quote indicator. Id. at 54,441.5
+
+5
+  Citadel asserts that the SEC didn’t support its conclusion that such
+routing practices are “commonplace.” Id. But the SEC pointed out
+that accounting for the speedbump is no different than accounting for
+other geographical distances between exchanges, and it relied on
+commenters’ statements that accounting for such differences is
+common and feasible. Id. Further, no commenter stated that it could
+not use such routing strategies. And sending orders so that they
+arrive at IEX at the same moment that they arrive at other exchanges
+would not “preference” IEX as Citadel contends because the orders
+would not reach IEX first; they would arrive at the same time that
+they arrive at other exchanges. Id.
+                               12
+     Second, Citadel argues that the crumbling quote indicator
+fails to accurately identify latency arbitrage because it catches
+the orders that Citadel makes “on behalf of retail investors”
+who ask Citadel to trade securities for them. Id. at 54,440 n.38.
+But the SEC pointed out that Citadel does not directly route a
+retail “customer’s order to exchanges, but rather is, for
+example, buying shares for its own account and selling shares
+to the customer.” Id. That means Citadel still controls the
+timing and routing methods of those orders. And that in turn
+allows those orders to employ latency arbitrage tactics as much
+as any other orders.
+
+    Third, Citadel asserts that IEX misclassified it as a
+“proprietary” trading firm, which is a firm with an incentive to
+use high-frequency trading technology, and that the SEC
+improperly relied on that misclassification to determine that the
+crumbling quote indicator identifies latency arbitrage.
+
+     But even if Citadel is right about its misclassification, the
+misclassification was not essential to the SEC’s decision. The
+already-discussed evidence was sufficient to support the SEC’s
+conclusions, and the SEC noted that IEX produced data that
+excluded trades from Citadel but still equally exhibited the D-
+Limit order’s narrow tailoring. See id. We thus need not
+address this dispute. See Indiana Municipal Power Agency v.
+FERC, 56 F.3d 247, 256 (D.C. Cir. 1995) (“we will sustain an
+agency decision resting on several independent grounds if any
+of those grounds validly supports the result, unless there is
+reason to believe the combined force of the otherwise
+independent grounds influenced the outcome” (cleaned up)).
+
+     Fourth, Citadel tries to analogize this case to Susquehanna
+International Group, LLP v. SEC, which held that an SEC
+order was arbitrary and capricious because of its
+“unquestioning” reliance on the conclusions of the regulated
+                               13
+party. 866 F.3d 442, 448 (D.C. Cir. 2017). The SEC, however,
+did no such thing here. IEX and many commenters provided
+ample data showing the D-Limit order’s effect. The SEC then
+took that data, analyzed it for itself, and reasonably concluded
+that the D-Limit order benefits “all market participants” by
+thwarting latency arbitrage. Order Approving D-Limit, 85 Fed.
+Reg. at 54,444.
+
+     Fifth and finally, Citadel argues that the SEC “ignored” the
+possibility that other exchanges will adopt D-Limit orders. The
+SEC explained, though, that “[t]o the extent that another
+exchange seeks to adopt its own . . . D-Limit order type, the
+Commission would . . . consider whether the new proposal is
+narrowly tailored to achieve its stated objectives and consistent
+with the Exchange Act and the rules and regulations
+thereunder.” Id. at 54,446 n.114. That explanation is adequate
+because the SEC has “no obligation to hypothesize about future
+regulations.” Taxpayers of Michigan Against Casinos v.
+Norton, 433 F.3d 852, 864 (D.C. Cir. 2006).
+
+     For all those reasons, the SEC’s determination that the D-
+Limit order does not violate the Exchange Act by unfairly
+discriminating or unduly burdening competition was
+reasonable and supported by substantial evidence.
+
+                               B
+
+    Before the proceedings in this case, the SEC rejected a
+proposal by Cboe EDGA Exchange, Inc., which had sought to
+impose an all-day, four-millisecond delay on incoming
+communications from liquidity takers, but not to similarly
+delay incoming messages from liquidity providers. That would
+have given liquidity providers a window to update their bids
+and offers while liquidity takers’ orders were still traversing
+Cboe’s speedbump. In this case, commenters suggested to the
+                                14
+SEC that its rejection of Cboe’s proposal should govern its
+decision on IEX’s D-Limit order proposal. The SEC, however,
+concluded that its past rejection of Cboe’s proposal did not
+control its decision on IEX’s D-Limit order because the two
+proposals differed substantially. Order Approving D-Limit, 85
+Fed. Reg. at 54,450.
+
+     We have held that “when departing from precedents or
+practices, an agency must offer a reason to distinguish them or
+explain its apparent rejection of their approach.” Physicians
+for Social Responsibility v. Wheeler, 956 F.3d 634, 644 (D.C.
+Cir. 2020) (cleaned up).
+
+     That’s what happened here. The SEC distinguished its
+Cboe decision by explaining that Cboe had not produced
+evidence of latency arbitrage on its exchange. Order
+Approving D-Limit, 85 Fed. Reg. at 54,450. In contrast, IEX
+produced that evidence. As set forth above, 24% of displayed
+liquidity on IEX trades in 0.007% of the trading day. Id. at
+54,440 n.36.
+
+     Further, the SEC noted that Cboe’s proposed delay (1) was
+four milliseconds long; (2) applied asymmetrically to liquidity
+providers and takers; and (3) allowed liquidity providers to
+manually reprice their bids and offers during the entire trading
+day. Id. at 54,449-50. IEX’s delay, by contrast, (1) is 350
+microseconds long, which is approximately 1/11th the length
+of Cboe’s delay; (2) applies to incoming communications from
+both liquidity providers and takers; and (3) permits D-Limit
+orders to automatically reprice, which occurs during just
+0.007% of the trading day. Id. at 54,438, 54,440.6
+
+
+6
+  Citadel says that IEX’s proposal itself applies asymmetrically to
+liquidity providers and takers. But even if Citadel is correct, the
+                                  15
+
+     Those differences show that IEX’s delay targets latency
+arbitrage more narrowly than did Cboe’s proposal. And it was
+reasonable for the SEC to conclude that the differences show
+that IEX’s proposal does not unfairly discriminate in the way
+that Cboe’s did. Instead, IEX’s proposal benefits “all market
+participants.” Id. at 54,449.7
+
+   The SEC thus did not arbitrarily change course from its
+Cboe decision.
+
+                                   C
+
+     As stated, for a bid or offer to qualify as a protected
+quotation under Regulation NMS, it must be “automated.” 17
+C.F.R. § 242.600(b)(70). And to be automated, it must execute
+“[i]mmediately and automatically.” Id. § 242.600(b)(6).
+
+
+
+
+other differences between IEX’s and Cboe’s proposals are enough to
+distinguish them from each other.
+7
+  Citadel says that the SEC has contradicted its statement in the Cboe
+decision that “a market participant’s ability to . . . alter its trading
+strategies in response to” a proposed speedbump “does not, by itself,
+demonstrate that the proposal would not permit unfair
+discrimination.” Cboe EDGA Exchange, Inc.; Order Disapproving
+Proposed Rule Change to Introduce a Liquidity Provider Protection
+Delay Mechanism on EDGA, Exchange Act. Release No. 34-88261,
+85 Fed. Reg. 11426, 11,435 (Feb. 27, 2020). Here, though, the SEC
+did not determine that traders’ abilities to route orders so as not to
+turn on IEX’s crumbling quote indicator was “by itself” sufficient to
+assuage discrimination concerns. Traders’ abilities to use smart
+routing strategies was just one factor, along with the SEC’s
+determination that the crumbling quote indicator narrowly targets
+latency arbitrage.
+                              16
+    The SEC determined that D-Limit orders can qualify as
+protected quotations because they execute immediately and
+automatically. Order Approving D-Limit, 85 Fed. Reg. at
+54,447. Citadel argues that this conclusion was arbitrary and
+capricious.
+
+    We again disagree.
+
+    To begin, the SEC concluded that every part of a D-Limit
+order’s operation is automatic, and Citadel offers no serious
+reason to question the reasonableness of that conclusion. IEX’s
+process involves no manual discretion. Instead, during the
+0.007% of the day that the crumbling quote indicator is on, D-
+Limit orders re-price according to a publicly available formula
+and then execute if able. Id. at 54,445.
+
+     Citadel’s immediacy argument is more plausible but
+ultimately unpersuasive. In 2016, the SEC interpreted
+Regulation NMS’s immediacy requirement to allow for “an
+intentional access delay that is de minimis — i.e., a delay so
+short as to not frustrate the purposes of Rule 611 by impairing
+fair and efficient access to an exchange’s quotations.”
+Commission Interpretation Regarding Automated Quotations
+Under Regulation NMS, Exchange Act Release No. 34-78102,
+81 Fed. Reg. 40,785, 40,792 (June 23, 2016). The SEC then
+applied that interpretation here to determine that the D-Limit
+order executes immediately. Order Approving D-Limit, 85
+Fed. Reg. at 54,447.
+
+     In both normal and legal parlance, the word “immediate”
+means “[o]ccurring without delay.” Immediate, Black’s Law
+Dictionary (8th ed. 2004). But as the SEC reasonably found,
+an order can be executed “immediately” even if it is subject to
+a de minimis delay. Cf. Wisconsin Department of Revenue v.
+William Wrigley, Jr., Co., 505 U.S. 214, 231 (1992) (“the
+                               17
+venerable maxim de minimis non curat lex (‘the law cares not
+for trifles’) is part of the established background of legal
+principles against which all enactments are adopted, and which
+all enactments (absent contrary indication) are deemed to
+accept”). Something is “de minimis” if it is “[t]rifling” or “so
+insignificant that a court may overlook it in deciding an issue
+or case.” De minimis, Black’s Law Dictionary (8th ed. 2004).
+To spin off an example put forth by Citadel’s counsel at oral
+argument, imagine a mother tells her daughter, Annie, to clean
+her room “immediately.” If Annie picks up a book and reads
+it before cleaning her room, then she disobeys her mother’s
+command. But if Annie instead just blinks her eyes once more
+than necessary before starting to clean, she does not violate that
+command because her delay is de minimis. The SEC’s
+conclusion that mere de minimis delays do not cause an order
+to violate Regulation NMS’s immediacy requirement was
+therefore reasonable.
+
+      Now, what’s trifling or insignificant in one context might
+be major in another, especially when talking about something
+like a delay. For instance, a one-second delay during a cruise
+across the Atlantic may be de minimis, but a one-second delay
+during a 100-yard dash is enormous. Compare 16 U.S.C.
+§ 1854(a)(5) (“For purposes of this subsection and subsection
+(b), the term ‘immediately’ means on or before the 5th day after
+the day on which a Council transmits to the Secretary a fishery
+management plan”), with 7 C.F.R. § 65.180 (“Imported for
+immediate slaughter means . . . consignment directly from the
+port of entry to a recognized slaughtering establishment and
+slaughtered within 2 weeks from the date of entry.”).
+
+     In approving IEX’s D-Limit order type — displayed
+orders subject to the speedbump and the crumbling quote
+indicator — the SEC reasonably applied its established
+interpretation of Regulation NMS. It found that D-Limit orders
+                                18
+execute “immediately” because they are subject to only a de
+minimis delay that does “not frustrate the purposes of Rule 611
+by impairing fair and efficient access to IEX’s quotation[s].”
+Order Approving D-Limit, 85 Fed. Reg. at 54,441, 54,447.
+Given the record before us, we see no reason to disrupt the
+SEC’s decision.
+
+     Consider first the length of the delay: a mere 350
+microseconds — or approximately eleven times as fast as
+Annie’s blink. Consider next that a D-Limit order’s delay is
+similar to the delay that traders’ communications already
+experience when traveling between various other exchanges
+across the country. In essence, IEX just operates as though it’s
+thirty-eight miles farther from the traders than it actually is. Id.
+at 54,441. Finally, as the SEC pointed out, IEX “is not
+introducing any new delay or modifying its speed bump in
+connection with D-Limit orders.” Id. at 54,447. D-Limit
+orders will take no longer to execute than other orders that
+execute “immediately” on IEX despite having to traverse the
+speedbump, which predates the advent of IEX’s D-Limit order.
+Taking those considerations together, we conclude that the
+SEC’s determination that the D-limit orders are subject to
+nothing more than a de minimis delay was not arbitrary and
+capricious.
+
+    In response, Citadel makes three points.
+
+     First, Citadel argues that even if D-Limit orders should
+ultimately qualify as protected quotations, the SEC failed to
+adequately explain its decision. We agree that the SEC was
+curt with its explanation in a section labeled “Automated
+Quotes and Rule 611.” Id. But that section refers to Section
+III.A of the same order, in which the SEC fully explained that
+D-Limit orders execute immediately and automatically. The
+SEC also pointed back to the SEC’s 2016 interpretive rule,
+                               19
+permitting exchanges to impose a de minimis delay on
+incoming communications. Because of those cross references,
+the SEC adequately explained its decision.
+
+      Second, Citadel argues that because the delay that IEX
+imposes on D-Limit orders is intentional, D-Limit orders do
+not execute immediately, no matter how small the delay is. But
+“immediately” describes a matter of time, not intent. An
+exchange without any intent to delay orders could nonetheless
+fail to offer immediate order execution through something like
+inadvertent computer glitches. (Likewise, Annie could get sick
+and fail to immediately clean her room; no matter how
+excusable or unintentional that delay may have been, she didn’t
+clean the room immediately.) And on the flip side, an exchange
+with every intent of delaying communications to its exchange
+still offers immediate execution if the delay it imposes is so
+small that it fails to impede fair and efficient market access
+(much like Annie’s eye blink did not delay her cleaning, no
+matter how intentional the blink may have been).
+
+     Third, Citadel argues that the delay for the D-Limit is not
+de minimis because it has a substantial effect on the market
+— it thwarts 24% of trades for displayed liquidity (as the SEC
+stated over and over again). But those affected trades aren’t a
+normal part of the market. The SEC reasonably determined
+that those trades, by and large, involve latency arbitrage tactics
+that actually harm the market. Order Approving D-Limit, 85
+Fed. Reg. at 54,451. Under that view, they are less like an
+actual trade than a surcharge imposed on market participants
+by short-term investors. So regardless of how many trades the
+D-Limit order may affect, the SEC still reasonably concluded
+that it will not hinder fair and efficient market access. Instead,
+it will help the market by combating latency arbitrage.
+                            20
+
+                        *   *    *
+
+     Because substantial evidence supported the SEC’s
+findings and because the SEC’s conclusions were reasonable
+and reasonably explained, we deny Citadel’s petition for
+review.
+
+                                               So ordered.
+

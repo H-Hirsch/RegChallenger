@@ -1,0 +1,787 @@
+Case: 24-30170       Document: 90-1      Page: 1    Date Filed: 07/15/2025
+
+
+
+
+        United States Court of Appeals
+             for the Fifth Circuit
+                             ____________                        United States Court of Appeals
+                                                                          Fifth Circuit
+
+                                                                        FILED
+                               No. 24-30170                         July 15, 2025
+                             ____________
+                                                                   Lyle W. Cayce
+Seville Industries, L.L.C.,                                             Clerk
+
+
+                                                        Plaintiff—Appellant,
+
+                                   versus
+
+United States Small Business Administration; Isabella
+Casillas Guzman; Janet Yellen,
+
+                                        Defendants—Appellees.
+               ______________________________
+
+               Appeal from the United States District Court
+                  for the Western District of Louisiana
+                        USDC No. 6:22-CV-6229
+               ______________________________
+
+Before Clement, Oldham, and Wilson, Circuit Judges.
+Andrew S. Oldham, Circuit Judge:
+       Seville Industries challenges the Small Business Administration’s de-
+cision not to forgive the entirety of its PPP loan. The question presented is
+whether the CARES Act’s definition of “payroll costs” entitles businesses
+to count money paid to independent contractors. It does not, so we affirm.
+Case: 24-30170        Document: 90-1       Page: 2     Date Filed: 07/15/2025
+
+
+
+
+                                  No. 24-30170
+
+
+                                       I
+                                       A
+                                       1
+       Congress enacted the Small Business Act of 1953 in Title II of a
+broader statute. See Pub. L. No. 83-163, 67 Stat. 230, 232 (1953) (codified as
+amended at 15 U.S.C. §§ 631 et seq.). In 1958, Congress turned Title II into
+the freestanding Small Business Act. See Pub. L. No. 85-536, 72 Stat. 384
+(1958). The Small Business Act established the Small Business Administra-
+tion (“SBA”). See 15 U.S.C. § 633(a). The SBA’s statutory purpose is to
+“aid, counsel, assist, and protect insofar as is possible the interests of small-
+business concerns in order to preserve free competitive enterprise.” SBA v.
+McClellan, 364 U.S. 446, 447 (1960) (quoting 67 Stat. at 232).
+       The SBA’s main way of aiding small businesses is by financing and
+guaranteeing private loans. See 15 U.S.C. § 636(a). These so-called “Section
+7(a) loans”—named for the provision’s original location in the Small Busi-
+ness Act, see 72 Stat. at 387—are the SBA’s “flagship loan program.”
+Robert Jay Dilger, Cong. Rsch. Serv., R41146, Small Busi-
+ness Administration 7(a) Loan Guaranty Program 1 (2020),
+https://perma.cc/S22J-5LGS. Typically, the SBA “prefers to guarantee
+private loans rather than to disburse funds directly” to businesses. United
+States v. Kimbell Foods, Inc., 440 U.S. 715, 719 n.3 (1979) (citing 15 U.S.C.
+§ 636(a)(2)). In practice, this means the SBA guarantees a portion of a small-
+business loan that is issued and serviced by a private lender. If the small busi-
+ness defaults, then the SBA is required to “purchase its portion of the
+outstanding balance, upon demand” by the private lender. 13 C.F.R.
+§ 120.2(a)(2) (2025). These “SBA-backed loans make it easier for small
+businesses” to “get funding by setting guidelines for loans and reducing
+
+
+
+
+                                       2
+Case: 24-30170       Document: 90-1       Page: 3    Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+lender risk.” Loans, U.S. Small Bus. Admin., https://perma.cc/T8TJ-
+SY3N.
+        The SBA also has rulemaking power. See 15 U.S.C. § 634(b). The
+Small Business Act authorizes the SBA Administrator to “make such rules
+and regulations as he deems necessary to carry out the authority vested in
+him by or pursuant to this chapter.” Id. § 634(b)(6). The Act further author-
+izes the Administrator to “take any and all actions . . . when he determines
+such actions are necessary or desirable in making, servicing, compromising,
+modifying, liquidating, or otherwise dealing with or realizing on loans made
+under the provisions of this chapter.” Id. § 634(b)(7).
+                                      2
+        In March 2020, “the COVID-19 pandemic ground economic activity
+across the country to a near standstill.” Ramey & Schwaller, LLP v. Zions
+Bancorporation NA, 71 F.4th 257, 258 (5th Cir. 2023). In response, on March
+27, Congress enacted the Coronavirus Aid, Relief, and Economic Security
+Act (“CARES Act”), Pub. L. No. 116-136, 134 Stat. 281 (2020). The
+CARES Act provided trillions of dollars in emergency assistance to Ameri-
+cans. Among other things, it aimed “to help small businesses keep workers
+employed during the crisis,” Ramey & Schwaller, 71 F.4th at 258, by provid-
+ing forgivable, low-interest, federally guaranteed loans to “keep employees
+on the payroll,” Camelot Banquet Rooms, Inc. v. SBA, 24 F.4th 640, 644 (7th
+Cir. 2022).
+        The CARES Act aimed to protect payrolls by creating the Paycheck
+Protection Program (“PPP”). See Pub. L. No. 116-136, §§ 1102, 1106, 134
+Stat. at 286 (Title I—Keeping American Workers Paid and Employed Act).
+Congress “assigned [the PPP’s] implementation” to the SBA. Ramey &
+Schwaller, 71 F.4th at 258. The PPP authorized the SBA to “guarantee cov-
+ered loans under the same terms, conditions, and processes as a loan made
+
+
+
+
+                                      3
+Case: 24-30170        Document: 90-1       Page: 4    Date Filed: 07/15/2025
+
+
+
+
+                                  No. 24-30170
+
+
+under” the usual Section 7(a) mechanism. 15 U.S.C. § 636(a)(36)(B). Two
+additional features of the PPP are relevant here. First, § 1102 of the CARES
+Act expanded the SBA’s Section 7(a) loan program. See id. § 636(a)(36).
+Second, § 1106 of the CARES Act provided for the forgiveness of these
+government-guaranteed loans issued under the PPP.
+       First, just like regular Section 7(a) loans, “PPP loans were made by
+participating private lenders but guaranteed by the federal government.”
+Ramey & Schwaller, 71 F.4th at 258. But unlike ordinary Section 7(a) loans,
+PPP loans were available not only to small businesses but also to independent
+contractors, sole proprietors, and other eligible self-employed individuals.
+See 15 U.S.C. § 636(a)(36)(D)(i), (ii). The PPP expanded the eligibility for a
+small business to include any eligible entity with 500 employees or fewer.
+Compare 13 C.F.R. § 121.301(a), with 15 U.S.C. § 636(a)(36)(D)(i). And it ex-
+panded the number of qualified lending institutions beyond the preexisting
+Section 7(a) lenders. See id. § 636(a)(36)(F)(iii).
+       The PPP allowed eligible applicants to borrow money up to a “maxi-
+mum loan amount” using a formula based on its “payroll costs incurred” the
+previous year, in all events capped at $10 million. Id. § 636(a)(36)(E). That
+key term, “payroll costs,” is statutorily defined: “[T]he term ‘payroll costs’
+. . . means . . . the sum of payments of any compensation with respect to
+employees . . . and . . . the sum of payments of any compensation to or
+income of a sole proprietor or independent contractor that is a wage, com-
+mission, income, net earnings from self-employment, or similar compensa-
+tion.” Id. § 636(a)(36)(A)(viii). Once obtained, PPP loan proceeds could be
+used only for specified expenses such as payroll, mortgage interest, rent, util-
+ities, and various employee benefits. Id. § 636(a)(36)(F)(i). Ultimately, the
+PPP made “$659 billion of government-guaranteed loans available to quali-
+fied small businesses.” In re Hidalgo Cnty. Emergency Serv. Found., 962 F.3d
+838, 840 & n.1 (5th Cir. 2020).
+
+
+
+                                       4
+ Case: 24-30170         Document: 90-1         Page: 5      Date Filed: 07/15/2025
+
+
+
+
+                                     No. 24-30170
+
+
+        Second, PPP loans are generally forgivable in whole or in part. See gen-
+erally 15 U.S.C. § 636m. PPP borrowers are eligible for loan forgiveness in
+an amount equal to the costs they incurred on the specified expenses. See id.
+§ 636m(b)(1)–(8). To secure forgiveness, PPP borrowers must specify “the
+number of full-time equivalent employees on payroll and pay rates” and cer-
+tify that, inter alia, “the amount for which forgiveness is requested was used
+to retain employees.” Id. § 636m(e)(1), (3). 1 But the statute limits the
+amount of loan forgiveness available in a few ways. See id. § 636m(d). For
+example, the amount of forgiveness cannot exceed the loan principal. See id.
+§ 636m(d)(1). The amount of forgiveness is reduced proportionately with
+how much a PPP borrower reduced the number of employees on its payroll.
+See id. § 636m(d)(2). And the amount of forgiveness is reduced by the
+amount the PPP borrower cut its employees’ wages beyond 25 percent. See
+id. § 636m(d)(3).
+        To ensure speedy administration of the PPP during the early stages
+of the pandemic, the CARES Act required the SBA to implement the pro-
+gram within 15 days of the Act’s enactment. See id. § 9012; see also In re Gate-
+way Radiology Consultants, P.A., 983 F.3d 1239, 1262 (11th Cir. 2020)
+(describing this timeframe as “practically warp speed for regulatory
+action”). To achieve that speed, Congress gave the SBA emergency rule-
+making authority exempted from the usual notice-and-comment require-
+ments of the APA. See 15 U.S.C. § 9012.
+
+
+
+
+        _____________________
+        1
+         Note that “payroll costs” has the same statutory definition for loan forgiveness
+as it does for determining the maximum loan amount in the first instance. 15 U.S.C.
+§ 636m(a)(12) (cross-referencing id. § 636(a)(36)).
+
+
+
+
+                                           5
+Case: 24-30170       Document: 90-1       Page: 6    Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+                                      3
+       Under that emergency rulemaking authority, the SBA issued an
+interim final rule implementing the PPP within its 15-day deadline. See 85
+Fed. Reg. 20811, 20811 (Apr. 15, 2020) (codified at 13 C.F.R. pt. 120)
+(“IFR”). The IFR was posted on the SBA and Treasury websites on April
+2, 2020; was effective April 15, 2020; and applied to PPP applications
+through June 30, 2020, or until PPP funds were exhausted. See ibid. The IFR
+explained the PPP loan eligibility and application requirements to potential
+borrowers and detailed the responsibilities of private lenders under the
+streamlined PPP process. Id. at 20812–16.
+       Relative to the typical Section 7(a) loan process, that streamlined pro-
+cess simplified the lenders’ underwriting obligations. See id. at 20815. It
+allowed private lenders “to rely on certifications of the borrower in order to
+determine eligibility” and “specified documents provided by the borrower
+to determine qualifying loan amount and eligibility for loan forgiveness.” Id.
+at 20812. And in addition to all preexisting Section 7(a) lenders, the IFR
+authorized new qualified lenders to make PPP loans, including all “federally
+insured depository institution[s]” and “federally insured credit union[s].”
+Id. at 20815.
+       Given the hurry to get cash in workers’ hands during those early days
+of the pandemic, the IFR ensured applicants were “informed o[f] how to
+apply for a loan and the terms of the loan . . . as soon as possible.” Id. at
+20811. The IFR explained that the maximum loan amount would be “calcu-
+late[d] using a payroll-based formula specified in the Act” as discussed
+above. Id. at 20812. It clarified that “[p]ayroll costs consist of compensation
+to employees” in various forms and, “for an independent contractor or sole
+proprietor,” they consist of “wages, commissions, income, or net earnings
+from self-employment.” Id. at 20813. It told applicants that independent
+
+
+
+
+                                      6
+ Case: 24-30170        Document: 90-1       Page: 7   Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+contractors “do not count for purposes of a borrower’s PPP loan calcula-
+tion” because they “have the ability to apply for a PPP loan on their own.”
+Ibid. Same for loan forgiveness. Id. at 20814. And the IFR emphasized the
+CARES Act’s “overarching focus on keeping workers paid and employed.”
+Ibid.
+        The PPP’s rapid implementation and reliance on self-certification in
+the early days of the pandemic made it a target for fraud. A July 2021 GAO
+report noted that the program had “limited . . . safeguards” that “resulted in
+improper payments and fraud risks.” Gov’t Accountability Off.,
+Paycheck Protection Program: SBA Added Program
+Safeguards, But Additional Actions Are Needed 2 (2021),
+https://perma.cc/74MC-535D. Relying on its power under 15 U.S.C.
+§ 634(b)(6), (7), and (11) to audit and investigate compliance with the Act
+and its regulations, the SBA launched a system of PPP loan review via
+interim final rule. See 85 Fed. Reg. 33010 ( June 1, 2020). Under that system,
+the SBA would deny a PPP borrower’s loan forgiveness application if it
+determined that the borrower was ineligible for the PPP loan amount in the
+first place. Id. at 33012.
+                                      B
+        Seville Industries, LLC is based in Abbeville, Louisiana. It provides
+“products, services, and work crews to businesses operating in the oil and
+gas sector.” ROA.143. Seville employed 58 W-2 employees and 111 inde-
+pendent contractors when the COVID-19 pandemic started.
+        On April 7, 2020, Seville applied for a PPP loan from Loan Source
+Inc., an SBA-approved private lender. On its application, Seville stated that
+it had 53 employees and an average monthly payroll of $1,271,193. This
+
+
+
+
+                                        7
+ Case: 24-30170          Document: 90-1         Page: 8       Date Filed: 07/15/2025
+
+
+
+
+                                      No. 24-30170
+
+
+apparently yielded a loan amount of $2,578,351. 2 The payroll calculation on
+Seville’s application included compensation it paid to independent contrac-
+tors, whom it did not count among its “employees.” Two days later, the
+SBA approved Seville’s PPP application, and on April 17, Loan Source dis-
+bursed the money to Seville.
+        Just over a year later, in August 2021, Seville applied for full forgive-
+ness of its PPP loan. Three days later, the SBA notified Loan Source that it
+was reviewing Seville’s PPP loan because the maximum loan for 53 employ-
+ees should have been $1,104,149—about $1.5 million less than Seville had
+received. It requested a copy of Seville’s loan application along with support-
+ing documentation and analysis. That September, the SBA requested addi-
+tional information. After getting it in February 2022, the SBA notified Loan
+Source that it was considering a full denial of Seville’s PPP loan forgiveness
+application because Seville included payments to independent contractors in
+its calculation of payroll costs.
+        On March 28, 2022, the SBA issued to Seville its PPP Final SBA
+Loan Review Decision. The SBA determined that Seville was entitled only
+to partial forgiveness for the amount of the PPP loan based on money paid to
+employees rather than to independent contractors. The next day, the SBA
+reimbursed Seville $687,508.64 in principal and $13,392.29 in interest.
+        Seville appealed the SBA’s decision to the SBA Office of Hearings
+and Appeals (“OHA”). The OHA denied the appeal. Seville petitioned for
+reconsideration, which the OHA also denied.
+        In December 2022, Seville timely appealed the SBA’s final agency
+decision to the Western District of Louisiana. See 13 C.F.R. § 134.1211(g)
+        _____________________
+        2
+        Although not at issue in this litigation, the amount calculated for Seville’s total
+PPP loan was incorrect in a few respects, which Seville admits.
+
+
+
+
+                                            8
+Case: 24-30170          Document: 90-1       Page: 9   Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+(“Final decisions may be appealed to the appropriate Federal district court
+only.”); Seville Indus. LLC v. U.S. Small Bus. Admin., No. 22-CV-06229,
+2024 WL 697592, at *3 (W.D. La. Feb. 20, 2024). The district court granted
+summary judgment to the SBA. Id. at *8.
+       Seville timely appealed to our court. Our review is de novo. Loper Bright
+Enters. v. Raimondo, 603 U.S. 369, 400 (2024).
+                                      II
+       The question in this case is whether the CARES Act’s reference to
+“payroll costs,” 15 U.S.C. § 636(a)(36)(A)(viii), allowed Seville to borrow a
+federally guaranteed loan for $1.5 million at 1 percent interest on the basis of
+money it paid to independent contractors, spend not a single cent of it on
+keeping independent contractors working during the pandemic, and then
+have those loans forgiven on the back end. The answer is no. That conclusion
+is supported by (A) the statute’s text and structure and (B) the statutory
+scheme more generally. (C) Seville’s contrary reading is unpersuasive.
+                                       A
+       “In matters of statutory interpretation, text is always the alpha” and
+“omega.” In re DeBerry, 945 F.3d 943, 947 (5th Cir. 2019). Here is the oper-
+ative statutory text:
+
+
+
+
+                                         9
+Case: 24-30170       Document: 90-1         Page: 10   Date Filed: 07/15/2025
+
+
+
+
+                                   No. 24-30170
+
+
+       The term “payroll costs”--
+       (I) means--
+          (aa) the sum of payments of any compensation with
+               respect to employees that is a--
+               (AA) salary, wage,           commission,    or   similar
+                    compensation;
+               (BB) payment of cash tip or equivalent;
+               (CC) payment for vacation, parental, family, medical,
+                    or sick leave;
+               (DD) allowance for dismissal or separation;
+               (EE) payment required for the provisions of group
+                    health care or group life, disability, vision, or
+                    dental insurance benefits, including insurance
+                    premiums;
+               (FF) payment of any retirement benefit; or
+               (GG) payment of State or local tax assessed on the
+                    compensation of employees; and
+          (bb) the sum of payments of any compensation to or
+               income of a sole proprietor or independent contractor
+               that is a wage, commission, income, net earnings from
+               self-employment, or similar compensation and that is
+               in an amount that is not more than $100,000 on an
+               annualized basis, as prorated for the period during
+               which the payments are made or the obligation to
+               make the payments is incurred[.]
+15 U.S.C. § 636(a)(36)(A)(viii).
+       The provision’s “text and structure . . . indicate that the language
+preceding the em dash[] distributes throughout the statutory sentence.”
+United States v. Palomares, 52 F.4th 640, 650 (5th Cir. 2022) (Oldham, J.,
+concurring). So the phrase “the term ‘payroll costs’ means” distributes to
+
+
+
+
+                                       10
+Case: 24-30170       Document: 90-1         Page: 11    Date Filed: 07/15/2025
+
+
+
+
+                                  No. 24-30170
+
+
+“every item on the ensuing list.” Pulsifer v. United States, 601 U.S. 124, 134
+(2024). The provision thus reads:
+       (aa) [The term “payroll costs” means] the sum of payments of
+             any compensation with respect to employees . . . ; and
+       (bb) [The term “payroll costs” means] the sum of payments of
+            any compensation to or income of a sole proprietor or in-
+            dependent contractor that is a wage, commission, in-
+            come, net earnings from self-employment, or similar
+            compensation.
+15 U.S.C. § 636(a)(36)(A)(viii) (emphasis added).
+       The statute therefore tells us what “‘payroll costs’ . . . means” for
+businesses with employees and for independent contractors. “Means,” of
+course, indicates a definition. See Mean, Webster’s New Inter-
+national Dictionary 1519 (2d ed. 1934; 1950) (“Webster’s
+Second”) (“To have in mind as the object, application, signification, or
+the like.”). So for businesses or other organizations with a traditional payroll,
+subsection (aa) defines “payroll costs” as “the sum of payments of any
+compensation with respect to employees” such as wages, tips, leave,
+severance,     insurance,     and     retirement       benefits.   15    U.S.C.
+§ 636(a)(36)(A)(viii)(aa). “[A]nd” for entities without traditional payrolls,
+such as an independent contractor or sole proprietor, subsection (bb) defines
+“payroll costs” as “the sum of payments of any compensation to or income
+of a sole proprietor or independent contractor that is a wage, commission,
+income, net earnings from self-employment, or similar compensation.” Id.
+§ 636(a)(36)(A)(viii)(bb).
+       Subsection (bb) therefore defines payroll costs as the money earned by
+independent contractors or sole proprietors, not as the money paid to them
+by businesses. True, “in a vacuum,” Weyerhaeuser Co. v. U.S. Fish & Wildlife
+Serv., 586 U.S. 9, 20 (2018) (quotation omitted), a business like Seville could
+
+
+
+
+                                       11
+Case: 24-30170        Document: 90-1          Page: 12    Date Filed: 07/15/2025
+
+
+
+
+                                   No. 24-30170
+
+
+read “compensation to” as a reference to its outflow payments to independ-
+ent contractors. But, as the SBA urges, the phrase “compensation to or
+income of a sole proprietor or independent contractor” is “most naturally
+read as a single integrated element,” Red Br. at 25, referring to all the
+amounts earned by a self-employed person. That phrase’s immediate “sur-
+rounding context,” Diaz v. United States, 602 U.S. 526, 536 (2024), confirms
+that interpretation: The terms “wage, commission, income, net earnings
+from self-employment, or similar compensation” are all ways of capturing
+money earned by a self-employed person, not money spent by the business
+who hired him. See Fischer v. United States, 603 U.S. 480, 487 (2024)
+(explaining that “the canon of noscitur a sociis teaches that a word is given
+more precise content by the neighboring words with which it is associated”
+(quotation omitted)).
+       Consider also the article in the phrase “a sole proprietor or independ-
+ent contractor,” and contrast that with subsection (aa)’s reference to “com-
+pensation with respect to employees.” 15 U.S.C. § 636(a)(36)(A)(viii)(aa),
+(bb) (emphases added); see also Life Techs. Corp. v. Promega Corp., 580 U.S.
+140, 151 (2017) (explaining the statutory distinction between “singular” and
+“plural” terms). That deliberate difference further confirms that subsection
+(aa) encompasses one business’s payments out to multiple employees while
+subsection (bb) describes the eligible money coming in for a single loan appli-
+cant who is self-employed. That distinction is hard to reconcile with the
+reality that a business can hire many independent contractors for any number
+of discrete or irregular tasks, as Seville in fact did.
+       The ordinary meaning of “payroll costs” supports this reading too.
+See Delligatti v. United States, 145 S. Ct. 797, 808 (2025) (“When choosing
+among interpretations of a statutory definition, the ‘ordinary meaning’ of the
+‘defined term’ is an important contextual clue.” (quoting Bond v. United
+States, 572 U.S. 844, 861 (2014))). “Payroll” has consistently referred to a
+
+
+
+                                         12
+Case: 24-30170       Document: 90-1        Page: 13   Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+business’s regular employees who receive paychecks at regular intervals, not
+to independent contractors or others that the business may hire for a singular
+task or discrete set of jobs. See, e.g., Payroll, Black’s Law Dictionary
+(12th ed. 2024) (“The total compensation payable to a company’s employees
+for one pay period.”). But see Independent Contractor, Black’s Law
+Dictionary (12th ed. 2024) (“Someone who is entrusted to undertake a
+specific project but who is left free to do the assigned work and to choose the
+method for accomplishing it.”). True, subsection (bb) expands the tradi-
+tional meaning of payroll costs so that self-employed individuals can also
+apply for paycheck protection under the CARES Act. But an emergency
+provision giving novel protections to self-employed individuals does not
+expand the ordinary meaning of payroll costs for traditionally structured busi-
+nesses—a meaning reflected in the enumerated costs of subsection (aa).
+                                      B
+       Our interpretation of “payroll costs” comports with the rest of the
+CARES Act’s statutory scheme. See Turkiye Halk Bankasi A.S. v. United
+States, 598 U.S. 264, 275 (2023) (“[T]he Court must read the words
+Congress enacted in their context and with a view to their place in the overall
+statutory scheme.” (quotation omitted)). That scheme presupposes that
+businesses cannot count payments to independent contractors (or sole pro-
+prietors) as payroll costs. Thus, Seville’s interpretation introduces many
+asymmetries and incongruities with other provisions in the CARES Act. See
+Jones v. Hendrix, 599 U.S. 465, 479 (2023) (“We generally resist attributing
+to Congress an intention to render a statute so internally inconsistent.” (quo-
+tation omitted)). Two bear emphasis.
+       First, the statute excludes from payroll costs “compensation of an
+employee whose principal place of residence is outside of the United States.”
+15 U.S.C. § 636(a)(36)(A)(viii)(II)(cc). But the statute does not make the
+
+
+
+
+                                      13
+Case: 24-30170       Document: 90-1        Page: 14    Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+same exclusion for payments to sole proprietors and independent contrac-
+tors. Though not impossible, it would be freakish for the statute—which was
+aimed at “help[ing] small businesses keep workers employed during the
+crisis,” Ramey & Schwaller, 71 F.4th at 258—to exclude foreign resident
+employees but include foreign resident independent contractors. Seville has
+no explanation for that asymmetry. Instead, the commonsense reading is that
+the statute does not exclude payments to foreign resident independent con-
+tractors because it does not contemplate including payments to any inde-
+pendent contractors at all.
+       Second, the reading we adopt also squares with the conditions of the
+loan forgiveness program. The amount of forgiveness to which a PPP bor-
+rower is entitled is based on its payroll costs. See 15 U.S.C. § 636m(b)(1). The
+forgiveness provision incentivizes businesses to use at least some PPP money
+to keep their employees on the payroll, as opposed to using it all on mortgage
+interest or rent. To do so, the statute proportionately limits the amount of
+loan forgiveness available to a business based on its “reduction in number of
+employees,” id. § 636m(d)(2), or cuts it made to the “salary or wages of any
+employee” beyond 25 percent, id. § 636m(d)(3)(A). In other words, if small
+businesses fired too many employees or reduced wages during the pandemic,
+then the amount of their PPP loans eligible for forgiveness is reduced.
+       But the statute provides no corresponding limitation for cuts to inde-
+pendent contractors. Again, Seville has no explanation for this incongruity.
+It would make no sense for the statute to provide PPP loans at the outset
+based on a business’s outflows to independent contractors, but then give full
+forgiveness on that borrowed money even if the business fired every single
+independent contractor. In fact, that is what happened here. At oral argu-
+ment, Seville’s counsel admitted that, out of the $1.5 million Seville bor-
+rowed based on its payments to independent contractors the previous year,
+
+
+
+
+                                      14
+Case: 24-30170          Document: 90-1         Page: 15   Date Filed: 07/15/2025
+
+
+
+
+                                     No. 24-30170
+
+
+it spent precisely $0 on keeping independent contractors working during the
+pandemic. Oral Arg. at 11:15–30.
+                                         C
+          Seville’s contrary interpretation is unpersuasive. Seville accepts, as it
+must, that subsection (bb) authorizes independent contractors to apply for
+their own loans. It nevertheless maintains that money spent on independent
+contractors could also be added to a business’s payroll costs along with the
+items listed in subsection (aa). The SBA’s interpretation, it alleges, improp-
+erly reads “and” to mean “or . . . in the so-called ‘distributive’ sense.” Blue
+Br. at 19. Seville therefore reads “and” to denote the arithmetical addition of
+subsections (aa) and (bb). Thus, Seville would rewrite § 636(a)(36)(A)(viii)
+to say:
+          The term “payroll costs”--
+          (I) means [the sum of]--
+             (aa) the sum of payments of any compensation with
+                  respect to employees . . . ; and
+             (bb) the sum of payments of any compensation to or in-
+                  come of a sole proprietor or independent contractor[.]
+But “and” cannot bear that weight in this statute. Cf. Palomares, 52 F.4th at
+649 (Oldham, J., concurring) (“We do the law a disservice when we suggest
+that textualist exegeses are reducible to . . . hyper-literalist readings of the
+word and.”). That is for five reasons.
+          First, as we have explained, the most natural reading reflects that
+Congress chose a two-part structure that distributes the word “means”
+across (aa) and (bb), providing two separate definitions of “payroll costs” for
+two different types of applicants. For businesses with traditional payrolls,
+subsection (aa) tells it what kinds of outflows it can count. For self-employed
+individuals, subsection (bb) tells it what kind of inflows it can count.
+
+
+
+
+                                          15
+Case: 24-30170       Document: 90-1         Page: 16   Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+       Second, Seville has no theory for what the word “means” does in the
+statute. “Means” does not denote numerical addition; it provides a defini-
+tion. A dictionary will tell you that “iris” means (1) the goddess of the rain-
+bow in the Iliad, (2) a rainbow, (3) “a rainbowlike play of colors,” (4) part of
+the eyeball, (5) a notable asteroid in the asteroid belt, (6) a type of flower,
+(7) a “color, reddish-blue in hue,” (8) a type of quartz, (9) a filmmaking
+device, (10) a photography device, and (11) a part of a butterfly. Iris,
+Webster’s Second at 1310. But that is not to say that “iris” means the
+summation, addition, or total of a goddess, a rainbow, an asteroid, a flower, a
+filmmaking device, a butterfly, &c. Multiple definitions instead communicate
+that a phrase has different meanings in different situations. So too here.
+       Third, Congress knew how to say “the sum of ” in the CARES Act
+when it wanted to. The first example is staring us in the face: Subsections (aa)
+and (bb) both tell applicants to calculate “the sum of ” their elements. The
+CARES Act is chock full of other examples. For example, look at 15 U.S.C.
+§ 636(a)(36)(E)(i)(I). There, Congress directed that a PPP borrower’s
+maximum loan amount be calculated as “the sum of ” items (aa) (payroll
+costs multiplied by 2.5) and (bb) (existing disaster-relief loan balance).
+Similarly, the maximum loan amount for a farmer or rancher without employ-
+ees is calculated as “the sum of ” items (aa) (2019 monthly gross income mul-
+tiplied by 2.5) and (bb) (existing disaster-relief loan balance). Id.
+§ 636(a)(36)(V)(ii)(I). And Congress specified the PPP loan forgiveness
+amount would be calculated as the “the sum of ” a list of enumerated
+expenses. Id. § 636m(b)(1)–(8). Try as it might, Seville cannot write the
+words “the sum of ” into § 636(a)(36)(A)(viii)(I), which instead states only
+that “payroll costs” “means” (aa) and (bb). That omission shows borrowers
+are not supposed to sum up (aa) and (bb).
+       Fourth, if Congress wanted businesses to sum the elements of (aa)
+with the elements of (bb), why break subsection (I) into (aa) and (bb) at all?
+
+
+
+                                       16
+Case: 24-30170       Document: 90-1        Page: 17   Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+To communicate that meaning, the more natural organization would have
+been a single list of items constituting “payroll costs”—including employee
+payroll and payments to independent contractors—that every applicant
+(whether a business or self-employed individual) could add to its sum if
+applicable. Such a list would not need to repeat the phrases “wage,”
+“commission,” and “similar compensation” across subsections (aa) and
+(bb). Nor would it cap payments to employees and independent-contractor
+income in two separate sections, even though the cap is the same amount.
+Compare id. § 636(a)(36)(A)(viii)(II)(aa) (capping payroll costs attributed to
+the “compensation of an individual employee” at $100,000), with id.
+§ 636(a)(36)(A)(viii)(I)(bb) (capping payroll costs countable by self-
+employed applicants at $100,000). Seville’s interpretation explains none of
+this.
+        Fifth and finally, Seville’s reading creates a “double dipping” prob-
+lem. Seville Indus., 2024 WL 697592, at *6. No one disputes that both small
+businesses and independent contractors could apply for PPP loans on their
+own. See 15 U.S.C. § 636(a)(36)(D)(i), (ii). But if both applied and small
+businesses could count in their “payroll costs” what they paid to independ-
+ent contractors, that would “permit[] small businesses and their contractors
+to count the same amounts twice to obtain multiple loans.” Seville Indus.,
+2024 WL 697592, at *6. There is no principled reason to think Congress
+meant to double count money spent on independent contractors, especially
+in a statute that is otherwise rigorous about avoiding duplication. See 15
+U.S.C. § 636(a)(36)(A)(viii)(II)(dd), (ee) (excluding from payroll costs sick
+and family leave wages that are already entitled to tax credits); id.
+§ 636(a)(36)(G)(i)(IV) (requiring PPP loan applicants to certify that they
+have “not received amounts under this subsection for the same purpose and
+duplicative of amounts” already “applied for or received”).
+
+
+
+
+                                      17
+Case: 24-30170       Document: 90-1        Page: 18   Date Filed: 07/15/2025
+
+
+
+
+                                 No. 24-30170
+
+
+       Seville argues that § 636(a)(36)(G)(i)(IV) solves its double dipping
+problem because it stops a small business and an independent contractor
+from borrowing based on the same payments. Not so. This provision requires
+each applicant to certify that it has not received a PPP loan already, not that
+no one else has. But even if the provision did apply in the way Seville
+contends, then a small business’s loan based on what it paid to independent
+contractors would prevent those independent contractors from getting their
+own loans. That would be absurd: It would mean independent contractors
+would get no funds at all. No interpretation could be more “illogical,” Jones,
+599 U.S. at 480, or make less sense of the CARES Act.
+       In short, the statutory text, structure, and context all foreclose
+Seville’s reading of the CARES Act.
+                                     III
+       We also reject Seville’s two other claims.
+       First, Seville claims the IFR changed the meaning of “payroll costs.”
+It did not; the term always excluded payments to independent contractors.
+The IFR was an interpretive rule that merely “advise[d] the public of the
+agency’s construction of the statutes and rules which it administers.” Perez
+v. Mortg. Bankers Ass’n, 575 U.S. 92, 97 (2015) (quotation omitted). So the
+SBA’s decision not to forgive Seville’s loan is “no more retroactive in its
+operation than is a judicial determination construing and applying a statute
+to a case in hand.” Manhattan Gen. Equip. Co. v. Comm’r of Internal Revenue,
+297 U.S. 129, 135 (1936).
+       Second, Seville’s equitable estoppel claim fails too. As an initial mat-
+ter, Seville did not bring this claim in its complaint, so it was forfeited.
+Regardless, even assuming equitable estoppel could run against the Govern-
+ment, see Heckler v. Cmty. Health Servs. of Crawford Cnty., Inc., 467 U.S. 51,
+60 (1984) (leaving the issue open); Knapp v. U.S. Dep’t of Agric., 796 F.3d
+
+
+
+
+                                      18
+Case: 24-30170       Document: 90-1          Page: 19   Date Filed: 07/15/2025
+
+
+
+
+                                   No. 24-30170
+
+
+445, 461 (5th Cir. 2015) (same), “claims for estoppel” against the Govern-
+ment “cannot be entertained where public money is at stake,” Off. of Person-
+nel Mgmt. v. Richmond, 496 U.S. 414, 427 (1990). But even if it could bring an
+equitable estoppel claim, Seville has not come close to showing “affirmative
+misconduct by the [G]overnment.” Knapp, 796 F.3d at 461. Rather, it just
+disagrees (incorrectly) with the SBA about the meaning of “payroll costs.”
+And it is far from clear that receiving a $1.5 million loan at 1 percent inter-
+est—far more than Seville was even entitled to—is a “substantial injury.”
+Ibid.
+        In any event, the notion that Seville had the rug pulled from under it
+is untenable. Consider Seville’s PPP application form. It asked Seville to pro-
+vide its average monthly payroll and number of employees, and it required
+Seville to “certify in good faith” that it would “verify[] the number of full-
+time equivalent employees” on its “payroll.” ROA.605. It required Seville
+to certify that it “underst[oo]d that loan forgiveness w[ould] be provided for
+the sum of documented payroll costs.” Ibid. The form’s instructions listed
+what expenses could be included in payroll costs, and it provided a different
+list “for an independent contractor or sole proprietor.” ROA.606. Nowhere
+did this form indicate that Seville could count what it paid to independent
+contractors.
+                               *        *         *
+        A careful, commonsense reading of the CARES Act shows that
+Congress’s design for the PPP was clear: “Payroll costs” do not include pay-
+ments that small businesses made to independent contractors. The statute
+made low-interest loans available during the pandemic for small businesses
+to maintain their payrolls and for independent contractors to make up lost
+income. On the front end, Seville improperly counted its payments to
+
+
+
+
+                                        19
+Case: 24-30170      Document: 90-1        Page: 20   Date Filed: 07/15/2025
+
+
+
+
+                                No. 24-30170
+
+
+independent contractors and borrowed too much money. Come forgiveness
+season, only the loans based on genuine payroll costs shall be redeemed.
+      AFFIRMED.
+
+
+
+
+                                     20
+

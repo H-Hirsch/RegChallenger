@@ -1,0 +1,604 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 10, 2024                 Decided July 9, 2024
+
+                        No. 21-1272
+
+              DUKE ENERGY PROGRESS, LLC,
+                      PETITIONER
+
+                             v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+                 EDGECOMBE SOLAR LLC,
+                      INTERVENOR
+
+
+
+       Consolidated with 22-1072, 22-1284, 22-1327
+
+
+          On Petitions for Review of Orders of the
+          Federal Energy Regulatory Commission
+
+
+    Misha Tseytlin argued the cause for petitioner. With him
+on the briefs were Christopher R. Jones, Antonia M. Douglas,
+and Kevin M. LeRoy.
+
+     Jennifer T. Harrod and Robert B. Josey were on the brief
+for amici curiae North Carolina Utilities Commission and the
+Public Staff - North Carolina Utilities Commission in support
+of petitioner. Louis S. Watson, Jr. entered an appearance.
+                                2
+
+    Beth G. Pacella, Deputy Solicitor, Federal Energy
+Regulatory Commission, argued the cause for respondent.
+With her on the brief were Matthew R. Christiansen, General
+Counsel, and Robert H. Solomon, Solicitor.
+
+    Tyler O’Connor argued the cause for intervenor. With him
+on the brief were Holly Rachel Smith and Larry F. Eisenstat.
+Amanda S. Berman entered an appearance.
+
+   Before: WILKINS and CHILDS, Circuit Judges, and
+EDWARDS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge CHILDS.
+
+     CHILDS, Circuit Judge. Petitioner, Duke Energy Progress,
+LLC (“Duke Energy”), seeks review of two orders by the
+Federal Energy Regulatory Commission: (1) rejecting its
+agreement with an energy generation company, American
+Beech Solar, LLC, and (2) accepting its agreement with
+another energy generation company, Edgecombe Solar LLC,
+which Duke Energy filed unsigned and under protest. Under
+both contracts, the generators would pay Duke Energy to
+perform network upgrades enabling them to connect new
+generation facilities to the electric grid. But the first agreement
+does not require Duke Energy to reimburse the cost of those
+upgrades, while the second does. Because we hold that
+FERC’s orders were not “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law,” 5 U.S.C.
+§ 706(2)(A), we deny the petitions for review.
+                               3
+                                   I.
+
+                                   A.
+
+     Most electricity in the eastern United States is transmitted
+on a single grid. That grid is subdivided into regions, each
+administered by a nonprofit “System Operator” that monitors
+the flow of electricity to ensure, among other things, an
+adequate supply of electricity and grid stability. Within each
+region, sections of the grid’s physical infrastructure are owned
+by “Grid Operators,” typically public utilities, that connect
+electricity generation facilities to the grid and transmit the
+electricity. The generation facilities connected to a Grid
+Operator’s infrastructure may be owned by the Grid Operator
+itself or by third parties.
+
+     The transmission of electricity in interstate commerce is
+governed by the Federal Power Act, 16 U.S.C. § 824(b), which
+requires the Federal Energy Regulatory Commission (the
+“FERC”) to ensure that the price of electricity is just,
+reasonable, and not unduly discriminatory or preferential. 16
+U.S.C. § 824d(a), (b). Among the transactions that FERC
+regulates is the connection of a new generation facility to the
+physical infrastructure owned by a Grid Operator. FERC
+promulgated Order 2003 (along with Orders 2003-A, 2003-B,
+and 2003-C) to establish “standard procedures and a standard
+agreement for interconnecting [large] generators” to
+jurisdictional public utilities’ transmission systems.
+Standardization of Generator Interconnection Agreements &
+Procedures, Order No. 2003, 104 FERC ¶ 61,103 at PP 1, 7
+(2003) (“Order 2003”), order on reh’g, Order No. 2003-A, 106
+FERC ¶ 61,220 (2004) (“Order 2003-A”), order on reh’g,
+Order No. 2003-B, 109 FERC ¶ 61,287 (2004) (“Order 2003-
+B”), order on reh’g, Order No. 2003-C, 111 FERC ¶ 61,401
+                               4
+(2005) (“Order 2003-C”), aff’d sub nom; see also Ameren
+Servs. Co. v. FERC, 880 F.3d 571, 574 (D.C. Cir. 2018).
+
+     Under these standard procedures, a generator must request
+FERC’s approval to connect a new generation facility to the
+grid. Ameren Servs. Co., 880 F.3d at 572. The System
+Operator for the relevant grid section will then determine if any
+Grid Operator needs to upgrade its infrastructure to handle the
+increased flow of electricity from the new generation facility.
+Id. Importantly, upgrades may be needed on a section of the
+grid to which the generator will directly connect and on other
+more distant sections of the grid. See Order No. 2003 at n.32.
+Order 2003 uses different terminology to refer to the owners of
+directly connected sections (“Transmission Providers”) and the
+owners of other sections (“Affected System Operators”).
+
+     Most of the relevant procedures in Order 2003 relate to the
+obligations between generators and Transmission Providers.
+For example, the standard procedures include a standard
+contract—the pro forma Long Term Interconnection
+Agreement (“pro forma Agreement”)—that applies between a
+generator and the Transmission Provider to whose system it
+proposes to directly connect. Order 2003, Appendix C. If
+upgrades are needed, Order 2003 and the pro forma Agreement
+require the generator to pay initial upgrade costs and the
+Transmission Provider to then reimburse the generator in
+installments. Order 2003, Appendix C § 11.4.1.
+
+     This dispute is about whether that reimbursement
+requirement also applies when connecting a new generation
+facility makes network upgrades by an Affected System
+Operator necessary.
+
+   When subject to Order 2003’s standard procedures, a Grid
+Operator (whether a Transmission Provider or Affected System
+Operator) can only avoid following such procedures if FERC
+                               5
+approves a request for a deviation. Xcel Energy Servs. Inc. v.
+FERC, 41 F.4th 548, 552 (D.C. Cir. 2022). To obtain a
+deviation, a Grid Operator must show that the standard
+procedures would unduly affect its existing customers by
+submitting a transmission rate filing that “explain[s] the facts
+of the case and the assumptions on which its calculation is
+based and provide[s] evidentiary support.” Order No. 2003-B
+at P 56.
+
+                                   B.
+
+     The key players in this dispute are an Affected System
+Operator, Duke Energy, and two energy generation companies,
+American Beech Solar, LLC (“American Beech”) and
+Edgecombe Solar LLC (“Edgecombe”). Duke Energy owns a
+section of the grid within the Mid-Atlantic region. American
+Beech and Edgecombe proposed to connect new large solar
+generating facilities onto a neighboring section of the grid,
+which would require $20-30 million in network upgrades to
+Duke Energy’s system. In the two FERC proceedings before
+us, the parties dispute whether Duke Energy must reimburse
+the generators for the cost of those network upgrades.
+
+     The first proceeding involves American Beech’s proposed
+interconnection. Duke Energy and American Beech executed
+an Affected System Operating Agreement under which
+American Beech would not seek reimbursement for the
+network upgrade costs (the “American Beech Agreement”).
+[JA4-82]. After Duke Energy submitted the agreement to
+FERC for approval, American Beech submitted comments to
+FERC urging it to require reimbursement anyway. Duke
+Energy Progress, Comments of American Beech Solar, Docket
+No. ER21-1955 [JA95-96]. American Beech argued that the
+agreement was not just and reasonable because Duke Energy
+had threatened to delay construction of the upgrades,
+                               6
+preventing American Beech from connecting to the grid, unless
+American Beech agreed to forego reimbursement. Id.
+Edgecombe moved to intervene in support of American
+Beech’s argument that FERC’s rules require Duke Energy to
+pay reimbursement. See Duke Energy Progress, Motion to
+Intervene and Comments of Edgecombe Solar Energy LLC,
+Docket No. ER21-1955 [JA83]; Duke Energy Progress,
+Motion for Leave to Answer and Answer of Edgecombe Solar
+Energy LLC, Docket No. ER21-1955 [JA246].
+
+     FERC agreed and rejected the American Beech
+Agreement. See Duke Energy Progress, Order Rejecting
+Affected System Operator Agreement, Docket No. ER21-
+1955-002, 177 FERC ¶ 61,001 (Oct. 1, 2021) (“October 1st
+Order”) [JA196]. FERC held that reimbursement was required
+under Order 2003. Id. at P 3. [JA197]. Responding to Duke
+Energy’s argument that it had not always required
+reimbursement in the past, FERC explained that many of the
+prior contracts that Duke Energy identified were
+distinguishable because they involved, among other things,
+costs that were directly assignable to a generator under Duke
+Energy’s Tariff. Id. at P 37 & n.62 [JA210]. FERC explained
+that even if it had erroneously not required reimbursement in a
+few prior cases, it was still bound to follow the requirements of
+Order 2003. FERC also rejected Duke Energy’s arguments that
+it was entitled to a deviation, explaining that Duke Energy
+failed to support its generalized statement of harm with a
+sufficient factual record or show why the circumstances made
+it unjust for Duke’s transmission customers to pay the costs of
+network upgrades. Id. at P 34 [JA208-09]. FERC directed
+Duke Energy to submit a new agreement that provided for
+reimbursement payments. Id. at P 41 [JA211] (“Finally, we
+are concerned with the delays that American Beech will
+experience as a result of [Duke Energy]’s actions with respect
+to this agreement. . . . Thus, we urge [Duke Energy] to file a
+                               7
+revised [agreement] and commence construction of the
+required network upgrades expeditiously.”).
+
+     In the second proceeding, American Beech had abandoned
+its proposed connection, so Edgecombe stepped in to request
+that Duke Energy install the same upgrades to accommodate
+Edgecombe’s proposed facility. Duke Energy submitted to
+FERC a new agreement with Edgecombe providing for the
+required reimbursements (the “Edgecombe Agreement”).
+[JA275]. But Duke Energy submitted the agreement unsigned
+and under protest that it should not be required to pay
+reimbursements. [JA275].
+
+     FERC approved the Edgecombe Agreement. See Duke
+Energy Progress, Docket No. ER22-1807, 180 FERC ¶ 61,005
+(July 5, 2022); Duke Energy Progress, Notice of Denial of
+Rehearing by Operation of Law and Providing for Further
+Consideration, Docket No. ER22-1807-001, 180 FERC ¶
+62,114 (Sept. 6, 2022); Duke Energy Progress, Order
+Addressing Arguments Raised on Rehearing, Docket No.
+ER22-1807-001, 181 FERC ¶ 61,197 (Dec. 13, 2022)
+(“December 13th Order”). In its orders approving the
+Edgecombe Agreement, FERC explained that “the arguments
+that Duke raises for the first time in its Request for Rehearing
+were previously raised in the separate American Beech
+proceedings in Docket No. ER21-1955. Consequently, the
+Commission has already explained why Duke’s arguments are
+without merit, and we adopt the reasoning in the October 2021
+Order and April 2022 Rehearing Order in this order.”
+December 13th Order at P 29. [JA428].
+
+    Duke Energy seeks review of FERC’s orders in both
+proceedings.
+                               8
+                                   II.
+
+     Before reaching the merits, we reject FERC’s two
+threshold objections that: (1) Duke Energy’s petitions for
+review as to the American Beech Agreement are moot and (2)
+Duke Energy failed to preserve its arguments as to the
+Edgecombe Agreement.
+
+                                   A.
+
+     A controversy is not moot if the court’s decision would
+“affect the rights of the litigants.” Chamber of Com. of U.S. v.
+EPA, 642 F.3d 192, 199 (D.C. Cir. 2011) (citations omitted).
+Here, our decision in the American Beech proceeding will
+affect Duke Energy’s right to enter into an Affected System
+Operator Agreement without reimbursement. Duke Energy
+explains that it filed the Edgecombe Agreement pursuant to
+FERC’s instructions in the American Beech proceeding; it filed
+the agreement unsigned and subject to its objection that
+reimbursement should not be required. FERC has not walked
+back its instruction for Duke Energy to enter into a new
+Affected System Operator Agreement, and it continues to
+maintain that Duke Energy’s new Affected System Operator
+Agreement must provide for reimbursement. If Duke Energy
+were to prevail on the merits, and the Court were to reverse or
+vacate FERC’s order rejecting the American Beech
+Agreement, Duke Energy could withdraw the Edgecombe
+Agreement. Reply Br. 29. And it could refuse to enter into
+another Affected System Operator Agreement that provided for
+reimbursement. Thus, Duke Energy’s petition for review of the
+American Beech Order is not moot.
+
+                                   B.
+
+     Duke Energy has also adequately preserved its objections
+to the Edgecombe Agreement. Under FERC’s precedent, it
+                              9
+“will reject new arguments on rehearing that could have been
+made originally.” La. Pub. Serv. Comm’n v. Entergy Corp.,
+172 FERC ¶ 61,056, at P 38 (2020). Because Duke Energy did
+not raise its objection to the reimbursement requirement in the
+Edgecombe proceeding until its motion for rehearing, FERC
+argues that those arguments have been forfeited. But the
+precedent on which FERC relies is inapt.
+
+     This case is not one in which new arguments or evidence
+presented on rehearing raise concerns of “fairness and due
+process.” See, e.g., Omaha Pub. Power Dist., 164 FERC ¶
+61,238, at P 11 (2018). The American Beech proceeding arose
+directly from the Edgecombe proceeding, and Duke Energy
+made clear in its Edgecombe filings that it continued to press
+its earlier objections. When FERC rejected Duke Energy’s
+agreement with American Beech, it directed Duke Energy to
+file a new agreement that provided for reimbursement. See
+October 1st Order at P 41 [JA211] (“urg[ing]” Duke Energy
+“to file a revised [Agreement] and commence construction of
+the required network upgrades expeditiously.”). In response,
+Duke Energy submitted the unsigned Edgecombe contract
+under protest. In the letter accompanying its Edgecombe filing,
+Duke Energy raised its objection to reimbursement: “[Duke
+Energy] has not executed the [Edgecombe Agreement] because
+it objects to the inclusion of the reimbursement provisions for
+the costs of network upgrades.” Duke Energy Progress,
+Unexecuted Affected System Operating Agreement with
+Edgecombe Solar LLC, Transmittal Letter, Docket No. ER22-
+1807-000 (May 6, 2022). [JA275]. In the letter, Duke Energy
+also referenced FERC’s decision on reimbursement in the
+American Beech proceedings. Id. Moreover, Edgecombe was
+already aware of Duke Energy’s arguments because it filed
+motions responding to those arguments in the American Beech
+proceedings. See Duke Energy Progress, LLC, Motion to
+                                10
+Intervene and Comments of Edgecombe Solar Energy LLC,
+Docket No. ER21-1955-000 (June 10, 2021) [JA83].
+
+      Finally, FERC’s argument that the two proceedings should
+be treated separately because they address different filings and
+were assigned different FERC docket numbers is undermined
+by the fact that FERC itself treated the proceedings as
+connected. In FERC’s order approving the Edgecombe
+Agreement, it relied on its orders rejecting the American Beech
+Agreement, with no additional case-specific analysis,
+explaining that: “All of the arguments that Duke raises for the
+first time in its Request for Rehearing were previously raised
+in the separate American Beech proceedings . . . the
+Commission has already explained why Duke’s arguments are
+without merit, and we adopt the reasoning in [the American
+Beech orders].” December 13th Order at P 29. [JA428].
+
+                                  III.
+
+     Turning now to the merits, we review FERC’s orders
+under the Administrative Procedure Act and will “hold
+unlawful and set aside agency action, findings, and conclusions
+found to be . . . arbitrary, capricious, an abuse of discretion, or
+otherwise not in accordance with law.” 5 U.S.C. § 706(2)(A);
+see also LSP Transmission Holdings II v. FERC, 45 F.4th 979,
+998 (D.C. Cir. 2022). We hold that FERC’s orders did not
+violate this standard.
+
+                                  A.
+
+    FERC was not arbitrary and capricious in holding that
+Order No. 2003 requires Affected System Operators to
+reimburse generators for network upgrade costs to the Affected
+System Operator’s system.
+                              11
+     As previously mentioned, supra 4, most provisions of
+Order 2003 and the pro forma Agreement relate to interactions
+between a generator (like American Beech or Edgecombe) and
+Transmission Provider (with which the generator proposes to
+directly connect). But two relevant provisions of Order 2003’s
+preamble address Affected System Operators (like Duke
+Energy) directly.
+
+    First, Order 2003 requires that: “Transmission credits are
+to be paid to the [generator] when upgrades to an Affected
+System are constructed and the [generator] has paid for them.”
+Order 2003 at P 29.
+
+       Second, Order 2003 addresses commenters’ concerns
+that transactions between a generator and an Affected System
+Operator are not covered by the pro forma Agreement. Id. at
+P 736. When connecting a new generation facility will require
+upgrades to an Affected System, Order 2003 states “[the pro
+forma Agreement] . . . should . . . expressly allow for refunds
+to be provided to [a generator] when such Network Upgrades
+must be constructed and the [generator] is required to pay for
+them.” Id. at P 738. In such a situation, Order 2003 makes the
+pro forma Agreement “applicable to all jurisdictional Affected
+System Operators on whose systems Network Upgrades are
+constructed to accommodate [a generator’s] Interconnection
+Request.” Id. “[T]his means that . . . an Affected System
+Operator may require the [generator] to pay for . . . Network
+Upgrades,” but “upon commencement of commercial
+operation, any Affected System Operator that has received
+payments from the [generator] must begin to refund to the
+[generator] the costs of Network Upgrades that the [generator]
+has paid.” Id. And this refund requirement applies “without
+regard to whether the [generator] has contracted for delivery
+service on the Affected System Operator’s Transmission
+System.” Id. The reimbursement requirement is reiterated in
+                                12
+the following paragraph, which explains that the generator and
+Affected System Operator “must enter into an agreement” and
+that the agreement “must specify the terms governing . . . the
+payment of refunds.” Order 2003 at P 739. FERC, therefore,
+amended Article 11.4.1 of the pro forma Agreement to require
+that a generator “shall be entitled to a cash refund, equal to the
+total amount paid to the Transmission Provider and the
+Affected System Operator, if any, for the Network Upgrades.”
+Order 2003, Appendix C, § 11.4.1.
+
+     Together, FERC claims, these provisions require a
+generator and an Affected System Operator to enter into an
+agreement addressing network upgrades to the Affected
+System. That agreement—whether or not it is otherwise
+modeled on the pro forma Agreement—must contain the
+reimbursement requirement contained in Article 11.4.1. Resp.
+Br. at 35-36. We defer to FERC’s interpretation of its own
+ambiguous regulation, so long as the interpretation is
+reasonable and “the character and context of the agency
+interpretation entitles it to controlling weight.” Kisor v. Wilkie,
+139 S. Ct. 2400, 2415-16 (2019).
+
+     Here, the text is not at odds with FERC’s interpretation.
+Order 2003’s preamble states that the reimbursement
+requirement applies to agreements between generators and
+Affected System Operators. Language in the preamble of a
+rule is a valid “source of evidence concerning
+contemporaneous agency intent,” Wyoming Outdoor Council
+v. U.S. Forest Serv., 165 F.3d 43, 53 (D.C. Cir. 1999), such that
+it can “establish rights and obligations or create binding legal
+consequences,” Nat. Res. Def. Council v. EPA, 571 F.3d 1245,
+1252 n.2 (D.C. Cir. 2009) (cleaned up). See also Kennecott
+Utah Copper Corp. v. Dep’t of Interior, 88 F.3d 1191, 1223
+(D.C. Cir. 1996) (explaining that preamble language has
+                              13
+independent legal effect when an agency intends to bind either
+itself or regulated parties).
+
+     FERC’s reading that the reimbursement requirement
+applies to Affected System Operators also finds support in
+Order 2003-C, which states that “both the Transmission
+Provider and an Affected System Operator must provide the
+20-year lump-sum reimbursement to refund any remaining
+balance, even if no transmission service was taken.” Order
+2003-C at P 13. Indeed, Duke Energy has several Affected
+System Operator Agreements providing for reimbursement.
+See, e.g., Duke Energy Progress, Docket No. ER17-567 (Jan.
+13, 2017); see also Motion to Dismiss and Answer of Duke
+Energy Progress, LLC, Duke Energy Carolinas, LLC, and
+Duke Energy Florida, LLC, Docket No. EL21-73-000, at 19
+(June 1, 2021) (“The Duke Companies do not dispute that—
+absent mutual agreement to address Affected System Network
+Upgrade costs in an alternative manner approved by the
+Commission—Order No. 2003 requires Affected System
+Operators to reimburse [generators] for Affected System
+Network Upgrade costs they pay upfront.”).
+
+     Duke Energy’s response that it is not subject to the
+reimbursement requirement because it is not a party to a pro
+forma Agreement with either Edgecombe or American Beech
+is beside the point. Duke Energy points to language in Order
+2003 that “the owner or operator of an Affected System is not
+bound by the provisions of the . . . [pro forma Agreement]”
+when it is a third-party non-signatory to that standard
+agreement, because “a contract cannot bind a third party that is
+not a signatory to it.” Order No. 2003, 104 FERC ¶ 61,103 at
+PP 117, 121. Duke Energy argues that only the parties to a
+contract can be bound by its terms, so Duke Energy can only
+be required to reimburse generators with which it has already
+entered into a pro forma Agreement. [Pet. Br. 49-50]. But
+                              14
+Duke Energy’s obligation to reimburse the generators does not
+arise from the pro forma Agreement. Rather, Order 2003
+requires Duke Energy to include in its Affected System
+Operator Agreements a reimbursement requirement akin to the
+one in the pro forma Agreement. Order 2003 at P 738 (making
+the reimbursement requirement “applicable to all jurisdictional
+Affected System Operators”).
+
+     Moreover, the regulatory language that Duke Energy
+highlights addresses a different requirement—for the
+coordination of interconnection studies and the timing of
+network upgrades—not reimbursement. 104 FERC ¶ 61,103 at
+P 121. After noting that the coordination requirement in the
+pro forma Agreement would not otherwise apply to upgrades
+on Affected Systems, FERC made it applicable. Id. Nothing
+about this provision undermines FERC’s argument that Order
+2003 also makes the reimbursement provision applicable to
+Affected System Operators. If anything, this provision
+provides another example of Order 2003 imposing
+requirements found in the pro forma Agreement to transactions
+that the pro forma Agreement itself does not cover.
+
+    Finally, it bears noting that Affected System Operators
+enter into Affected System Operator Agreements with
+generators, rather than the pro forma Agreement. So, if Duke
+Energy were correct that it need only reimburse generators with
+which it has executed a pro forma Agreement, the
+reimbursement requirement would essentially never apply to
+Affected System Operators—in direct contradiction of Order
+2003. Order 2003 at PP 738-39. We reject this reading of
+Order 2003.
+
+                                B.
+
+    FERC also reasonably rejected Duke Energy’s request for
+a deviation from the reimbursement requirement. Although
+                              15
+agency action is arbitrary and capricious when the agency has
+“entirely failed to consider an important aspect of the
+problem,” Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983), Duke Energy does
+not identify any important aspect of its deviation request that
+FERC failed to consider.
+
+     Duke Energy argues—for the first time in its petition to
+this Court—that a deviation is warranted because its customers
+will not receive any corresponding benefit for the $13 million
+in network upgrade costs of reimbursement. [Pet. Br. 60-61].
+FERC was not arbitrary and capricious in deciding that a
+deviation was not justified. To begin, Duke Energy did not
+argue before FERC that its customers would receive no benefit
+from the upgrades, so the agency cannot be faulted for failing
+to consider that argument.        Moreover, “the integrated
+transmission grid is a cohesive network, and thus completed
+upgrades generally benefit all transmission customers.” ESI
+Energy v. FERC, 892 F.3d 321, 325 (D.C. Cir. 2018). There is
+a rebuttable presumption that a Grid Operator’s customers will
+be benefitted by upgrades to its system: “[T]he Transmission
+Provider bears the full burden of showing that any such
+proposal is just and reasonable and not unduly discriminatory
+or preferential, and is appropriate under the circumstances.”
+Order 2003-B at P 56. Duke Energy fails to raise any specific
+facts or analysis showing why, unlike in a typical case of
+network upgrades, the upgrades in this case would not provide
+any benefit to its customers.
+
+     FERC also considered and reasonably rejected the
+American Beech Agreement as a basis for excusing Duke
+Energy from the reimbursement requirement. FERC explained
+that “American Beech had to choose between signing an
+agreement that assigned costs in contravention of Order No.
+2003-C or accepting another year of delay, a delay that has
+                              16
+challenged American Beech’s business model.” October 1st
+Order at P 41 [JA211]. Duke Energy’s power to block
+American Beech from entering the market was a reasonable
+basis for FERC to conclude that the American Beech
+Agreement was poor evidence that a deviation was justified.
+
+                                 C.
+
+     FERC’s orders in this case also did not run afoul of
+Baltimore Gas. See Baltimore Gas & Elec. Co. v. FERC, 954
+F.3d 279 (D.C. Cir. 2020) (holding that FERC cannot treat
+similarly situated utilities differently without a reasonable
+justification, even in uncontested or unreasoned orders).
+Although Duke Energy points to several cases in which FERC
+approved contracts without reimbursement, FERC adequately
+differentiated some of those cases and admitted error in others.
+FERC’s explanation for why its prior decisions violated Order
+2003 and why Order 2003 required reimbursement in this case
+satisfied Baltimore Gas’ reasonable justification requirement.
+
+     FERC distinguished several of the cases that Duke Energy
+cites in which reimbursement was not required. The two
+service agreements (Nos. 258 and 269) at issue in Duke Energy
+Fla., Docket No. ER20-2419 (Sept. 2, 2020), for instance,
+involved system protection facilities, the costs of which were
+directly assignable to [the generator] without reimbursement
+under Duke Energy’s FERC-approved tariff. October 1st
+Order at n.62 [JA210]. And Mid-American Energy Co.,
+Docket No. ER09-1654 (Oct. 22, 2009) and Midwest
+Independent Transmission System Operator, Inc., 120 FERC ¶
+61,066 (2007) involved circumstances in which the
+Commission had approved generally applicable deviations
+regarding network upgrade costs. October 1st Order at n.62
+[JA210].
+                                 17
+      FERC then conceded that some of its prior precedent, for
+example, Midwest ISO, 120 FERC ¶ 61,066, was not entirely
+consistent with its decision here. [FERC Br. 10.] But it
+explained that the requirements of Order 2003 must govern its
+decision. October 1st Order at P 37. [JA210]. FERC clarified
+its understanding of Order 2003’s requirements that
+reimbursement is required unless a Transmission Provider or
+Affected System Operator has (1) demonstrated compliance
+with a Commission-approved generally applicable deviation
+from that requirement; or (2) justified a case-specific deviation
+in the circumstances presented regarding the affected system
+operating agreement at issue. And it advised the Court that it
+will “always follow that precedent going forward.” Oral
+Argument at 49:53. Once an agency has acknowledged that
+some of its prior cases were wrongly decided, this Court’s
+precedent does not require the agency to endlessly repeat its
+error for the sake of consistency. See Chem-Haulers, Inc. v.
+ICC, 565 F.2d 728, 730 (D.C. Cir. 1977) (“The mere fact that
+the [agency] may have nodded on one occasion does not entitle
+a litigant to a repetition of its blunder . . .”); Tex. Int’l Airlines
+v. Civil Aeronautics Bd., 458 F.2d 782, 785 (D.C. Cir. 1971)
+(“Assuming that the Government made a mistake . . . in the
+application of the regulation, the law does not require the
+Government to perpetuate the mistake.”). FERC adequately
+acknowledged that its prior orders were inconsistent with its
+regulations and explained that Order 2003 requires
+reimbursement, thereby satisfying Baltimore Gas.
+
+                               *****
+
+     For the foregoing reasons, we deny the petitions for
+review.
+
+                                                        So ordered.
+

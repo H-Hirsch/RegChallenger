@@ -1,0 +1,1347 @@
+United States Court of Appeals
+
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+ 
+
+Argued April 28, 2022 Decided July 8, 2022
+No. 20-1479
+DAIKIN APPLIED AMERICAS INC. AND SUPER RADIATOR COILS
+LP,
+PETITIONERS
+
+Vv.
+
+ENVIRONMENTAL PROTECTION AGENCY,
+RESPONDENT
+
+ 
+
+On Petition for Review of a Final Rule
+of the Environmental Protection Agency
+
+ 
+
+Charles B. Rogers argued the cause for petitioners. With
+him on the briefs were M. Annie Santos, Harvey M. Sheldon,
+and Nancy Q. Burke.
+
+Martin F. McDermott, Attorney, U.S. Department of
+Justice, argued the cause for respondent. With him on the brief
+were Todd Kim, Assistant Attorney General, and Erik Swenson,
+Attorney, U.S. Environmental Protection Agency.
+
+Before: SRINIVASAN, Chief Judge, HENDERSON and
+PILLARD, Circuit Judges.
+
+Opinion for the Court filed by Circuit Judge HENDERSON.
+2
+
+KAREN LECRAFT HENDERSON, Circuit Judge: Pursuant to
+the Comprehensive Environmental Response, Compensation,
+and Liability Act of 1980 (CERCLA), 42 U.S.C. §$§ 9601-
+9675, the Environmental Protection Agency (EPA) maintains
+the National Priorities List (NPL), a list of hazardous waste
+sites that are high priorities for long-term federal remedial
+evaluation and response. See id. § 9605(a)(8)(B); 40 C.F.R.
+§ 300.5. To determine whether to list a given site, the EPA
+primarily uses the Hazard Ranking System (HRS), a set of
+comprehensive scoring points for evaluating the potential
+damage from hazardous waste releases. See 40 C.F.R. pt. 300,
+App. A (HRS). If a release exceeds a certain threshold score,
+the EPA is authorized to include the site on the NPL, beginning
+a process that may include Superfund-financed remedial
+action. Id. § 300.425(c)(1).
+
+After performing an HRS analysis of a site of groundwater
+contamination southwest of Minneapolis, Minnesota, the EPA
+determined that the HRS site score exceeded the required
+threshold for NPL listing. In its analysis, the EPA found
+observed releases of the same contaminants across a series of
+overlapping underground aquifers, the deepest of which is a
+drinking water aquifer used by residents in two cities. Two
+parts of the HRS analysis are particularly relevant to the
+petitioners’ claims. First, because several possible sources of
+contamination existed, the EPA scored the site as a “ground
+water plume with no identified source,” enabling the EPA to
+treat the plume, rather than a particular facility, as the source.
+HRS § 1.1. Second, the EPA concluded that adequate evidence
+of “aquifer interconnections” existed, allowing it to evaluate
+the aquifers as one unit. See id. §§ 3.0.1.2, 3.0.1.2.1. After
+considering and responding to comments on the HRS analysis,
+the EPA listed the site as the Highway 100 and County Road 3
+Groundwater Plume (Site). National Priorities List, 85 Fed.
+3
+
+Reg. 54,931, 51,934 (Sept. 3, 2020) (Site Listing Rule),
+reprinted in Joint Appendix (J.A.) 1-6.
+
+Petitioners Daikin Applied Americas Inc. and Super
+Radiator Coils LP, former owners of a metal fabricating facility
+that is a possible source of the contaminants, challenge the
+listing as arbitrary and capricious and unsupported by
+substantial evidence. The petitioners contend that the EPA
+arbitrarily ignored other possible sources of contamination in
+determining the site and that the EPA both ignored evidence
+disproving, and failed to provide adequate evidence of, aquifer
+interconnectivity. Because the EPA was not required to
+attribute the contamination to a specific source and adequately
+supported aquifer interconnectivity, we reject the petitioners’
+claims and deny the petition for review. They also move to
+supplement the record with evidence the EPA allegedly failed
+to consider, which motion we deny.
+
+I. BACKGROUND
+A. STATUTORY AND REGULATORY BACKGROUND
+1. CERCLA and the National Priorities List
+
+Enacted by the Congress to address the “growing problem
+of inactive hazardous waste sites throughout the United
+States,” Eagle-Picher Indus., Inc. v. EPA (Eagle-Picher IT),
+759 F.2d 922, 925 (D.C. Cir. 1985), CERCLA authorizes the
+EPA “to establish and revise annually a National Priorities List
+of known hazardous waste sites considered high priorities for
+environmental remediation,” Genuine Parts Co. v. EPA, 890
+F.3d 304, 308 (D.C. Cir. 2018) (citing 42 U.S.C.
+§ 9605(a)(8)(A)). Once a site is listed on the NPL, the EPA
+4
+
+may use Superfund! moneys to fund remedial? actions. 40
+C.F.R. § 300.425(b)(1).
+
+“The EPA’s listing a site on the NPL, however, does not
+necessarily mean it will order remedial action at that site;
+rather, it guarantees only more detailed study.” Carus Chem.
+Co. v. EPA, 395 F.3d 434, 437 (D.C. Cir. 2005) (internal
+citations omitted). Listing can “have significant adverse
+consequences for the owner of a listed property,” id.
+(consequences may include damage to business reputation or
+
+ 
+
+' CERCLA is “also known as the Superfund statute,” Add.
+Richfield Co. v. Christian, 140 S. Ct. 1335, 1345 (2020), because “it
+establishes a fund, the ‘Superfund’, to finance EPA remedial action
+on contaminated sites,” Apache Powder Co. v. United States, 968
+F.2d 66, 68 (D.C. Cir. 1992) (citing 42 U.S.C. § 9611). Initially
+financed through excise taxes on the chemical and petroleum
+industries, the Superfund is now financed by, inter alia, transfers
+from the U.S. Treasury’s General Fund and cost recovery actions
+against potentially responsible parties. Anthony A. Cilluffo and
+David M. Bearden, Cong. Rsch. Serv., IF11982, Superfund Tax
+Legislation in the 117th Congress 1 (Nov. 29, 2021). Because
+inclusion on the NPL establishes eligibility for Superfund-financed
+remedial action, 40 C.F.R. § 300.425(b)(1), NPL sites are
+“commonly known as Superfund sites.” Atl. Richfield, 140 S. Ct. at
+1346.
+
+2 CERCLA provides for removal actions and remedial actions.
+See 42 U.S.C. §§ 9601(23), 9601024). Removal actions are generally
+interim measures involving the “cleanup or removal of released
+hazardous substances from the environment.” See id. § 9601(23).
+“Remedial action” is a “permanent remedy” and is employed “‘in the
+event of a release or threatened release of a hazardous substance into
+the environment, to prevent or minimize the release of hazardous
+substances so that they do not migrate to cause substantial danger to
+present or future public health or welfare or the environment.” Id.
+§ 9601(24).
+5
+
+lower property values), and it can take decades for a site to be
+removed from the NPL. Indeed, it has been almost forty years
+since the EPA first listed the Reilly Tar & Chemical Site
+(Reilly Tar Site), an NPL site largely northwest of the plume at
+issue. See Amendment to National Oil and Hazardous
+Substance Contingency Plan; National Priorities List, 48 Fed.
+Reg. 40,658, 40,670 (Sept. 8, 1983). In essence, “the NPL is
+simply the first step in a process—nothing more, nothing less.”
+Eagle-Picher II, 759 F.2d at 932. Listing serves as “a tool for
+identifying quickly and inexpensively those sites meriting
+closer environmental scrutiny,” Wash. State Dep’t of Transp.
+v. EPA, 917 F.2d 1309, 1310 (D.C. Cir. 1990), and “does not
+determine any party’s liability for the cost of cleanup at the
+site,” Kent County v. EPA, 963 F.2d 391, 394 (D.C. Cir. 1992).
+
+2. The Hazard Ranking System
+
+CERCLA required the EPA to develop “criteria for
+determining priorities among releases or threatened releases [of
+hazardous substances] throughout the United States for the
+purpose of taking remedial action.” 42 U.S.C. § 9605(a)(8)(A).
+Pursuant to that mandate, the EPA promulgated the HRS
+regulation to screen the sites that make the NPL. See 40 C.F.R.
+§ 300.425(c)(1); see also HRS § 1.0 (“The [HRS] is the
+principal mechanism the [EPA] uses to place sites on the
+[NPL].”). The HRS lays out a “comprehensive methodology
+and mathematical model” that “quantif[ies] the environmental
+risks a site poses.” Carus Chem., 395 F.3d at 437 (quoting in
+second quotation Tex Tin Corp. v. EPA, 992 F.2d 353, 353
+(D.C. Cir. 1993)).
+
+Because the HRS scoring procedures are central to the
+petitioners’ claims, it is necessary to march through important
+6
+
+aspects of the HRS analysis regarding a groundwater®
+contamination site. The first is the relevance of classifying the
+site as a groundwater plume with no identified source.
+
+a. Observed Release, Site and Source
+
+According to the HRS, a “[s]ite” is an “[a]rea[] where a
+hazardous substance has been deposited, stored, disposed, or
+placed, or has otherwise come to be located. Such areas may
+include multiple sources and may include the area between
+sources.” HRS § 1.1. The scope of the site may expand or
+contract after listing if additional study reveals more (or less)
+expansive contamination, see Wash. State Dep’t of Transp.,
+917 F.2d at 1310 n.1, and as the EPA explained in the listing at
+issue, “[t]he NPL does not describe releases in precise
+geographical terms. . . . Indeed, the precise nature and extent of
+the site are typically not known at the time of listing.” Site
+Listing Rule, 85 Fed. Reg. at 54,932.
+
+For each site, the HRS allows the EPA to assess a site’s
+“relative degree of risk to human health and the environment,”
+42 U.S.C. § 9605(c)(1), by examining possible migration
+pathways of hazardous substances, see HRS § 2.1 (listing air,
+soil, surface water and groundwater as pathways). The EPA
+calculates a numerical score for each potentially affected
+pathway based on three factors: the (1) “likelihood of release,”
+meaning the risk that a hazardous substance “has been or will
+be released,” id. § 2.3; (2) “waste characteristics,” including
+
+ 
+
+3 “Ground water’ and ‘groundwater’ are synonymous; the
+
+spelling is...due to “ground water’ being codified as part of the
+HRS, while ‘groundwater’ is the modern spelling.” HRS Revised
+Documentation Record, Highway 100 and County Road 3
+Groundwater Plume, at 1 n.1 (Sept. 2020) (Revised Documentation
+Record), reprinted in J.A. 296-356.
+7
+
+the substance’s mobility and toxicity, id. § 2.4; and (3)
+“targets” (e.g., humans or environments) of the contamination
+associated with that pathway, id. § 2.5. Based on the evidence
+for each pathway, the EPA then “plug[s] the resulting
+individual pathway scores into a formula to obtain the site
+score.” US Magnesium, LLC v. EPA, 630 F.3d 188, 189-90
+(D.C. Cir. 2011). The site score ranges from 0 to 100, HRS
+§ 2.1.1, and a site is eligible for NPL listing if the score is over
+28.50, National Priorities List, Final Rule No. 53, 77 Fed. Reg.
+15,276, 15,278 (Mar. 15, 2012).
+
+When analyzing a groundwater pathway, the EPA assesses
+various factors for each aquifer. See HRS § 3.0 (Table 3-1).
+The likelihood of release factor for an individual aquifer” “is
+assigned the maximum value... whenever the criteria for an
+observed release are met.” Id. § 2.3 (emphasis added). The
+EPA assigns an observed release to an aquifer “by
+demonstrating that the site has released a hazardous substance
+to the aquifer,” based on either “[d]irect observation” or
+“Tc]hemical analysis.” /d. § 3.1.1. The EPA shows an observed
+release through chemical analysis by comparing groundwater
+samples. If a sample has a hazardous substance concentration
+that is “significantly above” that of a background sample, the
+EPA has established an observed release. See id.
+
+Similar to a “site,” a “[s]ource” is “[a]ny area where a
+hazardous substance has been deposited, stored, disposed, or
+placed, plus those soils that have become contaminated from
+migration of a hazardous substance.” /d. § 1.1. With one
+exception, a source does not “include those volumes
+
+ 
+
+4 An aquifer is a layer “of rock or sediment that is saturated and
+sufficiently permeable to yield economically significant quantities of
+water to wells or springs.” EPA, HRS Guidance Manual 116 (1992)
+(ARS Manual), reprinted in J.A. 546-92.
+8
+
+of... ground water...that have become contaminated by
+migration.” /d. The exception is crucial to this case: “In the case
+of ...a ground water plume with no identified source . . . , the
+plume ...may be considered a source.” Jd. According to
+longstanding EPA guidance, “a contaminated ground water
+plume can only be evaluated as a source for HRS scoring
+purposes when the original source of hazardous substances
+contributing to the plume cannot be reasonably identified.”
+EPA, Publication 9320.8-O1FS, Evaluating Ground Water
+Plumes Under the Hazard Ranking System 1 (1998).
+
+Connecting a “source” to an observed release that was
+established using chemical analysis, the EPA typically must
+show attribution—that the “significant increase” of
+contaminants comes from the site—to establish an observed
+release through chemical analysis. HRS § 3.1.1. But “when the
+source itself consists of a ground water plume with no
+identified source, no separate attribution is required.” /d.
+Accordingly, if the EPA cannot reasonably identify an original
+source of contamination, the observed releases—not a specific
+source or boundaries—define the site.
+
+b, Aquifer Interconnections
+
+The second relevant aspect of the HRS analysis is aquifer
+interconnections. Jd. § 3.0.1.2.1. An individual aquifer is
+ordinarily scored by treating it as separate from surrounding
+aquifers. See id. The EPA may, however, “[c]ombine multiple
+aquifers into a single hydrologic unit for scoring purposes if
+aquifer interconnections can be established for these aquifers.”
+Id. § 3.0.1.2. To assess interconnection, the HRS directs as
+follows:
+
+Evaluate whether aquifer interconnections
+occur within 2 miles of the sources at the site. If
+they occur within this 2-mile distance, combine
+9
+
+the aquifers having interconnections in scoring
+the site. In addition, if observed ground water
+contamination attributable to the sources at the
+site extends beyond 2 miles from the sources,
+use any locations within the limits of this
+observed ground water contamination in
+evaluating aquifer interconnections.
+
+Id. § 3.0.1.2.1. The EPA’s guidance manual for HRS scoring
+provides examples of evidence that usually establish
+interconnectivity. See generally EPA, HRS Guidance Manual
+(1992) (HRS Manual), reprinted in J.A. 546-92. Relevant
+examples include: well logs> showing there is “no continuous,
+significantly lower hydraulic conductivity layer” separating the
+aquifers; pump tests showing that withdrawing water from one
+aquifer affects water levels in another; and observed
+contamination across an aquifer boundary separating the
+aquifers within the two-mile radius. Jd. at 127. Importantly, for
+the last example, “the mechanism of vertical migration does not
+have to be defined, and the [contaminants] do not have to be
+attributable to the site being evaluated.” Hazard Ranking
+System, 55 Fed. Reg. 51,532, 51,553 (Dec. 14, 1990).
+
+After the EPA has adequate evidence of aquifer
+interconnections, it then must consider whether there are
+aquifer discontinuities. “An aquifer discontinuity occurs for
+scoring purposes only when a geologic, topographic, or other
+structure or feature entirely transects an aquifer within the
+
+ 
+
+> A well log is a “record of geologic materials with depth based
+on data obtained beneath a point on the land surface and
+representative of types, depths, and thicknesses of materials beneath
+that point. The data may represent visual observations,
+physical/chemical characterizations, and/or geophysical properties.”
+ARS Manual, supra, at 117.
+10
+
+4-mile target distance limit, thereby creating a continuous
+boundary to ground water flow within this limit.” HRS
+§ 3.0.1.2.2 (emphasis added). A boundary preventing the
+migration of groundwater is also known as an “aquitard” or
+“confining layer.” And the “target distance limit” for a
+groundwater plume with no identified source is measured from
+the center of the plume. Jd. § 3.0.1.1. The HRS directs,
+however, that “if hazardous substances have migrated across
+an apparent discontinuity within the 4-mile target distance
+limit, do not consider this to be a discontinuity in scoring the
+site.” Id. § 3.0.1.2.2.
+
+In sum, “[a]quifer interconnections cannot be assumed, but
+must be supported by evidence.” HRS Manual, supra, at 135.
+And if the EPA shows observed releases of hazardous
+substances on both sides of an apparent aquifer boundary,
+sufficient evidence for aquifer interconnection exists
+notwithstanding the boundary is an “apparent discontinuity,”
+HRS § 3.0.1.2.2, or the lack of an established migration
+mechanism between the aquifers, Hazard Ranking System, 55
+Fed. Reg. at 51,553.
+
+B. FACTUAL AND PROCEDURAL BACKGROUND
+1. History of the Site
+
+The Site covers two Minnesota cities, St. Louis Park and
+Edina, both cities with a history of groundwater contamination.
+In 1983, the EPA added the previously mentioned Reilly Tar
+Site in St. Louis Park to the NPL because it was a documented
+source of a hazardous chemical, namely, polynuclear aromatic
+hydrocarbon (PAH). J.A. 94. Through well samples, the
+Minnesota Department of Health later detected other hazardous
+chemicals, chlorinated volatile organic compounds (CVOCs),
+in Edina’s groundwater as early as 1993 and St. Louis Park’s
+groundwater as early as 1994. See HRS Revised
+11
+
+Documentation Record, Highway 100 and County Road 3
+Groundwater Plume, at 13-14 (Sept. 2020) (Revised
+Documentation Record), reprinted in J.A. 296-356. The
+relevant CVOCs are 1,1-dichloroethene (DCE); cis-1,2-DCE;
+trans-1,2-DCE; trichloroethene (TCE); and vinyl chloride—all
+of which are breakdown products of tetrachloroethene (PCE),
+a chemical used in certain industrial and cleaning processes.
+Revised Documentation Record at 14, 33. The Minnesota
+Pollution Control Agency (MPCA) became involved in 2004
+when Edina requested assistance to determine the source of
+CVOCs in one of its municipal drinking water wells, E7. Jd. As
+the investigation expanded farther north, CVOCs were detected
+in four aquifers: the Quaternary Drift Aquifer (Drift Aquifer),
+which is generally 0 to 90 feet below ground surface (bgs); the
+Platteville-Glenwood Aquifer, which is generally 90 to 122
+feet bgs; the St. Peter Aquifer, which is generally 135 to 290
+feet bgs; and the Prairie du Chien-Jordan Aquifer, which is
+generally 290 to 417 feet bgs. Revised Documentation Record
+at 15; see also J.A. 361 (cross-section and geological
+descriptions), 368-69 (cross-sectional maps).
+
+In 2007, the MPCA sought the EPA’s assistance in testing
+soil in the area for CVOCs. Revised Documentation Record at
+15. In 2016, the MPCA prepared a preliminary assessment of
+the Site. Jd. Subsequently, under a cooperation agreement with
+the EPA, the MPCA conducted a site inspection, which
+included extensive data from groundwater samples collected
+from monitoring and municipal wells intersecting the four
+aquifers at varying depths. Jd. at 15, 18. The data showed
+CVOC contamination in all of the aquifers. /d. at 15. The
+inspection focused on evaluating contamination of the Prairie
+du Chien-Jordan Aquifer because Edina and St. Louis Park
+12
+
+municipal drinking water wells draw from that aquifer.® Jd. at
+16.
+
+The site inspection recommended further investigation to
+establish whether a contaminant pathway interconnected the
+aquifers. Id. at 18. Accordingly, the MPCA conducted an
+Expanded Site Inspection Report (ESI), which included a
+hydrogeologic investigation. /d.; see generally J.A. 357-97
+(relevant portions of the ESI). The ESI concluded that the four
+aquifers were “laterally continuous and... hydraulically
+interconnected between St. Louis Park and Edina” based on
+“aquifer pump tests that showed drawdown in the test wells,
+and analytical results that document[ed] the migration of
+[CVOCs] from the Quaternary Drift, Platteville-Glenwood, St.
+Peter, and Prairie du Chien-Jordan aquifers.” Revised
+Documentation Record at 18.
+
+2. NPL Listing
+
+Following the ESI, the EPA issued a proposed rule listing
+the Site as a groundwater plume contaminating multiple
+aquifers. See National Priorities List, 84 Fed. Reg. 60,357,
+60,358 (Nov. 8, 2019), reprinted in J.A. 7-13. To explain its
+HRS analysis, the EPA provided a lengthy HRS
+Documentation Record, in which the EPA defined the
+groundwater plume “by documented observed releases [of
+CVOCs] in groundwater monitoring and municipal water wells
+in Edina and St. Louis Park.” Revised Documentation Record
+
+ 
+
+© Due to treatment systems set up by city and state authorities
+after discovering the CVOCs, “drinking water provided by both the
+cities of Edina and St. Louis Park currently [is] in compliance
+with...the Safe Drnking Water Act.” Narrative Summary,
+Highway 100 and County Road 3 Groundwater Plume (Nov. 2019),
+reprinted in J.A. 14.
+13
+
+at 13. The wells with observed releases thus defined the
+amorphous boundaries of the plume.’ The EPA explained that
+the observed releases “cannot reasonably be attributed to one
+or more specific sources” because of “the comingled [sic.]
+nature of the releases” from multiple sources, “including dry
+cleaners, print shops, metals fabricators,...heat treating
+operations, [and] other commercial and industrial facilities.”
+Id. at 19. The EPA then scored the Site as a “groundwater
+plume with no identified source.” Jd. at 20.
+
+The EPA evaluated the Site using the standard three
+factors. See id. at 3 (likelihood of release, waste characteristics
+and targets). For the likelihood of release factor, the EPA relied
+on groundwater samples from release and background wells in
+all four aquifers to establish observed releases of CVOCs
+through chemical analysis. See id. at 33-54. The EPA then
+concluded that the aquifers were interconnected based on (1)
+pump tests of wells showing “no significant difference in
+hydraulic conductivity” across all aquifers, (2) well log data
+from “municipal wells indicat[ing] the same stratigraphic
+units” and (3) “groundwater contamination ...in St. Louis
+Park and Edina municipal wells, as well as monitoring wells
+that withdraw water from” all the aquifers. /d. at 55. Given the
+interconnectivity and observed, not potential, releases, the
+likelihood of release factor for the interconnected aquifers
+received the maximum score. See id. After calculating the
+scores for waste characteristics and targets, the EPA calculated
+a site score of 50, id. at 2-3, well above the 28.5 threshold for
+NPL designation.
+
+The petitioners submitted extensive comments on the HRS
+analysis, primarily challenging aquifer interconnectivity. See
+
+ 
+
+’ For a map of the relevant wells, see attached Appendix A,
+which can be found at Revised Documentation Record at 6.
+14
+
+generally J.A. 17—295. First, they took particular issue with the
+EPA’s purported use of a “natural migration pathway” between
+the Drift Aquifer and the Prairie du Chien-Jordan Aquifer. J.A.
+24. Drawing on the placement of the wells used to define the
+plume, they argued that the EPA’s asserted pathway was
+scientifically impossible because it required assuming that
+CVOCs migrated upgradient—against the general, east-
+southeast flow of the groundwater. J.A. 266-67. Next, they
+contended that the EPA omitted evidence of a confining layer,
+the St. Peter confining layer, that would prevent permeation to
+the Prairie du Chien-Jordan Aquifer. J.A. 266-67, 269. In a
+final interconnectivity challenge, they argued that the pump
+tests were inadequate because they covered only the Prairie du
+Chien-Jordan Aquifer. J.A. 268-69.°
+
+The EPA responded at length to the petitioners’ comments.
+See Support Document for the Revised National Priorities List
+Final Rule, Highway 100 and County Road 3 Groundwater
+Plume (Sept. 2020) (Support Document), reprinted in J.A.
+398-545. Acknowledging the interconnectivity challenges and
+standing by its interconnectivity findings, the EPA “identified
+
+ 
+
+* The petitioners also made two other challenges of note. Again
+assuming that the EPA had to show attribution through a “plausible
+migration pathway,” J.A. 266, and maintaining that the EPA had
+identified a “source area,” J.A. 265, they asserted that the EPA erred
+by ignoring possible migration pathways and sources of the CVOCs
+in the Prairie du Chien-Jordan Aquifer, including the Reilly Tar Site
+and multi-aquifer wells, J.A. 270, 275. As the name suggests, multi-
+aquifer wells are wells that go deep enough to intersect multiple
+aquifers, thus providing possible paths for contaminants to migrate
+between aquifers. See Support Document for the Revised National
+Priorities List Final Rule, Highway 100 and County Road 3
+Groundwater Plume, at 52 (Sept. 2020) (Support Document). In
+addition, they argued that the EPA improperly excluded certain
+documents from the administrative record. J.A. 279-80.
+15
+
+multiple lines of evidence documenting aquifer
+interconnections.” Jd. at 48. Responding to the natural
+migration pathway argument, the EPA noted that “the
+mechanism of vertical migration does not have to be defined”
+because it had documented observed releases in both the
+shallower aquifers and the Prairie du Chien-Jordan Aquifer. Jd.
+at 48, 50. It explained that it did “not identify specific migration
+paths through the aquifer layers as [the petitioners] suggest[;]
+rather,...the EPA evaluated each aquifer layer and all
+plausible mechanisms and evidence (natural migration in some
+aquifers, joints, fractures, solution channels, multi-aquifer
+wells, and observed contamination migration) to determine that
+the aquifers are interconnected for HRS purposes.” /d. at 50.
+
+Next, the EPA noted that, although it had inadvertently
+excluded a portion of a confining layer from one of the figures
+demonstrating interconnectivity, there were no continuously
+present confining layers because the St. Peter confining layer
+“is locally absent due to erosion.” /d. at 45. It also noted that
+the St. Peter confining layer is “[a]bsent in well HS-1 about
+1.55 miles east of municipal well SLP4.” Jd. at 46.
+Accordingly, the EPA asserted there were no aquifer
+discontinuities at the site. Jd. at 49. It responded to the pump
+test challenge by disclaiming reliance on the pump test data to
+show interconnectivity. /d. at 51.
+
+In response to the petitioners’ arguments involving
+allegedly ignored possible sources, the EPA iterated that
+consistent with the classification of the Site as a groundwater
+plume with no identified source, it need not and did not
+“attribute the release to a specific source or sources.” /d. at 83.
+It then affirmed its definition of the Site as consistent with the
+HRS procedures, which permit the plume to be defined by
+observed releases from wells. /d. at 88. It emphasized that
+16
+
+[t]he HRS is a screening model that uses limited
+resources to determine whether a site should be
+placed on the NPL for possible Superfund
+response. AS necessary, additional
+investigations to determine definitive sources at
+a particular site are performed at the [Remedial
+Investigation/Feasibility Study] stage of the
+Superfund process at which time site conditions
+and hazards are characterized more
+comprehensively.
+
+Id. at 87. The EPA also iterated that “the fact that [it] initially
+identifies and lists the [site] based on areview of contamination
+at a certain location—in this case a contaminated groundwater
+plume with no identified source—does not necessarily mean
+that the site boundaries are limited to that location.” /d. at 11.
+In response to the petitioners’ contention that it had ignored
+multi-aquifer wells as a contributor to contaminant migration,
+the EPA pointed out that multi-aquifer wells do “influence
+... contaminant migration” and therefore “[t]he presence of
+multi-aquifer wells at this Site only provides additional
+documentation of hydrological interconnections between the
+aquifer layers at the Site.” Jd. at 52.
+
+Replying to the petitioners’ claim that it had improperly
+excluded from the administrative record adverse evidence
+provided by them, the EPA acknowledged that it “must include
+all pertinent information in the administrative record, both
+favorable and unfavorable to [its] final decision.” /d. at 14. It
+then stated it had “included all the relevant information it
+considered to support the HRS score in this case and all such
+information has been placed in the listing docket that makes up
+the administrative record.” /d. It also noted that the petitioners
+“ha[d] not explained how the submitted documents impact the
+HRS score.” Id.
+17
+
+The EPA issued the final rule adding the Site to the NPL
+on September 3, 2020. Site Listing Rule, 85 Fed. Reg. at
+54,933. The petitioners filed a timely petition for review. On
+May 4, 2021, they filed a Motion for the Court to Review and
+Consider Extra-Record Evidence.
+
+Under CERCLA, we have jurisdiction to review the
+petition. See 42 U.S.C. § 9613(a).
+
+Il. ANALYSIS
+
+Echoing their comments to the agency, the petitioners
+mount two challenges to the NPL listing. We begin with their
+claim that the EPA arbitrarily and capriciously defined the site
+by ignoring possible sources of contamination. We then
+address their substantial-evidence and arbitrary-and-capricious
+aquifer interconnectivity challenges. Because the EPA
+properly followed the HRS scoring procedures, supported its
+conclusions with substantial evidence and adequately
+addressed the petitioners’ comments, we conclude that their
+claims are without merit. Finally, we deny their motion to
+supplement the record with extra-record evidence.
+
+A. STANDARD OF REVIEW
+
+We review the EPA’s NPL listing decisions under the
+Administrative Procedure Act’s (APA) arbitrary and
+capricious and substantial evidence standards. See Genuine
+Parts, 890 F.3d at 311 (citations omitted). Given “the ‘highly
+technical issues involved’ [in an NPL listing] and because the
+NPL serves merely as a ‘rough list of priorities, assembled
+quickly and inexpensively,’” we afford the EPA “significant
+deference” in NPL listing decisions. Carus Chem., 395 F.3d at
+441 (quoting Bradley Mining Co. v. EPA, 972 F.2d 1356, 1359
+(D.C. Cir. 1992)).
+18
+
+If an agency has “entirely failed to consider an important
+aspect of the problem [or] offered an explanation for its
+decision that runs counter to the evidence before the agency,”
+Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut.
+Auto. Ins. Co., 463 U.S. 29, 43 (1983), we will vacate its
+decision as arbitrary and capricious. We will, however,
+“uphold a decision of less than ideal clarity if the agency’s path
+may reasonably be discerned.” Bowman Transp., Inc. v.
+Arkansas-Best Freight Sys., Inc., 419 U.S. 281, 286 (1974).
+Substantial evidence review requires that we “consider the
+whole record upon which an agency’s factual findings are
+based,” Genuine Parts, 890 F.3d at 312, to determine if the
+agency “ignore[d] evidence contradicting its position,” Butte
+County v. Hogen, 613 F.3d 190, 194 (D.C. Cir. 2010), or
+“minimize[d] such evidence without adequate explanation,”
+Genuine Parts, 890 F.3d at 312 (citation omitted). “[I]n their
+application to the requirement of factual support[,] the
+substantial evidence test and the arbitrary or capricious test are
+one and the same.” Butte County, 613 F.3d at 194 (citation
+omitted).
+
+B. SITE DEFINITION CHALLENGES
+
+We first address the petitioners’ claim that the “EPA
+arbitrarily included the Drift Aquifer Area in the Site definition
+while ignoring relevant evidence of other known areas of
+contamination.” Pet’rs Br. 59. As a preliminary matter, the
+petitioners coin the term “Drift Aquifer Area” and employ it to
+refer to a triangular area surrounding the three release wells in
+the Drift Aquifer.’ See id. at 6-8. They contend that the EPA
+
+ 
+
+’ For a depiction of the general area of the petitioners’ Drift
+Aquifer Area, see Appendix B, which is available at Petitioners
+Brief 8. This map also includes the layout of the release wells but
+19
+
+did not “holistically evaluate[]” the Site and should “eliminate
+the arbitrarily exclusive Drift Aquifer Area from the Site
+definition.” /d. at 12. The Site definition is arbitrarily
+exclusive, they argue, because even after determining the
+aquifers were interconnected, the EPA “failed to include
+additional, contaminated Drift [Aquifer] wells or locations in
+the Site definition.” Jd. at 60. They point out that their
+comments directed the EPA toward a number of possible
+sources of the contaminants—including the Reilly Tar Site,
+other industrial facilities and multi-aquifer wells—but that the
+EPA nevertheless arbitrarily excluded these other
+contaminated areas from the Drift Aquifer Area. See id. at 59-
+63.
+
+The petitioners are mistaken for three reasons. First, and
+most fundamentally, the EPA did not arbitrarily exclude any
+sources because it properly defined the Site as a groundwater
+plume with no identified source. See Revised Documentation
+Record at 20; see also HRS 8§ 1.1, 3.1.1. Pursuant to the HRS
+procedures, see supra, at 6-8, the EPA defined the site by using
+chemical analysis to show that observed releases had occurred
+across the four aquifers. Revised Documentation Record at 33—
+53. Then, after considering “several likely sources and/or
+potential contributors,” the EPA reasonably determined that
+because of the “comingled [sic.] nature of the releases” likely
+resulting from one or more sources, it could not attribute the
+observed releases to a specific source.!° Id. at 19; see also id.
+at 54-55; Support Document at 26, 84.
+
+ 
+
+was created for this litigation and may not depict precise boundaries
+of the groundwater plume.
+
+10 As the petitioners note, the HRS Manual states that “efforts
+should be undertaken to identify the original source(s) of
+contamination” prior to scoring a site as a groundwater plume
+20
+
+Second, to define a site under the HRS procedures, the
+EPA need not “evaluate all known releases,” Pet’rs Br. 12, or
+“include additional, contaminated Drift [Aquifer] wells,” id. at
+60. The petitioners point to no HRS requirement that the EPA
+must sample every well with a potential release. Such a
+requirement would be inconsistent with the “narrowly focused”
+purpose of the NPL and the HRS: “identify[ing], quickly and
+inexpensively, sites that may warrant further action under
+CERCLA.” Eagle-Picher Indus., Inc. v. EPA (Eagle-Picher 1),
+759 F.2d 905, 911 (D.C. Cir. 1985). Listing does not set the
+Site boundaries in stone. As more information becomes
+available in the remedial investigation/feasibility study stage,
+the EPA may expand (or contract) the Site. See Revised
+Documentation Record at 1; Wash. State Dep ’t of Transp., 917
+F.2d at 1310 n.1.
+
+Third, the EPA did not arbitrarily ignore the petitioners’
+comments on other plausible sources of contamination,
+including the Reilly Tar Site and multi-aquifer wells.'! Indeed,
+the EPA acknowledged their comments regarding the
+possibility that other sources may contribute to contamination,
+
+ 
+
+without an identifiable source. HRS Manual, supra, at 46. But those
+efforts need only be “equivalent to those of an expanded [site
+inspection].” Jd. The EPA met that standard by relying on the
+MPCA’s Expanded Site Inspection Report, which documented the
+latter’s efforts to identify a single source of the groundwater
+contamination. See Revised Documentation Record at 13-14.
+
+‘| The petitioners assert that other possible sources are: a
+previous Schloff Chemical release of PCE, a former Flame Metals
+facility, a former Control Data Corporation site, a Lindberg Heat
+Treating Facility, a former Reynolds Welding site, Pet’rs Br. 60-62;
+see also J.A. 274—76, and “the area near the intersection of Highway
+7 and Louisiana Avenue,” Pet’rs Br. 42 (quoting J.A. 387). See also
+id. at 66 (map of petitioners’ asserted possible sources).
+21
+
+Support Document at 27, 31-33, and noted that “additional
+characterization is necessary to delineate the plume and
+attribute the release to a facility,” id. at 31. “Moreover,” the
+EPA explained, CVOC contamination associated with other
+facilities like the Reilly Tar Site “supports the evaluation of the
+site as a contaminated groundwater plume without an identified
+source because the significant increase in the plume could not
+be attributed to a specific source.” Id. (emphasis added). The
+EPA also acknowledged and even agreed that contamination
+can migrate through multi-aquifer wells.'? Jd. at 51-52.
+
+C. INTERCONNECTIVITY CHALLENGES
+
+Largely renewing arguments included in their comments,
+the petitioners argue that the aquifer interconnections in the
+HRS analysis were not supported by substantial evidence and
+that the EPA acted arbitrarily and capriciously by concluding
+that the aquifers were interconnected. Pet’rs Br. 17-48. Their
+arguments founder because the EPA properly established
+
+ 
+
+To support their multi-aquifer-well pathway argument, the
+petitioners point to radioisotope studies showing “that the
+groundwater in the contaminated portion of the Prairie du Chien-
+Jordan Aquifer is ‘newer’ than the contaminated groundwater in the
+St. Peter Aquifer above it,” Pet’rs Br. 46, and to evidence that the St.
+Peter Aquifer is “cleane[r]” than the Prairie du Chien-Jordan
+Aquifer, id. at 43-44. They claim that these data suggest a
+contaminated groundwater is migrating not through descending
+aquifers but through multi-aquifer wells. fd. at 44, 46-47. But the
+EPA reasonably established interconnectivity without relying on any
+specific migration mechanism. See Hazard Ranking System, 55 Fed.
+Reg. at 51,553. Moreover, the EPA recognizes that multi-aquifer
+wells may be contributing to contaminant migration, see Revised
+Documentation Record at 14, 31; Support Document at 52, and that
+subsequent investigations may reveal more information regarding
+specific contaminant sources, see Support Document at 41.
+22
+
+aquifer interconnectivity by showing observed contaminant
+migration through observed releases in each of the aquifers. See
+Support Document at 48; HRS Manual, supra, at 127.
+
+As already described, the HRS regulations and
+accompanying guidance provide the structure for establishing
+aquifer interconnections. See supra, at 8-10. And one method
+to establish interconnectivity is by observed contamination
+across aquifers. See Hazard Ranking System, 55 Fed. Reg. at
+51,553; HRS Manual, supra, at 127, 131. Here, the EPA
+provided copious documentation of observed releases across
+all four aquifers through chemical analysis. See Revised
+Documentation Record at 33-53. Relying on the HRS
+procedures and the observed releases within two miles of the
+Site, the EPA reasonably concluded that “contamination has
+migrated through the aquifer layers into the Prairie du Chien
+[A]quifer.” Support Document at 48. The EPA then considered
+whether there were any qualifying aquifer discontinuities and
+concluded that although confining layers existed in portions of
+the Platteville-Glenwood formation and the St. Peter
+formation, these layers were “documented to either not be
+present at locations in the [target distance limit] or are
+documented to allow contamination to migrate through” the
+formations. /d. at 49 (emphasis added). Because the “apparent
+discontinuit[ies]” allowed hazardous substances to migrate, the
+EPA properly found that there were no _ qualifying
+discontinuities, HRS § 3.0.1.2.2, and reasonably concluded
+that the aquifers were interconnected based on observed
+contamination, see id. § 3.0.1.2.1.
+
+Challenging the EPA’s use of the observed-contamination
+method of proving interconnectivity, the petitioners argue that
+the EPA did not adequately establish observed releases. Pet’rs
+Br. 35-39. In particular, they contend that the EPA’s chemical
+analysis was flawed. 7d. at 35-36. Recall that showing an
+23
+
+observed release by chemical analysis requires comparing a
+sample from a background well to a sample from a release well
+and determining whether the concentration in the release well
+is “significantly above the background concentration.” See
+HRS § 3.1.1. The petitioners first argue that the EPA
+improperly listed five Prairie du Chien-Jordan wells as “release
+wells” because they failed to exceed the requisite threshold of
+one contaminant, TCE, to qualify as an observed release
+relative to the background concentration. Pet’rs Br. 36. They
+then briefly argue that EPA “cherry-picked” well data and
+background wells, specifically asserting that the EPA should
+have picked more wells farther north and west to better capture
+its theory of contamination migration. /d. at 38.
+
+None of these arguments is persuasive. First, the EPA did
+not improperly list five wells as “release wells.” The petitioners
+misread the chart listing the wells and the hazardous substances
+exceeding the release threshold. See Revised Documentation
+Record at 39. The EPA lists six wells that qualified as “release
+wells” based on releases of different hazardous substances but,
+as the petitioners point out, only one exceeded the threshold
+limit for TCE. See id. The EPA accordingly did not include
+TCE in the list of qualifying releases for all six release wells
+and instead listed five of the wells as release wells for other
+CVOCs detected in the aquifers. Jd. Second, the EPA did not
+arbitrarily select well data. “The HRS does not identify
+requirements or define conditions for establishing background
+levels,” nor for selecting background wells. Support Document
+at 62. Here, the EPA provided adequate evidence of observed
+releases across numerous wells and over four years, see
+Revised Documentation Record at 33-53, and sufficiently
+responded to comments about the selection of well data, see
+Support Document at 11—12, 66-68. In any listing decision, the
+EPA balances “the need for certainty before action with the
+need for inexpensive, expeditious procedures to identify
+24
+
+potentially hazardous sites.” Eagle-Picher I, 759 F.2d at 921.
+Its reliance on previously compiled well data that
+comprehensively demonstrated observed releases was anything
+but arbitrary and capricious.
+
+The petitioners next challenge the EPA’s purported
+“natural migration pathway” theory of interconnectivity.'
+Pet’rs Br. 17, 43. They first argue that the EPA’s conclusion on
+the lack of continuous confining layers was not supported by
+substantial evidence. /d. at 18-32. In particular, they point to
+errors in one figure that the EPA used to illustrate that the St.
+Peter confining layer was not continuous. See id. at 23. In this
+figure, the EPA allegedly inaccurately depicted the continuity
+of the St. Peter confining layer at certain wells. See id. The
+petitioners reproduced maps and geological figures from the
+U.S. Geological Survey (USGS) to show the presence of the
+same confining layer. Jd. at 26-27. Although one of the figures
+shows that the confining layer is absent east of the Site—as
+shown in well log data for well HS-1, see Support Document
+at 45— they contend that absence is “almost two miles outside
+of EPA’s alleged plume area” and that “interconnectedness at
+HS-1 has no bearing on [the] EPA’s allegation that a ‘plume’
+is migrating from the Drift Aquifer Area to the Prairie du
+Chien-Jordan Aquifer.” Pet’rs Br. 40.
+
+For its part, the EPA indeed maintained that the St. Peter
+confining layer is “locally absent due to erosion,” relying on
+the same USGS study. See Revised Documentation Record at
+27. It also noted that well HS-1 is located about 1.55 miles east
+of municipal well SLP4, an observed-release well. Jd. Citing
+
+ 
+
+'3 The petitioners also challenge the use of pump test data to
+establish interconnectivity. Pet’rs Br. 33-34. That challenge is
+meritless because the EPA disclaimed reliance on the pump tests to
+establish interconnectivity. See Support Document at 51.
+25
+
+the HRS regulation that identifies “well logs indicating that
+a... confining layer separating the aquifers is not continuous
+through the two-mile radius” as one “of the types of
+information useful in identifying aquifer interconnections,”
+Hazard Ranking System, 55 Fed. Reg. at 51,553, the EPA
+concluded that in addition to the observed-contamination
+method of proving interconnectivity, the lack of a continuous
+confining layer also supported interconnectivity. Support
+Document at 48.
+
+We need not resolve this conflict because the petitioners’
+migration-pathway argument is not responsive to the observed-
+release method of establishing interconnectivity. See Hazard
+Ranking System, 55 Fed. Reg. at 51,553 (“For [the observed-
+contamination method], the mechanism of vertical migration
+does not have to be defined.”); accord Genuine Parts, 890 F.3d
+at 316 (noting irrelevance of groundwater flow to HRS analysis
+when assessing targets). Further, the EPA correctly noted that
+“at this stage of the listing, groundwater modeling, 3D or
+otherwise, to predict migration pathways [is] not required as
+part of an HRS evaluation.” Revised Documentation Record at
+40. Accordingly, even if they are correct about the continuity
+of the St. Peter confining layer, the EPA’s error was harmless
+because it established interconnectivity via observed releases
+across the aquifers and did not rely on a specific migration
+pathway. See Jicarilla Apache Nation v. U.S. Dep’t of Interior,
+613 F.3d 1112, 1121 (D.C. Cir. 2010) (harmless error applies
+to agency action because “if the agency’s mistake did not affect
+the outcome, if it did not prejudice the petitioner, it would be
+senseless to vacate and remand for reconsideration.” (alteration
+omitted) (quoting PDK Laby’s., Inc. v. DEA, 362 F.3d 786, 799
+(D.C. Cir. 2004)).!4
+
+ 
+
+'* Tex Tin and Genuine Parts do not help the petitioners. Pet’rs
+Br. 30-31 (citing Genuine Parts, 890 F.3d at 307, 310-11, 315), 48
+26
+
+D. EXTRA-RECORD EVIDENCE
+
+The petitioners ask us to review and consider extra-record
+evidence and to supplement the administrative record with
+numerous documents, including a (1) post-final rule
+declaration by Melinda Hahn (Hahn Declaration), J.A. 593-
+
+ 
+
+(citing Tex Tin, 992 F.2d at 356). In Tex Tin, we vacated the NPL
+listing of a tin manufacturing facility because the EPA had failed to
+comply with our remand directing the agency to explain how a tin-
+production byproduct deposited arsenic in soil adjacent to the
+facility. 992 F.2d at 356. We concluded that the agency’s explanation
+was arbitrary because the facility’s smokestack, which annually
+emitted large quantities of arsenic, was a more likely source of the
+arsenic in the soil “in the absence of any chemical analysis linking
+the arsenic found in the soil to the tin [byproduct].” Jd. The
+petitioners argue that here the EPA failed to explain its “natural
+migration pathway|[]” and arbitrarily ignored more likely pathways
+of contaminants into the Prairie du Chien-Jordan Aquifer. Pet’rs Br.
+48. But Tex Tin is inapposite because here the EPA established a
+chemical connection between numerous potential sources and the
+contaminants defining the observed releases. See Revised
+Documentation Record at 54. More broadly, the petitioners’
+argument again incorrectly assumes the EPA attributed the release to
+a specific source or pathway. See Support Document at 85.
+
+The petitioners assert that, as in Genuine Parts, the EPA was
+arbitrary and capricious in failing to consider credible evidence of a
+confining layer. See 890 F.3d at 315. Genuine Parts, however, is
+distinguishable as there the EPA did not rely on evidence of observed
+contamination in the deeper aquifer to establish interconnection. /d.
+at 309. Rather than showing interconnectivity through observed
+releases, the EPA relied on a migration-pathway theory. See id. at
+309-10. Accordingly, the EPA had to show that a confining layer
+was not continuous within two miles of the site, see id. at 313, and
+could not disregard an apparent discontinuity, see HRS § 3.0.1.2.2.
+Not so here.
+27
+
+626; (2) sources that the petitioners relied on at the agency level
+and that the EPA allegedly ignored, see J.A. 641-45 (listing
+sources); and (3) two documents that existed before the Site’s
+NPL listing: the Record of Decision for the Reilly Tar
+Superfund Site, J.A. 646-676, and a 2009 groundwater study
+by AECOM, a firm retained by the MPCA, J.A. 677-95. We
+deny the motion.
+
+“TWle do not allow parties to supplement the record
+‘unless they can demonstrate the unusual circumstances
+justifying departure from this general rule.’” City of Dania
+Beach v. FAA, 628 F.3d 581, 590 (D.C. Cir. 2010) (quoting
+Texas Rural Legal Aid, Inc. v. Legal Servs. Corp., 940 F.2d
+685, 698 (D.C. Cir. 1991)). “Exceptions to that rule are quite
+narrow and rarely invoked. They are primarily limited to cases
+where the procedural validity of the agency’s action remains in
+serious question, or the agency affirmatively excluded relevant
+evidence.” CTS Corp. v. EPA, 759 F.3d 52, 64 (D.C. Cir. 2014)
+(internal quotation marks and citations omitted). The
+petitioners rely on two exceptions to the general rule: we have
+supplemented the record if “background information [is]
+needed ‘to determine whether the agency considered all the
+relevant factors,” City of Dania Beach, 628 F.3d at 590
+(quoting Am. Wildlands v. Kempthorne, 530 F.3d 991, 1002
+(D.C. Cir. 2008)), or if “the agency affirmatively exclude[s]
+relevant evidence,” CTS Corp., 759 F.3d at 64.
+
+We easily deny the motion with respect to the Hahn
+Declaration. Although it provides background, the petitioners
+make the same arguments in their briefs to us and previously
+made them at the agency level. Compare Hahn Decl. { 19
+(arguing it is “not hydraulically possible” that W23
+contamination originates from downgradient), with Pet’rs Br.
+43 (arguing that EPA’s asserted migration pathway is
+“scientifically unsupportable”), and J.A. 266 (same).
+28
+
+Moreover, Hahn had an opportunity to comment at the agency
+level, including a meeting at the EPA. We decline to make an
+exception for a declaration that could have been included in the
+record earlier. See Kent County, 963 F.2d at 396 (declining to
+supplement record with document created after EPA decision
+at issue).
+
+As to the sources the petitioners relied on before the
+agency, J.A. 641-45, they argue we should consider these
+allegedly adverse sources because the EPA improperly
+excluded them from the record. Pet’rs Br. 58. (citing Kent
+County, 963 F.2d at 395-96). As in City of Dania Beach,
+however, Hahn’s general explanations of the source documents
+“hardly suppl[y] the requisite ‘unusual circumstances’ to
+justify” our consideration of the thousands of pages of expert
+reports and their relation to the NPL listing. See 628 F.3d at
+590 (quoting Texas Rural Legal Aid, 940 F.2d at 698).
+
+Finally, the petitioners cite extra-record evidence to
+buttress their migration-pathway argument that there exist
+more plausible sources of contamination than the Drift Aquifer
+Area. Pet’rs Br. 52-56, 60. In particular, they urge us to
+consider the EPA Record of Decision on Remedial Action
+Alternative Selection for the Reilly Tar Site, J.A. 646-76, and
+a 2009 report by AECOM, a firm retained by the MPCA, J.A.
+677-95. The petitioners contend that these documents show
+that multi-aquifer wells and coal tar from the Reilly Tar Site
+are the “primary pathways of contamination of the Prairie du
+Chien-Jordan aquifer,” J.A. 665, and that the source of the
+“bulk of ... contamination” of St. Louis Park and Edina is
+upgradient of the Drift Aquifer Area and “near the intersection
+of Highway 7 and Louisiana Ave,” J.A. 684.
+
+Granted, the EPA did not include the AECOM report or
+the Reilly Tar Record of Decision in the administrative record.
+29
+
+But exclusion was harmless error, if error at all, because the
+EPA’s arguments on source attribution still apply: concerns
+about the most plausible pathways and sources are inapplicable
+because “no separate attribution is necessary when the source
+at the site is a groundwater plume.” Support Document at 83.
+Accordingly, we see no “unusual circumstances” to warrant
+supplementing the record with these two sources. See City of
+Dania Beach, 628 F.3d at 590 (citation omitted).
+
+For the foregoing reasons, we deny both the petition for
+review and the motion to consider extra-record evidence.
+
+So ordered.
+30
+
+Legend
+
+Background Groundwater Samples Observed Release Groundwater Samples
+AX Quaternary Dnt Aquiter @ Quaternary Dnt Aquifer
+AX Plattovitio-Gienwood Aquiter ~~ @ _ Piatteville.Glenwood Aquifer
+A. St. Peter Aquitor @® st Potor Aguiter
+
+AX Prairie du Chion Jordan Aquifor © Prairie du ChienJordan Aquiter
+
+Source: The source of his map is ERSI, used by EPA with ESAs permission.
+Refs. 6, pp. 33 Bough 41.73, pp 5.6; 75, pp 6,7, 52,53, 54, 58, 05, 64,
+
+Highway 100 and County
+Road 3 Groundwater Plume
+‘St Louis Park and Edina
+Hennepin County, Minnesota
+
+       
+
+ 
+
+Figure 3
+Groundwater Observed Release
+
+ 
+
+ 
+
+(7) TETRA TECH
+
+ 
+
+ 
+31
+
+APPENDIX B
+
+ 
+
+   
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+zg 2
+F wi gana St z
+guia Pare 5 %
+zo Aa ee
+By!
+wadte at 35 , ite Definition
+& = = Drift Aquifer
+‘yeasty st waa st
+
+ 
+
+      
+
+ 
+
+ 
+
+Knalwood salt ab
+
+  
+
+ 
+ 
+
+was
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wife Bark
+— ie Oxord 8 WARE
+E ae waa e
+al o
+Cambridne gf
+waia
+a o
+doe
+s on w
+Lake SE 2
+z waa ge 2
+2 a a =
+@ j sure
+= £ oe
+5
+2nd S1NE aos =
+= Exaeigiot e
+= z
+a o
+3 Pa sr
+nyo A 4 £
+Meanicy ooh SbPG
+Golf cua o 2
+2 :
+E +
+£
+5 2
+= z
+Beware Ln & “
+2 Sunnyside F
+a
+Maloney Ave
+Sie Pare
+matey
+wiier EDINA
+Uae nigfharc!= Pack
+=z
+z s e
+i e 4 FE
+5 ‘ & % >
+G LDirecti f : ig :
+ie =
+enera iIrection 0 | Soe 4
+: =
+a 2 é
+
+re tag
+
+Groundwater Flow ———
+
+A
+
+Ci
+
+Tan a I
+
+ 
+
+Galt Tor
+
+ 
+
+ 
+
+nn Siw
+gan sav
+a
+< oe
+x os
+3 in a
+Ss pig
+Bar
+go, 4
+SS
+© taped s
+o
+3
+=
+a
+E
+* 5
+aan SY a
+a
+ay
+?
+aw
+sue’
+=
+x a
+a :
+soth St WW on ee.
+2a
+> 2rFgs
+tie e
+rn
+a | 8
+Arden Pack,
+wesan patn 5:
+
+  
+
+any neeas
+
+=
+
+wi ae:
+
+Me Hoaey s
+
+pee
+=
+
+w
+
+wach
+
+wenn
+
+any maton 6
+
++
+
+say “vady &
+
+=
+
+york e.
+
+ 
+
+ 
+
+ 
+
+Co bighwey 10 tite
+Highway 10 Site De
+Highway 10 site De
+Highway 100 Site De
+Aquifer
+
+Drift Aquifer
+Plattewille Aquifer
+
+St. Peter Anuiter
+Prainte du Chien Acuiter
+
+ 
+
+n- Drit Aquifer
+anquiter
+
+  
+
+aao0e
+
+ 
+
+1.500
+La eet
+
+HIGHWAY 100 SITE DEFINITION IN
+ALL AQUIFERS
+
+‘St. Louis Park, IMIN
+
+FIGURE 1a
+
+RAMBQLL US CONSULTING
+SAO
+
+ed
+
+ 
+

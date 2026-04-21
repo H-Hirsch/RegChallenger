@@ -1,0 +1,813 @@
+Case: 22-51069       Document: 134-1         Page: 1   Date Filed: 06/26/2024
+
+
+
+
+        United States Court of Appeals
+             for the Fifth Circuit                                     United States Court of Appeals
+                                                                                Fifth Circuit
+                              ____________                                    FILED
+                                                                          June 26, 2024
+                                No. 22-51069
+                                                                         Lyle W. Cayce
+                              ____________                                    Clerk
+
+National Association of Manufacturers; Natural Gas
+Services Group, Incorporated,
+
+                                                        Plaintiffs—Appellants,
+
+                                    versus
+
+United States Securities and Exchange Commission;
+Gary Gensler, in his official capacity as Chair of the SEC,
+
+                                        Defendants—Appellees.
+               ______________________________
+
+               Appeal from the United States District Court
+                    for the Western District of Texas
+                         USDC No. 7:22-CV-163
+               ______________________________
+
+Before Richman, Chief Judge, and Jones and Ho, Circuit Judges.
+Edith H. Jones, Circuit Judge:
+       In 2020, after ten years’ consideration, the Securities and Exchange
+Commission adopted a new rule regulating businesses that provide proxy
+voting advice to institutional shareholders of public corporations. Two years
+later, the SEC rescinded this rule. The two Appellants challenged the
+rescission in district court, arguing, inter alia, that the SEC arbitrarily and
+capriciously failed to provide an adequate explanation for its abrupt change
+in policy. The district court rejected Appellants’ contentions and granted
+Case: 22-51069       Document: 134-1       Page: 2      Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+summary judgment in favor of the SEC. Concluding that the explanation
+provided by the SEC was arbitrary and capricious and therefore unlawful, we
+REVERSE the district court’s judgment, VACATE the 2022 rescission in
+part, and REMAND to the agency.
+                              I. Background
+                           A. The Role of Proxy Firms
+       Under state law, shareholders of public companies generally have the
+right to vote on issues of corporate governance during annual and special
+shareholder meetings. See, e.g., Del. Code tit. 8, §§ 211, 212. Shareholders
+exercise their rights at these meetings by, for instance, electing directors and
+voting on proposals from shareholders or management that require
+shareholder approval. Most shareholders—including institutional investors
+like hedge funds and mutual funds—do not attend shareholder meetings in
+person. They instead vote by proxy. See Exemption from the Proxy Rules
+for Proxy Voting Advice, 85 Fed. Reg. 55,082, 55,082 (September 3, 2020)
+[hereinafter 2020 Rule].
+       Institutional investors and investment advisers are highly active in
+today’s financial markets. These entities own, in the case of institutional
+investors, or are given authority to vote, in the case of investment advisers, a
+significant number of shares in public companies (known in this context as
+“registrants”). As the SEC explained in 2020, institutional investors and
+investment advisers are accountable for “voting in potentially hundreds, if
+not thousands, of shareholder meetings and on thousands of proposals that
+are presented at these meetings each year, with the significant portion of
+those voting decisions concentrated in a period of a few months.” Id. at
+55,083. During this period, they often need assistance managing the voting
+process, which otherwise might be unmanageable.
+
+
+
+
+                                       2
+Case: 22-51069       Document: 134-1        Page: 3      Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+       Proxy voting advice businesses, or proxy firms, provide such
+assistance. Proxy firms research matters subject to vote and advise clients
+how to vote on these matters, with the advice they provide often serving as
+“an important factor in their clients’ proxy voting decisions.” Id. Proxy
+firms may also provide clients administrative assistance in voting by, for
+example, enabling clients to vote through an electronic platform or by
+executing votes directly on their clients’ behalf. Id.
+       With institutional investors and investment advisers relying so
+extensively on them, proxy firms “have become uniquely situated in today’s
+market to influence, and in many cases directly execute, [their clients’]
+voting decisions.” Id. As these firms have continued to grow in influence,
+however, certain concerns have emerged about their practices. Notably, the
+proxy advice market is effectively a duopoly, because two firms, Institutional
+Shareholders Services (ISS) and Glass Lewis, control roughly 97% of the
+market. Investors, registrants, and others have questioned the accuracy of
+the information and the soundness of the advice that proxy firms provide in
+this duopolistic market, and they complain about the proxy firms’
+unwillingness to engage with issuers to correct errors. Attention has also
+been drawn to potential conflicts of interest arising from proxy firms’
+provision of consulting services to the same registrants about which they
+provide voting advice. See id. at 55,085.
+                            B. Regulatory History
+       In 2010, the SEC undertook to address these concerns and increase
+transparency and accuracy in proxy voting advice. See Chairman Mary L.
+Schapiro, Opening Statement at the SEC Open Meeting, SEC (July 14, 2010),
+https://www.sec.gov/news/speech/2010/spch071410mls.htm. The SEC’s
+first formal regulatory proposal was published in 2019, the result of nearly ten
+years of study and collaboration with all interested parties spanning two
+
+
+
+
+                                       3
+Case: 22-51069         Document: 134-1         Page: 4      Date Filed: 06/26/2024
+
+
+
+
+                                     No. 22-51069
+
+
+presidential administrations. See Amendments to Exemptions from the
+Proxy Rules for Proxy Voting Advice, 85 Fed. Reg. 55,082 (December 4,
+2019) [hereinafter 2019 Proposed Rule].
+        The SEC’s proposed 2019 rule was promulgated under a statutory
+and regulatory framework that makes it unlawful to “solicit” proxy votes “in
+contravention of such rules and regulations as the [SEC] may prescribe as
+necessary or appropriate in the public interest or for the protection of
+investors.” 15 U.S.C. § 78n(a)(1). The applicable rules and regulations,
+among other things, prohibit persons who solicit proxies from making
+misstatements or omissions of material fact in their solicitations, and require
+such persons to furnish the targets of their solicitations with proxy statements
+containing certain disclosures. See 17 C.F.R. §§ 240.14a-3, .14a-9, .14a-15,
+.14a-19. On the SEC’s interpretation, providing proxy voting advice is a form
+of solicitation and, therefore, subject to these rules. See Concept Release on
+the U.S. Proxy System, 75 Fed. Reg. 42,982, 43,009–10 (July 22, 2010);
+Commission Interpretation and Guidance Regarding the Applicability of the
+Proxy Rules to Proxy Voting Advice, 84 Fed. Reg. 47,416, 47,417–19 (Sept.
+10, 2019).1 But proxy firms are also eligible for exemptions from these rules
+if they comply with certain conditions. See 17 C.F.R. § 240.14a-2(b)(1),
+(b)(3). The business models of proxy firms rely on the availability of such
+exemptions. See 2020 Rule, 85 Fed. Reg. at 55,085.
+        The 2019 Proposed Rule would have imposed additional conditions
+on the availability of exemptions for proxy firms. The most important of
+these would have required proxy firms to “provide registrants and certain
+other soliciting persons covered by its proxy voting advice a limited amount
+        _____________________
+        1
+          As discussed below, the 2020 Rule formally classified proxy voting advice as a
+form a solicitation. See 2020 Rule, 85 Fed. Reg. at 55,091 (amending 17 CFR § 240.14a-
+1(l)(1)).
+
+
+
+
+                                           4
+Case: 22-51069       Document: 134-1       Page: 5     Date Filed: 06/26/2024
+
+
+
+
+                                 No. 22-51069
+
+
+of time to review and provide feedback on the advice before it is disseminated
+to the [proxy firm’s] clients.” 2019 Proposed Rule, 84 Fed Reg. at 66,531
+(emphasis added). This aspect of the proposed rule was intended to increase
+the reliability and accuracy of proxy advice by allowing registrants to identify
+and address inaccuracies in the advice before it was disseminated. Id. But it
+was criticized during the comment period, with commenters arguing that the
+pre-dissemination requirement would prevent proxy firms from providing
+timely advice to their clients and would also undermine the independence of
+the advice provided. 2020 Rule, 85 Fed Reg. at 55,112.
+       The SEC took note of these criticisms and, following a sixty-day
+comment period, adopted the 2020 Rule in place of the 2019 Proposed Rule.
+The 2020 Rule was more modest than the 2019 Proposed Rule but was still
+intended to address the accuracy and transparency problems by giving
+registrants (the subjects of any shareholder vote) the opportunity to point out
+inaccuracies in voting advice in advance of shareholder meetings. The goal,
+in other words, was to ensure that proxy firms’ clients had a full and accurate
+understanding of the issues subject to vote and did not exclusively rely on
+proxy firms’ presentation of the issues.
+       As with the 2019 Proposed Rule, this goal was to be achieved through
+conditions on the availability of exemptions. The 2020 Rule contained two
+such conditions, which together will be referred to as the “notice-and-
+awareness conditions.” The first (the notice condition) required proxy firms
+to make their proxy advice available to registrants “at or prior to the time
+when such advice is disseminated to” proxy firms’ clients—a departure from
+the 2019 Proposed Rule’s requirement that the advice be disseminated
+beforehand. Id. at 55,154 (emphasis added). The second (the awareness
+condition) required proxy firms to provide “clients with a mechanism by
+which they can reasonably be expected to become aware of any written
+statements regarding . . . proxy voting advice by registrants who are the
+
+
+
+                                       5
+Case: 22-51069          Document: 134-1           Page: 6      Date Filed: 06/26/2024
+
+
+
+
+                                       No. 22-51069
+
+
+subject of such advice, in a timely manner before the security holder
+meeting.” Id.; see also 17 C.F.R. § 240.14a-2(b)(9)(ii) (2020) (rescinded
+codification of conditions). In adopting the 2020 Rule, the SEC stated that
+the notice-and-awareness conditions “will substantially address, if not
+eliminate altogether,” the risks to timeliness and independence associated
+with the 2019 Proposed Rule. 2020 Rule, 85 Fed. Reg. at 55,138. It
+explained:
+        [B]ecause [the 2020 Rule] does not require proxy voting advice
+        businesses to adopt policies that would provide registrants with
+        the opportunity to review and provide feedback on their proxy
+        voting advice before such advice is disseminated to clients, the
+        rule does not create the risk that such advice would be delayed
+        or that the independence thereof would be tainted as a result of
+        a registrant’s predissemination involvement.
+Id. at 55,112.
+        Beyond adopting the notice-and-awareness conditions, the 2020 Rule
+(1) codified the SEC’s interpretation that proxy voting advice qualifies as
+proxy solicitation2 and (2) confirmed that proxy voting advice is subject to
+the anti-fraud regulations governing proxy solicitations by adding an
+explanatory note to 17 C.F.R. § 240.14a-9, which provided that the “failure
+to disclose material information regarding proxy voting advice, ‘such as the
+proxy [firm’s] methodology, sources of information, or conflicts of interest’”
+may constitute a material misstatement. See 2020 Rule, 85 Fed. Reg. at
+55,091, 55,121. The same day it issued the 2020 Rule, the SEC adopted
+
+        _____________________
+        2
+           A district court recently held that that “the SEC acted contrary to law and in
+excess of statutory authority when it amended the proxy rules’ definition of ‘solicit’ and
+‘solicitation’ to include proxy voting advice for a fee.” Inst. S’holder Servs. Inc. v. SEC,
+No. 19-CV-3275 (APM), 2024 WL 756783, at *2 (D.D.C. Feb. 23, 2024), notices of appeal
+filed, Nos. 24-5105, 24-5112 (D.C. Cir.).
+
+
+
+
+                                             6
+Case: 22-51069      Document: 134-1       Page: 7    Date Filed: 06/26/2024
+
+
+
+
+                                No. 22-51069
+
+
+supplemental proxy voting guidance for the benefit of investment advisers as
+they adjusted to the new rule.      Supplement to Commission Guidance
+Regarding Proxy Voting Responsibilities of Investment Advisers, 85 Fed.
+Reg. 55,155 (Sept. 3, 2020). The 2020 Rule was intended to become effective
+on December 1, 2021. 2020 Rule, 85 Fed. Reg. at 55,122.
+      The 2020 Rule never went into effect. The SEC rescinded it in
+November 2021, a month before proxy firms were required to comply with
+the notice-and-awareness conditions. The rescission process began shortly
+after a new SEC chairman, Defendant Gary Gensler, took office. In June
+2021, Chairman Gensler directed his staff to reconsider the 2020 Rule and
+suspended its enforcement in the meantime. Chair Gary Gensler, Statement
+on the Application of the Proxy Rules to Proxy Voting Advice, SEC (June 1,
+2021), https://www.sec.gov/news/public-statement/gensler-proxy-2021-0
+6-01; SEC Division of Corporation Finance, Statement on Compliance, SEC
+(June 1, 2021), https://www.sec.gov/news/public-statement/corp-fin-pro
+xy-rules-2021-06-01.
+       Appellants challenged this suspension in a previous case before the
+same district court. The district court held that the suspension was unlawful
+because it was done without notice and comment.             Nat’l Ass’n of
+Manufacturers v. SEC, 631 F. Supp. 3d 423 (W.D. Tex. 2022). This holding
+was of limited consequence, however, since the SEC managed to rescind the
+2020 Rule formally before the district court issued its decision in
+September 2022.
+      The agency’s proposal to rescind the 2020 Rule was published in
+November 2021, following a closed-door meeting between Chairman Gensler
+and opponents of the 2020 Rule. Proxy Voting Advice, 86 Fed. Reg. 67,383,
+67,385 n.24 (November 26, 2021). The comment period for the proposal was
+thirty-one days and encompassed portions of the Thanksgiving, Hanukkah,
+
+
+
+
+                                      7
+Case: 22-51069           Document: 134-1           Page: 8      Date Filed: 06/26/2024
+
+
+
+
+                                       No. 22-51069
+
+
+and Christmas holidays. See id. at 67,383 (identifying December 27, 2021, as
+the deadline for comments). Unsurprisingly, far fewer comments were filed
+during this highly truncated period than had addressed the 2019 Proposed
+Rule. After the comment period closed, the SEC adopted the proposed
+rescission over the dissent of two commissioners. Proxy Voting Advice,
+87 Fed. Reg. 43,168 (July 19, 2022) [hereinafter 2022 Rescission].
+        To justify rescission, the agency cited the same timeliness and
+independence concerns that the 2020 Rule had, according to the 2020 SEC,
+“substantially address[ed], if not eliminate[d] altogether.” See 2020 Rule,
+85 Fed. Reg. at 55,138. It explained that the rescission was supported by:
+        the continued, strong opposition to the [2020 Rule’s notice-
+        and-awareness] conditions from many institutional investors
+        and other [proxy firm] clients, as well as many of the
+        commenters on the 2021 Proposed Amendments, who have
+        continued to raise concerns that the 2020 Final Rules would
+        have adverse effects on the cost, timeliness, and independence
+        of proxy voting advice.
+2022 Rescission, 85 Fed. Reg. at 43,170.                 In the agency’s view, these
+concerns were “sufficiently significant” to justify rescinding the 2020 Rule’s
+notice-and-awareness conditions. Id. at 43,175.
+        But the 2022 Rescission did not only rescind the notice-and-
+awareness conditions. It also deleted the explanatory note the 2020 Rule had
+added to the anti-fraud regulation and rescinded the supplemental proxy
+voting guidance that had been adopted simultaneously with the 2020 Rule.
+See 2022 Recission, 87 Fed. Reg. at 43,178–82.3
+
+
+
+        _____________________
+        3
+          The 2022 Rescission left certain aspects of the 2020 Rule in place. For instance,
+it did not disturb the formal classification of proxy voting advice as a form of solicitation.
+
+
+
+
+                                              8
+Case: 22-51069          Document: 134-1           Page: 9      Date Filed: 06/26/2024
+
+
+
+
+                                       No. 22-51069
+
+
+                                C. Procedural History
+        Shortly after the 2022 Rescission was finalized, Appellants National
+Association of Manufacturers and Natural Gas Services Group, Inc., filed
+suit against the SEC, bringing claims under the Administrative Procedure
+Act (“APA”). They argued that the 2022 Rescission was arbitrary and
+capricious for two reasons: (1) the agency failed to provide an adequate
+justification for contradicting its prior factual finding that the 2020 Rule did
+not threaten the timeliness and independence of proxy voting advice, and (2)
+the agency failed to justify the 2022 Rescission on its own terms. They also
+contended that the thirty-one-day comment period did not provide interested
+parties a meaningful opportunity to comment on the proposal.4 And they
+made substantive arguments (which they have abandoned on appeal) that
+challenged the portions of the 2022 Rescission concerning the explanatory
+note and the supplemental guidance.
+        The district court rejected each of these arguments and granted
+summary judgment in favor of the SEC. This appeal followed.
+                                  II. Discussion
+        This court reviews the district court’s grant of summary de novo,
+applying the same standard of review as the district court. Baylor Cnty. Hosp.
+Dist. v. Price, 850 F.3d 257, 261 (5th Cir. 2017). The APA supplies the
+
+        _____________________
+Id. at 43,169. Nor did it disturb certain conflicts of interest disclosure requirements that
+the 2020 Rule adopted. Id.; see 17 C.F.R. 204.14a-2(b)(9)(i).
+        4
+           Appellants raise this argument again on appeal. The condensed comment
+period—which coincided with the holiday season and end of year reporting requirements
+for registrants—seems to have been designed to elicit as few comments as possible. And it
+certainly accomplished that purpose. But in light of our conclusion that the 2022
+Rescission was arbitrary and capricious, we need not address the agency’s truncated
+procedure.
+
+
+
+
+                                             9
+Case: 22-51069      Document: 134-1         Page: 10   Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+standard here, directing courts to “hold unlawful and set aside agency
+action” that is “arbitrary, capricious, an abuse of discretion, or otherwise not
+in accordance with law.” 5 U.S.C. § 706(2). “The APA’s arbitrary-and-
+capricious standard requires that agency action be reasonable and reasonably
+explained.” FCC v. Prometheus Radio Project, 141 S. Ct. 1150, 1158 (2021).
+Applying this standard entails considering whether “the agency has acted
+within a zone of reasonableness and, in particular, has reasonably considered
+the relevant issues and reasonably explained the decision.” Id.; accord Wages
+& White Lion Invs., L.L.C. v. FDA, 16 F.4th 1130, 1136 (5th Cir. 2021).
+       An administrative agency may alter or rescind its policies, including
+when a new administration enters office. Appellants do not dispute the
+SEC’s authority to do so. Moreover, when an agency makes such a change,
+it “need not always provide a more detailed justification than what would
+suffice for a new policy created on a blank slate.” FCC v. Fox Television
+Stations, Inc., 556 U.S. 502, 515, 129 S. Ct. 1800, 1811 (2009). But when “its
+new policy rests upon factual findings that contradict those which underlay
+its prior policy,” a more detailed explanation is required. Id. at 515–16,
+129 S. Ct. 1800, 1811.     An agency’s failure to explain its decision to
+“disregard[] facts . . . that underlay . . . the prior policy” is arbitrary and
+capricious. Id. at 516, 129 S. Ct. 1800, 1811.
+       By rescinding the 2020 Rule, the SEC acted arbitrarily and
+capriciously in two ways. First, the agency failed adequately to explain its
+decision to disregard its prior factual finding that the notice-and-awareness
+conditions posed little or no risk to the timeliness and independence of proxy
+voting advice. Second, the agency failed to provide a reasonable explanation
+why these risks were so significant under the 2020 Rule as to justify its
+rescission. These shortcomings require vacatur of the 2022 Rescission, but
+only to the extent it rescinded the notice-and-awareness conditions.
+
+
+
+
+                                       10
+Case: 22-51069       Document: 134-1        Page: 11    Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+         A. Failure to Explain Decision to Disregard Prior Findings
+       In 2020, the SEC found that the risks to timeliness and independence
+had been “substantially address[ed], if not eliminate[d] altogether,” by the
+modifications to the 2019 Proposed Rule. 2020 Rule, 85 Fed. Reg. at 55,138.
+Just two years later, the SEC found that these same risks were, in fact,
+significant under the 2020 Rule and justified its rescission. This factual
+finding contradicted the factual finding that underlay the 2020 Rule. The
+SEC was therefore required, under the Supreme Court’s decision in Fox, to
+provide a more detailed explanation of why rescission was justified. But it
+failed to provide such an explanation.
+       The SEC argues that the Fox detailed-explanation requirement is
+inapplicable here because the 2022 Rescission “did not reject any prior
+factual findings.” It characterizes the decision to rescind the 2020 Rule as a
+mere “policy judgment” arising from a reassessment of the magnitude of
+risks to timeliness and independence. The agency also asserts that, in
+adopting the 2020 Rule, it did not determine that the notice-and-awareness
+provisions posed no risk to timeliness and independence—and thus did not
+contradict any such finding in the 2022 Rescission.
+       The SEC’s reassessment of the risk level posed by the 2020 Rule was
+not a policy judgment but rather a new factual finding that contradicted an
+earlier one. Case law supports evaluating the quantum of risk assessed by an
+agency as a factual finding. See Organized Vill. of Kake v. U.S. Dep’t of Agric.,
+795 F.3d 956, 968 (9th Cir. 2015) (Department of Agriculture’s
+determination that an environmental plan regulating an Alaskan forest
+“pose[d] only minor risks to roadless values” (a benchmark for ecological
+and other benefits) was a factual finding that directly contradicted the
+agency’s earlier determination that the plan “posed a high risk to ‘the
+extraordinary ecological values’” of the forest). In other contexts, this court
+
+
+
+
+                                       11
+Case: 22-51069       Document: 134-1        Page: 12     Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+has also treated risk assessments as findings of fact. See, e.g., Ball v. LeBlanc,
+792 F.3d 584, 592 (5th Cir. 2015) (“The predicate findings of a substantial
+risk of serious harm and officials’ deliberate indifference to the risk are
+factual findings.”); United States v. Mitchell, 709 F.3d 436, 443 (5th Cir.
+2013) (treating the question whether the release of a person “would create a
+substantial risk of bodily injury” as “a factual finding” reviewed for
+clear error).
+       As the above cases recognize, risk is measured on a continuum, and
+the determination whether a risk is high or low, substantial or insubstantial,
+is a factual finding drawn from the record available to an agency or court. The
+SEC’s argument that it never determined that the 2020 Rule posed no risks
+to timeliness and independence is therefore unavailing.            It makes no
+difference whether the 2020 Rule found zero risk to timeliness and
+independence or minimal risk. The 2020 Rule to some extent supports either
+conclusion. See, e.g., 2020 Rule, 85 Fed. Reg. at 55,112 (“[W]e believe we
+have addressed the concerns [regarding timeliness and independence.] . . .
+[T]he rule does not create the risk that [proxy voting] advice would be
+delayed or that the independence thereof would be tainted as a result of a
+registrant’s pre-dissemination involvement.”), 56,138–39 (“[T]he final
+amendments will substantially address, if not eliminate altogether, the
+concerns raised by commenters related to objectivity and timing pressure
+associated with the proposed engagement process.”), 56,139 (stating that the
+amendments will “mitigate” and “reduce” concerns related to
+independence). Either way, the SEC contradicted itself two years later by
+placing these risks so far along the continuum that they were not only present
+but “sufficiently significant” to justify rescinding the 2020 Rule. 2022
+Rescission, 87 Fed. Reg. at 43,175.
+       Because of this contradiction, the agency was required, under Fox, to
+give “a more detailed explanation” as to why it was abandoning its prior
+
+
+
+                                       12
+Case: 22-51069       Document: 134-1         Page: 13    Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+factual finding that the 2020 Rule posed minimal, if any, risks to timeliness
+and independence. Instead, the agency acknowledged only that while it
+believed in 2020 that it had mitigated the concerns about timeliness and
+independence, on reappraisal, the 2022 SEC believed that those risks were
+too high to justify keeping the 2020 Rule. Id. at 43,174–75 (“We weigh these
+competing concerns differently today . . . .”). This was the agency equivalent
+of saying, “That was then—this is now.” The agency did not engage in any
+analysis of its prior finding regarding the level of risk or explain why it had
+changed its mind. To be sure, it pointed to various comments complaining
+that risks to timeliness and independence existed under the 2020 Rule. It did
+not do so, however, as part of a “detailed explanation,” and certainly not one
+offered to justify the agency’s about-face. Indeed, the SEC does not argue
+on appeal that the 2022 Rescission provided the sort of explanation Fox
+requires; it argues only that Fox does not apply—which, as noted above, is
+wrong. Fox applies, and the 2022 Rescission was arbitrary and capricious
+because it failed to explain its about-face on the interpretation of prior factual
+findings.
+            B. Failure to Justify 2022 Rescission on Its Own Terms
+       Even apart from its insufficiency under Fox, the SEC’s justification
+for the 2022 Rescission was arbitrary and capricious on its own terms. The
+2022 Rescission was allegedly based on concerns about the timeliness and
+independence of proxy voting advice. But, as Appellants argue, neither of
+these concerns was “reasonable [or] reasonably explained” in the rulemaking
+process. Prometheus Radio, 141 S. Ct. at 1158.
+
+
+
+
+                                        13
+Case: 22-51069       Document: 134-1        Page: 14       Date Filed: 06/26/2024
+
+
+
+
+                                   No. 22-51069
+
+
+                                 1. Timeliness
+        Timeliness was raised as a concern in 2019, when the proposed rule
+would have required proxy firms to set aside time for registrants to review
+and provide feedback on advice before the advice was distributed to clients.
+2019 Proposed Rule, 84 Fed Reg. at 66,531. This requirement plausibly
+threatened proxy firms’ capacity to deliver timely advice to clients by
+requiring firms to take action and interact with registrants before the firms
+had delivered their advice to clients. But the 2020 Rule did away with the
+pre-dissemination requirement, instead requiring proxy firms to share their
+advice with registrants at the same time they shared it with clients. It is thus
+wholly implausible that the 2020 Rule’s contemporaneous-disclosure
+requirement would pose a threat to timely delivery of proxy voting advice.
+The advice could be delivered at the usual time; it simply had to be delivered
+to registrants as well.
+        Even so, commenters on the 2022 Rescission continued to raise
+timeliness concerns, which were largely recycled from comments on the 2019
+Proposed Rule. See Commissioner Hester M. Peirce, U-Turn: Comments on
+Proxy    Voting    Advice,   SEC     (July 13,    2022),       https://www.sec.
+gov/news/statement/peirce-statement-proxy-voting-advice-071322 (“The
+Commission received letters in support of the Redo Proposal as well. These
+letters did not include new information to justify the Commission’s U-Turn.
+Instead, they reiterated concerns that commenters had raised during the
+prior rulemaking process.”). The SEC apparently recognizes that it cannot,
+now, rely on timing concerns related to the abandoned pre-dissemination
+requirement.
+        It has therefore shifted focus on appeal, and now attempts to locate
+remaining timeliness concerns in the aggregate compliance burdens on proxy
+firms arising from the 2020 Rule’s notice-and-awareness conditions. But the
+
+
+
+
+                                       14
+Case: 22-51069       Document: 134-1         Page: 15    Date Filed: 06/26/2024
+
+
+
+
+                                  No. 22-51069
+
+
+2022 Rescission hardly discusses this idea. Only one sentence mentions
+“additional compliance burdens,” and it is a quotation of a comment in the
+agency’s summary of the comments received on the proposed rescission.
+2022 Rescission, 87 Fed. Reg. at 43,171. A review of the 2022 Rescission
+otherwise indicates that the agency relied, unquestioningly, on commenters’
+purported concerns about timeliness, without actually linking the
+requirements of the 2020 Rule to those concerns. See Motor Vehicle Mfrs.
+Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43, 103 S. Ct.
+2856, 2866 (1983) (“[T]he agency must examine the relevant data and
+articulate a satisfactory explanation for its action including a ‘rational
+connection between the facts found and the choice made.’” (citation
+omitted)); see also El Paso Elec. Co. v. FERC, 76 F.4th 352, 364 (5th Cir. 2023)
+(“[A]ll agency action, even ‘predictive judgment[s] based on the evidence’
+available, must be ‘reasonable and reasonably explained.’” (quoting
+Prometheus Radio, 141 S. Ct. at 1160)). And it did so without even addressing
+comments that disputed the purported concerns about timeliness, including
+comments submitted by the two Appellant organizations. See Carlson v.
+Postal Regul. Comm’n, 938 F.3d 337, 346 (D.C. Cir. 2019) (“These public
+comments called into question the justifications offered by the Postal Service,
+and therefore the Commission should have evaluated [their merits].”); Texas
+v. Biden, 10 F4th 538, 555 (5th Cir 2021) (“Nodding to concerns raised by
+commentors only to dismiss them in a conclusory manner is not a hallmark
+of reasoned decision-making.” (quoting Gresham v. Azar, 950 F.3d 93, 103
+(D.C. Cir. 2020), vacated and remanded, 142 S. Ct. 1665 (2022))).
+       In sum, not only is timeliness in delivering proxy recommendations a
+facially irrational concern of proxy firms under the 2020 Rule, but the SEC’s
+failure either to explain the reasons why it was motivated by that concern or
+to address commenters’ disagreements are clear indicators of arbitrary and
+capricious rulemaking.
+
+
+
+
+                                        15
+Case: 22-51069        Document: 134-1       Page: 16   Date Filed: 06/26/2024
+
+
+
+
+                                 No. 22-51069
+
+
+                                2. Independence
+       The independence concern has more potential than the timeliness
+concern to be reasonably explained, but the SEC failed to provide a
+reasonable explanation in the 2022 Rescission itself.        To show that it
+adequately identified independence as a justification for rescinding the 2020
+Rule, the SEC relies primarily on one passage in the 2022 Rescission. It is a
+quotation (in a footnote) of a comment contending that the 2020 Rule “could
+jeopardize the independence of proxy advice as proxy advisory firms may feel
+pressure to tilt voting recommendations in favor of management more often,
+to avoid critical comments from companies that could draw out the voting
+process and expose the firms to costly threats of litigation.” 2022 Rescission,
+87 Fed. Reg. at 43,175.
+       In the 2022 Rescission, the SEC nowhere explains how a drawn-out
+voting process would affect the independence of proxy voting advice. But
+the proxy firms have no interest in whether the voting process becomes
+drawn out as to registrants. To the contrary, a major purpose of the 2020
+Rule was to enlighten shareholders when registrants choose to respond to
+proxy firm advice. The impact on the shareholder voting process does not
+affect proxy firms.
+       Nor does the SEC explain how the notice-and-comment conditions
+would expose firms to costly threats of litigation any more than would be the
+case in their absence. In fact, the SEC adopts a commenter’s statement that
+ISS and Glass Lewis voluntarily provide some registrants with their proxy
+advice at the time of its dissemination to clients; if so, there is no change in
+the potential threats of litigation. On appeal, however, the SEC modifies its
+position to aver that the 2020 Rule would have exposed proxy firms “to
+potential ‘threats of litigation’ over the adequacy of the mechanism used to
+make their clients aware of” registrants’ responses. But this concern is not
+
+
+
+
+                                       16
+Case: 22-51069        Document: 134-1       Page: 17   Date Filed: 06/26/2024
+
+
+
+
+                                 No. 22-51069
+
+
+mentioned in the 2022 Rescission. And “[i]n reviewing an agency’s action,
+we may consider only the reasoning ‘articulated by the agency itself’; we
+cannot consider post hoc rationalizations.” Data Mktg. P’ship, LP v. United
+States Dep’t of Lab., 45 F.4th 846, 856 (5th Cir. 2022) (quoting State Farm,
+463 U.S. at 50, 103 S. Ct. at 2870).
+       The two other independence-related justifications that the SEC offers
+on appeal are also post hoc rationalizations. First, the agency argues that the
+2020 Rule threatened “the independent role” of proxy firms because the
+awareness condition would have required firms to become “a conduit for
+disseminating registrants’ (and only registrants’) views to their clients.”
+This notion is not discussed in the 2022 Rescission, which in considering the
+threat to independence focused on the threat to the “independence of proxy
+voting advice,” not on some generalized threat to the independent role of
+proxy firms. See 2022 Rescission, 87 Fed. Reg. at 43,169. And to the extent
+it implies a First Amendment concern about the awareness condition of the
+2020 Rule, any such concern was rejected at that time. 2020 Rule, 85 Fed.
+Reg. at 55,117–118.
+       Second, the SEC contends that “adding new compliance burdens
+triggered only when a registrant responds to a [proxy firm’s] advice creates
+an incentive for” proxy firms to favor management in voting
+recommendations.       This theory—that the increased cost of opposing
+management would have discouraged proxy firms from doing so—is not
+advanced in the 2022 Rescission. The only support for it comes from a
+summary of a comment in the 2020 Rule, the reasoning of which the agency
+did not adopt. See 2020 Rule, 85 Fed. Reg. at 55,139. And even if the SEC
+believes this to be a “common-sense proposition,” the agency was still
+required to explain the proposition when justifying its decision to rescind the
+notice-and-awareness conditions. See State Farm, 463 U.S. at 43, 103 S. Ct.
+at 2866 (requiring agencies to “articulate” a “rational connection between
+
+
+
+                                       17
+Case: 22-51069      Document: 134-1         Page: 18   Date Filed: 06/26/2024
+
+
+
+
+                                 No. 22-51069
+
+
+the facts found and the choice made” (citation omitted)); Hisp. Affs. Project
+v. Acosta, 901 F.3d 378, 389 (D.C. Cir. 2018) (stating that agencies have an
+“‘affirmative burden’ to explain all of the ‘key assumption[s]’ embedded in
+its new regulations” (citation omitted)).
+       Because the SEC did not offer reasonable or reasonably explained
+justifications for the decision to rescind the 2020 Rule, its action was
+arbitrary and capricious for this additional reason.
+                          C. Vacatur and Severance
+       Appellants seek to vacate the entire 2022 Rescission, including the
+portions that deleted the explanatory note to the anti-fraud provision and
+rescinded the supplemental proxy voting guidance. The SEC advocates
+either remand without vacatur or, if this court were to vacate and remand,
+severance of the portions of the 2022 Rescission that do not concern the
+notice-and-awareness conditions.
+       As an initial matter, vacatur with remand is the appropriate remedy
+for the SEC’s APA violation. “Under section 706 of the APA, when a court
+holds that an agency rule violates the APA, it ‘“shall”—not may—“hold
+unlawful and set aside” [the] agency action.’” Nat’l Ass’n of Private Fund
+Managers v. SEC, No. 23-60471, 2024 WL 2836655, at *12 (5th Cir. June 5,
+2024) (citation omitted). Accordingly, “vacatur of an agency action is the
+default rule in this Circuit.” Cargill v Garland, 57 F.4th 447, 472 (5th Cir.
+2023) (en banc), aff’d, No. 22-976, 2024 WL 2981505 (U.S. June 14, 2024).
+The SEC has not demonstrated that this case warrants departing from this
+general rule.
+       That leaves the question whether the entire 2022 Rescission should
+be vacated, or just the portion concerning the notice-and-awareness
+conditions. Appellants argue that the entire 2022 Rescission should be
+vacated because the portions concerning the explanatory comment and the
+
+
+
+
+                                      18
+Case: 22-51069       Document: 134-1         Page: 19     Date Filed: 06/26/2024
+
+
+
+
+                                   No. 22-51069
+
+
+supplemental guidance (neither of which Appellants challenge substantively
+on appeal) are inseparable from the portion concerning the notice-and-
+awareness conditions. We disagree.
+       The SEC included a severability clause in the 2022 Rescission:
+       If any of the provisions of these amendments, or the application
+       thereof . . . is held to be invalid, such invalidity shall not affect
+       other provisions or the application of such provisions . . . that
+       can be given effect without the invalid provision or application.
+       In particular, the amendments to Rule 14a–2(b)(9) [pertaining
+       to     the      notice-and-awareness        conditions]      operate
+       independently from the amendments to Rule 14a–9 [pertaining
+       to the explanatory comment].
+2022 Rescission, 87 Fed. Reg. at 43,182–83. The Supreme Court has held,
+in the statutory context, that courts “should adhere to the text of [a]
+severability clause” in the absence of “extraordinary circumstances.” Barr
+v. Am. Ass’n of Pol. Consultants, Inc., 140 S. Ct. 2335, 2349 (2020); see also
+Alaska Airlines, Inc. v. Brock, 480 U.S. 678, 686, 107 S. Ct. 1476, 1481 (1987)
+(“This Court has held that the inclusion of such a clause creates a
+presumption that Congress did not intend the validity of the statute in
+question to depend on the validity of the constitutionally offensive
+provision.”).      Appellants have not identified any extraordinary
+circumstances here.
+       Nor is severability warranted under the two factors that the D.C.
+Circuit considers when resolving severability issues in the agency rulemaking
+context. One factor is whether there is “substantial doubt” that “the agency
+would have adopted the same disposition regarding the unchallenged portion
+[of the rule] if the challenged portion were subtracted.” Nasdaq Stock Mkt.
+LLC v. Sec. & Exch. Comm’n, 38 F.4th 1126, 1144 (D.C. Cir. 2022) (citation
+omitted). The other is “whether the remaining parts can ‘function sensibly
+
+
+
+
+                                        19
+Case: 22-51069      Document: 134-1       Page: 20    Date Filed: 06/26/2024
+
+
+
+
+                                 No. 22-51069
+
+
+without the stricken provision.’” Id. (citation omitted). The severability
+clause in the 2022 Rescission dispels any doubt about what the SEC would
+have done if the rescission of the notice-and-awareness conditions were
+subtracted. And Appellants have not shown that the portions concerning the
+explanatory note and the supplemental guidance cannot function sensibly in
+the absence of that rescission. Accordingly, these two portions are severable.
+                            III. Conclusion
+       We REVERSE the district court’s judgment, VACATE the 2022
+Rescission to the extent it rescinded the 2020 Rule’s notice-and-awareness
+conditions, and REMAND to the SEC.
+
+
+
+
+                                     20
+

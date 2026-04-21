@@ -1,0 +1,1462 @@
+Appellate Case: 19-9612    Document: 010110754199      Date Filed: 10/17/2022    Page: 1
+                                                                                 FILED
+                                                                     United States Court of Appeals
+                                      PUBLISH                                Tenth Circuit
+
+                      UNITED STATES COURT OF APPEALS                       October 17, 2022
+
+                                                                        Christopher M. Wolpert
+                              FOR THE TENTH CIRCUIT                         Clerk of Court
+                          _________________________________
+
+  SUNCOR ENERGY (U.S.A.), INC.,
+
+        Petitioner,
+
+  v.                                                         No. 19-9612
+
+  UNITED STATES ENVIRONMENTAL
+  PROTECTION AGENCY,
+
+        Respondent.
+                          _________________________________
+
+                       Petition for Review from an Order of the
+                          Environmental Protection Agency
+                        _________________________________
+
+ Sean Marotta (Danielle Desaulniers Stempel, with him on the briefs), Hogan Lovells US
+ LLP, Washington, DC, appearing for Petitioner.
+
+ Caitlin McCusker, Attorney, Environment and Natural Resources Division, United States
+ Department of Justice, Washington, DC (Todd Kim, Assistant Attorney General,
+ Environment and Natural Resources Division, United States Department of Justice,
+ Washington, DC, and Susan Stahle, Attorney, Office of the General Counsel, United
+ States Environmental Protection Agency, Washington, DC with her on the brief),
+ appearing for Respondent.
+                        _________________________________
+
+ Before HOLMES, Chief Judge, BRISCOE and MORITZ, Circuit Judges.
+                    _________________________________
+
+ BRISCOE, Circuit Judge.
+                      _________________________________
+
+       Petitioner Suncor Energy (U.S.A.) Inc. (Suncor) owns and operates two adjacent
+
+ oil refining operations in Commerce City, Colorado. Those operations are commonly
+Appellate Case: 19-9612     Document: 010110754199          Date Filed: 10/17/2022      Page: 2
+
+
+
+ known as the East Refinery and the West Refinery. In December 2018, Suncor filed with
+
+ the United States Environmental Protection Agency (EPA) two petitions, one for the East
+
+ Refinery and one for the West Refinery, seeking an extension of a temporary exemption
+
+ that Congress had granted to “small refineries” from complying with the Clean Air Act’s
+
+ Renewable Fuel Standard Program. The EPA denied the two petitions in a written
+
+ decision issued on October 25, 2019. Suncor then filed a timely petition for review of the
+
+ EPA’s decision with this court. Exercising jurisdiction pursuant to 42 U.S.C.
+
+ § 7607(b)(1), we grant Suncor’s petition for review, vacate the EPA’s decision, and
+
+ remand to the EPA for further proceedings.
+
+                                              I
+
+        a) The Renewable Fuel Standard Program
+
+        “In 2005, Congress amended the Clean Air Act to establish the Renewable Fuel
+
+ Standard . . . Program” (RFS Program). Growth Energy v. Envtl. Prot. Agency, 5 F.4th 1,
+
+ 7 (D.C. Cir. 2021) (citing Energy Policy Act of 2005, Pub. L. No. 109–58, 119 Stat. 594).
+
+ The RFS Program, with a goal of “mov[ing] the United States towards greater reliance on
+
+ clean energy, . . . calls for annual increases in the amount of renewable fuel introduced
+
+ into the U.S. fuel supply.” Id. More specifically, the RFS Program calls for increasing
+
+ annual “applicable volumes” of four categories of renewable fuel for the transportation
+
+ sector: total renewable fuel, advanced biofuel, cellulosic biofuel, and biomass-based
+
+ diesel. 42 U.S.C. § 7545(o)(2)(B)(i)(I)–(IV). The specified applicable volumes for these
+
+ first three categories are prescribed by statute for each year through 2022, and for
+
+                                              2
+Appellate Case: 19-9612     Document: 010110754199          Date Filed: 10/17/2022      Page: 3
+
+
+
+ biomass-based diesel through 2012.1 Id. For subsequent years, the EPA is directed by
+
+ statute to determine the applicable volumes. Id. § 7545(o)(2)(B)(ii).
+
+        Congress directed the EPA to promulgate regulations “contain[ing] compliance
+
+ provisions applicable to refineries, blenders, distributors, and importers, as appropriate.”
+
+ Id. § 7545(o)(2)(A)(iii)(I). Although Congress did not define the term “refinery” in the
+
+ Clean Air Act, the EPA had in place, at the time that Suncor filed its petitions in this
+
+ case, a regulation that defined “refinery” to mean “any facility, including but not limited
+
+ to, a plant, tanker truck, or vessel where gasoline or diesel fuel is produced, including any
+
+ facility at which blendstocks are combined to produce gasoline or diesel fuel, or at which
+
+ blendstock is added to gasoline or diesel fuel.”2 40 C.F.R. § 80.2(h) (2019).
+
+        Congress afforded a “temporary exemption” from the RFS Program for “small
+
+ refineries.” 42 U.S.C. § 7545(o)(9)(A); see 40 C.F.R. § 80.1441. That “temporary
+
+ exemption” effectively includes three components. First, Congress granted all small
+
+ refineries a blanket exemption from the requirements of the RFS Program through 2011.
+
+ 42 U.S.C. § 7545(o)(1)(K), (o)(9)(A)(i). Second, Congress directed the Department of
+
+
+
+
+        1
+           For example, “[f]or 2006, Congress ordained the inclusion of 4 billion gallons of
+ renewable fuel in the Nation’s fuel supply.” HollyFrontier Cheyenne Refining, LLC v.
+ Renewable Fuels Assoc., 141 S. Ct. 2172, 2175 (2021). “By 2022, the number will climb
+ to 36 billion gallons.” Id.
+        2
+         The EPA has since amended this regulation to remove the subsections. See Fuels
+ Regulatory Streamlining, 85 Fed. Reg. 78412, 78415, 78465–66 (Dec. 4, 2020). The
+ regulatory definition of “refinery,” however, remains the same.
+                                              3
+Appellate Case: 19-9612      Document: 010110754199         Date Filed: 10/17/2022      Page: 4
+
+
+
+ Energy (DOE) to conduct a study “to determine whether compliance with the
+
+ requirements of [the RFS Program] would impose a disproportionate economic hardship
+
+ on small refineries,” and it in turn directed the EPA to extend the temporary exemption
+
+ “for a period of not less than 2 additional years” for any small refineries identified by the
+
+ DOE.3 Id. § 7545(o)(9)(A)(ii)(I), (II). Third, Congress authorized small refineries “at
+
+ any time” to “petition the Administrator for an extension of the [temporary statutory]
+
+ exemption . . . for the reason of disproportionate economic hardship.” Id.
+
+ § 7545(o)(9)(B)(i); see 40 C.F.R. § 80.1441(e)(2). In HollyFrontier, the Supreme Court
+
+ interpreted this statutory extension provision to mean that “[a] small refinery can apply
+
+ for (if not always receive) a hardship extension ‘at any time,’” even if it saw a lapse in
+
+ exemption coverage in a previous year. 141 S. Ct. at 2181.
+
+        Congress defined the phrase “small refinery” in the Clean Air Act to “mean[] a
+
+ refinery for which the average aggregate daily crude oil throughput for a calendar year
+
+ (as determined by dividing the aggregate throughput for the calendar year by the number
+
+ of days in the calendar year) does not exceed 75,000 barrels.” 42 U.S.C. § 7545(o)(1)(K).
+
+ The EPA’s own regulations define the phrase “small refinery” in an identical manner,
+
+ i.e., to mean “a refinery for which the average aggregate daily crude oil throughput (as
+
+
+
+
+        The EPA, pursuant to the findings of the DOE, extended the blanket exemption
+        3
+
+ through 2013 for certain refineries. See HollyFrontier Cheyenne Ref., LLC v. Renewable
+ Fuels Ass’n, 141 S. Ct. 2172, 2176 (2021). This extension, however, did not cover
+ Suncor’s Commerce City facilities.
+                                             4
+Appellate Case: 19-9612    Document: 010110754199        Date Filed: 10/17/2022        Page: 5
+
+
+
+ determined by dividing the aggregate throughput for the calendar year by the number of
+
+ days in the calendar year) does not exceed 75,000 barrels.” 40 C.F.R. § 80.1401.
+
+       b) Suncor and its East and West Refineries
+
+       Suncor owns and operates what it refers to as the East Refinery and the West
+
+ Refinery. The East Refinery and the West Refinery are located next to each other in
+
+ Commerce City, Colorado, which is situated north and east of downtown Denver (the
+
+ photograph below was taken from the northeast side of Suncor’s facilities looking
+
+ southwest). Suncor purchased the West Refinery facility in 2003 from ConocoPhillips.
+
+ Suncor purchased the East Refinery facility in 2005 from Valero Energy.
+
+
+
+
+                                             5
+Appellate Case: 19-9612     Document: 010110754199            Date Filed: 10/17/2022    Page: 6
+
+
+
+        According to Suncor, the East Refinery and the West Refinery separately report
+
+ their annual crude oil processing throughput data to the Energy Information
+
+ Administration (EIA). The EPA uses the data reported to the EIA to determine a
+
+ refinery’s crude oil throughput.
+
+        c) Suncor’s petitions for small refinery exceptions
+
+        On December 28, 2018, Suncor filed with the EPA two petitions for extension of
+
+ the small refinery exception: one for the East Refinery and another for the West Refinery.
+
+ The petition for the East Refinery alleged that in 2017 the East Refinery “had an average
+
+ aggregate daily crude oil throughput of no greater than 75,000 barrels per day (bpd)
+
+ (34,710 bpd for 2017),” and it projected that the average aggregate daily crude oil
+
+ throughput for 2018 would “remain[] less than 75,000 bpd (32,489 bpd projected for
+
+ 2018).” JA at 1. Similarly, the petition for the West Refinery alleged that in 2017 the
+
+ West Refinery “had an average aggregate daily crude oil throughput of no greater than
+
+ 75,000 barrels per day (bpd) (63,819 bpd for 2017),” and it projected that the average
+
+ aggregate daily crude oil throughput for 2018 would “remain[] less than 75,000 bpd
+
+ (67,528 bpd projected for 2018).” Id. at 24.
+
+        In July 2019, the EPA contacted Suncor and noted that, “[b]ased on the gasoline
+
+ and diesel production in the RFS [Program] compliance spreadsheet” that Suncor
+
+ submitted, “it look[ed] like the East and West refineries [we]re probably operating on an
+
+ integrated basis.” Id. at 54. To help it “better understand the level of integration
+
+ between” the East Refinery and the West Refinery, the EPA asked Suncor to provide the
+
+                                                6
+Appellate Case: 19-9612      Document: 010110754199           Date Filed: 10/17/2022      Page: 7
+
+
+
+ EPA with information “showing the stream flows (including approximate volumetric
+
+ flowrates) between the East and West refineries.” Id. Suncor responded by stating, in
+
+ pertinent part, that it “respectfully disagree[d] with any attempt to characterize the . . .
+
+ West Refinery and the . . . East Refinery as an integrated refinery for purposes of the
+
+ evaluation of its Petitions.” Id. at 56. Suncor in turn asserted that “[t]he legal test for
+
+ determining whether a refinery qualifies for an extension of its hardship exemption is set
+
+ forth in 40 C.F.R. § 80.144(e)(2) and § 80.1401,” and “is based solely on the daily
+
+ average crude oil throughput at each refinery during the applicable calendar years.” Id.
+
+ (emphasis in original). “Any other factors,” Suncor asserted, such as “the products
+
+ produced, the precise manner in which they are produced, or arguments about a refinery’s
+
+ level of integration,” “are legally irrelevant for determination of whether a refinery
+
+ qualifies as a ‘small refinery.’” Id.
+
+        Because Suncor did not provide the EPA with any additional information, the EPA
+
+ “conduct[ed] its own research to understand the present operating configuration of
+
+ Suncor’s Commerce City Refinery.” Id. at 75. Thereafter, on October 25, 2019, the EPA
+
+ sent a letter to Suncor concluding “that the East Refinery and the West Refinery [we]re
+
+ not eligible to petition for a small refinery exemption.” Id. at 73. The EPA began by
+
+ noting:
+
+        The statute does not define the word “refinery” or the phrase “average
+        aggregate daily crude oil throughput” in the “small refinery” definition.
+        EPA has promulgated various definitions of the word “refinery” in its
+        regulations which are informative but not definitive for this evaluation.
+        EPA has not defined the phrase “average aggregate daily crude oil
+
+                                                7
+Appellate Case: 19-9612      Document: 010110754199        Date Filed: 10/17/2022      Page: 8
+
+
+
+        throughput” in its regulations. The statutory and regulatory definitions
+        provide neither guidance nor limits on how EPA must evaluate the words
+        and phrases in the definition when determining whether a refinery meets
+        the “small refinery” definition. EPA therefore has discretion to choose
+        what factors and information it will consider in this evaluation.
+
+ Id. at 74 (footnote omitted).
+
+        The EPA in turn noted that in reaching its conclusion, it “considered the extent of
+
+ Suncor’s integration of the East Refinery and the West Refinery with respect to
+
+ production of non-renewable gasoline and diesel fuel since annual non-renewable
+
+ gasoline and diesel fuel production volume is the primary basis for determining Suncor’s
+
+ obligation to comply with the RFS program.” Id. The EPA noted in particular that
+
+ “Suncor’s East Refinery partially processes crude oil into gasoline blending components
+
+ and intermediate distillate feedstocks that are ultimately converted into gasoline, CBOB
+
+ [(conventional gasoline blendstock for oxygenate blending)], and ULSD [(ultra low
+
+ sulfur diesel)] in the West Refinery.” Id. The EPA “[t]herefore . . . consider[ed] the
+
+ aggregate volume of crude oil distilled at both the East Refinery and the West Refinery
+
+ when determining the eligibility of the East Refinery and the West Refinery to petition as
+
+ small refineries for an exemption from the RFS.” Id. (footnote omitted). The EPA
+
+ acknowledged “that the East Refinery and the West Refinery were among the small
+
+ refineries that received the original small refinery exemption in 2006,” but noted that
+
+        Suncor has since done significant work to integrate the process operations
+        of the two facilities so that they now function as a single refinery with an
+        average aggregate daily crude oil throughput that exceeded 75,000 bpd in
+        2017 and 2018 and thus no longer meet the definition of a small refinery.
+
+
+                                              8
+Appellate Case: 19-9612     Document: 010110754199          Date Filed: 10/17/2022       Page: 9
+
+
+
+ Id. In support, the EPA noted that, based upon its research, one of Suncor’s two
+
+ operations was primarily used to process crude oil into intermediate products and the
+
+ other of the two operations was in turn primarily used to process those intermediate
+
+ products into final products like gasoline and diesel. Id. at 74–76.
+
+        The EPA also noted that Suncor “routinely characterizes the East Refinery and the
+
+ West Refinery as a single refinery — the Commerce City Refinery — in both public
+
+ presentations and business reports.” Id. at 76. For example, the EPA noted:
+
+        • Suncor’s website describes the Commerce City Refinery as a “98,000-
+        barrel-per-day refinery [that] produces gasoline, diesel fuel and paving-
+        grade asphalt.”
+        • Suncor’s 2018 Annual Report lists the Commerce City Refinery as a
+        single, 98,000 bpd refinery.
+        • Suncor described the Commerce City Refinery as a “nominal 90,000 bpd
+        Fuels Refinery in a June 10, 2010 presentation to the Crude Oil Quality
+        Association.
+        • In a 2005 article following Suncor’s acquisition of the East Refinery from
+        Valero, the Oil and Automotive Marketing News quotes Suncor President
+        and CEO, Rick George, as stating, “This acquisition provides an immediate
+        expansion of our presence in the Rocky Mountain marketplace,” and, “With
+        a capacity of 90,000 barrels per day, the integrated operation is expected to
+        be more competitive with refineries in Texas and Oklahoma.”
+
+ Id. (footnotes omitted).
+
+        Lastly, the EPA pointed to “the unified management chain at the Commerce City
+
+ Refinery and its operation as a single profit center.” Id. The EPA noted in support:
+
+        There is one vice president for the Commerce City Refinery: Donald
+        Austin. Mr. Austin, as vice-president of the Commerce City Refinery, “is
+        responsible for providing overall leadership for safe, reliable and profitable
+        operations, and is also accountable for environmental compliance and
+        quality of the facility.” Suncor did not submit to the EPA financial data for
+                                              9
+Appellate Case: 19-9612     Document: 010110754199           Date Filed: 10/17/2022     Page: 10
+
+
+
+         a separate East Refinery and a West Refinery, but rather provided only
+         aggregated financial information for the whole Commerce City Refinery in
+         its PI-588 form and financial statements.
+
+  Id. at 76–77 (emphasis in original) (footnotes omitted).
+
+         The EPA acknowledged but rejected Suncor’s assertion “that the East Refinery
+
+  and the West Refinery should be considered separate facilities because they have been
+
+  issued separate EPA facility identification (“ID”) numbers for use in EPA’s gasoline
+
+  programs and Title V air permitting,” or because those ID numbers “are referenced by
+
+  these separate facility ID numbers in EPA consent decrees.” Id. at 77. The EPA noted in
+
+  support:
+
+         These separate facility ID numbers were issued and referenced when each
+         refinery was owned by previous, separate owners, in contrast to the current
+         Suncor ownership and operation of the single integrated refinery.
+         Additionally, the objectives of the above-mentioned programs — regulating
+         the Reid vapor pressure, sulfur, and benzene content of gasoline, or
+         regulating stack emissions from the fired heaters or boilers — are very
+         different than those of the RFS program, where compliance (and, threshold
+         definitional eligibility for an exemption) is based primarily on annual
+         transportation fuel production volume. Since these programs have separate
+         objectives that are unrelated to the objectives of the RFS program, they are
+         not relevant to EPA’s consideration of Suncor’s eligibility as a small
+         refinery under the RFS program.
+
+  Id. (footnote omitted). Lastly, the EPA “note[d] that Suncor failed to mention that the
+
+  East Refinery and the West Refinery are registered as a single facility (facility ID 82133)
+
+  under EPA’s diesel sulfur program, consistent with EPA’s description of Suncor’s
+
+  integrated ULSD production above.” Id. Indeed, the EPA noted that, in Suncor’s cover
+
+  letter that accompanied its registration form for the EPA’s diesel sulfur program, Suncor
+
+
+                                              10
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022      Page: 11
+
+
+
+  stated: “Our intent is to operate these facilities as a single refinery with respect to EPA’s
+
+  Clean Diesel Program.” Id. (quotation marks and footnote omitted).
+
+         The EPA concluded its letter by stating:
+
+                 Based on the information available to EPA, including Suncor’s own
+         statements, it is evident that the Suncor East Refinery and the West
+         Refinery have been integrated to the point that they are now operated as a
+         single refinery with an average daily crude oil throughput that exceeded
+         75,000 bpd in both 2017 and 2018. * * * In order to properly account for
+         the integrated nature of Suncor’s operation, the most reasonable boundary
+         is one encompassing both refineries in order to combine the average
+         aggregate daily crude oil throughput and the overall transportation fuel
+         production volume from both refineries’ operations.
+
+                Given the preceding analysis and cited information, EPA has
+         determined that Suncor’s East Refinery and Suncor’s West Refinery do not
+         meet the definition of “small refinery” in the CAA and the regulations;
+         therefore, these entities are ineligible to petition for a small refinery
+         exemption. Accordingly, EPA is declining to evaluate Suncor’s 2018
+         petitions for a one-year small refinery exemption for these entities. The
+         effect of this determination is that as of January 1, 2018, the gasoline and
+         diesel production from the Commerce City Refinery remains subject to the
+         percent standards of 40 CFR § 80.1405, and the Commerce City Refinery is
+         subject to all other requirements applicable to obligated parties.
+
+  Id. at 77–78.
+
+         On December 23, 2019, Suncor initiated these proceedings by filing a petition for
+
+  review of the EPA’s October 25, 2019 decision.
+
+                                                II
+
+         Suncor raises two issues in its petition for review. First, Suncor argues that the
+
+  East Refinery and the West Refinery each satisfy the Clean Air Act’s definition of “small
+
+  refinery” and the EPA’s identical regulatory definition of that phrase, but that the EPA
+
+
+                                                11
+Appellate Case: 19-9612      Document: 010110754199           Date Filed: 10/17/2022      Page: 12
+
+
+
+  ignored the plain meaning of those definitions and effectively rewrote them by assessing
+
+  whether the East Refinery and the West Refinery were so “integrated” that they must be
+
+  treated as a single refinery. Second, Suncor argues that even if the Clean Air Act
+
+  permitted the EPA to consider integration or other factors as part of its determination of
+
+  whether the East Refinery and West Refinery constituted “small refineries,” the EPA’s
+
+  development and application of those standards in this case was arbitrary and capricious.
+
+  As we shall proceed to discuss, we reject Suncor’s first argument and conclude that the
+
+  statutory and regulatory definition of “small refinery” is ambiguous as applied to the East
+
+  Refinery and the West Refinery. But we agree, in part, with Suncor’s second argument
+
+  and, therefore, grant its petition for review, vacate the EPA’s decision, and remand this
+
+  matter to the EPA for further review.
+
+                                       Standards of review
+
+         We review Suncor’s petition for review under the Administrative Procedure Act
+
+  (APA). Sinclair Wyoming Refining Co. v. United States Environmental Protection
+
+  Agency, 887 F.3d 986, 990 (10th Cir. 2017). The APA requires courts, in pertinent part,
+
+  to “hold unlawful and set aside agency action, findings, and conclusions found to be . . .
+
+  arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law,” or
+
+  “in excess of statutory jurisdiction, authority, or limitations, or short of statutory right.” 5
+
+  U.S.C. §§ 706(2)(A), (C). In conducting our review under the APA, we “review
+
+  questions of statutory interpretation de novo.” Sinclair, 887 F.3d at 990.
+
+
+
+                                                12
+Appellate Case: 19-9612       Document: 010110754199          Date Filed: 10/17/2022      Page: 13
+
+
+
+      Did the EPA ignore the plain meaning of the Clean Air Act’s definition of “small
+             refinery” and the EPA’s own regulatory definition of “refinery”?
+
+         Suncor argues that the EPA ignored the plain meaning of the Clean Air Act’s
+
+  definition of “small refinery” and the EPA’s own regulatory definition of “refinery,” and
+
+  effectively rewrote those definitions in this case by assessing whether the East Refinery
+
+  and the West Refinery were so “integrated” that they must be treated as a single refinery.
+
+  Suncor argues in support that “[t]he plain meaning and statutory and regulatory definition
+
+  of ‘small refinery,’ ‘refinery,’ and all of the associated words are clear and unambiguous”
+
+  and, as a result, the “EPA has no discretion to interpret those terms.” Aplt. Br. at 15.
+
+         Curiously, the EPA, in its appellate response brief, makes two alternative
+
+  arguments regarding how it arrived at its decision to deny Suncor’s petitions. First, the
+
+  EPA argues that it “did not purport to interpret the statutory definition of ‘small refinery’
+
+  in adjudication of the petitions, but rather made a purely factual determination that the
+
+  East and West facilities were components of a single refinery.” Aple. Br. at 15–16.
+
+  Second, and alternatively, the EPA argues that “[t]o the extent that [it] construed the
+
+  statute at all, it addressed the statute’s silence on the question before it in a reasonable
+
+  and persuasive manner, and the Court should defer to that reasoning” under Skidmore v.
+
+  Swift, 323 U.S. 134 (1944). Id. at 16.
+
+         We conclude that the EPA’s first argument is belied by the record and, in any
+
+  event, cannot be reconciled with the statutory and regulatory framework that applies to
+
+  Suncor’s petitions. In its decision denying Suncor’s petitions, the EPA began by noting:
+
+
+                                                13
+Appellate Case: 19-9612      Document: 010110754199         Date Filed: 10/17/2022       Page: 14
+
+
+
+         The [Clean Air Act] does not define the word “refinery” or the phrase
+         “average aggregate daily crude oil throughput” in the “small refinery”
+         definition. EPA has promulgated various definitions of the word “refinery”
+         in its regulations which are informative but not definitive for this
+         evaluation. EPA has not defined the phrase “average aggregate daily crude
+         oil throughput” in its regulations. The statutory and regulatory definitions
+         provide neither guidance nor limits on how EPA must evaluate the words
+         and phrases in the definition when determining whether a refinery meets
+         the “small refinery” definition. EPA therefore has discretion to choose
+         what factors and information it will consider in this evaluation.
+
+  Id. at 74 (emphasis added) (footnote omitted). The EPA then considered at length the
+
+  individual circumstances of Suncor’s East Refinery and West Refinery. Ultimately, the
+
+  EPA concluded that, based upon its own “analysis and cited information,” the East
+
+  Refinery and West Refinery were “operat[ing] as a single refinery with an average daily
+
+  crude oil throughput that exceeded 75,000 bpd in both 2017 and 2018,” Id. at 77, 78.
+
+  Consequently, the EPA “determined that Suncor’s East Refinery and Suncor’s West
+
+  Refinery d[id] not meet the definition of ‘small refinery’ in the CAA and regulations.”
+
+  Id. at 78 (emphasis added).
+
+         In sum, the EPA’s own written decision indicates that the EPA concluded that the
+
+  statutory and regulatory definitions of “small refinery” did not provide specific “guidance
+
+  []or limits” on how the terms “refinery” and “average aggregate daily crude oil
+
+  throughput” should be “evaluated.” Id. at 74. Accordingly, the EPA proceeded as
+
+  though it “ha[d] discretion to choose what factors and information it w[ould] consider in
+
+  this evaluation.” Id. In other words, it is plain from the record that the EPA effectively
+
+  treated the term “refinery” as ambiguous, and it in turn exercised its discretion to
+
+
+                                               14
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022     Page: 15
+
+
+
+  interpret and apply that statutory term by identifying several factors that it believed were
+
+  relevant to determining whether the East Refinery and West Refinery each qualified as
+
+  “refineries.” The EPA also, after exercising its discretion to interpret and apply the
+
+  statutory term, made a factual determination regarding whether the East Refinery and
+
+  West Refinery operated together to produce final products.
+
+         In its alternative argument, the EPA argues that the Clean Air Act “does not
+
+  provide guidance or limits concerning how EPA should determine the boundaries of ‘a
+
+  refinery.’” Aple. Br. at 37. “Instead,” the EPA argues, “the statute leaves open the
+
+  important question of how to determine what constitutes ‘a refinery’ suggesting that
+
+  ‘Congress has delegated to the EPA some discretion in determining whether, in its expert
+
+  opinion, a petitioner has presented sufficient evidence’ to demonstrate its eligibility.” Id.
+
+  (quoting WildEarth Guardians v. EPA, 728 F.3d 1075, 1082 (10th Cir. 2013)).
+
+  “Further,” the EPA argues, “the term ‘refinery’ must be examined in context with the
+
+  overall RFS program and as part of ‘a symmetrical and coherent regulatory scheme.’” Id.
+
+  (quoting FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 133 (2000)). The
+
+  EPA in turn argues that “[n]othing in the statute compels EPA to adopt the broadest
+
+  possible construction of a ‘refinery’ as Suncor urges.” Id. at 38. The EPA notes that it
+
+  “has also defined the word ‘refinery’ differently in the context of different regulatory
+
+  programs depending on their unique structure and purpose,” and “[i]n its decision letter,
+
+  EPA noted two ‘informative’ instances where it defined ‘refinery’ and ‘petroleum
+
+  refinery.’” Id. at 38–39 (quoting App. at 74 & n.7). Lastly, the EPA argues that Suncor’s
+
+                                               15
+Appellate Case: 19-9612     Document: 010110754199          Date Filed: 10/17/2022        Page: 16
+
+
+
+  “reading would subvert the RFS program and its small refinery exemption by permitting
+
+  obligated refineries to draw imaginary lines between its buildings or equipment when
+
+  petitioning for a small refinery exemption, simply to evade RFS compliance obligations.”
+
+  Id. at 39. “It cannot be the case,” the EPA argues, “that owners of refineries are free
+
+  under the statute to subdivide their refining operations into smaller and smaller pieces
+
+  such that each component processes less than 75,000 barrels of crude oil per day and is
+
+  thus eligible to petition independently for a small refinery exemption.” Id.
+
+         With these arguments in mind, we turn first to the text of the Clean Air Act. The
+
+  Clean Air Act defines the phrase “small refinery” to mean “a refinery for which the
+
+  average aggregate daily crude oil throughput for a calendar year (as determined by
+
+  dividing the aggregate throughput for the calendar year by the number of days in the
+
+  calendar year) does not exceed 75,000 barrels.” 42 U.S.C. § 7545(o)(1)(K). The EPA’s
+
+  own regulations contain an identical definition of the phrase “small refinery.” 40 C.F.R.
+
+  § 80.1401. As we interpret this definition, two requirements must be satisfied. First,
+
+  there must be a “refinery.” Second, the “average aggregate daily crude oil throughput” of
+
+  that refinery “for a calendar year” must “not exceed 75,000 barrels.”
+
+         The Clean Air Act does not define the word “refinery.” Suncor, citing the lack of
+
+  a statutory definition, asserts that “[t]he common meaning of ‘refinery’ is ‘a building and
+
+  equipment for refining or purifying metals, oil, or sugar.’” Aplt. Br. at 14 (quoting
+
+  Refinery, Webster’s Third New Int’l Dictionary 1908 (2002)). We conclude, however,
+
+  that this common meaning of the term “refinery” is ambiguous as applied to the facts
+
+                                               16
+Appellate Case: 19-9612      Document: 010110754199         Date Filed: 10/17/2022         Page: 17
+
+
+
+  found by the EPA in this case. That is because the East Refinery and the West Refinery
+
+  could each be considered a “refinery,” since they are each comprised of buildings and
+
+  equipment that are used to refine oil, but they could also together be considered a
+
+  “refinery” because, collectively, the buildings and equipment from both operations are
+
+  used to refine crude oil into final products such as gasoline and diesel.
+
+         The EPA has statutory authority to “prescribe such regulations as are necessary” to
+
+  carry out its functions under the Clean Air Act. 42 U.S.C. § 7601(a). At the time it
+
+  denied Suncor’s petitions, the EPA had in place a regulation, 40 C.F.R. § 80.2(h), that
+
+  defined the term “refinery” in the following manner:
+
+         Refinery means any facility, including but not limited to, a plant, tanker
+         truck, or vessel where gasoline or diesel fuel is produced, including any
+         facility at which blendstocks are combined to produce gasoline or diesel
+         fuel, or at which blendstock is added to gasoline or diesel fuel.
+
+  40 C.F.R. § 80.2(h) (2019).4 Suncor argues that this definition is unambiguous and
+
+  supports its position that the East Refinery and the West Refinery each qualify as a
+
+  “refinery” for purposes of the Clean Air Act. Aplt. Br. at 14 (“To the extent there is any
+
+  doubt about what constitutes a ‘refinery,’ EPA’s own definition leads to the same
+
+  conclusion.”). The EPA, in contrast, asserts that this regulatory definition “fails to
+
+  resolve the central question” because “[w]hile the East and West facilities satisfy that
+
+
+
+
+         4
+         The EPA’s regulations specify that “[t]he definitions of § 80.2” apply to the RFS
+  Program. 40 C.F.R. § 80.1401 (2019).
+
+                                               17
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022       Page: 18
+
+
+
+  regulatory definition, so does the Commerce City Refinery as a whole.” Aple. Br at 40.
+
+  In other words, the EPA asserts that this regulatory definition is ambiguous as applied to
+
+  the circumstances at issue here.
+
+         We agree with the EPA, but with one important caveat. The EPA’s 2019
+
+  regulatory definition of “refinery” employs, but does not define, the term “facility.”
+
+  Dictionaries commonly define the term “facility” in a broad manner to mean “the
+
+  physical means or equipment required for doing something.” Oxford English Dictionary
+
+  (3d Ed. 2007; modified version published online Dec. 2021). Under this common
+
+  definition, the East Refinery and the West Refinery could each qualify as a “facility,” but
+
+  they could also qualify as a “facility” if considered together.5
+
+         The EPA’s 2019 regulatory definition of “refinery” also employs, but does not
+
+  define, the term “produced.” The term “produce” is commonly defined to mean “[t]o
+
+  bring (a thing) into existence from its raw materials or elements, or as the result of a
+
+  process; to give rise to, bring about, effect, cause, make (an action, condition, etc.).” Id.
+
+  The problem with this definition, as applied to the fact pattern presented here, is that it
+
+  fails to meaningfully distinguish between a facility that handles all of the steps of
+
+  “producing” gasoline or diesel fuel and a facility that handles only some of the steps of
+
+
+
+
+         5
+           Suncor points to a slightly different dictionary definition that defines “a facility
+  [a]s ‘something . . . that is built, constructed, installed, or established to perform some
+  particular function or to serve or facilitate some particular end.’” Aplt. Br. at 14 (quoting
+  Facility, Webster’s Third New Int’l Dictionary 812–813 (2002)). This definition suffers
+  from the same as-applied ambiguity as the definition we have cited.
+                                                  18
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022     Page: 19
+
+
+
+  “producing” gasoline or diesel fuel. As we have noted, the evidence in the record, as
+
+  compiled by the EPA, indicates that the East Refinery and the West Refinery each played
+
+  some role in the production of gasoline and diesel fuel, but that the two facilities were
+
+  interdependent and, generally speaking, worked together to produce those products.
+
+         In sum, applying the common definitions of “facility” and “produced” to the
+
+  EPA’s 2019 regulatory definition of “refinery,” the East Refinery and the West Refinery
+
+  could each potentially be classified as a “refinery” because they each played some role in
+
+  the conversion of crude oil into gasoline and diesel, but yet the East Refinery and West
+
+  Refinery, together, could also be considered a single “refinery” because, as explained,
+
+  they work together to convert crude oil into gasoline and diesel. Thus, when applying the
+
+  common definitions of “facility” and “produced” to the EPA’s 2019 regulatory definition
+
+  of “refinery,” we are left with “a choice between (or among) more than one reasonable
+
+  reading.” Kisor v. Wilkie, 139 S. Ct. 2400, 2411 (2019).
+
+         All of this said, we note that the parties have ignored another EPA regulation that
+
+  appears to us to have relevance to the EPA’s determination of whether the East Refinery
+
+  and West Refinery should each be considered “small refineries” for purposes of the RFS
+
+  Program. At the time of the EPA’s decision in this case, the regulatory “Definitions”
+
+  section that is specific to the RFS Program, 40 C.F.R. § 80.1401, defined the term
+
+  “facility” to mean
+
+         all of the activities and equipment associated with the production of
+         renewable fuel starting from the point of delivery of feedstock material to
+         the point of final storage of the end product, which are located on one
+
+                                               19
+Appellate Case: 19-9612       Document: 010110754199          Date Filed: 10/17/2022       Page: 20
+
+
+
+         property, and are under the control of the same person (or persons under
+         common control).
+
+  40 C.F.R. § 80.1401 (2019).6 We think it fair to assume that the agency intended for this
+
+  regulatory definition of “facility” to be incorporated into its regulatory definition of
+
+  “refinery” set forth in § 80.2(h). Curiously, however, the EPA’s decision in this case
+
+  made no mention of this regulatory definition of “facility,” and the parties’ appellate
+
+  briefing does not cite, let alone discuss, this regulatory definition. Consequently, we
+
+  decline to interpret or apply the regulatory definition of “facility” in the first instance to
+
+  the facts presented here. But, absent further explanation from the EPA, we are left to
+
+  conclude that the EPA’s decision in this case, by wholly ignoring its own regulatory
+
+  definition of “facility,” was “not in accordance with law.”7 5 U.S.C. § 706(2)(A); see
+
+  Trout Unlimited v. Pirzadeh, 1 F.4th 738, 751 (9th Cir. 2021) (noting that federal
+
+  regulations “carry the force of law”); Atlantis Exp., Inc. v. Standard Transp. Serv., Inc.,
+
+
+
+
+         6
+           The EPA has since revised this regulatory definition slightly to read: “all of the
+  activities and equipment associated with the production of renewable fuel or a
+  biointermediate starting from the point of delivery of feedstock material to the point of
+  final storage of the end product, which are located on one property, and are under the
+  control of the same person (or persons under common control).” 40 C.F.R. § 80.1401
+  (2022) (emphasis added).
+         7
+          This reason alone would justify reversing the EPA’s decision and remanding to
+  the agency for further review. For purposes of judicial efficiency, however, we proceed
+  to address Suncor’s second argument regarding the EPA’s interpretation of the statutory
+  and regulatory term “refinery.”
+                                             20
+Appellate Case: 19-9612       Document: 010110754199          Date Filed: 10/17/2022       Page: 21
+
+
+
+  955 F.2d 529, 534 n.9 (8th Cir. 1992) (holding that federal regulations, until repealed,
+
+  “have the force of law”).
+
+           Is the EPA’s interpretation of the statutory and regulatory term “refinery”
+                                    arbitrary and capricious?
+
+           In its second issue on appeal, Suncor argues that even if it was permissible for the
+
+  EPA to interpret the statutory and regulatory term “refinery” as applied to the facts of this
+
+  case, the EPA’s interpretation of that term is not entitled to any deference by this court
+
+  and, in any event, should be rejected as arbitrary and capricious. For the reasons that
+
+  follow, we conclude that the EPA’s interpretation of the term “refinery” is arguably
+
+  subject to Skidmore deference, but that, in any event, the EPA’s interpretation was
+
+  arbitrary and capricious in certain respects. We therefore conclude that the EPA’s
+
+  decision must be vacated and the matter remanded to the EPA for further consideration.
+
+           a) Skidmore deference
+
+           Suncor asserts that the “EPA did not claim that it was entitled to any deference”
+
+  and “[t]hat alone is reason to stop with the plain language” of the statute. Aplt. Br. at 27
+
+  (emphasis in original). Suncor in turn argues that, “in any case, EPA’s erroneous
+
+  interpretation of the Clean Air Act is not entitled to Chevron or Skidmore deference, and
+
+  EPA’s flawed interpretation of its own regulation is not entitled to Auer deference.” Id.
+
+  at 28.
+
+           Addressing these arguments in turn, Suncor is wrong, as an initial matter, in
+
+  suggesting that the “EPA did not claim that it was entitled to any deference.” Aplt. Br. at
+
+
+                                                21
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022     Page: 22
+
+
+
+  27 (emphasis omitted). To be sure, the EPA did not directly assert in its written decision
+
+  denying Suncor’s petitions that its interpretation of the term “refinery” was entitled to
+
+  deference. But the EPA’s explanation otherwise indicated that it considered the statutory
+
+  term “refinery” to be ambiguous, and also considered its own identical regulatory
+
+  definition of that term to be ambiguous for purposes of resolving whether Suncor’s two
+
+  facilities should be treated as separate “refineries” or one “refinery.” That
+
+  contemporaneous explanation is precisely what we are called upon to review, and not any
+
+  post hoc rationalization offered by the EPA, such as its suggestion in its appellate brief
+
+  that it did not interpret the term “refinery” and simply made a factual determination
+
+  regarding the two facilities. See Hays Med. Ctr. v. Azar, 956 F.3d 1247, 1263 (10th Cir.
+
+  2020) (“[W]e do not consider the agency’s ‘post hoc rationalizations’ for [its] action.”).
+
+         That leaves the question of whether we should afford any measure of deference to
+
+  the EPA’s decision. When an agency reasonably interprets a genuinely ambiguous
+
+  regulation that it has promulgated, federal courts generally defer to that interpretation.
+
+  Kisor, 139 S. Ct. at 2408. This is known as Auer deference. See Auer v. Robbins, 519
+
+  U.S. 452 (1997); see also Bowles v. Seminole Rock & Sand Co., 325 U.S. 410 (1945).
+
+  Auer deference is “rooted in . . . a presumption that Congress would generally want the
+
+  agency to play the primary role in resolving regulatory ambiguities.” Kisor, 139 S. Ct. at
+
+  2412. In other words, “Congress usually intends to give” agencies “considerable latitude
+
+  to interpret the ambiguous rules they issue.” Id. “[T]he presumption that Congress
+
+  intended Auer deference” also “stems from the awareness that resolving genuine
+
+                                               22
+Appellate Case: 19-9612      Document: 010110754199         Date Filed: 10/17/2022         Page: 23
+
+
+
+  regulatory ambiguities often entails the exercise of judgment grounded in policy
+
+  concerns.” Id. at 2413 (quotation marks and brackets omitted). And Congress “is
+
+  attuned to the comparative advantages of agencies over courts in making such policy
+
+  judgments.” Id. Those advantages include agencies’ “unique expertise, often of a
+
+  scientific or technical nature, relevant to applying a regulation to complex or changing
+
+  circumstances.” Id. (quotation marks omitted). Further, agencies “can conduct factual
+
+  investigations, can consult with affected parties, [and] can consider how their experts
+
+  have handled similar issues over the long course of administering a regulatory program.”
+
+  Id. “And agencies . . . have political accountability, because they are subject to the
+
+  supervision of the President, who in turn answers to the public.” Id.
+
+         Importantly, however, the Supreme Court has emphasized “that Auer deference is
+
+  just a general rule” that “does not apply in all cases.” Id. at 2414 (quotation marks
+
+  omitted). Because “the administrative realm is vast and varied,” the Supreme Court
+
+  “ha[s] laid out some especially important markers for identifying when Auer deference is
+
+  and is not appropriate.” Id. at 2416. “To begin with, the regulatory interpretation . . .
+
+  must be the agency’s authoritative or official position, rather than [an] ad hoc statement
+
+  not reflecting the agency’s views.” Id. (quotation marks omitted). “Next, the agency’s
+
+  interpretation must in some way implicate its substantive expertise.” Id. at 2417.
+
+  “Finally, an agency’s reading of a rule must reflect fair and considered judgment to
+
+  receive Auer deference.” Id. (quotation marks omitted). “That means . . . that a court
+
+  should decline to defer to a merely convenient litigating position or post hoc
+
+                                               23
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022      Page: 24
+
+
+
+  rationalization advanced to defend past agency action against attack.” Id. (quotation
+
+  marks and brackets omitted). “And a court may not defer to a new interpretation,
+
+  whether or not introduced in litigation, that creates unfair surprise to regulated parties.”
+
+  Id. (quotation marks omitted).
+
+         If Auer deference does not apply, there remains the possibility of Skidmore
+
+  deference. See Skidmore v. Swift & Co., 323 U.S. 134 (1944). When a reviewing court
+
+  determines that an agency’s decision lacks the force of law, the court must still consider
+
+  the agency’s decision “under the framework set forth in Skidmore.” Carpio v. Holder,
+
+  592 F.3d 1091, 1098 (10th Cir. 2010). In such a case, the reviewing court decides the
+
+  case “based on [its] independent judgment and ‘follow[s] [the] agency’s [view] only to
+
+  the extent it is persuasive.’” Kisor, 139 S. Ct. at 2447 (Gorsuch, J., concurring) (quoting
+
+  Gonzales v. Oregon, 546 U.S. 243, 269 (2006)). In other words, a reviewing court
+
+  “accord[s] the [agency’s] interpretation a measure of deference proportional to the
+
+  thoroughness evident in its consideration, the validity of its reasoning, its consistency
+
+  with earlier and later pronouncements, and all those factors which give it power to
+
+  persuade.” Christopher v. SmithKline Beecham Corp., 567 U.S. 142, 159 (2012)
+
+  (quotation marks omitted) (applying Skidmore after concluding that Auer deference was
+
+  not warranted).
+
+         In the case at hand, the text of the EPA’s decision makes clear that the EPA
+
+  concluded that the statutory definition of “refinery” and its own identical regulatory
+
+  definition of the term “refinery” was ambiguous and that, as a result, the EPA had
+
+                                                24
+Appellate Case: 19-9612      Document: 010110754199         Date Filed: 10/17/2022      Page: 25
+
+
+
+  discretion to interpret and apply that term in light of the unique factual circumstances
+
+  presented in this case. There are key attributes of the EPA’s decision, however, that lead
+
+  us to conclude that the EPA’s interpretation is not entitled to Auer deference and is at best
+
+  entitled only to Skidmore deference. First, the EPA arrived at its interpretation in the
+
+  course of informally adjudicating Suncor’s petitions for exemptions from the RFS
+
+  Program. This meant that the EPA’s decision was specific not only to Suncor, but also to
+
+  the East and West Refinery, and the EPA arrived at its decision on the basis of its own
+
+  research regarding Suncor’s operations and without any of the “‘trial-like’ procedures
+
+  generally required by the APA.” Sinclair, 887 F.3d at 992. Second, “the decision[] w[as]
+
+  not made by the head of the EPA but instead by” a lower-level agency official. Id.
+
+  Third, “the decision[] hold[s] no precedential value for third parties.” Id. Indeed, “third
+
+  parties have [no] access to the decision[], since the EPA does not publicly release its
+
+  decisions because they contain confidential business information.” Id. Fourth, the EPA’s
+
+  integration analysis “is not a longstanding practice,” but instead appears to be entirely
+
+  new and driven by the unique facts of this case. Id. Finally, as we have already noted,
+
+  the EPA appears to have ignored a relevant regulatory definition—i.e., its own regulatory
+
+  definition of the term “facility”—in reaching its decision in this case.
+
+         b) The EPA’s interpretation of the term “refinery” is not entitled to
+            deference and must be vacated
+
+         That leaves us with the ultimate question of whether the EPA reasonably
+
+  interpreted the statutory and regulatory term “refinery” in reaching its decision in this
+
+
+                                               25
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022       Page: 26
+
+
+
+  case. Under Skidmore, we “accord the [agency’s] interpretation a measure of deference
+
+  proportional to the thoroughness evident in its consideration, the validity of its reasoning,
+
+  its consistency with earlier and later pronouncements, and all those factors which give it
+
+  power to persuade.” Christopher, 567 U.S. at 159 (quotation marks omitted). This
+
+  includes “the interstitial nature of the legal question, the related expertise of the agency,
+
+  the importance of the question to administration of the statute, the complexity of that
+
+  administration, and the careful consideration the agency had given the question over a
+
+  long period of time.” Sinclair, 887 F.3d at 991.
+
+         In considering the EPA’s analysis in the case, we must again emphasize that the
+
+  EPA appears to have ignored its own regulatory definition of “facility” in reaching its
+
+  decision. That alone, in our view, is sufficient to call into question both the thoroughness
+
+  and validity of the EPA’s decision. In other words, we find it difficult to characterize the
+
+  EPA’s interpretation as reasonable when it clearly appears to have ignored a regulatory
+
+  definition that may well have allowed it to resolve Suncor’s petitions without the need to
+
+  engage in any additional interpretation of the statutory and regulatory term “refinery.”
+
+         Even if we were to ignore the EPA’s failure to consider and apply its own
+
+  regulatory definition of “facility,” we are still not persuaded that the EPA’s interpretation
+
+  of the statutory and regulatory term “refinery” was entirely reasonable. The EPA stated
+
+  in its written decision that because “[t]he statutory and regulatory definitions provide[d]
+
+  neither guidance nor limits on how EPA must evaluate the” term “refinery,” it “therefore
+
+  ha[d] discretion to choose what factors and information it w[ould] consider in this
+
+                                                26
+Appellate Case: 19-9612      Document: 010110754199           Date Filed: 10/17/2022        Page: 27
+
+
+
+  evaluation.” App. at 74. The EPA proceeded to identify four factors that it believed
+
+  were relevant to its determination of whether Suncor’s two adjacent operations each
+
+  qualified as a “refinery.” First, the EPA stated that it considered relevant “the extent of
+
+  Suncor’s integration of the East Refinery and the West Refinery with respect to
+
+  production of non-renewable gasoline and diesel fuel since annual non-renewable fuel
+
+  production volume is the primary basis for determining Suncor’s obligation to comply
+
+  with the RFS program.” Id. In addition to the extent of integration of the two facilities,
+
+  the EPA concluded that three other factors were relevant to its determination of whether
+
+  the two operations constituted separate “refineries” or a single “refinery”: (1) Suncor’s
+
+  characterizations of the two operations “in both public presentations and business
+
+  reports”; (2) “the unified management chain at the Commerce City Refinery”; and
+
+  (3) Suncor’s “operation” of the East Refinery and the West Refinery “as a single profit
+
+  center.” Id. at 76.
+
+         Notably, neither the EPA’s contemporaneous decision, nor its appellate brief in
+
+  this case, identify any earlier or later EPA pronouncements that are consistent with its
+
+  decision in Suncor’s case to rely on integration, a unified management chain, and the
+
+  existence of a single profit center for purposes of determining whether a facility qualified
+
+  as a “refinery.” That said, the EPA asserts in its appellate brief that “[p]rior to the
+
+  determination here, EPA had not publicly addressed the question of whether adjacent
+
+  facilities seeking an exemption were in fact components of a large, single refinery and
+
+  therefore not eligible to petition for the [small refinery] exemption.” Aple. Br. at 28. In
+
+                                                27
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022      Page: 28
+
+
+
+  other words, it appears that the situation presented by the East Refinery and the West
+
+  Refinery is factually unique and, as a result, the EPA has never addressed such a situation
+
+  before. Consequently, while the lack of earlier and later pronouncements on this issue
+
+  does not appear to be fatal to the EPA’s decision, it does not lend any “power to
+
+  persuade” to the EPA’s decision.8
+
+         Turning to the individual factors cited by the EPA in its decision, we conclude that
+
+  the first factor, i.e., the extent of Suncor’s integration of the East Refinery and the West
+
+  Refinery, is neither arbitrary nor capricious, and is generally consistent with the text of
+
+  the Clean Air Act. As we have noted, both the Clean Air Act and the EPA’s own
+
+  regulations define the phrase “small refinery” to mean “a refinery for which the average
+
+  aggregate daily crude oil throughput for a calendar year (as determined by dividing the
+
+  aggregate throughput for the calendar year by the number of days in the calendar year)
+
+  does not exceed 75,000 barrels.” 42 U.S.C. § 7545(o)(1)(K); 40 C.F.R. § 80.1401. Thus,
+
+  as the EPA noted in its decision letter, “annual non-renewal fuel production volume is the
+
+
+
+
+         8
+           Suncor argues in Issue II of its appellate brief that the EPA deviated from its
+  prior policies and practices in making its decision in this case. Aplt. Br. at 45. More
+  specifically, Suncor points to the EPA’s “past practice of treating the East and West
+  Refineries as separate.” Id. The EPA, in its appellate response brief, concedes that the
+  East Refinery and West Refinery were “issued . . . separate facility identification numbers
+  in the context of [the EPA’s] gasoline programs and its Title V air permitting program.”
+  Aple. Br. at 30–31. But, the EPA argues, “the existence of distinct identification
+  numbers in other regulatory programs is irrelevant.” Id. at 31. “These identification
+  numbers,” the EPA notes, “were relics from the time when the facilities were separately
+  owned and operated.” Id. We conclude that the EPA has the better of the argument here.
+
+                                               28
+Appellate Case: 19-9612      Document: 010110754199           Date Filed: 10/17/2022      Page: 29
+
+
+
+  primary [statutory] basis for determining” whether Suncor was obligated to comply with
+
+  the RFS Program. JA at 74. If two purportedly independent refineries are in fact being
+
+  operated as a single, integrated unit to refine crude oil into final products, then it appears
+
+  entirely reasonable for the EPA to treat them as a single “refinery” and in turn examine
+
+  their collective “average aggregate daily crude oil throughput” in determining whether
+
+  that “refinery” qualifies as a “small refinery.” Indeed, to conclude otherwise would allow
+
+  refiners to characterize as “small refineries” individual portions of a larger, integrated
+
+  refinery, and thereby sidestep the requirements of the RFS Program.
+
+         Importantly, however, the EPA’s decision did not attempt to define integration or
+
+  otherwise create any type of bright line rule that would provide Suncor or other
+
+  companies with clear notice of what constitutes integration. Instead, the EPA’s decision
+
+  focused solely on the unique facts presented in Suncor’s case. In particular, the EPA
+
+  noted that “[t]he extent of integration between [the] East Refinery and West Refinery
+
+  [wa]s evident in the technical and operational features of the refineries’ transportation
+
+  fuel production,” and that the result was that “the two refineries . . . now operate as a
+
+  single refinery.” Id. at 75.
+
+         Thus, although we conclude that the level of integration can be a reasonable factor
+
+  for the EPA to consider in determining whether two operations constitute separate
+
+  “refineries” or a single “refinery,” the problem here is that the EPA’s decision does not
+
+  make clear what level of integration will result in two operations being treated as a single
+
+  “refinery” for purposes of the RFS Program. To be sure, it does seem clear from the
+
+                                                29
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022      Page: 30
+
+
+
+  EPA’s decision that if neither of the two operations independently convert crude oil into
+
+  gasoline or natural gas, then the two operations must be considered integrated and, in
+
+  turn, a single refinery. But those do not appear to be the facts presented here. Rather, the
+
+  EPA’s decision suggests that one of Suncor’s operations may have produced some
+
+  gasoline from crude oil, but otherwise sent most of its intermediate feedstocks to the
+
+  other operation for processing into final products. Thus, it is unclear precisely how much
+
+  of the “intermediate feedstocks” that are produced at one operation must remain at that
+
+  operation and be converted into gasoline or diesel in order for that operation to be
+
+  considered an independent “refinery.” In other words, on a more generic level, it is
+
+  unclear what percentage of crude oil that is processed by a particular operation must be
+
+  converted into final products (gasoline or diesel) by that operation in order for it to be
+
+  considered a standalone refinery9 (or, conversely, what percentage of final products
+
+  produced by an operation must have originated as crude oil at that same operation in
+
+  order for it to be considered a standalone refinery). All of which means that Suncor is
+
+  left without clear guidance on what it must do in order to ensure that the East Refinery
+
+  and the West Refinery each qualify as “small refineries” for purposes of the RFS
+
+  Program.
+
+
+
+
+         9
+          Suncor refers to this in its opening brief as the EPA’s “minimum-fuel-production
+  requirement.” Aplt. Br. at 44.
+                                               30
+Appellate Case: 19-9612      Document: 010110754199          Date Filed: 10/17/2022      Page: 31
+
+
+
+         The validity of the second and third factors identified by the EPA in its decision—
+
+  “the unified management chain at the Commerce City Refinery and its operation as a
+
+  single profit center”—is more problematic. Id. at 76. The EPA did not explain in its
+
+  decision how either of these two factors relate to the Clean Air Act’s definition of
+
+  “refinery,” or more generally, the purposes of the RFS Program. Unlike the integration
+
+  factor identified by the EPA, the “unified management chain” and “single profit center”
+
+  factors have no apparent relation to RFS Program generally or, more specifically, to the
+
+  key element identified by Congress in determining a “small refinery,” i.e., the average
+
+  daily throughput of crude oil. Because of this, it was incumbent upon the EPA to provide
+
+  some type of explanation for how these factors relate to the definition of “refinery.”
+
+  Absent such an explanation—and the EPA’s decision contains no such explanation—
+
+  these factors do not have the power to persuade and instead are arbitrary and capricious.
+
+         Ultimately, given the deficiencies we have identified in the EPA’s decision, we
+
+  must vacate the EPA’s decision and remand to the agency for further proceedings on
+
+  Suncor’s petitions. That does not mean that the EPA could not again arrive at the same
+
+  conclusion. But, to do so, the EPA would need to (a) either consider and apply its own
+
+  regulatory definition of “facility” to the circumstances presented here or explain why that
+
+  regulatory definition is inapplicable, (b) provide clear guidance on its integration
+
+  analysis, to the extent it continues to rely on that factor, and (c) omit any consideration of
+
+  Suncor’s management structure or public statements unless it can demonstrate that those
+
+
+
+                                               31
+Appellate Case: 19-9612     Document: 010110754199         Date Filed: 10/17/2022     Page: 32
+
+
+
+  factors are somehow consistent with, and have a reasonable connection to, the statutory
+
+  and regulatory definitions of the term “refinery.”
+
+                                              III
+
+         We hereby GRANT Suncor’s petition for review, VACATE the EPA’s decision,
+
+  and REMAND this matter to the EPA for further proceedings consistent with this
+
+  opinion.
+
+         We GRANT both of Suncor’s unopposed motions to seal. Suncor may file a
+
+  limited portion of the joint appendix under seal and provide partially redacted copies for
+
+  the public record, and also file Attachment A of its final opening brief (EPA’s decision
+
+  letter) under seal.
+
+
+
+
+                                              32
+

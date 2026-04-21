@@ -1,0 +1,2245 @@
+    24-1499-cv(L)
+    New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+                                 UNITED STATES COURT OF APPEALS
+                                     FOR THE SECOND CIRCUIT
+                                                August Term, 2024
+                     (Argued: March 20, 2025                  Decided: August 13, 2025)
+                              Docket Nos. 24-1499-cv(L); 24-1503-cv(CON)
+
+
+
+     STATE OF NEW JERSEY, STATE OF NEW YORK, STATE OF CONNECTICUT,
+                             Plaintiffs-Appellants,
+
+                                                         v.
+
+     SCOTT BESSENT, IN HIS OFFICIAL CAPACITY AS SECRETARY OF THE UNITED STATES
+      DEPARTMENT OF THE TREASURY AND ACTING COMMISSIONER OF THE INTERNAL
+       REVENUE SERVICE, UNITED STATES DEPARTMENT OF THE TREASURY,
+                         INTERNAL REVENUE SERVICE,
+                                Defendants-Appellees.
+
+
+
+
+                                VILLAGE OF SCARSDALE, NEW YORK,
+                                         Plaintiff-Appellant,
+
+                                                         v.
+
+     INTERNAL REVENUE SERVICE, UNITED STATES DEPARTMENT OF THE
+     TREASURY, SCOTT BESSENT, IN HIS OFFICIAL CAPACITY AS SECRETARY OF THE
+    UNITED STATES DEPARTMENT OF THE TREASURY AND ACTING COMMISSIONER OF THE
+                          INTERNAL REVENUE SERVICE,
+                              Defendants-Appellees.*
+1
+
+
+
+
+    * Pursuant to Federal Rule of Appellate Procedure 43(c)(2), the Clerk of Court is respectfully
+    directed to amend the official caption as set forth above.
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+Before:           SACK, ROBINSON, AND PÉREZ, Circuit Judges.
+
+       In 2019, the Treasury Department and Internal Revenue Service (the “IRS”)
+finalized a regulation (the “Final Rule”) interpreting 26 U.S.C. § 170, which
+governs the tax deduction of charitable contributions made to qualified
+organizations. The Final Rule requires that a taxpayer claiming a charitable-
+contribution deduction under § 170(c) reduce that deduction “by the amount of
+any state or local tax credit that the taxpayer receives or expects to receive in
+consideration for the taxpayer’s payment or transfer.” 26 C.F.R. § 1.170A-
+1(h)(3)(i).
+
+       New Jersey, New York, Connecticut, and the Village of Scarsdale each
+administers or plans to implement tax-credit programs implicated by the Final
+Rule. They sued the Treasury, IRS, and their officers (the “Government”) in the
+U.S. District Court for the Southern District of New York, alleging that the IRS
+exceeded its statutory authority under 26 U.S.C. § 170 in promulgating the Final
+Rule and that the Final Rule is arbitrary and capricious under the Administrative
+Procedure Act. The district court (Paul G. Gardephe, Judge) granted summary
+judgment for the Government, relying on Chevron deference to conclude that the
+IRS’s interpretation of ambiguous statutory language in § 170 is a permissible
+construction of the statute, and that the Final Rule is not arbitrary and capricious.
+
+       On appeal, we first confirm that at least New York and Scarsdale have
+Article III standing to bring their claims, which is sufficient for us to hear all
+Appellants’ claims. We conclude also that because there is no other statutory
+procedure by which Appellants may contest the Final Rule, the Anti-Injunction
+Act does not bar our hearing this appeal.
+
+       On the merits, we consider whether the IRS exceeded its statutory
+authority in light of the Supreme Court’s overturning of Chevron in Loper Bright
+Enterprises v. Raimondo, 603 U.S. 369 (2024). We interpret 26 U.S.C. § 170 and its
+implicit quid pro quo principle to allow the Final Rule’s prohibition of a tax
+deduction where the taxpayer has received a corresponding tax credit from the
+recipient of a donation—the very premise of Appellants’ tax-credit programs.
+We finally decide that the Final Rule is not arbitrary or capricious. We therefore
+AFFIRM the judgment of the district court.
+
+                                                     2
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+                                                     CHRISTOPHER J. IOANNOU, Deputy Attorney
+                                                     General (Jeremy M. Feigenbaum, Solicitor
+                                                     General, on the brief), for Matthew J. Platkin,
+                                                     Attorney General of New Jersey, Trenton,
+                                                     NJ; (Barbara D. Underwood, Solicitor
+                                                     General, Ester Murdukhayeva, Deputy
+                                                     Solicitor General, for Letitia James,
+                                                     Attorney General of New York, New York,
+                                                     NY, on the brief); (Joshua Perry, Michael
+                                                     Skold, Solicitors General, for William Tong,
+                                                     Attorney General of Connecticut, Hartford,
+                                                     CT, on the brief), for Plaintiffs-Appellants State
+                                                     of New Jersey, State of New York, State of
+                                                     Connecticut.
+
+                                                     DANIEL A. ROSEN, Baker & McKenzie LLP,
+                                                     New York, NY (Andrew Weiner,
+                                                     Kostelanetz LLP, Washington, DC, Todd
+                                                     Welty, Kostelanetz LLP, Atlanta, GA, on the
+                                                     brief), for Plaintiff-Appellant Village of
+                                                     Scarsdale, New York.
+
+                                                     REBECCA S. TINIO, Assistant United States
+                                                     Attorney (Benjamin H. Torrance, Assistant
+                                                     United States Attorney, on the brief) for Jay
+                                                     Clayton, United States Attorney for the
+                                                     Southern District of New York, New York,
+                                                     NY, for Defendants-Appellees.
+
+
+SACK, Circuit Judge:
+
+         In 2017, Congress ended the unlimited federal tax deduction for state and
+
+local taxes (“SALT”), capping the deduction at $10,000. Shortly thereafter, New
+
+Jersey, New York, Connecticut (together, the “States”), and the Village of
+                                                       3
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+Scarsdale, New York (“Scarsdale”) each enacted laws designed to help residents
+
+recover some of the tax benefit they had enjoyed under the uncapped SALT
+
+deduction by using a different deduction allowed by the federal tax code.
+
+Through these state and local programs, residents may voluntarily contribute
+
+money to a state-administered charitable fund and receive a sizeable state or
+
+local tax credit in return. Appellants envisioned that contributors could then
+
+deduct the full amount of their contributions from their federal taxable incomes
+
+pursuant to the charitable-contribution deduction codified at Internal Revenue
+
+Code (“I.R.C.”) § 170. See 26 U.S.C. § 170. But the Internal Revenue Service and
+
+Treasury Department (together, the “IRS”) 1 soon promulgated a new regulation
+
+(the “Final Rule”), upending Appellants’ tax-credit programs.
+
+         The Final Rule, which interprets I.R.C. § 170, requires that a taxpayer
+
+claiming a charitable-contribution deduction reduce that deduction “by the
+
+amount of any state or local tax credit that the taxpayer receives or expects to
+
+receive in consideration for the taxpayer’s payment or transfer.” 26 C.F.R.
+
+§ 1.170A-1(h)(3)(i). In effect, this nullifies any federal tax benefit a taxpayer
+
+might derive from participation in Appellants’ tax-credit programs. The States
+
+
+1The Internal Revenue Service is an executive branch agency housed within the Treasury
+Department. See, e.g., Samuels, Kramer & Co. v. Comm’r, 930 F.2d 975, 991 (2d Cir. 1991).
+                                                     4
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+and Scarsdale sued the IRS and its officers (the “Government”) in the U.S.
+
+District Court for the Southern District of New York, alleging, among other
+
+things, that the IRS exceeded its statutory authority under I.R.C. § 170 in
+
+promulgating the Final Rule and that the Final Rule is arbitrary and capricious
+
+under the Administrative Procedure Act. The district court (Paul G. Gardephe,
+
+Judge) granted summary judgment for the Government, relying on Chevron
+
+deference to conclude that the IRS’s interpretation of ambiguous statutory
+
+language in I.R.C. § 170 is a permissible construction of the statute, and that the
+
+Final Rule is not arbitrary or capricious. See generally New Jersey v. Mnuchin, Nos.
+
+19 Civ. 6642, 19 Civ. 6654, 2024 WL 1386080 (S.D.N.Y. Mar. 30, 2024).
+
+         On appeal, we first confirm that at least New York and Scarsdale have
+
+Article III standing to bring their claims, which is sufficient for us to hear all
+
+Appellants’ claims. We conclude also that because there is no other statutory
+
+procedure by which Appellants may contest the Final Rule, the Anti-Injunction
+
+Act does not bar our hearing this appeal.
+
+         On the merits, we revisit anew the question of whether the IRS exceeded
+
+its statutory authority in light of the Supreme Court’s overturning of Chevron in
+
+Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024). Loper Bright requires
+
+
+                                                     5
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+that, rather than defer to agency interpretation of ambiguous statutory language,
+
+we “use every tool at [our] disposal to determine the best reading of the statute
+
+and resolve the ambiguity.” 603 U.S. at 400. 2 We interpret I.R.C. § 170 and its
+
+implicit quid pro quo principle to allow the Final Rule’s prohibition of a tax
+
+deduction where the taxpayer has received a corresponding tax credit from the
+
+recipient of a donation—the very premise of Appellants’ tax-credit programs.
+
+We finally decide that the Final Rule is not arbitrary or capricious. We therefore
+
+AFFIRM the judgment of the district court.
+
+                                             BACKGROUND
+
+                  I.       Factual Background
+
+         On December 22, 2017, President Trump signed into law the Tax Cuts and
+
+Jobs Act (the “2017 Tax Act”), which capped federal income-tax deductions of
+
+state and local taxes at $10,000 for individuals and married taxpayers filing
+
+jointly, and at $5,000 for married taxpayers filing separately. 3 See An Act to
+
+
+
+2Unless otherwise indicated, when quoting cases, all internal quotation marks, alteration marks,
+emphases, footnotes, and citations are omitted.
+
+3On July 4, 2025, President Trump signed the One Big Beautiful Bill Act, which generally raises
+the SALT-deduction cap to $40,000 for taxable years 2025 through 2029, subject to a filer’s
+income level. In 2030, the SALT-deduction cap is set to revert to $10,000. See An Act to Provide
+for Reconciliation Pursuant to Title II of H. Con. Res. 14, Pub. L. No. 119–21 sec. 70120. These
+amendments to the SALT deduction do not affect this appeal.
+
+                                                     6
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+Provide for Reconciliation Pursuant to Titles II and V of the Concurrent
+
+Resolution on the Budget for Fiscal Year 2018, Pub. L. No. 115–97 (codified in
+
+relevant part at 26 U.S.C. § 164(a)-(b)). Before that, taxpayers were allowed to
+
+deduct much if not all of their SALT liability from their federal taxable income,
+
+subject to certain limitations. 4
+
+         The states of New Jersey, New York, and Connecticut all have large
+
+populations of taxpaying residents whose annual SALT liability exceeds the 2017
+
+Tax Act’s $10,000 deduction cap. 5 In response to the new limit on SALT
+
+deductions, those States sought a work-around that would mitigate the effects of
+
+
+4 The SALT deduction dates to Congress’s earliest attempt to levy a federal income tax to
+finance the Civil War, which included “a nearly unlimited SALT deduction.” See New York v.
+Yellen, 15 F.4th 569, 572–73 (2d Cir. 2021), cert. denied, 142 S. Ct. 1669 (2022). The Supreme Court
+later struck down the Civil War-era income tax, holding that “it violated the constitutional
+prohibition against direct taxes not apportioned among the States in proportion to their relative
+populations.” Id. at 573 (citing Pollock v. Farmers’ Loan & Tr. Co., 158 U.S. 601, 637 (1895)). After
+the Sixteenth Amendment was ratified in 1913, empowering Congress to tax incomes without
+regard to state apportionment, Congress immediately reinstated the federal income tax, with
+deductions permitted for “all national, State, county, school, and municipal taxes paid within
+the year, not including those assessed against local benefits.” Id. (quoting Act of Oct. 3, 1913, ch.
+16, § II(B), 38 Stat. 114, 167). The SALT deduction has persisted in the federal tax code in
+various forms, and subject to various limitations, since then. Id. at 573–74. In the period
+immediately preceding enactment of the 2017 Tax Act, “[e]ligible taxpayers could, subject to
+[various requirements], always elect to deduct all state and local real and personal property
+taxes as well as either all state and local income taxes or all state and local sales taxes.” Id. at
+574.
+
+5Those three states, plus Maryland, sued to enjoin enforcement of the SALT-deduction cap,
+claiming it was unconstitutional on its face or unconstitutionally coerced them to abandon their
+preferred fiscal policies. We rejected those arguments in Yellen, 15 F.4th at 579–84.
+
+                                                     7
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+the SALT-deduction cap on their residents. Each passed laws establishing state-
+
+administered charitable funds or empowering localities to create similar funds.
+
+Residents may make voluntary payments to those funds and receive a state or
+
+local tax credit in return. 6 The state or locality can then invest the funds in public
+
+programs like those otherwise financed by general tax revenues. This was not a
+
+novel policy innovation; many states already had longstanding programs in
+
+
+
+6The laws adopted in each jurisdiction function alike but are not identical. New York was the
+first to act. It created a state-administered charitable trust to support public healthcare and
+education initiatives. N.Y. State Fin. Law § 92-gg. In exchange for a contribution to the trust, a
+taxpayer in New York receives a state tax credit equal to 85% of her contribution. N.Y. Tax Law
+§ 606(iii). New York also authorized localities to establish similar charitable trusts and to offer
+local property-tax credits equal to up to 95% of a contribution’s value. N.Y. Gen. Mun. Law §§
+6-t, 6-u; N.Y. Real Prop. Tax Law § 980-a. Pursuant to this authorization, the Village of
+Scarsdale, New York created its own charitable fund and affiliated tax-credit program in which
+an owner of real property in Scarsdale can receive a property-tax credit worth 95% of his
+contribution to the fund. Scarsdale Village Code §§ 268-35–268-38.
+
+New Jersey likewise empowered localities to establish charitable funds for public purposes. A
+taxpayer who contributes to such a fund is entitled to a property-tax credit equal to 90% of the
+contribution amount. N.J. Stat. Ann. §§ 54:4-66.6–66.9.
+
+Connecticut’s law enables municipalities to designate “community supporting organizations”
+to receive donations in exchange for property-tax credits worth the lesser of (1) the amount of
+property tax owed by the donor, or (2) 85% of the amount of the donation. Conn. Gen. Stat.
+Ann. § 12-129v(b)–(c). A “community supporting organization” is one that, among other
+requirements, is “organized solely to support municipal expenditures for public programs and
+services, including public education” and must remit all donations received to the municipality.
+Id. § 12-129v(a)(2)(B).
+
+Because the tax credits each Appellant offers do not match donations dollar-for-dollar, the
+programs were expected to generate a net increase in state and local revenues to support a
+range of public projects.
+
+                                                     8
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+place to incentivize charitable giving with the offer of a tax credit. See Joseph
+
+Bankman et al., State Responses to Federal Tax Reform: Charitable Tax Credits, 87
+
+State Tax Notes 433 (2018) (cataloguing more than 100 charitable tax credits in 33
+
+states). But the States acknowledge that the tax-credit programs at issue here
+
+were enacted specifically in response to the new federal limit on SALT
+
+deductions.
+
+         Through these state and local programs, a taxpayer can contribute to her
+
+jurisdiction’s designated fund, receiving a tax credit that offsets her SALT
+
+liability by an amount worth 85 to 95 percent of her contribution. She could
+
+then, the States reasoned, deduct the contribution amount from her federal
+
+taxable income using the tax deduction for charitable contributions codified at
+
+I.R.C. § 170. That provision includes in its definition of “charitable contribution”
+
+a “contribution or gift to or for the use of . . . [a] State . . . or any political
+
+subdivision [thereof], . . . but only if the contribution or gift is made for
+
+exclusively public purposes.” 26 U.S.C. § 170(c)(1).
+
+         To illustrate, consider a hypothetical unmarried taxpayer in New York
+
+who owes $200,000 in state taxes. She might opt to give $200,000 to New York’s
+
+designated charitable fund, for which she would accrue a state-tax credit of
+
+
+                                                     9
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+$170,000, leaving her remaining state-tax liability at $30,000. See N.Y. Tax Law §
+
+606(iii) (authorizing an 85% tax credit). Then, when filing her federal tax return,
+
+she could deduct that $200,000 from her income as a charitable-contribution
+
+deduction. Assuming her income places her in the highest marginal bracket for
+
+federal income tax—currently set at 37%, see 26 U.S.C. § 1(j)—the deduction saves
+
+her $74,000 in federal tax. By taking advantage of the charitable-contribution
+
+deduction, which is not subject to a $10,000 limit, taxpayers in the States willing
+
+to make such contributions could thereby recover some of the federal tax benefit
+
+they had enjoyed under the previously uncapped SALT deduction.
+
+         Except the IRS got wise. On August 27, 2018, the IRS issued a notice of
+
+proposed rulemaking (the “Proposed Rule”). See Contributions in Exchange for
+
+State or Local Tax Credits, 83 Fed. Reg. 43,563 (proposed Aug. 27, 2018). The IRS
+
+observed that “it has become increasingly common for states and localities to
+
+provide state or local tax credits in return for contributions by taxpayers to or for
+
+the use of certain entities listed in section 170(c).” Id. at 43,564. The Proposed
+
+Rule would require taxpayers to reduce any charitable-contribution deduction
+
+claimed on federal income-tax returns by the amount of any state or local tax
+
+credit received “in consideration for the taxpayer’s payment or transfer.” Id. at
+
+
+                                                     10
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+43,571. Exempted from this new requirement were tax credits amounting to 15
+
+percent or less of a taxpayer’s contribution. Id.
+
+         After a period of public comment, the IRS promulgated a new regulation
+
+governing the availability of the charitable-contribution deduction (the “Final
+
+Rule”). 7 See Contributions in Exchange for State or Local Tax Credits, 84 Fed. Reg.
+
+27,513 (June 13, 2019). Interpreting I.R.C. § 170, the Final Rule states, “if a
+
+taxpayer makes a payment or transfers property to or for the use of an entity
+
+described in section 170(c), the amount of the taxpayer’s charitable contribution
+
+deduction under section 170(a) is reduced by the amount of any state or local tax
+
+credit that the taxpayer receives or expects to receive in consideration for the
+
+taxpayer’s payment or transfer.” 26 C.F.R. § 1.170A-1(h)(3)(i). Consistent with
+
+the Proposed Rule, the Final Rule retains an exception for any state or local tax
+
+credit worth 15 percent or less of a taxpayer’s contribution. Id. § 1.170A-
+
+1(h)(3)(vi).
+
+
+
+
+7 Over 7,700 comments were submitted and 25 entities requested to speak at a November 5, 2018
+public hearing. Contributions in Exchange for State or Local Tax Credits, 84 Fed. Reg. 27,513, 27,514
+(June 13, 2019). About 70% of the comments recommended that the IRS finalize the Proposed
+Rule without change. Id. at 27,515. The States each submitted comments opposing the
+Proposed Rule, and Scarsdale submitted comments requesting that the Proposed Rule be
+withdrawn.
+
+                                                     11
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+         Under the Final Rule, the same New York taxpayer who contributes
+
+$200,000 to that state’s designated fund and receives a corresponding state-tax
+
+credit worth $170,000 may claim only a $30,000 charitable-contribution deduction
+
+on her federal income-tax return (subtracting the $170,000 state-tax credit from
+
+the $200,000 contribution). See 26 C.F.R. § 1.170A-1(h)(3)(vii) (providing
+
+examples of how the Final Rule applies). Her federal-tax savings (again,
+
+assuming taxation at the 37% marginal rate) are now just $11,100—a far cry from
+
+the $74,000 she saved before implementation of the Final Rule.
+
+         Notably, the Final Rule distinguishes between those charitable
+
+contributions that yield a corresponding state tax credit and those that entitle the
+
+donor to a state tax deduction. Tax credits and tax deductions are two distinct
+
+types of tax benefit. Generally, “[a] credit has greater value to the taxpayer than
+
+a deduction or exemption. A credit directly reduces the amount of tax that must
+
+be paid, dollar for dollar, whereas a deduction reduces tax liability only
+
+indirectly by reducing the taxable [income].” United States v. Hemme, 476 U.S.
+
+558, 561 n.1 (1986). Although the Final Rule bars federal deductions of
+
+contributions for which the taxpayer receives a state or local tax credit, it
+
+provides that a state tax deduction claimed by a taxpayer for his contribution to a
+
+
+                                                     12
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+charitable entity does not “reduce [the federal] charitable contribution deduction
+
+under section 170(a),” provided that the state deduction “do[es] not exceed the
+
+amount of the taxpayer’s payment or the fair market value of the property
+
+transferred by the taxpayer.” 26 C.F.R. § 1.170A-1(h)(3)(ii). In other words, the
+
+Final Rule does not prevent a taxpayer from deducting in full a charitable
+
+contribution on his federal tax return, even though he also claimed the same
+
+deduction on his state tax return. It also does not require a taxpayer to reduce
+
+his charitable-contribution deduction by the value to him of the federal
+
+deduction itself. The Final Rule became effective on August 12, 2019. See 84 Fed.
+
+Reg. 27,513.
+
+         After New York enacted its tax credit program in April 2018, but before the
+
+IRS published the Proposed Rule in August of that year, New York’s designated
+
+public fund received $78.7 million from 487 contributions. After publication of
+
+the Proposed Rule, contributions to New York’s public fund “sharply
+
+decreased,” totaling just $25,416 from 17 contributions in 2019, the year the Final
+
+Rule became effective. Joint App’x at 77. In 2018, the fund established by
+
+Scarsdale received over $500,000 in contributions. Since the publication of the
+
+Proposed Rule, Scarsdale’s fund has received no further contributions. Localities
+
+
+                                                     13
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+in New Jersey and Connecticut had not yet finalized their public funds at the
+
+time the Proposed Rule was announced and halted their plans after it was
+
+published.
+
+                  II.      Procedural Background
+
+         On July 17, 2019, Scarsdale initiated its action against the Internal Revenue
+
+Service, the Treasury, and certain officers of these bodies in the U.S. District
+
+Court for the Southern District of New York, alleging that the Final Rule’s
+
+interpretation of I.R.C. § 170 is contrary to law and arbitrary and capricious, in
+
+violation of the Administrative Procedure Act (the “APA”), 5 U.S.C. § 706. The
+
+next day, the States sued the same defendants in the Southern District, alleging
+
+the same APA violations. 8 The cases were deemed related and assigned to the
+
+same district court judge.
+
+         The Government moved to dismiss both complaints on the basis that the
+
+plaintiffs lack Article III standing and that the claims are barred by the Anti-
+
+Injunction Act, 26 U.S.C. § 7421(a). The Government moved in the alternative for
+
+summary judgment, arguing that the IRS acted within its statutory authority in
+
+
+
+8The States also brought a claim under the Regulatory Flexibility Act, 5 U.S.C. §§ 601–12, which
+the district court dismissed on the Government’s motion. The States have not pursued this
+claim on appeal.
+
+                                                     14
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+promulgating the Final Rule and that the Final Rule is not arbitrary or capricious.
+
+The plaintiffs in both cases cross-moved for summary judgment, arguing that the
+
+Final Rule is unlawful because it conflicts with the meaning of I.R.C. § 170 and
+
+therefore exceeds the IRS’s statutory authority, and relies on irrational
+
+distinctions that are arbitrary and capricious. 9
+
+         On March 30, 2024, the district court issued its memorandum opinion and
+
+order. See Mnuchin, 2024 WL 1386080, at *1. It held that New Jersey and
+
+Connecticut “ha[d] not demonstrated that they have standing” and dismissed
+
+their claims against the Government. Id. at *11–13. The court concluded that
+
+New York and Scarsdale, on the other hand, had standing to bring their claims
+
+because they “demonstrated an injury in fact and causation, and that their
+
+alleged injury is redressable.” Id. at *13–14. The district court then held that the
+
+Anti-Injunction Act did not bar New York’s and Scarsdale’s claims. Id. at *15–17.
+
+         As to the merits, the district court applied Chevron deference and
+
+concluded that the IRS did not exceed its statutory authority in promulgating the
+
+Final Rule. Id. at *18–28; see Chevron, U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467
+
+U.S. 837 (1984), overruled by Loper Bright, 603 U.S. at 412–13. Nor, it held, is the
+
+
+9Briefing in the two related cases proceeded in tandem before the district court. The
+Government’s briefing in the two actions was identical.
+                                                     15
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+Final Rule arbitrary and capricious. Mnuchin, 2024 WL 1386080, at *28–30.
+
+Accordingly, the district court granted in part and denied in part the
+
+Government’s motions to dismiss, granted the Government’s motions for
+
+summary judgment, and denied the plaintiffs’ motions for summary judgment.
+
+Id. at *30.
+
+         The States and Scarsdale timely appealed. 10
+
+                                       STANDARD OF REVIEW
+
+         This Court reviews de novo a district court’s decision on a motion to
+
+dismiss for lack of subject-matter jurisdiction. Chinniah v. FERC, 62 F.4th 700, 702
+
+(2d Cir. 2023). We also review de novo a district court’s review of agency action.
+
+Kakar v. U.S. Citizenship & Immigr. Servs., 29 F.4th 129, 132 (2d Cir. 2022). Where,
+
+as here, an APA-based challenge to agency action presents “a pure question of
+
+law, a district court’s procedural decision to award summary judgment is
+
+generally appropriate,” and “[w]e review de novo such a grant.” Aleutian Cap.
+
+Partners, LLC v. Scalia, 975 F.3d 220, 229 (2d Cir. 2020).
+
+
+                                               DISCUSSION
+
+                  I.       Article III Standing
+
+
+10On July 10, 2024, this Court granted the Government’s unopposed motion to consolidate the
+States’ and Scarsdale’s appeals.
+                                                     16
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+         Before the district court, the Government contested Appellants’
+
+constitutional standing to challenge the Final Rule. Localities in New Jersey and
+
+Connecticut had not yet finalized their public funds at the time the IRS
+
+announced the Proposed Rule, and they halted their plans to do so after it was
+
+published. The district court accordingly held that any injury to those states’
+
+public funds was “highly attenuated” and too “speculative” to support standing,
+
+as the “potential tax credit programs . . . were never established.” Mnuchin, 2024
+
+WL 1386080, at *11. New York and Scarsdale, though, had implemented their
+
+tax-credit programs by the time the IRS rolled out the Proposed Rule, and each
+
+could point to an “actual and imminent” dive in program-related revenues “as a
+
+direct result of the 2018 Proposed Rule and the 2019 Final Rule.” Id. at *13.
+
+Those parties, the district court held, do have standing to challenge the Final
+
+Rule. Id. at *13–14.
+
+         On appeal, the Government appears to have relinquished its position that
+
+Appellants lack standing to pursue their claims, instead limiting its justiciability
+
+argument to the contention that the Anti-Injunction Act bars this suit, which
+
+topic we address below. Nevertheless, it is well established that we have “an
+
+independent obligation to assure that standing exists, regardless of whether it is
+
+
+                                                     17
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+challenged by any of the parties.” Antonyuk v. James, 120 F.4th 941, 1039–40 (2d
+
+Cir. 2024). We conclude that New York and Scarsdale indeed have standing and
+
+that their standing is sufficient for us to hear all Appellants’ claims.
+
+         Under Article III of the Constitution, “a plaintiff needs a personal stake in
+
+the case.” Biden v. Nebraska, 600 U.S. 477, 489 (2023). “That is, the plaintiff must
+
+have suffered an injury in fact—a concrete and imminent harm to a legally
+
+protected interest, like property or money—that is fairly traceable to the
+
+challenged conduct and likely to be redressed by the lawsuit.” Id. “If at least one
+
+plaintiff has standing, the suit may proceed.” Id.; see also Rumsfeld v. F. for Acad.
+
+& Inst’l Rts., Inc., 547 U.S. 47, 52 n. 2 (2006) (“[T]he presence of one party with
+
+standing is sufficient to satisfy Article III’s case-or-controversy requirement.”).
+
+         Our opinion in New York v. Yellen, 15 F.4th 569 (2d Cir. 2021), is instructive
+
+on the standing issue. There, the states of New York, Connecticut, New Jersey,
+
+and Maryland challenged the constitutionality of the $10,000 SALT-deduction
+
+cap that is also the genesis of the present appeal. Id. at 574–75. The states in
+
+Yellen alleged that the SALT-deduction cap would, among other things, make
+
+homeownership more expensive because taxpayers could no longer deduct the
+
+full amount of their property taxes from federally taxable income. Id. at 575.
+
+
+                                                     18
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+This, in turn, would work a loss of tax revenues for the states by “reduc[ing]
+
+demand in the housing market, causing lower prices and fewer sales, and
+
+lead[ing] to specific losses in tax revenue derived from property and real estate
+
+transfer taxes.” Id. at 576. We held that this was not the type of “generalized
+
+economic harm” that normally is insufficient to confer standing on a state
+
+government to challenge federal law. Id. at 576–77. Instead, “the chain of
+
+economic events” alleged by the states “str[uck] us as realistic, and the
+
+challenged action’s effect on their residents’ decisions seem[ed] to us entirely
+
+predictable.” Id. at 577. The states’ plausible allegation of “specific lost tax
+
+revenues” was enough to articulate an injury in fact and sufficed to support
+
+standing. Id.
+
+         Here, New York and Scarsdale each established public funds that offer
+
+contributors a tax credit ranging from 85 to 95 percent of a contribution, with the
+
+remaining tax collected generating a net increase in state and local revenue. Both
+
+proffered evidence that, before publication of the Proposed Rule, residents made
+
+significant contributions to the public funds, and each enjoyed a net increase in
+
+revenues that could then be spent on various public works and services. But the
+
+Proposed and Final Rules eliminated the incentive for residents to contribute, all
+
+
+                                                     19
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+but destroying this revenue stream. “[D]eclarations from tax and budgetary
+
+experts” submitted by New York and Scarsdale, in addition to “basic economic
+
+logic,” support the conclusion that the Final Rule caused both jurisdictions to
+
+“lose specific tax revenues.” Yellen, 15 F.4th at 576–77. This monetary loss is
+
+sufficiently concrete and particularized to establish an injury in fact. See Food
+
+Mktg. Inst. v. Argus Leader Media, 588 U.S. 427, 432–33 (2019).
+
+         As in Yellen, Appellants’ injury here is “fairly traceable to the challenged
+
+conduct.” Biden, 600 U.S. at 489. Whereas the states in Yellen demonstrated
+
+injury by tracing diminished property- and transfer-tax revenues to a diminution
+
+in homeownership, New York and Scarsdale demonstrate injury directly from
+
+the decline in contributions to their public funds after the Final Rule’s
+
+publication. And, as the district court observed, it is likely that contributions to
+
+New York’s and Scarsdale’s public funds would resume if the Final Rule were
+
+held unlawful and set aside, satisfying standing’s redressability component. See
+
+Mnuchin, 2024 WL 1386080, at *14.
+
+         Because “the presence of [at least] one party with standing is sufficient to
+
+satisfy Article III’s case-or-controversy requirement,” whether Connecticut and
+
+New Jersey also have standing is academic, and we decline to address the
+
+
+                                                     20
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+question. See Rumsfeld, 547 U.S. at 52 n.2; see also Bowsher v. Synar, 478 U.S. 714,
+
+721 (1986) (holding that that one plaintiff’s “clear” injury is “sufficient to confer
+
+standing under . . . Article III” and that the Court “therefore need not consider
+
+the standing issue as to” other plaintiffs).
+
+                  II.      The Anti-Injunction Act
+
+         Having determined that the plaintiffs have standing, we turn to the
+
+Government’s argument that this action is barred by the Anti-Injunction Act (the
+
+“AIA”). Because a well-established exception to the AIA applies here, we
+
+conclude that the AIA does not prevent our reaching the merits of Appellants’
+
+claims.
+
+         Notwithstanding the general rule that those adversely affected by agency
+
+action may sue under the APA, the AIA provides that “no suit for the purpose of
+
+restraining the assessment or collection of any tax shall be maintained in any
+
+court by any person, whether or not such person is the person against whom
+
+such tax was assessed.” 26 U.S.C. § 7421(a); see also 5 U.S.C. § 701(a)(1)
+
+(providing that the APA does not apply when another “statute[] preclude[s]
+
+judicial review”). An aggrieved taxpayer, barred by the AIA from seeking
+
+injunctive relief, generally has two options to challenge a tax assessment he
+
+
+                                                     21
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+thinks is unlawful: He may (1) pay the disputed tax and then sue the IRS in
+
+federal court for a refund—the so-called “pay first, litigate later” procedure, see
+
+26 U.S.C. §§ 6532(a), 7422; SEC v. Credit Bancorp, Ltd., 297 F.3d 127, 139 (2d Cir.
+
+2002); or (2) withhold the disputed tax and fight the deficiency notice levied
+
+against him in the U.S. Tax Court, see 26 U.S.C. §§ 6212, 6213. See also Enochs v.
+
+Williams Packing & Navigation Co., 370 U.S. 1, 7 (1962) (“The manifest purpose of
+
+[the AIA] is to permit the United States to assess and collect taxes alleged to be
+
+due without judicial intervention, and to require that the legal right to the
+
+disputed sums be determined in a suit for refund.”).
+
+         The Government contends that because Appellants’ suits aim to “restrain
+
+assessment or collection of taxes that would otherwise be due” by enjoining
+
+enforcement of the Final Rule, they are barred by the AIA. Gov’t Br. at 24. In the
+
+Government’s view, the Final Rule must instead be challenged by a taxpayer
+
+“who pays the tax, then seeks a refund on the ground that the [Final Rule] was
+
+unlawful and improperly increased their tax liability.” Id. But the Supreme
+
+Court rejected a similar proposition in South Carolina v. Regan, 465 U.S. 367, 378–
+
+
+
+
+                                                     22
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+81 (1984), and we did the same in New York v. Yellen, 15 F.4th at 577–79, both of
+
+which bind us here. 11
+
+         In Regan, South Carolina sought an injunction against the federal Tax
+
+Equity and Fiscal Responsibility Act (“TEFRA”), which taxed the interest on
+
+certain state-issued, unregistered bearer bonds. Regan, 465 U.S. at 371–72.
+
+Although South Carolina itself faced no direct tax liability under TEFRA—and
+
+therefore could not “pay first, litigate later”—it argued that the tax’s application
+
+to its citizens “destroy[ed] [South Carolina’s] freedom to issue obligations in the
+
+form that it chooses.” Id. at 371–72. The federal government urged that the AIA
+
+precluded South Carolina’s claim for injunctive relief, but the Supreme Court
+
+held that the AIA “was not intended to bar an action where . . . Congress has not
+
+provided the plaintiff with an alternative legal way to challenge the validity of a
+
+tax.” Id. at 373. South Carolina’s suit could proceed because there was no other
+
+“statutory procedure” by which it could contest TEFRA. Id. at 380. We applied
+
+Regan’s logic in Yellen, holding that the states’ challenge to the statutory SALT-
+
+
+
+
+11The Government “acknowledges that both the district court and a panel of [this] Court are
+bound by [Yellen],” but nevertheless maintains that Yellen is incorrect to preserve that argument
+“in case of further review.” Gov’t Br. at 25.
+                                                     23
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+deduction cap was justiciable because the states were otherwise “without any
+
+forum in which to assert [their] tax claims.” Yellen, 15 F.4th at 577.
+
+         So too here. Appellants “cannot assert their claims in a forum other than
+
+federal court and cannot themselves bring a refund suit” because the Final Rule
+
+imposes no direct tax obligations on them. Yellen, 15 F.4th at 578. Since
+
+Congress has not provided Appellants with an alternative avenue to challenge
+
+the Final Rule, the AIA does not bar their suits. Nor are Appellants “obliged to
+
+find taxpayers willing to litigate their claims and trust that those taxpayers will
+
+litigate them effectively.” Id. For one, Appellants’ suits are not aimed at
+
+vindicating the rights of taxpayers so much as remedying their own injuries
+
+resulting from the Final Rule—the revenues lost from diminished contributions.
+
+It is doubtful that Appellants could recruit a taxpayer able to present relevant
+
+arguments on their behalf, “as opposed to arguments that highlight the
+
+taxpayer’s more individual interests.” Id. at 578. Even if Appellants could recruit
+
+a taxpayer to undertake the heavy burden of litigating their position against the
+
+IRS, Regan acknowledges an exception to the AIA when “Congress has [not]
+
+provided an alternative avenue for an aggrieved party to litigate its claims on its
+
+own behalf.” Regan, 465 U.S. at 381 (emphasis added). It is therefore irrelevant
+
+
+                                                     24
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+whether a third-party taxpayer could also assert a challenge to the Final Rule.
+
+See Yellen, 15 F.4th at 578.
+
+         The Government’s entreaty that we limit the Regan exception to
+
+constitutional claims is similarly unavailing. That argument is premised on the
+
+fact that both Regan and Yellen involved constitutional challenges to federal tax
+
+law. But neither of those cases tethers its AIA analysis to the constitutional
+
+nature of the plaintiffs’ claims, and our precedents and those of our sister
+
+Circuits suggest that the Regan exception is not so cabined. See Larson v. United
+
+States, 888 F.3d 578, 587 n.11 (2d Cir. 2018) (noting that, under Regan, the
+
+plaintiff’s “ability to seek an injunction pursuant to the APA therefore also
+
+depends on our determination of the availability of alternate review” (emphasis
+
+added)); In re Westmoreland Coal Co., 968 F.3d 526, 536 (5th Cir. 2020) (explaining
+
+that courts view the exception in Regan “more broadly,” and concluding that
+
+“because bankruptcy court is the only place a debtor can” challenge certain
+
+statutory tax obligations, “the AIA does not bar adversary proceedings seeking
+
+to do so.”); In re Walter Energy, Inc., 911 F.3d 1121, 1142 (11th Cir. 2018) (“Because
+
+Walter Energy has no alternative remedy to seek relief [from certain statutory tax
+
+obligations], we conclude that the exception to the Anti-Injunction Act identified
+
+
+                                                     25
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+in Regan applies.”). Finding no support in the caselaw, we decline to graft a
+
+constitutional-claims requirement onto the Regan exception.
+
+         Without this injunctive action, Appellants would have no recourse to
+
+pursue their claims that the Final Rule exceeds the IRS’s rulemaking authority
+
+and that it is arbitrary and capricious under the APA. Accordingly, the Regan
+
+exception to the AIA applies, and the AIA does not foreclose federal court
+
+jurisdiction over Appellants’ claims.
+
+                  III.     Statutory Authority under I.R.C. § 170
+
+         Assured of our jurisdiction to hear this appeal, we first address
+
+Appellants’ argument that the Final Rule is contrary to I.R.C. § 170, which
+
+governs the federal tax deduction for charitable contributions. We conclude that
+
+the Final Rule correctly interprets I.R.C. § 170 as applied to Appellants’ tax-credit
+
+programs.
+
+         Our review begins with the bedrock principle that “an administrative
+
+agency’s power to promulgate legislative regulations is limited to the authority
+
+delegated by Congress.” Bowen v. Georgetown Univ. Hosp., 488 U.S. 204, 208
+
+(1988). “An administrative agency does not have authority to pass regulations
+
+that are inconsistent with the meaning of a statute.” Art & Antique Dealers League
+
+
+                                                     26
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+of Am., Inc. v. Seggos, 121 F.4th 423, 435 (2d Cir. 2024). When a litigant challenges
+
+an agency’s interpretation of a statute that it administers, “the question a court
+
+faces . . . is always, simply, whether the agency has stayed within the bounds of
+
+its statutory authority.” New York v. U.S. Dep’t of Homeland Sec., 969 F.3d 42, 74
+
+(2d Cir. 2020).
+
+         Under the APA, a court may review “[a]gency action made reviewable by
+
+statute and final agency action for which there is no other adequate remedy in a
+
+court.” 5 U.S.C. § 704. The APA directs courts to “interpret constitutional and
+
+statutory provisions” and to “hold unlawful and set aside agency action,
+
+findings, and conclusions found to be . . . not in accordance with law.”
+
+Id. § 706(2)(A).
+
+         To determine whether the IRS exceeded its statutory authority in
+
+promulgating the Final Rule, the district court adhered to the two-step
+
+framework set forth in Chevron, U.S.A., Inc. v. Natural Resources Defense Council,
+
+Inc., 467 U.S. 837 (1984). It concluded that I.R.C. § 170 “does not clearly and
+
+unambiguously address the specific question of whether contributions made to
+
+state and local governmental units in exchange for tax credits are ‘charitable
+
+contributions’ . . . and therefore fully deductible.” Mnuchin, 2024 WL 1386080, at
+
+
+                                                     27
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+*22. Next, it decided that the Final Rule’s construction of I.R.C. § 170 “is a
+
+reasonable policy for the IRS to pursue,” and that such construction was entitled
+
+to deference. Id. at *24.
+
+         Shortly after this appeal was filed, however, the Supreme Court ended
+
+Chevron deference. See Loper Bright Enters. v. Raimondo, 603 U.S. 369, 412 (2024)
+
+(“Chevron is overruled.”). “In the post-Chevron era, regardless of whether a
+
+statute is deemed to be ambiguous or unambiguous, interpretation of the statute
+
+is a question of law, and accordingly, it is the court, and not the administrative
+
+agency, that determines its meaning.” Art & Antique Dealers League, 121 F.4th at
+
+435. Confronted with statutory ambiguity, courts are to “use every tool at their
+
+disposal to determine the best reading of the statute and resolve the ambiguity.”
+
+Loper Bright, 603 U.S. at 400 (emphasis added).
+
+         Appellants here rightly observe that the Supreme Court in Loper Bright
+
+“displaced the district court’s rationale for concluding that the 2019 Final Rule
+
+did not exceed the IRS’s statutory authority.” Scarsdale Opening Br. at 11.
+
+Because the district court applied Chevron to reach its conclusion that the Final
+
+Rule is within the IRS’s congressionally conferred authority, the question must
+
+be considered anew under Loper Bright’s mandate that courts determine the “best
+
+
+                                                     28
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+reading of the statute” using “every tool at their disposal.” Loper Bright, 603 U.S.
+
+at 400. The IRS’s interpretation of I.R.C. § 170 is entitled to no deference.
+
+         To be sure, Loper Bright supplants the process by which the district court
+
+arrived at its conclusion. It does not foreclose the conclusion itself. Indeed, “an
+
+agency’s interpretation of a statute,” while not binding, “may be especially
+
+informative to the extent it rests on factual premises within the agency’s
+
+expertise.” Id. at 402. That expertise “may give an Executive Branch
+
+interpretation particular ‘power to persuade, if lacking power to control.’” Id.
+
+(quoting Skidmore v. Swift Co., 323 U.S. 134, 140 (1944)).
+
+A.       I.R.C. § 170 and the Quid Pro Quo Principle
+
+         When interpreting a statute, “we begin with the plain language of the
+
+statute, giving the statutory terms their ordinary or natural meaning.” Spadaro v.
+
+U.S. Customs & Border Prot., 978 F.3d 34, 46 (2d Cir. 2020). When that meaning is
+
+unclear, “we make use of a variety of interpretive tools, including canons,
+
+statutory structure, and legislative history.” Id. And “[t]he settled judicial
+
+construction of a particular statute is of course relevant in ascertaining statutory
+
+meaning.” Univ. of Tex. Sw. Med. Ctr. v. Nassar, 570 U.S. 338, 361 (2013).
+
+
+
+
+                                                     29
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+         Section 170 of the Internal Revenue Code permits taxpayers who itemize
+
+deductions to deduct “any charitable contribution.” 26 U.S.C. § 170(a). The term
+
+“charitable contribution” is defined, in relevant part, as a “contribution or gift to
+
+or for the use of . . . [a] State . . . or any political subdivision [thereof]” so long as
+
+“the contribution or gift is made for exclusively public purposes.” Id. § 170(c)(1).
+
+I.R.C. § 170 does not further define “contribution” or “gift,” and the legislative
+
+history of the “contribution or gift” limitation is “sparse.” Hernandez v. Comm’r,
+
+490 U.S. 680, 690 (1989). The construction of that term has been shaped largely
+
+by the decisional law. Those precedents illuminate an important quid pro quo
+
+principle underpinning the meaning and objective of I.R.C. § 170. 12
+
+         A payment of money or property to an entity recognized by I.R.C. § 170(c)
+
+“generally cannot constitute a charitable contribution if the contributor expects a
+
+substantial benefit in return.” United States v. Am. Bar Endowment, 477 U.S. 105,
+
+116 (1986). If, in exchange for a donation, a taxpayer receives a return benefit
+
+
+
+12The States’ contention that “[t]his case begins and ends with the statutory text,” States’
+Opening Br. at 28, oversimplifies the interpretative task before us. The text of I.R.C. § 170, in
+isolation, provides very little for us—or the States—to go on. See 26 U.S.C. § 170. That is why
+the States themselves make extensive reference to the caselaw in presenting their argument.
+Much of the settled understanding of I.R.C. § 170—including the quid pro quo principle—derives
+not from the four corners of the statute itself, but from the meaning imputed to that statute by
+our precedents. Accordingly, we look in part to those precedents to decide whether the IRS
+acted in accord with its statutory authority by promulgating the Final Rule.
+                                                     30
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+“commensurate with the payment or if obtaining the benefit is the reason for
+
+making the payment, . . . the payment is a quid pro quo rather than a gift.”
+
+Hernandez v. Comm’r, 819 F.2d 1212, 1219 (1st Cir. 1987), aff’d, 490 U.S. at 703. At
+
+minimum, the taxpayer must “demonstrate that he purposely contributed money
+
+or property in excess of the value of any benefit he received in return.” Am. Bar
+
+Endowment, 477 U.S. at 118 (emphasis added). Only then may he “claim a
+
+deduction for the difference between a payment to a charitable organization and
+
+the market value of the benefit received in return.” Id. at 117. Simply put, a
+
+charitable contribution for the purposes of § 170 is one “made with the intention
+
+of making a gift.” Id.; see also Sutton v. Comm’r, 57 T.C. 239, 242–43 (1971) (“If a
+
+payment proceeds primarily from the incentive of anticipated benefit to the
+
+payor beyond the satisfaction which flows from the performance of a generous
+
+act, it is not a gift.”).
+
+         Of course, there may be any number of subjectively valuable benefits a
+
+donor hopes to obtain by making a charitable contribution: a sense of pride at
+
+having advanced a worthwhile cause, cachet in his community, or admission at
+
+the pearly gates. See Graham v. Comm’r, 822 F.2d 844, 848 (9th Cir. 1987) (“[I]t is
+
+true that the entire complex of a payor’s motives often is not divorced from self-
+
+
+                                                     31
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+interest.”), abrogated in part on other grounds by, Navajo Nation v. U.S. Forest Serv.,
+
+479 F.3d 1024 (9th Cir. 2007). And many donors likely have in mind what their
+
+largesse will mean come tax season and intend to take advantage of the various
+
+tax incentives offered to promote charitable giving.
+
+         But our approach to decide whether a transaction is structured in the form
+
+of a quid pro quo elides an inquiry into the donor’s subjective state of mind. See
+
+Scheidelman v. Comm’r, 682 F.3d 189, 199 (2d Cir. 2012). Our test instead centers
+
+on “the external features of the transaction in question.” Id. Courts look for any
+
+“measurable, specific return [that] comes to the payor as a quid pro quo for the
+
+donation.” Graham, 822 F.2d at 848. “[W]here it is understood that the
+
+taxpayer’s money will not pass to the charitable organization unless the taxpayer
+
+receives a specific benefit in return, and where the taxpayer cannot receive the
+
+benefit unless he pays the required price, then the transaction does not qualify
+
+for the deduction under section 170.” Scheidelman, 682 F.3d at 199; see also Rolfs v.
+
+Comm’r, 668 F.3d 888, 891 (7th Cir. 2012) (“The IRS and the courts look to the
+
+objective features of the transaction, not the subjective motives of the donor, to
+
+determine whether a gift was intended or whether a commensurate return could
+
+be expected as part of a quid pro quo exchange.”). And our focus on external
+
+
+                                                     32
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+features rather than subjective motive typically means that “a donation . . . for
+
+the exclusive purpose of receiving a tax deduction does not vitiate the charitable
+
+nature of the contribution.” McLennan v. United States, 24 Cl. Ct. 102, 106 n.8
+
+(1991). After all, “[i]f the motivation to receive a tax benefit deprived a gift of its
+
+charitable nature under Section 170, virtually no charitable gifts would be
+
+deductible.” Scheidelman, 682 F.3d at 200.
+
+         We propounded our understanding of the quid pro quo principle in
+
+Scheidelman. There, Huda Scheidelman donated a façade conservation
+
+easement—a type of easement to preserve the appearance of historic
+
+properties—for her Brooklyn brownstone to the National Architectural Trust (the
+
+“Trust”). Id. at 192. For her donation of the easement, valued at $115,000,
+
+Scheidelman could seek a tax deduction under I.R.C. § 170(f)(3)(B)(iii). The Trust
+
+required that, in addition to the easement donation, Scheidelman make a cash
+
+contribution to the Trust worth $9,275 to fund the Trust’s administration of the
+
+easement in perpetuity. Id. at 193. Scheidelman made that contribution and later
+
+attempted also to deduct it on her taxes as a charitable contribution under I.R.C.
+
+§ 170. Id. The IRS disallowed the deduction, concluding that because
+
+“Scheidelman had made the donation for the purpose of inducing the Trust to
+
+
+                                                     33
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+accept her easement so that she could enjoy a tax benefit”—the conservation-
+
+easement deduction—it could not be considered a “payment made for detached
+
+and disinterested motives.” Id. The Tax Court sided with the IRS.
+
+         We reversed, holding that the $9,275 contribution was deductible. Under
+
+I.R.C. § 170, we explained, a charitable contribution “is a transfer of money or
+
+property without adequate consideration.” Id. at 199 (quoting Am. Bar
+
+Endowment, 477 U.S. at 118). Importantly, “[t]he consideration need not be
+
+financial; medical, educational, scientific, religious, or other benefits can be
+
+consideration that vitiates charitable intent.” Id.; see also Graham, 822 F.2d at 849
+
+(“The test is not the economic character of what the payor receives but whether
+
+there is a specific, measurable quid pro quo for the donation in question.”). The
+
+paradigmatic example, as described by Congress when it enacted § 170, is a
+
+donation to a hospital “given in exchange for a binding obligation to provide
+
+medical treatment.” Scheidelman, 682 F.3d at 199; see also S. Rep. No. 83-1622, at
+
+4830–31 (1954); H.R. Rep. No. 83-1337, 83d Cong., 2d Sess., at 4180 (1954). By
+
+disallowing deductions for such transactions, “Section 170 distinguishes between
+
+‘unrequited payments to qualified recipients and payments made to such
+
+
+
+
+                                                     34
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+recipients in return for goods or services.’” Scheidelman, 682 F.3d at 199
+
+(emphases added) (quoting Hernandez, 490 U.S. at 690).
+
+         The external features of the Scheidelman-Trust transaction did not evince
+
+the kind of reciprocal exchange that precludes a deduction under § 170. “While
+
+Scheidelman’s $9,275 donation might be described as a prerequisite of the Trust’s
+
+acceptance of the easement donation, the Trust gave the taxpayer no ‘goods or
+
+services,’ or ‘benefit,’ or anything of value in return for her making the money
+
+gift. The only transfer of benefit was what the taxpayer gave to the Trust.” Id. at
+
+200. It is of no consequence that the donor “may expect to derive benefit
+
+elsewhere,” such as Scheidelman’s expectation of a deduction on her income taxes.
+
+Id. (emphasis added). The locus of the inquiry was whether Scheidelman
+
+received a “benefit from the Trust in exchange for her cash donation.” Id.
+
+(emphasis added). Because she did not, there was no quid pro quo, and her cash
+
+contribution was eligible for deduction under § 170.
+
+B.       Discussion
+
+         As applied to Appellants’ tax-credit programs, the Final Rule comports
+
+with the quid pro quo principle, requiring a taxpayer to subtract the value of a tax
+
+credit that he “receives or expects to receive in consideration for the taxpayer’s
+
+
+                                                     35
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+payment or transfer.” 26 C.F.R. § 1.170A-1(h)(3)(i). 13 Certainly, a tax credit that
+
+offsets a taxpayer’s state or local tax liability is an “identifiable benefit,”
+
+Hernandez, 490 U.S. at 691, because it substantially reduces the amount of money
+
+that the taxpayer is ultimately on the hook for, freeing up those funds for
+
+discretionary expenses. Unlike more subjective benefits—esteem or influence,
+
+say—it is also easily calculable based on external features, as it is a defined
+
+percentage of the contribution’s dollar amount. Indeed, from a donor’s
+
+perspective, the practical consequence of a donation to New York’s fund, for
+
+example, is indistinguishable from the State handing the donor a stack of cash
+
+worth 85% of her contribution. See N.Y. Tax Law § 606(iii). As a practical matter,
+
+the “charitable organization[s]”—the state-administered public funds designated
+
+by Appellants—should not expect a contribution from a taxpayer “unless the
+
+taxpayer receives a specific benefit in return,” the tax credit. Scheidelman, 682
+
+
+
+
+13We acknowledge that the circumstances here are sui generis. A typical return benefit one
+might receive for a contribution to a private charitable entity cannot take the form of a tax credit
+because private entities are not empowered to authorize tax credits; only a government may do
+that. The caselaw reflects this reality, often speaking of tax benefits in terms that do not account
+for the present circumstance, wherein the charitable entity is the state, and the return benefit is
+meted out through the tax code. But even though we could not identify a perfectly analogous
+fact pattern in our precedents, we think that the Final Rule’s interpretation of I.R.C. § 170 as
+applied to Appellants’ programs effectuates the quid pro quo principle. Appellants may not
+evade that principle simply because they are in the unique position to offer a return benefit in
+the shape of a tax credit, when a private charitable entity could not.
+                                                     36
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+F.3d at 199. This is shown by the fact that, once the tax credit was rendered
+
+valueless to taxpayers by the Final Rule, contributions to Appellants’ funds all
+
+but dried up. And “the taxpayer cannot receive the benefit unless he pays the
+
+required price”—contribution to the public fund. See id.
+
+         Appellants counter that the Final Rule’s construction of I.R.C. § 170 defies
+
+the general precept that “[i]f the motivation to receive a tax benefit deprived a
+
+gift of its charitable nature under Section 170, virtually no charitable gifts would
+
+be deductible.” Id. at 200. A taxpayer’s desire to obtain the state tax credit, the
+
+argument goes, cannot spoil his eligibility for the federal tax deduction under
+
+§ 170.
+
+         Appellants’ theory misstates the quid pro quo principle at several turns.
+
+First, our inquiry centers on “the external features of the transaction in question,”
+
+not on the subjective motivations of the donor. Id. at 199. Our conclusion that
+
+Appellants’ tax-credit programs constitute a quid pro quo is not based on the
+
+proposition that a taxpayer who contributes to a state fund does so to derive a
+
+tax benefit—though that is plainly most often the case—but on the outward,
+
+quantifiable features of the transaction. The state or locality receives a
+
+contribution that approximates the amount the taxpayer would otherwise have
+
+
+                                                     37
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+paid in taxes, which it then invests in public programs akin to those usually
+
+financed by tax revenues. Then, the same state or locality that was the recipient
+
+of the contribution extends a sizeable tax credit to the contributor, erasing the
+
+bulk of his state tax liability. The fundamental this-for-that contour of the
+
+arrangement is exactly the type of reciprocal exchange that has long been deemed
+
+disqualifying for the § 170 deduction. See id. at 200; Hernandez, 490 U.S. at 690–
+
+92; Am. Bar Endowment, 477 U.S. at 116–18.
+
+         Appellants’ argument that a taxpayer’s desire to receive a state tax credit
+
+cannot impair § 170 eligibility founders for another reason too. When courts
+
+have expressed the idea that “the motivation to receive a tax benefit” cannot
+
+“deprive[] a gift of its charitable nature under Section 170,” the tax benefit to
+
+which they refer is virtually always the § 170 deduction itself. See Scheidelman,
+
+682 F.3d at 200. Indeed, in every case Appellants cite in support of their
+
+argument, the court considered a § 170 deduction, not a tax credit. See Mann v.
+
+United States, 364 F. Supp. 3d 553, 567–68 (D. Md. 2019) (“the expected tax
+
+deduction . . . is not a ‘specific benefit’ transforming the donation into a quid pro
+
+quo”), aff'd, 984 F.3d 317 (4th Cir. 2021); McLennan, 24 Cl. Ct. at 106; Browning v.
+
+Comm’r, 109 T.C. 303, 325 (1997) (“Respondent’s argument suggests that a
+
+
+                                                     38
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+taxpayer making a gift of stock worth $100 to a charitable organization may be
+
+entitled to a charitable contribution deduction of some lesser amount on account
+
+of the economic value of the deduction. That suggestion is untenable.”); Skripak
+
+v. Comm’r, 84 T.C. 285, 319 (1985); Mount Mercy Assocs. v. Comm’r, 67 T.C.M. 2267
+
+(T.C. 1994), aff'd, 50 F.3d 2 (2d Cir. 1995). Here, it is not the taxpayer’s desire to
+
+claim a § 170 deduction that “deprive[s] [his] gift of its charitable nature under
+
+Section 170,” Scheidelman, 682 F.3d at 200, but his receipt of a tax credit from the
+
+beneficiary of his donation—the state or locality.
+
+         We also find unconvincing Appellants’ argument that the Final Rule
+
+contravenes § 170 by treating state tax credits as return benefits that negate
+
+charitable intent while simultaneously conceding that “neither state nor federal
+
+charitable contribution deductions are treated as return benefits.” 84 Fed. Reg. at
+
+27,521 (emphasis added). We do not think that Congress views tax deductions as
+
+implicating the quid pro quo principle in the same manner as a tax credit. Among
+
+the entities qualified to receive a charitable contribution under I.R.C. § 170 are
+
+“the United States or the District of Columbia . . . if the contribution or gift is
+
+made for exclusively public purposes.” 26 U.S.C. § 170(c)(1). It would contradict
+
+the text of § 170—which clearly permits a federal tax deduction for gifts to the
+
+
+                                                     39
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+United States—to say that such a gift necessarily worked a quid pro quo by virtue
+
+of the corresponding federal deduction, thereby barring eligibility for that very
+
+deduction. If § 170 espouses an implicit quid pro quo principle while nonetheless
+
+permitting a tax deduction from the federal government for donations to the federal
+
+government, it follows that Congress did not consider a tax deduction to be a
+
+return benefit vitiating charitable intent. And, in the absence of any evidence to
+
+the contrary, we infer that Congress likewise did not consider a state tax
+
+deduction to implicate § 170’s quid pro quo principle. 14
+
+         A tax credit, on the other hand, is a horse of a different color. We see no
+
+analogous statutory evidence that Congress does not view a state tax credit in
+
+return for a contribution to a state fund as implicating the quid pro quo principle.
+
+Moreover, a tax credit affords a direct offset of the contributor’s tax bill that is a
+
+
+
+
+14One could argue that the boundary between a tax deduction and a tax credit is a fuzzy one,
+and that what is labeled a tax deduction may, depending on its design, function more like a tax
+credit. For example, a state might enact a “tax deduction” that permits a donor to a charitable
+entity to “deduct” from his income $5 for every $1 contributed to charity. Or it might key the
+amount of a deduction to a donor’s particular marginal tax bracket, such that those whose
+income places them in a higher marginal bracket are entitled to a greater deduction per dollar
+contributed than those in a lower bracket. But we adopt a more functionalist view of tax
+deduction, consistent with how that term has conventionally been understood and applied, to
+mean a reduction in taxable income that does not exceed (in fact, is typically equivalent to) the
+amount of the taxpayer’s payment or transfer entitling him to that deduction. Indeed, this is the
+same understanding of “tax deduction” contained in the Final Rule. See 26 C.F.R. § 1.170A-
+1(h)(3)(ii).
+                                                     40
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+“specific [and] measurable” benefit, Graham, 822 F.2d at 849, not one that is
+
+variable with a taxpayer’s marginal tax rate. For a $10,000 contribution to New
+
+York’s public fund, a taxpayer—regardless of his income level or marginal tax
+
+bracket—receives a tax credit worth $8,500. N.Y. Tax Law § 606(iii). But under a
+
+tax-deduction system, the quid does not always yield the same quo. A $10,000
+
+contribution might produce $1,030 in income-tax savings for a New York donor
+
+whose income is taxed at a marginal rate of 10.3%, but just $600 for one whose
+
+income is taxed at a marginal rate of 6%. See N.Y. Tax Law § 601. This variability
+
+suggests that tax deductions are not the target of the quid pro quo principle, which
+
+requires that “a commensurate return . . . be expected” by the donor. Rolfs, 668
+
+F.3d at 891 (emphasis added). 15 A charitable contribution eligible for the § 170
+
+deduction must be “made with the intention of making a gift.” Am. Bar
+
+Endowment, 477 U.S. at 117. We are disinclined to hold that the external
+
+characteristics of a tax deduction—where the “benefit” received by the taxpayer
+
+is largely a function of the taxpayer’s personal financial circumstances and not
+
+just in recognition of the magnitude of his gift—demonstrate that contributions
+
+
+
+15True, the actual value of a tax credit to an individual taxpayer may vary depending on the
+taxpayer’s financial circumstances. After all, a tax credit of $8,500 may yield an actual benefit of
+only $5,000 to a taxpayer whose tax liability is only $5,000. But in assessing the best meaning of
+§ 170, we focus on the financial impact to a typical taxpayer, not the anomalous case.
+                                                     41
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+in return for a state tax deduction would categorically be “made with[out] the
+
+intention of making a gift.” Id.
+
+         Appellants advance several other arguments for why the Final Rule
+
+exceeds the scope of § 170, but none prevails. First, Appellants contend that the
+
+quid pro quo principle is limited to circumstances in which payments are
+
+exchanged for “goods or services.” To support this argument, Appellants
+
+cherry-pick a few lines from the relevant precedents. See, e.g., Hernandez, 490 U.S.
+
+at 690 (“Congress intended to differentiate between unrequited payments to
+
+qualified recipients and payments made to such recipients in return for goods or
+
+services. Only the former were deemed deductible.”). But a closer look at these
+
+precedents reveals the quid pro quo principle is not so cramped. While tangible
+
+“goods or services” might indicate the existence of a quid pro quo, such an
+
+exchange arises whenever a taxpayer receives a “substantial benefit in return”
+
+for his payment. American Bar Endowment, 477 U.S. at 116; see also Hernandez, 490
+
+U.S. at 691 (noting a “quintessential quid pro quo” where “in return for their
+
+money, petitioners received an identifiable benefit”); Scheidelman, 682 F.3d at 200
+
+(holding that a taxpayer’s donation was a deductible gift because the recipient
+
+“gave the taxpayer no ‘goods or services,’ or ‘benefit,’ or anything of value in return
+
+
+                                                     42
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+for her making the money gift”) (emphasis added); Sutton, 57 T.C. at 242–43
+
+(observing that the definition of “charitable” in the context of § 170 generally
+
+refers to the transfer of property “without consideration”—not “consideration in
+
+a common-law sense, but rather in a more colloquial sense” to mean “the
+
+incentive of anticipated benefit . . . beyond the satisfaction which flows” from the
+
+act).
+
+         Even were we to adopt Appellants’ goods-and-services theory, they
+
+provide no compelling authority to support their contention that tax credits
+
+“cannot, under any reasonable definition, be considered goods or services.”
+
+Scarsdale Opening Br. at 20. Black’s Law Dictionary offers, as one definition of
+
+“goods,” “[t]hings that have value, whether tangible or not.” Goods, Black’s Law
+
+Dictionary (12th ed. 2024). That taxpayers in New York and Scarsdale were
+
+motivated to pay into public funds and receive tax credits indicates that those
+
+credits indeed “have value” to the taxpayers who seek them. As another
+
+example, IRS regulations—albeit pertaining to a different section of the tax
+
+code—define “goods or services” as “cash, property, services, benefits, and
+
+privileges.” 26 C.F.R. § 1.170A-13(f)(5). Appellants’ tax credits qualify as
+
+
+
+
+                                                     43
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+benefits or privileges that inure to the taxpayer. So, the argument that tax credits
+
+are not “goods or services” subject to the quid pro quo principle is unconvincing.
+
+         Appellants next point to the Supreme Court’s decision in Randall v.
+
+Loftsgaarden, 478 U.S. 647 (1986), where the Court observed that “[u]nlike
+
+payments in cash or property . . . the ‘receipt’ of tax deductions or credits is not
+
+itself a taxable event, for the investor has received no money or other ‘income’
+
+within the meaning of” I.R.C. § 61, which defines “gross income,” id. at 656–67.
+
+The States also remark that “tax benefits . . . do not count toward the ‘amount
+
+realized’ on a sale of property under Section 1001 of the Tax Code.” States’
+
+Opening Br. at 30. From these observations, Appellants reason that “[i]f tax
+
+benefits do not count as money or income for purpose of a taxable event or as an
+
+amount realized from a sale . . . they logically do not count as return goods for
+
+the purpose of Section 170 either.” Id. But Appellants never explain how or why
+
+the question of whether something is taxable income under the Internal Revenue
+
+Code is relevant to whether a payment or transfer is tax-deductible as a
+
+charitable contribution under § 170.                 Nor could they. We have made clear that a
+
+return benefit precluding deduction under § 170 “need not be financial; medical,
+
+
+
+
+                                                      44
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+educational, scientific, religious, or other benefits can be consideration that
+
+vitiates charitable intent.” Scheidelman, 682 F.3d at 199.
+
+         Finally, Appellants argue that states have long had tax-credit programs in
+
+place, and Congress knew about these programs when it enacted the SALT cap.
+
+Congress also presumably knew of the IRS’s long-standing interpretation of
+
+§ 170 as permitting deductions despite state tax credits. If Congress had wanted
+
+to allow something akin to the Final Rule, Appellants contend, it would therefore
+
+have said as much when it passed the 2017 Tax Act. But while the Supreme
+
+Court has “recognized congressional acquiescence to administrative
+
+interpretations of a statute in some situations, [it] ha[s] done so with extreme
+
+care.” Solid Waste Agency of N. Cook Cnty. v. U.S. Army Corps of Eng’rs, 531 U.S.
+
+159, 169 (2001). Congressional acquiescence should only be inferred when there
+
+is “overwhelming evidence” of such acquiescence, id. at 169 n.5, such as
+
+“evidence that Congress considered and rejected the ‘precise issue’ presented
+
+before the Court,” Rapanos v. United States, 547 U.S. 715, 750 (2006). Because no
+
+evidence exists here that Congress considered the “precise issue” raised by the
+
+Final Rule—indeed, it was the 2017 Tax Act itself that spurred Appellants to
+
+enact their tax-credit programs, which in turn engendered the Final Rule—we
+
+
+                                                     45
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+will not infer that Congress tacitly endorsed the IRS’s earlier interpretation of
+
+§ 170. 16
+
+         We conclude that the Final Rule correctly interprets I.R.C. § 170 as applied
+
+to Appellants’ tax-credit programs and that the IRS did not exceed its statutory
+
+authority. 17
+
+                  IV.      Arbitrary-and-Capricious Review
+
+         An agency’s action is arbitrary and capricious if “the agency has relied on
+
+factors which Congress has not intended it to consider, entirely failed to consider
+
+an important aspect of the problem, offered an explanation for its decision that
+
+runs counter to the evidence before the agency, or is so implausible that it could
+
+
+
+
+16We note also that Congress did not address the state and local tax-credit programs in its most
+recent tax legislation, the One Big Beautiful Bill Act, which raises an argument at least as
+compelling as Appellants’ that Congress did not mean to dislodge the Final Rule’s
+interpretation of I.R.C. § 170. While we do not think Congress addressed the “precise issue” in
+either the 2017 Tax Act or the One Big Beautiful Bill Act, we merely observe that, in light of
+recent legislative developments, Appellants’ contention that we infer congressional
+acquiescence to the IRS’s earlier interpretation of § 170 is particularly weak.
+
+17We do not decide today whether the Final Rule’s preclusion of a § 170 deduction in instances
+where the tax credit comes not from the recipient of a gift but from a third-party government
+exceeds the scope of I.R.C. § 170. See 26 C.F.R. § 1.170A-1(h)(4)(i). Appellants do not argue here
+that the rule’s application to all tax-credit-for-contribution programs (exempting those where
+the tax credit does not exceed 15% of a contribution) renders the regulation unlawful. “In our
+adversarial system of adjudication, we follow the principle of party presentation” under which
+we do not “sally forth each day looking for wrongs to right” but instead “decide only questions
+presented by the parties.” In re TransCare Corp., 81 F.4th 37, 58 (2d Cir. 2023).
+
+                                                     46
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+not be ascribed to a difference in view or the product of agency expertise.” Am.
+
+Cruise Lines v. United States, 96 F.4th 283, 286 (2d Cir. 2024). Courts are “not to
+
+substitute [their] judgment for that of the agency,” but “instead to assess only
+
+whether the decision was based on a consideration of the relevant factors and
+
+whether there has been a clear error of judgment.” Dep’t of Homeland Sec. v.
+
+Regents of Univ. of Cal., 591 U.S. 1, 16 (2020).
+
+         Unlike our review of an agency’s interpretation of a statute, under which
+
+the agency is accorded no deference, our review of agency action under the
+
+“arbitrary and capricious standard of review is narrow and particularly
+
+deferential.” Env’t Def. v. EPA, 369 F.3d 193, 201 (2d Cir. 2004); see also Loper
+
+Bright, 603 U.S. at 392 (“Section 706 [of the APA] does mandate that judicial
+
+review of agency policymaking and factfinding be deferential.”). An agency
+
+action survives arbitrary-and-capricious review so long as the agency
+
+“examine[d] the relevant data and articulate[d] a satisfactory explanation for its
+
+action including a rational connection between the facts found and the choice
+
+made.” New York v. Raimondo, 84 F.4th 102, 106–07 (2d Cir. 2023) (quoting Motor
+
+Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+
+(1983)).
+
+
+                                                     47
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+         We are not persuaded by Appellants’ arguments that the Final Rule is
+
+arbitrary and capricious. First, Appellants claim, the IRS failed “to adequately
+
+explain the inconsistent treatment between tax credits and deductions” or
+
+consider “the disincentives to charitable giving” posed by the Final Rule. States
+
+Br. at 43; Scarsdale Br. at 23–24. The Final Rule’s distinction between tax credits
+
+and deductions, Appellants contend, fails to “treat[] like cases alike.” States Br.
+
+at 44. But Appellants’ characterization of the distinction as insufficiently
+
+explained is contradicted by the preamble of the Final Rule. The preamble states
+
+that “a dollar-for-dollar state or local tax deduction does not raise the same
+
+concerns as a state or local tax credit, and it would produce unique complications
+
+if it were to be subject to the quid pro quo principle.” 84 Fed. Reg. at 27,520. This
+
+is because “[t]he economic benefit of a dollar-for-dollar deduction is limited
+
+because it is based on a taxpayer’s state and local marginal rate,” so “the risk of a
+
+taxpayer using such deductions to circumvent [the SALT deduction cap], and the
+
+potential revenue loss, is comparatively low.” Id. In terms of administrative
+
+concerns, “if state and local tax deductions for charitable contributions were
+
+treated as return benefits, it would make the accurate calculation of federal taxes
+
+and state and local taxes difficult for both taxpayers and the IRS.” Id. Especially
+
+
+                                                     48
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+when read against the understanding that “the major responsibility of the
+
+Internal Revenue Service is to protect the public fisc,” United States v. Hughes
+
+Props., Inc., 476 U.S. 593, 603 (1986), the IRS’s focus on the revenue consequences
+
+of treating tax credits and deductions differently is “within a zone of
+
+reasonableness,” FCC v. Prometheus Radio Project, 592 U.S. 414, 423 (2021).
+
+         As to the contention that the Final Rule disincentivizes charitable giving
+
+generally, that consideration was thoroughly ventilated by the IRS. The Final
+
+Rule continues to allow deductions for “the portion of a taxpayer’s charitable
+
+contribution that is a gratuitous transfer,” and leaves state and local-level tax
+
+benefits untouched. 84 Fed. Reg. at 27,522. The Final Rule might make
+
+contributions to Appellants’ funds less likely (because those contributions were
+
+presumably motivated by the prospect of a § 170 deduction notwithstanding the
+
+simultaneous state tax credit), but that does not mean that charitable
+
+contributions generally will be deterred.
+
+         Second, Appellants contend that the Final Rule’s exemption for tax credits
+
+at or below 15% of a contribution’s value is arbitrary and unsupported by
+
+sufficient explanation. They point to a “cliff effect” resulting from the 15%
+
+threshold: While a taxpayer who receives a tax credit worth 15% of the value of
+
+
+                                                     49
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+his charitable contribution may deduct the entirety of that contribution on his
+
+federal tax return, the taxpayer who receives a tax credit worth 16% of her
+
+contribution must subtract the value of that credit from her § 170 deduction.
+
+Appellants’ concern does not, however, render the Final Rule unreasonable. For
+
+one, Appellants’ same argument could be made regardless of where the IRS
+
+draws the line, and there is no rule against drawing bright-line rules. See, e.g.,
+
+Mass. Dep't of Pub. Welfare v. Sec'y of Agric., 984 F.2d 514, 522 (1st Cir. 1993)
+
+(“When Congress entrusts an agency with the responsibility for drawing lines,
+
+and the agency exercises that authority in a reasonable way, neither the fact that
+
+there are other possible places at which the line could be drawn nor the fact that
+
+the administrative scheme might occasionally operate unfairly from a particular
+
+participant’s perspective is sufficient, standing alone, to undermine the scheme’s
+
+legality.”). And the 15% exception was not plucked from thin air. Rather, it
+
+reflects “the combined top marginal state and local tax rates, which the Treasury
+
+Department and the IRS understand currently do not exceed 15 percent.” 84 Fed.
+
+Reg. at 27,520. Therefore, as the IRS explained, the 15% exception “ensures that
+
+taxpayers in states offering state tax deductions and taxpayers in states offering
+
+economically equivalent credits are treated similarly.” Id. The theoretical
+
+
+                                                     50
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+possibility that marginal state or local tax rates might someday exceed 15% does
+
+not invalidate the data used to inform the Final Rule at present, and the IRS is
+
+not barred from amending the rule if significant changes to state and local tax
+
+law transpire. The Final Rule’s 15% exception is reasonable, and the IRS’s
+
+rationale for it was adequately explained.
+
+         Third, Appellants argue that the IRS “relied on factors that Congress did
+
+not intend the agency to consider under Section 170” because it “focus[ed] on an
+
+unrelated and irrelevant provision of the Code—Section 164,” governing the
+
+SALT deduction. Scarsdale Br. at 23–24; States Br. at 44. But the SALT deduction
+
+cap contained in § 164 was designed to raise revenue, and there was nothing
+
+improper about the IRS considering that congressional objective in designing the
+
+Final Rule, even if the authority to promulgate that Rule derives from § 170. And
+
+specific tax provisions “must be analyzed and construed within the framework
+
+of the Internal Revenue Code and against the background of the Congressional
+
+purposes.” Bob Jones Univ. v. United States, 461 U.S. 574, 586 (1983). It was not
+
+arbitrary for the IRS to consider the whole of the tax code and its various
+
+revenue-raising provisions when promulgating the Final Rule.
+
+
+
+
+                                                     51
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+         Finally, Scarsdale claims that the Final Rule does not “acknowledge that
+
+[the IRS] is changing its existing policy,” as spelled out in earlier internal memos
+
+and its litigating positions in earlier cases. Scarsdale Br. at 27–29. “When an
+
+agency changes its existing position, it need not always provide a more detailed
+
+justification than what would suffice for a new policy created on a blank slate.”
+
+Encino Motorcars v. Navarro, 579 U.S. 211, 221 (2016). But it “must at least display
+
+awareness that it is changing position and show that there are good reasons for
+
+the new policy.” Id. Here, the former policy—which did not require taxpayers to
+
+subtract tax credits from § 170 charitable deductions—was never announced in a
+
+rule or formal advisory, but in a 2010 IRS Chief Counsel Advice (“CCA”), which
+
+is prohibited by statute from being “used or cited as precedent.” 26 U.S.C. §
+
+6110(b)(1)(A), (k)(3). In any case, the Final Rule explicitly “display[ed]
+
+awareness that it is changing policy,” Encino Motorcars, 579 U.S. at 221, when it
+
+stated that it “questioned the reasoning of the 2010 CCA” after it began
+
+“reviewing the authorities under section 170,” and that the Final Rule “depart[s]
+
+from the conclusion of the 2010 CCA in important respects,” 84 Fed. Reg. at
+
+27,514, 27,516. And the IRS “show[ed] that there are good reasons for the new
+
+policy,” Encino Motorcars, 579 U.S. at 221, because the 2010 CCA relied on cases
+
+
+                                                     52
+24-1499-cv(L)
+New Jersey v. Bessent; Village of Scarsdale v. IRS
+
+
+that “did not specifically address whether the value of state or local tax credits
+
+should be treated as a quid pro quo,” 84 Fed. Reg. at 27,516.
+
+         Moreover, “the analysis in the 2010 CCA assumed that after the taxpayer
+
+applied the state or local tax credit to reduce the taxpayer’s state or local tax
+
+liability, the taxpayer would receive a smaller deduction for state and local taxes
+
+under [the then-uncapped SALT deduction].” Id. “In an area as complex as the
+
+tax system, the agency Congress vests with administrative responsibility must be
+
+able to exercise its authority to meet changing conditions and new problems.”
+
+Bob Jones Univ., 461 U.S. at 596. The assumptions underpinning the 2010 CCA no
+
+longer held true after the enactment of the SALT-deduction cap in the 2017 Tax
+
+Act and Appellants’ introduction of new tax-credit schemes. It was reasonable
+
+for the IRS to revisit and repudiate its earlier position in light of developments
+
+that gave it the impetus to do so. That the Final Rule’s interpretation of § 170
+
+“may be seen as belated does not undermine its soundness.” Id. at 595.
+
+         Appellants furnish no basis for us to conclude that the Final Rule is
+
+arbitrary or capricious.
+
+                                              CONCLUSION
+
+         For the foregoing reasons, we AFFIRM the judgment of the district court.
+
+
+                                                     53
+

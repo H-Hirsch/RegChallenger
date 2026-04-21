@@ -1,0 +1,1186 @@
+             Case: 19-11172     Date Filed: 04/07/2020     Page: 1 of 26
+
+
+
+                                                                [DO NOT PUBLISH]
+
+
+
+               IN THE UNITED STATES COURT OF APPEALS
+
+                        FOR THE ELEVENTH CIRCUIT
+                          ________________________
+
+                                No. 19-11172
+                          ________________________
+
+                       D.C. Docket No. 0:17-cv-62317-JIC
+
+
+
+BBX CAPITAL,
+f.k.a. BankAtlantic Bankcorp, Inc.,
+
+                                                    Plaintiff - Appellant,
+
+versus
+
+FEDERAL DEPOSIT INSURANCE CORP,
+in its corporate capacity,
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE BOARD,
+
+                                                    Defendants - Appellees.
+
+                          ________________________
+
+                   Appeal from the United States District Court
+                       for the Southern District of Florida
+                         ________________________
+
+                                  (April 7, 2020)
+
+Before ROSENBAUM, JILL PRYOR, and BRANCH, Circuit Judges.
+
+PER CURIAM:
+              Case: 19-11172   Date Filed: 04/07/2020   Page: 2 of 26
+
+
+
+      This case concerns severance payments that Plaintiff-Appellant BBX Capital
+
+(“BBX”) seeks to make to five former executives of BankAtlantic (the “Bank”), a
+
+federally insured savings bank that BBX’s predecessor-in-interest, BankAtlantic
+
+Bancorp Inc. (“Bancorp”), used to own. Those severance payments were part of a
+
+2011 Stock Purchase Agreement (the “SPA”) that sold the Bank to BB&T
+
+Corporation (“BBT”). At that time, however, the Bank was operating in a “troubled”
+
+condition, and both the Bank and Bancorp were operating under consent orders that
+
+prohibited them from making any so-called golden parachute payments absent
+
+approval by the Federal Reserve Bank (the “FRB”) and concurrence by the Federal
+
+Deposit Insurance Corporation (the “FDIC”; together with the FRB, the “agencies”).
+
+The SPA also called for BBT to reimburse BBX for any severance payments made
+
+to the executives.
+
+      After the sale of the Bank was finalized, the FDIC notified BBX that it
+
+considered the severance payments to be golden parachute payments and that it
+
+would approve payments of only twelve months of salary to each executive,
+
+significantly less than what the SPA called for. The FDIC also concluded that BBT
+
+was required to seek and receive approval before making the reimbursement
+
+payments to BBX. Subsequently, the FRB approved the same payment amounts but
+
+took no action with respect to approving any payments over 12 months of salary
+
+because the FDIC had already prohibited any additional payments.
+
+
+                                        2
+               Case: 19-11172       Date Filed: 04/07/2020   Page: 3 of 26
+
+
+
+      BBX then filed this action claiming that the agencies’ decisions were arbitrary
+
+and capricious and violated due process. The district court dismissed BBX’s action
+
+against the FRB for lack of standing because FRB had not injured BBX, and the
+
+court granted summary judgment in favor of the FDIC. BBX now appeals. After
+
+careful review of the record and the briefs, we affirm.
+
+                                            I.
+
+                               A.      Legal Framework
+
+      In 1990, Congress added Section 1828(k) to Title 12. That section provides
+
+that “the [FDIC] may prohibit or limit, by regulation or order, any golden parachute
+
+payment or indemnification payment” to institution-affiliated parties (“IAPs”),
+
+including “any director, officer, [or] employee” of the insured bank. 12 U.S.C. §§
+
+1828(k), 1813(u).      As relevant here, “golden parachute payment” means the
+
+following:
+
+      (A) [A]ny payment (or any agreement to make any payment) in the
+      nature of compensation by any insured depository institution or covered
+      company for the benefit of any institution-affiliated party pursuant to
+      an obligation of such institution or covered company that—
+
+             (i) is contingent on the termination of such party's affiliation with
+             the institution or holding company; and--
+
+             (ii) is received on or after the date which—
+             ...
+                  (III) the institution's appropriate Federal banking agency
+                  determines that the insured depository institution is in a
+                  troubled condition . . .
+
+
+                                             3
+              Case: 19-11172      Date Filed: 04/07/2020    Page: 4 of 26
+
+
+
+12 U.S.C. § 1828(k)(4)(A).
+
+      The FDIC’s implementing regulations define “golden parachute” in a largely
+
+similar manner. See 12 C.F.R. §§ 359.0, 359.1(f). Notably, the regulations define
+
+“payment,” which is incorporated by the golden parachute payment definition, to
+
+include “[a]ny direct or indirect transfer of any funds[.]” Id. § 359.1(k)(1).
+
+      The regulations also set forth the process by which a covered company can
+
+seek and receive approval to make golden parachute payments. A covered company
+
+that intends to make a golden parachute payment must file an application with the
+
+FDIC and with its primary federal regulator, in this case the FRB. See 12 U.S.C. §
+
+1813(q)(3)(F); 12 C.F.R. §§ 303.244, 359.4(a)(1), 359.6. A golden parachute
+
+payment is prohibited unless excepted. 12 U.S.C. § 1828(k)(1); 12 C.F.R. § 359.2.
+
+      To gain regulatory approval to make a golden parachute payment, the
+
+applicant must first “demonstrate” and “certify” that it is not aware of any reason to
+
+believe the IAP (i) has “committed any fraudulent act or omission, breach of trust or
+
+fiduciary duty, or insider abuse,” (ii) was “substantially responsible” for the
+
+institution’s troubled condition, or (iii) has “violated any applicable Federal or State
+
+banking law or regulation.” 12 C.F.R. § 359.4(a)(4)(i)-(iii); see also 18 U.S.C. §
+
+1828(k)(2). The contents of that certification are not at issue here, but, significantly,
+
+only if the applicant demonstrates that the IAP satisfies those requirements will the
+
+
+
+
+                                           4
+                 Case: 19-11172       Date Filed: 04/07/2020       Page: 5 of 26
+
+
+
+IAP be eligible to receive a golden parachute payment. 12 C.F.R. § 359.4(a)(4)(i)-
+
+(iii).
+
+         If that threshold certification requirement is satisfied, then the regulations
+
+provide for three categories of permissible payments, only two of which are relevant
+
+here:        the “regulator’s-concurrence exception” and the “change-in-control
+
+exception.” Id. §§ 359.4(a)(1), (3).1 The regulator’s-concurrence exception permits
+
+a golden parachute payment if “[t]he appropriate federal banking agency, with the
+
+written concurrence of the [FDIC], determines that such a payment or agreement is
+
+permissible[.]”     Id. § 359.4(a)(1).       The change-in-control exception permits a
+
+“reasonable severance payment, not to exceed twelve months salary,” “in the event
+
+of a[n] [unassisted] change in control of the insured depository institution,” provided
+
+that the institution first “obtain[s] the consent of the appropriate federal banking
+
+agency[.]” Id. § 359.4(a)(3).
+
+         In determining whether to permit a payment under one of the listed
+
+exceptions, § 359.4(b) provides that the FDIC and the FRB “may consider” the
+
+following factors:
+
+         (1) Whether, and to what degree, the IAP was in a position of
+         managerial or fiduciary responsibility;
+
+         (2) The length of time the IAP was affiliated with the insured depository
+         institution or depository institution holding company, and the degree to
+
+         1
+         No party contends that the third exception, the “white knight” exception, applies here. 12
+C.F.R. § 359.4(a)(2).
+
+                                                5
+               Case: 19-11172      Date Filed: 04/07/2020     Page: 6 of 26
+
+
+
+       which the proposed payment represents a reasonable payment for
+       services rendered over the period of employment; and
+
+       (3) Any other factors or circumstances which would indicate that the
+       proposed payment would be contrary to the intent of section 18(k) of
+       the Act or this part.
+
+12 C.F.R. § 359.4(b)(1)-(3).
+                              B.     Factual Background
+
+       In 2011, Bancorp sought to sell the Bank, which it owned entirely, to BBT
+
+under the SPA. The SPA provided that, upon closing, Bancorp would be obligated
+
+to make severance payments to, as relevant here, five executives (the “Proposed
+
+Payments”), and BBT would reimburse BBX for those payments. 2 Those Proposed
+
+Payments were significantly greater than each executive’s average salary over the
+
+prior years.
+
+       In the wake of the 2008 Great Recession, however, both Bancorp and the Bank
+
+had been deemed to be, and remained in 2011, in “troubled condition,” were covered
+
+companies, and were operating under public consent orders that, among other things,
+
+prohibited the making of any golden parachute payments unless Bancorp complied
+
+with the FDIC’s corresponding regulations. In addition, BBT’s acquisition of the
+
+Bank and Bancorp’s merger with BBX, under the SPA, required regulatory review
+
+
+
+       2
+          The Proposed Payments are as follows: Valerie Toalson, Chief Financial Officer
+($995,438); Lloyd DeVaux, Chief Operating Officer ($1,319,114); Jay McClung, Chief Risk
+Officer ($743,258); Lewis Sarrica, Chief Investment Officer, ($920,451); and Susan McGregor,
+Chief Talent Officer ($893,713).
+                                             6
+               Case: 19-11172      Date Filed: 04/07/2020      Page: 7 of 26
+
+
+
+and approval. To expedite that approval process, Bancorp agreed that it would not
+
+make the Proposed Payments without either a determination by both the FDIC and
+
+the FRB that the payments were not golden parachutes, or FRB and FDIC approval
+
+of the payments.        BBT agreed to the same conditions with respect to its
+
+reimbursement payments. The sale of the Bank to BBT closed on July 31, 2012,
+
+with the non-objection of the FDIC and the FRB.
+
+       The following year, the FDIC notified BBX that the proposed severance
+
+payments (and any reimbursements) were golden parachutes that could not be made
+
+without FRB approval and FDIC concurrence. With respect to two of the executives,
+
+DeVaux and McClung, the FDIC found that though those executives had previously
+
+executed severance agreements in 1999 and 2001, respectively, the Proposed
+
+Payments set forth in the SPA replaced payments due under the earlier agreements.3
+
+Finally, the FDIC determined that the reimbursement payments from BBT to BBX
+
+also constituted indirect golden parachute payments and therefore required approval.
+
+       In September 2013, BBX submitted its applications to make the Proposed
+
+Payments to each of the executives but also reaffirmed its disagreement about the
+
+applicability of the golden parachute provisions.
+
+
+
+
+       3
+         The FDIC subsequently also noted that for both DeVaux and McClung, the amount
+provided for under the SPA “was more than the amount due to him upon resignation or change in
+control under his employment contract.”
+                                             7
+                     Case: 19-11172    Date Filed: 04/07/2020        Page: 8 of 26
+
+
+
+       The FDIC issued its decisions in January 2018. It first confirmed that the
+
+Proposed Payments were subject to the golden parachute regulations. Quoting the
+
+preamble        to     its   golden   parachute       regulations,   the   FDIC      noted   that
+
+§ 1828(k)(4)(A)(ii) “provides that any payment which is contingent on the
+
+termination of an IAP’s employment and is received on or after an institution or
+
+holding company becomes troubled is a prohibited golden parachute.                       If this
+
+payment is prohibited under the prescribed circumstances, it is prohibited forever.”
+
+So changes to the corporate structure—that is, BBT’s purchase of the Bank and
+
+BBX’s exit from the banking industry—did not change the applicability of the
+
+restrictions.
+
+       In addition, the FDIC determined that BBX is subject to golden parachute
+
+regulations as a “covered company” for the purposes of the Proposed Payments.
+
+And even if BBX were not a covered company, the Proposed Payments would still
+
+be subject to the golden parachute restrictions because they arose from the
+
+executives’ employment at BankAtlantic and Bancorp and would be made after the
+
+date those entities had been deemed to be troubled. Finally, the FDIC determined
+
+that the specific Proposed Payment negotiated for each executive qualified as a
+
+golden parachute payment.
+
+       Then, turning to whether the Proposed Payments were permissible, the FDIC
+
+concluded that it would not approve payments in any amount above one year’s salary
+
+
+                                                  8
+              Case: 19-11172    Date Filed: 04/07/2020    Page: 9 of 26
+
+
+
+for each executive.    The FDIC explained that its decision “fully considered
+
+Bancorp’s and the Bank’s supervisory history, BBX’s status as successor to
+
+Bancorp, the agreements at issue, and the text, structure and intent of Section
+
+1828(k), the certification factors found at 12 C.F.R. § 359.4(a)(4), and the
+
+discretionary evaluative criteria found at 12 C.F.R. § 359.4(b).”
+
+      Specifically, the FDIC determined that it “would have no objection and would
+
+concur, if the FRB were to approve payment . . . in [an] amount . . . representing
+
+twelve months salary” under the change-in-control exception. But though additional
+
+payments could be permitted under the regulator’s-concurrence exception, the FDIC
+
+determined that additional payments under that exception were not justified based
+
+on its internal guidance and the § 359.4(b) factors. In reaching those conclusions,
+
+the FDIC considered that the executives had limited responsibility for the Bank’s
+
+troubled condition that “arose in the context of a protracted national economic
+
+downturn” and that BBT had acquired the Bank in an unassisted transaction without
+
+loss to the FDIC. Nonetheless, the FDIC found that approval of the entire Proposed
+
+Payment would be contrary to the intent of the golden parachute restrictions and that
+
+independently supported its one year’s salary determination.
+
+      About two weeks later, the FRB issued its decision. The FRB approved
+
+payment of 12 months of salary under the change-in-control exception. As to any
+
+excess amounts potentially permissible under the regulator’s-concurrence exception,
+
+
+                                          9
+               Case: 19-11172       Date Filed: 04/07/2020       Page: 10 of 26
+
+
+
+though, the FRB determined that “no further action [wa]s required” and explicitly
+
+“t[ook] no action with regard to those payment amounts” because “FDIC
+
+concurrence,” which had already been withheld, “is required before those payments
+
+can be made.” Finally, the FRB stated, “It is anticipated that BB&T will reimburse
+
+BBX Capital for the golden parachute payments pursuant to Section 5.7(h) of the
+
+[SPA]. BB&T must request approval under 12 C.F.R. part 359 prior to making
+
+reimbursements for the golden parachute payments.”
+
+       In response, BBX sued the FDIC and the FRB under the Administrative
+
+Procedure Act (“APA”) and the Due Process Clause of the Fifth Amendment.
+
+BBX’s amended complaint asserts that (1) the FDIC’s determinations that the
+
+Proposed Payments are golden parachute payments and the agencies’ refusal to
+
+approve the full Proposed Payment amounts were arbitrary and capricious (Counts I
+
+and II); (2) the agencies violated BBX’s due-process rights by requiring BBT to file
+
+a second application before reimbursing BBX (Count IV); and (3) the court should
+
+declare that BBX is authorized to make the Proposed Payment (Count V).4
+
+
+
+
+       4
+         Count III asserts that the agencies unlawfully or unreasonably delayed in rendering a
+decision. Because the agencies subsequently did issue their decisions, that count is not at issue
+here.
+                                               10
+                Case: 19-11172        Date Filed: 04/07/2020         Page: 11 of 26
+
+
+
+       The district court subsequently granted summary judgment in favor of the
+
+FDIC and dismissed the FRB for lack of jurisdiction, concluding that the FRB was
+
+not responsible for any injury BBX sustained. We now affirm. 5
+
+                                                 II.
+
+       We turn first to BBX’s argument that the district court erroneously concluded
+
+that BBX lacked standing to sue the FRB. We review standing determinations de
+
+novo, CAMP Legal Def. Fund, Inc. v. City of Atlanta, 451 F.3d 1257, 1268 (11th
+
+Cir. 2006), and find that BBX’s arguments lack merit.
+
+       “[S]tanding is an essential and unchanging part of the case-or-controversy
+
+requirement of Article III[,]” which the party invoking federal jurisdiction has the
+
+burden of proving. Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 (1992).
+
+“[T]he irreducible constitutional minimum of standing under Article III consists of
+
+three elements: an actual or imminent injury, causation, and redressability.”
+
+Hollywood Mobile Estates Ltd. v. Seminole Tribe of Fla., 641 F.3d 1259, 1265 (11th
+
+Cir. 2011) (internal quotation marks omitted).6
+
+       The causation element, which we focus on here, requires “a causal connection
+
+between the injury and the conduct complained of—the injury has to be fairly
+
+
+       5
+          We have jurisdiction pursuant to 28 U.S.C. § 1291.
+       6
+          A party suing under the APA must also demonstrate prudential standing, which requires
+the interest asserted be “within the zone of interests to be protected or regulated by the statute that
+he says was violated.” Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak, 567
+U.S. 209, 224 (2012) (internal quotation marks omitted). BBX’s prudential standing is not at issue.
+
+                                                  11
+             Case: 19-11172    Date Filed: 04/07/2020   Page: 12 of 26
+
+
+
+traceable to the challenged action of the defendant, and not the result of the
+
+independent action of some third party not before the court.” Lujan, 504 U.S. at 560
+
+(alterations adopted). That requirement does not disappear simply because the
+
+plaintiff has named an administrative agency as a defendant. Instead, as with any
+
+party that is dragged into court, a plaintiff must allege how the agency’s action or
+
+inaction caused the plaintiff’s alleged injury. See Hollywood Mobile Estates Ltd.,
+
+641 F.3d at 1265-66. Simply describing an agency’s regulatory responsibilities is
+
+not enough. Id. On the other hand, standing is not defeated merely because the
+
+complained of injury can be fairly traced to multiple parties. Loggerhead Turtle v.
+
+Cty. Council of Volusia Cty., Fla., 148 F.3d 1231, 1247 (11th Cir. 1998).
+
+      BBX first argues that it has standing to sue the FRB because the FRB issued
+
+its decision after the FDIC issued its own decision. That argument is premised on
+
+the text of the regulator’s-concurrence exception, which states that a golden
+
+parachute payment is permissible if “[t]he appropriate federal banking agency [the
+
+FRB], with the written concurrence of the [FDIC], determines that such a payment
+
+or agreement is permissible[.]” 12 C.F.R. § 359.4(a)(1). We do not read that section
+
+as requiring the agencies to act in any particular order. Such a requirement would
+
+have at least one absurd consequence: By issuing its decision before the FRB, the
+
+FDIC, an independent agency, would cause the FRB to violate the regulation and, if
+
+BBX had its way, cause the FRB to injure the golden parachute applicant. We cannot
+
+
+                                        12
+             Case: 19-11172     Date Filed: 04/07/2020   Page: 13 of 26
+
+
+
+countenance that result. And in any event, the FRB did not injure BBX by acting
+
+after the FDIC issued its decision. Because the regulator’s-concurrence exception
+
+requires permission from both agencies, one denial, in any order, vetoes the
+
+Proposed Payment. Here, it was the FDIC’s veto that caused BBX’s injury.
+
+      Next, plaintiff argues that the FRB’s substantive decision, as opposed to the
+
+timing of that decision, injured it. We disagree.
+
+      As an initial matter, the FRB approved 12 months of salary, the maximum
+
+available, under the change-in-control exception. That decision did not harm BBX.
+
+      As to the regulator’s-concurrence exception, the FRB explicitly took no action
+
+because the FDIC had already prohibited any payment under that exception.
+
+Because golden parachute payment approval under that exception requires two
+
+“yeses” from the governing agencies, even if the FRB had approved payments in
+
+excess of 12 months’ salary, no payment could be made. So again, it was the FDIC’s
+
+decision to prohibit any payment in excess of 12 months’ salary, and not the FRB’s
+
+non-decision, that harmed BBX.
+
+      Facing the fact that the FRB’s non-decision did not harm it, BBX asserts that
+
+it was harmed by the FRB’s decision to “rubberstamp” the FDIC’s decision. To
+
+begin, that argument is factually incorrect because, as to the regulator’s-concurrence
+
+exception, the FRB neither approved nor rejected the FDIC’s decision. So it didn’t
+
+rubberstamp anything.
+
+
+                                         13
+             Case: 19-11172     Date Filed: 04/07/2020   Page: 14 of 26
+
+
+
+      Pointing to Strickland v. Alexander, 772 F.3d 876, 885-86 (11th Cir. 2014),
+
+BBX argues that even the FRB’s performance of a ministerial task supports Article
+
+III standing. But there, we did not hold that the performance of a ministerial task
+
+alone could support standing. Rather, we held that when an injury traceable to a
+
+defendant exists, the ministerial nature of the action taken—i.e., the causal
+
+connection—will not somehow void the injury or causation and thereby defeat
+
+standing. See Alexander, 772 F.3d at 885-86.
+
+      BBX’s reliance on Loggerhead Turtle is similarly misplaced. As the district
+
+court explained, “the critical factual difference[] between this case and Loggerhead
+
+Turtle” is that the Loggerhead Turtle defendant had “absolute authority to issue
+
+environmental ordinances that would . . . prevent plaintiffs’ injuries. That is not so
+
+here, where the FRB has no authority whatsoever to control the FDIC—an
+
+independent agency.”
+
+      Finally, BBX argues that it was harmed by the FRB’s determination that BBT
+
+must seek approval before reimbursing BBX. True, the FRB’s decision letter stated,
+
+“BB&T must request approval under 12 C.F.R. part 359 prior to making
+
+reimbursements for the golden parachute payments.” But that wasn’t an adverse
+
+decision; it was a statement of the law, as interpreted by the FDIC. The FDIC had
+
+already determined that the payments qualified as golden parachute payments, and
+
+the FRB had no authority to override the interpretation by an independent agency.
+
+
+                                         14
+               Case: 19-11172      Date Filed: 04/07/2020      Page: 15 of 26
+
+
+
+Moreover, in order to expedite approval of the SPA, BBX and BBT contractually
+
+agreed that the Proposed Payments would not be made unless both the FRB and the
+
+FDIC determined the payments were not subject to the golden parachute provisions.
+
+As the FDIC has already rendered an unfavorable determination on that point, BBX
+
+can hardly complain that the FRB somehow injured it by stating that BBT must seek
+
+approval to reimburse BBX—that’s exactly what BBT and BBX agreed to. 7
+
+       In sum, because BBX has not shown any injury it has sustained is fairly
+
+traceable to an FRB action or inaction, BBX does not have standing to sue the FRB.
+
+                                             III.
+
+       Next, we turn to BBX’s argument that the district court erred by granting
+
+summary judgment in favor of the FDIC. BBX makes two overarching arguments
+
+in support of its primary APA claims. First, BBX asserts that the FDIC decision to
+
+classify the Proposed Payments as golden parachute payments was arbitrary and
+
+capricious. Second, BBX contends that even if that decision was not arbitrary and
+
+capricious, the FDIC’s denial of any payments in excess of 12 months’ salary for
+
+each executive was itself arbitrary and capricious. Finally, BBX argues that the
+
+FDIC’s requirement that BBT obtain approval before reimbursing BBX was
+
+arbitrary and capricious and violated the Due Process Clause.
+
+
+       7
+         Because our standard of review is de novo and we conclude that BBX has not established
+standing to sue FRB, we need not address BBX’s other argument that the district court erred by
+applying a proximate-cause standard.
+
+                                              15
+             Case: 19-11172     Date Filed: 04/07/2020    Page: 16 of 26
+
+
+
+      We review a grant of summary judgment de novo. Preserve Endangered
+
+Areas of Cobb’s History, Inc. v. U.S. Army Corps of Eng’rs, 87 F.3d 1242, 1246
+
+(11th Cir. 1996). Summary judgment is proper if “there is no genuine dispute as to
+
+any material fact and the movant is entitled to judgment as a matter of law.” Fed. R.
+
+Civ. P. 56(a). The moving party bears the initial burden of demonstrating the
+
+absence of a genuine dispute of material fact. Celotex Corp. v. Catrett, 477 U.S.
+
+317, 323 (1986). A fact is “material” if it “might affect the outcome of the suit under
+
+the governing law.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). A
+
+dispute over such a fact is “genuine” if “the evidence is such that a reasonable jury
+
+could return a verdict for the nonmoving party.” Id.
+
+      Federal courts review challenges to agency decisions under the standard set
+
+forth by the APA. See 5 U.S.C. § 706; see also Fund for Animals, Inc. v. Rice, 85
+
+F.3d 535, 541 (11th Cir. 1996). The APA provides, in relevant part, that a court
+
+shall “hold unlawful and set aside agency action, findings, and conclusions” that are
+
+“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with
+
+law.” 5 U.S.C. § 706(2). “The arbitrary and capricious standard is exceedingly
+
+deferential.” Miccosukee Tribe of Indians of Fla. v. United States, 566 F.3d 1257,
+
+1264 (11th Cir. 2009) (internal quotation marks omitted). So long as the agency’s
+
+conclusions are rational, we will not set them aside. Id. That deference is enhanced
+
+
+
+
+                                          16
+             Case: 19-11172     Date Filed: 04/07/2020   Page: 17 of 26
+
+
+
+when the agency is making decisions within its area of special expertise, as opposed
+
+to simple findings of fact. Id. Nevertheless, we may find an agency action
+
+      arbitrary and capricious where the agency has relied on factors which
+      Congress has not intended it to consider, entirely failed to consider an
+      important aspect of the problem, offered an explanation for its decision
+      that runs counter to the evidence before the agency, or is so implausible
+      that it could not be ascribed to a difference in view or the product of
+      agency expertise.
+
+Id. (quoting Alabama–Tombigbee Rivers Coal. v. Kempthorne, 477 F.3d 1250, 1254
+
+(11th Cir. 2007)).
+
+      Relatedly, “[w]hen Congress has explicitly left a gap for an agency to fill,
+
+there is an express delegation of authority to the agency to elucidate a specific
+
+provision of the statute by regulation, and any ensuing regulation is binding in the
+
+courts unless procedurally defective, arbitrary or capricious in substance, or
+
+manifestly contrary to the statute.” United States v. Mead Corp., 533 U.S. 218, 227
+
+(2001) (internal citation and quotation marks omitted).         And “[a]n agency's
+
+interpretation of its own regulations is controlling unless plainly erroneous or
+
+inconsistent with the regulation.” Sierra Club v. Johnson, 436 F.3d 1269, 1274 (11th
+
+Cir. 2006) (internal quotation marks omitted). But when a regulation merely parrots
+
+the language of the authorizing statute, the question for the courts is the meaning of
+
+the statute. See Gonzales v. Oregon, 546 U.S. 243, 257 (2006).
+
+
+
+
+                                         17
+               Case: 19-11172       Date Filed: 04/07/2020      Page: 18 of 26
+
+
+
+                                              A.
+
+       BBX first contends that the golden parachute statute does not cover the
+
+payments at issue here. Specifically, BBX argues that the FDIC has (1) erroneously
+
+decided to apply the golden parachute provisions in perpetuity to any institution ever
+
+classified as “troubled” and (2) erroneously concluded that the SPA fell within the
+
+plain language of the statutory regime. Those arguments fail for essentially the same
+
+reason: the golden parachute provisions focus on qualifying payments, not on
+
+qualifying institutions.
+
+       Chevron requires us to first look at the plain meaning of the statute. 8 Chevron
+
+U.S.A. Inc. v. NRDC Inc., 467 U.S. 837, 842-43 (1984). If it is unambiguous and
+
+does not lead to absurd results, then the analysis ends there. Packard v. Comm'r,
+
+746 F.3d 1219, 1222 (11th Cir. 2014); Silva-Hernandez v. U.S. Bureau of Citizenship
+
+& Immigration Servs., 701 F.3d 356, 363 (11th Cir. 2012) (“This Court’s one
+
+recognized exception to the plain meaning rule is absurdity of results.”). “In
+
+determining whether a statute is plain or ambiguous, we consider the language itself,
+
+the specific context in which that language is used, and the broader context of the
+
+statute as a whole.” In re BFW Liquidation, LLC, 899 F.3d 1178, 1188 (11th Cir.
+
+2018) (internal quotation marks omitted). A statute is ambiguous “if it is susceptible
+
+
+       8
+         BBX also argues that we should revisit Chevron. We are, of course, unable to do so.
+Bosse v. Oklahoma, 137 S. Ct. 1, 2 (2016) (“[I]t is th[e] [Supreme] Court's prerogative alone to
+overrule one of its precedents.”).
+
+                                              18
+              Case: 19-11172     Date Filed: 04/07/2020    Page: 19 of 26
+
+
+
+to more than one reasonable interpretation.” Id. Only if we determine the statute is
+
+ambiguous do we reach the second step of Chevron, which requires us to defer to
+
+the agency’s construction of a statute it administers if that construction is
+
+permissible. Chevron, 467 U.S. at 842-43.
+
+      Section 1828(k) authorizes the FDIC to prohibit or limit any golden parachute
+
+payment or any agreement to make such a payment: “The term ‘golden parachute
+
+payment’ means any payment (or any agreement to make any payment) . . . that (i)
+
+is contingent on the termination of such party’s affiliation with the institution . . .
+
+and . . . (ii) is received on or after the date the institution’s Federal banking agency
+
+determines that the . . . institution is in a troubled condition[.]” 12 U.S.C. §
+
+1828(k)(4)(A) (emphasis added). The SPA is exactly that: an agreement to make
+
+severance payments by an institution to its executives after the institution was
+
+determined to be (and remained) in a troubled condition. By its plain language then,
+
+the golden parachute statute covers the SPA and the Proposed Payments included
+
+therein.
+
+      Rather than addressing the plain language of the statute, BBX argues that
+
+Congress did not intend for the statute to be applied to well-performing executives
+
+of institutions that have recovered from their troubled state. We are unconvinced by
+
+that argument for a host of reasons. First, whatever supposed intent BBX gleans
+
+from its reading of the statute, we may not ignore the plain meaning of the statutory
+
+
+                                          19
+               Case: 19-11172        Date Filed: 04/07/2020      Page: 20 of 26
+
+
+
+text unless it leads to absurd results, which it does not. Second, the Bank was still a
+
+“troubled” institution at the time the SPA was executed, so it had not “recovered.”
+
+Third, despite BBX’s assertion to the contrary, the FDIC does not apply the golden
+
+parachute provisions to once-troubled institutions in perpetuity. 9 Rather, it applies
+
+the provisions to qualifying payments and agreements to pay in perpetuity. So if the
+
+Bank was in fact no longer “troubled,” then it could have executed new severance
+
+agreements that would not have been subject to the golden parachute restrictions.
+
+       The FDIC’s focus on payments and agreements to make payments that qualify
+
+as golden parachutes is reasonable and makes sense. A contrary reading would allow
+
+otherwise prohibited golden parachute payments to be made through simple
+
+corporate restructuring or by delaying the payments until after the institution is either
+
+no longer covered (as is the case here) or until after the institution is no longer
+
+“troubled.” See, e.g., Council for Urological Ints. v. Burwell, 790 F.3d 212, 225
+
+(D.C. Cir. 2015) (upholding as reasonable statutory interpretation that prevented
+
+evasion); NRA v. Brady, 914 F.2d 475, 481 (4th Cir. 1990) (same).
+
+       BBX’s final two argument can be dispatched with alacrity. First, BBX argues
+
+that the proposed payments do not qualify as golden parachute payments because
+
+
+
+       9
+         BBX complains that the FDIC’s final decisions relied on the FDIC’s preamble to its
+golden parachute regulations that states, “If th[e golden parachute] payment is prohibited under
+the prescribed circumstances, it is prohibited forever.” But that language is perfectly consistent
+with § 1828(k).
+
+                                               20
+              Case: 19-11172   Date Filed: 04/07/2020   Page: 21 of 26
+
+
+
+BBX was under no obligation to pay severance unless and until the sale of the Bank
+
+to BBT closed, at which point BBX would completely exit banking, making it no
+
+longer subject to FDIC regulations. Cf. 12 U.S.C. § 1828(k)(4)(A) (defining golden
+
+parachute payment as including any payment or agreement to pay “pursuant to an
+
+obligation” that is contingent on the IAP’s termination). But an obligation does not
+
+vanish merely because a triggering precondition has not yet occurred. The SPA was
+
+an agreement that obligated BBX to make certain qualifying payments once certain
+
+conditions were met. That puts it within the golden parachute framework’s purview.
+
+      Second, BBX argues that the Proposed Payments to McClung and DeVaux
+
+are not golden parachute payments because those two executives had executed
+
+severance contracts in 1999 and 2001, when the Bank was not in a troubled
+
+condition. That argument fails because, pursuant to the SPA, Bancorp expressly
+
+assumed the Bank’s obligation to pay those executives the amounts contemplated by
+
+the SPA. The earlier agreements are thus irrelevant because the Proposed Payments
+
+to McClung and DeVaux are being made under the SPA, not those earlier
+
+agreements.
+
+      Moreover, though the prior severance agreements did not qualify as golden
+
+parachutes, if the two executives were terminated in 2011 (without the SPA
+
+superseding the earlier agreements), the golden parachute provisions would
+
+nevertheless apply to payments due under those agreements. See 12 U.S.C. §
+
+
+                                        21
+              Case: 19-11172     Date Filed: 04/07/2020   Page: 22 of 26
+
+
+
+1828(k)(4)(A) (defining golden parachute payment to include any payment
+
+“received on or after the date on which . . . the institution” is determined to be
+
+“troubled”). Thus, BBX would have us conclude that though payment could not be
+
+made under the prior severance agreements, those same agreements somehow
+
+exempt the SPA’s Proposed Payments to McClung and DeVaux. We cannot agree
+
+with that illogical reasoning.
+
+      Because the Proposed Payments fall directly under the plain language of the
+
+statute, we cannot conclude that the FDIC’s decision to apply those provisions was
+
+arbitrary or capricious.
+
+                                          B.
+
+      BBX next complains that the FDIC’s decision to deny any payment to the five
+
+executives in excess of 12 months’ salary under the regulator’s-concurrence
+
+exception was arbitrary and capricious. BBX argues that the FDIC’s decision was
+
+arbitrary and capricious because the FDIC failed to consider evidence that the five
+
+executives committed no fraudulent acts or omissions or insider abuses, were not
+
+otherwise responsible for the troubled condition of the Bank, and to the contrary,
+
+steered the bank through the Great Recession to the benefit of depositors.
+
+      BBX’s argument gets the regulatory framework wrong. Ordinarily, payments
+
+that qualify as golden parachute payments are prohibited unless excepted and
+
+deemed permissible. 12 C.F.R. § 359.2. Under § 359.4(a)(4), BBX has the initial
+
+
+                                          22
+                Case: 19-11172        Date Filed: 04/07/2020       Page: 23 of 26
+
+
+
+burden of showing the executives’ good (or not bad) behavior, which includes
+
+certifying that BBX is not aware of a reasonable basis to believe the executives
+
+committed any fraudulent act, violated any banking law, or were responsible for the
+
+institution’s troubled condition.          Only after BBX has satisfactorily made that
+
+showing does the FDIC move on to the question of whether other considerations,
+
+including the discretionary factors set forth in § 359.4(b), weigh in favor of allowing
+
+golden parachute payments to be made. That is, the executives’ good behavior opens
+
+the door to a proposed payment. And once the door had been opened, the statute
+
+and the regulations do not require the FDIC to address the executives’ purported
+
+good behavior when determining whether to permit the Proposed Payments. That
+
+aside, BBX’s argument fails for the additional reason that the FDIC did explicitly
+
+consider the executives’ limited responsibility for the Bank’s troubled condition.
+
+       We also conclude that the FDIC’s analysis of the discretionary factors set forth
+
+in § 359.4(b) supports its decision.10 First, the FDIC found that each of the
+
+executives had a “high degree of ‘managerial or fiduciary responsibility.’” As each
+
+executive was a chief officer of some type, that conclusion can hardly be deemed
+
+
+
+       10
+          The FDIC’s decision also relied on its internal guidance that advised that the regulator’s-
+concurrence exception should not be viewed as permitting golden parachute payments in excess
+of one year’s salary. Though BBX mounts several arguments against that guidance, we need not
+address them because we find that the FDIC’s analysis of the § 359.4(b) discretionary factors
+independently supports its decision. We do, however, reject, as factually inaccurate, BBX’s
+argument that the agency based its decision solely on its internal guidance.
+
+                                                 23
+               Case: 19-11172        Date Filed: 04/07/2020       Page: 24 of 26
+
+
+
+arbitrary or capricious. Second, the FDIC considered the length of each executive’s
+
+tenure at the company compared to that executive’s compensation during that time,
+
+finding each of the executives “well compensated during his [or her] tenure.” BBX
+
+does not challenge that conclusion, and we have no basis to doubt it.
+
+       As to the third factor, which calls for a more wide-ranging inquiry, the FDIC
+
+“fully considered that the Bank’s troubled condition arose in the context of a
+
+protracted national economic downturn, which hit Florida markets particularly
+
+hard.” It also accounted for the fact that the Bank was acquired in an unassisted
+
+transaction without loss to the FDIC or taxpayer funds. “Nonetheless, the FDIC
+
+f[ound] that approval” of the full Proposed Payment would be “contrary to the
+
+intent” of § 1828(k) because “executives at the helm of” troubled institutions “should
+
+not be awarded windfall payments.” Congress’s primary focus, in enacting the
+
+golden parachute provision, was to prevent executives from “vot[ing] themselves
+
+generous bonuses at the expense of the institution or company . . . .” 136 Cong. Rec.
+
+E3684-02, E3687, 1990 WL 206971 (Oct. 27, 1990); H.R. Rep. 101-681(I), 1990
+
+U.S.C.C.A.N. 6472, 6588 (Sept. 5, 1990) (same).11                    That’s the position the
+
+executives were in here.
+
+
+
+
+       11
+         For the same reason, we are unpersuaded by BBX’s argument that because the executives
+had substantial managerial and fiduciary responsibilities, they should be awarded the full Proposed
+Payments.
+
+                                                24
+             Case: 19-11172     Date Filed: 04/07/2020   Page: 25 of 26
+
+
+
+      Nor is there any indication that the FDIC relied on factors that Congress did
+
+not intend for it to consider. And we find no merit in BBX’s remaining contentions.
+
+      In short, the FDIC’s decision was not arbitrary and capricious because the
+
+FDIC did exactly what it was supposed to do. It considered the discretionary factors,
+
+it considered additional factors that weighed in BBX’s favor, and it neither refused
+
+to consider relevant factors nor relied on irrelevant factors. The explanations the
+
+FDIC offered for denying additional payments were reasonable and did not run
+
+counter to the evidence. We therefore affirm.
+
+                                         C.
+
+      Finally, BBX argues that the FDIC’s requirement that BBT seek approval
+
+before reimbursing BBX was arbitrary and capricious because it did not offer any
+
+reasoned basis for the requirement. But in its April 2013 correspondence, the FDIC
+
+did explain why it considered BBT’s reimbursement payments to be “indirect”
+
+golden parachute payments. The FDIC’s final determination letters incorporated
+
+that 2013 correspondence by reference. The decision was therefore not arbitrary or
+
+capricious for failure to provide a reasoned analysis and, in fact, we find the FDIC’s
+
+analysis reasonable.
+
+      Nor did the decision violate due process. Other than claiming that it has a
+
+property interest in the reimbursements—which it no doubt does—BBX does not
+
+explain how its due-process rights were violated by the FDIC’s decision requiring
+
+
+                                         25
+               Case: 19-11172    Date Filed: 04/07/2020   Page: 26 of 26
+
+
+
+BBT to gain approval before reimbursing BBX. Due process requires only that
+
+parties whose liberty or property interests are affected by governmental
+
+adjudications be given “notice and an opportunity to be heard.” See United States
+
+v. James Daniel Good Real Property, 510 U.S. 43, 48 (1993). Though BBT’s
+
+reimbursement application and BBX’s proposed payment application may have
+
+some overlap, BBX cites no authority suggesting that the Due Process Clause
+
+prohibits any duplication of labor.
+
+                                          IV.
+
+        For the reasons we have described, we affirm the district court’s dismissal of
+
+the claims against the FRB for lack of standing and affirm the grant of summary
+
+judgment in favor of the FDIC. We also CANCEL ORAL ARGUMENT in this
+
+case.
+
+        AFFIRMED.
+
+
+
+
+                                          26
+

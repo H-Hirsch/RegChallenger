@@ -1,0 +1,756 @@
+ United States Court of Appeals
+          FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued November 8, 2021                 Decided July 15, 2022
+
+                         No. 20-1262
+
+              ENTERGY ARKANSAS, LLC, ET AL.,
+                       PETITIONERS
+
+                               v.
+
+        FEDERAL ENERGY REGULATORY COMMISSION,
+                     RESPONDENT
+
+      MISSISSIPPI PUBLIC SERVICE COMMISSION, ET AL.,
+                       INTERVENORS
+
+
+
+                  Consolidated with 20-1391
+
+
+           On Petitions for Review of Orders of the
+           Federal Energy Regulatory Commission
+
+
+
+     Jennifer S. Amerkhail argued the cause and filed the briefs
+for petitioners. Zachary C. Schauf entered an appearance.
+
+   Carol J. Banta, Attorney, Federal Energy Regulatory
+Commission, argued the cause for
+                               2
+respondent. With her on the brief were Matthew R.
+Christiansen, General Counsel, and Robert H. Solomon,
+Solicitor.
+
+    Before: ROGERS and WILKINS, Circuit Judges, and
+SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge WILKINS.
+
+     WILKINS, Circuit Judge. The instant petition arises from a
+three-year effort to establish a cost allocation method for
+allocating Midcontinent Independent System Operator, Inc.’s
+(“MISO”) share of costs for interregional transmission projects
+connecting a region operated by MISO and an adjacent region
+operated by PJM Interconnection, L.L.C. (“PJM”). In 2016,
+the Federal Energy Regulatory Commission (“FERC” or
+“Commission”) required MISO to institute reforms to its
+interregional planning process and directed MISO to propose a
+cost allocation method for its share of certain interregional
+project costs. Since that time, MISO has twice submitted
+proposals for such cost allocation. Both times, FERC rejected
+the proposals, finding that they were not just and reasonable as
+required by the Federal Power Act (the “Act”), 16 U.S.C. §§
+791 et seq., because they were inconsistent with the cost
+causation principle. After the second rejection, FERC, on its
+own initiative, established a cost allocation method for certain
+MISO-PJM projects. In this consolidated action, Petitioners
+challenge FERC’s rejection of MISO’s second proposal and
+FERC’s corresponding implementation of a cost allocation
+method. For the reasons below, we deny the petitions and
+affirm FERC’s orders in all respects.
+                                 3
+                                I.
+
+     Section 201 of the Act gives FERC jurisdiction over
+facilities that engage in transmission and sale of electricity at
+wholesale in interstate commerce. 16 U.S.C. § 824(b)(1).
+Under the Act, FERC has the power to review rates in
+connection with transmission services or sales to ensure that
+such rates are “just and reasonable” and to set aside as
+“unlawful” any rate or charge it deems not just and reasonable.
+16 U.S.C. § 824d(a). Additionally, pursuant to Section 206, if
+FERC finds a rate or charge to be “unjust, unreasonable, unduly
+discriminatory or preferential,” FERC “shall determine the just
+and reasonable rate . . . to be thereafter observed and in force,
+and shall fix the same by order.” 16 U.S.C. § 824e(a).
+
+     In assessing whether a rate is “just and reasonable,” FERC
+and the courts determine, among other things, whether the rate
+comports with the “cost-causation principle” which requires
+that the rates charged for electricity reflect the costs of
+providing it. See Old Dominion Elec. Coop. v. FERC, 898 F.3d
+1254, 1255 (D.C. Cir. 2018) (hereinafter “Old Dominion”).
+“We often frame this principle as one that ensures burden is
+matched with benefit, so that FERC generally may not single
+out a party for the full cost of a project, or even most of it, when
+the benefits of the project are diffuse.” Id. (internal quotation
+marks and citations omitted).
+
+     Under a FERC regulation, known as “Order No. 1000,”
+see Transmission Planning and Cost Allocation by
+Transmission Owning and Operating Public Utilities, 136
+FERC ¶ 61,051 (2011), electric utilities are subject to two
+relevant requirements:
+
+        First, utilities in each planning region must
+        jointly produce a regional transmission plan to
+                              4
+       determine what new facilities would best meet
+       regional needs for electricity. Second, in their
+       respective tariffs, utilities must include a
+       formula for allocating the costs of new
+       transmission facilities selected in the regional
+       transmission plan for purposes of cost
+       allocation. This formula must satisfy six general
+       principles, the first of which is the cost-
+       causation principle: The cost of transmission
+       facilities must be allocated to those within the
+       transmission planning region that benefit from
+       those facilities in a manner that is at least
+       roughly commensurate with estimated benefits.
+       Order No. 1000 requires each utility to show,
+       through compliance filings, that its cost-
+       allocation formula is consistent with the six
+       specified principles.
+
+Old Dominion, 898 F.3d at 1256 (internal quotation marks and
+citations omitted).
+
+     In accordance with Order No. 1000, MISO and PJM
+jointly planned—and subsequently approved as part of their
+respective regional transmission plans—interregional projects
+that connected and benefited both regions. Once interregional
+projects were identified, MISO and PJM allocated the costs of
+such projects between their regions. Each region then allocated
+its share of costs from the interregional project to subdivided
+zones within their own respective regions. This case involves
+the cost allocation method for MISO’s share of a MISO-PJM
+interregional transmission project.
+
+    Under MISO’s original regional transmission plan, MISO
+established different project categories, each with different
+qualifying criteria and cost allocations. MISO’s share of an
+                                 5
+interregional project’s costs is then assigned according to the
+allocation method that corresponds with the MISO project
+type, of which there were historically three. 1 The most relevant
+category to this appeal is the “Market Efficiency Project”—a
+higher-voltage transmission project that reduces congestion
+and lowers the costs of power in the region. Originally, to
+qualify as a Market Efficiency Project, a transmission project
+was required to (1) cost at least $5 million, (2) consist of
+facilities that have voltages of 345 kilovolts (kV) or higher, and
+(3) have a total regional benefit-to-cost ratio of at least 1.25-to-
+1, with benefits measured using an Adjusted Production Cost
+Savings metric (“Production Cost Metric”). J.A. 355. The
+Production Cost Metric measures the extent to which a new
+transmission project will make electricity cheaper by
+measuring the total reduction in costs resulting from the new
+project. See Midwest Independent Transmission System
+Operator, Inc., 118 FERC ¶ 61,209, ¶ 5 n.6 (2007). Under the
+original plan, once a project was deemed a Market Efficiency
+Project, 20 percent of the project cost was allocated on a
+region-wide basis to all customers across the entire MISO
+footprint (known as the “postage-stamp approach”). The
+remaining 80 percent was allocated to zones based on each
+zone’s proportion of the Production Cost Metric benefits that it
+received. The orders on review stem from FERC’s resolution
+of an earlier complaint proceeding and subsequent filings
+related to this original plan. We start with a brief summary of
+the relevant proceedings and filings.
+
+
+
+
+1
+  The three MISO project types are: Baseline Reliability Projects,
+Market Efficiency Projects, and Multi-Value Projects. See J.A. 354–
+55 (describing the three types of projects and corresponding
+allocation method).
+                                6
+    Northern Indiana Public Service Company Complaint Order
+     In 2013, Northern Indiana Public Service Company
+(“NIPSCO”), a utility in northern Indiana whose transmission
+system connects to the “seams” of MISO’s and PJM’s systems,
+filed a complaint against MISO and PJM, seeking reform of the
+MISO-PJM joint interregional transmission planning process.
+Northern Indiana Public Service Co. v. Midcontinent
+Independent System Operator, Inc., 155 FERC ¶ 61,058 (2016)
+(hereinafter “NIPSCO Complaint Order”). FERC granted in
+part and denied in part the NIPSCO Complaint, ordering,
+among other things, that MISO revise its Market Efficiency
+Project criteria. Id. ¶ 54. FERC found that MISO’s then-
+current “cost and voltage thresholds prohibit from
+consideration certain transmission projects in the MISO-PJM
+interregional transmission planning process that benefit both
+regions, as evidenced by the Quick Hit Analysis,” 2 which was
+submitted by MISO. Id. ¶ 129. Given that the Quick Hit
+Analysis identified interregional projects that were less than the
+current voltage and cost thresholds but nevertheless provided
+benefits to both regions, FERC reasoned that such projects
+“should therefore not be automatically excluded from
+consideration.” Id. ¶ 131. Accordingly, FERC directed MISO
+to lower its minimum voltage threshold for a Market Efficiency
+Project from 345 kV to 100 kV and to remove the $5 million
+minimum cost requirement. Id.
+
+     Given the revised lower voltage threshold, FERC found
+that MISO did not address what regional cost allocation
+method would apply to this new gap—that is, how MISO
+would allocate its “share of the cost of an interregional
+
+2
+  “The Quick Hit Analysis [was] an effort by MISO, PJM and its
+stakeholders to identify near-term interregional economic
+transmission projects to remedy recent historical interregional
+congestion issues.” NIPSCO Complaint Order, ¶ 100 n.175.
+                               7
+economic transmission project operating above 100 kV but
+below the original threshold of 345 kV.” J.A. 357. As such,
+FERC directed MISO to submit a further compliance filing to
+either confirm that MISO would apply the existing cost
+allocation method for Market Efficiency Projects or propose
+tariff revisions to apply a different regional cost allocation.
+
+         2019 First Regional & Interregional Filings
+
+     In February 2019, MISO filed proposals for both its
+regional and interregional transmission projects. J.A. 604–05.
+In its First Regional Filing, MISO proposed to (1) lower the
+minimum voltage threshold for Market Efficiency Projects
+from 345 kV to 230 kV and (2) eliminate the 20 percent region-
+wide cost sharing and instead allocate 100 percent of the costs
+to pricing zones based on a benefit-to-cost ratio measured not
+only by the Production Cost Metric but also two additional
+benefit metrics, the Avoided Reliability Project Savings
+Metric 3 and a MISO-SPP Settlement Agreement Cost Metric
+(“SPP Metric”). Midcontinent Independent System Operator,
+Inc., Order Rejecting Proposed Tariff Revisions, 167 FERC
+¶ 61,258, ¶¶ 15–19 (2019) (hereinafter “First Regional
+Order”). Relevant here is the SPP Metric, which measures any
+savings or increased costs in annual payments—made by
+MISO to another region operator named Southwest Power
+Pool, Inc. (“SPP”) pursuant to a settlement agreement—that
+result from the implementation of a Market Efficiency Project.
+Id. ¶ 17. MISO also proposed a new category of projects called
+Local Economic Projects, which would operate at above 100
+kV and below 230 kV and would meet certain minimum
+
+3
+  This metric measures the “savings realized by transmission
+customers when a Market Efficiency Project eliminates the need to
+develop one or more future reliability projects.” First Regional
+Order, ¶ 16.
+                               8
+regional and local benefit-to-cost ratios for each pricing zone
+in which a project is located. Id. ¶¶ 9–10. MISO proposed
+allocating 100 percent of the costs of these projects to the
+pricing zones in which the project is located, not based upon
+the benefits MISO calculates will accrue to all impacted pricing
+zones. Id.
+
+     In its First Interregional Filing, MISO proposed to create a
+new interregional transmission project category with SPP and
+PJM called an Interregional Economic Project, defined as any
+transmission project that qualifies as a Market Efficiency
+Project (230 kV or higher) or a Local Economic Project
+(between 100 kV and 230 kV) under the MISO-PJM plan.
+Midcontinent Independent System Operator, Inc., Order
+Rejecting Proposed Revisions and Compliance Filing and
+Directing Further Compliance, 167 FERC ¶ 61,259, ¶¶ 5–7
+(2019) (hereinafter “First Interregional Order”). MISO
+further proposed to allocate costs of MISO’s share of these
+projects in the same manner as the corresponding regional
+project categories. Id. ¶¶ 8–9.
+
+     FERC rejected MISO’s First Regional Filing because it
+determined that the proposed cost allocation method for Local
+Economic Projects was not just and reasonable. First Regional
+Order, ¶ 1. Specifically, FERC found the proposed benefits
+test for the Local Economic Project category—which would
+require both a minimum regional and local benefit-to-cost
+ratio—was inconsistent with the cost causation principle. Id.
+¶¶ 56–63. MISO would identify the project’s regional benefits,
+but ignore such benefits and instead implement its preferred
+method of allocating 100 percent of the project’s costs to the
+pricing zone where the project is located, rather than to all the
+zones that have been identified as beneficiaries. Id. Put
+simply, FERC found that the proposal failed to allocate costs
+commensurate with benefits. Id. ¶ 63. Additionally, because
+                               9
+the proposals in MISO’s First Interregional Filing relied on
+definitions and provisions rejected in the First Regional Filing,
+FERC rejected the interregional proposal as well. First
+Interregional Order, ¶ 21. It directed MISO to submit a further
+compliance filing addressing the allocation of MISO’s share of
+costs for interregional projects between 100 kV and 345 kV.
+Id.
+
+        2020 Second Regional & Interregional Filings
+
+     In January 2020, MISO again submitted companion
+proposals for certain regional network upgrades (“Second
+Regional Filing”) and interregional projects (“Second
+Interregional Filing”). In its Second Regional Filing, MISO
+again proposed to create a new project type, Local Economic
+Projects, with the same qualifying criteria as outlined in the
+First Regional Filing. Midcontinent Independent System
+Operator, Inc., Order Rejecting Proposed Tariff Revisions, 170
+FERC ¶ 61,241, ¶¶ 13–16 (2020) (hereinafter “Second
+Regional Order”). However, it removed the requirement that
+the project meet the minimum regional benefit-to-cost ratio and
+instead proposed that the project meet only the minimum local
+benefit-to-cost ratio. Id. ¶ 16. MISO contended that this
+change rectified the cost causation principle issue discussed in
+the First Regional Order because costs would only be allocated
+to the local pricing zone based on demonstrable benefits
+identified using the three benefit metrics (outlined in the
+previous section), which would account for project type
+differences. Id.
+
+    In its Second Interregional Filing, which was “designed to
+work seamlessly with the revisions proposed in the [Second
+Regional Filing],” J.A. 300, MISO again proposed to create a
+new Interregional Economic Project category, with differing
+cost allocation methods depending on the voltage level.
+                               10
+Midcontinent Independent System Operator, Inc., Order
+Rejecting Proposed Revisions and Compliance Filing and
+Establishing Just and Reasonable Rate, 170 FERC ¶ 61,242
+(2020) (hereinafter “Second Interregional Order”). For
+Interregional Economic Projects with a voltage level of 230 kV
+or higher, MISO proposed allocating its share of costs from the
+MISO-PJM interregional project the same way as Market
+Efficiency projects, namely allocating 100 percent of the costs
+to the pricing zones that benefit from the project. Id. ¶ 11. For
+projects between 100 kV and 230 kV, MISO proposed a cost
+allocation method similar to the category of Local Economic
+Projects in the Second Regional Filing—that is, allocating 100
+percent of the projects’ costs to the pricing zones in which the
+project is located. Id. ¶ 12.
+
+     In companion orders issued on March 20, 2020, FERC
+again rejected both MISO’s Second Regional and Second
+Interregional Filing. In rejecting MISO’s Second Regional
+Filing, FERC again found that the cost allocation method for
+Local Economic Projects was not just and reasonable because
+it remained inconsistent with the cost causation principle.
+Second Regional Order, ¶ 59. Despite the removal of the
+regional benefit-to-cost ratio requirement, FERC found
+MISO’s Second Regional Filing to be “identical to the proposal
+previously rejected in the 2019 [First] Regional Order.” Id.
+¶ 60. FERC determined that the Second Regional Filing was
+not consistent with the cost causation principle because it
+inappropriately relied on the SPP metric, which would
+calculate benefits outside of the local pricing zone where the
+project is located, but then disregard these benefits by
+allocating costs solely within that pricing zone. Id. ¶ 59; see
+also id. ¶¶ 66–67. FERC further found it “incongruous” for
+MISO to apply the Production Cost Metric, which MISO states
+is the most reliable measure of a net impact of a project, only
+to the zone where the project is physically located. Id. ¶ 68.
+                              11
+FERC affirmed these findings on rehearing. See Midcontinent
+Independent System Operator, Inc., Order Addressing
+Arguments Raised on Rehearing, 172 FERC ¶ 61,100 (2020)
+(hereinafter “Regional Rehearing Order”).
+
+     Because MISO’s Second Interregional Filing also relied
+on provisions and definitions in the Second Regional Filing,
+FERC again rejected MISO’s interregional filing. Second
+Interregional Order, ¶ 29. FERC also determined that its
+rejection of this filing meant that MISO’s outstanding
+compliance requirement—to establish a cost allocation method
+for interregional projects between 100 kV and 345 kV—
+remained unfulfilled. Id. ¶ 30. As such, FERC exercised its
+authority under Section 206 of the Act, to establish a “just and
+reasonable rate.” Id. FERC determined that it was appropriate
+to allocate “100% of MISO’s share of the cost of MISO-PJM
+interregional economic transmission projects” between 100 kV
+and 345 kV “that qualify as Market Efficiency Projects” using
+MISO’s Production Cost Metric (“Replacement Method”). Id.
+¶ 31. On rehearing, FERC again confirmed its rejection of
+MISO’s Second Interregional Filing as well as its
+establishment of a cost allocation method for interregional
+projects between 100 kV and 345 kV. See Midcontinent
+Independent System Operator, Inc., Order on Compliance and
+Addressing Arguments Raised on Rehearing, 172 FERC
+¶ 61,101 (2020) (hereinafter “Interregional Rehearing
+Order”).
+
+                 2020 Third Regional Filing
+
+    In April 2020, MISO submitted a Third Regional Filing
+with no corresponding interregional filing, which FERC
+subsequently accepted. See Midcontinent Independent System
+Operator, Inc., Order Accepting Proposed Tariff and
+Transmission Owners Agreement Revisions, 172 FERC
+                               12
+¶ 61,095 (2020) (hereinafter “Third Regional Order”).
+Specifically, FERC approved MISO’s proposal to (1) lower the
+Market Efficiency Projects’ minimum threshold voltage from
+345 kV to 230 kV; (2) eliminate the 20 percent system-wide
+allocation; and (3) allocate 100 percent of the project costs
+based on each pricing zone’s identifiable net-positive benefits
+as determined by three separate benefit metrics. Id. ¶¶ 33, 46.
+
+                      Procedural History
+
+     Petitioners are members of the MISO Transmission
+Owners, which is “a group of investor-owned transmission
+owners, cooperative utilities, and municipal utilities that own
+electric transmission facilities over which . . . [MISO] provides
+electric transmission service.” Case No. 20-1262, Dkt. No.
+1852900, at 2. On July 17, 2020, the MISO Transmission
+Owners group filed a petition for review of the Second
+Interregional Order. Id. at 1. After members of the group
+withdrew from the case, the remaining instant Petitioners 4
+moved to rename the appeal and filed a second petition for
+review of the Interregional Rehearing Order. See Case No.
+20-1391, Dkt. No. 1864341, at 1–2. On October 2, 2020, the
+Court consolidated the appeals. Case No. 20-1391, Dkt. No.
+1864529. MISO as well as the Mississippi Public Service
+Commission and the Mississippi Public Utilities Staff
+(together, “MPSC”) filed motions to intervene, which were
+subsequently granted. See Case No. 20-3191, Dkt No.
+1867511, Dkt No. 1865903; Dkt. No. 1869462. While MPSC
+intervened in support of Petitioners, see Case No. 20-1391,
+
+4
+  Petitioners include: Entergy Arkansas, LLC; Entergy Louisiana,
+LLC; Entergy Mississippi, LLC; Entergy New Orleans, LLC;
+Entergy Texas, Inc.; Northern States Power Co. (a Minnesota
+corporation, subsidiary of Xcel Energy Inc.); and Northern States
+Power Company (a Wisconsin corporation, a subsidiary of Xcel
+Energy Inc.).
+                                13
+Dkt. No. 1872536, MISO only filed a notice advising the Court
+that it “neither supports nor opposes the Petitioners’ or the
+Respondents’ positions” but rather only sought to “preserve its
+opportunity to participate as needed,” Case No. 20-1391, Dkt.
+No. 1871683, at 2.
+
+                                II.
+
+     This Court reviews FERC’s orders under the arbitrary and
+capricious standard. FPL Energy Marcus Hook, L.P. v. FERC,
+430 F.3d 441, 446 (D.C. Cir. 2005). “Under the arbitrary-and-
+capricious standard of review, we uphold FERC decisions if
+the agency has examined the relevant considerations and
+articulated a satisfactory explanation for its action, including a
+rational connection between the facts found and the choice
+made.” Old Dominion, 898 F.3d at 1260 (internal quotation
+marks and citations omitted). “In reviewing FERC’s orders,
+we are particularly deferential to the Commission’s expertise
+with respect to ratemaking issues.” ExxonMobile Oil Corp. v.
+FERC, 487 F.3d 945, 951 (D.C. Cir. 2007) (per curiam)
+(internal quotation marks and citation omitted); see also Alcoa
+Inc. v. FERC, 564 F.3d 1342, 1347 (D.C. Cir. 2009) (“In
+matters of ratemaking, our review is highly deferential, as
+issues of rate design are fairly technical and, insofar as they are
+not technical, involve policy judgments that lie at the core of
+the regulatory mission.”) (internal quotation marks, alterations,
+and citations omitted). “The court owes the Commission great
+deference in this realm because the statutory requirement that
+rates be just and reasonable is obviously incapable of precise
+judicial definition, and the Commission must have
+considerable latitude in developing a methodology responsive
+to its regulatory challenge.” S.C. Pub. Serv. Auth. v. FERC,
+762 F.3d 41, 55 (D.C. Cir. 2014) (per curiam) (internal
+quotation marks and citations omitted) (cleaned up). However,
+the court will set aside FERC’s orders regarding allocation of
+                              14
+costs if they are either unreasonable or inadequately explained.
+Old Dominion, 898 F.3d at 1260.
+
+                              III.
+
+     As an initial matter, we address the question of standing.
+Even where, as here, FERC does not dispute standing, “we
+have an ‘independent obligation to assure ourselves that
+standing exists.’” Exelon Corp. v. FERC, 911 F.3d 1236, 1240
+(D.C. Cir. 2018) (quoting Summers v. Earth Island Inst., 555
+U.S. 488, 499 (2009)) (alteration accepted). Petitioners assert
+that under FERC’s Replacement Method, MISO will allocate
+some of the costs of rebuilding an existing 138 kV line
+(“Project NC-11”), located on the northern border of Indiana,
+to Petitioners’ customers across eleven zones in the MISO
+region. See Pet’r Br. at 6. Yet, some of these customers do not
+benefit from Project NC-11. Id. at 7. By contrast, Petitioners
+contend that under MISO’s proposed cost allocation method,
+none of the costs would be allocated to its customers consistent
+with cost causation principles. Id. We conclude that these
+assertions are sufficient to establish standing, given that a
+favorable decision by this Court would remedy Petitioners’
+injuries.
+
+     Petitioners challenge both FERC’s rejection of MISO’s
+Second Interregional Filing as well as FERC’s establishment
+of a Replacement Method for cost allocation. We address each
+challenge in turn.
+
+            A. MISO’s Second Interregional Filing
+
+     In its Second Interregional Filing, MISO proposed to
+create a new category of projects called Interregional
+Economic Projects (with voltages between 100 kV and 230
+kV), using the same cost allocation method as used for Local
+                              15
+Economic Projects in its Second Regional Filing. Second
+Interregional Order, ¶ 12. Specifically, it proposed allocating
+100 percent of MISO’s share of costs of the project to the
+pricing zone in which the project is located. Id. FERC found
+that this allocation method was inconsistent with the cost
+causation principle because it inappropriately relied on the SPP
+Metric, which in FERC’s view would likely identify regional
+transmission benefits that MISO would ultimately disregard in
+allocating costs. Second Regional Order, ¶ 67. The SPP
+Metric measures the reduction in annual payments from MISO
+to SPP pursuant to the MISO-SPP Settlement Agreement that
+allows MISO to make better economic use of its system. Under
+the settlement agreement, MISO pays SPP for the use of
+inadvertent flows over SPP’s grid that are tied to the amount of
+transmission capacity that MISO controls in the MISO-SPP
+Settlement Region. MISO then passes on the SPP charges to
+the utilities on MISO’s grid in a two-part charge based on a pro
+rata share plus an estimate of benefits from increased flows
+allowed by the payments. A new transmission line on MISO’s
+system could increase MISO’s transmission capacity, thereby
+decreasing the payments MISO would have to make to SPP.
+Consequently, it would reduce the payments each utility zone
+makes to MISO. The SPP Metric measures the benefits that
+flow to each utility zone—that is, the reduced payments it
+would have to make to MISO—as a result of a project’s impact
+on MISO’s transmission capacity.            These benefits are
+calculated for all of the pricing zones within the MISO region.
+Yet MISO’s benefit-cost determination would consider only
+the portion of these benefits calculated for the pricing zone in
+which the project is physically located. Second Regional
+Order, ¶ 67.
+
+    FERC found that, based on the Court’s decision in Old
+Dominion, MISO’s proposed allocation method using the SPP
+metric was inconsistent with the cost causation principle. Id.
+                               16
+¶ 69. In Old Dominion, FERC approved a proposal to
+eliminate cost-sharing for two high-voltage transmission lines
+that benefitted the entire region, resulting in a local zone
+bearing the entire cost of the two regionally-beneficial projects.
+898 F.3d at 1255. Specifically, although FERC found that
+high-voltage transmission projects have significant regional
+benefits that accrue to all members of the transmission
+operator, it approved a hybrid cost-allocation method which
+allocated half of the costs on a pro rata basis, regardless of
+where the specific project is located (postage stamp
+component), and the remaining costs based on an estimate of
+which zones most directly benefit from the project. Id. at
+1256–57. FERC viewed the hybrid cost allocation method as
+roughly commensurate with the benefits received because the
+postage stamp component captured the full spectrum of
+benefits including those regional benefits that are difficult to
+quantify. Id. at 1257. The Court found that FERC’s decision
+to approve this proposal was arbitrary because “the cost-
+causation principle prevents regionally beneficial projects from
+being arbitrarily excluded from cost sharing—a necessary
+corollary to ensuring that the costs of such projects are
+allocated commensurate with their benefits.” Id. at 1263.
+Here, FERC noted that the concern expressed in Old Dominion
+applied “with similar force” to MISO’s proposed cost
+allocation method because it would determine benefits outside
+of the local zone where the project was located “but then
+disregard these benefits and allocate costs for the project solely
+within one Transmission Pricing Zone.” Second Regional
+Order, ¶ 69.        Petitioners make three main arguments
+challenging this finding, which we address in turn.
+
+     First, Petitioners contend that it was reversible error for
+FERC to reject the Second Interregional Filing simply because
+it shared tariff language with the Second Regional Filing that
+FERC rejected. In Petitioners’ view, FERC was obligated to
+                               17
+independently evaluate the Second Interregional Filing to
+determine if its local zone allocation was appropriate for low-
+voltage interregional projects. This argument quickly fails.
+According to MISO’s own representations to FERC in its
+filings, the Second Interregional Filing was “designed to work
+seamlessly with the revisions proposed in the [Second Regional
+Filing]” and relied on definitions and provisions in the Second
+Regional Filing. J.A. 300. As such, it was appropriate and well
+within FERC’s discretion to reject MISO’s Second
+Interregional Filing based on its rejection of the Second
+Regional Filing, as it would obviously suffer from the same
+critical flaw. See Tenn. Valley Mun. Gas Ass’n v. FERC, 140
+F.3d 1085, 1088 (D.C. Cir. 1998) (“An agency has broad
+discretion to determine when and how to hear and decide the
+matters that come before it.”).
+
+     Second, Petitioners maintain that FERC’s decision was
+arbitrary and capricious because FERC failed to identify
+significant regional benefits provided by interregional
+transmission projects. In support of this contention, Petitioners
+point to FERC’s statement in its Third Regional Order that
+“neither MISO nor the Commission in the March 2020 Order
+has made the finding that MISO projects between 100 kV and
+230 kV produce ‘significant regional benefits,’” Third
+Regional Order, ¶ 49, as evidence that such projects do not
+have regional benefits. Petitioners also argue that FERC
+ignored the testimony of MISO’s expert that benefits from
+projects below 230 kV are “generally smaller and locally
+concentrated.” J.A. 278.
+
+     These arguments are without merit. First, as FERC noted,
+it made clear that its Third Regional Order was only addressing
+regional projects, not interregional ones. See Third Regional
+Order, ¶ 51. Similarly, MISO’s expert testimony was in
+support of MISO’s Second Regional Filing and therefore
+                                 18
+discussed the mostly localized, rather than regional benefits, of
+regional projects, not interregional ones. Compare J.A. 246–
+83 (expert’s regional filing testimony), with J.A. 319–44
+(expert’s interregional filing testimony). Second, Petitioners’
+argument is fatally flawed because the very subject of these
+compliance filings and orders is the development of cost
+allocation methods for interregional projects that both MISO
+and PJM have already determined would benefit their
+respective regions. Indeed, in its original NIPSCO Complaint
+Order, FERC found that the Quick Hit Analysis submitted by
+MISO demonstrated that some interregional projects below
+345 kV provided benefits to both regional systems and thus,
+ordered MISO to lower the voltage threshold to 100 kV so such
+projects could be accounted for in cost allocation. 5 See
+NIPSCO Complaint Order, ¶¶ 129, 131.
+
+5
+  We reject Petitioners’ contention that FERC is barred on appeal
+from relying on the Quick Hit Analysis. Under the principles of SEC
+v. Chenery Corp., 318 U.S. 80 (1943), a court’s review of an agency
+order is limited to the grounds upon which the agency itself based its
+action and “agency decisions may not be affirmed on grounds not
+actually relied upon by the agency.” Calpine Corp. v. FERC, 702
+F.3d 41, 46 (D.C. Cir. 2012) (citing Chenery, 318 U.S. at 87–88).
+Here, while FERC did not explicitly reference the Quick Hit
+Analysis in its Second Regional Order, it relied on the Quick Hit
+Analysis as the basis for its original directive that MISO lower the
+Market Efficiency Project threshold because the Quick Hit Analysis
+identified lower-voltage interregional projects that benefitted both
+regions and therefore should “not be automatically excluded from
+consideration.” NIPSCO Complaint Order, ¶ 131. In response to
+this finding and directive, MISO was required to submit compliance
+filings demonstrating a cost allocation method for these projects.
+These compliance filings and orders are the subject of the instant
+appeal. As such, the Quick Hit Analysis necessarily was a ground
+that FERC actually relied on in its Second Regional Order because
+it serves as the basis for FERC’s original directive that MISO was
+seeking to comply with. See Second Regional Order, ¶¶ 5–6
+                                 19
+
+      Lastly, Petitioners contend that FERC erroneously
+departed from the cost causation principle in Old Dominion by
+requiring exact precision in cost allocation. We disagree. A
+general principle of Old Dominion is that in order for a cost
+allocation method to be consistent with the cost causation
+principle, such method cannot “prevent[] regionally beneficial
+projects from being arbitrarily excluded from cost sharing.”
+Old Dominion, 898 F.3d at 1263. FERC reasonably concluded
+that MISO’s proposed cost allocation method would do just
+that. The SPP Metric measures the benefits that flow to each
+utility zone, i.e., the reduced payments it would have to make
+to MISO, as a result of a project’s impact on MISO’s
+transmission capacity. These benefits are calculated for all of
+the pricing zones within the MISO region, yet MISO would
+only use the portion of these benefits calculated for the pricing
+zone in which the project is physically located for its benefit-
+cost determination. Second Regional Order, ¶ 67. Because
+MISO’s SPP Metric would identify regional benefits, 6
+disregarding such known benefits in cost allocation is
+inconsistent with the cost causation principle. Accordingly,
+
+
+
+(discussing FERC’s findings and directives in the NIPSCO
+Complaint Order as background and the basis for MISO’s current
+compliance filing). Indeed, Petitioners concede this point but instead
+proffer arguments relating to the underlying merits of the Quick Hit
+Analysis, which are jurisdictionally barred as such arguments were
+not raised on FERC’s rehearing of the NIPSCO Complaint Order in
+2017. See 16 U.S.C. § 825l(b).
+6
+ We note that Petitioners’ arguments regarding the irrelevance of the
+SPP Metric to the MISO-PJM interregional planning process are
+jurisdictionally barred by Section 313(b) of the Act because
+Petitioners failed to raise it on agency rehearing. See 16 U.S.C. §
+825l(b).
+                                 20
+FERC reasonably rejected MISO’s Second Interregional
+Filing.
+
+       B. FERC’s Replacement Cost Allocation Method
+
+     Because it found that MISO’s outstanding compliance
+requirement to establish a cost allocation method for MISO’s
+share of MISO-PJM interregional projects between 100 kV and
+345 kV remained unfulfilled, FERC exercised its authority,
+pursuant to Section 206 of the Act, to allocate the entirety of
+MISO’s share of the cost of such projects that qualify as Market
+Efficiency Projects using MISO’s current Production Cost
+Metric. Second Interregional Order, ¶¶ 30–31. We find that
+Petitioners fail to meet its burden of demonstrating that
+FERC’s Replacement Method was not just and reasonable. As
+FERC noted in its order, the Production Cost Metric is one that
+MISO had been using to calculate benefits of Market
+Efficiency Projects since their inception in 2007 and is
+regarded by MISO as one of its most reliable measures of the
+net economic impact of a project. Id. ¶ 31; Midwest
+Independent Transmission System Operator, Inc., 118 FERC ¶
+61,209, ¶ 30. Additionally, FERC explained that MISO
+already uses this metric in its cost allocation method for Market
+Efficiency Projects at 345 kV and above. Second Interregional
+Order, ¶ 31. To be sure, MISO’s expert did testify that lower-
+voltage projects may be more sensitive to incorrect
+assumptions under this metric, thereby flagging a potential
+flaw in the use of this metric. However, Petitioners have not
+demonstrated that the use of this metric is so unreasonable or
+deficient as to warrant reversal. 7 Rather, at bottom, Petitioners
+
+7
+  Petitioners’ arguments regarding FERC purportedly ignoring its
+evidence concerning a specific interregional project, Project NC-11,
+are not properly before the Court because such evidence is not in the
+administrative record as FERC rejected Petitioners’ late-filed
+                               21
+simply argue that, in its view, a better method exists. “But
+FERC is not required to choose the best solution, only a
+reasonable one.” Petal Gas Storage, LLC v. FERC, 496 F.3d
+695, 703 (D.C. Cir. 2007) (citation omitted). It is not our job
+to determine that “FERC made the better call,” rather, our
+“important but limited role is to ensure that the Commission
+engaged in reasoned decisionmaking—that it weighed
+competing views, selected a . . . formula with adequate support
+in the record, and intelligibly explained the reasons for making
+that choice.” FERC v. Elec. Power Supply Ass’n, 577 U.S. 260,
+295 (2016). FERC has satisfied this standard. Notably, MISO
+still has the right to propose its own cost allocation method for
+FERC to review, and if found to be just and reasonable, to
+approve. See Second Interregional Order, ¶ 31 n.40;
+Interregional Rehearing Order, ¶ 30. Accordingly, we affirm
+FERC’s Replacement Method.
+
+                              IV.
+
+    For the foregoing reasons, we deny the petitions for review
+and affirm FERC’s orders in all respects.
+                                                   So ordered.
+
+
+
+
+pleading containing this evidence. See Interregional Rehearing
+Order, ¶ 15.
+

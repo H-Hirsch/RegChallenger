@@ -1,0 +1,1479 @@
+                FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+UNITED AERONAUTICAL                      No. 21-56377
+CORPORATION; BLUE
+AEROSPACE, LLC,                             D.C. No.
+                                         2:20-cv-01985-
+             Plaintiffs-Appellants,        ODW-JDE
+ v.
+
+UNITED STATES AIR FORCE;                   OPINION
+UNITED STATES AIR NATIONAL
+GUARD,
+
+             Defendants-Appellees,
+
+      Appeal from the United States District Court
+         for the Central District of California
+      Otis D. Wright II, District Judge, Presiding
+
+       Argued and Submitted December 9, 2022
+                Pasadena, California
+
+               Filed September 7, 2023
+
+Before: MILAN D. SMITH, JR., DANIEL P. COLLINS,
+        and KENNETH K. LEE, Circuit Judges.
+
+         Opinion by Judge Milan D. Smith, Jr.;
+               Dissent by Judge Collins
+2              UNITED AERONAUTICAL CORP. V. USAF
+
+
+                          SUMMARY *
+
+
+            Contract Disputes Act / Jurisdiction
+
+    The panel affirmed the district court’s dismissal for lack
+of subject-matter jurisdiction of an Administrative
+Procedure Act (APA) action brought by United Aeronautical
+Corporation and Blue Aerospace, LLC (collectively, Aero)
+against the U.S. Air Force and U.S. Air National Guard
+(collectively, USAF) alleging that USAF improperly used
+Aero’s intellectual property—data relating to the Mobile
+Airborne Firefighting System (MAFFS)—in violation of
+federal procurement regulations and the Trade Secrets Act.
+    Aero delivered a hard drive containing MAFFS-related
+data to the United States Forest Service and executed a Data
+Rights Agreement (DRA) granting the Forest Service
+“unlimited rights to view and use” the data. The Forest
+Service delivered that hard drive to USAF, and Aero sued
+USAF for its receipt and use of the MAFFS data.
+    The APA waives sovereign immunity for actions in
+federal district court by persons suffering legal wrong
+because of agency action; however, when a statute vests
+exclusive jurisdiction over a category of claims in a
+specialized court, it “impliedly forbids” an APA action in
+district court.
+    The panel agreed with the district court that the Contract
+Disputes Act “impliedly forbids” jurisdiction over Aero’s
+claims by vesting exclusive jurisdiction over federal-
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+             UNITED AERONAUTICAL CORP. V. USAF              3
+
+
+contractor disputes in the Court of Federal Claims. A claim
+falls within the scope of the CDA’s exclusive grant of
+jurisdiction if (1) the plaintiff’s action relates to (2) a
+procurement contract (3) to which the plaintiff was a
+party. Here, Aero’s claims that USAF improperly received
+and used MAFFS data (1) relate to the DRA, (2) the DRA is
+a procurement contract, and (3) Aero is a contractor for
+purposes of the DRA.
+    The panel held that the test set forth in Megapulse, Inc.
+v. Lewis, 672 F.2d 959 (D.C. Cir. 1982), is limited to
+determining whether the Tucker Act—which grants
+exclusive jurisdiction to the Court of Federal Claims over
+breach-of contract actions for money damages—“impliedly
+forbids” an ADA action because Megapulse addressed
+implied preclusion only pursuant to the Tucker Act, not
+pursuant to the CDA.
+    Dissenting, Judge Collins would reverse the district
+court’s dismissal for lack of subject-matter jurisdiction, and
+hold that the CDA does not “impliedly forbid” Aero from
+bringing an APA action because Aero’s claims are not based
+on a government contract, but instead on Aero’s independent
+statutory rights under the Trade Secrets Act.
+4            UNITED AERONAUTICAL CORP. V. USAF
+
+
+                         COUNSEL
+
+David M. Almaraz (argued), Grant Shenon APLC, Sherman
+Oaks, California; Jonathan R. Hickman, Esquire Corporate
+Services LC, Encino, California; for Plaintiffs-Appellants.
+Paul B. Green (argued) and Joanne S. Osinoff, Assistant
+United States Attorneys; David M. Harris, Assistant United
+States Attorney, Civil Division Chief; Tracy L. Wilkison,
+United States Attorney; United States Attorney’s Office, Los
+Angeles, California, for Defendants-Appellees.
+
+
+
+                         OPINION
+
+M. SMITH, Circuit Judge:
+
+    United Aeronautical Corporation and Blue Aerospace,
+LLC (collectively, Aero) filed suit against the United States
+Air Force and Air National Guard (collectively, USAF) in
+the U.S. District Court for the Central District of California.
+Aero alleges that USAF has for some time violated federal
+procurement regulations and the Trade Secrets Act, 18
+U.S.C. § 1905, by improperly using Aero’s intellectual
+property. The district court dismissed for lack of subject-
+matter jurisdiction, concluding that the Contract Disputes
+Act (CDA), 28 U.S.C. § 1491(a)(2), precludes jurisdiction
+over Aero’s action by vesting exclusive jurisdiction over
+federal-contractor disputes in the Court of Federal Claims.
+We affirm.
+    FACTUAL AND PROCEDURAL BACKGROUND
+    This litigation relates to the Mobile Airborne
+Firefighting System (MAFFS): an anti-retardant tank system
+               UNITED AERONAUTICAL CORP. V. USAF                       5
+
+
+that converts cargo planes so that they can combat fires. 1
+From about 1980 to 2000, Aero Union—a different company
+than the plaintiffs in this case—developed the original
+MAFFS. In 2000, Aero Union contracted with the U.S.
+Forest Service to develop an updated MAFFS prototype
+(MAFFS II), which incorporated significant amounts of
+Aero Union’s intellectual property that was developed from
+1980 to 2000.
+    In 2012, Aero—the plaintiffs in this case—purchased
+Aero Union’s intellectual property in a foreclosure sale. In
+2014, to support the Forest Service’s continued use of
+MAFFS II, Aero delivered a hard drive containing MAFFS-
+related data to the Forest Service and executed a Data Rights
+Agreement (DRA) providing:
+
+         “[A]s set forth in [2000 Contract between
+         Aero Union and the Forest Service], the
+         technical data produced or specifically used
+         or related to [MAFFS II] developed pursuant
+         to such contract shall remain the property of
+         [Aero] (as the purchaser of assets of Aero
+         [Union] . . . ) and [the Forest Service] shall
+         have unlimited rights to view and use the
+         data required for the continued operation
+
+
+
+
+1
+  For purposes of this appeal, we accept Aero’s allegations as true
+because USAF’s motion to dismiss for lack of subject-matter jurisdiction
+raised a facial, not factual, challenge. See Wolfe v. Strankman, 392 F.3d
+358, 362 (9th Cir. 2004).
+6            UNITED AERONAUTICAL CORP. V. USAF
+
+
+       and maintenance         of    [MAFFS       II]”
+       (emphasis added).
+
+Thereafter, the Forest Service delivered that hard drive to
+USAF, which developed an upgraded system (iMAFFS) and
+marketed that system internationally.
+    Aero sued USAF, not the Forest Service, for its receipt
+and use of the MAFFS data. Specifically, Aero brought a
+claim pursuant to the Administrative Procedure Act (APA),
+5 U.S.C. §§ 701–06, alleging that USAF had violated and
+continues to violate federal procurement regulations and the
+Trade Secrets Act. USAF moved to dismiss, arguing that the
+CDA vests exclusive jurisdiction over federal-contractor
+disputes in the Court of Federal Claims. The district court
+granted the motion with leave to amend. Aero filed an
+amended complaint; USAF again moved to dismiss; and the
+district court granted the motion, this time without leave to
+amend. Aero timely appealed.
+    JURISDICTION AND STANDARD OF REVIEW
+    We have jurisdiction pursuant to 28 U.S.C. § 1291. We
+review a district court’s dismissal for lack of subject-matter
+jurisdiction de novo. Dogan v. Barak, 932 F.3d 888, 892
+(9th Cir. 2019).
+                        ANALYSIS
+   The district court correctly held that it lacked subject-
+matter jurisdiction over Aero’s action. A private party may
+sue the United States only if the United States has waived
+sovereign immunity. Esquivel v. United States, 21 F.4th
+565, 572 (9th Cir. 2021). If the United States has not waived
+sovereign immunity, then the court where the suit is filed
+               UNITED AERONAUTICAL CORP. V. USAF                      7
+
+
+must dismiss the case for lack of subject-matter jurisdiction.
+Id. at 572–73.
+    The APA waives sovereign immunity for actions in
+federal district court by “person[s] suffering legal wrong
+because of agency action.” 5 U.S.C. § 702. That waiver,
+however, is subject to three limitations: (1) the plaintiff must
+“seek[] relief other than money damages”; (2) the plaintiff
+must have “no other adequate remedy”; and (3) the
+plaintiff’s action must not be “expressly or impliedly
+forbid[den]” by “any other statute.” See id. §§ 702, 704;
+Tucson Airport Auth. v. Gen. Dynamics Corp., 136 F.3d 641,
+645 (9th Cir. 1998). Where a statute vests exclusive
+jurisdiction over a category of claims in a specialized court
+(e.g., the Court of Federal Claims), it “impliedly forbids” an
+APA action brought in federal district court. See Tuscon
+Airport, 136 F.3d at 646; N. Star Alaska v. United States, 9
+F.3d 1430, 1432 (9th Cir. 1993) (en banc) (per curiam).
+     This appeal concerns only the third limitation: The
+parties dispute whether the CDA forbids Aero from
+maintaining its APA claim in district court because it falls
+within the category of claims that the CDA requires to be
+litigated in the Court of Federal Claims. 2 We hold that it
+
+
+2
+  Aero also brought a claim pursuant to the Declaratory Judgment Act
+(DJA), 28 U.S.C. § 2201. The DJA “does not ‘extend’ the ‘jurisdiction’
+of the federal courts.” Medtronic, Inc. v. Mirowski Fam. Ventures, LLC,
+571 U.S. 191, 197 (2014) (citing Skelly Oil Co. v. Phillips Petroleum
+Co., 339 U.S. 667, 671 (1950)). A DJA claim, therefore, “may not be
+used as an end run around” the limits of the APA’s sovereign-immunity
+waiver. See Alaska Dep’t of Nat. Res. v. United States, 816 F.3d 580,
+586 (9th Cir. 2016) (citing McMaster v. United States, 731 F.3d 881, 900
+(9th Cir. 2013)). Because the availability of Aero’s DJA claim depends
+on the availability of its APA claim, we need only analyze the latter.
+8            UNITED AERONAUTICAL CORP. V. USAF
+
+
+does and affirm the district court’s dismissal for lack of
+subject-matter jurisdiction.
+I. The CDA “impliedly forbids” jurisdiction over
+   Aero’s claims
+    The CDA serves two related functions. First, it
+establishes an administrative system for disputes relating to
+federal procurement contracts: Federal contractors can
+submit written claims to agency contracting officers, receive
+written decisions regarding their claims within a specified
+timeframe, and administratively appeal adverse decisions.
+See 41 U.S.C. §§ 7101–7109. Second, it waives sovereign
+immunity over actions “arising under” that administrative
+system and vests exclusive jurisdiction over such claims in
+only two venues: (1) the Court of Federal Claims, 28 U.S.C.
+§ 1491(a)(2); 41 U.S.C. § 7104(b)(1), and (2) agency boards
+of contract appeals, 41 U.S.C. §§ 7104(a), 7105. A litigant
+can appeal the decision of either the Court of Federal Claims
+or an agency board to the U.S. Court of Appeals for the
+Federal Circuit. U.S.C. § 1295(a)(3), (b); 41 U.S.C.
+§ 7107(a)(1).
+    Through § 1491(a)(2)’s “arising under” language, the
+scope of the CDA’s sovereign-immunity waiver and
+jurisdictional grant is expressly tied to the scope of the
+administrative system that it creates. This grant broadly
+extends to “dispute[s] concerning termination of a contract,
+rights in tangible or intangible property, compliance with
+cost accounting standards, and other nonmonetary disputes
+on which a decision of [a government] contracting officer
+has been issued.” 28 U.S.C. § 1491(a)(2).
+    Because the scope of the CDA’s administrative system
+dictates the scope of the CDA’s “arising under”
+jurisdictional grant, we look to the contours of the
+             UNITED AERONAUTICAL CORP. V. USAF               9
+
+
+administrative system to determine whether a particular
+claim is covered by the CDA and thus must be litigated in
+the Court of Federal Claims. First, the CDA applies to
+“claim[s] . . . relating to a contract.” 41 U.S.C. § 7103(a)(1)
+(emphasis added). Second, the CDA applies only to claims
+involving a “contractor,” which is “a party to a Federal
+Government contract other than the Federal Government.”
+Id. §§ 7101(7), 7103(a)(1); see also 28 U.S.C. § 1491(a)(2)
+(limiting jurisdiction to “any claim by or against, or dispute
+with a contractor”). Third, as relevant here, the CDA applies
+to contracts for “the procurement of property, other than real
+property in being.” 41 U.S.C. § 7102(a)(1).
+    So, to summarize: a claim falls within the scope of the
+CDA’s exclusive grant of jurisdiction if (1) the plaintiff’s
+action “relat[es] to” (2) a procurement contract (3) to which
+the plaintiff was a party. Aero’s action meets each
+requirement, and thus the CDA “impliedly forbids” it.
+   A. Aero’s APA action “relat[es] to” the DRA
+    First, we must examine whether Aero’s claim “relat[es]
+to” a contract. 41 U.S.C. § 7103(a)(1). We have not
+previously construed the CDA’s “relating to” requirement.
+USAF urges us to follow a Federal Circuit decision on a
+related question and hold that a claim “relat[es] to” a
+contract, and thus falls within the scope of the CDA, if it
+“ha[s] some relationship to the terms or performance” of the
+contract. Todd Constr., L.P. v. United States, 656 F.3d 1306,
+1312 (Fed. Cir. 2011) (quoting Applied Cos. v. United States,
+144 F.3d 1470, 1478 (Fed. Cir. 1998)).
+    We find the Federal Circuit’s reasoning to be persuasive
+and adopt it here. In Todd, the Federal Circuit reasoned that
+Congress’s “overall purpose to confer comprehensive
+jurisdiction under the CDA” in the Court of Federal Claims
+10            UNITED AERONAUTICAL CORP. V. USAF
+
+
+counsels in favor of broadly interpreting “relating to.” Id. at
+1311–12; see also United States v. Suntip Co., 82 F.3d 1468,
+1474 (9th Cir. 1996) (“The intent behind [the CDA] is to
+confine these government contract disputes to expert
+tribunals created expressly for that purpose. That intent is
+defeated if a contracting party may . . . compel the
+government to litigate the merits of its contracting officers’
+decisions in district court.”). It then turned to dictionary
+definitions, finding that they treat “relating to” as a “term of
+substantial breadth.” Todd, 656 F.3d at 1312. Finally, it
+looked to Supreme Court precedent broadly interpreting
+“related to” in other statutes, including in a similar
+jurisdiction-conferring provision. Id. The Todd court
+soundly applied traditional tools of statutory interpretation,
+and we see no reason to depart from the result it reached.
+Indeed, Aero concedes that Todd Construction “properly
+analyzed” this “relating to” language.
+    To be sure, Todd presented a slightly different question.
+Here, we are tasked with interpreting the statutory phrase
+“claim . . . relating to a contract.” 41 U.S.C. § 7103(a)(1)
+(emphasis added). Todd, on the other hand, construed
+regulatory language that interpreted “claim,” as used in the
+above phrase and throughout the CDA. 656 F.3d at 1311.
+That regulation defined a “claim” as “a written demand . . .
+seeking, as a matter of right, the payment of money in a sum
+certain, the adjustment or interpretation of contract terms, or
+other relief arising under or relating to the contract.” 48
+C.F.R. § 2.101 (emphasis added). The “relating to” phrase
+in the statute and regulation is the same, but the phrase
+modifies different words in the two settings. In the CDA,
+“relating to” modifies “claim.” In the regulation, it modifies
+“relief.”
+             UNITED AERONAUTICAL CORP. V. USAF              11
+
+
+    The dissent argues that we should make the relief sought
+the focal point of our “relating to” analysis—instead of
+asking whether a plaintiff’s cause of action more generally
+“relat[es] to” a contract. We need not decide in this case
+which is the proper focal point: the cause of action generally
+or the relief sought specifically. Here, our analysis under
+both leads to the same result.
+    Starting with Aero’s cause of action generally, it has
+“some relationship to the terms or performance” of the DRA.
+Todd, 656 F.3d at 1312 (quoting Applied Cos., 144 F.3d at
+1478). Aero brings an APA claim that USAF acted contrary
+to law by violating the Trade Secrets Act. That Act, in turn,
+simply prohibits government employees from disclosing
+trade secrets “in any manner or to any extent not authorized
+by law.” 18 U.S.C. § 1905. Therefore, the merits of this
+case will, among other things, require a court to interpret the
+DRA and determine whether the Forest Service was
+authorized by that agreement’s “unlimited rights to view and
+use” clause to disclose the MAFFS data to USAF.
+    Turning specifically to the relief that Aero sought, that
+too has “some relationship to the terms or performance” of
+the DRA. Todd, 656 F.3d at 1312 (quoting Applied Cos.,
+144 F.3d at 1478). Aero, among other things, seeks a
+declaration that the United States government generally “has
+no ownership rights” in the MAFFS data and that USAF
+does “not have the right to use” the MAFFS data “to develop
+the iMAFFS system for . . . procurement to the international
+market.” It blinks reality to argue that this requested relief
+lacks “some relationship” to the DRA’s “unlimited rights to
+view and use” clause. Such a declaration, which defines the
+scope of the government’s MAFFS-data use rights,
+12              UNITED AERONAUTICAL CORP. V. USAF
+
+
+necessarily relates to the DRA, which grants the Forest
+Service “unlimited rights to view and use” MAFFS data. 3
+     B. The DRA is a procurement contract
+    Second, we must examine whether the contract at issue
+is one for “the procurement of property, other than real
+property in being.” 41 U.S.C. § 7102(a)(1). USAF contends
+that, through the DRA, it procured a property right in the
+form of “unlimited rights to view and use” Aero’s purported
+trade secrets. Aero’s argument comports with the statutory
+text of the CDA, which extends the Court of Federal Claims’
+jurisdiction to “dispute[s] concerning rights in . . . intangible
+property.” 28 U.S.C. § 1491(a)(2) (emphasis added).
+Moreover, it finds support in the Supreme Court’s decision
+in Ruckelshaus v. Monsanto Co. 467 U.S. 986, 1000–04
+(1984), where the Court held that trade secrets constitute
+“property” for purposes of the Takings Clause. 4
+    Aero responds to USAF’s argument by analogizing the
+DRA to a bailment contract, which one Court of Federal
+Claims decision suggests does not constitute a procurement
+contract covered by the CDA. See Telenor Satellite Servs.,
+Inc. v. United States, 71 Fed. Cl. 114, 119 (2006) (“The
+
+3
+  The district court stopped its analysis here. By declining to consider
+whether Aero is a contractor and whether the DRA is a procurement
+contract, the district court erred. However, that error was harmless: As
+explained below, Aero’s action also fits the CDA’s second and third
+jurisdictional requirements.
+4
+  We recognize that an interest can sometimes constitute property for
+constitutional purposes but not statutory ones. See, e.g., Shulman v.
+Kaplan, 58 F.4th 404, 408, 410–12 (9th Cir. 2023) (holding that plaintiff
+sufficiently pleaded a cannabis-related injury to property for Article III
+standing but not for RICO statutory standing). But here, there is no
+“statutory purpose or congressional intent,” id. at 410, behind the CDA
+that warrants a departure from Ruckelshaus’s treatment of trade secrets.
+             UNITED AERONAUTICAL CORP. V. USAF             13
+
+
+parties agree that this case is not governed by the Contract
+Disputes Act because it does not involve a contract for the
+procurement of goods or services. Rather, it involves an
+alleged bailment contract for the possession and use of
+certain electronic transmission equipment.”). We are not
+persuaded by this analogy. To begin, Aero does not discuss
+whether bailment (the granting of possession of personal
+property to another for a temporary amount of time) applies
+to intellectual property. But more critically, Aero does not
+allege that it only temporarily granted intellectual property
+rights to the Forest Service—an essential element of
+bailment under the case law it cites. See Telenor, 71 Fed. Cl.
+at 119 (bailment relationship “includes a return of the goods
+to the owner” (quotation omitted)).
+   C. Aero is a contractor for purposes of the DRA
+   Third, we must examine whether Aero is a “contractor,”
+which the CDA defines as “a party to a Federal Government
+contract other than the Federal Government.” 41 U.S.C.
+§ 7107(7). As the only party to the DRA other than the
+Forest Service, Aero is clearly a contractor.
+                            ***
+   Because Aero’s action satisfies each of the prerequisites
+of the CDA’s exclusive-jurisdiction provision and
+sovereign-immunity waiver, we hold that the CDA
+“impliedly forbids” Aero from invoking the otherwise-
+applicable waiver of sovereign immunity contained in the
+APA.
+II. The Megapulse test for implied preclusion pursuant
+    to the Tucker Act does not apply to the CDA
+   Aero resists dismissal by arguing that Megapulse, Inc. v.
+Lewis, 672 F.2d 959 (D.C. Cir. 1982), requires that its claim
+14           UNITED AERONAUTICAL CORP. V. USAF
+
+
+may be brought in district court. The Megapulse test,
+however, is limited to determining only whether the Tucker
+Act, not the CDA, “impliedly forbids” an APA action. The
+CDA was not yet in effect when the parties in Megapulse
+contracted with each other. And while the Tucker Act and
+CDA share a common core, each statute confers a distinct
+grant of exclusive jurisdiction to the Court of Federal
+Claims. See Winter v. FloorPro, Inc., 570 F.3d 1367, 1372–
+73 (Fed. Cir. 2009). Courts, therefore, must separately
+analyze whether each statute “impliedly forbids” an APA
+action. We use the Megapulse test to determine implied
+preclusion pursuant to the Tucker Act, but we use the
+analysis conducted above to determine implied preclusion
+pursuant to the CDA. Here, we need not decide whether
+Aero satisfies the Tucker Act’s Megapulse test because,
+even if it does, the CDA still “impliedly forbids” bringing
+this action in federal district court.
+    The Tucker Act dates back to the late nineteenth century,
+see Tucker Act, ch. 359, § 1, 24 Stat. 505, 505 (1887), and
+in its current form provides: “The United States Court of
+Federal Claims shall have jurisdiction to render judgment
+upon any claim against the United States founded either
+upon the Constitution, or any Act of Congress or any
+regulation of an executive department, or upon any express
+or implied contract with the United States.” 28 U.S.C.
+§ 1491(a)(1) (emphasis added). “Generally speaking, the
+Tucker Act does not permit the [Court of Federal Claims] to
+grant equitable or declaratory relief.” N. Star, 9 F.3d at
+1432; see 28 U.S.C. § 1491(a)(2) (listing limited forms of
+non-monetary relief the Court of Federal Claims may award
+“as an incident of and collateral to” damages). Due to this
+limited remedial authority, a contract-based action falls
+within the scope of the Tucker Act only if the plaintiff seeks
+             UNITED AERONAUTICAL CORP. V. USAF              15
+
+
+money damages for the breach of a government contract.
+See, e.g., Boaz Hous. Auth. v. United States, 994 F.3d 1359,
+1364–65 (Fed. Cir. 2021).
+    Therefore, we interpret the Tucker Act to “impliedly
+forbid” an APA action seeking injunctive and declaratory
+relief only if that action is a “disguised” breach-of-contract
+claim. Megapulse, 672 F.2d at 968. To determine whether
+that is the case, we use a two-part test derived from the D.C.
+Circuit’s Megapulse decision, which looks to (1) “the source
+of the rights upon which the plaintiff bases its claims” and
+(2) “the type of relief sought (or appropriate).” Doe v. Tenet,
+329 F.3d 1135, 1141 (9th Cir. 2003) (quoting Megapulse,
+672 F.2d at 968); N. Star Alaska v. United States, 14 F.3d
+36, 37 (9th Cir. 1994) (same). If rights and remedies are
+statutorily or constitutionally based, then districts courts
+have jurisdiction; if rights and remedies are contractually
+based then only the Court of Federal Claims does, even if the
+plaintiff formally seeks injunctive relief. This test imposes
+something akin to a well-pleaded complaint rule for Tucker
+Act-adjacent APA actions. The Tucker Act does not bar an
+APA action if the plaintiff’s rights and remedies, as alleged,
+are noncontractual—even if it is inevitable that the
+government will raise a contract provision as a defense. Cf.
+City of Oakland v. BP PLC, 969 F.3d 895, 903 (9th Cir.
+2020) (explaining that federal-question jurisdiction’s well-
+pleaded complaint rule “depends solely on the plaintiff’s
+claims for relief and not on anticipated defenses to those
+claims” (quotation omitted)).
+    Megapulse involved facts similar to this case. The
+plaintiff brought an APA action alleging that the Coast
+Guard violated its intellectual-property rights and sought
+injunctive relief preventing further disclosure. 672 F.2d at
+961–63. The merits inevitably turned on an intellectual-
+16           UNITED AERONAUTICAL CORP. V. USAF
+
+
+property licensing clause in a contract between the plaintiff
+and the Coast Guard. See id. at 961. Nonetheless, the court
+held that the plaintiff’s rights were derived not from the
+contract but from the Trade Secrets Act and that the relief
+sought (an injunction preventing disclosure) was not akin to
+the traditional remedies available for breach of contract
+(damages or specific performance). Id. at 968–970. As
+such, the Tucker Act did not “impliedly forbid” the
+plaintiff’s APA action brought in district court.
+    Aero relies on Megapulse to argue that the district court
+has jurisdiction here because (1) its rights come but from
+federal procurement regulations and the Trade Secrets Act,
+not the contract; and (2) it seeks injunctive relief preventing
+further use of its intellectual property and a declaration that
+the USAF lacks any rights to the MAFFS data, not the
+breach-of-contract remedies of money damages or specific
+performance.        USAF contends that this case is
+distinguishable from Megapulse because the plaintiff in that
+case developed its proprietary data before entering into any
+government contract and requested quite limited injunctive
+relief (return of only six documents). See Megapulse, 672
+F.2d at 966.
+    We need not decide whether these differences warrant a
+different jurisdictional decision pursuant to the Tucker Act’s
+Megapulse test. That decision addressed implied preclusion
+only pursuant the Tucker Act; it did not consider implied
+preclusion pursuant to the CDA. Indeed, the contracts at
+issue in Megapulse were not subject to the CDA. The last
+contract in that case was formed in 1975, id. at 399–400, but
+the CDA applies only to contracts formed after 1978, and a
+key amendment to the CDA did not take effect until 1992,
+see 28 U.S.C. § 1491 notes (effective dates of 1978 and 1992
+amendments).
+             UNITED AERONAUTICAL CORP. V. USAF              17
+
+
+    Congress passed the CDA in 1978, adding subsection
+1491(a)(2)’s second sentence that originally read: “The
+Court of Claims shall have jurisdiction to render judgment
+upon any claim by or against, or dispute with, a contractor
+arising under the Contract Disputes Act of 1978.” Pub. L.
+No. 95-563, § 14(i), 92 Stat. 2383, 2391; Todd Constr. L.P.
+v. United States, 85 Fed. Cl. 34, 38–39 (2008). Following
+the addition of this language, there was confusion about the
+availability of declaratory relief pursuant to the CDA. See
+Todd, 85 Fed. Cl. at 39–40. A little over a decade later,
+Congress resolved this ambiguity when it passed the Federal
+Courts Administration Act of 1992, which further amended
+subsection 1491(a)(2) to clarify that CDA jurisdiction
+encompasses “nonmonetary disputes.” Pub. L. No. 102-572,
+§ 907(b)(1), 106 Stat 4506, 4519 (emphasis added).
+    Given these legislative amendments, the court in
+Megapulse simply did not have the question before it that we
+do: whether the CDA’s jurisdictional grant, separate from
+that of the Tucker Act, “impliedly forbids” application of the
+APA’s sovereign-immunity waiver. Nor do we see any
+reason to adopt Megapulse as the test for determining
+whether the CDA precludes district court jurisdiction over
+an APA claim. The Tucker Act and CDA confer exclusive
+jurisdiction over different sets of claims, so they necessarily
+preclude different sets of APA claims—even if an implied-
+preclusion analysis pursuant to each will often lead to the
+same result.
+    The Tucker Act grants exclusive jurisdiction to the Court
+of Federal Claims over breach-of-contract actions for money
+damages. Therefore, the Megapulse test asks whether an
+APA action is simply a disguised breach-of-contract action.
+18             UNITED AERONAUTICAL CORP. V. USAF
+
+
+    The CDA, by contrast, grants exclusive jurisdiction to
+the Court of Federal Claims over actions “relating to” a
+procurement contract—some of which will look a lot like
+Tucker Act claims. But unlike the Tucker Act, the CDA also
+empowers the Court of Federal Claims to hear “nonmonetary
+dispute[s]” and issue declaratory relief therein. Therefore,
+to determine whether there is implied preclusion pursuant to
+the CDA, we must ask whether an APA action is a disguised
+CDA action. To do so, we employ the analysis conducted in
+the previous section that determines whether an APA litigant
+could bring a similar action pursuant to the CDA and obtain
+similar relief.
+    For the reasons explained in the previous section, Aero’s
+action satisfies each of the criteria necessary to fall within
+the CDA’s exclusive-jurisdiction provision and waiver of
+sovereign immunity. Indeed, had Aero exhausted its
+administrative remedies, it could have maintained a
+remarkably similar action in the Court of Federal Claims—
+substituting the Forest Service as a defendant. 5 Aero asks
+the district court to interpret its agreement with the Forest
+Service, evaluate whether the Forest Service’s provision of
+the MAFFS data to USAF exceeded the use rights granted
+by the DRA, and grant injunctive and declaratory relief. The
+CDA authorizes federal contractors to submit claims
+“relating to” a government contract, 41 U.S.C. § 7103(a)(1)–
+(2); authorizes judicial review of agency decisions, id.
+
+5
+  USAF argues that dismissal for lack of subject-matter jurisdiction is
+alternatively appropriate because Aero failed to exhaust its
+administrative remedies pursuant to the CDA. Aero does not assert that
+it ever submitted a claim to a Forest Service contracting officer, as
+required by the CDA. In light of this concession and our holding that the
+CDA applies to Aero’s action, dismissal was also proper on exhaustion
+grounds.
+              UNITED AERONAUTICAL CORP. V. USAF                19
+
+
+§ 7104(b)(1); incorporates standards of review similar to
+those of the APA, id. § 7107(b); and, as explained more fully
+below, empowers the Court of Federal Claims to issue
+declaratory relief, 28 U.S.C. § 1491(a)(2) (jurisdiction
+extends to “nonmonetary disputes”). The availability of
+such an action in the Court of Federal Claims “impliedly
+forbids” Aero from bringing its action in district court.
+III. The Dissent’s Remaining Arguments Do Not Alter
+     This Conclusion
+   The dissent offers several other arguments for why the
+CDA does not deprive the district court of jurisdiction over
+Aero’s APA action, even though Aero could have brought a
+remarkably similar action in the Court of Federal Claims.
+None displaces the conclusion that we reached in this
+decision.
+    A. The Well-Pleaded Complaint Rule Has No
+       Bearing On Whether the United States Has
+       Waived Its Sovereign Immunity
+    First, the dissent argues that our reading of the CDA
+“erase[s] the distinction between a claim and a defense,” and
+thus cannot be squared with the well-pleaded complaint rule,
+which allows a plaintiff to avoid bringing a matter within the
+jurisdiction of a particular forum by limiting the types of
+claims it asserts. However, the well-pleaded complaint rule
+is an interpretation applicable to a single statute: 28 U.S.C.
+§ 1331. We have long interpreted that provision to require
+that, for a court to be able to exercise its statutorily conferred
+federal-question jurisdiction, “a federal question [must]
+appear[] on the face of the complaint.” City of Oakland v.
+BP PLC, 969 F.3d 895, 903 (9th Cir. 2020). Here, in
+assessing whether Aero’s claims are of the type that fall
+within § 1331, we complied with the well-pleaded complaint
+20           UNITED AERONAUTICAL CORP. V. USAF
+
+
+rule. By alleging violations of federal statutes and
+regulations pursuant to the APA’s cause of action, Aero’s
+complaint asserts a federal question and satisfies § 1331.
+    As the dissent acknowledges, § 702 of the APA does not
+provide “an independent basis for subject matter
+jurisdiction”—whether the federal courts are empowered to
+hear the type of claims that the plaintiff asserts. Tucson
+Airport, 136 F.3d at 645. Instead, that section provides a
+limited waiver of sovereign immunity—whether, and
+pursuant to what conditions, has the United States consented
+to be sued for a claim that is otherwise within a federal
+court’s jurisdiction. Though the dissent recognizes this
+distinction, it fails to offer a good reason for exporting the
+well-pleaded complaint rule from the former context
+(federal-question jurisdiction) to the latter (waiver of
+sovereign immunity).
+    Indeed, the two inquires have very different background
+presumptions that counsel against the reflexive use of the
+well-pleaded complaint rule in sovereign-immunity
+analyses. Section 1331 analyses begin with a dual-
+sovereignty presumption: “Under [our] system of dual
+sovereignty, we have consistently held that state courts have
+inherent authority, and are thus presumptively competent, to
+adjudicate claims arising under the laws of the United
+States.” Tafflin v. Levitt, 493 U.S. 455, 458 (1990). Because
+state courts and federal courts are, as a general matter,
+equally competent to adjudicate federal issues, we—when
+applying § 1331—defer to the plaintiff as “the master of the
+complaint” and allow him or her “to have [a] cause heard in
+state court” by “eschewing claims based on federal law.”
+See Holmes Grp., Inc. v. Vornado Air Circulation Sys., Inc.,
+535 U.S. 826, 831 (2002) (citation omitted). In other words,
+our § 1331 analysis lets litigants choose where to bring a
+              UNITED AERONAUTICAL CORP. V. USAF                21
+
+
+claim (state or federal court) because each is competent to
+hear it.
+    Sovereign immunity analysis, on the other hand, begins
+with a presumption of government immunity: “An action can
+be brought by a party against the United States only to the
+extent that the Federal Government waives its sovereign
+immunity.” Esquivel, 21 F.4th at 572 (citation omitted).
+“[I]t rests with Congress to determine not only whether the
+United States may be sued, but in what courts the suit may
+be brought.” McGuire v. United States, 550 F.3d 903, 913
+(9th Cir. 2008) (emphasis added) (quoting Minnesota v.
+United States, 305 U.S. 382, 388 (1939)). Waivers of
+sovereign immunity are, in turn, “construed strictly in favor
+of the sovereign.” McGuire v. United States, 550 F.3d 903,
+912 (9th Cir. 2008). Thus, where the government’s waiver
+includes a limitation about “what courts” may hear a claim
+against it, we cannot defer to the plaintiff’s choice of court;
+instead, we must “strictly” construe the waiver to effectuate
+Congress’s limitation on it.
+    Our analysis of the APA’s waiver followed the latter
+sovereign-immunity-specific approach—not the section-
+1331-specific approach that the dissent urges. The APA
+waives sovereign immunity over certain claims in district
+court unless “any other statute . . . impliedly forbids the relief
+which is sought.” 5 U.S.C § 702. We held that the CDA
+“impliedly forbids” certain contract-related actions by
+requiring they be brought in the Court of Federal Claims or
+before an agency contracting board (with appellate review
+then before the Federal Circuit). A plaintiff cannot sidestep
+the “impliedly forbids” limitation on the APA’s waiver of
+sovereign immunity through clever pleading.
+22            UNITED AERONAUTICAL CORP. V. USAF
+
+
+     B. Our Opinion Follows Circuit Precedent
+    Second, the dissent argues that our holding “ignores our
+prior caselaw.” However, our opinion is wholly consistent
+with the decisions that the dissent contends are contrary to
+our interpretation of the CDA as it currently stands. The
+dissent quotes Concrete Tie of San Diego Inc. v. Liberty
+Constr., Inc., 9 F.3d 800 (9th Cir. 1993) for the proposition
+that we have “‘narrowly’ construed” the “CDA’s preclusive
+effect.” But that case concerned the pre-1992-amendment
+CDA’s impact on jurisdiction conferred by the Small
+Business Act’s sue-and-be-sued clause. See id. at 801–02.
+That case said nothing about how the availability of
+declaratory relief pursuant to the post-1992-amendment
+CDA affects whether an APA action is “impliedly
+forbid[den].” See 5 U.S.C. § 702. The other decision the
+dissent cites is to a similar effect—even stating that it was
+construing a “virtually identical” clause as Liberty
+Construction had. Wright v. U.S. Postal Serv., 29 F.3d 1426,
+1430 (9th Cir. 1994). In Wright, we once again considered
+the interaction of a sue-and-be-sued clause with the CDA.
+See id. Neither case, as this one did, discussed how the APA
+interacts with the CDA—a unique context given the former’s
+implied-preclusion limit on its waiver. These cases,
+therefore, are fully consistent with our decision.
+     C. Our Opinion Considers a Different Kind of Claim
+        Than Sister-Circuit Precedent Has
+    Third, the dissent argues that our decision “creates a
+circuit split with at least four circuits that expressly apply
+Megapulse in assessing whether the CDA impliedly forbids
+reliance on the APA.” But the sister-circuit decisions that
+the dissent cites are, after further inspection, distinguishable.
+             UNITED AERONAUTICAL CORP. V. USAF              23
+
+
+    If depicted as a Venn diagram, the Tucker Act and
+CDA’s two circles would have a large common area. A
+classic Tucker Act action is a breach-of-contract claim for
+money damages. E.g., Boaz Hous. Auth., 994 F.3d at 1364–
+65. Similarly, CDA claims often involve the “seeking, as a
+matter of right, the payment of money in a sum certain” for
+the breach of a contract. 48 C.F.R. § 2.101. Thus, actions
+seeking damages for the breach of a contract would form a
+large common area in the Tucker Act–CDA Venn diagram.
+But each statute also covers ground that the other does not.
+On one side as the Federal Circuit explained in FloorPro,
+third-party beneficiary contractors can sue pursuant to the
+Tucker Act, while they cannot do so pursuant to the CDA.
+570 F.3d at 1371–72. On the other side, as we explained
+here, the CDA generally allows declaratory relief in
+“nonmonetary disputes,” while the Tucker Act authorizes
+declaratory relief only in limited circumstances. See 28
+U.S.C. § 1491(a)(2).
+    Each of the sister-circuit decisions that the dissent cites
+falls within the large overlapping area of the Tucker Act–
+CDA Venn diagram and all involved claims that were easily-
+spotted breach-of-contract claims.        The D.C. Circuit
+considered claims that the plaintiff framed as “flow[ing]
+from their performing [of] contracts,” and even expressly
+sought damages—notwithstanding that damages are
+unavailable pursuant to the APA. A & S Council Oil Co. v.
+Lader, 56 F.3d 234, 240 (D.C. Cir. 1995). The Second
+Circuit decision was similar; the plaintiff expressly sought
+“an injunction directing the Army to execute the facility
+lease”—a thinly veiled request for specific performance. Up
+State Fed. Credit Union v. Walker, 198 F.3d 372, 374, 376–
+77 (2d Cir. 1999). Similarly, in the Third Circuit decision,
+the government brought suit “seeking rescission of the
+24           UNITED AERONAUTICAL CORP. V. USAF
+
+
+contract”—yet another breach-of-contract remedy. United
+States v. J & E Salvage Co., 55 F.3d 985, 987–89 (4th Cir.
+1995). And in the Sixth Circuit decision, the plaintiffs
+asserted rights and regulatory violations that were wholly
+“depend[ent] upon whether contracts with [the Postal
+Service] afford[ed] such a right.” B & B Trucking, Inc. v.
+U.S. Postal Serv., 406 F.3d 766, 769–70 (6th Cir. 2005) (en
+banc). Each of these decisions followed the Tucker Act’s
+Megapulse test with little to no discussion of the CDA’s
+statutory text. Though doing so was imprecise, it was
+ultimately immaterial in those cases because each involved
+a claim that fell squarely within the two statute’s common
+overlap: breach-of-contract actions. In each case, whether
+the implied-preclusion analysis was rooted in the Tucker Act
+or the CDA, the result was the same: dismissal of the
+plaintiffs’ claims.
+    Here by contrast, this case implicates an area that the
+CDA covers but the Tucker Act does not; in other words, it
+falls outside of the Venn diagram’s middle-ground overlap.
+We do not understand our sister circuits’ decisions to require
+blind adherence to the Megapulse test in such a situation.
+Indeed, doing so would directly contradict the CDA’s text.
+The CDA, unlike the Tucker Act, extends to “nonmonetary
+disputes,” including requests for declaratory relief regarding
+“rights in intangible property.” 28 U.S.C. § 1491(a)(2)
+(emphasis added). The Megapulse test, if applied in cases
+like this one, would risk rendering that aspect of the CDA a
+dead letter. Given materially similar facts to Megapulse, a
+plaintiff could always side-step the CDA because the
+plaintiff’s asserted rights would be extracontractual (derived
+from patent, trademark, copyright, or trade secret law) and
+its remedies would be extracontractual (an injunction
+preventing misuse). Presented with a case in which the
+             UNITED AERONAUTICAL CORP. V. USAF              25
+
+
+Megapulse test would run roughshod over the CDA’s text,
+we chose to follow the text. None of the decisions the dissent
+cites stands for the proposition that, if presented with a case
+like this, our sister circuits would do otherwise.
+   D. Aero Can Seek Declaratory Relief in the Court of
+      Federal Claims
+    Fourth, the dissent argues that our decision “could
+seriously impede the ability of plaintiffs to obtain injunctive
+relief.” That may be correct as a factual matter—depending
+on how the Federal Circuit resolves the question it reserved
+in Todd, 656 F.3d at 1311 n.3 (reserving the question of
+whether the Court of Federal Claims may issue injunctive
+relief in addition to declaratory relief in CDA cases). But we
+are unsure what legal significance that observation has, since
+the government is free to waive its immunity only for certain
+forms of relief.
+    In any event, Aero could seek declaratory relief in a
+CDA action that would not be materially different from the
+injunctive relief it would be able to seek in an APA action.
+Indeed, “there is little practical difference between
+injunctive and declaratory relief.” California v. Grace
+Brethren Church, 457 U.S. 393, 394 (1982). The primary
+difference is that declaratory relief “is a much milder form”
+of relief because it is not backed by the power of contempt.
+Steffel v. Thompson, 415 U.S. 452, 471 (1974) (quoting
+Perez v. Ledesma, 401 U.S. 82, 125–26 (1971) (Brennan, J.,
+concurring in part)). But in suits against government
+officials and departments, we generally assume that they will
+comply with declaratory judgments. See Poe v. Gerstein,
+417 U.S. 281, 281 (1974) (per curiam) (“[T]here was ‘no
+allegation here and no proof that respondents would not, nor
+26              UNITED AERONAUTICAL CORP. V. USAF
+
+
+can we assume that they will not, acquiesce in the
+[declaratory judgment] decision . . . .’” (citation omitted)).
+     E. We Lack Jurisdiction to Consider                             the
+        Government’s Signature-Based Argument
+    Finally, the dissent expressed concern that “the
+Government—while vigorously arguing for CDA
+preclusion—also argues that the DRA is invalid and
+unenforceable on the grounds that it was not signed by a
+‘contracting’ officer.” We share the dissent’s concern that
+the government appears to have taken a heads-I-win, tails-
+you-lose approach to arguing this appeal. We also note that
+in the two pages the government dedicates to its signature-
+based argument, it cites no CDA-specific precedent for its
+novel argument that technical non-compliance with a
+contracting regulation would vitiate a CDA cause of action
+even if an agreement is otherwise an “express or implied
+contract.” 41 U.S.C. § 7102(a). That said, we do not
+ultimately resolve USAF’s signature-based argument
+because we lack jurisdiction over it. USAF raised it as a
+Rule 12(b)(6) failure-to-state-a-claim argument, not a Rule
+12(b)(1) lack-of-subject-matter-jurisdiction argument.
+Because we affirmed the district court’s dismissal for a lack
+of subject-matter jurisdiction, we cannot proceed to reach
+this merits argument. 6
+
+
+
+6
+  Our determination we lack jurisdiction to decide whether the DRA is a
+valid contract is fully compatible with our finding that the DRA qualifies
+as the requisite procurement contract needed to give rise to CDA
+jurisdiction. Contrary to the dissent’s argument, the threshold
+jurisdictional question of whether a procurement contract is at issue in
+the dispute for the purpose of establishing CDA jurisdiction has no
+bearing on the merits-based question of whether that procurement
+               UNITED AERONAUTICAL CORP. V. USAF                     27
+
+
+                         CONCLUSION
+    For the foregoing reasons, the district court’s dismissal
+for lack of subject-matter jurisdiction is AFFIRMED.
+
+
+
+COLLINS, Circuit Judge, dissenting:
+
+    Plaintiffs filed this suit under § 702 of the Administrative
+Procedure Act (“APA”), 5 U.S.C. § 702, seeking injunctive
+and declaratory relief against Defendants United States Air
+Force and United States Air National Guard based on
+Defendants’ alleged misuse of Plaintiffs’ intellectual
+property. The majority affirms the district court’s dismissal
+of this action for lack of subject matter jurisdiction, holding
+that the Contract Disputes Act (“CDA”) “impliedly forbids”
+Plaintiffs from bringing an APA action in federal district
+court. But the CDA does not impliedly forbid reliance on
+the APA where, as here, Plaintiffs’ claims and relief are
+based, not on a Government contract, but rather on
+Plaintiffs’ independent statutory rights under the Trade
+Secrets Act. The majority’s contrary decision misconstrues
+the CDA, contravenes Ninth Circuit precedent, creates a split
+with four other circuits, and undermines the ability of
+contractors to obtain injunctive relief in federal court against
+Government violation of their statutory rights. Accordingly,
+I respectfully dissent.
+                                   I
+   The intellectual property at issue in this case relates to
+the Mobile Airborne Firefighting System (“MAFFS”),
+
+contract is valid and enforceable. The dissent’s criticism unfortunately
+collapses the crucial distinction between jurisdiction and merits.
+28           UNITED AERONAUTICAL CORP. V. USAF
+
+
+which is fire-retardant tank system used to convert cargo
+planes into fire-fighting aircraft. From about 1980 to 2000,
+Aero Union, a separate company from Plaintiffs, developed
+the original MAFFS through its own privately funded
+research and development. In 2000, Aero Union contracted
+with the U.S. Forest Service (“USFS”) to develop an updated
+MAFFS prototype, called “MAFFS II.” MAFFS II relied
+significantly on Aero Union’s independently developed
+intellectual property, which Plaintiffs refer to as the “Pre-
+MAFFS II Proprietary Data.” Under the terms of the 2000
+contract, Aero Union retained ownership of the Pre-MAFFS
+II Proprietary Data, subject to the USFS’s limited use rights.
+The contract terminated in 2012.
+    Following the termination of the 2000 contract, Plaintiffs
+purchased Aero Union’s intellectual property, including the
+Pre-MAFFS II Proprietary Data, in a foreclosure sale. To
+support the USFS’s ongoing use of MAFFS II, Plaintiffs
+executed a Data Rights Agreement (“DRA”) in 2014, which
+provided that the USFS “shall have unlimited rights to view
+and use the data required for the continued operation and
+maintenance of the [MAFFS II] product.” The DRA also
+reaffirmed, however, that the “Pre-MAFFS II Proprietary
+Data, and the technical data produced or specifically used or
+related to the [MAFFS II system] developed pursuant to [the
+2000] contract shall remain the property of [Plaintiffs] (as
+the purchaser of assets of Aero [Union] . . . ).” Pursuant to
+the DRA, Plaintiffs provided the USFS with a hard drive
+containing Pre-MAFFS II Proprietary Data. The USFS
+subsequently delivered that hard drive to Defendants, which
+developed a competing system to market internationally
+without Plaintiffs’ consent.
+   Plaintiffs then sued Defendants (but not the USFS) under
+the APA, challenging Defendants’ unlawful use of the
+               UNITED AERONAUTICAL CORP. V. USAF                      29
+
+
+MAFFS data. The district court dismissed Plaintiffs’ claims
+for lack of subject matter jurisdiction, holding that any such
+claims had to be brought before the Court of Federal Claims
+(“CFC”). Plaintiffs timely appealed.
+                                   II
+    As a general matter, no suit may be brought against the
+United States unless it has waived its sovereign immunity.
+See Esquivel v. United States, 21 F.4th 565, 572 (9th Cir.
+2021). The APA provides a limited waiver of sovereign
+immunity that allows plaintiffs who have “suffer[ed] legal
+wrong because of agency action” to file suit against the
+United States in federal district court. 5 U.S.C. § 702. 1 To
+maintain such a suit, plaintiffs generally must satisfy three
+conditions: (1) they must “seek[] relief other than money
+damages,” id.; (2) they must have “no other adequate
+remedy,” id. § 704; and (3) the relief sought must not be
+“expressly or impliedly forbid[den]” by “any other statute
+that grants consent to suit,” id. § 702. See Tucson Airport
+Auth. v. Gen. Dynamics Corp., 136 F.3d 641, 645–46 (9th
+Cir. 1998). The majority holds that the third requirement is
+not met here, because, in its view, exclusive jurisdiction over
+Plaintiffs’ assertedly contract-related claim rests in the CFC.
+I disagree. There are two grants of jurisdiction to the CFC
+that are potentially relevant here, but neither impliedly
+forbids this suit.
+
+
+1
+  As we have recognized, the APA supplies the cause of action and the
+waiver of sovereign immunity, but the APA is not itself “an independent
+basis for subject matter jurisdiction in the district courts.” See Tucson
+Airport Auth. v. Gen. Dynamics Corp., 136 F.3d 641, 645 (9th Cir. 1998)
+(citing California v. Sanders, 430 U.S. 99, 105 (1977)). Rather,
+jurisdiction in APA cases rests on 28 U.S.C. § 1331. See Allen v. Milas,
+896 F.3d 1094, 1099 (9th Cir. 2018).
+30              UNITED AERONAUTICAL CORP. V. USAF
+
+
+                                   A
+    First, the Tucker Act grants the CFC jurisdiction over,
+inter alia, “any claim against the United States founded . . .
+upon any express or implied contract with the United
+States.” 28 U.S.C. § 1491(a)(1). Applying long-settled law,
+I conclude that the Tucker Act does not impliedly forbid this
+suit.
+    Because the Tucker Act authorizes the CFC to grant
+“equitable relief” only “in limited circumstances,” the
+general rule is that “the Tucker Act does not permit the
+[CFC] to grant equitable or declaratory relief in a contract
+dispute case.” North Star Alaska v. United States, 9 F.3d
+1430, 1432 (9th Cir. 1993) (en banc) (North Star I). 2 We
+have held that, because “the Tucker Act ‘impliedly forbids’
+declaratory and injunctive relief” in suits founded on
+Government contracts, it “precludes” invocation of the
+waiver of sovereign immunity in § 702 of the APA, which
+applies only to equitable relief. North Side Lumber, 753
+F.2d at 1485; see also North Star I, 9 F.3d at 1432.
+However, because the Tucker Act’s relevant grant of
+jurisdiction is limited to claims “founded . . . upon any
+express or implied contract,” it does not bar invocation of the
+
+
+
+2
+  Subject to certain exceptions, the federal district courts also exercise
+concurrent jurisdiction with the CFC over such contract-based actions
+against the United States, but only if the amount claimed does not exceed
+$10,000. See 28 U.S.C. § 1346(a)(2) (sometimes called the “Little
+Tucker Act”). The district courts’ limited concurrent jurisdiction over
+contract-based claims under $10,000 has been similarly construed as
+generally precluding nonmonetary relief on such claims. See North
+Star I, 9 F.3d at 1432; North Side Lumber Co. v. Block¸ 753 F.2d 1482,
+1485 (9th Cir. 1985).
+              UNITED AERONAUTICAL CORP. V. USAF                 31
+
+
+APA’s waiver of sovereign immunity if the claim is not
+“founded upon” a contract.
+     In determining whether a claim is “founded upon” a
+contract within the meaning of the Tucker Act—and thus
+impliedly forbidden to be asserted under the APA—we have
+long applied the test set forth by the D.C. Circuit in
+Megapulse, Inc. v. Lewis, 672 F.2d 959 (D.C. Cir. 1982). As
+we have explained, that test requires us to determine whether
+the suit is “‘at its essence’ a contract action” by considering
+both “the source of the rights upon which the plaintiff bases
+its claims” and “the type of relief sought (or appropriate).”
+North Star Alaska v. United States, 14 F.3d 36, 37 (9th Cir.
+1994) (North Star II) (quoting Megapulse, 672 F.2d at 968).
+Here, consideration of these factors confirms that Plaintiffs’
+claim is not “founded upon” a contract with the Government.
+     In considering how the Megapulse test applies here, I
+begin by reviewing the D.C. Circuit’s decision in that case,
+which involved somewhat similar facts. In Megapulse, the
+plaintiff contractor filed suit in the district court to enjoin the
+Government from disclosing data that the plaintiff had
+independently developed prior to executing its first contract
+with the Government and prior to its delivery of the data to
+the Government under that contract. Megapulse, 672 F.2d
+at 961–62. The plaintiff alleged that disclosure of the data
+by the Government to other entities would violate the Trade
+Secrets Act, see 18 U.S.C. § 1905, but the Government
+argued that its contemplated disclosures were authorized by
+its contract with the plaintiff. Megapulse, 672 F.2d at 962,
+966. The D.C. Circuit held that the plaintiff’s claims for
+relief were not impliedly forbidden by the Tucker Act and
+that suit was therefore properly brought under the APA in
+federal district court. In reaching this conclusion, the D.C.
+Circuit considered both the source of the plaintiff’s rights
+32           UNITED AERONAUTICAL CORP. V. USAF
+
+
+and the relief sought, and it ultimately held that the
+plaintiffs’ suit did not involve “‘disguised’ contract claims.”
+Id. at 969.
+    In determining the source of the plaintiff’s rights,
+Megapulse emphasized that the plaintiff there had carefully
+limited its claim to a discrete set of documents reflecting
+“proprietary technology developed prior” to its contracts
+with the Government and that the plaintiff relied solely on
+the theory that the Government was violating its property
+rights and the Trade Secrets Act. Megapulse, 672 F.2d at
+969 (simplified). As the court explained, it was “actually the
+Government, and not Megapulse, which is relying on the
+contract” by claiming in defense that its actions were
+authorized under the contract. Id. The court specifically
+rejected the Government’s argument that “the mere
+existence of such contract-related issues must convert this
+action to one based on the contract.” Id. As to the relief
+sought, the court noted that Megapulse did not seek
+“monetary damages,” nor could its claim be “properly
+characterized as one for specific performance” of any
+contract. Id. On the latter score, the court expressly rejected
+the Government’s argument that the existence of parallel
+contractual duties that matched the Government’s statutory
+obligations should be sufficient to convert Megapulse’s
+claim into one for specific performance of a contract. Id. at
+971.
+     Under Megapulse, this is an easy case. Here, as in
+Megapulse, Plaintiffs have carefully limited the factual
+predicate of their claims to proprietary data that preceded
+Aero Union’s first contract with the Government in 2000.
+Here, as in Megapulse, Plaintiffs are relying upon their rights
+under trade secret law, including the Trade Secrets Act, and
+it is the Government that is raising contractual issues as a
+              UNITED AERONAUTICAL CORP. V. USAF                33
+
+
+defense. Thus, as a factual and legal matter, “the source of
+the rights upon which the plaintiff bases its claims” are
+independent of any contract with the Government. North
+Star II, 14 F.3d at 37. Moreover, as in Megapulse, Plaintiffs
+are not seeking money damages, nor are they seeking any
+contract-based remedies. Cf. id. at 37–38 (holding that
+plaintiff seeking reformation was asserting a contract-based
+claim under the Megapulse test). Instead, they seek an
+“injunction[] against activities violative of a statutory duty.”
+Megapulse, 672 F.2d at 971; see also Crowley Govt. Servs.
+v. Gen. Servs. Admin., 38 F.4th 1099, 1108–10 (D.C. Cir.
+2022) (holding that district court had jurisdiction under
+Megapulse where the plaintiff “‘does not claim a breach of
+contract, it has limited its request for relief’ in district court
+to the enforcement of the [agency’s] statutory obligations, ‘it
+seeks no monetary damages against the United States, and
+its claim is not properly characterized as one for specific
+performance.’” (quoting Megapulse, 672 F.2d at 969)).
+    Because, under the Megapulse test, Plaintiffs’ claims are
+not “founded . . . upon any express or implied contract,” 28
+U.S.C. § 1491(a)(1), the Tucker Act does not impliedly
+forbid invocation of the APA.
+                                B
+    The second potentially relevant grant of jurisdiction to
+the CFC is the CDA. In my view, the CDA does not
+impliedly forbid Plaintiff’s claims here.
+                                1
+    The CDA, enacted in 1978, has since been codified as
+Chapter 71 of title 41 of the United States Code. See 41
+U.S.C. §§ 7101–7109. By its terms, the CDA applies only
+to “any express or implied contract . . . made by an executive
+34           UNITED AERONAUTICAL CORP. V. USAF
+
+
+agency for” (1) the “procurement of property, other than real
+property in being”; (2) the “procurement of services”; (3) the
+“procurement of construction, alteration, repair, or
+maintenance of real property”; or (4) the “disposal of
+personal property.” Id. § 7102(a)(1)–(4). The CDA
+establishes an administrative process under which any
+“claim by a contractor against the Federal Government
+relating to a contract shall be submitted to the contracting
+officer for a decision.” Id. § 7103(a)(1). The contracting
+officer must then issue a written decision, see id.
+§ 7103(a)(3), (d), and if it is adverse to the contractor, then
+the contractor can either appeal to the appropriate agency
+board of contract appeals, see id. § 7104(a), or “bring an
+action directly on the claim” in the CFC, id. § 7104(b)(1).
+An adverse decision in either forum may be reviewed by the
+Federal Circuit.       See id. § 7107(a)(1); 28 U.S.C.
+§ 1295(a)(3).
+    The corresponding provision of the judicial code that
+confers jurisdiction on the CFC to adjudicate an action filed
+by a contractor under § 7104(b)(1) states:
+
+       The Court of Federal Claims shall have
+       jurisdiction to render judgment upon any
+       claim by or against, or dispute with, a
+       contractor arising under section 7104(b)(1) of
+       title 41, including a dispute concerning
+       termination of a contract, rights in tangible or
+       intangible property, compliance with cost
+       accounting standards, and other nonmonetary
+       disputes on which a decision of the
+              UNITED AERONAUTICAL CORP. V. USAF                35
+
+
+        contracting officer has been issued under
+        section 6 of that Act [41 U.S.C. § 7103].
+
+28 U.S.C. § 1491(a)(2). The majority describes this
+provision as conferring “exclusive” jurisdiction in the CFC,
+see Opin. at 17, but that is not exactly correct. As noted
+earlier, there are two possible routes for review of a
+contracting officer’s determination of a claim under the
+CDA, and the other option (review by an agency board of
+contract appeals, followed by review in the Federal Circuit)
+bypasses the CFC altogether. To the extent that the CDA
+impliedly forbids invocation of the APA here, that is
+attributable, not so much to any “exclusive” jurisdiction of
+the CFC, but rather to the CDA’s “mandatory administrative
+process for resolving contract disputes.” Menominee Indian
+Tribe v. United States, 577 U.S. 250, 252 (2016). If the CDA
+applies here, then Plaintiffs were required to present their
+claim to the relevant contracting officer before invoking one
+of the CDA’s two paths to judicial review. That would, in
+my view, impliedly forbid them from invoking the APA as
+an end-run around the CDA’s administrative process and the
+specific methods of judicial review applicable to that
+process.
+    The question, then, is whether Plaintiffs were required to
+submit their claim in this case to a contracting officer in
+accordance with the CDA. As noted earlier, the CDA
+requires that any “claim by a contractor against the Federal
+Government relating to a contract” governed by the CDA
+“shall be submitted to the contracting officer for a decision.”
+41 U.S.C. § 7103(a)(1) (emphasis added). And, generally
+speaking, the only contracts that are governed by the CDA
+are “procurement” contracts. Id. § 7102(a)(1)–(3). On that
+basis, I agree that, if Plaintiffs’ “claim” here is one “relating”
+36           UNITED AERONAUTICAL CORP. V. USAF
+
+
+to a procurement contract, then they were required to invoke
+the CDA’s processes, and any resort to the APA as a
+substitute is impliedly forbidden. 5 U.S.C. § 702.
+                              2
+    Whether this case may proceed in the district court thus
+turns on whether Plaintiffs’ claim is one “relating to” a
+procurement contract within the meaning of § 7103(a)(1) of
+the CDA. The majority concludes that the Megapulse test
+that is used for distinguishing between claims “founded
+upon” a contract in the Tucker Act context does not apply to
+the similar inquiry, in the CDA context, as to whether a
+claim “relat[es] to a contract.” See Opin., § II. According
+to the majority, any cause of action that, broadly speaking,
+has “some relationship to the terms or performance” of a
+procurement contract is a claim “relating to a contract” for
+purposes of the CDA and therefore may not be the subject of
+a suit under § 702 of the APA. See Opin. at 9 (quoting Todd
+Constr., L.P. v. United States, 656 F.3d 1306, 1312 (Fed. Cir.
+2011)). And that remains true, according to the majority,
+even if the only “relationship” between the plaintiff’s claims
+and the procurement contract is that the Government has
+invoked contract-based defenses to the plaintiff’s non-
+contract-based claims. See Opin. at 11–12, 16–20. For
+multiple reasons, the majority is wrong in holding that the
+Megapulse test is limited to the Tucker Act context and does
+not apply to the CDA.
+    First, the majority overlooks the meaning, in context, of
+the entire relevant phrase in the CDA, and in doing so the
+majority misreads the Todd case on which it primarily relies.
+In describing what must be submitted to a contracting
+officer, § 7103(a)(1) refers to a “claim by a contractor
+against the Federal Government relating to a contract.” 41
+             UNITED AERONAUTICAL CORP. V. USAF              37
+
+
+U.S.C. § 7103(a)(1) (emphasis added). As the Federal
+Circuit noted in Todd, the CDA does not define the crucial
+word “claim.” 656 F.3d at 1311. Todd held, however, that
+under the Federal Circuit’s prior decision in H.L. Smith, Inc.
+v. Dalton, 49 F.3d 1563 (Fed. Cir. 1995), “the definition of
+the term ‘claim’ in the FAR [Federal Acquisition
+Regulations] governs.” 656 F.3d at 1311. As Todd
+explained, “[t]he FAR defines ‘claim’ as ‘a written demand
+or written assertion by one of the contracting parties seeking,
+as a matter of right, the payment of money in a sum certain,
+the adjustment or interpretation of contract terms, or other
+relief arising under or relating to the contract.’” Id.
+(emphasis omitted) (quoting 48 C.F.R. § 2.101). The types
+of “claims” governed by the CDA are thus limited to those
+seeking “relief arising under or relating to the contract.” Id.
+(emphasis added). This focus on contract-based rights and
+contract-related relief is not materially different from the
+Megapulse test, which requires consideration of the same
+factors. See Megapulse, 672 F.2d at 968. Moreover, the
+“claim” at issue in Todd—which challenged the “quality of
+the contractor’s performance under the terms of the
+contract,” Todd, 656 F.3d at 1313 (emphasis added)—
+readily qualifies as “at its essence a contract claim” under
+Megapulse, 672 F.2d at 967.
+    Second, even setting aside Todd’s particular definition of
+a “claim,” the majority’s analysis still fails. According to
+the majority, a contractor’s “claim” “relat[es] to” a contract
+if the Government’s defenses to that claim relate to the
+contract. See Opin. at 11–12. The majority cites no
+authority that supports this rewriting of the statute, which
+focuses on the “claim” asserted and not the defenses raised
+against it. The majority notes that Plaintiffs cannot prevail
+on their claim without defeating those defenses and that
+38              UNITED AERONAUTICAL CORP. V. USAF
+
+
+Plaintiffs’ complaint itself anticipates those defenses. See
+Opin. at 11–12. But that does not erase the distinction
+between a claim and a defense, cf. Caterpillar Inc. v.
+Williams, 482 U.S. 386, 393 (1987) (holding that the rule
+that a federal defense does not suffice to show that a claim
+arises under federal law applies “even if the defense is
+anticipated in the plaintiff’s complaint, and even if both
+parties concede that the federal defense is the only question
+truly at issue”), and the CDA requires that the claim—not an
+anticipated defense—relate to the contract. 41 U.S.C. §
+7103(a)(1). The Megapulse test honors that distinction
+between claims and defenses, because Megapulse
+specifically held that the Government’s decision to raise a
+contract-based defense does not make a plaintiff’s claim a
+contract claim. 672 F.2d at 969. 3
+    Third, the majority’s expansive reading of the CDA
+ignores our prior caselaw holding that the CDA’s preclusive
+effect on the availability of other jurisdictional statutes
+should be “narrowly” construed. Concrete Tie, Inc. v.
+Liberty Constr., Inc. (In re Liberty Constr.), 9 F.3d 800, 801
+(9th Cir. 1993). In Liberty Construction, we invoked that
+narrow-construction rule in rejecting the Government’s
+argument that our construction of the statute “vest[ing]
+jurisdiction in the district court over claims against the SBA
+
+3
+  The majority insists that this distinction between claims and defenses
+is an artifact of the jurisprudence governing 28 U.S.C. § 1331 and does
+not apply outside that context. See Opin. at 19–20. But the provision of
+the CDA that the majority says impliedly forbids invocation of the APA
+applies, by its terms, only if the “claim” is one “arising under section
+7104(b)(1) of title 41,” 28 U.S.C. § 1491(a)(2), and § 7104(b)(1) in turn
+authorizes an “action directly on the claim” raised by the contractor. The
+statute’s focus here is on the claim asserted by the contractor and not the
+defenses asserted by the Government.
+                UNITED AERONAUTICAL CORP. V. USAF                        39
+
+
+[Small Business Administration]” had been “implicitly
+overruled” by the CDA. Id.; see also Wright v. U.S. Postal
+Serv., 29 F.3d 1426, 1429 (9th Cir. 1994) (expressly
+rejecting the view that “the CDA ‘pre-empt[s] the entire field
+of government contract remedies’”). 4
+    Fourth, the majority creates a circuit split with at least
+four circuits that expressly apply Megapulse in assessing
+whether the CDA impliedly forbids reliance on the APA.
+See B & B Trucking, Inc. v. U.S. Postal Serv., 406 F.3d 766,
+768 (6th Cir. 2005) (en banc) (“The CDA bars district court
+jurisdiction if the court determines that a plaintiff’s claims
+against a government agency are ‘essentially contractual’ in
+nature. ‘The classification of a particular action as one
+which is or is not [essentially contractual] depends both on
+the source of the rights upon which the plaintiff bases its
+claim, and upon the type of relief sought (or appropriate).’”
+(quoting Megapulse, 672 F.2d at 968) (other internal
+citations omitted)); A&S Council Oil Co. v. Lader, 56 F.3d
+234, 239–40 (D.C. Cir. 1995) (applying Megapulse test in
+determining whether a claim is one “relating to a contract”
+within the meaning of the CDA); Up State Fed. Credit Union
+v. Walker, 198 F.3d 372, 374–76 (2d Cir. 1999) (applying
+Megapulse in determining whether claims were contract
+
+4
+  Indeed, we have gone so far as to hold that the CDA does not bar
+invoking other bases of jurisdiction even in the context of claims that
+would qualify as contract-based under the Megapulse test. See, e.g.,
+Wright, 29 F.3d at 1429; Liberty Construction, 9 F.3d at 801–02; North
+Side Lumber, 753 F.2d at 1485–86. That further rule has provoked a
+split with the Second Circuit. See Cohen v. Postal Holdings, LLC, 873
+F.3d 394, 401–02 (2d Cir. 2017) (holding that the claim at issue was a
+contract claim under Megapulse and that the CDA was the exclusive
+vehicle for relief, expressly rejecting contrary Ninth Circuit authority).
+Because this case does not involve a contract claim within the meaning
+of Megapulse, this case does not implicate that distinct split of authority.
+40            UNITED AERONAUTICAL CORP. V. USAF
+
+
+claims subject to the CDA); United States v. J & E Salvage
+Co., 55 F.3d 985, 987–88 (4th Cir. 1995) (same). Although
+the majority tries to distinguish these cases on their specific
+facts, see Opin. at 23–24, it cannot deny that these other
+circuit decisions explicitly apply to the CDA the Megapulse
+test that the majority rejects.
+     Fifth, the majority’s holding could seriously impede the
+ability of plaintiffs to obtain injunctive relief against
+Government misconduct, even for statutory violations such
+as those at issue here, if the plaintiffs’ claims can be said, in
+some broad sense, to “relate” to a contract the plaintiff
+assertedly has with the Government. The majority dismisses
+this concern, even while acknowledging that the Federal
+Circuit itself expressly declined to decide in Todd whether
+the CFC had authority to issue injunctive relief in that case.
+See Opin. at 25 (citing 656 F.3d at 1311 n.3). The majority
+hopes that declaratory relief—which the majority concedes
+could not be enforced by contempt authority—would be
+sufficient. Id. But if not, well, then too bad, according to
+the majority, because “the government is free to waive its
+immunity only for certain forms of relief.” Id. The
+majority’s overbroad rule threatens to seriously thwart the
+critical role served by APA § 702’s waiver of sovereign
+immunity in cases seeking injunctive relief against the
+Government. See Transohio Sav. Bank v. Director, Off. of
+Thrift Supervision, 967 F.2d 598, 611–12 (D.C. Cir. 1992)
+(“[W]e are mindful of the warning that federal courts not
+subvert the congressional objectives underlying the
+enactment of § 702 of the APA by allowing the government
+to give an overly expansive scope to the notion of claims
+‘founded upon’ a contract” (simplified)).
+    For all of these reasons, the majority seriously errs in
+rejecting the Megapulse test in assessing whether the CDA
+              UNITED AERONAUTICAL CORP. V. USAF               41
+
+
+impliedly forbids a claim for injunctive relief under § 702 of
+the APA. Because I would apply Megapulse in assessing the
+limits of the CDA, I necessarily conclude that Plaintiffs’
+claims are not impliedly forbidden by the CDA.
+                              III
+     Finally, I cannot let pass without comment an additional
+troubling feature of this case that the majority brushes aside.
+In finding that the CDA impliedly forbids invocation of the
+APA here, the majority holds that the DRA qualifies as a
+procurement contract within the meaning of the CDA. See
+Opin. § II(b). But the majority nonetheless declines to
+address the fact that the Government—while vigorously
+arguing for CDA preclusion—also argues that the DRA is
+invalid and unenforceable on the grounds that it was not
+signed by a “contracting” officer. The extraordinary result
+of the majority’s decision is that Plaintiffs’ loss of their
+ability to file a district court action seeking injunctive relief
+to enforce their statutory rights against the Government is
+attributable to the Government’s assertion of a contract-
+based defense under a contract that the Government
+simultaneously contends is invalid. This cannot be right.
+See Crewzers Fire Crew Trans., Inc. v. United States, 741
+F.3d 1380, 1382 & n.3 (Fed. Cir. 2014) (holding that the
+plaintiff’s contract with the Government was unenforceable
+and therefore could not “be used to invoke” the jurisdiction
+of the CFC under the Tucker Act or the CDA); Ridge Runner
+Forestry v. Veneman, 287 F.3d 1058, 1060–61 (Fed. Cir.
+2002) (holding that, because the “Tender Agreement” upon
+which CDA jurisdiction was predicated was not a valid
+42             UNITED AERONAUTICAL CORP. V. USAF
+
+
+contract, the CFC properly concluded that it lacked
+jurisdiction under the CDA). 5
+                                  IV
+    For the reasons I have explained, neither the Tucker Act
+nor the CDA impliedly forbid invocation of the APA here.
+Accordingly, the district court erred in dismissing this action
+for lack of jurisdiction, and its judgment should be reversed.
+I respectfully dissent.
+
+
+
+
+5
+  The majority protests that, in addressing whether there is jurisdiction
+under the CDA, we lack jurisdiction to decide whether the DRA is a valid
+contract. See Opin. at 26. That contention is contrary to the Federal
+Circuit’s decisions in Crewzers and Ridge Runner, and it also contradicts
+the majority’s assertion that the DRA qualifies as the requisite
+procurement contract needed to give rise to CDA jurisdiction. It is
+apparently the majority’s view that the Government may invoke the
+CDA—and deprive a plaintiff of its ability to assert an APA injunctive
+claim—merely by showing that the plaintiff is asserting a claim as to
+which the Government has a defense that is related to a putative
+agreement that the Government contends is not actually a valid contract.
+Once again, that cannot be right.
+

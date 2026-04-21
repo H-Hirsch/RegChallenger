@@ -1,0 +1,534 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 25, 2022             Decided August 12, 2022
+
+                        No. 21-1130
+
+ INTELLIGENT TRANSPORTATION SOCIETY OF AMERICA AND
+     AMERICAN ASSOCIATION OF STATE HIGHWAY AND
+              TRANSPORTATION OFFICIALS,
+                    PETITIONERS
+
+                             v.
+
+   FEDERAL COMMUNICATIONS COMMISSION AND UNITED
+               STATES OF AMERICA,
+                  RESPONDENTS
+
+      CONTINENTAL AUTOMOTIVE SYSTEMS, INC., D/B/A
+       CONTINENTAL AUTOMOTIVE SYSTEMS, ET AL.,
+                    INTERVENORS
+
+
+
+            Consolidated with 21-1131, 21-1141
+
+
+      On Petitions for Review and Appeal of an Order
+       of the Federal Communications Commission
+
+
+
+     Joshua S. Turner and Julian Gehman argued the causes for
+petitioners. With them on the joint briefs were Scott D.
+Delacourt and Sara M. Baxenberg.
+                              2
+
+     Alan Fishel and Jeffrey Rummel were on the briefs for
+petitioner-intervenor Continental Automotive Systems, Inc.
+
+    Julie B. Kulovits was on the brief for amici curiae the
+American Traffic Safety Services Association, et al. in support
+of petitioners.
+
+    Scott M. Noveck, Counsel, Federal Communications
+Commission, argued the cause for respondents. With him on
+the brief were Robert B. Nicholson and Bryan J. Leitch,
+Attorneys, U.S. Department of Justice, and Jacob M. Lewis,
+Associate General Counsel, Federal Communications
+Commission.
+
+     Russell H. Fox, Thomas Scott Thompson, Timothy J.
+Simeone, Paul J. Caritj, Jason Neal, Rick C. Chessen, and Neal
+M. Goldberg were on the joint brief for intervenors
+NCTA - The Internet & Television Association and Wi-Fi
+Alliance in support of respondents.
+
+    Suzanne M. Tetreault and Sean Conway were on the brief
+for intervenor 5G Automotive Association in support of
+respondents. Jennifer B. Tatel entered an appearance.
+
+    Peter Karanjia was on the brief for amicus curiae CTIA -
+The Wireless Association in support of respondents.
+
+   Kathleen Burke was on the brief for amicus curiae Public
+Knowledge in support of respondents.
+
+    Before: PILLARD and WALKER, Circuit Judges, and
+SILBERMAN, Senior Circuit Judge.
+
+    Opinion of the Court filed by Circuit Judge WALKER.
+                              3
+    WALKER, Circuit Judge: Intelligent transportation systems
+make driving safer by allowing vehicles to communicate with
+each other on the road. In 2020, the Federal Communications
+Commission reallocated a part of the radio spectrum from use
+by intelligent transportation systems to use by unlicensed
+devices such as Wi-Fi routers.
+
+     Several groups that want to retain their old use of the
+reallocated spectrum argue that the FCC’s reallocation was
+arbitrary and capricious.
+
+    It was not.
+
+                              I
+
+     Car crashes cause thousands of deaths and millions of
+injuries every year in the United States. Amendment of the
+Commission’s Rules, 19 FCC Rcd. 2,458, 2,460 (Feb. 10,
+2004). To combat that, Congress has long passed laws aimed
+at enhancing vehicle safety. See, e.g., National Traffic and
+Motor Vehicle Safety Act of 1966, Pub. L. No. 89-563, 80 Stat.
+718. One such law was the 1998 Transportation Equity Act for
+the 21st Century. Pub. L. No. 105-178, 112 Stat. 107.
+
+     That act instructed the Department of Transportation to
+“develop and maintain a national” intelligent transportation
+system to decrease accidents and improve overall travel
+efficiency. 23 U.S.C. § 517(a)(1). The theory was that cars
+would be equipped with intelligent transportation systems that
+allow them to communicate with each other and avoid
+accidents. 23 U.S.C. § 501(5) (defining an “intelligent
+transportation    system”    as    “electronics,    photonics,
+communications, or information processing used singly or in
+combination to improve the efficiency or safety of a surface
+transportation system”).
+                               4
+
+     But much like a cell phone or a Wi-Fi router, those
+intelligent transportation systems need an available section of
+the radio spectrum in which to operate. So part of the
+Transportation Equity Act required the Federal
+Communications Commission to “consider, in consultation
+with the Secretary [of Transportation], spectrum needs for the
+operation of intelligent transportation systems” by January 1,
+2000. 23 U.S.C. § 502 note § 5206(f).1
+
+     The FCC allocated that spectrum in 1999. Amendment of
+Parts 2 & 90 of the Commission’s Rules to Allocate the 5.850-
+5.925 GHz Band, 14 FCC Rcd. 18,221 (Oct. 22, 1999). It
+assigned a 75-megahertz band of the spectrum, from 5.850 to
+5.925 gigahertz, for use by intelligent transportation systems.
+Id. ¶ 1. Various other services, such as amateur radios, are also
+allowed to use that band, which is often called the 5.9 GHz
+band. Id. ¶ 6.
+
+     For the next twenty years, intelligent transportation
+systems did not develop as the FCC had hoped they would. Use
+of the 5.850-5.925 GHz Band, 35 FCC Rcd. 13,440, ¶¶ 3, 7, 31
+(Nov. 20, 2020). As of 2020, “no commercially-marketed
+vehicles” used the 5.9 GHz band to provide vehicle safety
+features. Id. ¶ 31. Instead, “many automotive safety
+
+1
+  “Radio spectrum is the part of the electromagnetic spectrum
+ranging from 1 Hz to 3000 GHz (3 THz). Electromagnetic waves in
+this frequency range, called radio waves, have become widely used
+in modern technology, particularly in telecommunication. The
+spectrum is divided into different frequency bands, and each band
+has been allocated for a specific application ranging from
+aeronautical and maritime communication to AM and FM radio
+stations.”   What Is Radio Spectrum, U.S. Department of
+Transportation (Sept. 21, 2017), https://www.transportation.gov
+/pnt/what-radio-spectrum.
+                               5
+functions . . . such as alerting drivers to vehicles or other
+objects, lane-merging alerts, and emergency braking” have
+been “met by other technologies like radar, LiDAR, cameras,
+and sensors.” Id. ¶¶ 32-33, 38.
+
+     So in 2019, the FCC began a new rulemaking process to
+ensure that the 5.9 GHz band was put to its best use. 5.9 GHz
+Band NPRM, 34 FCC Rcd. 12,603 (Dec. 17, 2019). The FCC
+proposed keeping the upper 30 megahertz of the 5.9 GHz band
+(5.895 to 5.925 GHz) for use by intelligent transportation
+systems and repurposing the lower 45 megahertz for use by
+unlicensed devices such as Wi-Fi routers. Id. ¶¶ 2, 13. The
+FCC also proposed changing the technology that would be used
+by intelligent transportation systems; vehicles would need to
+start using “vehicle-to-everything” communications (in which
+they send communications to cell towers and other devices)
+rather than the “dedicated short-range” communications
+originally permitted in 1999 (in which they do not send
+communications to cell towers). Id. ¶¶ 24-31.
+
+     The proposal received mixed reactions.                Some
+commenters agreed that the FCC should repurpose part of the
+5.9 GHz band to meet the ever-increasing spectrum demands
+of Wi-Fi routers and other unlicensed devices. See Use of the
+5.850-5.925 GHz Band, 36 FCC Rcd. 1,444, ¶¶ 19, 21-24, 33,
+45, 126-127, 132. But the Department of Transportation and
+many other commenters objected that the proposed reallocation
+would not provide an adequate spectrum band for intelligent
+transportation systems. Id. ¶ 44. In particular, commenters
+said that the reallocation would not provide a sufficient
+spectrum band for future technologies that are still developing.
+Id. And they worried that the unlicensed devices in the lower
+45 megahertz of the 5.9 GHz band would interfere with the
+communications in the upper 30 megahertz. See id. ¶ 60.
+                                 6
+    In 2020, the FCC approved the proposed rule. Id. ¶ 1.
+
+     The Intelligent Transportation Society of America and the
+American Association of State Highway and Transportation
+Officials (“Transportation Petitioners”) now petition for
+review, see 47 U.S.C. § 402(a), and appeal the FCC’s order to
+us, see 47 U.S.C. § 402(b). They argue that we should vacate
+the part of the order reallocating the lower 45 megahertz of
+spectrum but leave in place the rest of the order dealing with
+what technology intelligent transportation systems use. The
+Amateur Radio Emergency Data Network (“Radio Petitioner”)
+filed a separate petition for review. It argues that we should
+vacate the whole order.
+
+    We consider the petitions and appeal together.2
+
+                                 II
+
+     Under the Administrative Procedure Act, we overturn
+agency action when it is arbitrary, capricious, or otherwise
+contrary to law. 5 U.S.C. § 706(2). That “deferential” standard
+requires courts to ensure “that the agency has acted within a
+zone of reasonableness and, in particular, has reasonably
+considered the relevant issues and reasonably explained the
+decision.” FCC v. Prometheus Radio Project, 141 S. Ct. 1150,
+1158 (2021). In doing so, we must accept agencies’ “findings
+of fact so long as they are supported by substantial evidence on
+the record as a whole.” PSSI Global Services, LLC v. FCC,
+983 F.3d 1, 7 (D.C. Cir. 2020) (quoting Neustar, Inc. v. FCC,
+857 F.3d 886, 896 (D.C. Cir. 2017)).
+2
+ We need not decide whether 47 U.S.C. § 402(a) or (b) “is the proper
+vehicle for our review if we have jurisdiction by the one procedural
+route or the other,” as we do here. PSSI Global Services, LLC v.
+FCC, 983 F.3d 1, 6 (D.C. Cir. 2020) (cleaned up).
+                                7
+
+     All the Petitioners argue that the FCC’s order was arbitrary
+and capricious because it violated the Transportation Equity
+Act. The Transportation Petitioners also argue that the FCC
+failed to adequately explain its decision and unlawfully
+revoked or modified FCC licenses. We disagree on all fronts.
+
+                                A
+
+       The FCC’s order did not violate the Transportation Equity
+Act.
+
+     The FCC has “broad authority to oversee wire and radio
+communication in the United States” and must promote
+“effective use of radio in the public interest.” Cellco
+Partnership v. FCC, 700 F.3d 534, 537, 542 (D.C. Cir. 2012);
+see also 47 U.S.C. §§ 151, 303. Part of that task is assigning
+“bands of frequencies to the various classes of stations” that
+will make use of the spectrum. 47 U.S.C. § 303(c).
+
+     To effectively assign frequency bands, the FCC “must
+predict the effect and growth rate of technological newcomers
+on the spectrum, while striking a balance between protecting
+valuable existing uses and making room for these sweeping
+new technologies.” Teledesic LLC v. FCC, 275 F.3d 75, 84
+(D.C. Cir. 2001). That is a difficult, highly technical task. So
+when the FCC “is fostering innovative methods of exploiting
+the spectrum, it functions as a policymaker and is accorded the
+greatest deference by a reviewing court.” Mobile Relay
+Associates v. FCC, 457 F.3d 1, 8 (D.C. Cir. 2006) (cleaned up).
+
+     All parties agree that the FCC’s broad authority over the
+nation’s airwaves initially allowed it to allocate 75 megahertz
+of the spectrum for intelligent transportation systems in 1999.
+Then, in 2020, the FCC relied on that same broad authority to
+                                8
+update the 1999 allocation. Use of the 5.850-5.925 GHz Band,
+36 FCC Rcd. 1,444, ¶ 123 (Nov. 20, 2020). At least as a
+general matter, that action was well within bounds. See
+National Cable & Telecommunications Association v. Brand X
+Internet Services, 545 U.S. 967, 981 (2005) (an agency “must
+consider . . . the wisdom of its policy on a continuing basis, for
+example, in response to changed factual circumstances”
+(cleaned up)).
+
+    The Transportation Petitioners respond that although the
+FCC normally has broad authority to manage the use of the
+spectrum, the Transportation Equity Act curbed that authority
+by directing the FCC to “consider, in consultation with the
+Secretary [of Transportation], spectrum needs for the operation
+of intelligent transportation systems” and to complete “a
+rulemaking considering the allocation of spectrum” by 2000.
+23 U.S.C. § 502 note § 5206(f).            According to the
+Transportation Petitioners, the FCC here went beyond its
+power as narrowed by the Transportation Equity Act.
+
+     But the Transportation Equity Act did not transfer away
+from the FCC its broad authority to manage the spectrum
+related to intelligent transportation systems. Instead, as the
+FCC noted, it simply required the FCC to account for the
+Department of Transportation’s views and the needs of
+intelligent transportation systems when it does so. Use of the
+5.850-5.925 GHz Band, 36 FCC Rcd. 1,444, ¶ 123.
+
+     The FCC did that here. It devoted at least twenty
+paragraphs of its order to carefully considering the needs of
+intelligent transportation systems and to thoroughly explaining
+                                  9
+that the remaining 30 megahertz of the spectrum will support
+such systems. Id. ¶¶ 27-46.3
+
+     That is not to say that the FCC could have allocated 75
+megahertz for intelligent transportation systems on December
+31, 1999, and then turned around the next day and arbitrarily
+taken it all away based on its broad authority to manage the
+spectrum. Regardless of whether that action would have
+violated the Transportation Equity Act, it would have violated
+the Administrative Procedure Act. See 5 U.S.C. § 706(2); see
+also FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515
+(2009) (when an agency departs from a prior policy, it “must
+show that there are good reasons for the new policy”). But that
+scenario is quite different from today’s — where much has
+changed in the two decades since the original allocation and
+where the FCC’s final order adequately addressed the
+Department of Transportation’s concerns.
+
+     Finally, the Radio Petitioner argues that the Transportation
+Equity Act gives the Department of Transportation a veto
+power over the FCC’s spectrum-allocation authority. That is a
+turbocharged version of the Transportation Petitioners’
+“consider” and “consultation” argument, which we have
+already rejected.
+
+    Plus, if the Radio Petitioner were right, the Department of
+Transportation could step into any rulemaking in which the
+FCC is allocating part of the spectrum and demand that the
+
+3
+ In addition, we are told that the FCC consulted with the Department
+of Transportation by sharing a prerelease of its proposal to reallocate
+part of the 5.9 GHz band and later a prerelease of its final order. In
+both instances, the Department of Transportation replied with a letter
+expressing concerns about the proposal similar to those it made
+during the public notice-and-comment period. See JA 386-414, 563-
+76.
+                               10
+FCC put the spectrum band in question to intelligent
+transportation uses. It is far-fetched to think that Congress
+would so indirectly strip the FCC of its broad power to manage
+the spectrum. Cf. Whitman v. American Trucking Associations,
+531 U.S. 457, 468 (2001) (Congress “does not alter the
+fundamental details of a regulatory scheme in vague terms or
+ancillary provisions”).
+
+                               B
+
+     The FCC adequately explained its conclusion that “30
+megahertz is sufficient for the provision of core vehicle safety-
+related [intelligent transportation system] functions.” Use of
+the 5.850-5.925 GHz Band, 36 FCC Rcd. 1,444, ¶ 35.
+
+     To reach that conclusion, the FCC relied on many
+comments explaining why the remaining 30 megahertz of
+spectrum would sufficiently support intelligent transportation
+systems. Id. ¶ 33. The FCC also noted that the original 5.9
+GHz band allocated only 20 of the initial 75 megahertz of
+spectrum “for vehicle-to-vehicle safety communications for
+accident avoidance and mitigation” and “for public safety
+applications involving safety of life and property, including
+road intersection collision mitigation.” Id. ¶ 35. The 30
+megahertz of the spectrum preserved by the FCC’s 2020 order
+is thus a larger band than was allocated for traffic-safety
+purposes under the original rulemaking. Finally, the FCC
+explained that other technologies have alleviated the need for
+all 75 megahertz of the spectrum to remain dedicated to
+intelligent transportation systems. Id. ¶¶ 32-33, 38. Those
+other technologies include “radar, LiDAR, cameras, and
+sensors.” Id. ¶ 33.
+
+    In response, the Transportation Petitioners make five
+arguments.
+                               11
+
+     First, because the FCC lacks the Department of
+Transportation’s traffic-safety expertise, the Transportation
+Petitioners argue that we should not defer to the FCC’s
+judgment that the remaining 30 megahertz will support
+intelligent transportation systems. They specifically take issue
+with the fact that the FCC said the remaining 30 megahertz was
+sufficient to support “core” or “basic” intelligent transportation
+systems. Id. ¶ 35. They say that the FCC’s labeling of “core”
+or “basic” intelligent transportation systems is tantamount to
+the FCC deciding which intelligent transportation systems
+matter and which do not.
+
+     We agree that the FCC does not control intelligent
+transportation systems. But it has a statutory duty to allocate
+the spectrum to its best use. 47 U.S.C. §§ 151, 303. And
+figuring out how much of the spectrum is needed to support a
+particular activity is exactly what the FCC does. Sometimes
+that involves analyzing the technical features of a spectrum use
+to figure out what range is actually needed, as the FCC did here.
+See Teledesic, 275 F.3d at 84 (the FCC “must predict the effect
+and growth rate of technological newcomers on the spectrum”).
+
+     In addition, the FCC addressed the Department of
+Transportation’s objections by noting that in 2017, the
+Department of Transportation produced an analysis showing
+that “safety applications that could eliminate a large proportion
+of crashes may require” only 10 megahertz of the spectrum.
+Use of the 5.850-5.925 GHz Band, 36 FCC Rcd. 1,444, ¶ 140
+(citing Federal Motor Vehicle Safety Standards; V2V
+Communications, 82 Fed. Reg. 3,854, 3,885, 3,969, 3,986 (Jan.
+12, 2017)). So according to the Department’s past analysis,
+nothing near 75 megahertz of the spectrum is necessary for
+intelligent transportation systems that could greatly reduce car
+accidents.
+                               12
+
+    Moreover, the Department of Transportation’s concerns
+with the FCC’s order are no longer espoused by the Executive
+Branch. Instead, the Executive Branch assessed the case’s
+merits and considered the federal interests. Response of the
+United States 2. Then through the Department of Justice, the
+Executive Branch — which of course includes the Department
+of Transportation — joined the FCC’s brief defending the
+FCC’s order. See Sierra Club v. Costle, 657 F.2d 298, 405
+(D.C. Cir. 1981) (“The executive power under our
+Constitution, after all, is not shared—it rests exclusively with
+the President.”); id. at 406 (“Single mission agencies do not
+always have the answers to complex regulatory problems.”).
+
+     Second, the Transportation Petitioners — as well as the
+Petitioner-Intervenor Continental Automotive Systems
+— argue that intelligent transportation systems need more than
+30 megahertz of spectrum for yet-to-arrive technologies. But
+the FCC is entitled to great deference when predicting the
+likelihood of those developments. See Teledesic, 275 F.3d at
+84. Here, the FCC exercised its discretion and reasonably
+concluded “that the potential deployment of future . . . services
+that may or may not develop years into the future are too
+uncertain and remote to warrant the further reservation of
+spectrum for their deployment.” Use of the 5.850-5.925 GHz
+Band, 36 FCC Rcd. 1,444, ¶ 120. And with regard to the record
+before the FCC, the Petitioners have directed us to no
+significant developments in the field of yet-to-arrive
+technologies.
+
+     Third, the Transportation Petitioners argue that the FCC
+did not address a proposal from the auto industry that the FCC
+should require the industry to commit to building five million
+intelligent transportation devices in five years. The Petitioners
+argue that this five-year plan was a reasonable alternative to
+                               13
+reducing the spectrum allocation for vehicular communications
+because the commitment would have ensured that the 5.9 GHz
+band was put to good use. But the five-year plan did not
+address the FCC’s concern that even if intelligent
+transportation systems are fully developed, they still will not
+need the entire 5.9 GHz band. So the plan was not a reasonable
+alternative that the FCC had to address. District Hospital
+Partners, LP v. Burwell, 786 F.3d 46, 59 (D.C. Cir. 2015) (an
+agency need only consider “significant and viable”
+alternatives) (quoting National Shooting Sports Foundation,
+Inc. v. Jones, 716 F.3d 200, 215 (D.C. Cir. 2013)).
+
+    Fourth, the Transportation Petitioners argue that, given the
+FCC’s new factual findings since the 1999 rulemaking and the
+regulated parties’ reliance interests, the FCC did not adequately
+explain its change of policy.
+
+      We again disagree. When changing policies, an agency
+must show “that the new policy is permissible under the statute,
+that there are good reasons for it, and that the agency believes
+it to be better.” Fox Television, 556 U.S. at 515. Here, the FCC
+explained that the use of the spectrum changed greatly in the
+last twenty years (specifically, demand by unlicensed devices
+such as Wi-Fi routers has grown) and that intelligent
+transportation systems have not developed as anticipated. Use
+of the 5.850-5.925 GHz Band, 36 FCC Rcd. 1,444, ¶¶ 7, 14-25,
+31, 38-39. The FCC thus reasonably determined that
+“reserving the entire 5.9 GHz band for [intelligent
+transportation systems] is not the most efficient or effective use
+of that band” and that “changes to the band plan [the FCC]
+adopted over 20 years ago are essential to maximize the use of
+this valuable spectrum for the public’s greatest well-being.” Id.
+¶ 27.
+                               14
+     Fifth, the Transportation Petitioners argue that the FCC
+failed to consider the possibility that unlicensed devices in the
+lower 45 megahertz would interfere with communications in
+the upper 30 megahertz. The FCC, however, addressed that
+issue at length. See id. ¶ 58-94. It even put restrictions on
+unlicensed devices using the lower 45 megahertz — such as
+emissions limits and indoor-use-only rules — to keep those
+devices from interfering with intelligent transportation systems
+in the upper 30 megahertz. Id. The Transportation Petitioners
+offer no reason to conclude that the FCC was arbitrary and
+capricious when it determined that those restrictions allay any
+interference concerns. Mobile Relay Associates v. FCC, 457
+F.3d 1, 8 (D.C. Cir. 2006) (“We uphold the Commission if it
+makes a technical judgment that is supported with even a
+modicum of reasoned analysis, absent highly persuasive
+evidence to the contrary.” (cleaned up)).
+
+                               C
+
+    The FCC’s order did not unlawfully revoke or
+fundamentally change existing licenses to use the 5.9 GHz
+band.
+
+     The FCC may modify the licenses it issues when such
+modifications “promote the public interest.” 47 U.S.C.
+§ 316(a)(1). That said, Section 312 of the Communications Act
+forbids the FCC from “revoking” FCC-issued licenses outside
+limited circumstances that are not present here, and Section 316
+does not permit the FCC to “fundamentally” modify licenses.
+See 47 U.S.C. §§ 312, 316; PSSI Global Services, 983 F.3d at
+7. But a license is not revoked or fundamentally modified as
+long as the licensee can “provide essentially the same services”
+after the change, even if those services require new technology.
+PSSI Global Services, 983 F.3d at 8 (quoting Community
+Television, Inc. v. FCC, 216 F.3d 1133, 1141 (D.C. Cir. 2000));
+                               15
+id. at 9 (“Unless it harms the services ultimately provided, the
+need to make such technological adjustments does not impose
+any impermissibly fundamental change.”). And “a reduction
+in spectrum that leaves licensees with enough capacity to meet
+current and future needs does not remotely constitute a
+revocation.” Id. at 9.
+
+     As the FCC explained in its order, that’s the case here. The
+FCC left the Transportation Petitioners with 30 megahertz of
+the spectrum in which to use their licenses. And it reasonably
+determined that that reallocation “will not meaningfully
+interfere with the ability of incumbents to provide the same
+types of safety-related services that they are currently
+offering.” Use of the 5.850-5.925 GHz Band, 36 FCC Rcd.
+1444, ¶ 118. Nor will it disrupt any reasonably foreseeable
+“concrete business plans” of licensees because licensees can
+shift their communications to the remaining 30 megahertz. Id.
+¶ 120.
+
+     The Transportation Petitioners argue that the upper 30
+megahertz is not in fact sufficient to support their intelligent
+transportation systems. But we’ve already explained at length
+that the FCC reasonably disagreed with the Transportation
+Petitioners on that front. Supra Section II.B.
+
+                           *   *    *
+
+    We dismiss the appeal and deny the petitions for review.
+
+                                                    So ordered.
+

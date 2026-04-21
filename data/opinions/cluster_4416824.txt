@@ -1,0 +1,643 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued March 20, 2017                 Decided August 8, 2017
+
+                        No. 16-1061
+
+    SUSQUEHANNA INTERNATIONAL GROUP, LLP, ET AL.,
+                    PETITIONERS
+
+                              v.
+
+          SECURITIES AND EXCHANGE COMMISSION,
+                       RESPONDENT
+
+             OPTIONS CLEARING CORPORATION,
+                      INTERVENOR
+
+
+            On Petition for Review of an Order of
+           the Securities & Exchange Commission
+
+
+    David H. Thompson argued the cause for petitioners. With
+him on the briefs were Howard C. Nielson Jr., Peter A.
+Patterson, and Harold S. Reeves.
+
+     Robert Battalio and Robert Jennings, pro se, were on the
+brief for amicus curiae Robert Battalio and Robert Jennings in
+support of petitioners.
+
+    Tracey A. Hardin, Assistant General Counsel, Securities
+and Exchange Commission, argued the cause for respondent.
+With her on the brief were Anne K. Small, General Counsel,
+                                 2
+
+Sanket J. Bulsara, Deputy General Counsel, Michael A. Conley,
+Solicitor, and Emily T.P. Rosen, Senior Counsel.
+
+    William J. Nissen argued the cause for intervenor. With
+him on the brief were Steven E. Sexton and Kristen E. Rau.
+
+    Before: GARLAND, Chief Judge, GRIFFITH, Circuit Judge,
+and SENTELLE, Senior Circuit Judge.
+
+    Opinion for the court filed by Chief Judge GARLAND.
+
+     GARLAND, Chief Judge: Seeking to increase its capital
+reserves, the Options Clearing Corporation proposed a change
+in its rules. That change was subject to approval by the
+Securities and Exchange Commission, which granted approval
+without itself making the findings and determinations prescribed
+by the Securities Exchange Act of 1934. Instead, it effectively
+abdicated that responsibility to the Corporation. Because this
+does not represent the kind of reasoned decisionmaking required
+by either the Exchange Act or the Administrative Procedure Act,
+we remand the case to the Commission for further proceedings.
+
+                                 I
+
+     The Options Clearing Corporation (OCC), a Delaware
+corporation, is a clearing agency that facilitates trades in options
+and other financial instruments. It is the only clearing agency
+for standardized U.S. options listed on U.S. national securities
+exchanges. Given its significant role, OCC has been designated
+a systemically important financial market utility and is closely
+regulated by the Securities and Exchange Commission (SEC).
+See Order Approving Proposed Rule Change Concerning the
+Options Clearing Corporation’s Capital Plan, 81 Fed. Reg. 8294,
+8294 (Feb. 18, 2016) (“Order”).
+                                3
+
+     At the time of the events in this case, there were twelve
+national securities exchanges on which listed options were
+traded. Five were equal shareholders in OCC; seven were
+nonshareholders, lacking any ownership interest. All of the
+exchanges clear their trades in listed options through OCC. In
+addition to the exchanges, OCC has “clearing members” that
+clear and settle options trades for their customers through the
+exchanges. See Order, 81 Fed. Reg. at 8294; OCC, Bylaws Art.
+V (amended 2009).
+
+     OCC charges clearing members fees for the transactions
+they make. For each upcoming year, OCC sets the fees to cover
+the year’s projected expenses, plus a buffer. If, at the end of the
+year, OCC has taken in more fees than needed to cover its
+expenses and maintain its reserves, it refunds the excess fees to
+the clearing members, allocated in proportion to what they had
+paid. Until the developments at issue here, OCC refunded all
+such excess fees. See Notice of Filing of a Proposed Rule
+Change Concerning a Proposed Capital Plan, 80 Fed. Reg. 5171,
+5175 (Jan. 30, 2015) (“Notice of Proposed Rule Change”).
+
+     This case concerns OCC’s attempt to boost its capital
+reserves and, in order to do so, to alter how fees and refunds are
+calculated. In 2014, OCC began evaluating its capital level and
+eventually determined that it did not have enough to cover
+“business, operational, and pension risks.” Order, 81 Fed. Reg.
+at 8296. While these capital needs exclude counterparty and on-
+balance-sheet risks, which are covered by billions of dollars in
+other funds, they are still significant. OCC determined that on
+top of its existing capital reserves of $25 million, it needed an
+additional $222 million of capital immediately on hand, plus
+another $117 million in backup “Replenishment Capital” that it
+could call upon if necessary. See Notice of Proposed Rule
+Change, 80 Fed. Reg. at 5172; Order, 81 Fed. Reg. at 8295-96.
+                                4
+
+     To amass those reserves, OCC developed a Capital Plan.
+Under the Plan, OCC’s five shareholder exchanges would make
+immediate capital contributions to reach OCC’s current capital
+target and also pledge to provide Replenishment Capital upon
+request. The Plan compensates those contributions with
+dividends paid out of OCC’s fees. In particular, after fees are
+applied to OCC’s operating expenses, and then used to restore
+capital reserves if they have dipped, the remaining unused fees
+are split between dividends and refunds. Approximately half of
+the unused fees go to shareholders as dividends; approximately
+half are refunded to clearing members. In other words, whereas
+clearing members previously received all of the excess fees as
+refunds, the Plan diverts roughly half of those refunds to
+dividends. See Notice of Proposed Rule Change, 80 Fed. Reg.
+at 5173-75.
+
+     The Plan makes other changes to OCC’s fee practices as
+well. The buffer used to calculate each year’s fees -- that is, the
+amount by which that year’s projected expenses are inflated to
+arrive at the amount to be charged as upfront fees -- decreases
+under the Plan from 31% to 25%. And the Plan provides for a
+permanent end to refunds (but not dividends) if Replenishment
+Capital becomes necessary and is not repaid in 24 months or if
+the target capital requirement is not restored within that period.
+See id.
+
+     OCC’s Plan cannot go into effect unless approved by the
+SEC because OCC is a “self-regulatory organization” under the
+Securities Exchange Act of 1934, 15 U.S.C. § 78a et seq.
+(“Exchange Act”). In early 2015, OCC brought its Plan to the
+SEC, which published a Notice of Filing of a Proposed Rule
+Change and solicited public comments. The SEC issued a final
+Order approving the Plan in early 2016. See Order, 81 Fed. Reg.
+at 8294-95.
+                                5
+
+     Petitioners -- two nonshareholder exchanges (Miami
+International Securities Exchange, LLC and BOX Options
+Exchange LLC), a clearing member (KCG Americas LLC, a
+subsidiary of Petitioner KCG Holdings), and a market
+participant (Susquehanna International Group, LLP) -- sought
+judicial review. They also moved to stay the SEC’s Order to
+prevent the OCC’s Plan from going into effect, but a panel of
+this court denied the stay. Susquehanna Int’l Grp., LLP v. SEC,
+No. 16-1061 (D.C. Cir. Feb. 23, 2016) (order denying motion
+for stay). As a consequence, OCC currently operates according
+to the Plan.
+
+                                II
+
+     We have jurisdiction to review the SEC’s Order pursuant to
+15 U.S.C. § 78y(a)(3). We review the Order under the
+Administrative Procedure Act (APA), which requires us to hold
+unlawful agency action that is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law” or that is
+“unsupported by substantial evidence.” 5 U.S.C. § 706(2)(A),
+(E); see 15 U.S.C. § 78y(a)(4); NetCoalition v. SEC, 615 F.3d
+525, 532 (D.C. Cir. 2010). To satisfy the “arbitrary and
+capricious” standard, “the agency must examine the relevant
+data and articulate a satisfactory explanation for its action
+including a ‘rational connection between the facts found and the
+choice made.’” Motor Vehicle Mfrs. Ass’n v. State Farm Mut.
+Auto. Ins. Co., 463 U.S. 29, 43 (1983) (quoting Burlington Truck
+Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).
+
+     OCC is registered as a clearing agency with the SEC, and
+is therefore classified as a “self-regulatory organization.” See 15
+U.S.C. §§ 78c(a)(26), 78q-1(b). The SEC “shall approve” a self-
+regulatory organization’s proposed rule change only “if it finds
+that such proposed rule change is consistent with” provisions of
+the Exchange Act.              Id. § 78s(b)(2)(C)(i); see id.
+                                6
+
+§ 78s(b)(2)(C)(ii). In turn, a clearing agency’s rules are
+consistent with the Act only if “the Commission determines
+that” they meet certain specified requirements. Id. § 78q-
+1(b)(3). Petitioners argue that the SEC erred in approving
+OCC’s Plan because it does not meet several of those
+requirements.
+
+     First, the Exchange Act requires that a clearing agency’s
+rules “not impose any burden on competition not necessary or
+appropriate in furtherance of the purposes of” the Act. Id.
+§ 78q-1(b)(3)(I).       Petitioners object that the Plan
+overcompensates shareholder exchanges, which unjustifiably
+burdens competition by nonshareholders. See Pet’rs’ Br. 24.1
+
+     Second, the Act requires that a clearing agency’s rules be
+“designed . . . , in general, to protect investors and the public
+interest.” Id. § 78q-1(b)(3)(F). Petitioners contend that the Plan
+harms investors and the public by transforming OCC from a
+public utility to a profit-seeking monopoly and by increasing the
+fees charged to OCC’s customers. See Pet’rs’ Br. 33-40.
+
+     Third, the same subsection requires that rules not be
+“designed to permit unfair discrimination . . . among participants
+in the use of the clearing agency.” 15 U.S.C. § 78q-1(b)(3)(F).
+Petitioners maintain that the Plan unfairly discriminates between
+shareholder exchanges and nonshareholder exchanges by
+denying nonshareholders the opportunity to contribute capital in
+exchange for dividends. Petitioners argue further that the Plan
+
+
+
+
+    1
+       Petitioners make a similar argument under § 3(f) of the
+Exchange Act, which requires the SEC to “consider . . . whether the
+action will promote . . . competition.” 15 U.S.C. § 78c(f).
+                                 7
+
+discriminates between shareholder exchanges and clearing
+members by denying clearing members compensation for the
+capital they contribute as fees. See Pet’rs’ Br. 41-43.2
+
+     Fourth, the Act requires that a self-regulatory organization
+“comply with . . . its own rules.” 15 U.S.C. § 78s(g)(1). OCC’s
+bylaws provide that nonshareholder exchanges “will be
+promptly provided with information that [OCC’s] Executive
+Chairman considers to be of competitive significance” and that
+a “requesting [nonshareholder exchange] shall be afforded the
+opportunity to make presentations” to OCC’s Board or to a
+committee of the Board.             OCC, Bylaws Art. VIIB,
+Interpretations & Policies § 1.01, .02 (§ 1.01 amended 2014;
+§ 1.02 adopted 2002). Petitioners object that OCC violated both
+provisions by failing to notify nonshareholder exchanges while
+OCC was developing the Plan. See Pet’rs’ Br. 43-48.
+
+     We do not reach any of those arguments, all of which
+contend that the OCC’s Plan is inconsistent with the above-
+described requirements of the Exchange Act. We do not reach
+them because, as Petitioners also argue, the SEC’s Order
+approving the Plan fails in a more basic respect: the
+Commission did not itself “find[]” or “determin[e],” 15 U.S.C.
+§§ 78q-1(b)(3), 78s(b)(2)(C)(i), that the Plan met any of those
+requirements. Instead, the SEC effectively abdicated that
+responsibility to OCC -- the proponent of the Plan and the entity
+whose rule changes the SEC is statutorily obligated to approve
+or disapprove, id. § 78s(b)(2)(C)(i), (ii). Moreover, the SEC’s
+Order reflects little or no evidence of the basis for the OCC’s
+
+
+    2
+        To support these objections, Petitioners also invoke
+§ 17A(b)(3)(D) of the Act, which requires that a clearing agency’s
+rules “provide for the equitable allocation of reasonable dues, fees,
+and other charges among its participants.” 15 U.S.C. § 78q-1
+(b)(3)(D).
+                                8
+
+own determinations -- and few indications that the SEC even
+knew what that evidence was.
+
+    We have rejected this kind of agency “decisionmaking”
+before. In Gerber v. Norton, we held:
+
+         When a statute requires an agency to make a finding as
+         a prerequisite to action, it must do so. Merely
+         “[r]eferencing a requirement is not the same as
+         complying with that requirement.” . . . Nor may the
+         agency delegate its responsibility to the regulated
+         party. See State of Idaho v. ICC, 35 F.3d 585, 596
+         (D.C. Cir. 1994) (holding that the ICC failed to meet
+         its responsibilities under [the National Environmental
+         Policy Act] by “deferr[ing] not only to the judgments
+         of other agencies, but also to that of Union Pacific, the
+         licensee”).
+
+294 F.3d 173, 185-86 (D.C. Cir. 2002) (quoting Sugar Cane
+Growers Coop. v. Veneman, 289 F.3d. 89, 97 (D.C. Cir. 2002)).
+To be sure, SEC appellate counsel acknowledges that the SEC
+cannot “simply accept what [a self-regulatory organization] has
+done,” but rather is “obligated to make an independent review.”
+Oral Arg. Tr. 24. And the SEC’s Order states that the
+Commission did make the necessary findings. See Order, 81
+Fed. Reg. at 8300-04. But “‘[s]tating that a factor was
+considered’ -- or found -- ‘is not a substitute for considering’ or
+finding it.” Gerber, 294 F.3d at 185 (quoting Getty v. Fed.
+Savings & Loan Ins. Corp., 805 F.2d 1050, 1055 (D.C. Cir.
+1986)). As explained below, stating, not finding, is what the
+Commission did here.
+                                 9
+
+                                 A
+
+     The Order’s shortcomings are apparent in its discussion of
+whether the Plan pays dividends to shareholder exchanges at a
+reasonable rate. That is a central issue: if the dividend rate
+represents an unnecessary windfall for shareholders, as
+Petitioners argue, then the Plan may run afoul of the Exchange
+Act’s prohibitions by unnecessarily or inappropriately burdening
+competition, harming the interests of investors and the public, or
+unfairly discriminating against nonshareholders and clearing
+members. See 15 U.S.C. § 78q-1(b)(3)(F), (I). The SEC found
+that the Plan heeds those statutory prohibitions because the
+dividends represent a reasonable return on the shareholders’
+capital contribution. See Order, 81 Fed. Reg. at 8301-03
+(declaring that the dividend level is “appropriate” as
+“compensation” for the costs and risks incurred by the
+shareholders).
+
+     Why did the SEC find the return reasonable? The Order
+says only that the Plan is “designed to set the dividends . . . at a
+level that [OCC’s] Board, with the assistance of independent
+outside financial experts, has determined to be reasonable for the
+cost and risks associated” with the shareholders’ obligations. Id.
+at 8300.
+
+     That explanation raises more questions than it answers.
+Who were those independent experts? How does the SEC know
+they were independent? What analysis did they and OCC’s
+Board perform? How did they measure the “level” of the
+dividends? How did they measure the “cost and risks”? And
+how did they determine that the dividend level was reasonable
+for the associated cost and risks? The Order is silent on all
+counts. Instead, the SEC candidly admits that it simply “rel[ied]
+on the Board’s analysis” of “the rate of return the Stockholder
+Exchanges were receiving for their capital investment.” SEC
+                               10
+
+Br. 30. That is, to decide whether the dividend level was
+reasonable, the SEC took OCC’s word for it.
+
+    This is not the reasoned analysis that the Exchange Act and
+the APA require. The Exchange Act permits the SEC to
+approve OCC’s proposed rule change only “if it finds that” the
+proposal is consistent with the requirements of the Act. 15
+U.S.C. § 78s(b)(2)(C)(i), (ii). That is possible only if the SEC
+“determines that” the rule complies with specified requirements,
+15 U.S.C. § 78q-1(b)(3). Thus, to approve the Plan, the SEC
+must make “find[ings]” and “determin[ations]” -- not merely
+accept those made by OCC. See Gerber, 294 F.3d at 185.
+
+     Nor may the SEC reach a conclusion that is “unsupported
+by substantial evidence” or “arbitrary [and] capricious.” 5
+U.S.C. § 706(2)(A), (E); 15 U.S.C. § 78y(a)(4). That was the
+flaw that led us to vacate an SEC order approving a self-
+regulatory organization’s proposed rule change in NetCoalition,
+615 F.3d at 537-44. There, we faulted the SEC for reaching a
+conclusion despite a “lack of support in the record.” Id. at 541.
+The SEC had tried to rely on statements by the self-regulatory
+organization, but we saw “little” supporting value in the “self-
+serving views of the regulated entit[y].” Id. Here, too, the
+SEC’s unquestioning reliance on OCC’s defense of its own
+actions is not enough to justify approving the Plan. Instead, the
+SEC should have critically reviewed OCC’s analysis or
+performed its own. See Bradford Nat’l Clearing Corp. v. SEC,
+590 F.2d 1085, 1113-14 (D.C. Cir. 1978) (finding the SEC’s
+reasoning inadequate when it approved registration of a clearing
+agency by deferring to the clearing agency’s “business
+judgment” on an issue governed by the Act).
+
+     On appeal, the SEC defends the Order’s approach to the
+dividend rate in several ways. The SEC’s principal argument is
+that it was reasonable for it to trust “the process” undertaken by
+                                  11
+
+OCC. Oral Arg. Tr. 20, 29. Restating the words of the Order,
+the SEC’s brief says that the process included “independent
+analysis” by outside consultants. SEC Br. 31. But the SEC does
+not appear to have identified the consultants or seen their
+analysis, so it came as no surprise that the SEC disclaimed
+reliance on that outside analysis at oral argument. Oral Arg. Tr.
+18. Instead, the SEC ultimately relies on another aspect of
+OCC’s decisionmaking process:             what it describes as
+“arm’s-length negotiations” between those OCC Board directors
+who represented clearing members and those who represented
+shareholders, which culminated in a “supermajority” Board vote
+in favor of the plan. SEC Br. 31, 38 & n.16; see also Oral Arg.
+Tr. 19-20.
+
+     “Trust the process” may be a reasonable slogan for the
+hometown basketball team of lead petitioner Susquehanna
+International Group.3 But the process alone cannot justify the
+dividend rate in this case. For one thing, it is hardly accurate to
+describe the negotiations between Board members as “arm’s
+length.” OCC’s shareholders have effective veto power over
+certain proposals, giving them outsize bargaining power
+compared to clearing members represented on the Board. See
+Letter from James E. Brown, Executive Vice President, OCC, to
+Brent J. Fields, Secretary, SEC at 6 n.10 (Feb. 23, 2015) (J.A. 85
+n.10). Indeed, only four of nine directors representing clearing
+members voted in favor of the Plan, see id. at 7 n.12 (J.A. 86
+n.12), making it less than clear that the process struck an
+appropriate balance between the interests of shareholders and
+clearing members. What is more, not all of the interested parties
+
+
+     3
+       See Trust The Process? 76ers Hope So, Have the No. 1 Pick
+Again, USA TODAY, June 21, 2017 (describing the Philadelphia 76ers’
+strategy that accepts losses in the short term to build a stronger team
+in the long term, embodied by “the three words that have defined the
+organization since the implosion started: Trust The Process”).
+                               12
+
+were even part of the negotiations among Board members. Only
+a small fraction of clearing members are on the Board, and none
+of the nonshareholder exchanges are. See Order Approving
+Proposed Rule Change Concerning a Proposed Capital Plan, 80
+Fed. Reg. 13058, 13060 n.8 (Mar. 12, 2015). So, as to any
+agreement between OCC and shareholders regarding the
+dividend rate, the shareholder exchanges were on both sides of
+the transaction (because they were both OCC Board members
+and recipients of the dividends), while nonshareholder
+exchanges were on neither.
+
+     More fundamentally, the SEC cannot rely on OCC’s
+process totally divorced from any examination of the substance
+of the Plan, especially when the procedural features that the SEC
+cites are little more than the general elements of OCC’s
+governance structure. Indeed, were we to accept this
+justification, that would mean the SEC could or should approve
+nearly any plan OCC proposes -- hardly the result the Exchange
+Act envisions. See, e.g., 15 U.S.C. § 78s(b)(2)(C)(i), (ii) (“The
+Commission shall disapprove a proposed rule change of a
+self-regulatory organization if it does not make a finding” that
+“such proposed rule change is consistent with the requirements
+of” the Act.).
+
+     The SEC also defends its approval of the Plan’s dividend
+rate by arguing that the Plan’s structure guarantees reasonable
+dividends. See Order, 81 Fed. Reg. at 8301 (“The Commission
+believes that various components of the Capital Plan operate to
+set reasonable dividends for the cost and risks associated with
+the Stockholder Exchanges’ contributed and committed
+capital.”); id. at 8303; Oral Arg. Tr. 21. In particular, the SEC
+notes that the Plan sets fees based on a fixed percentage of
+projected costs, and allocates unused fees between dividends
+and refunds in a fixed proportion. Those inputs, the SEC argues,
+                                 13
+
+ensure that the dividend rate will turn out to be reasonable. Oral
+Arg. Tr. 21, 23.
+
+     That reasoning begs the question. The resulting dividend
+rate will only be reasonable if the Plan’s structure (most
+significantly, the portion of unused fees allocated to dividends)
+is reasonable. But the Order does not analyze whether -- or
+explain why -- it is reasonable to allocate roughly half of unused
+fees to dividends, as opposed to using a different percentage or
+a formula other than a fixed proportion of unused fees. In other
+words, the SEC defends its unquestioning reliance on OCC’s
+claim that the dividend rate is reasonable by its unquestioning
+reliance on OCC’s claim that the Plan’s structure is reasonable.
+That is no defense at all.
+
+                                 B
+
+     The SEC’s lack of reasoned decisionmaking in assessing the
+dividend rate is enough to make its Order arbitrary and
+capricious. But that is not the Order’s only flaw. A similar lack
+of reasoned decisionmaking recurs throughout the Order,
+including in the four additional instances that follow.4
+
+     First, the Order fails to support its conclusion that the Plan’s
+capital target is reasonable. Commenters disputed whether the
+Plan raises a reasonable amount of capital at a reasonable pace
+(as OCC argues), or raises more capital more quickly than OCC
+actually needs (as Petitioners argue). As with the dividend-rate
+issue, the Order adopts OCC’s claims at face value. The Order
+accepts that the target is “appropriately designed” simply
+because “OCC represents that it used various measures and took
+
+
+    4
+      We do not mean to imply approval (or disapproval) of other
+aspects of the Order that Petitioners challenge but that we do not
+discuss.
+                                  14
+
+a methodical and reasoned approach.” Order, 81 Fed. Reg. at
+8301 (emphasis added); see also id. at 8300 (“The [OCC] Board
+determined that the historical practice . . . did not allow OCC to
+reach adequate capitalization.”(emphasis added)). The Order
+then relies on that representation in finding the Plan consistent
+with the Act. See id. at 8301 (concluding that the Plan’s capital
+target is not excessive and hence does not burden competition
+more than “necessary or appropriate,” 15 U.S.C. § 78q-1
+(b)(3)(I)); id. at 8300-01 (concluding that the Plan’s capital
+target is appropriately “designed . . . to protect investors and the
+public interest,” § 78q-1(b)(3)(F)).5
+
+    In the Order, the SEC states that it “review[ed] the process
+used by OCC to establish” the target. Order, 81 Fed. Reg. at
+8301. But what was that process? OCC states that “[a]n outside
+consultant conducted a ‘bottom-up’ analysis of OCC’s risks”
+and, “[b]ased on internal operational risk scenarios and loss
+modeling,” OCC quantified its operational and pension risk.
+Notice of Proposed Rule Change, 80 Fed. Reg. at 5172-73. But
+since there is no indication that the SEC knew who the
+consultant was, what analysis he or she conducted, or what
+additional analysis OCC performed, the Commission was in no
+position to make a reasoned finding that OCC’s process was
+sound -- let alone that the resulting capital target was reasonable.
+In short, the SEC’s Order reflects the same lack of reasoned
+decisionmaking when assessing the capital target as it displays
+
+
+
+     5
+       See also Order, 81 Fed. Reg. at 8304 & n.141 (rejecting
+commenters’ suggestions to raise capital through other means, partly
+on the ground that “OCC represents that, in considering alternatives,
+OCC’s Board determined that the Capital Plan was financially
+superior to accumulating capital through fees” (emphases added)); id.
+at 8302-04 (faulting alternative proposals for failing to raise capital
+quickly enough, as “forecasted by OCC”).
+                               15
+
+when assessing the dividend rate. “Trusting the process” is
+simply not enough.
+
+     Second, the SEC was also too quick to accept OCC’s claims
+that the Plan would not increase fees for customers. In
+determining that the Plan is designed to protect investors and the
+public interest, 15 U.S.C. § 78q-1(b)(3)(F), the SEC’s Order
+relies on the proposition that the Plan will “allow[] generally
+lower fees,” Order, 81 Fed. Reg. at 8301, or at least will not
+make higher fees “inevitable,” id. To support that proposition,
+the Order only addresses the Plan’s lowering of upfront fees --
+that is, the amount OCC initially charges clearing members,
+before refunding excess fees at the end of each year. It does not
+take into account the Plan’s reduction of year-end refunds.
+Taking both into account, Petitioners argue that the Plan harms
+investors and the public by driving up net fees. Pet’rs’ Br. 37 &
+n.20.
+
+     The only thing the Order says to justify ignoring net fees in
+favor of focusing on upfront fees is that the Plan is “designed to
+give market participants the benefit of lower upfront transaction
+costs, especially those customer end users who do not receive
+passed through refunds from the clearing member.” Order, 81
+Fed. Reg. at 8302-03 (emphasis added). The underlying
+assumption of this justification must be that there are so few
+market participants who do receive passed-through refunds that
+net fees are irrelevant. But the SEC’s Order does not provide
+record support for that assumption. Instead, it cites, see id. at
+8303 n.127, a portion of the Notice of Filing of a Proposed Rule
+Change, prepared by OCC, stating that “OCC is aware that a
+portion -- possibly a significant portion -- of those refunds are
+not passed through by the clearing members to their end user
+customers.” 80 Fed. Reg. at 5175. That is, the SEC Order’s
+only basis for not taking passed-through refunds into account is
+a statement by OCC, prepared to justify OCC’s own proposal,
+                                16
+
+that a “possibly” significant portion of refunds are not passed
+through. That does not qualify as a “satisfactory explanation,”
+State Farm, 463 U.S. at 43. See NetCoalition, 615 F.3d at 540-
+41 (criticizing the SEC’s reliance on the “self-serving views of
+the regulated entities” in that case).
+
+     Third, the Order fails to give any explanation at all for
+rejecting one of Petitioners’ objections. Petitioners charged the
+Plan with unfair discrimination for treating refunds to clearing
+members differently from dividends to shareholders under the
+following scenario:       If Replenishment Capital becomes
+necessary and is not repaid in 24 months (or if the target capital
+requirement is not restored in the same period), refunds will end
+permanently but dividends can resume. See Notice of Proposed
+Rule Change, 80 Fed. Reg. at 5174-75 (explaining this feature);
+Letter from James E. Brown, Executive Vice President, OCC, to
+Brent J. Fields, Secretary, SEC at 4-5 (Feb. 24, 2015) (J.A. 105-
+06) (discussing objections). The Order does not explain why
+that criticism is unavailing. In fact, as the SEC concedes, the
+Order misstates the Plan feature at issue, incorrectly explaining
+at one point that both refunds and dividends will end
+permanently if Replenishment Capital goes unpaid for 24
+months. Order, 81 Fed. Reg. at 8297; Oral Arg. Tr. 13-14
+(concession by SEC counsel that “that is mistaken”). Hence, not
+only does the Order give no indication that the SEC analyzed
+this Plan feature for compliance with the Act, but it instead
+suggests that the SEC may have misunderstood the feature
+entirely. That double deficiency demonstrates a lack of
+reasoned decisionmaking.
+
+     Finally, the Order gives short shrift to Petitioners’ objection
+that OCC, by failing to notify nonshareholder exchanges earlier
+in its development of the Plan, violated its own bylaws.
+Primarily at issue is OCC’s bylaw requirement that
+nonshareholder exchanges “be promptly provided with
+                              17
+
+information that [OCC’s] Executive Chairman considers to be
+of competitive significance.” OCC, Bylaws Art. VIIB,
+Interpretations & Policies § 1.01 (amended 2014). Despite
+recognizing that there was a dispute over whether the Plan was
+competitively significant, the Order merely notes that “OCC
+represented that it” had “completed all action required to be
+taken under its . . . bylaws.” Order, 81 Fed. Reg. at 8305. On
+remand, the SEC must resolve Petitioners’ argument that OCC
+could not reasonably have considered the Plan to be
+competitively insignificant. Or, if the SEC concludes that this
+does not matter, it must give a reasoned explanation why.
+
+                              III
+
+     Having concluded that the SEC’s Order is arbitrary and
+capricious, unsupported by substantial evidence, and otherwise
+not in accordance with law, we are left with the question of the
+proper remedy. “An inadequately supported rule . . . need not
+necessarily be vacated.” Allied-Signal, Inc. v. U.S. Nuclear
+Regulatory Comm’n, 988 F.2d 146, 150 (D.C. Cir. 1993). “The
+decision whether to vacate depends on ‘the seriousness of the
+order’s deficiencies (and thus the extent of doubt whether the
+agency chose correctly) and the disruptive consequences of an
+interim change that may itself be changed.’” Id. at 150-51
+(quoting Int’l Union, UMW v. Fed. Mine Safety & Health
+Admin., 920 F.2d 960, 967 (D.C. Cir. 1990)).
+
+     Here, the SEC may be able to approve the Plan once again,
+after conducting a proper analysis on remand. Moreover,
+unwinding the Plan in the interim would be -- in Petitioners’
+own words -- a “logistical nightmare.” Pet’rs’ Emergency Mot.
+for Stay 9. Indeed, the parties may well awaken from that
+nightmare just as the SEC decides to rewind the unwinding.
+                               18
+
+     Thankfully, we can avoid that restless night. The SEC and
+OCC assure us that it will be possible to unwind the Plan at a
+later time, see SEC’s Opp’n to Pet’rs’ Emergency Mot. for Stay
+2-3; Oral Arg. Tr. 12 (SEC); id. at 33-34 (OCC), and no party
+contends that the task would be materially more difficult if done
+then rather than now. Thus, with no immediate need to vacate
+the Order, we will remand the case to give the SEC an
+opportunity to properly evaluate the Plan. See Allied-Signal,
+Inc., 988 F.2d at 151 (remanding rather than vacating “because
+of the possibility that the Commission may be able to justify the
+Rule, and the disruptive consequences of vacating”).
+
+                                                    So ordered.
+

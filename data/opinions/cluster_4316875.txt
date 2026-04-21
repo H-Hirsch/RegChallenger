@@ -1,0 +1,886 @@
+                                In the
+
+    United States Court of Appeals
+                 For the Seventh Circuit
+                     ____________________ 
+No. 15‐3756 
+OWNER‐OPERATOR  INDEPENDENT  DRIVERS  ASSOCIATION,  INC., 
+MARK ELROD, and RICHARD PINGEL, 
+                                             Petitioners, 
+
+                                  v. 
+
+UNITED STATES DEPARTMENT OF TRANSPORTATION, et al., 
+                                           Respondents. 
+                     ____________________ 
+            On Petition for Review of the Final Rule of the  
+            Federal Motor Carrier Safety Administration. 
+                          FMCSA‐2010‐0167. 
+                     ____________________ 
+
+  ARGUED SEPTEMBER 13, 2016 — DECIDED OCTOBER 31, 2016 
+                ____________________ 
+
+   Before BAUER, KANNE, and HAMILTON, Circuit Judges. 
+    HAMILTON, Circuit Judge. Since 1935, federal law has regu‐
+lated the hours of service of truck drivers operating in inter‐
+state  commerce.  The  regulations  are  intended  to  reduce  fa‐
+tigue‐related accidents, and they require drivers to keep pa‐
+per  records  showing  their  driving  time  and  other  on‐duty 
+time. Compliance has long been an issue, though, because it 
+2                                                        No. 15‐3756 
+
+is easy to insert an error in paper records, whether intention‐
+ally or not. 
+    In 2012, Congress directed the Department of Transporta‐
+tion to issue regulations to require most interstate commercial 
+motor  vehicles  to  install  electronic  logging  devices  (ELDs). 
+ELDs are linked to vehicle engines and automatically record 
+data relevant to the hours of service regulations: whether the 
+engine is running, the time, and the vehicle’s approximate lo‐
+cation. The devices are intended to improve drivers’ compli‐
+ance  with  the  regulations,  to  decrease  paperwork,  and  ulti‐
+mately  to  reduce  the  number  of  fatigue‐related  accidents. 
+Congress instructed the Department in promulgating the rule 
+to consider other factors as well, such as driver privacy and 
+preventing  forms  of  harassment  enabled  by  the  ELDs.  49 
+U.S.C. § 31137. The Federal Motor Carrier Safety Administra‐
+tion,  which  is  part  of  the  Department  of  Transportation, 
+promulgated the final rule requiring ELDs in 2015. Electronic 
+Logging  Devices  and  Hours  of  Service  Supporting  Docu‐
+ments, 80 Fed. Reg. 78,292 (Dec. 16, 2015) (“Final ELD Rule”), 
+codified in 49 C.F.R. Pts. 385, 386, 390, and 395. 
+    Petitioners  Mark  Elrod,  Richard  Pingel,  and  the  Owner‐
+Operator Independent Drivers Association (OOIDA) brought 
+this action for judicial review of the final rule. Elrod and Pin‐
+gel are professional truck drivers, and OOIDA is a trade or‐
+ganization. They argue that the agency’s final rule should be 
+vacated for five reasons. We uphold the final rule and deny 
+their petition. 
+    Petitioners claim first that the final rule is contrary to law 
+because it permits ELDs that are not entirely automatic. We 
+disagree.  Petitioners’  reading  of  the  statute  seeks  to  pit  one 
+statutory requirement against another rather than allow the 
+No. 15‐3756                                                        3
+
+agency to balance competing policy goals endorsed by Con‐
+gress. Second, petitioners argue that the agency used too nar‐
+row a definition of “harassment” that will not sufficiently pro‐
+tect drivers. This claim also fails. When defining harassment, 
+the  agency  sought  input  from  drivers,  motor  carriers,  and 
+trade organizations; it considered administrative factors; and 
+it  ultimately  provided  a  reasonable  definition  of  the  term. 
+Third, petitioners argue that the agency’s cost‐benefit analysis 
+was inadequate and fails to justify implementation of the ELD 
+rule. However, the agency did not need to conduct a cost‐ben‐
+efit analysis for this rule, which was mandated by Congress. 
+Even  if  such  analysis  were  required,  the  studies  were  ade‐
+quate. Fourth, petitioners argue that the agency did not suffi‐
+ciently  consider  confidentiality  protections  for  drivers.  The 
+agency,  however,  adopted  a  reasonable  approach  to  protect 
+drivers in this regard. 
+    Fifth, petitioners argue that the ELD mandate imposes, in 
+effect,  an  unconstitutional  search  and/or  seizure  on  truck 
+drivers. We find no Fourth Amendment violation. Whether or 
+not the rule itself imposes a search or a seizure, inspection of 
+data recorded on an ELD would fall within the “pervasively 
+regulated  industry”  exception  to  the  warrant  requirement. 
+The agency’s administrative inspection scheme for such infor‐
+mation is reasonable. 
+I. Factual and Regulatory Background 
+   The  agency’s  road  to  the  2015  final  rule  was  long  and 
+rocky. That history is relevant to several of petitioners’ argu‐
+ments, particularly the claims that ELDs must be entirely au‐
+tomatic,  that  ELD  benefits  do  not  outweigh  their  costs,  and 
+that the ELD mandate violates the Fourth Amendment. 
+4                                                        No. 15‐3756 
+
+     A. Federal Regulation of Commercial Motor Vehicles 
+    In the early twentieth century, commercial motor vehicles 
+were  largely  regulated  by  individual  states.  See  John  J. 
+George,  Federal  Motor  Carrier  Act  of  1935,  21  Cornell  L.  Rev. 
+249,  249‐51  (1936).  This  decentralized  system  ran  into 
+dormant commerce clause problems. In a series of cases, the 
+Supreme Court struck down state regulations of commercial 
+motor vehicles that interfered with interstate commerce. See, 
+e.g.,  Buck  v.  Kuykendall,  267  U.S.  307  (1925)  (striking  down 
+state’s attempt to require certificate of “public convenience” 
+to compete in commercial interstate transportation); George W. 
+Bush & Sons Co. v. Maloy, 267 U.S. 317 (1925) (same); Interstate 
+Transit, Inc. v. Lindsey, 283 U.S. 183 (1931) (striking down state 
+tax on privilege of providing interstate bus transportation). In 
+1935, Congress responded by passing the Federal Motor Car‐
+rier Act of 1935, Pub. L. No. 255, § 201, 49 Stat. 543.  
+    The  Act  delegated  authority  to  the  Interstate  Commerce 
+Commission  to  regulate  many  elements  of  interstate  freight 
+and  passenger  motor  vehicle  traffic.  Most  relevant  for  this 
+case, the Act directed the Commission to regulate the maxi‐
+mum hours of service for commercial drivers. Id., § 204(a)(1). 
+Regulating  hours  of  service  was  intended  to  promote  high‐
+way safety by reducing accidents related to driver fatigue. 79 
+Cong. Rec. 12209‐37 (1935). This remains the goal of the hours 
+of service regulations today. Final ELD Rule, 80 Fed. Reg. at 
+78,303. Jurisdiction over the regulations moved to the Federal 
+Highway Administration in 1995 and then to the new Federal 
+Motor  Carrier  Safety  Administration  in  2000. See  Interstate 
+Commerce  Commission  Termination  Act, Pub.  L.  104‐88, 
+109 Stat. 803 (1995); Owner‐Operator Independent Drivers Ass’n 
+No. 15‐3756                                                          5
+
+v. Federal Motor Carrier Safety Admin., 494 F.3d 188, 193 (D.C. 
+Cir. 2007) (discussing regulatory history).  
+    The regulations require drivers to document four possible 
+statuses: (1) driving; (2) on duty, not driving; (3) in the sleeper 
+berth; and (4) off duty. 49 C.F.R. § 395.8(b). They set out max‐
+imum  times  for  driving  and  require  a  minimum  number  of 
+hours  off  duty  each  day.  They  also  establish  the  maximum 
+permissible on‐duty time for each week. 
+    Driver status has been traditionally documented through 
+paper logs called the “Record of Duty Status.” Drivers are re‐
+quired to keep copies of these records for seven days before 
+submitting them to their motor carrier. 49 C.F.R. § 395.8(k)(2). 
+The  carrier  must  retain  copies  for  six  months.  § 395.22(i)(1). 
+Both  drivers  and  carriers must provide these records  to  au‐
+thorized safety officials during roadside inspections or audits. 
+If a driver violates the hours of service or fails to maintain her 
+records accurately, she may be placed out of service. § 395.13. 
+    These paper records have been ongoing sources of concern 
+because they are easy to falsify. For example, a driver could 
+exceed the cap on continuous driving (11 hours), but fail to 
+record the excess hours. § 395.3(a)(3)(i). There is evidence that 
+falsification of paper records occurs on a regular basis. 65 Fed. 
+Reg. 25,540, 25,558 (May 2, 2000) (agency noting that hours of 
+service violations are widespread). The paper records are also 
+vulnerable  to  human  error.  Final  ELD  Rule,  80  Fed.  Reg.  at 
+78,303. These concerns were part of the impetus to update the 
+hours of service regulations. 
+    
+    
+    
+6                                                      No. 15‐3756 
+
+     B. Efforts to Update the Hours of Service Regulations  
+    In 1995, Congress directed the agency to revise the hours 
+of service regulations for commercial motor vehicles. Pub. L. 
+104‐88  § 408,  set  out  as  note  under  49  U.S.C.  § 31136  (1996 
+Supp.). The Agency then tried to modernize the regulations. 
+The  agency’s  proposed  new  rules  have  been  struck  down 
+three times, twice by the Court of Appeals for the District of 
+Columbia Circuit and once by this court.  
+    In 2003 the agency issued a new final rule that overhauled 
+the hours of service rules. 68 Fed. Reg. 22,456 (Apr. 28, 2003). 
+The rule altered various requirements, including the length of 
+the  daily  driving  limit,  the  daily  off‐duty  requirement,  and 
+the  weekly  on‐duty  maximum.  See  id.  at  22,457,  22,501–02. 
+The D.C. Circuit vacated the rule because the “agency failed 
+to consider the impact of the rules on the health of drivers, a 
+factor  the  agency  must  consider  under  its  organic  statute.” 
+Public Citizen  v. Federal  Motor Carrier Safety Admin.,  374 F.3d 
+1209, 1216 (D.C. Cir. 2004).  
+    The agency then issued a revised final rule in 2005. 70 Fed. 
+Reg. 49,978 (Aug. 25, 2005). The D.C. Circuit again held that 
+the agency erred. Owner‐Operator Independent Drivers Ass’n v. 
+Federal  Motor  Carrier  Safety  Admin.,  494  F.3d  188  (D.C.  Cir. 
+2007). This time, the agency violated the Administrative Pro‐
+cedure Act by failing to provide sufficient opportunity for in‐
+terested parties to comment on the method that justified the 
+change in the hours of service rules. The agency also failed to 
+explain sufficiently certain elements of that method. Id. at 193.  
+   Within the agency’s broader efforts to update the hours of 
+service rule was a narrower issue of electronic monitoring. Be‐
+No. 15‐3756                                                               7
+
+fore  promulgating  the  2003  rule,  the  agency  considered  re‐
+quiring electronic on‐board recorders (EOBRs), which are the 
+technical  and  regulatory  predecessors  of  ELDs.  See  65  Fed. 
+Reg. 25,540, 25,598 (May 2, 2000). The agency considered re‐
+quiring EOBRs in response to Congress’s 1995 directive to is‐
+sue an advance notice of proposed rulemaking “dealing with 
+a  variety  of  fatigue‐related  issues  pertaining  to  commercial 
+motor  vehicle  safety  …  including  …  automated  and  tam‐
+perproof recording devices.” Pub. L. 104‐88 § 408, set out as 
+note under 49 U.S.C. § 31136 (1996 Supp.).1 
+    While the proposed rule would have required EOBRs, the 
+agency decided not to require them at that time. 68 Fed. Reg. 
+22,456,  22,488  (Apr.  28,  2003).  The  D.C.  Circuit  vacated  the 
+2003 rule on other grounds but also admonished the agency 
+for failing to respond adequately to the statutory directive to 
+“deal[]  with  …  automated  and  tamperproof  recording  de‐
+vices,”  noting  that  the  agency’s  decision  on  that  point  was 
+“probably flawed.” Public Citizen, 374 F.3d at 1220‐22.  
+    In  response,  the  agency  further  investigated  EOBRs.  In 
+2004, the agency issued an optional advanced notice of pro‐
+posed rulemaking, which indicated that it was still consider‐
+ing EOBR implementation. 69 Fed. Reg. 53,386 (Sept. 1, 2004). 
+Then, in 2007 the agency issued a formal notice of proposed 
+rulemaking  that  considered  three  issues:  (1)  EOBR  perfor‐
+mance standards; (2) mandatory use of EOBRs for motor car‐
+riers that regularly violated hours of service rules; and (3) in‐
+centives  to  promote  voluntary  use  of  EOBRs.  72  Fed.  Reg. 
+
+                                                 
+1 This statute was first directed to the Federal Highway Administration in 
+
+1995, but that agency never took any action. The responsibility then fell to 
+the Federal Motor Carrier Safety Administration. 
+8                                                          No. 15‐3756 
+
+2,340,  2,343  (Jan.  18,  2007).  The  final  rule  issued  in  2010  re‐
+quired,  among  other  things,  that  motor  carriers  “that  have 
+demonstrated serious noncompliance with the HOS [hours of 
+service]  rules  will  be  subject  to  mandatory  installation  of 
+EOBRs.” 75 Fed. Reg. 17,208, 17,208 (Apr. 5, 2010). This rule 
+led to the agency’s third rebuke by the courts.  
+    In 2011, this court vacated the final rule regarding EOBRs. 
+Owner‐Operator Independent Drivers Ass’n v. Federal Motor Car‐
+rier Safety Admin., 656 F.3d 580 (7th Cir. 2011) (“OOIDA I”). As 
+in the D.C. Circuit’s 2003 decision, we found that the agency 
+had failed to consider a statutory requirement: to ensure that 
+electronic monitoring would not be used to harass drivers. 49 
+U.S.C. § 31137(a) (2011). Instead of building in safeguards to 
+prevent EOBRs from being used to harass drivers, the agency 
+had provided “a single conclusory sentence in the final rule‐
+making to the effect that the Agency ‘has taken the[] statutory 
+requirement[]  into  account  throughout  the  final  rule.’” 
+OOIDA I, 656 F.3d at 588. This shortcoming rendered the final 
+rule arbitrary and capricious. See 5 U.S.C. § 706. 
+     C. The Current Challenge to ELDs 
+    In 2012, Congress stepped in again and passed the Com‐
+mercial Motor Vehicle Safety Enhancement Act of 2012. This 
+time  Congress  was  more  direct.  It  ordered  the  Secretary  of 
+Transportation to issue regulations requiring most commer‐
+cial vehicles to “be equipped with an electronic logging de‐
+vice to improve compliance by an operator of a vehicle with 
+hours of service regulations.” 49 U.S.C. § 31137(a)(1). The Act 
+specified several factors for the Secretary to consider in imple‐
+menting the ELD mandate, including the potential for harass‐
+ment, § 31137(a)(2); the potential to reduce paper documents, 
+No. 15‐3756                                                        9
+
+§ 31137(d)(1); driver privacy, § 31137(d)(2); and the confiden‐
+tiality of personal data, § 31137(e). 
+     To comply with this statutory mandate, the agency issued 
+its final rule in 2015. Final ELD Rule, 80 Fed. Reg. 78,292 (Dec. 
+16, 2015). The rule (1) mandates ELDs for all vehicles that are 
+currently  required  to  maintain  hours  of  service  records;  (2) 
+provides technical specifications for ELDs; (3) clarifies the ex‐
+tent  to  which  supporting  paperwork  is  required;  and  (4) 
+adopts provisions to ensure that ELDs are not used to harass 
+drivers. Id. at 78,293. The compliance date for the ELD man‐
+date is set for December 18, 2017, id. at 78,292, and it will affect 
+an estimated 3.5 million drivers. 
+    The rule prescribes requirements for ELDs. They must au‐
+tomatically link to vehicle engines when the engines turn on, 
+and they must record the date, time, location, engine hours, 
+vehicle miles, driver identification, vehicle identification, and 
+motor carrier identification. 49 C.F.R. § 395.26. The collection 
+of this data is intentionally limited in scope. Instead of contin‐
+uously tracking this information, ELDs record only at speci‐
+fied times, such as when the vehicle is turned on, when the 
+duty status changes, and once per hour while driving. Id. In 
+addition,  ELDs  do  not  pinpoint  a  vehicle’s  exact  location. 
+They  provide  location  only  within  a  one‐mile  radius.  Final 
+ELD Rule, 80 Fed. Reg. at 78,296. As with the paper records, 
+authorized  safety  officials  may  review  ELD  data  without  a 
+warrant at roadside inspections and during audits of motor 
+carriers. 49 C.F.R. § 395.24(d); § 395.22(j). 
+                               
+10                                                     No. 15‐3756 
+
+II. Analysis 
+    We  now  turn  to  petitioners’  five  arguments  for  vacating 
+the  2015  final  rule:  (a)  ELDs  will  not  record  enough  infor‐
+mation automatically; (b) the rule fails to protect drivers suf‐
+ficiently from harassment; (c) the rule’s benefits will not out‐
+weigh its costs; (d) the rule fails to protect the confidentiality 
+of personal data collected by ELDs; and (e) the rule violates 
+the  Fourth  Amendment’s  prohibition  against  unreasonable 
+searches and seizures. 
+      A. “Automatically” 
+    Petitioners  first  argue  that  ELDs  must  be  entirely  auto‐
+matic to comply with Congress’s mandate. The statute directs 
+the agency to issue regulations requiring an electronic moni‐
+toring device that “is capable of recording a driver’s hours of 
+service  and  duty  status  accurately  and  automatically.”  49 
+U.S.C. § 31137(f)(1)(A). Petitioners argue that “automatically” 
+means  entirely  automatic;  no  human  involvement  is  permit‐
+ted. They contend the device must be capable of automatically 
+recording when a driver changes between the four statuses: 
+driving; on duty, not driving; sleeper berth; and off duty. Pe‐
+titioners  also  argue  that  if  drivers  must  manually  enter  any 
+information  into  the  ELDs,  this  will  enable  falsification  and 
+defeat the purpose of the statute. For instance, the ELDs pre‐
+scribed in the rule cannot automatically capture on‐duty, non‐
+driving work, such as loading a truck. If a driver must manu‐
+ally input this status, she could falsify the record.  
+    It is unclear what devices petitioners envision, and they do 
+not say. Such a device would need to monitor quite a few var‐
+iations in human activity. If the device must function entirely 
+automatically, how should it record a driver’s change from “off 
+No. 15‐3756                                                            11
+
+duty” to “on‐duty, not driving”? According to petitioners, a 
+driver  may  not  clock‐in  manually;  that  would  not  be  auto‐
+matic. Or what if a driver is in the sleeper berth, but perform‐
+ing on‐duty, non‐driving work, such as reviewing a bill of lad‐
+ing? What type of device could tell the difference without any 
+manual input?  
+    Two  possibilities  are  constant  video  surveillance  or  per‐
+haps some form of bio‐monitoring device.2 But naming these 
+possibilities  shows  why  petitioners  did  not  mention  them: 
+they  would  be  breathtakingly  invasive.  Whether  we  review 
+the agency’s interpretation of “automatically” under Chevron 
+or Skidmore, we are confident that Congress did not intend to 
+require such invasive devices when it used the word “auto‐
+matically.”  See  Chevron,  U.S.A.,  Inc.  v.  Natural  Resources  De‐
+fense  Council,  Inc.,  467  U.S.  837  (1984)  (deferring  to  agency’s 
+reasonable  interpretation  of  ambiguous  statute);  Skidmore  v. 
+Swift & Co., 323 U.S. 134 (1944) (deferring to agency’s statutory 
+interpretation to extent it is persuasive). 
+    First, petitioners read the single word “automatically” in 
+isolation, ignoring the rest of the statute. This runs contrary to 
+the  Supreme  Court’s  repeated  instruction  to  “construe  stat‐
+utes, not isolated provisions.” King v. Burwell, 576 U.S. —, —, 
+135 S. Ct. 2480, 2489 (2015), citing Graham County Soil and Wa‐
+ter Conservation Dist. v. United States ex rel. Wilson, 559 U.S. 280, 
+290 (2010). We interpret statutes “as a symmetrical and coher‐
+ent regulatory scheme,” Gustafson v. Alloyd Co., 513 U.S. 561, 
+                                                 
+2 By way of illustration, NASA has experimented with devices to monitor 
+
+astronauts’ sleep patterns. See, e.g., NASA, Wearable System for Sleep Mon‐
+itoring  in  Microgravity  (Wearable  Monitoring),  July  14,  2016, 
+http://www.nasa.gov/mission_pages/station/research/exper‐
+ments/1279.html.  
+12                                                        No. 15‐3756 
+
+569 (1995), and “fit, if possible, all parts into an harmonious 
+whole,” Federal Trade Comm’n v. Mandel Brothers, Inc., 359 U.S. 
+385,  389  (1959). Here,  other  parts  of  the  statute  provide  im‐
+portant context for the “automatic” requirement. For instance, 
+the statute also directs the agency to ensure that ELDs will not 
+be used to harass drivers, 49 U.S.C. § 31137(a)(2), and to con‐
+sider  drivers’  privacy,  §  31137(d)(2).  These  provisions  show 
+that  Congress  meant  for  the  agency  to  balance  competing 
+goals. The agency understood this and balanced the compet‐
+ing directives in a reasonable manner.  
+    Second,  petitioners’  interpretation  of  “automatically”  is 
+belied by prior use of the word in precisely this context. When 
+Congress was drafting the 2012 Act, it was aware of the EOBR 
+rule  this  court  vacated  in  2011.  See  S. Rep.  No.  112‐238  at  4 
+(2012)  (discussing  EOBRs).  The  2012  statutory  mandate  for 
+ELDs  in  49  U.S.C.  §  31137  used  the  same  language  that  de‐
+scribed EOBRs in the previous agency rule: devices “capable 
+of recording a driver’s hours of service and duty status accu‐
+rately and automatically.” 49 C.F.R. § 395.2 (2010). If Congress 
+had intended a very different sort of device—such as a bio‐
+monitor—it would have given some indication. Instead, Con‐
+gress  used  the  same  phrase,  strongly  implying  that  it  in‐
+tended a device with similar capabilities and limitations.  
+   Third, under petitioners’ reading of the statute, Congress 
+hid  a  sweeping  change—all‐encompassing  surveillance  of 
+commercial drivers—in the interpretation of the word “auto‐
+matically.”  We  are  confident  that  Congress  did  not  intend 
+that. In construing arguably ambiguous statutory terms, it is 
+usually prudent to assume that Congress does not “alter the 
+fundamental details of a regulatory scheme in vague terms or 
+ancillary  provisions.”  Whitman  v.  American  Trucking  Ass’ns, 
+No. 15‐3756                                                      13
+
+531 U.S. 457, 468 (2001). More colloquially, Congress does not 
+“hide elephants in mouseholes.” Id. We do not interpret “au‐
+tomatically”  to  require  constant  video  surveillance  or  bio‐
+monitors. The ELDs prescribed by the agency function “auto‐
+matically” within the meaning of § 31137. 
+   B. Driver “Harassment” 
+    Petitioners’ second argument takes the tack opposite from 
+the first: the final rule should be vacated because it does not 
+protect drivers sufficiently from harassment. As noted, we va‐
+cated the 2011 rule because the agency failed to consider the 
+statutory mandate to “ensure that the devices are not used to 
+harass vehicle operators.” OOIDA I, 656 F.3d at 582, citing 49 
+U.S.C. § 31137(a).  
+    After our earlier decision, the agency sought input to de‐
+termine how ELDs might be used to harass drivers. 76 Fed. 
+Reg. 20,611 (Apr. 13, 2011). In 2012, the agency conducted two 
+public  listening  sessions,  with  options  for  online  participa‐
+tion. See Final ELD Rule, 80 Fed. Reg. at 78,320. It also con‐
+ducted a survey of drivers and motor carriers regarding the 
+potential  for  ELD‐related  harassment.  Id.  at  78,298.  The 
+agency received substantial feedback from drivers, motor car‐
+riers,  and  trade  associations.  It  incorporated  some  of  these 
+suggestions into its final rule, including several suggestions 
+from petitioner OOIDA. Id. at 78,321. 
+    For  purposes  of  this  rule,  the  agency  ultimately  defined 
+harassment as “an action by a motor carrier toward a driver 
+… involving the use of information available to the motor car‐
+rier through an ELD … that the motor carrier knew, or should 
+have known, would result in the driver violating § 392.3 [pro‐
+hibiting  driving  when  abilities  may  be  impaired  by  fatigue, 
+14                                                      No. 15‐3756 
+
+illness,  or  “any  other  cause”]  or  part  395  [hours  of  service 
+rules].” 49 C.F.R. § 390.36(a). In other words, ELD‐related har‐
+assment  can  take  two  forms:  when  a  motor  carrier  uses  an 
+ELD to encourage a driver to drive (1) when the driver’s abil‐
+ity  is  somehow  impaired;  or  (2) in  violation  of  the  hours  of 
+service rules. 
+   Petitioners contend this definition is too narrow. They ar‐
+gue  that  by  linking  harassment  to  driver  impairment  and 
+hours of service, the rule protects drivers from only a “very 
+limited subset” of possible harassment. Similar to their argu‐
+ment  about  “automatically,”  petitioners  claim  that  since  the 
+term  “harassment”  is  unqualified  in  the  statute,  it  must  in‐
+clude every possible form of harassment. 
+    On this issue the agency’s interpretation of “harassment” 
+is entitled to deference under Chevron, U.S.A., Inc. v. Natural 
+Resources  Defense  Council,  Inc.,  467  U.S.  837  (1984).  Under 
+Chevron’s two‐part test, we first ask if, using the “traditional 
+tools of statutory construction,” Congress has “directly spo‐
+ken to the precise question at issue.” Id. at 842, 843 n.9. If not, 
+we  proceed  to  Chevron’s  second  step  and  ask  whether  the 
+agency’s interpretation was “based on a permissible construc‐
+tion of the statute.” Id. at 843.  
+    Here,  Congress  has  not  “directly  spoken”  to  the  precise 
+meaning and scope of the “harassment” mandate. As we said 
+in 2011, the term harassment is “undefined in the statute and 
+thus require[s] some amplification.” OOIDA I, 656 F.3d at 588. 
+Since Congress did not fill in the precise content, we assume 
+that  the  “statute’s  ambiguity  constitutes  an  implicit  delega‐
+tion from Congress to the agency to fill in the statutory gaps.” 
+King v. Burwell, 576 U.S. at —, 135 S. Ct. at 2488, quoting FDA 
+v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 159 (2000). 
+No. 15‐3756                                                          15
+
+At Chevron’s second step, the agency’s interpretation is reason‐
+able. 
+    Like the statute itself, the agency linked the definition of 
+harassment to the use of ELDs. The agency explained that it 
+intentionally tied the definition of harassment to specific reg‐
+ulatory violations to provide “objective criteria” for managing 
+harassment  allegations.  Final  ELD  Rule,  80  Fed.  Reg.  at 
+78,326.  The  agency  claims  this  will  help  its  administrators, 
+who are located throughout the country, address harassment 
+complaints in a consistent and timely manner. Id. 
+    The agency also bolstered its harassment definition in re‐
+sponse to specific concerns raised by drivers during the no‐
+tice‐and‐comment process. For instance, a number of drivers 
+expressed concern that motor carriers would use ELDs to in‐
+terrupt  their  sleep.  Id.  at  78,323,  78,326.  In  response,  the 
+agency required ELDs to include a mute function or volume 
+control.  49  C.F.R.  Pt.  395,  Subpt.  B,  App.  A  4.7.1(a).  Drivers 
+also expressed concern that carriers might pressure them to 
+alter their ELD records. Final ELD Rule, 80 Fed. Reg. at 78,320, 
+78,323, 78,325. In response, the agency required that ELDs be 
+made tamper‐resistant, and the devices must retain a copy of 
+their original records even if edited. Id. at 78,303. In addition, 
+the  agency  adopted  two  specific  proposals  from  petitioner 
+OOIDA:  it  is  expressly  unlawful  for  motor  carriers  to  use 
+ELDs to harass drivers, and the agency established a process 
+for drivers to file harassment complaints. Id. at 78,321.  
+    The  rule  complies with the statutory mandate  to  protect 
+drivers from harassment. The agency sought input from vari‐
+ous  stakeholders,  considered  logistical  and  administrability 
+factors,  and  addressed  specific  concerns  raised  during  out‐
+16                                                      No. 15‐3756 
+
+reach sessions. In OOIDA I, we said that the definition of har‐
+assment needed elaboration. The agency has provided it in a 
+reasonable way. 
+    Moreover,  petitioners  have  not  identified  an  instance  of 
+harassment  that  the  agency’s  definition  will  leave  unpro‐
+tected.  The  one  example  that  petitioners  offer  is  based  on  a 
+mistake.  They  argue  that  a  motor  carrier  might  pressure  a 
+driver to continue driving during dangerous weather condi‐
+tions. Since this does not violate the hours of service rules, pe‐
+titioners reason, it would not be considered “harassment” un‐
+der  the  rule’s  definition.  That  is  incorrect.  This  situation 
+would fall under the other portion of the agency’s definition, 
+which  covers  situations  where  a  motor  carrier  pressures  a 
+driver to drive when her ability is impaired for any reason. 49 
+C.F.R.  §  392.3  (noting  that  motor  carrier  may  not  require  a 
+driver  to  operate  a  commercial  vehicle  “while  the  driver’s 
+ability or alertness is so impaired, or so likely to become im‐
+paired, through fatigue, illness or any other cause, as to make it 
+unsafe for him/her to begin or continue to operate the com‐
+mercial motor vehicle”) (emphasis added). The agency’s defi‐
+nition  of  harassment  thus  reaches  petitioners’  hypothetical. 
+And  even  if  some  forms  of  potential  harassment  might  fall 
+outside the agency’s definition, that would not render its def‐
+inition unreasonable. 
+      C. Cost‐Benefit Analysis 
+    Petitioners next challenge the agency’s analysis of the costs 
+and benefits of the ELD rule. They argue that the agency’s cal‐
+culation  of  the  benefits  is  flawed  because  (1)  ELDs  will  not 
+improve hours of service compliance because they are not en‐
+tirely automatic; and (2) the studies indicating otherwise are 
+unreliable. We also reject this challenge. The agency was not 
+No. 15‐3756                                                           17
+
+required to conduct a cost‐benefit analysis for this particular 
+rule.  Even  if  it  had  been  required  to  do  so,  its  studies  were 
+sufficient.  
+    Requiring  ELDs  was  not  left  to  the  discretion  of  the 
+agency;  Congress  mandated  it.  In  the  2012  legislation,  Con‐
+gress  did  not  instruct  the Agency  to  consider  requiring  elec‐
+tronic monitoring, as it had in the Interstate Commerce Com‐
+mission Termination Act of 1995. See Pub. L. 104‐88 § 408, set 
+out as note under 49 U.S.C. § 31136 (1996 Supp.). In 2012, Con‐
+gress  simply  ordered  the  agency  to  require  ELDs.  Section 
+31137(a) states that the Secretary “shall prescribe regulations 
+…  requiring”  commercial  motor  vehicles  to  be  “equipped 
+with  an  electronic  logging  device.”  Congress  instructed  the 
+agency to consider certain other factors such as the potential 
+for  harassment,  § 31137(a)(2);  the  potential  to  reduce  paper 
+documents,  § 31137(d)(1);  driver  privacy,  § 31137(d)(2);  and 
+the confidentiality of personal data, § 31137(e). Congress did 
+not condition issuance of the rule on a cost‐benefit analysis.  
+     Petitioners claim that consideration of the costs and bene‐
+fits  of  the  §  31137  ELD  mandate  is  required  under  §  31136. 
+That is not correct. While § 31136 requires the agency to con‐
+sider costs and benefits when promulgating minimum safety 
+standards  for  commercial  motor  vehicles,  § 31136(c)(2)(A), 
+that  requirement  is  expressly  limited  to  regulations  “under 
+this section.” § 31136(c)(2). It does not apply to § 31137, which 
+contains the ELD mandate.  
+    Section  31136  provides  additional  evidence  that  the 
+agency was not required to perform a cost‐benefit analysis or 
+to ensure that benefits would exceed costs when implement‐
+ing the ELD mandate. Congress knows how to require rule‐
+makers  to  follow  cost‐benefit  analyses  when  it  wants,  as 
+18                                                       No. 15‐3756 
+
+§ 31136 shows. See, e.g., Whitman v. American Trucking Ass’ns, 
+531 U.S. 457, 467 (2001) (EPA not permitted to consider costs 
+when setting ambient air  quality  standards,  in  part because 
+authority to consider cost had “elsewhere, and so often, been 
+expressly granted” in Clean Air Act, but was not granted for 
+standards in question). Even if the agency had done no cost‐
+benefit analysis here, that would not invalidate the rule. 
+    In any event, the agency’s studies here were sufficient to 
+justify the rule. In the Regulatory Impact Analysis, the agency 
+relied on two studies. The first examined five motor carriers 
+that had implemented electronic monitoring in their fleets for 
+at least one year. This resulted in data on 8,545 roadside in‐
+spections of 5,792 commercial motor vehicles. Naturally, this 
+sample  size  was  relatively  small  because  the  ELD  mandate 
+had  not  yet  been  implemented  at  the  national  level.  The 
+agency supplemented this study with its Roadside Interven‐
+tion Model. 
+    The Roadside Intervention Model estimated the reduction 
+in crashes that would result from a decrease in regulatory vi‐
+olations. To do this, the agency correlated the type and length 
+of driving violations to crash risk. See U.S. Dep’t Trans., Reg‐
+ulatory Impact Analysis §§ 2.5.4; 4.2–4.2.4 (Nov. 2015). Using 
+data from January 2005 to September 2009, which involved 9.7 
+million roadside interventions, the agency estimated that the 
+ELD  mandate  would  result  each  year  in  26  lives  saved,  562 
+injuries  avoided,  and  1,844  crashes  avoided.  Id.,  Executive 
+Summary at vi, Table 4. While petitioners urge us to second‐
+guess  the  agency’s  statistical  judgment  calls,  we  find  that  it 
+exercised its expertise reasonably. See Public Citizen v. Federal 
+Motor  Carrier  Safety  Admin.,  374  F.3d  1209,  1221  (D.C.  Cir. 
+2004)  (“The  agency’s  job  is  to  exercise  its  expertise  to  make 
+No. 15‐3756                                                              19
+
+tough choices about which of the competing estimates is most 
+plausible, and to hazard a guess as to which is correct, even if 
+the lack of a ‘significant market for such [electronic logging] 
+devices’ means that the estimate will be imprecise.”).3 
+     D. Confidentiality of ELD Information  
+    Section 31137(e) requires the agency to provide safeguards 
+to preserve the confidentiality of the data collected by ELDs. 
+Petitioners  argue  that  the  agency  has  failed  to  do  so.  They 
+claim that this situation parallels OOIDA I, where the agency 
+simply failed to consider a factor mandated by statute (in that 
+case,  driver  harassment)  beyond  “a  single  conclusory  sen‐
+tence in the final rulemaking.” OOIDA I, 656 F.3d at 588. Here, 
+however, the agency provided  a sufficient response  by con‐
+sidering confidentiality in several respects. 
+    First, as a general matter, the agency will not maintain the 
+ELD  data  itself.  Instead,  drivers  and  motor  carriers  are  re‐
+sponsible  for  maintaining  and  storing  the  information.  49 
+C.F.R.  § 395.24(d);  § 395.22(i)(1). The final rule also  requires 
+motor carriers to “retain a driver’s ELD records so as to pro‐
+tect a driver’s privacy in a manner consistent with sound busi‐
+ness practices.” § 395.22(i)(2).  
+
+
+                                                 
+3 Even if petitioners were correct that the agency needed to conduct a cost‐
+
+benefit analysis and that the agency’s studies were inadequate, the bene‐
+fits of ELDs would still outweigh the costs. Petitioners do not challenge 
+the accuracy of the agency’s estimate of total paperwork savings from the 
+ELD mandate, nor do they challenge the agency’s estimate of total costs of 
+the mandate. Even apart from the benefits of accidents prevented, the es‐
+timated paperwork savings alone outweigh the costs of the ELD mandate. 
+See U.S. Dep’t Trans., Regulatory Impact Analysis, Executive Summary at 
+v (Nov. 2015). 
+20                                                         No. 15‐3756 
+
+    Second, the agency noted that existing regulations “gov‐
+ern the release of private information, including requests for 
+purposes of civil litigation.” Final ELD Rule, 80 Fed. Reg. at 
+78,322,  citing  49  C.F.R.  Pts.  7  and  9.  The  agency  also  high‐
+lighted  broader  federal  privacy  laws  that  will  govern  ELD 
+data. Id.; see also Privacy Act, 5 U.S.C. § 552a (regulating the 
+maintenance and use of agency records maintained on indi‐
+viduals). In this way, the agency showed that it considered the 
+existing  backdrop  of  confidentiality  protections  before  issu‐
+ing new rules.  
+    Third, the agency said it will redact personal information 
+before  releasing  confidential  ELD‐related  data:  “To  protect 
+data of a personal nature unrelated to business operations, the 
+Agency would redact such information included as part of the 
+administrative record before a document was made available 
+in the public docket.” Final ELD Rule, 80 Fed. Reg. at 78,322. 
+    The agency’s treatment of the confidentiality requirement 
+is sufficient. It is a far cry from the prior lack of treatment of 
+the harassment mandate in OOIDA I. While petitioners may 
+have  liked  additional  protections,  the  agency’s  treatment  of 
+the  confidentiality  requirement  was  not  arbitrary  or  capri‐
+cious.  
+      E. The Fourth Amendment 
+    Petitioners claim that the ELD mandate is an unconstitu‐
+tional “search” and “seizure.” They also argue that the rule 
+does  not  fall  within  the  Fourth  Amendment’s  exception  for 
+“pervasively regulated industries.” Petitioners’ arguments are 
+unpersuasive. We need not resolve whether the ELD mandate 
+constitutes  a  search  or  a  seizure.  Even  if  it  did,  it  would  be 
+No. 15‐3756                                                      21
+
+reasonable under the Fourth Amendment exception for per‐
+vasively regulated industries.  
+    The Fourth Amendment provides: “The right of the peo‐
+ple to be secure in their persons, houses, papers, and effects, 
+against unreasonable searches and seizures, shall not be vio‐
+lated, and no Warrants shall issue, but upon probable cause.” 
+As a general rule warrantless searches are “per se unreasona‐
+ble under the Fourth Amendment—subject only to a few spe‐
+cifically established and well‐delineated exceptions.” Arizona 
+v. Gant, 556 U.S. 332, 338 (2009), citing Katz v. United States, 389 
+U.S.  347,  357  (1967).  This  protection  applies  to  commercial 
+property as well as to homes. Marshall v. Barlow’s, Inc., 436 U.S. 
+307, 312 (1978).  
+    One  established  exception  is  for  administrative  inspec‐
+tions  of  “pervasively  regulated  industries.”  In  these  indus‐
+tries,  reasonable  expectations  of  privacy  are  diminished  be‐
+cause an individual who “embarks upon such a business … 
+has voluntarily chosen to subject himself to a full arsenal of 
+governmental  regulation.”  Id.  at  313.  In  such  industries, 
+Fourth  Amendment  protections  do  not  disappear  entirely. 
+Administrative  inspections  must  still  be  reasonable.  See 
+Brigham City v. Stuart, 547 U.S. 398, 403 (2006) (“[T]he ultimate 
+touchstone of the Fourth Amendment is ‘reasonableness.’”). 
+    To be eligible for the exception, administrative inspections 
+in  pervasively  regulated  industries  must  meet  a  three‐part 
+reasonableness  test:  (1)  the  regulatory  scheme  must  be  in‐
+formed by a substantial government interest; (2) the warrant‐
+less  inspections  must be  necessary  to  further  the  regulatory 
+scheme; and (3) the inspection program must provide a con‐
+stitutionally  adequate  substitute  for  a  warrant.  New  York  v. 
+Burger, 482 U.S. 691, 702‐03 (1987). Our Fourth Amendment 
+22                                                      No. 15‐3756 
+
+analysis of the ELD mandate requires two steps. First, we hold 
+that commercial trucking is a pervasively regulated industry. 
+We then explain why the ELD mandate is a “reasonable” ad‐
+ministrative  inspection  within  the  meaning  of  the  Fourth 
+Amendment. 
+       1. Pervasively Regulated Industries 
+    At least six other circuits have concluded that the industry 
+is pervasively regulated for purposes of the Fourth Amend‐
+ment. See United States v. Delgado, 545 F.3d 1195, 1201‐02 (9th 
+Cir. 2008) (collecting cases). We agree. 
+    The Supreme Court first examined the pervasively regu‐
+lated industry exception in Colonnade Catering Corp. v. United 
+States, 397 U.S. 72 (1970), and returned to it most recently in 
+City of Los Angeles v. Patel, 576 U.S. —, —, 135 S. Ct. 2443, 2454–
+57 (2015). The Court has recognized four industries that fall 
+within  this  exception:  the  sale  of  liquor,  Colonnade  Catering 
+Corp.,  397  U.S.  at  72;  dealing  in  firearms,  United  States  v. 
+Biswell, 406 U.S. 311 (1972); mining, Donovan v. Dewey, 452 U.S. 
+594 (1981); and automobile junkyards, New York v. Burger, 482 
+U.S. 691 (1987). The Court has also held that two industries 
+are not pervasively regulated. Barlow’s, Inc., 436 U.S. at 313–14 
+(rejecting argument that “all businesses involved in interstate 
+commerce”  are  pervasively  regulated);  Patel,  576  U.S.  at  —, 
+135 S. Ct. at 2454–56 (hotels are not pervasively regulated). 
+     The Court has relied on three primary factors to determine 
+if a particular industry is pervasively regulated: (1) the history 
+of  regulation  in  that  industry;  (2)  the  comprehensiveness  of 
+the regulations; and most recently (3) any inherent danger in 
+the industry. We consider these factors in turn. 
+No. 15‐3756                                                      23
+
+    “History is relevant when determining whether an indus‐
+try is closely regulated.” Patel, 576 U.S. at —, 135 S. Ct. at 2455; 
+see also Barlow’s, Inc., 436 U.S. at 313 (firearms industry had 
+“such a history  of government oversight that  no reasonable 
+expectation  of  privacy  …  could  exist”).  Regulation  of  com‐
+mercial trucking has deep historical roots. See supra, Part I‐A. 
+The  federal  government  has  regulated  the  industry  since 
+1935, and individual states imposed regulations even earlier.  
+     In addition to the history of general regulation, hours of 
+service rules have been in place since 1935. As the Supreme 
+Court noted in Patel, a history of regulation that is unrelated 
+to  the  administrative  inspection  would  carry  less  force.  See 
+Patel, 576 U.S. at —, 135 S. Ct. at 2455 (noting that historical 
+regulations requiring inns to provide accommodations to all 
+paying  guests  were  unrelated  to  contemporary  question  of 
+warrantless inspections of hotel guest registries). Commercial 
+trucking has a long history of not only general regulation, but 
+also rules governing the length  of time drivers may stay on 
+the road. See Federal Motor Carrier Act of 1935, Pub. L. No. 
+255, § 201, 49 Stat. 543. The ELD mandate updates those rule 
+to  capture  essentially  the  same  information  while  reducing 
+opportunities  for  falsification  or  human  error.  This  factor 
+weighs  in  favor  of  treating  commercial  trucking  as  perva‐
+sively regulated. 
+    The Supreme Court also considers the comprehensiveness 
+of regulation in an industry. See, e.g., Burger, 482 U.S. at 705 
+n.16 (“[T]he proper focus is on whether the ‘regulatory pres‐
+ence is sufficiently comprehensive and defined that the owner 
+of  commercial  property  cannot  help  but  be  aware  that  his 
+property  will  be  subject  to  periodic  inspections  undertaken 
+for specific purposes.’”), quoting Dewey, 452 U.S. at 600. The 
+24                                                       No. 15‐3756 
+
+comprehensiveness of trucking regulation also helps to estab‐
+lish that industry participants have a diminished expectation 
+of privacy.  
+    The  commercial  trucking  industry  is  regulated  exten‐
+sively.  Federal  regulations  govern  a  host  of  issues  ranging 
+from driver qualifications, procedures for driver disqualifica‐
+tion, inspection of vehicles, vehicle parts, reporting accidents, 
+and repair and maintenance, to transportation of hazardous 
+materials, minimum levels of financial responsibility for mo‐
+tor  carriers,  and  more.  See  49  C.F.R.  §§  100–399.  States  also 
+impose significant regulations on commercial motor vehicles. 
+See, e.g., 92 Ill. Adm. Code § 340‐97; 140 Ind. Admin. Code 
+§ 7‐3; Wis. Adm. Code Trans. § 177. This factor also weighs in 
+favor of considering the commercial trucking industry to be 
+pervasively regulated.  
+    Finally,  the  Supreme  Court  signaled  in  Patel  that  courts 
+should  consider  whether  the  industry  is  inherently  danger‐
+ous. See Patel, 576 U.S. at —, 135 S. Ct. at 2454 (distinguishing 
+hotels from pervasively regulated industries because “noth‐
+ing inherent in the operation of hotels poses a clear and sig‐
+nificant risk to the public welfare”). This factor also supports 
+treating commercial trucking as pervasively regulated.  
+    Congress  has  long  recognized  commercial  trucking  as  a 
+dangerous industry. Danger to the public has lain at the center 
+of the hours of service rules since 1935. See, e.g., 79 Cong. Rec. 
+12,212  (1935)  (statement  of  Rep.  Monaghan)  (coining  term 
+“truckathon” to describe the “brutal, inhumane, and danger‐
+ous practice whereby drivers of busses and trucks are com‐
+pelled to work 18 to 20 hours a day, to the detriment of their 
+own health and the danger of the public who travel the high‐
+ways of our country”).  
+No. 15‐3756                                                        25
+
+     Such dangers led us to reject a Fourth Amendment chal‐
+lenge to random drug tests for drivers of city‐owned trucks in 
+Krieg v. Seybold, 481 F.3d 512 (7th Cir. 2007). We determined 
+that operating “large vehicles and equipment” was a “safety‐
+sensitive job,” id. at 518, noting that the job was “fraught with 
+such risks of injury to others that even a momentary lapse of 
+attention [could] have disastrous consequences.” Id., quoting 
+Skinner  v.  Railway  Labor  Executives’  Ass’n,  489  U.S.  602,  628 
+(1989). The agency’s estimate regarding the public safety ben‐
+efits  of  ELDs  indicates  the  dangerousness  of  the  industry: 
+ELDs are estimated to save 26 lives, prevent 562 injuries, and 
+avoid 1,844 vehicles crashes per year. U.S. Dep’t Trans., Reg‐
+ulatory  Impact  Analysis,  Executive  Summary  at  vi,  Table  4 
+(Nov. 2015). All of these factors thus weigh in favor of treating 
+commercial trucking as a dangerous industry. For purposes 
+of  the  Fourth  Amendment,  commercial  trucking  is  a  perva‐
+sively regulated industry.  
+       2. Reasonableness of the ELD Mandate 
+    The ELD mandate must still pass a three‐part reasonable‐
+ness  test:  (1)  the  regulatory  scheme  must  be  informed  by  a 
+substantial  government  interest;  (2)  the  warrantless  inspec‐
+tions must be necessary to further the regulatory scheme; and 
+(3)  the  inspection  program  must  provide  a  constitutionally 
+adequate substitute for a warrant.  
+    We have already addressed the first element. The public 
+safety concerns inherent in commercial trucking give the gov‐
+ernment a substantial interest.  
+    The ELD mandate also meets the second element. ELD rec‐
+ords and administrative inspection of them are necessary to 
+further the government’s regulatory scheme. As noted above, 
+26                                                       No. 15‐3756 
+
+falsification and errors in the traditional paper records are a 
+widespread problem. See supra, Part I‐A; 65 Fed. Reg. 25,540, 
+25,558 (May 2, 2000). During the agency’s listening sessions, 
+drivers said that motor carriers sometimes pressure them to 
+alter  their  paper  records.  Final  ELD  Rule,  80  Fed.  Reg.  at 
+78,320,  78,323,  78,325.  Automatic  recording  and  warrantless 
+inspection of those records offer a reasonable method to com‐
+bat this problem. ELDs should not only help discover hours 
+of service violations but also deter such violations.  
+    Warrantless inspection of hours of service records at road‐
+side inspections and during audits is not new. Such reviews 
+of the paper records have long been central to enforcement of 
+the hours of service. See 49 C.F.R. § 395.8(k)(2) (2014). Since 
+the search occurs when law enforcement reviews the hours of 
+service data—not during the driver’s collection and storage of 
+the data—ELDs do not create a search regimen substantially 
+different from what has occurred with the paper records for 
+generations of drivers. Making the records more reliable does 
+not  affect  the  reasonableness  of  the  resulting  searches.  It  is 
+also a reasonable way to achieve the regulatory goals.  
+    The  ELD  mandate  meets  the  third  element  because  the 
+agency provides a constitutionally adequate substitute for a 
+warrant. To meet this third requirement, the inspection must 
+(1)  advise  the  owner  of  the  commercial  property  that  the 
+search is made pursuant to the law and has a properly defined 
+scope, and (2) must limit the discretion of the inspecting offic‐
+ers. Burger, 482 U.S. at 703. The ELD mandate does both. 
+   First,  49  C.F.R.  §  395.24(d)  and  §  395.22(j)  advise  drivers 
+and motor carriers that authorized safety officials may search 
+ELD data pursuant to law. The rules also limit the scope of the 
+inspections  to  ELD  records.  Id.;  see  also  Final  ELD  Rule,  80 
+No. 15‐3756                                                              27
+
+Fed. Reg. at 78,296–97. In addition, the data recorded by ELDs 
+are  intentionally  limited,  restricting  the  scope  of  the  infor‐
+mation available to law enforcement. Id. at 78,322–23.  
+    Next, the discretion of inspecting officers is limited in two 
+important ways. First, the ELD mandate authorizes officers to 
+inspect only ELD data; it does not provide discretion to search 
+a  vehicle  more  broadly.  Second,  §  31137(e)(3)  requires  the 
+agency  to  take  steps  to  ensure  that  law  enforcement  uses 
+ELDs  only  to  enforce  compliance  with  the  hours  of  service 
+rules. The agency acknowledged this during rulemaking, Fi‐
+nal ELD Rule, 80 Fed. Reg. at 78,322, and the agency issued a 
+memorandum limiting the use of ELD records to enforcement 
+of the hours of service requirements. Memorandum from Wil‐
+liam A. Quade, Assoc. Adm’r for Enforcement, Federal Motor 
+Carrier Admin. (Dec. 4, 2015).4 Taken together, these protec‐
+tions create a constitutionally adequate substitute for a war‐
+rant  in  the  commercial  trucking  industry.  Because  the 
+agency’s promulgation of the ELD mandate passes the three‐
+part test of Burger, it is reasonable within the meaning of the 
+Fourth Amendment.  
+    Accordingly,  the  Federal  Motor  Carrier  Safety  Admin‐
+istration’s final ELD rule codified at 49 C.F.R. Pts. 385, 386, 390, 
+
+                                                 
+4 We take judicial notice of the memorandum under Fed. R. Evid. 201. See 
+
+Fornalik v. Perryman, 223 F.3d 523, 529 (7th Cir. 2000); United States v. Ea‐
+gleboy, 200 F.3d 1137, 1140 (8th Cir. 1999). Petitioners had an opportunity 
+to file supplemental briefing regarding this document. The memorandum 
+did not need to be issued by notice‐and‐comment rulemaking. While the 
+statute elsewhere requires the Secretary to proceed by regulation, see 49 
+U.S.C. § 31137(a), the provision in question here requires only that the Sec‐
+retary “institute appropriate measures.” § 31337(e)(3). The memorandum 
+meets that requirement. 
+28                                                 No. 15‐3756 
+
+and 395 is not arbitrary or capricious, nor does it violate the 
+Fourth Amendment. The petition for review is DENIED. 
+

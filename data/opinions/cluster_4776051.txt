@@ -1,0 +1,732 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 20, 2020            Decided August 18, 2020
+
+                        No. 19-1011
+
+                       MUSIC CHOICE,
+                        APPELLANT
+
+                              v.
+
+            COPYRIGHT ROYALTY BOARD, ET AL.,
+                       APPELLEES
+
+                  SOUNDEXCHANGE, INC.,
+                      INTERVENOR
+
+
+  On Appeal from a Final Determination of the Copyright
+Royalty Board and a Memorandum Opinion of the Register of
+                       Copyrights
+
+
+      Paul M. Fakler argued the cause for appellant. With
+him on the briefs was Kelsi Brown Corkran. Margaret
+Wheeler-Frothingham entered an appearance.
+
+        Jennifer L. Utrecht, Attorney, U.S. Department of
+Justice, argued the cause for appellees. With her on the brief
+was Daniel Tenny, Attorney. Mark R. Freeman, Attorney,
+entered an appearance.
+                               2
+      Matthew S. Hellman argued the cause for intervenor.
+With him on the brief were David A. Handzo, Emily L.
+Chapuis, and Devi M. Rao.
+
+       Before: SRINIVASAN, Chief Judge, RAO, Circuit Judge,
+and SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge RAO.
+
+     RAO, Circuit Judge: The case raises the question of what
+copyright royalty rate must be paid by Music Choice for
+transmissions of digital music over the internet. Pursuant to the
+Digital Millennium Copyright Act (“DMCA”), a lower
+grandfathered royalty rate is paid by some music services that
+were early providers of digital music transmissions. Music
+Choice challenges a Final Determination of the Copyright
+Royalty Board (“the Board”), which excludes Music Choice’s
+internet transmissions from the grandfathered rate and also
+adopts more stringent audit requirements.
+
+     We hold that the Board’s categorical exclusion of Music
+Choice’s internet transmissions from the grandfathered rate
+conflicts with the unambiguous language of the DMCA. Under
+the DMCA, Music Choice’s internet transmissions are eligible
+for the grandfathered rate to the extent they were part of its
+service offering on July 31, 1998. The Board, however, retains
+discretion to determine whether parts of Music Choice’s
+current service offering, which includes mobile applications
+and internet-exclusive channels, should be excluded from the
+grandfathered rate. The Board also acted arbitrarily and
+capriciously in altering the audit standards applicable to Music
+Choice. Accordingly, we vacate the relevant parts of the Final
+Determination and remand for the Board to determine if Music
+Choice’s internet transmissions qualify for the grandfathered
+rate and to reconsider the amended audit procedure.
+                               3
+                               I.
+
+     Started in the late 1980s, Music Choice is a digital
+broadcast music service that consists of several cable television
+channels. These channels are often included with digital cable
+television packages and now are also available to cable
+subscribers over the internet. Prior to 1995, subscription music
+services such as Music Choice did not have to “obtain a license
+to publicly perform sound recordings because copyright
+owners did not have an exclusive right to publicly perform their
+work.” See SoundExchange, Inc. v. Muzak LLC, 854 F.3d 713,
+714 (D.C. Cir. 2017). Amidst the growth of digital music
+transmissions, Congress enacted the Digital Performance Right
+in Sound Recordings Act of 1995 to grant copyright protections
+to the digital transmissions of music and other recordings
+protected by copyright. Pub. L. No. 104-39, 109 Stat. 336. This
+copyright protection was subject to a compulsory licensing
+regime, set out in Section 114 of the Copyright Act, in which
+existing subscription music services, including Music Choice,
+would be entitled to continue transmitting copyrighted works
+in exchange for a royalty payment. Muzak, 854 F.3d at 714–15
+& n.2. The amount and terms of such royalty payments were
+determined by the Copyright Arbitration Royalty Panel
+(“CARP”) based on a reasonable rate standard. See id.
+
+     Congress modified this regime in the Digital Millennium
+Copyright Act, which requires certain digital music services to
+pay royalty rates at a market-based standard.1 Pub. L. No. 105-
+304, § 415(a), 112 Stat. 2860, 2896 (1998) (codified at 17
+U.S.C. § 114(f)(2)(B)). The market-based standard generally
+results in higher royalty rates for copyright holders. The
+
+1
+ Rather than letting the market decide what a market-based rate
+would be, the DMCA charged CARP with predicting what the
+market-based rate would be.
+                                 4
+DMCA, however, includes a grandfathering provision that
+makes preexisting subscription-based services, such as Music
+Choice, eligible to pay only “reasonable rates,” which
+generally allow the service providers to pay lower royalty rates.
+Muzak, 854 F.3d at 714–15. To be eligible for the
+grandfathered rate, a service must qualify as a “preexisting
+subscription service,” (hereinafter “preexisting service”)
+defined as “a service that performs sound recordings by means
+of noninteractive audio-only subscription digital audio
+transmissions, which was in existence and was making such
+transmissions to the public for a fee on or before July 31,
+1998.” 17 U.S.C. § 114(j)(11). If a preexisting service’s
+“subscription transmission” is made “in the same transmission
+medium used by such service on July 31, 1998,” it is entitled
+to the grandfathered royalty rate. 17 U.S.C. § 114(d)(2)(B)
+(hereinafter the “unconditional grandfathered rate”). A
+transmission made by a preexisting service in a different
+transmission medium, or by a “new subscription service,” may
+also be eligible for the grandfathered rate if it meets several
+additional conditions and requirements. 17 U.S.C.
+§ 114(d)(2)(C) (hereinafter the “conditional grandfathered
+rate”).
+
+    To determine the royalty rate to be paid by a preexisting
+service, the Copyright Royalty Board2 holds adversarial rule-
+making proceedings every five years. Muzak, 854 F.3d at 715.
+The copyright holders are represented in these proceedings by
+SoundExchange, a nonprofit entity designated by regulation to
+“obtain the royalties owed under the statutory licenses and to
+
+
+2
+  The Copyright Royalty Board was created by the Copyright
+Royalty and Distribution Reform Act of 2004 to conduct royalty
+proceedings, thus replacing the Copyright Arbitration Royalty Panel.
+Pub. L. No. 108-419, § 5, 118 Stat. 2341, 2363.
+                                 5
+distribute them to performing artists and copyright holders.”3
+Id.
+
+     In 2016, the Board commenced the proceeding under
+review to establish preexisting service royalty rates for the
+years 2018 to 2022. As relevant here, the proceeding concerned
+the royalty rates Music Choice, the only remaining preexisting
+service participating, must pay to copyright holders by way of
+SoundExchange. Over the course of the proceeding, the Board
+referred to the Register of Copyrights the legal question of
+whether Music Choice’s internet transmissions qualify as a
+preexisting service. 83 Fed. Reg. 65,210, 65,225–226 (Dec. 19,
+2018) (citing 17 U.S.C. § 802(f)(1)(B)). The Register
+determined that, as a matter of law, internet transmissions are
+categorically excluded from the unconditional grandfathered
+rate because the DMCA’s “legislative history makes clear that
+Congress … intended to limit” the grandfathered rate to Music
+Choice’s “offerings in the specific transmission media
+affirmatively identified in the DMCA Conference Report:
+‘cable’ or ‘satellite.’” 82 Fed. Reg. 59,652, 59,657 (Dec. 15,
+2017) (citing H.R. Rep. No. 105-796, at 89 (1998)). The
+Register went on to set out a non-exhaustive six-factor test to
+guide the Board’s determination of whether Music Choice’s
+internet transmissions qualify for the conditional grandfathered
+rate. Id. at 59,658–659.
+
+    In the Final Determination setting rates for the 2018 to
+2022 period, the Board applied the Register’s legal opinion and
+
+3
+  The Digital Millennium Copyright Act instructs the Board to
+designate a “nonprofit collective” to receive royalty payments from
+music services and distribute them to copyright holders and artists.
+17 U.S.C. § 114(g)(2), (3). The Board has designated
+SoundExchange as the exclusive entity to collect and distribute
+copyright royalties. See 37 C.F.R. § 382.5(d).
+                               6
+excluded Music Choice’s internet transmissions from the
+unconditional grandfathered rate. 83 Fed. Reg. at 65,227. The
+Board went on to apply the Register’s six-factor test to
+determine that Music Choice’s internet transmissions are also
+excluded from the conditional grandfathered rate “to the extent
+they are available outside a subscriber’s residence,” such as
+through mobile applications. Id. Because Music Choice’s
+internet transmissions did not qualify for either grandfathered
+rate, they would be subject to the higher market-based royalty
+rate. Id.
+
+    In the Final Determination, the Board also amended the
+audit procedures applicable to preexisting services such as
+Music Choice. The longstanding regulatory standard allowed
+preexisting services to satisfy in full any audit obligations by
+employing independent auditors in accordance with “generally
+accepted auditing standards.” Id. at 65,262, 65,268. The Board
+amended this standard so that the independent audit would
+provide a safe harbor only for claims “within the scope of the
+audit,” which meant that SoundExchange would be “permitted
+to round out the findings [of Music Choice’s independent
+audit] with its own audit, limited to the points omitted from the
+scope of the defensive audit.” Id. at 65,262. This auditing
+change was long sought after by SoundExchange and
+consistently opposed by Music Choice.
+
+     Music Choice appeals the Final Determination. This court
+has exclusive jurisdiction over Copyright Royalty Board
+determinations and any legal determinations the Register made
+as part of the proceeding. See Muzak, 854 F.3d at 717–18; 17
+U.S.C. § 803(d)(1). Such determinations may be appealed by
+“any aggrieved participant in the proceeding … who fully
+participated in the proceeding and who would be bound by the
+determination.” 17 U.S.C. § 803(d)(1). Music Choice meets
+                                    7
+these criteria. SoundExchange intervened to defend the
+Board’s actions.
+
+                                    II.
+
+     Music Choice challenges three separate aspects of the
+Board’s Final Determination. First, it argues that the Board
+should not have referred to the Register the legal question
+regarding whether internet transmissions could be included in
+the grandfathered rate provision. Second, it challenges the
+Board’s conclusion that Music Choice’s internet transmissions,
+to the extent they are available outside a subscriber’s home, are
+categorically excluded from the grandfathered rate. Third, it
+challenges the Board’s alteration of the audit provision. We
+review Copyright Royalty Board rate determinations under the
+Administrative Procedure Act and must “uphold a ratemaking
+determination unless it is arbitrary, capricious, contrary to law,
+or not supported by substantial evidence.” Intercollegiate
+Broad. Sys., Inc. v. CRB, 796 F.3d 111, 127 (D.C. Cir. 2015)
+(quotation marks omitted); see also 5 U.S.C. § 706(2)(A).
+
+                                    A.
+
+     Music Choice first contends that the Board erred by
+referring the internet transmission issue to the Register for a
+binding legal opinion. The Copyright Act requires the Board to
+refer a “novel material question of substantive law” that “is
+presented” in a royalty proceeding to the Register for a binding
+opinion. 17 U.S.C. § 802(f)(1)(B)(i).4 Music Choice maintains
+
+4
+    17 U.S.C. § 802(f)(1)(B)(i) states:
+          In any case in which a novel material question of
+          substantive law concerning an interpretation of
+          those provisions of this title that are the subject of
+          the proceeding is presented, the Copyright Royalty
+          Judges shall request a decision of the Register of
+                                 8
+that a party must “present” a legal issue before the Board can
+refer it to the Register and no party raised the legal issue in this
+case. The government responds that the Board must, or at least
+may, refer to the Register novel and material legal issues that
+arise in a proceeding. Alternatively, the government argues that
+the referral was proper even under Music Choice’s
+interpretation because SoundExchange raised the internet
+transmission issue during the proceeding.
+
+     Assuming arguendo that Music Choice’s interpretation of
+the statute is correct, the Board’s referral to the Register was
+proper because SoundExchange “presented” the internet
+transmission issue in the royalty proceeding. Before the rate
+proceeding concluded, SoundExchange argued that Music
+Choice’s internet transmissions should be subjected to the
+higher royalty rates applicable to new services rather than the
+lower grandfathered rates accorded to Music Choice’s “core
+PSS television-based service.” Music Choice specifically
+responded to this argument in its reply to SoundExchange’s
+filing and did not move to reopen the evidentiary record. Thus,
+we have no occasion to resolve whether the Board may refer
+novel legal questions on its own motion, because the issue in
+this case was “presented” by a party, rather than the Board. Cf.
+
+
+
+        Copyrights, in writing, to resolve such novel
+        question. Reasonable provision shall be made for
+        comment on such request by the participants in the
+        proceeding, in such a way as to minimize
+        duplication and delay. … If such a decision is timely
+        delivered to the Copyright Royalty Judges, the
+        Copyright Royalty Judges shall apply the legal
+        determinations embodied in the decision of the
+        Register of Copyrights in resolving material
+        questions of substantive law.
+                                  9
+Settling Devotional Claimants v. CRB, 797 F.3d 1106, 1121
+(D.C. Cir. 2015).
+
+     To counter this straightforward conclusion, Music Choice
+takes out of context SoundExchange’s statement that it “does
+not believe it is necessary to decide in this proceeding whether
+or not Music Choice’s webcasts qualify as part of its
+[preexisting service].” J.A. 127. Read within the context of
+SoundExchange’s proposed conclusions of law, it is clear that
+SoundExchange was advocating for Music Choice’s internet
+transmissions to be treated differently from its television-based
+service. By arguing that Music Choice should pay a higher rate
+for its internet transmissions than its television transmissions,
+SoundExchange fairly presented the issue the Board ultimately
+referred to the Register.5 Moreover, contemporaneous
+statements from the Board, the Register, SoundExchange, and
+even Music Choice demonstrate that all parties understood the
+Board referred the issue in response to SoundExchange’s
+argument regarding different rates for internet transmissions.
+See J.A. 143 (Board referral noting that “SoundExchange seeks
+
+5
+  SoundExchange further argued: “Here, an Internet-based PSS
+distributed to mobile apps over the internet is sufficiently different
+from the core PSS television-based service that the Judges must
+consider whether the value of the sound recording usage involved is
+sufficiently reflected in a rate set with a television-based service in
+mind.” J.A. 130–31. SoundExchange also noted that an expert
+witness “found that the most reasonable way to value webcasting”
+by Music Choice is to apply “the same statutory rates that would
+apply to ancillary Internet streaming.” Id. at 131; see also id. at 130
+(“Music Choice Should Pay Webcasting Rates For Its Webcasting.”).
+Thus, SoundExchange proposed that the applicable webcasting rates
+should apply to “any ancillary webcasting” that was part of a
+preexisting service, rather than the lower rates that apply to
+television-based transmissions of a preexisting service. Id. at 130–
+31.
+                               10
+two separate royalty payments”); 82 Fed. Reg. at 59,654
+(Register decision noting that the “referred questions arose in
+this proceeding because SoundExchange, Inc., for the first
+time, is seeking two separate royalty payments”); J.A. 117
+(Music Choice’s reply to SoundExchange’s proposed findings
+and conclusions noting that “[i]t is crucial to determine whether
+Music Choice’s internet transmissions are part of its
+[preexisting service]”).
+
+     Because SoundExchange raised the question of whether
+internet transmissions should be included in the grandfathered
+rate, that question was clearly “presented” in the royalty rate
+proceeding. Accordingly, we hold the Board appropriately
+referred this issue to the Register for a binding legal opinion.
+
+                               B.
+
+     We next examine Music Choice’s challenge to the
+Register’s legal opinion, which determined that internet
+transmissions are categorically excluded from the
+unconditional grandfathered rate. 82 Fed. Reg. at 59,657–660.
+Music Choice questions this categorical exclusion and
+maintains that its internet transmissions qualify for the
+grandfathered rate under the plain meaning of the statute.
+Because the text and structure of the DMCA directly contradict
+the Register’s interpretation, we vacate the Register’s legal
+opinion and the part of the Board’s Final Determination that
+relies upon it.
+
+     Under the DMCA, a “subscription digital audio
+transmission” “shall be subject” to the unconditional
+grandfathered rate if it is (1) “made by a preexisting
+subscription service,” and (2) offered “in the same transmission
+medium used by such service on July 31, 1998.” 17 U.S.C.
+§ 114(d)(2)(B). If a transmission meets both statutory elements,
+the Board must determine the royalty in accordance with the
+                               11
+unconditional grandfathered rate. Contrary to the Register’s
+conclusion, neither element categorically excludes internet
+transmissions.
+
+     First, the DMCA’s definition of a preexisting subscription
+service is broad enough to include internet transmissions that
+were in fact occurring as of July 31, 1998, because it includes
+any “service that performs sound recordings by means of
+noninteractive audio-only subscription digital audio
+transmissions, which was in existence and was making such
+transmissions to the public for a fee on or before July 31,
+1998.” 17 U.S.C. § 114(j)(11). We have held that the term
+“service” in “preexisting subscription service” refers to both
+the business entity making the transmissions (i.e., Music
+Choice) and to the “program offering” the entity provides (i.e.,
+the Music Choice digital audio service). Muzak, 854 F.3d at
+715. Therefore, for a digital audio transmission to qualify as a
+“preexisting subscription service,” first, it must be made by a
+business entity that was in existence on or before July 31, 1998,
+and second, the relevant “program offering” must have been in
+existence on July 31, 1998.
+
+     Here, all agree that Music Choice fulfills the first prong.
+The question is whether the word “service” in the DMCA
+covers Music Choice’s program offerings transmitted via the
+internet. The Register, relying on the legislative history of the
+DMCA, concluded that it does not. But the plain language of
+the DMCA grandfathers a covered entity’s program offerings
+that were “in existence … on or before July 31, 1998.” 17
+U.S.C. § 114(j)(11). It is undisputed that Music Choice had
+been providing some digital audio transmissions over the
+internet since 1996 and was still doing so on July 31, 1998.
+Those internet transmissions that are part of the same “service”
+fall within the scope of the DMCA’s preexisting service
+definition. Therefore, the text of the DMCA precludes the
+                                 12
+Register’s conclusion that the term “preexisting subscription
+service” categorically excludes Music Choice’s internet
+transmissions. Cf. Muzak, 854 F.3d at 716 (declining to impose
+extra-textual conditions on the plain meaning of the DMCA’s
+preexisting subscription service definition).6 As discussed
+below, however, the Board retains discretion in determining the
+extent to which Music Choice’s current internet offerings can
+fairly be characterized as included in the service offering Music
+Choice provided on July 31, 1998.
+
+     Second, the DMCA applies the unconditional
+grandfathered rate to transmissions made “in the same
+transmission medium.” 17 U.S.C. § 114(d)(2)(B). This
+provision does not distinguish between different transmission
+media, and there is no suggestion in the text that a
+“transmission medium” excludes internet transmissions. The
+“transmission medium” clause, like the preexisting service
+definition, focuses on the actual preexisting entity and program
+offering, not the manner of transmission. Thus, internet
+transmissions “shall be subject” to the grandfathered rate if
+they were “made by” a preexisting service on July 31, 1998. Id.
+
+    The structure of the DMCA’s grandfathered rate
+provisions also bolsters this conclusion. In contrast to the
+unconditional grandfathered rate provision, the conditional
+grandfathered rate provision explicitly distinguishes between
+
+6
+  In Muzak, we noted the term “preexisting subscription service” was
+“dreadfully ambiguous” regarding the particular question under
+review—“[d]oes ‘service’ refer only to the business entity, or does it
+also include the original program offerings?” 854 F.3d at 714. As
+discussed above, the statute is unambiguous regarding the precise
+question under review in this case—do the terms “preexisting
+subscription service” and “same transmission medium” preclude
+internet transmissions even if they were offered by Music Choice on
+July 31, 1998?
+                                 13
+internet and other transmission media. Some of the conditions
+to qualify for this rate apply to, or specifically exempt,
+“satellite digital audio service,” 17 U.S.C. § 114(d)(2)(C)(v),
+and “broadcast transmissions,” 17 U.S.C. § 114(d)(2)(C)(i),
+(iii)(IV)(bb), (vii), others apply equally to cable or internet
+transmissions, 17 U.S.C. § 114(d)(2)(C)(iv) (applying to a
+“transmitting entity” that “offers transmissions of visual
+images contemporaneously with transmissions of sound
+recordings” as in a cable or internet transmission).7 By
+specifying categories of transmission media, and including
+internet alongside cable and satellite, the conditional
+grandfathered rate provision demonstrates the general terms
+“subscription service” and “transmission medium,” standing
+alone, do not exclude internet transmissions.
+
+     Thus, within the DMCA, Congress knew how to
+distinguish between types of transmission media and did so
+explicitly in the conditional grandfathered rate provision. See
+Allina Health Servs. v. Price, 863 F.3d 937, 944 (D.C. Cir.
+2017) (“A material variation in terms suggests a variation in
+meaning.”) (quotation marks and brackets omitted). By
+contrast, the unconditional grandfathered rate provision does
+
+7
+  The Register refers to this subsection to argue that the DMCA treats
+issues regarding internet transmissions exclusively under the
+conditional grandfathered rate provision. The Register’s conclusion,
+however, turns not on the text of the statute, but instead on its
+legislative history: “The rationale behind ... the new requirements in
+[the conditional grandfathered rate provision], was to ‘address[]
+unique programming and other issues raised by Internet
+transmissions.’” 82 Fed. Reg. at 59,658 (quoting Staff of H. Comm.
+on the Judiciary, 105th Cong., Section-By-Section Analysis of H.R.
+2281, at 50). The legislative history, however, runs contrary to the
+plain meaning of the conditional grandfathered rate provision, which
+does not distinguish between cable, satellite, and internet
+transmissions that were actually offered on July 31, 1998.
+                                 14
+not distinguish between transmission media and therefore
+cannot be read to exclude internet transmissions. Reading the
+statute as a whole, the unconditional grandfathered rate
+provision does not categorically exclude Music Choice’s
+internet service offering to the extent it was available on July
+31, 1998.
+
+     The Register reached a contrary conclusion only by
+ignoring the text of the DMCA and focusing on its legislative
+history. The Register emphasized that the legislative history
+referred only to cable and satellite transmissions and thus
+Congress did not intend to include internet transmissions in the
+unconditional grandfathered rate. According to the Register,
+“as a matter of law, it is irrelevant whether or not Music Choice
+or another [preexisting service] entity, to some limited degree,
+was making transmissions via a different medium than those
+specified in the legislative history on July 31, 1998, such as the
+internet.” 82 Fed. Reg. at 59,658 (emphasis added). Without
+regard to the text of the statute, which makes no distinction
+between transmission media, the Register determined that only
+those transmission media identified in the DMCA Conference
+Report would be entitled to the grandfathered rate.8 Id. at
+
+8
+  In Muzak, we looked to legislative history to resolve an ambiguity
+in the meaning of “service” as applied to the question presented in
+that case, but ultimately noted that the DMCA Conference Report
+was a particularly unreliable guide in interpreting Section 114’s
+grandfathered rate provisions: “[F]or each point in the conference
+report supporting SoundExchange, there can be found a
+countervailing one in support of Muzak.” 854 F.3d at 717 n.11. So
+too here. Compare H.R. Rept. No. 105-796, at 89 (identifying
+“cable” and “satellite” as the protected transmission media), with id.
+(“[I]f a cable subscription music service making transmissions on
+July 31, 1998, were to offer the same music service through the
+Internet, then such Internet service would be considered part of a
+preexisting subscription service.”).
+                                 15
+59,657 (requiring a subscription transmission to be made in
+“the specific transmission media identified” in the DMCA
+Conference Report to be eligible for the unconditional
+grandfathered rate) (citing H.R. Rep. No. 105-796, at 89
+(1998)). The statute, however, speaks to this precise issue and
+precludes the Register’s interpretation. As we have explained,
+the “preexisting subscription service” definition and the
+unconditional grandfathered rate provision distinguish between
+transmission media that were employed before July 31, 1998,
+and those offered after that date. The text does not single out
+internet transmissions for categorical exclusion from the
+grandfathered rate. “By introducing a limitation not found in
+the statute,” the Register “alter[ed], rather than …
+interpret[ed]” the DMCA. Little Sisters of the Poor Saints Peter
+& Paul Home v. Pennsylvania, 140 S. Ct. 2367, 2381 (2020).
+
+     Therefore, we vacate the Register’s legal opinion and the
+part of the Board’s Final Determination applying this opinion
+and remand to the Board to determine under the correct legal
+standard whether Music Choice’s current service offering,
+including its internet transmissions, qualifies for the
+unconditional or conditional grandfathered rates. Because the
+Final Determination categorically excluded internet
+transmissions from the unconditional grandfathered rate, the
+Board had no occasion to assess whether Music Choice’s
+current internet service offerings, including its mobile
+application and internet-exclusive channels, are a part of the
+service offering Music Choice provided on July 31, 1998. The
+Board cannot exclude from the unconditional grandfathered
+rate internet transmissions that were actually part of Music
+Choice’s service offering on July 31, 1998.9 On remand, the
+9
+  For any internet transmissions that do not qualify for the
+unconditional grandfathered rate, the Board retains discretion to
+determine if they qualify for the conditional grandfathered rate or if
+they should be excluded from both grandfathered rates. As noted
+                                 16
+Board must determine the precise scope of Music Choice’s
+service offering as it actually existed on July 31, 1998. While
+on the record below it is undisputed that Music Choice was
+making some internet transmissions at that date, there is a
+question about whether those transmissions were available
+outside the home. See 82 Fed. Reg. 59,660. Similarly, it has
+been suggested that Music Choice’s internet-exclusive
+
+above, the Board also held, based on the Register’s legal opinion,
+that Music Choice’s internet transmissions do not qualify for the
+conditional grandfathered rate “to the extent they are available
+outside a subscriber’s residence.” 83 Fed. Reg. at 65,227. Because
+we conclude that internet transmissions are not categorically
+excluded from the unconditional grandfathered rate, we need not
+consider Music Choice’s challenge to the Board’s application of the
+Register’s “non-exhaustive” six-factor test under the conditional
+grandfathered rate. Id. at 65,226–227.
+      On remand, if the Board concludes that a part of Music Choice’s
+internet offering does not qualify for the unconditional grandfathered
+rate, it must reconsider whether such transmissions qualify for the
+conditional grandfathered rate. This analysis must focus on whether
+the transmissions fit within the statute’s definition of “preexisting
+subscription service,” 17 U.S.C. § 114(j)(11), and the criteria
+enumerated in 17 U.S.C. § 114(d)(2)(C). Although we decline to
+review the six-factor test the Register set out to assess whether a
+transmission qualifies for the conditional grandfathered rate, we
+emphasize that factfinding, to the extent it is needed, must be
+conducted by the Board, and not the Register. See 17 U.S.C.
+§ 802(f)(1)(A) (the Board “may consult with the Register of
+Copyrights on any matter other than a question of fact”); 17 U.S.C.
+§ 802(f)(1)(B)(i) (confining the Register to legal determinations).
+We further emphasize that we do not seek to limit the Register’s
+discretion in defining the legal parameters of a “preexisting
+subscription service,” beyond what we have held above: the Register
+may not exclude internet transmissions from the definition if such
+internet transmissions were actually part of the preexisting service
+offering on July 31, 1998.
+                               17
+channels and smartphone applications are not part of the
+service offering Music Choice provided on the relevant date.
+See CRB Br. 37–38. The Board must sort through these issues
+on remand to determine which parts of Music Choice’s current
+service offering are eligible for the grandfathered rate because
+they were a part of Music Choice’s service on July 31, 1998.
+
+                               C.
+
+     Finally, we consider Music Choice’s challenge to the
+Board’s amendment of royalty audit procedures. Pursuant to its
+general authority to set royalty terms, 17 U.S.C. § 114(f)(1)(A),
+the Board and its predecessor agency have promulgated royalty
+audit procedures. Prior to the amendments at issue here, a
+preexisting service like Music Choice could secure an
+independent audit that would be treated as comprehensive and
+dispositive as to all parties during the Board’s rate
+determination proceedings. 37 C.F.R. § 382.7(e) (2013)
+(establishing that an audit “performed in the ordinary course of
+business according to generally accepted auditing standards by
+an independent and Qualified Auditor, shall serve as an
+acceptable verification procedure for all interested parties”).
+The Final Determination amends this regulation to provide that
+an independent audit will be determinative only as to the issues
+within the scope of the audit, thus potentially allowing other
+parties to conduct additional audits. 83 Fed. Reg. at 65,262,
+65,268 (amending the provision so that independent audits
+“shall serve as an acceptable verification procedure for all
+parties with respect to the information that is within the scope
+of the audit”) (emphasis added). The government and
+SoundExchange argue that the Board’s amendment is not a
+substantive change. We disagree.
+
+     The Board’s amendment makes a consequential revision
+to the audit procedure. Prior to the revision, Music Choice’s
+                              18
+audit was treated as sufficient if conducted by an independent
+auditor pursuant to generally accepted auditing standards.
+Under the revision, SoundExchange is given permission to
+conduct audits of any matter outside the “scope of the audit.”
+Id. at 65,262. This alteration imposes a new condition on Music
+Choice, by allowing additional audits beyond the independent
+audit that was previously deemed an “acceptable verification
+procedure.” 37 C.F.R. § 382.7(e) (2013). Although the
+government and SoundExchange argue this is a clarification
+rather than a change, the agency has long understood the audit
+as a kind of safe harbor for preexisting services like Music
+Choice. For instance, in 1997, when CARP and the Librarian
+of Congress, the Board and Register’s predecessors, created the
+defensive audit procedures, CARP stated that allowing the
+preexisting services to conduct their own audits rather than
+being subject to outside copyright owner audits would balance
+the “fair opportunity to audit for copyright owners” against
+“the burden and expense of auditing upon the Services.”
+Copyright Arbitration Panel, Report No. 95-5 ¶ 194 (Nov. 12,
+1997) (adopted 63 Fed. Reg. 25,394 (May 8, 1998)); see also
+78 Fed. Reg. 23,054, 23,074 (Apr. 17, 2013). The Final
+Determination alters this calculus by explicitly giving
+SoundExchange the green light to “round out the findings with
+its own audit, limited to the points omitted from the scope of
+the defensive audit.” 83 Fed. Reg. at 65,262. Further supporting
+the substantive nature of this change is Music Choice’s record
+testimony—unacknowledged by the Board—that this change
+would upset its reliance on the previous audit procedure. See
+J.A. 80 (“Music Choice has availed itself of [the external
+independent audit], and has expended significant resources in
+doing so.”).
+
+    Having found that the Final Determination’s amendment
+of the audit provision is a substantive change, we must
+determine whether the Board “display[ed] awareness that it is
+                               19
+changing position” and demonstrated “good reasons for the
+new policy.” FCC v. Fox Television Stations Inc., 556 U.S.
+502, 515 (2009). The Board failed on both counts. The Final
+Determination does not acknowledge the Board’s rejection of
+a substantially identical proposal in its 2013 proceeding. There,
+the parties presented similar arguments for the same change
+and the Board rejected SoundExchange’s position because it
+did not “adequately address[]” flaws pointed out by Music
+Choice. 78 Fed. Reg. at 23,074. Specifically, the Board noted
+that SoundExchange failed to rebut Music Choice’s argument
+that the change would “permit SoundExchange to use auditors
+that are employees or officers of a sound recording owner or
+performing artists, the objectivity of which might be suspect.”
+Id. The Board does not acknowledge this prior position, does
+not point to any evidence that these concerns have been
+ameliorated, and does not present any new reasons for adopting
+the amended audit procedure that it previously rejected.
+Moreover, the Board failed to address CARP’s initial reasoning
+for instituting the defensive audit procedure, which sought to
+balance the preexisting services’ burden and expense against
+copyright holders’ audit rights. In the Final Determination, the
+Board struck a different balance in favor of SoundExchange
+without acknowledging or addressing the reasons for the policy
+shift.
+
+     Moreover, the Board did not give reasons for amending the
+audit provision, stating only that it can “see no reason not to”
+make the change. 83 Fed. Reg. at 65,262. Yet an agency’s ipse
+dixit cannot substitute for reasoned decisionmaking. This court
+has rejected precisely this type of justification from the Board
+in the past: “[R]ational decisionmaking … requires more than
+an absence of contrary evidence; it requires substantial
+evidence to support a decision.” Intercollegiate Broad. Sys. v.
+CRB, 574 F.3d 748, 767 (D.C. Cir. 2009). The Board also failed
+to respond to Music Choice’s reliance interests arising from the
+                              20
+previous audit standard—a matter Music Choice specifically
+raised on the record during the proceeding. Cf. Encino
+Motorcars, LLC v. Navarro, 136 S. Ct. 2117, 2126 (2016) (“A
+summary discussion may suffice in other circumstances, but
+here—in particular because of decades of industry reliance on
+the Department’s prior policy—the explanation fell short of the
+agency’s duty to explain why it deemed it necessary to overrule
+its previous position.”).
+
+     Perhaps the agency can justify its change in position, but
+its scant explanation and casual disregard for its former
+position do not satisfy the APA’s requirements for rational
+decisionmaking. See Ramaprakash v. FAA, 346 F.3d 1121,
+1124 (D.C. Cir. 2003) (“Agencies … must provide a reasoned
+analysis indicating that prior policies and standards are being
+deliberately changed, not casually ignored.”) (quotation marks
+omitted). Accordingly, we vacate the revised audit provision as
+arbitrary and capricious.
+
+                            ***
+
+     We vacate Part IV(D) and Part XI(A)(3)(g) of the Final
+Determination and the Register of Copyright’s underlying legal
+opinion. We remand for the Board to determine, in accordance
+with this opinion, whether Music Choice’s internet
+transmissions qualify for the grandfathered rate and to
+reconsider the audit definition and provide a reasoned
+explanation if the Board determines the revised definition is
+justified.
+
+                                                   So ordered.
+

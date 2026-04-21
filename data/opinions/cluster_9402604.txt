@@ -1,0 +1,748 @@
+USCA11 Case: 22-10707    Document: 37-1      Date Filed: 05/30/2023   Page: 1 of 23
+
+
+
+
+                                                               [PUBLISH]
+                                    In the
+                 United States Court of Appeals
+                         For the Eleventh Circuit
+
+                           ____________________
+
+                                 No. 22-10707
+                           ____________________
+
+        CARL L. GREGORY,
+        LEILA GREGORY,
+                                                   Petitioners-Appellants,
+        versus
+        COMMISSIONER OF INTERNAL REVENUE,
+
+
+                                                   Respondent-Appellee.
+
+
+                           ____________________
+
+                    Petition for Review of a Decision of the
+                                 U.S. Tax Court
+                              Agency No. 10336-18
+                           ____________________
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023      Page: 2 of 23
+
+
+
+
+        2                      Opinion of the Court                  22-10707
+
+
+        Before WILSON, JORDAN, and BRASHER, Circuit Judges.
+        BRASHER, Circuit Judge:
+               This appeal is a tax dispute over a yacht. It raises an issue of
+        first impression about whether hobby losses under Section
+        183(b)(2) of the Internal Revenue Code should be treated as mis-
+        cellaneous itemized deductions. This treatment matters for many
+        reasons, including because taxpayers (during the relevant time)
+        could deduct miscellaneous itemized deductions only for amounts
+        that exceeded two percent of their adjusted gross income.
+               Carl and Leila Gregory chartered their yacht, Lady Leila, in
+        2014 and 2015. They did not conduct the chartering activity for
+        profit—it was a hobby. Though the hobby generated income, it
+        also incurred sizeable expenses each year. The Gregorys deducted
+        some of those expenses under Section 183(b)(2) and placed them
+        “above the line” to reduce their gross income. After an audit, the
+        Commissioner determined that the Section 183(b)(2) deductions
+        were miscellaneous itemized deductions under Section 67, mean-
+        ing that they belonged “below the line” and reduced adjusted gross
+        income, not gross income. Moreover, because the Gregorys had
+        earned tens of millions of dollars in 2014 and 2015 and, at that time,
+        the Code allowed miscellaneous itemized deductions only to the
+        extent that they exceeded two percent of adjusted gross income,
+        the Commissioner disallowed the Section 183(b)(2) deductions al-
+        together. Facing deficiencies and penalties, the Gregorys petitioned
+USCA11 Case: 22-10707     Document: 37-1     Date Filed: 05/30/2023    Page: 3 of 23
+
+
+
+
+        22-10707              Opinion of the Court                       3
+
+        the Tax Court, which granted summary judgment for the Commis-
+        sioner. They now seek appellate review.
+               Everyone agrees that Section 183(b)(2) allows a deduction
+        for a certain amount of hobby losses, which is capped at the
+        hobby’s gross income. But we must decide where those deductions
+        belong on a taxpayer’s return: above the line (reducing gross in-
+        come) or below the line as miscellaneous itemized deductions (re-
+        ducing adjusted gross income). We believe the provisions of the
+        Internal Revenue Code, taken together, answer this question and
+        hold that Section 183(b)(2) expenses are below-the-line miscellane-
+        ous itemized deductions. We agree with the Tax Court and deny
+        the petition for review.
+                                      I.
+
+               We begin by reciting the relevant facts, which are not dis-
+        puted. In 2011, the Gregorys formed CLC Ventures, Ltd., a Cay-
+        man Islands corporation, to own and charter a yacht named Lady
+        Leila. Because CLC elected for treatment as a disregarded entity,
+        the Gregorys reported CLC’s income and expenses on their per-
+        sonal returns. It is undisputed that CLC was not engaged in for
+        profit within the meaning of I.R.C. § 183.
+               The Gregorys filed joint tax returns for 2014 and 2015, re-
+        porting CLC’s income and expenses on their Schedule C (Profit or
+        Loss from Business). In March 2018, the Commissioner issued a
+        Notice of Deficiency to the Gregorys for tax years 2014 and 2015.
+        Because CLC lacked a profit motive, the Commissioner adjusted
+USCA11 Case: 22-10707        Document: 37-1        Date Filed: 05/30/2023        Page: 4 of 23
+
+
+
+
+        4                         Opinion of the Court                     22-10707
+
+        the Gregorys’ returns, recharacterizing CLC’s income as “Other In-
+        come” and its expenses as “Itemized Deductions” on the Gregorys’
+        Schedule A. The Commissioner further classified the itemized de-
+        ductions as miscellaneous itemized deductions, meaning they were
+        allowable only to the extent that they exceeded two percent of the
+        Gregorys’ adjusted gross income under I.R.C. § 67(a).
+               The Gregorys reported taxable income1 of $19,666,293 and
+        $80,154,735 for 2014 and 2015, respectively, and the Commissioner
+        disallowed all deductions attributable to CLC except for several
+        hundred dollars of taxes and licensing expenses. The Commis-
+        sioner then assessed over three hundred thousand dollars in defi-
+        ciencies and penalties.
+               The Gregorys petitioned the Tax Court to reconsider the de-
+        ficiencies, arguing that hobby expenses under Section 183(b)(2) are
+        not miscellaneous itemized deductions subject to the two-percent
+        floor imposed by Section 67(a). The Tax Court disagreed, deter-
+        mining that the Code’s plain language and statutory scheme con-
+        firmed that Section 183(b)(2) grants a miscellaneous itemized de-
+        duction. The Gregorys filed a motion for reconsideration, which
+        the Tax Court denied. The Tax Court issued a final decision up-
+        holding the deficiencies—$267,221 in total—but not the penalties.
+
+
+
+        1 The Gregorys’ adjusted gross income is not in the record. But all agree that
+        it was too high to take a deduction for their hobby losses if those losses are
+        treated as miscellaneous itemized deductions subject to Section 67’s two-per-
+        cent floor.
+USCA11 Case: 22-10707      Document: 37-1     Date Filed: 05/30/2023     Page: 5 of 23
+
+
+
+
+        22-10707               Opinion of the Court                        5
+
+              The Gregorys timely appealed.
+                                       II.
+
+               We review the Tax Court’s ruling on a summary judgment
+        motion de novo. Roberts v. Comm’r, 329 F.3d 1224, 1227 (11th Cir.
+        2003). The Tax Court’s application of statutes and conclusions of
+        law also receive de novo review. Peterson v. Comm’r, 827 F.3d 968,
+        986 (11th Cir. 2016).
+                                       III.
+
+                                       A.
+
+               Before discussing the parties’ arguments, we explain the stat-
+        utory scheme for above- and below-the-line income tax deduc-
+        tions. To be clear, our background discussion of the relevant statu-
+        tory scheme is meant to give context to the parties’ specific argu-
+        ments. The Code has a byzantine character, and exceptions to the
+        following generalizations may apply in certain circumstances.
+               Income tax deductions reduce taxes owed by reducing the
+        overall amount of income that is subject to a tax. The Code distin-
+        guishes—albeit not explicitly—two principal classes of deductions:
+        above-the-line and below-the-line. Above-the-line deductions re-
+        duce gross income, that is, “all income from whatever source de-
+        rived,” and are enumerated in Section 62(a). I.R.C. §§ 61(a), 62(a).
+        Gross income minus above-the-line deductions equals adjusted
+        gross income. Id. § 62. After calculating adjusted gross income, tax-
+        payers can invoke another round of deductions to lower adjusted
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023     Page: 6 of 23
+
+
+
+
+        6                      Opinion of the Court                 22-10707
+
+        gross income. See id. § 63(a). These deductions are commonly de-
+        scribed as “below-the-line” because they occur after applying the
+        Section 62 deductions to gross income. See Cole v. Comm’r, No.
+        14402-11S, 2013 WL 1798975, at *4 n.4 (T.C. Apr. 29, 2013) (describ-
+        ing “below-the-line” deductions as “including itemized deductions
+        and” the deductions listed in Section 63(b)). Most below-the-line
+        deductions are “itemized” deductions and available only to taxpay-
+        ers like the Gregorys who do not take the standard deduction. See
+        id. § 63(b), (d), (e). Subtracting the below-the-line deductions from
+        adjusted gross income yields taxable income. Id. § 63.
+               The amount and type of deductions available to taxpayers
+        “depend[] upon legislative grace.” See New Colonial Ice Co. v. Helver-
+        ing, 292 U.S. 435, 440 (1934). Put differently, there is no general
+        right to a deduction. And not all deductions are created equal. For
+        instance, taxpayers can usually deduct the full amount of business
+        expenses, but other kinds of expenses must rise above a statutory
+        floor to trigger a deduction or may not be available to taxpayers
+        whose income exceeds a certain threshold. Compare, e.g., I.R.C. §
+        162(a) (allowing an uncapped deduction for “all the ordinary and
+        necessary expenses paid or incurred . . . in carrying on any trade or
+        business”), with, e.g., id. § 213(a) (allowing a deduction for medical
+        expenses “to the extent that such expenses exceed 7.5 percent of
+        adjusted gross income”).
+              Except for twelve deductions identified in Section 67(b), all
+        itemized deductions are “miscellaneous itemized deductions.” Id.
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023      Page: 7 of 23
+
+
+
+
+        22-10707               Opinion of the Court                          7
+
+        § 67(b). During the relevant time period, the law allowed a tax-
+        payer to deduct miscellaneous itemized deductions “only to the ex-
+        tent that the aggregate of such deductions exceed[ed] 2 percent of
+        adjusted gross income.” Id. § 67(a). In other words, a taxpayer
+        could deduct only the portion of miscellaneous itemized deduc-
+        tions that surpassed two percent of the taxpayer’s adjusted gross
+        income. See Ted D. Englebrecht et al., Trusts Face Limit on Invest-
+        ment Advisory Fee Deduction, 77 Prac. Tax Strategies 92, 92 (2006)
+        (“Section 67(a) limits an individual’s miscellaneous itemized deduc-
+        tions to the amount that exceeds 2% of adjusted gross income.”);
+        Fed. Tax Coordinator 2d (Res. Inst. Am.) ¶ A-1311 (Apr. 2023 up-
+        date) (describing this principle); Job Search Expenses Can Be Tax De-
+        ductible, I.R.S. (Aug. 4, 2012) (“The amount of your miscellaneous
+        deduction that exceeds two percent of your adjusted gross income
+        is deductible.”).
+               This two-percent floor rendered miscellaneous itemized de-
+        ductions of little value to most taxpayers. After the relevant time
+        period here, Congress amended the Code to disallow all miscella-
+        neous itemized deductions of whatever amount, rendering them
+        of even less value. But this provision is set to sunset in 2025. I.R.C.
+        § 67(g).
+                                       B.
+
+              We now turn to the parties’ arguments. The Tax Court held
+        that hobby losses under Section 183(b)(2) are miscellaneous item-
+        ized deductions that are applied below the line and subject to the
+        two-percent floor imposed by Section 67(a). Because the Gregorys’
+USCA11 Case: 22-10707       Document: 37-1       Date Filed: 05/30/2023      Page: 8 of 23
+
+
+
+
+        8                       Opinion of the Court                   22-10707
+
+        miscellaneous itemized deductions did not exceed two percent of
+        their adjusted gross income, the Tax Court disallowed almost all
+        their deductions attributable to Lady Leila. The Gregorys dispute
+        this reasoning. They argue that Section 183(b)(2) creates an above-
+        the-line deduction for income-producing hobbies. Accordingly,
+        they contend that the Tax Court erred in classifying their hobby
+        losses as miscellaneous itemized deductions subject to below-the-
+        line treatment and to the two-percent floor under Section 67. We
+        are not persuaded.
+               The language of the relevant statutory provisions settles this
+        question. See Mamani v. Berzain, 825 F.3d 1304, 1309 (11th Cir.
+        2016). We presume that the Internal Revenue Code “says . . . what
+        it means and means . . . what it says.” See Conn. Nat’l Bank v. Ger-
+        main, 503 U.S. 249, 254 (1992). We therefore begin our statutory
+        interpretation with the words of the statutes themselves. Harris v.
+        Garner, 216 F.3d 970, 972 (11th Cir. 2000) (en banc). Still, “[s]tatu-
+        tory provisions are not written in isolation.” In re Shek, 947 F.3d
+        770, 776 (11th Cir. 2020). A provision’s meaning must consider
+        both the “particular statutory language at issue” and “the language
+        and design of the statute as a whole.” Id. at 777 (quoting K Mart
+        Corp. v. Cartier, Inc., 486 U.S. 281, 291 (1988)).
+               Three provisions of Section 183 are relevant. First, Section
+        183(a) prohibits all hobby loss deductions except for those allowa-
+        ble in Section 183(b). I.R.C. § 183(a) (stating that, if an “activity en-
+        gaged in by an individual or an S Corporation” is “not engaged in
+USCA11 Case: 22-10707       Document: 37-1      Date Filed: 05/30/2023      Page: 9 of 23
+
+
+
+
+        22-10707                Opinion of the Court                          9
+
+        for profit, no deduction attributable to such activity shall be al-
+        lowed under this chapter except as provided in this section”). Sec-
+        ond, Section 183(b)(1) grants activities not engaged in for profit
+        (e.g., hobbies) the same deductions “allowable under this chap-
+        ter . . . without regard to whether or not such activity is engaged in
+        for profit.” Id. § 183(b)(1). Third, and this is the disputed provision,
+        Section 183(b)(2) allows “a deduction equal to the amount of de-
+        ductions . . . allowable under this chapter . . . only if such activity
+        were engaged in for profit.” Id. § 183(b)(2). But the amount of this
+        deduction cannot exceed the difference between the hobby’s gross
+        income and the deductions allowed under Section 183(b)(1). See id.
+        Thus, the law caps a Section 183(b)(2) deduction at the amount of
+        the hobby’s “gross income” minus the deductions claimed under
+        Section 183(b)(1).
+               Everyone agrees that Section 183(b)(2) allows the Gregorys
+        a potential deduction for their hobby losses from chartering Lady
+        Leila because they could deduct those losses “if such activity were
+        engaged in for profit.” Id. Everyone also agrees that the amount of
+        that deduction is capped at the hobby’s gross income less the de-
+        ductions taken under Section 183(b)(1). Id. § 183(b)(1)–(2). But how
+        should Section 183(b)(2)’s deduction be treated? Is it an above- or
+        below-the line deduction? If the latter, is it a miscellaneous item-
+        ized deduction subject to the two-percent floor?
+               Section 183 does not expressly answer these questions. In
+        this respect, Section 183(b)(2) resembles many other Code provi-
+        sions that identify an allowable deduction but do not account for
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023     Page: 10 of 23
+
+
+
+
+        10                     Opinion of the Court                 22-10707
+
+        that deduction’s placement above or below the line. For example,
+        Section 162(a) allows a deduction for trade and business expenses.
+        But, to find out how to treat that deduction, we must look at Sec-
+        tion 62, which provides that deductions for trade and business ex-
+        penses reduce the taxpayer’s gross income and therefore belong
+        above the line. See id. § 62(a)(1). Likewise, many other deductions
+        are granted in one Code section, but limited, capped, or circum-
+        scribed in other sections. See, e.g., id. § 161 (allowing itemized de-
+        ductions for individuals and corporations); id. § 262(a) (disallowing
+        itemized deductions for “personal, living, or family expenses”); id.
+        § 68 (phasing out itemized deductions when the taxpayer’s “ad-
+        justed gross income exceeds” a certain amount). Section 183 fits
+        this pattern; it provides a deduction, but other sections tell taxpay-
+        ers whether and how they may benefit from it.
+               For their part, the Gregorys resist this reasoning and argue
+        that, unlike other Code provisions, Section 183(b)(2) does say how
+        the deduction should be treated. Specifically, they assert Section
+        183(b)(2) creates an above-the-line deduction that is not subject to
+        the two-percent floor. The Gregorys make two text-based argu-
+        ments in support of this reading, but neither is persuasive.
+               First, the Gregorys argue that Section 183(b)(2) does not
+        confer a specific deduction but a deduction framework. That frame-
+        work, as the argument goes, requires us to treat Section 183(b)(2)
+        expenses the same as business expenses in all respects. The Grego-
+        rys contend that, because Section 183(b)(2) waives the for-profit re-
+        quirement for other deductions in Chapter 1 of the Code, Section
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023     Page: 11 of 23
+
+
+
+
+        22-10707               Opinion of the Court                         11
+
+        183(b)(2) deductions receive the same placement as trade and busi-
+        ness deductions on a taxpayer’s return. If the Gregorys had con-
+        ducted their chartering activities for profit, they could have de-
+        ducted trade and business expenses from Lady Leila under Section
+        162 and placed that deduction above the line under Section 62(a).
+        See Est. of Sherrod v. Comm’r, 774 F.2d 1057, 1064 (11th Cir. 1985)
+        (“Section 162 permits the deduction of business expenses in arriv-
+        ing at adjusted gross income . . . .”) (emphasis added). They therefore
+        conclude that their Section 183(b)(2) expenses attributable to Lady
+        Leila are deductible above the line just as if they were trade or busi-
+        ness expenses.
+                The text does not support the Gregorys’ argument that Sec-
+        tion 183(b)(2)’s deduction must be given the same priority and
+        placement as a trade or business expense. Section 183(b)(2) grants
+        “a deduction equal to the amount of the deductions” allowable for
+        activities engaged in for profit. I.R.C. § 183(b)(2). Despite referring
+        to business activities to set the deduction “amount,” in no other
+        respect does Section 183(b)(2) instruct us to treat that deduction
+        the same as a business expense. Amount is not kind. Compare
+        Amount, Oxford English Dictionary (online ed. Dec. 2022) (defining
+        “amount” as “[a] quantity of something; a portion or measure) (em-
+        phasis added) with Kind, id. (defining “kind” as “[a] class or category
+        of things distinguished by common characteristics” or “a particular
+        variety or type”) (emphasis added). And, of course, even the
+        “amount” of the hobby loss deduction under Section 183 is differ-
+        ent from the amount of a comparable deduction available to a for-
+        profit business because the Section 183 deduction is capped at the
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023     Page: 12 of 23
+
+
+
+
+        12                     Opinion of the Court                 22-10707
+
+        hobby’s income. See I.R.C. § 183(b)(2). In short, Section 183(b)(2)
+        permits a deduction otherwise disallowed by Section 183(a) and
+        identifies its amount. But the deduction allowed by Section
+        183(b)(2) is its own thing, not a trade or business expense.
+                Second, the Gregorys argue that, because Section 183(b)(2)
+        caps the deduction amount at the hobby’s gross income minus the
+        Section 183(b)(1) deductions, we can surmise that Section 183(b)(2)
+        expenses are supposed to reduce a taxpayer’s gross income—not the
+        taxpayer’s adjusted gross income—and therefore belong above the
+        line. That argument also misses the mark. The Section 183(b)(2)
+        cap is based on the hobby’s gross income; above-the-line deductions
+        reduce an individual’s overall gross income from whatever source.
+        These are two very different things. Section 183(b)(2) limits deduct-
+        ible hobby losses “to the extent that the gross income derived from
+        such activity [i.e., the hobby] . . . exceeds the deductions allowable
+        by [Section 183(b)(1)].” Id. § 183(b)(2) (emphasis added). The Code
+        defines “gross income” as “all income from whatever source de-
+        rived.” Id. § 61(a). The “gross income derived from [the hobby],”
+        id. § 183(b)(2), therefore means all income from the hobby, not the
+        taxpayer’s total gross income. The Tax Court correctly concluded
+        that Section 183(b)(2)’s reference to “gross income” merely con-
+        cerns the maximum allowable deduction amount under Section
+        183(b)(2). It is a benchmark for capping the deduction—it is not a
+        command to apply hobby loss deductions against a taxpayer’s total
+        gross income.
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023     Page: 13 of 23
+
+
+
+
+        22-10707               Opinion of the Court                         13
+
+                Because the text of Section 183 does not tell us how to treat
+        the hobby loss deduction it provides, we must turn to other provi-
+        sions of the Code to answer that question. See Hagans v. Comm’r of
+        Soc. Sec., 694 F.3d 287, 296 (3d Cir. 2012) (“When a statute is ‘com-
+        plex and contains many interrelated provisions,’ it may be ‘impos-
+        sible to attach a plain meaning to provisions in isolation.’” (quoting
+        Cleary ex rel. Cleary v. Waldman, 167 F.3d 801, 807 (3d Cir. 1999))).
+        Those provisions are Section 62, Section 63, and Section 67. As ex-
+        plained below, those provisions establish that Section 183(b)(2) de-
+        ductions are below-the-line and must exceed two percent of a tax-
+        payer’s adjusted gross income before they become deductible. We
+        will walk through each provision in turn.
+               We start with Section 62, which lists all above-the-line de-
+        ductions that reduce gross income. See I.R.C. § 62(a) (describing
+        over a dozen above-the-line deductions). These deductions include
+        trade and business expenses, id. § 62(a)(1), “losses from the sale or
+        exchange of property,” id. § 62(a)(3), and certain attorney’s fees, id.
+        § 62(a)(21). The list of above-the-line deductions in Section 62(a) is
+        exhaustive. Nothing in Section 62’s text suggests that Congress hid
+        other above-the-line deductions elsewhere in the Code. See id. § 62.
+        And Section 62 nowhere mentions Section 183 or hobby expenses
+        within its comprehensive list of above-the-line deductions. See id. §
+        62(a)(1)–(21); Antonin Scalia & Bryan A. Garner, Reading Law: The
+        Interpretation of Legal Texts 93 (2012) (observing that courts should
+        not “elaborate unprovided-for exceptions to a text”); EEOC v. Aber-
+        crombie & Fitch Stores, Inc., 575 U.S. 768, 774 (2015) (“We construe
+USCA11 Case: 22-10707      Document: 37-1       Date Filed: 05/30/2023       Page: 14 of 23
+
+
+
+
+        14                      Opinion of the Court                    22-10707
+
+        . . . [a statute’s] silence as exactly that: silence.”). Accordingly, Sec-
+        tion 183 deductions are not above-the-line.
+               Next, we move to Section 63. Section 63(d) defines “item-
+        ized deductions” as all deductions except (1) the above-the-line de-
+        ductions listed in Section 62 and (2) “any deduction referred to in
+        any paragraph of subsection (b) [of Section 63].” Id. § 63(d). For its
+        part, Section 63(b) lists four deductions: the standard deduction,
+        the personal exemption deduction under Section 151, the qualified
+        business income deduction under Section 199A, and the charitable
+        contribution deduction under Section 170(p). Id. § 63(b). Again,
+        Section 183 is nowhere to be found. The Section 183 deduction
+        must therefore be an “itemized deduction.”
+                Lastly, we come to Section 67. Section 67(a) imposes the
+        two-percent floor on “miscellaneous itemized deductions.” Id. §
+        67(a). In Section 67(b), the statute defines “miscellaneous itemized
+        deductions” as all “itemized deductions” other than twelve specific
+        listed deductions, none of which mentions hobby expenses or Sec-
+        tion 183. See id. § 67(a)–(b). Thus, Section 183(b)(2) expenses are
+        miscellaneous itemized deductions and deductible “only to the ex-
+        tent that the aggregate of such deductions exceeds 2 percent of ad-
+        justed gross income.” Id. § 67(a).
+               We note that our reading of these statutes is consistent with
+        other courts and IRS regulations. Although none of our sister cir-
+        cuits has addressed the Gregorys’ arguments, several lower courts
+        have reached the same conclusion we do here. See, e.g., Purdey v.
+        United States, 39 Fed. Cl. 413, 417 (1997) (concluding that Section
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023     Page: 15 of 23
+
+
+
+
+        22-10707               Opinion of the Court                         15
+
+        183(b)(2) deductions are miscellaneous itemized deductions be-
+        cause Section 67(b) does not exclude them); Strode v. Comm’r, 109
+        T.C.M. (CCH) 1599, 2015 WL 3897787, at *11 n.12 (2015) (same).
+        Likewise, the IRS provides by regulation that “expenses that . . . are
+        subject to the 2-percent floor include . . . [e]xpenses for an activity
+        for which a deduction is otherwise allowable under section 183.”
+        26 C.F.R. § 1.67-1T(a)(1).
+                Tax analysts and commentators also agree that “expenses of
+        an activity not carried on for profit are” one of “the principal cate-
+        gories of miscellaneous itemized deductions.” B. Bittker & L.
+        Lokken, Federal Taxation of Income, Estates and Gifts ¶ 30.4.2 (July
+        2022). Leading tax treatises inform tax practitioners that “[d]educ-
+        tions for hobby activities are claimed as itemized deductions on
+        Schedule A” and “[e]xpenses . . . allowed under the hobby loss rules
+        are ‘miscellaneous itemized deductions.’” Fed. Tax Coordinator 2d
+        (Res. Inst. Am.) ¶ M-5804 (Apr. 2023 update); see also 1 Richard D.
+        Blau et al., S Corporations Federal Taxation § 7:29 (Nov. 2022 update)
+        (same); 33 Am. Jur. 2d Federal Taxation ¶ 1153 (May 2023 update)
+        (same); 1 Edward F. Koren, Estate, Tax and Personal Financial Plan-
+        ning § 4:10 n.15 (Mar. 2023 update) (same). Put another way, Sec-
+        tion 183(b)(2) deductions “must be taken as miscellaneous itemized
+        deductions subject to the 2%-of-AGI (adjusted gross income) re-
+        duction (Section 67).” Donald Samelson, The Income Tax Aspects of
+        Artistic Activities, 93 Prac. Tax Strategies 244, 244 (2014).
+               In summary, the Tax Court correctly calculated the Grego-
+        rys’ tax liability. Section 183(b)(2) allows a deduction for hobby
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023     Page: 16 of 23
+
+
+
+
+        16                     Opinion of the Court                 22-10707
+
+        losses but does not say whether it belongs above or below the line.
+        Section 62, however, places that deduction below the line. Because
+        Sections 63 and 67 also omit Section 183, hobby expenses deducted
+        under Section 183(b)(2) are miscellaneous itemized deductions.
+        During the relevant time period, these deductions were subject to
+        a two-percent floor on adjusted gross income. The result is that
+        Section 183(b)(2) gave the Gregorys a deduction for their expenses
+        from operating Lady Leila, but Section 67 did not allow them to
+        take that deduction because they could not meet the two-percent
+        threshold for miscellaneous itemized deductions.
+                                       C.
+
+               In response to this plain-text analysis, the Gregorys make
+        five additional arguments. None is persuasive.
+               First, the Gregorys argue that we “recognized the connec-
+        tion between Section 183 deductions and the analogous adjust-
+        ments under Section 162” in Brannen v. Commissioner, 722 F.2d 695
+        (11th Cir. 1984). In Brannen, taxpayer-Brannen invested in a limited
+        partnership to purchase a “spaghetti western” film to distribute in
+        the United States. Brannen, 722 F.2d at 697–700. The film flopped,
+        and the Commissioner disallowed certain losses claimed by Bran-
+        nen “because the purchase and subsequent distribution of the
+        movie [by the limited partnership] was an activity ‘not engaged in
+        for profit.’” Id. at 701. In affirming the Tax Court, we stated that
+        “Section 183 takes effect only when the taxpayer is engaged in an
+        activity . . . not otherwise entitled to claimed deductions under Sec-
+        tions 162 or 212.” Id. at 704. Thus, in assessing profit motive, “we
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023    Page: 17 of 23
+
+
+
+
+        22-10707               Opinion of the Court                       17
+
+        must first determine whether the taxpayer was entitled to deduc-
+        tions under Section 162.” Id. After deciding that the partnership
+        was not “entered into with the dominant hope and intent of realiz-
+        ing a profit” and therefore not eligible for Section 162 deductions,
+        we held that the partnership could take deductions for “cash paid
+        for the movie, to the extent of the gross income derived from the
+        activity” under Section 183(b)(2). Id. at 704, 706.
+               Brannen correctly describes the relationship between Section
+        162 and Section 183(b)(2) in determining profit motive. Though we
+        held that Brannen could deduct certain expenses to the extent of
+        gross income derived from the partnership under Section 183(b)(2),
+        we did not opine on the placement of those deductions or whether
+        hobby losses belong above or below the line. Moreover, Congress
+        did not enact Section 67, which imposed the two-percent floor on
+        miscellaneous itemized deductions, until 1986, a couple of years af-
+        ter this Court decided Brannen. See Tax Reform Act of 1986, Pub.
+        L. No. 99-514, 100 Stat. 2085, 2113–14. Accordingly, Brannen does
+        not stand for the proposition that Section 183(b)(2) confers an
+        above-the-line deduction, and the Gregorys’ reliance on it is mis-
+        placed.
+                Second, the Gregorys contend that our interpretation of Sec-
+        tion 183(b)(2) contravenes congressional intent. They point to leg-
+        islative history, arguing that Congress enacted Section 183 to pre-
+        vent wealthy taxpayers from generating artificial losses, not to pre-
+USCA11 Case: 22-10707      Document: 37-1       Date Filed: 05/30/2023      Page: 18 of 23
+
+
+
+
+        18                      Opinion of the Court                   22-10707
+
+        vent taxpayers from deducting legitimate hobby expenses. This in-
+        tent explains, for example, why Congress capped the Section
+        183(b)(2) deduction.
+               This argument misses the point. The Gregorys have a de-
+        duction for their hobby losses under Section 183—just as Congress
+        intended. But they cannot benefit from that deduction because an-
+        other Code provision, Section 67, requires that—to actually take a
+        deduction for a miscellaneous itemized deduction such as the one
+        for hobby losses—“the aggregate of such deductions [must] ex-
+        ceed[] 2 percent of adjusted gross income.” I.R.C. § 67(a). When
+        Congress enacted Section 67, it affected taxpayers’ ability to benefit
+        from the already-existing deductions that the Code provided. Con-
+        gress has revealed its intent, and “we must give effect to” it. Miller
+        v. French, 530 U.S. 327, 336 (2000) (quoting Sinclair Refin. Co. v. At-
+        kinson, 370 U.S. 195, 215 (1962)); see also Chevron, U.S.A., Inc. v. Nat.
+        Res. Def. Council, Inc., 467 U.S. 837, 842–43 (1984) (holding that
+        courts “must give effect to the unambiguously expressed intent of
+        Congress”).
+               Third, the Gregorys urge us to resolve any statutory ambi-
+        guity in their favor because “ambiguous tax statutes are to be con-
+        strued against the government and in favor of the taxpayer.” Royal
+        Caribbean Cruises, Ltd. v. United States, 108 F.3d 290, 294 (11th Cir.
+        1997). But there is no ambiguity in the tax statutes at issue here. See
+        generally Kisor v. Wilkie, 139 S. Ct. 2400, 2415 (2019) (explaining that
+        a provision is “genuinely ambiguous” only when, after a court has
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023     Page: 19 of 23
+
+
+
+
+        22-10707               Opinion of the Court                        19
+
+        exhausted “all the ‘traditional tools’ of construction,” an “interpre-
+        tive question still has no single right answer” (quoting Chevron, 467
+        U.S. at 843 n.9)). As explained above, a straightforward reading of
+        Section 62, Section 63, and Section 67 establishes that the deduction
+        provided in Section 183(b)(2) is a below-the-line miscellaneous
+        itemized deduction.
+               Fourth, citing the canon against implied repeals, the Grego-
+        rys posit that our reading of Section 62, Section 63, and Section 67
+        implicitly repeals Section 183(b)(2). See, e.g., Posadas v. Nat’l City
+        Bank of N.Y., 296 U.S. 497, 503 (1936) (describing repeal by implica-
+        tion). Not so. This case does not implicate the presumption against
+        implied repeal because we can read the relevant Code sections har-
+        moniously. Section 183(b)(2) grants a deduction for certain hobby
+        expenses; Sections 62 and 63 place that deduction below the line as
+        an itemized deduction; Section 67 renders it a miscellaneous item-
+        ized deduction subject to the two-percent floor. Because our read-
+        ing of Sections 62, 63, and 67 does not contravene or undermine
+        Section 183(b)(2), the presumption against implied repeal—and im-
+        plied amendment—are inapposite.
+               Fifth, the Gregorys argue that our reading would lead to an
+        odd or absurd result. A court may “disregard[] or judicially cor-
+        rect[]” a statutory provision “if failing to do so would result in a
+        disposition that no reasonable person could approve.” Scalia &
+        Garner, supra, at 234 (alteration omitted). When “the literal reading
+        of a statutory” provision compels an odd or absurd result, “we
+        must search for other evidence” to avoid that result. Pine v. City of
+USCA11 Case: 22-10707      Document: 37-1      Date Filed: 05/30/2023      Page: 20 of 23
+
+
+
+
+        20                      Opinion of the Court                  22-10707
+
+        West Palm Beach, 762 F.3d 1262, 1272 (11th Cir. 2014) (quoting Pub.
+        Citizen v. U.S. Dep’t of Just., 491 U.S. 440, 454 (1989)). But courts
+        should invoke the absurdity doctrine only when “the absurdity is
+        ‘so gross as to shock the general moral or common sense.’” Packard
+        v. Comm’r, 746 F.3d 1219, 1222 (11th Cir. 2014) (quoting Crooks v.
+        Harrelson, 282 U.S. 55, 60 (1930)).
+                The Gregorys contend that applying Section 67’s two-per-
+        cent floor to deductions under Section 183(b)(2) creates an absurd
+        result because a taxpayer will need either a very low income or
+        very large hobby losses (and hobby income) to benefit from the
+        deduction. We disagree. This consequence may be unfavorable for
+        the Gregorys, but it is not absurd. The absurdity doctrine should
+        “correct obviously unintended dispositions, not . . . revise purpose-
+        ful dispositions.” Scalia & Garner, supra, at 239. Here, Congress de-
+        liberately devised the complained-of result by imposing the two-
+        percent floor on miscellaneous itemized deductions. Congress can
+        cap or reduce taxpayer eligibility for a tax deduction if it wants, and,
+        here, it elected to do so.
+                                        IV.
+
+               The petition is DENIED.
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023    Page: 21 of 23
+
+
+
+
+        1                     WILSON, J., Concurring               22-10707
+
+        WILSON, Circuit Judge, concurring:
+               I agree with the majority’s holding that hobby expenses un-
+        der Section 183(b)(2) of the Internal Revenue Code are below-the-
+        line miscellaneous itemized deductions, but I would reach this con-
+        clusion differently. In my view, the plain language of Section
+        183(b)(2) is ambiguous. Thus, I would look to Congress’ intent to
+        determine whether Section 183(b)(2) expenses are to be deducted
+        above the line (reducing gross income) or below the line as miscel-
+        laneous itemized deductions (reducing adjusted gross income
+        (AGI)).
+                The majority concludes that the plain language of the rele-
+        vant statutory provisions—namely, Sections 183, 62, 63, and 67—
+        settles the question of whether Section 183(b)(2) creates an above-
+        the-line deduction for income-producing hobbies. Maj. Op. at 8,
+        13–16. As the majority correctly notes “the text of Section 183 does
+        not tell us how to treat the hobby loss deduction it provides.” Maj.
+        Op. at 13. But rather than turn to other Code provisions to deduce
+        the meaning of Section 183, I would look to congressional intent
+        for guidance. We look beyond a statute’s plain language to extrin-
+        sic materials to determine congressional intent if the statute’s lan-
+        guage is ambiguous. United States v. DBB, Inc., 180 F.3d 1277, 1281
+        (11th Cir. 1999). “A word or phrase is ambiguous when the ques-
+        tion is which of two or more meanings applies.” Antonin Scalia &
+        Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 32
+USCA11 Case: 22-10707     Document: 37-1      Date Filed: 05/30/2023     Page: 22 of 23
+
+
+
+
+        2                     WILSON, J., Concurring                22-10707
+
+        (2012). Our function as the judiciary “in construing a statute is lim-
+        ited to ascertaining the intention of the Legislature therein ex-
+        pressed.” Ebert v. Poston, 266 U.S. 548, 554 (1925).
+                Here, the language of Section 183(b)(2) is ambiguous be-
+        cause it creates a question of “which of two or more meanings ap-
+        plies.” Scalia & Garner, supra. For hobbies not engaged in for
+        profit, Section 183(b)(2) permits
+              a deduction equal to the amount of the deductions
+              which would be allowable . . . only if such activity
+              were engaged in for proﬁt, but only to the extent that
+              the gross income derived from such activity . . . ex-
+              ceeds the deductions allowable by reason of [Section
+              183(b)(1)].
+
+        Under the Commissioner’s interpretation of this provision, hobby
+        expenses are miscellaneous itemized deductions subject to Section
+        67’s two-percent floor and are deductible below the line against
+        AGI. Under the Gregorys’ interpretation, hobby expenses are akin
+        to business expenses and thus can be deducted above the line
+        against gross income. Yet, on its face, Section 183(b)(2) simply does
+        not tell us whether hobby expenses are miscellaneous itemized de-
+        ductions or if they may be treated as business expenses. Indeed,
+        based on a facial reading of the plain text, either interpretation
+        seems plausible. Given the ambiguity in the statutory language,
+        we can—and should—look to extrinsic materials to ascertain how
+        Congress intended hobby expenses to be treated under the tax
+        code. See DBB, Inc., 180 F.3d at 1281.
+USCA11 Case: 22-10707        Document: 37-1         Date Filed: 05/30/2023   Page: 23 of 23
+
+
+
+
+        22-10707                 WILSON, J., Concurring                        3
+
+                Fortunately, the legislative history quickly clears up any am-
+        biguity. Specifically, the December 2017 conference report for the
+        Tax Cuts and Jobs Act 1 confirms that hobby expenses are below-
+        the-line miscellaneous itemized deductions that are deductible
+        against AGI and subject to Section 67’s two-percent floor. The con-
+        ference report repealed certain miscellaneous itemized deductions
+        subject to Section 67’s two-percent floor for taxable years begin-
+        ning after December 31, 2017. See H.R. REP. NO. 115-466, at 273,
+        276 (2017) (Conf. Rep.). The report provides a non-exhaustive list
+        of items that, under then-present law, were deductible under Sec-
+        tion 67 provided they exceeded two percent of the taxpayer’s AGI.
+        Id. at 273–74. Among the list of examples were “[h]obby expenses,
+        but generally not more than hobby income.” Id. at 274. Thus, the
+        conference report confirms that during the relevant time in this
+        case—tax years 2014 and 2015—Congress indeed intended hobby
+        expenses to be treated as miscellaneous itemized deductions sub-
+        ject to Section 67’s two-percent floor.
+               Like the majority, I would deny the petition.
+
+
+
+
+        1 Pub. L. No. 115-97, § 11045, 131 Stat. 2054 (2017).
+

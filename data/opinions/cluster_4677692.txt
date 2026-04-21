@@ -1,0 +1,1023 @@
+                    FOR PUBLICATION
+
+   UNITED STATES COURT OF APPEALS
+        FOR THE NINTH CIRCUIT
+
+
+ ALTERA CORPORATION &                           Nos. 16-70496
+ SUBSIDIARIES,                                       16-70497
+               Petitioner-Appellee,
+                                                   Tax Ct. Nos.
+                     v.                              6253-12
+                                                     9963-12
+ COMMISSIONER OF INTERNAL
+ REVENUE,
+            Respondent-Appellant.                    ORDER
+
+
+                   Filed November 12, 2019
+
+   Before: Sidney R. Thomas, Chief Judge, and Susan P.
+    Graber and Kathleen M. O’Malley, * Circuit Judges.
+
+                           Order;
+             Dissent by Judge Milan D. Smith, Jr.
+
+
+
+
+    *
+      The Honorable Kathleen M. O’Malley, United States Circuit Judge
+for the U.S. Court of Appeals for the Federal Circuit, sitting by
+designation.
+2                     ALTERA CORP. V. CIR
+
+                          SUMMARY **
+
+
+                                Tax
+   The panel denied a petition for rehearing en banc on
+behalf of the court in a case in which the panel reversed the
+decision of the Tax Court.
+
+    Judge M. Smith, joined by Judges Callahan and Bade,
+dissented from the denial of rehearing en banc. Title 26 of
+United States Code § 482 authorizes the Department of
+Treasury to re-allocate reported income and costs between
+related entities where necessary to prevent them from
+improperly avoiding taxes. Judge M. Smith agreed with the
+Tax Court’s unanimous conclusion that the Treasury’s
+implementing regulation § 1.482-7(d)(2) constituted
+arbitrary and capricious rulemaking in violation of the
+Administrative Procedure Act. Judge M. Smith observed
+that, in addition to being wrongly decided, the majority’s
+decision engenders deleterious practical consequences,
+threatens the uniform enforcement of the Tax Code, invites
+an effective circuit split, ignores the reasonable reliance of
+businesses on the well-settled arm’s length standard and
+subjects those businesses to double taxation, lowers the bar
+for compliance with the Administrative Procedure Act, and
+sends a signal that executive agencies can bypass proper
+notice-and-comment         procedures     through    post-hoc
+rationalization.
+
+
+
+
+    **
+       This summary constitutes no part of the opinion of the court. It
+has been prepared by court staff for the convenience of the reader.
+                  ALTERA CORP. V. CIR                   3
+
+                       COUNSEL
+
+Arthur T. Catterall (argued), Richard Farber, Gilbert S.
+Rothenberg, and Francesca Ugolini, Attorneys; Travis A.
+Greaves, Deputy Assistant Attorney General; Richard E.
+Zuckerman, Principal Deputy Assistant Attorney General;
+Tax Division, United States Department of Justice,
+Washington, D.C.; for Respondent-Appellant.
+
+Donald M. Falk (argued), Mayer Brown LLP, Palo Alto,
+California; Thomas Kittle-Kamp and William G. McGarrity,
+Mayer Brown LLP, Chicago, Illinois; Brian D. Netter,
+Travis Crum, and Nicole A. Saharsky, Mayer Brown LLP,
+Washington, D.C.; A. Duane Webber, Phillip J. Taylor, and
+Joseph B. Judkins, Baker & McKenzie LLP, Washington,
+D.C.; Ginger D. Anders, Munger Tolles & Olson LLP,
+Washington, D.C.; Mark R. Yohalem, Munger Tolles &
+Olson LLP, Los Angeles, California; for Petitioner-
+Appellee.
+
+Susan C. Morse, University of Texas Law School, Austin,
+Texas; Stephen E. Shay and Allison Bray, Certified Law
+Students, Harvard Law School, Cambridge, Massachusetts;
+Clinton G. Wallace, Columbia, South Carolina; and Leandra
+Lederman, Bloomington, Indiana; for Amici Curiae Law
+Academics and Professors.
+
+Jonathan E. Taylor, Gupta Wessler PLLC, Washington,
+D.C.; Clint Wallace, Vanderbilt Hall, New York, New York;
+for Amici Curiae Anne Alstott, Reuven Avi-Yonah, Lily
+Batchelder, Joshua Blank, Noel Cunningham, Victor
+Fleischer, Ari Glogower, David Kamin, Mitchell Kane,
+Sally Katzen, Edward Kleinbard, Michael Knoll, Rebecca
+Kysar, Zachary Liscow, Daniel Shaviro, John Steines, David
+Super, Clint Wallace, and George Yin.
+4                 ALTERA CORP. V. CIR
+
+Larissa B. Neumann, Ronald B. Schrotenboer, Kenneth B.
+Clark, Adam R. Gahtan, and Michael D. Knobler, Fenwick
+& West LLP, Mountain View, California, for Amicus Curiae
+Xilinx Inc.
+
+Christopher J. Walker, The Ohio State University Moritz
+College of Law, Columbus, Ohio; Kate Comerford Todd,
+Steven P. Lehotsky, and Warren Postman, U.S. Chamber
+Litigation Center, Washington, D.C.; for Amicus Curiae
+Chamber of Commerce of the United States of America.
+
+John I. Forry, San Diego, California, for Amicus Curiae
+TechNet.
+
+Charles G. Cole, Alice E. Loughran, Michael C. Durst,
+Gregory N. Kidder, and Mark C. Savignac, Steptoe &
+Johnson LLP, Washington, D.C.; Bennett Evan Cooper,
+Steptoe & Johnson LLP, Phoenix, Arizona; Alexander
+Volokh, Emory University School of Law, Atlanta, Georgia;
+for Amici Curiae Software and Information Industry
+Association, Financial Executives International, Information
+Technology Industry Council, Silicon Valley Tax Directors
+Group, Software Finance and Tax Executives Counsel,
+National Association of Manufacturers, American
+Chemistry Council, BSA | the Software Alliance, National
+Foreign Trade Council, Biotechnology Innovation
+Organization, Computing Technology Industry Association,
+The Tax Council, United States Council for International
+Business, and Semiconductor Industry Association.
+
+Kenneth P. Herzinger and Eric C. Wall, Orrick Herrington
+& Sutcliffe LLP, San Francisco, California; Peter J.
+Connors, Orrick Herrington & Sutcliffe LLP, New York,
+New York; for Amici Curiae Charles W. Calomiris, Kevin
+H. Hassett, and Sanjay Unni.
+                  ALTERA CORP. V. CIR                    5
+
+Roderick K. Donnelly and Neal A. Gordon, Morgan Lewis
+& Bockius LLP, Palo Alto, California; Thomas M. Peterson,
+Morgan Lewis & Bockius LLP, San Francisco, California;
+Michelle L. Andrighetto, Morgan Lewis & Bockius LLP,
+Boston, Massachusetts; Justin McGough, 3M Company,
+Saint Paul, Minnesota; Karen Robinson, Vice President,
+Legal, Adobe Inc., San Jose, California; Theodore J.
+Boutrous Jr. and Christopher Chorba, Gibson Dunn &
+Crutcher LLP (for Apple Inc.), Los Angeles, California;
+Armin D. Eberhard, Director, International Tax Planning
+and M&A, Applied Materials, Santa Clara, California;
+Desiree Ralls-Morrison, SVP, General Counsel & Corporate
+Secretary, Boston Scientific Corporation, Marlborough,
+Massachusetts; Thomas J. Vallone, Senior Vice President,
+Global Tax, Dell Technologies Inc., Round Rock, Texas;
+Andy Sherman, Dolby Laboratories Inc., San Francisco,
+California; Aaron Johnson, VP Legal, eBay, San Jose,
+California; Jacob Schatz, EVP, General Counsel and
+Corporate Secretary, Electronic Arts Inc., Redwood City,
+California; Katie Lodato, Vice President – Global Tax, Eli
+Lilly and Company, Indianapolis, Indiana; Dana L. Lasley,
+Emerson Electric Co., St. Louis, Missouri; Paul S. Grewal,
+VP & Deputy General Counsel, Facebook Inc., Menlo Park,
+California; John Whittle, Executive Vice President, General
+Counsel, Fortinet, Sunnyvale, California; Christine
+Henninger, General Mills Inc., Golden Valley, Minnesota;
+Nora Puckett, Google LLC, Mountain View, California;
+Kyle Bonacum, GoPro Inc., San Mateo, California; Joshua
+Mishoe, Vice President, Hewlett Packard Enterprise
+Company, Plano, Texas; Barbara Beckerman, International
+Paper Company, Memphis, Tennessee; Michael R. Peterson,
+President and Corporate Secretary, Johnson Controls Inc.;
+Mark Casper, Vice President and Deputy General Counsel,
+Maxim Integrated, San Jose, California; Matthew Fawcett,
+General Counsel, NetApp Inc., Sunnyvale, California;
+6                 ALTERA CORP. V. CIR
+
+Margaret C. Wilson, Wilson Law Group LLC (for Oracle
+Corporation), Princeton, New Jersey; Maryanne Bifulco,
+Vice President, Transfer Pricing Counsel, PepsiCo Inc.,
+Purchase, New York; Markus Green, Assistant GC,
+Government Relations/Litigation, Pfizer Inc., New York,
+New York; Lowell Yoder, McDermott Will & Emery (for
+Procter and Gamble Company), Chicago, Illinois; Beth
+Wapner, VP Tax, Qualcomm Incorporated, San Diego,
+California; Tanya Guazzo, S&P Global Inc., New York,
+New York; Russell Elmer, ServiceNow Inc., Santa Clara,
+California; Lora Blum, General Counsel, SurveyMonkey,
+San Mateo, California; Scott C. Taylor, EVP, General
+Counsel & Secretary, Symantec Corporation, Mountain
+View, California; Donald P. Lancaster, United Parcel
+Service Inc., Atlanta, Georgia; Lisa McFall, VP & Deputy
+General Counsel, Workday Inc., Pleasanton, California; for
+Amicus Curiae Cisco Systems Inc. and Thirty-Two Other
+Affected Companies.
+
+Christopher Bowers, David Foster, Raj Madan, and Royce
+Tidwell, Skadden Arps Slate Meagher & Flom LLP,
+Washington, D.C.; Nathaniel Carden, Skadden Arps Slate
+Meagher & Flom LLP, Chicago, Illinois; for Amicus Curiae
+Amazon.com Inc.
+
+Miriam L. Fisher, Melissa Arbus Sherry, and Eric J.
+Konopka, Latham & Watkins LLP, Washington, D.C., for
+Amici Curiae PricewaterhouseCoopers LLP, Deloitte Tax
+LLP, and KPMG LLP.
+                    ALTERA CORP. V. CIR                       7
+
+                           ORDER
+
+    The full court has been advised of the petition for
+rehearing en banc. A judge requested a vote on whether to
+rehear the matter en banc. The matter failed to receive a
+majority of the votes of the nonrecused active judges in favor
+of en banc consideration. Fed. R. App. P. 35. Judges
+McKeown, Wardlaw, Bybee, Bea, Watford, Owens,
+Friedland, Miller, Collins, and Lee were recused and did not
+participate in the vote.
+
+    The petition for rehearing en banc is denied. Attached is
+the dissent from and statements respecting the denial of
+rehearing en banc.
+
+
+
+M. SMITH, Circuit Judge, with whom CALLAHAN and
+BADE, Circuit Judges, join, dissenting from the denial of
+rehearing en banc:
+
+    Neither the laudable goal of preventing tax evasion nor
+the prospect of adding billions of dollars to the public coffers
+excuses the Department of the Treasury from complying
+with the Administrative Procedure Act. In 2003, Treasury
+promulgated a tax rule with no reasoned basis for its
+decision, pursuant to an explanation that ran contrary to the
+evidence before it. In 2019, a divided panel of our court
+upheld that rule based on a novel interpretation of the
+relevant statute, which Treasury developed only as an
+appellate litigating position, and which was never subject to
+notice and comment. As recognized by the unanimous en
+banc Tax Court, Treasury’s actions in this case are the
+epitome of arbitrary and capricious rulemaking. The panel
+majority’s decision tramples on the reliance interests of
+American businesses, threatens the uniform enforcement of
+8                     ALTERA CORP. V. CIR
+
+the Tax Code, and drastically lowers the bar for compliance
+with the Administrative Procedure Act.
+
+    I respectfully dissent from our court’s denial of rehearing
+en banc. 1
+
+                                  I.
+
+    For almost a century, Congress has authorized Treasury
+to recalculate the taxes of related entities based on what their
+taxes would look like if they were unrelated entities. For the
+past fifty years, Treasury has made this determination by
+analyzing whether the results of a transaction between
+related entities are consistent with the results of a
+comparable transaction between entities operating at arm’s
+length. When a transaction does not meet this arm’s length
+standard, Treasury adjusts it for tax purposes by re-
+allocating the related entities’ costs and income.
+
+    In the late-1990s, Treasury decided that stock-based
+compensation—then a new phenomenon—was a type of
+cost it wanted to re-allocate under these calculations. The
+problem was, and remains, that unrelated entities do not
+share stock-based compensation costs. Treasury’s first
+attempt at such a re-allocation was therefore thrown out by
+the Tax Court and by this court because it was contrary to
+Treasury’s own regulations calling for application of the
+arm’s length standard. Perhaps preemptively recognizing
+this defect on the very face of its rules, Treasury attempted a
+mid-litigation cure of simply adding a cross reference to its
+
+
+
+    1
+       Judges McKeown, Wardlaw, Bybee, Bea, Watford, Owens,
+Friedland, Miller, Collins, and Lee were recused from consideration of
+en banc rehearing in this matter.
+                        ALTERA CORP. V. CIR                                 9
+
+arm’s length standard provision. That attempted cure is the
+2003 rulemaking challenged here.
+
+                                     A.
+
+    In 1928, Congress enacted 26 U.S.C. (“I.R.C.”) § 482 to
+authorize Treasury to re-allocate reported income and costs
+between related entities where necessary to prevent them
+from improperly avoiding taxes by, for instance, shifting
+income to lower tax foreign jurisdictions. See H.R. Rep. No.
+70-2, at 16–17 (1927); Comm’r v. First Sec. Bank of Utah,
+N.A., 405 U.S. 394, 400 (1972). Treasury soon promulgated
+regulations specifying that “[t]he standard to be applied in
+every case is that of an uncontrolled taxpayer dealing at
+arm’s length with another uncontrolled taxpayer.” Treas.
+Reg. 86, art. 45-1(b) (1935). 2
+
+    In 1968, Treasury promulgated regulations specific to
+“qualified cost-sharing arrangements” (QCSAs) 3, such as
+the research and development agreement at issue in this case.
+See 33 Fed. Reg. 5848 (April 16, 1968). Treasury required
+that, “[i]n order for the sharing of costs and risks to be
+considered on an arm’s length basis, the terms and
+conditions must be comparable to those which would have
+    2
+      An “uncontrolled” taxpayer is distinguished from a “controlled”
+taxpayer, defined as “any one of two or more taxpayers owned or
+controlled directly or indirectly by the same interests, . . . includ[ing] the
+taxpayer that owns or controls the other taxpayers.” Treas. Reg.
+§ 1.482–1(i)(5).
+
+     3
+       Designation of a cost-sharing agreement as a QCSA allows
+participating entities to share the costs of developing intangible property
+without incurring partnership taxation, and without any foreign
+participants incurring taxes for doing business in the United States.
+Treas. Reg. § 1.482-7A(a)(1).
+10                     ALTERA CORP. V. CIR
+
+been adopted by unrelated parties similarly situated had they
+entered into such an arrangement.” Id. at 5854. The arm’s
+length standard thus requires an “essentially and intensely
+factual” inquiry that looks to comparable transactions
+between non-related entities to ensure tax parity. Procacci
+v. Comm’r, 94 T.C. 397, 412 (1990).
+
+    In 1986, Congress amended § 482 to address the
+valuation of transfers of intangible property, 4 providing that
+“[i]n the case of any transfer (or license) of intangible
+property . . . , the income with respect to such transfer or
+license shall be commensurate with the income attributable
+to the intangible.” I.R.C. § 482. This amendment appeared
+to introduce a new standard for allocating costs—a
+“commensurate with income” standard—which might have
+constituted a departure from the traditional arm’s length
+analysis. But soon after, in 1988, Treasury dispelled such
+notions by publishing what came to be known as the “White
+Paper.” See A Study of Intercompany Pricing Under Section
+482 of the Code, I.R.S. Notice 88-123, 1988-2 C.B. 458. The
+phrase “arm’s length standard” appears throughout the
+White Paper, which reiterated that “intangible income must
+be allocated on the basis of comparable transactions if
+comparables exist.” Id. at 474 (emphasis added). In short,
+although the amended § 482 referenced a seemingly
+unfamiliar “commensurate with income” standard, the
+
+     4
+      At the time the regulation challenged in this case was promulgated,
+“intangible property” was defined by a list of items that included any
+“patent, invention, formula, process, design, pattern, or know-how,”
+“copyright,” “trademark,” “license,” and so forth. I.R.C. § 936(h)(3)(B)
+(1996). In 2017, Congress amended the definition to include “goodwill,
+going concern value, . . . workforce in place,” and other items whose
+value is “not attributable to tangible property or the services of any
+individual.” I.R.C. § 367(d)(4).
+                      ALTERA CORP. V. CIR                           11
+
+White Paper emphasized that “Congress intended no
+departure from the arm’s length standard”—which is to say,
+an analysis based on comparability. Id. at 475. 5
+
+                                  B.
+
+    In 1995, Treasury promulgated a regulation requiring
+participants in a QCSA to share “all of the costs” of
+developing intangibles. Treas. Reg. § 1.482-7(d)(1) (1995).
+Beginning in 1997, Treasury interpreted stock-based
+compensation to be such a cost. See Xilinx, Inc. v. Comm’r,
+598 F.3d 1191, 1193–94 (9th Cir. 2010).
+
+    Xilinx, Inc. challenged this interpretation, and the Tax
+Court ruled in Xilinx’s favor. Xilinx, Inc. v. Comm’r,
+125 T.C. 37, 62 (2005). The Tax Court found as a factual
+matter that “two unrelated parties in a cost sharing
+agreement would not share any costs related to [stock-based
+compensation].” Xilinx, 598 F.3d at 1194. At the same time,
+it found that Treas. Reg. § 1.482-1(b)(1)—i.e., the arm’s
+length standard—still controlled over Treasury’s new all
+costs regulation. Id. It therefore found Treasury’s re-
+
+
+    5
+      Significantly, Congress prompted the creation of the White Paper
+at the same time it added the “commensurate with income” standard to
+§ 482. See H.R. Rep. No. 99-841, at 637–38 (1986) (Conf. Rep.), as
+reprinted in 1986 U.S.C.C.A.N. 4075, 4725–26. Specifically, Congress
+“believe[d] that a comprehensive study of intercompany pricing rules by
+the Internal Revenue Service should be conducted and that careful
+consideration should be given to whether the existing regulations could
+be modified in any respect.” Id. at 638, as reprinted in 1986
+U.S.C.C.A.N. at 4726. The resulting study—the White Paper—clearly
+stated that “the commensurate with income standard is fully consistent
+with the arm’s length principle,” and that “intangible income must be
+allocated on the basis of comparable transactions if comparables exist.”
+1988-2 C.B. at 458, 474.
+12                     ALTERA CORP. V. CIR
+
+allocation of Xilinx’s stock-based compensation costs to be
+arbitrary and capricious. Id.
+
+    Our court affirmed the Tax Court, noting that the
+“purpose of the regulations is parity between taxpayers in
+uncontrolled transactions and taxpayers in controlled
+transactions,” which is determined “based on how parties
+operating at arm’s length would behave.” Id. at 1196.
+Because Treasury “d[id] not dispute” that “unrelated parties
+would not share [stock-based compensation],” we concluded
+that Treasury could not require related parties to share it. Id.
+at 1194, 1196. We therefore found the all costs provision
+inoperative.
+
+     In his concurrence, Judge Fisher noted that Treasury’s
+defense of the all costs provision relied on a rationale “not
+clearly articulated . . . until” the commencement of
+litigation. Id. at 1198 (Fisher, J., concurring). Judge Fisher
+was “troubled by the complex, theoretical nature of many of
+[Treasury’s] arguments . . . . Not only does this make it
+difficult for the court to navigate the regulatory framework,
+it shows that taxpayers have not been given clear, fair notice
+of how the regulations will affect them.” Id. 6
+
+     6
+        Judge Reinhardt dissented, finding instead that the paramount
+purpose of the regulations is preventing tax avoidance, and noting that
+tax law is not always fair or reasonable to businesses. Id. at 1199–1200
+(Reinhardt, J., dissenting). Judge Reinhardt would have resolved the
+case in favor of Treasury by holding that the specific all costs provision
+(i.e. specifically addressing QCSAs) takes precedence over the general
+arm’s length standard. Id. at 1199.
+
+    Judge Reinhardt also sat on the original panel in this case. See
+Altera Corp. v. Comm’r, No. 16-70496, 2018 WL 3542989 (9th Cir. July
+24, 2018), withdrawn, 898 F.3d 1266 (9th Cir. 2018). There he
+concurred with the majority, again in favor of Treasury, but on the
+                        ALTERA CORP. V. CIR                               13
+
+                                     C.
+
+    In 2003, while the Xilinx litigation concerning the 1995
+regulation was pending, Treasury published a rule codifying
+its decision that QCSA parties should share stock-based
+compensation costs. To achieve this, Treasury updated the
+arm’s length standard provision, Treas. Reg. § 1.482-1, with
+a cross-reference to its 1995 “all of the costs” provision, id.
+§ 1.482-7, 7 and specifically defined “operating expenses”
+thereunder to include stock-based compensation, id.
+§ 1.482-7(d)(2).    Compensatory Stock Options Under
+Section 482, 68 Fed. Reg. 51,171, 51,178 (Aug. 26, 2003).
+Treasury purported to “believe that requiring stock-based
+compensation to be taken into account for purposes of
+QCSAs is consistent with the legislative intent underlying
+section 482 and with the arm’s length standard,” because
+“unrelated parties entering into QCSAs would generally
+share stock-based compensation costs.” Id. at 51,173.
+
+                                     II.
+
+    During the 2004–2007 taxable years, Appellee Altera
+Corporation (Altera) shared certain costs with one of its
+foreign subsidiaries, Altera International, pursuant to a
+research and development cost-sharing agreement. Relying
+
+ground that the meaning of the arm’s length standard is so fluid as to
+permissibly encompass the all costs method. That opinion, published
+four months after Judge Reinhardt passed away, was ultimately
+withdrawn. Yovino v. Rizo, 139 S. Ct. 706, 707 n.* (2019) (per curiam);
+see id. at 710 (“[F]ederal judges are appointed for life, not for eternity.”).
+The majority opinion of the reconstituted panel essentially adopted the
+reasoning of the original panel.
+    7
+      Subsequent to the 2003 amendments at issue, the Treasury
+Regulations have been re-organized and Treas. Reg. § 1.482-7 is now
+§ 1.482-7A.
+14                 ALTERA CORP. V. CIR
+
+on the Tax Court’s 2005 decision in Xilinx, the companies
+did not share the costs of stock-based compensation. After
+Altera filed consolidated income tax returns for these years,
+Treasury issued notices of deficiency on the grounds that it
+had to re-allocate over $100 million in income from Altera
+International to Altera to account for the unshared costs of
+stock-based compensation. Treasury asserted that this re-
+allocation was necessary under Treas. Reg. § 1.482-7(d)(2).
+Altera timely filed petitions in the Tax Court.
+
+                             A.
+
+     In a unanimous 15–0 decision, the Tax Court agreed with
+Altera and concluded that the regulation is arbitrary and
+capricious. Altera Corp. v. Comm’r, 145 T.C. 91, 133–34
+(2015). The Tax Court determined that, during the
+rulemaking process, Treasury specifically justified its new
+stock-based compensation rule on the ground that it “was
+required by—or was at least consistent with—the arm’s-
+length standard.” Id. at 121 & n.17 (citing 68 Fed. Reg.
+at 51,173 (“The final regulations provide that stock-based
+compensation must be taken into account in the context of
+QCSAs because such a result is consistent with the arm’s
+length standard.”)). By contrast, the Tax Court found that
+Treasury did not rely on § 482’s “commensurate with
+income” language, nor could this language sustain an
+inconsistent rule in any event given Congress’s intent for it
+to work “consistently with the arm’s-length standard.” Id.
+(citing White Paper at 472, 475).
+
+    The Tax Court therefore proceeded to analyze whether
+Treasury had articulated a reasoned basis for its conclusion
+that “unrelated parties entering into QCSAs would generally
+share stock-based compensation costs.” Id. at 123 (citing
+68 Fed. Reg. at 51,173). It found that the administrative
+record contained no empirical data supporting such a
+                    ALTERA CORP. V. CIR                      15
+
+conclusion, that Treasury had made no attempt to search for
+evidence supporting such a conclusion, and that Treasury
+was unaware of any actual transaction illustrating such a
+result. Id. at 122–23. To the contrary, the Tax Court noted
+that Treasury “seemed to accept the commentators’
+economic analyses, which concluded that . . . unrelated
+parties to a QCSA would be unwilling to share the exercise
+spread or grant date value of stock-based compensation.” Id.
+at 131. The Tax Court therefore found that “Treasury’s
+‘explanation for its decision . . . runs counter to the evidence
+before’ it.” Id. (alteration in original) (quoting Motor
+Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto.
+Ins. Co., 463 U.S. 29, 43 (1983)). It further concluded that
+“Treasury’s ‘ipse dixit conclusion, coupled with its failure to
+respond to contrary arguments resting on solid data,
+epitomizes arbitrary and capricious decisionmaking.’” Id.
+at 134 (quoting Ill. Pub. Telecomms. Ass’n v. FCC, 117 F.3d
+555, 564 (D.C. Cir. 1997)).
+
+                              B.
+
+    Treasury appealed, and a divided panel of this court
+reversed. Altera Corp. v. Commissioner, 926 F.3d 1061,
+1087 (9th Cir. 2019). On appeal, Treasury adopted a new
+position: that its 2003 rule was justified not because
+unrelated parties would actually share costs in the manner
+the rule now specifies, but because Treasury no longer needs
+to consider the behavior of unrelated parties at all.
+Treasury’s new theory is that it can allocate costs under a
+QCSA based on a standard purely internal to the participants,
+with no analysis of comparable transactions between
+unrelated entities, and call this an arm’s length result. The
+majority, applying Chevron, U.S.A., Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837 (1984),
+found that this revised interpretation of § 482 is permissible.
+16                 ALTERA CORP. V. CIR
+
+Altera, 926 F.3d at 1075–78. It further concluded that
+“Treasury’s decision to do away with analysis of comparable
+transactions” was neither arbitrary nor capricious, because it
+“was made clear enough by citations to legislative history in
+the notice of proposed rulemaking and in the preamble to the
+final rule.” Id. at 1082. Because Treasury abandoned the
+comparability standard, the majority explained, it was not
+required to address public comments that emphasized the
+absence of stock-based compensation cost-sharing in
+comparable transactions. Id.
+
+    Judge O’Malley dissented, noting that “Treasury
+repeatedly recognized that I.R.C. § 482 requires application
+of an arm’s length standard when determining the true
+taxable income of a controlled taxpayer,” and “just as
+consistently asserted that a comparability analysis is the only
+way to determine the arm’s length standard.” Id. at 1087
+(O’Malley, J., dissenting). She concluded that Treasury
+could not depart from this well-settled rule using only “a
+justification Treasury never provided [during the rulemaking
+process] and one which does not withstand careful scrutiny.”
+Id. Judge O’Malley further concluded that the regulation is
+arbitrary and capricious; that the regulation would be
+impermissible under Chevron even if Treasury had not erred
+procedurally; and that, because the regulation is invalid, our
+decision in Xilinx controls. Id. at 1092–1101.
+
+                             III.
+
+    Under the APA, we must “hold unlawful and set aside
+agency action” that is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.”
+5 U.S.C. § 706(2)(A). An agency’s rule is arbitrary and
+capricious when it “offer[s] an explanation for its decision
+that runs counter to the evidence before” it. State Farm,
+463 U.S. at 43. “The reviewing court should not attempt
+                   ALTERA CORP. V. CIR                      17
+
+itself to make up for such deficiencies: ‘We may not supply
+a reasoned basis for the agency’s action that the agency itself
+has not given.’” Id. (quoting SEC v. Chenery Corp.,
+332 U.S. 194, 196 (1947)). As recently emphasized by the
+Supreme Court, “[w]e cannot ignore [a] disconnect between
+the decision made and the explanation given. Our review is
+deferential, but we are ‘not required to exhibit a naiveté from
+which ordinary citizens are free.’” Dep’t of Commerce v.
+New York, 139 S. Ct. 2551, 2575 (2019) (quoting United
+States v. Stanchich, 550 F.2d 1294, 1300 (2d Cir. 1977)
+(Friendly, J.)).
+
+                              A.
+
+    By its own account, Treasury’s 2003 rulemaking was an
+attempted application of the traditional arm’s length
+standard. Reviewing the 2003 rule on this basis, as we must,
+Treasury acted arbitrarily and capriciously because its
+“explanation for its decision [ran] counter to the evidence
+before” it. State Farm, 463 U.S. at 43.
+
+    Treasury’s explanation for its decision during the
+rulemaking process was that allocating stock-based
+compensation costs was justified because “unrelated parties
+entering into QCSAs would generally share stock-based
+compensation costs.” 68 Fed. Reg. at 51,173. Treasury
+considered this relevant because “[t]he regulations relating
+to QCSAs have as their focus reaching results consistent
+with what parties at arm’s length generally would do if they
+entered into cost sharing arrangements for the development
+of high-profit intangibles.” Id. Treasury asserted that
+“[p]arties dealing at arm’s length in [a QCSA] based on the
+sharing of costs and benefits generally would not distinguish
+between stock-based compensation and other forms of
+compensation.” Id. In conclusion, Treasury emphasized
+that “[t]he final regulations provide that stock-based
+18                 ALTERA CORP. V. CIR
+
+compensation must be taken into account in the context of
+QCSAs because such a result is consistent with the arm’s
+length standard.” Id. (emphasis added).
+
+    As the unanimous Tax Court rightly concluded,
+Treasury’s stated reasons for concluding that the sharing of
+stock-based compensation costs was required by the arm’s
+length standard were belied by the evidence. Altera,
+145 T.C. at 131. Treasury “fail[ed] to cite any evidence
+supporting its belief that unrelated parties to QCSAs would
+share stock-based compensation costs,” commentators
+submitted “significant evidence . . . showing that unrelated
+parties to QCSAs would not share stock-based compensation
+costs,” and Treasury “fail[ed] to respond to much of the
+submitted evidence.” Id. As a result, the administrative
+record contained no empirical data supporting Treasury’s
+conclusion. Id. at 122–23. Indeed, Treasury had made no
+attempt to search for evidence supporting its conclusion, and
+was unaware of any actual transaction in which unrelated
+parties had shared stock-based compensation costs. Id.
+
+    This “disconnect between the decision made and the
+explanation given” requires that we vacate Treasury’s rule
+as arbitrary and capricious. Dep’t of Commerce, 139 S. Ct.
+at 2575. This should be the end of our analysis.
+
+                             B.
+
+    The panel majority’s opinion impermissibly upholds the
+2003 rule based on a host of rationales and interpretive
+maneuvers amounting to “a [purportedly] reasoned basis for
+the agency’s action that the agency itself has not given.”
+State Farm, 463 U.S. at 43 (quoting Chenery, 332 U.S.
+at 196).
+                   ALTERA CORP. V. CIR                     19
+
+    At no point in Treasury’s 2003 rulemaking did it make a
+finding, let alone one subject to notice and comment, that
+comparable transactions are per se unavailable for QCSAs,
+such that other methods must be employed in the first
+instance. See Altera, 926 F.3d at 1077–78, 1083 n.9
+(majority opinion) (using legislative history and Treasury’s
+one-sentence rejection of comparables submitted by
+commenters to draw this conclusion). At no point in
+Treasury’s 2003 rulemaking did it announce that it was
+returning to a pre-1968 interpretation of § 482 subjecting
+taxpayers to an unpredictable “fair and reasonable” standard.
+See id. at 1068–69, 1078 (using caselaw from “most of the
+twentieth century,” i.e., before Treasury promulgated more
+specific regulations in 1968, to justify this return). At no
+point in Treasury’s 2003 rulemaking did it interpret the
+commensurate-with-income standard to provide an
+independent justification for its treatment of stock-based
+compensation. See id. at 1077 (using legislative history
+alone to infer this justification). And at no point in
+Treasury’s 2003 rulemaking did it reverse its longstanding
+interpretation of the commensurate-with-income standard as
+consistent with the traditional arm’s length standard. See id.
+at 1077, 1081 (deriving a disparate interpretation of the
+commensurate-with-income standard from whole cloth and
+relying on Treasury’s insertion of a cross-reference to
+conclude that these newly disparate standards were
+appropriately “synthesize[d]”).
+
+    The panel majority ignores Treasury’s clear statements
+in the preamble to its 2003 rule expressly justifying its
+treatment of stock-based compensation based on a
+traditional    arm’s     length     analysis    employing
+(unsubstantiated) comparable transactions. See 68 Fed. Reg.
+at 51,173. The panel upholds the rule only by accepting
+Treasury’s convenient litigating position on appeal that it
+20                 ALTERA CORP. V. CIR
+
+permissibly jettisoned the traditional arm’s length standard
+altogether. See Altera, 926 F.3d at 1077. By re-writing the
+reasoning supporting the rule, the majority renders extensive
+comments irrelevant, and is strangely untroubled by the idea
+that no member of the tax community noticed this alternative
+reasoning or submitted a relevant comment. See id. at 1081–
+82; cf. Chisom v. Roemer, 501 U.S. 380, 396 n.23 (1991) (“I
+think judges as well as detectives may take into
+consideration the fact that a watchdog did not bark in the
+night.”) (quoting Harrison v. PPG Industries, Inc., 446 U.S.
+578, 602 (1980) (Rehnquist, J., dissenting)).
+
+    The APA does not allow an agency to reclassify the
+reasoning it articulated to the public as “extraneous
+observations,” Appellant’s Br. at 64, ignore public
+comments pointing out the failures in such reasoning, and
+then defend its rule in litigation using reasoning the public
+never had notice of. Yet that is precisely what the majority’s
+opinion allows Treasury to do.
+
+                             C.
+
+    Even if an agency could force the public to engage in a
+“scavenger hunt” for “cryptic” references in order to
+understand its reasoning in the ordinary rulemaking case,
+Altera, 926 F.3d at 1087–88 (O’Malley, J., dissenting), the
+APA would prohibit Treasury from doing so here:
+
+       When an agency changes its existing
+       position, it “need not always provide a more
+       detailed justification than what would suffice
+       for a new policy created on a blank slate.”
+       But the agency must at least “display
+       awareness that it is changing position” and
+       “show that there are good reasons for the new
+       policy.” In explaining its changed position,
+                   ALTERA CORP. V. CIR                     21
+
+       an agency must also be cognizant that
+       longstanding policies may have “engendered
+       serious reliance interests that must be taken
+       into account.”
+
+Encino Motorcars, LLC v. Navarro, 136 S. Ct. 2117, 2125–
+26 (2016) (citations omitted) (quoting FCC v. Fox Television
+Stations, Inc., 556 U.S. 502, 515 (2009)).
+
+    In contrast to its statements during the 2003 rulemaking
+and before the Tax Court, Treasury no longer disputes that
+stock-based compensation costs cannot be re-allocated
+under the traditional arm’s length standard. A legitimate rule
+requiring the sharing of stock-based compensation costs
+would therefore have necessitated a change in position
+regarding the type of standard permissibly employed under
+§ 482. The relevant Supreme Court precedents call us to be
+particularly vigilant in ensuring that Treasury provided fair
+notice of this change in position. See id. It did not.
+
+    The majority opinion assumes away this problem by
+relying on legislative history from the 1986 amendment,
+making it seem as though the necessary interpretation of
+§ 482 had been on the books for nearly twenty years before
+the 2003 rule. See Altera, 926 F.3d at 1085–86 (majority
+opinion). But Treasury expressly disclaimed the majority’s
+interpretation of the 1986 amendment in the 1988 White
+Paper. White Paper at 472. The interpretation of § 482 on
+the books in 2003 was the traditional arm’s length standard.
+Therefore, even if Treasury had articulated a permissible re-
+interpretation of § 482 in its 2003 rule, its failure to
+acknowledge the newness of this interpretation, let alone to
+consider the “serious reliance interests” engendered by the
+previous interpretation, would supply an independent reason
+22                  ALTERA CORP. V. CIR
+
+to vacate the rule. Encino Motorcars, 136 S. Ct. at 2126
+(quoting Fox, 556 U.S. at 515).
+
+                              IV.
+
+    The majority opinion additionally errs by accepting the
+interpretation of § 482’s commensurate-with-income
+provision that Treasury now advocates.            Treasury’s
+interpretation is not entitled to deference, and it conflicts
+with the plain language of the statute.
+
+                              A.
+
+     “[A] court must make an independent inquiry into
+whether the character and context of the agency
+interpretation entitles it to controlling weight.” Kisor v.
+Wilkie, 139 S. Ct. 2400, 2416 (2019) (citing United States v.
+Mead Corp., 533 U.S. 218, 229–31, 236–37 (2001)). For
+example, “Chevron deference is not warranted where the
+regulation is ‘procedurally defective’—that is, where the
+agency errs by failing to follow the correct procedures in
+issuing the regulation.” Encino Motorcars, 136 S. Ct.
+at 2125. As demonstrated above, Treasury’s 2003 rule was
+procedurally defective because its “explanation for its
+decision [ran] counter to the evidence before” it. State Farm,
+463 U.S. at 43. Even had it articulated a reasoned basis for
+its rule, it failed to “display awareness that it [was] changing
+position.” Fox, 556 U.S. at 515. “An arbitrary and
+capricious regulation of this sort is itself unlawful and
+receives no Chevron deference.” Encino Motorcars, 136 S.
+Ct. at 2126.
+
+    Moreover, Treasury did not articulate a reasoned basis
+for its rule during notice-and-comment rulemaking, but
+rather attempts to do so now in its briefing on appeal.
+“Deference to what appears to be nothing more than an
+                    ALTERA CORP. V. CIR                      23
+
+agency’s convenient litigating position would be entirely
+inappropriate.” Bowen v. Georgetown Univ. Hosp., 488 U.S.
+204, 213 (1988); cf. Kisor, 139 S. Ct. at 2417–18 (“[A] court
+should decline to defer to a merely ‘convenient litigating
+position’ or ‘post hoc rationalizatio[n] advanced’ to ‘defend
+past agency action against attack.’ And a court may not defer
+to a new interpretation, whether or not introduced in
+litigation, that creates ‘unfair surprise’ to regulated parties.
+That disruption of expectations may occur when an agency
+substitutes one view of a rule for another.” (citations and
+footnote omitted) (first quoting Christopher v. SmithKline
+Beecham Corp., 567 U.S. 142, 155 (2012), then quoting
+Long Island Care at Home, Ltd. v. Coke, 551 U.S. 158, 170
+(2007))). A litigating position is not “promulgated in the
+exercise of [Congressionally delegated] authority,” Mead,
+533 U.S. at 227, because it is not adopted “through any
+‘relatively formal administrative procedure,’” Price v.
+Stevedoring Servs. of Am., Inc., 697 F.3d 820, 827 (9th Cir.
+2012) (en banc) (quoting Mead, 533 U.S. at 230). Rather,
+an agency’s litigating position can “ordinarily [be]
+change[d] . . . from one case to another” via “internal
+decisionmaking not open to public comment or
+determination.” Id. at 827, 830; cf. Xilinx, 598 F.3d at 1198
+(Fisher, J., concurring) (“Not only do[]” Treasury’s
+“complex, theoretical” litigating arguments “make it
+difficult for the court to navigate the regulatory framework,
+it shows that taxpayers have not been given clear, fair notice
+of how the regulations will affect them.”). Nor is there any
+indication that Treasury’s litigating position here “is one of
+long standing” or the product of “careful consideration . . .
+over a long period of time,” Barnhart v. Walton, 535 U.S.
+212, 221–22 (2002), seeing as how Treasury did not even
+make the same argument to the Tax Court in this matter.
+24                ALTERA CORP. V. CIR
+
+    Though some amici suggest it could, Treasury does not
+ask for Auer deference to its interpretation of Treas. Reg.
+§ 1.482-1 (the arm’s length standard). See Auer v. Robbins,
+519 U.S. 452 (1997). Given the very detailed limitations on
+Auer deference spelled out in Kisor, virtually none of which
+Treasury’s actions satisfy, it is clear that such deference
+would not be available even if not disclaimed. See 139 S.
+Ct. at 2415–18 (e.g., generally does not apply to “an agency
+construction ‘conflict[ing] with a prior’ one,” id. at 2418
+(quoting Thomas Jefferson Univ. v. Shalala, 512 U.S. 504,
+515 (1994))).
+
+    Even Skidmore deference is likely inappropriate here,
+where “billions of dollars” are at stake. King v. Burwell,
+135 S. Ct. 2480, 2488–89 (2015) (finding Chevron
+inapplicable and making no mention of Skidmore v. Swift &
+Co., 323 U.S. 134 (1944)).
+
+                            B.
+
+    Setting aside whether Treasury’s new interpretation of
+the commensurate-with-income standard obeys Treasury’s
+own determination that Congress intended it to work
+“consistently with the arm’s length standard,” White Paper
+at 472, 475, the commensurate-with-income provision
+simply does not apply to QCSAs.
+
+    By its terms, the provision is applicable only if QCSAs
+constitute “transfers of intangible property.” I.R.C. § 482.
+They do not. The majority opinion focuses on the breadth of
+the word “transfers,” modified by “any,” to conclude that
+transfers of future distribution rights fall within the
+provision’s ambit. Altera, 926 F.3d at 1076. This reasoning
+suffers from two defects. First, QCSAs do not involve a
+transfer of future distribution rights. Treasury itself
+characterized QCSAs as “cost sharing arrangements for the
+                       ALTERA CORP. V. CIR                           25
+
+development of high-profit intangibles.” 68 Fed. Reg.
+at 51,173 (emphasis added). “No rights are transferred when
+parties enter into an agreement to develop intangibles; this is
+because the rights to later-developed intangible property
+would spring ab initio to the parties who shared the
+development costs without any need to transfer the
+property.”     Altera, 926 F.3d at 1098 (O’Malley, J.
+dissenting). Second, the statutory definition of “intangible
+property” comprises a list of property types that currently
+exist, none of which resembles future distribution rights. See
+supra, note 4; I.R.C. § 936(h)(3)(B) (1996). 8
+
+     The panel majority’s application of the commensurate-
+with-income standard to Altera’s QCSA was therefore
+incorrect. Even “under Chevron, the agency’s reading must
+fall ‘within the bounds of reasonable interpretation.’ And let
+there be no mistake: That is a requirement an agency can
+fail.” Kisor, 139 S. Ct. at 2416 (citation omitted) (quoting
+Arlington v. FCC, 569 U.S. 290, 296 (2013)).
+
+                                  V.
+
+    In addition to being wrongly decided, the panel
+majority’s decision engenders particularly deleterious
+practical consequences.
+
+
+     8
+       The majority’s discussion of future commodities, Altera, 926 F.3d
+at 1076 (majority opinion), is particularly off the mark given that such
+futures are excluded from the definition of intangible property as having
+value “attributable to tangible property.” I.R.C. § 367(d)(4)(G). The
+majority’s assertion that stock-based compensation is a transferred
+intangible under a QCSA only further confuses the point. See id.
+Treasury is attempting to re-allocate Altera’s income in this case
+precisely because the parties did not transfer any stock-based
+compensation costs.
+26                 ALTERA CORP. V. CIR
+
+    First, the majority opinion will likely upset the uniform
+application of the challenged regulation in the Tax Court,
+producing a situation akin to a circuit split. Although the
+Tax Court “will follow the clearly established position of a
+Court of Appeals to which a case is appealable,” it “will give
+effect to [its] own views in cases appealable to courts that
+have not yet decided the issue.” Mitchell v. Comm’r,
+106 T.C.M. (CCH) 215, 220 n.7 (2013); cf. Fehlhaber v.
+Comm’r, 94 T.C. 863, 867 (1990) (disagreeing with a
+reversal by the Ninth Circuit and adhering to its position in
+cases outside the Ninth Circuit). The Tax Court determined
+unanimously, in a 15–0 decision, that Treasury’s 2003
+rulemaking “epitomize[d] arbitrary and capricious
+decisionmaking.’” 145 T.C. at 134 (quoting Ill. Pub.
+Telecomms. Ass’n v. FCC, 117 F.3d 555, 564 (D.C. Cir.
+1997)). This uncommon unanimity and severity of censure
+strongly suggest that the Tax Court will continue to be
+persuaded by its original reasoning. If so, the tax treatment
+of stock-based compensation costs will turn on the
+happenstance of where a business is located and create
+incentives to locate or incorporate elsewhere. Such a
+possibility is particularly problematic in the context of
+federal taxation, given that “[a] cardinal principle of
+Congress in its tax scheme is uniformity.” United States v.
+Gilbert Assocs., Inc., 345 U.S. 361, 364 (1953). In the
+meantime, businesses lack certainty regarding the meaning
+of the arm’s length standard outside the Ninth Circuit.
+
+    Second, the panel majority’s opinion tramples on the
+longstanding reliance interests of American businesses. See
+Appellee’s Petition for Rehearing En Banc at 1–2, App’x C
+1–4 (listing 56 companies that “noted the Altera issue in their
+annual reports (Forms 10-K) to the SEC,” ranging from
+Alphabet Inc., reporting $4.4 billion at stake, to Groupon,
+Inc., reporting $14 million at stake). “Courts properly have
+                   ALTERA CORP. V. CIR                     27
+
+been reluctant to depart from an interpretation of tax law
+which has been generally accepted when the departure could
+have potentially far-reaching consequences.” Comm’r v.
+Greenspun, 670 F.2d 123, 126 (9th Cir. 1982) (quoting
+United States v. Byrum, 408 U.S. 125, 135 (1972)).
+
+    Finally, as numerous amici observe, the panel majority
+opinion upsets not only domestic tax law, but international
+tax law as well. The allocation of income between related
+entities operating in different countries is a problem that
+must be addressed not only by Treasury and the IRS, but also
+by the relevant foreign tax agencies. In order to avoid double
+taxation, and pursuant to tax treaties negotiated by the
+United States, the arm’s length method is “used by all major
+developed nations.” Barclays Bank PLC v. Franchise Tax
+Bd., 512 U.S. 298, 305 (1994). The panel majority’s
+interpretation of § 482 as allowing for the use of a purely
+internal standard to make cost and income allocations, i.e.,
+without ever inquiring as to the behavior of parties operating
+at arm’s length, greatly upsets this international uniformity.
+
+                            ***
+
+    Treasury justified its 2003 rule as an application of the
+traditional arm’s length standard. Without searching for any
+evidence, it assumed it knew what comparable transactions
+would look like. Without any real analysis, it dismissed
+comments providing contrary examples. The en banc Tax
+Court unanimously, and rightly, invalidated the rule as
+arbitrary and capricious because Treasury’s explanation for
+its decision ran counter to the evidence before it. Only
+before this court did Treasury conjure a new justification for
+the rule, not only newly applying the commensurate-with-
+income provision of the statute, but also newly interpreting
+that provision to bypass the traditional arm’s length
+standard.
+28                 ALTERA CORP. V. CIR
+
+    The panel majority was wrong to accept this
+justification, both procedurally and substantively. Its
+decision invites an effective circuit split, ignores the
+reasonable reliance of businesses on the well-settled arm’s
+length standard, subjects those businesses to double taxation,
+and sows uncertainty over the fate of billions of dollars.
+Moreover, its endorsement of Treasury’s arbitrary and
+capricious rulemaking sends a signal that executive agencies
+can bypass proper notice-and-comment procedures as long
+as they come up with a clever post-hoc rationalization by the
+time their rules are litigated.
+
+   I respectfully dissent from the denial of rehearing en
+banc.
+

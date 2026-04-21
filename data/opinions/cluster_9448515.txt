@@ -1,0 +1,1876 @@
+                                RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 23a0261p.06
+
+                    UNITED STATES COURT OF APPEALS
+                                   FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ STATE OF OHIO; STATE OF ALABAMA; STATE OF
+                                                             │
+ ARKANSAS; STATE OF FLORIDA; STATE OF KANSAS;
+                                                             │
+ COMMONWEALTH OF KENTUCKY; STATE OF MISSOURI;
+                                                             │
+ STATE OF NEBRASKA; STATE OF OKLAHOMA; STATE OF
+                                                             │
+ SOUTH CAROLINA; STATE OF WEST VIRGINIA,                      >        No. 21-4235
+                              Plaintiffs-Appellants,         │
+                                                             │
+                                                             │
+        v.                                                   │
+                                                             │
+ XAVIER BECERRA, Secretary, Department of Health             │
+ and Human Services and JESSICA S. MARCELLA,                 │
+ Deputy Assistant Secretary for Population Affairs, in       │
+ their official capacities; DEPARTMENT OF HEALTH AND         │
+ HUMAN SERVICES; OFFICE OF POPULATION AFFAIRS,               │
+                                  Defendants-Appellees.      │
+                                                             ┘
+
+  Appeal from the United States District Court for the Southern District of Ohio at Cincinnati.
+                   No. 1:21-cv-00675—Timothy S. Black, District Judge.
+
+                                   Argued: October 27, 2022
+
+                             Decided and Filed: November 30, 2023
+
+                  Before: MOORE, THAPAR, and LARSEN, Circuit Judges.
+                                 _________________
+
+                                            COUNSEL
+
+ARGUED: Benjamin M. Flowers, OFFICE OF THE OHIO ATTORNEY GENERAL,
+Columbus, Ohio, for Appellants. Courtney L. Dixon, UNITED STATES DEPARTMENT OF
+JUSTICE, Washington, D.C., for Appellees. ON BRIEF: Benjamin M. Flowers, Stephen P.
+Carney, Sylvia May Mailman, OFFICE OF THE OHIO ATTORNEY GENERAL, Columbus,
+Ohio, Thomas T. Hydrick, OFFICE OF THE SOUTH CAROLINA ATTORNEY GENERAL,
+Columbia, South Carolina, for Appellants. Abby C. Wright, Kyle T. Edwards, UNITED
+STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Appellees. Christian B.
+Corrigan, OFFICE OF THE MONTANA ATTORNEY GENERAL, Helena, Montana, Steven H.
+Aden, AMERICANS UNITED FOR LIFE, Washington, D.C., Alan E. Schoenfeld, WILMER
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                        Page 2
+
+
+CUTLER PICKERING HALE AND DORR LLP, New York, New York, Blair J. Greenwald,
+OFFICE OF THE NEW YORK ATTORNEY GENERAL, New York, New York, Robin
+Summers, NATIONAL FAMILY PLANNING & REPRODUCTIVE HEALTH
+ASSOCIATION, Washington, D.C., Margaret M. Dotzel, Catherine S. Duval, Casey Trombley-
+Shapiro Jonas, Alyssa M. Howard, ZUCKERMAN SPAEDER LLP, Washington, D.C., for
+Amici Curiae.
+
+        LARSEN, J., delivered the opinion of the court in which THAPAR, J., joined. MOORE,
+J. (pp. 29–53), delivered a separate opinion concurring in the judgment in part and dissenting in
+part.
+                                      _________________
+
+                                            OPINION
+                                      _________________
+
+       LARSEN, Circuit Judge. In 2021, the Department of Health and Human Services (HHS)
+issued a final rule governing the Title X grant program, which makes grants to assist in the
+establishment and operation of family planning projects.              Among other things, the Rule
+interpreted § 1008 of Title X, which bars funds appropriated under the Title X grant program
+from being “used in programs where abortion is a method of family planning.” A group of states
+sued, seeking to block two provisions of the 2021 Rule. First, the States challenge the 2021
+Rule’s elimination of a prior HHS rule that required grantees to maintain strict physical and
+financial separation between their Title X programs and any abortion-related services they might
+provide. Second, they challenge the Rule’s requirement that Title X projects provide referrals
+for abortion services when requested by the patient.
+
+       The Supreme Court has already had occasion to interpret § 1008, the statutory provision
+at the heart of this case. In Rust v. Sullivan, the Supreme Court held that § 1008 is ambiguous as
+to program integrity and referrals for abortion and that Chevron deference applies. 500 U.S. 173,
+184 (1991). Therefore, we defer to the agency’s interpretation of § 1008 if the interpretation is
+permissible. Id. While the doctrinal landscape undergirding Rust has shifted significantly since
+it was decided, Rust, and its application of Chevron, remain binding on this court. Applying
+Rust, we cannot say that the 2021 Rule’s referral requirement is an impermissible interpretation
+of § 1008. However, we hold that the 2021 Rule’s program-integrity requirements do not
+ No. 21-4235                             Ohio, et al. v. Becerra, et al.                              Page 3
+
+
+represent a permissible interpretation of § 1008. We therefore AFFIRM the district court’s
+denial of a preliminary injunction in part and REVERSE in part.
+
+                                                       I.
+
+        Title X of the Public Health Service Act empowers the Secretary of Health and Human
+Services “to make grants to and enter into contracts with public or nonprofit private entities to
+assist in the establishment and operation of voluntary family planning projects which shall offer
+a broad range of acceptable and effective family planning methods and services (including
+natural family planning methods, infertility services, and services for adolescents).” 42 U.S.C.
+§ 300(a). Such grants are “made in accordance with such regulations as the Secretary may
+promulgate.” Id. § 300a-4(a). At the heart of this case is the meaning of § 1008 of Title X,
+which states: “None of the funds appropriated under this subchapter shall be used in programs
+where abortion is a method of family planning.” Id. § 300a-6. Since the program’s inception,
+HHS regulations interpreting § 1008’s prohibition have flipped back and forth as new
+administrations have come into power. In particular, HHS has taken different approaches to
+determining what § 1008 requires with respect to two aspects of Title X program administration.
+The first is “program integrity”—the degree of separation a grantee must maintain between its
+Title X grant program and any program it may run that provides abortion-related services.1 See
+Rust, 500 U.S. at 187. The second is whether Title X programs must or may make referrals for
+abortion without running afoul of § 1008.
+
+        For context, we briefly recount the history of HHS’s various rules interpreting § 1008.
+Beginning in 1981, HHS issued “Program Guidelines for Project Grants for Family Planning
+Services,” without notice and comment, which required for the first time that Title X programs
+offer nondirective counseling to a pregnant patient on her options, including abortion, followed
+by a referral to an abortion provider upon the patient’s request. Statutory Prohibition on Use of
+Appropriated Funds in Programs Where Abortion is a Method of Family Planning, 53 Fed. Reg.
+2,922, 2,923 (Feb. 2, 1988) (describing prior agency policies). HHS permitted grantees to
+
+        1In Rust, the Supreme Court held that Title X “expressly distinguishes between a Title X grantee and a
+Title X project.” 500 U.S. at 196. Grantees may “engage in abortion-related activity” but must do so “separately
+from activity receiving federal funding.” Id. at 198.
+ No. 21-4235                            Ohio, et al. v. Becerra, et al.                     Page 4
+
+
+provide Title X services and abortion-related services at a single site, so long as they maintained
+a separation that went beyond a “mere exercise in bookkeeping.” Standards of Compliance for
+Abortion-Related Services in Family Planning Service Projects, 58 Fed. Reg. 7,462, 7,462 (Feb.
+5, 1993) (describing prior policies).
+
+       HHS changed course in 1988, when the agency addressed the scope of § 1008 in
+notice-and-comment rulemaking for the first time. The 1988 Rule prohibited Title X projects
+from promoting, counseling on, or providing referrals for abortion. 53 Fed. Reg. at 2,923–24.
+The agency interpreted § 1008 to prohibit counseling on and referrals for abortion, reasoning that
+those “activities are integral parts of the provision of any method of family planning, [so] to
+interpret section 1008 as applicable only to the performance of abortion would be inconsistent
+with the broad prohibition against use of abortion as a method of family planning.” Id. at 2,923.
+The 1988 Rule also imposed strict program-integrity rules, which required grantees to keep their
+Title X programs “physically and financially separate” from all abortion-related activities. Id. at
+2,945. HHS interpreted § 1008 to “mandate” physical and financial separation, reasoning that
+“[h]aving a program that is separate from [abortion] activities is a necessary predicate to any
+determination that abortion is not being included as a method of family planning in the Title X
+program.” Id. at 2,940. Whether a Title X program had “objective integrity and independence
+from prohibited activities” was to be determined through a case-by-case review of facts and
+circumstances. Id. at 2,945. HHS outlined a list of factors it would consider, including “the
+existence of separate accounting records,” the “degree of separation from facilities” like waiting
+rooms, the “existence of separate personnel,” and the extent of overlap between signs and other
+promotional material. Id.
+
+       The Supreme Court upheld these provisions of the 1988 Rule in Rust v. Sullivan,
+500 U.S. 173 (1991). The Court first deemed the text of § 1008 “ambiguous,” concluding that
+the statute “does not speak directly to the issues of counseling, referral, advocacy, or program
+integrity.” Id. at 184. The Court likewise found the “legislative history . . . ambiguous and
+unenlightening” on these questions.         Id. at 186, 188.      The Court therefore concluded that
+Chevron deference applied, and it deferred to HHS’s reasonable interpretation of § 1008 as
+expressed in the 1988 Rule. Id. at 184–90.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 5
+
+
+       In 2000, HHS revoked the 1988 Rule and replaced it with another. The 2000 Rule
+required Title X projects to provide pregnant women with nondirective information and
+counseling regarding their options, including abortion, and to make referrals upon request.
+Standards of Compliance for Abortion-Related Services in Family Planning Services Projects,
+65 Fed. Reg. 41,270, 41,279 (July 3, 2000).        HHS explained that it did not consider the
+“provision of neutral and factual information about abortion,” including referrals, “to promote or
+encourage abortion as a method of family planning.” Id. at 41,270–74. The 2000 Rule also
+eliminated the 1988 Rule’s strict program-integrity requirements. See id. at 41,275–76. HHS
+said that grantees would still be required to maintain a separation that was more than a “mere
+exercise in bookkeeping” and “demonstrate” by “financial records, counseling and service
+protocols, administrative procedures, and other means” that Title X funds were not being used to
+“promot[e], or encourage[] abortion as a method of family planning.” Id. at 41,270, 41,276. But
+Guidance published alongside the 2000 Rule provided no direction on how to maintain
+separation beyond “mere . . . bookkeeping”; instead, the Guidance provided only examples of
+permissible integration. Id. at 41,270. Common waiting rooms, common staff, and maintenance
+of a single filing system were all permitted, so long as costs were properly allocated. Provision
+of Abortion-Related Services in Family Planning Services Projects, 65 Fed. Reg. 41,281, 41,292
+(July 3, 2000).
+
+       In 2019, HHS reversed course again. Like the 1988 Rule, the 2019 Rule required that
+Title X projects be physically and financially separate from any abortion-related activities the
+grantee might engage in. Compliance With Statutory Program Integrity Requirements, 84 Fed.
+Reg. 7,714, 7,789 (Mar. 4, 2019). The 2019 Rule also prohibited Title X programs from making
+abortion referrals, but unlike the 1988 Rule, the 2019 Rule allowed nondirective pregnancy
+counseling, which could include discussion of abortion. Id. at 7,717.
+
+       The 2019 Rule prompted litigation. The Ninth Circuit upheld the rule, Becerra v. Azar,
+950 F.3d 1067, 1074 (9th Cir. 2020) (en banc) (holding that the 2019 Rule was a reasonable
+interpretation of Title X and was not arbitrary and capricious), while the Fourth Circuit
+permanently enjoined its operation, but only in Maryland. Mayor of Baltimore v. Azar, 973 F.3d
+258, 296 (4th Cir. 2020) (en banc) (holding that the 2019 Rule was contrary to law and arbitrary
+ No. 21-4235                             Ohio, et al. v. Becerra, et al.                                Page 6
+
+
+and capricious). The Supreme Court granted certiorari to resolve the circuit split, but dismissed
+the case without decision when HHS announced its intent to engage in a new rulemaking.
+See Oregon v. Cochran, 141 S. Ct. 1369 (2021); Oregon v. Becerra, 141 S. Ct. 2621 (2021);
+Becerra v. Mayor of Baltimore, 141 S. Ct. 2170 (2021).
+
+         In 2021, HHS issued the final rule at issue in this case. Ensuring Access to Equitable,
+Affordable, Client-Centered, Quality Family Planning Services, 86 Fed. Reg. 56,144 (Oct. 7,
+2021).     The 2021 Rule eliminated the 2019 Rule’s strict program-integrity requirements,
+reinstating the 2000 Rule and its accompanying guidance. Id. The 2021 Rule also replaced the
+2019 Rule’s ban on abortion referrals with a mandate that Title X projects make abortion
+referrals upon request. Id. at 56,179. The 2021 Rule went into effect on November 8, 2021, and
+applied to the 2022 Title X grant cycle.2 Id. at 56,144.
+
+         Twelve states—Ohio, Alabama, Arizona,3 Arkansas, Florida, Kansas, Kentucky,
+Missouri, Nebraska, Oklahoma, South Carolina, and West Virginia—challenged the 2021 Rule
+and sought a preliminary injunction. The States argued that the 2021 Rule was contrary to law
+and arbitrary and capricious under the Administrative Procedure Act (APA). The district court
+denied the preliminary injunction. Applying Chevron deference, the district court held that the
+2021 Rule comported with Title X and was not arbitrary and capricious. The States appealed
+and filed an emergency motion for an injunction pending appeal. A motions panel of this court
+denied the States’ motion for an injunction pending an appeal, concluding that the States had not
+demonstrated that they would be irreparably harmed without the injunction. Ohio v. Becerra,
+No. 21-4235, 2022 WL 413680, at *1 (6th Cir. Feb. 8, 2022). The court “express[ed] no opinion
+on the States’ likelihood of success on the merits [of] their claims. Nor [did it] comment on
+whether the States could successfully obtain an injunction at some later point.” Id. at *5. We
+now review the district court’s denial of a preliminary injunction.
+
+
+
+
+         2The 2021 Rule may be found at 42 C.F.R. §§ 59.1–59.11.
+
+         3On April 7, 2023, this court granted Arizona’s motion to voluntarily withdraw from this appeal pursuant
+to Federal Rule of Appellate Procedure 42(b)(2). See App. R. 79.
+ No. 21-4235                            Ohio, et al. v. Becerra, et al.                             Page 7
+
+
+                                                      II.
+
+       We consider four factors when determining whether to grant a preliminary
+injunction: “(1) whether the movant has a strong likelihood of success on the merits; (2) whether
+the movant would suffer irreparable injury without the injunction; (3) whether issuance of the
+injunction would cause substantial harm to others; and (4) whether the public interest would be
+served by issuance of the injunction.”           City of Pontiac Retired Emps. Ass’n v. Schimmel,
+751 F.3d 427, 430 (6th Cir. 2014) (per curiam) (en banc) (citation omitted). Where the federal
+government is the defendant, as here, the third and fourth factors merge. Nken v. Holder,
+556 U.S. 418, 435 (2009).
+
+       We review de novo whether the movant is likely to succeed on the merits. City of
+Pontiac, 751 F.3d at 430. We review the district court’s ultimate determination as to whether the
+four factors weigh in favor of granting or denying preliminary injunctive relief for abuse of
+discretion. Id.
+
+       We do not come to the task of interpreting § 1008 with a blank slate. As previously
+mentioned, the U.S. Supreme Court ruled on the meaning of § 1008 over thirty years ago in Rust
+v. Sullivan, 500 U.S. 173 (1991). In Rust, the 1988 Rule was challenged on the ground that its
+strict separation requirements and prohibition on abortion counseling and referrals represented an
+impermissible interpretation of Title X.4 500 U.S. at 181. The Court upheld the 1988 Rule,
+applying the two steps of the Chevron deference framework. The Court held that § 1008 was
+ambiguous at Chevron step one. Id. at 184. The Court did not engage the text of the provision,
+instead explaining that it need not “dwell on the plain language of the statute because [it]
+agree[d] with every court to have addressed the issue that the language is ambiguous.” Id.
+Specifically, the Court held that the text of the statute did not “speak directly to the issues of
+counseling, referral, advocacy, or program integrity” and that the “legislative history is
+ambiguous and unenlightening.” Id. at 184, 186. So its only question was “whether the agency’s
+answer [was] based on a permissible construction of the statute.” Id. at 184 (quoting Chevron,
+U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837, 842–43 (1984)). The Court determined
+
+       4The 1988 Rule was also challenged on constitutional grounds, which are not at issue here.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                        Page 8
+
+
+that the 1988 Rule reasonably interpreted the statute and therefore deferred to the agency at
+Chevron step two. Id. at 185–90.
+
+       Thirty years later, we find ourselves in an odd spot. Rust rests in a doctrinal landscape
+that has shifted dramatically since the Court last opined on Title X. The status of the Chevron
+deference doctrine is notoriously uncertain. The last time the Supreme Court applied Chevron’s
+two-step test was in 2016. Cuozzo Speed Techs., LLC v. Lee, 579 U.S. 261, 276–83 (2016).
+Since then, individual Justices have at times referenced Chevron deference in separate writings,
+but the Court has not actually applied it. See, e.g., Pereira v. Sessions, 138 S. Ct. 2105, 2121
+(2018) (Alito, J., dissenting) (concluding that the case should have been resolved using a
+“straightforward application of Chevron,” but that “the Court, for whatever reason, is simply
+ignoring Chevron”). But neither has the Court formally overruled Chevron, even in cases where
+it had the opportunity to do so. See Buffington v. McDonough, 143 S. Ct. 14, 14 (2022) (mem.);
+Am. Hosp. Ass’n v. Becerra, 142 S. Ct. 1896 (2022); Pereira, 138 S. Ct. at 2129 (Alito, J.,
+dissenting) (“Chevron . . . remains good law.”).     And the Court has now granted certiorari,
+potentially to resolve the question of whether Chevron should be overruled. See Loper Bright
+Enters. v. Raimondo, 143 S. Ct. 2429, 2429 (2023) (mem.).
+
+       Whatever Chevron’s vitality, it has undoubtedly “become pitted with exceptions and
+caveats.” Buffington, 143 S. Ct. at 20 (Gorsuch, J., dissenting from the denial of certiorari). For
+instance, the Court recently clarified that Chevron deference does not apply when the agency’s
+interpretation involves a “major question,” see West Virginia v. EPA, 142 S. Ct. 2587 (2022),
+and has suggested that the Court may decline to consider whether any deference is due when the
+agency itself does not invoke Chevron, HollyFrontier Cheyenne Refin., LLC v. Renewable Fuels
+Ass’n, 141 S. Ct. 2172, 2180 (2021). Recent precedent has also fundamentally changed how
+courts should perform a Chevron deference analysis. Now we are to apply a far more rigorous
+analysis at step one than was typical in Chevron’s heyday. See, e.g., Arangure v. Whitaker, 911
+F.3d 333, 336 (6th Cir. 2018) (Courts “must first exhaust the ‘traditional tools’ of statutory
+interpretation and ‘reject administrative constructions’ that are contrary to the clear meaning of
+the statute.” (quoting Chevron, 467 U.S. at 843 n.9)); Seminole Nursing Home, Inc. v. Comm’r of
+Internal Revenue, 12 F.4th 1150, 1156 (10th Cir. 2021) (“Determining whether a statute is
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                         Page 9
+
+
+ambiguous on a particular point can be an arduous undertaking; ‘a court must exhaust all the
+“traditional tools” of construction.’    The court ‘must carefully consider the text, structure,
+history, and purpose of a [statute],’ and proceed to step two only if ‘the interpretive question still
+has no single right answer.’” (alteration in original) (quoting Kisor v. Wilkie, 139 S. Ct. 2400,
+2415 (2019) (internal citations omitted)); Tovar v. Zuchowski, 982 F.3d 631, 634–35 (9th Cir.
+2020) (At Chevron step one, “we must ‘exhaust all the traditional tools of construction’ before
+we ‘wave the ambiguity flag.’” (quoting Kisor, 139 S. Ct. at 2415)). While the Court in Rust
+said it “need not dwell on the plain language of the statute,” 500 U.S. at 184, courts today are
+expected to dwell on the language at length.
+
+       Despite this uncertainty, the Supreme Court has instructed that when one of its precedents
+“has direct application in a case, yet appears to rest on reasons rejected in some other line of
+decisions, the Court of Appeals should follow the case which directly controls, leaving to this
+Court the prerogative of overruling its own decisions.” Agostini v. Felton, 521 U.S. 203, 237
+(1997) (quoting Rodriguez de Quijas v. Shearson/Am. Express, Inc., 490 U.S. 477, 484 (1989)).
+In other words, we apply directly applicable Supreme Court precedent as it currently stands,
+without projecting where we think it may be headed.
+
+       Rust remains binding precedent and controls here. Neither party contests that we are
+bound by Rust’s determination that § 1008 is ambiguous under step one of Chevron, so we take
+that as our starting point. See Mayor of Baltimore, 973 F.3d at 283; Azar, 950 F.3d at 1074–75.
+Thus, “our discussion of the merits is cabined to an analysis of whether HHS’s interpretation of
+Section 1008 in the Final Rule is ‘permissible’ or ‘reasonable’ at Chevron step two.” Mayor of
+Baltimore, 973 F.3d at 283.
+
+       With this in mind, we address the two challenged features of the 2021 Rule, which the
+States argue represent an impermissible construction of § 1008 and are arbitrary and capricious.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                      Page 10
+
+
+                                                III.
+
+                                                A.
+
+       We begin with the 2021 Rule’s referral requirement. The 2021 Rule requires that Title X
+programs “offer pregnant clients the opportunity to” receive “neutral factual information and
+nondirective counseling” regarding prenatal care and delivery, infant care, foster care, adoption,
+and abortion. 42 C.F.R. § 59.5(a)(5)(i)–(ii). Title X programs must also provide a referral for
+any of these options if the patient so requests. Id. § 59.5(a)(5)(ii). The referral “may include
+providing a patient with the name, address, telephone number, and other relevant factual
+information (such as whether the provider accepts Medicaid, charges, etc.) about an abortion
+provider,” but the Title X project “may not take further affirmative action (such as negotiating a
+fee reduction, making an appointment, providing transportation) to secure abortion services for
+the patient.” 86 Fed. Reg. at 56,150 (quoting 65 Fed. Reg. at 41,281).
+
+                                                 1.
+
+       Our analysis starts with Rust. The 1988 Rule at issue in Rust prohibited Title X programs
+from counseling on or making referrals for abortion. 53 Fed. Reg. at 2,945. The 1988 Rule
+replaced HHS’s 1981 policy, which required non-directive counseling on and referrals for
+abortion. Id. at 2,923. Before the Supreme Court, each side argued that the plain text of § 1008
+spoke directly to counseling and referral and compelled an outcome in its favor.
+
+       Petitioner, Dr. Rust, argued that the 1988 Rule’s ban on abortion counseling and referral
+was an impermissible interpretation of § 1008. According to Rust, “[a] clinic that provide[d]
+counseling services to pregnant patients about a range of options, including abortion, [was] not in
+ordinary parlance one that use[d] abortion ‘as a method of family planning.’”            Brief for
+Petitioners at 41, Rust, 500 U.S. 173 (No. 89-1391). Instead, Rust argued, a “method of family
+planning” was “a particular contraceptive procedure or technology.” Id. Referral for abortion,
+Rust reasoned, was therefore not a family planning method, but was rather a family planning
+service. Id. at 42. And because § 1008 disallows the use of Title X funds only in programs
+where “abortion is a method of family planning,” Rust argued that HHS lacked authority to ban
+abortion counseling or referral. Id. In short, Rust argued that when Congress banned the use of
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                      Page 11
+
+
+Title X funds in “programs where abortion is a method of family planning,” 42 U.S.C. § 300a-6,
+it was not banning the use of Title X funds to counsel or refer for abortions because engaging in
+those activities is not using abortion as a “method of family planning.”
+
+       The government took the opposite view. It argued that at Chevron step one, “Section
+1008—read in light of Title X’s structure, purpose and history—answers the precise question at
+issue: Title X projects may not engage in abortion counseling, referral or advocacy.” Brief for
+Respondent at 33, Rust, 500 U.S. 173 (Nos. 89-1391, 89-1392). In the government’s view, “[i]f
+the Title X project provides information or counseling that characterizes abortion as a family
+planning option, then it has become a ‘program[] where abortion is a method of family
+planning.’” Id. at 34 (quoting 42 U.S.C. § 300a-6). “It would be wholly anomalous,” the
+government argued, “to read Section 1008 to mean that a program that merely counsels but does
+not perform abortions does not include abortion as a method of family planning.” Id. at 34–35
+(quoting New York v. Sullivan, 889 F.2d 401, 407 (2d Cir. 1989)); see also Rust, 500 U.S. at 181.
+
+       The Supreme Court rejected each party’s position that the text of § 1008 compelled, or
+even “sp[oke] directly to,” its reading of the text. Rust, 500 U.S. at 184. The Court noted that
+“Title X does not define the term ‘method of family planning,’ nor does it enumerate what types
+of medical and counseling services are entitled to Title X funding.” Id. The legislative history
+was also “ambiguous and fail[ed] to shed light on relevant congressional intent.” Id. at 185. The
+Court continued: “At no time did Congress directly address the issues of abortion counseling,
+referral, or advocacy.    The parties’ attempt to characterize highly generalized, conflicting
+statements in the legislative history into accurate revelations of congressional intent are
+unavailing.” Id. So, the question for the Court became whether the agency’s position—that a
+program that counsels or refers for abortion is one “where abortion is a method of family
+planning”—was reasonable at Chevron step two. “Based on the broad directives provided by
+Congress in Title X in general and § 1008 in particular,” the Court was “unable to say that the
+Secretary’s construction of the prohibition in § 1008 to require a ban on counseling, referral, and
+advocacy within the Title X project is impermissible.” Id. at 184. The Court therefore deferred
+to HHS’s interpretation and upheld the Rule’s ban on counseling and referrals.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                        Page 12
+
+
+        Rust’s holding requires us to reject the States’ argument that the 2021 Rule’s referral
+requirement is contrary to law. The States insist that the plain text of § 1008 compels the
+conclusion that a program that refers for abortion is one where abortion is a method of family
+planning. But that’s the same argument the government made in Rust. And the Supreme Court
+did not bite.
+
+        Nor does it matter—so far as Rust’s reading of § 1008 goes—that HHS requires referrals,
+rather than merely permitting them. The Supreme Court in Rust rejected the arguments proffered
+by both parties—that providing counseling and referral for abortion is either necessarily treating,
+or not treating, “abortion as a method of family planning.” Rust, 500 U.S. at 184–85. The Court
+instead concluded that the statute “does not speak directly to the issues of counseling [or]
+referral.” Id. at 184. In light of this holding, it must be permissible for an administration to treat
+referrals either as falling inside or outside § 1008’s prohibition, so long as the Department
+adequately explains its choice.
+
+        In HHS’s present judgment, a program that provides a referral for abortion upon request
+is not one “where abortion is a method of family planning.” 86 Fed. Reg. at 56,149–50. But the
+agency also acknowledged that § 1008 imposes constraints. HHS clarified that a referral cannot
+go beyond the provision of neutral information, cautioning that taking any “affirmative” step,
+such as “negotiating a fee reduction, making an appointment, or providing transportation,” would
+cross the line into promoting or encouraging abortion, which would run afoul of § 1008. Id. at
+56,150. In light of the Supreme Court’s holding in Rust, our question is not whether this is the
+best interpretation of § 1008, only whether it is an impermissible one. We cannot say that it is.
+
+                                                  2.
+
+        That does not end the matter, though. Even if the referral mandate is not contrary to law,
+it still might be “arbitrary and capricious.” 5 U.S.C. § 706(2)(A). We cannot vacate a rule for
+being arbitrary and capricious unless the agency “entirely failed to consider an important aspect
+of the problem, offered an explanation for its decision that runs counter to the evidence before
+the agency, or is so implausible that it could not be ascribed to a difference in view or the
+product of agency expertise.” Nat’l Ass’n of Home Builders v. Defs. of Wildlife, 551 U.S. 644,
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                        Page 13
+
+
+658 (2007) (quoting Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29, 43 (1983)). We do not apply greater scrutiny to agency action that changes a prior
+policy because the APA makes no distinction between “initial agency action and subsequent
+agency action undoing or revising that action.” FCC v. Fox Television Stations, Inc., 556 U.S.
+502, 515 (2009). The Court made this point in Rust itself. Rust, 500 U.S. at 186 (“This Court
+has rejected the argument that an agency’s interpretation ‘is not entitled to deference because it
+represents a sharp break with prior interpretations’ of the statute in question.” (quoting Chevron,
+467 U.S. at 862)). Our question is merely whether the agency has “justified [its] change of
+interpretation with a ‘reasoned analysis.’” Id. at 187 (quoting State Farm, 463 U.S. at 42).
+Although courts “are to engage in a careful review of the facts and record, our ultimate standard
+of review is narrow and deferential.” Mayor of Baltimore, 973 F.3d at 318 (Richardson, J.,
+dissenting) (concluding that the 2019 Rule was not arbitrary and capricious). So long as “the
+agency’s explanation is clear enough that its path may reasonably be discerned,” the court must
+respect its policy choice. Id. (quoting Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221
+(2016)).
+
+       Here, the States have not shown that HHS’s decision to require referrals upon request
+was arbitrary and capricious. First, HHS explained its decision to depart from the 2019 Rule,
+which banned referrals. In HHS’s judgment, the fact that so many providers withdrew because
+of the 2019 Rule’s referral prohibition, “leaving multiple states without any Title X providers,”
+was “a change in circumstances that, in the Department’s view, demand[ed] reconsideration of
+the 2019 rule.” 86 Fed. Reg. at 56,146, 56,150. That, of course, would not be enough to explain
+why HHS chose to replace its ban with a mandate, rather than a permissive regime. But HHS
+offered some justification for that too, explaining that, in its view, counseling and “referral upon
+request for option(s) the client wishes to receive” are “critical for the delivery of quality, client-
+centered care.” Id. at 56,154. HHS also readopted the agency’s prior determination that “the
+provision of a referral is the logical and appropriate outcome of the counseling process.” 65 Fed.
+Reg. at 41,274.     And, it’s important to note, the States do not challenge the counseling
+requirement.
+ No. 21-4235                               Ohio, et al. v. Becerra, et al.                                    Page 14
+
+
+       The States offer several reasons why they believe that the agency failed to adequately
+justify its referral mandate. Some are more convincing than others, but ultimately, none carries
+the day.
+
+       The States’ most serious contention is that HHS failed to adequately consider the States’
+views on medical ethics—an “important aspect of the problem” before it. See Nat’l Ass’n of
+Home Builders, 551 U.S. at 658. Although HHS took account of the “ethical codes of major
+medical organizations” which opposed the 2019 Rule’s referral ban, see 86 Fed. Reg. 19,812,
+19,817 (notice of proposed rule), HHS failed to consider whether the 2021 Rule’s referral
+requirement “conflicts with multiple States’ ethical standards governing the practice of
+medicine—standards that confirm that sound medical practice does not require complicity in
+abortion.” Appellants Br. at 43. And the agency was aware of this concern; the States raised it
+in a letter they submitted during the agency’s notice and comment process.5
+
+       The States have a point. The agency did not address conflicting state ethics laws when
+explaining its decision to impose a referral requirement. It considered federal conscience laws.
+See 86 Fed. Reg. at 56,153–54 (“Section D. Application of Conscience and Religious Freedom
+Statutes to Title X”). And it credited one comment from one unnamed organization that said that
+the 2019 Rule’s ban on referrals made it “impossible” to “provide healthcare and information to
+patients consistent with medical ethics.” Id. at 56,146. But the agency did not mention state
+ethics laws whatsoever.         This raises some concern.              As the States’ comment letter noted,
+“medical organizations represent doctors—the parties regulated by rules of medical ethics.”
+R. 1-2, PageID 45. And while these views may be helpful, it is the States, not the organizations,
+that actually “regulate the ethics of the medical profession.” Id. Agencies, of course, need not
+consider every alternative view. Oakbrook Land Holdings, LLC v. Comm’r of Internal Revenue,
+28 F.4th 700, 714 (6th Cir. 2022). But privileging the voice of the regulated, at the expense of
+the regulator, might well cause the agency to miss an “important aspect of the problem” before it.
+See Nat’l Ass’n of Home Builders, 551 U.S. at 658. Here, however, we cannot say that the
+agency lost sight either of the ethical problem before it or of the substance of the States’ views.
+
+
+       5All plaintiff-States signed this letter, in addition to a number of other States not party to this case.
+ No. 21-4235                                 Ohio, et al. v. Becerra, et al.                                     Page 15
+
+
+         In their letter to the agency, the States stressed that a referral mandate would conflict with
+a number of state conscience statutes that respect the rights of medical personnel and facilities to
+decline to perform or participate in abortion activities.6 The States’ point was to rebut the notion
+that medical ethics require health care providers to make abortion referrals. As noted above,
+HHS did not consider those laws. But the final rule did consider federal conscience laws
+providing similar protections, a point the States acknowledge. The States do not claim that the
+state conscience rules are more exacting than the federal conscience rules.7 And HHS pledged in
+the preamble to the 2021 Rule that providers and entities who are covered by federal conscience
+laws “will not be required to counsel or refer for abortions in the Title X program.” 86 Fed. Reg.
+at 56,153.8 So the Rule responded to the States’ expressed concern. By pledging to respect
+
+        6The letter cited the following statutes: Ky. Rev. Stat. § 311.800(4); La. Rev. Stat. § 40:1061.2; Mont.
+Code Ann. § 50-20-11(2); Or. Rev. Stat. § 435.485; Ariz. Rev. Stat. § 36-2154(A); Conn. Agencies Regs. § 19-13-
+D54(f); Fla. Stat. § 390.0111(8); N.Y. Civ. Rights Law § 79-i; Ohio Rev. Code § 4731.91; 18 Pa. Cons. Stat.
+§ 3213(d); Wis. Stat. § 253.09(1).
+         7We note that the Louisiana statute the States cite contains a section providing criminal penalties for
+abortion in the event that Roe v. Wade, 410 U.S. 113 (1973), were overturned. See La. Stat. Ann. § 40:1061(A).
+When HHS implemented the 2021 Rule, that had not yet happened. The Supreme Court decided Dobbs v. Jackson
+Women’s Health Org. in June of 2022. 142 S. Ct. 2228 (2022). The impact of Dobbs on the Title X program is
+undoubtedly an “important aspect” of the question now, but “judicial review of agency action is limited to the
+grounds that the agency invoked when it took the action.” DHS v. Regents of the Univ. of Cal., 140 S. Ct. 1891,
+1907 (2020) (citation omitted).
+         8We are somewhat puzzled about the interaction between the Rule’s referral requirement and one federal
+conscience law, the Weldon Amendment, as applied to State grantees. The Weldon Amendment is an
+appropriations rider that has been attached to every HHS appropriation since 2004. See, e.g., Consolidated
+Appropriations Act, 2022, Pub. L. No. 117-103, div. H, title V, § 507(d)(1), 136 Stat. 49, 496 (Mar. 15, 2022). It
+says that appropriated funds may not
+         be made available to a Federal agency or program, or to a State or local government, if such
+         agency, program, or government subjects any institutional or individual health care entity to
+         discrimination on the basis that the health care entity does not provide, pay for, provide coverage
+         of, or refer for abortions.
+Id. (emphasis added).
+Both HHS and the States seem to agree that the States are not “health care entities” entitled to conscience protection.
+See id. § 507(d)(2) (defining “health care entities”). States typically apply for Title X grants and then subgrant the
+funds to county boards of health and other “health care entities.” See Nat’l Fam. Plan. & Reprod. Health Ass’n, Inc.
+v. Gonzales, 468 F.3d 826, 828 (D.C. Cir. 2006). As grantees, the States must ensure that their subrecipients are
+complying with all Title X regulations, including the 2021 Rule’s referral requirement. 86 Fed. Reg. at 56,152.
+Thus, the 2021 Rule would seem to forbid States from subgranting to “health care entities” who will not refer for
+abortion; that, in turn, seems to force the States to “discriminat[e] on the basis that the health care entity does not . . .
+refer for abortions,” the very thing the Weldon Amendment forbids. § 507(d)(1), 136 Stat. at 496. But, although the
+States raised such a claim in their complaint, they did not press it either here or in the district court, so we will not
+consider it further.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                       Page 16
+
+
+federal conscience laws, HHS necessarily acknowledged Congress’s agreement with the States’
+point—that “one can ethically practice medicine without making these referrals.” Reply Br. at
+17. In the end, acknowledging the ethical debate, HHS exercised its judgment and decided that a
+“client-centered” approach should prevail: a “default” rule requiring referrals upon request,
+subject to conscience exemptions for objecting providers. 86 Fed. Reg. at 56,153. Perhaps, as
+some commentators pointed out, a more straightforward approach would have been to adopt a
+permissive regime, “since the conscience statutes protect objecting providers from those
+requirements in any case.” Id. But the question on arbitrary and capricious review is not
+“whether a regulatory decision is the best one possible or even whether it is better than the
+alternatives.” FERC v. Elec. Power Supply Ass’n, 577 U.S. 260, 292 (2016). Instead, we must
+“uphold a rule if the agency has ‘examine[d] the relevant [considerations] and articulate[d] a
+satisfactory explanation for its action.”     Id. (quoting State Farm, 463 U.S. at 30 (1983))
+(alterations in original). “As long as ‘the agency’s explanation is clear enough that its path may
+reasonably be discerned,’ we must respect its policy choice.” Mayor of Baltimore, 973 F.3d at
+318 (Richardson, J., dissenting) (quoting Encino Motorcars, LLC, 578 U.S. at 221) (concluding
+that the 2019 Rule was not arbitrary and capricious).
+
+       The States next charge that HHS did not “explain how its own conclusion [that referral
+necessarily treats abortion as a method of family planning] from 2019 has been disproven.”
+Appellants Br. at 41. But this was not a fact that the agency needed to “disprove.” Instead, it is
+a question of law whether § 1008 requires or permits the agency to treat a program that makes
+abortion referrals as one “where abortion is a method of family planning.” In Rust, the Supreme
+Court held that § 1008 is ambiguous on this point. And when the agency changes course in
+interpreting an ambiguous statute, “it suffices that the new policy is permissible under the statute,
+that there are good reasons for it, and that the agency believes it to be better.” Fox Television
+Stations, Inc., 556 U.S. at 515.
+
+       In sum, the Supreme Court’s holding in Rust requires us to reject the States’ argument
+that the referral mandate is arbitrary and capricious. And it is not the role of the court to “second
+guess[] the analysis and policy judgments that undergird the agency’s regulations.” Mayor of
+Baltimore, 973 F.3d at 325 (Richardson, J., dissenting). HHS acknowledged it was changing
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 17
+
+
+course and gave rational reasons why it thought a change in policy was necessary and preferable.
+That is enough to withstand arbitrary and capricious review. See Fox Television Stations, Inc.,
+556 U.S. at 515. The States are not likely to succeed on the merits of this claim.
+
+                                                B.
+
+       Next, we turn to the 2021 Rule’s program-integrity requirements.              The 2021 Rule
+“revoke[d] the requirements of the 2019 regulations, including . . . eliminating requirements for
+strict physical and financial separation between abortion-related activities and Title X project
+activities.” 86 Fed. Reg. at 56,144. In its place, the 2021 Rule readopted HHS’s 2000-era
+policy, which contained no “requirement for physical separation.” Id.; 65 Fed. Reg. at 41,276.
+
+       Again, our analysis starts with Rust. There, the parties disputed what program-integrity
+requirements are necessary to comply with § 1008. HHS argued that the 1988 Rule’s strict
+physical separation requirements—which are largely the same as those in the 2019 Rule—were
+necessary to comply with § 1008. Rust, 500 U.S. at 188 (quoting 53 Fed. Reg. at 2,940 (1988)).
+The petitioners, on the other hand, argued that the 1988 Rule’s physical separation requirements
+were inconsistent with the plain language of Title X because they “frustrate[d] the clearly
+expressed intent of Congress that Title X programs be an integral part of a broader,
+comprehensive, health-care system.” Id. at 187–88. Once again, the Court did not accept either
+party’s position that § 1008 compelled its reading of the text at Chevron step one. Instead, the
+Court concluded that § 1008 neither prohibited, nor required, the strict program-integrity
+protocols of the 1988 Rule. Id. at 188–90. And at Chevron step two, the Court upheld the 1988
+Rule’s program-integrity policy because it was “based on a permissible construction of the
+statute and [was] not inconsistent with congressional intent.” Id. at 188.
+
+       Though Rust held that § 1008 didn’t “speak directly to . . . program integrity,” and was
+therefore “ambiguous” in that regard, 500 U.S. at 184, it did set out some clear benchmarks.
+First, it rejected Rust’s argument that either the statute or the legislative history required
+integration of abortion activities and Title X programs. Had it been otherwise, the Court would
+have been obligated to declare the 1988 Rule’s separation requirements contrary to law. Next,
+the Court made clear that § 1008 does not require separation at the grantee level. “Title X
+ No. 21-4235                              Ohio, et al. v. Becerra, et al.                               Page 18
+
+
+expressly distinguishes between a Title X grantee and a Title X project.” Id. at 196 (emphasis in
+original). So, the Court concluded, § 1008 does not ban any person or entity who receives a Title
+X grant from also “engag[ing] in abortion-related activity.” Id. at 198. But a plain reading of
+§ 1008 also tells us that the statute requires more than just a separation of funds; the statute does
+not, for example, say merely that “no Title X funds shall be used for abortions or abortion
+services.”9 Instead, it requires separation at the program level. The statute says that “[n]one of
+the funds appropriated under” Title X “shall be used in programs where abortion is a method of
+family planning.” 42 U.S.C. § 300a-6 (emphasis added). So, in explaining why the 1988 Rule
+did not amount to an unconstitutional condition, the Court made clear that a grantee may choose
+to provide abortion services, so long as it “conduct[s] those activities through programs that are
+separate and independent from the project that receives Title X funds.”10 Rust, 500 U.S. at 196
+(emphasis added).
+
+        How to go about implementing this statutory directive is largely for the agency to decide.
+HHS has discretion to carry out the Title X program in any manner consistent with a
+“permissible construction of the statute.” Chevron, 467 U.S. at 843. Here, both the text of the
+statute and the Supreme Court’s interpretation plainly set forth the legislative command: no Title
+X funds may be “used in programs where abortion is a method of family planning,” 42 U.S.C.
+§ 300a-6, so any abortion “programs” a Title X grantee runs must be kept separate from Title X
+projects and funds, Rust, 500 U.S. at 190. The agency’s discretion comes in its ability to choose
+the means to hit that statutory target. But the statute mandates separate “programs” (rather than
+demanding separate grantees, or merely requiring separate books), and the agency must enforce
+that limitation.
+
+
+
+        9By contrast, Congress has included language in appropriations bills allocating funds for the Title X
+program that says funds “shall not be expended for abortions.” See, e.g., Consolidated Appropriations Act, 2022,
+Pub. L. No. 117-103, div. H, title II, Family Planning (Mar. 15, 2022).
+        10As the dissent points out, the Court here was explaining why the 1998 Rule did not violate the First
+Amendment. Rust, 500 U.S. at 197. But in so doing, it provided an important reason why the 1988 Rule’s program-
+integrity requirements were consistent with § 1008—Title X grantees could still perform abortion services, but they
+were required to do so “through programs that [were] separate and independent from the project that the receives
+Title X funds.” Id. at 196. This comports with the plain language of § 1008, which says that no Title X funds may
+be “used in programs where abortion is a method of family planning.”
+ No. 21-4235                                Ohio, et al. v. Becerra, et al.                                 Page 19
+
+
+         The 1988 and 2019 Rules chose similar means to implement the statutory command—
+strict financial and physical separation. That’s how one would know whether a grantee that
+provided both abortion-related services and Title X family planning services kept the abortion
+activities to a “program” that was “separate” from the Title X project. 11                          See id. at 179
+(explaining that the 1988 Rule was “designed to provide ‘clear and operational guidance’ to
+grantees about how to preserve the distinction between Title X programs and abortion as a
+method of family planning.” (quoting 53 Fed. Reg. at 2,923–24)); id. at 188 (quoting 1988 Rule
+for the proposition that “[h]aving a program that is separate from [abortion] activities is a
+necessary predicate to any determination that abortion is not being included as a method of
+family planning in the Title X program”) (quoting 53 Fed. Reg. at 2,940)). An outside observer,
+or an HHS compliance officer, could tell the difference between the two “programs” because
+they would not share physical space, or personnel, or records. In Rust, the Supreme Court said
+this was a “permissible” way to meet the statutory goal of keeping the programs separate. Id. at
+188–90. But the Court also said that was not the exclusive way in which the agency might meet
+Congress’s goal—it rejected the Secretary’s argument that the 1988 Rules were required. Id. at
+189.
+
+         How does the 2021 Rule purport to ensure that any abortion “program” a Title X grantee
+runs is kept separate and distinct from Title X projects and funds? It “eliminat[ed] requirements
+for strict physical and financial separation between abortion-related activities and Title X project
+activities.” 86 Fed. Reg. at 56,144. In its place, the 2021 Rule reverted to the language of the
+
+
+         11Both the 1988 and 2019 rules used the term “program” and “project” interchangeably.         See 53 Fed. Reg.
+at 2,922; 84 Fed. Reg. at 7,714. The 2000 and 2021 Rules do not say that the terms are used interchangeably, but
+HHS represents in its brief that it views the terms that way. See Appellee Br. at 28. And the States do not argue
+otherwise. Across administrations, HHS has defined “program/project” similarly, and somewhat circularly, to
+“mean a plan or sequence of activities that is funded to fulfill the requirements elaborated in a Title X funding
+announcement.” 84 Fed. Reg. at 7,787 (2019 Rule); see 53 Fed. Reg. at 2,944 (1988 Rule) (“program” and
+“project” . . . mean “a coherent assembly of plans, activities, and supporting resources contained within an
+administrative framework” and a “Title X program” or “Title X project” means “the identified program which is
+approved by the Secretary for support under section 1001 of the Act.”); 65 Fed. Reg. at 41,276 (2000 Rule) (“The
+Department has traditionally viewed a grant project as consisting of an identified set of activities supported in whole
+or in part by grant funds.”); 65 Fed Reg. at 41,282 (2000 Guidance) (“The Title X project is the set of activities the
+grantee agreed to perform in the relevant grant documents as a condition of receiving Title X funds.”). In other
+words, as HHS defined the terms, a program or project is the set of activities that receive grant funding and are,
+therefore, subject to the grant conditions. So the conditions on the grant-funded set of activities are what distinguish
+a Title X program from other programs.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                        Page 20
+
+
+2000 Rule, which says nothing about any sort of separation. Instead, it merely states that an
+eligible Title X project must “[n]ot provide abortion as a method of family planning.” 42 C.F.R.
+§ 59.5; 65 Fed. Reg. at 41,279. The preamble to the 2021 Rule indicates, however, that it
+reinstated Guidance accompanying the 2000 Rule. 86 Fed. Reg. at 56,150. That Guidance says
+that “[n]on-Title X abortion activities must be separate and distinct from Title X project
+activities.” 65 Fed. Reg. at 41,282. It also says that “separate bookkeeping entries alone will not
+satisfy the spirit of the law. Mere technical allocation of funds, attributing federal dollars to non-
+abortion activities, is not a legally supportable avoidance of section 1008.” Id.
+
+       So what does the Guidance require beyond separate bookkeeping? If it requires anything,
+the Guidance doesn’t say. We know it’s not a “separate health facility.” Id. The Guidance
+makes clear that “[s]eparation of Title X from abortion activities does not require” that. Id.
+Inside a common health facility, a “common waiting room is permissible, as long as the costs
+[are] properly pro-rated.” Id. So is the “maintenance of a single file system for abortion and
+family planning patients . . . so long as costs are properly allocated.” Id. “[C]ommon staff is
+permissible” too “so long as salaries are properly allocated.” Id. So, from the examples HHS
+has provided, it seems that cost-accounting is, in fact, the only limit on comingling. To be
+complete, with respect to common staff, the Guidance also requires that “all abortion related
+activities of the staff members [be] performed in a program which is entirely separate from the
+Title X project.” Id. (emphasis added). But since our quest is to uncover what the Guidance
+means by a “separate” “program,” this latter qualification offers no help. And neither does the
+Guidance’s blessing of a “hospital offering abortions for family planning purposes and also
+housing a Title X project,” which is “permissible, as long as the abortion activities are
+sufficiently separate from the Title X project.” Id. (emphasis added). The Guidance does
+nothing to answer the critical question: sufficiently separate, how?
+
+       The Guidance does offer one more clue. It says that “[w]here a grantee conducts abortion
+activities that are not part of the Title X project and would not be permissible if they were, the
+grantee must ensure that the Title X supported project is separate and distinguishable from those
+other activities.” Id. It then offers a test: “What must be looked at is whether the abortion
+element in a program of family planning is so large and so intimately related to all aspects of the
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                        Page 21
+
+
+program as to make it difficult or impossible to separate the eligible and the non-eligible items of
+cost.” Id. (emphasis added).
+
+        The States say that this language decides the case. Section 1008 prohibits Title X funds
+from being “used in programs where abortion is a method of family planning.” 42 U.S.C.
+§ 300a-6. But the Guidance “says that Title X grantees can have an ‘abortion element in a
+program of family planning services,’ as long as it is not too ‘large’ or ‘intimately related’ with
+the non-abortion parts of the family-planning program.” Appellants Br. at 24–25. The States say
+this cannot be a permissible reading of the statute. Taken at face-value, the States have a point;
+obviously, a Title X “program” cannot have an “abortion element,” no matter how small and
+unrelated it is to other aspects of the program. But even giving the most charitable reading to
+this language, as the district court did, does not help us discover a “permissible” construction of
+the statute.
+
+        As HHS and the district court see it, the Department’s “unfortunate” “choice of the word
+‘program’” is of no concern because it does not mean “that a Title X program may have an
+‘abortion element.’” Ohio v. Becerra, 577 F. Supp 3d 678, 691 n.13 (S.D. Ohio 2021). Rust
+held that “Title X expressly distinguishes between a Title X grantee,” which may run an abortion
+program, “and a Title X project,” which may not. Rust, 500 U.S. at 196; see also id. at 198.
+And the Guidance does say that “[n]on-Title X abortion activities must be separate and distinct
+from Title X project activities.” 65 Fed. Reg. at 41,282. So “reading the passage with full
+context,” Becerra, 577 F. Supp. 3d at 691 n.13, the district court and the Secretary essentially ask
+us to construe the Guidance as if it said: “What must be looked at is whether the abortion
+element in a grantee’s collective set of “program[s] of family planning” (which may encompass
+both Title X programs and abortion programs) “is so large and so intimately related to all aspects
+of the [collective set of] program[s] as to make it difficult or impossible to separate the eligible
+and the non-eligible items of cost.” See id. at 690 (quoting 65 Fed. Reg. at 41,282); see id. at
+691 n.13.
+
+        Of course, that’s not what the Guidance says. But even if we were to give it this
+construction, the Guidance still fails in its critical task—to offer a permissible construction of the
+statute’s key term, “program.” The Guidance offers just one test for assessing whether a “Title X
+ No. 21-4235                             Ohio, et al. v. Becerra, et al.                               Page 22
+
+
+supported project [or program] is separate and distinguishable from [abortion] activities.”
+65 Fed. Reg. at 41,282. “What must be looked at” is whether the “abortion element” is “so
+large” and “so intimately related” to the Title X activities that it is just too hard to “separate the
+eligible and the non-eligible items of cost.” Id. In other words, so long as it is possible to
+account for the “abortion costs,” the Guidance deems the “abortion program” to be “separate and
+distinguishable” from the Title X project. And the examples, whose limits all boil down to cost-
+accounting, confirm this construction.
+
+        This test cannot be squared with the statute. Section 1008 does not say merely that no
+Title X funds “shall be used for abortions or abortion-related activity.” If it did, then perhaps
+mere cost-accounting would suffice. But the statute requires more than separate dollars. It
+requires separate programs: no Title X funds “shall be used in programs where abortion is a
+method of family planning.” 42 U.S.C. § 300a-6 (emphasis added). That language can only be
+read to say that no Title X funds can be used in such “programs,” even to support non-abortion
+activities.12 Title X funds cannot be spent even on contraceptive counseling, a core-Title X
+function, if the “program” is one “where abortion is a method of family planning.” 42 U.S.C.
+§ 300a-6. So it is incumbent upon the agency to have a discernible, and permissible, conception
+of what constitutes a “program.” And because it violates the statute for any Title X dollars to be
+spent, even for Title X-approved purposes, in a “program where abortion is a method of family
+planning,” id., the boundaries of the “program” cannot be defined merely by how the money is
+spent. The Agency does not say otherwise. Indeed, HHS acknowledges that a “[m]ere technical
+allocation of funds, attributing federal dollars to non-abortion activities, is not a legally
+supportable avoidance of section 1008.” 65 Fed. Reg. at 41,282. Yet the only dividing line the
+agency has offered to distinguish one “program” from another is whether it is possible to
+“separate the eligible and the non-eligible items of cost.” Id.; see also id. (listing examples of
+
+
+        12To be clear, we do not hold that § 1008 requires “complete physical separation,” as the dissent seems to
+believe. Dissent Op. at 42. Such a holding would conflict with Rust, which held that complete separation was
+permitted but not required. See supra at 19. We disagree, however, with the dissent that if the Court in Rust
+“believed physical separation requirements were mandated by the statute, it would not have held that § 1008 was
+ambiguous.” Dissent Op. at 40. Contrary to the dissent’s suggestion, it does not follow that because the Court did
+not believe that § 1008 required complete physical separation, the Court thought that § 1008 required no physical
+separation. Nothing in Rust can be read as the Court concluding as much.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                      Page 23
+
+
+permissible integration of Title X program and abortion program facilities and personnel, “so
+long as costs are properly allocated” or “pro-rated”).
+
+       The Agency offers little in response. It points to the Guidance’s language requiring that a
+grantee’s “Title X-supported project must be ‘separate and distinguishable’ from any abortion-
+related activities,” but it does not answer what it means by those terms. Appellee Br. at 27
+(quoting 65 Fed. Reg. at 41,282). It insists that “more than mere ‘separate bookkeeping’” is
+required,” id. (quoting 65 Fed. Reg. at 41,282), though both its many examples and its lone test
+say otherwise.    It says that a grantee may use “financial records, counseling and service
+protocols, administrative procedures, and other means” to “demonstrate” that its Title X and
+abortion programs are “distinct.” Id. (quoting 65 Fed. Reg. at 41,276). And it promises “robust
+monitoring processes to ensure grantee compliance, . . . including through regular grant reports,
+compliance monitoring visits, and legally required audits.” Id. (quoting 86 Fed. Reg. at 56,152).
+But these “means” of enforcing compliance do not answer the question before us. Our question
+is whether the agency has permissibly determined what it must enforce. That is, has the agency
+permissibly determined when Title X funds would be mis-spent through “use[] in programs
+where abortion is a method of family planning”? 42 U.S.C. § 300a-6 (emphasis added).
+
+       HHS has offered but one answer to this question—Title X funds may not be “used in
+programs where abortion is a method of family planning,” id., when the “abortion element” is
+“so large” and “so intimately related” to the Title X project that it would be “difficult or
+impossible to separate the eligible and the non-eligible items of cost items of cost.” 65 Fed. Reg.
+at 41,282. But, as we have explained, that answer is insufficient to mark the critical boundary set
+forth in the statute—between what is and what is not a “program[] where abortion is a method of
+family planning.” 42 U.S.C. § 300a-6 (emphasis added).
+
+       The Supreme Court in Rust upheld the 1988 Rule’s decision to mark the boundaries
+between a grantee’s Title X “program” and any abortion-related “program” through strict
+physical and financial separation. 500 U.S. at 190. At the same time, because the statute is
+“ambiguous” on this score and does not “speak directly to the issue[] of . . . program integrity,”
+other approaches are possible. Id. at 184. Yet the Agency must offer some concrete conception,
+beyond mere financial separation, of the statute’s key term “program,” so that it can ensure
+ No. 21-4235                              Ohio, et al. v. Becerra, et al.                               Page 24
+
+
+compliance with the statute’s command that no Title X funds “shall be used in programs where
+abortion is a method of family planning.” 42 U.S.C. § 300a-6. Because the 2021 Rule fails in
+this regard, its construction is not a permissible reading of the statute, and the States are likely to
+succeed on the merits of this challenge.
+
+                                                       IV.
+
+        “Even with a high likelihood of success on the merits, a preliminary injunction is not
+warranted unless the plaintiffs are likely to suffer irreparable injury in the absence of interim
+relief.” Kentucky v. Biden, 57 F.4th 545, 555 (6th Cir. 2023). Before any grants had been
+awarded under the 2021 Rule, the States sought an injunction pending appeal, offering three
+theories of harm: (1) increased competition for Title X funds from other prospective grantees
+who were unable or unwilling to comply with the stricter 2019 Rule; (2) reputational injury that
+would result from any loss of funding affecting the States’ ability to provide the level of
+healthcare services their citizens had come to expect; and (3) injury caused by forcing the States
+to put their imprimatur on abortion. Ohio v. Becerra, 2022 WL 413680, at *3 (6th Cir. Feb. 8,
+2022). A motions panel of this court rejected all three theories of harm at that stage of the
+litigation. Id. at *2.
+
+        Relevant here is the States’ competition-based theory of harm, which posits that
+applicants for government grants “suffer [an] injury in fact when agencies lift regulatory
+restrictions on their competitors or otherwise allow increased competition against them.”
+Sherley v. Sebelius, 610 F.3d 69, 72 (D.C. Cir. 2010) (alteration in original) (citation omitted);13
+Planned Parenthood of Greater Wash. & N. Idaho v. Dep’t of Health & Hum. Servs., 946 F.3d
+1100, 1108 (9th Cir. 2020) (“An agency action that increases competition tilts the playing field
+for parties that were already competing, and those parties suffer an injury-in-fact.”); Clinton v.
+City of New York, 524 U.S. 417, 432–33 (1998). The motions panel deemed this theory too
+
+        13The motions panel questioned Sherley’s relevance because Sherley held that increased competition “can
+suffice as an injury-in-fact for standing purposes,” but did not “comment on when that injury might be irreparable”
+in the preliminary injunction context. Becerra, 2022 WL 413680, at *3. But the panel did not explain why harm in
+the standing context would not be relevant to the irreparable harm inquiry in the preliminary injunction context.
+Assuming that a party has successfully made the requisite showing of a cognizable injury for standing, the question
+at the preliminary injunction stage is whether that harm is irreparable. See D.T. v. Sumner Cnty. Schs., 942 F.3d
+324, 327 (6th Cir. 2019).
+ No. 21-4235                               Ohio, et al. v. Becerra, et al.                                Page 25
+
+
+speculative at the time because it was premised on the then-uncertain prediction that the States
+would receive less Title X funding under the new rule. Becerra, 2022 WL 413680, at *4.
+Because “[n]o grant money ha[d] been allocated,” the motions panel could not determine “at
+th[at] point” whether HHS would “provide the States with less money” than under the 2019
+Rule. Id. at *3. The panel said that “any economic injury in this case would only occur . . . after
+HHS determine[d] its Title X funding allocations for the 2022-2023 funding year.” Id. at *4.
+
+         Shortly after the motions panel’s decision, HHS announced its 2022-23 grant awards.14
+The agency’s announcement established that the economic harm the States predicted had come
+to pass. At least one of the appellant States, Ohio, received fewer Title X funds following the
+adoption of the 2021 Rule. The States filed a motion, asking us to take judicial notice of this
+fact. In their motion, the States point out that the Ohio Department of Health received $1,760,00
+less compared to its previous annual award under the 2019 Rule, representing a substantial
+twenty-percent decrease. App. R. 57 at 2.
+
+         HHS contends that we cannot consider the grant award amounts because when the district
+court denied the preliminary injunction, the grants had not yet been made, so they were not part
+of the record before the district court. But we retain the power to take judicial notice of changed
+circumstances. Reply Br. at 21 (citing Namo v. Gonzales, 401 F.3d 453, 458 (6th Cir. 2005);
+Broom v. Shoop, 963 F.3d 500, 509 (6th Cir. 2020); Mallory v. Eyrich, 922 F.2d 1273,1281 (6th
+Cir. 1991)).15      HHS’s grant announcement is publicly available online, is “not subject to
+reasonable dispute” and “can be accurately and readily determined from sources whose accuracy
+cannot reasonably be questioned.” Fed. R. Evid. 201(b); see United States v. Husein, 478 F.3d
+318, 337 (6th Cir. 2007) (applying rule to request on appeal). What’s more, it cannot be that the
+
+         14HHS Awards $256.6 Million to Expand & Restore Access to Equitable & Affordable Title X Family
+Planning Services Nationwide, Mar. 30, 2022, https://www.hhs.gov/about/news/2022/03/30/hhs-awards-256-
+million-to-expand-restore-access-to-equitable-affordable-title-x-family-planning-services-nationwide.html.
+         15We have adopted HHS’s argument in an unpublished opinion.             Johnson v. City of Memphis, 444 F.
+App’x 856, 860 n.2 (6th Cir. 2011). And in a published opinion, we’ve stated that our task on an appeal from a
+preliminary injunction is “to review the record that was before the district court.” Wilson v. Williams, 961 F.3d 829,
+833 (6th Cir. 2020) (quoting Johnson, 444 F. App’x at 860 n.2). But the unpublished opinion is not binding. And,
+in our published opinion, nothing turned on our suggestion that our review was limited to the record before the
+district court. See id. at 833. So, any suggestion in Wilson that we cannot take judicial notice of changed
+circumstances in an appeal from a preliminary injunction was dicta, and therefore nonbinding. See Wright v.
+Spaulding, 939 F.3d 695, 701 (6th Cir. 2019).
+ No. 21-4235                              Ohio, et al. v. Becerra, et al.                                Page 26
+
+
+States’ claim of injury was too early at the injunction-pending-appeal stage—because the alleged
+harm was too uncertain—but is too late now that the harm has actually come to pass. We
+therefore hold that at least Ohio16 has made the requisite showing of irreparable injury based on
+its competition-based theory of harm.
+
+        HHS counters that the States “do not attempt to explain how any decrease in funds would
+be traceable to increased competition rather than to the agency’s independent judgments about a
+grantee’s performance on [various performance] factors.” Appellee Br. at 16 (“Title X grant
+applications are evaluated based on a broad range of criteria, including, for example, evidence of
+the applicant’s ability to increase access to quality family planning services and the applicant’s
+history of performance.” (cleaned up)). But the causal link here is not obscure. With respect to
+Ohio, the only State to submit evidence supporting its claim of competitive injury, an official
+from the Ohio Department of Health attested: “Before the 2019 Rule went into effect . . . both
+the Ohio Department of Health and Planned Parenthood of Greater Ohio received grants. After
+the 2019 Rule, Planned Parenthood of Greater Ohio stopped participating in Title X, and the
+Ohio Department of Health received all of the funds that were allocated to grantees in Ohio—
+amounting to $8.8 million in each of 2020-2021 and 2021-2022.” Becerra, 2022 WL 413680, at
+*3. And after the adoption of the 2021 Rule, HHS “announced two grants in the State of Ohio:
+Planned Parenthood of Greater Ohio . . . has now been awarded $2 million. The Ohio
+Department of Health was awarded $7,040,000 . . . a decrease of $1,760,000 from its previous
+(undisputed) annual award of $8,800,000.” App. R. 57 at 1–2. In other words, when Planned
+Parenthood (the only other grant recipient in Ohio) “dropped out of Title X, Ohio’s funding went
+up. When Planned Parenthood reentered, Ohio’s funding went down.” Reply Br. at 25. And
+nothing in the record supports HHS’s suggestion that Ohio’s decrease in funds was a result of
+poor performance. In sum, due to the rule change, Ohio lost one-fifth of its Title X funding, an
+amount that it cannot get back: “economic injuries caused by federal agency action are generally
+
+
+
+        16Of the eleven remaining Plaintiff-States, only Ohio submitted a declaration providing concrete evidence
+that it would face increased competition as a result of the 2021 Rule. R. 50, PageID 678. And in the States’ motion
+to take judicial notice of the 2022–23 grants, the States note only that “some of the appellant States are receiving
+fewer Title X funds in light of the Final Rule’s adoption.” App. R. 57 at 1 (emphasis added). But the motion
+provides no funding data for any state but Ohio.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                        Page 27
+
+
+unrecoverable because the APA does not waive sovereign immunity for damages claims.”
+Becerra, 2022 WL 413680, at *4. The 2021 Rule has caused irreparable harm.
+
+                                                 V.
+
+       Finally, we consider whether issuing an injunction would serve the public interest. The
+States argue correctly that the public interest lies in correctly applying the law and that, because
+the Rule’s program integrity policy is not a reasonable interpretation of § 1008, enjoining the
+Rule would serve the public interest. See Coal. to Def. Affirmative Action v. Granholm, 473 F.3d
+237, 252 (6th Cir. 2006). HHS, on the other hand, argues that the public interest favors leaving
+the 2021 Rule in place because the former 2019 Rule reduced patient access to Title X services.
+Ohio introduced some evidence undermining this concern: testimony in the record reflects that
+the Ohio Department of Health used its supplemental Title X funding to fill the service gaps in
+counties where Planned Parenthood had stopped offering Title X services after withdrawing from
+the Title X program. R. 1-1, PageID 30–31. With that said, data from the preamble to the 2021
+Rule suggests otherwise. HHS stated that Ohio “experienced a 10 percent decline in service sites
+between 2018 and 2020, an 18 percent decline in clients from 2018 to 2019, and a 57 percent
+decline in clients from 2019 to 2020.” 86 Fed. Reg. at 56,151. The agency explained, “While
+many states and territories experienced a decline in clients from 2019 to 2020 due to COVID-19,
+Ohio’s percentage decline in clients from 2019 to 2020 ranked 18th in order of states from
+largest to smallest decline.” Id. Given the public interest in correctly applying the law on the
+one hand but the apparent decrease in services in Ohio on the other, we thus find that this factor
+does not cut in either direction.
+
+       With the majority of the preliminary injunction factors favoring the States’ position, we
+therefore find that the balance of the equities weighs in favor of a preliminary injunction.
+
+       But that relief must be limited to Ohio.          A showing of irreparable harm is an
+indispensable perquisite for the issuance of a preliminary injunction. D.T., 942 F.3d at 327 (“If
+the plaintiff isn’t facing imminent and irreparable injury, there’s no need to grant relief now as
+opposed to at the end of the lawsuit.”); State of Ohio ex rel. Celebrezze v. Nuclear Regul.
+Comm’n, 812 F.2d 288, 290 (6th Cir. 1987) (“In order to substantiate a claim that irreparable
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                       Page 28
+
+
+injury is likely to occur, a movant must provide some evidence that the harm has occurred in the
+past and is likely to occur again.”). As discussed above, Ohio is the only plaintiff-State that
+provided the requisite facts and affidavits supporting the States’ assertion that the 2021 Rule
+would cause them to suffer the competition-based harm. See Celebrezze, 812 F.2d at 290. Ohio
+argues that a nationwide injunction is necessary to ensure that it “suffer[s] no adverse
+consequences.” Reply Br. at 24. But Ohio’s competition-based theory of harm is premised on
+the increased competition within Ohio’s borders—specifically from Planned Parenthood of Ohio,
+the only other Title X grantee in the state. See id. at 19–20 (“Now that HHS has awarded
+$2 million to Planned Parenthood of Greater Ohio for the coming grant year, Ohio will receive
+$1.76 million less. The overall increase in grants for Ohio providers did not overcome the State
+of Ohio’s loss to competitor Planned Parenthood.”); Appellants Br. at 12 (“Before the 2019 Rule,
+Planned Parenthood was the only other grantee in Ohio. Once Planned Parenthood left the
+program, Ohio applied for and received more than $4 million annually in additional Title X
+funds.”). Ohio has not made the requisite showing that a nationwide preliminary injunction is
+necessary to ameliorate its competition-based harm. See Gill v. Whitford, 138 S. Ct. 1916, 1934
+(2018) (“A plaintiff’s remedy must be tailored to redress the plaintiff’s particular injury.” (citing
+DaimlerChrysler Corp. v. Cuno, 547 U.S. 332, 353 (2006)); McNeilly v. Land, 684 F.3d 611,
+615 (6th Cir. 2012) (“The party seeking the preliminary injunction bears the burden of justifying
+such relief.” (citing Granny Goose Foods, Inc. v. Teamsters, 415 U.S. 423, 441 (1974)).
+
+       In sum, we hold that the preliminary injunction factors weigh in favor of granting relief
+on the challenge to the 2021 Rule’s program-integrity requirements. Because only Ohio made
+the requisite showing of irreparable harm, Ohio is entitled to a preliminary injunction enjoining
+the United States from enforcing the 2021 Rule’s program integrity rules in Ohio in a manner
+that would affect the allocation of funding in Ohio.
+
+                                                ***
+
+       We AFFIRM in part, REVERSE in part, and REMAND to the district court for further
+proceedings consistent with this opinion.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 29
+
+
+                               _____________________________
+
+                                 CONCURRENCE / DISSENT
+                               _____________________________
+
+       KAREN NELSON MOORE, Circuit Judge, concurring in the judgment in part and
+dissenting in part. This ought to be a simple, straightforward application of well-established
+precedent in administrative law. The Department of Health and Human Services (“HHS”) issued
+a final rule in 2021 governing the Title X program, which makes grants to support the
+establishment and operation of voluntary family-planning service projects.         The 2021 Rule
+interpreted various provisions of Title X, including, as is relevant to this appeal, § 1008 of Title
+X, codified at 42 U.S.C. § 300a-6. Section 1008 bars funds appropriated under Title X from
+being “used in programs where abortion is a method of family planning.” 42 U.S.C. § 300a-6.
+The 2021 Rule revoked the previous regulation, the 2019 Rule, which had required grantees to
+maintain strict physical and financial separation between Title X programs and any abortion-
+related services they might provide and which barred Title X grantees from providing referrals
+for abortion services upon request. The 2021 Rule reinstated, with some updates, the 2000 Rule,
+which required only financial separation between Title X programs and grantees’ other activities
+and required Title X grantees to provide referrals for abortion services upon request.
+
+       A group of states sued, seeking to block these two changes. The States argued that the
+2021 Rule’s program-integrity and abortion-referral provisions are “not in accordance” with
+§ 1008 and that they are “arbitrary and capricious” in violation of the Administrative Procedure
+Act (“APA”). 5 U.S.C. § 706(2)(A). They sought a preliminary injunction to reinstate the 2019
+Rule, which the district court denied, and they timely appealed. I would conclude that the States
+are not likely to succeed on their challenges to the program-integrity provisions or the referral
+provisions of the 2021 Rule. I would also conclude that the public interest weighs in favor of
+denying a preliminary injunction. Therefore I would affirm the district court’s denial of a
+preliminary injunction, and I dissent from section III.B and part of section V of the majority
+opinion.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 30
+
+
+                                       I. BACKGROUND
+
+       Congress enacted Title X “[t]o promote public health and welfare by expanding,
+improving, and better coordinating the family planning services and population research
+activities of the Federal Government.” Family Planning Servs. & Pop. Res. Act of 1970, Pub. L.
+No. 91-572, 84 Stat. 1504. Under the statute, the Secretary of HHS “is authorized to make grants
+to and enter into contracts with public or nonprofit private entities to assist in the establishment
+and operation of voluntary family planning projects which shall offer a broad range of acceptable
+and effective family planning methods and services (including natural family planning methods,
+infertility services, and services for adolescents).”     42 U.S.C. § 300(a).     The statute also
+authorizes the Secretary to “make grants to public or nonprofit entities and to enter into contracts
+with public or private entities and individuals to provide the training for personnel to carry out
+family planning service programs described in section 300 or 300a of this title.” 42 U.S.C.
+§ 300a-1. The statute provides further guidance on how the grant program is to operate. It
+specifies that grantees must make assurances that “(1) priority will be given in such project or
+program to the furnishing of such services to persons from low-income families; and (2) no
+charge will be made in such project or program for services provided to any person from a low-
+income family except to the extent that payment will be made by a third party (including a
+government agency) which is authorized or is under legal obligation to pay such charge.”
+42 U.S.C. § 300a-4(c). And finally, the statute requires that “[n]one of the funds appropriated
+under this subchapter shall be used in programs where abortion is a method of family planning.”
+42 U.S.C. § 300a-6. This final provision was enacted as § 1008 of Title X.
+
+       HHS regulations set out how the program works. “Any public or nonprofit private entity
+in a State may apply for a grant under this subpart.” 42 C.F.R. § 59.3 (2021). Potential grantees
+submit an application that includes a description of the proposed project and how it will satisfy
+the Title X requirements, a budget and explanation of the amount of funds the project is
+requesting, and “[a] description of the standards and qualifications which will be required for all
+personnel and for all facilities to be used by the project.” Id. § 59.4(c)(3). Projects must
+“[p]rovide a broad range of acceptable and effective medically approved family planning
+methods (including natural family planning methods) and services (including pregnancy testing
+ No. 21-4235                           Ohio, et al. v. Becerra, et al.                             Page 31
+
+
+and counseling, assistance to achieve pregnancy, basic infertility services, STI services,
+preconception health services, and adolescent-friendly health services).”                  Id. § 59.5(a)(1).
+Projects obtain their funding from multiple sources; “[n]o grant may be made for an amount
+equal to 100 percent for the project’s estimated costs.” Id. § 59.7(c). And, most relevant to this
+case, projects must also “[n]ot provide abortion as a method of family planning.”                          Id.
+§ 59.5(a)(5).
+
+       The 2021 Rule revoked the 2019 Rule and then readopted the 2000 Rule with some
+minor changes. Ensuring Access to Equitable, Affordable, Client-Centered, Quality Family
+Planning Servs. (“2021 Rule Preamble”), 86 Fed. Reg. 56,144, 56,144 (Oct. 7, 2021).1 Guidance
+published alongside the 2000 Rule states that the § 1008 bar on the use of Title X funds in
+programs in which abortion is a method of family planning “applies not only to the performance
+of abortion by a Title X project, but also to the conduct of certain abortion-related activities by
+the project. However, the prohibition does not apply to all the activities of a Title X grantee, but
+only to those within the Title X project.” Provision of Abortion-Related Services in Family
+Planning Services Projects (“2000 Guidance”), 65 Fed. Reg. 41,281, 41,281 (Jul. 3, 2000). The
+2000 Rule expressed HHS’s interpretation of the statute, which in its view “on its face, requires
+financial separation only.” Standards of Compliance for Abortion-Related Services in Family
+Planning Services Projects (“2000 Rule”), 65 Fed. Reg. 41,270, 41,275 (Jul. 3, 2000). The
+agency therefore “accepted the suggestion of a number of the comments that the requirement for
+physical separation be dropped.” Id. at 41,276.
+
+       In so doing, the agency determined that although the prohibition on the use of Title X
+funds in programs where abortion is a method of family planning “was held to go beyond a
+requirement for the technical allocation of funds between Title X project activities and
+impermissible abortion activities,” id. at 41,275, requiring financial separation only, and not
+physical separation, was sufficient to satisfy the statutory command. The test the agency put
+forth to determine whether financial separation of a Title X project from a grantee’s other
+activities was possible asked “whether the abortion element in a program of family planning
+services is so large and so intimately related to all aspects of the program as to make it difficult
+       1The 2021 Rule is now found in the Code of Federal Regulations (“C.F.R.”). See 42 C.F.R. §§ 59.1–59.11.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 32
+
+
+or impossible to separate the eligible and non-eligible items of cost.” 2000 Guidance, 65 Fed.
+Reg. at 41,282. Read in context, this test essentially asks if, within a potential grantee’s general
+program of family planning services, abortion services play such a large role that they are
+intimately related to all aspects of the family planning program, thus making it difficult or
+impossible to identify a Title X-eligible project that can operate financially separately from the
+rest of the grantee’s activities—meaning that the financial separation required under the 2021
+Rule goes beyond “[m]ere technical allocation of funds” or “separate bookkeeping entries
+alone.” Id.
+
+                                         II. ANALYSIS
+
+       Courts must consider four factors when determining whether to grant a preliminary
+injunction: “(1) whether the movant has a strong likelihood of success on the merits; (2) whether
+the movant would suffer irreparable injury absent the injunction; (3) whether the injunction
+would cause substantial harm to others; and (4) whether the public interest would be served by
+the issuance of an injunction.” Am. Civil Liberties Union Fund of Mich. v. Livingston County,
+796 F.3d 636, 642 (6th Cir. 2015) (quoting Bays v. City of Fairborn, 668 F.3d 814, 818–19 (6th
+Cir. 2012)). When the federal government is the defendant, the third and fourth factors merge.
+Commonwealth v. Biden, 57 F.4th 545, 556 (6th Cir. 2023).
+
+       The Sixth Circuit “reviews the district court’s denial of a motion for a preliminary
+injunction for abuse of discretion.” Wonderland Shopping Ctr. Venture Ltd. Partnership v. CDC
+Mortg. Capital, Inc., 274 F.3d 1085, 1097 (6th Cir. 2001); see also Benisek v. Lamone, 538 U.S.
+----, 138 S. Ct. 1942, 1943–44 (2018) (per curiam) (reviewing a district court’s decision to deny
+a preliminary injunction for abuse of discretion, “keeping in mind that a preliminary injunction is
+‘an extraordinary remedy never awarded as of right.’” (quoting Winter v. Natural Res. Def.
+Council, Inc., 555 U.S. 7, 24 (2008))); Tumblebus, Inc. v. Cranmer, 399 F.3d 754, 760 (6th Cir.
+2005); Certified Restoration Dry Cleaning Network, L.L.C. v. Tenke Corp., 511 F.3d 535, 540–
+41 (6th Cir. 2007). Although “[t]he district court’s determination of whether the movant is likely
+to succeed on the merits is a question of law and is accordingly reviewed de novo,” “the district
+court’s ultimate determination as to whether the four preliminary injunction factors weigh in
+favor of granting or denying preliminary injunctive relief is reviewed for abuse of discretion.”
+ No. 21-4235                          Ohio, et al. v. Becerra, et al.                         Page 33
+
+
+Certified Restoration Dry Cleaning Network, 511 F.3d at 541. When reviewing a district court’s
+decision for abuse of discretion, “[t]he district court’s determination will be disturbed only if the
+district court relied upon clearly erroneous findings of fact, improperly applied the governing
+law, or used an erroneous legal standard.” Hamilton’s Bogarts, Inc. v. Michigan, 501 F.3d 644,
+649 (6th Cir. 2007) (quoting Nightclubs, Inc. v. City of Paducah, 202 F.3d 884, 888 (6th Cir.
+2000)). Absent a legal or factual error, “the district court’s weighing and balancing of the
+equities is overruled ‘only in the rarest of cases.’” American Imaging Servs., Inc. v. Eagle-
+Picher Indus., Inc. (In re Eagle-Picher Indus., Inc.), 963 F.2d 855, 858 (6th Cir. 1992) (quoting
+NAACP v. City of Mansfield, 866 F.2d 162, 166 (6th Cir. 1989)).
+
+A. Likelihood of Success on the Merits
+
+        1. Impermissible Interpretation of § 1008
+
+        The States contend that HHS’s interpretation is an impermissible interpretation of the
+statute. Despite the majority’s musings on the vitality and the future of deference to agency
+interpretation of statutes under Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.,
+467 U.S. 837 (1984), it is the law of the land, and it is our duty to apply the law as stated by the
+Supreme Court. Agostini v. Felton, 521 U.S. 203, 237 (1997). We therefore must apply the
+Chevron framework. At Chevron Step One, a court asks “whether Congress has directly spoken
+to the precise question at issue. If the intent of Congress is clear, that is the end of the matter; for
+the court, as well as the agency, must give effect to the unambiguously expressed intent of
+Congress.” Chevron, 467 U.S. at 842–43. “[I]f the statute is silent or ambiguous with respect to
+the specific issue,” however, we proceed to Chevron Step Two, in which “the question for the
+court is whether the agency’s answer is based on a permissible construction of the statute.” Id. at
+843.
+
+        Both parties agree that Chevron applies to HHS’s interpretation of § 1008. Appellants
+Br. at 16; Appellees Br. at 26–27. Section 1008 states simply: “None of the funds appropriated
+under this subchapter shall be used in programs where abortion is a method of family planning.”
+42 U.S.C. § 300a-6. The majority correctly recognizes that the Supreme Court has already
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                       Page 34
+
+
+answered the Chevron Step One question—the language of Section 1008 is ambiguous. Rust v.
+Sullivan, 500 U.S. 173, 184 (1991). The Supreme Court held in Rust that:
+
+       we agree with every court to have addressed the issue that the language is
+       ambiguous. The language of § 1008—that “[n]one of the funds appropriated
+       under this subchapter shall be used in programs where abortion is a method of
+       family planning”—does not speak directly to the issues of counseling, referral,
+       advocacy, or program integrity.
+
+Id. (emphasis added). The Supreme Court’s holding is binding on this court, and we must
+therefore proceed to Chevron Step Two.
+
+       At Chevron Step Two, we consider whether the agency’s rule “is based on a permissible
+construction of the statute.” Chevron, 467 U.S. at 843. “A permissible construction is one that is
+not ‘arbitrary, capricious, or manifestly contrary to the statute.’” Metro. Hosp. v. U.S. Dep’t of
+Health & Hum. Servs., 712 F.3d 248, 265 (6th Cir. 2013) (quoting Chevron, 467 U.S. at 844).
+“[I]f the implementing agency’s construction is reasonable, Chevron requires a federal court to
+accept the agency’s construction of the statute, even if the agency’s reading differs from what the
+court believes is the best statutory interpretation.” Nat’l Cable & Telecom. Ass’n v. Brand X
+Internet Servs., 545 U.S. 967, 980 (2005). “Whether an agency’s construction is reasonable
+depends, in part, ‘on the construction’s “fit” with the statutory language, as well as its conformity
+to statutory purposes.’” Oakbrook Land Holdings, LLC v. Comm’r, 28 F.4th 700, 719 (6th Cir.
+2022) (quoting Good Fortune Shipping SA v. Comm’r, 897 F.3d 256, 262 (D.C. Cir. 2018)).
+
+       For the sake of clarity, I provide the 2000 Guidance on separation:
+
+               Non-Title X abortion activities must be separate and distinct from Title X
+       project activities. Where a grantee conducts abortion activities that are not part of
+       the Title X project and would not be permissible if they were, the grantee must
+       ensure that the Title-X supported project is separate and distinguishable from
+       those other activities. What must be looked at is whether the abortion element in
+       a program of family planning services is so large and so intimately related to all
+       aspects of the program as to make it difficult or impossible to separate the eligible
+       and non-eligible items of cost.
+               The Title X project is the set of activities the grantee agreed to perform in
+       the relevant grant documents as a condition of receiving Title X funds. A grant
+       applicant may include both project and nonproject activities in its grant
+       application, and, so long as these are properly distinguished from each other and
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                       Page 35
+
+
+       prohibited activities are not reflected in the amount of the total approved budget,
+       no problem is created. Separation of Title X from abortion activities does not
+       require separate grantees or even a separate health facility, but separate
+       bookkeeping entries alone will not satisfy the spirit of the law. Mere technical
+       allocation of funds, attributing federal dollars to non-abortion activities, is not a
+       legally supportable avoidance of section 1008.
+               Certain kinds of shared facilities are permissible, so long as it is possible
+       to distinguish between the Title X supported activities and non-Title X abortion-
+       related activities: (a) A common waiting room is permissible, as long as the costs
+       [are] properly pro-rated; (b) common staff is permissible, so long as salaries are
+       properly allocated and all abortion related activities of the staff members are
+       performed in a program which is entirely separate from the Title X project; (c) a
+       hospital offering abortions for family planning purposes and also housing a Title
+       X project is permissible, as long as the abortion activities are sufficiently separate
+       from the Title X project; and (d) maintenance of a single file system for abortion
+       and family planning patients is permissible, so long as costs are properly
+       allocated.
+              Whether a violation of section 1008 has occurred is determined by
+       whether the prohibited activity is part of the funded project, not by whether it has
+       been paid for by federal or non-federal funds. A grantee may demonstrate that
+       prohibited abortion-related activities are not part of the Title X project by various
+       means, including counseling and service protocols, intake and referral procedures,
+       material review procedures, and other administrative procedures.
+
+2000 Guidance, 65 Fed. Reg. at 41,282; see also 2021 Rule Preamble, 86 Fed. Reg. at 56,150
+(readopting the 2000 Rule). This regulation clearly determines that programs—meaning Title X
+projects—must be kept financially separated, but need not be physically separated.              This
+requirement goes beyond the “[m]ere technical allocation of funds,” which would presumably
+involve using one central budget for the entire set of family planning services that a grantee or
+subgrantee offers and attributing federal dollars to non-abortion line items; instead, the
+regulation requires that the costs be allocated, salaries pro-rated, and the finances of a Title X
+project or program be kept separate from the grantee’s overall budget, or even its overall family-
+planning services budget.       “[C]onsiderable weight should be accorded to an executive
+department’s construction of a statutory scheme it is entrusted to administer,” Chevron, 467 U.S.
+at 844, and therefore we must defer to this interpretation unless it is “manifestly contrary” to the
+statutory command in § 1008, id. I cannot agree with the majority that this interpretation is
+“manifestly contrary” to the statutory text.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 36
+
+
+       The States’ first argument that the regulations are an impermissible interpretation of the
+statute rests on the contention that the 2021 Rule “permits [] Title X funds to flow to programs
+where abortion is a method of family planning,” while “the statute prohibits Title X grants from
+being used in a program where abortion is a method of family planning.” Appellants Br. at 25
+(emphasis removed). They base this argument on a specious misreading of the 2000 Guidance.
+The States contend that the 2000 Guidance expressly permits Title X funds to be used for
+abortion activities, based on this sentence, divorced entirely from the surrounding context:
+“What must be looked at is whether the abortion element in a program of family planning
+services is so large and so intimately related to all aspects of the program as to make it difficult
+or impossible to separate the eligible and non-eligible items of cost.” 2000 Guidance, 65 Fed.
+Reg. at 41,282. The States contend that this means that the 2000 Guidance, and thereby the 2021
+Rule “permits . . . Title X funds to flow to programs where abortion is a method of family
+planning.” Appellants Br. at 25.
+
+       The States’ reading of the 2000 Guidance strains credulity. When read in context, it is
+quite clear that the “program of family planning services” that is permitted to have an “abortion
+element” refers not to a grantee’s Title X project, but to its overall “program” of family planning
+services, as in, “a set of related measures, events, or activities with a particular long-term aim,”
+Program, New Oxford American Dictionary (3d ed. 2015); “a plan of procedure: a schedule or
+system under which action may be taken toward a desired goal: a proposed project or
+scheme,” Program,      Merriam-Webster’s       Unabridged      Dictionary,    Merriam     Webster,
+https://unabridged.merriam-webster.com/unabridged/program (accessed Aug. 23, 2023), or “a
+plan or scheme of any intended proceedings . . . ; an outline or abstract of something to be done,”
+programme/program, n., sense 4, Oxford English Dictionary (July 2023). The statute quite
+clearly bars the use of federal funds in Title X projects/programs where abortion is a method of
+family planning, and the 2021 Rule does so as well. But grantees may have an overarching
+program of family planning options that they offer to clients, of which a Title X project is but
+one part. And the Supreme Court has held that “Title X expressly distinguishes between a Title
+X grantee and a Title X project.” Rust, 500 U.S. at 196 (emphasis in original). The passage to
+which the States object identifies the key method by which HHS can determine that a potential
+Title X grantee is ineligible to host a Title X project—if its overall program of family planning
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 37
+
+
+includes an abortion element that is so large or integrated that it cannot be separated financially
+from the potential Title X project, as § 1008 and the 2021 Rule requires. In this way, providers
+like Planned Parenthood may offer abortion services to their clients, and, provided that those
+abortion services are not so large a part of their overall programming that they cannot be
+separated financially from their other activities, also may operate a Title X project that provides
+low-cost family-planning services that do not include abortion.
+
+       The States’ next argument is that the rule violates § 1008 because it “directly or indirectly
+subsidizes abortion as a method of family planning” by permitting Title X grant recipients to
+offer abortion services in the same facility in which they offer Title X services. Appellants Br. at
+25. The States contend that because money is “fungible,” “every dollar an abortion provider
+receives through Title X frees up another dollar that the grantee can use to subsidize abortion.”
+Id. at 25–26. This argument is foreclosed by the Supreme Court’s reasoning in Rust and in
+Agency for International Development v. Alliance for Open Society International, Inc., 570 U.S.
+205 (2013). In Rust, the Supreme Court acknowledged that Title X grantees were not prohibited
+from engaging in abortion-related activities as long as those activities were kept separate from
+Title X funds, because public funds can “be spent for the purposes for which they were
+authorized.” Rust, 500 U.S. at 196. In Alliance, the Supreme Court held that a grant funding
+condition that required grantees to agree that they opposed prostitution and sex trafficking
+violated the First Amendment. 570 U.S. at 221. The Court summarily rejected the petitioners’
+argument that the funding condition was “necessary because, without it, the grant of federal
+funds could free a recipient’s private funds ‘to be used to promote prostitution or sex
+trafficking,’” because this argument “assumes that federal funding will simply supplant private
+funding, rather than pay for new programs or expand existing ones.” Id. at 220. The Court
+distinguished Holder v. Humanitarian Law Project, 561 U.S. 1 (2010), reasoning that not only
+did that case involve the context of a ban on material support for terrorist organizations, but also
+“the record indicated that support for those organizations’ nonviolent operations was funneled to
+support their violent activities.” All. for Open Soc’y, 570 U.S. at 220. Nowhere in the record
+here have the petitioners shown that federal funds were “funneled” to support the provision of
+abortion.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                        Page 38
+
+
+       It is clear that Title X projects often represent an extension of services that grantees offer;
+Planned Parenthood affiliates reported, after withdrawing from the Title X program, “decreases
+of over 25% in visits by patients at or below the federal poverty line and 30% decreases in visits
+by patients who typically self-pay for care.” Amicus Br., Planned Parenthood Fed. of Am., Inc.
+at 9. These statistics illustrate the harm that the reduction in Title X-funded services caused to
+Planned Parenthood’s client base, of which the majority have incomes at or below 150% of the
+federal poverty level, as well as the fact that the loss of Title X funds for grantees like Planned
+Parenthood resulted in Planned Parenthood performing fewer Title-X-supported services like Pap
+tests, STI tests, and breast exams. Id. at 9–10. These statistics also illustrate that in the absence
+of federal funds, Planned Parenthood offers fewer low-cost family-planning and preventive-care
+services—indicating that federal funding does not “simply supplant private funding, rather than
+pay for new programs or expand existing ones.” All. for Open Soc’y, 570 U.S. at 220.
+
+       There is yet another problem with the States’ fungibility argument; the 2019 Rule still
+permitted abortion providers to receive Title X funds, provided that they complied with onerous
+physical and financial separation requirements.        By the States’ logic, the 2019 Rule also
+improperly subsidized abortion services by “freeing up” funds. Restoring the rule would not
+resolve their concerns about “freeing up” funds. This is made particularly evident by the
+discussion of “economies of scale.” Appellants Br. at 26. As HHS points out, providers can still
+achieve economies of scale even with strict physical and financial separation because they can,
+for example, order ordinary supplies in bulk at a lower cost. Appellees Br. at 32. If the “freeing
+up” theory is taken to its logical conclusion, even this would be an impermissible “freeing up”
+because the cost savings to the grantee’s abortion-providing from such bulk ordering, made
+possible by the increase in services that the grantee would provide under its physically separate
+Title X project, would necessarily “free up” other funds.
+
+       The States make no other arguments. And the majority must sense the weaknesses in
+their arguments, as it has opted not to rely on them in order to hold in the States’ favor. The
+majority has instead seen fit to make out of whole cloth a new argument on the States’ behalf and
+to determine that it wins the day. The majority concludes that “a plain reading of § 1008 . . . tells
+us that the statute requires more than just a separation of funds; the statute does not, for example,
+ No. 21-4235                             Ohio, et al. v. Becerra, et al.                             Page 39
+
+
+say merely that ‘no Title X funds shall be used for abortions or abortion services.’ Instead, it
+requires separation at the program level.” Maj. Op. at 18 (first emphasis added) (footnote
+omitted).    It arrives at this conclusion because “[t]he statute says that ‘none of the funds
+appropriated under’ Title X ‘shall be used in programs where abortion is a method of family
+planning.’” Id. (emphasis added by majority).
+
+        The majority encounters its first problem quite quickly: there is no requirement in the
+statute that there be more than a separation of funds between the Title X project and any abortion
+activities performed by the grantee. The majority directly contradicts the Supreme Court’s clear
+holding that the statute is ambiguous and says nothing about program integrity to hold instead
+that the statute requires more than just financial separation. The Court in Rust was clear: “[t]he
+language of § 1008—that ‘[n]one of the funds appropriated under this subchapter shall be used in
+programs where abortion is a method of family planning’—does not speak directly to the issue[]
+of . . . program integrity.” 500 U.S. at 184. The Court concluded that the physical and financial
+separation requirements in the 1988 regulations were “based on a permissible construction of the
+statute and are not inconsistent with congressional intent.” Id. at 188. That is because, as the
+Court explicitly stated, “if one thing is clear from the legislative history, it is that Congress
+intended that Title X funds be kept separate and distinct from abortion-related activities,” id. at
+190 (emphasis added), and that “[h]ere Congress forbade the use of appropriated funds in
+programs where abortion is a method of family planning,” id. at 191 (emphasis added). That is
+the plain meaning of § 1008, as determined by the Supreme Court.
+
+        The majority then selectively and misleadingly quotes Rust to imply that the Supreme
+Court held that Title X requires grantees to have separate “abortion ‘programs’”2 run separately
+and independently from Title X projects. Maj. Op. at 18. Of course, upon reading the passage
+from which the majority repeatedly quotes, it becomes clear that the Rust Court was instead
+describing the 1988 Rule: “The regulations govern the scope of the Title X project’s activities,
+and leave the grantee unfettered in its other activities. The Title X grantee can continue to
+perform abortions, provide abortion-related services, and engage in abortion advocacy; it simply
+
+         2With a little selective quotation, the majority invents the phrase “abortion ‘programs’”—a phrase that
+appears neither in the statute, nor in Rust, nor in any of the regulations at issue.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                         Page 40
+
+
+is required to conduct those activities through programs that are separate and independent from
+the project that receives Title X funds. 42 C.F.R. § 59.9 (1989).” 500 U.S. at 196. The Court
+was doing so in the context of explaining why the 1988 Rule’s program-integrity requirements
+did not infringe upon the First Amendment rights of Title X grantees. Id. And contrary to the
+majority’s apparent position that a discussion in Rust pertaining to the constitutionality of the
+1988 rule somehow elucidates what is statutorily permissible, Maj. Op. 18 n.10, Rust itself time
+and time again holds that § 1008 is ambiguous with respect to how to police the line between a
+Title X project and non-Title X activities, see Rust, 500 U.S. at 184, 187–91. What is clear from
+the statute and its history is simply a command that “Title X funds be kept separate and distinct
+from abortion-related activities.” Id. at 190 (emphases added).
+
+       The ambiguity in § 1008 lies in the method by which the administration must distinguish
+between a Title X project and a grantee’s other activities. The Supreme Court in Rust held that
+requiring both financial and physical separation was not inconsistent with the regulation. 500
+U.S. at 187. But it also declined to agree with the contention that “[m]eeting the requirement of
+section 1008 mandates that Title X programs be organized so that they are physically and
+financially separate . . . .” Id. at 188 (quoting 53 Fed. Reg. 2940 (1988)). If the Court believed
+physical separation requirements were mandated by the statute, it would not have held that
+§ 1008 was ambiguous. The foundation of the majority’s opinion here—that the plain text of the
+statute requires more than financial separation of Title X projects (programs) from grantees’
+other activities, or that Rust itself requires more than financial separation of Title X projects from
+grantees’ other activities—is plainly wrong. Attempting to gin up some further requirements by
+looking to a nonrelevant discussion in Rust, contrary to both the statute and the Court’s holdings,
+is disingenuous at best.
+
+       Having concluded that financial separation between a Title X project and a grantee’s
+other activities is insufficient as a matter of the statutory text, in blatant contradiction to binding
+Supreme Court precedent, the majority embarks on a “quest” to discern the meaning of a
+program, for which it believes the agency must “have a discernible, and permissible,
+conception.” Maj. Op. at 20, 22. It argues that the regulations do not answer “what is and what
+is not a ‘program[] where abortion is a method of family planning.’” Id. at 23 (emphasis added
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 41
+
+
+by majority) (quoting 42 U.S.C. § 300a-6). And it argues that HHS “must offer some concrete
+conception, beyond mere financial separation, of the statute’s key term ‘program,’ so that it can
+ensure compliance with the statute’s command that no Title X funds ‘shall be used in programs
+where abortion is a method of family planning.’” Id. at 23–24.
+
+       But in the majority’s “quest” to find the meaning of the word “program,” it did not
+consider looking to the statute itself. The statute defines Title X programs in § 1003 and § 1001,
+codified at 42 U.S.C. §§ 300, 300a-1. Section 1003 authorizes the HHS Secretary to “make
+grants . . . to provide the training for personnel to carry out family planning service programs as
+described in section 300 or 300a of this title.” 42 U.S.C. § 300a-1 (emphasis added). Turning
+back to § 1001, then, we find the description of a “family planning service program”:             a
+“voluntary family planning project[] which shall offer a broad range of acceptable and effective
+family planning methods and services (including natural family planning methods, infertility
+services, and services for adolescents).” 42 U.S.C. § 300(a). The meaning of § 1008 thus
+becomes clear: “None of the funds appropriated under this title shall be used in [family-planning
+service programs described in section 1001] where abortion is a method of family planning.”
+42 U.S.C. § 300a-6. Section 1006 also refers to “projects” and “programs” interchangeably.
+42 U.S.C. § 300a-4 (“no grant under any such section for any program or project”; “unless the
+grant is to be made for a program or project”; “[a] grant may be made or contract entered into
+under section 300 or 300a of this title for a family planning service project or program”;
+“priority will be given in such project or program”; “no charge will be made in such project or
+program” (emphases added)).       As the majority notes, “HHS has defined ‘program/project’
+similarly” across administrations. Maj. Op. at 19 n.11. The 2000 Guidance defines a Title X
+project as “the set of activities the grantee agreed to perform in the relevant grant documents as a
+condition of receiving Title X funds.” 65 Fed. Reg. at 41,282. Thus, in order to comply with
+§ 1008, abortion and abortion-related services may not be part of the set of activities the grantee
+performs with Title X funding. And any activities performed by a grantee that are not part of the
+“set of activities the grantee agreed to perform in the relevant grant documents as a condition of
+receiving Title X funds,” id., must be part of a separate “project” or “program,” because they are
+ No. 21-4235                                Ohio, et al. v. Becerra, et al.                                  Page 42
+
+
+certainly not part of the Title X project or program.3 As amici have noted, “Title X-funded
+providers operate like other outpatient medical providers, and as such, entities that also provide
+other health care services, including abortion care—without Title X funds and outside their Title
+X-funded projects, though sometimes under the same roof—have participated in Title X . . .
+throughout its history.” Amicus Br., Nat’l Family Planning & Reproductive Health Ass’n, at 5
+(emphasis added). The 2021 Rule requires that Title X funds be used only for project purposes.
+2021 Rule, 42 C.F.R. § 59.9. It is unclear why a grantee would be able to perform health care
+services like, for example, setting broken bones or treating cardiovascular illnesses under the
+same roof as a Title X project if complete physical separation is truly required to ensure that
+Title X funds are not being misused. If occurring under the same roof or using the same staff
+could render a medical service otherwise unconnected with the Title X project’s stated and
+approved activities part of its “program,” many current Title X providers would suddenly
+become ineligible to host a Title X project. It is therefore quite clear that a Title X project or
+program is what must be separate from the grantee’s overall activities, and the Title X project is
+what must not include abortion services (or, indeed, any services unconnected with family
+planning) in its delineated set of activities.
+
+         The majority wrongly states that “the 2021 Rule reverted to the language of the 2000
+Rule, which says nothing about any sort of separation.” Maj. Op. at 19–20 (emphasis added).
+But the 2000 Rule explicitly provided for financial separation of Title X projects from grantees’
+other activities, as the statute mandates. That is clear both from the agency’s discussion of the
+comments it received in response to its notice of formal rulemaking, 2000 Rule, 65 Fed. Reg. at
+41,276, and in the test that it promulgated to determine whether the Title X project is separate
+and distinguishable from other activities: it cannot be “difficult or impossible to separate the
+eligible and non-eligible items of cost” between a Title X project and a grantee’s overall family-
+
+         3Suppose, for example, a small, rural hospital regularly provides treatment for cardiovascular disease or
+broken bones. It also operates a Title X project. Just as it would violate the statute for Title X grant funds to be
+used to support abortion activities, it would also violate the statute for Title X grant funds to be used to subsidize
+cardiovascular disease treatment or treatment of broken bones. But a grantee would not need to establish that they
+have a physically separate cardiovascular or orthopedic program. It would simply need to show that, despite using
+the same filing system, waiting rooms, and nursing staff, it was possible to distinguish financially its Title X-
+subsidized family-planning-service activities, like appointments for a Pap test or STI test, from its activities treating
+or diagnosing patients’ cardiovascular illnesses or broken bones.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                       Page 43
+
+
+planning program (which may include abortion services). 2000 Guidance, 65 Fed. Reg. at
+41,282. The 2000 Guidance specifies that “[m]ere technical allocation of funds, attributing
+federal dollars to non-abortion activities, is not a legally supportable avoidance of section 1008.”
+Id. The majority willfully misreads this as an acknowledgement that financial separation is
+insufficient.   It is instead an acknowledgement that financial separation, beyond simple
+bookkeeping exercises that allocate federal dollars to Title X-supported activities, is mandated
+by the statute. That means that a grantee cannot simply incorporate Title X funds into their
+general budget and, on paper, attribute those funds to Title X activities. Financial separation, in
+the sense that the Title X project has its own budget, out of which the Title X project pays for the
+pro-rated costs of the waiting room, the pro-rated portions of salaries for staff working within the
+Title X project, and the pro-rated costs of a common filing system, is required under the
+regulations.    Id.   The regulations provide further guidance on how to effect this financial
+separation: “A grantee may demonstrate that prohibited abortion-related activities are not part of
+the Title X project by various means, including counseling and service protocols, intake and
+referral procedures, material review procedures, and other administrative procedures.” Id. These
+administrative procedures make it possible for grantees to distinguish items of cost that are
+attributable to the Title X project, as opposed to the grantee’s non-Title X activities (which may
+include abortion services).
+
+        The majority thinks that this is the same as merely avoiding the use of federal funds for
+abortions or abortion activity. But it is not. The 2000 Guidance specifies that “[w]hether a
+violation of section 1008 has occurred is determined by whether the prohibited activity is part of
+the funded project, not by whether it has been paid for by federal or non-federal funds.” Id.
+(emphasis added).       This is an explicit recognition that exercises in bookkeeping are not
+sufficient. The Title X project, which is “the set of activities the grantee agreed to perform in the
+relevant documents as a condition of receiving Title X funds,” cannot include abortion-related
+activities. Id. Title X projects are funded by multiple sources; they cannot be funded by the
+federal government entirely. 2021 Rule, 42 C.F.R. § 59.7(c) (“No grant may be made for an
+amount equal to 100 percent for the project’s estimated costs.”). An evaluation of the Title X
+grant program explains some of the sources of funding for Title X grantees and subrecipients:
+ No. 21-4235                       Ohio, et al. v. Becerra, et al.                      Page 44
+
+
+               Title X funds represent only a portion of grantee and delegate budgets, and
+       for some only a small fraction. . . . Title X clinics may also receive funds from
+       Medicaid, Maternal and Child Health (MCH) block grants . . . , state and local
+       appropriations, the State Children’s Health Insurance Program, Social Services
+       block grants, and Temporary Assistance for Needy Families . . . . Most clinics
+       also have patients who are covered by private insurance or who pay out of pocket
+       for services, and some receive charitable donations.
+
+Inst. of Med. Comm. on a Comprehensive Review of the HHS Office of Family Planning Title X
+Program, A REVIEW OF THE HHS FAMILY PLANNING PROGRAM: MISSION, MANAGEMENT, AND
+MEASUREMENT OF RESULTS 116–17 (Butler A. Stith & Clayton E. Wright, eds. 2009) (footnotes
+omitted). As the Supreme Court recognized in Rust, a “grantee, which normally is a health-care
+organization, may receive funds from a variety of sources for a variety of purposes. The grantee
+receives Title X funds, however, for the specific and limited purpose of establishing and
+operating a Title X project.” 500 U.S. at 196 (citing 42 U.S.C. § 300(a)) (emphasis added). The
+Title X project, which is comprised of a defined set of activities and a defined budget, cobbles
+together funding from various private and public sources to accomplish its stated goal of
+“provid[ing] a broad range of acceptable and effective medically approved family planning
+methods (including natural family planning methods)” which cannot include abortion, “and
+services (including infertility services and services for adolescents).” 2021 Rule, 42 C.F.R.
+§ 59.5(a)(1). At the same time, a grantee operating a Title X project may receive a variety of
+public and private funds with which it provides a variety of services—which can include family-
+planning services not funded by Title X, like abortion services, as well as services completely
+unrelated to family planning, like treatment for broken bones or cardiovascular disease. Title X
+funds, however, can be used “solely for the purpose for which the funds were granted in
+accordance with the approved application and budget”—that is, the specific activities that the
+grantee has applied for and received funds to perform. Id. § 59.9.
+
+       The Supreme Court has held that the statute is ambiguous and says nothing about
+program integrity. Rust, 500 U.S. at 184. In such cases, a court “must defer to a reasonable
+construction by the agency charged with its implementation.” Barnhart v. Thomas, 540 U.S. 20,
+26 (2003) (emphasis added). HHS has made a policy decision to interpret the ambiguous
+language in § 1008 to require financial but not physical separation of a Title X project from a
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                     Page 45
+
+
+grantee’s other activities. HHS’s regulations repeatedly state that abortion activities must be
+separate and distinct from Title X project activities and, fundamentally, that it must be possible
+to distinguish items of cost so that they can be attributed either to the Title X project and its
+defined budget or to the grantee’s overall program of non-Title X services.
+
+       Binding Supreme Court precedent requires us to give deference to an agency’s
+interpretation of the statutory scheme it administers. Chevron, 500 U.S. at 844. We do so unless
+the agency’s interpretation is “manifestly contrary” to the statute. Id. The majority attempts to
+shoehorn its assessment that financial separation requirements alone are insufficient into
+Chevron Step Two. But the majority’s approach is fundamentally an attempt to circumvent the
+explicit holding in Rust that Title X says nothing about program integrity. The majority offers
+no explanation for its determination the financial separation requirements imposed by the 2021
+Rule are “manifestly contrary” to the statute––other than the majority’s incorrect assumption that
+the statute requires more than financial separation of a Title X project from a grantee’s other
+activities—which is an effective holding that the statute is not ambiguous as to program-integrity
+requirements. The majority, in essence, quibbles with the methods by which HHS has chosen to
+distinguish Title X projects from grantees’ overall programs of family-planning services without
+any basis in the statutory text, because the majority simply prefers to require more than just
+financial separation. But this is not the role of the courts. As the Supreme Court has said,
+“Chevron is rooted in a background presumption of congressional intent:            namely, ‘that
+Congress, when it left ambiguity in a statute’ administered by an agency, ‘understood that the
+ambiguity would be resolved, first and foremost, by the agency, and desired the agency (rather
+than the courts) to possess whatever degree of discretion the ambiguity allows.’”         City of
+Arlington v. F.C.C., 569 U.S. 290, 296 (2013) (quoting Smiley v. Citibank (South Dakota), N.A.,
+517 U.S. 735, 740–41 (1996)).
+
+       Once one brushes aside the legal minutiae, the import of the majority’s view is clear.
+Tucked away in a footnote, the majority gives up the game, eschewing its focus on its invented
+“program” issue to say what it wanted to all along: that § 1008 requires physical separation to
+meet any program-integrity requirement, despite Rust’s clear holding that § 1008 says nothing of
+the sort. Maj. Op. at 22 n.12 (“Contrary to the dissent’s suggestion, it does not follow that
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                     Page 46
+
+
+because the Court did not believe that § 1008 required complete physical separation, the Court
+thought that § 1008 required no physical separation.”). So understood, the rest of the majority’s
+opinion reveals itself as merely an attempt to clothe pure judicial policymaking in legal jargon.
+That is, the opinion is an attempt to confuse the reader, by suggesting that it is not requiring
+some extratextual preference, but instead holding HHS to its statutory obligations. Id. at 23–24
+(stating that “the Agency must offer some concrete conception, beyond mere financial
+separation, of the statute’s key term ‘program’ so that it can ensure compliance with the statute’s
+command”). Evidently, that “concrete conception” of “program” means that abortion activities
+cannot be done under a Title X grantee’s roof. Any other analysis in the majority opinion is
+meant to distract, not to elucidate Congress’s intent.
+
+           Judges ought not behave like lawmakers, imposing their policy preferences by judicial
+fiat. A regulation is not an impermissible interpretation of a statute merely because it is not how
+a particular couple of judges would have written it. A permissible interpretation need not be the
+best or the only interpretation.     The administrative scheme that the majority finds is now
+impermissible existed for nearly twenty years—through Republican and Democratic
+administrations alike, including on both sides during periods where one party held a majority of
+seats in both legislative chambers and the presidency at the same time with no change to the
+statutory text, even as HHS required only financial separation of Title X projects from grantees’
+other activities. Cf. Commodity Futures Trading Comm’n v. Schor, 478 US. 833, 846 (1986)
+(“[C]ongressional failure to revise or repeal the agency’s interpretation is persuasive evidence
+that the interpretation is the one intended by Congress.”). The majority has usurped the role of
+the executive and the legislature by imposing its view of the best reading of an ambiguous
+statute.
+
+           I would decline to contradict binding Supreme Court precedent. Because the 2021 Rule
+is not “manifestly contrary” to Title X, I would defer to HHS.
+
+           2. Arbitrary or Capricious
+
+           I would further hold that the 2021 Rule is not arbitrary or capricious. Courts do not
+vacate rules as arbitrary or capricious unless the agency “entirely failed to consider an important
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 47
+
+
+aspect of the problem, offered an explanation for its decision that runs counter to the evidence
+before the agency, or is so implausible that it could not be ascribed to a difference in view or the
+product of agency expertise.” Nat’l Ass’n of Home Builders v. Defenders of Wildlife, 551 U.S.
+644, 658 (2007) (quoting Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto Ins.
+Co., 463 U.S. 29, 43 (1983)). An agency, in a formal rulemaking, “must examine the relevant
+data and articulate a satisfactory explanation for its action including a ‘rational connection
+between the facts found and the choice made.’” State Farm, 463 U.S. at 43 (quoting Burlington
+Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)). The Supreme Court has held that
+“[t]hat requirement is satisfied when the agency’s explanation is clear enough that its ‘path may
+reasonably be discerned.’” Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221 (2016)
+(quoting Bowman Transp., Inc. v. Arkansas-Best Freight Sys., Inc., 419 U.S. 281, 286 (1974)).
+
+       The APA “makes no distinction . . . between initial agency action and subsequent agency
+action undoing or revising that action,” so we do not apply greater scrutiny to agency actions that
+change a prior policy. F.C.C. v. Fox Television Stations, Inc., 556 U.S. 502, 514–15 (2009).
+When an agency changes its position, it “must at least ‘display awareness that it is changing
+position’ and ‘show that there are good reasons for the new policy,’” and also “be cognizant that
+longstanding policies may have ‘engendered serious reliance interests that must be taken into
+account.’” Encino Motorcars, 579 U.S. at 221–22 (quoting Fox, 556 U.S. at 515).
+
+       The States first argue that, in abandoning the 2019 Rule’s strict program-integrity
+requirements, HHS failed to adopt “any alternative to keep Title X funds from being used to
+subsidize abortion.” Appellants Br. at 34. They argue that HHS therefore failed to “consider an
+‘important aspect of the problem,’” failed to “‘show that there are good reasons for the new
+policy,’” and “failed to consider alternative policies.” Id. (first quoting Michigan v. E.P.A., 576
+U.S. 743, 752 (2015), then quoting Encino, 579 U.S. at 221). These arguments are unavailing.
+As discussed above, HHS repealed the 2019 Rule and the provisions requiring strict physical
+separation of Title X projects and replaced them with provisions requiring only financial
+separation. The 2000 Rule and the 2021 Rule describe the separation necessary to comply with
+Title X’s command that funds not be used in programs where abortion is a method of family
+planning.
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                       Page 48
+
+
+       HHS gave legitimate reasons for returning to the financial separation policy set out in the
+2000 Rule. The agency examined over thirty reports from the Government Accountability
+Office, Office of the Inspector General, and Congressional Research Service involving Title X.
+2021 Rule Preamble, 86 Fed. Reg. at 56,145.              It determined that there were only minor
+compliance issues with grantees, which occurred in the 1980s, and that the strict separation
+requirements had diverted funds from the “core purpose” of Title X, which is the provision of
+family-planning services, due to the increased compliance costs that grantees incurred as a result
+of the new physical separation requirements. Id. At the same time, there were significant
+impacts on the efficacy of the Title X program; many providers withdrew from the program in
+direct response to the implementation of the 2019 Rule—which had the result that Title X
+grantees provided Title X services to 844,083 fewer clients in 2019 as compared to 2018. Id. at
+56,146. The agency determined that “[t]he 2019 rule has significantly decreased the number of
+low-income, uninsured, and racial and ethnic minorities accessing Title X services.”              Id.
+Because the “mandate of the Title X program is to support access to critical family planning and
+preventive health services,” “the result of the 2019 rule ran counter to that effort.” Id. at 56,147.
+The agency laid out its legitimate reasons for returning to its previous policy of requiring
+financial separation, rather than physical separation.
+
+       The States contend that HHS failed to consider alternatives that are less strict than the
+2019 Rule but stricter than the 2021 Rule. This is incorrect. HHS explicitly stated that it
+“considered one option to maintain many elements of the 2019 rule and to impose additional
+restrictions on grantees. This approach would exacerbate the trends of reduced Title X grantees,
+subrecipients, service sites, and clients served that [HHS] ha[d] observed under the 2019 rule.”
+Id. at 56,176. The States then contend that the agency should have “alleviate[d] the compliance
+burden” by “dedicating funds to assist grantees” with compliance costs. Appellants Br. at 36
+(quotation omitted). But these are not solutions to the principal problem that HHS identified
+with alternatives to the ultimate final rule: the separation requirements provided no “discernible
+compliance benefits” and diverted Title X funds away from its core purpose of providing family
+planning services but instead caused “increased infrastructure costs.” 2021 Rule Preamble,
+86 Fed. Reg. at 56,145. These alternatives would still direct funds away from the provision of
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 49
+
+
+family-planning services and towards compliance efforts that the agency had already determined
+were not necessary. The agency clearly considered alternatives.
+
+       The States then contend that HHS failed to consider reliance interests. Appellants Br. at
+38. Although agencies must consider that “longstanding policies may have ‘engendered serious
+reliance interests,’” Encino Motorcars, 579 U.S. at 222 (quoting Fox, 556 U.S. at 515), the 2019
+Rule was not longstanding, cf. Breeze Smoke, LLC v. U.S. F.D.A, 18 F.4th 499, 507 (6th Cir.
+2021) (holding that “the FDA’s 2019 guidance does not qualify as ‘longstanding’”). It also
+cannot be said that the agency did not consider reliance interests; HHS explicitly noted that “a
+few states were able to increase their service sites following the 2019 rule,” and specifically
+referenced Ohio as one such state, but noted that these states were “the exception,” and that the
+2019 rule overall “resulted in a significant loss of grantees, subrecipients, and service sites, and
+close to one million fewer clients served from 2018 to 2019.” 2021 Rule Preamble, 86 Fed. Reg.
+at 56,151. The agency was entitled to consider the effect of the new rule on states that expanded
+the number of service sites and to determine that a change in the rule, while it might have
+negatively impacted a few states, would have an overall benefit for the program as a whole.
+
+       The States’ argument that HHS did not consider the effect of returning to the 2000 Rule
+on the public support for the Title X program is also easily dispensed with. HHS readopted the
+2000 Rule that “had been in effect for nearly the entirety of the Title X program, had been
+widely accepted by grantees, had enabled the Title X program to operate successfully, and had
+not resulted in any litigation.” Id. at 56,145. The States provide no evidence beyond conclusory
+claims that grantees will not participate in the program or that Congress would be less likely to
+fund the program, despite the clear evidence that it was actually the 2019 rule that resulted in
+“much resistance and/or a lack of interest” on the part of potential Title X providers. Id. at
+56,151.
+
+       Because the program-integrity provisions in the 2021 Rule are neither manifestly
+contrary to the statute nor arbitrary or capricious, I would hold that the States are not likely to
+succeed on the merits of their claim.
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                       Page 50
+
+
+B. Irreparable Harm
+
+       I would hold that the States have not shown that they will suffer an irreparable harm. The
+only cases the States cite in support of their theory of irreparable harm by increased competition
+are Sherley v. Sebelius, 610 F.3d 69, 74 (D.C. Cir. 2010), and Planned Parenthood of Greater
+Washington & N. Idaho v. U.S. Dep’t of Health & Hum. Servs., 946 F.3d 1100, 1108 (9th Cir.
+2020). Both of these cases considered whether increased competition can serve as an injury-in-
+fact for standing purposes, and neither held that increased competition constitutes an irreparable
+harm. Sherley, 610 F.3d at 73 (“[A]n actual or imminent increase in competition . . . will almost
+certainly cause an injury in fact.”); Planned Parenthood, 946 F.3d at 1108 (“‘[T]he inability to
+compete on an equal footing in [a] bidding process’ is sufficient to establish injury-in-fact.”
+(quoting Ne. Fla. Chapter of Assoc. Gen. Contractors of Am. v. City of Jacksonville, 508 U.S.
+656, 666 (1993))). In fact, the D.C. Circuit later reasoned that it was “necessarily uncertain” that
+invalidating the challenged rule “would result in the plaintiffs getting any more grant money
+from the NIH,” Sherley v. Sebelius, 644 F.3d 388, 398 (D.C. Cir. 2011), and invalidated the
+district court’s grant of a preliminary injunction to the plaintiffs in that case—which was
+predicated on the same theory of increased competition for discretionary grant funding as the
+required irreparable injury, see Sherley v. Sebelius, 704 F. Supp. 2d 63, 72 (D.D.C. 2010),
+vacated, 644 F.3d 388 (D.C. Cir. 2011). Neither the States nor the majority have cited any other
+basis for the novel theory that increased competition for discretionary grant funds constitutes an
+irreparable injury.
+
+       The majority also relies on an unpublished order stating that “economic injuries caused
+by federal agency action are generally unrecoverable because the APA does not waive sovereign
+immunity for damages claims.” Ohio v. Becerra, No. 21-4235, 2022 WL 413680, at *4 (6th Cir.
+Feb. 8, 2022). But even if economic injuries are unrecoverable, under our precedent, irreparable
+harms must also be “certain and great.” State of Ohio ex rel. Celebrezze v. Nuclear Regulatory
+Comm’n, 812 F.2d 288, 290 (6th Cir. 1987). Our cases considering economic losses irreparable
+have highlighted the substantial attendant harms that made those economic losses “great.” See
+Performance Unlimited, Inc. v. Questar Publishers, Inc., 52 F.3d 1373, 1382 (6th Cir. 1995)
+(holding that “[t]he impending loss or financial ruin of [a plaintiff’s] business constitutes
+ No. 21-4235                        Ohio, et al. v. Becerra, et al.                    Page 51
+
+
+irreparable injury”). This is an immensely broad statement that will have extended follow-on
+effects—not least that it will effectively do away with the irreparable-harm requirement when the
+government is a defendant in an injunctive suit. It cannot be that a party may sue and establish
+irreparable harm if it sustains an economic loss of any magnitude when such loss results from
+federal agency action. Preliminary injunctions are “an extraordinary remedy.” Winter v. Natural
+Res. Def. Council, Inc., 555 U.S. 7, 22 (2008).
+
+C. Public Interest
+
+       I would conclude that public interest weighs against granting an injunction. The majority
+deems this preliminary injunction factor a draw, based on an affidavit submitted by Ohio
+suggesting that Ohio expanded services in counties formerly served by Planned Parenthood. But
+HHS’s data paints a more complete picture of how patient access was reduced by the 2019 Rule.
+
+       In addressing this very point, the preamble introducing the 2021 Rule specifically
+discusses Title X services in Ohio after the imposition of the 2019 Rule. HHS concluded that
+“[d]espite the state health department receiving additional funds to provide Title X services
+following the departure of another grantee, [Family Planning Annual Report] data from Ohio,
+however, do not provide any clear support” for the claim that Ohio would be able to increase the
+number of Title X clients served. 2021 Rule Preamble, 86 Fed. Reg. 56,151. According to the
+agency, “the state experienced a 10 percent decline in service sites between 2018 and 2020, an
+18 percent decline in clients from 2018 to 2019, and a 57 percent decline in clients from 2019 to
+2020.” Id. The agency concluded that even though Ohio had expanded its service sites, “[t]he
+data show that even if the same amount of funding is provided to a different set of grantees in a
+given area, it does not necessarily follow that the same number of clients will be served or same
+number of services will be provided, depending on the differences in grantee service capacity.”
+Id. HHS’s data indicates that there was an eighteen-percent decline in clients served from 2018
+to 2019 in Ohio, prior to the COVID-19 pandemic. Id.
+
+       Ohio may have serviced a slightly higher number of visits in 2021 than it did in each of
+2018, 2019, and 2020. R. 1-1 (Clark Decl. at 5–6) (Page ID #31–32). But that number does not
+make up for the 57 percent decline in the number of clients. 2021 Rule Preamble, 86 Fed. Reg.
+ No. 21-4235                          Ohio, et al. v. Becerra, et al.                      Page 52
+
+
+at 56,151. In 2018, prior to the imposition of the 2019 Rule, Ohio had 100,033 family-planning
+users. RTI Int’l, TITLE X FAMILY PLANNING ANNUAL REPORT: 2018 NAT’L SUMMARY, Ex. B-1.
+In 2019, during which the 2019 Rule was implemented and the new program-integrity provisions
+requiring both physical and financial separation were imposed, the number of family-planning
+users in Ohio declined to 81,876. RTI Int’l, TITLE X FAMILY PLANNING ANNUAL REPORT: 2019
+NAT’L SUMMARY, Ex. B-1. In 2020, by contrast, the number of family-planning users in Ohio
+had declined to 35,175—even though the Ohio Department of Health apparently serviced the
+same number of “visits.” RTI Int’l, TITLE X FAMILY PLANNING ANNUAL REPORT: 2020 NAT’L
+SUMMARY, Ex. B-1; R. 1-1 (Clark Decl. at 5–6) (Page ID #31–32). In 2021, with Title X still
+operating under the 2019 Rule, Ohio again served only 35,942 family-planning users, even as the
+Ohio Department of Health claims that it was servicing more visits in 2021 than it had in 2018,
+2019, or 2020. RTI Int’l, TITLE X FAMILY PLANNING ANNUAL REPORT: 2021 NAT’L SUMMARY,
+Ex. B-1. This data clearly supports HHS’s conclusion that the number of clients served in Ohio
+decreased after the imposition of the 2019 Rule.
+
+          Rather than interrogate these statistics, the majority throws up its hands, cites HHS’s and
+Ohio’s respective positions, and calls the public-interest factor a draw. But patient access was
+clearly reduced by the 2019 Rule. And that means that the district court did not abuse its
+discretion in finding that restoring this access outweighs whatever interests the States might have
+at this stage.
+
+          Finally, though I would not lean on the majority’s conclusory statement that “the public
+interest lies in correctly applying the law,” Maj. Op. at 27—which makes the public-interest
+inquiry     “no more than a makeweight for the court’s consideration of the moving party’s
+probability of eventual success on the merits,” Cont’l Grp., Inc. v. Amoco Chemicals Corp., 614
+F.2d 351, 358 (3d Cir. 1980)—the majority misapplies the law, for all of the reasons that I have
+discussed. We have consistently recognized the importance of and public interest in respecting
+our “limited role under the Constitution’s separation of powers, even if we think it would be
+good policy” to disregard Congress’s choices. Elhady v. Unidentified CBP Agents, 18 F.4th
+880, 883 (6th Cir. 2021), cert. denied sub nom. Elhady v. Bradley, 143 S. Ct. 301 (2022). Rust
+already deemed § 1008 ambiguous, and Chevron tells us that “[i]f Congress has explicitly left a
+ No. 21-4235                         Ohio, et al. v. Becerra, et al.                      Page 53
+
+
+gap for the agency to fill, there is an express delegation of authority to the agency to elucidate a
+specific provision of the statute by regulation.” Chevron, 467 U.S. at 843–44. The public
+interest undoubtedly lies in our respecting Congress’s choice, and upholding the Executive’s
+reasonable action in line with that choice. The balance of the equities, therefore, weighs in favor
+of denying a preliminary injunction.
+
+                                       III. CONCLUSION
+
+        A district court’s “determination as to whether the four preliminary injunction factors
+weigh in favor of granting or denying preliminary injunctive relief is reviewed for abuse of
+discretion.” Certified Restoration Dry Cleaning, 511 F.3d at 541. This is a “highly deferential”
+standard of review. Id. (quoting Leary v. Daeschner, 228 F.3d 729, 739 (6th Cir. 2000)). If a
+district court has not “relied upon clearly erroneous findings of fact, improperly applied the
+governing law, or used an erroneous legal standard,” we must not disturb its determination.
+Hamilton’s Bogarts, 501 F.3d at 649 (quoting Nightclubs, Inc. v. City of Paducah, 202 F.3d 884,
+888 (6th Cir. 2000)). As the district court has not erred in any of these ways, I would decline to
+disturb its decision not to issue a preliminary injunction.
+
+        The majority has taken a straightforward application of administrative law and Supreme
+Court precedent and twisted it to impose its atextual views on the agency charged with
+administering Title X. The majority misunderstands the plain-language meaning of the statute
+and the HHS regulations implementing the statute. And it exceeds the bounds of the judicial role
+by effectively refusing to defer to a clearly permissible interpretation of an ambiguous statute.
+I respectfully dissent.
+

@@ -1,0 +1,743 @@
+                                                                       
+
+                               In the
+
+    United States Court of Appeals
+                 For the Seventh Circuit
+                     ____________________ 
+No. 17‐1880 
+CHRISTOPHER ROBERTS, et al., 
+                                                Plaintiffs‐Appellants, 
+
+                                  v. 
+
+FEDERAL HOUSING FINANCE AGENCY, et al., 
+                                     Defendants‐Appellees. 
+                     ____________________ 
+
+         Appeal from the United States District Court for the 
+           Northern District of Illinois, Eastern Division. 
+            No. 16 C 2107 — Edmond E. Chang, Judge. 
+                     ____________________ 
+
+     ARGUED OCTOBER 30, 2017 — DECIDED MAY 3, 2018 
+                ____________________ 
+
+   Before  WOOD,  Chief  Judge,  and  BAUER  and  EASTERBROOK, 
+Circuit Judges. 
+    WOOD, Chief Judge. At the height of the 2008 financial cri‐
+sis,  Congress  created  the  Federal  Housing  Finance  Agency 
+(the Agency) and authorized it to place into conservatorship 
+two  critical  government‐sponsored  enterprises—the  Federal 
+National Mortgage Association and the Federal Home Loan 
+Mortgage Corporation, commonly known as Fannie Mae and 
+2                                                     No. 17‐1880 
+
+Freddie Mac. 12 U.S.C. § 4617(a). To stabilize Fannie and Fred‐
+die, along with the broader financial markets, Congress em‐
+powered the U.S. Treasury to purchase their “obligations and 
+other  securities”  through  the  end  of  2009.  12  U.S.C. 
+§§ 1455(l)(1)(A),  1719(g)(1)(A).  The  Agency  and  Treasury 
+acted quickly. In exchange for a cash infusion and fixed fund‐
+ing commitment for each enterprise, Treasury received senior 
+preferred shares. Its shares gave it extraordinary governance 
+and economic rights, including the right to receive dividends 
+tied to the amount of Treasury’s payments. But the stabiliza‐
+tion effort  proved to be more difficult than was initially ex‐
+pected.  As  Fannie  and  Freddie’s  capital  needs  mounted, 
+Treasury agreed three times to modify the original stock pur‐
+chase  agreements.  The  First  and  Second  Amendments  pri‐
+marily increased Treasury’s funding commitment. The third 
+modification—which,  unlike  the  first  two,  was  made  after 
+Treasury’s  purchasing  authority  had  expired—introduced  a 
+variable  dividend  under  which  Treasury’s  dividend  rights 
+were set equal to the companies’ outstanding net worth. 
+    That net‐worth dividend, sometimes called the Net Worth 
+Sweep, is at the heart of this litigation. The plaintiffs are pri‐
+vate shareholders of Fannie and Freddie. They sued Treasury 
+and the Agency, claiming that the Agency violated its duties 
+in two ways: by agreeing to the net‐worth dividend and by 
+unlawfully  succumbing  to  the  direction  of  Treasury.  They 
+fault Treasury both for exceeding its statutory authority and 
+failing  to  follow  proper  procedures.  The  district  court  dis‐
+missed the complaint for failure to state a claim. See 12 U.S.C. 
+§ 4617(f). We affirm.  
+No. 17‐1880                                                        3 
+
+                                 I 
+    Fannie Mae and Freddie Mac are mammoth institutions.  
+Although they were chartered by Congress to increase home‐
+loan  lending  by  injecting  liquidity  into  mortgage  markets, 
+they have long operated as publicly traded corporations. By 
+2008,  they  had  come  to  play  an  integral  role  in  the  United 
+States economy, backing mortgages valued at trillions of dol‐
+lars and representing a substantial portion of all home loans. 
+As the 2008 financial crisis intensified and the national hous‐
+ing market hovered on the verge of collapse, fears mounted 
+about their vitality. Congress responded by passing the Hous‐
+ing and Economic Recovery Act of 2008 (HERA).  
+   HERA authorizes the director of the Agency to appoint the 
+Agency as conservator or receiver for Fannie or Freddie for a 
+variety of reasons. 12 U.S.C. § 4617(a)(1)–(3). In either of those 
+capacities, the Agency “may” then:   
+   (i) take over the assets of and operate the regulated en‐
+   tity with all the powers of the shareholders, the direc‐
+   tors, and the officers of the regulated entity and con‐
+   duct all business of the regulated entity; 
+   (ii) collect all obligations and money due the regulated 
+   entity; 
+   (iii) perform all functions of the regulated entity in the 
+   name of the regulated entity which are consistent with 
+   the appointment as conservator or receiver; 
+   (iv) preserve and conserve the assets and property of 
+   the regulated entity; and 
+4                                                        No. 17‐1880 
+
+     (v) provide by contract for assistance in fulfilling any 
+     function, activity, action, or duty of the Agency as con‐
+     servator or receiver. 
+Id. § 4617(b)(B). Additional provisions of HERA apply sepa‐
+rately to each of the Agency’s two possible roles. The Agency 
+“may, as a conservator, take such action as may be (i) neces‐
+sary to put the regulated entity in a sound and solvent condi‐
+tion; and (ii) appropriate to carry on the business of the regu‐
+lated entity and preserve and conserve the assets and prop‐
+erty  of  the  regulated  entity.”  Id.  §  4617(b)(D).  In  contrast, 
+“when acting as receiver,” the Agency “shall place the regu‐
+lated  entity  in  liquidation.”  Id.  § 4617(b)(E).  Finally,  the 
+Agency may exercise “such incidental powers as shall be nec‐
+essary to carry out” powers granted to it in either role, and it 
+may “take any action authorized … which the Agency deter‐
+mines  is  in  the  best  interests  of  the  regulated  entity  or  the 
+Agency.”  Id.  § 4617(b)(J).  In  exercising  any  of  these  powers, 
+the Agency “shall not be subject to the direction or supervi‐
+sion of any other agency of the United States.” Id. § 4617(a)(7).  
+     At the same time as HERA broadly empowers the Agency, 
+it  disempowers  courts  and  existing  stockholders,  directors, 
+and officers. Unless otherwise permitted by the statute or re‐
+quested by the Agency’s director, “no court may take any ac‐
+tion to restrain or affect the exercise of powers or functions of 
+the Agency as a conservator or a receiver.” Id. § 4617(f). The 
+law  also  provides  that  the  Agency  “shall,  as  conservator  or 
+receiver, and by operation of law, immediately succeed to all 
+rights,  titles,  powers,  and  privileges  of  the  regulated  entity, 
+and of any stockholder, officer, or director of such regulated 
+entity with respect to the regulated entity and [its] assets … .” 
+Id. § 4617(b)(2)(A); see also id. § 4617(b)(2)(K)(i).  
+No. 17‐1880                                                      5 
+
+    Finally, HERA authorized Treasury to purchase securities 
+in Fannie and Freddie “on such terms and conditions … and 
+amounts as the Secretary [of the Treasury] may determine.” 
+Id. §§ 1455(l)(1)(A), 1719(g)(1)(A). Treasury’s purchasing au‐
+thority  continued  through  December  31,  2009,  12  U.S.C. 
+§ 1719(g)(4), after which Treasury could only “hold, exercise 
+any rights received in connection with, or sell, any” of the se‐
+curities it had purchased, 12 U.S.C. § 1719(g)(2)(D).  
+    After  Congress  passed  HERA,  the  Agency  promptly 
+placed Fannie and Freddie into conservatorship and entered 
+into agreements with Treasury for the sale of senior preferred 
+shares. Treasury initially invested $1 billion in each company 
+and extended $100 billion funding commitments to each. Pur‐
+suant to Preferred Stock Purchase Agreements, Treasury re‐
+ceived a) an initial liquidation preference in each company of 
+$1 billion, to be increased dollar‐for‐dollar as each company 
+drew on its $100 billion funding commitment, b) a quarterly 
+cumulative dividend, c) an annual commitment fee waivable 
+at Treasury’s discretion, and d) warrants to purchase approx‐
+imately  80  percent  of  each  company’s  common  stock.  The 
+companies could elect to pay the dividend in cash at an annu‐
+alized rate equal to ten percent of Treasury’s outstanding liq‐
+uidation preference or by increasing that preference by twelve 
+percent. The Purchase Agreements required Treasury’s con‐
+sent before terminating the companies’ conservatorships, en‐
+gaging in fundamental transactions, or taking on significant 
+debt.  
+   Freddie  and  Fannie  continued  to  burn  through  cash, 
+prompting  the  parties  to  execute  a  First  Amendment  to  the 
+Purchase Agreements. That amendment increased Treasury’s 
+6                                                      No. 17‐1880 
+
+funding  commitment  to  $200  billion  per  company.  On  De‐
+cember  24,  2009,  days  before  Treasury’s  purchase  authority 
+expired, a set of Second Amendments allowed the companies 
+to draw funds from Treasury in excess of that $200 billion to 
+cover losses incurred through the end of 2012. Thereafter, the 
+funding commitments would again become fixed based upon 
+the sums actually drawn. Fannie and Freddie eventually drew 
+more  than  $187  billion  from  Treasury.  Treasury  and  the 
+Agency  agreed  to  a  Third  Amendment  to  each  Purchase 
+Agreement  in  August  2012.  This  replaced  Treasury’s  fixed 
+dividend  with  a  variable  dividend  equal  to  an  amount 
+slightly less than each company’s net worth. In other words, 
+it funneled substantially all profits (if any) to the federal gov‐
+ernment.  The Third Amendment also  eliminated Treasury’s 
+right to an annual commitment fee.  
+    The  plaintiffs  complain  that  the  Third  Amendment  was 
+adopted just as Freddie and Fannie were returning to profita‐
+bility in order to capture all anticipated upside for Treasury 
+to the detriment of the corporations and their private share‐
+holders. The Agency and Treasury counter that the net‐worth 
+dividend served to prevent the companies from running up 
+against the soon‐to‐be fixed funding commitment. They note 
+that  Freddie  and  Fannie  had  consistently  borrowed  from 
+Treasury to pay the fixed‐rate dividends—a practice that re‐
+sulted in a spiral of ever greater liquidation preferences and 
+dividends. 
+    The  plaintiffs  sued  Treasury  and  the  Agency  under  the 
+Administrative Procedure Act, 5 U.S.C. §§ 702 and 706(2)(A), 
+(C),  and  (D).  They  argue  first  that  the  Agency  exceeded  its 
+statutory authority as a conservator by agreeing to both the 
+original  Purchase  Agreements  and  the  Third  Amendment. 
+No. 17‐1880                                                              7 
+
+Second, they asserted that the Third Amendment amounted 
+to a purchase of new securities by Treasury after its purchas‐
+ing authority had expired and without having made findings 
+required by HERA. Finally, they claim that Treasury acted ar‐
+bitrarily  and  capriciously  in  agreeing  to  the  Third  Amend‐
+ment. They sought declaratory and injunctive relief, includ‐
+ing the rescission of the Third Amendment and return of all 
+resulting dividend payments made to Treasury.  
+    The district court granted both defendants’ motion to dis‐
+miss the complaint, finding that 12 U.S.C. § 4617(f) precluded 
+the relief requested. We examine that ruling de novo, looking 
+first at the Agency and then at Treasury. 
+                                    II 
+    With  regard  to  the  Agency,  our  review  is  squarely  fore‐
+closed by 12 U.S.C. § 4617(f). That provision bars judicial in‐
+terference  with  the  Agency’s  statutorily  authorized  role  as 
+conservator. Because the Agency acted within its powers as 
+conservator  in  agreeing  to  the  Preferred  Stock  Purchase 
+Agreements and the Third Amendment, declaratory and in‐
+junctive relief cannot run against it.  
+    Section  4617(f)  bars  “any”  judicial  interference  with  the 
+“exercise of powers or functions of the Agency as a conservator 
+or a receiver.” 12 U.S.C. § 4617(f) (emphases added). This shel‐
+ter is sweeping, but its scope is not boundless. Section 4617(f) 
+will  not  protect  the  Agency  if  it  acts  either  ultra  vires  or  in 
+some  third  capacity.  See  Perry  Capital  LLC  v.  Mnuchin, 
+864 F.3d 591, 606 (D.C. Cir. 2017); id. at 636 (Brown, J., dissent‐
+ing in part); Robinson v. Fed. Hous. Fin. Agency, 876 F.3d 220, 
+227–28  (6th  Cir.  2017);  see  also,  e.g.,  Cnty.  of  Sonoma  v.  Fed. 
+Hous. Fin. Agency, 710 F.3d 987, 992 (9th Cir. 2013); Leon Cnty., 
+8                                                          No. 17‐1880 
+
+Fla.  v.  Fed.  Hous.  Fin.  Agency,  700  F.3d  1273,  1278  (11th  Cir. 
+2012).  That  is,  for  section  4617(f)  to  bar  judicial  relief,  the 
+Agency must have acted a) pursuant to its “powers or func‐
+tions” and b) “as a conservator or a receiver.” 
+     In so construing section 4617(f), we have taken guidance 
+from  our  interpretation  of  12  U.S.C.  § 1821(j),  a  materially 
+identical  provision  in  the  Financial  Institutions  Reform,  Re‐
+covery, and Enforcement Act (FIRREA). That statute limits re‐
+course  against  the  Federal  Deposit  Insurance  Corporation 
+(FDIC) and, formerly, the Resolution Trust Corporation. We 
+have also considered FIRREA’s predecessor, which appeared 
+in the Financial Institutions Supervisory Act of 1966, formerly 
+codified at 12 U.S.C. § 1464(d)(6)(C). “[W]hen Congress uses 
+the same language in two statutes having similar purposes,” 
+as do these acts, “it is appropriate to presume that Congress 
+intended that text to have the same meaning” in each statute. 
+Smith v. City of Jackson, 544 U.S. 228, 233 (2005). Thus, inter‐
+pretations of that language in one statute may provide “prec‐
+edent of compelling importance” when construing the other. 
+Id.; see also Perry Capital LLC, 864 F.3d at 605–06 (interpreting 
+section 4617(f) in light of section 1821(j)); Robinson, 876 F.3d at 
+227 (same).  
+   Although  section  1821(j)  works  a  “sweeping  ouster  of 
+courts’  power  to  grant  equitable  remedies,”  Veluchamy  v. 
+F.D.I.C., 706 F.3d 810, 817 (7th Cir. 2013) (quoting Courtney v. 
+Halleran,  485  F.3d  942,  948  (7th  Cir.  2007)),  we  have  under‐
+stood that ouster to apply only insofar as the FDIC exercises 
+powers granted to it as a conservator or a receiver, see id. at 
+818. Circuits that have had to confront the issue head‐on have 
+agreed.  E.g.,  Gross  v.  Bell  Sav.  Holdings,  Inc.  Money  Purchase 
+Plan, 974 F.2d 403, 408 (3d Cir. 1992); see also Coit Indep. Joint 
+No. 17‐1880                                                             9 
+
+Venture  v.  Fed.  Sav.  &  Loan  Ins.  Co.,  489  U.S.  561,  574  (1989) 
+(applying  Financial  Institutions  Supervisory  Act).  Section 
+1821(j)  thus  reaffirms  our  view  that  12  U.S.C.  §  4617(f)  bars 
+declaratory  or  injunctive  relief  against  the  Agency  unless  it 
+acted ultra vires or in a role other than as conservator or re‐
+ceiver.  
+    In the present case, the Agency neither exceeded its pow‐
+ers  nor  acted  as  other  than  a  conservator  in  agreeing  to  the 
+Third Amendment. The plaintiffs’ argument to the contrary 
+rests primarily on their assertion that the Third Amendment 
+dissipated corporate assets in violation of the Agency’s pur‐
+portedly mandatory duties as a conservator to “preserve and 
+conserve the assets and property” of Freddie and Fannie and 
+to  place the  companies  in  a “sound and  solvent condition.” 
+12 U.S.C. § 4617(b)(2)(D); see also 12 U.S.C. § 4617(b)(2)(B)(iv). 
+The  problem  with  this  contention  is  two‐fold:  first,  HERA 
+does not impose such mandatory duties on conservators; and 
+second,  the  factual  assertions  in  the  plaintiffs’  complaint 
+could  not  establish  that  agreeing  to  the  Third  Amendment 
+necessarily contravened those duties.  
+    In fact, section 4617(b)(2)(D) does not require the Agency 
+to do anything. It uses the permissive “may,” rather than the 
+mandatory  “shall”  or  “must,”  to  introduce  the  Agency’s 
+power  as  conservator  to  “preserve  and  conserve”  Freddie’s 
+and  Fannie’s  assets  and  to  restore  their  solvency.  12  U.S.C. 
+§ 4617(b)(2)(D);  see  also  Kingdomware  Techs.,  Inc.  v.  United 
+States, 136 S. Ct. 1969, 1977  (2016) (“Unlike  the word ‘may,’ 
+which implies discretion, the word ‘shall’ usually connotes a 
+requirement.”).  Congress’s  choice  of  “may”  in  this  part  of 
+HERA  does  not  strike  us  as  accidental.  The  statute  consist‐
+ently distinguishes between “shall” and “may” with the latter 
+10                                                      No. 17‐1880 
+
+term  reserved  for  situations  in  which  one  would  expect  the 
+exercise of discretion. For example, the Agency “may, at the 
+discretion  of  the  Director,  be  appointed  conservator  or  re‐
+ceiver”  if  Fannie’s  or  Freddie’s  obligations  exceed  its  assets 
+for  a  brief  period  of  time,  12  U.S.C.  § 4617(a)(2)  (emphasis 
+added); see also id. § 4617(a)(3)(A), but the Director “shall ap‐
+point the [Agency] as receiver” if Fannie or Freddie’s obliga‐
+tions exceed their assets for 60 days, id. § 4617(a)(4)(A)(i) (em‐
+phasis added). Likewise, the Agency “may, as conservator or 
+receiver, transfer or sell any asset or liability” of the compa‐
+nies,  id.  § 4617(b)(2)(G),  but  it  “shall”  utilize  the  proceeds 
+from any such sale to pay their debts, id. § 4617(b)(2)(H). That 
+distinction  between  the  Agency’s  powers  and  duties  makes 
+sense: A conservatorship that required liquidation would be, 
+in effect, a receivership. See id. § 4617(b)(2)(E).  
+    We  have  also  considered  the  context  of  section 
+4617(b)(2)(D) in concluding that the provision grants discre‐
+tion to the Agency. In interpreting HERA, as with any statute, 
+we  avoid  a  reading  that  would  render  its  provisions  incon‐
+sistent  or  redundant.  United  States  v.  Miscellaneous  Firearms, 
+Explosives, Destructive Devices & Ammunition, 376 F.3d 709, 712 
+(7th Cir. 2004). Section 4617(b)(2)(D) is part of a broader list‐
+ing of the Agency’s powers. Thus, section 4617(b)(2)(B) con‐
+cerns the Agency’s authority as either receiver or conservator, 
+12  U.S.C.  § 4617(b)(2)(B),  while  section  4617(b)(2)(E)  ad‐
+dresses its powers as a receiver, id. § 4617(b)(2)(E), and section 
+4617(b)(2)(D)  concerns  its  powers  as  a  conservator,  id. 
+§ 4617(b)(2)(D). Section 4617(b)(2)(B) already allows a conser‐
+vator  or  receiver  to  “preserve  and  conserve  the  assets  and 
+property” of the companies. Id. § 4617(b)(2)(B)(iv). This grant 
+of authority in section 4617(b)(2)(B) must be treated as discre‐
+tionary to avoid creating a conflict with section 4617(b)(2)(E), 
+No. 17‐1880                                                         11 
+
+which empowers the Agency as receiver to liquidate the com‐
+panies “through the sale of assets.” Id. § 4617(b)(2)(E). There‐
+fore, section 4617(b)(2)(D) cannot require the Agency to “pre‐
+serve and conserve” the companies’ assets as a conservator, 
+or  else  it  would  conflict  with  the  discretionary  grant  of  the 
+same authority in section 4617(b)(2)(B) or render it superflu‐
+ous. 
+    Instead, section 4617(b)(2)(D) grants additional authority to 
+the Agency. Apart from the powers granted to it elsewhere in 
+HERA, the Agency has the authority as conservator to under‐
+take any additional action or means “as may be (i) necessary 
+to put the regulated entity in a sound and solvent condition; 
+and (ii) appropriate to carry on the business of the regulated 
+entity  and  preserve  and  conserve”  its  assets.  Id. 
+§ 4617(b)(2)(D). The preservation  and conservation of assets 
+does impose a limitation of sorts—but only when the Agency 
+has  to  rely  on  section  4617(b)(2)(D)  because  it  can  find  no 
+other source of power in HERA. In the present case, however, 
+the Agency can point to several independent sources of au‐
+thority  to  enter  into  the  Third  Amendment,  including  its 
+power to “operate” Fannie and Freddie “with all the powers” 
+of  their  shareholders,  directors,  and  officers.  Id. 
+§ 4617(b)(2)(B)(i).  
+    Thus, by agreeing to the Third Amendment, the Agency 
+did not violate its duty to conserve Fannie and Freddie’s as‐
+sets, because it had no rigid duty to do so. The plaintiffs’ fun‐
+damental error is to mistake the point of an Agency conserva‐
+torship:  its  “purpose  [is  the]  reorganizing,  rehabilitation,  or 
+winding up” of the companies’ affairs, id. § 4617(a)(2), not just 
+the preservation of assets.   
+12                                                     No. 17‐1880 
+
+    Even  accepting  for  the  sake  of  argument  the  plaintiffs’ 
+construction  of  section  4617(b)(2)(D)  as  imposing  a  manda‐
+tory  duty,  their  complaint  does  not  establish  that  the  Third 
+Amendment contravened this obligation. The question under 
+section 4617(f) is not whether the Agency made a poor busi‐
+ness  judgment,  but  rather  whether  it  took  an  action  funda‐
+mentally inconsistent with its powers as a conservator. Perry 
+Capital LLC, 864 F.3d at 607 (“The [appellants] no doubt disa‐
+gree  about  the  necessity  and  fiscal  wisdom  of  the  Third 
+Amendment. But Congress could not have been clearer about 
+leaving those hard operational calls to the Agency’s manage‐
+rial judgment.”).  
+    While  the  dividend  terms  under  the  Third  Amendment 
+may initially have proven more profitable to Treasury than to 
+Fannie  and  Freddie,  a  conservator  could  have  believed  that 
+the amendment’s terms would further the conservation of the 
+companies’ assets better than either the ten‐percent cash div‐
+idend  or  the  twelve‐percent  increases  in  liquidation  prefer‐
+ence. The plaintiffs admit that the earlier cash dividend had 
+necessitated  drawing  on  Treasury’s  funding  commitment, 
+leading to increased liquidation preferences and, in turn, fu‐
+ture dividends owed to Treasury. The prior arrangement also 
+reduced the Treasury  funds available  for future draws.  The 
+plaintiffs themselves said in their complaint that paying cash 
+dividends “contravene[d the Agency’s] obligations as conser‐
+vator,” a view reiterated in their brief. The Third Amendment 
+permanently eliminated the risk that cash‐dividend payments 
+would consume the companies’ financial lifeline, and it for‐
+ever prevented Treasury from demanding payment of com‐
+mitment fees.  
+No. 17‐1880                                                      13 
+
+    The  alternative  of  adding  to  the  liquidation  preference, 
+though  preferred  by the plaintiffs, came  with  its  own  prob‐
+lems. While this option would have obviated the need to draw 
+down  Treasury’s  funding  commitment,  it  would  have  in‐
+creased Treasury’s liquidation preference at a faster rate. (Re‐
+call that the liquidation preference increases dollar‐for‐dollar 
+with draws on Treasury’s funding commitment. Therefore, a 
+fully financed cash dividend would have increased the liqui‐
+dation preference by ten—rather than twelve—percent.)  
+    While the plaintiffs seem to treat growth of the liquidation 
+preference  as  a  harmless  accounting  quirk,  that  preference 
+places real constraints on the companies’ future. First, a liqui‐
+dation preference is, most immediately, a claim on the assets 
+of the corporation. Pursuing a policy that would eventually 
+shift assets to Treasury would seem to go to the heart of the 
+plaintiffs’  complaint  that  the  Agency  adopted  policies  that 
+dissipated corporate assets. Second, the companies can poten‐
+tially redeem Treasury’s preferred shares by paying down the 
+liquidation  preference.  Redemption  thus  becomes  more  ex‐
+pensive and difficult as the liquidation preference increases. 
+Yet, redeeming Treasury’s shares would create real benefits 
+for the companies: for example, the outstanding shares create 
+dividend obligations, they limit the companies’ ability to raise 
+capital  and  debt,  and,  as  the  plaintiffs  complain,  the  cove‐
+nants in the Purchase Agreements limit the companies’ inde‐
+pendence.  An  ever‐increasing  liquidation  preference  also 
+makes it more costly for the companies to pay cash dividends 
+in the future, creating a vicious cycle of paying liquidation‐
+preference  dividends.  Against  this  backdrop,  adopting  the 
+net‐worth dividend in the Third Amendment was not neces‐
+sarily an unjustifiable dissipation of corporate assets.  
+14                                                      No. 17‐1880 
+
+    Finally, the plaintiffs fail to appreciate that the Agency’s 
+conservatorship  of  the  companies  has  no  fixed  expiration 
+date.  Even  if  the  Amendment  has  benefited  Treasury  thus 
+far—and  the  Agency  could  anticipate  its  having  done  so—
+that  does  not  establish  that  the  Amendment  will  ultimately 
+place the  companies  in a  worse financial position than they 
+would  have  been  in  under  prior  versions  of  the  agreement. 
+The  Agency  could  not  know  for  how  long  the  companies 
+might remain profitable or to what extent. While Treasury re‐
+alized additional dividend earnings in 2013 and 2014 (as com‐
+pared to the situation before the Third Amendment), it actu‐
+ally fared worse under the net‐worth dividend in 2015 than it 
+would have under the old cash dividend. (Though not part of 
+the record on which we resolve this appeal, we note that fluc‐
+tuations continue. Under the new tax law, the net‐worth for‐
+mula has produced a loss in the fourth quarter 2017 of $6.7 bil‐
+lion  at  Fannie  and  will  likely  require  the  company  to  draw 
+$3.7 billion from Treasury to eliminate its resulting net‐worth 
+deficit.  Federal  National  Mortgage  Association,  Annual  Re‐
+port  for  2017  (Form  10‐K)  (Feb.  14,  2018)  at  2–3.  Freddie, 
+meanwhile, will draw $312 million from Treasury to cure its 
+negative net worth. Federal Home Loan Mortgage Corpora‐
+tion, Annual Report 2017 (Form 10‐K) (Feb. 15, 2018) at 2, 117.) 
+In short, the plaintiffs have failed—both as a matter of statu‐
+tory interpretation and as a matter of facts alleged—to state a 
+claim that the Agency acted outside its authority as a conser‐
+vator and thereby lost the protection of section 4617(f).    
+    We  also  reject  the  plaintiffs’  alternate  argument  that  the 
+Agency acted contrary to its statutory authority by deferring 
+to  Treasury  in  violation  of  12  U.S.C.  §  4617(a)(7).  Section 
+4617(a)(7) bars the Agency from being “subject to the direc‐
+tion or supervision of any other agency” when exercising its 
+No. 17‐1880                                                       15 
+
+“rights,  powers,  and  privileges”  as  conservator.  12  U.S.C. 
+§ 4617(a)(7). The plaintiffs alleged that the Agency breached 
+this  prohibition  by  ceding  significant  control  to  Treasury  in 
+various covenants in the original Purchase Agreements and 
+again  by  entering  into  the  Third  Amendment  at  Treasury’s 
+behest.  
+    This argument fails, however, to read section 4617(a)(7) in 
+harmony with HERA as a whole. See Davis v. Mich. Dep’t of 
+Treasury, 489 U.S. 803, 809 (1989). The same HERA that bars 
+another  agency  from  exercising  “direction  or  control”  over 
+the Agency authorized Treasury to acquire securities in Fan‐
+nie and Freddie “on such terms and conditions” as Treasury 
+“may determine.” 12 U.S.C. § 1455(l)(1)(A). It also  says that 
+Treasury could not force Fannie and Freddie to issue securi‐
+ties “without mutual agreement between” Treasury and the 
+Agency. Id. § 1455(l)(1)(A). We read these provisions to mean 
+that, so long as the Agency remained free to reject the terms 
+offered  by  Treasury  and  to  exercise  its  independent  judg‐
+ment, nothing prevented the Agency from taking Treasury’s 
+advice or agreeing to its terms. Even if, as the complaint al‐
+leges,  Treasury  officials  made  statements  suggesting  that 
+Treasury  was  in  the  driver’s  seat  and  had  to  convince  the 
+Agency to come along for the ride, such behavior alone would 
+not violate section 4617(a)(7).  
+     Two  other  statutory  provisions  also  preclude  the  plain‐
+tiffs’ absolutist reading of section 4617(a)(7), at least insofar as 
+it concerns their attack on the original Purchase Agreements. 
+First, the Agency may “contract for assistance in fulfilling any 
+function, activity, action, or duty of the Agency as conservator 
+or receiver.” 12 U.S.C. § 4617(b)(2)(B)(v). Thus, to the extent 
+that the Agency agreed to  Purchase  Agreements permitting 
+16                                                    No. 17‐1880 
+
+Treasury to exercise functions related to the Agency’s role as 
+conservator by, for example, giving Treasury a role in the ter‐
+mination of conservatorship, transfer of assets, or assumption 
+of debt, the Agency acted within its statutory authority. Sec‐
+ond, to the extent that the plaintiffs challenge the original Pur‐
+chase  Agreement,  their  claim  is  time‐barred  by  the  six‐year 
+statute  of  limitations  in  the  Administrative  Procedure  Act. 
+28 U.S.C. § 2401(a). Their attempt to avoid the statute of limi‐
+tations through the discovery rule is unconvincing. The terms 
+of the original Purchase Agreements were apparent long be‐
+fore the Third Amendment.  
+                                III 
+    Just as section 4617(f) bars the plaintiffs’ claims against the 
+Agency, it  prevents our granting declaratory and injunctive 
+relief against Treasury. Section 4617(f), once again, prevents 
+us from taking “any action to restrain or affect the exercise of 
+powers  or  functions  of  [the  Agency]  as  a  conservator.” 
+12 U.S.C. § 4617(f) (emphasis added). An injunction or declar‐
+atory judgment preventing Treasury—the Agency’s counter‐
+party—from  honoring  the  terms  of  the  Third  Amendment 
+would fundamentally “affect” the Agency’s conservatorships 
+of  Fannie  and  Freddie  and  so  would  run  afoul  of  section 
+4617(f). 
+    Our  interpretation  of  section  4617(f)  comports  with  past 
+applications  of  section  1821(j),  the  analogous  provision  in 
+FIRREA. In the latter context, the Third Circuit has refused to 
+grant injunctions against third parties if the relief would “dra‐
+matic[ally]  and  fundamental[ly]”  affect  FDIC  as  a  receiver. 
+Hindes v. Fed. Deposit Ins. Corp., 137 F.3d 148, 161 (3d Cir. 1998) 
+(“[S]ection  1821(j)  precludes  a  court  order  against  a  third 
+party  which  would  affect  the  FDIC  as  receiver,  particularly 
+No. 17‐1880                                                        17 
+
+where  the  relief  would  have  the  same  practical  result  as  an 
+order  directed  against  the  FDIC  in  that  capacity.”);  see  also 
+Dittmer Properties, L.P. v. Fed. Deposit Ins. Corp., 708 F.3d 1011, 
+1017 (8th Cir. 2013). Thus, in Hindes, it declined to order re‐
+scission  of  a  “Notification  to  Primary  Regulator”  issued  by 
+FDIC in its corporate capacity that precipitated a bank’s sei‐
+zure, and to impose a constructive trust. Id. (We note that sec‐
+tion  1821(j)  directly  immunizes FDIC  only  in  its  capacity  as 
+receiver,  not  in  its  corporate  capacity.)  Those  remedies,  the 
+Third  Circuit  thought,  would  impermissibly  “affect  the 
+FDIC’s continued functioning as receiver and … throw into 
+question  every  act  of  FDIC‐Receiver.”  Id.  Similarly,  wiping 
+out  Treasury’s  acceptance  of  the  original  Purchase  Agree‐
+ments or the Third Amendment in this case would undermine 
+the very foundations of the Agency’s conservatorships of Fan‐
+nie  and  Freddie.  Appellants  effectively  ask  us  to  unwind 
+years  of  action  by  the  Agency  predicated  on  those  agree‐
+ments.  
+    Contrary  to  the  plaintiffs’  suggestion,  281–300  Joint  Ven‐
+ture v. Onion, 938 F.3d 35 (5th Cir. 1991), does not stand for the 
+broad proposition that “a third‐party federal agency that vio‐
+lates its own obligations in connection with a conservatorship 
+or  receivership”  can  be  enjoined  notwithstanding  section 
+1821(j). Because that case  concerned the failure of a savings 
+and loan association, section 1821(j) barred court actions that 
+“restrain[ed] or affect[ed]” the federal Resolution Trust Cor‐
+poration, rather than FDIC. 12 U.S.C. § 1821(j). The Fifth Cir‐
+cuit did declare the Federal Home Loan Bank Board’s deter‐
+minations “regarding the worthlessness of unsecured creditor 
+claims … subject to review” by the courts, 281–300 Joint Ven‐
+ture, 938 F.3d at 38. Those judgments, however, were akin to 
+18                                                       No. 17‐1880 
+
+a  decision  by  the  Agency  in  our  case  to  initiate  a  conserva‐
+torship  or  receivership,  and  HERA  expressly  makes  such  a 
+decision reviewable. 12 U.S.C. § 4617(a)(5). 281–300 Joint Ven‐
+ture says nothing about enjoining third parties dealing with 
+the Agency after its conservatorship begins. At that point, the 
+Agency acts as an immune conservator rather than as a non‐
+immune regulator.       
+    In any case, Treasury did not exceed its statutory authority 
+in agreeing to the Third Amendment. HERA permitted Treas‐
+ury  to  purchase  Fannie’s  and  Freddie’s  securities  “on  such 
+terms  and  conditions  as  the  Secretary  may  determine” 
+through December 31, 2009. 12 U.S.C. §§ 1719(g)(1)(A), (g)(4). 
+After  that  date,  Treasury  could  continue  to  “hold,  exercise 
+any rights received in connection with, or sell, any” of the se‐
+curities it had purchased. Id. § 1719(g)(2)(D). Treasury negoti‐
+ated  modification  rights  as  part  of  the  terms  of  the  original 
+Purchase  Agreements,  and  it  exercised  those  rights  when  it 
+agreed to the Third Amendment.  
+    The plaintiffs’ unconvincing attempt to equate the Third 
+Amendment  to  the  issuance  of  new  securities  relies  heavily 
+on inapt analogies to securities law and IRS regulations and 
+rhetorical  flourishes  about  expropriation.  As  for  expropria‐
+tion, all we need say is that this is the wrong place in which 
+to explore that subject. We were told at oral argument that the 
+plaintiffs are pursuing a takings claim in the Court of Federal 
+Claims, which is the proper forum for such a case. As for their 
+arguments relying on analogies to securities law, the short an‐
+swer is that those laws use their own definition of the  term 
+“security,” see 15 U.S.C. § 78c(a)(10). That definition includes 
+“any put, call, straddle, option, or privilege on any security.” 
+No. 17‐1880                                                         19 
+
+Id. Judges have no authority to add or subtract from that lan‐
+guage. See Landreth Timber Co. v. Landreth, 471 U.S. 681 (1985) 
+(rejecting a rule under which a sale of business accomplished 
+by selling 100% of a company’s stock was somehow not cov‐
+ered  by  the  securities  laws).  Any  economic  equivalence  be‐
+tween the Third Amendment and the issuance of new securi‐
+ties does not manufacture new stock out of thin air. 
+    Nothing in the Internal Revenue Code helps plaintiffs ei‐
+ther. Their own brief asserts that the IRS treats “a significant 
+modification of a debt instrument” as an exchange of debt in‐
+struments,  26  C.F.R.  §  1.1001‐3(b),  in  order  “[t]o  prevent  tax 
+evasion.” The desire  to  forestall  fraud and  abuse lies behind 
+the interpretation of the terms “sale” and “exchange” in the 
+tax and securities contexts; HERA has different goals and thus 
+must be read on its own.   
+    The plaintiffs also argue that Treasury could not have ex‐
+ercised a “right” in entering into the Third Amendment be‐
+cause it could not amend the Purchase Agreements unilater‐
+ally.  We  cannot  accept  such  a  cramped  construction  of  the 
+term “right.” One need not invoke First Amendment associa‐
+tional rights or the Lochner Era’s “right to contract” to spot the 
+weakness of this definition. Rights are often contingent. In the 
+corporate  context,  shareholders  frequently  cannot  exercise 
+voting rights unless the board calls a meeting to consider the 
+matter at hand. Likewise, a poison pill may give stockholders 
+a right to purchase additional shares, but their ability to exer‐
+cise that right (at least at an economically rational price) de‐
+pends entirely on the purchases of a would‐be acquirer and 
+the unwillingness of the board to redeem the pill. Under the 
+Purchase  Agreements  and  the  Third  Amendment,  Treasury 
+20                                                      No. 17‐1880 
+
+receives a payout of its liquidation preference if the compa‐
+nies opt to pay it or to dissolve. The shareholders do not chal‐
+lenge Treasury’s right to collect these benefits on the ground 
+that Treasury cannot unilaterally trigger their payment. Nor 
+do the shareholders contest Treasury’s right to receive divi‐
+dends only if the companies’ boards declare them. Along the 
+same lines, the Purchase Agreements permit the amendments 
+as long as the parties comply with certain restrictions. In other 
+words, Treasury’s shares came with a right to amend the Pur‐
+chase  Agreements,  even  if  that  right  required  the  participa‐
+tion and consent of those who governed the companies.  
+                                 IV 
+    Our discussion thus far is enough to demonstrate why the 
+district  court  correctly  dismissed  this  suit.  For  the  sake  of 
+completeness, we add that section 4617(b)(2)(A)(i) of HERA 
+independently supports that outcome. That provision names 
+the  Agency  the  successor  to  “all  rights,  titles,  powers,  and 
+privileges of [Fannie and Freddie], and of any stockholder, of‐
+ficer, or director … with respect to” the companies and their 
+assets.  12  U.S.C.  §  4617(b)(2)(A)(i).  Applying  the  analogous 
+provision  of  FIRREA,  12  U.S.C.  §  1821(d)(2)(A)(i),  we  have 
+held that the FDIC thereby acquires the sole right to bring de‐
+rivative actions on behalf of failed institutions, Levin v. Miller, 
+763 F.3d 667, 669 (7th Cir. 2014); see also Courtney v. Halleran, 
+485 F.3d 942, 950 (7th Cir. 2007). We must therefore consider 
+whether the shareholders have brought derivative claims. If 
+so, then they must yield to the Agency.   
+    The law governing the companies’ internal affairs controls 
+whether a claim is direct or derivative for purposes of HERA, 
+just as it would for FIRREA. Id. at 670. Fannie and Freddie are 
+both federally chartered corporations, but each has selected a 
+No. 17‐1880                                                                    21 
+
+state law for its internal affairs: Fannie has chosen Delaware 
+corporate  law,  12  C.F.R.  §  1239.3(b);  FANNIE  MAE  BYLAWS 
+(July 21, 2016), § 1.05; and Freddie has elected the law of Vir‐
+ginia,  12  C.F.R.  § 1239.3(b);  BYLAWS  OF  THE  FEDERAL  HOME 
+LOAN MORTGAGE CORPORATION (July 7, 2016), § 11.3. In Dela‐
+ware,  whether  a  suit  is  direct  or  derivative  “must 
+turn solely on … : (1) who suffered the alleged harm (the cor‐
+poration or the suing stockholders, individually); and (2) who 
+would  receive  the  benefit  of  any  recovery  or  other  remedy 
+(the corporation or the stockholders, individually).” Tooley v. 
+Donaldson,  Lufkin  &  Jenrette,  Inc.,  845  A.2d  1031,  1033 
+(Del. 2004). While Virginia has not expressly decided whether 
+to adopt the Tooley test, Remora Invs., L.L.C. v. Orr, 673 S.E.2d 
+845, 848 (Va. 2009), its reasoning in past cases indicates a con‐
+sistent approach. See, e.g., Simmons v. Miller, 544 S.E.2d 666, 
+674–75 (Va. 2001); Little v. Cooke, 652 S.E.2d 129, 136 (Va. 2007).  
+      The present complaint states a derivative claim. The harm 
+the  plaintiffs  allege,  for  purposes  of  Tooley,  is  that  the  net‐
+worth dividend illegally dissipated corporate assets by trans‐
+ferring them to Treasury. They complain, in effect, of a com‐
+bination of mismanagement and depletion of corporate assets 
+through  overpayment,  both  of  which  are  classic  derivative 
+claims. See In re Massey Energy Co. Derivative & Class Action 
+Litig.,  160  A.3d  484,  503  (Del.  Ch.  2017)  (mismanagement); 
+El Paso  Pipeline  GP  Co.,  L.L.C.  v.  Brinckerhoff,  152  A.3d  1248 
+(Del. 2016) (overpayment).1 Turning to the benefit inquiry, the 
+                                                 
+    1 Admittedly, a conflict between shareholders (or classes of sharehold‐
+
+ers) can sometimes qualify as a direct action as well as derivative. These 
+situations, however, generally include allegations of an unlawful transfer 
+of control, see In re Activision Blizzard, Inc. Stockholder Litig., 124 A.3d 1025, 
+1052 (Del. Ch. 2015); El Paso Pipeline, 152 A.3d at 1263–64 (discussing Gen‐
+tile v. Rossette, 906 A.2d 91 (Del. 2006)), or fraudulent efforts to induce the 
+22                                                           No. 17‐1880 
+
+complaint seeks only benefits that would inure to the benefit 
+of the corporations, rather than individual stockholders. The 
+plaintiffs  have  demanded,  for  example,  the  effective  rescis‐
+sion of (at least elements of) a contract between the companies 
+and Treasury, the return of dividend payments to the corpo‐
+rate treasuries, and the end of Treasury control over the com‐
+panies through the Purchase Agreements’ covenants.  
+     Finally, we do not see a conflict‐of‐interest exception im‐
+plicit in section 4617(b)(2)(A)(i). Its language is clear and ab‐
+solute, and HERA itself approves of the Agency’s taking ac‐
+tions  in  its  own  interests  as  well  as  that  of  the  companies. 
+12 U.S.C. § 4617(b)(2)(J)(ii). Only two circuits have apparently 
+recognized a conflict‐of‐interest exception in the FIRREA con‐
+text,  and  those  cases  are  easily  distinguished.  First  Hartford 
+Corporate  Pension  Plan  &  Trust  v.  United  States  concerned 
+FDIC’s  breach  of  a  distinct  contract  entered  into  before  the 
+bank entered FDIC receivership. 194 F.3d 1279, 1283–84 (Fed. 
+Cir. 1999). The Federal Circuit expressly limited its conflict‐
+of‐interest  exception  to  situations  “in  which  a  government 
+contractor with a putative claim of breach by a federal agency 
+is  being  operated  by  that  very  same  federal  agency.”  Id.  at 
+1295. First Hartford thus stands for the proposition that the ac‐
+cident of receivership should not serve to extinguish an asset 
+(whether seen as a contractual right or chose in action) of the 
+
+                                                 
+sale or purchase of securities for personal gain, see In re Massey Energy, 
+160 A.3d at 504 (Del. Ch. 2017) (emphasis in original). Neither is the case 
+here. Treasury acquired no voting rights, and the complaint does not al‐
+lege that any shareholders transferred their shares. Even in the case of a 
+controlling  shareholder  (which  Treasury  was  not),  the  “extraction  of 
+solely economic value from the minority” is not a direct injury if “not cou‐
+pled with any voting rights dilution.” El Paso Pipeline, 152 A.3d at 1264. 
+No. 17‐1880                                                       23 
+
+bank. Likewise, in the Ninth Circuit case of Delta Savings Bank 
+v. United States, the plaintiffs wished to sue the Office of Thrift 
+Supervision for racial discrimination in placing the bank into 
+receivership—not for operating the bank once in receivership. 
+265 F.3d 1017, 1020 (9th Cir. 2001). HERA already authorizes 
+derivative challenges to the decision to place the companies 
+into  conservatorship  or  receivership.  12  U.S.C. 
+§ 4617(a)(5)(A). What section 4617(b)(2)(A)(i) does not author‐
+ize  are  shareholder  suits  that  would  interfere  with  the 
+Agency’s decisions as conservator once that conservatorship 
+is underway. Otherwise, shareholders could challenge nearly 
+any business judgment of the Agency using a derivative suit, 
+by invoking a conflict‐of‐interest exception. 
+                                 V 
+   We  therefore  AFFIRM  the  decision  of  the  district  court  to 
+dismiss this lawsuit. HERA prevents this court from granting 
+the  relief  requested  against  both  the  Agency  and  Treasury, 
+and it precludes the shareholders from requesting that relief 
+on behalf of the companies.  
+

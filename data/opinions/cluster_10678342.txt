@@ -1,0 +1,560 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 1, 2024            Decided September 26, 2025
+
+                         No. 23-1134
+
+           CAPITAL POWER CORPORATION, ET AL.,
+                      PETITIONERS
+
+                             v.
+
+       FEDERAL ENERGY REGULATORY COMMISSION,
+                    RESPONDENT
+
+       AMERICAN CLEAN POWER ASSOCIATION, ET AL.,
+                    INTERVENORS
+
+
+  Consolidated with 23-1135, 23-1136, 23-1231, 23-1233,
+                         23-1234
+
+
+          On Petitions for Review of Orders of the
+          Federal Energy Regulatory Commission
+
+
+
+    James E. Tysse argued the cause for petitioners. With him
+on the joint briefs were Michael R. Engleman, Robert C.
+Fallon, Christina R. Switzer, Stephen J. Hug, Benjamin N.
+Reiter, Zach ZhenHe Tan, Bruce A. Grabow, and Jennifer
+Brough.
+                               2
+     Ben Norris, Melissa Alfano, Elizabeth W. Whittle, Gabriel
+Tabak, Michael J. Rustum, and David M. DeSalle were on the
+brief for intervenors in support of petitioners. Neil H. Koslowe
+entered an appearance.
+
+    Beth G. Pacella, Deputy Solicitor, Federal Energy
+Regulatory Commission, argued the cause for respondent.
+With her on the brief were Matthew R. Christiansen, General
+Counsel at the time the brief was filed, and Robert H. Solomon,
+Solicitor.
+
+    Wendy B. Warren argued the cause for intervenors in
+support of respondent. With her on the joint brief were James
+K. Mitchell, Wendy N. Reed, and Abraham F. Johns III.
+
+    Before: MILLETT, KATSAS, and WALKER, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge KATSAS.
+
+     KATSAS, Circuit Judge: When a power plant generates
+electricity, it emits two kinds of power: active or “real” power,
+which produces usable energy, and reactive power, which helps
+stabilize voltage levels across the grid. For over a decade, the
+Midcontinent Independent System Operator treated real and
+reactive power as distinct services for which generators were
+separately compensated. Generators received market-based
+prices from wholesale customers for real power, and cost-based
+compensation from transmission owners for reactive power.
+This changed in 2022, when MISO amended its tariff to end
+separate compensation for reactive power. But when the
+Federal Energy Regulatory Commission approved this
+amendment and gave it immediate effect, the agency failed to
+fully consider the generators’ short-term reliance interests. We
+therefore grant the petitions for review, set aside FERC’s
+orders, and remand the matter for further proceedings.
+                                 3
+                                 I
+
+                                 A
+
+     The provision of electric power involves three major
+functions. Generators produce electricity, transmission owners
+move it to local markets, and distributors deliver it to end users.
+Detroit Edison Co. v. FERC, 334 F.3d 48, 49 (D.C. Cir. 2003).
+Historically, vertically integrated monopolies performed all
+three functions. Morgan Stanley Cap. Grp. Inc. v. Pub. Util.
+Dist. No. 1, 554 U.S. 527, 535 (2008). Consequently, state and
+federal regulators played a role in setting generation,
+transmission, and distribution prices.           See id. at 531;
+Transmission Access Pol’y Study Grp. v. FERC, 225 F.3d 667,
+681 (D.C. Cir. 2000). Regulators aimed to set prices at levels
+that enabled utilities to recover their costs plus a reasonable rate
+of return, which is known as “cost-based” pricing. See, e.g.,
+Morgan Stanley, 554 U.S. at 532, 550.
+
+     The Federal Energy Regulatory Commission regulates
+prices for the interstate transmission and wholesale sale of
+electricity. 16 U.S.C. § 824(b)(1); Morgan Stanley, 554 U.S.
+at 531–32. Regulated utilities file their rates with FERC under
+section 205 of the Federal Power Act, which requires the rates
+to be “just and reasonable” and prohibits “any undue
+preference or advantage.” 16 U.S.C. § 824d(a)–(b).
+
+      In the late 1990s, FERC required vertically integrated
+utilities to unbundle generation and transmission services and
+sell them separately. See Promoting Wholesale Competition
+Through Open Access Non-Discriminatory Transmission
+Services by Public Utilities, 61 Fed. Reg. 21,540 (May 10,
+1996) (Order No. 888). In particular, FERC required
+transmission owners to offer their services to all generators on
+nondiscriminatory terms. See id. at 21,570–73. FERC also
+prescribed standard rules for independent generators’ use of
+                               4
+transmission facilities. See Standardization of Generator
+Interconnection Agreements & Procs., 104 FERC ¶ 61,103
+(2003) (Order No. 2003).
+
+     As independent and transmission-owned generators began
+to compete, the sale of wholesale power moved toward market
+prices that generators negotiated with their customers. Morgan
+Stanley, 554 U.S. at 536–37. In contrast, transmission utilities,
+which enjoy natural monopolies due to high capital costs and
+entry barriers, still had to price transmission services at cost.
+See id. at 532–36.
+
+      At the same time, increases in supply and improved
+transmission technology allowed generators to sell power over
+longer distances. These longer distances brought additional
+transaction costs: Generators faced multiple transmission
+utilities along the route, each with its own tariffs, prices, and
+terms of service. See Morgan Stanley, 554 U.S. at 535–37. To
+reduce these transaction costs, transmission owners formed
+regional “independent system operators” working under a
+common tariff. Id. at 536–37. In the midwestern United States,
+this entity is the Midcontinent Independent System Operator,
+or MISO.
+
+                               B
+
+     While the wholesale electric market structure has changed,
+its essential output—alternating-current (AC) electricity—has
+not. Solar Energy Indus. Ass’n v. FERC, No. 21-1126, 2025
+WL 2599488, at *1, *4 (D.C. Cir. Sep. 9, 2025). When a
+generator emits AC electricity, the resulting output has two
+components: active or “real” power, and reactive power.
+Dynegy Midwest Generation, Inc. v. FERC, 633 F.3d 1122,
+1124 (D.C. Cir. 2011). Consumers can use real power for
+things like running a motor or lighting a home. Id. Reactive
+power, in contrast, serves a different purpose. It helps maintain
+                                5
+a stable voltage across the electric grid, which ensures that real
+power may be reliably transmitted. Id.
+
+     When integrated utilities began selling transmission and
+generation services separately, FERC authorized them to treat
+reactive-power production as an ancillary transmission cost.
+Order No. 888, 61 Fed. Reg. at 21,581–82, 21,586–88. Thus,
+when billing customers for transmission services, integrated
+transmission utilities could include charges for some of the
+costs incurred by their own generators. E.g., Midwest Indep.
+Transmission Sys. Operator, Inc., 109 FERC ¶ 61,005, PP 6,
+41 (2004).
+
+     On the generator side, FERC set default compensation
+rules for reactive power. In Order 2003, FERC required
+generators to calibrate their equipment so that their reactive-
+power capacity fell within a standard ratio known as the
+“deadband.” See Order No. 2003, 104 FERC ¶ 61,103, P 542;
+see also Standardization of Small Generator Interconnection
+Agreements & Procs., 113 FERC ¶ 61,195, PP 34–38 (2005).
+Because a standard reactive-power ratio was required for grid
+reliability, FERC concluded that generators should not be
+separately compensated for it. 104 FERC ¶ 61,103, P 546.
+Only reactive-power generation above what is ordinarily
+necessary—that is, reactive power outside the deadband—
+would be compensated. Id. Nonetheless, FERC left the door
+open for independent service operators like MISO to propose
+regional variances to this rule. Id. P 548.
+
+     A generator requested rehearing on the ground that FERC
+had created a disparity between independent and transmission-
+affiliated generators. Order 888 permitted transmission owners
+to be compensated for their own generators’ costs of producing
+reactive power.         See Standardization of Generator
+Interconnection Agreements & Procs., 106 FERC ¶ 61,220,
+                                6
+P 411 (2004) (Order No. 2003-A). Yet Order No. 2003
+prevented    independent     generators      from     receiving
+compensation for reactive power. In effect, integrated facilities
+were paid for deadband-level reactive power, while
+independent generators were not.
+
+     To remedy this imbalance, FERC added a caveat: If
+transmission owners collected revenue for their own
+generators’ reactive-power production, they would also need to
+compensate independent generators for reactive power. Order
+No. 2003-A, 106 FERC ¶ 61,220, P 416. This rule became
+known as the “comparability standard.”
+
+     In 2004, FERC applied this standard to MISO after
+concluding that its tariff had a means for collecting reactive-
+power charges for transmission-owner-affiliated sources, but
+not for independent generators. 109 FERC ¶ 61,005, P 39.
+Accordingly, FERC ordered MISO to amend its tariff to
+provide cost-based compensation for all generators’ reactive
+power, including independent generators. Id. P 40. To receive
+such compensation, generators would file their own cost-based
+reactive-power rates with FERC under section 205. Id. P 41.
+
+     Thus, as the wholesale electric market moved toward
+market-based rates in the mid-2000s, generators in MISO
+separately received regulated, cost-based rates for their reactive
+power. This led to a peculiar arrangement in which generators
+received two revenue streams for the same power production:
+Wholesale electricity customers would purchase the real
+component of generators’ power, often at market prices, while
+transmission owners would purchase the reactive component
+of that power according to a filed, cost-based rate.
+                              7
+                              C
+
+     In 2022, MISO initiated a section 205 filing to amend its
+tariff. Citing the comparability standard, MISO sought to
+(1) eliminate reactive-power charges from its transmission rate
+and (2) end reactive-power compensation for independent
+generators. Midcontinent Indep. Sys. Operator, Inc., 182
+FERC ¶ 61,033 (2023), modified on reh’g, 184 FERC ¶ 61,022
+(2023). Thus, under the amendments, neither transmission
+owners nor independent generators would receive any revenue
+for deadband-level reactive power. These proposed changes
+would take effect immediately. Id.
+
+     Many generators protested. They argued that eliminating
+reactive-power compensation would upset their investment-
+backed reliance interests. Despite these objections, FERC
+approved MISO’s proposal. 182 FERC ¶ 61,033 (2023),
+modified on reh’g, 184 FERC ¶ 61,022 (2023).
+
+     Several generators and industry groups petitioned for
+review in this Court, and several more intervened on their
+behalf. In the meantime, FERC issued a separate order
+eliminating reactive-power compensation nationwide. See
+Compensation for Reactive Power Within the Standard Power
+Factor Range, 189 FERC ¶ 61,034 (2024) (Order No. 904),
+reh’g denied, 191 FERC ¶ 61,188 (2025), petition for review
+filed, Vistra Corp. v. FERC, No. 25-60055 (5th Cir. Feb. 10,
+2025). Despite that order, the dispute here remains live
+because both orders are still under review. When a litigant’s
+injury-in-fact stems from two independently sufficient causes,
+it may separately challenge both of them, even though success
+in only one proceeding might not fully redress its injury. See
+Khodara Env’t, Inc. v. Blakey, 376 F.3d 187, 194–95 (3d Cir.
+2004) (Alito, J.). Although granting the petitions here would
+not restore reactive-power compensation in MISO, it would
+                               8
+remove one barrier to such compensation, which suffices to
+establish the redressability element of Article III standing. See
+id.
+
+                               II
+
+     This Court reviews FERC orders under the Administrative
+Procedure Act. Entergy Ark., LLC v. FERC, 109 F.4th 583,
+590 (D.C. Cir. 2024). We must therefore set aside the orders
+here if they were arbitrary and capricious. 5 U.S.C.
+§ 706(2)(A). Under that standard, we consider whether FERC
+“examine[d] the relevant data and articulate[d] a satisfactory
+explanation for its action including a rational connection
+between the facts found and the choice made.” See Entergy
+Ark., 109 F.4th at 590 (cleaned up). As part of this explanation,
+FERC must “assess whether there were reliance interests” on
+the part of regulated entities. MediNatura, Inc. v. FDA, 998
+F.3d 931, 940–41 (D.C. Cir. 2021) (cleaned up). And if FERC
+approves an amendment despite such reliance interests, “it
+must provide a reasoned explanation” for doing so. Id.
+(cleaned up).
+
+    Applying these standards here, we hold that FERC did not
+adequately consider the generators’ reliance interests. In the
+proceedings below, the generators explained that they had
+incurred significant debt and contractual obligations relying on
+MISO’s longstanding practice of allowing generators to
+recover cost-based compensation for reactive power. In
+approving MISO’s proposal to eliminate that compensation,
+FERC failed to explain why these financial concerns were
+unjustified, entitled to no weight, or outweighed by other
+considerations. See DHS v. Regents of the Univ. of Cal., 591
+U.S. 1, 31–32 (2020). FERC’s failure to explain itself
+adequately, independent of the orders’ substantive validity,
+warrants vacatur and remand here.
+                               9
+                               A
+
+     We begin by considering whether we have statutory
+jurisdiction to decide this case. The statute providing for
+judicial review of FERC orders requires petitioners to seek
+review within sixty days of the relevant order. See 16 U.S.C.
+§ 825l(b). Our circuit treats this limit as jurisdictional. Pac.
+Gas & Elec. Co. v. FERC, 533 F.3d 820, 825 (D.C. Cir. 2008).
+Our caselaw has suggested that this time limit prevents a
+petitioner from questioning the logic or holding of past FERC
+precedents. See, e.g., S. Co. Servs. v. FERC, 416 F.3d 39, 44–
+46 (D.C. Cir. 2005); Ga. Indus. Grp. v. FERC, 137 F.3d 1358,
+1363–64 (D.C. Cir. 1998). But see City of Batavia v. FERC,
+672 F.2d 64, 72 n.15 (D.C. Cir. 1982) (noting parties may raise
+previously litigated issues when they are “inextricably linked
+to a subsequent agency opinion on another aspect of the same
+case”). In other words, once sixty days pass, courts lose
+jurisdiction to consider the validity of a previous FERC
+holding—even when it is applied in future proceedings
+involving different parties.
+
+     FERC has invoked this rule, commonly known as the
+“collateral-attack doctrine.” See, e.g., 182 FERC ¶ 61,033,
+P 53. Specifically, FERC contends that the challenges hinge
+on revisiting decisions made long ago in Order No. 2003. But
+that overstates what the petitioners seek. They could succeed
+regardless of Order No. 2003’s validity because their challenge
+depends on whether FERC failed to consider MISO-specific
+reliance interests when accepting the tariff amendments and
+immediately cutting off a source of generators’ revenue. Those
+challenges concern the specific reasoning FERC employed in
+its orders below—something that was clearly not at issue in the
+early 2000s orders adopting the comparability principle. The
+doctrine does not bar our review of FERC’s specific
+consideration of reliance interests in this case.
+                                   10
+                                   B
+
+     Section 205 of the Federal Power Act requires that all
+regulated rates be “just and reasonable.” 16 U.S.C. § 824d(a).
+Under this standard, utilities must be able to recover costs,
+service their debt, and compete with comparably risky
+enterprises for investors. Morgan Stanley, 554 U.S. at 532;
+Emera Me. v. FERC, 854 F.3d 9, 20 (D.C. Cir. 2017). When
+assessing whether a rate is just and reasonable, courts consider
+“the total effect of the rate order” on “the financial integrity of
+the enterprise.” Jersey Cent. Power & Light Co. v. FERC, 810
+F.2d 1168, 1176 (D.C. Cir. 1987) (en banc) (cleaned up).
+
+     As discussed above, MISO’s tariff amendment
+immediately eliminated reactive-power charges from its
+transmission rates and ended cost-based compensation for
+generators’ production of reactive power. In other words, the
+MISO tariff now treats deadband-range reactive power as
+incidental to generation and transmission. Reactive power is
+neither purchased nor sold as a discrete service.
+
+     The generators argue that FERC failed to adequately
+consider the impact of this change on their short-term financial
+health. Specifically, they contend that immediately ending
+cost-based reactive-power compensation will strain them
+financially, given their investment-backed reliance on this
+longstanding revenue stream.1 As noted above, MISO has been
+
+
+     1
+       FERC claims the generators failed to invoke reliance interests
+in their requests for rehearing, thereby forfeiting this issue for
+judicial review. See 16 U.S.C. § 825l(b). The administrative record
+shows otherwise. On rehearing, the generators argued that FERC
+“failed to consider … the reasonable investment-backed expectations
+of generators” and “fail[ed] to grapple with [their] reliance interests.”
+J.A. 515–16. And in denying rehearing, FERC acknowledged—and
+                               11
+compensating generators for deadband-level reactive-power
+production since the mid-2000s. And since then, MISO and its
+transmission owners have paid around 400 generators for
+reactive power. By one estimate, this compensation totaled
+over $200 million annually. See 182 FERC ¶ 61,033, P 3
+(Danly, Comm’r, dissenting). The generators claim to have
+relied on the availability of this revenue stream when entering
+loans and negotiating long-term power-purchase agreements
+with wholesale customers. Consequently, the generators argue,
+the overnight elimination of reactive-power compensation will
+jeopardize their ability to service debt and render their current
+wholesale contracts unprofitable. This, in turn, will hurt the
+generators’ bottom lines in the short term, undermining their
+ability to attract capital.
+
+     FERC failed to adequately explain why these reliance
+interests were either inconsequential or outweighed by
+countervailing considerations. FERC gave five reasons for
+rejecting these arguments. None of them responds to the
+concern that immediately eliminating reactive-power
+compensation would cause the generators material financial
+harm in the short term.
+
+     First, FERC contends the generators failed to prove that
+they actually relied on reactive-power compensation when
+entering loans and other contracts. See 184 FERC ¶ 61,022,
+P 34. But MISO—not the generators—bore the burden of
+proving that it was reasonable to implement its amendments
+overnight. Ala. Power Co. v. FERC, 993 F.2d 1557, 1571
+(D.C. Cir. 1993). Of course, if MISO had made a prima facie
+showing of reasonableness, then the generators would have had
+to support their reliance claims with rebuttal evidence. Evergy
+
+promptly rejected—the generators’ “reliance argument[s].”    184
+FERC ¶ 61,022, P 33.
+                               12
+Kan. Cent., Inc. v. FERC, 77 F.4th 1050, 1056 (D.C. Cir.
+2023). But here, MISO never carried its initial burden of
+showing that it would be reasonable to end compensation for
+reactive power immediately, despite existing contracts and
+investment decisions predicated on its availability. This is not
+to say that these reliance interests must carry the day, but MISO
+at least should have addressed them, explaining why they were
+either insubstantial or overcome by other considerations.
+
+     Second, FERC doubts that it was even possible for
+generators to rely on reactive-power revenue when entering
+power-purchase agreements. It notes that generators entered
+those agreements “long before” they knew what their reactive-
+power-compensation rate would be. 184 FERC ¶ 61,022, P 34.
+But the generators do not claim to have relied on any precise
+compensation rate in negotiating their deals. Rather, they
+claim to have made contractual commitments assuming that, at
+a minimum, “the most conservative, lowest Commission-
+approved rate in the market” would be paid for reactive power.
+J.A. 128. Put differently, while generators could not
+reasonably expect any specific reactive-power rate, they
+nonetheless expected some cost-based compensation for it.
+The impossibility of knowing their precise rates ahead of time
+is beside the point.
+
+     Third, FERC claims that the comparability standard made
+it unreasonable for generators to rely on continued
+compensation for reactive power. According to FERC, its
+reactive-power precedents had established a clear rule:
+Independent generators may expect deadband-level reactive-
+power compensation if and only if transmission-owned utilities
+also received such compensation. 184 FERC ¶ 61,022, PP 26–
+28, 33. And since MISO’s amendments prohibit compensation
+for both independent and affiliated generators, they comport
+with Order No. 2003-A’s comparability standard. Thus,
+                              13
+FERC’s approval of the amendments is consistent with what
+generators reasonably should have expected. Id. P 33.
+
+      In support of this stance, FERC points to eight orders,
+issued between 2005 and 2022, in which it applied the
+comparability principle to bar compensation for reactive
+power. See 184 FERC ¶ 61,022, P 27 n.84. FERC asserts that
+these decisions put generators on notice that their right to
+reactive-power compensation was contingent upon the
+comparability standard. Id. P 33. If transmission-owned
+utilities stopped receiving compensation, so would
+independent generators. FERC further explains that its
+precedent delineated only limited exceptions to the no-
+compensation rule for reactive power. And an industry’s
+longstanding receipt of such compensation has never been one
+of them. Id. P 32. FERC concludes that these decisions made
+clear that compensation for reactive power would not be
+available in perpetuity, making it unreasonable for generators
+to assume otherwise.
+
+     This argument does not respond to the generators’ specific
+objection, which focuses on giving the amendments immediate
+effect. The generators repeatedly expressed concern about the
+“abrupt” nature of the changes. See J.A. 71, 166, 169, 239,
+279, 508, 516. This makes sense given the extent of the
+generators’ contractual obligations to creditors and wholesale
+power customers. Yet FERC never considered a more gradual
+elimination of reactive-power compensation, despite having
+solicited comments on that very question later on. See
+Compensation for Reactive Power Within the Standard Power
+Factor Range, 89 Fed. Reg. 21,454, 21,466 (proposed Mar. 28,
+2024). Nor did FERC explain why immediate elimination is
+reasonable despite the generators’ long-term power obligations
+and accompanying investments. Put differently, although
+                               14
+compensation cannot be guaranteed forever, that does not
+suggest it could reasonably be eliminated overnight.
+
+     Fourth, FERC argues that the generators’ reliance interests
+are insignificant because the marginal costs of producing
+deadband-level reactive power are small. See 184 FERC
+¶ 61,022, P 34. But the harm to the generators stems from the
+loss of all reactive-power revenue. And as explained above,
+there is reason to think that such revenues have been
+significant.
+
+     Fifth, FERC argues that if the generators’ margins become
+too tight without reactive-power compensation, they can
+compensate by increasing their market-based revenue. 184
+FERC ¶ 61,022, PP 40, 42. FERC suggests two mechanisms
+for this: renegotiating prices in existing power-purchase
+agreements, or increasing their asking price in new market
+offers.
+
+     Neither possibility adequately addresses the generators’
+short-term financial concerns. FERC itself acknowledges that
+generators “may not be successful” in renegotiating existing
+contracts, Resp. Br. at 42, which seems likely because many of
+their customers are affiliates of vertically integrated utilities
+that have monopsony power in the market for wholesale power.
+And as for price increases in future contracts, that possibility
+does little to address the generators’ concerns that their
+immediate debt and power-sale obligations will force them to
+operate at a loss—and inflict financial harm on generators
+stuck in long-term contracts at current prices. See, e.g.,
+Wisconsin v. FERC, 104 F.3d 462, 467 (D.C. Cir. 1997) (noting
+a ten-year-long power purchase agreement).
+
+    To be sure, the generators may be able to negotiate new
+wholesale contracts with high enough margins to offset any
+short-term losses. But FERC did not attempt to explain why
+                                 15
+eliminating reactive-power compensation overnight is
+nonetheless reasonable despite these short-term losses. In sum,
+the possibility of the generators recovering higher returns in
+future contracts does not directly address their immediate
+reliance concerns.
+
+                        *    *         *   *
+
+     All told, FERC failed to reasonably explain why the
+generators’ short-term financial concerns were unfounded,
+immaterial, or outweighed by countervailing policy concerns.
+And it entirely failed to consider whether a phase-in period was
+warranted for these significant tariff changes. Because FERC
+failed to consider important aspects of the problem before it,
+the orders at issue were arbitrary.
+
+                                 III
+
+     A few final points are worth noting. First, we do not
+address the substantive validity of MISO’s proposal under
+section 205. Instead, we hold only that FERC did not
+adequately explain its decision to allow immediate
+implementation. We do not foreclose the agency from giving
+a more thorough explanation in support of MISO’s
+amendments on remand.
+
+     Second, our decision does not trigger reinstatement of the
+pre-amendment MISO tariff—even while the remanded
+proceeding is pending. As noted above, FERC has entered a
+separate order ending reactive-power compensation
+nationwide, which is presently under review in the Fifth
+Circuit. So, while we vacate the order approving MISO’s
+amendments, reactive-power compensation will remain
+unavailable in MISO. Moreover, our conclusion that FERC
+inadequately considered the generators’ reliance interests in the
+order under review has no bearing on whether FERC
+                            16
+adequately considered reliance interests in its separate,
+nationwide order. That order—which includes a 60-day phase-
+in period, see Compensation for Reactive Power Within the
+Standard Power Factor Range, 191 FERC ¶ 61,118, P 177—
+is not before us, and this opinion has no bearing on its
+procedural or substantive validity.
+
+                            IV
+
+     We hold that FERC acted arbitrarily by giving MISO’s
+proposed tariff amendments immediate effect without
+adequately considering the generators’ asserted short-term
+reliance interests. Accordingly, we grant the petitions for
+review, set aside FERC’s orders, and remand this matter for
+further proceedings.
+
+                                                So ordered.
+

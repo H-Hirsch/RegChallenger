@@ -1,0 +1,572 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued November 21, 2017          Decided December 26, 2017
+
+                       No. 17–5171
+
+       ELECTRONIC PRIVACY INFORMATION CENTER,
+                     APPELLANT
+
+                             v.
+
+         PRESIDENTIAL ADVISORY COMMISSION ON
+               ELECTION INTEGRITY, ET AL.,
+                      APPELLEES
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:17-cv-01320)
+
+
+    Marc Rotenberg argued the cause for the appellant. Alan
+Butler was with him on brief.
+
+     Daniel Tenny, Attorney, United States Department of
+Justice, argued the cause for the appellees. Mark B. Stern,
+Attorney, was with him on brief. Elizabeth J. Shapiro,
+Attorney, entered an appearance.
+
+     Lawrence J. Joseph was on brief for the amicus curiae
+Eagle Forum Education & Legal Defense Fund in support of
+the appellees.
+                                   2
+    Before: HENDERSON, Circuit Judge, and WILLIAMS and
+GINSBURG, Senior Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge HENDERSON.
+
+     Opinion concurring in part and concurring in the judgment
+filed by Senior Circuit Judge WILLIAMS.
+
+     KAREN LECRAFT HENDERSON, Circuit Judge: By
+executive order issued in May 2017, the President established
+the Presidential Advisory Commission on Election Integrity
+(Commission). Exec. Order No. 13799, 82 Fed. Reg. 22389
+(May 11, 2017). The Commission is a temporary and “solely
+advisory” body charged with studying the integrity of federal
+elections. Id. § 3. In keeping with that objective but lacking
+any authority to demand information, the Commission
+“requested” that each state and the District of Columbia
+provide the Commission with certain “publicly-available voter
+roll data.” Joint Appendix (JA) 51.
+
+     The Electronic Privacy Information Center (EPIC)—a
+nonprofit organization whose stated mission is “to focus public
+attention on emerging privacy and civil liberties issues”—sued
+the Commission and other entities and officials, claiming
+violations of the Administrative Procedure Act (APA), 5
+U.S.C. § 706. Pl.’s Second Am. Compl. (Compl.), Dkt. No.
+33 at 2, 12-13. 1 EPIC sought a preliminary injunction to
+
+     1
+         EPIC’s complaint also alleged violations of the Federal
+Advisory Committee Act, 5 U.S.C. app. 2, and the Fifth
+Amendment’s Due Process Clause. Those claims are not before us
+because EPIC presents no argument about them. See N.Y. Rehab.
+Care Mgmt., LLC v. NLRB, 506 F.3d 1070, 1076 (D.C. Cir. 2007)
+(party forfeits argument by failing to brief it or by mentioning it only
+“in the most skeletal way” (internal quotation omitted)).
+                                3
+prohibit the defendants from collecting voter data unless and
+until they complete a privacy impact assessment as allegedly
+required by the E-Government Act of 2002, Pub. L. No.
+107-347, § 208(b), 116 Stat. 2899, 2921-22 (Dec. 17, 2002).
+The district court denied preliminary injunctive relief. EPIC
+v. Presidential Advisory Comm’n on Election Integrity, 2017
+WL 3141907 (D.D.C. July 24, 2017). The court concluded
+(inter alia) that EPIC has standing, id. at *6-*10, but is
+unlikely to succeed on the merits because under the APA
+neither the Commission nor any other defendant constitutes an
+“agency” that the court can enjoin to produce an assessment,
+id. at *11-*13.
+
+     On an interlocutory basis, EPIC appeals the denial of a
+preliminary injunction. See 28 U.S.C. § 1292(a)(1). We
+agree with the district court that EPIC is unlikely to succeed on
+its APA claims. But we reach that conclusion for a different
+reason from the one the district court identified. See Parsi v.
+Daioleslam, 778 F.3d 116, 126 (D.C. Cir. 2015) (“Ordinarily, a
+court of appeals can affirm a district court judgment on any
+basis supported by the record, even if different from the
+grounds the district court cited.”). Specifically, we uphold the
+denial of a preliminary injunction because EPIC has not shown
+a substantial likelihood of standing. See Food & Water
+Watch, Inc. v. Vilsack, 808 F.3d 905, 913 (D.C. Cir. 2015) (“A
+party who fails to show a ‘substantial likelihood’ of standing is
+not entitled to a preliminary injunction.” (quoting Obama v.
+Klayman, 800 F.3d 559, 568 (D.C. Cir. 2015) (opinion of
+Williams, J.))). 2
+
+
+    2
+         Because EPIC has not met its burden with respect to
+standing, we do not consider whether any of the defendants
+constitutes an agency under the E-Government Act or the APA.
+Nor do we consider the preliminary injunction factors other than
+EPIC’s likelihood of success. A plaintiff unlikely to have standing
+                                4
+                     I. BACKGROUND
+
+     In 2002, the Congress passed the E-Government Act to
+streamline government use of information technology “in a
+manner consistent with laws regarding protection of personal
+privacy, national security, records retention, access for persons
+with disabilities, and other relevant laws.” E-Government Act
+§ 2(b)(11). Section 208 of the Act, entitled “Privacy
+Provisions,” states that “[t]he purpose of this section is to
+ensure sufficient protections for the privacy of personal
+information as agencies implement citizen-centered electronic
+Government.” Id. § 208(a). To promote that purpose,
+section 208 requires an “agency” to conduct, review and, “if
+practicable,” publish a privacy impact assessment before it
+collects “information in an identifiable form permitting the
+physical or online contacting of a specific individual, if
+identical questions have been posed to, or identical reporting
+requirements imposed on, 10 or more persons.”                  Id.
+§ 208(b)(1). A party with standing can make a claim under
+that provision for relief under the APA’s direction to courts to
+“compel agency action unlawfully withheld,” 5 U.S.C.
+§ 706(1), and to “set aside agency action . . . not in accordance
+with law,” id. § 706(2)(A).
+
+     In May 2017, the President established the Commission as
+a “solely advisory” body. Exec. Order No. 13799, § 3. He
+charged it with studying and submitting a report about the
+“integrity of” and “vulnerabilities in” the voting systems and
+procedures used in federal elections. Id. Thirty days after
+
+is ipso facto unlikely to succeed, Food & Water Watch, 808 F.3d at
+913; Klayman, 800 F.3d at 565, 568 (opinion of Williams, J.); and
+when the plaintiff is unlikely to succeed, “there is no need to
+consider the remaining factors,” Greater New Orleans Fair Hous.
+Action Ctr. v. HUD, 639 F.3d 1078, 1088 (D.C. Cir. 2011).
+                               5
+the Commission submits its report, it will cease to exist. Id.
+§ 6.
+
+     In June 2017, Kris Kobach—Secretary of State of Kansas
+and Vice Chair of the Commission—wrote a letter to the chief
+election officer of each state and the District of Columbia.
+Each letter “request[ed]” that the addressee
+
+       provide       to     the     Commission        the
+       publicly-available voter roll data for [your
+       state], including, if publicly available under the
+       laws of your state, the full first and last names
+       of all registrants, middle names or initials if
+       available, addresses, dates of birth, political
+       party (if recorded in your state), last four digits
+       of social security number if available, voter
+       history (elections voted in) from 2006 onward,
+       active/inactive status, cancelled status,
+       information regarding any felony convictions,
+       information regarding voter registration in
+       another state, information regarding military
+       status, and overseas citizen information.
+
+JA 61-62. Each letter stated that “any documents” a state
+submits to the Commission “will also be made available to the
+public,” JA 62, but Kobach clarified in district court that “the
+Commission intends to de-identify” any voter data it receives
+so that “the voter rolls themselves will not be released to the
+public,” JA 52. As far as the record shows, only Arkansas has
+submitted any data and it “has been deleted without ever
+having been accessed by the Commission.” JA 235.
+
+    EPIC filed its complaint in July 2017, naming as
+defendants the Commission, Kobach and other entities and
+                               6
+officials. 3 As relevant here, the complaint raised two related
+claims. Count One alleged “unlawful agency action,” i.e.,
+that the defendants “initiate[d] collection of voter data”
+without first “creating, reviewing, and publishing a privacy
+impact assessment” under the E-Government Act. Compl. 12
+(capitalization altered). Count Two alleged “agency action
+unlawfully withheld,” i.e., that the defendants “have failed to
+create, review, and/or publish a privacy impact assessment for
+[their] collection of voter data, as required by” the
+E-Government Act. Id. at 12-13 (capitalization altered).
+EPIC asked the district court to remedy the alleged violations
+by (inter alia) “halt[ing] collection of personal voter data” and
+ordering the defendants “to promptly conduct a privacy impact
+assessment prior to the collection of personal voter data.” Id.
+at 15.
+
+     EPIC later moved for a preliminary injunction. It asked
+the district court to prohibit the defendants “from collecting
+state voter data prior to the completion of a privacy impact
+assessment.” Mem. in Support, Dkt. No. 35-1 at 41. The
+court denied the motion. EPIC, 2017 WL 3141907, at *14.
+Based on the available evidence, the court held (inter alia) that
+EPIC has standing, id. at *6-*10, but that the Commission
+lacks “‘substantial independent authority’” and so is not “an
+‘agency’ for purposes of the APA,” id. at *11 (quoting Citizens
+for Responsibility & Ethics in Washington v. Office of Admin.,
+566 F.3d 219, 222 (D.C. Cir. 2009)). The court was also
+unpersuaded that any other defendant likely to be involved in
+
+    3
+       The complaint also named Vice President Michael Pence;
+Charles Herndon, Director of White House Information Technology;
+the Executive Office of the President; the Office of the Vice
+President; the Department of Defense; the General Services
+Administration; the Executive Committee for Presidential
+Information Technology; and the United States Digital Service.
+                                 7
+collecting voter data is an agency under the APA. Id. at
+*12-*13. Accordingly, the court concluded, EPIC “has not
+demonstrated a likelihood of success on the merits.” Id. at
+*13.
+
+                        II. ANALYSIS
+
+     “The judicial Power” of the federal courts extends only to
+“Cases” and “Controversies,” U.S. CONST. art. III, § 2, cl. 1,
+“and there is no justiciable case or controversy unless the
+plaintiff has standing,” West v. Lynch, 845 F.3d 1228, 1230
+(D.C. Cir. 2017) (citing Steel Co. v. Citizens for a Better Env’t,
+523 U.S. 83, 102 (1998)). To establish standing, the plaintiff
+must show (1) it has suffered a “concrete and particularized”
+injury (2) that is “fairly traceable to the challenged action of the
+defendant” and (3) that is “likely” to be “redressed by a
+favorable decision,” i.e., a decision granting the plaintiff the
+relief it seeks. Id. (quoting Lujan v. Defenders of Wildlife, 504
+U.S. 555, 560-61 (1992)).
+
+     The plaintiff bears the burden of establishing all three
+elements of standing. Lujan, 504 U.S. at 561. The “manner
+and degree of evidence required” depends on the “stage[] of the
+litigation.” Id. In the context of a preliminary injunction
+motion, we require the plaintiff to “show a ‘substantial
+likelihood’ of standing” “under the heightened standard for
+evaluating a motion for summary judgment.” Food & Water
+Watch, 808 F.3d at 912-13 (quoting Klayman, 800 F.3d at 568
+(opinion of Williams, J.)); see Nat’l Wildlife Fed’n v. Burford,
+835 F.2d 305, 328 (D.C. Cir. 1987) (Williams, J., concurring
+and dissenting). Thus, the plaintiff cannot “rest on . . . mere
+allegations, but must set forth by affidavit or other evidence
+specific facts” that, if “taken to be true,” demonstrate a
+substantial likelihood of standing. Lujan, 504 U.S. at 561
+(internal quotation omitted).
+                                    8
+     “Because ‘standing is not dispensed in gross’ but instead
+may differ claim by claim,” “we address seriatim” EPIC’s
+likelihood of standing on each of its two APA claims. West,
+845 F.3d at 1235 (quoting Davis v. FEC, 554 U.S. 724, 734
+(2008)). We conclude that EPIC has not made the requisite
+showing on either claim. 4 To simplify the analysis, we start
+with Count Two.
+
+ A. FAILURE TO PRODUCE PRIVACY IMPACT ASSESSMENT
+
+     Count Two alleges “agency action unlawfully withheld,”
+namely, the defendants’ failure to produce a privacy impact
+assessment under the E-Government Act. Compl. 12-13
+(capitalization altered). EPIC asserts that this inaction causes
+it two types of injury: (1) “informational injury” through the
+lack of an assessment to which the law allegedly entitles it,
+Appellant’s Reply Br. 4; and (2) “[o]rganizational . . . injury”
+in that the inaction conflicts with EPIC’s mission “to focus
+public attention on emerging privacy and civil liberties issues,”
+id. at 5 (internal quotation omitted). 5 As relief for the
+     4
+         We owe no deference to the district court’s contrary
+conclusion. O’Hara v. Dist. No. 1-PCD, 56 F.3d 1514, 1522 (D.C.
+Cir. 1995) (to extent preliminary injunction decision “hinges on
+questions of law,” we review it de novo (internal quotation
+omitted)); see Teton Historic Aviation Found. v. Dep’t of Def., 785
+F.3d 719, 724 (D.C. Cir. 2015) (per curiam) (standing is question of
+law to be assessed de novo).
+     5
+          In district court, EPIC also advanced a theory of
+“associational standing.” Reply in Support, Dkt. No. 39 at 19-23.
+The court rejected it, EPIC, 2017 WL 3141907, at *4-*6, and EPIC
+does not renew it here, Appellant’s Reply Br. 2 n.2 (“associational
+standing” is “not related to any issue on appeal”). We therefore do
+not consider it. See Scenic Am., Inc. v. Dep’t of Transp., 836 F.3d
+42, 53 n.4 (D.C. Cir. 2016) (party forfeits theory of standing if it fails
+to advance any argument about it).
+                                9
+inaction, EPIC asks that the defendants be ordered “to
+promptly conduct a privacy impact assessment prior to the
+collection of personal voter data.” Compl. 15. We conclude
+that EPIC lacks standing to obtain such relief because it has
+suffered no cognizable informational or organizational injury.
+We analyze and reject those two asserted types of injury in turn
+without necessarily agreeing that they are in fact analytically
+separate here. Indeed, as will be seen, EPIC identifies no
+organizational harm unrelated to its alleged informational
+injury. See infra p. 11.
+
+                   1. Informational injury
+
+     Following FEC v. Akins, 524 U.S. 11 (1998), “we have
+recognized that a denial of access to information can,” in
+certain circumstances, “work an ‘injury in fact’ for standing
+purposes,” Am. Soc’y for Prevention of Cruelty to Animals v.
+Feld Entm’t, Inc., 659 F.3d 13, 22 (D.C. Cir. 2011) (Feld)
+(internal quotation omitted).       To carry its burden of
+demonstrating a “sufficiently concrete and particularized
+informational injury,” the plaintiff must show that “(1) it has
+been deprived of information that, on its interpretation, a
+statute requires the government or a third party to disclose to it,
+and (2) it suffers, by being denied access to that information,
+the type of harm Congress sought to prevent by requiring
+disclosure.” Friends of Animals v. Jewell, 828 F.3d 989, 992
+(D.C. Cir. 2016); see Spokeo, Inc. v. Robins, 136 S. Ct. 1540,
+1549 (2016) (“judgment of Congress” is “important” to
+“whether an intangible harm,” including informational harm,
+“constitutes injury in fact”).
+
+     We need not consider the first component of the
+requirement for informational injury because EPIC does not
+satisfy the second: it has not suffered the type of harm that
+section 208 of the E-Government Act seeks to prevent.
+                               10
+Indeed, EPIC is not even the type of plaintiff that can suffer
+such harm. See Friends of Animals, 828 F.3d at 992 (whether
+“plaintiff suffers the type of harm Congress sought to remedy”
+sometimes depends on whether “Congress, in mandating
+disclosure, sought to protect individuals or organizations like”
+plaintiff).
+
+     Section 208, a “Privacy Provision[]” by its very name,
+declares an express “purpose” of “ensur[ing] sufficient
+protections for the privacy of personal information as agencies
+implement      citizen-centered     electronic      Government.”
+E-Government Act § 208(a). As we read it, the provision is
+intended to protect individuals—in the present context,
+voters—by requiring an agency to fully consider their privacy
+before collecting their personal information. EPIC is not a
+voter and is therefore not the type of plaintiff the Congress had
+in mind. Nor is EPIC’s asserted harm—an inability to “ensure
+public oversight of record systems,” Appellant’s Reply Br.
+9—the kind the Congress had in mind. Instead, section 208 is
+directed at individual privacy, which is not at stake for EPIC.
+
+                  2. Organizational injury
+
+     For similar reasons, EPIC has suffered no organizational
+injury. Under Havens Realty Corp. v. Coleman, 455 U.S. 363
+(1982), “an organization may establish Article III standing if it
+can show that the defendant’s actions cause a ‘concrete and
+demonstrable injury to the organization’s activities’ that is
+‘more than simply a setback to the organization’s abstract
+social interests.’” Feld, 659 F.3d at 25 (quoting Havens, 455
+U.S. at 379). “Our case law, however, establishes two
+important limitations on the scope of standing under Havens.”
+Id. First, the plaintiff must show that the defendant’s “action
+or omission to act injured the organization’s interest.” People
+for the Ethical Treatment of Animals v. USDA, 797 F.3d 1087,
+                                 11
+1094 (D.C. Cir. 2015) (PETA) (internal quotation and brackets
+omitted). Second, the plaintiff must show that it “used its
+resources to counteract that harm.” Id. (internal quotation
+omitted). EPIC’s assertion of organizational standing fails
+twice over.
+
+     EPIC’s sole theory of organizational injury is that the
+defendants’ failure to produce a privacy impact assessment
+injures its interest in using the information contained in the
+assessment “to focus public attention on emerging privacy and
+civil liberties issues.” Appellant’s Reply Br. 5 (internal
+quotation omitted). As we have discussed, however, section
+208 of the E-Government Act does not confer any such
+informational interest on EPIC.          EPIC cannot ground
+organizational injury on a non-existent interest. See Feld, 659
+F.3d at 24-25 (abstract social interest does not give rise to
+organizational injury).
+
+     It follows that any resources EPIC used to counteract the
+lack of a privacy impact assessment—an assessment in which
+it has no cognizable interest—were “a self-inflicted budgetary
+choice that cannot qualify as an injury in fact.” Feld, 659 F.3d
+at 25 (internal quotation omitted). EPIC’s evidence of
+expenditures only reinforces the point. It relies exclusively on
+the declaration of an EPIC “Law Fellow” who before and
+during this lawsuit submitted Freedom of Information Act
+(FOIA) requests to (inter alia) the Commission and the
+Department of Justice (DOJ). 6 JA 236-37. EPIC offers no
+
+     6
+        In its rebuttal oral argument, EPIC contended that it has
+organizational standing not only because of the FOIA requests but
+because it “contacted the state secretaries to warn them that [an
+assessment] had not been completed” and because it “launched an
+internet-based campaign to alert voters that their information was not
+being protected.” Oral Arg. Recording 30:28-30:59. EPIC did not
+advance that contention in its briefs or even during the opening
+                                 12
+“specific facts” demonstrating that the lack of an assessment
+caused it to submit the requests, Lujan, 504 U.S. at 561
+(internal quotation omitted); see Appellant’s Reply Br. 5-6, 10,
+so we can only speculate. Speculation is ordinarily fatal to
+standing, DaimlerChrysler Corp. v. Cuno, 547 U.S. 332, 344
+(2006) (it cannot establish injury); West, 845 F.3d at 1237-38
+(it cannot establish causation or redressability), and that is the
+case here. EPIC’s wide-ranging FOIA requests sought
+information about (inter alia) DOJ’s data-collection efforts
+under the National Voter Registration Act; DOJ’s legal views
+about the Commission’s authority; and various potentially
+privileged government communications. An assessment
+would not likely disclose such information.                   See
+E-Government Act § 208(b)(1)(C), (b)(2)(B). Presumably,
+then, EPIC would have made similar FOIA requests even if the
+defendants had produced an assessment. 7
+
+
+
+portion of its oral argument. It thereby forfeited the contention, the
+merits of which we decline to consider. See Coal. of Battery
+Recyclers Ass’n v. EPA, 604 F.3d 613, 623 (D.C. Cir. 2010)
+(argument raised “for the first time during rebuttal oral argument” is
+“forfeited”).
+     7
+         This fact readily distinguishes PETA, 797 F.3d 1087, on
+which EPIC relies. There, at the dismissal stage, PETA sufficiently
+alleged that the USDA’s failure to apply Animal Welfare Act
+regulations to birds caused PETA “to undertake . . . extensive
+efforts”—and to spend more than $10,000—investigating cruelty to
+birds and submitting animal-protection complaints under alternative
+local, state and federal laws. Id. at 1096; see id. at 1093-97. Here,
+“under the heightened standard for evaluating a motion for summary
+judgment,” Food & Water Watch, 808 F.3d at 912, EPIC has not
+established any equivalently direct causal link between the
+defendants’ inaction and EPIC’s own expenditures.
+                               13
+     In short, not only does EPIC have no cognizable interest in
+a privacy impact assessment but the resources it spent were not
+even demonstrably attributable to the lack of an assessment.
+It has suffered no organizational injury, much less an injury
+caused by the defendants.
+
+        B. ATTEMPTING TO COLLECT VOTER DATA
+              WITHOUT FIRST PRODUCING
+             PRIVACY IMPACT ASSESSMENT
+
+     Count One alleges “unlawful agency action,” namely, the
+defendants’ attempted collection of voter data without first
+producing a privacy impact assessment under the
+E-Government Act. Compl. 12 (capitalization altered). As
+relief for this asserted violation, EPIC asks that the defendants
+be ordered “to halt collection of personal voter data.” Id. at
+15. We again conclude that it lacks standing to obtain such
+relief.
+
+     To repeat, EPIC is not a voter. And as far as the record
+shows, it has no traditional membership, let alone members
+who are voters. Unsurprisingly, then, it does not claim
+standing on behalf of any voter whose data is likely to be
+collected. See supra note 5. Instead, in seeking to halt
+collection of voter data, it advances the same theories of
+informational and organizational standing that it asserts in
+seeking to compel a privacy impact assessment. We see no
+reason to “accept[] a repackaged version” of those “failed
+theor[ies].” Clapper v. Amnesty Int’l USA, 568 U.S. 398, 416
+(2013).      As explained above, EPIC has suffered no
+informational or organizational injury from the defendants’
+failure to produce an assessment. A fortiori, it has suffered no
+informational or organizational injury from the defendants’
+attempt to collect voter data without first producing an
+assessment.
+                               14
+     Moreover, halting collection of voter data would not
+“likely” redress any informational or organizational injury,
+even had EPIC suffered one. Lujan, 504 U.S. at 561 (“[I]t
+must be likely, as opposed to merely speculative, that the injury
+will be redressed by a favorable decision.” (internal quotation
+omitted)); West, 845 F.3d at 1235 (“The key word is ‘likely.’”).
+Assuming arguendo that the Commission or another defendant
+is an agency subject to the E-Government Act, it need not
+prepare a privacy impact assessment unless it plans to collect
+information.        E-Government Act § 208(b)(1)(A).
+Accordingly, ordering the defendants not to collect voter data
+only negates the need (if any) to prepare an assessment,
+making it less likely that EPIC will obtain the information it
+says is essential to its mission of “focus[ing] public attention
+on emerging privacy and civil liberties issues.” Appellant’s
+Reply Br. 5 (internal quotation omitted).
+
+                           *****
+
+     The doctrines of informational and organizational
+standing do not derogate from the elemental requirement that
+an alleged injury be “concrete and particularized.” Lujan, 504
+U.S. at 560; see Akins, 524 U.S. at 24-25 (informational);
+Havens, 455 U.S. at 379 (organizational). On this record,
+EPIC’s asserted injuries do not meet that requirement.
+Because EPIC does not show a substantial likelihood of
+standing to press its claims that the defendants have violated
+the E-Government Act, we affirm the district court’s denial of
+a preliminary injunction.
+
+                                                    So ordered.
+     WILLIAMS, Senior Circuit Judge, concurring in part and
+concurring in the judgment: Because it “has not suffered the
+type of harm that § 208 of the E-Government Act seeks to
+prevent,” Maj. Op. at 9, EPIC has failed to allege a legally
+cognizable injury-in-fact. So I agree that EPIC lacks standing.
+But given that EPIC claims only organizational standing and
+“identifies no organizational harm unrelated to its alleged
+informational injury,” id., I see no need for any separate
+discussion of “organizational injury.” Id. at 10-13. Nor,
+indeed, do I see any need for a separate discussion of EPIC’s
+alternative reformulation of its merits claim as an objection to
+defendants’ effort to collect data without previously filing a
+Privacy Impact Statement (“PIA”). Id. at 13-14.
+
+                            * * *
+
+     As an organization, EPIC has in principle two potential
+paths to establish standing: “associational,” on behalf of its
+members, and “organizational,” on behalf of itself. Before us,
+it doesn’t renew the associational standing claim made in
+district court. That leaves only organizational standing. For
+those purposes, of course, it must establish an injury that
+qualifies under Article III, along with the requisite causation
+and redressability. See, e.g., PETA v. U.S. Department of
+Agriculture, 797 F.3d 1087, 1106 (D.C. Cir. 2015) (Millett, J.,
+dubitante).
+
+     To establish organizational standing, EPIC asserts only a
+single injury: that the defendants’ omissions have caused it to
+go without information—the contents of a PIA—that it could
+use to educate the public.
+
+     Where an organization’s only asserted injury is an
+informational one, we have not engaged in a separate analysis
+of informational and organizational injury. See, e.g., Friends
+of Animals v. Jewell, 828 F.3d 989, 992 (D.C. Cir. 2016)
+                                2
+
+(addressing organization’s claim of informational injury as
+such).    If an organization’s only claimed injury is
+informational, additional discussion of the same facts under the
+“organizational” rubric will not clarify the court’s reasoning.
+
+     In cases where the plaintiff claims organizational injuries
+of various types (including informational ones), we have
+analyzed the informational injury as such and the other alleged
+injuries as organizational. See, e.g., Am. Soc. for Prevention of
+Cruelty to Animals v. Feld Entm’t, Inc., 659 F.3d 13, 22 (D.C.
+Cir. 2011) (rejecting organization’s claim of informational
+standing, id. at 22-24, and its claims that Feld’s use of chains
+and bullhooks afforded organizational standing by fostering,
+plaintiffs argued, “a public impression that these practices are
+harmless,” id. at 24-28). My guess—only a guess—is that the
+practice arose because organizations found informational
+injury a comparatively easy way to show standing.
+
+     But organizational standing is merely the label assigned to
+the capacity in which the organization contends it has been
+harmed; it is not a separate type of injury. In its capacity as an
+organization, EPIC has alleged one harm, packaged as two
+theories (perhaps in the hope that such packaging will increase
+the odds of success). There is no need for us to accept that
+packaging; doing so is a step away from, not towards, legal
+clarity.
+

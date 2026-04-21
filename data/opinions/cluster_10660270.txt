@@ -1,0 +1,1070 @@
+             United States Court of Appeals
+                  for the Fifth Circuit                                      United States Court of Appeals
+                                                                                      Fifth Circuit
+
+                                      ____________                                  FILED
+                                                                              August 25, 2025
+                                       No. 23-60626                            Lyle W. Cayce
+                                      ____________                                  Clerk
+
+National Association of Private Fund Managers;
+Managed Funds Association; Alternative Investment
+Management Association,
+
+                                                                                   Petitioners,
+
+                                             versus
+
+Securities and Exchange Commission,
+
+                                                                                  Respondent.
+                     ______________________________
+
+                          Petition for Review from an Order
+                      of the Securities & Exchange Commission
+                                 Agency No. 34-98737,
+                                 Agency No. 34-98738
+                     ______________________________
+
+Before Wilson and Douglas, Circuit Judges, and Vitter, District
+Judge. *
+Cory T. Wilson, Circuit Judge:
+           The Securities Exchange Commission adopted two rules aimed at
+increasing transparency in the securities lending and short sale markets. See
+Reporting of Securities Loans (Securities Lending Rule), 88 Fed. Reg. 75644
+
+_____________________
+*
+    United States District Judge for the Eastern District of Louisiana, sitting by designation.
+                                 No. 23-60626
+
+
+(Nov. 3, 2023) (codified at 17 C.F.R. § 240.10c-1a); Short Position and Short
+Activity Reporting by Institutional Investment Managers (Short Sale Rule),
+88 Fed. Reg. 75100 (Nov. 1, 2023) (codified at 17 C.F.R. § 240.13f-2).
+Petitioners, National Association of Private Fund Managers, Managed
+Funds Association, and Alternative Investment Management Association,
+Ltd., challenge the Rules on various grounds. Because the agency failed to
+consider and quantify the cumulative economic impact of the Rules as
+required by the governing statutes, we grant the petition for review in part
+and remand to the agency for further proceedings.
+                                     I.
+       Securities lending occurs when “securities are transferred
+temporarily from one party, a securities lender, to another, a securities
+borrower, for a fee.” Securities Lending Rule, 88 Fed. Reg. at 75645. Short
+sales occur when an investor sells a stock that the investor does not own in
+hopes that the share price will decrease. Short Sale Rule, 88 Fed. Reg. at
+75100–01. To make the sale, the investor must first borrow the requisite
+shares and later purchase the same number of shares on the market to return
+to the lender. Securities lending is thus an integral facet of the short sale
+market, which is in turn an integral component of modern securities markets.
+Securities Lending Rule, 88 Fed. Reg. at 75645.
+       According to the Securities and Exchange Commission (the
+Commission) and at least some market participants, the securities lending
+market is opaque, in that comprehensive information on current market
+conditions is generally unavailable to the public. See id. at 75644–45. This
+lack of information makes it challenging for federal regulators to oversee
+transactions and ensure a fair, orderly, and efficient market. Id. at 75645.
+The short sale market has similar gaps in information accessible to the public
+and regulators. See Short Sale Rule, 88 Fed. Reg. at 75148. And while short
+
+
+
+
+                                      2
+                                       No. 23-60626
+
+
+selling provides important benefits to securities markets like liquidity and
+pricing efficiency, it can also be abused through improper practices like
+“short and distort” and “naked” short selling strategies. 1 Id. at 75101 n.14,
+75159–60.
+         Due to perceived gaps in market information, the Commission sought
+to increase transparency in both the securities lending and short sale markets
+under rulemaking authority granted to the agency by the Dodd-Frank Wall
+Street Reform and Consumer Protection Act of 2010 (Dodd-Frank), Pub. L.
+111–203, 124 Stat. 1376. Dodd-Frank overhauled financial regulation in the
+aftermath of the economic downturn in 2008, amending, inter alia, the
+Securities Exchange Act of 1934 (Exchange Act). 15 U.S.C. § 78b; see Short
+Sale Rule, 88 Fed. Reg. at 75100; Securities Lending Rule, 88 Fed. Reg. at
+75644.       Two Dodd-Frank provisions are relevant to this appeal.
+Section 984(b), codified as a note to 15 U.S.C. § 78j, 2 gives the Commission
+the authority to “promulgate rules that are designed to increase the
+transparency of information available to brokers, dealers, and investors, with
+respect to the loan or borrowing of securities.” And § 929X, codified at 15
+_____________________
+         1
+          The goal of a “short and distort” strategy is to manipulate the market by “first
+short[ing] a stock and then engag[ing] in a campaign to spread unverified bad news about
+the stock with the objective of panicking other investors into selling their stock in order to
+drive the price down.” Short Sale Rule, 88 Fed. Reg. at 75159. “Naked” short selling
+“refers generally to selling short without having stock available for delivery and
+intentionally failing to deliver stock within the standard three-day settlement cycle.”
+“Naked” Short Selling Antifraud Rule, Exchange Act Release No. 34–58774, 73 Fed. Reg.
+61666, 61667 (Oct. 17, 2008).
+         2
+          “Statutory notes are provisions of law placed after the text of a United States
+Code section. They exist throughout the United States Code” and are valid prima facie
+evidence of the laws of the United States. Shawn G. Nevers and Julie Graves
+Krishnaswami, The Shadow Code: Statutory Notes in the United States Code, 112 Law Libr.
+J. 213, 213 (2020); 1 U.S.C. § 204; see Conyers v. Merit Sys. Prot. Bd., 388 F.3d 1380, 1382
+n.2 (Fed. Cir. 2004) (That language “was codified as a statutory note is of no moment.”).
+For ease of reference hereafter, we cite to Dodd-Frank § 984(b) or § 78j note.
+
+
+
+
+                                              3
+                                      No. 23-60626
+
+
+U.S.C. § 78m(f)(2), gives the Commission rulemaking authority to require
+“the public disclosure of the name of the issuer and the title, class, CUSIP
+number,[3] aggregate amount of the number of short sales of each security,
+and any additional information determined by the Commission following the
+end of the reporting period.”
+        Proceeding under § 984(b), the Commission proposed the Securities
+Lending Rule on November 18, 2021, with a comment period through
+January 7, 2022.        Reporting on Securities Loans (Proposed Securities
+Lending Rule), 86 Fed. Reg. 69802 (proposed Nov. 18, 2021). The Rule
+applies to “[a]ny person that agrees to a covered securities loan on behalf of
+a lender (‘intermediary’)”; “[a]ny person that agrees to a covered securities
+loan as a lender when an intermediary is not used”; and brokers or dealers
+that “borrow[] fully paid or excess margin securities.” Securities Lending
+Rule, 88 Fed. Reg. at 75647, 75649–50, 75742. The Proposed Securities
+Lending Rule required securities loan transactions to be reported to the
+Financial Industry Regulatory Authority (FINRA) within fifteen minutes of
+execution, followed by publication of transaction-by-transaction data “as
+soon as practicable.” Proposed Securities Lending Rule, 86 Fed. Reg. at
+69851–52.
+        A few months later, on February 25, 2022, the Commission proposed
+the Short Sale Rule under § 929X. Short Position and Short Activity
+Reporting by Institutional Investment Managers (Proposed Short Sale Rule),
+87 Fed. Reg. 14950 (proposed Feb. 25, 2022). The proposed regulation
+applied to institutional investment managers 4 and required reporting and
+
+_____________________
+        3
+           A CUSIP number is assigned by the Committee on Uniform Securities
+Identification Procedures.
+        4
+          An institutional investment manager is “any person, other than a natural person,
+investing in or buying and selling securities for its own account, and any person exercising
+
+
+
+
+                                             4
+                                       No. 23-60626
+
+
+publication of short sale data on an aggregate, monthly basis. Id. at 14950–
+51. Reports were to be filed through the Commission’s Electronic Data
+Gathering, Analysis, and Retrieval system (EDGAR). Id. at 14955–57. The
+Commission contemporaneously reopened the comment period for the
+Securities Lending Rule “so that commenters may consider whether there
+would be any effects of [the Proposed Short Sale Rule] that the Commission
+should consider in connection with [the Proposed Securities Lending Rule].”
+Reopening of Comment Period for Reporting of Sec. Loans, Exchange Act
+Release No. 34-94315, 87 Fed. Reg. 11659, 11659 (proposed Mar. 2, 2022).
+        The Commission adopted the final Rules on October 13, 2023.
+Securities Lending Rule, 88 Fed. Reg. at 75742; Short Sale Rule, 88 Fed. Reg.
+at 75186. The final Securities Lending Rule differs in a few material ways
+from the proposed version: It delays the reporting timeframe from fifteen
+minutes after a reportable transaction until the end of the day, and it delays
+reporting of information about the size of each individual loan until twenty
+business days after a transaction is effected. Securities Lending Rule, 88 Fed.
+Reg. at 75665. The final Short Sale Rule contains no differences from the
+proposed version that are material to this appeal.
+        Petitioners, several member organizations of institutional investment
+managers, challenge both Rules under the Administrative Procedure Act
+(APA) and the Exchange Act. 5 Their primary challenges center on the
+interplay between the Rules and purported inconsistencies between them
+_____________________
+investment discretion with respect to the account of any other person.” 15 U.S.C.
+§ 78m(f)(6).
+        5
+          Petitioners have associational standing to bring suit as “(1) [their] members would
+otherwise have standing to sue in their own right; (2) the interests [they] seek[] to protect
+are germane to the organization[s’] purpose[s]; and (3) neither the claim asserted nor the
+relief requested requires the participation in the lawsuit of each of the individual
+members.” Hunt v. Wash. State Apple Advert. Comm’n, 432 U.S. 333, 343 (1977).
+
+
+
+
+                                             5
+                                  No. 23-60626
+
+
+that Petitioners contend doom both Rules as arbitrary and capricious. In a
+nutshell, Petitioners argue that both Rules should be vacated because they
+are irreconcilably contradictory—the disclosures required by the Securities
+Lending Rule will reveal the very information the Short Sale Rule seeks to
+protect—and because the Commission failed to consider the Rules’
+collective economic impact.
+       Petitioners also attack the Rules individually. They contend that the
+Securities Lending Rule exceeds the Commission’s statutory authority and
+that the Commission did not provide adequate opportunity for comment
+before it promulgated the final rule. Regarding the Short Sale Rule, they
+assert that the Commission failed to explain why it did not use a less
+burdensome reporting alternative and that the Rule impermissibly applies to
+extraterritorial transactions.
+                                      II.
+       Under the APA, this court must uphold the Commission’s action
+unless it is in “excess of statutory jurisdiction, authority, or limitations,” or
+is “arbitrary, capricious, an abuse of discretion, or otherwise not in
+accordance with law.” 5 U.S.C. § 706(2)(A), (C). “[W]e review questions
+of law de novo, without deference to the agency’s conclusions.” Davidson v.
+Glickman, 169 F.3d 996, 1000 (5th Cir. 1999) (citations omitted). And the
+Commission’s factual findings are “conclusive” if “supported by substantial
+evidence.” 15 U.S.C. § 80b-13(a).
+       Arbitrary-and-capricious review requires this court to scrutinize the
+record to determine whether the agency has “examine[d] the relevant data
+and articulate[d] a satisfactory explanation for its action including a ‘rational
+connection between the facts found and the choice made.’” Motor Vehicle
+Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983) (quoting Burlington Truck Lines v. United States, 371 U.S. 156, 168
+
+
+
+
+                                       6
+                                 No. 23-60626
+
+
+(1962)). This court “may not supply a reasoned basis for the agency’s action
+that the agency itself has not given.” Id. (citing SEC v. Chenery Corp., 332
+U.S. 194, 196 (1947)). Finally, “we must set aside any action premised on
+reasoning that fails to account for ‘relevant factors’ or evinces ‘a clear error
+of judgment.’” Univ. of Tex. M.D. Anderson Cancer Ctr. v. U.S. Dep’t of
+Health & Hum. Servs., 985 F.3d 472, 475 (5th Cir. 2021) (quoting Marsh v.
+Or. Nat. Res. Council, 490 U.S. 360, 378 (1989)).
+       In addition to adhering to the APA’s requirements, the Commission
+has a “unique obligation” to comply with the considerations enumerated in
+the Exchange Act when promulgating rules. Bus. Roundtable v. SEC, 647
+F.3d 1144, 1148 (D.C. Cir. 2011) (citing 15 U.S.C. §§ 78c(f), 78w(a)(2), 80b-
+2(c)). Specifically, the Commission must consider the effect of a new rule
+upon “efficiency, competition, and capital formation.” Id. And “its failure
+to ‘apprise itself—and hence the public and the Congress—of the economic
+consequences of a proposed regulation’ makes promulgation of the rule
+arbitrary and capricious and not in accordance with law.” Id. (quoting
+Chamber of Com. of U.S. v. SEC (Chamber of Com. (D.C. Circuit)), 412 F.3d
+133, 144 (D.C. Cir. 2005)).
+                                     III.
+       We begin with Petitioners’ targeted challenges to the Securities
+Lending Rule. They contend that (A) the Rule is unlawful because it
+exceeded the scope of the Commission’s statutory authority and (B) the
+Commission did not give the public adequate opportunity to comment. We
+disagree on both points.
+                                      A.
+       When reviewing a statute that “delegates discretionary authority to
+an agency, the role of the reviewing court under the APA is, as always, to
+independently interpret the statute and effectuate the will of Congress
+
+
+
+
+                                       7
+                                 No. 23-60626
+
+
+subject to constitutional limits.” Loper Bright Enters. v. Raimondo, 603 U.S.
+369, 395 (2024). “The court fulfills that role by recognizing constitutional
+delegations, ‘fixing the boundaries of the delegated authority,’ and ensuring
+the agency has engaged in ‘reasoned decisionmaking’ within those
+boundaries.” Id. (cleaned up). In matters of statutory interpretation, “[w]e
+begin, as always, with the text of the statute.” United States v. Palomares, 52
+F.4th 640, 642 (5th Cir. 2022), cert. denied, 144 S. Ct. 1092 (2024) (mem.).
+“If the statute is clear and unambiguous ‘that is the end of the matter, for the
+court, as well as the agency, must give effect to the unambiguously expressed
+intent of Congress.’” Bd. of Governors of Fed. Rsrv. Sys. v. Dimension Fin.
+CorPage, 474 U.S. 361, 368 (1986) (quoting Chevron U.S.A. Inc. v. Nat. Res.
+Def. Council, Inc., 467 U.S. 837, 842–43 (1984), overruled on other grounds by
+Loper Bright, 603 U.S. 369).
+       As discussed supra, the Commission adopted the Securities Lending
+Rule pursuant to Dodd-Frank § 984(b), which directs the Commission to
+promulgate rules “designed to increase the transparency of information
+available to brokers, dealers, and investors, with respect to the loan or
+borrowing of securities.” There is no question that “the statute authorize[s]
+the challenged agency action.” Loper Bright, 603 U.S. at 406. That is,
+§ 984(b) expressly directs the Commission to facilitate more transparency in
+securities lending—ostensibly what the Securities Lending Rule aims to do.
+Compare 15 U.S.C. § 78j note (delineating scope of rulemaking “to increase
+the transparency” of “the loan or borrowing of securities”), with Securities
+Lending Rule, 88 Fed. Reg. at 75644 (stating that the purpose of the Rule is
+to “increase the transparency and efficiency of the securities lending
+market”).
+       Petitioners counter that the Commission’s authority under § 984(b)
+is cabined by § 929X of Dodd-Frank, under which the Commission
+promulgated the Short Sale Rule:
+
+
+
+                                       8
+                                  No. 23-60626
+
+
+       The Commission shall prescribe rules providing for the public
+       disclosure of the name of the issuer and the title, class, CUSIP
+       number, aggregate amount of the number of short sales of each
+       security, and any additional information determined by the
+       Commission following the end of the reporting period. At a
+       minimum, such public disclosure shall occur every month.
+
+15 U.S.C. § 78m(f)(2).      Petitioners reason that this language not only
+prescribes reporting of short sale data but also dictates when and how
+securities loan disclosures must occur, i.e., only on an aggregate, monthly
+basis. Essentially, Petitioners’ construction of the two statutes hinges on a
+theory that securities loans are direct proxies for short sales, such that
+disclosures of the former are effectively disclosures of the latter. And
+because securities lending data reveal short sale data, Petitioners argue that
+§ 929X governs rulemaking as to both.
+       But for reasons discussed in detail infra, Petitioners’ theory that
+securities loan data are “direct proxies” for short sale data is faulty, at least
+to the extent that Petitioners assert the two data sets are equivalent. The
+Commission determined, with factual support in the record, that they are
+not—regardless of the overlap between them. That conclusion undermines
+the notion that § 984(b) and § 929X of Dodd-Frank must be read in tandem
+to demarcate the Commission’s rulemaking authority under either provision,
+or both.
+       Beyond that, Petitioners’ argument fails as a matter of statutory
+interpretation. First, their reading would largely render § 984(b) surplusage,
+contrary to “the will of Congress.” Loper Bright, 603 U.S. at 395. If § 929X
+controlled the Commission’s ability to regulate securities lending data, as
+synonymous with short sale data, § 984(b) would do little work of its own.
+Congress’s choice to address the regulation of securities lending and short
+sales via two separate statutes was deliberate, and we must treat it as a
+
+
+
+
+                                       9
+                                  No. 23-60626
+
+
+deliberate choice. See Univ. of Tex. Sw. Med. Ctr. v. Nassar, 570 U.S. 338, 353
+(2013) (“Just as Congress’[s] choice of words is presumed to be deliberate,
+so too are its structural choices.”). And there is no support in Dodd-Frank
+for engrafting the limitations of § 929X onto § 984(b). Cf. Gozlon-Peretz v.
+United States, 498 U.S. 395, 404 (1991) (“[W]here Congress includes
+particular language in one section of a statute but omits it in another section
+of the same Act, it is generally presumed that Congress acts intentionally and
+purposely in the disparate inclusion or exclusion.”) (alteration in original)
+(quoting Russello v. United States, 464 U.S. 16, 23 (1983)).          The two
+provisions are not adjacent in the law, and it is not otherwise apparent from
+text or context that they are interdependent. See Nat’l Ass’n of Priv. Fund
+Managers v. SEC, 103 F.4th 1097, 1111 (5th Cir. 2024) (“[T]he words of a
+statute must be read in their context and with a view to their place in the
+overall statutory scheme.” (quoting Roberts v. Sea-Land Servs., Inc., 566 U.S.
+93, 101 (2012))).
+       Simply put, Congress enacted two separate, and specific, delegations
+of rulemaking authority—one for securities lending, and one for short sales.
+In § 984(b), Congress directed the Commission to adopt rules “to increase
+the transparency of information” regarding securities lending. The
+Securities Lending Rule aims to accomplish that directive by requiring
+certain parties to securities loans to report the material terms of each covered
+transaction to FINRA, which will then make specified aggregated
+information publicly available.     See 17 C.F.R. § 240.10c-1a(a), (c), (g).
+Petitioners offer no support for the idea that Congress intended, sub silentio,
+to map the parameters it articulated for short sale disclosures in Dodd-Frank
+§ 929X onto its rulemaking directive in § 984(b) for securities loans.
+       And even if the limitations of § 929X applied to the Securities Lending
+Rule, the Commission did not exceed that statute in promulgating the Rule.
+Petitioners posit that § 929X’s proviso that “[a]t a minimum, such public
+
+
+
+                                      10
+                                   No. 23-60626
+
+
+disclosure shall occur every month,” 15 U.S.C. § 78m(f)(2), means securities
+loan information may not be disclosed daily, as the Rule requires. But § 929X
+expressly sets a minimum disclosure frequency, not a maximum.                Put
+differently, nothing in § 929X prevents the Commission from requiring
+disclosures more often than monthly, just as it did in the Securities Lending
+Rule. The statute plainly requires at least monthly reporting, and the daily
+reporting required by the Securities Lending Rule fits comfortably within that
+range.
+         Petitioners also attack the Securities Lending Rule as an improper
+departure from prior Commission determinations and practice. For support,
+they point to a 2014 Commission staff report that concluded that publication
+of real-time, transaction-by-transaction short sale data could harm price
+efficiency and reduce liquidity. See SEC, Short Sale Position and Transaction
+Reporting (June 5, 2014), https://www.sec.gov/files/short-sale-position-
+and-transaction-reporting0.pdf. Petitioners contend that the new Rule’s
+requirement of daily, transaction-by-transaction disclosure of securities
+lending data reversed the Commission’s prior stance with no explanation of
+why it disregarded its earlier findings. However, the 2014 staff report was
+explicit that “[t]he Commission ha[d] expressed no view regarding the
+analysis, findings, or conclusions contained herein.” Id. at cover. Moreover,
+the report did not consider “the details of securities lending programs” of
+the kind to be disclosed under the Securities Lending Rule. Id. at 5. Instead,
+it analyzed the effects of revealing a short seller’s identity in real time,
+something the Securities Lending Rule does not purport to do. See id. at 72,
+80, 83. Thus, Petitioners fail to show a departure from prior practice, or even
+that the Rule and the 2014 staff report are at variance.
+         At the end of the inquiry, the Securities Lending Rule falls well within
+the rulemaking authority granted the Commission by Dodd-Frank § 984(b)
+“to increase the transparency . . . [of] the loan or borrowing of securities.”
+
+
+
+                                        11
+                                 No. 23-60626
+
+
+Nothing in the text or structure of Dodd-Frank suggests that § 929X
+impinges upon that authority.      The Commission thus acted within its
+statutory bounds in adopting the Rule, and Petitioners’ contention to the
+contrary lacks merit.
+                                      B.
+       In the initial draft of the Securities Lending Rule, all reportable data
+were required to be reported within fifteen minutes of a covered transaction.
+Proposed Securities Lending Rule, 86 Fed. Reg. at 69851–52. The final Rule
+adjusted the reporting timeline to the end of the day, with publication set for
+the following business day for most data, and twenty business days later for
+loan size information. Securities Lending Rule, 88 Fed. Reg. at 75665, 75690,
+75709–10. Petitioners question the adequacy of the public comment period
+as to the final Rule’s twenty-day delay for release of loan size data, arguing
+that the Commission should have provided new opportunity for public
+comment on the adjusted reporting timeframe. The Commission counters
+that the twenty-day delay was a logical outgrowth of the proposed Rule,
+which itself carried ample opportunity for meaningful public comment.
+       The APA requires an agency to provide notice and an opportunity for
+interested persons to participate in a rulemaking. Huawei Techs. USA, Inc. v.
+FCC, 2 F.4th 421, 447 (5th Cir. 2021) (citing 5 U.S.C. § 553(c)). Notice of a
+final rule is sufficient if the final version is a “logical outgrowth” of the
+proposed rule. Id. (quoting Nat’l Lifeline Ass’n v. FCC, 921 F.3d 1102, 1115
+(D.C. Cir. 2019)). Notice and request for comment must “adequately frame
+the subjects for discussion” such that “the affected party ‘should have
+anticipated’ the agency’s final course in light of the initial notice.” Id.
+(quoting Nat’l Lifeline Ass’n, 921 F.3d at 1115). “The agency [is] not
+required to specifically identify every precise proposal which the agency
+might ultimately adopt, and it permissibly implement[s] changes in the final
+
+
+
+
+                                      12
+                                 No. 23-60626
+
+
+rule instigated by . . . comments during the rulemaking.” Id. at 448 (internal
+quotation marks omitted) (quoting Chem. Mfrs. Ass’n v. EPA, 870 F.2d 177,
+203 (5th Cir. 1989)).
+        Here, the Commission “sought comment on the ultimate subject” at
+issue, id., as it solicited comments about the effects and timing of reporting
+and publication of securities lending data when it proposed the Securities
+Lending Rule. See Proposed Securities Lending Rule, 86 Fed. Reg. at 69813
+(expressly asking for commenters’ input as to the timing of data reporting
+and publication). The Commission also “apprised interested parties of the
+related issues under consideration by offering” alternative publication and
+reporting proposals and inviting interested parties to suggest others. See
+Huawei, 2 F.4th at 448. Indeed, many commenters to the proposed Rule
+expressed concern that publicizing transaction-level securities loan data on a
+fifteen-minute timeline would reveal short sale trading strategies and
+suggested alternative timelines, such as on a weekly basis. E.g., Alternative
+Investment Management Association, Comment Letter on Proposed
+Securities Lending Rule, 4–5, 5–6 n.12 (Jan. 7, 2022) (commenting that
+loan-level data should not be made public on intra-day basis); Investment
+Company Institute, Comment Letter on Proposed Securities Lending Rule,
+11 (Jan. 7, 2022) (same). Far from depriving the public of meaningful
+opportunity for comment, the record shows that the Commission considered
+the public’s input and responded by adopting an end-of-day, rather than a
+fifteen-minute, reporting interval, and by delaying the publication of loan size
+information by twenty business days. Securities Lending Rule, 88 Fed. Reg.
+at 75684, 75660. Given this record, the Commission did “all the APA
+demands.” Huawei, 2 F.4th at 448 (quoting Chem. Mfrs. Ass’n, 870 F.2d at
+203).
+
+
+
+
+                                       13
+                                 No. 23-60626
+
+
+                                    IV.
+       Petitioners similarly challenge the Short Sale Rule as unlawful.
+Specifically, they contend that (A) the Commission did not reasonably
+explain why it did not use a less burdensome alternative to its EDGAR
+reporting system and (B) the Short Sale Rule has impermissible
+extraterritorial application. We again disagree.
+                                     A.
+       Petitioners first contend that the Commission failed to explain why it
+did not pursue a less burdensome reporting alternative for compliance with
+the Short Sale Rule, namely, FINRA’s existing disclosure infrastructure,
+which the Securities Lending Rule utilizes. Petitioners assert that because
+FINRA already collects and publishes much of the information that the
+Short Sale Rule requires to be disclosed, using FINRA’s system would be
+less burdensome than creating an entirely new reporting regime through the
+Commission’s EDGAR system. Under arbitrary-and-capricious review, the
+Commission must show that it “reasonably considered the relevant issues
+and reasonably explained the decision.” FCC v. Prometheus Radio Project, 592
+U.S. 414, 423 (2021) (citing authority). “That requires the agency to
+consider all relevant factors raised by the public comments and provide a
+response to significant points within.” Chamber of Com. of U.S. v. SEC
+(Chamber of Com. (Fifth Circuit)), 85 F.4th 760, 774 (5th Cir. 2023) (citing
+Huawei, 2 F.4th at 449). “Comments the agency must respond to include
+those that can be thought to challenge a fundamental premise underlying the
+proposed agency decision or include points that if true and adopted would
+require a change in an agency’s proposed rule.” Id. (cleaned up).
+       Petitioners offer a host of reasons why the Rule’s utilization of
+EDGAR is flawed and why FINRA’s reporting system is preferable. But
+their assertion that the Commission did not consider using FINRA’s system
+
+
+
+
+                                      14
+                                 No. 23-60626
+
+
+or explain its decision to use EDGAR instead falters against the record. The
+Commission discussed FINRA’s system multiple times in the final Short
+Sale Rule. In the end, the agency emphasized that FINRA’s system is only
+applicable to some users subject to the Rule, such that it would not facilitate
+the level of transparency that EDGAR would provide. E.g., Short Sale Rule,
+88 Fed. Reg. at 75105, 75148 n.493, 75176.
+       Further, responding to public comments that EDGAR poses
+increased cybersecurity risks, the Commission stated that the likelihood of a
+breach was low because the agency “recently deployed security and
+modernization enhancements focusing on technology upgrades to the
+EDGAR system.” Id. at 75172. Thus, the Commission “examine[d] the
+relevant data and articulate[d] a satisfactory explanation for its action
+including a ‘rational connection between the facts found and the choice
+made,’” which is all that is required to hurdle arbitrary-and-capricious
+review. State Farm, 463 U.S. at 43 (quoting Burlington Truck Lines, 371 U.S.
+at 168). Even if Petitioners are correct that FINRA’s is the better system,
+that answers the wrong question. The APA only requires the Commission
+to show that it “reasonably considered the relevant issues and reasonably
+explained [its] decision,” Prometheus Radio Project, 592 U.S. at 423, and
+addressed “all relevant factors raised by the public comments
+and . . . significant points within,” Chamber of Com. (Fifth Circuit), 85 F.4th
+at 774 (citing Huawei, 2 F.4th at 449). It did so here, and Petitioners’
+challenge on this point fails.
+                                      B.
+       Petitioners also raise the Short Sale Rule’s purported extraterritorial
+effects, contending that the Rule impermissibly reaches foreign securities
+transactions. For support, they point to the Rule’s language:
+
+
+
+
+                                      15
+                                      No. 23-60626
+
+
+        The Commission understands [the Short Sale Rule], by its
+        terms, to apply to any institutional investment manager already
+        subject to U.S. reporting requirements. This indicates that the
+        relevant domestic conduct under [the Rule’s] section 13(f)(2)
+        is being an institutional investment manager operating in the
+        U.S. securities markets such that the investment manager is
+        subject to filing reports with the Commission. Thus, when that
+        relevant domestic conduct is present here in the United States,
+        [the Short Sale Rule’s] regulatory reporting obligation will
+        generally apply.
+
+Short Sale Rule, 88 Fed. Reg. at 75109; see 17 C.F.R. § 240.13f-2.
+        Petitioners take this language to mean that “once a manager must
+comply with unspecified ‘U.S. reporting requirements’ for any aspect of its
+operations, the Rule requires that manager to report . . . all of its short-sale
+activity around the globe, regardless of where the trades occur or what
+securities are involved.” They point to the Rule’s reporting requirements,
+which extend to “all accounts over which the [reporting entity] has
+investment discretion that meet or exceed a quantitative reporting
+threshold.” Short Sale Rule, 88 Fed. Reg. at 75105 (footnote omitted).
+Petitioners argue these provisions require a global reporting system, such that
+“any non-U.S. manager, because of any services it may provide to some small
+number of U.S. clients, is required to file any reports with the Commission.”
+        However, viewing the Short Sale Rule in full disproves Petitioners’
+argument. The proposed version of the Rule only aimed to apply to “equity
+securities consistent with the Commission’s [existing] short sale regulations
+(i.e., Regulation SHO[6]),” which do not reach securities traded outside of
+
+
+_____________________
+        6
+         SEC Regulation SHO, 17 C.F.R. §§ 242.200–.204. Regulation SHO was
+promulgated, inter alia, to “[e]stablish uniform locate and delivery requirements in order
+
+
+
+
+                                           16
+                                   No. 23-60626
+
+
+the United States. Proposed Short Sale Rule, 87 Fed. Reg. at 14965–66
+(italics omitted); see also Short Sales, 69 Fed. Reg. 48008, 48014 n.54 (Aug.
+6, 2004) (“Any broker-dealer using the United States jurisdictional means to
+effect short sales in securities traded in the United States would be subject to
+Regulation SHO . . . .”).      The final Rule adopted the same, domestic,
+parameters. Short Sale Rule, 88 Fed. Reg. at 75109 (“[T]he Commission is
+adopting Rule 13f-2 and Form SHO to help enhance transparency regarding
+short selling in equity securities—including both exchange-listed and over-
+the-counter securities, and ETFs—that are already subject to Regulation
+SHO.”). Nothing in either the proposed or final versions of the Rule suggest
+any contrary extraterritorial reach.
+       Because the Short Sale Rule, by its terms, is cabined to cover only
+equity securities “already subject to Regulation SHO” and because
+Regulation SHO solely applies to equity securities traded in the United
+States, it follows that the Short Sale Rule does not carry any improper
+extraterritorial application. Short Sale Rule, 88 Fed. Reg. at 75100, 75109.
+Petitioners’ argument thus lacks merit.
+                                        V.
+       Petitioners also lodge a challenge to the Rules in tandem, arguing that
+their near-simultaneous adoption is arbitrary and capricious. Petitioners
+assert that because the Rules are highly interrelated, the Commission was
+required to consider more fully their interplay when promulgating them.
+They contend that the Commission (A) did not adequately justify the Rules’
+contradictory approaches to disclosure reporting and (B) failed to assess the
+cumulative economic impact of the Rules, in violation of the APA and the
+
+_____________________
+to address potentially abusive naked short selling and other problems associated with
+failures to deliver.” Short Sales, 69 Fed. Reg. 48008, 48028 (Aug. 6, 2004).
+
+
+
+
+                                         17
+                                 No. 23-60626
+
+
+Exchange Act. In these respects, Petitioners assert that the Commission
+“entirely failed to consider an important aspect of the problem[s]” the Rules
+aim to ameliorate. State Farm, 463 U.S. at 43; see also Bus. Roundtable, 647
+F.3d at 1148. Petitioners’ first contention falters against the administrative
+record, but their second has merit.
+                                      A.
+       Petitioners premise their first argument on the notion that, due to the
+high correlation between short sales and securities lending, the Rules
+effectively treat the same data inconsistently. They posit that securities
+lending data and short sale information are essentially two sides of the same
+coin—so much so that they are direct proxies for each other—such that the
+Securities Lending Rule mandates disclosure of the very information that the
+Short Sale Rule ostensibly protects. From this premise, Petitioners argue
+that the Rules are inherently at cross purposes and, therefore, are arbitrary
+and capricious.
+       If Petitioners were correct that lending and short sale data are in fact
+proxies for each other, then the Rules would somewhat function as a
+regulatory pushmi-pullyu, with one Rule materially undermining the other.
+But Petitioners’ premise is faulty, even granting some tension between the
+Rules. Certainly, the Rules espouse divergent approaches in their respective
+disclosure regimes. The Short Sale Rule eschews immediate, individualized
+reporting of covered transactions; as the Commission explained, “the
+anticipated benefit of enhanced transparency” from individualized
+transaction-by-transaction data would “not justify the costs,” including the
+“potential to reveal a reporting [institutional investment manager]’s trading
+strategies.” Short Sale Rule, 88 Fed. Reg. at 75132–33. Yet the Securities
+Lending Rule requires almost immediate reporting of individualized, trade-
+by-trade data (except for loan size, which is published after twenty business
+
+
+
+
+                                      18
+                                 No. 23-60626
+
+
+days). The Commission acknowledged that aggregate loan data would
+“reduce the risk of exposing short selling strategies,” but concluded that
+aggregate data “would not provide the same transparency benefits.”
+Securities Lending Rule, 88 Fed. Reg. at 75726, 75132.
+       To be sure, lending and short sale data are correlated, inevitably giving
+rise to significant interplay between the Rules. The Commission itself
+conceded as much, as evidenced by its reopening the comment period for the
+Securities Lending Rule when it proposed the Short Sale Rule, “so that
+commenters may consider whether there would be any effects of [the
+Proposed Short Sale Rule] that the Commission should consider in
+connection with [the Proposed Securities Lending Rule].” Reopening of
+Comment Period for Reporting of Sec. Loans, 87 Fed. Reg. at 11659. And
+throughout the rulemaking process, the Commission expressly noted that the
+two sets of data significantly overlap: “A primary reason for borrowing
+equity shares is to facilitate a short sale.” Proposed Securities Lending Rule,
+86 Fed. Reg. at 69831; see also Securities Lending Rule, 88 Fed. Reg. at 75696
+(“[T]he majority of equity securities lending, particularly in the Customer
+market, occurs to facilitate short selling.”). The Commission explained that
+a major reason for this overlap is that “[i]nvestors’ ability to use securities
+loans for purposes other than short selling is limited by the ‘permitted
+purpose requirement’ of . . . the Federal Reserve System’s Regulation T.”
+Securities Lending Rule, 88 Fed. Reg. at 75696. That regulation allows
+broker-dealers to “borrow or lend U.S. securities from or to” non-broker-
+dealers “solely ‘for the purpose of making delivery of the securities in the
+case of short sales, failure to receive securities required to be delivered, or
+other similar situations,’ unless an exemption applies.” Id. (quoting 12
+C.F.R. § 220.10); see also id. (acknowledging that “[t]his limitation results in
+a close correlation between information about aggregate Customer loan sizes
+and short interest”).
+
+
+
+
+                                       19
+                                 No. 23-60626
+
+
+       Nonetheless, Petitioners’ argument misses the mark because the data
+required to be reported under each Rule are distinct, even if there is a “close
+correlation” between the two sets of information. In other words, the
+securities lending data and short sale data covered by the Rules are not direct
+proxies for each other. While short selling may be the “primary reason” for
+securities loans, it is not the only reason. Loans are also used to hedge, close
+positions, and obtain collateral. Id. Thus, at least some disclosures made
+under the Securities Lending Rule would signify that parties to a loan may
+have closed or hedged a position, rather than sold short—shielding some of
+the data protected under the Short Sale Rule.
+       Regardless, the Commission grappled—adequately, for purposes of
+arbitrary-and-capricious review—with the data’s related nature. That is the
+gravamen of our review: The APA only requires an agency to “examine the
+relevant data and articulate a satisfactory explanation for its action including
+a rational connection between the facts found and the choice made.”
+Chamber of Com. (Fifth Circuit), 85 F.4th at 768 (cleaned up) (quoting State
+Farm, 463 U.S. at 43). The Commission did that here, recurrently discussing
+the Securities Lending Rule’s potential impact on short selling and
+explaining the agency’s choices between transparency and protection of
+proprietary short sale strategies and information.
+       For    example,     the    Commission         expressly   justified   the
+transaction-by-transaction reporting required by the Securities Lending
+Rule, acknowledging the potential that such reporting “could increase the
+risk of revealing short sale strategies.” Securities Lending Rule, 88 Fed. Reg.
+at 75684. The final Rule provides that “certain data elements will be made
+publicly available on a transaction-by-transaction basis and aggregate
+transaction activity and distribution of loan rates[] will also be made publicly
+available in an aggregated format for each reportable security.” Id. In
+striking this attempted balance, the Commission articulated that “aggregate
+
+
+
+                                      20
+                                 No. 23-60626
+
+
+transaction activity”—as added to the final Rule—“refers to information
+pertaining to the absolute value of transactions such that net position changes
+should not be discernable in the data.” Id. By adopting this change, the
+Commission “intended to help ensure that only aggregate information about
+net positions changes, rather than individualized information, is provided to
+the public.” Id. That addition “respond[ed] to commenters’ concerns about
+the potential exposure of proprietary information, while still providing
+volume transparency to market participants.” Id.; see also id. at 75678 n.506
+(“The addition of the term ‘aggregate transaction activity’ in the final [R]ule
+limits the possibility of publishing proprietary information while still
+providing volume transparency to market participants.”).
+       The Commission also determined that loan size information “is the
+portion of the data most directly related to short selling activity.” Id. at
+75710–11. Cognizant that loan size information in the customer market is the
+same as the size of a short position, see id. at 75705, the Commission delayed
+publication of transaction-by-transaction loan size data by twenty business
+days, id. at 75660. The final Rule explains that this change, coupled with the
+addition of “aggregate transaction activity,” “should help reduce the
+potential to anticipate and reverse engineer the trading of competitors.” Id.
+Publication of loan-size modifications was also delayed by twenty business
+days. See Securities Lending Rule, 17 C.F.R. § 240.10c-1a(g)(3)(ii).
+       Finally, the Commission contemplated that even though delayed loan-
+size data could provide some modicum of novel information about short
+sellers’ strategies, “it is not clear that such an analysis, which would be
+inherently noisy, would provide actionable insights into future short selling
+activity that could harm short sellers’ abilities to profit from negative
+information.”    Securities Lending Rule, 88 Fed. Reg. at 75711.          The
+Commission emphasized that delayed disclosure “significantly reduce[s] the
+novelty of the information disseminated under the final [R]ule regarding
+
+
+
+                                      21
+                                  No. 23-60626
+
+
+short sellers’ positions, such that it is less timely than pre-existing sources of
+short selling transparency.” Id. at 75665. 7
+       On the record before us, the Commission “reasonably considered the
+relevant issues and reasonably explained the decision[s]” embodied in the
+final Rules regarding the interplay of the Rules’ disclosure regimes.
+Prometheus Radio Project, 592 U.S. at 423. The data required to be reported
+pursuant to the Rules are not direct proxies for each other; regardless, though
+Petitioners disagree with the Commission’s approach, the agency
+“consider[ed] all relevant factors raised by the public comments and
+provide[d] a response to significant points” raised therein. Chamber of Com.
+(Fifth Circuit), 85 F.4th at 774 (citing Huawei, 2 F.4th at 449).
+                                       B.
+       Petitioners last argue that the Commission failed fully to assess the
+economic impact of the two Rules, as required by the APA and the Exchange
+Act. In addition to the more-generally applicable constraints on agency
+action contained in the APA, the Exchange Act requires the Commission to
+“consider or determine whether an action is necessary or appropriate in the
+public interest” and “whether the action will promote efficiency,
+competition, and capital formation.” 15 U.S.C. § 78c(f). Inter alia, that
+statutory obligation mandates the Commission to “determine as best it can
+the economic implications of the rule it has proposed.” Chamber of Com.
+(D.C. Circuit), 412 F.3d at 143. The question in today’s case is whether the
+Commission was required to consider the Rules’ collective economic impact.
+Given the Rules’ significant interplay and their nearly concurrent
+promulgation, the agency should have done so. Because it did not, we agree
+
+_____________________
+       7
+         For example, FINRA Rule 4560 requires FINRA member firms to report their
+short positions in all equity securities to FINRA twice a month.
+
+
+
+
+                                       22
+                                 No. 23-60626
+
+
+with Petitioners that the Commission “failed to consider an important aspect
+of the problem,” State Farm, 463 U.S. at 43, such that remand is required.
+       Under the Commission’s “long-standing practice,” the required
+“economic analysis in each adopting release considers the incremental
+benefits and costs for the specific rule—that is, the benefits and costs
+stemming from that rule compared to the baseline.” Securities Lending
+Rule, 88 Fed. Reg. at 75719. That baseline is used to gauge a proposed rule’s
+“potential costs and benefits including effects on efficiency, competition,
+and capital formation” and is “the best assessment of how the world would
+look in the absence of the proposed action.” Id. at 75694 n.724. The baseline
+includes “existing regulatory requirements, including recently adopted
+rules.” Id. at 75694.
+       As discussed above, the Commission enacted the Securities Lending
+Rule and Short Sale Rule on the same day, with the former finalized
+according to Petitioners “mere minutes” before the latter. The Commission
+discussed the first-adopted Securities Lending Rule in the economic impact
+analysis of the later-adopted Short Sale Rule, but not vice versa. In the
+Commission’s telling, it did not need to account for the Short Sale Rule in
+the Securities Lending Rule’s economic baseline because the Short Sale Rule
+“remain[ed] at the proposal stage.” Id. at 75695. The Commission reasons
+that “[t]he best assessment of how the world would look in the absence of the
+proposed or final action typically does not include recently proposed actions,
+because that would improperly assume the adoption of those proposed
+actions.” Id. at 75694 n.724. Instead, the rulemaking baseline should
+“reflect the regulatory landscape that is current at that time.” Id. at 75695.
+       All true enough as a general matter. But here, in the context of highly
+interrelated Rules enacted contemporaneously during the same open
+meeting, the Commission’s approach was a short-cutting fiction that does
+
+
+
+
+                                      23
+                                 No. 23-60626
+
+
+not survive scrutiny. In reality, the Short Sale Rule only “remain[ed] at the
+proposal stage” for an hour or so after the Securities Lending Rule was
+adopted, and the agency clearly planned to adopt the Rules together. SEC,
+2023 10 13 Open Meeting, at 1:08:20, 2:23:08 (YouTube Oct. 13, 2023),
+www.youtube.com/watch?v=NVRu8eBHkGo (Securities Lending Rule
+adopted at timestamp 1:08:20, and Short Sale Rule adopted at timestamp
+2:23:08). Given the close temporal proximity of the Rules’ adoption and
+their interrelatedness, the Commission was thus not free to ignore the
+economic impact of the Short Sale Rule upon the Securities Lending Rule;
+the agency needed to consider the Rules’ collective economic effects. See
+Chamber of Com. (D.C. Circuit), 412 F.3d at 143.
+       The Commission contends that it would amount to improper
+“double-counting” to factor the Rules into each other’s baselines. But that
+contention presupposes that the earlier-adopted regulation’s effects on the
+later-adopted regulation are the same as the reverse. This is not inherently
+true. Indeed, the Commission argues mightily that the data required to be
+disclosed under each Rule are not 1:1 proxies for each other, but are distinct,
+if overlapping, sets of information. See supra Part V.A. And the two Rules
+affect different parties, such that the Short Sale Rule’s effects on those
+governed by the Securities Lending Rule will not equate with the Securities
+Lending Rule’s effects on those regulated by the Short Sale Rule. Compare
+Short Sale Rule, 88 Fed. Reg. at 75102 (stating the Rule will apply to
+“institutional investment managers”), with Securities Lending Rule, 88 Fed.
+Reg. at 75650–51 (stating the Rule will apply to intermediaries, lenders, and
+broker or dealers). Thus, the Commission’s opting to perform a more
+comprehensive analysis for only the later-adopted Rule “is nothing more
+than a determination that [the Commission] would not address the problem
+unless it happened to appear at an inconvenient time—an eventuality over
+
+
+
+
+                                      24
+                                 No. 23-60626
+
+
+which [the Commission] had full control.” Portland Cement Ass’n v. EPA,
+665 F.3d 177, 187 (D.C. Cir. 2011) (per curiam).
+       And the Commission’s logic is irredeemably illogical: The agency’s
+principal justification—that it was not required to factor the Short Sale
+Rule’s impacts into the economic analysis of the Securities Lending Rule
+because the Short Sale Rule was merely proposed—applies just as well to the
+pending Securities Lending Rule. In other words, both Rules were only
+proposals when the Commission drafted the Short Sale Rule and slated it for
+adoption.    Because the Commission sequentially adopted the two
+overlapping Rules during the same meeting, it was not free to pick one and
+treat it as “adopted” while discounting the other as just an ephemeral
+“proposed rule” to sidestep considering the combined economic impact of
+the two. See id. 665 F.3d at 187 (“It is not absurd to require that an agency’s
+right hand take account of what its left hand is doing.”). Doing so amounted
+to regulatory sleight of hand that neither the APA nor the Exchange Act
+countenances. See id. at 187 (“[A]n agency must have a similar obligation to
+acknowledge and account for a changed regulatory posture the agency
+creates—especially when the change impacts a contemporaneous and closely
+related rulemaking.”); cf. Off. of Commc’n of United Church of Christ v. FCC,
+707 F.2d 1413, 1441–42 (D.C. Cir. 1983) (finding it “beyond belief” that an
+agency would take rulemaking action undercutting another “concurrent”
+rulemaking process).
+       The Commission’s short-cut approach is belied by its own procedural
+history in promulgating the Rules. The Commission reopened the comment
+period for the proposed Securities Lending Rule when it proposed the Short
+Sale Rule, acknowledging the interplay between the Rules, i.e., that the latter
+Rule impacted the former (and vice-versa). Reopening of Comment Period
+for Reporting of Sec. Loans, 87 Fed. Reg. at 11659 (“[C]ommenters may
+consider whether there would be any effects of [the Proposed Short Sale
+
+
+
+                                      25
+                                   No. 23-60626
+
+
+Rule] that the Commission should consider in connection with [the Proposed
+Securities Lending Rule].”). Comments to both Rules demonstrated the
+same, as did the Commission’s explanations and revisions in response to the
+comments. E.g., Managed Funds Association and National Association of
+Private Fund Managers, Comment Letter on the Proposed Rules (July 21,
+2023) (commenting that “it is critical that the Commission consider the
+aggregate costs and benefits of its rulemakings on advisers, investors, and the
+markets, as well as how each rule may intersect or impact other rules”); Short
+Sale Rule, 88 Fed. Reg. at 75162 (stating that Short Sale Rule data for open
+positions “could be combined with FINRA short interest and [Securities
+Lending Rule] data to estimate the proportion of short positions held by large
+short sellers”). Basically, the two Rules traveled through the rulemaking
+process together and then were adopted during the same meeting. Given the
+Commission’s failure to account for the Short Sale Rule in the Securities
+Lending Rule’s economic baseline, the Commission failed to “examine the
+relevant data and articulate a satisfactory explanation for its action,” State
+Farm, 463 U.S. at 43, and further “fail[ed] to apprise . . . the public . . . of the
+economic consequences of [the] proposed regulation[s],” Bus. Roundtable,
+647 F.3d at 1148 (internal quotation marks omitted).
+        Putting each of the Rules into silos also goes against the Commission’s
+prior practice. The agency has often treated related rules as adopted
+concurrently and factored them into each other’s economic analysis. E.g.,
+Investment Company Reporting Modernization (Modernization Rule), 81
+Fed. Reg. 81870 (Nov. 18, 2016); Investment Company Liquidity Risk
+Management Programs (Liquidity Rule), 81 Fed. Reg. 82142 (Nov. 18, 2016).
+For instance, in 2019, the Commission adopted its Regulation Best Interest
+and Form CRS during the same open meeting. SEC Open Meeting Agenda
+(June        5,       2019),        https://www.sec.gov/news/openmeetings
+/2019/agenda060519.htm; see Regulation Best Interest: The Broker-Dealer
+
+
+
+
+                                        26
+                                  No. 23-60626
+
+
+Standard of Conduct (Regulation Best Interest), 84 Fed. Reg. 33318 (July 12,
+2019); Form CRS Relationship Summary; Amendments to Form ADV
+(Form CRS), 84 Fed. Reg. 33492 (July 12, 2019). In the final Regulation Best
+Interest’s economic analysis, the Commission addressed the joint “costs of
+Regulation Best Interest and Form CRS,” 84 Fed. Reg. at 33437, and in the
+final Form CRS’s economic analysis, the Commission explained why it
+adopted a different definition of a similar term in Regulation Best Interest, 84
+Fed. Reg. at 33593. The rules’ benefits and costs resulting from their
+interplay were frequently discussed throughout their respective economic
+analyses as well. See, e.g., Regulation Best Interest, 84 Fed. Reg. at 33437;
+Form CRS, 84 Fed. Reg. at 33568, 33577 n.1004, 33578, 33597; see also
+Modernization Rule, 81 Fed. Reg. at 81985 (discussing concurrently adopted
+Liquidity Rule); Liquidity Rule, 81 Fed. Reg. at 33593 (in turn discussing
+Modernization Rule).
+       As discussed above, the Short Sale Rule was not just “recently
+proposed” by the time the Securities Lending Rule was slated for adoption.
+It was proposed on February 25, 2022, more than a year and a half before it
+was adopted on October 13, 2023, the same day as the Securities Lending
+Rule. Thus, the general principle that a rule’s economic baseline should not
+include recently proposed rules because they may never be adopted simply
+does not hold in this case. If anything, the record demonstrates that the two
+Rules were to be adopted concurrently all along. E.g., Short Sale Rule, 88
+Fed. Reg. at 75148, 75155–56, 75162; see also Reopening of Comment Period
+for Reporting of Sec. Loans, 87 Fed. Reg. at 11659 (reopening comment
+period “so that commenters may consider whether there would be any
+effects of [the Short Sale Rule] . . . in connection with [the Securities Lending
+Rule]”). This comports with the Commission’s approach in analogous
+situations. See, e.g., Modernization Rule, 81 Fed. Reg. at 81872 n.11. And
+commenters expressly requested that the Commission consider the interplay
+
+
+
+
+                                       27
+                                No. 23-60626
+
+
+between the Rules. E.g., Managed Funds Association, Comment Letter on
+Proposed Short Sale Rule, R. Doc. 63-2 at pp. 260–70 (June 15, 2023);
+Managed Funds Association and National Association of Private Fund
+Managers, Comment Letter on the Proposed Rules, R. Doc. 63-2 at pp. 272–
+307 (July 21, 2023); Alternative Investment Management Association,
+Comment Letter on Proposed Short Sale Rule, R. Doc. 63-2 at pp. 173–88
+(Apr. 26, 2022); Investment Company Institute, Comment Letter on
+Proposed Rules, R. Doc. 63-1 at pp. 339–51 (Aug. 17, 2023); Managed Funds
+Association, Comment Letter on Securities Lending Rule, R. Doc. 63-1 at pp.
+275–80 (Apr. 1, 2022); Alternative Investment Management Association,
+Comment Letter on Proposed Rules, R. Doc. 63-1 at pp. 264–67 (Apr. 1,
+2022).
+         The Commission’s omission of any discussion synergizing the
+collective economic impact of the Rules in the Securities Lending Rule, based
+on these comments or otherwise, contravenes the bedrock principle that
+“[a]n agency must consider and respond to significant comments received,”
+Perez v. Mortg. Bankers Ass’n, 575 U.S. 92, 96 (2015), and shows that the
+Commission “failed to consider an important aspect of the problem,” State
+Farm, 463 U.S. at 43; accord Bus. Roundtable, 647 F.3d at 1148. Nor may the
+Commission sidestep an appraisal of the cumulative impact of the Rules by
+arguing that the Rules’ interplay is adequately captured in the economic
+baseline of the later-adopted Short Sale Rule. Regardless of whether the
+Short Sale Rule gave a nod to the “potential economic effects arising from
+any overlap between the compliance period for the final amendments and
+[the Securities Lending Rule],” Short Sale Rule, 88 Fed. Reg. at 75149, the
+failure of the Securities Lending Rule to factor in the Short Sale Rule still
+causes the tandem Rules to be insufficiently explained, such that the
+Commission failed to justify the regulations under the APA and the
+Exchange Act.
+
+
+
+
+                                     28
+                                 No. 23-60626
+
+
+       We hasten to emphasize the limited nature of our holding: We express
+no general view on when or how cumulative economic impact analyses
+should be conducted in other cases involving multiple proposed rules with
+potentially overlapping economic implications. To the contrary, we accept
+arguendo that in the mine’s run of cases, a rule’s economic baseline need not
+include subsequently proposed rules because such draft regulations may
+never be adopted. But in this case, the Commission erred by failing to
+consider the economic impact the Short Sale Rule would have on the
+Securities Lending Rule when the Rules were promulgated in tandem and
+were adopted concurrently.
+       “Remand without vacatur of the agency action is ‘generally
+appropriate when there is at least a serious possibility that the agency will be
+able to substantiate its decision given an opportunity to do so.’” Texas v.
+United States, 50 F.4th 498, 529 (5th Cir. 2022) (quoting Tex. Ass’n of Mfrs.
+v. U.S. Consumer Prod. Safety Comm’n, 989 F.3d 368, 389–90 (5th Cir.
+2021)). As that appears to be the case here, remand of both Rules is
+warranted to allow the Commission to analyze their cumulative economic
+impact and responding to further comments in view of that analysis.
+                                     VI.
+       For the foregoing reasons, we GRANT the petition for review in part
+and REMAND the Securities Lending Rule and the Short Sale Rule to the
+Commission to allow the agency to consider and quantify the cumulative
+economic impact of the Rules, consistent with this opinion. See Chamber of
+Com. (Fifth Circuit), 85 F.4th at 780. We otherwise DENY the petition for
+review.
+
+
+
+
+                                      29
+

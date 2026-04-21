@@ -1,0 +1,1104 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued March 24, 2022                   Decided July 5, 2022
+
+                        No. 21-1167
+
+         THE NASDAQ STOCK MARKET LLC, ET AL.,
+                     PETITIONERS
+
+                             v.
+
+         SECURITIES AND EXCHANGE COMMISSION,
+                      RESPONDENT
+
+
+
+            Consolidated with 21-1168, 21-1169
+
+
+            On Petitions for Review of an Order
+        of the Securities and Exchange Commission
+
+
+
+    Thomas G. Hungar argued the cause for petitioners. With
+him on the briefs were Paul S. Mishkin, Amir C. Tayrani,
+Joshua M. Wesneski, Paul E. Greenwalt III, and Michael K.
+Molzberger. Matthew A. Kelley entered an appearance.
+
+     Tracey A. Hardin, Assistant General Counsel, Securities
+and Exchange Commission, argued the cause for respondent.
+With her on the brief were Dan M. Berkovitz, General Counsel,
+Michael A. Conley, Solicitor, and Emily True Parise, Senior
+Litigation Counsel.
+                              2
+     Robert A. Skinner and Douglas H. Hallward-Driemeier
+were on the brief for amicus curiae Investment Company
+Institute in support of respondent.
+
+   Before: HENDERSON and WILKINS, Circuit Judges, and
+SENTELLE, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge HENDERSON.
+
+     KAREN LECRAFT HENDERSON, Circuit Judge: The
+Securities Exchange Act of 1934 (Exchange Act), 15 U.S.C.
+§ 78a et seq., directs the Securities and Exchange Commission
+(Commission) to facilitate the establishment of a national
+market system (NMS), a key component of which is the public
+dissemination of market data regarding quotations for and
+transactions in equity securities. Equity market data is
+collected, consolidated and disseminated pursuant to NMS
+plans governed and operated by “self-regulatory
+organizations” (SROs), groups comprising, in large part, the
+major national securities exchanges for equity securities.
+Beginning in 2020, the Commission issued two orders aimed
+at consolidating the existing NMS plans governing the
+dissemination of equity market data into a single, consolidated
+plan (CT Plan) and modifying the governance structure to
+increase efficiencies, mitigate conflicts of interest among the
+securities exchanges and facilitate greater involvement by non-
+exchange stakeholders. See Order Directing the Exchanges and
+the Financial Industry Regulatory Authority To Submit a New
+National Market System Plan Regarding Consolidated Equity
+Market Data, 85 Fed. Reg. 28,702 (May 13, 2020) (Governance
+Order); Order Approving, as Modified, a National Market
+System Plan Regarding Consolidated Equity Market Data, 86
+Fed. Reg. 44,142 (Aug. 11, 2021) (CT Plan Order).
+                                3
+     A group of national securities exchanges associated with
+Nasdaq, Inc. (Nasdaq), the New York Stock Exchange (NYSE)
+and Cboe Global Markets (Cboe) (collectively, petitioners)
+challenge the Commission’s orders, arguing that several
+elements are arbitrary and capricious under the Administrative
+Procedure Act (APA), 5 U.S.C. § 551 et seq., or contrary to the
+text and goals of the Exchange Act. In particular, petitioners
+challenge three provisions of the final, Commission-approved
+CT Plan: (1) the inclusion of representatives of non-SROs as
+voting members of the CT Plan’s operating committee; (2) the
+grouping of SROs based on corporate affiliation for voting; and
+(3) the requirement that the administrator of the CT Plan be
+“independent,” meaning independent of any SRO that sells
+equity market data products.
+
+     As detailed infra, we grant petitioners’ three petitions as to
+the first challenged provision—non-SRO representation—and
+deny them in all other respects. Further, because the non-SRO-
+representation provision is not severable from the CT Plan
+Order, we vacate that Order in its entirety. We do, however,
+uphold in large part the Governance Order, which preceded the
+CT Plan Order and merely directed the SROs to propose an
+NMS plan that included the three challenged provisions.
+
+                        I. BACKGROUND
+
+                                A.
+
+     In 1975, the Congress sought to modernize regulation of
+the securities markets through the establishment of a national
+market system to “distribute market data economically and
+equally and to promote fair competition among all market
+participants,” NetCoalition v. SEC, 615 F.3d 525, 528 (D.C.
+Cir. 2010), superseded by statute as stated in NetCoalition v.
+SEC, 715 F.3d 342, 344 (D.C. Cir. 2013); see also Bradford
+Nat’l Clearing Corp. v. SEC, 590 F.2d 1085, 1091 (D.C. Cir.
+                                4
+1978) (citing “operational breakdowns and economic
+distortions” in securities markets as impetus for reforms
+(quoting H.R. Rep. No. 94-229, at 91 (1975))), and its efforts
+culminated in the Securities Acts Amendments of 1975, Pub.
+L. No. 94-29, 89 Stat. 97. The Securities Acts Amendments
+granted the Commission “broad, discretionary powers” to
+ensure “maximum flexibility” in “oversee[ing] the
+development of a national market system” and
+“implement[ing] its specific components in accordance with
+the findings and . . . objectives” of the legislation. See S. Rep.
+94-75, at 7 (1975); see also Bradford, 590 F.2d at 1091.
+
+      Of importance here, section 11A of the amended Exchange
+Act, Pub. L. No. 94-29, § 7, 89 Stat. 97, 111 (codified at 15
+U.S.C. § 78k-1), “direct[s]” the Commission to “facilitate the
+establishment of a national market system for securities . . . in
+accordance with the findings and to carry out the objectives set
+forth” in the section. 15 U.S.C. § 78k-1(a)(2). As to those
+statutory findings and objectives, the Congress concluded that
+“[i]t is in the public interest and appropriate for the protection
+of investors and the maintenance of fair and orderly markets to
+assure,” inter alia, “economically efficient execution of
+securities transactions,” “fair competition among” market
+participants and “the availability to brokers, dealers, and
+investors of information with respect to quotations for and
+transactions in securities.” Id. § 78k-1(a)(1)(C).
+
+     To this end, section 11A “authorize[s]” the Commission,
+“by rule or order, to authorize or require self-regulatory
+organizations”—a group currently comprised in large part of
+the various securities exchanges, including petitioners—“to act
+jointly with respect to matters as to which they share authority
+under [the Exchange Act] in planning, developing, operating,
+or regulating a national market system (or a subsystem thereof)
+or one or more facilities thereof.” Id. § 78k-1(a)(3)(B); see also
+                                 5
+id. § 78c(a)(26) (defining “self-regulatory organization”).
+Section 11A also creates a National Market Advisory Board—
+consisting of “persons associated with brokers and dealers
+(who shall be a majority) and persons not so associated who are
+representative of the public”—to advise the Commission on
+matters related to the national market system or its system of
+self-regulation by SROs. See id. § 78k-1(d). With respect to
+market data, section 11A authorizes the Commission to
+prescribe rules and regulations, “as necessary or appropriate”
+to carry out the Exchange Act’s purposes, to “assure the
+prompt, accurate, reliable, and fair collection, processing,
+distribution, and publication of information with respect to
+quotations for and transactions in . . . securities and the fairness
+and usefulness of the form and content of such information.”
+Id. § 78k-1(c)(1)(B).
+
+                                B.
+
+     At “the heart of the national market system” is the
+collection, consolidation and dissemination of securities
+market data from the various securities exchanges. H.R. Rep.
+No. 94-229, at 93 (1975); see also NetCoalition, 615 F.3d at
+529. In 2005, the Commission adopted Regulation NMS, 70
+Fed. Reg. 37,496 (June 29, 2005), in order to streamline and
+promote the availability of data regarding quotations for and
+transactions in securities. Before 2021, Regulation NMS
+required each securities exchange to report its “core” market
+data for its NMS-traded securities to one of two centralized
+securities information processors (SIPs), see 17 C.F.R.
+§§ 242.601, 242.602 (2020), which in turn consolidated and
+disseminated the core data to subscribers, including investors,
+broker-dealers and data vendors, see id. § 242.603(a)–(b). See
+NetCoalition, 615 F.3d at 529. Consolidated core data for an
+NMS-traded security consisted of (1) the price, size and venue
+of the last sale; (2) each exchange’s current highest bid and
+                                  6
+lowest offer; and (3) the highest bid and lowest offer currently
+available on any exchange. Id. Possessing this data, “investors
+of all types have access to a reliable source of information for
+the best prices in NMS stocks.” Regulation NMS, 70 Fed. Reg.
+at 37,503.1
+
+     At present, three SRO-administered NMS plans, known as
+the Equity Data Plans, govern the collection, consolidation and
+dissemination of core market data. Two plans, referred to by
+the Commission as the CTA and CQ Plans, cover Tape A, the
+consolidated data feed for securities listed on the NYSE, and
+Tape B, the data feed for securities listed on exchanges other
+than the NYSE and Nasdaq. The third plan, referred to as the
+UTP Plan, covers Tape C, the data feed for securities listed on
+Nasdaq. A NYSE affiliate serves as the SIP for Tapes A and B
+and Nasdaq is the SIP for Tape C. Subscribers to a particular
+data feed pay fees set according to the governing Equity Data
+Plan. Each Equity Data Plan is controlled by an operating
+committee, whose voting membership is limited to the SROs
+participating in the particular plan. Each plan also has an
+     1
+          Parallel to the Commission orders at issue here, the
+Commission proposed and approved a rule amending Regulation
+NMS’s “centralized consolidation model” for securities market data
+by expanding the definition of core market data and facilitating
+greater competition among data consolidators. See generally Market
+Data Infrastructure, 86 Fed. Reg. 18,596 (Apr. 9, 2021). We recently
+upheld the rule against challenges from these petitioners. See
+generally Nasdaq Stock Mkt. LLC v. SEC, 34 F.4th 1105 (2022).
+Although tangentially related to the petitions at issue here, the
+Market Data Infrastructure rule is not pertinent to their resolution;
+the Commission itself has iterated that with respect to the Market
+Data Infrastructure rule and the orders at issue here, “[n]either
+initiative depends on the other initiative being implemented before it
+may take effect.” Order Denying Stay, Exchange Act Release No.
+93,051, at 6 (Sept. 17, 2021), 2021 WL 4267323, at *7 (alteration in
+original and citation omitted).
+                              7
+administrator which, among other things, supervises the audit
+process for data subscriber usage and fee payments. The NYSE
+serves as administrator for the CTA and CQ Plans and Nasdaq
+serves as administrator for the UTP Plan.
+
+                              C.
+
+     Since the adoption of Regulation NMS, the Commission
+has observed two notable changes regarding the structure of the
+equity markets. First, although securities exchanges were once
+nonprofit entities mutually owned by their members—meaning
+those companies whose stock is traded on the exchange—they
+are now, generally speaking, demutualized and for-profit
+entities owned by shareholders that sell proprietary-data
+products. These proprietary-data products often contain
+exchange-specific data that goes beyond the best bid and best
+offer quotes contained in the core data feeds and are generally
+delivered much faster than the core data feeds, thereby
+resulting in what the Commission characterizes as a “two-
+tiered market-data environment.” Notice of Proposed Order
+Directing the Exchanges and the Financial Industry Regulatory
+Authority to Submit a New National Market System Plan
+Regarding Consolidated Equity Market Data, 85 Fed. Reg.
+2,164, 2,169 (Jan. 14, 2020) (Proposed Governance Order).
+Second, the emergence of “exchange groups”—multiple
+exchanges operating under the same corporate umbrella—has
+“consolidat[ed] much of the voting power and control of the
+Equity Data Plans” and resulted in uniform voting by blocs of
+four or five votes. Id. at 2,168. The Commission also observed
+that these exchange groups—which could command a majority
+of votes on the Equity Data Plans’ operating committees—are
+the “primary producers of exchange proprietary data products.”
+Id. at 2,175. The Commission concluded that the confluence of
+these two developments has created and exacerbated conflicts
+of interests between exchanges’ business interests and
+                              8
+regulatory obligations under the Exchange Act, id., and
+“perpetuates disincentives for the Equity Data Plans to invest
+in certain improvements to enhance the distribution of core
+data or the content of the core data itself,” id. at 2,170.
+
+     In response to these perceived deficiencies in the Equity
+Data Plans, the Commission issued its Proposed Governance
+Order, which proposed to direct the SROs to formulate and
+propose a single “New Consolidated Data Plan” (later renamed
+the CT Plan) to replace the three Equity Data Plans. See
+generally Proposed Governance Order, 85 Fed. Reg. 2,164.
+Despite largely leaving the formulation of the CT Plan up to
+the SROs, the Commission set out three governance features.
+First, the CT Plan’s operating committee would include
+representatives of six classes of equity market participants:
+institutional investors, broker-dealers with a predominantly
+retail investor customer base, broker-dealers with a
+predominantly institutional investor customer base, securities
+market-data vendors, issuers of NMS stock and retail investors.
+Id. at 2,179. These representatives would serve as voting
+members on the operating committee administering the CT
+Plan, collectively controlling one-third of the committee’s
+voting power—using fractional votes to preserve the ratio. Id.
+at 2,180–81.
+
+      Second, the Commission recommended allocating the
+votes held by the SROs according to an SRO’s corporate
+affiliation. Each “exchange group” (later called SRO Groups),
+defined as “multiple exchanges operating under one corporate
+umbrella,” id. at 2,168, and “unaffiliated SRO,” meaning an
+SRO not affiliated with another SRO, id. at 2,175 n.140, would
+be granted one vote on the operating committee, id. at 2,175.
+Each exchange group or unaffiliated SRO would have an
+additional vote if it has a “consolidated equity market share”
+                                 9
+greater than 15%.2 Id. at 2,175–76. As an illustration, the SROs
+under the NYSE’s umbrella—New York Stock Exchange
+LLC, NYSE American LLC, NYSE Arca, Inc., NYSE
+Chicago, Inc., and NYSE National, Inc.—would be treated as
+one SRO Group and receive two votes, instead of receiving one
+vote for each SRO. Relatedly, the existing unanimity
+requirement for certain operating-committee actions would be
+replaced by an “augmented majority vote”—defined by the
+Commission as a “two-thirds majority of all votes on the
+operating committee, provided this vote also includes a
+majority of the SRO votes,” meaning SRO Group votes. Id. at
+2,181.
+
+     Third, the Commission proposed requiring that the CT
+Plan administrator be “independent,” meaning “not . . . owned
+or controlled by a corporate entity that separately offers for
+sale” its own proprietary-data products. Id. at 2,183. The
+independence requirement would preclude both of the current
+Equity Data Plan administrators—the NYSE and Nasdaq—
+from subsequently serving as the CT Plan administrator.
+
+     After notice and comment, the Proposed Governance
+Order was finalized and approved without material change. See
+Governance Order, 85 Fed. Reg. 28,702. The SROs complied
+with the Governance Order, submitting a proposed CT Plan
+that included the three features proposed by the Commission,
+
+    2
+        The 15% threshold was selected in order to “limit[] the total
+votes available to an exchange group or unaffiliated exchange to two
+votes.” Proposed Governance Order, 85 Fed. Reg. at 2,176. The
+Commission concluded that the consolidated market shares of the
+largest exchange groups range from 17% to 23% and that setting the
+threshold for an additional vote at 10% would “suggest that a third
+vote would be appropriate at 20% of consolidated equity market
+share,” thereby giving some exchange groups a third vote
+unavailable to the unaffiliated exchanges. Id.
+                               10
+see Notice of Filing of a National Market System Plan
+Regarding Consolidated Equity Market Data, 85 Fed. Reg.
+64,565 (October 13, 2020), while at the same time reserving
+their objections to the legality of the three features, see Joint
+Appendix 209 n.13 (NYSE Comment Letter). Petitioners
+sought review of the Governance Order but we dismissed the
+challenge, concluding that the Commission had not committed
+to any particular governance structure and therefore the
+Governance Order did not constitute reviewable final agency
+action. See Nasdaq Stock Mkt. LLC v. SEC, 1 F.4th 34, 37–38,
+39 (D.C. Cir. 2021); see also 15 U.S.C. § 78y(a)(1).
+
+     In August 2020, the Commission approved the proposed
+CT Plan. See CT Plan Order, 86 Fed. Reg. 44,142. Petitioners
+timely filed for review, challenging the three Commission-
+recommended features. Petitioners also filed with the
+Commission a motion to stay the CT Plan Order, which the
+Commission denied. Petitioners then filed for and received a
+stay from this Court. See Order, Nasdaq Stock Mkt. LLC v.
+SEC, No. 21-1167 (D.C. Cir. Oct. 13, 2021). We have
+jurisdiction of their challenge pursuant to section 25(a) of the
+Exchange Act. See 15 U.S.C. 78y(a)(1).
+
+                         II. ANALYSIS
+
+     Petitioners’ challenge reaches both the Commission’s
+interpretation of section 11A of the Exchange Act as well as its
+decisionmaking given the record and comments before it. As
+to the former, we review using the familiar Chevron two-step
+framework. See Chevron, U.S.A., Inc. v. Nat. Res. Def. Council,
+Inc., 467 U.S. 837, 842–43 (1984). At step one, we ask
+“whether the agency-administered statute is ambiguous on the
+precise question at issue.” Eagle Pharms., Inc. v. Azar, 952
+F.3d 323, 330 (D.C. Cir. 2020) (internal quotation marks
+omitted) (quoting Guedes v. Bureau of Alcohol, Tobacco,
+                               11
+Firearms & Explosives, 920 F.3d 1, 28 (D.C. Cir. 2019)). If
+not, we assume at step two that the “Congress has empowered
+the agency to resolve the ambiguity” and accordingly defer to
+the agency’s interpretation so long as it is a reasonable
+construction of the statute. Util. Air Reg. Grp. v. EPA, 573 U.S.
+302, 315 (2014).
+
+     In addition, we may set aside a Commission order if it is
+found to be “arbitrary, capricious, an abuse of discretion, or
+otherwise not in accordance with law.” 5 U.S.C. § 706(2)(A);
+see NetCoalition, 615 F.3d at 532. Besides adhering to
+statutory and regulatory requirements, the Commission is
+required to “examine the relevant data and articulate a
+satisfactory explanation for its action including a ‘rational
+connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto
+Ins. Co., 463 U.S. 29, 43 (1983) (quoting Burlington Truck
+Lines v. United States, 371 U.S. 156, 168 (1962)). The
+Commission’s factual findings are conclusive if supported by
+substantial evidence. See 15 U.S.C. § 78y(a)(4); NetCoalition,
+615 F.3d at 533.
+
+      Petitioners challenge the Commission’s CT Plan Order
+and Governance Order on three grounds: First, the Commission
+exceeded its authority under both section 11A of the Exchange
+Act and Rule 608 of Regulation NMS by placing
+representatives of non-SROs on the CT Plan’s operating
+committee as voting members. Second, the Commission’s
+decision to group SROs based on corporate affiliation for
+voting purposes is contrary to law, as it prevents SROs from
+“act[ing] jointly” to effectuate the CT Plan, and it is otherwise
+arbitrary and capricious by failing to explain adequately the
+Commission’s departure from its past practice of treating
+affiliated and unaffiliated SROs the same. Third, the
+Commission’s requirement that the administrator of the CT
+                                12
+Plan be “independent”—not owned or controlled by a
+corporate entity that directly or indirectly sells proprietary-data
+products that compete with the core data feed—is arbitrary and
+capricious. We ultimately agree with petitioners as to their first
+challenge but reject their second and third challenges.
+
+     A. Non-SRO Membership on CT Plan Operating
+                   Committee
+
+     To begin, the Commission does not argue that its
+interpretation of section 11A of the Exchange Act as permitting
+non-SRO representation on the CT Plan operating committee
+is necessarily compelled by the statute; the Commission instead
+argues that the “Congress has not ‘directly spoken to th[is]
+precise’ issue.” See Resp’t Br. 29 n.3 (alteration in original)
+(quoting City of Clarksville v. FERC, 888 F.3d 477, 482 (D.C.
+Cir. 2018)); see also Oral Arg. Tr. 19:25–20:1 (Commission is
+“not arguing that the statute is clear at Chevron [step one]”); id.
+at 20:15–18 (“[I]n the [1975] [A]mendments, Congress very
+specifically did not make a decision as to the precise manner in
+which the national market system was going to be structured.”).
+
+     Our ordinary course of action would be to first determine
+whether section 11A is, as the Commission suggests, silent or
+ambiguous as to non-SRO representation issue; if so, we would
+then assess whether the Commission’s permissive
+interpretation, as embodied in the various orders at issue, is
+reasonable. See Chevron, 467 U.S. at 842–43. Occasionally,
+however, we have assumed arguendo that a statute is
+ambiguous or silent and proceeded to the second step of the
+Chevron analysis. See, e.g., Good Fortune Shipping SA v.
+Comm’r, 897 F.3d 256, 261 (D.C. Cir. 2018); Lubow v. U.S.
+Dep’t of State, 783 F.3d 877, 884 (D.C. Cir. 2015); U.S. Postal
+Serv. v. Postal Regul. Comm’n, 599 F.3d 705, 710 (D.C. Cir.
+2010); see also Babbitt v. Sweet Home Chapter of Cmtys. for a
+                               13
+Great Or., 515 U.S. 687, 703 (1995). We do so here, confident
+in doing so because the Commission has failed to demonstrate
+that its construction of section 11A is reasonable.3
+
+     At Chevron step two, we ask whether the agency’s
+interpretation is “arbitrary or capricious in substance, or
+manifestly contrary to the statute.” Good Fortune Shipping,
+897 F.3d at 261 (quoting Mayo Found. for Med. Educ. &
+Research v. United States, 562 U.S. 44, 53 (2011)); see also
+Village of Barrington v. Surface Transp. Bd., 636 F.3d 650, 665
+(D.C. Cir. 2011) (asking “whether the [agency] has reasonably
+explained how the permissible interpretation it chose is
+‘rationally related to the goals of’ the statute” (quoting AT&T
+Corp. v. Iowa Utils. Bd., 525 U.S. 366, 388 (1999))).
+Importantly, “[t]he reasonableness of an agency’s construction
+depends on the construction’s fit with the statutory language as
+well as its conformity to statutory purposes.” Abbott Labs. v.
+Young, 920 F.2d 984, 988 (D.C. Cir. 1990) (internal quotation
+marks omitted); see also Van Hollen v. FEC, 811 F.3d 486, 492
+(D.C. Cir. 2016) (“The starting place for any Chevron Step
+Two inquiry is the text of the statute.”).
+
+     Begin with the primary textual hook for the Commission’s
+decision: section 11A(a)(3)(B) states that “[t]he Commission is
+authorized . . . to authorize or require self-regulatory
+organizations to act jointly with respect to matters as to which
+they share authority under [the Exchange Act] in planning,
+developing, operating, or regulating a national market system
+(or a subsystem thereof) or one or more facilities thereof.” 15
+U.S.C. § 78k-1(a)(3)(B); see also CT Plan Order, 86 Fed. Reg.
+at 44,157 (“Here, the Commission is acting pursuant to its
+
+    3
+        Because we find the Commission’s interpretation of section
+11A—the principal basis for its asserted statutory authority—
+unreasonable at Chevron step two, we do not address petitioners’
+parallel argument regarding Rule 608 of Regulation NMS.
+                               14
+authority under Section 11A(a)(3)(B) . . . .”). The Congress
+explicitly reserved a role for SROs in developing and
+effectuating NMS plans, at the Commission’s discretion. The
+statute is silent, however, with respect to many details of
+whatever joint action the Commission so authorizes.
+
+     The Commission contends that the statutory silence allows
+it the discretion to direct SROs to formulate an NMS plan that
+permits non-SRO involvement in NMS planning and
+governance, albeit in a minority voting role. See Resp’t Br. 25–
+26. But section 11A(a)(3)(B) specifically identifies SROs that
+“share authority under [the Exchange Act]” as those the
+Commission authorizes to “act jointly . . . in planning,
+developing, operating, or regulating a national market system,”
+15 U.S.C. § 78k-1(a)(3)(B), making it less likely that there is a
+“gap[]” for the Commission to fill with respect to what entities
+may act jointly, see Ethly Corp. v. EPA, 51 F.3d 1053, 1060
+(D.C. Cir. 1995). This is the maxim of expressio unius est
+exclusio alterius at work: “[M]ention of one thing”—SROs—
+“implies exclusion of another thing”—non-SROs. Ethyl Corp,
+51 F.3d at 1061 (quoting Am. Methyl Corp. v. EPA, 749 F.2d
+826, 835–36 (D.C. Cir. 1984)). Application of the canon here
+is analogous to its application in Halverson v. Slater, 129 F.3d
+180 (D.C. Cir. 1997), where we applied the expressio unius
+canon in interpreting 46 U.S.C. § 2104(a), which provides that
+the Secretary of Transportation may delegate certain duties “to
+any officer, employee, or member of the Coast Guard,” to
+preclude delegation to non-Coast Guard officials. Halverson,
+129 F.3d at 184–86. We did so notwithstanding the Secretary’s
+general statutory authority to delegate to subordinates, see 49
+U.S.C. § 322, finding that “the more specific provision
+controls.” Halverson, 129 F.3d at 186. Thus, although the
+Commission is correct that the Congress did not insert the word
+“exclusively” into section 11A(a)(3)(B), see Resp’t Br. 28–29,
+                              15
+the language it did choose evinces exclusivity that, in our
+reading, forecloses the Commission’s desired interpretation.
+
+     Granted, the weight of the expressio unius canon is
+sensitive to statutory context, especially in the administrative
+realm where the “Congress is presumed to have left to
+reasonable agency discretion questions that it has not directly
+resolved.” Adirondack Med. Ctr. v. Sebelius, 740 F.3d 692, 697
+(D.C. Cir. 2014) (quoting Cheney R.R. Co. v. I.C.C., 902 F.2d
+66, 68–69 (D.C. Cir. 1990)); see also Indep. Ins. Agents of Am.,
+Inc. v. Hawke, 211 F.3d 638, 644 (D.C. Cir. 2000). But “where
+the context shows that the ‘draftsmen’s mention of one thing,
+like a grant of authority, does really necessarily, or at least
+reasonably, imply the preclusion of alternatives,’ the canon is
+a useful aide.” Hawke, 211 F.3d at 644 (quoting Shook v. D.C.
+Fin. Resp. & Mgmt. Assistance Auth., 132 F.3d 775, 782 (D.C.
+Cir. 1998)).
+
+     Here, several aspects of the statutory context cut against
+the Commission’s interpretation. First, the Commission’s
+reading of section 11A(a)(3)(B) both to expressly identify
+SROs as those entities that can act jointly in developing and
+effectuating the national market system and to authorize by
+implication a non-SRO to exercise similar governance
+authority would render the former superfluous. See TRW Inc.
+v. Andrews, 534 U.S. 19, 31 (2001) (“[A] statute ought, upon
+the whole, to be so construed that, if it can be prevented, no
+clause, sentence, or word shall be superfluous, void, or
+insignificant.” (quoting Duncan v. Walker, 533 U.S. 167, 174
+(2001)). Further, we have observed that the canon against
+surplusage and the expressio unius canon “are at their zenith
+when they apply in tandem,” as they appear to do here. Hawke,
+211 F.3d at 645. The Commission’s only counter is that the
+express mention of SROs as those entities that may act jointly
+was to alleviate antitrust concerns. See Resp’t Br. 36–38. But
+                               16
+the antitrust explanation, even if assumed to be plausible and
+supported by the legislative history, fails to answer the key
+question whether section 11A(a)(3)(B) implicitly permits non-
+SROs in governance.
+
+     Second, section 11A(a)(3)(B) specifies that SROs may be
+authorized “to act jointly with respect to matters as to which
+they share authority under [the Exchange Act] in planning,
+developing, operating, or regulating a national market system.”
+15 U.S.C. § 78k-1(a)(3)(B) (emphasis added). Such shared
+authority includes, inter alia, the specified duties “to protect
+investors and the public interest,” id. § 78f(b)(5); see also id.
+§§ 78o-3(b)(6), 78q-1(b)(3)(F), the promulgation of internal
+rules subject to Commission approval, see id. § 78s(b), and the
+obligations to “comply” and “enforce compliance” with the
+provisions of the Exchange Act, rules and regulations
+thereunder and its own rules, id. § 78s(g)(1). The “share
+authority” language thus qualifies the SROs’ quasi-regulatory
+authority and also explains why SROs are granted such
+authority. The non-SROs and their representatives, on the other
+hand, lack similarly unifying statutory and regulatory
+obligations and the Commission has acknowledged as much.
+See CT Plan Order, 86 Fed. Reg. at 44,154 (“Non-SRO Voting
+Representatives will not have the same legal obligations as the
+SRO Voting Representatives . . . .”); id. at 44,168 (“Non-SRO
+Voting Representatives will serve on the Operating Committee
+in their individual capacity and do not have regulatory
+obligations paralleling those of the SROs . . . .”). The
+Commission has not adequately explained why the Congress
+expressly highlighted the SROs’ shared authority under the
+Exchange Act as support for their authority pursuant to section
+11A and at the same time impliedly gave similar section 11A
+authority to entities that lack such shared authority under the
+Exchange Act.
+                               17
+     Third, and finally, elsewhere in section 11A, the
+Commission is authorized to create advisory committees and
+employ outside experts, see 15 U.S.C. § 78k-1(a)(3)(A), as
+well as establish a “National Market Advisory Board”
+consisting of “persons associated with brokers and dealers” and
+certain “representative[s] of the public,” id. § 78k-1(d)(1).
+Thus, it cannot be said that the Congress was agnostic about
+the role of non-SROs in the national market system. Instead, it
+appears to us that the Congress “considered the unnamed
+possibility” of non-SROs serving in a regulatory or quasi-
+regulatory role in the national market system “and meant to say
+no to it” by providing a separate, advisory role for them. Marx
+v. Gen. Revenue Corp., 568 U.S. 371, 381 (2013) (quoting
+Barnhart v. Peabody Coal Co., 537 U.S. 149, 168 (2003).
+
+     In addition to section 11A(a)(3)(B), the Commission
+invokes section 11A(c)(1)(B), see CT Plan Order, 86 Fed. Reg.
+at 44,142 & n.14, 44,157; see also Resp’t Br. 25–26, 29, 31,
+which provides, in relevant part:
+
+       No self-regulatory organization, member
+       thereof, securities information processor,
+       broker, or dealer shall . . . collect, process,
+       distribute, publish, or prepare for distribution or
+       publication any information with respect to
+       quotations for or transactions in any security . . .
+       in contravention of such rules and regulations as
+       the Commission shall prescribe as necessary or
+       appropriate in the public interest, for the
+       protection of investors, or otherwise in
+       furtherance of the purposes of this chapter to . . .
+       assure the prompt, accurate, reliable, and fair
+       collection, processing, distribution, and
+       publication of information with respect to
+       quotations for and transactions in such
+                              18
+       securities and the fairness and usefulness of the
+       form and content of such information[.]
+
+15 U.S.C. § 78k-1(c)(1)(B). In the Commission’s view, this
+provision supports its overarching interpretation that section
+11A “necessarily contemplates the involvement of non-SROs
+in the collection, processing, distribution and publication of
+market data, because it prohibits them from doing any of those
+things in contravention of rules prescribed by the
+Commission.” Resp’t Br. 29; see also CT Plan Order, 86 Fed.
+Reg. at 44,157 & n.241.
+
+     But section 11A(c)(1)(B), which says nothing about the
+national market system or its development or operation, merely
+indicates that non-SROs, specifically SIPs and broker-dealers,
+play enough of a role in the dissemination of market data to
+warrant granting the Commission antifraud authority to police
+non-SROs. Cf. 15 U.S.C. § 78j (antifraud provision using
+similar language). It does little to support the Commission’s
+interpretation that those same non-SROs are meant to play an
+affirmative role in the planning and operation of an NMS plan.
+Further, even if section 11A(c)(1)(B) could be read the way the
+Commission asserts, its general grant of authority does not
+override the more narrowly tailored section 11A(a)(3)(B). See,
+e.g., Gozlon-Peretz v. United States, 498 U.S. 395, 407 (1991)
+(“A specific provision controls over one of more general
+application.”).
+
+     In short, even assuming the Commission is correct that
+section 11A is ambiguous or silent on the issue of non-SRO
+representation in NMS plan governance, it nevertheless fails to
+anchor its interpretation to any reasonable reading of section
+11A. As a result, the Commission’s decision to include
+representatives of non-SROs on the CT Plan operating
+                              19
+committee is unreasonable and therefore invalid under
+Chevron step two.
+
+                         B. SRO Groups
+
+      Petitioners next object to the Commission’s decision to
+allocate and limit SRO votes according to an SRO’s corporate
+affiliation with another SRO, arguing that the decision is
+contrary to section 11A and otherwise arbitrary and capricious.
+As explained below, we find petitioners’ arguments on this
+issue are without merit.
+
+                      1. “Contrary to Law”
+
+     To begin, petitioners make two arguments that center on
+the text of section 11A of the Exchange Act. First, they point
+to the statutory definition of “self-regulatory organization,”
+which includes “any national securities exchange.” 15 U.S.C.
+§ 78c(a)(26). Petitioners construe this definition to mean “any
+and all exchanges . . . each of which is a discrete, legally
+distinct entity” and argue that SRO Groups prevent an
+individual SRO from being recognized as an SRO for the
+purpose of joint action under section 11A(a)(3)(B). Pet’rs
+Reply Br. 21 (emphasis in original). Second, petitioners
+contend that the combination of SRO Groups and the
+augmented majority voting structure—which requires a
+majority of SRO votes and a two-thirds majority of all votes,
+including non-SROs—would permit committee approval even
+if there is opposition from a majority of individual SROs. See
+Pet’rs Br. 43–46. As an example,
+
+       a proposal that is supported by all of the non-
+       SRO voting representatives (a total of four-and-
+       a-half votes), the four unaffiliated SROs, and
+       the Nasdaq-affiliated SRO Group (with two
+       votes for its three exchanges) would have
+                                20
+        sufficient support to be adopted under the
+        Commission’s voting framework. But assuming
+        that the nine remaining SROs opposed the
+        proposal, the proposal would be supported by
+        only seven out of the sixteen individual SROs.
+
+Id. at 45. As petitioners see it, this outcome “erects a barrier to
+‘joint[]’ SRO operation of the CT Plan that is incompatible
+with the Exchange Act.” Id. at 46 (quoting 15 U.S.C.§ 78k-
+1(a)(3)(B)).
+
+     Because we find that the Commission failed to provide a
+reasonable interpretation of section 11A that would permit non-
+SRO representation in the first place, see supra p. 12–19, we
+see little need to address hypothetical voting outcomes among
+the SRO Groups and non-SROs or whether a particular
+outcome would “erect[] a barrier” to joint action pursuant to
+section 11A, as petitioners contend.
+
+      The crux of petitioners’ remaining arguments is that
+section 11A(a)(3)(B) requires that each SRO, as defined in the
+Exchange Act, be on equal terms with respect to the
+governance of NMS plans, including voting. Yet nothing in
+section 11A appears to require the strict one-to-one voting
+representation by individual SROs contemplated by
+petitioners. For one thing, although petitioners are correct that
+the term “self-regulatory organization” is defined at the
+individual level in the definitions section of the statute, the use
+of its plural form in section 11A(a)(3)(B) simply establishes the
+universe of entities (i.e., SROs) that may be authorized by the
+Commission to act jointly—and no party argues that the
+Commission excludes any SROs from the CT Plan operating
+committee. Thus, the definition of “self-regulatory
+organization” sheds little, if any, light as to how the
+                               21
+Commission may allocate NMS plan operating committee
+votes among individual SROs.
+
+     Moreover, the undefined term “act jointly,” given its
+ordinary meaning, see Sorenson Commc’ns, LLC v. FCC, 897
+F.3d 214, 228 (D.C. Cir. 2018) (attributing to undefined
+statutory term “its ordinary meaning”), simply means to act
+cooperatively, together or in conjunction, see, e.g., Jointly, The
+Oxford English Dictionary (2d ed. 1989) (“[t]ogether, in
+union” and “[i]n conjunction, combination, or concert”);
+Jointly, Webster’s Third New International Dictionary (1981)
+(“together” and “unitedly”); Jointly, Ballentine’s Law
+Dictionary (3d ed. 1969) (“[u]nitedly” and “sharing together”).
+“Jointly” does not require a particular level of involvement
+among the individual members—such as “one SRO, one vote,”
+as petitioners seem to suggest—so long as all participants are
+involved to some degree. Section 11A(a)(3)(B) does not
+specify many details as to how the Commission may set the
+contours of SRO joint action. The provision makes no mention
+of NMS plans, operating committees or administrators yet no
+party objects to the Commission’s use of those governance
+structures. This, in our view, makes it unlikely that the
+Congress would combine broad Commission discretion to fill
+in the details of whatever governance structure it envisions
+with an unusually rigid understanding of “act jointly” that
+requires one-to-one representation. Thus, we see little merit to
+petitioners’ textual arguments.
+
+  2. Departure from Commission Precedent and Disparate
+                       Treatment
+
+     Aside from the text of section 11A, petitioners contend
+that the Commission’s use of SRO Groups departs from the
+Commission’s past practice of treating affiliated SROs as
+distinct legal entities in other regulatory settings and subjects
+                               22
+affiliated SROs to less favorable treatment as compared to
+unaffiliated SROs. Again, we find these arguments without
+merit.
+
+     Petitioners first cite several matters in which the
+Commission has required individual SROs to maintain their
+separate regulatory identity. See, e.g., Order Setting Aside
+Action by Delegated Authority and Approving Proposed Rule
+Change Relating to NYSE Arca Data, 73 Fed. Reg. 74,770,
+74,790 (Dec. 9, 2008) (separate pools of liquidity); Order
+Disapproving Proposed Rule Change to Offer a Rebate Based
+on Members’ Aggregate Customer Volume in Multiply-Listed
+Options Transacted on NASDAQ OMX PHLX LLC or Its
+Affiliated Options Exchanges, 79 Fed. Reg. 42,578, 42,585–86
+(July 22, 2014) (separate rebate schedules). But the fact that the
+Commission treats SROs as distinct and separate entities vis-à-
+vis their individual statutory and regulatory obligations does
+not necessarily mandate similar treatment of NMS plans where
+SROs act collectively to effectuate a market-wide plan. The
+Commission made this precise point. See CT Plan Order, 86
+Fed. Reg. at 44,164 (“But both the applicable legal
+requirements and the function being performed here by the
+SROs differ in the context of the responsibility of the SROs to
+jointly operate the NMS plans pursuant to Section 11A of the
+Act and to disseminate consolidated market data, to which
+different SROs may contribute in varying degrees.”).
+
+     Petitioners next point to the Commission’s past practice of
+treating SROs individually with respect to earlier NMS plan
+operating committees. See, e.g., Order Approving the National
+Market System Plan Governing the Consolidated Audit Trail,
+81 Fed. Reg. 84,696, 84,948 (Nov. 23, 2016). We have often
+recognized that an agency must acknowledge and explain its
+departure from past policy. See Sw. Airlines Co. v. FERC, 926
+F.3d 851, 856 (D.C. Cir. 2019). “A central principle of
+                               23
+administrative law is that, when an agency decides to depart
+from decades-long past practices and official policies, the
+agency must at a minimum acknowledge the change and offer
+a reasoned explanation for it.” Am. Wild Horse Pres. Campaign
+v. Perdue, 873 F.3d 914, 923 (D.C. Cir. 2017) (citing Encino
+Motorcars, LLC v. Navarro, 579 U.S. 211, 221–22 (2016)).
+
+      Here, the Commission easily cleared the “not . . .
+especially high bar” of acknowledging and explaining its
+departure. Sw. Airlines, 926 F.3d at 856. It acknowledged
+comments about the differing treatment of SROs for voting,
+recognized that “the Commission’s treatment of corporate
+affiliations varies based on the particular facts and
+circumstances” and took into account corporate affiliation for
+voting “[b]ecause of the concentrated power affiliated SROs
+exert in the governance structure of consolidated equity market
+data, as demonstrated by the indisputable fact that affiliated
+SROs vote as blocs.” CT Plan Order, 86 Fed. Reg. at 44,164.
+The Commission iterated its findings that “[i]ndividual
+exchanges that historically had only one vote on NMS plans
+are now a part of groups that can control blocs of four or five
+votes,” id., and that “‘in its oversight of the Equity Data Plans,
+[it] is unaware of an individual affiliated exchange member’
+ever having ‘cast its vote differently than the votes cast by its
+affiliated exchanges,’” id. (quoting Governance Order, 85 Fed.
+Reg. at 28,713), in support of its decision to use group-based
+voting. The Commission also stated its “belie[f] that
+reallocating votes by SRO Group should help to ensure the
+prompt, accurate, reliable, and fair collection, processing,
+distribution, and publication of” NMS market data. Id.
+
+    As their final argument, petitioners object to the
+Commission’s decision on the ground that it subjects affiliated
+SROs to less favorable treatment than unaffiliated SROs,
+without adequate explanation. As a general principle, agency
+                               24
+action “is at its most arbitrary when it treats similarly situated
+people differently,” Etelson v. Off. of Pers. Mgmt., 684 F.2d
+918, 926 (D.C. Cir. 1982), meaning that agencies must
+“provide an adequate explanation to justify treating similarly
+situated parties differently,” Burlington N. and Santa Fe Ry.
+Co. v. Surface Transp. Bd., 403 F.3d 771, 776 (D.C. Cir. 2005).
+But here, the Commission has provided an adequate
+explanation, citing the need to mitigate the Equity Data Plans’
+practical dilution of unaffiliated exchanges’ voting power. In
+response to comments that the SRO-Group-based voting
+system would unfairly dilute the votes of affiliated exchanges,
+the Commission countered that any perceived disparate
+treatment between affiliated and unaffiliated exchanges was
+justified “from a policy perspective because of the
+disproportionate influence affiliated exchange groups currently
+exercise in [Equity Data] Plan matters by voting as a block and
+diluting the voting power of other Participants.” Governance
+Order, 85 Fed. Reg. at 28,713. The Commission also reasoned
+that “bloc voting has diluted the voting power of unaffiliated
+SROs over time, and that this concentration of ‘voting power
+in a small number of exchange group stakeholders, which also
+have inherent conflicts of interest,’ has ‘perpetuated
+disincentives for the Equity Data Plans to make improvements
+to the SIP data products.’” CT Plan Order, 86 Fed. Reg. at
+44,164 (quoting Governance Order, 85 Fed. Reg. at 28,713).
+
+               C. Independent Administrator
+
+     Petitioners’ final objection is to the Commission’s
+decision that the CT Plan administrator must be
+“independent”—meaning “not . . . owned or controlled by a
+corporate entity that, either directly or via another subsidiary,
+offers for sale its own [proprietary-data products].” CT Plan
+Order, 86 Fed. Reg. at 44,195. The Commission supported the
+independence requirement by noting that “an entity that acts as
+                              25
+the administrator while also offering for sale its own
+proprietary data products faces a substantial, inherent conflict
+of interest, because it would have access to sensitive SIP
+customer information of significant commercial value.” Id.; see
+also id. at 44,196 (“Unlike the exchanges that offer for sale
+their own proprietary equity market data products, an
+independent Administrator would not have the competing
+objective of maximizing its own proprietary data products’
+profitability.”). Petitioners make three arguments in support of
+their contention that the Commission failed to articulate a
+rational explanation for its decision, none of which we find
+persuasive.
+
+     Petitioners first contend that the Commission failed to
+substantiate its “purely theoretical” concern that a CT Plan
+administrator could misappropriate confidential information,
+such as by pointing to a plan administrator’s past misconduct
+or by highlighting the shortcomings of existing safeguards.
+Pet’rs Br. 54. Granted, an agency is generally on sounder
+footing when it “act[s] upon the basis of empirical data.”
+Chamber of Com. of U.S. v. SEC, 412 F.3d 133, 142 (D.C. Cir.
+2005). But an agency “need not—indeed cannot—base its
+every action upon empirical data” and may, “depending upon
+the nature of the problem, . . . be ‘entitled to conduct . . . a
+general analysis based on informed conjecture.’” Id. (quoting
+Melcher v. FCC, 134 F.3d 1143, 1158 (D.C. Cir. 1998)). Here,
+the Commission highlighted a plausible conflict of interest: the
+potential misuse of “sensitive SIP customer information of
+significant commercial value” by administrators that sell
+competing market data products. CT Plan Order, 86 Fed. Reg.
+at 44,195–96 (quoting Governance Order, 85 Fed. Reg. at
+28,722). In support, the Commission invoked its experience in
+overseeing the existing Equity Data Plans as well as industry
+comments supporting the separation of the plan administrator’s
+regulatory responsibilities from an exchange’s commercial
+                               26
+interests. See id. at 44,195–96; Governance Order, 85 Fed. Reg.
+at 28,722–23. We have found this reasoning sufficient in the
+past. See Stilwell v. Off. of Thrift Supervision, 569 F.3d 514,
+519 (D.C. Cir. 2009) (sanctioning agency’s reliance on its
+“long experience of supervising” regulated entities and
+“support in various comments submitted in response to the
+proposed rule”); Am. Great Lakes Ports Ass’n v. Schultz, 962
+F.3d 510, 516 (D.C. Cir. 2020) (“A degree of agency reliance
+on [comments from affected parties] is not only permissible but
+often unavoidable.” (alteration in original) (quoting Nat’l Ass’n
+of Regul. Util. Comm’rs v. FCC, 737 F.2d 1095, 1124 (D.C.
+Cir. 1984))); cf. FCC v. Nat’l Citizens Comm. for Broad., 436
+U.S. 775, 814 (1978) (permitting agencies to rely on
+“deductions based on the expert knowledge of the agency”
+(citation omitted)). That the Commission’s conflict of interest
+worry has not yet manifested itself is of little consequence, as
+an agency has the latitude to “adopt prophylactic rules to
+prevent potential problems before they arise”—that is, “[a]n
+agency need not suffer the flood before building the levee.”
+Stilwell, 569 F.3d at 519.
+
+     Petitioners next fault the Commission for not extending
+the independent administrator requirement to non-SRO data
+vendors, even though those vendors sell market data products
+and could have similar conflicts of interest. See Pet’rs Br. 54–
+56. But “an agency need not target every danger in order to
+target any danger,” Am. Coal Co. v. Fed. Mine Safety and
+Health Rev. Comm’n, 796 F.3d 18, 29 (D.C. Cir. 2015), and
+instead “may marshal their limited resources by pursuing their
+goals ‘as priorities demand,’” id. (quoting Nat’l Cong. of
+Hispanic Am. Citizens (El Congreso) v. Marshall, 626 F.2d
+882, 888 (D.C. Cir. 1979)). Here, the Commission explicitly
+acknowledged that it “chose to address one substantial,
+inherent conflict of interest” in imposing the independent
+administrator requirement but permits the CT Plan operating
+                               27
+committee to “exercise discretion in selecting the new
+Administrator” in order to police other conflicts that may arise.
+CT Plan Order, 86 Fed. Reg. at 44,197. Although petitioners
+contend that non-SRO data vendors face “the exact same
+conflict” as SROs selling competing data products, see Pet’rs
+Br. 55 (emphasis omitted), the conflict is not the same because,
+as the Commission notes, the SROs have “sufficient voting
+power” and “incentive” to ensure that any non-SRO chosen to
+serve as administrator “would [not] face a financial conflict of
+interest and act as a direct competitor to the SROs’ proprietary
+data business,” CT Plan Order, 86 Fed. Reg. at 44,158, 44,197.
+Even if the CT Plan Order permits disparate treatment between
+SROs and representatives of non-SROs, the Commission has
+provided “a reasoned explanation” for such treatment.
+Burlington N. & Santa Fe Ry., 403 F.3d at 777.
+
+     Third, and finally, petitioners assert that the Commission
+failed to consider whether “more good than harm will come”
+from an independent administrator requirement that excludes
+incumbent administrators that possess institutional knowledge
+and expertise—the NYSE and Nasdaq. See Pet’rs Br. 56–57
+(quoting Md. Peoples Counsel v. FERC, 761 F.2d 768, 779
+(D.C. Cir. 1985)); cf. Michigan v. EPA, 576 U.S. 743, 753
+(2015) (“[R]easonable regulation ordinarily requires paying
+attention to the advantages and the disadvantages of agency
+decisions.” (emphasis in original)). But the Commission
+acknowledged this argument in the CT Plan Order and
+reasoned that any loss in incumbent experience would be
+mitigated by the “broad range of financial service firms,
+unaffiliated with an SRO,” capable of serving as plan
+administrator and by the current administrators’ abilities to
+“advise and facilitate the onboarding process of the new
+Administrator.” CT Plan Order, 86 Fed. Reg. at 44,196–97. It
+further concluded any lingering “costs” resulting from a loss of
+expertise or experience are “justified because the inherent
+                              28
+conflicts of interest identified by the Commission . . . raise[]
+significant concerns regarding access to confidential subscriber
+information.” Id. at 44,197. Thus, we see no merit to
+petitioners’ argument that the Commission failed to consider
+the disadvantages or costs of the independent administrator
+requirement.
+
+                   D. Severability Vel Non
+
+     Because we conclude that only one component of the
+Commission’s orders is invalid, there is the resulting question
+of severability. The APA defines “agency action” as “the whole
+or a part of an agency rule [or] order,” 5 U.S.C. § 551(13)
+(incorporated by 5 U.S.C. § 701(b)(2)), meaning that we are
+permitted to sever and set aside an offending portion while
+keeping intact the rest of the order. See Carlson v. Postal Reg.
+Comm’n, 938 F.3d 337, 351 (D.C. Cir. 2019); see also K Mart
+Corp. v. Cartier, Inc., 486 U.S. 281, 294 (1988). Severability
+turns on agency intent, meaning that “[w]here there is
+substantial doubt that the agency would have adopted the same
+disposition regarding the unchallenged portion if the
+challenged portion were subtracted, partial affirmance is
+improper.” Epsilon Elecs., Inc. v. U.S. Dep’t of Treasury, 857
+F.3d 913, 929 (D.C. Cir. 2017) (quoting North Carolina v.
+FERC, 730 F.2d 790, 795–96 (D.C. Cir. 1984)). Further, we
+ask whether the remaining parts of the agency action can
+“function sensibly without the stricken provision.” Carlson,
+938 F.3d at 351 (quoting Sorenson Commc’ns Inc. v. FCC, 755
+F.3d 702, 710 (D.C. Cir. 2014)). Here, we decline to sever with
+respect to the CT Plan Order—and thus vacate the order in its
+entirety. Regarding the antecedent Governance Order, we sever
+only the provision requiring petitioners to provide for non-SRO
+representation on the operating committee of any proposed
+plan and uphold the remainder of the Governance Order.
+                              29
+     As to the CT Plan Order, the Commission made clear that
+its principal focus was replacing the three Equity Data Plans
+with a single, consolidated NMS plan that included the three
+Commission-recommended governance features. See CT Plan
+Order, 86 Fed. Reg. at 44,142–43; see also Proposed
+Governance Order, 85 Fed. Reg. at 2,182. In fact, the
+Commission evinced little regard for the rest of the CT Plan,
+stating that terms “not directed by the Governance Order” were
+within the control of the SROs, subject to Commission review
+and approval. CT Plan Order, 86 Fed. Reg. at 44,143. We
+therefore have “substantial doubt[s]” that the Commission
+would have permitted the CT Plan to be implemented in a
+piecemeal fashion and absent the provision requiring non-SRO
+representation on the operating committee, one of only three
+features the Commission required all SRO-proposed plans to
+include. See Epsilon, 857 F.3d at 929; see also Sierra Club v.
+FERC, 867 F.3d 1357, 1367 (D.C. Cir. 2017) (finding
+“substantial[] doubt” agency would have conducted piecemeal
+environmental review of pipeline project when it had
+previously “treated the project as a single, integrated
+proposal”).
+
+     Moreover, permitting the remaining provisions of the CT
+Plan to take effect raises the question whether the CT Plan
+could “function sensibly.” Carlson, 938 F.3d at 351 (quoting
+Sorenson Commc’ns, 755 F.3d at 710). For example, the CT
+Plan, as proposed and approved by the Commission, requires
+that representatives of non-SROs hold one-third of the voting
+power on the committee and that committee approval under its
+“augmented majority” voting structure requires a “two-thirds
+majority of all votes on the operating committee” alongside “a
+majority of the SRO . . . votes.” CT Plan Order, 86 Fed. Reg.
+at 44,165; see also id. at 44,213 (CT Plan § 4.3(b)). Yet, if we
+were to invalidate the non-SRO representation provision and
+leave the remainder of the CT Plan intact, that would result in
+                              30
+simultaneously requiring both a two-thirds and a simple
+majority vote of approval by the SROs alone. This one example
+highlights how the challenged features of the CT Plan are
+“intertwined” in such a way that makes severance problematic.
+See Epsilon, 857 F.3d at 929 (quoting Davis Cty. Solid Waste
+Mgmt. v. EPA, 108 F.3d 1454, 1459 (D.C. Cir. 1997)).
+
+     The Commission, for its part, pays little more than lip
+service to our concern that severing parts of the CT Plan Order
+would render the plan unworkable. It first makes the
+unsupported statement that, if one of the challenged provisions
+of the CT Plan is found to be unlawful, “the remaining
+provisions could ‘function sensibly.’” Resp’t Br. 56 (quoting
+Carlson, 938 F.3d at 351–52). As explained above, we struggle
+to see how that is the case. The Commission then invokes the
+severability provision included in the CT Plan itself, which
+states that “any determination that any provision of the CT Plan
+is invalid or unenforceable shall not affect the validity or
+enforceability of any other provisions of the CT Plan, all of
+which shall remain in full force and effect.” CT Plan Order, 86
+Fed. Reg. at 44,207. But “the ultimate determination of
+severability will rarely turn on the presence or absence” of a
+severability clause. Cmty. for Creative Non-Violence v. Turner,
+893 F.2d 1387, 1394 (D.C. Cir. 1990) (quoting United States v.
+Jackson, 390 U.S. 570, 585 n.27 (1968)). Instead, we look to
+agency intent and whether the valid portions can function
+absent the invalid portions, id.; doing so, we conclude that the
+CT Plan, as currently constructed, would be unworkable if we
+simply severed the provision requiring non-SRO
+representation.
+
+     As to the Governance Order, it does not commit the
+Commission to any particular NMS plan or plan feature and is
+instead “no more than a call for a proposal that would then be
+subject to further notice, comment, and revision.” Nasdaq, 1
+                              31
+F.4th at 37; see also Order Denying Stay, 85 Fed. Reg. 36,921,
+36,922 (June 18, 2020) (describing Governance Order as “first
+step toward establishing a new governance structure”). It was
+based on its lack of finality that we dismissed as premature
+petitioners’ earlier challenge to the Governance Order. Nasdaq,
+1 F.4th at 39. In line with this understanding of the Governance
+Order, we see no need to vacate those portions that direct the
+SROs to include plan features we have found permissible. We
+therefore sever only those parts of the Governance Order
+directing petitioners to include non-SRO representation in its
+proposed plan, leaving the remainder in place.
+
+     For the foregoing reasons, we grant the petitions for
+review as to the inclusion of non-SROs on the CT Plan’s
+operating committee as voting members and vacate the CT
+Plan Order in its entirety. With respect to the Governance
+Order, we vacate only those portions authorizing the invalid
+non-SRO representation, leaving the remainder of the
+Governance Order intact.
+
+                                                    So ordered.
+

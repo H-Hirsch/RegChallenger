@@ -1,0 +1,904 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 8, 2024                 Decided August 1, 2025
+
+                         No. 23-1261
+
+               IGAS HOLDINGS, INC., ET AL.,
+                      PETITIONERS
+
+                             v.
+
+          ENVIRONMENTAL PROTECTION AGENCY,
+                    RESPONDENT
+
+    AIR-CONDITIONING, HEATING, AND REFRIGERATION
+ INSTITUTE AND ALLIANCE FOR RESPONSIBLE ATMOSPHERIC
+                       POLICY,
+                    INTERVENORS
+
+
+
+                Consolidated with 23-1263
+
+
+          On Petitions for Review of a Final Rule
+          of the Environmental Protection Agency
+
+
+
+    JoAnn T. Sandifer argued the cause for petitioners IGas
+Holdings, Inc., et al. With her on the briefs were Jamie
+Shookman and Daniel G. Solomon.
+                              2
+    Zhonette M. Brown argued the cause for petitioner RMS
+of Georgia, LLC. With her on the briefs were Kaitlyn D.
+Schiraldi and David M. Williamson.
+
+   Michael Pepson was on the brief for amicus curiae
+Americans for Prosperity Foundation in support of petitioners.
+
+    Sarah A. Buckley, Attorney, U.S. Department of Justice,
+argued the cause for respondent. With her on the brief was
+Todd Kim, Assistant Attorney General.
+
+    Elizabeth B. Dawson argued the cause for intervenors for
+respondent. With her on the brief were Thomas A. Lorenzen
+and Robert J. Meyers.
+
+    Sarah C. Tallman, David Doniger, Nanding Chen, and Ian
+Fein were on the brief for amicus curiae Natural Resources
+Defense Council in support of respondent.
+
+    Before: PILLARD, PAN, and GARCIA, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge PAN.
+
+      PAN, Circuit Judge: Hydrofluorocarbons (HFCs) are
+synthetic cooling agents used in a variety of applications,
+including refrigeration and air conditioning. Despite their
+utility, HFCs are extremely potent greenhouse gases that
+increase global warming. To address that problem, Congress
+passed the American Innovation and Manufacturing (AIM) Act
+of 2020. The AIM Act requires an 85 percent reduction in U.S.
+production and consumption of HFCs by 2036. Congress
+specified that the HFC phasedown would be accomplished with
+a cap-and-trade program, and it tasked the Environmental
+Protection Agency (EPA) with administering that program.
+                              3
+     In 2021, the EPA issued a rule to implement the cap-and-
+trade program for the years 2022 and 2023 (the Framework
+Rule). The program required the EPA to calculate and allocate
+“allowances” that authorized industry members to produce and
+consume HFCs. The EPA allocated the allowances to market
+participants according to their historic market share, and
+determined the market share of each participant based on its
+production-and-consumption activities in the years 2011 to
+2019. Subsequently, the EPA issued a new rule to set the
+allocation methodology for the years 2024 through 2028 (the
+2024 Rule). In the new rule, the EPA again allocated
+allowances to market participants according to their historic
+market share, and again used data from the years 2011 to 2019
+to calculate that market share.
+
+     We now consider two challenges to the 2024 Rule.
+Petitioner RMS of Georgia, LLC (which goes by its trade
+name, “Choice”) argues that Congress violated the
+nondelegation doctrine when it granted the EPA authority to
+allocate use allowances, and that the EPA unconstitutionally
+exercised legislative power when it promulgated the 2024
+Rule. Petitioner IGas Holdings, Inc. (IGas) argues that the
+EPA’s exclusion of 2020 data from its market-share
+calculations was arbitrary and capricious. We deny both
+petitions for review.
+
+                              I.
+
+     The 2024 Rule is not the first of its kind. Congress has
+employed cap-and-trade programs to phase out industrial use
+of other hazardous refrigerants, including chlorofluorocarbons
+(CFCs) and hydrochlorofluorocarbons (HCFCs).             Those
+predecessor programs are the model for the one at issue in this
+case.
+                                4
+     Both CFCs and HCFCs are ozone-depleting substances. In
+1986, the United States agreed to regulate such substances
+when it ratified the 1985 Vienna Convention for the Protection
+of the Ozone Layer. The subsequent 1987 Montreal Protocol,
+ratified by the United States in 1988, set specific targets for the
+global elimination of CFCs and HCFCs. To make good on
+those treaty obligations, Congress enacted Title VI of the Clean
+Air Act, 42 U.S.C. § 7671 et seq., which effectuated a phaseout
+of CFC- and HCFC-emissions in the United States. Title VI
+created a cap-and-trade program that (1) set limits (caps) on the
+total level of emissions for CFCs and HCFCs, (2) authorized
+the EPA to issue emissions allowances to market participants
+(not to exceed the overall cap), (3) allowed companies to sell
+(trade) their unused allowances, and (4) made it unlawful for
+anyone to emit the regulated substances without having a
+corresponding allowance. See id. §§ 7671c(a)–(c), 7671d(a)–
+(c), 7671f. Today, CFCs have been eliminated, and new
+production and importation of most HCFCs were phased out as
+of 2020 (although some HCFCs are still used in existing air
+conditioners and refrigeration equipment).
+
+     HFCs have proven to be an effective replacement for the
+phased-out refrigerants. With the increased global use of air-
+conditioning and refrigeration, the demand for HFCs also has
+surged. Although HFCs do not deplete the ozone layer, they
+present their own problem: HFCs are potent greenhouse gases
+with a relative climatic impact “that can be hundreds to
+thousands of times that of carbon dioxide.” J.A. 341. Thus, in
+2016, signatories of the Montreal Protocol passed the Kigali
+Amendment, which mandates reductions in the production and
+consumption of HFCs. Although the United States did not
+ratify the Amendment until 2022, Congress passed the AIM
+Act to address HFCs in 2020.
+                                5
+     The AIM Act, 42 U.S.C. § 7675, mandates an 85 percent
+phasedown of HFC production and consumption by 2036. To
+accomplish that goal, the Act employs a cap-and-trade program
+like those that were used to phase out CFCs and HCFCs.
+Subsection (e) of the AIM Act creates a program that schedules
+the HFC phasedown and authorizes the allocation of
+production-and-consumption allowances that are capped and
+traded. Subsection (e)(1) sets production-and-consumption
+baselines according to specific formulas,1 while subsection
+(e)(2) sets a timeline for gradually reducing HFC use as a
+“capped” percentage of the baseline. Subsection (e)(3) directs
+the EPA to allocate the allowances, which then can be traded.
+The program accomplishes the targeted reductions in HFC
+production and consumption by lowering the number of
+available allowances each year.
+
+    Specifically, under subsection (e)(2)(C), HFC production
+and consumption is capped at 90 percent of the baseline for the
+years 2020 to 2023; at 60 percent of the baseline for the years
+2024 to 2028; at 30 percent of the baseline for the years 2029
+to 2033; at 20 percent of the baseline for the years 2034 to
+2035; and, finally, at 15 percent of the baseline by the year
+2036. See 42 U.S.C. § 7675(e)(2)(C).
+
+     For each year, the EPA must “ensure that the annual
+quantity of all regulated substances produced or consumed in
+the United States does not exceed” the targets in subsection
+(e)(2)(C). 42 U.S.C. § 7675(e)(2)(B). To accomplish that task,
+the EPA “shall use” the listed targets “to determine the quantity
+
+1
+    The statute directs the EPA to set the baselines as the average
+annual quantity of all regulated substances produced or consumed
+from 2011 to 2013, plus the sum of 15 percent of the production or
+consumption level of HCFCs in 1989 and 0.42 percent of the
+production or consumption level of CFCs in 1989. See 42 U.S.C.
+§ 7576(e)(1)(B)–(D).
+                               6
+of allowances” for each year. Id. § 7675(e)(2)(D)(i). The AIM
+Act describes an “allowance” as “a limited authorization for the
+production or consumption of a regulated substance.” Id.
+§ 7675(e)(2)(D)(ii)(I)(bb). Under subsection (e)(2), “no
+person shall” produce or consume “a quantity of a regulated
+substance without a corresponding quantity of [production-
+and-consumption] allowances.” Id. § 7675(e)(2)(A).
+
+     Subsection (e)(3) of the Act gives the EPA authority to
+“issue a final rule” that accomplishes the following:
+
+       (A) phasing down the production of regulated
+          substances in the United States through an
+          allowance allocation and trading program in
+          accordance with this section; and
+
+       (B) phasing down the consumption of regulated
+          substances in the United States through an
+          allowance allocation and trading program in
+          accordance with the schedule under
+          paragraph (2)(C) . . . .
+
+42 U.S.C. § 7675(e)(3).
+
+    Finally, Congress provided for certain exceptions and also
+mandated that the EPA initially “allocate the full quantity of
+allowances necessary” for a small class of “essential uses.” 42
+U.S.C. § 7675(e)(4)(B)(iv).
+
+                              A.
+
+    In 2021, the EPA promulgated its Framework Rule, which
+implements subsection (e) of the AIM Act for the years 2022
+and 2023.        See Phasedown of Hydrofluorocarbons:
+Establishing the Allowance Allocation and Trading Program
+Under the [AIM] Act (Framework Rule), 86 Fed. Reg. 55116
+                              7
+(Oct. 5, 2021). As directed by the statute, the Framework Rule
+calculated HFC production-and-consumption baselines under
+subsection (e)(1) and then determined the quantity of
+allowances that would be available in 2022 and 2023 under
+subsection (e)(2) — i.e., the quantity that would achieve 90
+percent of the baseline level of production and consumption.
+
+     The Framework Rule also established an allocation plan
+for the 2022–2023 allowances. First, the EPA decided that
+allowances would be issued to entities that had historical
+production-and-consumption data and that were still active in
+2020, with case-by-case exceptions for companies with
+pandemic-related disruptions in 2020. Next, the EPA allocated
+the available allowances to those entities according to their
+historical market share. To calculate an entity’s market share,
+the EPA looked to that entity’s three highest years of
+production or consumption activity between the years 2011 and
+2019. It then averaged the data from those three high years and
+divided that number by the sum of all entities’ high-three
+averages. Finally, the EPA multiplied that number by the total
+number of allowances in the pool (which was 90 percent of the
+baseline amount). The EPA said it would reconsider this
+methodology before the next step of the phasedown, in 2024.
+
+                              B.
+
+    Subsequently, the EPA proposed an allocation
+methodology for HFC allowances for the years 2024 through
+2028, the period for which subsection (e)(2) capped production
+and consumption at 60 percent of the baseline. After
+calculating the quantity of allowances available, the EPA
+proposed “to continue using historic production and
+consumption data from 2011 to 2019” to allocate allowances
+by market share, in part to “minimize disruption to the market
+in 2024,” and in part because the “EPA ha[d] conducted
+                               8
+multiple rounds of outreach and review” on that dataset.
+Phasedown of Hydrofluorocarbons: Allowance Allocation
+Methodology for 2024 and Later Years (Proposed Rule), 87
+Fed. Reg. 66372, 66377–78 (Nov. 3, 2022).
+
+     The EPA noted, however, that it was “considering whether
+to include more recent data” to reflect the current state of the
+HFC production and import market. Proposed Rule, 87 Fed.
+Reg. at 66378. The EPA therefore “request[ed] comment on
+whether to expand the range of years to use to develop each
+allowance holder’s high three-year average to include 2020 and
+2021.” Id. But the agency previewed its concerns about using
+the more recent data, stating: “[T]he Agency recognizes that
+production and importation of HFCs in 2020 and 2021 were
+likely influenced by external factors such as the COVID–19
+pandemic, and supply chain disruptions. In addition, EPA is
+concerned that data from 2020 and 2021 could be distorted due
+to an entity’s awareness that the AIM Act may be, or had been,
+passed,” leading to stockpiling. Id. The EPA further worried
+that “[e]xpanding the range of years could also significantly
+change each entity’s market share, which could disrupt the
+market and negatively affect ongoing adjustments to the HFC
+Allocation Program that have taken place in 2022 and 2023.”
+Id. Finally, the EPA said it was “unaware of any environmental
+benefit associated with changing the years used to determine
+allowance allocations.” Id.
+
+     Petitioners Choice and IGas each submitted comments on
+the proposed rule. Choice is a small business that reclaims
+HFCs and invents HFC blends. Its comments argued that
+subsection (e) of the AIM Act unconstitutionally delegated
+legislative power to the EPA. IGas is a participant in
+refrigerant aftermarkets for existing HFC-containing
+equipment. IGas’s comments urged the EPA to include data
+from the years 2020 and 2021 in its allocation methodology
+                                  9
+because, in its view, the EPA’s focus on years 2011 to 2019
+ignored the aftermarket’s growth in more recent years and
+favored companies that were not involved in the aftermarket.
+
+     In its final 2024 Rule setting the allocation methodology
+for the years 2024 to 2028, the EPA continued to rely on
+market-share data from 2011 to 2019 and thus excluded data
+from 2020 and 2021. See Phasedown of Hydrofluorocarbons:
+Allowance Allocation Methodology for 2024 and Later Years
+(2024 Rule), 88 Fed. Reg. 46836, 46842 (July 20, 2023). The
+EPA explained that the data from 2020 and 2021 were not
+representative of the typical market due to the pandemic, had
+not been as thoroughly vetted as the 2011 to 2019 dataset, and
+could cause market disruptions by drastically changing
+entities’ market share from what had been implemented under
+the Framework Rule.
+
+                                 C.
+
+     Choice and IGas timely petitioned for review of the 2024
+Rule, and their appeals were consolidated. Two trade
+associations whose members are regulated HFC importers and
+producers — the Air-Conditioning, Heating, and Refrigeration
+Institute, and the Alliance for Responsible Atmospheric Policy
+— intervened as respondents.2
+
+
+2
+     Article III standing is a prerequisite to intervention, even as a
+respondent. See Deutsche Bank Nat’l Tr. Co. v. FDIC, 717 F.3d 189,
+193 (D.C. Cir. 2013). But see Inst’l Shareholder Servs. v. SEC, --
+F.4th --, 2025 WL 1802786, at *4 n.3 (D.C. Cir. July 1, 2025)
+(recognizing tension with cases holding that “intervenors that seek
+the same relief sought by at least one existing party need not” show
+standing (citing Little Sisters of the Poor Saints Peter & Paul Home
+v. Pennsylvania, 591 U.S. 657, 674 n.6 (2020))). Although no party
+                                10
+                                II.
+
+     Petitioner Choice argues that the AIM Act
+unconstitutionally delegates legislative power to the EPA by
+granting the agency “unconstrained authority” to allocate HFC
+allowances. Choice Br. 1. Choice asks us to vacate the EPA’s
+2024 Rule because it is “contrary to constitutional right, power,
+privilege, or immunity.” 42 U.S.C. § 7607(d)(9)(B) (made
+applicable to the AIM Act through 42 U.S.C. § 7675(k)(1)(C)).
+
+                                A.
+
+    Amicus National Resources Defense Council (NRDC)
+argues that Choice lacks standing to challenge the EPA’s 2024
+Rule. We disagree. Choice imports HFCs that are regulated
+by the EPA under the AIM Act, and Choice receives
+allowances for that import activity. Choice therefore “has
+standing to challenge an allegedly illegal statute or rule under
+which it is regulated.” State Nat’l Bank of Big Spring v. Lew,
+795 F.3d 48, 53 (D.C. Cir. 2015).
+
+    NRDC contends, however, that Choice has not established
+standing because it has not alleged that its injury will be
+redressed by the court striking down the only section of the
+AIM Act that Choice challenges: subsection (e)(3), which
+provides for the allocation of allowances. According to
+NRDC, if subsection (e)(3) is vacated and the EPA thereby
+loses its authority to allocate allowances, then no entity could
+
+
+contests the Intervenors’ standing, “we have an independent
+obligation to assure ourselves that standing exists.” Pub. Emps. for
+Env’t Resp. v. EPA, 77 F.4th 899, 912 (D.C. Cir. 2023) (cleaned up).
+Because the Intervenors are both trade associations whose members
+are regulated HFC importers and producers, they have associational
+standing. See Fund Democracy, LLC v. SEC, 278 F.3d 21, 25 (D.C.
+Cir. 2002).
+                               11
+produce or consume HFCs at all because subsection (e)(2)
+prohibits the production and consumption of HFCs without a
+corresponding allowance. NRDC reasons that the resulting
+inability to import HFCs would exacerbate, not redress,
+Choice’s injury of having its “market activity limited” and its
+“market share . . . reduced.” Choice Br. 15, 18.
+
+     We disagree with NRDC’s assumption that subsection
+(e)(2) would remain operative if we invalidated subsection
+(e)(3). An unconstitutional provision is “presumed severable”
+from the statute only “if what remains after severance is fully
+operative as a law.” INS v. Chadha, 462 U.S. 919, 934 (1983)
+(cleaned up). Any presumption of severability is overcome
+where “it is evident that the Legislature would not have enacted
+those provisions which are within its power, independently of
+that which is not.” Buckley v. Valeo, 424 U.S. 1, 108 (1976)
+(cleaned up); see also Regan v. Time, Inc., 468 U.S. 641, 653
+(1984) (“Whether an unconstitutional provision is severable
+from the remainder of the statute in which it appears is largely
+a question of legislative intent[.]”).
+
+     In our view, the interrelated subparts of subsection (e) are
+not severable. Subsection (e)(2) prohibits HFC production and
+consumption without a corresponding allowance. That
+provision cannot be “fully operative as a law” without
+subsection (e)(3)’s mechanism for allocating allowances.
+Chadha, 462 U.S. at 934 (cleaned up). Congress plainly would
+not have enacted the remainder of subsection (e) if there were
+no way to allocate HFC allowances because the entire cap-and-
+trade program depends on the availability of allowances.
+
+     Accordingly, we are satisfied that Choice has standing to
+challenge the constitutionality of subsection (e)(3).
+                               12
+                               B.
+
+     Turning to the merits, we hold that the AIM Act does not
+unconstitutionally delegate legislative power because it
+sufficiently constrains the EPA’s discretion to allocate HFC
+allowances.
+
+                               1.
+
+       The Constitution vests “[a]ll legislative Powers herein
+granted . . . in a Congress of the United States.” U.S. Const.
+art. I, § 1. “This text permits no delegation of those powers[.]”
+Whitman v. Am. Trucking Ass’ns, 531 U.S. 457, 472 (2001).
+That does not mean, however, that Congress may not seek
+“assistance from another branch.” J.W. Hampton, Jr., & Co. v.
+United States, 276 U.S. 394, 406 (1928). “[I]n particular,
+[Congress] may confer substantial discretion on executive
+agencies to implement and enforce the laws.” Gundy v. United
+States, 588 U.S. 128, 135 (2019) (plurality opinion). The
+Constitution is not offended when Congress “vest[s] discretion
+in” agencies “to make public regulations interpreting a statute
+and directing the details of its execution,” so long as that
+discretion is “within defined limits.” J.W. Hampton, 276 U.S.
+at 406; Wayman v. Southard, 23 U.S. (10 Wheat.) 1, 46 (1825)
+(Marshall, C.J.) (“[T]he maker of the law may commit
+something to the discretion of the other departments[.]”); Am.
+Trucking, 531 U.S. at 475 (“A certain degree of discretion
+. . . inheres in most executive . . . action.” (cleaned up)); cf.
+Loper Bright Enters. v. Raimondo, 603 U.S. 369, 394 (2024)
+(“In a case involving an agency, of course, the statute’s
+meaning may well be that the agency is authorized to exercise
+a degree of discretion.”).
+
+   “Once it is conceded, as it must be,” that some discretion
+— and “even some judgments involving policy considerations”
+— “must be left to the officers executing the law,” the
+                               13
+remaining debate is “not over a point of principle but over a
+question of degree.” Mistretta v. United States, 488 U.S. 361,
+415 (1989) (Scalia, J., dissenting). The Court has said that “the
+degree of agency discretion that is acceptable varies according
+to the scope of the power congressionally conferred.” Am.
+Trucking, 531 U.S. at 475. “The guidance needed is greater . . .
+when an agency action will affect the entire national economy
+than when it addresses a narrow, technical issue[.]” FCC v.
+Consumers’ Rsch., No. 24-354, slip op. at 11 (June 27, 2025)
+(cleaned up). Still, “even in sweeping regulatory schemes,” the
+nondelegation doctrine has “never demanded . . . that statutes
+provide a determinate criterion.” Am. Trucking, 531 U.S. at
+475 (cleaned up).
+
+     The nondelegation analysis boils down to this: When
+“confer[ring] decisionmaking authority upon agencies,”
+Congress “must lay down by legislative act an intelligible
+principle to which the person or body authorized to act is
+directed to conform.” Am. Trucking, 531 U.S. at 472 (cleaned
+up). When setting forth an “intelligible principle,” Congress is
+not required to “prescribe detailed rules” but rather to “clearly
+delineate[] the general policy, the public agency which is to
+apply it, and the boundaries of this delegated authority.” Am.
+Power & Light Co. v. SEC, 329 U.S. 90, 105 (1946). If a
+federal law contains such an intelligible principle to guide an
+agency’s actions, then there is no nondelegation problem: The
+law permissibly grants discretion to an agency rather than
+unconstitutionally transfers legislative power. See Consumers’
+Rsch., slip op. at 6 (Kavanaugh, J., concurring) (“[W]hen
+implementing legislation that contains an intelligible principle,
+the President is exercising executive power.”).
+
+    Consistent with the foregoing principles, the Supreme
+Court has invalidated only two federal laws for violating the
+nondelegation doctrine, both times in 1935, and “in each case
+                              14
+because Congress had failed to articulate any policy or standard
+to confine discretion.” Gundy, 588 U.S. at 146 (cleaned up)
+(emphasis in original); see also A.L.A. Schechter Poultry Corp.
+v. United States, 295 U.S. 495 (1935); Panama Refining Co. v.
+Ryan, 293 U.S. 388 (1935). Since then, the Court has “over
+and over upheld even very broad delegations.” Gundy, 588
+U.S. at 146. To name a few: The Court has upheld laws
+authorizing agencies to regulate broadcast licensing as “public
+interest, convenience, or necessity” requires, Nat’l Broad. Co.
+v. United States, 319 U.S. 190, 225–26 (1943); set “just and
+reasonable” rates for natural gas, Fed. Power Comm’n v. Hope
+Nat. Gas Co., 320 U.S. 591, 600 (1944); and set air-quality
+standards that are “requisite to protect the public health,” Am.
+Trucking, 531 U.S. at 472–76. In so doing, the Court has
+affirmed and reaffirmed that the governing standards for a
+permissible delegation are “not demanding.” Gundy, 588 U.S.
+at 146.
+
+                               2.
+
+     Against that backdrop, the AIM Act easily passes muster.
+Congress enacted a detailed program for capping and trading
+HFC allowances, in which the EPA has discretion to decide
+how to allocate the allowances. Congress provided ample
+direction to guide the EPA’s exercise of discretion: The Act’s
+text, structure, and history demonstrate that Congress intended
+for the EPA to model its cap-and-trade program on similar
+programs established under the Clean Air Act, and those
+programs allocated allowances to market participants
+according to their market share. “Given that statutory
+meaning,” Choice’s “constitutional claim must fail” —
+subsection (e)(3)’s “delegation falls well within permissible
+bounds.” Gundy, 588 U.S. at 136.
+                               15
+     The question of whether Congress has supplied an
+intelligible principle to guide the agency’s use of discretion
+begins with statutory interpretation. We must “constru[e] the
+challenged statute to figure out what task it delegates and what
+instructions it provides.” Gundy, 588 U.S. at 136. “Only after
+a court has determined a challenged statute’s meaning can it
+decide whether the law sufficiently guides executive discretion
+to accord with Article I.” Id. The established rules of statutory
+interpretation “hold[] good for delegations, just as for other
+statutory provisions.” Id. at 141. And so, when reviewing a
+statute for an intelligible principle, “we do not confine
+ourselves to the isolated phrase in question, but utilize all the
+tools of statutory construction, including the statutory context
+and, when appropriate, the factual background of the statute to
+determine whether the statute provides the bounded discretion
+that the Constitution requires.” Owens v. Republic of Sudan,
+531 F.3d 884, 890 (D.C. Cir. 2008); see Consumers’ Rsch., slip
+op. at 22 (noting that previous nondelegation cases “did not
+examine . . . statutory phrases in isolation but instead looked to
+the broader statutory contexts, which informed their
+interpretation and supplied the content necessary to satisfy the
+intelligible-principle test”).
+
+     We thus review the AIM Act’s “text, considered alongside
+its context, purpose, and history.” Gundy, 588 U.S. at 136. We
+agree with the EPA that the statute guided the agency “to
+allocate . . . allowances among persons that have produced or
+imported hydrofluorocarbons.” EPA Br. 27–29. The statutory
+text commands the EPA to allocate allowances “in accordance
+with” the Act, 42 U.S.C. § 7675(e)(3); and the Act focuses on
+reducing HFC “production and consumption.” See id.
+§ 7675(e)(3)(A)–(B) (directing the EPA to “issue a final rule”
+“phasing down the production . . . [and] consumption” of
+HFCs); see also id. § 7675(e)(2)(C) (setting schedule for
+reducing baseline levels of “production and consumption” of
+                             16
+HFCs). To accomplish the statute’s goal of phasing down
+HFCs, the EPA must require the existing players in the HFC
+market to lower their HFC “production and consumption” to a
+degree that is commensurate with the capped number of
+allowances issued by the agency. A natural way to allocate the
+allowances to achieve that purpose is to rely on the market
+participants’ historical market share.
+
+     Moreover, precedent supports that approach: The AIM
+Act follows the lead of two predecessor cap-and-trade
+programs that virtually eliminated the emissions of CFCs and
+HCFCs. Indeed, legislative history demonstrates that the AIM
+Act was “modeled on” Title VI of the Clean Air Act. See
+Promoting American Innovation and Jobs: Legislation to
+Phase Down Hydrofluorocarbons: Hearing on H.R. 5544
+Before the Subcomm. on Env’t & Climate Change of the H.
+Comm. on Energy & Com., 116th Cong. 2, 7 (2020) (statements
+of Rep. Paul Tonko, Chairman, H. Subcomm. on Env’t &
+Climate Change, and Rep. Frank Pallone, Jr., Chairman, H.
+Comm. on Energy & Com.) (Title VI “proved an able vehicle
+to foster an orderly, market-based phasedown of HFCs’
+predecessors,” and the AIM Act “builds upon [Congress’s]
+previous experience in phasing out CFCs and their replacement
+chemicals, HCFCs.”). Thus, in both statutes, Congress used
+“baseline” years to set caps and phaseout schedules for the
+regulated refrigerants. Compare 42 U.S.C. §§ 7671(2)(A)–
+(C), 7671c(a), 7671d(b), with id. § 7675(e)(1). Congress also
+directed the EPA to allocate allowances to accomplish the
+refrigerant phaseouts “in accordance with” each controlling
+Act. Compare 42 U.S.C. §§ 7671c(c), 7671d(c), with id.
+§ 7675(e)(3). Congress even expressly incorporated certain
+provisions of Title VI into the AIM Act, such as the penalty,
+recordkeeping-and-monitoring, citizen-suit, and judicial-
+review provisions. See id. § 7675(k)(1)(C).
+                                   17
+     Based on the strong similarity between the programs
+created by the AIM Act and Title VI, it is evident that Congress
+expected the EPA to implement the HFC cap-and-trade
+program in a manner that tracked the successful predecessor
+programs for CFCs and HCFCs — and those predecessor
+programs allocated allowances according to market share.
+Compare Protection of Stratospheric Ozone, 57 Fed. Reg.
+33754, 33754 (July 30, 1992) (“[The EPA] [a]pportions
+baseline allowances to produce or import ozone depleting
+substances to companies that produced or imported certain
+ozone depleting substances in the baseline years[.]”), with 2024
+Rule, 88 Fed. Reg. at 46837 (“The Agency is basing these
+general pool allocations on entities’ market shares derived from
+the average of the three highest years of production and
+consumption, respectively, of regulated substances between
+2011 and 2019.”). That interpretation of the AIM Act is
+consistent with “the familiar principle that Congress legislates
+with a full understanding of existing law.” Am. Fed’n of Gov’t
+Emps. v. FLRA, 46 F.3d 73, 78 (D.C. Cir. 1995). Congress
+intended that the EPA would implement the AIM Act by
+allocating allowances in an orderly, market-based fashion, as it
+did when implementing cap-and-trade programs under Title
+VI. See Am. Power & Light Co., 329 U.S. at 104 (concluding
+that the relevant delegation “derive[d] much meaningful
+content from the purpose of the Act, its factual background and
+the statutory context”).3
+
+
+3
+     We also note that, to the extent the AIM Act is susceptible to
+more than one plausible construction, we should read the statute to
+avoid granting discretion that is so broad that it could create a
+nondelegation problem. See Consumers’ Rsch., slip op. at 30
+(“Statutes (including regulatory statutes) should be read, if possible,
+to comport with the Constitution, not to contradict it.”); Gundy, 588
+U.S. at 136 (rejecting the petitioner’s preferred reading of the statute,
+under which the Court “would face a nondelegation question”).
+                                18
+     “Now that we have determined what [the statute] means,
+we can consider whether it violates the Constitution.” Gundy,
+588 U.S. at 145. The foregoing analysis reveals that our
+interpretation of the statute all but answers the constitutional
+question of whether Congress provided an intelligible principle
+to guide the agency’s discretion. See id. at 136 (“[I]ndeed, once
+a court interprets the statute, it may find that the constitutional
+question all but answers itself.”).
+
+      Here, the AIM Act directs the EPA’s regulatory authority
+“to a particular subject matter . . . in a particular industry” —
+i.e., the allocation of a capped number of allowances for the
+production and consumption of HFCs. Sanchez v. Off. of State
+Superintendent of Educ., 45 F.4th 388, 401–02 (D.C. Cir.
+2022). “Within that narrow sphere,” Congress “can delegate
+considerable discretion.” Id. at 402. Indeed, how to allocate
+allowances in a cap-and-trade program is the sort of “technical
+issue” for which little guidance is necessary. Consumers’
+Rsch., slip op. at 11; see Am. Trucking, 531 U.S. at 475 (“[T]he
+degree of agency discretion that is acceptable varies according
+to the scope of the power congressionally conferred.”). By
+modeling the AIM Act on Title VI, Congress “imposed
+ascertainable and meaningful guideposts for” the EPA “to
+follow when carrying out its delegated function of” allocating
+HFC allowances: The guideposts are found in Title VI and its
+implementing regulations, which allocated allowances
+according to the historical market share of industry
+participants. Consumers’ Rsch., slip op. at 19. The AIM Act’s
+allocation provisions, read in context, are constitutionally
+sufficient and do not violate the nondelegation doctrine. See
+Gundy, 588 U.S. at 135–36; see also Sanchez, 45 F.4th at 401–
+02 (concluding that the “implication of the Act, read as a
+whole,” clearly guided the Mayor’s discretion).
+                              19
+     The AIM Act plainly does not give the EPA the sort of
+unbounded discretion that renders a statute unconstitutional.
+Subsection (e)(3) is very different from the only two
+precedents, from over ninety years ago, that applied the
+nondelegation doctrine to strike down a law. See Panama
+Refining Co., 293 U.S. 388; A.L.A. Schechter Poultry Corp.,
+295 U.S. 495. The Supreme Court overturned statutes “in each
+case because Congress had failed to articulate any policy or
+standard to confine discretion.” Gundy, 588 U.S. at 146
+(cleaned up) (emphasis in original). By contrast, as discussed,
+the history and context of the AIM Act show that Congress
+provided ample direction to confine the EPA’s discretion in
+implementing the statute’s allowance-allocation program.
+
+                               3.
+
+     We are unpersuaded by Choice’s counterarguments.
+Choice complains that the AIM Act’s language directing the
+EPA to distribute allowances “in accordance with this section,”
+42 U.S.C. § 7675(e)(3), is not as specific as the direction
+provided in other sections of the Act. But the Constitution does
+not require the degree of specificity demanded by Choice. See
+Am. Trucking, 531 U.S. at 475 (noting that the nondelegation
+doctrine has “never demanded . . . that statutes provide a
+determinate criterion” (cleaned up)).
+
+     Choice further disputes Title VI’s relevance to the AIM
+Act and says that Title VI cannot provide limiting principles
+here because Congress “expressly incorporated certain
+procedural provisions of the Clean Air Act” while “declin[ing]
+to refer to any substantive provisions.” Choice Reply Br. 14.
+As already discussed, however, the Act’s structure and history
+clearly show that Congress relied on Title VI for more than the
+procedural provisions expressly incorporated. See, e.g.,
+Hearing on H.R. 5544, 116th Cong. 2 (statement of Rep. Paul
+                               20
+Tonko) (“The legislation is modeled on Title VI of the Clean
+Air Act,” which “proved an able vehicle to foster an orderly,
+market-based phasedown of HFCs’ predecessors.”).
+
+     Finally, Choice accuses the EPA of taking different
+positions in prior proceedings and argues that the EPA’s
+decision to model its HFC phasedown on Title VI today does
+not prevent the EPA from “abandon[ing] this system in the
+future.” Choice Reply Br. 14; see also Am. Trucking, 531 U.S.
+at 472 (“[A]n agency [cannot] cure an unlawful delegation of
+legislative power by adopting in its discretion a limiting
+construction of the statute.”). We decline to consider this
+possibility because it is not our job to address hypothetical
+future applications of the AIM Act. Cf. Nat’l Endowment for
+the Arts v. Finley, 524 U.S. 569, 584 (1998) (We will not
+“invalidate legislation on the basis of . . . hypothetical . . .
+situations not before” us. (cleaned up)). If the EPA
+“abandon[s] this system in the future,” Choice Reply Br. 14,
+that action can be subject to further APA challenge.
+
+    For the reasons discussed, we deny Choice’s petition.
+
+                               III.
+
+     Petitioner IGas challenges the EPA’s 2024 Rule as
+arbitrary and capricious. According to IGas, the EPA’s
+decision to calculate market share by considering an entity’s
+three highest years of production and consumption between
+2011 and 2019 was unreasonable because it excluded 2020
+data.4 Because the EPA’s methodology was reasonable, we
+reject IGas’s challenge and deny its petition for review.
+
+
+4
+   IGas has standing to challenge the 2024 Rule. IGas imports
+HFCs regulated by the EPA’s Rule and receives allocations for that
+                                   21
+                                   A.
+
+     As a threshold matter, we disagree with the EPA’s
+contention that IGas forfeited its argument that the agency
+“failed to independently consider whether 2020 data should be
+included” in the allocation methodology. IGas Br. 15. The
+EPA argues that IGas’s comments during the agency-review
+process urged the agency to adopt data from both 2020 and
+2021, which did not adequately preserve its argument on appeal
+that EPA should consider only the 2020 data. See 42 U.S.C.
+§ 7607(d)(7)(B) (An argument is preserved for appeal if it was
+made “with reasonable specificity during the period for public
+comment” before the agency.). But the EPA’s assertion that
+IGas did not previously “point[] to any material difference
+between the 2020 and 2021 data,” EPA Br. 41, is belied by the
+record. In direct response to the EPA’s concern about
+stockpiling in 2020 and 2021, IGas offered different reasons
+for disproving the stockpiling theory for each year. Compare
+J.A. 260–61, with J.A. 262–63. Because IGas pointed out
+differences in the 2020 and 2021 data, IGas’s “comment to the
+agency was adequate notification of the general substance” of
+a claim that the agency should consider each year’s data
+separately. S. Coast Air Quality Mgmt. Dist. v. EPA, 472 F.3d
+882, 891 (D.C. Cir. 2006); see also Appalachian Power Co. v.
+EPA, 135 F.3d 791, 817–18 (D.C. Cir. 1998) (“[T]he [Clean
+Air] Act does not require that precisely the same argument that
+was made before the agency be rehearsed again, word for word,
+on judicial review.”).
+
+
+
+
+import activity. It is thus an “object of the action . . . at issue,” and
+there is “little question” that the action has caused it injury and that
+a judgment preventing the action will redress that injury. Sierra Club
+v. EPA, 292 F.3d 895, 900 (D.C. Cir. 2002) (cleaned up).
+                              22
+                              B.
+
+     On the merits, we conclude that the EPA reasonably
+excluded the 2020 data. Under the Clean Air Act, made
+applicable to the AIM Act through 42 U.S.C. § 7675(k)(1)(C),
+we “may reverse any [] action found to be arbitrary, capricious,
+[or] an abuse of discretion.” 42 U.S.C. § 7607(d)(9)(A). “To
+determine whether EPA’s rules are arbitrary and capricious, we
+apply the same standard of review under the Clean Air Act as
+we do under the Administrative Procedure Act (APA).” Allied
+Loc. & Reg’l Mfrs. Caucus v. EPA, 215 F.3d 61, 68 (D.C. Cir.
+2000) (cleaned up). Under that standard, an agency must
+engage in reasoned decision-making. See Michigan v. EPA,
+576 U.S. 743, 750 (2015). This means that “the agency must
+examine the relevant data and articulate a satisfactory
+explanation for its action including a rational connection
+between the facts found and the choice made.” Motor Vehicle
+Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463
+U.S. 29, 43 (1983) (cleaned up). Agency action is arbitrary and
+capricious if the agency “relied on factors which Congress has
+not intended it to consider, entirely failed to consider an
+important aspect of the problem,” or “offered an explanation
+for its decision that runs counter to the evidence before the
+agency or is so implausible that it could not be ascribed to a
+difference in view or the product of agency expertise.” Id. But
+our “scope of review under the ‘arbitrary and capricious’
+standard is narrow,” and we are not to “substitute [our]
+judgment for that of the agency.” Id. Further, “when an agency
+relies on multiple grounds for its decision,” we may “sustain
+the decision as long as one is valid and the agency would
+clearly have acted on that ground even if the other were
+unavailable.” Casino Airlines, Inc. v. NTSB, 439 F.3d 715, 717
+(D.C. Cir. 2006) (cleaned up).
+                               23
+     Applying that deferential standard of review, the EPA’s
+decision to exclude the 2020 data from its allocation
+methodology was not arbitrary and capricious because the
+agency reasonably concluded that (1) the data was
+unrepresentative of market share, and (2) its inclusion would
+disrupt the market.
+
+     First, the EPA reasonably determined that the 2020 data
+was “less representative due to several important global and
+market factors,” “such as the COVID–19 pandemic and supply
+chain disruptions,” “and therefore [did] not accurately
+represent companies’ market share.” 2024 Rule, 88 Fed. Reg.
+at 46843. The EPA conducted extensive stakeholder outreach
+and received comments agreeing with its concern that the
+“production and importation of HFCs in 2020 [] were
+influenced by external factors such as the COVID–19
+pandemic and supply chain disruptions.” Id. Indeed, IGas’s
+own comments conceded that 2020 was “anomalous as a result
+of the COVID–19 pandemic where supply chain difficulties
+dominated all markets.” J.A. 60; see also J.A. 256 (continuing
+to represent that there were “significant difficulties with supply
+and transportation caused by the COVID–19 pandemic”). The
+EPA’s final rule further noted that the agency “received
+comments from a trade organization whose members represent
+70 percent of the dollar value of the HVAC-Refrigeration
+market, 400 whole companies, nearly 300 manufacturing
+associates and nearly 100 manufacturer representatives, who
+supported the Agency’s proposal to exclude 2020 and 2021
+from evaluation.” 2024 Rule, 88 Fed. Reg. at 46843. It was
+plainly reasonable for the EPA to rely on the comments of a
+“breadth of stakeholders,” id. at 46844, as well as IGas’s own
+comments about the 2020 data.
+
+     We also reject IGas’s argument that the 2020 data should
+be included even if it is atypical, to avoid punishing companies
+                                 24
+that managed to do well in atypical years. The EPA’s decision
+that allocations should reflect typical market share is a policy
+judgment entitled to deference. See Bluewater Network v.
+EPA, 370 F.3d 1, 11 (D.C. Cir. 2004) (We do not “substitute
+our policy judgment for that of the Agency.”). Our job is
+limited to “ensuring that EPA has examined the relevant data
+and articulated a satisfactory explanation for its action.” Id.
+(cleaned up). Here, the EPA has done that. The EPA
+acknowledged the issue raised by IGas, but disagreed “that it
+would be appropriate to incorporate data influenced by the
+pandemic because some entities did well during those years.”
+2024 Rule, 88 Fed. Reg. at 46845. The EPA reasonably
+declined to “provid[e] a company with additional future
+allowances based on activity in years that are so unusual.” Id.5
+
+      Second, the EPA’s decision to exclude the 2020 data
+because of its potential to disrupt the market independently
+supports upholding the 2024 Rule. In the 2024 Rule, the EPA
+chose to maintain existing market-share calculations — which
+did not include 2020 data — because “[r]egulated entities have
+. . . previously expressed a preference for allowances to be
+allocated using a consistent approach for as long as possible.”
+2024 Rule, 88 Fed. Reg. at 46844. The agency determined that
+“[a]pplying a similar approach as the one taken” previously
+
+5
+      And contrary to IGas’s assertions, the EPA was not inconsistent
+in its treatment of 2020 data. IGas argues that the EPA’s decision to
+exclude 2020 data as unrepresentative is undermined by the
+Framework Rule, which required entities to be an active market
+participant in 2020 to be eligible for allowances. But the Framework
+Rule recognized the atypicality of 2020 by providing exceptions for
+entities that were inactive in 2020 due to the COVID–19 pandemic.
+See Framework Rule, 86 Fed. Reg. at 55144 (stating that the EPA
+will “give individualized consideration to circumstances of historical
+importers that were not active in 2020,” “for example if [inactivity]
+was due to the COVID–19 pandemic”).
+                                25
+“will provide a longer-term planning horizon for HFC
+producers and entities importing, which will enable entities to
+make decisions about which HFCs, and HFC substitutes, to
+produce and import as the market transitions[.]” Id. For those
+reasons, the EPA concluded, retaining the Framework Rule’s
+dataset to set allowances was the “best means for reducing
+(though not eliminating) disruption to the market.” Id. The
+EPA thus “justif[ied] its rule with a reasoned explanation.”
+Stilwell v. Off. of Thrift Supervision, 569 F.3d 514, 519 (D.C.
+Cir. 2009).
+
+     We disagree with IGas’s claim that excluding 2020 data
+does not advance the EPA’s stated goal of continuity and that
+the EPA’s conclusion was “left completely unexplained.” IGas
+Br. 42 (quoting West Virginia v. EPA, 362 F.3d 861, 866 (D.C.
+Cir. 2004)). And although IGas argues otherwise, the EPA was
+not required to conduct studies to conclusively show that the
+2020 data would have significantly changed individual
+allocations. The APA “imposes no general obligation on
+agencies to produce empirical evidence.” Stilwell, 569 F.3d at
+519.
+
+     For the foregoing reasons, we deny IGas’s petition.6
+
+                                                     So ordered.
+
+
+6
+      We need not examine the additional reasons that the EPA
+provided for excluding the 2020 data, including its statements that
+2020 was not a representative year due to stockpiling ahead of the
+AIM Act’s passage, and that 2020 data was not as reliable or well-
+vetted as data from 2011 to 2019. That analysis would be
+superfluous. See Casino Airlines, 439 F.3d at 717 (“We have
+consistently held that when an agency relies on multiple grounds for
+its decision, some of which are invalid, we may nonetheless sustain
+the decision as long as one is valid and the agency would clearly have
+acted on that ground even if the other were unavailable.” (cleaned
+up)).
+

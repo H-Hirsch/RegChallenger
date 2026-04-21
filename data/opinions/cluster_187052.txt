@@ -1,0 +1,565 @@
+  Notice: This opinion is subject to formal revision before publication in the
+Federal Reporter or U.S.App.D.C. Reports. Users are requested to notify the
+Clerk of any formal errors in order that corrections may be made before the
+bound volumes go to press.
+
+
+ United States Court of Appeals
+            FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 19, 2007                   Decided December 11, 2007
+
+                               No. 06-1164
+
+             ENVIRONMENTAL DEFENSE, INC., ET AL.,
+                       PETITIONERS
+
+                                     v.
+
+           ENVIRONMENTAL PROTECTION AGENCY AND
+             STEPHEN L. JOHNSON, ADMINISTRATOR,
+                         RESPONDENTS
+
+
+            On Petition for Review of an Order of the
+               Environmental Protection Agency
+
+
+
+    Robert E. Yuhnke argued the cause for petitioners. With
+him on the briefs was Joanne M. Spalding.
+
+    David J. Kaplan, Attorney, U.S. Department of Justice,
+argued the cause for respondents. With him on the brief was
+John C. Cruden, Deputy Assistant Attorney General.
+
+    Before: GINSBURG, Chief Judge, and ROGERS and BROWN,
+Circuit Judges.
+                                  2
+
+     Opinion for the Court filed by Circuit Judge ROGERS.
+
+     ROGERS, Circuit Judge: Environmental Defense, Inc., the
+Natural Resources Defense Council, and the Sierra Club petition
+for review of a final rule promulgated by the Environmental
+Protection Agency to regulate “hot spot” analyses undertaken as
+part of the transportation conformity determinations required by
+the Clean Air Act (“CAA”). See PM2.5 and PM10 Hot Spot
+Analyses in Project-Level Transportation Conformity
+Determinations for the New PM2.5 and Existing PM10 National
+Ambient Air Quality Standards (“Final Rule”), 71 Fed. Reg.
+12,468, 12,470-74 (Mar. 10, 2006) (to be codified at 40 C.F.R.
+pt. 93). Petitioners seek a remand of sections 93.116 and 123(b)
+of the Final Rule on the ground that they fail to implement the
+conformity conditions in CAA §§ 176(c)(1)(A) and (B)(iii).
+Petitioners also seek vacatur of EPA’s decision to withdraw a
+previously announced emissions model from use in “hot spot”
+analyses on the ground that EPA failed to give prior adequate
+notice or opportunity for comment.1 We grant the petition in
+part and deny it in part. Because petitioners fail to show that
+EPA’s interpretation of CAA § 176(c)(1)(A) is unreasonable or
+that EPA failed to give adequate notice and opportunity for
+comment prior to withdrawing the model, we deny the petition
+as to those contentions. However, if “any area” properly means
+“a local area” under CAA § 176(c)(1)(B)(i) and (B)(ii), then it
+is arbitrary and capricious not to define the term similarly in
+(B)(iii) or not to explain why the term there means something
+different. We therefore grant the petition and remand the Final
+Rule for EPA either to interpret (B)(iii) in harmony with (B)(i)
+and (B)(ii) or to explain why it need not do so.
+
+
+        1
+          The court severed Petitioners’ other challenges to the Final
+Rule pursuant to a joint motion of the parties in light of settlement
+discussions. Envtl. Def. v. EPA, No. 06-1164 (D.C. Cir. June 14,
+2007).
+                                 3
+
+                                 I.
+
+     Pursuant to the CAA, EPA has established National
+Ambient Air Quality Standards (“NAAQS”) that regulate air
+contaminants, including particulate matter measuring less than
+ten micrometers (“PM10”) and less than 2.5 micrometers
+(“PM2.5”).     The states, in turn, have prepared State
+Implementation Plans (“SIPs”) to “provide[] for
+implementation, maintenance, and enforcement of [NAAQS] in
+each air quality control region (or portion thereof) . . . .” CAA
+§ 110(a)(1), 42 U.S.C. § 7410(a)(1). See generally Envtl. Def.
+Fund v. EPA (“EDF II”), 167 F.3d 641, 643-46 (D.C. Cir.
+1999); S. Coast Air Quality Mgmt. Dist. v. EPA, 472 F.3d 882,
+886-87 (D.C. Cir. 2006). The CAA requires that states be
+divided into specific areas, which are rated “nonattainment” if
+air quality standards do not comply with the NAAQS,
+“attainment” if they do, or “maintenance” if they have passed
+from nonattainment to attainment status.                      CAA
+§§ 107(d)(1)(A)(I)-(ii); 3(E), 42 U.S.C. §§ 7407(d)(1)(A)(I)-(ii);
+(3)(E).
+
+     The federal conformity rule, first adopted in 1977,
+prohibited federal agencies from assisting, supporting, or
+approving transportation activities that do not conform to a
+state’s SIP. See Criteria and Procedures for Determining
+Conformity to State or Federal Implementation Plans, 58 Fed.
+Reg. 62,188, 62,189 (Nov. 24, 1993). State-designated
+metropolitan planning organizations (“MPOs”) for certain urban
+areas, as required by the federal highway law,2 could not approve
+
+
+        2
+          Thus, states must designate an MPO in each urban area with
+a population over 50,000 persons. 23 U.S.C. § 134(d). The MPO, in
+turn, must prepare a 20-year regional transportation plan, id. at §
+134(I), and a transportation improvement program (“TIP”) with a
+four-year horizon. Id. at § 134(j). These “plans” and “programs”
+                                   4
+
+transportation activities that did not conform to a SIP. Id. In the
+years after adoption of the conformity rule, EPA and the U.S.
+Department of Transportation (“DOT”) engaged in inconclusive
+discussions about whether individual transportation projects that
+were part of broader transportation plans implementing SIP
+requirements could be approved without further assessments.
+EPA argued for additional assessments to evaluate whether
+individual projects would affect the attainment of NAAQS in SIP
+areas. See, e.g., Letter from Jennifer Joy Wilson, Assistant
+Adm’r for External Affairs, EPA & Don R. Clay, Acting
+Assistant Adm’r for Air and Radiation, EPA, to Robert E. Farris,
+Administrator, Federal Highway Administration, DOT (Nov. 8,
+1988).
+
+     In 1990, Congress amended the CAA’s conformity
+provisions, requiring EPA and DOT jointly to promulgate
+ transportation regulations. As amended, Section 176(c)(1)3 sets
+forth conformity requirements for all activities:
+
+
+
+identify transportation “projects” that the MPO wants to implement.
+See generally 23 U.S.C. §§ 101 et seq.; 49 U.S.C. §§ 5301 et seq.
+        3
+            Section 176(c)(1) provides, in part, that:
+
+                 No department, agency, or instrumentality of the
+                 Federal Government shall engage in, support in any
+                 way or provide financial assistance for, license or
+                 permit, or approve, any activity which does not
+                 conform to an implementation plan after it has been
+                 approved or promulgated under section 7410 of this
+                 title [addressing SIPs].
+
+42 U.S.C. § 7506(c)(1). MPOs similarly may not approve any
+“project, program, or plan which does not conform to a [SIP].” Id.
+                               5
+
+         Conformity to an implementation plan means–
+
+         (A) conformity to an implementation plan’s purpose of
+         eliminating or reducing the severity and number of
+         violations of the national ambient air quality standards
+         and achieving expeditious attainment of such standards;
+         and
+
+         (B) that such activities will not –
+              (i) cause or contribute to any new violation of any
+              standard in any area;
+              (ii) increase the frequency or severity of any
+              existing violation of any standard in any area; or
+              (iii) delay timely attainment of any standard or
+              any required interim emission reductions or other
+              milestones in any area.
+
+42 U.S.C. § 7506(c)(1) (emphases added).
+
+      The EPA first invoked its authority under § 176(c)(4), 42
+U.S.C. § 7506(c)(4), to promulgate regulations applicable to
+transportation projects, in 1993. In relevant part, those
+regulations required federal agencies and MPOs to conduct an
+analysis of the impact of a transportation project upon carbon
+monoxide and PM10 pollution at the local level in nonattainment
+and maintenance areas. See 40 C.F.R. § 93.101 (1993). Such an
+analysis thus provides information concerning pollutant levels
+“on a scale smaller than the entire nonattainment or maintenance
+area, including, for example, congested roadway intersections .
+. . .” Id. The rule required only a qualitative approach for PM10
+“until EPA releases [quantitative] modeling guidance on this
+subject and announces in the Federal Register that these
+requirements are in effect.” Id. §§ 93.131(d), 51.454(d) (1993);
+see also id. § 93.123(b)(4).
+                                 6
+
+      In November 2003 EPA proposed to amend these
+conformity regulations by adopting criteria and procedures for
+PM2.5 and revising the hot spot rule for PM10. Notice of
+Proposed Rulemaking (“NPRM”), 68 Fed. Reg. 62,690, 62, 712
+(Nov. 5, 2003). On December 13, 2004, EPA issued a
+supplementary proposal setting forth a number of hot spot
+options for PM2.5. Supplemental Notice of Proposed Rulemaking
+(“Supplemental NPRM”), 69 Fed. Reg. 72,140, 72,144-45 (Dec.
+13, 2004), and for PM10, id. at 72,149-50. EPA proposed to
+require only a qualitative analysis for PM2.5 in the first instance,
+as it had done for PM10. Id. at 72,145.
+
+    Ultimately EPA revised the existing hot spot regulation as
+regards PM10 and imposed the same criteria for PM2.5. Final
+Rule, 71 Fed. Reg. at 12,470-71 (amending 40 C.F.R. § 93.116).
+The new hot spot regulation, which applies in nonattainment and
+maintenance areas regardless of the SIP, 40 C.F.R. § 93.116,
+now provides that a new transportation project:
+
+               must not [1] cause or contribute to any new
+               localized CO, PM10, and/or PM2.5 violations or [2]
+               increase the frequency or severity of any existing
+               CO, PM10, and/or PM2.5 violations in CO, PM10
+               and PM2.5 nonattainment and maintenance areas.
+               This criterion is satisfied . . . if it is demonstrated
+               that . . . no new local violations will be created
+               and the severity or number of existing violations
+               will not be increased as a result of the project.
+
+Final Rule, 71 Fed. Reg. at 12,510 (codified at 40 C.F.R. §
+93.116(a)).
+
+    During the rulemaking, Petitioners commented that
+proposed § 93.116(a) violated CAA §§ 176(c)(1)(A) and (B)(iii).
+They posited that by including only two of the four statutory
+                                 7
+
+conformity conditions, the proposed rule failed to require any
+finding that the project be consistent with the SIP’s aim of
+eliminating all emissions violations and that the project’s
+emissions not delay timely attainment and interim progress in
+meeting emission milestones. EPA, in response, rejected the
+view that the “hot spot” regulation supplants existing
+transportation conformity regulations, maintaining instead that
+the latter already require transportation projects to be “consistent
+with the emissions projections and control measures in the SIP.”
+Final Rule, 71 Fed. Reg. at 12,482. According to EPA, the
+purpose of “hot spot” regulations is limited to preventing an
+increase in the severity or frequency of local violations of
+emissions standards, reflecting the mandate of CAA §§
+176(c)(1)(B)(i) and B(iii); EPA rejected a construction of CAA
+§§ 176(c)(1)(A) and (B)(iii) that would require new individual
+projects to reduce emissions as opposed to preventing any new
+violations or worsening of existing violations. See id.
+
+     EPA also announced in the Final Rule that a previously
+established quantitative emissions model, MOBILE6.2, while
+potentially appropriate for quantitative analyses of PM2.5 at the
+regional level, was not appropriate for PM2.5 or PM10 hot-spot
+analyses. Id. at 12,500. Previously, EPA had stated that
+MOBILE6.2 “must be used in all PM2.5 conformity analyses,
+until [it is] replaced by newer approved methods or models.”
+Notice of Availability (“NOA”), 69 Fed. Reg. 28,830, 28,832
+(May 19, 2004). Upon releasing MOBILE6.2, EPA had
+explained that the release did not trigger any requirement
+quantitatively to analyze PM10 emissions under the hot spot rule.
+Id.
+
+                                II.
+
+    Petitioners challenge EPA’s amendment to the “hot spot”
+conformity regulation, 40 C.F.R. § 93.116, contending that it
+                                8
+
+unlawfully ignores the requirements of CAA §§ 176(c)(1)(A)
+and (B)(iii). Petitioners also challenge EPA’s withdrawal of
+MOBILE6.2 for PM2.5 hot spot analyses.
+
+                                A.
+     As a threshold matter, we hold that insofar as EPA maintains
+that Petitioners’ challenge to the Final Rule is time barred
+because EPA did not reopen these issues in the rulemaking, its
+position is untenable. The final rule applied existing regulatory
+criteria to PM10 and PM2.5, and there is a limited period of time
+within which an aggrieved party may obtain judicial review of an
+EPA rule. In the instant case, however, the notices in the Federal
+Register in November 2003 and December 2004 “create[d] the
+opportunity for renewed comment [on] and objection” to the “hot
+spot” regulation as applied to PM2.5 and PM10. See Ohio v. EPA,
+838 F.2d 1325, 1328 (D.C. Cir. 1988). The NPRM “invite[d]
+commenters [(sic)] to suggest additional options” for PM10 rules
+beyond those EPA proposed. 68 Fed. Reg. at 62,713; see id. at
+62,714. The Supplemental NPRM sought comment on the
+application of Section 176(c)(1) to PM2.5, stating that “EPA
+believes it is important to consider the full range of options for
+addressing localized PM2.5 concentrations which may cause or
+contribute to any new violation of the PM2.5 standard; increase
+the frequency or severity of any existing violation; or delay
+timely attainment of the standard.” 69 Fed. Reg. at 72,146.
+
+     EPA’s proposed rulemaking, which discussed five different
+options, thus explicitly invited comment on the 1993 conformity
+rule and the statutory conformity requirements for projects.
+Given its expansive call for comments on the “hot spot”
+requirements, EPA cannot plausibly contend that Petitioners’
+comments asking that the proposed rule be modified for PM2.5
+and PM10 raised issues outside the scope of the rulemaking. Nor
+did EPA take that position in responding to Petitioners’
+                                9
+
+comments during the rulemaking. Accordingly, the court may
+entertain the petition.
+
+                                B.
+     When incorporating PM2.5 into the hot spot regulations, EPA
+did not require that new projects contribute to reducing the
+severity and number of local NAAQS violations, as Petitioners
+contend CAA § 176(c)(1)(A) requires, and also did not require
+that the new projects not delay the timely attainment of
+emissions standards or milestones in any local area, as
+Petitioners contend CAA § 176(c)(1)(B)(iii) requires. These
+additional statutory conditions are important, Petitioners observe,
+because “they add the requirement that the project must
+contribute to NAAQS compliance by reducing or eliminating
+violations, or that measures must be adopted to ensure that
+emissions from the project will not interfere with attainment by
+delaying the emission reductions needed for attainment beyond
+the attainment deadline.” Petr.’s Br. 20. The two conditions in
+the Final Rule “only go so far as to prevent projects that will
+worsen existing air quality, either by causing new violations
+where none currently exist or by contributing to the increased
+frequency or severity of violations being caused by emissions
+from an existing highway, terminal or other transportation
+facility.” Id. at 20-21. Petitioners further contend that when
+Congress amended the CAA in 1990 to prescribe conditions it
+removed any agency discretion to define the essential conditions
+relevant to making a conformity determination and,
+consequently, EPA had no authority to waive its statutory duty
+to prescribe criteria and procedures to be used by DOT when
+making conformity determinations. Id. at 6-10, 23, 33.
+
+     EPA does not dispute that it cannot waive the requirements
+of CAA §§ 176(c)(1)(A) and (B), see Final Rule, 71 Fed. Reg. at
+12,481; Supplemental NOPR, 69 Fed. Reg. at 72,143, but
+reiterates its position in the rulemaking that neither provision of
+                                10
+
+the CAA requires individual projects to reduce emissions, see
+Final Rule, 71 Fed. Reg. at 12,481. As construed by EPA, these
+provisions “only require air quality to not be worsened by an
+individual project than what would have otherwise occurred.”
+Id. at 12,482.
+
+     We review Petitioners’ challenge to determine whether
+EPA’s promulgation of the Final Rule was arbitrary or
+capricious, an abuse of discretion, or otherwise not in accordance
+with law. See CAA § 307(d)(9)(A), 42 U.S.C. § 7607(d)(9)(A);
+see also 5 U.S.C. § 706. Challenges to EPA’s interpretation of
+the CAA are governed by the familiar two-pronged test of
+Chevron, U.S.A., Inc. v. Natural Resources Defense Council,
+Inc., 467 U.S. 837 (1984). Under step one, the court asks
+“whether Congress has directly spoken to the . . . issue;” if
+Congress’ intent is clear, “that is the end of the matter; for the
+court, as well as the agency, must give effect to the
+unambiguously expressed intent of Congress.” Id. at 842-43.
+However, if the court determines that “Congress has not directly
+addressed the precise question at issue,” id. at 843, then, under
+step two, “if the statute is silent or ambiguous with respect to the
+specific issue, the question for the court is whether the agency’s
+answer is based on a permissible construction of the statute.” Id.
+
+                                 1.
+     Petitioners contend that CAA § 176(c)(1)(A) adds the
+additional temporal condition that a project contributes to
+attaining the NAAQS “as expeditiously as practicable.” Petr.’s
+Br. 21. In support of their interpretation that subsection (A)
+requires emissions reductions, Petitioners point to EDF II, 167
+F.3d at 647, where the court stated that “a ‘conforming’ . . .
+project is one that will contribute to ‘eliminating or reducing the
+severity and number of violations of the [NAAQS] . . . .’” Id.
+(citing 42 U.S.C. § 7506(c)(1)(A)). We conclude that Petitioners
+have not shown that subsection (A) applies to “hot spots” or that
+                                11
+
+EPA’s contrary position is arbitrary or capricious or contrary to
+the statute.
+
+     Subsection (A) provides that activities shall “conform[] to
+an implementation plan’s purpose.” The statute defines an
+implementation plan in regional terms by state, not as a localized
+area. See CAA § 107(b), 42 U.S.C. § 7407(b). To the extent that
+subsection (A), on its face, does not apply to the immediate “area
+substantially affected by [a] project,” cf. 40 C.F.R. § 93.101, it
+is unnecessary to reach the question of what subsection (A) may
+require by way of emissions reduction. But to the extent that
+subsection (A) is ambiguous because of the reference in CAA
+§ 176(c)(1)’s introductory clause to “project, program, or plan,”
+Petitioners fail to show that EPA’s interpretation is not “a
+permissible construction of the statute.” Chevron, 467 U.S. at
+843.
+
+     EPA interprets the conditions in subsection (A) to be “met
+if a transportation project is consistent with the emissions
+projections and control measures in the SIP.” Final Rule, 71
+Fed. Reg. at 12,482. In the preamble to the Final Rule, EPA
+explained that “[a]lthough . . . transportation projects need to be
+consistent with a SIP’s purpose of reducing violations, this can
+be accomplished by simply not increasing violations . . . .” Id.
+(citing Envtl. Def. Fund v. EPA (“EDF I”), 82 F.3d 451 (D.C.
+Cir. 1996)).4 According to EPA, so long as air quality
+concentrations in the entire SIP area are not worsened as the
+result of a transportation project, subsection (A) is satisfied.
+Consistent with subsection (A)’s focus on the SIP as a whole by
+
+
+        4
+          EDF I’s interpretation of CAA § 176(c)(1)(A) was recently
+reaffirmed by Environmental Defense v. EPA (“EDF III”), 467 F.3d
+1329, 1339 (D.C. Cir. 2006), although it too does not speak to the
+antecedent question of whether subsection (A) requires a “hot spot”
+analysis.
+                                12
+
+contrast with the express attention to “any area” in
+§ 176(c)(1)(B), EPA has never taken the position that subsection
+(A) applies to a “hot spot.” For example, in the Supplemental
+NPRM, EPA cited subsection (B) as the basis for requiring
+conformity analysis at PM “hot spots.” See 69 Fed. Reg. at
+72,146.
+
+     Petitioners view CAA § 176(c)(2) as the statutory scheme
+for regional emissions conformity based on the SIP and CAA
+§ 176(c)(1) as the scheme for local “hot spot” conformity based
+on the NAAQS. Petitioners accordingly assert that EPA has
+violated the statute because subsection (A) requires something
+different than subsection (B). But Petitioners presuppose that
+subsection (A) applies locally without showing that it does.
+Although Petitioners correctly note that subsection (A) applies
+to ‘any project,’ that does not determine whether a project must
+satisfy the conditions in subsection (A) at the local or the
+regional level. EPA has taken the latter view, and Petitioners
+have not established that its interpretation is contrary to the
+statute or unreasonable.
+
+                                  2.
+     More persuasive is Petitioners’ contention that EPA acted
+arbitrarily and contrary to law by not requiring conformity
+determinations for individual projects to meet the conditions of
+CAA § 176(c)(1)(B)(iii) at the local level. CAA § 176(c)(1)
+defines “conformity” as involving “activities” that occur “in any
+area” — a phrase that appears in each of subsection (B)’s
+subparts. EPA includes in the Final Rule the requirements for
+individual projects to comply with the conditions in (B)(i) and
+(B)(ii) at the local level, see 40 C.F.R. § 93.101, but does not do
+so for (B)(iii)’s conditions. EPA provides no reason for
+interpreting “any area” as meaning “a local area,” i.e., “hot
+spots,” in (B)(i) and (B)(ii) but not in (B)(iii).
+                                13
+
+     EPA maintains on appeal that the Final Rule, along with the
+broader regulatory framework and the SIP process can satisfy the
+requirements of (B)(iii). Because it interprets the statute not to
+require each project to reduce emissions, EPA asserts that it is
+not necessary to include (B)(iii)’s conditions in the Final Rule.
+See Final Rule, 71 Fed. Reg. at 12,482. However, under EPA’s
+revision of the “hot spot” regulations, an individual project’s
+emissions could counterbalance mitigation measures already in
+place, thereby delaying attainment of emissions standards and
+violating the requirement of (B)(iii) without either increasing or
+decreasing emissions. EPA’s position thus does not seem to
+cover all circumstances where (B)(iii) is applicable.
+
+       Even assuming (B)(iii) is ambiguous, EPA’s reliance on the
+SIP process would appear to be arbitrary and capricious for
+failure to establish “a rational connection between the facts
+found and choice made.” Tourus Records, Inc. v. DEA, 259 F.3d
+731, 736 (D.C. Cir. 2001) (quotations omitted). In the preamble
+to the Final Rule EPA acknowledged that it “does not anticipate
+requiring PM2.5 SIP modeling to be performed at a level of detail
+that would identify all potential transportation hot spots” and
+noted comments by State and Territorial Air Pollution Program
+Administrators expressing “concerns regarding the ability of the
+SIP to evaluate the local air quality impacts of all future projects
+. . . .” Final Rule, 71 Fed. Reg at 12,476. So understood, and in
+view of the generous time periods associated with the SIP
+process as outlined in EPA’s brief, see Resp.’s Br. at 33, it is
+likely that SIP-based enforcement of (B)(iii)’s conditions would
+be post-hoc and subject to delays. See, e.g., CAA §§ 110(c) &
+(k)(5), 42 U.S.C. §§ 7410(c) & (k)(5). The statutory prohibition
+on projects that cause delays in attaining emissions standards
+would effectively be stripped of almost any impact and be
+inconsistent with Congress’s intent that pollution production be
+prevented by forward planning. Thus, even were we to treat the
+text as ambiguous, EPA has failed to create a rational link
+                                14
+
+between the requirements of (B)(iii) and the regulatory
+framework or the SIP process.
+
+     The fundamental problem, however, is that if, as EPA posits
+in the Final Rule, “any area” in (B)(i) and (B)(ii) properly means
+“a local area” under either Chevron step one or step two, then it
+is arbitrary and capricious not to define the term similarly in
+(B)(iii) or not to provide an explanation that satisfactorily
+addresses the purpose and function of the condition. EPA’s
+explanation, that individual projects are not required to reduce
+emissions, does not address this inconsistency. A remand is
+therefore required for EPA either to interpret (B)(iii) in harmony
+with (B)(i) and (B)(ii) or to explain why it need not do so.
+
+                                3.
+     Petitioners also contend that EPA erred procedurally when,
+without giving adequate notice or soliciting comments, it
+declined to require that MPOs and federal agencies perform a
+quantitative analysis of PM2.5 emissions at the local level using
+MOBILE6.2, a previously approved emissions model.
+Petitioners point to EPA’s prior approval of MOBILE6.2 for
+such analysis in the 2004 NOA. See 69 Fed. Reg. at 28,832.
+
+     EPA responds that judicial review of this procedural issue
+is barred because Petitioners did not raise it with “reasonable
+specificity” in their comments before the agency. See CAA
+§ 307(d)(7)(B), 42 U.S.C. § 7607(d)(7)(B). Notwithstanding our
+ordinarily “strict[]” application of CAA § 307(d)(7)(B), see
+Motor & Equip. Mfrs. Ass’n v. Nichols, 142 F.3d 449, 462 (D.C.
+Cir. 1998), it is inapplicable here. Pursuant to § 307(d)(1)(V), 42
+U.S.C. § 7607(d)(1)(V), EPA acted to make CAA § 307(d)
+applicable to this rulemaking only upon promulgation of the
+Final Rule. See Final Rule, 71 Fed. Reg. at 12,509-10.
+Petitioners had no prior notice that EPA would take this step; in
+this circumstance CAA § 307(d)(7)(B) does not require that a
+                               15
+
+procedural issue first be presented to the agency. See also Nw.
+Envtl. Def. Ctr. v. Bonneville Power Admin., 117 F.3d 1520,
+1535 (9th Cir. 1997).
+
+     On the merits, however, Petitioners’ contention fails for we
+find no procedural error. In the Supplemental NPRM, which
+followed the NOA release of MOBILE6.2, EPA provided
+sufficient notice and comment opportunities. EPA there
+specifically “propose[d] to extend the            current rule’s
+§ 93.123(b)(3) and (b)(4) requirements with respect to PM2.5.”
+Supplemental NPRM, 69 Fed. Reg. at 72,145. Section
+93.123(b)(4) then provided that “[t]he requirements for
+quantitative analysis [of PM10] will not take effect until EPA
+releases modeling guidance on this subject and announces in the
+FEDERAL REGISTER that these requirements are in effect.” The
+Supplemental NPRM also advised that “[i]f EPA finalizes an
+option that would require quantitative and/or qualitative PM2.5
+hot spot analyses, we would provide guidance and appropriate
+models for carrying out such analyses in a timely manner.” 69
+Fed. Reg. at 72,146. Petitioners objected to this proposed delay
+in quantitative analysis, noting the previously established
+availability of MOBILE6.2 and EPA’s Technical Guidance on
+the Use of MOBILE6.2 for Emission Inventory Preparation;
+other commentators raised similar objections. EPA responded,
+explaining in the preamble to the Final Rule that, in view of its
+“technical limitations,” MOBILE6.2 was inappropriate for use in
+performing local analyses because it “will produce inaccurate
+results in some cases,” which EPA described. Final Rule, 71
+Fed. Reg. at 12,499; see also id. at 12,498-502. This exchange
+demonstrates that EPA complied with the requirements of notice
+and comment rulemaking.
+
+    Accordingly, we grant the petition in part and remand the
+Final Rule to EPA either to interpret CAA § 176(c)(1)(B)(iii) in
+                              16
+
+harmony with (B)(i) and (B)(ii) or to explain why it need not do
+so; we otherwise deny the petition.
+

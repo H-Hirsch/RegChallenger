@@ -1,0 +1,822 @@
+Case: 24-60223         Document: 137-1         Page: 1   Date Filed: 08/22/2025
+
+
+
+
+           United States Court of Appeals
+                for the Fifth Circuit                               United States Court of Appeals
+                                ____________                                 Fifth Circuit
+
+                                                                           FILED
+                                 No. 24-60223                          April 17, 2025
+                                ____________                          Lyle W. Cayce
+                                                                           Clerk
+AT&T, Incorporated,
+
+                                                                      Petitioner,
+
+                                      versus
+
+Federal Communications Commission; United States of
+America,
+
+                                                                   Respondents.
+                  ______________________________
+
+     Petition for Review of the Federal Communications Commission
+                             Agency No. 24-40
+               ______________________________
+
+Before Haynes, Duncan, and Wilson, Circuit Judges. ∗
+Stuart Kyle Duncan, Circuit Judge:
+       Because no member of the panel or judge in regular active service
+requested that the court be polled on rehearing en banc (Fed. R. App. P.
+35 and 5th Cir. R. 35), the petition for rehearing en banc is DENIED. We
+withdraw our previous opinion at 135 F.4th 230, and substitute the following.
+
+
+       _____________________
+       ∗
+           Judge Haynes concurs in the judgment only.
+Case: 24-60223       Document: 137-1         Page: 2        Date Filed: 08/22/2025
+
+
+
+
+                                 No. 24-60223
+
+
+                                      ***
+       AT&T seeks review of a Federal Communications Commission
+forfeiture order. In an internal proceeding, the Commission found that
+AT&T violated section 222 of the Telecommunications Act by mishandling
+customer data and fined the company $57 million. AT&T’s petition argues,
+among other things, that the in-house adjudication violated the Constitution
+by denying it an Article III decisionmaker and a jury trial. Guided by SEC v.
+Jarkesy, 603 U.S. 109 (2024), we agree with AT&T.
+       Accordingly, we grant the petition and vacate the forfeiture order.
+                                       I
+                                      A
+       We first outline section 222 of the Telecommunications Act and then
+explain the Commission’s procedures for enforcing it.
+                                       1
+       Under section 222, telecommunications carriers must protect the
+confidentiality of “customer proprietary network information” (“CPNI”).
+47 U.S.C. § 222(a). CPNI is defined as “information that relates to the
+quantity, technical configuration, type, destination, location, and amount of
+use of a telecommunications service subscribed to by any customer of a
+telecommunications carrier, and that is made available to the carrier by the
+customer solely by virtue of the carrier-customer relationship.” Id.
+§ 222(h)(1)(A).
+       Section 222 further provides that carriers “[e]xcept as required by law
+or with the approval of the customer . . . shall only use, disclose, or permit
+access to individually identifiable [CPNI] in its provision of (A) the
+telecommunications service from which such information is derived, or
+(B) services   necessary   to,   or   used      in,   the     provision   of   such
+
+
+
+
+                                       2
+Case: 24-60223            Document: 137-1           Page: 3   Date Filed: 08/22/2025
+
+
+
+
+                                        No. 24-60223
+
+
+telecommunications service . . . .” Id. § 222(c)(1). Commission regulations
+flesh out these responsibilities. Carriers “must take reasonable measures to
+discover and protect against attempts to gain unauthorized access to
+CPNI,” 47 C.F.R. § 64.2010(a), and they may use or disclose CPNI only
+with customers’ “opt-in approval.” Id. § 64.2007(b).
+                                              2
+       The Commission assesses forfeiture penalties for violations of the
+Act, including violations of section 222. 47 U.S.C. § 503(b)(3)(A). The
+Commission adjudicates alleged violations in two ways: either by assigning a
+case to an administrative law judge (“ALJ”) or by investigating and
+adjudicating the case itself. Ibid. The choice is entirely up to the Commission.
+Ibid. 1 Unsurprisingly perhaps, the Commission typically opts to investigate
+and adjudicate violations itself, as it did here. That process works as follows.
+       First, upon receiving information about a potential violation, the
+Commission’s Enforcement Bureau opens an investigation into a carrier.
+The Bureau can gather information through letters of inquiry sent to the
+carrier, which may include interrogatories and requests for production.
+Enforcement Primer, Federal Communications Commission,
+https://perma.cc/FMQ2-ZH7C. It may also compel documents and
+testimony through administrative subpoenas. Ibid. If the Bureau suspects a
+violation has occurred, it issues a charging document to the carrier called a
+
+       _____________________
+       1
+           Section 503(b)(3)(A) provides in full:
+       At the discretion of the Commission, a forfeiture penalty may be
+       determined against a person under this subsection after notice and an
+       opportunity for a hearing before the Commission or an administrative
+       judge therefore in accordance with section 554 of Title 5. Any person
+       against whom a forfeiture penalty is determined under this paragraph may
+       obtain review thereof pursuant to section 402(a) of this title.
+
+
+
+
+                                              3
+Case: 24-60223         Document: 137-1           Page: 4   Date Filed: 08/22/2025
+
+
+
+
+                                    No. 24-60223
+
+
+Notice of Apparent Liability for Forfeiture (“NAL”). 47 U.S.C.
+§ 503(b)(4)(A). An NAL advises the carrier how it violated the law and
+proposes a penalty.
+       To assess the amount of a penalty, the Commission “shall take into
+account the nature, circumstances, extent, and gravity of the violation and,
+with respect to the violator, the degree of culpability, any history of prior
+offenses, ability to pay, and such other matters as justice may require.” Id.
+§ 503(b)(2)(E). Any penalty “shall not exceed $100,000 for each violation or
+each day of a continuing violation, except that the amount assessed for any
+continuing violation shall not exceed a total of $1,000,000 for any single act
+or failure to act . . . .” Id. § 503(b)(2)(B).
+       Once the Commission issues an NAL, the carrier may respond in
+writing to explain why it should incur no penalty. Id. § 503(b)(4)(C). After
+considering this response, the Commission decides whether to affirm the
+NAL. If it affirms, the Commission issues a forfeiture order. The written
+response is the only way a carrier can oppose a NAL. That is, a carrier
+receives neither a hearing nor a trial before it incurs a Commission forfeiture
+order and accompanying penalty. See AT&T Corp. v. FCC, 323 F.3d 1081,
+1083 (D.C. Cir. 2003) (alleged violators can challenge NAL in writing only).
+       Two paths exist for a carrier to seek review of forfeiture orders.
+       On the first path, a carrier fails to timely pay the penalty, which
+becomes a debt to the United States. 47 U.S.C. § 504(a). The Commission
+refers the debt to the United States Attorney General (DOJ) for a collection
+action in federal district court. Ibid. If DOJ pursues the action, the carrier is
+entitled to a trial de novo (we refer to this as a “section 504 trial”).
+       On the second path, a carrier timely pays the penalty and seeks review
+in the appropriate court of appeals. See AT&T Corp., 323 F.3d at 1084; see
+also 47 U.S.C. § 402(a). The carrier may challenge the order’s legal validity
+
+
+
+
+                                          4
+Case: 24-60223       Document: 137-1      Page: 5    Date Filed: 08/22/2025
+
+
+
+
+                                No. 24-60223
+
+
+but, by choosing this path, forgoes a jury trial. See AT&T Corp., 323 F.3d at
+1084.
+                                     B
+        Next, we sketch this case’s factual and procedural background.
+                                      1
+        AT&T provides its customers with voice, text, and data services. To
+make and receive calls and to transmit data, customers’ phones periodically
+“register,” or “check in,” with nearby signal towers. Because AT&T knows
+where these towers are, it can calculate the approximate location of its
+customers’ phones. AT&T uses this location information to maintain
+network function and to provide services to customers.
+        At issue here is AT&T’s former location-based services program,
+which it discontinued March 2019. Location-based services give users up-to-
+date information about their surroundings, such as maps and traffic
+information. They also include services from providers like Life Alert and
+AAA, which depend upon customers’ locations.
+        While nothing is wrong in principle with providing location-based
+services, the Commission took issue with how AT&T protected its
+customers’ location data. To implement location-based services, AT&T
+contracted with “location aggregators,” who collected customers’ location
+data. The aggregators, in turn, sold this data to service providers like Life
+Alert or AAA.
+        Before allowing those sales, however, AT&T would review a service
+provider’s “use case,” where the provider described why it needed the
+location data and how it obtained customers’ opt-in consent to use the data.
+(That the providers—as opposed to AT&T—obtained users’ consent would
+be important in the Commission’s section 222 analysis.) AT&T’s program
+
+
+
+
+                                      5
+Case: 24-60223         Document: 137-1         Page: 6      Date Filed: 08/22/2025
+
+
+
+
+                                     No. 24-60223
+
+
+also required providers to obtain and document customer consent for every
+location request.
+       While AT&T reviewed the providers’ consent records daily, it did
+not verify customer consent before providing access to location data. AT&T
+also required aggregators to monitor providers and to comply with various
+security requirements, such as vulnerability scanning and encryption. At the
+same time, AT&T could cut off access to customer location information at
+any time.
+        Beginning in May 2018, several news articles reported problems with
+AT&T’s (and other carriers’) location-based services programs. Put simply,
+it became clear that some service providers were misusing or failing to protect
+customer location data. 2 After learning about this, AT&T promptly
+terminated those providers’ access to the data. And by March 2019, AT&T
+stopped providing location data to all aggregators for use by any location-
+based service provider.
+                                           2
+       In May 2018, prompted by such news reports, the Commission’s
+Enforcement Bureau began investigating AT&T and eventually sent the
+company a letter of inquiry seeking information about its location-based
+services program. AT&T complied with the investigation.
+       In February 2020, the Commission issued AT&T an NAL for willful
+and repeated violations of section 222 of the Act and section 64.2010 of the
+
+       _____________________
+       2
+          One example was Securus Technologies, which provided location services to law
+enforcement and correctional facilities. Securus allegedly allowed officers to access
+customer location data without a customer’s consent, so long as officers uploaded a
+document (like a warrant) authorizing the location request. The problem was that Securus
+did not verify whether uploaded documents actually authorized the request.
+
+
+
+
+                                           6
+Case: 24-60223        Document: 137-1        Page: 7     Date Filed: 08/22/2025
+
+
+
+
+                                   No. 24-60223
+
+
+Commission’s rules. The NAL proposed a $57,265,625 penalty. Responding
+in writing, AT&T argued that: (1) location information is not subject to the
+Act because it is not CPNI, and, in any event, AT&T lacked fair notice that
+location information is CPNI; (2) AT&T acted reasonably; (3) the
+forfeiture amount was arbitrary and capricious; and (4) the Commission’s
+enforcement regime is unconstitutional under Article III, the Seventh
+Amendment, and the nondelegation doctrine.
+       In April 2024, the Commission rejected all of AT&T’s arguments
+and affirmed the proposed $57 million penalty. In short, the Commission
+decided that: (1) CPNI relates to the “location” of a telecommunications
+service under § 222(h)(1)(A) because a carrier must be aware of and use the
+device’s location for customers to send and receive calls; (2) that section
+speaks for itself and thus gave AT&T notice; (3) AT&T acted unreasonably
+by relying on providers to enforce safeguards against unauthorized access to
+location information 3; and (4) AT&T’s constitutional arguments failed
+because (a) the possibility of a section 504 trial satisfied the Seventh
+Amendment and Article III, and (b) the Commission’s ability to choose
+between enforcement procedures did not implicate the nondelegation
+doctrine. 4
+       The Commission therefore issued a forfeiture order demanding
+AT&T pay the $57 million penalty within 30 days.
+
+
+
+
+       _____________________
+       3
+           Specifically, the Commission found that AT&T committed 84 continuing
+violations of the Act and that its failures were willful or repeated.
+       4
+          Two Commissioners dissented from the NAL. One thought CPNI does not
+include customer location data; but if it did, AT&T lacked notice of that. The other
+thought the forfeiture amount was unreasonable.
+
+
+
+
+                                         7
+Case: 24-60223           Document: 137-1          Page: 8       Date Filed: 08/22/2025
+
+
+
+
+                                       No. 24-60223
+
+
+        AT&T elected to timely pay the penalty and seek review in our court.
+Before us, the company raises the same arguments it raised before the
+Commission.
+        We resolve AT&T’s appeal based on its Seventh Amendment and
+Article III challenges to the Commission’s enforcement regime, which we
+review de novo. Loper Bright Enters. v. Raimondo, 603 U.S. 369, 412–13 (2024).
+So, we need not reach the other issues AT&T raises. 5
+                                             II
+        AT&T argues that the Commission’s enforcement procedures
+violate its Seventh Amendment right to a jury trial and its right to
+adjudication by an Article III court.
+        Our analysis is governed by SEC v. Jarkesy, 603 U.S. 109 (2024). In
+that case, the Supreme Court ruled that the Seventh Amendment prohibited
+the SEC from requiring respondents to defend themselves before an agency,
+rather than a jury, against civil penalties for alleged securities fraud. Id. at 140.
+The Court also ruled that the case did not fall within the “public rights”
+exception, which would let Congress assign certain matters to an agency
+instead of an Article III court. Id. at 134.
+        We must determine whether, following Jarkesy, the Commission’s
+enforcement regime also violates the Seventh Amendment and Article III.
+                                             A
+        The Seventh Amendment provides in relevant part:
+
+        _____________________
+        5
+           Specifically, those issues are: whether the Commission’s discretion to choose
+between an NAL or ALJ violates the nondelegation doctrine; whether the Commission
+lacked statutory authority to issue the forfeiture order; and whether the forfeiture order is
+arbitrary and capricious.
+
+
+
+
+                                             8
+Case: 24-60223       Document: 137-1        Page: 9      Date Filed: 08/22/2025
+
+
+
+
+                                  No. 24-60223
+
+
+       In Suits at common law, where the value in controversy shall
+       exceed twenty dollars, the right of trial by jury shall be
+       preserved[.]
+U.S. Const. amend. VII. The threshold question is whether the
+Commission’s enforcement proceeding qualifies as a “suit at common law.”
+A common law suit is one that is “legal in nature,” as opposed to one
+sounding in the realm of equity or admiralty. See Jarkesy, 603 U.S. at 122
+(quoting Granfinanciera, S. A. v. Nordberg, 492 U.S. 33, 53 (1989)); see ibid.
+(“[T]he Framers used the term ‘common law’ in the Amendment in
+contradistinction to equity, and admiralty, and maritime jurisprudence.”
+(quoting Parsons v. Bedford, 3 Pet. 433, 446 (1830))).
+       How do we tell whether a suit is legal in nature? By considering two
+things: the cause of action and the remedy provided. Id. at 123.
+                                       1
+       We start with the remedy because it is the “more important”
+consideration. Ibid. (quoting Granfinanciera, 492 U.S. at 421).
+       The Commission’s civil penalties “are the prototypical common law
+remedy.” Ibid. They are money damages designed to “punish or deter”
+violators of section 222. Ibid. This is evident from the statutory factors, which
+instruct the Commission to set penalties by reference to “the nature,
+circumstances, extent, and gravity of the violation” as well as the violator’s
+“degree of culpability.” 47 U.S.C. § 503(b)(2)(E). It is also evident from the
+considerations the Commission used to set AT&T’s penalty, such as
+whether AT&T acted “willfully” and “repeatedly” and whether the
+violations were “serious.” Cf. Jarkesy, 603 U.S. at 123 (noting the statutory
+penalty factors included whether a defendant was a repeat offender and
+whether its conduct was deliberate).
+
+
+
+
+                                       9
+Case: 24-60223        Document: 137-1         Page: 10     Date Filed: 08/22/2025
+
+
+
+
+                                   No. 24-60223
+
+
+       Moreover, the penalties are not remedial. They are not designed
+“solely to ‘restore the status quo.’” Ibid. (quoting Tull v. United States., 481
+U.S. 412, 422 (1987)); see also United States v. Hoffman, 901, F.3d 523, 560–
+61 (5th Cir. 2018) (“As opposed to restitution which is remedial, forfeiture
+is punitive.”). Nor are they meant to compensate victims whose location data
+was compromised. See 47 U.S.C. § 504(a) (“The forfeitures provided for in
+this chapter shall be payable into the Treasury of the United States”); cf.
+Jarkesy, 603 U.S. at 124 (noting SEC was “not obligated to return any money
+to victims”).
+       So, like the penalties in Jarkesy, the civil penalties here are “a type of
+remedy at common law that could only be enforced in courts of law.” Id. at
+125 (quoting Tull, 481 U.S. at 422). That “is all but dispositive” of the
+Seventh Amendment issue. Id. at 123.
+                                         2
+       Saying nothing about the remedy, the Commission instead focuses on
+the second consideration, the nature of the cause of action. It argues that an
+action to enforce section 222 does not bear a “close relationship” to any
+common law cause of action and that, as a result, the Seventh Amendment
+does not apply. We disagree.
+       As AT&T argues, the section 222 action is analogous to common law
+negligence. 6 The action punishes carriers for failing to take reasonable
+measures to protect customers’ personal data. See 47 C.F.R. § 64.2010(a)
+(“[Carriers] must take reasonable measures to discover and protect against
+attempts to gain unauthorized access to CPNI.”). The Commission decided
+
+
+       _____________________
+       6
+         AT&T also argues the action is analogous to common law actions for intrusion
+upon seclusion and eavesdropping. We need not address that argument.
+
+
+
+
+                                         10
+Case: 24-60223       Document: 137-1        Page: 11   Date Filed: 08/22/2025
+
+
+
+
+                                 No. 24-60223
+
+
+whether AT&T violated section 222 by repeatedly asking whether the
+company had acted reasonably.
+       For example, the Commission found AT&T unreasonably failed to
+protect customer data by relying on aggregators to enforce procedural
+safeguards, instead of enforcing the safeguards itself. The Commission also
+found AT&T’s safeguards to be unreasonable because the company
+continued to provide customer location data to aggregators, despite reports
+of unauthorized disclosures. And the Commission found AT&T acted
+unreasonably by failing to “rectify the systemic vulnerabilities at the heart of
+its [] program.” In sum, the Commission assessed AT&T’s protection of
+customer location data entirely in terms of the reasonableness of the
+company’s actions.
+       Such analysis is a staple of the common law. “An act or an omission
+may be negligent if the actor realizes or should realize that it involves an
+unreasonable risk of harm to another through the conduct of the other or a
+third person which is intended to cause harm, even though such conduct is
+criminal.” Restatement (Second) of Torts § 302B (2024). This
+familiar tort mirrors the Commission’s analysis of AT&T’s actions:
+“[AT&T’s] failure to adequately protect CPNI for a protracted amount of
+time caused substantial harm by making it possible for malicious actors to
+identify the exact locations of AT&T subscribers who belong to law
+enforcement, military, government, or other highly sensitive positions—
+thereby threatening national security and public safety . . . .” The
+Commission’s action, then, is analogous to common law negligence.
+       The Commission responds that section 222 is not analogous to
+negligence but instead is a “highly reticulated and technical scheme” for
+safeguarding customer data. That is a false choice. The Seventh Amendment
+applies to common law suits “whatever may be the peculiar form which they
+
+
+
+
+                                       11
+Case: 24-60223      Document: 137-1        Page: 12    Date Filed: 08/22/2025
+
+
+
+
+                                 No. 24-60223
+
+
+may assume.” Jarkesy, 603 U.S. at 122 (quoting Parsons, 3 Pet. at 447); see
+also Tull, 481 U.S. at 418–19 (“Actions by the Government to recover civil
+penalties under statutory provisions therefore historically have been viewed
+as one type of action in debt requiring trial by jury.”). However “technical”
+section 222 may be, its substance is closely analogous to a negligence action.
+       The Commission also points out that, unlike the securities laws in
+Jarkesy, section 222 does not borrow common law terms like “negligence”
+or “reasonable care.” Cf. Jarkesy, 603 U.S. at 125 (noting “Congress
+deliberately used ‘fraud’ and other common law terms of art” in the
+securities laws). That is partially true—the scheme does not use the term
+“negligence” but does speak of “reasonable measures”—but in any event it
+is not determinative. Yes, a statute’s borrowing common law terms may show
+its kinship to a common law action. Cf. ibid. (“Congress’s decision to draw
+upon common law fraud created an enduring link between federal securities
+fraud and its common law ‘ancestor.’”) (cleaned up). The key inquiry,
+though, is not what terminology the statute uses but whether the statute
+“target[s] the same basic conduct” as the common law claim. Ibid. The
+answer here is yes: section 222 action targets a carrier’s negligence in
+handling customer data.
+       Moreover, as Jarkesy explained, the statutory action need not be
+“identical” to a common law analogue. See id. at 126 (“That is not to say that
+federal securities fraud and common law fraud are identical.”); id. at 135
+(“[I]f the action resembles a traditional legal claim, its statutory origins are
+not dispositive.” (citing Granfinanciera, 492 U.S. at 52)). All that is needed
+is a “close relationship,” Jarkesy, 603 U.S. at 126, and section 222 satisfies
+that requirement.
+       To be sure, the relationship between the section 222 action and a
+common law analogue is not as obvious as it was in Jarkesy. But ambiguity on
+
+
+
+
+                                      12
+Case: 24-60223         Document: 137-1           Page: 13      Date Filed: 08/22/2025
+
+
+
+
+                                      No. 24-60223
+
+
+this second consideration points us back to the “more important” first
+consideration—remedy. Jarkesy, 603 U.S. at 123. As noted, section 222
+imposes the archetypal common law remedy of money damages, which is “all
+but dispositive” of the Seventh Amendment issue. Ibid.
+                                            B
+        The Commission next defends its enforcement proceeding under the
+“public rights” exception, which, it contends, lets Congress assign the
+proceeding to an agency rather than a court. We disagree.
+                                            1
+        Suits at common law presumptively concern “private rights” and
+must be adjudicated by Article III courts. Jarkesy, 603 U.S. at 127 (citing
+Stern v. Marshall, 564 U.S. 462, 484 (2011)). “The Constitution prohibits
+Congress from ‘withdraw[ing] [such matters] from judicial cognizance.’”
+Ibid. (quoting Murray’s Lessee v. Hoboken Land & Improvement Co., 18 How.
+272, 284 (1856) (second brackets added)). “Public rights” cases, however,
+may be channeled to agencies instead of courts. Ibid.
+        This narrow exception to Article III applies only to matters that
+“historically could have been determined exclusively by [the executive and
+legislative] branches.” Id. at 128 (quoting Stern, 564 U.S. at 493). While the
+Supreme Court has not “definitively explained” what divides public from
+private rights, it has pointed to “historic categories of adjudications”
+occurring outside Article III. Id. at 131, 130. Examples include revenue
+collection, foreign commerce, immigration, tariffs, tribal relations, public
+lands, public benefits, and patents. Id. at 128–30. 7 That said, the exception
+
+        _____________________
+        7
+           See Murray’s Lessee, 18 How. at 281, 285 (action to compel federal customs
+collector to pay public funds into Treasury); Oceanic Steam Nav. Co. v. Stranahan, 214 U.S.
+320, 335 (1909) (action to enforce fine on steamship company for disobeying federal
+
+
+
+
+                                            13
+Case: 24-60223          Document: 137-1           Page: 14       Date Filed: 08/22/2025
+
+
+
+
+                                       No. 24-60223
+
+
+must be handled “with care.” Id. at 131. “[E]ven with respect to matters that
+arguably fall within the scope of the ‘public rights’ doctrine, the presumption
+is in favor of Article III courts.” Id. at 132 (quoting Northern Pipeline Constr.
+Co. v. Marathon Pipe Line Co., 458 U.S. 50, 69 n.23 (1982)).
+                                              2
+        The Commission argues its enforcement action falls within the public
+rights exception because it involves common carriers. See Nat’l Cable &
+Telecommunications Ass’n v. Brand X Internet Servs., 545 U.S. 967, 975 (2005)
+(“The [Communications] Act regulates telecommunications carriers . . . as
+common carriers.”). Given that common carriers like AT&T are “affected
+with a public interest,” Munn v. Illinois, 94 U.S. 113, 130 (1876), the
+Commission contends Congress could assign adjudication of civil penalties
+against them to agencies instead of courts. For several reasons, we disagree.
+        First, the Commission’s proposal would blow a hole in what is meant
+to be a narrow exception to Article III. Myriad enterprises might be said to
+implicate the “public interest.” 8 And Congress’s power to regulate common
+carriers is broad. See Glob. Crossing Telecommunications, Inc. v. Metrophones
+Telecommunications, Inc., 550 U.S. 45, 48 (2007) (“When Congress enacted
+the Communications Act of 1934, it granted the FCC broad authority to
+        _____________________
+prohibition on allowing immigration by aliens with contagious diseases); Ex parte Bakelite
+Corp., 279 U.S. 438, 458 (1929) (assessment of President’s tariffs on goods imported by
+“unfair methods of competition”); United States v. Jicarilla Apache Nation, 564 U.S. 162,
+174 (2011) (relations with Indian tribes); Crowell v. Benson, 285 U.S. 22, 51 & n.13 (1932)
+(administration of public lands); ibid. (public benefits such as veterans benefits and
+pensions); United States v. Duell, 172 U.S. 576, 582–83 (1899) (patent rights).
+        8
+           See NetChoice, L.L.C. v. Paxton, 49 F.4th 439, 445 (5th Cir. 2022) (social media
+activity), overruled on other grounds by Moody v. NetChoice, L.L.C., 603 U.S. 707 (2024); Fed.
+Power Comm’n v. Hope Nat. Gas Co., 320 U.S. 591, 611 (1944) (natural gas operations);
+Nat’l Union Fire Ins. Co. v. Wanberg, 260 U.S. 71, 74 (1922) (hail insurance); New York v.
+FERC, 535 U.S. 1, 19 (2002) (electric energy).
+
+
+
+
+                                             14
+Case: 24-60223          Document: 137-1            Page: 15       Date Filed: 08/22/2025
+
+
+
+
+                                        No. 24-60223
+
+
+regulate interstate telephone communications.”). If injected into the public
+rights exception, this combination would empower Congress to bypass
+Article III adjudication in countless matters. But the Supreme Court has
+cautioned that the doctrine is a narrow and extra-textual “exception” to
+presumptively mandatory Article III jurisdiction. Jarkesy, 603 U.S. at 131.
+        Second, the common carrier doctrine is deeply rooted in the common
+law. See, e.g., NetChoice, 49 F.4th at 469 (“The common carrier doctrine is a
+body of common law dating back long before our Founding.”). 9 Negligence
+claims against common carriers have been routinely adjudicated in state and
+federal courts. See, e.g., Cole v. Goodwin & Storey, 19 Wend. 251, 281 (N.Y.
+Sup. Ct. 1839) (a “coach proprietor’s” common carrier status made it
+strictly liable in tort). 10 In light of that, it would be bizarre to situate a
+negligence action against carriers within the “historic categories of
+adjudications” falling outside Article III. Jarkesy, 603 U.S. at 130. 11
+
+
+
+        _____________________
+        9
+           See 19 Charles Alan Wright, Arthur R. Miller & Edward H.
+Cooper, Federal Practice and Procedure § 4514 (3d ed. 2024) (citing cases placing common
+carriers’ liability within the federal common law because such liability involves significant
+federal interests); see also Robert J. Kaczorowski, The Common-Law Background of
+Nineteenth-Century Tort Law, 51 Ohio State L.J. 1127, 1132 (1990) (explaining that
+“the common law imposed on persons engaged in a common calling a duty of reasonable
+care and a standard of professional competence”).
+        10
+           See also New Jersey Steam Nav. Co. v. Merch.’s Bank of Bos., 47 U.S. 344 (1848)
+(steamboat operator liable for losses at sea); S. Exp. Co. v. Purcell, 37 Ga. 103 (1867)
+(railroad for loss of cotton bales); Duggan v. New Jersey & W. Ferry Co., 76 A. 636 (Del.
+Super. Ct. 1909) (ferry operator for personal injuries); Goldstein v. Northern Pac. Ry. Co.,
+164 N.D. 602 (1917) (railroad for conversion); Korner v. Cosgrove, 108 Ohio St. 484 (1923)
+(taxicab operator for employee’s assault of a passenger); Callaway v. Hart, 146 F.2d 103
+(5th Cir. 1944) (railroad for negligently leaving doors open) Andrews v. United Airlines, Inc.,
+24 F.3d 39 (9th Cir. 1994) (airline for luggage falling on passenger).
+        11
+        Nor does it matter that this action is brought by the Government. The Supreme
+Court “ha[s] never held that ‘the presence of the United States as a proper party to the
+
+
+
+
+                                              15
+Case: 24-60223           Document: 137-1            Page: 16       Date Filed: 08/22/2025
+
+
+
+
+                                         No. 24-60223
+
+
+        Third, the cases cited by the Commission fail to show that the public
+rights exception generally applies to common carriers. Some of the cases
+involved actions far afield from this one, such as public benefits or actions
+falling within federal admiralty jurisdiction.12 Those actions arguably fall
+within the historical categories of non-Article III adjudications listed in
+Jarkesy. See 603 U.S. at 130. Whether they do or not, though, they do not
+involve anything like a negligence action against a common carrier for money
+damages.
+        It is true that federal agencies like the Commission have long had
+regulatory authority over common carriers, such as when setting rates or
+granting licenses. See, e.g., Virginian Ry. Co. v. United States, 272 U.S. 658
+(1926) (discussing the Interstate Commerce Commission’s oversight of
+railroad carriers). 13 But that does not imply, as the Commission seems to
+think, that any regulatory action concerning common carriers implicates the
+public rights exception and can therefore be “siphon[ed] . . . away from an
+Article III court.” Jarkesy, 603 U.S. at 135.
+
+
+
+
+        _____________________
+proceeding is . . . sufficient’ by itself to trigger the [public rights] exception.” Jarkesy, 603
+U.S. at 135.
+        12
+          See Scripps-Howard Radio v. FCC, 316 U.S. 4 (1942) (addressing FCC order
+granting application for a construction permit and station license); Red Lion Broad. Co. v.
+FCC, 395 U.S. 367 (1969) (addressing “fairness doctrine” governing content carriers could
+broadcast over radio frequency); Crowell, 285 U.S. 22 (addressing challenge to the
+Longshoremen’s and Harbor Workers’ Compensation Act of 1927).
+        13
+          See also Burlington N., Inc. v. United States, 459 U.S. 131, 141 (1982) (discussing
+Commission’s authority to set rates); Regents of Univ. Sys. of Ga. v. Carroll, 338 U.S. 586,
+598 (1950) (discussing Commission’s authority to grant licenses); Belluso v. Turner
+Commc’ns Corp., 633 F.2d 393, 397 (5th Cir. 1980) (discussing the Commission’s authority
+to sanction licensees).
+
+
+
+
+                                               16
+Case: 24-60223          Document: 137-1            Page: 17       Date Filed: 08/22/2025
+
+
+
+
+                                        No. 24-60223
+
+
+        Not even the first modern administrative agency thought that was
+so. 14 The Interstate Commerce Commission, while empowered to regulate
+common carriers and recommend monetary penalties, believed its
+enforcement actions were subject to the Seventh Amendment and so,
+necessarily, to Article III adjudication. The agency’s 1887 report, issued the
+year it was created, stated that its power “must be so construed as to
+harmonize with the seventh amendment to the Federal Constitution, which
+preserves the right of trial by jury in common-law suits.” 1887 Interstate
+Com. Comm’n Ann. Rep. 27; see also Richard L. Jolly, The
+Administrative State’s Jury Problem, 98 Wash. L. Rev. 1187, 1242 (2023)
+(quoting Report’s conclusion that it was “unquestionable that parties can not
+[sic] be deprived of [the jury] right through conferring authority to award
+reparation upon a tribunal that sits without a jury as assistant”). The
+Commission takes no account of this history, which is flatly inconsistent with
+exempting its enforcement action from Article III adjudication. 15
+                                            ***
+        Ultimately, “what matters” for Article III purposes “is the substance
+of the suit, not where it is brought, who brings it, or how it is labeled.”
+Jarkesy, 603 U.S. at 135. As explained, this matter involves an action closely
+
+        _____________________
+        14
+           See Lawrence M. Friedman, A History of American Law 439 (2d
+ed. 1985). The ICC was the FCC’s predecessor.
+        15 Consistent with this history is Meeker v. Lehigh Valley R.R. Co., 236 U.S. 412, 430
+
+(1915), which involved an ICC action targeting a railroad’s unreasonable rates. The
+Supreme Court addressed whether a provision treating the ICC’s initial factfinding as a
+“rebuttable presumption” that could be reconsidered in a later jury trial comported with
+the Seventh Amendment. Ibid. Unlike the Commission’s action against AT&T here, the
+ICC action there (rate setting) had no common law analogue. Even so, the Court assumed
+the railroad had a jury right in the action and held the provision does not violate the Seventh
+Amendment because “[i]t cuts off no defense, interposes no obstacle to a full contestation
+of all the issues, and takes no question of fact from either court or jury.” Ibid.
+
+
+
+
+                                              17
+Case: 24-60223      Document: 137-1        Page: 18    Date Filed: 08/22/2025
+
+
+
+
+                                 No. 24-60223
+
+
+analogous to a common law negligence action—and, importantly, one where
+the Commission seeks “civil penalties, a punitive remedy that [the Supreme
+Court] ha[s] recognized ‘could only be enforced in courts of law.’” Id. at 134
+(quoting Tull, 481 U.S. at 422). Accordingly, the public rights exception does
+not apply and Article III adjudication is mandatory. Id. at 128.
+                                      C
+       Finally, the Commission argues that, even if the Seventh Amendment
+and Article III apply, the proceeding here meets their demands.
+       The Commission points to the possibility of a back-end section 504
+trial. Recall that a carrier who fails to timely pay a forfeiture penalty may be
+sued by DOJ in federal district court. See 47 U.S.C. § 504(a). The
+Commission suggests this would give a carrier everything promised by the
+Seventh Amendment and Article III. We disagree.
+       To begin with, by the time DOJ sues (if it does), the Commission
+would have already adjudged a carrier guilty of violating section 222 and
+levied fines. This case shows how the process works. The Commission
+investigated AT&T, issued a charging document (the NAL), and received
+AT&T’s written objections. The Commission then affirmed the NAL by
+making fact findings, interpreting section 222, and applying that
+understanding to the facts it had found. This resulted in a forfeiture order
+concluding AT&T had violated the law and imposing $57 million in
+penalties. So, in this process, which was completely in-house, the
+Commission acted as prosecutor, jury, and judge.
+       Such forfeiture orders, furthermore, are not mere suggestions—to the
+contrary, they have real-world impacts on carriers. For example, the
+Commission must consider any history of prior adjudicated offenses in
+imposing future penalties. See 47 U.S.C. § 503(b)(2)(E) (“In determining the
+amount of such a forfeiture penalty, the Commission or its designee shall take
+
+
+
+
+                                      18
+Case: 24-60223          Document: 137-1           Page: 19       Date Filed: 08/22/2025
+
+
+
+
+                                       No. 24-60223
+
+
+into account . . . any history of prior offenses . . . .”). Unsurprisingly, they
+also cause reputational harm to carriers because they can be widely publicized
+and reported. See FCC v. Fox Television Stations, Inc., 567 U.S. 239, 256
+(2012) (explaining forfeiture orders’ impact on carriers’ reputations). And
+consider the risks to a carrier of even getting to the section 504 trial: the
+carrier must refuse to pay a penalty and wait for DOJ to drag it into court.
+        In light of this, we reject the Commission’s argument that a section
+504 enforcement proceeding satisfies Article III and the Seventh
+Amendment. The Commission cites no authority supporting the proposition
+that the constitutional guarantee of a jury trial is honored by a trial occurring
+after an agency has already found the facts, interpreted the law, adjudged
+guilt, and levied punishment. 16
+                                             IV
+        No one denies the Commission’s authority to enforce laws requiring
+telecommunications companies like AT&T to protect sensitive customer
+data. But the Commission must do so consistent with our Constitution’s
+guarantees of an Article III decisionmaker and a jury trial.
+        Accordingly, we GRANT AT&T’s petition and VACATE the
+Commission’s forfeiture order.
+
+
+        _____________________
+        16
+          Our original opinion noted another problem with a section 504 trial: under our
+precedent, the district court could consider a petitioner’s challenge to the factual basis for
+the agency action but was foreclosed from challenging its legal basis. See AT&T, Inc. v.
+F.C.C., 135 F.4th 230, 242 (5th Cir. 2025) (citing United States v. Stevens, 691 F.3d 620,
+622 (5th Cir. 2012)). Because Stevens has possibly been called into question by a Supreme
+Court decision issued after our panel opinion, we excise that part of the opinion as
+unnecessary to our holding. See McLaughlin Chiropractic Assocs., Inc. v. McKesson Corp., 145
+S. Ct. 2006, 2013 (2025) (holding district courts may assess the Commission’s
+interpretation of a statute in Hobbs Act enforcement proceedings).
+
+
+
+
+                                             19
+

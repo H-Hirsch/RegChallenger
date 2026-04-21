@@ -1,0 +1,789 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued September 20, 2021          Decided December 14, 2021
+
+                         No. 20-1222
+
+                   UNITED AIRLINES, INC.,
+                        PETITIONER
+
+                              v.
+
+       TRANSPORTATION SECURITY ADMINISTRATION,
+                    RESPONDENT
+
+
+             On Petition for Review of a Decision
+        of the Transportation Security Administration
+
+
+     Adam P. Feinberg argued the cause and filed the briefs for
+petitioner.
+
+    Leif E. Overvold, Attorney, U.S. Department of Justice,
+argued the cause for respondent. With him on the brief were
+Brian M. Boynton, Acting Assistant Attorney General, and
+Scott R. McIntosh, Attorney.
+
+   Before: HENDERSON and WALKER, Circuit Judges, and
+EDWARDS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge HENDERSON.
+
+    KAREN LECRAFT HENDERSON, Circuit Judge: Petitioner
+United Airlines, Inc. (United) sought refunds, pursuant to 49
+                                2
+U.S.C. § 44940(g), from the United States Department of
+Homeland Security’s Transportation Security Administration
+(TSA) for payments it made to the TSA. The payments relate
+to fees charged to airline passengers, and collected by airlines,
+that fund aviation security measures and are to be remitted
+monthly to the TSA. In its refund request, United contends that
+it erroneously remitted the security fees in two circumstances:
+(1) tickets associated with passengers who purchased their
+tickets from other airlines but who were later involuntarily
+transferred to United flights and (2) tickets for which, because
+of currency exchange rate fluctuations, the recorded and
+remitted fee amount deviated from the fee amount statutorily
+required. The TSA denied United’s refund request for both sets
+of tickets. Although we uphold the TSA’s decision regarding
+the second set of tickets, we find the TSA’s denial of a refund
+for the first set arbitrary and capricious. We therefore grant
+United’s petition for review in part, deny it in part and remand
+to the TSA.
+
+                  I.   Statutory Framework
+
+      The Aviation and Transportation Security Act, Pub. L. No.
+107-71, 155 Stat. 597 (2001) (codified at 49 U.S.C. § 114 and
+scattered sections of 49 U.S.C.), established the TSA and
+charged the agency with primary responsibility for maintaining
+civil aviation security. To defray the costs associated with
+certain aviation security services, the Act requires the TSA to
+impose “a uniform fee” on passengers of air carriers originating
+at airports in the United States. 49 U.S.C. § 44940(a)(1); see
+also 49 C.F.R. § 1510.5. For the years at issue, the security fees
+were capped at $2.50 per enplanement and $5.00 per one-way
+trip. 49 U.S.C. § 44940(c) (2012). The Act further provides that
+the security fees “shall be collected by the air carrier . . . that
+sells a ticket for transportation” and then remitted to the TSA
+on a timely basis. 49 U.S.C. § 44940(e)(1)–(3). Air carriers
+                                3
+must remit all security fees imposed each calendar month by
+the last calendar day of the month following the imposition. Id.
+§ 44940(e)(3); see also 49 C.F.R. § 1510.13(a). If a security fee
+“is not collected from the passenger, the amount of the fee shall
+be paid by the carrier.” 49 U.S.C. § 44940(d)(2). The TSA’s
+implementing regulations echo this allocation of liability:
+“Whether or not the security service fee is collected as required
+by this part, the direct air carrier . . . selling the air
+transportation is solely liable to TSA for the fee and must remit
+the fee.” 49 C.F.R. § 1510.9(c). Central to the case at hand, the
+Act provides that the TSA “may refund any fee paid by mistake
+or any amount paid in excess of that required.” 49 U.S.C.
+§ 44940(g).
+
+                   II. Procedural History
+
+     On April 8, 2016, United submitted a refund request to the
+TSA through its consultant, Ryan Excise Tax Services, LLC
+(Ryan). United sought the return of security fees that it asserted
+had been erroneously remitted during the period from January
+1, 2010 through February 29, 2012. The asserted overpayments
+can be separated into two categories. First, United claimed that
+it had erroneously remitted to the TSA $1,059,743.06 in
+security fees in connection with passengers who bought their
+tickets from other airlines but were later involuntarily
+transferred to United flights. For these Involuntary Transfer
+(IT) tickets, United maintained that it remitted the security fees
+despite having never collected the fees from the passengers and
+that the transferring airline, not United, maintained
+responsibility for their collection and remittance to the TSA.
+
+     Second, United claimed that it had erroneously remitted
+$478,244.88 in connection with tickets for which United had
+collected the security fee in a foreign currency but subsequent
+fluctuations in the foreign exchange rate caused the collected
+                                  4
+fee to be slightly more or slightly less than the amount required
+by statute—$2.50, or a multiple thereof—when it was
+ultimately recorded by United. 1 If the converted amount was
+less than the statutorily required amount, United adjusted
+upward and remitted the amount required by statute. But if the
+converted amount was more than the statutory amount, United
+did not adjust downward, instead remitting the higher amount
+to the TSA. For these Exchange-Rate-Difference (ERD)
+tickets, United claimed its practice resulted in a net
+overpayment to the TSA.
+
+    On April 18, 2016, the TSA promptly denied United’s
+refund request, concluding that the request was precluded by
+United’s failure to express its concerns during an audit
+conducted by the TSA in 2012. See United Airlines, Inc. v. TSA,
+859 F.3d 67, 69–70 (D.C. Cir. 2017). This Court disagreed and
+remanded for further administrative proceedings. Id. at 70–71.
+
+     On remand, United renewed and supplemented its refund
+request in a letter to the TSA that outlined Ryan’s
+methodology. Ryan first identified the two sets of tickets at
+issue here: one that included all tickets for which another
+airline’s ticket stock had been involuntarily used as payment
+for a United ticket—the IT tickets—and one that included all
+tickets for which a security fee was deposited into United’s fee
+account that was not evenly divisible by the then-applicable
+statutory fee amount of $2.50—the ERD tickets. Ryan then
+undertook a “programmatic review” by running a computer
+formula programmed to determine whether the correct security
+fee had been remitted for each ticket. For the IT tickets, Ryan
+treated any payment of a security fee as an overpayment. For
+
+     1
+       For example, if a ticket sold in euros results in a security fee
+of €1.80, the converted amount in U.S. dollars might be $2.45 one
+day or $2.55 two days later, notwithstanding the intended fee amount
+is $2.50.
+                               5
+the ERD tickets, Ryan treated amounts paid in excess of $2.50
+(or a multiple where applicable) as overpayments and amounts
+under that statutory amount as underpayments. Notably, Ryan
+excluded any ERD tickets for which the security fee fell into
+any of eight different ranges that were deemed insufficiently
+close to a multiple of $2.50. 2 These tickets were excluded on
+the theory that it would have been difficult to conduct the
+programmatic review to determine whether an excluded ticket
+represented an overpayment or underpayment. Neither
+United’s nor Ryan’s letter to the TSA disclosed the exclusion
+of these tickets. In total, Ryan identified 5,327,781 tickets—
+304,531 IT tickets and 5,023,248 ERD tickets—for the period
+at issue and the programmatic review calculated a net refund
+amount of $1,537,987.94.
+
+     Ryan then verified the programmatic review’s results
+using a “stratified random sample,” whereby Ryan manually
+reviewed a sample of 2,135 tickets, calculated the net refund
+amount for that sample and then extrapolated that amount for
+the entire ticket sample. Using the stratified random sample,
+Ryan calculated a similar refund amount as that calculated by
+the programmatic review. Ryan conducted a similar
+verification process using the 600-ticket sample used by the
+TSA during its 2012 audit, again extrapolating a similar refund
+amount.
+
+     During its review process, the TSA worked with the U.S.
+Customs and Border Protection’s Office of Trade, Regulatory,
+Audit and Agency Advisory Services (CBP) to examine and
+verify the reliability of Ryan’s methodology and calculations.
+The CBP, in turn, communicated with Ryan to clarify
+
+    2
+      The excluded ranges were security fee amounts between $0.01
+and $1.48, $3.52 and $3.99, $6.01 and $6.49, $8.51 and $8.99,
+$11.01 and $11.49, $13.51 and $13.99, $16.01 and $16.49, and
+$18.51 and $18.99.
+                                6
+anomalies in its analysis and methodology. For example, Ryan
+disclosed the exclusion of the eight ranges of ERD tickets only
+after the CBP inquired into Ryan’s search parameters; the
+actual ticket data for the excluded tickets was not provided to
+the CBP or the TSA. After concluding its review, the CBP
+submitted a memorandum summarizing its findings to the
+TSA. The CBP explained that its team was unable to verify the
+reliability of Ryan’s data and analysis, citing its inability to
+replicate Ryan’s calculation to arrive at the same net refund
+amount, its determination that Ryan’s programmatic review—
+and, by extension, its stratified random sample—relied on an
+incomplete universe of tickets and its observation of numerous
+discrepancies in the accounting records provided by United.
+
+     On April 21, 2020, the TSA again denied United’s refund
+request. With respect to the IT tickets, the TSA concluded that
+United’s bare assertion that it had no statutory obligation to
+remit a security fee did not address whether the transferring
+airline had already remitted the associated fee or whether
+United received anything less than all funds the passenger
+originally paid to the transferring airline, including the fee. In
+the TSA’s view, United’s submission created only the
+possibility that United might be entitled to a refund for this
+category of ticket but otherwise fell short of demonstrating that
+a refund was warranted for all IT tickets as a categorical matter.
+For the ERD tickets, the TSA determined that United’s
+submission did not substantiate United’s underlying
+conclusion that it had made a net overpayment of security fees.
+The TSA cited the CBP’s concerns with Ryan’s methodology
+and calculations, including the exclusion of specific ranges of
+tickets from the programmatic review, the failure of the
+stratified random sample to verify the result from an otherwise
+incomplete universe, the CBP team’s inability to replicate
+Ryan’s net refund calculation and the existence of accounting
+discrepancies in tens of thousands of tickets. The TSA
+                                7
+concluded that these deficiencies, taken collectively,
+manifested that United’s submission was not sufficiently
+reliable to support a refund. On June 19, 2020, United
+petitioned for review of the TSA’s denial. We have jurisdiction
+of United’s petition pursuant to 49 U.S.C. § 46110(a).
+
+                         III. Analysis
+
+     United contends that the TSA’s rejection of its refund
+request was arbitrary and capricious. United first maintains that
+it was under no legal duty to remit the security fee associated
+with the IT tickets, meaning that every remittance was
+categorically an overpayment. In United’s view, the TSA’s
+assumption that the transferring carrier might have either
+transferred the security fee to United or not remitted the fee to
+the TSA is therefore unsupported and irrelevant. With respect
+to the ERD tickets, United argues that the perceived
+computational and analytical errors in Ryan’s methodology
+cannot provide a basis for the TSA to deny or materially reduce
+its refund request. United finally argues that the TSA acted
+arbitrarily and capriciously in denying any refund rather than
+calculating an alternative refund amount using the data before
+it.
+
+     Our review “is limited to determining whether the TSA
+acted arbitrarily or capriciously, abused its discretion, or acted
+contrary to law.” Alaska Airlines, Inc. v. TSA, 588 F.3d 1116,
+1120 (D.C. Cir. 2009); see also 5 U.S.C. § 706(2)(A). We
+review only to ensure that the agency “examine[d] the relevant
+data and articulate[d] a satisfactory explanation for its action”
+and we will not “substitute [our] judgment for that of the
+agency.” Motor Vehicles Mfrs. Ass’n v. State Farm Mut. Auto.
+Ins. Co., 463 U.S. 29, 43 (1983). An agency’s decision need
+not be “a model of analytic precision to survive a challenge”
+under this standard, Dickson v. Sec’y of Def., 68 F.3d 1396,
+                                8
+1404 (D.C. Cir. 1995), and we will “uphold a decision of less
+than ideal clarity if the agency’s path may reasonably be
+discerned,” id. (quoting Bowman Transp., Inc. v. Arkansas-
+Best Motor Freight Sys., Inc., 419 U.S. 281, 286 (1974)). The
+question therefore is whether the TSA exercised its
+discretionary refund authority in a manner that was reasonable
+and, just as importantly, reasonably explained. See Public
+Citizen, Inc. v. FAA, 988 F.2d 186, 197 (D.C. Cir. 1993) (“The
+requirement that agency action not be arbitrary or capricious
+includes a requirement that the agency adequately explain its
+result.”). For the reasons set out below, we hold that the TSA’s
+denial was arbitrary and capricious with respect to the IT
+tickets but otherwise passes muster.
+
+              A. Involuntary Transfer Tickets
+
+      In the involuntary transfer context, the allocation of legal
+liability for unremitted security fees is clear. The statute
+provides that any security fee “shall be collected by the air
+carrier . . . that sells a ticket for transportation.” 49 U.S.C.
+§ 44940(e)(2). The statute further provides that security fees
+collected during a given month must then be remitted “by the
+carrier collecting the fee” by the last calendar day of the month
+following imposition. See id. § 44940(e)(3); see also 49 C.F.R.
+§ 1510.13(a). Because United played no part in selling the
+ticket to a passenger involuntarily transferred to one of its
+flights from another airline, it had no legal obligation to collect
+and remit the associated security fee and therefore would not
+be liable in the event that the fee went unremitted to the TSA. 3
+
+
+    3
+        The statute notwithstanding, the TSA contends that United
+may have a legal obligation under the implementing regulations to
+collect and remit security fees from passengers involuntarily
+transferred to its flights. The agency relies chiefly on 49 C.F.R.
+§ 1510.9(c), which closely tracks 49 U.S.C. § 44940(e) and provides
+                                      9
+     But this is only the starting point. This is not a case about
+United’s failure to remit security fees that it was required to
+collect. Rather, United is seeking a refund of security fees it
+erroneously—and inexplicably—remitted to the TSA despite
+having no statutory responsibility to do so. The TSA’s
+authority to issue such refunds is discretionary: “The [TSA]
+may refund any fee paid by mistake or any amount paid in
+excess of that required.” 49 U.S.C. § 44940(g) (emphasis
+added); see Dickson, 68 F.3d at 1401 (“When a statute uses a
+permissive term such as ‘may’ rather than a mandatory term
+such as ‘shall,’ this choice of language suggests that Congress
+intends to confer some discretion on the agency.”). The TSA
+has consistently argued that, in light of its discretion, it
+reasonably placed the burden on United to establish that a net
+overpayment in fact occurred, a position that is not without at
+least some merit in the informal adjudication context. See
+
+that “[w]hether or not the security service fee is collected as required
+by this part, the direct air carrier or foreign air carrier selling the air
+transportation is solely liable to TSA for the fee and must remit the
+fee as required in § 1510.13.” The agency has defined “direct air
+carrier” as “a selling carrier,” 49 C.F.R. § 1510.3, which, in turn, is
+defined as “an air carrier . . . that provides or offers to provide air
+transportation and has control over the operational functions
+performed in providing that air transportation,” id. In the TSA’s
+view, United, despite never having sold a ticket to an involuntarily
+transferred passenger, maintains operational control over the flight,
+meaning that it can be deemed a “selling carrier” under its
+regulations. The TSA’s argument is unpersuasive. The statute clearly
+allocates liability to the air carrier “that sells a ticket for
+transportation,” with no mention of operational control. 49 U.S.C.
+§ 44940(e)(2) (emphasis added). Even the regulation allocates
+liability to the “direct air carrier . . . selling the air transportation.” 49
+C.F.R. § 1510.9(c) (emphasis added). To the extent that the TSA’s
+regulation, especially 49 C.F.R. § 1510.3, may conflict with the
+statute, “the statute clearly controls.” Murphy v. IRS, 493 F.3d 170,
+176 n.* (D.C. Cir. 2007).
+                               10
+Schaffer ex rel. Schaffer v. Weast, 546 U.S. 49, 57–58 (2005)
+(if a statute is silent on the burden of persuasion and “[a]bsent
+some reason to believe that Congress intended otherwise,” the
+burden “lies where it usually falls, upon the party seeking
+relief”); cf. Pension Benefit Guar. Corp. v. LTV Corp., 496 U.S.
+633, 654–55 (1990) (noting that “courts are not free to impose
+upon agencies specific procedural requirements that have no
+basis in the APA” and that informal adjudications are governed
+by “the minimal requirements . . . set forth in the APA, 5 U.S.C.
+§ 555”). Accordingly, the TSA concluded that United failed to
+demonstrate that it had not simply remitted security fees that
+another airline had collected and then transferred to United
+along with the rest of the funds associated with an involuntarily
+transferred passenger. In this scenario, the TSA contends, no
+overpayment of security fees occurred.
+
+     Placing the burden on United, however, does not relieve
+the TSA of its ordinary burden under the Administrative
+Procedure Act—i.e., its duty to provide a reasoned explanation
+for its decision. See, e.g., State Farm, 463 U.S. at 42–52. Even
+when denying an interested party’s request via informal
+adjudication, an agency cannot merely state a “conclusion” but
+rather “must ‘articulate a satisfactory explanation’ for its
+action.” Butte Cnty., Cal. v. Hogen, 613 F.3d 190, 194 (D.C.
+Cir. 2010) (quoting Tourus Records, Inc. v. DEA, 259 F.3d 731,
+737 (D.C. Cir. 2001)); see also 5 U.S.C. § 555(e) (providing
+that an agency’s notice of denial “shall be accompanied by a
+brief statement of the grounds for denial”). In other words, the
+agency must always adequately explain “why it chose to do
+what it did.” Tourus Records, 259 F.3d at 737 (quoting Henry
+J. Friendly, Chenery Revisited: Reflections on Reversal and
+Remand of Administrative Orders, 1969 DUKE L.J. 199, 222).
+We conclude that the TSA failed to meet that burden here.
+                                11
+     In denying United’s request, the TSA concluded that
+United had failed to demonstrate that any overpayment
+occurred. More specifically, it determined that United failed to
+show that the transferring airline had already remitted the
+relevant security fee to the TSA or that United had not received
+from the transferring airline anything less than all of the funds
+the involuntarily transferred passenger had originally paid to
+the transferring airline, including the fee amount. But the
+problem with the TSA’s rationale is this: If the transferring
+airline remains legally obligated to collect and remit the
+security fees for the tickets it sells, even if the passenger is
+involuntarily transferred to United, there is little reason to
+suppose that the transferring airline would pass along the
+security fee to United instead of remitting it to the TSA in
+proper course. Why would the transferring airline entrust
+United to satisfy the transferring airline’s legal responsibility,
+thereby risking noncompliance if United failed to do so? The
+TSA’s hypothetical about airlines transferring security fees
+among themselves therefore appears logically incongruent
+with the allocation of liability under the statute and the TSA
+otherwise makes no effort to rely on industry practice or past
+practice to validate its concern. See United Airlines, 859 F.3d
+at 71 n.11 (“For those overpayments due to involuntary
+transfers, there is no reason to suspect that the carrier that sold
+the original ticket did not also pay TSA, i.e., it is equally likely
+that TSA was paid double.”). The TSA’s reasoning therefore
+strikes more as a largely unsupported hypothetical than a
+“satisfactory explanation” rooted in logic or practice. See Butte
+Cnty., 613 F.3d at 194 (quoting Tourus Records, 259 F.3d at
+737).
+
+     That said, the TSA’s concern is nevertheless
+understandable. If United simply passed along a security fee
+received from the transferring airline, there was no
+overpayment, meaning that a refund would leave the TSA
+                                   12
+shortchanged for that passenger. 4 For its part, United appears
+to have made no effort to verify that it did not receive a
+passenger’s security fee as part of the funds it received from
+the transferring airline or to cite to industry practice
+highlighting why such verification would be unnecessary.
+Instead, United chose to repeat its assertion that it had no legal
+responsibility to collect and remit the security fee. It was not
+until briefing and oral argument that United finally asserted
+that it never transfers security fees when it is the transferring
+carrier and that its practice reflects the industry practice. But its
+assertion, unlike the TSA’s, finds support elsewhere. See
+Internal Revenue Service, Excise Tax – Air Transportation
+Audit Techniques Guide, at 8-3 (Apr. 2008) (“The liability for
+air transportation tax is normally recorded by each individual
+carrier’s accounting system. Carriers remit the transportation
+tax on the basis of their ticket stock sales. If a ticket is used on
+
+
+
+     4
+         In its brief, United suggested that it would have no legal
+obligation to remit a security fee received from a transferring airline
+even if United had reason to believe the transferred amount was a
+security fee. United argues that this would “at most . . . give rise to a
+debt owed by United to the other carrier.” Reply Br. of Pet’r 8. But
+we have our doubts. See 49 U.S.C. § 44940(e)(1) (“All fees imposed
+and amounts collected under this section are payable to the
+Administrator of the Transportation Security Administration.”); id.
+§ 44940(e)(6) (“No portion of the fee collected under this section
+may be retained by the air carrier or foreign air carrier for the costs
+of collecting, handling, or remitting the fee except for interest
+accruing to the carrier after collection and before remittance.”). Even
+if the statute does not explicitly require United to remit a fee amount
+it has reason to believe constitutes a security fee, we would be hard-
+pressed to conclude that United could, like Billy Joe and Bobbie Sue
+before it, simply take the money and run. See Steve Miller Band,
+Take the Money and Run, on Fly Like an Eagle (Capitol Records
+1976).
+                                13
+another airline, that airline bills the selling airline for only the
+fare, not the air transportation tax.”).
+
+     We are therefore confronted with a factual dispute with
+important implications for United’s refund. On the one hand,
+United claims that it never transfers security fees—a practice
+that appears correct in view of the allocation of liability under
+49 U.S.C. § 44940—but failed to raise or support this assertion
+until oral argument. On the other hand, the TSA maintains that
+airlines might transfer security fees but does little to support
+this assertion in its denial letter, at least beyond bare
+conclusions and unsupported hypotheticals. In light of United’s
+assertion regarding its practice—and assuming that it can
+support this assertion upon remand—we vacate the TSA’s
+decision with respect to the IT tickets and remand to the TSA
+to allow it to reconsider its denial.
+
+           B. Exchange-Rate-Difference Tickets
+
+     We turn next to the ERD tickets. The TSA, relying on the
+CBP’s analysis of United’s submission, determined that
+“material limitations in Ryan’s overarching methodology”
+rendered the submission insufficiently reliable to warrant a
+refund. J.A. 8. In particular, the TSA focused on deficiencies
+in the programmatic review and the stratified random sample
+as well as discrepancies inherent in United’s accounting data
+for the security fees. We find the TSA’s conclusions regarding
+these deficiencies, viewed collectively, provide a reasonable
+basis for the TSA’s denial and find United’s attempts to
+minimize these flaws unavailing.
+
+     Programmatic review: With respect to the programmatic
+review, the TSA’s denial relied chiefly on two key limitations.
+First, the TSA noted that United elected to exclude from its
+submission—without informing the TSA or the CBP at the
+outset—those tickets it deemed insufficiently close to statutory
+                                  14
+fee amounts to be accurately classified as overpayments or
+underpayments by the programmatic review. According to the
+TSA, “Ryan was necessarily excluding from its search query
+tickets for which [United] may have made an over- or under-
+payment, meaning the universe of tickets that Ryan identified
+for its refund calculations was necessarily incomplete.” J.A. 9.
+For example, United excluded tickets for which United
+remitted a net security fee amount of $0.01 to $1.48, tickets the
+TSA noted “would appear to be comprised solely of tickets for
+which [United] under-remitted the Fee (as every ticket in that
+group falls below the minimum Fee amount of $2.50).” J.A. 9. 5
+The TSA therefore reasonably concluded that because Ryan’s
+search parameters “were more likely to identify tickets that
+reflected an over-remittance of the Fee while failing to
+identify” under-remittances, “it is unsurprising that Ryan’s
+calculations would appear to suggest a systematic aggregate
+overpayment of the Fee by [United].” J.A. 9–10.
+
+     Second, the TSA noted that not all of the fee amounts
+within this universe of tickets could be attributed to exchange
+rate fluctuations, which Ryan’s programmatic review
+necessarily assumed. A more detailed review by the CBP
+revealed accounting discrepancies suggesting that a ticket may
+have a fee that deviates from that required by statute for reasons
+entirely unrelated to exchange rate fluctuations. As one
+example, in response to a CBP inquiry into two tickets, Ryan
+
+     5
+        United counters that the tickets in the $0.01 to $1.48 interval
+were more likely overpayments, relying on the possibility of flights
+being canceled and refunded after a higher-than-required security fee
+had already been converted and remitted to the TSA. But this
+quibble, which did not arise until appeal, serves only to highlight
+how United’s decision to exclude tickets without sufficiently
+explaining its rationale or the potential implications on the net refund
+amount cuts against its assertion that Ryan’s methodology was
+sufficiently reliable to support a refund for the requested amount.
+                                 15
+explained that United had initially (and correctly) collected
+$5.00 for each but unexplained refunds had been issued in the
+amounts of $3.06 and $0.83, bringing the remittance amounts
+to $1.94 and $4.17 and causing the programmatic review to
+erroneously flag the tickets as ERD tickets. Although Ryan
+chalked up the identified discrepancies to “operator errors” and
+“field refunds” made at airports, it did not otherwise elaborate
+on their frequency or aggregate impact on the calculated net
+refund amount. In short, the TSA reasonably concluded that
+Ryan’s methodology “necessarily depends on the assumption
+that the Fee attributable to a ticket was always a multiple of
+$2.50 or within $1.00 thereof,” but “[t]he vagaries of [United]’s
+accounting practices . . . reveals that tickets may easily have
+unusual Fee amounts assigned to them in [United]’s ledger,”
+which would not necessarily warrant a refund. J.A. 9–10 n.15.
+
+     We find United’s arguments to the contrary unpersuasive.
+United maintains that the number of excluded tickets was
+“insignificant” but it never substantiated this claim to the TSA
+or CBP by providing, for example, the relevant ticket-level
+data, the number of excluded tickets or the effect of those
+tickets on the net refund calculation. 6 United’s failure to
+provide this information is particularly glaring given that the
+CBP asked specifically about the excluded tickets and Ryan’s
+
+     6
+        On appeal, United has attempted to substantiate its claim that
+the number of excluded tickets was insignificant by providing extra-
+record evidence quantifying the number of tickets and their effect on
+the net refund amount and stating that the airline would have
+provided this data to the TSA had it been requested. United concedes
+that this information was not before the TSA when it issued its denial
+letter. See Reply in Supp. of Pet’r’s Extra-Record Evid. Mot. 9–11
+(Jan. 21, 2021). This Court routinely rejects extra-record
+submissions. See, e.g., CTS Corp. v. EPA, 759 F.3d 52, 65 (D.C. Cir.
+2014); IMS, P.C. v. Alvarez, 129 F.3d 618, 624 (D.C. Cir. 1997). We
+therefore decline to give weight to this extra-record evidence.
+                               16
+search parameters. United had every incentive to substantiate
+its assertion that the excluded tickets were in fact
+“insignificant” in the net refund calculation. United ultimately
+faults the TSA for speculating about the existence of
+underpayments but the fact remains that United did not provide
+the TSA with the information necessary to do anything but
+reasonably hypothesize about a known but undefined pool of
+potential underpayments within the ERD ticket universe. We
+cannot fault the TSA for declining to take United’s word that
+the excluded tickets were “insignificant,” much less find that
+its decision was arbitrary and capricious.
+
+     United further argues that the TSA, not United, had the
+burden to establish the existence of underpayments that would
+offset the total net refund amount, characterizing this burden as
+an affirmative defense. We are again unpersuaded. We find it
+unlikely that the broad grant of discretionary authority under
+49 U.S.C. § 44940(g) would also include an implicit
+requirement that the TSA prove offsetting underpayments. The
+cases that United cites in support of its theory—which involve
+mandatory awards under different statutory schemes, not
+discretionary awards requested by the regulated parties
+themselves—are similarly unavailing. See American Airlines,
+Inc. v. United States, 551 F.3d 1294, 1303–07 (Fed. Cir. 2008)
+(declining to allow the government to undertake discovery to
+uncover unrelated and previously overlooked underpayments
+to offset an amount owed to an airline under an illegal exaction
+claim without first providing a “concrete and positive”
+evidentiary basis for doing so); Conway v. United States, 145
+Fed. Cl. 514, 521, 524–29 (2019) (finding that governing state
+law did not permit the Department of Health and Human
+Services to use debts owed to it by an insurer to offset money
+the agency was required to distribute to that insurer under the
+Affordable Care Act). Further, United’s claim assumes that
+Ryan’s methodology was sufficiently reliable to support a
+                               17
+refund and that any excluded underpayments would serve only
+to reduce the calculated net refund amount. But it was the
+reliability of Ryan’s methodology—namely the completeness
+of the universe of tickets used to calculate the proposed refund
+amount—that the TSA faulted.
+
+     Stratified random sample: The TSA correctly concluded
+that Ryan’s use of a stratified random sample to verify its
+programmatic review could not make up for the excluded
+tickets because a sample “drawn from an incomplete universe
+will, of necessity, tend only to confirm the results drawn from
+the incomplete universe itself.” United does not contest the
+TSA’s conclusion and we see no reason to disturb it.
+
+     The TSA further noted that the stratified random sample
+contained 32 tickets—within a total sample of 2,135 tickets—
+that were absent from the programmatic review. The TSA
+concluded that “[t]he inclusion of exemplars in the stratified
+random sample that do not appear in the universe is a
+fundamental flaw in the reliability of the random sampling
+effort itself.” J.A. 11. United points out that Ryan
+acknowledged this discrepancy during the CBP’s review and
+explained that it had removed the 32 tickets from the
+programmatic review because the tickets were determined to
+be neither overpayments nor underpayments, meaning that they
+would have no effect on the net refund calculated by the
+programmatic review. Ryan further explained that it did not
+remove the 32 tickets from the stratified random sample
+because it did not believe they would change the outcome of
+the new programmatic results.
+
+    But this explanation misses the point. If the 32 tickets were
+in fact neither underpayments nor overpayments, United is
+correct that their exclusion from the programmatic review
+would have no effect on the calculated net refund. The TSA,
+                              18
+however, was focused on the stratified random sample, not the
+programmatic review, and whether it was reflective of the
+universe of tickets from which it was ostensibly drawn—i.e.,
+the universe of tickets comprising the programmatic review.
+The reliability of random sampling, namely its randomness,
+decreases if the random sample is not drawn from the universe
+it purportedly samples. See RICHARD L. SCHEAFFER ET AL.,
+ELEMENTARY SURVEY SAMPLING 8–9 (7th ed. 2012). Given
+that neither Ryan nor United attempted to answer the CBP’s
+concerns over the inclusion of the 32 tickets in the stratified
+random sample, it was reasonable for the TSA to conclude that
+the validity of the stratified random sample was diminished as
+a result.
+
+     Accounting and calculation discrepancies: The TSA
+noted that the CBP identified more than 39,000 tickets with
+variances in the total sum of debits, credits and United-
+proposed adjustments, reasoning that these “unexplained
+flaws” cast doubt on the programmatic review’s capacity to
+accurately calculate the proper refund amount. United’s only
+counter to this finding is that the TSA acted arbitrarily by not
+quantifying the monetary impact of those tickets and deducting
+that amount from the total requested refund or simply removing
+those tickets from the refund request. Granted, the TSA
+assuredly could have elected to deduct the monetary amount of
+these tickets but it was not compelled to do so under 49 U.S.C.
+§ 44940(g), especially in light of the TSA’s and CBP’s
+compounding concerns with Ryan’s methodology and United’s
+accounting practices. The “unexplained flaws” for these
+thousands of tickets—combined with the “vagaries” in
+United’s accounting practices highlighted by the CBP—bolster
+the TSA’s conclusion that Ryan’s methodology was
+insufficiently reliable to support United’s requested refund
+amount. We see no reason to disturb its reliance on this subset
+of tickets in denying United’s refund request.
+                               19
+     The TSA also cited the CBP’s inability to replicate Ryan’s
+calculations to reach the requested refund amount, prompting
+the CBP to conclude that Ryan utilized a dataset other than the
+one provided to the TSA. The TSA characterized the differing
+calculations as “inexplicabl[e].” J.A. 11. But, as United points
+out, the record does provide an explanation. When CBP voiced
+concern over the discrepancy, Ryan explained that it stemmed
+from duplicated data and confirmed that the CBP’s calculation
+was correct. Thus, we find that it was unreasonable for the TSA
+to rely on this later-reconciled error, at least absent any reason
+or findings to the contrary. Nevertheless, even if this single
+basis for denying United’s refund request may not be
+reasonable, we cannot demand perfection nor vacate the TSA’s
+decision on this basis alone. See Dickson, 68 F.3d at 1404
+(noting that an agency’s decision need not be “a model of
+analytic precision to survive a challenge”).
+
+    In short, because the TSA’s decision to deny United’s
+request for a refund for the ERD tickets was reasonable, we
+deny United’s petition regarding the ERD tickets.
+
+ C. The TSA’s Duty to Calculate an Alternative Refund
+                      Amount
+
+     Finally, United contends that the TSA’s decision to deny
+its entire refund request rather than calculate a revised refund
+amount in light of the omissions and errors detected by the TSA
+and CBP was arbitrary and capricious. Rather than rely on
+administrative law principles to support its assertion, United
+relies primarily on Cohan v. Commissioner, 39 F.2d 540 (2d
+Cir. 1930), a federal tax case. In Cohan, the Second Circuit
+concluded that the U.S. Board of Tax Appeals—the
+predecessor of the modern U.S. Tax Court—could not deny a
+business-expense deduction altogether when it was clear the
+taxpayer “had spent much and that the sums were allowable
+                                20
+expenses.” Id. at 543. Although the court noted that “[a]bsolute
+certainty in such matters is usually impossible and is not
+necessary,” it reasoned that the Board “should make as close
+an approximation as it can, bearing heavily if it chooses upon
+the taxpayer whose inexactitude is of his own making.” Id. at
+543–44; see also United States v. Marabelles, 724 F.2d 1374,
+1383 (9th Cir. 1984) (citing Cohan and stating that “if it is clear
+that the taxpayer is entitled to some deduction, but he cannot
+establish the full amount claimed, it is improper to deny the
+deduction in its entirety”).
+
+     At the outset, United makes no effort to anchor the Cohan
+principle to 49 U.S.C. § 44940(g), specifically, or the TSA’s
+statutory scheme, more generally. We therefore cannot
+conclude that Cohan supports the proposition that the TSA
+must reflexively remedy a requesting airline’s failure to carry
+its burden on a particular point with the TSA’s own
+approximation, especially if the agency has reasonable
+concerns about the underlying calculations and accounting data
+it would need to use to make any approximation. Indeed,
+Cohan itself has been diluted by the Congress’s enactment of a
+more stringent substantiation requirement for business expense
+deductions, whereby a taxpayer must be able to
+“substantiate[ ]” any claimed deduction with “adequate records
+or by sufficient evidence corroborating the taxpayer’s own
+statement” regarding the amount, date and purpose of the
+business expense. See 26 U.S.C. § 274(d); see also Berkley
+Mach. Works & Foundry Co. v. Comm’r, 623 F.2d 898, 902
+(4th Cir. 1980) (documenting the relationship between Cohan
+and the enactment of 26 U.S.C. § 274(d) as part of the Revenue
+Act of 1962).
+
+    To the extent that Cohan may operate as a background
+principle of fairness, we have found the Cohan principle
+inapplicable if “‘there are no reliable figures from which to
+                                  21
+calculate or extrapolate a reasonable estimate’ of taxpayers’
+entitlements.” Green Gas Del. Statutory Tr. v. Comm’r, 903
+F.3d 138, 144 (D.C. Cir. 2018) (quoting Plisco v. United States,
+306 F.2d 784, 787 (D.C. Cir. 1962)); see also Coloman v.
+Comm’r, 540 F.2d 427, 431–32 (9th Cir. 1976) (cautioning that
+undue application of the Cohan principle “would . . . in essence
+. . . condone the use of that doctrine as a substitute for burden
+of proof”). In Green Gas, this Court declined to require a
+“Cohan estimate” of deductible landfill gas production because
+the Tax Court reasonably concluded that the estimation
+methods proffered by landfill owners were insufficiently
+reliable. 903 F.3d at 144. For example, the Tax Court
+determined that the owners’ site logs were too infrequent and
+data contained in them was “statistically improbable,” and that
+software used by the owners to monitor landfill gas emissions
+was not designed to provide an accurate measurement of
+landfill gas production. Id. at 143. Green Gas supports the
+conclusion that a Cohan estimate is unwarranted when the
+reviewing body—whether the Tax Court or an agency—has
+valid concerns about the reliability of the proffered
+methodology or data. We therefore decline to find that the TSA
+acted arbitrarily or capriciously when it elected to deny
+United’s submission rather than approximate a refund amount
+based on data and methodology it questioned. 7
+
+
+     7
+        United contends that if the TSA declined to issue a refund
+based on Ryan’s programmatic review or stratified random sample,
+it could have calculated a refund amount using the 600-ticket data
+from the TSA’s 2012 audit of the airline. Notwithstanding United
+noted in its submission that it extrapolated the audit data in order to
+validate Ryan’s calculations, it in no way suggested that the
+extrapolation could serve as an alternative refund amount in the event
+the agency disputed all of its other calculations. Because it did not
+make this argument to the TSA during the pendency of its
+submission, and offers no excuse for not doing so, we decline to
+                                 22
+                         IV. Conclusion
+
+     For the foregoing reasons, we grant United’s petition in
+part, vacate the TSA’s decision with respect to the Involuntary
+Transfer tickets and otherwise deny the petition. The case is
+remanded for proceedings consistent with this opinion.
+
+    So ordered.
+
+
+
+
+consider it. See 49 U.S.C. § 46110(d); see also Alaska Airlines, Inc.
+v. TSA, 588 F.3d 1116, 1122 (D.C. Cir. 2009).
+

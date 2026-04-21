@@ -1,0 +1,1492 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 17, 2023             Decided July 28, 2023
+
+                       No. 21-1243
+
+  NATIONAL RELIGIOUS BROADCASTERS NONCOMMERCIAL
+             MUSIC LICENSE COMMITTEE,
+                     APPELLANT
+
+                            v.
+
+COPYRIGHT ROYALTY BOARD AND LIBRARIAN OF CONGRESS,
+                    APPELLEES
+
+                   GOOGLE LLC, ET AL.,
+                     INTERVENORS
+
+
+
+            Consolidated with 21-1244, 21-1245
+
+
+          On Appeals from a Final Determination
+             of the Copyright Royalty Board
+
+
+
+    Samir Deger-Sen argued the cause for appellant National
+Association of Broadcasters. With him on the briefs were
+Joseph R. Wetzel, Andrew M. Gass, Sarang V. Damle, and
+Blake E. Stafford.
+                              2
+    Karyn K. Ablin argued the cause and filed the briefs for
+appellant National Religious Broadcasters Noncommercial
+Music License Committee. John J. Bursch, Rory T. Gray, and
+Erin M. Hawley entered appearances.
+
+     Matthew S. Hellman argued the cause and filed the briefs
+for appellant SoundExchange, Inc. Previn Warren entered an
+appearance.
+
+    Jennifer L. Utrecht, Attorney, U.S. Department of Justice,
+argued the cause for appellees. With her on the brief were
+Michael D. Granston, Deputy Assistant Attorney General, and
+Daniel Tenny, Attorney.
+
+    David P. Mattern argued the cause for intervenors Google
+LLC, et al. in support of appellees. With him on the brief were
+Sarang V. Damle, Blake E. Stafford, Kenneth L. Steinthal,
+Joseph R. Wetzel, Andrew M. Gass, Samir Deger-Sen, Joshua
+N. Mitchell, and Karyn K. Ablin. John J. Bursch, Jason B.
+Cunningham, Rory T. Gray, and Erin M. Hawley entered
+appearances.
+
+    Matthew S. Hellman was on the brief for intervenor
+SoundExchange, Inc. in support of appellees. Previn Warren
+entered an appearance.
+
+    Before: MILLETT, WILKINS, and PAN, Circuit Judges.
+
+    Opinion for the Court filed PER CURIAM.
+
+    Every five years, the Copyright Royalty Board (the
+“Board”) issues a statutory license that establishes the terms
+and rates under which certain entities that stream copyrighted
+songs over the internet make royalty payments to the songs’
+copyright owners. The “webcasters” that are subject to the
+                              3
+license are “noninteractive” — i.e., they stream music without
+letting their listeners choose songs on demand. This appeal
+challenges on various grounds the Board’s most recent
+noninteractive webcaster license Final Determination,
+covering calendar years 2021 through 2025. We sustain the
+Board’s Final Determination in all respects.
+
+                               I
+
+     The Copyright Act, 17 U.S.C. § 101 et seq., provides the
+statutory framework for regulating copyrights. Under that
+framework, a recorded song has two components with distinct
+rights: (1) the “musical work,” which is the song’s underlying
+composition (i.e., the lyrics and melody); and (2) the “sound
+recording,” which is a recorded version of the song. See
+SoundExchange, Inc. v. Copyright Royalty Board, 904 F.3d 41,
+46 (D.C. Cir. 2018).
+
+     Historically, the owner of a musical work had an exclusive
+right of public performance but the owner of a sound recording
+did not. SoundExchange, 904 F.3d at 46. Thus, an FM radio
+station could broadcast a sound recording without permission
+from its copyright owner. But in 1995, Congress amended the
+Copyright Act to grant sound-recording owners the exclusive
+right of public performance “by means of a digital audio
+transmission.”       Digital Performance Right in Sound
+Recordings Act of 1995, Pub. L. No. 104-39, § 2, 109 Stat. 336,
+336 (codified at 17 U.S.C. § 106(6)). Under the amended
+statute, a webcaster cannot stream a sound recording without
+paying royalties to its copyright owner.
+
+     In defining the scope of this new right, Congress
+distinguished between webcasters (also known as “digital
+audio services”) that are “interactive” and “noninteractive.”
+Interactive services let users choose the particular songs they
+                               4
+want to listen to on demand, e.g., Spotify, while noninteractive
+services do not, e.g., Pandora. See 17 U.S.C. § 114(j)(7).
+Interactive webcasters must contract directly with copyright
+owners to obtain public performance rights for their sound
+recordings. Id. § 114(d)(2)(A)(i). By contrast, Congress
+tasked the Copyright Royalty Board with creating a
+compulsory license covering the use of sound recordings by all
+noninteractive webcasters. Id. § 114(f)(1). The license is
+“compulsory” because copyright owners cannot opt out of it
+unless they negotiate individual settlement agreements with
+noninteractive webcasters. Id. §§ 114(f)(1)–(2). Royalties
+under the compulsory license are paid to a “nonprofit
+collective,” which distributes the funds to performing artists or
+other copyright owners.          Id. § 114(g)(2).    Meanwhile,
+traditional AM/FM radio, also known as terrestrial or over-the-
+air radio, still plays by the old rules: those radio stations pay
+no royalties to broadcast songs to listeners, and copyright
+owners instead treat AM/FM radio as a promotional
+opportunity.
+
+     The Board must set the rates and terms of the compulsory
+license for noninteractive webcasters every five years.
+17 U.S.C. § 114(f)(1)(A). Interested parties may negotiate
+settlement agreements amongst themselves to opt out of the
+compulsory license. Id. § 114(f)(2). If a particular record label
+and a webcaster negotiate a settlement agreement that sets
+terms for the webcaster’s use of the record label’s copyrighted
+sound recordings, that agreement controls instead of the
+Board’s compulsory license. Non-settling parties are subject
+to the license, and the Board holds an evidentiary proceeding
+to determine the applicable terms and rates under that license.
+SoundExchange, 904 F.3d at 46–47.                Noninteractive
+webcasting produces hundreds of billions of streams per year,
+the vast majority of which are covered by the compulsory
+license rather than by a settlement.
+                               5
+
+     Congress set forth instructions for the Board’s compulsory
+license determinations in 17 U.S.C. § 114(f)(1)(B). The statute
+directs the Board to “distinguish among the different types of
+[webcasting] services then in operation” based on, among other
+factors, the “quantity and nature of the use of sound recordings
+and the degree to which use of the service may substitute for or
+may promote the purchase of phonorecords by consumers.” Id.
+Applying that standard, the Board has previously distinguished
+between commercial and noncommercial webcasting services
+and between subscription-based and nonsubscription-based
+commercial services. See Determination of Royalty Rates and
+Terms for Ephemeral Recording and Webcasting Digital
+Performance of Sound Recordings (Web IV), 81 Fed. Reg.
+26,316, 26,409 (May 2, 2016). For each different type of
+service, the Board must establish rates and terms that represent
+what “would have been negotiated in the marketplace between
+a willing buyer and a willing seller.” 17 U.S.C. § 114(f)(1)(B).
+This is called the “willing buyer/willing seller” standard.
+SoundExchange, 904 F.3d at 56. In so doing, the Board must
+consider factors including the effect of the license’s rates and
+terms on other sources of sound recording revenue, such as
+whether a service tends to boost or deflate interactive streaming
+royalties. 17 U.S.C. § 114(f)(1)(B)(i)(I). The Board may also
+consider voluntary license agreements negotiated for
+comparable services as “benchmarks” that provide reference
+points in its analysis. SoundExchange, 904 F.3d at 47; see
+17 U.S.C. § 114(f)(1)(B)(ii). And the Board’s rates and terms
+must “include a minimum fee” that each webcaster must pay to
+use the compulsory license. 17 U.S.C. § 114(f)(1)(B). As we
+have made clear, “the statute does not require that the
+[hypothetical] market assumed by the [Board] achieve
+metaphysical perfection.” Intercollegiate Broad. Sys., Inc. v.
+Copyright Royalty Board (Intercollegiate II), 796 F.3d 111
+(D.C. Cir. 2015).
+                                 6
+
+     This appeal concerns the Board’s fifth noninteractive
+webcaster rate Final Determination, which set the rates and
+terms of the statutory license for calendar years 2021 through
+2025. Determination of Rates and Terms for Digital
+Performance of Sound Recordings and Making of Ephemeral
+Copies To Facilitate Those Performances (Web V), 86 Fed.
+Reg. 59,452 (Oct. 27, 2021). The Board’s previous four
+noninteractive webcaster rate determinations were reviewed
+and largely upheld by this court. See SoundExchange, 904 F.3d
+41 (reviewing Web IV); Intercollegiate II, 796 F.3d 111
+(reviewing Web III); Intercollegiate Broad. Sys., Inc. v.
+Copyright Royalty Board (Intercollegiate I), 574 F.3d 748
+(D.C. Cir. 2009) (reviewing Web II); Beethoven.com LLC v.
+Librarian of Cong., 394 F.3d 939 (D.C. Cir. 2005) (reviewing
+Web I).1
+
+     The Web V evidentiary hearing lasted from August 4,
+2020, to September 9, 2020. Ten parties participated,
+including the appellants and intervenors in this consolidated
+case: (1) the National Association of Broadcasters (the
+“NAB”), an association of radio and television stations; (2) the
+National Religious Broadcasters Noncommercial Music
+License Committee (the “Committee”), an arm of a trade
+association that represents religious radio and television
+stations; (3) SoundExchange, Inc., a collective management
+organization that represents sound-recording copyright holders
+
+1
+     For the underlying Board determinations, see Web IV, 81 Fed.
+Reg. 26,316; Determination of Royalty Rates for Digital
+Performance Right in Sound Recordings and Ephemeral Recordings
+(Web III), 79 Fed. Reg. 23,102 (April 25, 2014); Digital Performance
+Right in Sound Recordings and Ephemeral Recordings (Web II), 72
+Fed. Reg. 24,084 (May 1, 2007); Determination of Reasonable Rates
+and Terms for the Digital Performance of Sound Recordings and
+Ephemeral Recordings (Web I), 67 Fed. Reg. 45,240 (July 8, 2002).
+                               7
+and artists; and (4) Google LLC, a technology company. The
+Board heard oral testimony from thirty-three witnesses and
+received written testimony from eight, which together included
+thirteen qualified experts. The Board admitted 748 exhibits
+into evidence, comprising more than 900,000 pages of
+documents. After the hearing, the parties submitted proposed
+findings and conclusions, and responses thereto, and made
+closing arguments on November 19, 2020. The Librarian of
+Congress published the Board’s Final Determination on
+October 27, 2021.
+
+      In its Final Determination, the Board identified three
+relevant categories of webcasters: commercial subscription
+webcasters, commercial nonsubscription webcasters, and
+noncommercial webcasters. See Web V, 86 Fed. Reg. at
+59,589. Commercial subscription webcasters are services like
+Pandora Plus that collect payments from their listeners. See
+SoundExchange, 904 F.3d at 48. Commercial nonsubscription,
+i.e., “ad-supported,” webcasters are services like Free Pandora
+that collect payment from advertisers rather than listeners. See
+id. at 48, 58. Noncommercial webcasters are services owned
+by a government entity or a nonprofit, such as National Public
+Radio (“NPR”) and certain religious webcasters. See Web V,
+86 Fed. Reg. at 59,593; 17 U.S.C. § 114(f)(4)(E)(i). Besides
+noncommercial, educational, and public webcasters, all other
+webcasters are commercial. Web V, 86 Fed. Reg. at 59,592.
+
+     For all webcasters, the Board set a minimum fee of $1,000
+per channel or station. Web V, 86 Fed. Reg. at 59,589.
+Commercial webcaster license fees were capped at $100,000.
+Id. at 59,589. Payment of the minimum fee grants a webcaster
+access to the compulsory license.             See 17 U.S.C.
+§ 114(f)(1)(B). Each licensee can have multiple channels, but
+with the $100,000 cap, a large commercial webcaster licensee
+pays the minimum fee only for its first one hundred channels.
+                               8
+This provision doubled the prior minimum-fee payment—
+which was $500 per channel and capped at $50,000 per
+licensee. See Web IV, 81 Fed. Reg. at 26,409; Web III, 79 Fed.
+Reg. at 23,132.
+
+     Beyond the minimum fee, when setting royalty rates for
+all webcasters, the Board puts forward an amount to be paid
+“per performance.” One copyrighted song heard by one
+listener is a performance. Web V, 86 Fed. Reg. at 59,593. So,
+for instance, if the Board set a royalty rate at $0.002 per
+performance, and if a webcaster subject to that rate streamed
+two copyrighted songs to one thousand listeners each, it would
+have to pay for two thousand performances, amounting to
+$4.00 total.
+
+    For commercial subscription webcasters, the Board set a
+2021 royalty rate of $0.0026 per performance, adjusted
+annually for inflation. Web V, 86 Fed. Reg. at 59,589. For all
+commercial webcasters, the minimum fee of $1,000 covers a
+service’s first $1,000 in royalty payments, id., or about 385,000
+performances for commercial subscription webcasters in 2021.
+
+     For commercial nonsubscription webcasters, the Board set
+a 2021 royalty rate of $0.0021 per performance, adjusted
+annually for inflation. Web V, 86 Fed. Reg. at 59,589. The
+minimum fee of $1,000 covered roughly 475,000
+performances for commercial nonsubscription webcasters
+in 2021.
+
+     For noncommercial webcasters, the Board set a payment
+structure under which the webcaster receives a monthly
+allowance of 159,140 aggregate tuning hours (“ATH”) by
+paying the minimum fee; and pays a 2021 royalty rate of
+$0.0021 per performance above that threshold, adjusted
+annually for inflation—the same rate that applies to
+                               9
+commercial nonsubscription webcasters. Web V, 86 Fed. Reg.
+at 59,589. ATH is, essentially, the cumulative time spent
+listening to copyrighted songs. See id. at 59,592. For instance,
+if 1,000 individuals each listened to one hour of copyrighted
+songs, that would amount to 1,000 ATH. See id.
+
+     Four aspects of the Board’s decision are challenged on
+appeal. First, the NAB argues that the Board should have
+adopted its proposal to distinguish simulcasters from other
+commercial nonsubscription webcasters. Simulcasters are
+traditional AM/FM stations that simultaneously stream their
+programming on the internet. The NAB sought a lower rate for
+those stations. Second, the NAB and the Committee
+(collectively, the “Services”) argue that the Board should have
+rejected SoundExchange’s proposal to double the minimum
+fee to $1,000 per channel and $100,000 per licensee. The
+Services proposed keeping the incumbent minimum fee
+structure instead. Third, the Committee argues that the Board
+should have set a lower rate for noncommercial webcasters,
+based on a settlement agreement between SoundExchange,
+NPR, and the Corporation for Public Broadcasting (“CPB”)
+that the Committee proffered as a benchmark. And fourth,
+SoundExchange argues that the Board should have set a higher
+commercial nonsubscription rate, contending that the Board’s
+rate is lower than copyright owners’ opportunity costs.
+
+     The NAB, the Committee, and SoundExchange timely
+appealed the aforementioned aspects of the Board’s Final
+Determination under 17 U.S.C. § 803(d)(1). SoundExchange
+intervened on behalf of the government in the appeals brought
+by the Services, while the Services and Google intervened on
+behalf of the government in SoundExchange’s appeal.
+                              10
+                              II
+
+     We review the Board’s rate determinations under Section
+706 of the Administrative Procedure Act. See 17 U.S.C.
+§ 803(d)(3). We uphold the results of the Board’s proceedings
+“unless they are arbitrary, capricious, contrary to law, or not
+supported by substantial evidence.” Intercollegiate I, 574 F.3d
+at 755. Our “[r]eview of administratively determined rates is
+‘particularly deferential’ because of their ‘highly technical’
+nature.” Id. (quoting East Ky. Power Coop. v. FERC, 489 F.3d
+1299, 1306 (D.C. Cir. 2007)). Applying that standard, we
+sustain the Board’s Final Determination against the appellants’
+challenges.
+
+                              III
+
+                               A
+
+     As an association of radio and television stations, the NAB
+represents hundreds of simulcasters nationwide. Its members
+range in size from larger broadcasters, such as iHeartMedia—
+a company operating around 850 radio stations—to smaller
+broadcasters, such as individuals operating only a handful of
+stations. Focusing on the three identified categories of
+webcasters, the NAB contests the Board’s decision to place
+simulcasters in the broad commercial nonsubscription
+webcaster category, thus subjecting them to the same rate as
+what the NAB argues are fundamentally different custom radio
+services. Custom radio refers to services like Pandora, which
+allow users to skip songs and to “curate the listening
+experience.” Web V, 86 Fed. Reg. at 59,547. By contrast,
+simulcasters are traditional AM/FM stations that
+simultaneously stream their programming on the internet
+without allowing for customization.
+                              11
+     During the Board’s proceedings, the NAB put forth a rate
+structure under which simulcasters would pay $0.0008 per
+play, and other eligible commercial nonsubscription
+webcasters would pay $0.0016 per play. If adopted, the Board
+would have distinguished simulcasters from other webcasters
+for the first time. Web V, 86 Fed. Reg. at 59,547. According
+to the NAB, the Board’s statutory obligation to distinguish
+between different services, see 17 U.S.C. § 114(f)(1)(B),
+required it to adopt this proposal because simulcasting is
+critically distinct from other types of commercial webcasting.
+As support, the NAB offered various voluntary agreements as
+benchmarks, including “[d]irect license agreements between
+sound recording rights owners and webcaster iHeart and
+license agreements for musical compositions between
+performing rights organizations and webcasters Pandora and
+iHeart.” Web V, 86 Fed. Reg. at 59,547. Ultimately, the Board
+found that a new distinction was unwarranted based on the
+record, and more specifically, that “significant evidence”
+showed “simulcasters and other commercial webcasters
+compete in the same submarket and therefore should be subject
+to the same rate.” Id. at 59,565.
+
+     A second point of contention arose regarding the
+statutorily mandated minimum fee.            See 17 U.S.C.
+§ 114(f)(1)(B). Having maintained the same $500 minimum
+fee since 2006, the Board considered SoundExchange’s
+proposal to double the fee to $1,000 in order “at least to cover
+[its] administrative cost.” Web V, 86 Fed. Reg. at 59,579
+(internal quotation marks omitted). The Services collectively
+challenged SoundExchange’s request, arguing that, because
+the fee is solely meant to cover “incremental administrative
+costs”—meaning fees associated with administering the
+webcasting license—SoundExchange’s average administrative
+cost was “irrelevant.” Id. at 59,580 (emphasis omitted). In the
+Services’ view, what the Board accepted as “average
+                               12
+administrative cost” in fact encompasses SoundExchange’s
+“total costs,” including fees unrelated to license administration.
+NAB Opening Br. 17–18 (emphasis omitted); see Committee
+Opening Br. 51–52. Thus, the Services asked the Board to
+adopt their narrower view of the minimum fee. But finding no
+statutory basis that supported it doing so, the Board rejected the
+Services’ proposal and explained why the record justified
+doubling the minimum fee.
+
+     On appeal, the NAB advances a two-part theory, arguing
+the Board’s determination is arbitrary, capricious, or otherwise
+contrary to law. First, the NAB challenges the Board’s refusal
+to distinguish simulcasters from other nonsubscription
+commercial services as violating 17 U.S.C. § 114(f)(1)(B)’s
+plain language. It also argues that the Board’s analysis
+justifying its decision was arbitrary and capricious. Second,
+the Services challenge the Board’s decision to double the
+minimum fee in consideration of SoundExchange’s average
+administrative costs.
+
+    Unpersuaded by either theory, we affirm both aspects of
+the Board’s determination.
+
+                                1
+
+     Looking first to the NAB’s categorization-related
+arguments, we uphold the Board’s determination, finding this
+record failed to establish that simulcasters warrant a different
+royalty rate than other commercial nonsubscription services.
+According to the NAB, the Board violated its statutory
+obligation to distinguish services when it acknowledged that
+simulcasters differ from custom radio, yet still subjected both
+groups to the same rate. After reviewing this record, however,
+we confirm that the Board reasonably evaluated the NAB’s
+differentiation evidence and appropriately exercised its
+                                13
+discretion in declining to set a separate, lower rate for
+simulcasters.
+
+     Recall that the Board “shall distinguish among the
+different types of services then in operation” when
+“establish[ing] rates and terms that most clearly represent”
+what “would have been negotiated in the marketplace between
+a willing buyer and a willing seller.” 17 U.S.C. § 114(f)(1)(B).
+The Copyright Act also instructs the Board to base its decision
+on criteria such as “the quantity and nature of the use of sound
+recordings and the degree to which use of the service may
+substitute for or may promote the purchase of phonorecords by
+consumers.” Id.
+
+     Here, the Board satisfied 17 U.S.C. § 114(f)(1)(B) by
+maintaining the preexisting rate categories and distinguishing
+royalty rates for (1) commercial subscription services;
+(2) commercial       nonsubscription      services;     and      (3)
+noncommercial services. When setting rates, we have
+explained that the Board has discretion in determining what to
+use as a starting point, so long as it explains itself. Music
+Choice v. Copyright Royalty Board, 774 F.3d 1000, 1012 (D.C.
+Cir. 2014) (finding that the Board “did not err when [it] used
+the prevailing rate as the starting point of [its] analysis,” given
+“the lack of creditable benchmarks in the record” and the
+Board’s “reasoned explanation”).           Furthermore, Section
+114(f)(1)(B) contemplates the Board will “make adjustments
+to the prevailing rate” and also “consider prior determinations”
+in its decisionmaking. Music Choice, 774 F.3d at 1012
+(internal quotation marks omitted).
+
+     The Board has never set a lower rate for simulcasters. So
+its decision not to here is not an “unexplained presumption in
+favor of uniform rates.” NAB Opening Br. 29. Rather, the
+Board was justified in relying on its three preexisting rate
+                               14
+category distinctions to at least determine a starting point. Web
+V, 86 Fed. Reg. at 59,547; see also Web I, 67 Fed. Reg. at
+45,252 (adopting a single rate for commercial webcasters);
+Web II, 72 Fed. Reg. at 24,095 (refusing to establish a separate
+rate for simulcasters); Web IV, 81 Fed. Reg. at 26,323
+(rejecting arguments for a separate simulcaster rate). It was
+thus up to the NAB to establish a record showing why, and
+how, this starting point should be altered to reflect the willing
+buyer/willing seller standard. See Web IV, 81 Fed. Reg. at
+26,320 (“As the proponent of a rate structure that treats
+simulcasters as a separate class of webcasters, the NAB bears
+the burden of demonstrating not only that simulcasting differs
+from other forms of commercial webcasting, but also that it
+differs in ways that would cause willing buyers and willing
+sellers to agree to a lower royalty rate in the hypothetical
+market.”); Web I, 67 Fed. Reg. at 45,254 (referring to “the
+burden of proof on the broadcasters to present evidence to
+distinguish between the direct transmission of their programs
+over the Internet and the retransmission of the same
+programming made by a third-party”).
+
+     Our reasoning here also resolves the NAB’s secondary
+challenges to the Board’s decision, rejecting the new simulcast
+distinction. First, the NAB argues that the Board improperly
+made a presumption in favor of uniform rates, which required
+the NAB to present contrary evidence to rebut the Board’s
+presumption. The NAB asserts that the Board instead should
+have supported its decision with substantial evidence. This
+argument gets things backwards. The Board is allowed to
+consider its prior determinations, and the NAB failed to meet
+its burden to show this record warranted something different.
+Second, the NAB argues that the Board’s analysis discussing
+competition between simulcasters and other commercial
+webcasters was “far too generalized to have any relevance” and
+rendered the determination arbitrary and capricious. NAB
+                               15
+Opening Br. 37–40. We disagree because, as explained
+throughout this section, the Board appropriately exercised its
+discretion in finding the differentiation evidence failed to
+support a new simulcast rate category under the willing
+buyer/willing seller standard.
+
+     The Board reasonably declined to interpret the NAB’s
+evidence as supporting a separate rate for simulcasters. The
+NAB presented benchmark agreements that it claimed were
+evidence that simulcasters should be subject to a lower rate
+than custom radio. The Board rejected the NAB’s iHeart/Indie
+Agreements as benchmarks because they only covered “a small
+portion of the sound recordings performed by iHeart, and an
+even smaller portion of the entire market for simulcast, custom
+radio, and internet radio performances.” Web V, 86 Fed. Reg.
+at 59,549 (emphasis added). The NAB also introduced survey
+evidence that it argued showed simulcasters should be subject
+to a lower rate. Importantly, the Board also declined to rely on
+the NAB’s Hauser Survey—a survey intended to reveal the
+“percentage of respondents that, in the absence of simulcasts,
+would consume content from” other alternative activities. Id.
+at 59,551. Doing so was permissible given the Board’s
+concerns with the survey’s design, such as its failure to include
+services like internet radio services covered by the statutory
+license. Id. at 59,563–59,565.
+
+     Nevertheless, the NAB insists that the differences between
+simulcasts and custom radio show the Board was required to
+distinguish a separate, simulcaster rate. But the Board acted
+reasonably in taking issue with the fact that “the bulk” of the
+NAB’s evidence “regarding differentiated use of music versus
+non-music content” was limited to comparing simulcasts
+against custom radio services, when the NAB’s proposal was
+to establish a simulcast rate separate from “the full scope of
+                               16
+noninteractive webcasting[.]” Web V, 86 Fed. Reg. at 59,551
+(emphasis added).
+
+      Critically, the NAB also failed to show that internet
+simulcasters constitute a distinct market segment. The absence
+of distinct market segmentation evidence is detrimental to the
+NAB’s case because the statutory distinction requirement
+“mean[s] that distinct segments of webcasters—such as
+noncommercial services—receive their own rates and terms.”
+SoundExchange, 904 F.3d at 47 (emphasis added). This
+emphasis on evidence of competition is rooted in the willing
+buyer/willing seller standard. It is unclear whether a willing
+buyer and a willing seller would agree to a new rate for a
+service, falling under a preexisting rate category, absent
+evidence showing that the service constitutes a distinct
+segment of webcasters. In SoundExchange, we shed light on
+the distinction requirement when discussing how to determine
+if a service constitutes a distinct segment of webcasters. There,
+we affirmed the Board’s decision to distinguish between ad-
+based and subscription-based services because the record
+showed each service “appeal[ed] to a different segment of the
+market[.]” Id. at 58. But the NAB never argues that any such
+market segmentation would actually result in a lower rate for
+simulcasters based on a rate that a willing buyer and a willing
+seller would accept.
+
+     Our SoundExchange decision also addressed the Board’s
+prior determinations more generally and upheld the process
+through which it determines how to distinguish between
+services. 904 F.3d at 58–59. The Board’s process began in
+Web II, when it established that “the key question in
+ascertaining the propriety of differentiation is whether the
+services occupy ‘distinct segment[s]’ of the market or instead
+compete for listeners.” Id. at 58 (quoting Web II, 72 Fed. Reg.
+at 24,097–24,098). To answer this question, the Board
+                               17
+assesses service competition by “examin[ing] whether the
+services compete with each other for listeners, or whether one
+service instead operate[d] in a submarket separate from and
+noncompetitive with the other[.]” Id. (internal quotation marks
+and citation omitted). And as for market segmentation, the
+Board considers various factors, “including whether
+comparable agreements have been negotiated in which one
+service paid a lower rate than the other.” Id. In short, our
+precedent counsels that when evaluating categorization
+challenges under 17 U.S.C. § 114(f)(1)(B), we consider
+whether the record shows the Board reasonably distinguished
+between the “types of services then in operation[,]” id., and
+established    rates    for   each     “distinct    segment[,]”
+SoundExchange, 904 F.3d at 58, under the willing
+buyer/willing seller standard. See Intercollegiate II, 796 F.3d
+at 128 (emphasizing that the minimum fee distinction
+requirement applies to each “type of service,” 17 U.S.C.
+§ 114(f)(1)(B)—“not for each individual webcaster”).
+
+     Instead of structuring its position around why simulcasters
+constitute a distinct segment of the market from all other
+commercial nonsubscription services, the NAB dedicated most
+of its argument to distinguishing simulcasters from a mere
+subset of other commercial webcasters—custom internet radio.
+In doing so, the NAB argued that the Board failed to justify its
+refusal to establish a separate rate for simulcasters despite its
+acknowledgment of certain differences between simulcasters
+and custom radio. But the NAB does not argue that
+simulcasting is different from commercial webcasting more
+generally—only that it differs from custom radio. There are
+other types of commercial webcasting that may not have the
+same features as custom radio, but the NAB does not argue that
+a willing buyer and a willing seller would agree to a lower rate
+for simulcasting than for any other types of commercial
+webcasting. Although such an argument could succeed if the
+                              18
+record showed that willing buyers and willing sellers would
+agree to lower royalty rates for simulcasting than for other
+types of commercial webcasting, the NAB did not do so here.
+Moreover, we underscore the “technical nature” of rate
+determinations and find the NAB failed to meet its burden here.
+Intercollegiate II, 796 F.3d at 127 (quoting Intercollegiate I,
+574 F.3d at 755). We acknowledge, however, that future
+records may warrant new rate category distinctions.
+SoundExchange, 904 F.3d at 58 (describing evidence
+appropriately distinguishing between ad-based and
+subscription-based services).
+
+                               2
+
+    Together, the Services contest the minimum fee, arguing
+the Board erroneously raised the fee to account for costs other
+than the incremental cost of administering webcasting licenses.
+As explained below, we reject the Services’ challenge and
+uphold the $1,000 minimum fee as reasonable.
+
+     Although Congress requires the Board to establish a
+minimum fee for each service under 17 U.S.C. § 114(f)(1)(B),
+it never enumerated a list of specific costs that such a fee
+should cover. Starting in 2006, the Board has continuously
+maintained the annual minimum fee at $500 for each channel,
+including an aggregate cap of $50,000 per commercial
+webcaster. Here, the Board accepted SoundExchange’s
+proposal to raise the minimum fee to $1,000 per channel and
+raise the aggregate cap to $100,000. In doing so, it reasonably
+relied upon three evidentiary findings.
+
+     Most importantly, the Board was persuaded by
+SoundExchange’s evidence demonstrating an increase in its
+average administrative costs. SoundExchange calculated this
+increased average “by dividing its total administrative costs by
+                              19
+its total number of licensees” and dividing that amount “by the
+estimated number of channels or stations per licensee.” Web V,
+86 Fed. Reg. at 59,582. This calculation revealed that
+SoundExchange’s estimated average administrative cost per
+channel “increased from approximately $1,900 to
+approximately $4,448 between 2013 and 2018, an increase of
+2.34 times.” Id. While acknowledging that this was an
+estimate, the Board concluded that the “relative increase in
+average administrative costs”—134%—“would yield a
+minimum fee of $1170[,]” and noted that this amount exceeded
+SoundExchange’s proposed $1000 minimum fee. Id.
+
+     The other two points that the Board found supported
+increasing the minimum fee included: (1) a settlement between
+SoundExchange and College Broadcasters, Inc. (“CBI”),
+agreeing to a minimum fee of $750 by 2025; and (2) inflation.
+As relevant here, the Board concluded that the CBI settlement
+generally indicated willing buyers and willing sellers would
+agree to a higher minimum fee. And to the second point, the
+record utilized the Bureau of Labor Statistics’ Consumer Price
+Index for All Urban Consumers to show that a minimum fee of
+$656.77 would be necessary to account for general inflation
+since the minimum fee was set at $500 in 2006. Web V, 86
+Fed. Reg. at 59,583. The Board considered this evidence in
+finding that the record supported a “zone of reasonable
+minimum fees” from $656.77 to $1,170. Id. Ultimately, the
+Board adopted the proposed $1,000 minimum fee because it
+was most persuaded by SoundExchange’s average
+administrative cost evidence, and because the proposed fee fell
+within the reasonable zone. Id. at 59,583–59,584.
+
+    On appeal, the Services again contest the Board’s
+consideration of SoundExchange’s average administrative
+costs, arguing that the minimum fee should be limited to the
+                                20
+incremental cost of administering the webcasting license. We
+disagree.
+
+     The Services point to nothing in either the statutory
+scheme, or in the Board’s prior determinations, that requires
+the Board to adopt such a restrictive view of 17 U.S.C.
+§ 114(f)(1)(B). Indeed, the statute only instructs that the
+statutory rates and terms “shall include a minimum fee for each
+such type of service,” and that such a fee will reflect the willing
+buyer/willing seller standard.         Id. § 114(f)(1)(B); see
+Intercollegiate II, 796 F.3d at 128 (“[T]he Board must set a fee
+that both a willing buyer and a willing seller would negotiate,
+not just one that is acceptable to the buyer (the webcaster).”)
+(emphasis omitted). And as the Board explained, it has
+consistently rejected the interpretations of the minimum fee as
+limited to incremental administrative costs. Web V, 86 Fed.
+Reg. at 59,581 (“To be sure, the Services have made that
+[incremental administrative costs] argument consistently since
+Web I. However, the Judges and their predecessors have never
+embraced it.”).
+
+     Not only does the Services’ minimum fee challenge lack
+support based on the statute, as well as from the Board’s prior
+determinations, but the Services’ position also conflicts with
+our precedent under which we have held that the minimum fee
+may reflect average—as opposed to incremental—
+administrative costs. Intercollegiate II, 796 F.3d at 131 (noting
+that “the Board did not set the [minimum] fee based solely on
+SoundExchange’s administrative costs” but also “relied on the
+evidence of industry-wide average administrative cost”). In
+Intercollegiate II, we concluded that while “[e]vidence of
+average cost may not be perfect,” nothing prohibited us from
+upholding its use. Id. (“This court’s task is ‘only [to] assess
+the reasonableness of the [Board’s] interpretation of the
+                             21
+inherent ambiguity’ in Congress’ directive.”) (quoting
+Intercollegiate I, 574 F.3d at 757). So too here.
+
+     The Services have demonstrated no reason to bar the
+Board’s consideration of SoundExchange’s increased average
+administrative cost, and the Board’s determination comports
+with our precedent as well as with the Board’s prior
+determinations. Given the evidence of (1) SoundExchange’s
+estimated increase in average administrative cost, (2) a
+voluntary agreement to a higher minimum fee between
+SoundExchange and CBI, and (3) general inflation since 2006,
+we find the Board had substantial evidence to support its
+decision that a $1,000 minimum fee reasonably satisfied the
+willing buyer/willing seller standard. Thus, we uphold the
+increased minimum fee.
+
+                             B
+
+     The Committee is the arm of a trade association that
+“represent[s] the interests of religious noncommercial radio
+stations in issues of music licensing.” Committee Opening
+Br. v. “Many of the [radio] stations represented by the
+[Committee] simultaneously transmit their broadcast
+programming online” under the terms of the statutory license
+at issue in this appeal. Committee Opening Br. v. The
+Committee challenges the Board’s rate determination for all
+noncommercial webcasters, including the nonprofit religious
+stations that are its members.
+
+     The Committee proposed two alternative rate structures
+that would have lowered the rates paid by noncommercial
+webcasters. Web V, 86 Fed. Reg. at 59,567. The Board,
+however, rejected the Committee’s proposals and instead
+accepted SoundExchange’s recommendation to essentially
+maintain the incumbent rate structure that had been in effect
+                                22
+from 2006 to 2020. Id. at 59,579. In support of its decision,
+the Board noted that “SoundExchange relies on the same
+reasoning adopted by the Judges in webcasting proceedings
+going back to Web II to support its proposed rate structure.” Id.
+at 59,573. The Board adopted that long-standing reasoning in
+the absence of “persuasive counterarguments” from the
+Committee. Id. at 59,573, 59,579.
+
+     Under the preexisting rate structure, a noncommercial
+webcast station paid the minimum fee to gain access to 159,140
+ATH of monthly usage. See Web IV, 81 Fed. Reg. at 26,405–
+26,406.     Above that usage threshold, noncommercial
+webcasters paid the same rates as commercial nonsubscription
+webcasters. See id. The Committee proposed alternative rates
+that (1) would have maintained the same usage allowance and
+minimum fee, while allowing noncommercial webcasters to
+pay one-third of the commercial rate for above-threshold
+usage; or (2) would have allowed certain Committee-
+designated noncommercial webcasters to pay a lump sum for
+an aggregate usage allowance. Web V, 86 Fed. Reg. at 59,567.2
+
+2
+   The Committee’s proposed rate structures for noncommercial
+webcasters were deemed “Alternative 1” and “Alternative 2.”
+Web V, 86 Fed. Reg. at 59,567. Under Alternative 1, noncommercial
+webcasters would pay an annual minimum fee of $500 that would
+entitle them to 1,909,680 ATH of usage per year. For usage above
+that threshold, noncommercial webcasters would pay one-third of
+the rate for commercial webcasters for the same type of transmission
+(subscription versus nonsubscription). Under Alternative 2, the
+Committee would pay a flat annual fee of $1.2 million to
+SoundExchange, for a group of up to 795 noncommercial religious
+radio stations designated by the Committee. Those stations would
+have an aggregate usage cap of 540 million ATH in 2021, increasing
+by 15 million ATH per year. The proposal set no terms for usage
+above that cap. Meanwhile, stations not designated for inclusion in
+that group would be subject to the terms of Alternative 1. Id.
+                               23
+
+     The Committee’s rate proposals were based on a
+settlement    agreement      between    NPR,     CPB,     and
+SoundExchange (the “NPR Agreement”) that covered the
+years 2021 through 2025. The Committee sought to introduce
+the NPR Agreement as a benchmark to support its rate
+proposals for noncommercial webcasters. Web V, 86 Fed. Reg.
+at 59,567–59,569. But the Board rejected the NPR Agreement
+as a benchmark and rejected the Committee’s rate proposals.
+The Board provided three primary reasons for its decision:
+(1) the Committee neglected to offer any expert testimony to
+establish that the NPR Agreement was “comparable” to a
+compulsory license for noncommercial webcasters; (2) the
+Committee’s rate proposals failed to make adjustments for
+economically significant aspects of the NPR Agreement; and
+(3) one aspect of the Committee’s proposal was based on dated
+information that the Board was statutorily barred from
+considering. See id. at 59,569–59,573.
+
+     On appeal, the Committee argues that the Board
+(1) violated the APA by arbitrarily and capriciously rejecting
+the NPR Agreement as a benchmark; (2) violated the APA by
+arbitrarily and capriciously setting the noncommercial
+webcaster royalty rate too high; and (3) violated the federal
+Religious Freedom Restoration Act (“RFRA”), 42 U.S.C.
+§ 2000bb et seq., and the First Amendment by setting a rate
+that was less favorable to large, predominantly religious
+webcasters than the rate enjoyed by secular NPR affiliates
+under the NPR Agreement.3
+
+3
+    The Committee also joined the NAB’s challenge to the Board’s
+minimum fee, and essentially relied on the NAB’s briefing and oral
+argument. Its only additional argument was that the Board should
+have adjusted the $500 minimum fee for inflation from 2020 rather
+                               24
+
+    We sustain the Board’s rate determination                 for
+noncommercial webcasters and its rejection of                 the
+Committee’s proposals.
+
+                                1
+
+    The Board’s decision to reject the NPR Agreement as a
+benchmark, as well as the Committee’s rate proposals that were
+based on the NPR Agreement, was reasonable and supported
+by substantial evidence. We note that
+
+    appellants face[] an uphill battle in challenging the
+    Board’s selection of its benchmarks. We have
+    repeatedly recognized that it is “within the discretion
+    of the [Board] to assess evidence of an agreement’s
+    comparability and to decide whether to look to its
+    rates and terms for guidance.” The Board’s “broad
+    discretion” encompasses its selection or rejection of
+    benchmarks, as well as its adjustment of benchmarks
+    to “render them useful.”
+
+SoundExchange, 904 F.3d at 50–51 (first quoting
+Intercollegiate I, 574 F.3d at 759; then quoting Music Choice,
+774 F.3d at 1009). Here, the Board properly exercised its
+discretion.
+
+
+than from 2006, because the $500 figure was last set in 2020. That
+argument did not affect the Board’s ultimate determination of the
+minimum fee. See Web V, 86 Fed. Reg. at 59,583 (using the
+inflation-adjusted minimum fee as a lower bound of the “zone of
+reasonable minimum fees” and relying primarily on
+SoundExchange’s rising administrative costs to set a new minimum
+fee). The NAB’s proposal to maintain the lower minimum fee is
+addressed Part III.A, supra.
+                              25
+     First, the Board reasonably concluded that the Committee
+presented insufficient evidence to establish the NPR
+Agreement’s comparability to the compulsory license for
+noncommercial webcasters. In a benchmark analysis, the
+Board “may consider the rates and terms for comparable types
+of audio transmission services and comparable circumstances
+under voluntary license agreements.”                17 U.S.C.
+§ 114(f)(1)(B)(ii) (emphasis added). Yet, the Committee
+presented no expert testimony on comparability; it addressed
+the issue only in arguments made by its attorneys in post-
+hearing briefing. Web V, 86 Fed. Reg. at 59,570. Moreover,
+SoundExchange disputed whether the NPR Agreement was
+comparable. The Board reasonably decided that expert
+testimony was necessary to establish comparability. See id.
+Requiring expert testimony in this case was consistent with the
+“highly technical nature” of administrative rate determinations.
+SoundExchange, 904 F.3d at 50 (quoting Intercollegiate II, 796
+F.3d at 127). Although the Committee argues that the Board
+has never explicitly announced an expert-testimony
+requirement, that does not render the Board’s decision in this
+case arbitrary, particularly where the Board has previously
+demanded expert testimony in an analogous situation. See Web
+IV, 81 Fed. Reg. at 26,327 (rejecting lay testimony and
+considering only expert testimony to determine whether to
+adjust a benchmark).
+
+     Second, the Board reasonably rejected the Committee’s
+rate proposals due to their failure to account for economically
+significant aspects of the NPR Agreement. When a party
+derives a proposed rate from a benchmark agreement, it is
+required to account for economically significant, non-rate
+aspects of the benchmark. See SoundExchange, 904 F.3d at 47.
+For instance, if a benchmark contains a relatively low royalty
+rate but imposes other costs on webcasters, the rate derived
+from that benchmark should be adjusted upward to capture
+                                  26
+those costs. The Board properly placed the burden on the
+Committee to make the appropriate adjustments to its rate
+proposals derived from the NPR Agreement. See Music
+Choice, 774 F.3d at 1009 (“While the Judges might have made
+further adjustments to [a proponent’s] benchmarks to render
+them useful, the Judges were not required to do so.” (citation
+omitted)); see also id. at 1012 (“The Judges were under no
+obligation to salvage benchmarks they found to have
+fundamental problems.”). The Board faulted the Committee
+for failing to account for the following aspects of the NPR
+Agreement that benefited one or both of the settling parties but
+were not reflected in the Committee’s proposed rates: (1) the
+avoidance of litigation costs by the parties to the NPR
+Agreement; (2) the value of NPR’s advance, lump-sum
+payments to SoundExchange; and (3) NPR’s consolidated
+reporting of data from individual stations to SoundExchange.
+See Web V, 86 Fed. Reg. at 59,570, 59,572–59,573. The
+Board’s determination that those adjustments were necessary
+to adequately capture the value of the Agreement reflected
+rational economic reasoning, even though the Board did not
+determine the precise amount by which each of these factors
+distorted the Agreement’s pricing.4 The Committee argues that
+
+4
+    See Web V, 86 Fed. Reg. at 59,570 (“[S]ettlement agreements,
+unlike voluntary agreements reached outside the context of
+litigation, are not ‘free from trade-offs motivated by litigation cost,
+as distinguished from the underlying economics of the transaction.’”
+(quoting Determination of Royalty Rates and Terms for Making and
+Distributing Phonorecords (Phonorecords III), 84 Fed. Reg. 1918,
+1935 (Feb. 5, 2019))); id. at 59,572 (The NPR Agreement’s “rate
+reflects * * * [a] discount that reflects the administrative
+convenience to [SoundExchange] of receiving annual lump sum
+payments that cover a large number of separate entities, as well as
+the protection from bad debt that arises from being paid in
+advance.”); id. at 59,573 (“The record reflects that consolidated
+                                 27
+the Board acted contrary to agency precedent and the statutory
+scheme, but its citations are all inapposite.5
+
+     Third, the Board appropriately concluded that it was
+statutorily barred from considering the royalty rates contained
+in the “NPR Analysis,” an internal SoundExchange document
+created in 2015. See Web V, 86 Fed. Reg. at 59,570–59,572.
+In the NPR Analysis, SoundExchange performed calculations
+using a royalty-rate structure that included per-performance
+payments at one-third the commercial rate. The Board found,
+
+
+reporting has value to SoundExchange. * * * ‘[O]ne of the things
+that NPR does is it collects together the messy data of the individual
+stations and reports it as part of the agreement.’” (quoting 8/17/20
+Tr. 2232 (Professor Catherine Tucker))).
+5
+     For example, the Committee misstates that Board precedent
+required SoundExchange to make the necessary adjustments.
+Although Web IV required the challenger of an “otherwise proper
+and reasonable benchmark” to quantify further proposed
+adjustments, Web IV, 81 Fed. Reg. at 26,387, that case is
+distinguishable because the NPR Agreement was not an “otherwise
+proper and reasonable” benchmark. Moreover, the Committee notes
+that Web IV accepted a settlement-based benchmark without
+litigation cost adjustments; but Web IV accepted that benchmark only
+as “support for some elements of SoundExchange’s rate proposal”
+and “not for the proposed rate for usage beyond the ATH threshold,”
+id. at 26,394 (emphasis added), which is exactly what the Committee
+attempted here.       The Committee’s remaining citations, see
+Committee Opening Br. 29–32, are similarly off point. See Web III,
+79 Fed. Reg. at 23,123–23,124; Determination of Rates and Terms
+for Preexisting Subscription Services and Satellite Digital Audio
+Radio Services (SDARS II), 78 Fed. Reg. 23,054, 23,068–23,069
+(April 17, 2013); Digital Millennium Copyright Act, Pub. L. No.
+105-304, § 405, 112 Stat. 2860, 2895–2896 (1998); 17 U.S.C.
+§ 801(b)(7)(A).
+                              28
+however, that the rate structure came from an old settlement
+agreement negotiated pursuant to the Webcaster Settlement
+Act (“WSA”) of 2009, Pub. L. No. 111-36, 123 Stat. 1926. See
+Web V, 86 Fed. Reg. at 59,572. The Board properly determined
+that it was statutorily barred from considering that rate
+structure under 17 U.S.C. § 114(f)(4)(C), which prohibits
+“admi[tting] as evidence or otherwise tak[ing] into account”
+the “provisions of any agreement entered into pursuant to [the
+WSA], including any rate structure * * * set forth therein.” Id.
+The Committee argued that the Board could rely on the rate
+structure because the NPR Analysis was prepared for use in
+future, non-WSA settlement negotiations. But the Board was
+not required to accept the Committee’s inference that the rates
+were actually used in the non-WSA settlement agreement
+relied upon by the Committee. See Web V, 86 Fed. Reg. at
+59,571. We disagree with the Committee’s contention that the
+Board’s decision contradicted a binding opinion issued by the
+Register of Copyrights, as set forth in Scope of the Copyright
+Royalty Judges’ Continuing Jurisdiction, 80 Fed. Reg. 58,300
+(Sept. 28, 2015). Although the Register’s opinion allows the
+Board to consider voluntary license agreements that
+incorporate WSA settlement terms, as well as the effect of the
+WSA on private-settlement negotiations, it does not require or
+even allow the Board to consider documents like the NPR
+Analysis. See id. at 58,305. The Register found that, if parties
+incorporate terms from their WSA settlements into subsequent
+agreements, those are fair game for the Board’s consideration.
+But the NPR analysis does not fall into that category; it
+documents WSA rates that may have been used to propose
+terms for a subsequent agreement. It does not document any
+post-WSA terms. Without the NPR Analysis, the Committee
+lacked support for a discounted above-threshold rate for
+noncommercial webcasters, which became a critical flaw in its
+proposal.
+                              29
+                               2
+
+     We are unpersuaded by the Committee’s argument that the
+Board arbitrarily and capriciously set the noncommercial
+webcaster rate. In the absence of acceptable benchmarks, the
+Board properly used the incumbent rate structure as the starting
+point in its analysis. See Music Choice, 774 F.3d at 1012
+(“[G]iven the lack of creditable benchmarks in the record, the
+Judges did not err when they used the prevailing rate as the
+starting point of their Section 801(b) analysis.”). Moreover,
+substantial evidence supported the Board’s decision to
+maintain the prevailing rate structure.
+
+     The incumbent rate structure originated in Web II. It
+reflected an “economic insight” that noncommercial
+webcasters that compete with the commercial market tend to
+be larger, so that size is “a ‘proxy’ for determining when a
+noncommercial webcaster poses a competitive threat[.]” Web
+V, 86 Fed. Reg. at 59,565–59,566 (“[L]arger noncommercial
+webcasters have the same or similar competitive impact in the
+marketplace as similarly sized commercial webcasters.”).
+Because large noncommercial webcasters can divert listeners
+away from commercial webcasters, the Board found that
+copyright holders would not willingly license sound recordings
+to large noncommercial webcasters at a discount, because that
+would decrease overall royalty revenue by cannibalizing
+commercial royalty revenue. See Web II, 72 Fed. Reg. at
+24,097–24,100. The noncommercial webcasters that exceed
+the ATH threshold tend to be larger ones, and they are charged
+the same rates as commercial webcasters for above-threshold
+usage. In the instant rate-setting proceeding, the Board relied
+on expert testimony to conclude that the same competitive
+dynamics remained in effect and justified retaining the pre-
+existing rate structure. See Web V, 86 Fed. Reg. at 59,575
+                                 30
+(discussing testimony of Mr. Jon Orszag, Professor Joseph
+Cordes, and Professor Richard Steinberg).6
+
+     The Board appropriately rejected the Committee’s
+attempts to undermine the analysis that justified the previous
+rate structure. The Committee argued that cannibalization was
+unlikely because noncommercial webcasters’ missions
+differed from those of commercial webcasters. But the Board
+reasonably declined to rely on the webcasters’ motivations in
+evaluating market dynamics. See Web V, 86 Fed. Reg. at
+59,575 (“The concerns about cannibalization that the Judges
+articulated in past webcasting proceedings focus on potential
+displacement in listenership from commercial to
+noncommercial webcasters and is independent of
+noncommercial webcasters’ motivations.”). Moreover, the
+Board permissibly relied on an “overlap study” and other
+evidence to reject the Committee’s argument that
+noncommercial webcasting would not cannibalize commercial
+webcasters because they each offer different programming.
+The overlap study compared the songs played by commercial
+and noncommercial Christian Adult Contemporary radio
+stations. Id. at 59,576. It revealed that “commercial and
+noncommercial stations broadcasting in the Christian [Adult
+Contemporary] format play many of the same songs.” Id.7 The
+
+6
+  The Committee’s argument that this expert testimony is mere “ipse
+dixit” that cannot constitute substantial evidence to maintain the
+incumbent rate, Committee Opening Br. 40, understates the Board’s
+reasoned analysis of the expert testimony and overlooks our
+precedent allowing the Board to start with the incumbent rate in the
+absence of a suitable benchmark. See Web V, 86 Fed. Reg. at
+59,575–59,578; Music Choice, 774 F.3d at 1012.
+7
+  The Committee argues that the overlap study should not have been
+admitted under 37 CFR § 351.10(e). As an initial matter, it is unclear
+                                 31
+Board also pointed to competition between two Atlanta-based
+commercial and noncommercial religious radio stations. See
+id. at 59,575.8 The Board permissibly inferred from that
+evidence that noncommercial and commercial webcasters’
+programming did not differ enough that cannibalization was
+unlikely.
+
+     Finally, the Board reasonably rejected the Committee’s
+argument that the incumbent rate structure failed to consider
+noncommercial webcasters’ lower willingness to pay, thus
+violating the Copyright Act’s willing buyer/willing seller
+standard. According to the Committee, the Board overlooked
+whether willing buyers would negotiate “above-threshold
+commercial-level rates,” and accounted for only what willing
+sellers would negotiate. Committee Opening Br. 40. That
+argument, however, unduly focuses on the above-threshold
+rates without considering the entire rate structure. The Board
+noted that the minimum-fee rate structure gives
+
+whether the Committee actually moved to exclude the study, or only
+the testimony of SoundExchange’s witnesses about the study. See
+Committee Mot. to Strike Test. Written Rebuttal Test. Related to
+Mediabase Study. In any event, the Board reasonably concluded that
+both the study and the witnesses’ testimony were admissible. See
+Order Denying Committee Mot. to Strike 2–3 (noting that the study
+simply compiled data “that industry participants rely on and that the
+Judges have relied upon in past proceedings when presented by lay
+witnesses,” and relying on the Board’s discretion to admit hearsay
+testimony from witnesses about such data).
+8
+  The Committee’s arguments against this evidence are meritless.
+Contrary to the Committee’s suggestions, an expert witness need not
+have “first-hand knowledge of the asserted facts,” Committee
+Opening Br. 50, to testify about an issue, and the evidence fell well
+within the proper scope of rebuttal. Moreover, the Board expressly
+acknowledged the anecdotal nature of the evidence and treated it
+with appropriate restraint. See Web V, 86 Fed. Reg. at 59,575.
+                              32
+noncommercial webcasters of all sizes a hefty discount through
+the monthly ATH allowance. See Web V, 86 Fed. Reg. at
+59,566 (discussing testimony of Professor Catherine Tucker);
+id. at 59,574 (discussing effective discount for noncommercial
+webcasters). For instance, if the average copyrighted song is
+four minutes long, see id. at 59,570–59,571, then 159,140 ATH
+per month would let a noncommercial webcaster play roughly
+28.5 million performances in a year for the $1,000 minimum
+fee. That same number of performances would cost a
+commercial subscription webcaster roughly $75,000 and a
+commercial nonsubscription webcaster roughly $60,000.
+Thus, the significant benefit conferred on noncommercial
+webcasters by their access to the ATH allowance takes account
+of their unwillingness to pay the same rates as commercial
+webcasters.     The Board justifiably concluded that the
+incumbent rate structure adequately balanced noncommercial
+webcasters’ lower willingness to pay with the risk of large
+noncommercial webcasters cannibalizing copyright owners’
+royalty revenue from commercial webcasters, thereby
+satisfying the willing buyer/willing seller standard. See id. at
+59,573–59,574.
+
+                               3
+
+     The Committee argues that the Board’s rate determination
+violates the First Amendment’s Free Exercise Clause and the
+federal RFRA, because the terms that it adopts for
+noncommercial religious webcasters are less favorable than the
+terms enjoyed by NPR, a noncommercial secular webcaster.
+We disagree.
+
+    The Free Exercise Clause provides that “Congress shall
+make no law * * * prohibiting the free exercise” of religion.
+U.S. CONST. Amend. I. Under that clause, a government entity
+may not “burden[] [a person’s] sincere religious practice
+                               33
+pursuant to a policy that is not ‘neutral’ or ‘generally
+applicable’” unless the action is “narrowly tailored in pursuit
+of” a “compelling state interest.” Kennedy v. Bremerton Sch.
+Dist., 142 S. Ct. 2407, 2422 (2022) (quoting Employment Div.,
+Dep’t of Hum. Res. of Ore. v. Smith, 494 U.S. 872, 881 (1990)).
+“But the First Amendment is not the only potential refuge for
+[a litigant’s] religious claim—the RFRA offers religious
+exercise greater protection from intrusion by religion-neutral
+federal laws.” Kaemmerling v. Lappin, 553 F.3d 669, 677
+(D.C. Cir. 2008). Under the RFRA, federal government action
+cannot “substantially burden a person’s exercise of religion
+even if the burden results from a rule of general applicability,”
+unless it is “the least restrictive means of furthering [a]
+compelling governmental interest.” 42 U.S.C. §§ 2000bb-
+1(a)–(b). The statute’s protection reaches “any exercise of
+religion, whether or not compelled by, or central to, a system
+of religious belief.” Id. § 2000cc-5(7)(A).
+
+     The Committee’s RFRA and Free Exercise arguments are
+premised on a factual assertion that the rate for noncommercial
+webcasters under the compulsory license is higher than the rate
+enjoyed by NPR under the NPR Agreement. See Committee
+Opening Br. 53–54. But there is no record finding to support
+that assertion. As we have explained, the Board reasonably
+rejected the NPR Agreement as a benchmark for
+noncommercial webcasters and faulted the Committee’s
+proposals based on the NPR Agreement for failing to make
+necessary adjustments to account for economically significant
+features of the Agreement. The Board also appropriately
+refused to consider the NPR Analysis proffered by the
+Committee, thereby eliminating the evidence that enabled the
+Board to compare the above-threshold per-play royalty rates of
+the compulsory license with the NPR Agreement’s lump-sum
+payments. The record therefore contains no basis for the
+Board, or this court, to effectively determine whether
+                               34
+noncommercial webcasters subject to the compulsory license
+are paying higher rates than the NPR stations covered by the
+NPR Agreement. Without making that initial showing of
+unfavorable treatment of religious webcasters, the Committee
+cannot establish a violation of the RFRA or the First
+Amendment.
+
+     We note that the Committee’s arguments are also
+problematic in other respects. For example, the Committee
+attempts to challenge the rates paid by the religious
+broadcasters that are members of its trade association, but the
+compulsory license applies to all noncommercial webcasters.
+Even if the above-threshold noncommercial webcasters are
+“almost exclusively religious,” as the Committee asserts,
+Committee Opening Br. 8, the Committee does not explain
+why it does not have to consider the overall rate structure,
+which applies to all noncommercial webcasters. Indeed, the
+Committee fails to cite any precedent that would give the
+Board the power to impose a statutory license that, like the
+Committee’s Alternative 2, would be available only to select
+members of a particular trade organization, rather than to a
+category of webcasters. See Web V, 86 Fed. Reg. at 59,567.
+We are aware of none. Nor did the Committee argue to the
+Board that the religious broadcasters it represents form a
+distinct market segment for purposes of the 2021–2025
+proceeding. We need not address that substantial and open
+question, given the absence of any factual basis to compare the
+rates at issue.
+
+                               C
+
+    Finally, SoundExchange challenges as arbitrary and
+capricious the royalty rate the Board set for commercial,
+nonsubscription      “ad-supported”        webcasters,      i.e.,
+noninteractive streaming services like Free Pandora that collect
+                                35
+payment from advertisers. Specifically, SoundExchange
+argues that the Board acted arbitrarily and capriciously by
+making an express finding that the opportunity cost for sellers
+was a particular value, but then adopting a royalty rate that falls
+below that opportunity cost without further explanation.
+
+     The very premise of SoundExchange’s argument is wrong.
+The Board never found as fact the opportunity cost value on
+which SoundExchange hangs its argument. As a result, its
+arbitrary and capricious challenge fails before it even starts.
+
+                                1
+
+    To understand SoundExchange’s argument and the
+Board’s conclusions, some background on the Board’s
+analytical process for setting royalty rates.
+
+     The Board’s statutory obligation is to “establish rates and
+terms that most clearly represent the rates and terms that would
+have been negotiated in the marketplace between a willing
+buyer and a willing seller.” 17 U.S.C. § 114(f)(1)(B). The
+Board views this hypothetical market to be one that is
+“effectively competitive.” SoundExchange, 904 F.3d at 56.
+
+     To determine rates under that standard, the Board has
+relied on various modes of economic analysis to best
+approximate the price at which a willing seller would sell and
+at which a willing buyer would buy. See Intercollegiate I, 574
+F.3d at 757; Music Choice, 774 F.3d at 1010. One approach is
+to consider “the rates and terms negotiated for comparable
+services and ‘comparable circumstances under voluntary
+license agreements.’” SoundExchange, 904 F.3d at 47
+(quoting 17 U.S.C. § 114(f)(2)(B)). To that end, parties in a
+proceeding may submit examples of voluntary license
+agreements that they argue are sufficiently analogous to inform
+                               36
+the appropriate statutory royalty rate for ad-supported, non-
+interactive services. Because those proposed benchmarks
+come from real-world markets that may not map perfectly onto
+the Board’s hypothetical market, the parties commonly submit
+expert economic analyses with their proposed benchmarks that
+propose adjustments to account for any potential variance.
+
+     The Board then evaluates each license agreement’s
+economic merits to determine which proposals, if any, could
+be a useful touchstone in setting the statutory rate. In some
+instances, the Board has accepted multiple proffered
+benchmarks, and used the array to establish a “zone of
+reasonableness” into which the final rate should fall. Web III,
+79 Fed. Reg. at 23,110–23,115.
+
+    Another approach the Board uses is economic modeling
+submitted by parties and their experts that are designed to
+produce an appropriate rate. These models often employ game
+theory to make and justify certain assumptions about the
+hypothetical market, comb relevant data to calculate inputs,
+and essentially solve for what parties contend is an appropriate
+royalty rate. See, e.g., Web V, 86 Fed. Reg. at 59,522–59,546
+(Evaluation of Game Theoretic Modelling Evidence); Johnson
+v. Copyright Royalty Board, 969 F.3d 363, 372 (D.C. Cir.
+2020) (discussing the Board’s use of specific game theoretic
+model known as Shapley Analysis).9
+
+
+
+9
+  Game theory “uses equations to model the behavior of decision-
+makers whose choices affect one another.” Peter H. Huang,
+Strategic Behavior and the Law, 36 JURIMETRICS J. 99, 100 (1995)
+(quoting Rob Norton, A New Tool to Help Managers, FORTUNE, May
+30, 1994, at 136). Most relevant here, game theory can help model
+the likely, hypothetical behavior of both negotiating buyers and
+sellers in an effectively competitive market.
+                               37
+     In assessing economic models and their outputs, the Board
+evaluates a model’s utility as well as its flaws, and decides
+whether a model can reasonably assist the Board’s calculation
+of the statutory willing buyer/willing seller rate. See, e.g.,
+Phonorecords III, 84 Fed. Reg. at 1947–1950.
+
+                               2
+
+    In this case, the Board considered both benchmarking
+analyses and economic models utilizing game-theory concepts.
+
+     With respect to benchmarking analyses, the Board
+reviewed benchmarks submitted by SoundExchange, Pandora,
+and Google, along with supplemental submissions by the
+parties’ experts. See Web V, 86 Fed. Reg. at 59,491–59,522.
+Making relevant adjustments, the Board found that both
+SoundExchange’s and Pandora’s analyses yielded a royalty
+rate of $0.0023 per play, while Google’s analysis yielded a rate
+of $0.0021 per play. Id. at 59,589.
+
+     The Board also discussed the “Game Theoretic Modelling
+Evidence” submitted by SoundExchange through its expert,
+Professor Willig, and by the Services through their expert,
+Professor Shapiro. As relevant here, the Board evaluated
+Professor Willig’s “Shapley Value Model,” a game-theoretic
+model that focused on “how to apportion among the members
+of a multi-party bargaining group the surplus created by their
+productive cooperation with each other.” Web V, 86 Fed. Reg.
+at 59,522 (internal quotation marks omitted). That is, when the
+parties get together and work out a deal, there is an independent
+value derived from that agreement that is greater than the sum
+of what every party could get on its own. The Willig model
+sought to divide up this surplus. The Willig model also
+assumed a small number of actors would get together to split
+                               38
+up market share, presupposing a state of limited competition
+otherwise known as an oligopoly.
+
+     One of the inputs that the Willig model used was the
+“fallback value,” or the money a record company could make
+with its repertoire through avenues beyond entering into a
+voluntary licensing agreement with the streaming services.
+Web V, 86 Fed. Reg. at 59,522. That fallback value was the
+party’s “opportunity cost”: The party forgoes these alternative
+money-making options when it enters into a specific licensing
+agreement. “The opportunity cost of anything of value is what
+you must give up to get it[.]” Id. at 59,522 n.220 (quoting JOHN
+QUIGGIN, ECONOMICS IN TWO LESSONS: WHY MARKETS
+WORK SO WELL, AND WHY THEY CAN FAIL SO BADLY 15
+(2019)) (internal quotation marks omitted).              Because
+opportunity cost represents what a party gives up in taking a
+particular option, that opportunity cost necessarily sets a floor
+for the statutory rate under the willing buyer/willing seller
+standard. That is because no willing buyer or seller would
+agree to a rate below the cost borne for the choice made.
+
+      As part of its overall review of Professor Willig’s model,
+the Board evaluated his opportunity cost figure, and found
+salient Professor Shapiro’s criticism that the Willig model’s
+opportunity cost input was artificially inflated. Web V, 86 Fed.
+Reg. at 59,538–59,539. As a result, the Board adjusted the
+Willig model estimate of the opportunity cost down, and
+recalculated a proposed royalty rate using that new number.
+Id.10
+
+     Even with those adjustments, however, the Board
+ultimately found that Professor Willig’s model was fatally
+
+10
+    The precise numbers are sealed as proprietary commercial
+information.
+                               39
+flawed because it baked in certain oligopoly power of the major
+record labels. Oligopolies, of course, are not present in
+effectively competitive markets. So a model premised on
+oligopoly power by definition did not produce a royalty rate
+reflective of what a willing buyer and seller would agree to in
+an effectively competitive environment. As a result, the Board
+concluded that the Willig model and the rate it produced could
+only serve as a “limited guidepost” in determining a statutory
+royalty rate. Web V, 86 Fed. Reg. at 59,540 (“[T]he evidentiary
+record only allows the Judges to state with regard to the royalty
+rates they have determined [from Professor Willig’s model]
+that those 2021 rates * * * exceed an effectively competitive
+rate by an indeterminate amount.”).
+
+    The Board likewise rejected Professor Shapiro’s game
+theoretic modeling. The Board found that “new evidence”
+Professor Shapiro relied on in his model was fundamentally
+flawed in multiple ways and some key information was absent.
+Web V, 86 Fed. Reg. at 59,540–59,546. Because the missing
+evidence was the “sine qua non” of Professor Shapiro’s
+modelling, its absence made Professor Shapiro’s models
+“unusable.” Id. at 59,546.
+
+     Having found both game theoretic models to be
+fundamentally unsound, the Board determined that the separate
+benchmarking analyses submitted by the parties provided more
+reliable evidence of an appropriate royalty rate on this record,
+and that Google’s proposed benchmark in particular was the
+most convincing. The Board emphasized that Google’s
+benchmark provided “more granular, [record] label-specific,
+analysis,” as well as a more reliable application of adjustments
+to account for known concerns, all of which ultimately lent
+more weight to Google’s proposed rate. Web V, 86 Fed. Reg.
+at 59,589.
+                              40
+     On that basis, the Board set the commercial ad-supported,
+noninteractive royalty rate at Google’s proposed adjusted
+benchmark of $0.0021 per play. Web V, 86 Fed. Reg. at
+59,589. In so finding, the Board noted that its chosen royalty
+rate was only slightly below that produced by Professor
+Willig’s adjusted model, which served as a relevant, though
+quite limited, guidepost. That further buttressed the Board’s
+judgment that its final royalty rate accurately reflected the
+willing buyer/willing seller standard in a hypothetical,
+effectively competitive market.
+
+                              3
+
+     SoundExchange’s entire argument is premised on the
+contention that the Board necessarily erred because it
+specifically adopted the Willig model’s adjusted opportunity
+cost for the ad-supported, noninteractive market, and yet set a
+royalty rate that fell below that amount.
+
+    But the factual premise on which SoundExchange’s
+argument rests is no fact at all. The Board never made a
+definitive finding that the true opportunity cost was the
+adjusted Willig value. In fact, the Board ultimately rejected
+the Willig model, and the game theoretic models more
+generally, for use in calculating the appropriate royalty rate,
+opportunity cost and all.
+
+    Remember, the Board rejected Professor Willig’s
+opportunity cost figure as inflated. The Board then noted
+Professor Shapiro’s proposed downward adjustment of the
+Willig model’s number. The Board took that into account and
+concluded that, “[b]ased on the foregoing adjustments accepted
+by the Judges, Professor Willig’s opportunity cost calculation
+must be adjusted, as set forth [below in Figure 8].” Web V, 86
+Fed. Reg. at 59,538.
+                               41
+
+     SoundExchange argues that this one sentence renders the
+Board’s entire rate-setting arbitrary and capricious. But all the
+Board said was that it accepted Professor Shapiro’s specific
+adjustments to Professor Willig’s calculations in the broader
+context of Professor Willig’s game theoretic model. The Board
+did not go further and make a definitive determination that the
+adjusted Willig model number was, in fact, the actual
+opportunity cost for sellers that would govern the entire rate-
+setting procedure. Especially not since the Board ultimately
+abandoned altogether the use of economic models like
+Professors Shapiro’s and Willig’s as a reliable basis for
+calculating the royalty rate.
+
+     On top of that, the statement on which SoundExchange
+relies only addressed one of the Board’s multiple critiques of
+the Willig model’s initial opportunity cost calculation. The
+Board, for instance, repeatedly objected to Professor Willig’s
+failure to factor opportunity benefits into his opportunity cost
+calculation. See Web V, 86 Fed. Reg. at 59,523, 59,537.
+
+     Notably, SoundExchange lodges no criticism of the
+Board’s decision to use, instead, the benchmarking process to
+set the royalty rate. That benchmarking process itself
+accounted for opportunity cost, as the voluntary agreements
+naturally involve a party’s own estimation of its opportunity
+cost. And the Board considered that opportunity cost where
+relevant in adjusting the benchmark proffered. See Web V, 86
+Fed. Reg. at 59,496–59,497.
+
+     In sum, because the Board never found as fact that the
+opportunity cost input to Professor Willig’s model, even as
+adjusted, represented the record companies’ true opportunity
+cost, the Board’s decision to set a royalty rate that was slightly
+below the Willig model’s flawed opportunity-cost measure is
+                               42
+neither here nor there. And so this court has no occasion to
+decide, as SoundExchange urges, whether it would, as a matter
+of law, violate the willing buyer/willing seller standard for the
+Board to set a royalty rate below some definitive measure of
+opportunity cost.
+
+                               IV
+
+    For the foregoing reasons, we affirm the Final
+Determination of the Copyright Royalty Board.
+
+                                                    So ordered.
+

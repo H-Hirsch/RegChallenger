@@ -1,0 +1,957 @@
+USCA11 Case: 23-13396   Document: 156-1    Date Filed: 07/25/2025   Page: 1 of 29
+
+
+
+
+                                                           [PUBLISH]
+                                  In the
+                 United States Court of Appeals
+                        For the Eleventh Circuit
+
+                          ____________________
+
+                               No. 23-13396
+                          ____________________
+
+        AMERICAN SECURITIES ASSOCIATION,
+        CITADEL SECURITIES LLC,
+                                                           Petitioners,
+        versus
+        U.S. SECURITIES AND EXCHANGE COMMISSION,
+
+
+                                                          Respondent,
+
+
+        THE NASDAQ STOCK MARKET, LLC,
+        NASDAQ BX, INC.,
+        NASDAQ GEMX, LLC,
+        NASDAQ ISE, LLC,
+        NASDAQ MRX, LLC, et al.,
+USCA11 Case: 23-13396        Document: 156-1           Date Filed: 07/25/2025   Page: 2 of 29
+
+
+
+
+        2                          Opinion of the Court                   23-13396
+
+                                                                      Intervenors.
+
+
+                                ____________________
+
+                        Petition for Review of a Decision of the
+                         Securities and Exchange Commission
+                                  Agency No. 34-98290
+                               ____________________
+
+        Before JORDAN and BRASHER, Circuit Judges, and GERAGHTY,∗ Dis-
+        trict Judge.
+        BRASHER, Circuit Judge:
+               This petition for review challenges an agency’s amendment
+        to an existing rule as arbitrary and capricious under the Adminis-
+        trative Procedure Act.
+               The Securities and Exchange Commission has long required
+        securities exchanges and other self-regulatory organizations to
+        gather and maintain certain information about stock trades—such
+        as the time of the trade and identity of the broker—that would al-
+        low the Commission to audit each individual trade. In 2012, the
+        Commission published a rule to create a single electronic system
+        for gathering and maintaining this data across all the self-regulatory
+        organizations—the Consolidated Audit Trail. Four years later, the
+        Commission approved a plan to pay for the CAT, which
+
+        ∗ Honorable Sarah E. Geraghty, United States District Judge for the Northern
+
+        District of Georgia, sitting by designation.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025     Page: 3 of 29
+
+
+
+
+        23-13396               Opinion of the Court                         3
+
+        contemplated cost-sharing between self-regulatory organizations
+        and the broker-dealers they service.
+               The Commission justified the CAT through a contempora-
+        neous economic analysis of its anticipated costs and benefits. But
+        things did not go to plan. Although the self-regulatory organiza-
+        tions built the CAT as instructed, the cost of setting up this uniform
+        electronic audit system exceeded the Commission’s 2016 estimate
+        by eight times. And the annual cost of operating the system going
+        forward appears likely to exceed the Commission’s 2016 estimate
+        by nearly four times. The result: it took over $500 million to build
+        the CAT and will likely cost about $200 million a year to run it.
+        Although the Commission underestimated the cost of building and
+        maintaining the CAT, it declined to update that previous economic
+        analysis with real-world numbers in its 2023 Funding Order.
+               This background brings us to the contested rulemaking. In
+        2023, the Commission approved a Funding Order to specify how
+        the self-regulatory organizations could defray the costs of establish-
+        ing and maintaining the audit system. Even though the original
+        payment plan anticipated that the costs would be shared by the self-
+        regulatory organizations and their members, the 2023 Funding Or-
+        der expressly allows self-regulatory organizations to pass along all
+        of their CAT costs to their members, should they choose to do so.
+        The Commission may review fee filings seeking approval of any
+        pass-through costs to the broker-dealers, but its decisions are not
+        subject to judicial review.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025    Page: 4 of 29
+
+
+
+
+        4                      Opinion of the Court                23-13396
+
+                The American Securities Association, a trade association
+        representing financial services firms, and Citadel Securities, LLC, a
+        broker-dealer, challenge the 2023 Funding Order as arbitrary and
+        capricious. They assert that the CAT is unlawful, and so the fund-
+        ing structure approved by the Commission must be vacated. They
+        also argue that the Commission should have justified its decision
+        to allow self-regulatory organizations to pass all the costs of the
+        system to their members, especially given that this decision con-
+        flicts with the original funding plan. Finally, they contend that the
+        Commission should have considered the actual costs of the CAT in
+        making this determination, updating its 2016 estimates with real
+        numbers. We do not need to reach the argument as to whether the
+        CAT itself is unlawful because we agree with both of the latter ar-
+        guments. Because the Commission did not adequately justify its
+        choices, we conclude that the 2023 Funding Order is arbitrary and
+        capricious in violation of the Administrative Procedure Act. We va-
+        cate the 2023 Funding Order, stay our decision for sixty days after
+        issuance of the mandate, and remand the matter to the Commis-
+        sion for further proceedings consistent with our opinion.
+                                       I.
+
+                                       A.
+
+               After the stock market crash of 1929 and Great Depression,
+        Congress passed the Securities Exchange Act, which “established a
+        system of regulation over the securities industry.” Weissman v. Nat’l
+        Ass’n of Sec. Dealers, Inc., 500 F.3d 1293, 1296 (11th Cir. 2007) (en
+        banc); see also Securities Exchange Act of 1934, Pub. L. No. 73-291,
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025     Page: 5 of 29
+
+
+
+
+        23-13396               Opinion of the Court                         5
+
+        48 Stat. 881 (1934) (codified as amended at 15 U.S.C. §§ 78a–78pp).
+        Under that system of regulation, the United States Securities and
+        Exchange Commission closely supervises a group of private, self-
+        regulatory organizations, which “conduct the day-to-day regula-
+        tion and administration of the United States’ stock markets.” Weiss-
+        man, 500 F.3d at 1296. Those self-regulatory organizations include
+        twenty-four national securities exchanges (e.g., the Nasdaq Stock
+        Market, the New York Stock Exchange) and one non-profit corpo-
+        ration, the Financial Industry Regulatory Authority, Inc. In turn,
+        the self-regulatory organizations “are responsible for enforcing
+        compliance by their broker-dealer members with the federal secu-
+        rities laws, rules, and regulations, as well as additional rules that
+        they develop.” Comm’n Br. at 7; see 15 U.S.C. §§ 78f(b), 78o-3(b).
+               To fulfill their statutory responsibilities, the Commission
+        and the self-regulatory organizations have long relied on market
+        auditing systems. The first self-regulatory organization auditing
+        systems “were largely manual, involving physical review of trading
+        tapes and member broker-dealer audits.” Comm’n Br. at 12. “[B]y
+        1992, the NYSE’s Intermarket Surveillance Information System
+        was already producing a massive audit trail.” David A. Wishnick,
+        Reengineering Financial Market Infrastructure, 105 Minn. L. Rev. 2379,
+        2433 (2021). That trail included “a sequential reconstruction of
+        trading in each stock, identifying the time of trade, the buying and
+        selling member firms, the Floor brokers who represented the or-
+        ders involved, and whether the trade was for a member firm pro-
+        prietary account.” Id. (quoting James L. Cochrane, Brian
+        McNamara, James E. Shapiro & Michael J. Simon, The Structure and
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025     Page: 6 of 29
+
+
+
+
+        6                      Opinion of the Court                  23-13396
+
+        Regulation of the New York Stock Exchange, 18 J. Corp. L. 57, 66
+        (1992)).
+                                       B.
+
+                By 2010, “[m]any commenters agreed that existing audit
+        trails were inadequate and recommended consolidating them into
+        a single comprehensive audit trail.” Comm’n Br. at 13 (citing Con-
+        solidated Audit Trail, 75 Fed. Reg. 32556, 32556 (June 8, 2010)
+        [hereinafter CAT Proposal]). That view stemmed, at least in part,
+        from “the Flash Crash of 2010,” which “destroyed nearly $1 trillion
+        in market capitalization in minutes.” Tom C.W. Lin, The New In-
+        vestor, 60 UCLA L. Rev. 678, 682 (2013). Afterward, the Commis-
+        sion “proposed a new rule that would require the self-regulatory
+        organizations . . . to establish a consolidated audit trail system that
+        would enable regulators to track information related to trading or-
+        ders received and executed across the securities market.” Securities
+        and Exchange Commission, SEC Proposes Consolidated Audit Trail
+        System        to        Better       Track        Market         Trades
+        (May 26, 2010), https://perma.cc/R6VK-BRZC. Specifically, the
+        CAT proposal “would require [self-regulatory organizations] to act
+        jointly in developing a national market system . . . plan to develop,
+        implement, and maintain a consolidated order tracking system, or
+        consolidated audit trail, with respect to the trading of NMS securi-
+        ties.” CAT Proposal, 75 Fed. Reg. at 32556. At that time, the Com-
+        mission received several comments suggesting that the CAT was a
+        necessary development. See id. at 32562.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025    Page: 7 of 29
+
+
+
+
+        23-13396               Opinion of the Court                        7
+
+               The Commission adopted the CAT in 2012, issuing a rule
+        that required the self-regulatory organizations “to submit a na-
+        tional market system . . . plan to create, implement, and maintain
+        a consolidated order tracking system, or consolidated audit trail.”
+        Consolidated Audit Trail, 77 Fed. Reg. 45722, 45722 (Aug. 1, 2012)
+        [hereinafter 2012 Adoption Rule]. In issuing that rule, the Commis-
+        sion explained its belief that “the regulatory data infrastructure on
+        which the [self-regulatory organizations] and the Commission cur-
+        rently must rely generally is outdated and inadequate to effectively
+        oversee a complex, dispersed, and highly automated national mar-
+        ket system.” Id. at 45723. The Commission reasoned that the CAT
+        “should substantially enhance the ability of the [self-regulatory or-
+        ganizations] and the Commission to oversee today’s securities mar-
+        kets and fulfill their responsibilities under the federal securities
+        laws.” Id. at 45726.
+                In 2015, the self-regulatory organizations “filed with the
+        [Commission] . . . a National Market System Plan Governing the
+        Consolidated Audit Trail.” Joint Industry Plan; Notice of Filing of
+        the National Market System Plan Governing the Consolidated Au-
+        dit Trail, 81 Fed. Reg. 30614, 30614 (May 17, 2016) [hereinafter 2015
+        Plan]. Under the 2015 Plan, the self-regulatory organizations would
+        operate “the CAT through CAT NMS, LLC.” Id. at 30616. Each
+        self-regulatory organization—or, for purposes of CAT NMS, LLC,
+        “Participant”—would own a share of CAT NMS, LLC, and have
+        voting rights on its Operating Committee. Id. By contrast, broker-
+        dealers would be part of an advisory committee and have no voting
+        rights. Id. at 30621.
+USCA11 Case: 23-13396     Document: 156-1     Date Filed: 07/25/2025    Page: 8 of 29
+
+
+
+
+        8                     Opinion of the Court                 23-13396
+
+              The 2015 Plan also required both the self-regulatory organi-
+        zations and the broker-dealers to bear the costs of the CAT. See id.
+        at 30710 (“The Plan provides that costs associated with building
+        and operating the Central Repository would be borne by both [self-
+        regulatory organizations] and their members.”).
+                                      C.
+
+               In 2016, the Commission approved the 2015 Plan. Joint In-
+        dustry Plan; Order Approving the National Market System Plan
+        Governing the Consolidated Audit Trail, 81 Fed. Reg. 84696, 84697
+        (Nov. 23, 2016) [hereinafter 2016 Approval Order]. The Commis-
+        sion concluded that the Plan would “significantly improve regula-
+        tory efforts by the [self-regulatory organizations] and the Commis-
+        sion, including market surveillance, market reconstructions, en-
+        forcement investigations, and examinations of market partici-
+        pants.” 2016 Approval Order, 81 Fed. Reg. at 84727. When the
+        Commission approved the 2015 Plan, it estimated that it would
+        cost between $37.5 million and $65 million to build the CAT, and
+        between $36.5 and $55 million per year to operate it. 2016 Approval
+        Order, 81 Fed. Reg. at 84854.
+               The 2016 Approval Order approved the bifurcated interim
+        original funding model—which followed the 2012 Adoption Rule’s
+        mandate that both self-regulatory organizations and broker-dealers
+        bear CAT costs. 2016 Approval Order, 81 Fed. Reg. at 84793. But
+        the 2016 Approval Order left the decision on many funding details
+        to be determined at a later date; the Order did not specify the per-
+        centage that self-regulatory organizations and broker-dealers
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025     Page: 9 of 29
+
+
+
+
+        23-13396               Opinion of the Court                          9
+
+        would pay, but it instead stated that “fee proposals later will be sep-
+        arately filed with the Commission by the [self-regulatory organiza-
+        tions], published for public comment, and assessed by the Commis-
+        sion for consistency with applicable Exchange Act standards, in-
+        cluding whether they are reasonable and equitably allocated, . . .
+        and not unfairly discriminatory.” Id. at 84794. Like the 2015 Plan,
+        the 2016 Approval Order provided that both the self-regulatory or-
+        ganizations and broker-dealers would bear CAT costs. See id. at
+        84855 (“[T]he Commission’s analysis acknowledged that Central
+        Repository costs will be passed on to both Participants and Industry
+        Members by an unidentified formula . . . .”). The CAT became op-
+        erational in 2020, and the legacy audit trails were decommissioned
+        in 2022.
+                                       D.
+
+               In 2023, the Commission formally approved the 2023 Fund-
+        ing Order, on the fifth proposal submitted since the Commission
+        adopted the 2014 Plan, which prompted this litigation. See Joint In-
+        dustry Plan; Order Approving an Amendment to the National Mar-
+        ket System Plan Governing the Consolidated Audit Trail; Notice,
+        88 Fed. Reg. 62628, 62628 (Sept. 12, 2023) [hereinafter 2023 Fund-
+        ing Order]. The 2023 Funding Order replaced the original funding
+        model “with the Executed Share Model.” Id. at 62629. The Exe-
+        cuted Share Model “bases the CAT fees on executed share volume,
+        while the Original Funding Model contemplated assessing fees
+        based on market share for some entities and message traffic for oth-
+        ers.” Self-Regul. Orgs. Br. at 22 (citing 2023 Funding Order, 88 Fed.
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025     Page: 10 of 29
+
+
+
+
+         10                     Opinion of the Court                 23-13396
+
+         Reg. at 62629). The Executed Share Model also “divides costs
+         evenly between the three entities who have primary roles in a
+         transaction: (1) the buy-side executing broker, (2) the sell-side exe-
+         cuting broker, and (3) the [self-regulatory organization] involved in
+         the transaction.” Id. at 23 (citing 2023 Funding Order, 88 Fed. Reg.
+         at 62629).
+                 The 2023 Funding Order established two categories of CAT
+         fees: fees for historical CAT costs and fees for prospective CAT
+         costs. For historical CAT costs, the buyer’s broker-dealer and
+         seller’s broker-dealer each bear one-third of the CAT costs. The
+         self-regulatory organization’s share of historical CAT costs “will be
+         paid by the cancellation of loans that the [self-regulatory organiza-
+         tions] previously made to CAT LLC.” Self-Regul. Orgs. Br. at 23
+         n.9 (citing 2023 Funding Order, 88 Fed. Reg. at 62630). Likewise,
+         the 2023 Funding Order splits prospective CAT costs between the
+         self-regulatory organization, the buyer’s broker-dealer, and the
+         seller’s broker-dealer. See 2023 Funding Order, 88 Fed. Reg. at
+         62630.
+                The 2023 Funding Order confirmed that the 2015 Plan “re-
+         quires both Execution Venues (which include the [self-regulatory
+         organizations]) and Industry Members (which include [broker-
+         dealers]) to fund the CAT.” Id. at 62629. But the Commission also
+         expressly acknowledges in the 2023 Funding Order that the self-
+         regulatory organizations may “pass[] their CAT fees onto their
+         members in full.” Id. at 62684 n.1135. In other words, the 2023
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025    Page: 11 of 29
+
+
+
+
+         23-13396              Opinion of the Court                       11
+
+         Funding Order allows broker-dealers (and their customers) to “ef-
+         fectively bear 100% of the CAT allocation.” Id.
+                The Commission approved the 2023 Funding Order in a split
+         decision. Chair Gary Gensler explained that the 2023 Funding Or-
+         der “addresses an important but narrow issue: the allocation of
+         funding of recoverable costs for CAT.” Gary Gensler, Statement on
+         CAT Funding (Sept. 6, 2023), https://perma.cc/9BPM-8YD9. Chair
+         Gensler also pointed to the requirement for self-regulatory organi-
+         zations to submit periodic fee filings for Commission review if the
+         proposal were adopted. Commissioners Mark T. Uyeda and Hester
+         M. Pierce dissented. Mark T. Uyeda, Statement on Consolidated Audit
+         Trail     Revised     Funding      Model     (Sept.     6,    2023),
+         https://perma.cc/TG79-SZXV; Hester M. Pierce, Who’s Paying?
+         Statement on the CAT’s Funding Model (Sept. 6, 2023),
+         https://perma.cc/2XGL-FWGW. Commissioner Uyeda pointed
+         to the precipitous increase of CAT costs and questioned whether
+         the 2023 Funding Order “sufficiently align[ed]” the incentives be-
+         tween self-regulatory organizations and broker-dealers regarding
+         CAT costs. Uyeda, supra (citing Comment Letter from Financial
+         Information Forum and Security Industry and Financial Market As-
+         sociation, File Number 4-698: Joint Industry Plan; Order Instituting
+         Proceedings to Determine Whether to Approve or Disapprove an
+         Amendment to the National Market System Plan Governing the
+         Consolidated Audit Trail (June 16, 2023), at 2). Similarly, Commis-
+         sioner Pierce reasoned that the “allocation required by these
+         amendments is not fair given the further misalignment of incen-
+         tives that it encourages.” Pierce, supra.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025    Page: 12 of 29
+
+
+
+
+         12                    Opinion of the Court                23-13396
+
+                                       E.
+
+                The costs of building and funding the CAT have far ex-
+         ceeded the Commission’s expectations. By the end of 2022, $518
+         million had been spent to build the (incomplete) CAT—nearly
+         eight times more than the top Commission estimate. Compare 2023
+         Funding Order, 88 Fed. Reg. at 62662, with 2016 Approval Order,
+         81 Fed. Reg. at 84854. And by 2023, operating costs had climbed to
+         nearly $200 million per year—nearly four times greater than the
+         high-end Commission estimate. Compare CAT, LLC, 2023 Financial
+         and Operating Budget (Nov. 7, 2023), https://perma.cc/N2RM-
+         NSK8, with 2016 Approval Order, 81 Fed. Reg. at 84854.
+                The Commission “acknowledge[d]” that the “CAT operat-
+         ing budget” had grown to “five times the amount estimated in the
+         [2016] Approval Order.” 2023 Funding Order, 88 Fed. Reg. at
+         62655. “Several commenters stated that, because CAT costs in-
+         curred to date are greater than those estimated at the time the
+         [2015] Plan was approved, the Commission should update its eco-
+         nomic analysis of that plan.” Id. at 62676. But the Commission “de-
+         cline[d]” to update its economic analysis because it “was conducted
+         in the process of deciding whether to approve the original plan and
+         was appropriately based upon the information available to the
+         Commission at the time it made that determination.” Id. Instead,
+         the Commission “supplemented” its seven-year-old economic
+         analysis with “additional information learned since the time of [the
+         2016 Approval Order].” Id.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025     Page: 13 of 29
+
+
+
+
+         23-13396               Opinion of the Court                       13
+
+                                        F.
+
+                American Securities Association and Citadel Securities, LLC
+         (collectively, the “Association”) now challenge the 2023 Funding
+         Order under 15 U.S.C. § 78y(a)(1).
+                                        II.
+
+                We have jurisdiction to review final orders of the Commis-
+         sion under 15 U.S.C. § 78y(a)(1). We must “hold unlawful and set
+         aside agency action, findings, and conclusions” that are “arbitrary,
+         capricious, an abuse of discretion, or otherwise not in accordance
+         with law.” 5 U.S.C. § 706(2)(A). The Administrative Procedure
+         Act’s “arbitrary-and-capricious standard requires that agency ac-
+         tion be reasonable and reasonably explained.” FCC v. Prometheus Ra-
+         dio Project, 592 U.S. 414, 423 (2021).
+                                        III.
+
+                The Association offers us three reasons why we should va-
+         cate the 2023 Funding Order. First, the Association contends that
+         because the CAT itself is unlawful, we must necessarily vacate the
+         2023 Funding Order. Second, the Association argues that the 2023
+         Funding Order’s allocation of costs violates the Exchange Act and
+         Administrative Procedure Act. Third, the Association asserts that
+         the 2023 Funding Order’s economic analysis runs afoul of the Ex-
+         change Act and the Administrative Procedure Act.
+                We agree with the Association that the 2023 Funding Or-
+         der’s allocation of costs and its economic analysis are arbitrary and
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025     Page: 14 of 29
+
+
+
+
+         14                     Opinion of the Court                23-13396
+
+         capricious, and thus violate the Administrative Procedure Act. And
+         “we think this is a good opportunity for us to practice judicial min-
+         imalism, and decide no more than what is necessary to resolve” this
+         petition. Harbourside Place, LLC v. Town of Jupiter, 958 F.3d 1308,
+         1322 (11th Cir. 2020). Accordingly, we need not address the Asso-
+         ciation’s Exchange Act arguments. Similarly, because we can re-
+         solve this appeal on administrative law grounds, we need not de-
+         termine whether the Association’s challenge to the CAT’s lawful-
+         ness is timely, and if so, whether that argument is correct.
+                We also agree that vacatur of the 2023 Funding Order is the
+         proper remedy. Vacatur is the ordinary remedy for orders that vi-
+         olate the Administrative Procedure Act. See Black Warrior River-
+         keeper, Inc. v. U.S. Army Corps of Eng’rs, 781 F.3d 1271, 1290 (11th
+         Cir. 2015). And the equitable considerations that would have us
+         grant alternative relief do not favor the Commission, but instead
+         favor the Association.
+               We will address each issue in turn.
+                                        A.
+
+                We start with the Association’s argument that the 2023
+         Funding Order’s allocation of costs violates the Administrative Pro-
+         cedure Act. Specifically, the Association argues that the Commis-
+         sion did not explain or justify its decision to allow the entirety of
+         CAT costs to be borne by broker-dealers.
+               We think that argument is correct for two reasons.
+USCA11 Case: 23-13396       Document: 156-1        Date Filed: 07/25/2025       Page: 15 of 29
+
+
+
+
+         23-13396                 Opinion of the Court                            15
+
+                 First, the 2023 Funding Order is internally inconsistent—and
+         inconsistent with the 2012 Adoption Rule, the 2015 Plan, and the
+         2016 Approval Order—because it permits the self-regulatory or-
+         ganizations to pass through all of their CAT costs onto the broker-
+         dealers. The 2023 Funding Order states that the 2015 Plan “requires
+         both [self-regulatory organizations] . . . and Industry Members . . .
+         to fund the CAT.” 2023 Funding Order, 88 Fed. Reg. at 62636 (em-
+         phasis added). But at the same time, the 2023 Funding Order
+         acknowledges that self-regulatory organizations could seek to pass
+         all of their CAT costs to broker-dealers and their customers. See id.
+         at 62684 n.1135. So despite acknowledging that both self-regulatory
+         organizations and broker-dealers must fund the CAT, the 2023
+         Funding Order, in effect, greenlights the shifting of all CAT costs
+         to the broker-dealers.
+                According to the 2023 Funding Order, if the Financial Indus-
+         try Regulatory Authority, Inc. (FINRA)—the only non-profit self-
+         regulatory organization—were able to pass through 100% of its
+         CAT costs, the broker dealers would “bear 77% of CAT costs.” Id.
+         at 62684. And if the other self-regulatory organizations passed their
+         CAT costs to broker dealers “in full,” the broker-dealers would “ef-
+         fectively bear 100% of the CAT allocation (ignoring what they
+         would pass to investors).” Id. at 62684 n.1135. 1
+
+
+         1 FINRA implemented a CAT cost recovery fee for historical CAT costs (which
+
+         amounted to $4,391,414) in December 2024, which will stay in place until the
+         full amount is recovered from member broker-dealers, but will not assess the
+USCA11 Case: 23-13396        Document: 156-1         Date Filed: 07/25/2025        Page: 16 of 29
+
+
+
+
+         16                        Opinion of the Court                      23-13396
+
+                 The Commission’s shift from a mandate that both self-regu-
+         latory organizations and broker-dealers fund the CAT to an allow-
+         ance for self-regulatory organizations to pass through 100% of their
+         CAT costs constitutes a major CAT policy change. All prior Com-
+         mission CAT promulgations stated that self-regulatory organiza-
+         tions would be responsible for some “allocation of the costs.” See,
+         e.g., 2016 Approval Order, 81 Fed. Reg. at 84795. But that bifurca-
+         tion requirement seems to have quietly vanished.
+                 To be sure, “[a]gencies are free to change their existing pol-
+         icies as long as they provide a reasoned explanation for the
+         change.” Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221 (2016).
+         “But the agency must at least ‘display awareness that it is changing
+         position’ and ‘show that there are good reasons for the new pol-
+         icy.’” Id. (quoting FCC v. Fox Television Stations, Inc., 556 U.S. 502,
+         515 (2009)). The 2023 Funding Order’s allowance for self-regula-
+         tory organizations to pass through 100% of their CAT costs fails to
+         meet this standard. That allowance is inconsistent with the 2023
+         Funding Order, the 2016 Approval Order, the 2015 Plan, and the
+         2012 Adoption Rule’s requirement that both self-regulatory
+
+
+         fee on transactions after January 1, 2025. See FINRA, Information Notice: Com-
+         pletion of Historical CAT Cost Recovery Assessment (Dec. 24, 2024),
+         https://perma.cc/GWE8-D52J. FINRA recently filed a proposal with the
+         Commission for recouping certain prospective CAT costs. Self-Regulatory Or-
+         ganizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing
+         and Immediate Effectiveness of a Proposed Rule Change, 90 Fed. Reg. 30171,
+         30171 (July 8, 2025). That filing was effective upon its receipt by the Commis-
+         sion, which has solicited comments on the filing. See id. at 30176–77.
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025      Page: 17 of 29
+
+
+
+
+         23-13396               Opinion of the Court                         17
+
+         organizations and broker-dealers fund the CAT, and we can see no
+         reasoned justification or explanation for the Commission’s about-
+         face.
+                 The Commission points to the consistent use of language
+         permitting self-regulatory organizations to recover their CAT costs
+         from members upon meeting Exchange Act requirements as evi-
+         dence that it has not substantially changed its position. But that per-
+         missive language was used in conjunction with the understanding
+         that self-regulatory organizations and their broker-dealer members
+         were to share the costs. In other words, the 2023 Funding Order
+         still presents an “unexplained inconsistency” to the extent it allows
+         self-regulatory organizations to pass through 100% of the CAT
+         costs. Encino Motorcars, 579 U.S. at 222 (citation modified) (quoting
+         Nat’l Cable & Telecomms. Ass’n v. Brand X Internet Servs., 545 U.S.
+         967, 981 (2005)); 2023 Funding Order, 88 Fed. Reg. at 62635. Be-
+         cause the Commission provides no “good reasons” for changing its
+         position, the policy violates the Administrative Procedure Act. En-
+         cino Motorcars, 579 U.S. at 221 (quoting Fox Television, 556 U.S. at
+         515); see also Prometheus Radio, 592 U.S. at 423.
+                 Second, apart from those inconsistencies and unexplained
+         change in policy, “[w]e have said that an agency action is arbitrary
+         and capricious if the agency . . . entirely failed to consider an im-
+         portant aspect of the problem.” In re Gateway Radiology Consultants,
+         P.A., 983 F.3d 1239, 1262 (11th Cir. 2020) (quoting Ga. Dep’t of Educ.
+         v. U.S. Dep’t of Educ., 883 F.3d 1311, 1314 (11th Cir. 2018)). The 2023
+         Funding Order did just that when it failed to consider the effects of
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025    Page: 18 of 29
+
+
+
+
+         18                    Opinion of the Court                 23-13396
+
+         potential broker-dealer-only funding. As it stands, the self-regula-
+         tory organizations that govern the CAT now have little incentive
+         to keep CAT costs down when they are free to pass along all of
+         those costs to their broker-dealer members.
+                 The 2023 Funding Order creates the potential for a classic
+         free-rider problem that the Commission only acknowledges in
+         passing. Indeed, the 2023 Funding Order’s response to that concern
+         is that the self-regulatory organizations have an incentive to keep
+         costs low because they “have been focused on cost management
+         when paying 100% of CAT costs and will continue this focus since
+         they will be paying one-third of CAT costs.” 2023 Funding Order,
+         88 Fed. Reg. at 62655. But the 2023 Funding Order’s statement
+         about the self-regulatory organizations’ incentives depends on the
+         premise that they will bear one-third of the CAT costs—something
+         the 2023 Funding Order allows them to avoid. Further, any incen-
+         tive to keep costs down speaks only to future expenses and says
+         nothing about already sunk costs—at the time of the order, the self-
+         regulatory organizations had paid 100% of CAT costs. Simply put,
+         the self-regulatory organizations govern the CAT and set its
+         budget, but the broker-dealers may be on the hook for its entire
+         cost. As one of the dissenting Commissioners pointed out, those
+         entities who could be paying for much of the CAT would not be
+         involved in budget-related decisions or implementation of the plan:
+         “Nobody with financial skin in the game will be among those set-
+         ting or reviewing the budget, or among those able to propose
+         amendments to the plan or involved in day-to-day discussions
+         about interpretation or implementation of the plan.” Pierce, supra.
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025      Page: 19 of 29
+
+
+
+
+         23-13396               Opinion of the Court                         19
+
+         The 2023 Funding Order’s disregard of these misaligned incentives
+         lacks reason.
+                The Commission disputes these conclusions and insists that
+         the Exchange Act will protect broker-dealers from future inequita-
+         ble self-regulatory organization fee filings. And the self-regulatory
+         organizations say that for us to accept the Association’s arguments,
+         we would have to assume that in the future, the Commission
+         would “not comply with its statutory obligations—an invitation
+         that other courts have rejected.” Self-Regul. Orgs. Br. at 41 (citing
+         Corn Refiners Ass’n, Inc. v. Costle, 594 F.2d 1223, 1226 n.8 (8th Cir.
+         1979) (“We will not assume, as petitioners seem to suggest, that
+         EPA will not exercise its discretion in a reasonable and good faith
+         manner.”)). And CAT LLC argues that it is “perfectly reasonable”
+         for the Commission to “review fee filings as they come” instead of
+         “preemptively resolv[ing] them all now.” CAT LLC Br. at 24.
+                 But those arguments run into a bedrock “principle of admin-
+         istrative law that a court may uphold agency action only on the
+         grounds that the agency invoked when it took the action.” Michi-
+         gan v. EPA, 576 U.S. 743, 758 (2015) (citing SEC v. Chenery Corp., 318
+         U.S. 80, 87 (1943)). When commenters raised concerns about pass-
+         through costs, the Commission “acknowledge[d] the concerns” but
+         “emphasize[d] that . . . the CAT provides important benefits in fa-
+         cilitating effective market surveillance and the Exchange Act ex-
+         pressly contemplates the ability of the [self-regulatory organiza-
+         tions] to recoup their costs to fulfill their statutory obligations un-
+         der the Exchange Act.” 2023 Funding Order, 88 Fed. Reg. at 62636.
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025      Page: 20 of 29
+
+
+
+
+         20                     Opinion of the Court                  23-13396
+
+         So instead of prohibiting, or even casting doubt on the possibility
+         of pass-through costs, or expressly acknowledging its change in pol-
+         icy, the Commission pointed to the benefits of the CAT instead.
+         Although the Administrative Procedure Act does not require the
+         “agency’s choice” to be “the best one,” it does require it to be a
+         reasonable one. Nat’l Ass’n for Better Broad. v. FCC, 849 F.2d 665, 669
+         (D.C. Cir. 1988).
+                The Commission’s post hoc review of fee filings is insuffi-
+         cient. First, self-regulatory organizations’ fees take effect immedi-
+         ately upon filing, unless suspended by the Commission. Second,
+         the Commission’s review of any individual self-regulatory organi-
+         zation’s fee filing does not reach the issue of cost allocation as a
+         whole because it is necessarily focused on “specific costs rather
+         than the market-wide allocation formula.” Ass’n Reply Br. at 16 (ci-
+         tation modified). Third, and significantly, the Commission’s deci-
+         sion not to institute review proceedings of fee filings is immune
+         from challenge, NetCoalition v. SEC, 715 F.3d 342, 344 (D.C. Cir.
+         2013), so a decision to allow a 100% pass-through filing will not be
+         subject to judicial review. Fourth, there is no body of consistent
+         past practice that the Commission can point to because so far there
+         has only been one pass-through filing.
+                Because the Commission’s allowance for self-regulatory or-
+         ganizations to pass through 100% of their fees to broker-dealers—
+         without considering the effects of that choice—is unreasonable, it
+         violates the Administrative Procedure Act.
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025      Page: 21 of 29
+
+
+
+
+         23-13396               Opinion of the Court                         21
+
+                                        B.
+
+                 The Association also contends that the 2023 Funding Or-
+         der’s economic analysis is deficient to the degree that it violates the
+         Administrative Procedure Act. Specifically, the Association argues
+         that the Commission failed to update its existing economic analysis
+         even though “two major changes occurred” between when the
+         Commission issued the 2016 Approval Order and when it issued
+         the 2023 Funding Order. Ass’n Br. at 40. One change is that “the
+         costs of operating the CAT skyrocketed from that dated (and evi-
+         dently flawed) economic analysis.” Id. And the other change was
+         that the 2023 Funding Order “settled on an ‘allocation’ that assigns
+         at least two-thirds of the CAT costs to broker-dealers and lets the
+         [self-regulatory organizations] pass-through the remainder to bro-
+         ker-dealers as well.” Id. at 41 (citing 2023 Funding Order, 88 Fed.
+         Reg. at 62629–30).
+                We find those arguments persuasive. The Commission’s
+         lack of acknowledgment of the change in circumstances from the
+         time it issued the 2016 Approval Order to when it approved the
+         2023 Funding Order skirts the Administrative Procedure Act’s re-
+         quirement “that agency action be reasonable and reasonably ex-
+         plained.” Prometheus Radio, 592 U.S. at 423. Indeed, when the Com-
+         mission approved the 2015 Plan in the 2016 Approval Order, it re-
+         lied on its own economic analysis to conclude that the CAT would
+         generally “promote competition, improve the efficiency of regula-
+         tory activities, promote market efficiency, and have modest posi-
+         tive effects on capital formation.” 2016 Approval Order, 81 Fed.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025     Page: 22 of 29
+
+
+
+
+         22                     Opinion of the Court                23-13396
+
+         Reg. at 84882; see also 15 U.S.C. § 78c(f). But the Commission un-
+         reasonably failed to reconcile that seven-year-old analysis with the
+         increased CAT costs and a new fee structure that allows the self-
+         regulatory organizations to shift all their CAT costs to broker-deal-
+         ers. The Commission’s reliance on an incomplete and incompati-
+         ble past analysis cannot pass the Administrative Procedure Act’s
+         reasonableness review today.
+               The Commission makes two arguments to the contrary, but
+         neither are persuasive.
+                First, the Commission asserts that it was not required to up-
+         date its 2016 analysis. According to the Commission, it “did not re-
+         consider [the] CAT in this proceeding . . . , and while there are
+         mechanisms by which petitioners could seek such reconsideration,
+         this was not one of them.” Comm’n Br. at 35. The Commission
+         instead contends that the requirement that it consider new evi-
+         dence or information applies before the Commission adopts a rule,
+         not after.
+               Agencies must consider material changes in circumstances,
+         and they must act reasonably when they discover new evidence or
+         encounter new facts. See Portland Cement Ass’n v. EPA, 665 F.3d 177,
+         187 (D.C. Cir. 2011). It necessarily follows that “an agency must
+         have a similar obligation to acknowledge and account for a
+         changed regulatory posture the agency creates—especially when
+         the change impacts a contemporaneous and closely related rule-
+         making.” Id. Here, increased actual and projected CAT costs and a
+         new proposed cost-allocation structure were new circumstances
+USCA11 Case: 23-13396     Document: 156-1     Date Filed: 07/25/2025    Page: 23 of 29
+
+
+
+
+         23-13396              Opinion of the Court                      23
+
+         the Commission should have considered in relation to its economic
+         analysis. The Commission’s decision not to revise or conduct a
+         new economic analysis under these circumstances is therefore un-
+         reasonable.
+                Second, the Commission argues that it “used ‘the best infor-
+         mation available’” when it approved the CAT in 2016 and ap-
+         proved the funding order in 2023. Comm’n Br. at 35. Even if the
+         Commission’s 2016 economic analysis was correct at the time, that
+         past analysis does not control the reasonableness of the Commis-
+         sion’s actions in 2023. Our inquiry is to assess whether the Com-
+         mission responded reasonably in its 2023 Funding Order to the
+         multiplication of CAT costs and its own allowance for self-regula-
+         tory organizations to pass on all their costs to broker-dealers.
+         Whether the Commission’s economic analysis was correct in 2016
+         does not answer that question.
+                Further, the argument that the Commission used the best
+         information available when it approved the 2023 Funding Order is
+         severely undercut by the Commission’s reliance on a seven-year-
+         old economic analysis that (1) left many important details blank
+         and (2) underestimated the costs of the CAT by hundreds of mil-
+         lions of dollars. And to the extent that the 2023 Funding Order in-
+         cludes a supplemental analysis “with additional information
+         learned since the time of” the 2016 Approval Order, 88 Fed. Reg. at
+         62676, that supplement also fails to account for how rising CAT
+         costs may affect the Commission’s earlier analysis. For example,
+         although the Commission labels the CAT fees as “relatively small”,
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025     Page: 24 of 29
+
+
+
+
+         24                     Opinion of the Court                 23-13396
+
+         it fails to consider the very real likelihood that CAT fees must in-
+         crease to account for the rise in CAT costs. Comm’n Br. at 37. In-
+         deed, the Commission’s thin supplemental analysis fails to reckon
+         with how the rise of CAT costs may impact its previous economic
+         analysis of the costs and benefits of the CAT. Only when the Com-
+         mission performs a proper economic analysis will we know the ef-
+         fects of the CAT (and its fees) on market efficiency, competition,
+         and capital formation. See 15 U.S.C. § 78c(f).
+                Accordingly, the Commission’s decision not to conduct a
+         new economic analysis or revise its previous economic analysis in
+         the 2023 Funding Order violates the Administrative Procedure Act.
+         See Portland Cement, 665 F.3d at 187.
+                                        C.
+
+                 That brings us to the issue of remedy. “[V]acatur . . . is the
+         ordinary APA remedy.” Black Warrior Riverkeeper, 781 F.3d at 1290
+         (quoting Sierra Club v. Van Antwerp, 526 F.3d 1353, 1369 (11th Cir.
+         2008) (Kravitch, J., concurring in part and dissenting in part)). But
+         it is not the only one. “[T]he federal courts possess broad discretion
+         to fashion an equitable remedy,” which includes the possibility of
+         remand without vacatur. Id.
+                The Association asks us to vacate the rule. But CAT LLC
+         suggests we have two other options: we could remand without va-
+         cating or stay our vacatur to give the Commission time to address
+         the consequences of our holding. We address each option in turn.
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025     Page: 25 of 29
+
+
+
+
+         23-13396               Opinion of the Court                        25
+
+                First, the decision between vacatur and non-vacatur turns
+         on the significance of the error. If it is unclear “that the agency’s
+         error incurably tainted the agency’s decisionmaking process, the
+         remedy of remand without vacatur is surely appropriate.” Id. But
+         “when the agency has erred to such an extent as to indicate that its
+         ultimate decision was unlawful,” we need not decide whether re-
+         mand without vacatur is appropriate. Id. “In deciding whether an
+         agency’s action should be remanded without vacatur, a court must
+         balance the equities.” Id. In particular, we consider “the seriousness
+         of the order’s deficiencies (and thus the extent of doubt whether
+         the agency chose correctly) and the disruptive consequences of an
+         interim change that may itself be changed.” Id. (quoting Allied-Sig-
+         nal, Inc. v. U.S. Nuclear Regul. Comm’n, 988 F.2d 146, 150–51 (D.C.
+         Cir. 1993)).
+                 Vacatur “makes sense when the flaw in the rule, the proce-
+         dure the agency used to issue the rule, or the explanation for the
+         rule is serious.” Kristin E. Hickman & Richard J. Pierce, Jr., Admin-
+         istrative Law Treatise § 20.3 (7th ed. 2025). For example, vacatur is
+         appropriate when “the court determines that the agency lacked the
+         authority to issue the rule, the agency omitted a critical procedural
+         safeguard, or the agency failed to address an issue that was central
+         to its decision to issue the rule.” Id. In contrast, remand without
+         vacatur is appropriate when “the flaw the court detects is relatively
+         minor, and is not central to [the agency’s] decision to issue the
+         rule.” Id. In the latter situation, “the vacate and remand remedy,
+         and the resulting gap in regulatory safeguards, is a poor fit for the
+         relatively minor error or gap in the agency’s reasoning process.” Id.
+USCA11 Case: 23-13396     Document: 156-1      Date Filed: 07/25/2025    Page: 26 of 29
+
+
+
+
+         26                    Opinion of the Court                23-13396
+
+                Although the issue is a close one, we agree with the Associ-
+         ation that vacatur is appropriate. The Commission’s failure to up-
+         date the 2016 economic analysis may well be the sort of error that
+         did not “incurably taint” its decision-making process. For all we
+         know, an updated economic analysis—as the Commission has sug-
+         gested in its supplement—might not change the basic parameters
+         of the 2023 Funding Order. But we cannot confidently say the same
+         thing about the other flaw. The 2023 Funding Order’s allowance
+         for self-regulatory organizations to pass through 100% of their
+         CAT costs to broker-dealers is a “serious” deficiency because bro-
+         ker-dealers could be on the hook for millions of dollars in CAT fees
+         that the Commission did not contemplate in the 2016 Approval Or-
+         der. As we see things, allowing the possibility for 100% pass-
+         through costs was central to the Commission’s 2023 Funding Or-
+         der. See Black Warrior Riverkeeper, 781 F.3d at 1290; Hickman &
+         Pierce, supra, § 20.3. We acknowledge that no self-regulatory or-
+         ganization other than FINRA has asked for 100% pass-through ap-
+         proval so far. And FINRA may be unique because as it is the only
+         nonprofit exchange of the twenty-four currently-registered ex-
+         changes. But the 2023 Funding Order does not limit the potential
+         for 100% pass-through costs to FINRA, we do not know how the
+         Commission will deal with such requests, and there is no judicial
+         review of the Commission’s determinations on pass-through re-
+         quests.
+               We also agree with the Association that vacating the 2023
+         Funding Order likely will not trigger serious “disruptive conse-
+         quences.” Ass’n Reply Br. at 23. The CAT has operated without a
+USCA11 Case: 23-13396      Document: 156-1      Date Filed: 07/25/2025      Page: 27 of 29
+
+
+
+
+         23-13396               Opinion of the Court                         27
+
+         funding order since 2016 and will presumably continue to do so;
+         vacating the 2023 Funding Order will minimally affect the status
+         quo. If we were to remand without vacatur, the self-regulatory or-
+         ganizations could pass on their share of CAT costs to the broker-
+         dealers while the Commission revises its order. And in that situa-
+         tion, the broker-dealers would be left without a remedy because
+         the self-regulatory organizations “are protected by absolute im-
+         munity when they perform their statutorily delegated adjudica-
+         tory, regulatory, and prosecutorial functions.” Weissman, 500 F.3d
+         at 1296. Accordingly, we will apply the ordinary Administrative
+         Procedure Act remedy of vacatur.
+                Second, having determined that vacatur is appropriate, we
+         turn to the parties’ request that we should stay our decision to give
+         the Commission time to address it. We recognize that vacating the
+         2023 Funding Order may cause some uncertainty in the short term.
+         As the parties seeking a stay, the Intervenors “bear[] the burden of
+         establishing its need.” Clinton v. Jones, 520 U.S. 681, 708 (1997).
+         Whether to grant a stay calls “for the exercise of judgment, which
+         must weigh competing interests and maintain an even balance.”
+         Landis v. N. Am. Co., 299 U.S. 248, 254–55 (1936). In our view, we
+         agree that the equities warrant a limited stay.
+                 Our vacatur of the 2023 Funding Order leaves the CAT
+         without a mechanism for the equitable allocation of costs between
+         self-regulatory organizations and broker-dealers, and the Commis-
+         sion and the industry need some time to adjust and react to this
+         reality. See N. Pipeline Const. Co. v. Marathon Pipe Line Co., 458 U.S.
+USCA11 Case: 23-13396      Document: 156-1        Date Filed: 07/25/2025     Page: 28 of 29
+
+
+
+
+         28                      Opinion of the Court                   23-13396
+
+         50, 88 (1982) (staying judgment for about 90 days to “afford Con-
+         gress an opportunity to reconstitute the bankruptcy courts or to
+         adopt other valid means of adjudication, without impairing the in-
+         terim administration of the bankruptcy laws”), superseded by statute
+         on other grounds, Bankruptcy Amendments and Federal Judgeship
+         Act of 1984, Pub. L. No. 98-353; Buckley v. Valeo, 424 U.S. 1, 143
+         (1976) (staying judgment “for a period not to exceed 30 days” to
+         “afford Congress an opportunity to reconstitute the [Federal Elec-
+         tions] Commission by law or to adopt other valid enforcement
+         mechanisms without interrupting enforcement of the provisions
+         the Court sustains”), superseded by statute on other grounds, McConnell
+         v. Fed. Election Comm’n, 540 U.S. 93 (2003); Bd. of Trade of Chi. v. SEC,
+         883 F.2d 525, 536 (7th Cir. 1989) (“Because this decision has the po-
+         tential to unsettle the expectations of the many investors who have
+         traded on the [s]ystem, and to require the closing of all positions
+         Delta has taken or guaranteed, we defer for 120 days after the date
+         of our mandate the effectiveness of our judgment vacating the
+         SEC’s order.”).
+                 A short stay here will afford the Commission an opportunity
+         to conduct the appropriate economic analysis that was lacking in
+         the 2023 Funding Order and reconsider the allocation of historical
+         and prospective CAT costs in accordance with this opinion. Such a
+         stay “accord[s] with traditional remedial discretion to account for
+         public interests in designing appropriate relief,” and is “typically af-
+         forded” where the “public interest is served by providing an oppor-
+         tunity” for the government to address the “appropriate remedy in
+         the first instance.” Charles W. Rhodes, Loving Retroactivity, 45 Fla.
+USCA11 Case: 23-13396      Document: 156-1       Date Filed: 07/25/2025      Page: 29 of 29
+
+
+
+
+         23-13396                Opinion of the Court                         29
+
+         St. U. L. Rev. 383, 415 (2018). See, e.g., Landis, 299 U.S. at 256 (“Es-
+         pecially in cases of extraordinary public moment, the individual
+         may be required to submit to delay not immoderate in extent and
+         not oppressive in its consequences if the public welfare or conven-
+         ience will thereby be promoted.”). Accordingly, we stay our judg-
+         ment for sixty days following the issuance of the mandate.
+                                         IV.
+
+                We VACATE the 2023 Funding Order, 88 Fed. Reg. 62628,
+         and REMAND this matter to the Commission for further proceed-
+         ings consistent with this opinion. We STAY our judgment for sixty
+         days following the issuance of the mandate.
+

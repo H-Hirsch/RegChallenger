@@ -1,0 +1,944 @@
+                FOR PUBLICATION
+
+   UNITED STATES COURT OF APPEALS
+        FOR THE NINTH CIRCUIT
+
+STATE OF WASHINGTON; STATE             No. 23-35294
+OF OREGON; STATE OF
+ARIZONA; STATE OF                     D.C. No. 1:23-cv-
+COLORADO; STATE OF                      03026-TOR
+CONNECTICUT; STATE OF
+DELAWARE; STATE OF ILLINOIS;
+ATTORNEY GENERAL OF                      OPINION
+MICHIGAN; STATE OF NEVADA;
+STATE OF NEW MEXICO; STATE
+OF RHODE ISLAND; STATE OF
+VERMONT; DISTRICT OF
+COLUMBIA; STATE OF HAWAII;
+STATE OF MAINE; STATE OF
+MARYLAND; STATE OF
+MINNESOTA; COMMONWEALTH
+OF PENNSYLVANIA,
+
+             Plaintiffs-Appellees,
+
+ v.
+
+U.S. FOOD & DRUG
+ADMINISTRATION; ROBERT M.
+CALIFF, in his official capacity as
+Commissioner of Food and Drugs;
+UNITED STATES DEPARTMENT
+OF HEALTH AND HUMAN
+SERVICES; XAVIER BECERRA, in
+2                  STATE OF WASHINGTON V. FDA
+
+
+his official capacity as Secretary of the
+Department of Health and Human
+Service,
+
+                  Defendants-Appellees,
+
+    v.
+
+STATE OF IDAHO; STATE OF
+IOWA; STATE OF MONTANA;
+STATE OF NEBRASKA; STATE OF
+SOUTH CAROLINA; STATE OF
+TEXAS; STATE OF UTAH, Proposed
+State Plaintiff-Intervenors,
+
+                  Movants-Appellants.
+
+           Appeal from the United States District Court
+             for the Eastern District of Washington
+            Thomas O. Rice, District Judge, Presiding
+
+         Argued and Submission Deferred March 13, 2024
+                    Submitted July 17, 2024
+                    San Francisco, California
+
+                       Filed July 24, 2024
+
+    Before: Sidney R. Thomas, M. Margaret McKeown, and
+               Morgan Christen, Circuit Judges.
+
+              Opinion by Judge Sidney R. Thomas
+                   STATE OF WASHINGTON V. FDA                      3
+
+
+                          SUMMARY*
+
+
+             Article III Standing / Intervention
+
+    The panel affirmed the district court’s order denying
+Idaho’s motion to intervene as of right, and dismissed for
+lack of jurisdiction the portion of the appeal concerning the
+district court’s denial of permissive intervention, in the State
+of Washington’s lawsuit challenging the Food and Drug
+Administration’s imposition of safe-use restrictions on the
+abortion drug mifepristone.
+    The Food, Drug, and Cosmetic Act authorizes the FDA
+to restrict access to certain drugs by imposing a “risk
+evaluation and mitigation strategy” (“REMS”) when it
+concludes that doing so is necessary to ensure that the
+benefits of the drug outweigh the risks. In a 2023 REMS, the
+FDA eliminated in-person dispensing requirements for
+mifepristone and allowed certain pharmacies to dispense
+mifepristone at retail locations or by mail. Washington and
+a collation of states sued the FDA under the Administrative
+Procedure Act, arguing that the agency should have gone
+further to eliminate hurdles to accessing mifepristone. Idaho
+and a different coalition of states moved to intervene seeking
+injunctive relief that would effectively reimpose the
+previous REMS, including the in-person dispensing
+requirement.
+
+
+
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+4                STATE OF WASHINGTON V. FDA
+
+
+   The panel held that because Idaho sought different relief
+from Washington, it must independently satisfy the
+requirements of Article III standing.
+    The panel concluded that Idaho’s complaint-in-
+intervention did not establish a cognizable injury-in-fact that
+was fairly traceable to the FDA’s revised safe-use
+restrictions. Idaho could not establish standing based on the
+alleged costs to the state’s finances because the asserted
+casual chain was too attenuated. The panel rejected Idaho’s
+allegation that elimination of the in-person dispensing
+requirement would harm its sovereign interest in law
+enforcement by making illegal mifepristone use harder to
+detect because nothing in the REMS impaired Idaho’s
+sovereign authority to enact or enforce its own laws
+regulating chemical abortion. Finally, the panel rejected
+Idaho’s allegation that elimination of the in-person
+dispensing requirement would harm its “quasi-sovereign
+interest” in maternal health and fetal life because the
+allegations concern the interests of individual citizens—not
+the separate interests of the state itself.
+    Guided by the Supreme Court’s recent decision on
+standing in FDA v. Alliance for Hippocratic Medicine, 602
+U.S. 367 (2024), the panel held that because Idaho did not
+have standing to bring the claims in its complaint, it affirmed
+the denial of its motion to intervene. The panel did not reach
+any other issue raised in the district court or urged by the
+parties on appeal, including whether Idaho would be
+otherwise entitled to intervene under Fed. R. Civ. P. 24.
+                STATE OF WASHINGTON V. FDA                5
+
+
+                       COUNSEL
+
+Emma Grunberg (argued) and Tera M. Heintz, Deputy
+Solicitors General; Noah G. Purcell, Solicitor General;
+Office of the Attorney General, Olympia, Washington;
+Andrew R.W. Hughes and Lauryn K. Fraas, Assistant
+Attorneys General; Kristin Beneski, First Assistant Attorney
+General; Colleen M. Melody, Civil Rights Division Chief;
+Robert W. Ferguson, Attorney General; Office of the
+Attorney General, Seattle, Washington;
+Dustin Buehler, Deputy Attorney General; Ellen F.
+Rosenblum, Attorney General; Denise G. Fjordbeck,
+Assistant Attorney General; Sander Marcus Hull, Senior
+Assistant Attorney General; Youngwoo J. Osb, Assistant
+Attorney General; Oregon Department of Justice, Salem,
+Oregon; Carla Scott, Deputy Attorney General, Oregon
+Department of Justice; Portland, Oregon;
+Luci D. Davis, Deputy Attorney General; Kris Mayes,
+Attorney General; Office of the Arizona Attorney General,
+Phoenix, Arizona; Daniel C. Barr, Perkins Coie LLP,
+Phoenix, Arizona;
+Sabrena Clinton, Deputy Attorney General; Heidi P. Stern,
+Solicitor General; Aaron D. Ford, Attorney General; Office
+of the Nevada Attorney General, Las Vegas, Nevada;
+Aletheia Allen, Solicitor General; Raul Torrey, Attorney
+General; Office of the New Mexico Attorney General,
+Albuquerque, New Mexico;
+Peter F. Neronha, Attorney General; Julia C. Harvey, Special
+Assistant Attorney General; Office of the Rhode Island
+Attorney General, Providence, Rhode Island;
+6               STATE OF WASHINGTON V. FDA
+
+
+Douglas Keehn, Assistant Attorney General; Charity R.
+Clark, Attorney General; Eleanor L.P. Spottswood, Solicitor
+General; Office of the Vermont Attorney General,
+Montpelier, Vermont;
+Brian L. Schwalb, Attorney General; Jennifer C. Jones,
+Deputy Attorney General Public Advocacy Division;
+William Stephens, Counsel to Deputy; Nicole S. Hill,
+Assistant Attorney General; Office of the District of
+Columbia Attorney General, Washington, D.C.;
+Philip J. Weiser, Attorney General; Michael McMaster,
+Assistant Attorney General; Office of the Colorado Attorney
+General, Denver, Colorado; Eric Olson, Olson Grimsley
+Kawanabe Hinchcliff & Murray LLC, Denver, Colorado;
+William Tong, Attorney General; Joshua Perry, Solicitor
+General; Office of the Connecticut Attorney General,
+Hartford, Connecticut;
+Kathleen Jennings, Attorney General; Vanessa L. Kassab,
+Deputy Attorney General; Office of the Delaware Attorney
+General, Wilmington, Delaware;
+Kwame Raoul, Attorney General; Lisa Roberson-Young,
+Public Interest Counsel; Office of the Illinois Attorney
+General, Chicago, Illinois;
+Dana Nessel, Attorney General; Stephanie M. Service,
+Assistant Attorney Michigan Department of the Attorney
+General Health, Education and Family Services Division;
+Office of the Michigan Attorney General, Lansing
+Michigan;
+Anne E. Lopez, Attorney General; Erin Lau, Deputy
+Attorney General, Office of the Hawaii Attorney General,
+Honolulu, Hawaii;
+                STATE OF WASHINGTON V. FDA               7
+
+
+Aaron M. Frey, Attorney General; Halliday Moncure,
+Assistant Attorney General; Office of the Maine Attorney
+General, Augusta, Maine;
+Joshua M. Segal, Assistant Attorney General; Anthony G.
+Brown, Attorney General, Office of the Maryland Attorney
+General, Baltimore, Maryland;
+Keith Ellison, Attorney General; Liz Kramer, Solicitor
+General; Jennifer Olson, Assistant Attorney General; Office
+of the Minnesota Attorney General, St. Paul, Minnesota;
+Michael A. Henry, Attorney General; Jill M. Graziano, Chief
+Counsel to the Attorney General; Office of the
+Commonwealth of Pennsylvania Attorney General;
+Morrison, Pennsylvania; for Plaintiffs-Appellees.
+Daniel L. Winik (argued), Dana Kaersvang and Michael S.
+Raab, Appellate Staff Attorneys; Vanessa R. Waldref,
+United States Attorney; Brian M. Boynton, Principal Deputy
+Assistant Attorney General; Civil Division, United States
+Department of Justice, Washington, D.C.; for Defendants-
+Appellees.
+Joshua N. Turner (argued), Acting Solicitor General, Chief
+of Constitutional Litigation and Policy; Sean M. Corkery,
+Assistant Solicitor General; Theodore J. Wold, Solicitor
+General; Michael A. Zarian, Deputy Solicitor General; Raul
+R. Labrador, Idaho Attorney General; Office of the Attorney
+General, Boise, Idaho; Peter M. Torstensen Jr., Assistant
+Solicitor General, Office of the Montana Attorney General,
+Helena, Montana; Thomas T. Hydrick, Deputy Attorney
+General, Office of the South Carolina Attorney General,
+Columbia, South Carolina; Stanford Purser, Deputy
+Solicitor, Office of the Utah Attorney General, Salt Lake
+8                STATE OF WASHINGTON V. FDA
+
+
+City, Utah; Lincoln D. Wilson, Alliance Defending
+Freedom, Washington, D.C.; for Movants-Appellants.
+
+
+
+                          OPINION
+
+THOMAS, Circuit Judge:
+
+    In this appeal, we consider whether Idaho is entitled to
+intervene in Washington’s lawsuit challenging the Food and
+Drug Administration’s (“FDA”) imposition of safe-use
+restrictions on the abortion drug mifepristone. We conclude
+that, because Idaho seeks different relief than Washington, it
+must independently satisfy the requirements of Article III
+standing. We further conclude that Idaho’s complaint-in-
+intervention does not establish a cognizable injury-in-fact
+that is fairly traceable to FDA’s revised safe-use restrictions.
+We are guided in our decision by the Supreme Court's recent
+decision on standing and the FDA's regulation of
+mifepristone in FDA v Alliance for Hippocratic Medicine.
+602 U.S. 367 (2024). Because Idaho does not have standing
+to bring the claims in its complaint, we affirm the denial of
+its motion to intervene.
+                               I
+                               A
+    The Food, Drug, and Cosmetic Act (FDCA), 21 U.S.C.
+§ 301 et seq., tasks FDA with ensuring the safety and
+efficacy of all drugs that enter into interstate commerce. See
+Wyeth v. Levine, 555 U.S. 555, 566–67 (2009). Before a new
+drug is approved, the drug’s sponsor must submit an
+application that includes patent and manufacturing
+                     STATE OF WASHINGTON V. FDA                            9
+
+
+information, the results of laboratory and clinical testing, and
+proposed labeling and instructions for use. 21 U.S.C.
+§ 355(b). The statute instructs FDA to approve a new drug
+only when it determines that the drug is “safe for use under
+the conditions prescribed, recommended, or suggested in the
+proposed labeling.” Id. § 355(d).
+    The FDCA also authorizes FDA to restrict access to
+certain drugs by imposing a “risk evaluation and mitigation
+strategy” or “REMS” when it concludes that doing so is
+“necessary to ensure that the benefits of the drug outweigh
+the risks[.]” Id. § 355-1(a)(1).1 A REMS may include
+restrictions on drug labeling and packaging, as well as more
+burdensome “safe use” restrictions, such as requirements
+that providers be specially certified or that patients be
+subjected to post-administration monitoring. Id. §§ 355-
+1(d)–355-1(f). Unlike package and labeling requirements,
+safe-use restrictions may only be imposed on drugs “with
+known serious risks” of a “serious adverse drug experience.”
+Id. § 355-1(f); id. § 355-1(b)(4). The statute instructs FDA
+to design safe-use restrictions to ensure that they are
+“commensurate with the specific serious risk” and do not
+“unduly burden[]” patient access. Id. § 355-1(f)(2). Once
+safe-use restrictions have been imposed, FDA must
+periodically reevaluate them to ensure the restrictions are
+
+1
+  FDA’s authority to adopt additional restrictions was previously
+governed by 21 C.F.R. §§ 314.500–560 (“Subpart H”). FDA adopted
+Subpart H in 1992 to accelerate its approval of new drugs with the
+potential to treat “serious or life-threatening illnesses” by authorizing the
+agency to impose post-approval safety restrictions. 57 Fed. Reg. 58942,
+58958–59 (Dec. 11, 1992). This authority was codified and expanded
+by the Food and Drug Administration Amendments Act of 2007, Pub. L.
+No. 110-85, 121 Stat. 823, which replaced Subpart H with the statutory
+“REMS” framework. See id. § 505-1, 121 Stat. at 926–39.
+10               STATE OF WASHINGTON V. FDA
+
+
+well calibrated to balance safety, access, and “the burden on
+the health care delivery system.” Id. § 355-1(f)(5)(B).
+                              B
+    Mifepristone is a medication that, when used in
+combination with another drug called misoprostol, can
+safely end an early pregnancy. FDA first authorized the
+marketing of mifepristone under the commercial name
+“Mifeprex” in 2000. As a condition of its approval, FDA
+stipulated that Mifeprex could only be dispensed in person,
+under the supervision of a physician with certain
+qualifications, after the patient had been advised of the drugs
+risks and had reviewed and signed a “patient agreement
+form.” See All. for Hippocratic Med., 602 U.S. at 375–76
+(describing original restrictions on Mifeprex approval).
+    In 2011, FDA reauthorized Mifeprex under the revised
+statutory framework that codified and expanded the
+agency’s authority to impose a REMS. FDA retained the
+original conditions on distribution, formulated as three
+discrete safe-use restrictions requiring (1) in-person
+dispensing,      (2) prescriber      certification,  and
+(3) documentation of patient counseling and consent.
+    Between 2011 and 2019, FDA reviewed the Mifeprex
+REMS several times, authorizing a handful of changes to
+prescribing guidelines and, in 2019, approving a generic
+version of mifepristone. At the conclusion of each review
+FDA concluded it was necessary to retain the three safe-use
+restrictions with only minor adjustments. See All. for
+Hippocratic Medicine, 602 U.S. at 375–76.
+    In 2020, FDA was forced to temporarily suspend the in-
+person dispensing requirement in response to a lawsuit filed
+by healthcare providers during the COVID-19 pandemic.
+                    STATE OF WASHINGTON V. FDA                        11
+
+
+Am. Coll. of Obstetricians & Gynecologists v. FDA, 472 F.
+Supp. 3d 183, 194–97 (D. Md. 2020). The suspension was
+in effect for six months, from July 2020 until January 2021,
+before the district court’s injunction was stayed by the
+Supreme Court. See FDA v. Am. Coll. of Obstetricians &
+Gynecologists, 141 S. Ct. 578 (2021). During this time,
+FDA observed no impact on patient safety. Based in part on
+this revelation, FDA voluntarily stopped enforcing the in-
+person dispensing requirement in April 2021 and initiated a
+full review of the Mifepristone REMS Program.
+    In December 2021, FDA announced the completion of
+the review and its conclusions that the in-person dispensing
+requirement should be permanently eliminated, thus
+allowing certain pharmacies to dispense mifepristone at
+retail locations or by mail. In place of in-person dispensing,
+FDA added a new REMS requirement that pharmacies be
+specially certified before dispensing the drug to ensure
+compliance with the other safe-use restrictions—prescriber
+certification and patient documentation—which FDA
+elected to retain. The new REMS was finalized in January
+2023.
+                                   C
+    In February 2023, a coalition of states led by Washington
+sued FDA under the Administrative Procedure Act (APA), 5
+U.S.C. § 706(2), arguing that the agency should have gone
+further to eliminate hurdles to accessing mifepristone.2
+
+2
+  The eighteen plaintiff jurisdictions are Washington, Oregon, Arizona,
+Colorado, Connecticut, Delaware, Illinois, Michigan, Nevada, New
+Mexico, Rhode Island, Vermont, D.C., Hawaii, Maine, Maryland,
+Minnesota, and Pennsylvania. Because the plaintiff states are similarly
+situated for the purpose of this appeal, we refer to them collectively as
+“Washington.”
+12                  STATE OF WASHINGTON V. FDA
+
+
+Given the rarity of adverse events in the drug’s twenty-some
+year history, Washington argues that mifepristone should no
+longer be subject to any of the original safe-use restrictions.
+Washington alleges that it is harmed as a regulated provider
+of maternal health care and pharmacy dispensing, and is
+forced to incur significant costs and risk as a result of the
+certification and documentation requirements. Washington
+supports these allegations with numerous sworn declarations
+from providers and administrators who work for state
+healthcare facilities.
+    Washington’s operative complaint challenges the 2023
+REMS as imposing “hurdles” to drug access “without any
+corresponding medical benefit,” in violation of the FDCA,
+21 U.S.C. § 355-1(f)(2) and APA, 5 U.S.C. § 706(2). In its
+prayer for relief, Washington seeks a declaration that
+mifepristone is “safe and effective” and an injunction
+prohibiting FDA from enforcing the restrictions contained in
+the 2023 REMS or otherwise “taking any action . . . to reduce
+[mifepristone’s] availability.” Washington also filed a
+motion for preliminary injunction, requesting the district
+court to enjoin the FDA from enforcing the 2023 REMS or
+otherwise “caus[ing] the drug to become less available.”
+    In March 2023, a different coalition of states led by
+Idaho moved to intervene, arguing that Washington’s
+lawsuit jeopardizes their legally protected interests in
+regulating the use of mifepristone within their borders.3
+Idaho argues that Washington’s lawsuit could impair its
+interest by making mifepristone easier to obtain and harder
+
+3
+  The seven intervenor states are Idaho, Iowa, Montana, Nebraska, South
+Carolina, Texas, and Utah. Because the intervenor states are similarly
+situated for the purpose of this appeal, we refer to them collectively as
+“Idaho.”
+                 STATE OF WASHINGTON V. FDA                 13
+
+
+to police, and by limiting Idaho’s ability to challenge the
+REMS in a separate lawsuit.
+    Idaho filed a proposed complaint-in-intervention that,
+like Washington’s, advances three causes of action under the
+APA and seeks broad declaratory relief concerning the
+legality of the 2023 REMS. Unlike Washington, however,
+Idaho seeks injunctive relief that would effectively reimpose
+the previous REMS, including the in-person dispensing
+requirement. Idaho predicts that elimination of the in-person
+dispensing requirement will lead to increased mifepristone
+use under conditions that are either dangerous or illegal.
+Idaho alleges this uptick will injure the state in three ways.
+First, Idaho alleges that more women will experience
+complications that require follow-up care, “some of which
+[will be] borne by Idaho through Medicaid expenditures.”
+Second, Idaho alleges that elimination of the “controlled” in-
+person “delivery system” will “undermine Idaho’s ability to
+enforce its laws.” Third, Idaho alleges that increased
+mifepristone use will endanger women and prenatal life, in
+which Idaho has a “legitimate interest.”
+    Washington and FDA both opposed intervention but
+advanced different arguments for why Idaho’s motion
+should be denied. Washington argued that Idaho did not
+satisfy the requirements for intervention under Federal Rule
+of Civil Procedure 24 because its interest in reimposing the
+in-person dispensing requirement was not implicated in
+Washington’s case, which concerns the legality of different
+safe-use restrictions. FDA argued the motion should be
+denied because Idaho did not satisfy a threshold requirement
+to demonstrate Article III standing to pursue relief that is
+different from the relief requested by the existing plaintiffs.
+14               STATE OF WASHINGTON V. FDA
+
+
+    While the motion to intervene was pending, the district
+court ruled on Washington’s motion for preliminary
+injunction, granting the motion in part and enjoining FDA
+from altering the status quo availability of mifepristone in
+the eighteen plaintiff jurisdictions. In evaluating the motion,
+the district court concluded that Washington had standing to
+challenge the 2023 REMS based on its allegations of direct
+harm to the state’s health care system, practice restrictions
+on state employees, and “unrecoverable” compliance costs.
+The district court declined to enjoin the 2023 REMS in its
+entirety because doing so would have the perverse effect of
+reimposing the previous REMS, which would “run[] directly
+counter” to Washington’s apparent aim.
+    On April 21, 2023, the district court denied Idaho’s
+motion to intervene. The district court concluded that Idaho
+was not entitled to intervene as a matter of right because it
+did not have a “significantly protectable interest” that would
+be impaired by the litigation since its complaint concerned
+different features of the 2023 REMS. See Fed. R. Civ. P.
+24(a). The district court also declined to permit Idaho to
+intervene permissively based on its conclusion that Idaho’s
+APA claims did not share any questions of law or fact with
+Washington’s claims. See Fed. R. Civ. P. 24(b). Idaho
+timely appealed the denial of its motion to intervene.
+                              II
+    We have jurisdiction to review the denial of a motion to
+intervene as of right under 28 U.S.C. § 1291, and our review
+is de novo, except for the element of timeliness, which we
+review for abuse of discretion. W. Watersheds Project v.
+Haaland, 22 F.4th 828, 835 (9th Cir. 2022). “We have
+jurisdiction over a district court’s denial of permissive
+intervention only if we conclude that the district court
+                 STATE OF WASHINGTON V. FDA                 15
+
+
+abused its discretion.” Cooper v. Newsom, 13 F.4th 857, 868
+(9th Cir. 2021) (citation omitted).
+    When the party attempting to intervene—whether as of
+right or permissively—seeks different relief than the original
+plaintiff, we review whether the intervening party has
+Article III standing to pursue the claims advanced in its
+complaint. Or. Prescription Drug Monitoring Program v.
+U.S. Drug Enf’t Admin., 860 F.3d 1228, 1233–34 (9th Cir.
+2017) (hereafter “OPDMP”). We review questions of
+standing de novo. Isaacson v. Mayes, 84 F.4th 1089, 1095
+(9th Cir. 2023). Like any party invoking federal jurisdiction,
+the party seeking to intervene has the burden of
+demonstrating standing “with the manner and degree of
+evidence required” at the relevant stage of litigation. Lujan
+v. Defs. of Wildlife, 504 U.S. 555, 561 (1992).
+                              III
+   The threshold issue in this appeal is whether Idaho must
+separately establish standing to intervene. Because Idaho
+seeks relief that is fundamentally different from that sought
+by Washington, the answer is yes.
+    “Article III of the Constitution limits the exercise of the
+judicial power to ‘Cases’ and ‘Controversies.’” Town of
+Chester v. Laroe Estates, Inc., 581 U.S. 433, 438 (2017)
+(quoting U.S. Const. art. III, § 2, cl. 1). The purpose of this
+“fundamental limitation” is to prevent courts from
+“intrud[ing] upon the powers given to the other branches” in
+our tripartite system. Id. (citation omitted). To establish
+Article III standing, a plaintiff must demonstrate that they
+have suffered a concrete “injury in fact” that is traceable to
+the defendant and is likely redressable by judicial relief.
+TransUnion LLC v. Ramirez, 594 U.S. 413, 423 (2021).
+These requirements “screen[] out plaintiffs who might have
+16               STATE OF WASHINGTON V. FDA
+
+
+only a general legal, moral, ideological, or policy objection
+to a particular government action,” and “prevents the federal
+courts from becoming a ‘vehicle for the vindication of the
+value interests of concerned bystanders.’”           All. for
+Hippocratic Medicine, 602 U.S. at 381–82 (quoting Allen v.
+Wright, 468 U.S. 737, 756 (1984)).
+    The Supreme Court has repeatedly confirmed that
+“[s]tanding is not dispensed in gross,” Davis v. Fed.
+Election Comm’n, 554 U.S. 724, 734 (2008) (citation
+omitted), which means that “[f]or all relief sought, there
+must be a litigant with standing[.]” Town of Chester, 581
+U.S. at 439. Thus, when a party moves to intervene in a case
+and “seek[s] to obtain different relief than the original
+plaintiff, the [i]ntervenor[] must establish independent
+Article III standing.” OPDMP, 860 F.3d at 1233–34. By
+contrast, “intervenors that seek the same relief sought by at
+least one existing party . . . need not do so.” Cal. Dep’t of
+Toxic Substances Control v. Jim Dobbas, Inc., 54 F.4th
+1078, 1085 (9th Cir. 2022); see also Little Sisters of the Poor
+Saints Peter & Paul Home v. Pennsylvania, 591 U.S. 657,
+674 n.6 (2020) (explaining that the court below “erred by
+inquiring into [intervenors’] independent Article III
+standing” where they sought the same relief as the federal
+government, which “clearly had standing”).
+    In this case, application of Town of Chester’s intervenor
+standing requirement turns on whether or not Idaho is
+seeking the “same relief” as Washington. Idaho argues that
+it is seeking the same relief because its complaint, like
+Washington’s, asks the court to “hold unlawful and set
+aside” the 2023 REMS. FDA disagrees, emphasizing the
+states’ antipodal objectives with respect to the in-person
+dispensing requirement: Washington seeks to loosen
+restrictions even further while Idaho seeks to strengthen
+                 STATE OF WASHINGTON V. FDA                  17
+
+
+them. FDA argues that superficial similarities in the form of
+the parties’ pleadings are “immaterial” when the ultimate
+outcomes they seek are “fundamentally different.”
+    To assess whether Idaho and Washington seek the same
+relief, we look to the parties’ complaints, which is the “best
+evidence of the relief [they] seek[].” Town of Chester, 581
+U.S. at 440. In so doing, we consider not just the legal form
+of the parties’ claims, but also their ultimate objectives. See,
+e.g., In re Volkswagen “Clean Diesel” Mktg., Sales Pracs.,
+& Prod. Liab. Litig., 894 F.3d 1030, 1044 (9th Cir. 2018);
+OPDMP, 860 F.3d at 1234. As the Supreme Court explained
+in Town of Chester, for example, two parties bringing
+“substantively identical” claims should nonetheless be
+understood as “seek[ing] different relief” when they seek
+separate judgments. 581 U.S. at 437, 440.
+    Applying Town of Chester, we have repeatedly held that
+an intervenor whose claims arise under a different legal
+theory “seeks different relief.” In OPDMP, for example, we
+considered an attempt by the ACLU Foundation of Oregon
+to intervene in a lawsuit brought by the state of Oregon. 860
+F.3d at 1231. The state plaintiffs sought a declaratory
+judgment that, under state law, the U.S. Drug Enforcement
+Administration (“DEA”) was required to obtain a court order
+before accessing state prescription drug records. 860 F.3d at
+1233–34. The ACLU, by contrast, sought declaratory and
+injunctive relief “founded on the Fourth Amendment”
+ordering the DEA to obtain a warrant before it could access
+the same records. Id. at 1234. We concluded that because
+the ACLU wanted “something very different” than the
+original plaintiffs, it “must establish independent Article III
+standing.” Id. Likewise, in In re Volkswagen “Clean
+Diesel” Marketing, we concluded that an injunction
+requiring Volkswagen to rescind the sale of vehicles
+18              STATE OF WASHINGTON V. FDA
+
+
+programmed to cheat on emissions tests would be
+“completely different” relief than an injunction requiring
+Volkswagen to stop installing the software in the future,
+notwithstanding the fact that both claims were founded on
+alleged violations of the Clean Air Act. 894 F.3d at 1044.
+    This case is somewhat different in that both
+Washington’s and Idaho’s complaints advance claims under
+the APA, which provides a generic cause of action for
+persons aggrieved by agency action. See 5 U.S.C. §§ 701–
+706. Invoking the broad scope of relief authorized by the
+APA, id. § 706(2), both complaints ask the court to declare
+the 2023 REMS unlawful and enjoin FDA from “enforcing
+or applying” its requirements. Beyond these superficial
+features, however, the two complaints have little in common
+and are, in many respects, diametrically opposed.
+    Washington and Idaho allege that different features of
+the 2023 REMS are unlawful. Washington’s complaint
+concerns the legality of FDA’s retention of the provider
+certification and patient documentation requirements, as
+well as the agency’s broader determination that mifepristone
+meets the “stringent standards” for the imposition of safe-
+use restrictions in the first place. Idaho’s complaint, by
+contrast, focuses entirely on FDA’s elimination of the in-
+person dispensing requirement, alleging that the change was
+inadequately explained, contrary to medical science, and
+violative of 21 U.S.C. § 355-1(a)(1).
+    Washington and Idaho also seek different remedies.
+Washington asks the court to enjoin the enforcement of any
+safe-use restrictions based on its view that they are not
+justified by any “known serious risk.” See 21 U.S.C. § 355-
+1(f)(2). Idaho seeks “something very different,” OPDMP,
+860 F.3d at 1234, asking the court to declare the 2023
+                 STATE OF WASHINGTON V. FDA                19
+
+
+changes to the REMS unlawful, vacate the revision, and
+effectively reinstate the prior status quo, including the in-
+person dispensing requirement. As the district court
+recognized, reinstating the status quo would “run[] directly
+counter to [Washington’s] request” by reducing the
+availability of mifepristone.         Indeed, the text of
+Washington’s complaint, which declares that “the 2023
+REMS improved on” the previous regime clearly reveals the
+chasm between the parties’ preferred outcomes.
+    Given the deep and obvious conflict between the parties’
+objectives, we cannot conclude that Idaho seeks the “same
+relief” as Washington. Under Town of Chester, Idaho must
+independently establish Article III standing to intervene.
+                             IV
+    We next consider whether the allegations in Idaho’s
+complaint establish standing to challenge FDA’s elimination
+of the in-person dispensing requirement. Idaho’s complaint
+alleges three kinds of injury caused by the 2023 REMS:
+increased Medicaid costs, interference with state law
+enforcement, and harms to women and fetal life. Where, as
+here, the propriety of intervention “must be determined
+before discovery,” we generally accept “all well-pleaded,
+nonconclusory allegations” in the proposed complaint as
+true. Sw. Ctr. for Biological Diversity v. Berg, 268 F.3d 810,
+819–20 (9th Cir. 2001); see also Lujan, 504 U.S. at 561 (“At
+the pleading stage, general factual allegations of injury
+resulting from the defendant’s conduct may suffice [to
+establish standing.]”). We conclude that none of the
+allegations contained in Idaho’s complaint constitute a
+cognizable injury-in-fact to the state’s own interests.
+   In assessing Idaho’s standing, we are mindful of both the
+general requirements for Article III standing set forth in
+20               STATE OF WASHINGTON V. FDA
+
+
+Lujan, 504 U.S. at 560–61, as well as prudential limits on
+states’ ability to sue the federal government on behalf of
+their citizens. See Haaland v. Brackeen, 599 U.S. 255, 294–
+95 (2023) (“Texas lacks standing to . . . assert equal
+protection claims on behalf of its citizens because a State
+does not have standing as parens patriae to bring an action
+against the Federal Government.” (cleaned up));
+Massachusetts v. Mellon, 262 U.S. 447, 485–86 (1923)
+(“While the state, under some circumstances, may sue . . .
+for the protection of its citizens, it is no part of its duty or
+power to enforce their rights in respect of their relations with
+the federal government.” (internal citation omitted)). We
+heed the Supreme Court’s reminder to “remain mindful of
+bedrock Article III constraints in cases brought by States
+against an executive agency or officer.” United States v.
+Texas, 599 U.S. 670, 680 n.3 (2023).
+                               A
+    Idaho first alleges that elimination of the in-person
+dispensing requirement will cause the state economic injury
+in the form of increased costs to the state’s Medicaid system.
+At oral argument, Idaho stated that this is its “strongest
+basis” for standing. Even taking Idaho’s highly speculative
+allegations as true, the complaint does not demonstrate an
+injury-in-fact because it depends on an attenuated chain of
+healthcare decisions by independent actors that will have
+only indirect effects on state revenue.
+    Like any party, a state has standing to challenge federal
+action that directly harms the state’s economic interests or
+interferes with its operations as a service provider, market
+participant, or employer. See, e.g., Dept. of Com. v. New
+York, 588 U.S. 752, 766–68 (2019); City & Cnty.. of San
+Francisco v. U.S. Citizenship & Immigr. Servs., 981 F.3d
+                 STATE OF WASHINGTON V. FDA                 21
+
+
+742, 754 (9th Cir. 2020); Washington v. Trump, 847 F.3d
+1151, 1159-61 (9th Cir. 2017) (per curiam). To establish
+standing based on an alleged “pocketbook injur[y],” the state
+must allege a concrete impact on state revenues that is
+caused by the defendant’s allegedly unlawful conduct.
+California v. Texas, 593 U.S. 659, 674 (2021). While the
+injury need not be direct, there must be a strong “causal
+chain” that “links” the federal action to the alleged harm.
+California v. Azar, 911 F.3d 558, 571–72 (9th Cir. 2018).
+“[P]laintiffs attempting to show causation generally cannot
+‘rely on speculation about the unfettered choices made by
+independent actors not before the courts.’” All. for
+Hippocratic Medicine, 602 U.S. at 383 (quoting Clapper v.
+Amnesty Int’l USA, 568 U.S. 398, 415 n.5 (2013)).
+    In recent years, the Supreme Court has specifically
+cautioned us to be wary of theories of state standing that rely
+on the “indirect effects” of federal policy on state revenue or
+state spending. United States v. Texas, 599 U.S. at 680 n.3;
+see also California v. Texas, 593 U.S. at 675–78. As the
+Sixth Circuit has explained, a theory of state standing “in
+which all peripheral costs imposed on the States by actions
+of the [executive branch]” constitute cognizable injuries
+would “make a mockery” of Article III. Arizona v. Biden,
+40 F.4th 375, 386 (6th Cir. 2022) (citation omitted).
+    In this case, Idaho alleges that it will sustain economic
+injury in the form of downstream medical costs that will
+borne by the state. Specifically, Idaho alleges that
+elimination of the in-person dispensing requirement will
+cause more providers to dispense mifepristone to women
+“with contraindications,” which in turn will lead more
+women to experience complications that require follow-up
+care, which will harm the state because some portion of the
+aggregate cost of that follow-up care will be “borne by Idaho
+22               STATE OF WASHINGTON V. FDA
+
+
+through Medicaid expenditures.” The complaint does not
+clearly explain what form these expenditures will take, but
+we infer from the complaint that Idaho means it will be
+forced to reimburse providers for care delivered to those
+women enrolled in state-sponsored health plans. In other
+words, Idaho’s allegations of economic harm refer to the
+costs it will incur as an insurer of women who use
+mifepristone. Unlike Washington, Idaho does not allege that
+it will incur these costs directly as the object of regulation,
+but indirectly as the result of “the government’s allegedly
+unlawful . . . lack of regulation of someone else.” Lujan, 504
+U.S. at 562 (cleaned up). Accordingly, “much more is
+needed” to establish causation and redressability. Id.
+    As the Supreme Court recently explained in Alliance for
+Hippocratic Medicine, the causal chain between FDA’s
+regulation of mifepristone and downsteam medical
+outcomes is highly attenuated, “even assuming for the sake
+of argument” that the 2023 REMS will “cause more pregnant
+women to require emergency abortions.” 602 U.S. at 387–
+93. The links in this chain depend on the independent
+actions of doctors and pregnant women whose medical
+decisionmaking is informed by a wide range of
+individualized considerations that are difficult to predict.
+The 2023 REMS does not require doctors to prescribe
+mifepristone to certain patients; it simply provides doctors
+and patients with increased flexibility to choose how to
+dispense the drug based on their assessment of risk in each
+individual case. Nor does the 2023 REMS prevent Idaho
+from prohibiting medical abortion within its borders under
+circumstances the state deems contrary to public policy. For
+example, under current law, women in Idaho will only be
+“exposed” to the alleged risks of mifepristone when one or
+more independent actors decides to break state law. See
+                 STATE OF WASHINGTON V. FDA                  23
+
+
+Idaho Code §§ 18-604, 18-608, 18-622. Given these
+contingencies, any marginal increase in the rate at which
+pregnant women require additional medical care is too
+attenuated to establish the requisite causal connection.
+    Further, an alleged uptick in Medicaid costs is exactly
+the kind of “indirect effect[] on . . . state spending” that the
+Supreme Court has rejected as a basis for standing. United
+States v. Texas, 599 U.S. at 680 n.3. As the Supreme Court
+has explained, “virtually all drugs come with complications,
+risks, and side effects,” which means that changes in
+prescription drug guidelines will frequently “yield more
+visits to doctors to treat complications or side effects.” All.
+for Hippocratic Medicine, 602 U.S. at 392. Allowing Idaho
+to proceed based on predictions of increased emergency-
+room visits alone would give not just states, but every entity
+that provides health insurance or subsidized medical care,
+standing “to challenge any FDA decision approving a new
+drug.” Id. We decline to endorse this boundless conception
+of Article III’s injury requirement. Idaho cannot establish
+standing based on the alleged costs to the state’s finances
+because the asserted causal chain is too attenuated.
+                               B
+    Idaho next alleges that elimination of the in-person
+dispensing requirement will harm its sovereign interest in
+law enforcement by making illegal mifepristone use harder
+to detect. This allegation is insufficient to convey standing
+because nothing in the 2023 REMS impairs Idaho’s
+sovereign authority to enact or enforce its own laws
+regulating chemical abortion.
+   States have standing to vindicate their authority as
+sovereign entities with a governing prerogative that is
+separate from the federal government. Alfred L. Snapp &
+24               STATE OF WASHINGTON V. FDA
+
+
+Son, Inc. v. Puerto Rico, ex rel., Barez, 458 U.S. 592, 600–
+02 (1982). A state has a “sovereign interest” in the retention
+of its authority to “exercise . . . sovereign power over
+individuals and entities within [its] jurisdiction,” including
+“the power to create and enforce a legal code.” Id. at 601;
+see also Bowen v. Pub. Agencies Opposed to Soc. Sec.
+Entrapment, 477 U.S. 41, 50 n.17 (1986) (acknowledging a
+state’s “judicially cognizable interest in the preservation of
+its own sovereignty”). This interest is sufficient to convey
+standing to defend a state statute against a legal challenge in
+federal court, Diamond v. Charles, 476 U.S. 54, 62 (1986);
+Maine v. Taylor, 477 U.S. 131, 136 (1986), or challenge a
+federal statute that preempts or nullifies state law, see
+generally, e.g., Colorado v. Toll, 268 U.S. 228 (1925);
+Oregon v. Ashcroft, 192 F. Supp. 2d 1077, 1087 (D. Or. 14
+2002); see also Kentucky v. Biden, 23 F.4th 585, 598–99 (6th
+Cir. 2022) (collecting cases). This cognizable interest in the
+preservation of sovereign authority, however, does not
+convey standing to challenge federal action that affects state
+law enforcement indirectly, by making violations of state
+law more difficult or costly to detect.
+    Here, Idaho alleges an injury to its sovereign interest in
+enforcing state abortion laws, which make mifepristone
+illegal to use under most circumstances. See Idaho Code
+§§ 18-602, 18-604, 18-617, 18-622; Moyle v. United States,
+144 S.Ct. 2015, 2016–17 (2024) (Kagan, J., concurring)
+(describing Idaho’s abortion laws). Idaho alleges that
+elimination of the in-person dispensing requirement will
+impede the state’s ability to enforce those laws by making it
+easier for Idaho residents to obtain and use mifepristone
+illegally. Idaho does not, however, allege that the 2023
+REMS preempts or otherwise interferes with the state’s
+                 STATE OF WASHINGTON V. FDA                25
+
+
+authority to enact or enforce restrictions on medical abortion
+within its boundaries.
+    These allegations are insufficient to demonstrate
+standing for two reasons. First, Idaho’s prediction that
+elimination of the in-person dispensing requirement will
+lead to illegal use of mifepristone depends heavily on
+speculation that doctors and pregnant women will break state
+law. As we have previously explained, speculation about the
+decisions of independent actors, without more, is not a
+proper basis for standing. Clapper, 568 U.S. at 414. Second,
+even if the availability of retail and mail-order dispensing
+does make mifepristone more difficult to police, we have
+never held that a logistical burden on law enforcement
+constitutes a cognizable Article III injury.         Holding
+otherwise would greatly expand state standing to challenge
+any federal action that allegedly increases crime or disorder,
+or imposes indirect compliance costs for state law
+enforcement.
+    In United States v. Texas, the Supreme Court has
+declined to take the federal judiciary down this “uncharted
+path.” 599 U.S. at 681. In that case, Texas sued the
+Department of Homeland Security, arguing that the agency’s
+revised enforcement guidelines, which deprioritized the
+deportation of noncitizens convicted of nonviolent offenses,
+violated federal law. Id. at 673–75. Texas alleged that it was
+injured by the increased costs of “incarcerat[ing]” and
+“supply[ing] social services” to individuals who “should be
+(but are not being) arrested.” Id. at 674. The Supreme Court
+forcefully rejected this “novel standing argument,” noting
+that holding otherwise would lead to an increase in
+“complaints in future years about alleged Executive Branch
+under-enforcement” of other laws, including “drug laws, gun
+laws, obstruction of justice laws, or the like.” Id. at 681.
+26               STATE OF WASHINGTON V. FDA
+
+
+This slippery slope concern is just as salient for Idaho’s
+theory of injury, which similarly lacks a limiting principle.
+    Because Idaho does not allege that the 2023 REMS
+encroaches on its authority to govern, it does not have
+standing based on “law enforcement injury.”
+                               C
+    Finally, Idaho alleges that elimination of the in-person
+dispensing requirement will harm its “quasi-sovereign
+interest” in maternal health and fetal life. Idaho cannot sue
+FDA on this basis because the allegations concern the
+interests of individual citizens—not the separate interests of
+the state itself.
+    In Massachusetts v. EPA, the Supreme Court explained
+that states have standing to sue the federal government based
+on their “quasi-sovereign interests,” that “concern the state
+as a whole.” 549 U.S. 497, 520 n.17 (2007) (citation
+omitted). These interests include the “health and welfare” of
+state residents generally, which may be endangered by
+harms to the land or environment within a state’s sovereign
+territory. See id. at 519–23; California v. Trump, 963 F.3d
+926, 936 (9th Cir. 2020); Nat. Res. Def. Council v. EPA, 542
+F.3d 1235, 1248 n.8 (9th Cir. 2008). However, states do not
+have standing to sue the federal government in a third-party
+parens patrie capacity based on alleged injuries “to an
+identifiable group of individual residents.” Snapp, 458 U.S.
+at 607. This is because, with respect to the relationship
+between citizens and federal action, the federal government,
+not the states, is the sovereign entity that acts as the ultimate
+“parent of the country.” See id. at 600 (“Parens patriae
+means literally ‘parent of the country.’”); Mellon, 262 U.S.
+at 485–86.
+                 STATE OF WASHINGTON V. FDA                 27
+
+
+     Here, Idaho alleges that elimination of the in-person
+dispensing requirement will endanger specific pregnant
+women who take the drug and “unborn children” subjected
+to its effects. These allegations concern the well-being of
+individual citizens—not a distinct interest of the state as a
+whole. See Snapp, 458 U.S. at 607 (“the State must
+articulate an interest apart from the interests of particular
+private parties”). While Idaho has a legitimate interest in
+legislating to protect maternal health and fetal life, Dobbs v.
+Jackson Women’s Health Org., 597 U.S. 215, 262 (2022), it
+does not have standing to bring a lawsuit “on behalf of its
+citizens” against a federal agency, Brackeen, 599 U.S. at
+294–95. Idaho’s characterization of the medical risks of
+mifepristone as harms to the state itself is a “thinly veiled
+attempt to circumvent the limits on parens patriae standing.”
+Murthy v. Missouri, 144 S.Ct. 1972, 1996–97 (2024)
+(quoting Brackeen, 599 U.S. at 295 n.11).
+                              V
+    In sum, Idaho does not have standing in this case to
+challenge the 2023 REMS based on the allegations contained
+in its complaint. Having failed to establish independent
+standing, Idaho cannot intervene to pursue separate relief.
+Because this appeal is confined to that narrow issue, we need
+not—and do not—reach any other issue raised in the district
+court or urged by the parties on appeal, including whether
+Idaho would otherwise be entitled to intervene under Federal
+Rule of Civil Procedure 24. We affirm the district court’s
+order denying Idaho’s motion to intervene as of right. We
+dismiss for lack of jurisdiction that portion of the appeal
+concerning the district court’s denial of permissive
+intervention.
+   AFFIRMED in part and DISMISSED in part.
+

@@ -1,0 +1,797 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 12, 2018               Decided April 26, 2019
+
+                        No. 17-1201
+
+             ENVIRONMENTAL DEFENSE FUND,
+                     PETITIONER
+
+                             v.
+
+    ENVIRONMENTAL PROTECTION AGENCY AND ANDREW
+       WHEELER, ADMINISTRATOR, UNITED STATES
+         ENVIRONMENTAL PROTECTION AGENCY,
+                   RESPONDENTS
+
+          AMERICAN CHEMISTRY COUNCIL, ET AL.,
+                    INTERVENORS
+
+
+       On Petition for Review of Final Action of the
+       United States Environmental Protection Agency
+
+
+     Robert P. Stockman argued the cause and filed the briefs
+for petitioner.
+
+     Phillip R. Dupré, Attorney, United States Department of
+Justice, argued the cause for respondents. With him on the
+brief was Jeffrey H. Wood, then-Acting Assistant Attorney
+General.
+
+   Donald P. Gallo, James W. Conrad, Jr., Richard S.
+Moskowitz, Peter D. Keisler, Samuel B. Boxerman, Timothy K.
+                              2
+Webster, C. Frederick Beckner, III, Judah Prero, Samina M.
+Bharmal, David B. Weinberg, Martha E. Marrapese, Roger H.
+Miksad, Linda E. Kelly, Steven P. Lehotsky, and Michael B.
+Schon were on the brief for intervenors in support of
+respondent United States Environmental Protection Agency.
+Michael D. Boucher and Warren U. Lehrenbaum entered
+appearances.
+
+    Before: GARLAND, Chief Judge, MILLETT, Circuit Judge,
+and EDWARDS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge MILLETT.
+
+     MILLETT, Circuit Judge: The Toxic Substances Control
+Act, 15 U.S.C. § 2601 et seq., requires the Environmental
+Protection Agency to publish an inventory of chemicals
+manufactured or processed in the United States.
+15 U.S.C. § 2607(b)(1). The 2016 Amendments to the Act
+directed the EPA to issue a rule establishing a process for
+updating the Inventory. The EPA promulgated that rule the
+following year. See TSCA Inventory Notification (Active-
+Inactive) Requirements, 82 Fed. Reg. 37,520 (Aug. 11, 2017).
+As part of that rulemaking process, the EPA abandoned
+questions that had required each company seeking to keep the
+chemical identity of a substance confidential to substantiate
+that the chemical identity “is not readily discoverable through
+reverse engineering.” 15 U.S.C. § 2613(c)(1)(B)(iv).
+
+     The Environmental Defense Fund challenges that 2017
+rule on the ground that it unlawfully shields information from
+public disclosure. Environmental Defense is correct that the
+EPA’s elimination of questions pertaining to reverse
+engineering was arbitrary and capricious, and so we grant the
+petition in that respect. We otherwise deny the petition for
+review.
+                               3
+
+                               I
+
+                               A
+
+     Congress passed the Toxic Substances Control Act
+(“Control Act”) in 1976 to “assure that * * * innovation and
+commerce in * * * chemical substances and mixtures do not
+present an unreasonable risk of injury to health or the
+environment.” 15 U.S.C. § 2601(b)(3). Congress charged
+the EPA with administering the Control Act, which included
+the tasks of “compil[ing], keep[ing] current, and publish[ing] a
+list of each chemical substance which is manufactured or
+processed in the United States.” Id. § 2607(b)(1). That list,
+commonly referred to as the “Inventory,” contains a
+confidential portion and a non-confidential portion. Id.
+§ 2607(b)(4)(B)(i). Both portions are publicly accessible on
+the EPA’s website. But the confidential portion identifies
+substances by “a structurally descriptive generic name” rather
+than a “specific chemical identity.”               15 U.S.C.
+                 1
+§ 2613(c)(1)(C). The Inventory currently lists approximately
+86,000 chemicals, roughly 18,000 of which are classified as
+confidential.
+
+     “[C]oncern[ed] about the pace of EPA’s work” keeping
+the Inventory up to date, H.R. REP. NO. 176, 114th Cong., 1st
+Sess. 12 (2015), Congress amended the Control Act in 2016.
+See Frank R. Lautenberg Chemical Safety for the 21st Century
+Act, Pub. L. No. 114–182, 130 Stat. 448 (2016) (codified at 15
+U.S.C. § 2601 et seq.).        As relevant here, the 2016
+
+    1
+          See How to Access the TSCA Inventory, EPA,
+https://www.epa.gov/tsca-inventory/how-access-tsca-inventory
+#download (last visited April 17, 2019).
+                               4
+amendments directed the EPA to promulgate a rule—known as
+the Inventory Rule—that would impose new reporting
+requirements for chemical manufacturers and processors
+(“chemical companies”). See 15 U.S.C. § 2607(b)(4)–(5).
+Specifically, the Inventory Rule requires chemical companies
+to notify the EPA of each chemical on the Inventory that they
+had “manufactured or processed for a nonexempt commercial
+purpose” during the ten-year period prior to June 22, 2016. Id.
+§ 2607(b)(4)(A)(i). Each chemical for which the EPA
+receives such a notification would be labeled “active,” while
+all the rest would be labeled “inactive.”                   Id.
+§ 2607(b)(4)(A)(ii)–(iii), (b)(5)(B)(i)–(iii).         Chemical
+companies also have to submit a notification form identifying
+in advance any inactive chemical substance for which they
+intend to resume manufacturing or processing going forward.
+Id. § 2607(b)(5)(B)(i).
+
+     Congress directed the EPA to update the confidential
+portion of the Inventory as well. In particular, the 2016
+amendments to the Control Act instruct the EPA to (i) “require
+any manufacturer or processor of a chemical substance on the
+confidential portion of the [Inventory] that seeks to maintain an
+existing claim for protection against disclosure of the specific
+chemical identity of the chemical substance as confidential” to
+notify the EPA of that request; (ii) demand that chemical
+companies provide “substantiation” for those claims of
+confidentiality; and (iii) “move any active chemical substance
+for which no [confidentiality] request [i]s received” to the non-
+confidential portion of the list. 15 U.S.C. § 2607(b)(4)(B).
+
+     When an application to maintain confidential treatment is
+received, the EPA must independently determine whether
+confidentiality is warranted. To that end, Congress directed
+the EPA to “promulgate a rule that establishes a plan to review
+                               5
+all claims to protect the specific chemical identities” asserted
+as confidential. 15 U.S.C. § 2607(b)(4)(C).
+
+     Once the EPA compiles the initial list of active chemical
+substances, the Control Act affords the agency up to seven
+years to complete its review of which of those active chemical
+substances should receive confidential treatment. 15 U.S.C.
+§ 2607(b)(4)(E). For those chemicals that remain on the
+confidential portion of the Inventory, the EPA must “develop a
+system to assign a unique identifier to each specific chemical
+identity” and must “apply that identifier consistently to all
+information relevant to the applicable chemical substance[.]”
+Id. § 2613(g)(4)(A).
+
+     The EPA promulgated the final Inventory Rule in August
+2017. 82 Fed. Reg. 37,520 (codified at 40 C.F.R. §§ 710.23–
+710.39). The Inventory Rule implements the retrospective
+and prospective reporting requirements that Congress required.
+Companies that manufactured and processed chemicals during
+the ten years prior to June 22, 2016 must submit a “Notice of
+Activity Form A.” See id. at 37,523, 37,525. After the EPA
+designates substances as active or inactive, those that intend to
+revive the manufacture or processing of an inactive chemical
+must submit a “Notice of Activity Form B.” See id. These
+Forms also allow a manufacturer or processor of a chemical
+that was originally on the confidential portion of the Inventory
+to seek to continue that confidential status going forward.
+And it may do so regardless of whether that manufacturer or
+processor was the one that had initially requested that the
+chemical identity be shielded from public disclosure. Id. at
+37,527.
+
+    To assert a claim of confidentiality, the Control Act
+requires the requesting company to certify that:
+                                6
+   (i)       My company has taken reasonable measures
+             to protect the confidentiality of the
+             information;
+
+   (ii)      I have determined that the information is not
+             required to be disclosed or otherwise made
+             available to the public under any other
+             Federal law;
+
+   (iii)     I have a reasonable basis to conclude that
+             disclosure of the information is likely to
+             cause substantial harm to the competitive
+             position of my company; and
+
+   (iv)      I have a reasonable basis to believe that the
+             information is not readily discoverable
+             through reverse engineering.
+
+82 Fed. Reg. at 37,544 (codified at 40 C.F.R. § 710.37(e)); see
+also 15 U.S.C. § 2613(c)(1)(B) (establishing these criteria).
+
+    But the Control Act does not stop there. The Act further
+mandates that, once a claim of confidentiality is asserted, its
+proponent must “substantiate” the need for secrecy.
+15 U.S.C. § 2613(c)(3); see also id. § 2607(b)(4)(B)(iii)
+(instructing the EPA to “require the substantiation of
+[confidentiality] claims”). To implement that substantiation
+requirement, the Inventory Rule requires applicants to answer
+the following questions:
+
+   •      Do you believe that the information is exempt
+          from [the Act’s] substantiation [requirement]?
+                              7
+   •   Will disclosure of the information likely result
+       in substantial harm to your business’s
+       competitive position?
+
+   •   To the extent your business has disclosed the
+       information to others (both internally and
+       externally), what precautions has your business
+       taken?
+
+   •   Does the information appear in any public
+       documents, including (but not limited to) safety
+       data sheets, advertising or promotional material,
+       professional or trade publication, or any other
+       media or publications available to the general
+       public?
+
+   •   Is the claim of confidentiality intended to last
+       less than 10 years[?]
+
+   •   Has EPA, another federal agency, or court made
+       any confidentiality determination regarding
+       information associated with this chemical
+       substance?
+
+   •   Is the confidential chemical substance publicly
+       known to have ever been offered for
+       commercial distribution in the United States?
+
+See 82 Fed. Reg. at 37,544 (codified at 40 C.F.R. § 710.37(c)).
+
+     The Inventory Rule does not expressly incorporate all of
+the Act’s many procedural requirements. Nor does it address
+the Control Act’s requirement, 15 U.S.C. § 2613(g)(4), that the
+EPA assign “unique identifiers” to chemicals that it eventually
+                                8
+decides should be listed on the confidential portion of the
+Inventory.
+
+                                B
+
+     The Environmental Defense Fund is an organization that
+promotes public awareness of the environmental and health
+risks that chemicals pose. See Environmental Defense
+Standing Addendum 3.           Environmental Defense timely
+petitioned this court for review of the Inventory Rule. See 15
+U.S.C. § 2618(a). A group of chemical-industry associations
+(“Industry”) intervened in support of the EPA.
+
+                               II
+
+     We start, as we must, by verifying that Environmental
+Defense has Article III standing to challenge the Inventory
+Rule. See DaimlerChrysler Corp. v. Cuno, 547 U.S. 332, 340
+(2006) (“We have ‘an obligation to assure ourselves’ of
+litigants’ standing under Article III.”) (quoting Friends of the
+Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc., 528 U.S. 167,
+180 (2000)). To that end, Environmental Defense must
+demonstrate that it has suffered a concrete and particularized
+injury in fact that is both fairly traceable to the EPA’s action
+and likely to be redressed by a favorable judicial decision.
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 560–561 (1992).
+
+     Environmental Defense has succeeded in that task by
+asserting a quintessential claim of informational standing.
+The law is settled that “a denial of access to information”
+qualifies as an injury in fact “where a statute (on the claimants’
+reading) requires that the information ‘be publicly disclosed’
+and there ‘is no reason to doubt their claim that the information
+would help them.’” Friends of Animals v. Jewell, 824 F.3d
+1033, 1040–1041 (D.C. Cir. 2016) (quoting Ethyl Corp. v.
+                               9
+EPA, 306 F.3d 1144, 1148 (D.C. Cir. 2002)); see also FEC v.
+Akins, 524 U.S. 11, 21 (1998). Here, Environmental Defense
+claims that the Control Act requires disclosure to it (and the
+public at large) of chemical identities that the Inventory Rule
+will keep secret. And “there is no reason to doubt” that access
+to additional information about chemicals manufactured or
+processed in the United States will promote Environmental
+Defense’s environmental interests, research, and educational
+activities. Jewell, 824 F.3d at 1041 (quoting Ethyl Corp., 306
+F.3d at 1148); see generally Environmental Defense Standing
+Addendum. Finally, a decision by this court to vacate or
+require reconsideration of the rule would remedy that asserted
+harm by requiring the disclosure of additional information.
+See Wertheimer v. FEC, 268 F.3d 1070, 1074–1075 (D.C. Cir.
+2001).
+
+                               A
+
+     Environmental Defense challenges five distinct features of
+the Inventory Rule: (i) the EPA’s exclusion of substantiation
+questions regarding reverse engineering; (ii) the Rule’s criteria
+for “maintaining” a confidentiality claim; (iii) the EPA’s
+choice not to incorporate certain regulatory requirements into
+the Inventory Rule; (iv) the EPA’s failure to implement the
+Act’s “unique identifier” requirements in this rulemaking; and
+(v) the Rule’s exemption of exported chemicals from its
+notification requirements. We must uphold the EPA’s Rule
+unless it is “arbitrary, capricious, an abuse of discretion, or
+otherwise not in accordance with law.” 5 U.S.C. § 706(2)(A);
+see also 15 U.S.C. § 2618(c)(1)(B). Under that standard of
+review, only Environmental Defense’s first claim succeeds.
+                              10
+                               1
+
+    Environmental Defense challenges the EPA’s failure to
+require companies to “substantiate” that a chemical identity
+they wish to keep confidential is not “readily discoverable
+through reverse engineering.”             See 15 U.S.C.
+§ 2613(c)(1)(B)(iv), (c)(3). We agree that the reverse-
+engineering aspect of the Inventory Rule comes up short.
+
+                               a
+
+     At the outset, the EPA and Industry argue that
+Environmental Defense lacks standing to challenge the
+agency’s choice of substantiation questions. In their view, it
+is “merely speculative” that the inclusion of any particular
+question “would lead EPA to disapprove—or would cause a
+potential claimant not to submit—a request to maintain a
+specific chemical identity on the confidential portion of the
+* * * Inventory.” EPA Br. 35 (formatting altered).
+
+     That makes little sense. Substantiation questions are the
+EPA’s tool for gathering the information it uses to evaluate
+confidentiality claims.      They are, in other words, an
+indispensable procedural step in the agency’s confidentiality
+determination. Because Environmental Defense asserts an
+informational injury that arises directly from confidentiality
+determinations, “[a]ll that is necessary” for standing is for
+Environmental Defense “to show that the procedural step was
+connected to the substantive result.” Sugar Cane Growers
+Coop. of Fla. v. Veneman, 289 F.3d 89, 94–95 (D.C. Cir. 2002);
+see also Center for Biological Diversity v. EPA, 861 F.3d 174,
+184 (D.C. Cir. 2017) (petitioner “need not show that but for the
+alleged procedural deficiency the agency would have reached
+a different substantive result”). Informing the confidentiality
+decision is the raison d’être of the substantiation questions.
+                               11
+And that is the end of the matter as far as standing is concerned.
+See Veneman, 289 F.3d at 94–95.
+
+                                b
+
+     When a company makes a confidentiality claim under the
+Act, it must both “assert” and then “substantiate” the need for
+such protection. 15 U.S.C. § 2613(c)(1), (3). An “assertion”
+of a confidentiality claim must “include a statement” that,
+among other things, the claimant has a “reasonable basis to
+believe that the information is not readily discoverable through
+reverse engineering.”         Id. § 2613(c)(1)(B)(iv).       The
+Inventory Rule properly effectuates that requirement. 82 Fed.
+Reg. at 37,544 (codified at 40 C.F.R. § 710.37(e)(4)). The
+problem for the EPA is that the Control Act does not accept a
+company’s assertions at face value. Quite the opposite, the
+statute specifically requires the company to “substantiate” its
+confidentiality claim. 15 U.S.C. § 2613(c)(3).
+
+     In the Notice of Proposed Rulemaking for the Inventory
+Rule, the EPA listed more than twenty substantiation questions,
+including questions related to each of the four statutorily
+required assertions. 82 Fed. Reg. 4255, 4268–4269 (Jan. 13,
+2017); see 15 U.S.C. § 2613(c)(1)(B). To address reverse
+engineering, the proposed questions were:
+
+       Does this particular chemical substance leave
+       the site of manufacture in any form, e.g., as
+       product, effluent, emission?       If so, what
+       measures have been taken to guard against the
+       discovery of its identity? * * * If the chemical
+       substance leaves the site in a product that is
+       available to the public or your competitors, can
+       the chemical substance be identified by analysis
+       of the product?
+                               12
+
+Id. at 4268.
+
+    By the agency’s own admission, the final rule sets forth an
+“extensively re-written” list of questions. 82 Fed. Reg. at
+37,527, 37,537. The EPA scrapped, among other things, all
+substantiation questions related to the requirement that a
+substance’s chemical identity not be susceptible to reverse
+engineering. See id. at 37,544.
+
+    An agency acts arbitrarily and capriciously when it offers
+inaccurate or unreasoned justifications for a decision. See
+Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut.
+Auto. Ins. Co., 463 U.S. 29, 43 (1983); Clean Air Council v.
+Pruitt, 862 F.3d 1, 10 (D.C. Cir. 2017) (concluding that the
+EPA’s explanation for a decision was “inaccurate and thus
+unreasonable”).
+
+    That is precisely what the EPA did here. Its omission of
+any inquiry into a chemical identity’s susceptibility to reverse
+engineering effectively excised a statutorily required criterion
+from the substantiation process.              See 15 U.S.C.
+§ 2613(c)(1)(B)(iv), (c)(3). Lest there be any doubt, the
+agency conceded at oral argument that the Inventory Rule
+eliminated the only questions that substantiate the assertion that
+“the information is not readily discoverable through reverse
+engineering.” Id. § 2613(c)(1)(B)(iv); see Oral Argument Tr.
+at 35:42–35:46 (“These questions do not specifically
+encompass reverse engineering.”).
+
+    The agency’s explanation for excising that criterion was,
+nonsensically, a denial that it had done so. Specifically, the
+EPA explained that the omission is “intended to more
+succinctly secure answers for the basis of the [confidentiality]
+assertions[.]” 82 Fed. Reg. at 37,537 (emphasis added). But
+                              13
+succinctness means no unnecessary words; it does not mean no
+words at all. What the Inventory Rule actually does is decline
+altogether to “secure answers” substantiating a company’s
+“assertion” that its chemical product cannot be reverse
+engineered. Id. But it makes no sense to treat as confidential
+the chemical identity of a substance that can readily be
+discovered through reverse engineering—as the EPA itself
+agrees. Oral Argument Tr. 24:48–24:59 (“[D]oes the EPA
+agree that if something is readily reversibly engineered [then]
+it doesn’t qualify for confidential treatment?” [Agency
+counsel]: “Yes.”).
+
+     Yet the EPA’s Rule offers no sensible explanation at all
+for that gap in substantiation, nor does it even acknowledge the
+consequence of its omission. That error is fatal. The
+Inventory Rule is arbitrary and capricious to the extent that it
+omits any substantiation requirement pertaining to reverse
+engineering. See State Farm, 463 U.S. at 43; Clean Air
+Council, 862 F.3d at 10.
+
+                               2
+
+     Next, Environmental Defense contends that the Inventory
+Rule enables a broader array of companies to “maintain” an
+existing confidentiality claim than the Control Act allows. 15
+U.S.C. § 2607(b)(4)(B)(ii). That is incorrect.
+
+     Under the Control Act, if a manufacturer or processor
+wants the confidential status of an already listed chemical to
+continue on the updated Inventory, it must submit a request to
+the EPA. 15 U.S.C. § 2607(b)(4)(B)(ii). The EPA reads that
+statutory directive to allow “any manufacturer or processor [to]
+seek to maintain an existing claim for specific chemical
+identity,” even if the company was not the source of the
+“original claim that caused the specific chemical identity to be
+                               14
+listed on the confidential portion of the Inventory.” 82 Fed.
+Reg. at 37,527. That is, the Inventory Rule allows any
+company that manufactures or processes substances already on
+the confidential Inventory to seek perpetuation of that status,
+regardless of whether it was the company that claimed
+confidentiality in the first place.
+
+     Environmental Defense reads the statutory language
+differently. In its view, the Control Act permits only the
+original claimant or its successor-in-interest to preserve
+confidential treatment.
+
+    The EPA wins this debate.
+
+      For starters, the text of the Control Act does not require
+Environmental Defense’s rule.           The relevant statutory
+language is silent as to whether a company may maintain an
+existing claim of confidentiality if it was not the original
+claimant. See 15 U.S.C. § 2607. Congress thus left that
+question of implementation to the expertise of the EPA. See
+Chevron U.S.A., Inc. v. Natural Res. Def. Council, Inc., 467
+U.S. 837, 844 (1984). So we must sustain the EPA’s position
+if it “is based on a permissible construction of the statute.” Id.
+at 843.
+
+      The EPA’s position easily clears that hurdle. Allowing
+any chemical manufacturer or processor to seek continued
+protection against public disclosure for its chemical substance
+fits comfortably within the statutory text. Section 2607’s sole
+limitation on the class of manufacturers and processors that
+may wish to maintain an existing confidentiality claim is that
+they manufacture or process “a chemical substance on the
+confidential portion of the [Inventory].”           15 U.S.C.
+§ 2607(b)(4)(B)(ii).    “[A]ny” of those manufacturers or
+processors may apply. Id. (emphasis added).
+                              15
+
+      Nothing in the word “maintain” contracts that broad
+language. To “maintain” commonly means “to keep in an
+existing state.” MERRIAM-WEBSTER DICTIONARY 431 (def.
+1) (7th ed. 2016). The word imposes no limit on who may do
+that maintaining. A recent homebuyer, for example, might
+maintain the existing landscaping.      New team players
+certainly hope to maintain the winning streak of last year’s
+team. So too here, the statutory language naturally permits a
+manufacturer or processor to maintain a confidentiality status
+first obtained by another.
+
+     Environmental Defense agrees that an original claimant’s
+successor-in-interest can “maintain an existing claim.” But
+nothing in the statutory text requires drawing an impermeable
+line there. The EPA reasonably concluded that the claimant’s
+corporate genealogy is beside the point.
+
+     Environmental Defense reasons that all claimants who
+were not original claimants or their successors-in-interest
+should be required to file a new claim of confidentiality under
+15 U.S.C. § 2613. That route would afford the EPA just
+ninety days for review, 15 U.S.C. § 2613(g)(1)(A), as opposed
+to the seven years allowed to decide whether existing claims of
+confidentiality should continue, id. § 2607(b)(4)(E).
+
+     Environmental Defense’s approach is no real alternative at
+all. The Control Act provides that for active substances, if “no
+request [i]s received to maintain an existing claim for
+protection against disclosure,” the EPA “shall” move that
+chemical substance “from the confidential portion of the list
+* * * to the nonconfidential portion of that list.” 15 U.S.C.
+§ 2607(b)(4)(B)(iv) (emphasis added).         And the statute
+requires that those requests to maintain confidentiality had to
+be filed “not later than 180 days after the date on which the
+                              16
+final rule is published in the Federal Register,” id.
+§ 2607(b)(4)(A)(i)—that is, by February 7, 2018. That
+approach leaves insufficient time for new applications for
+confidentiality to be filed and acted upon before the previously
+confidential chemical identity is publicly disclosed. And once
+that disclosure occurs, the cat is out of the bag. There will be
+no confidentiality for a new claimant to obtain. See id.
+§ 2607(b)(8) (“No person may assert a new claim * * * for
+protection from disclosure of a specific chemical identity of
+any active or inactive substance * * * that is not on the
+confidential portion of the [Inventory].”); see also S. REP. NO.
+67, 114th Cong., 1st Sess. 24 (2015) (explaining that
+“information that is * * * already publicly available cannot be
+newly protected as [confidential] under [the Act]”).
+
+     Environmental Defense finds that consequence
+untroubling, reasoning that any company that had not already
+claimed confidentiality for a chemical that it manufactures or
+processes should be deemed to have forfeited the claim.
+Environmental Defense Br. 40–41. But that ignores the
+myriad circumstances in which it would have made no sense
+for a company to submit its own confidentiality claim. For
+instance, there would be no need for more than one
+manufacturer in a co-manufacturing arrangement to submit a
+confidentiality claim for the same chemical substance.
+Likewise, an importer notified by a supplier that a chemical
+already was on the confidential portion of the list would have
+had no reason to submit a redundant claim. The EPA sensibly
+determined that companies like those “legitimately benefit
+from the confidential status of a specific chemical identity,”
+and therefore should have the opportunity to seek
+confidentiality going forward. 82 Fed. Reg. at 37,527.
+
+     For all of those reasons, the EPA acted well within its
+discretion in concluding that, as part of the Inventory update,
+                                   17
+any manufacturer or processor of a chemical substance can file
+a claim to maintain the chemical substance’s confidentiality.
+
+                                   3
+
+     The Inventory Rule provides that information claimed to
+be confidential “will be treated and disclosed in accordance
+with 40 C.F.R. part 2, subpart B,” which regulates the EPA’s
+treatment of confidential business information. 82 Fed. Reg.
+at 37,543 (codified at 40 C.F.R. § 710.37(a)). 2 Environmental
+Defense takes exception to that provision because the subpart
+B regulations do not mirror all of the Control Act’s procedural
+requirements.
+
+     At the outset, the EPA and Industry again contest
+Environmental Defense’s standing to make this claim. And
+once again, they try to dress a merits argument in jurisdictional
+garb. Environmental Defense is challenging provisions of the
+Inventory Rule that it views as withholding information from
+public disclosure. That is the same type of individualized and
+direct informational injury that parties have standing to
+challenge. See Friends of Animals, 824 F.3d at 1040–1041.
+
+      Turning to the merits, Environmental Defense argues that
+the Inventory Rule’s disclosure procedures unlawfully fail to
+incorporate the Control Act’s requirements that the EPA (i)
+review claims within ninety days, 15 U.S.C. § 2613(g)(1)(A);
+(ii) inform the claimant of the EPA’s denial of a confidentiality
+claim and allow only thirty days for appeal, id. § 2613(g)(2);
+and (iii) publicly disclose any non-confidential aspects of its
+confidentiality decisions, id. § 2625(j)(1).
+
+    2
+         40 C.F.R. part 2, subpart B is codified at 40 C.F.R. §§ 2.201–
+2.311.
+                               18
+
+     That claim fails. Environmental Defense cites nothing in
+the regulation that contradicts those statutory obligations. The
+EPA acknowledges, as it must, that the Act “applies of its own
+force,” EPA Br. 44, and nothing in the Inventory Rule
+countermands or frustrates those statutory obligations. The
+Inventory Rule’s provisions simply complement and elaborate
+upon some of the statutory requirements without displacing the
+others.
+
+     Environmental Defense seems to want the statutory
+requirements duplicated in the rule for duplication’s sake.
+That is not necessary. “[A] regulation can never ‘trump the
+plain meaning of a statute.’” Texas v. EPA, 726 F.3d 180, 195
+(D.C. Cir. 2013) (quoting Atlantic City Elec. Co. v. FERC, 295
+F.3d 1, 11 (D.C. Cir. 2002)). Should the EPA’s future
+implementation of these provisions of the Inventory Rule fall
+short of statutory mandates, a challenge can be raised then.
+But there is nothing facially troubling about the failure to copy
+every relevant statutory obligation into the regulation.
+
+                               4
+
+     Environmental Defense’s fourth objection to the Inventory
+Rule is that it fails to implement the statutory scheme for
+assigning a unique public identifier for each chemical identity
+it decides to keep confidential. Environmental Defense points
+to the Control Act’s requirement that the EPA “develop a
+system to assign a unique identifier to each specific chemical
+identity for which the Administrator approves a request for
+protection from disclosure,” and then “apply that identifier
+consistently to all information relevant to the applicable
+chemical substance[.]” 15 U.S.C. § 2613(g)(4)(A)(i)–(ii).
+The Control Act also directs the EPA to “annually publish and
+update a list of chemical substances, referred to by their unique
+                                 19
+identifiers, for which claims to protect the specific chemical
+identity from disclosure have been approved, including the
+expiration date for each such claim[.]” Id. § 2613(g)(4)(B).
+
+     There is no question that the Inventory Rule does not
+implement those requirements. But the APA is patient. Or at
+least more patient than Environmental Defense. Agencies
+need not address all regulatory obligations “in one fell swoop.”
+United States Telecom Ass’n v. FCC, 359 F.3d 554, 588 (D.C.
+Cir. 2004). And nothing in the Control Act requires the EPA
+to develop and implement the unique-identifier system
+alongside its Inventory review process. Unlike the statutory
+command to promulgate the Inventory Rule within a year, see
+15 U.S.C. § 2607(b)(4)(A)(i), the Act establishes no deadline
+for the EPA’s development and implementation of unique
+identifiers, see id. § 2613(g)(4). And it is not unreasonable for
+the EPA to defer that process while it first starts the process of
+determining how many and which chemical substances will be
+accorded confidential treatment. It is not for us to “second-
+guess EPA’s decision to prioritize” those regulatory tasks.
+WildEarth Guardians v. EPA, 751 F.3d 649, 656 (D.C. Cir.
+2014). 3
+
+     Environmental Defense separately complains that the EPA
+failed to address its comment about implementing the unique
+identifier system. To be sure, an agency’s “fail[ure] to
+respond to major substantive comments” can render a decision
+
+     3
+       This is not a case in which the agency is sitting on its hands.
+The EPA solicited comments “on approaches for assigning and
+applying unique identifiers” before the final Inventory Rule was
+promulgated, 82 Fed. Reg. 21,386 (May 8, 2017), solicited further
+comments on “an additional approach” a few months later, 83 Fed.
+Reg. 5623 (Feb. 8, 2018), and published its final policy
+determination before briefing in this case concluded, 83 Fed. Reg.
+30,168 (June 27, 2018).
+                              20
+arbitrary and capricious. Sierra Club v. EPA, 863 F.3d 834,
+838 (D.C. Cir. 2017). At the same time, an agency need not
+“discuss every item of fact or opinion included” in comments.
+Public Citizen, Inc. v. FAA, 988 F.2d 186, 197 (D.C. Cir. 1993)
+(quoting Automotive Parts & Accessories Ass’n v. Boyd, 407
+F.2d 330, 338 (D.C. Cir. 1968)). Environmental Defense did
+not submit “major substantive comments” requesting that the
+EPA implement the unique identifier system during this
+rulemaking. Sierra Club, 863 F.3d at 838. It merely
+referenced unique identifiers as part of an “example” of
+statutory requirements that are “broader than just Inventory
+listings.” J.A. 22. Nothing in the APA saddles agencies with
+the crushing task of responding to every single example cited
+in every single comment, especially where, as here, the
+reference is to a matter that the agency permissibly was not yet
+regulating.
+
+                               5
+
+     Lastly, Environmental Defense objects to the exclusion of
+export-only chemicals from the Inventory Rule’s requirement
+that chemical companies notify the EPA of chemical
+substances being manufactured or processed. We hold that
+the EPA’s decision reflected a reasonable interpretation of the
+Control Act.
+
+    Under the Control Act, the EPA “shall require
+manufacturers” and “may require processors” to “notify the
+Administrator * * * of each chemical substance on the
+[Inventory] that the manufacturer or processor * * * has
+manufactured or processed for a nonexempt commercial
+purpose during the 10-year period ending on the day before
+June 22, 2016.” 15 U.S.C. § 2607(b)(4)(A)(i) (emphasis
+added). Without any statutory guidance as to what counts as
+a “nonexempt commercial purpose,” the agency concluded it
+                              21
+was consistent with the Control Act to exclude, among other
+things, “[t]he manufacturing or processing of a chemical
+substance solely for export from the United States * * *.” 82
+Fed. Reg. 37,541 (codified at 40 C.F.R. § 710.27(a)(4)).
+
+     Environmental Defense insists that the statute itself
+declares exports to be a “nonexempt commercial purpose”
+because Section 2611, which applies specifically to exports,
+says that “this chapter (other than section 2607 of this title)
+shall not apply to any chemical substance, mixture, or to an
+article containing a chemical substance or mixture” that is
+manufactured or processed for export. 15 U.S.C. § 2611(a)(1)
+(emphasis added).      As Environmental Defense sees it,
+Congress’s decision to carve regulation under Section 2607 out
+of the statute’s otherwise-broad exemption for exported
+chemicals means that Congress intended for Section 2607 to
+apply to exports.
+
+     We agree with Environmental Defense that the upshot of
+Section 2611 is that Section 2607 “shall * * * apply” to
+chemicals for export. But what does it mean to “apply” 15
+U.S.C. § 2607—a nearly four thousand-word chunk of the
+statute—to exported chemicals? Congress did not say.
+
+     In light of this congressional silence, the Rule’s narrow
+excision of exports from one reporting requirement passes
+muster. See Chevron, 467 U.S. at 843. The EPA explained
+that Section 2611 insulates export chemicals from numerous
+other statutory requirements, including prospective reporting
+requirements under 15 U.S.C. § 2604. 82 Fed. Reg. at 37,528;
+see 15 U.S.C. § 2611(a)(1) (providing that “this chapter,”
+including § 2604, “shall not apply to” export-only chemicals);
+id. § 2604(a) (imposing prospective notification requirements);
+id. § 2607(b)(1) (“[The Inventory] shall at least include each
+chemical substance which any person reports, under section
+                             22
+2604 of this title or subsection (a) of this section, is
+manufactured or processed in the United States.”). So all the
+EPA did here is exempt those same export chemicals from the
+Act’s retrospective reporting requirements in Section 2607.
+See 15 U.S.C. § 2607(b)(4)(A)(i). To decide otherwise would
+have made compliance more onerous for previous
+manufacturers of exported chemicals than for future
+manufacturers of exported chemicals. Whatever Congress
+meant by the cross-reference to Section 2607 in Section 2611,
+the EPA reasonably concluded it was not to impose that
+illogical regulatory construct.
+
+     Nor did the EPA fail to provide sufficient notice in the
+Notice of Proposed Rulemaking that export-only chemicals
+would be excluded from the statute’s definition of “nonexempt
+commercial purpose.” See Environmental Defense Br. 57.
+The Notice advised that the EPA intended to define
+“nonexempt commercial purpose” consistently with the
+“commonly-accepted usage” of that phrase at the time the
+Control Act was amended. 82 Fed. Reg. at 4259. Two of the
+three legal sources the agency cited for that common usage—
+15 U.S.C. § 2604 and 40 C.F.R. § 720.30—exempt export-only
+chemicals from reporting requirements. Id. Unsurprisingly,
+then, the agency received several comments requesting that it
+add the export-only exemption that was missing from the
+proposed rule.      See, e.g., J.A. 47 (Fertilizer Institute
+comments); J.A. 68 (Biobased and Renewable Products
+Advocacy Group comments); J.A. 89 (Vinyl Institute
+comments); J.A. 118 (Pine Chemicals Association
+International comments). Environmental Defense, like those
+other commenters, “should have anticipated that the change
+was possible, and thus reasonably should have filed their
+comments on the subject during the notice-and-comment
+period.” CSX Transp., Inc. v. Surface Transp. Bd., 584 F.3d
+1076, 1079–1080 (D.C. Cir. 2009) (formatting altered).
+                               23
+
+                           *****
+
+     For all of those reasons, we order a limited remand,
+without vacatur, for the EPA to address its arbitrary elimination
+of substantiation questions regarding reverse engineering. We
+otherwise deny the petition for review.
+
+                                                    So ordered.
+
