@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-MS Data Science capstone at George Washington University (GW Regulatory Studies Center). A Streamlit dashboard ("RegChallenger — Federal Rule Vulnerability Analysis") that assesses the legal vulnerability of federal rules using RAG-based similarity search over historical cases and Claude AI. Due in ~13 days.
+A Streamlit dashboard ("RegChallenger — Federal Rule Vulnerability Analysis") that assesses the legal vulnerability of federal rules using RAG-based similarity search over historical cases and Claude AI.
 
 ---
 

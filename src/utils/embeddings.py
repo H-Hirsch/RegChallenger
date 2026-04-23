@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import List, Tuple
 import pandas as pd
 
-CACHE_FILE = Path(__file__).parent.parent / "data" / "embeddings_cache.json"
+CACHE_FILE = Path(__file__).parent.parent.parent / "data" / "embeddings_cache.json"
 MODEL_NAME = "all-mpnet-base-v2"
 
 # Categorical similarity weights
