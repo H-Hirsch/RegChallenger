@@ -15,7 +15,6 @@ Data files (in data/):
     step1_output.csv
     step2_output.csv
     step3_output.csv
-    step3_fr_lookup.csv
     opinions/   (directory of opinion TXT files)
 """
 
