@@ -6,10 +6,10 @@ Live dashboard: [regchallenger.streamlit.app](https://regchallenger.streamlit.ap
 
 ## Problem
 
-Federal rules routinely face court challenges, but agencies, affected industries, and public-interest groups have no fast way to estimate how a specific rule would fare if litigated. Expert legal analysis is slow and expensive, and a rule's vulnerability depends on fact-specific details — the reviewing circuit, the doctrinal era, the agency's statutory authority, and the pattern of outcomes in analogous historical challenges — that are hard to weigh consistently by hand.
+Federal rules routinely face court challenges, but agencies, affected industries, and public-interest groups have no fast way to estimate how a specific rule would fare if litigated. Expert legal analysis is slow and expensive, and a rule's vulnerability depends on fact-specific details (the reviewing circuit, the doctrinal era, the agency's statutory authority, and the pattern of outcomes in analogous historical challenges)that are hard to weigh consistently by hand.
 
 ## Proposed Solution
-
+ 
 RegChallenger is a dashboard that, given any final rule published in the Federal Register, produces a structured vulnerability assessment grounded in historical analogs. The pipeline:
 
 1. **Retrieves** the 15 most similar historical rulemaking challenges from a curated reference set of 251 appellate cases (FY 2008–2026), using hybrid dense-embedding + categorical similarity.
