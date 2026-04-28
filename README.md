@@ -57,15 +57,7 @@ RegChallenger/
 ├── requirements.txt              # Dashboard dependencies
 ├── src/                          # Source code
 │   ├── app.py                    # Streamlit entry point
-│   ├── utils/                    # Data loading, embeddings, prediction, FR API
-│   └── pipeline/                 # Upstream data pipeline (see pipeline/README.md)
-│       ├── step1_pipeline.py         # FJC IDB → CourtListener matching
-│       ├── step1_postprocess.py      # Derived fields (outcome labels, doctrine era)
-│       ├── step2_pipeline.py         # Opinion fetch + FR citation extraction (Claude)
-│       ├── step3_pipeline.py         # Federal Register API lookup
-│       ├── step3_enrich.py           # Additional FR metadata enrichment
-│       ├── requirements_pipeline.txt # Pipeline dependencies
-│       └── README.md                 # Pipeline replication instructions
+│   └── utils/                    # Data loading, embeddings, prediction, FR API
 ├── data/                         # Dataset (CSVs + opinion texts)
 └── DEVELOPMENT_LOG.md
 ```
@@ -77,7 +69,7 @@ RegChallenger/
 - **Coverage**: FY 2008–2026, all circuits.
 - Opinion text for each case is in `data/opinions/`.
 
-The upstream pipeline scripts used to build this dataset are in `src/pipeline/`. Replication requires the FJC Integrated Database (`ap08on.txt`, available from [fjc.gov](https://www.fjc.gov/research/idb)), an Anthropic API key, and a CourtListener API key (Education Membership recommended for unlimited access).
+The upstream data pipeline used to build this dataset (FJC IDB matching → CourtListener opinion fetch → Federal Register enrichment) is maintained privately. The processed outputs used by the dashboard are included in `data/`.
 
 ## Known Limitations
 
