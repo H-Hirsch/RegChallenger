@@ -6,7 +6,7 @@ Live dashboard: [regchallenger.streamlit.app](https://regchallenger.streamlit.ap
 
 ## Problem
 
-Federal rules routinely face court challenges, but agencies, affected industries, and public-interest groups have no fast way to estimate how a specific rule would fare if litigated. Expert legal analysis is slow and expensive, and a rule's vulnerability depends on fact-specific details (the reviewing circuit, the doctrinal era, the agency's statutory authority, and the pattern of outcomes in analogous historical challenges)that are hard to weigh consistently by hand.
+Federal rules routinely face court challenges, but agencies, affected industries, and public-interest groups have no fast way to estimate how a specific rule would fare if litigated. Expert legal analysis is slow and expensive, and a rule's vulnerability depends on fact-specific details (the reviewing circuit, the doctrinal era, the agency's statutory authority, and the pattern of outcomes in analogous historical challenges) that are hard to weigh consistently by hand.
 
 ## Proposed Solution
  
