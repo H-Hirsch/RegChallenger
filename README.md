@@ -54,28 +54,38 @@ Requires an Anthropic API key (Claude). The dashboard gracefully degrades withou
 ```
 RegChallenger/
 ├── README.md
-├── requirements.txt
-├── src/              # source code
-│   ├── app.py        # Streamlit entry point
-│   └── utils/        # data loading, embeddings, prediction, Federal Register API
-├── data/             # dataset (CSVs + opinion texts)
+├── requirements.txt              # Dashboard dependencies
+├── src/                          # Source code
+│   ├── app.py                    # Streamlit entry point
+│   ├── utils/                    # Data loading, embeddings, prediction, FR API
+│   └── pipeline/                 # Upstream data pipeline (see pipeline/README.md)
+│       ├── step1_pipeline.py         # FJC IDB → CourtListener matching
+│       ├── step1_postprocess.py      # Derived fields (outcome labels, doctrine era)
+│       ├── step2_pipeline.py         # Opinion fetch + FR citation extraction (Claude)
+│       ├── step3_pipeline.py         # Federal Register API lookup
+│       ├── step3_enrich.py           # Additional FR metadata enrichment
+│       ├── requirements_pipeline.txt # Pipeline dependencies
+│       └── README.md                 # Pipeline replication instructions
+├── data/                         # Dataset (CSVs + opinion texts)
 └── DEVELOPMENT_LOG.md
 ```
 
 ## Dataset
 
-- **251 rulemaking challenges** — federal rules that went to a published circuit-court opinion, enriched with Federal Register metadata (agency, CFR references, publication date, abstract, significance).
+- **251 rulemaking challenges** — federal rules that went to a published circuit-court opinion, enriched with Federal Register metadata (agency, CFR references, publication date, abstract, topics, significance flag).
 - **Outcome distribution**: 43% Upheld, 24.7% Struck Down, 19.9% Mixed, 12.4% Dismissed/Unknown.
 - **Coverage**: FY 2008–2026, all circuits.
 - Opinion text for each case is in `data/opinions/`.
 
-The upstream pipeline (CourtListener scraping, Federal Register matching, data enrichment) will be released separately.
+The upstream pipeline scripts used to build this dataset are in `src/pipeline/`. Replication requires the FJC Integrated Database (`ap08on.txt`, available from [fjc.gov](https://www.fjc.gov/research/idb)), an Anthropic API key, and a CourtListener API key (Education Membership recommended for unlimited access).
 
 ## Known Limitations
 
 - Leave-one-out validation is optimistic (the tool was designed around this dataset).
 - Reference set only contains rules that were actually challenged — unchallenged rules aren't represented, which biases retrieval toward controversial regulatory domains.
 - Multi-agency joint rulemakings in the historical corpus carry only the primary agency; query-side handling of joint agencies was added but the corpus side is unchanged.
+- CourtListener coverage gaps result in a ~42% match rate for pre-2015 cases; more recent cases match at 50–60%.
+- FERC and FCC cases citing internal order numbers rather than FR page citations are underrepresented.
 - Tool output is an analytical aid, not a legal opinion.
 
 ## License
