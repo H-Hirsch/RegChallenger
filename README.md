@@ -79,7 +79,3 @@ The upstream data pipeline used to build this dataset (FJC IDB matching → Cour
 - CourtListener coverage gaps result in a ~42% match rate for pre-2015 cases; more recent cases match at 50–60%.
 - FERC and FCC cases citing internal order numbers rather than FR page citations are underrepresented.
 - Tool output is an analytical aid, not a legal opinion.
-
-## License
-
-See [LICENSE](LICENSE).
