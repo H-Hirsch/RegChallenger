@@ -1,0 +1,2281 @@
+                             In the
+
+       United States Court of Appeals
+                 For the Seventh Circuit
+                    ____________________ 
+Nos. 14‐2147, 14‐2159, & 14‐2334 
+ZERO ZONE, INC., et al., 
+                                                    Petitioners, 
+
+                               v. 
+
+UNITED STATES DEPARTMENT OF ENERGY, et al., 
+                                                  Respondents. 
+                    ____________________ 
+        On Petitions for Review of Final Regulations of the 
+              United States Department of Energy. 
+             Agency No. EERE‐2010‐BT‐STD‐0003 & 
+               Agency No. EERE‐2013‐BT‐TP‐0025 
+                    ____________________ 
+
+   ARGUED SEPTEMBER 30, 2015 — DECIDED AUGUST 8, 2016 
+                ____________________ 
+
+   Before BAUER, RIPPLE, and ROVNER, Circuit Judges. 
+
+    
+
+    
+
+    
+2                                             Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+                             TABLE OF CONTENTS 
+I. Background .................................................................................5 
+     A. Statutory and Regulatory Context ....................................5 
+       1. Energy Policy and Conservation Act ..............................5 
+       2. Energy Policy Act of 2005 .................................................9 
+       3. 2009 Final Rule .................................................................10 
+       4. American Energy Manufacturing Technical  
+           Corrections Act ................................................................10 
+     B. The New Standards Rule ..................................................10 
+     C. The 2014 Test Procedure Rule ..........................................16 
+     D. Petitions for Review ..........................................................18 
+II. Discussion ................................................................................18 
+     A. Engineering Analysis ........................................................22 
+       1. Notice and Comment ......................................................23 
+       2. Compressors .....................................................................26 
+       3. Insulation Foam Thickness .............................................29 
+       4. Validation .........................................................................32 
+     B. Economic Analysis .............................................................35 
+       1. Elasticity ............................................................................36 
+       2. Environmental Benefits ..................................................39 
+       3. Cost‐Benefit Analysis ......................................................41 
+       4. Anticompetitive Effects ..................................................45 
+     C. Regulatory Flexibility Analysis .......................................52 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                                              3
+
+    D. Cumulative Regulatory Burden ......................................57 
+       1. EPA Significant New Alternatives Policy Program ...57 
+       2. ENERGY STAR Program ................................................60 
+    E. 2014 Test Procedure Rule ..................................................60 
+       1. Conformity to Industry Standards ................................61 
+       2. Operation of the Rule ......................................................63 
+       3. Procedural Challenges ....................................................65 
+Conclusion ...................................................................................68 
+   RIPPLE, Circuit Judge. The United States Department of En‐
+ergy (“DOE”) published two final rules aimed at improving 
+the energy efficiency of commercial refrigeration equipment 
+               1
+(“CRE”).  The first rule adopted new energy efficiency stand‐
+ards for CRE. 79 Fed. Reg. 17,726 (Mar. 28, 2014) (the “New 
+
+
+                                                 
+1 “Commercial refrigeration equipment” includes refrigerators and freez‐
+
+ers sold to restaurants and other industries. The term specifically is de‐
+fined as refrigeration equipment which: 
+            (i) is not a consumer product … ;  
+            (ii) is not designed and marketed exclusively for medi‐
+            cal, scientific, or research purposes;  
+           (iii) operates at a chilled, frozen, combination chilled and 
+           frozen, or variable temperature;  
+           (iv) displays or stores merchandise and other perishable 
+           materials horizontally, semivertically, or vertically;  
+           (v) has transparent or solid doors, sliding or hinged 
+           doors, a combination of hinged, sliding, transparent, or 
+           solid doors, or no doors;  
+4                                                   Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+Standards Rule”). The second rule, issued a month later, clar‐
+ified  the  test  procedures  that  DOE  uses  to  implement  those 
+standards. 79 Fed. Reg. 22,278 (Apr. 21, 2014) (the “2014 Test 
+Procedure Rule”).  
+    Petitioners Zero Zone, Inc. (“Zero Zone”), a small business 
+specializing in CRE, and Air‐Conditioning, Heating and Re‐
+frigeration  Institute  (“AHRI”),  a  trade  association  of  CRE 
+manufacturers, petitioned for review of both rules. Petitioner 
+North American Association of Food Equipment Manufactur‐
+ers (“NAFEM”), another trade association  of CRE manufac‐
+turers, petitioned for review of the first rule. AHRI and Zero 
+Zone moved to consolidate the cases, and we granted the mo‐
+       2
+tion.   
+
+                                                 
+           (vi) is designed for pull‐down temperature applications 
+           or holding temperature applications; and   
+           (vii) is connected to a self‐contained condensing unit or 
+           to a remote condensing unit.  
+42 U.S.C. § 6311(9)(A). 
+2 The Energy Policy and Conservation Act (“EPCA”) grants us jurisdiction 
+
+to hear these cases: 
+           Any person who will be adversely affected by a rule pre‐
+           scribed under section 6293, 6294, or 6295 of this title may, 
+           at any time within 60 days after the date on which such 
+           rule  is  prescribed,  file  a  petition  with  the  United  States 
+           court of appeals for the circuit in which such person re‐
+           sides or has his principal place of business, for judicial re‐
+           view of such rule.  
+42  U.S.C.  §  6306(b)(1).  The  New  Standards  Rule  was  prescribed  under 
+§ 6295. The 2014 Test Procedure Rule was prescribed under § 6314, which 
+is covered by § 6306(b). See id. § 6316(a)(1) (explaining that “references to 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                           5
+
+    Petitioners  challenge  both  the  decisionmaking  process 
+and  the  substance  of  the  final  rules.  Upon  review  of  those 
+challenges, we conclude that DOE acted in a manner worthy 
+of our deference. The New Standards Rule is premised on an 
+analytical  model  that  is  supported  by  substantial  evidence 
+and is neither arbitrary nor capricious. DOE conducted a cost‐
+benefit  analysis  that  is  within  its  statutory  authority  and  is 
+supported by substantial evidence. Its methodology and con‐
+clusions were not arbitrary or capricious. It also gave appro‐
+priate  consideration  to  the  rule’s  effect  on  small  businesses 
+and the role of other agency regulations. DOE similarly acted 
+within its authority, and within reason, when it promulgated 
+the 2014 Test Procedure Rule. For these reasons, we deny the 
+petitions in their entirety.  
+      
+                                                    I 
+                                      BACKGROUND 
+A.  Statutory and Regulatory Context   
+     1.  Energy Policy and Conservation Act 
+    The Energy Policy and Conservation Act (“EPCA”), Pub. 
+L. No. 94‐163, §§ 321–339, 89 Stat. 871, 917–32 (1975) (codified 
+as amended at 42 U.S.C. §§ 6201–6422) was enacted in part to 
+improve the energy efficiency of specific types of equipment 
+and appliances. §  2(5), 89 Stat. at  874. Congress enacted  the 
+EPCA in the wake of the 1973–1974 embargo of petroleum ex‐
+ports to the United States by the Organization of Arab Petro‐
+leum Exporting Countries. S. Rep. No. 94‐26, at 26 (1975). It 
+                                                 
+sections 6293, 6294, and 6295 of this title shall be considered as references 
+to sections 6314, 6315, and 6313 of this title”). 
+6                                                   Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+viewed  the  embargo  as  presenting  a  need  for  “legislation 
+which would facilitate the reduction of the nation’s petroleum 
+consumption through energy conservation.” Id. at 27; see also 
+H.R. Rep. No. 94‐340, at 1 (1975) (“This legislation is directed 
+to the attainment of the collective goals of increasing domestic 
+supply, conserving and managing energy demand, and establish‐
+ing standby programs for minimizing this nation’s vulnera‐
+bility to major interruptions in the supply of petroleum im‐
+ports.” (emphasis added)). 
+     As  originally  enacted,  the  EPCA  authorized  the  Federal 
+                                                                                 3
+Energy Administration (“FEA”)—the predecessor to DOE —
+to implement voluntary “energy efficiency improvement tar‐
+get[s]” that would encourage manufacturers to decrease the 
+energy consumption of their equipment. Pub. L. No. 94‐163, 
+§ 325, 89 Stat. 923–26. However, Congress determined shortly 
+thereafter that, “[u]nder the target approach, there would be 
+little incentive by a manufacturer to exceed a target, and to do 
+so might place a given manufacturer at a competitive disad‐
+vantage.”  H.R.  Rep.  No.  95‐496,  at  45  (1977).  It  therefore 
+amended the EPCA to impose mandatory energy conservation 
+standards. National Energy Conservation Policy Act, Pub. L. 
+No. 95‐619, § 422, 92 Stat. 3206, 3259 (1978). As amended, the 
+EPCA directs DOE to review these standards and implement 
+new  ones  when  appropriate.  42  U.S.C.  §§ 6313(c),  6316(e), 
+6295(m). 
+
+
+
+
+                                                 
+3 The Department of Energy Organization Act of 1977 established the De‐
+
+partment of Energy and transferred the responsibilities of the Federal En‐
+ergy Administration into DOE. Id. § 7151(a). 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                  7
+
+    When  establishing  new  energy  conservation  standards, 
+DOE must follow certain statutory requirements. First, stand‐
+ards may not “increase[] the maximum allowable energy use” 
+of  any  individual  unit.  Id.  §  6295(o)(1).  Second,  standards 
+must be “designed to achieve the maximum improvement in 
+energy efficiency” and be “technologically feasible and eco‐
+nomically  justified.”  Id.  §  6295(o)(2)(A).  The  EPCA  explains 
+that: 
+       In determining whether a standard is economi‐
+       cally justified, the Secretary shall, after receiving 
+       views and comments furnished with respect to 
+       the proposed standard, determine whether the 
+       benefits of the standard exceed its burdens by, 
+       to the greatest extent practicable, considering— 
+           (I)  the  economic  impact  of  the  standard  on 
+           the manufacturers and on the consumers of 
+           the products subject to such standard; 
+           (II)  the  savings  in  operating  costs  through‐
+           out the estimated average life of the covered 
+           product  in  the  type  (or  class)  compared  to 
+           any increase in the price of, or in the initial 
+           charges for, or maintenance expenses of, the 
+           covered products which are likely to result 
+           from the imposition of the standard; 
+           (III) the total projected amount of energy, or 
+           as applicable, water, savings likely to result 
+           directly from the imposition of the standard; 
+           (IV) any lessening of the utility or the perfor‐
+           mance of the covered products likely to re‐
+           sult from the imposition of the standard; 
+8                              Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+          (V) the impact of any lessening of competi‐
+          tion, as determined in writing by the Attor‐
+          ney General, that is likely to result from the 
+          imposition of the standard; 
+          (VI) the need for national energy and water 
+          conservation; and 
+          (VII)  other  factors  the  Secretary  considers 
+          relevant. 
+Id. § 6295(o)(2)(B)(i). The EPCA further explains that, for the 
+purposes of determining anticompetitive effects, the Attorney 
+General must submit his or her opinion in writing “not later 
+than 60 days after the publication of a proposed rule” and that 
+“[a]ny such determination and analysis shall be published by 
+the Secretary in the Federal Register.” Id. § 6295(o)(2)(B)(ii).  
+    The EPCA also charges DOE with establishing test proce‐
+dures for measuring the energy use of covered equipment. Id. 
+§ 6314. Manufacturers must use these test procedures when 
+determining whether their equipment complies with the ap‐
+plicable  energy  conservation  standards.  Id.  §§  6295(s), 
+6316(e)(1). According to the EPCA: 
+       (1) The Secretary shall, not later than 3 years af‐
+       ter the date of prescribing a test procedure un‐
+       der this section (and from time to time thereaf‐
+       ter),  conduct  a  reevaluation  of  such  procedure 
+       and, on the basis of such reevaluation, shall de‐
+       termine  if  such  test  procedure  should  be 
+       amended. In conducting such reevaluation, the 
+       Secretary  shall  take  into  account  such  infor‐
+       mation as he deems relevant, including techno‐
+Nos. 14‐2147, 14‐2159, & 14‐2334                                             9
+
+            logical developments relating to the energy effi‐
+            ciency  of  the  type  (or  class)  of  covered  equip‐
+            ment involved. 
+           (2) If the Secretary determines under paragraph 
+           (1) that a test procedure should be amended, he 
+           shall  promptly  publish  in  the  Federal  Register 
+           proposed  test  procedures  incorporating  such 
+           amendments  and  afford  interested  persons  an 
+           opportunity  to  present  oral  and  written  data, 
+           views,  and  arguments.  Such  comment  period 
+           shall not be less than 45 days’ duration. 
+Id. § 6314(c). 
+      2.  Energy Policy Act of 2005 
+    Congress  amended  the  EPCA  in  2005,  and  in  doing  so 
+added CRE to the industrial equipment category. Energy Pol‐
+icy Act of 2005, Pub. L. No. 109‐58, § 136, 119 Stat. 594, 638–39 
+(codified  at  42  U.S.C.  §  6313(c)(2)–(3))  (“EPACT”).  The 
+EPACT prescribed standards for six different classes of CRE. 
+                                      4
+§ 136, 119 Stat. at 639.  It also required DOE to set standards 
+for additional classes of CRE that were not yet covered by the 
+EPCA. Id.  
+       
+       
+
+
+                                                 
+4 Specifically, the EPACT prescribed standards for refrigerators with solid 
+
+doors,  refrigerators  with  transparent  doors,  freezers  with  solid  doors, 
+freezers  with  transparent  doors,  refrigerator‐freezers  with  solid  doors, 
+and self‐contained condensing units with transparent doors designed for 
+pull‐down temperature applications. Id. § 6313(c)(2)–(3).  
+10                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+      3.  2009 Final Rule                        
+    Accordingly,  DOE  published  a  final  rule  on  January  9, 
+2009,  that  prescribed  energy  conservation  standards  for 
+thirty‐eight additional equipment classes. 74 Fed. Reg. 1092. 
+These  classes  were  defined  by  a  combination  of  the  equip‐
+ment’s  geometry  (vertical,  semivertical,  or  horizontal),  door 
+type (solid, transparent, or open), condensing‐unit configura‐
+tion  (self‐contained  or  remote‐condensing),  and  operating 
+                                                                 5
+temperature (medium, low, or ice‐cream).  
+      4.  American  Energy  Manufacturing  Technical  Correc‐
+          tions Act 
+    Congress made an additional amendment to the statute in 
+January  2012,  which  prescribed  a  specific  standard  for  self‐
+contained  commercial  refrigerators  with  transparent  doors. 
+American Energy Manufacturing Technical Corrections Act, 
+Pub.  L.  No.  112‐210,  §  4,  126  Stat.  1514,  1516  (codified  as 
+amended at 42 U.S.C. § 6313(c)(4)) (“AEMTCA”). As a result, 
+the  existing  energy  conservation  standards  for  CRE  at  the 
+time of this rulemaking had been established by three sepa‐
+rate sources: the EPACT, the AEMTCA, and DOE’s 2009 Final 
+Rule.  
+       
+B.  The New Standards Rule 
+   DOE  published  a  sixty‐page  framework  document  in 
+2010, which discussed the relevant issues and processes in de‐
+
+                                                 
+5 For example, a unit could be in the “vertical open, remote condensing, 
+
+medium  temperature  equipment  class.”  See  79  Fed.  Reg.  17,726,  17,732 
+(Mar. 28, 2014). This class is identified by DOE as “VOP.RC.M.” Id.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                          11
+
+termining whether to amend the CRE energy efficiency stand‐
+ards. 75 Fed. Reg. 24,824, 24,824–25 (May 6, 2010); App. R.6, 
+Admin. R.2. DOE then published a notice of proposed rule‐
+making for new CRE energy efficiency standards on Septem‐
+ber 11, 2013. 78 Fed. Reg. 55,890. The notice of proposed rule‐
+making listed new standards for forty‐nine classes of CRE. See 
+id. at 55,890–92. DOE also made available a technical support 
+document for the proposed rule. App. R.6, Admin. R.51. On 
+October 3, 2013, DOE held a public meeting in Washington, 
+D.C.  to  solicit  comments  and  provide  some  preliminary  re‐
+sponses. App. R.6, Admin. R.62. DOE also permitted the pub‐
+lic  to  submit  further  comments  until  a  November  12,  2013 
+deadline, although a few comments were submitted after that 
+date. On March 28, 2014, DOE published the New Standards 
+Rule, the rule before us in this proceeding.  
+    The New Standards Rule establishes energy conservation 
+standards for forty‐nine classes of CRE. 79 Fed. Reg. at 17,727. 
+Just as in DOE’s earlier 2009 Final Rule, the classes were de‐
+fined  by  a  combination  of  the  equipment’s  geometry,  door 
+type, condensing‐unit configuration, and operating tempera‐
+ture. Id. at 17,743. For each class, the maximum daily energy 
+consumption is determined by a function of either the unit’s 
+refrigerated  volume  (“V”)  or  the  unit’s  total  display  area 
+                                         6
+(“TDA”).  Id.  at  17,727.   For  eight  equipment  classes,  DOE 
+made no changes from the 2009 Final Rule. Id. at 17,728. For 
+the  remaining  forty‐one  equipment  classes,  DOE  set  forth  a 
+                                                 
+6 For example, a CRE in the vertical, open, remote‐condensing, medium 
+
+temperature  class  has  a  maximum  daily  energy  consumption  of  (0.64  x 
+TDA + 4.07) kilowatt‐hours. 79 Fed. Reg. at 17,727. Therefore, if a CRE in 
+this equipment class had a total display area of ten square feet, its maxi‐
+mum allowable energy consumption would be 6.47 kilowatt‐hours/day.  
+12                               Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+higher standard that it determined was both technologically 
+feasible and economically justified. Id. at 17,727–30. DOE esti‐
+mated that the revised standards were likely to result in a sav‐
+ings  of  2.89  quadrillion  British  thermal  units  of  energy  in 
+2014—an  “annualized  energy  savings  equivalent  to  0.5  per‐
+cent of total U.S. commercial primary energy consumption in 
+2014.” Id. at 17,728, 17,736–37.  
+     To  determine  the  appropriate  standard  for  each  class  of 
+equipment, DOE used a design‐option engineering analysis. 
+Id.  at  17,745;  Final  Technical  Support  Document,  App.  R.6, 
+Admin.  R.102  at  5‐41  to  5‐68.  In  that  analysis,  DOE  chose  a 
+representative unit from each class of CRE. App. R.6, Admin. 
+R.102 at 5‐1 to 5‐2. DOE intentionally chose a unit that “was 
+toward the larger end of the equipment available within that 
+class.” Id. at 5‐68. DOE then, using an analytical model, esti‐
+mated the cost to manufacturers of implementing more effi‐
+cient  components  into  that  unit,  as  well  as  the  “calculated 
+daily energy consumption” (“CDEC”) that would result from 
+implementing those components. Id. at 5‐1 to 5‐3, 5‐13 to 5‐41. 
+This  analysis  included  modeling  the  effect  of  more  efficient 
+lighting, compressors, and insulation. Id. at 5‐13 to 5‐41. DOE 
+then ranked the components in order of cost, and drew a cost‐
+efficiency  curve  that  illustrated  a  feasible  maximum  energy 
+consumption level for a unit of that size. Id. at 5‐2 to 5‐3.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                 13
+
+    This  maximum  energy  consumption  level  served  as  an 
+“analysis point” for DOE, which it used to establish an equa‐
+tion  for  determining  a  CRE  unit’s  maximum  energy  con‐
+sumption level. Id. at 5‐68. DOE’s method for establishing this 
+equation is illustrated in the graphs below: 
+
+
+
+
+    
+Id. As the graph to the left shows, DOE first plotted the anal‐
+ysis point on a graph measuring the relationship between a 
+CRE unit’s CDEC and its TDA (or, in some cases, CDEC and 
+refrigerated volume). Id. DOE then drew a line from the anal‐
+ysis point to the origin. Under the scheme contemplated by 
+the left graph, a CRE unit would need to have a CDEC at or 
+below that line. Id.  
+    DOE originally had intended to employ this scheme in its 
+2009 Final Rule, but it had received comments about the ef‐
+fects  of  such  an  equation  on  smaller  equipment.  Id.  As  the 
+comments  pointed  out,  drawing  a  line  from  the  origin  as‐
+sumed that a small CRE unit with a TDA approaching zero 
+could consume energy at a level close to zero. Id. DOE there‐
+fore chose to include an “offset” factor for each class, which 
+allowed  smaller  equipment  to  consume  more  energy  under 
+14                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+the  standards.  Id.  The  offset  “represent[s]  energy  consump‐
+tion end effects inherent in equipment operation regardless of 
+the size of the equipment.” Id. at 5‐3. As shown in the graph 
+above on the right, the offset serves as the y‐intercept for the 
+                                               7
+CDEC equation. Id. at 5‐68.    
+    The resulting energy conservation standards do not com‐
+pel  manufacturers  to  use  any  particular  components  to 
+achieve  improved  efficiency.  Instead,  as  DOE  explained, 
+“should manufacturers value some features over others, they 
+are free to use different design paths in order to attain the per‐
+formance levels required.” 79 Fed. Reg. at 17,750.  
+    DOE then considered whether its new standards were eco‐
+nomically  justified.  Id.  at  17,737.  It  developed  five  potential 
+“trial standard levels” of energy efficiency requirements for 
+each class and considered the costs and benefits at each level. 
+Id. at 17,738, 17,803–11. DOE initially proposed that the stand‐
+ards be set at the second‐highest level. 78 Fed. Reg. at 55,948. 
+
+
+                                                 
+7 NAFEM commented before the agency and submits in its brief that DOE 
+
+offset factors are ill conceived because they are based on only forty‐nine 
+classes of equipment and are illogical in their structure. We have consid‐
+ered this submission on the basis of the briefs and have studied the record, 
+including  the  engineering  report  compiled  by  DOE  during  its  study  of 
+these standards. It is clear to us that DOE undertook a study of industry 
+patterns, compared those patterns to the ones that it had encountered in 
+earlier rulemaking, and concluded that the categories that it implemented 
+were an accurate reflection of the current industry situation. NAFEM has 
+countered  with  no  data  or  other  information  demonstrating  that DOE’s 
+conclusion is not supported by substantial evidence or that its approach 
+to the problem is arbitrary or capricious. Since this argument is underde‐
+veloped by NAFEM, we see no reason for further discussion in our later 
+analysis. 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                   15
+
+However, after the notice and comment period, DOE deter‐
+mined  that  the  third‐highest  level  “will  offer  the  maximum 
+improvement in efficiency that is technologically feasible and 
+economically  justified  and  will  result  in  the  significant  con‐
+servation of energy.” 79 Fed. Reg. at 17,810.  
+    As part of this economic analysis, DOE requested a letter 
+on September 24, 2013 from the United States Department of 
+Justice (“DOJ”) that  would  assess the  rule’s anticompetitive 
+effect. DOJ did not respond until November 25, 2013, when 
+the  Assistant  Attorney  General  for  Antitrust  sent  a  letter  to 
+DOE. App. R.6, Admin. R.106. According to DOJ, the new rule 
+would  not  have  anticompetitive  effects.  Id.  DOE  added  this 
+letter to the record on June 17, 2014—several months after the 
+public hearing on the rule. See id. DOE also published this let‐
+ter in the Federal Register on July 28, 2015—over a year after 
+the Final Rule had been published and one day before it filed 
+its appellate brief in this case. 80 Fed. Reg. 44,892.  
+    After receiving the DOJ letter and other sources, DOE con‐
+cluded  in  the  Final  Rule,  published  on  March  28,  2014,  that 
+the new standards would result in lower energy use and thus 
+produce a net benefit to consumers between $4.93 and $11.74 
+billion. 79 Fed. Reg. at 17,728, 17,810. In addition, DOE noted 
+the  monetary  benefits  of  the  reductions  in  greenhouse  gas 
+emissions. Id. at 17,811. DOE then determined that the devel‐
+opment of new CRE would cost manufacturers between $93.9 
+and $165 million. Id. at 17,810. DOE concluded that the bene‐
+fits  outweighed  the  costs  and  that  the  standards  therefore 
+would be economically justified. Id. at 17,810–11.  
+    
+    
+16                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+C.  The 2014 Test Procedure Rule 
+    The New Standards Rule noted that “[t]he test procedure 
+amendments established in the 2012 test procedure final rule 
+are  required  to  be  used  in  conjunction  with  the  amended 
+standards promulgated in this … final rule.” 79 Fed. Reg. at 
+17,735. In  that 2012 Test Procedure Rule, DOE incorporated 
+the method for calculating the TDA of CRE required by stat‐
+ute.  77  Fed.  Reg.  10,292,  10,318  (Feb.  21,  2012).  As  shown 
+above, the maximum allowable daily energy consumption for 
+some units is dependent on their TDA.  
+    To measure the TDA of a CRE unit, one must take certain 
+measurements of the unit and enter those measurements into 
+a  general  equation.8  One  of  those  measurements  is  the 
+“Length of Commercial Refrigerated Display Merchandiser” 
+(“L”). 79 Fed. Reg. at 22,299. Under DOE’s energy efficiency 
+standards, “L” is directly proportional to a CRE unit’s maxi‐
+mum energy consumption level: the longer the display on a 
+CRE unit, the more energy a CRE unit is allowed to consume 
+on a daily basis. Therefore, the precise definition of “L” will 
+impact  the  energy  efficiency  standards.  However,  the  2012 
+Test  Procedure  “contain[ed]  no  figures  or  illustrations  in‐
+structing a user how to perform this measurement.” Id.  
+    DOE issued a notice of proposed rulemaking on October 
+28, 2013, which proposed a clarification on the meaning of “L” 
+in the 2012 Test Procedure Rule. 78 Fed. Reg. 64,296, 64,309–
+
+                                                 
+8 According to DOE, TDA = Dh x L + Ae. “Dh” stands for “Dimension of 
+
+projected visible product.” “L” stands for “Length of Commercial Refrig‐
+erated Display Merchandiser.” “Ae” stands for “Projected area from visi‐
+ble product through end walls.” 79 Fed. Reg. 22,278, 22,299 (Apr. 21, 2014). 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                         17
+
+12.9  That  definition  would  have  corresponded  to  the  total 
+length of the transparent area on CRE but would have not in‐
+cluded any opaque or non‐transparent areas. Id. at 64,309–10. 
+Several companies, however, submitted comments, contend‐
+ing that the “industry has always treated the length ‘L’ as the 
+‘length of the commercial refrigerated display merchandiser’ 
+from inside wall to inside wall, disregarding the presence of 
+non‐transparent mullions[10] and door frames.” 79 Fed. Reg. at 
+22,300.  
+   A  little  less  than  a  month  after  the  CRE  standards  were 
+published, on April 21, 2014, DOE published a CRE test pro‐
+cedure that clarified how energy efficiency was to be meas‐
+ured. Id. at 22,278. In light of the comments it received, DOE 
+departed  from  its  proposed  rule  and  published  a  CRE  test 
+procedure that was “consistent with and clarifie[d] current in‐
+dustry  practice  and  the  existing  provisions  of  the  DOE  test 
+procedure.” Id. at 22,301. According to this final rule, “L” was 
+defined “as the interior length of the CRE model, provided no 
+more than 10 percent of that length consists of non‐transpar‐
+ent  material.”  Id.  The  rule  provided  further  clarification  on 
+measuring “L” for units where more than ten percent of the 
+surface was not transparent. Id.  
+ 
+ 
+
+                                                 
+9 DOE issued this notice of proposed rulemaking after it issued the notice 
+
+of  proposed  rulemaking  for  the  New  Standards  Rule  on  September  11, 
+2013.  
+10 A mullion is the vertical bar between the panes in a window, door, or 
+
+screen. 
+18                             Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+D.  Petitions for Review 
+    NAFEM timely filed a petition for review on May 23, 2014, 
+challenging the New Standards Rule. Four days later, on May 
+27, 2014, AHRI and Zero Zone filed a petition similarly chal‐
+lenging the New Standards Rule. AHRI and Zero Zone then 
+filed a petition challenging the 2014 Test Procedure Rule on 
+June 19, 2014. Upon AHRI’s and Zero Zone’s motion, we con‐
+solidated the petitions. 
+ 
+                                II 
+                         DISCUSSION 
+    The  petitioners  raise a  series  of  procedural  and  substan‐
+tive challenges to DOE’s final rules pertaining to energy effi‐
+ciency standards. We will consider, in turn, the challenges to: 
+(1) DOE’s engineering analysis; (2) DOE’s economic analysis; 
+(3)  DOE’s  regulatory  flexibility  analysis,  which  considered 
+the effect of the new standards on small businesses; (4) DOE’s 
+assessment of the cumulative regulatory burden; and (5) the 
+2014 Test Procedure Rule. 
+   Pursuant  to  the  Administrative  Procedure  Act  (“APA”), 
+we will “hold unlawful and set aside agency action, findings, 
+and conclusions” that are: 
+       (A) arbitrary, capricious, an abuse of discretion, 
+       or otherwise not in accordance with law; 
+       (B) contrary to constitutional right, power, priv‐
+       ilege, or immunity; 
+       (C) in excess of statutory jurisdiction, authority, 
+       or limitations, or short of statutory right; 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                             19
+
+            (D)  without  observance  of  procedure  required 
+            by law; [or] 
+           (E)  unsupported  by  substantial  evidence  in  a 
+           case subject to sections 556 and 557 of this title 
+           … .[11] 
+5 U.S.C. § 706(2). When determining whether an agency’s de‐
+cision is arbitrary or capricious, we ask whether the agency   
+           has relied on factors which Congress had not in‐
+           tended it to consider, entirely failed to consider 
+           an important aspect of the problem, offered an 
+           explanation for its decision that runs counter to 
+           the evidence before the agency, or is so implau‐
+           sible that it could not be ascribed to a difference 
+           in view or the product of agency expertise. 
+Natʹl Assʹn of Home  Builders  v. Defs. of Wildlife, 551  U.S. 644, 
+658 (2007) (quoting Motor Vehicle Mfrs. Assʹn v. State Farm Mut. 
+Auto. Ins. Co., 463 U.S. 29, 43 (1983)) (internal quotation marks 
+omitted). “Substantial evidence,” we have explained, “means 
+‘such relevant evidence as a reasonable mind might accept as 
+adequate to support the conclusion’” reached by the agency. 
+Local 65‐B, Graphic Commc’ns Conference of Int’l Bhd. of Team‐
+sters v. NLRB, 572 F.3d 342, 347 (7th Cir. 2009) (quoting Huck 
+Store Fixture Co. v. NLRB, 327 F.3d 528, 533 (7th Cir. 2003)); see 
+also Consol. Edison Co. v. NLRB, 305 U.S. 197, 229 (1938) (ex‐
+plaining  that  the  agency  must  produce  “more  than  a  mere 
+scintilla” of evidence).  
+
+                                                 
+11 The EPCA states that “no rule under” the statutory provisions applica‐
+
+ble  to  this  case  “may  be  affirmed  except  by  substantial  evidence.”  42 
+U.S.C. § 6306(b)(2).  
+20                              Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+    In our review, “[w]e give great deference to an agency’s 
+predictive judgments about areas that are within the agency’s 
+field of discretion and expertise.” W. Fuels‐Ill., Inc. v. ICC, 878 
+F.2d 1025, 1030 (7th Cir. 1989) (internal quotation marks omit‐
+ted); see also Pub. Citizen, Inc. v. NHTSA, 374 F.3d 1251, 1260–
+61 (D.C. Cir. 2004). “[W]hen reviewing an agency’s scientific 
+and technical determinations, ‘a reviewing court must gener‐
+ally be at its most deferential.’” Indiana v. EPA, 796 F.3d 803, 
+811 (7th Cir. 2015) (quoting Balt. Gas & Elec. Co. v. NRDC, 462 
+U.S. 87, 103 (1983)). However, we also note that the Supreme 
+Court  “has  stressed  the  importance  of  not  simply  rubber‐
+stamping  agency  factfinding.”  Dickinson  v.  Zurko,  527  U.S. 
+150, 162 (1999). Further, “[t]he reviewing court should not at‐
+tempt  itself  to  make  up  for  …  deficiencies”  in  the  agency’s 
+reasoning;  “‘we  may  not  supply  a  reasoned  basis  for  the 
+agency’s action that the agency itself has not given.’” Motor 
+Vehicle  Mfrs.  Assʹn,  463  U.S.  at  43  (quoting  SEC  v.  Chenery 
+Corp., 332 U.S. 194, 196 (1947)). 
+    For those of petitioners’ challenges based on the statutory 
+language of the EPCA, our review is structured by Chevron, 
+U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 
+837 (1984). At the first step of Chevron review, we ask whether 
+Congress has spoken directly on the precise question of inter‐
+pretation. Chevron, 467 U.S. at 842 (“If the intent of Congress 
+is clear, that is the end of the matter … .”). When there is a 
+statutory ambiguity, we then move to the second step of Chev‐
+ron review and ask whether the agency’s interpretation is “ar‐
+bitrary or capricious in substance.” Mayo Found. for Med. Educ. 
+& Research v. United States, 562 U.S. 44, 53 (2011) (internal quo‐
+tation marks omitted). As the Supreme Court has noted, this 
+second  step  of  Chevron  is  functionally  equivalent  to  tradi‐
+Nos. 14‐2147, 14‐2159, & 14‐2334                                                   21
+
+tional arbitrary and capricious review under the APA. Judu‐
+lang v. Holder, 132 S. Ct. 476, 483 n. 7 (2011). For those of peti‐
+tioners’ challenges based on the language of DOE regulations, 
+we  will  uphold  DOE’s  interpretations  of  its  own  regulation 
+“unless  plainly  erroneous  or  inconsistent  with  the  regula‐
+tion.” Auer v. Robbins, 519 U.S. 452, 461 (1997) (internal quota‐
+tion marks omitted); see also Joseph v. Holder, 579 F.3d 827, 833 
+(7th Cir. 2009).12  
+
+                                                 
+12 The Supreme Court has explained that: 
+
+           Although  Auer  ordinarily  calls  for  deference  to  an 
+           agency’s interpretation of its own ambiguous regulation, 
+           even when that interpretation is advanced in a legal brief, 
+           see Chase Bank USA, N.A. v. McCoy, 562 U.S. —, —, 131 
+           S.Ct.  871,  880,  178  L.Ed.2d  716  (2011);  Auer,  519  U.S.,  at 
+           461–462, 117 S.Ct. 905, this general rule does not apply in 
+           all cases. Deference is undoubtedly inappropriate, for ex‐
+           ample, when the agency’s interpretation is “‘plainly erro‐
+           neous or inconsistent with the regulation.’” Id., at 461, 117 
+           S.Ct.  905  (quoting  Robertson  v.  Methow  Valley  Citizens 
+           Council, 490 U.S. 332, 359, 109 S.Ct. 1835, 104 L.Ed.2d 351 
+           (1989)).  And  deference  is  likewise  unwarranted  when 
+           there is reason to suspect that the agency’s interpretation 
+           “does  not  reflect  the  agency’s  fair  and considered  judg‐
+           ment on the matter in question.” Auer, supra, at 462, 117 
+           S.Ct. 905; see also, e.g., Chase Bank, supra, at —, 131 S.Ct. at 
+           881.  This  might  occur  when  the  agency’s  interpretation 
+           conflicts with a prior interpretation, see, e.g., Thomas Jef‐
+           ferson Univ. v. Shalala, 512 U.S. 504, 515, 114 S.Ct. 2381, 129 
+           L.Ed.2d 405 (1994), or when it appears that the interpreta‐
+           tion  is  nothing  more  than  a  “convenient  litigating  posi‐
+           tion,”  Bowen  v.  Georgetown  Univ.  Hospital,  488  U.S.  204, 
+           213, 109 S.Ct. 468, 102 L.Ed.2d 493 (1988), or a “‘post hoc 
+           rationalizatio[n]’  advanced  by  an  agency  seeking  to  de‐
+           fend  past  agency  action  against  attack,”  Auer,  supra,  at 
+22                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+A. Engineering Analysis 
+    The New Standards Rule was based in part on a “design 
+option” engineering analysis. 79 Fed. Reg. at 17,763. To con‐
+duct  this  analysis,  DOE  defined  a  hypothetical  “representa‐
+tive unit” from each class of CRE. App. R.6, Admin. R.102 at 
+5‐1 to 5‐2. The unit displayed the characteristics of that class 
+of  CRE,  id.,  but  was  “toward  the  larger  end  of  equipment 
+available for that class,” id. at 5‐68. DOE then, using an ana‐
+lytical model, estimated the cost to manufacturers of imple‐
+menting more efficient components into that unit, as well as 
+the “calculated daily energy consumption” that would result 
+from implementing those components. Id. at 5‐1 to 5‐3, 5‐13 to 
+5‐41. This analysis included, for example, modeling the effect 
+of more efficient lighting, compressors, and insulation. Id. at 
+5‐13 to 5‐41. From this model, DOE determined an appropri‐
+ate energy consumption level for a unit of that size, id. at 5‐2 
+to 5‐3, and then extrapolated from those results to create an 
+equation  for  determining  the  energy  consumption  level  for 
+the rest of the class, id. at 5‐68.13 
+   The  petitioners  raise  several  procedural  and  substantive 
+challenges  to  DOE’s  engineering  analysis.  We  will  discuss 
+each in turn. 
+       
+       
+
+                                                 
+           462, 117 S.Ct. 905 (quoting Bowen, supra, at 212, 109 S.Ct. 
+           468; alteration in original). 
+Christopher v. SmithKline Beecham Corp., 132 S. Ct. 2156, 2166–67 (2012).  
+13 A more detailed explanation of the engineering analysis can be found 
+
+supra Part I.B. 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                      23
+
+      1.  Notice and Comment 
+    NAFEM contends that DOE failed to provide a meaning‐
+ful  opportunity  for  notice  and  comment  of  an  “engineering 
+spreadsheet”  that  compiled  all  the  data  that  was  used  in 
+DOE’s analysis. See App. R.6, Admin. R.98. Early in the prom‐
+ulgation of the standards rule, DOE provided two technical 
+support documents that explained its planned analysis. App. 
+R.6, Admin. R.2; App. R.6, Admin. R.30. On August 29, 2013—
+two  weeks  before  the  publication  of  the  notice  of  proposed 
+rulemaking—DOE published a more complete technical sup‐
+port document that further spelled out its engineering analy‐
+sis and included all the relevant raw data. See App. R.6, Ad‐
+min. R.51 at 5‐1 to 5A‐17. However, at that time, DOE did not 
+provide the engineering spreadsheet that it used. After receiv‐
+ing questions about the spreadsheet at a public hearing on Oc‐
+tober  3,  2013,  a  DOE  representative  stated  that  DOE  would 
+make  the  spreadsheet  publicly  available.  App.  R.6,  Admin. 
+R.62 at 337. DOE subsequently published the spreadsheet on 
+October 8, 2013. App. R.6, Admin. R.59. Several members of 
+the public provided assessments of that spreadsheet in their 
+submissions before the November 12, 2013 deadline for pub‐
+lic comments.14 Nevertheless, NAFEM now contends that the 
+engineering  spreadsheet  was  not  provided  early  enough  in 
+the  process  and  that  the  spreadsheet  lacks  certain  infor‐
+mation.  
+    We previously expressed “reluctan[ce] to approve a regu‐
+lation where … much of the information in support of the pro‐
+posed  rule  was  kept  secret  until  after  the  hearing,”  Granite 
+
+                                                 
+14 See App. R.6, Admin. R.65‐A1 at 6; App. R.6, Admin. R.75‐A1 at 4; App. 
+
+R.6, Admin. R.85‐A1 at 3. 
+24                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+City Steel Co. v. EPA, 501 F.2d 925, 927–28 (7th Cir. 1974), but 
+we have never held that petitioners have a right to full notice 
+and comment of the scientific data relied upon by the agency. 
+Several of our sister circuits have held that “[a]mong the in‐
+formation that must be revealed for public evaluation are the 
+technical studies and data upon which the agency relie[d].” 
+Chamber of Commerce v. SEC, 443 F.3d 890, 899 (D.C. Cir. 2006) 
+(internal  quotation  marks  omitted);  Lloyd  Noland  Hosp.  & 
+Clinic  v.  Heckler,  762  F.2d  1561,  1565  (11th  Cir.  1985);  Wash. 
+Trollers Assʹn v. Kreps, 645 F.2d 684, 686 (9th Cir. 1981); United 
+States v. Nova Scotia Food Prods. Corp., 568 F.2d 240, 251–52 (2d 
+Cir. 1977).15  
+    This case presents no occasion for us to determine whether 
+we  ought to join these circuits. Here, an  examination  of  the 
+proceedings before the agency makes clear that the petition‐
+ers received adequate notice of the engineering spreadsheet. 
+NAFEM  first  criticizes  DOE  for  only  providing  the  spread‐
+sheet  a  month  before  final  comments  were  due.  However, 
+NAFEM  and  the  rest  of  the  public  had  access  to  all  of  the 
+spreadsheet’s  underlying  data  almost  three  months  earlier 
+when  the  technical  support  document  was  published.  See 
+App. R.6, Admin. R.51 at 5‐1 to 5A‐17. The spreadsheet simply 
+organized this information in a different manner. We note as 
+well that several members of the public provided meaningful 
+
+
+                                                 
+15 Cf. Am. Radio Relay League, Inc. v. FCC, 524 F.3d 227, 246 (D.C. Cir. 2008) 
+
+(Kavanaugh,  J.,  concurring)  (asking  whether  this  requirement  can  “be 
+squared  with  the  text  of  §  553  of  the APA”  and  Vermont  Yankee Nuclear 
+Power  Corp.  v.  Natural  Resource  Defense  Council,  Inc.,  435  U.S.  519,  524 
+(1978)).  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                 25
+
+commentary in direct response to the spreadsheet by the No‐
+vember deadline.16 NAFEM  received  sufficient notice of  the 
+applicable data and, consequently, had adequate opportunity 
+to comment on that spreadsheet. See App. R.6, Admin. R.98. 
+    NAFEM also submits that DOE was obliged to provide a 
+spreadsheet that could be “manipulated” to permit manufac‐
+turers to ascertain how DOE’s analysis would apply to spe‐
+cific  products  in  their  present  or  future  inventories.  In 
+NAFEM’s view, DOE should have been required to provide 
+manufacturers  with  the  capacity  to  insert  data  about  their 
+own  units  into  the  spreadsheet,  so  that  they  could  “predict 
+how  [their]  individual  products  would  perform  under  the 
+same analysis.”17 According to NAFEM, it should have been 
+possible for manufacturers to manipulate the spreadsheet to 
+account for volumes and total display areas different from the 
+hypothetical model actually studied by DOE.  
+    At  the  most  fundamental  level,  this  contention  fails  be‐
+cause it asks the DOE spreadsheet to perform a function dif‐
+ferent  from  the  one  for  which  it  was  designed.  As  we  have 
+noted earlier, DOE designed the spreadsheet to calculate the 
+efficiency  level  of  one  specific  hypothetical  “representative 
+unit,” of a specific size, for each class of refrigeration equip‐
+ment. App. R.6, Admin R.102 at 5‐1 to 5‐2. Relying on the data 
+from its testing of the hypothetical unit, it then created a for‐
+mula  for  determining  the  efficiency  level  of  units  of  other 
+sizes in the same class. Id. at 5‐2 to 5‐3. In creating that for‐
+mula, DOE did not apply the calculations on the spreadsheet 
+
+                                                 
+16 See supra note 14. 
+
+17 NAFEM Br. at 36. 
+26                               Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+to units of differing sizes. See id.  
+    In any event, if a manufacturer wanted to determine the 
+accuracy of the calculations in the engineering spreadsheet, it 
+could  have  compared  the  spreadsheet’s  results  for  a  given 
+type of refrigeration product to units of the same type and size 
+in its own product line. See App. R.6, Admin. R.98. Moreover, 
+if a manufacturer wished to go further and test the accuracy 
+of DOE’s overall analysis, including the results that the anal‐
+ysis would produce for units of varying sizes, it could have 
+looked to the actual energy efficiency standards provided by 
+DOE in the notice of proposed rulemaking. See 78 Fed. Reg. at 
+55,892.  If  the  manufacturer’s  product,  when  altered  to  con‐
+form  to  the  energy  standards  proposed  by  DOE,  could  not 
+reach those standards, the manufacturer would have cause to 
+believe that DOE’s underlying computations on the hypothet‐
+ical model could not be replicated in the real world or were 
+otherwise faulty. Petitioners were provided with a sufficient 
+opportunity to see and comment upon technical data. There 
+is no basis here for our disturbing the agency’s decision. 
+      2.  Compressors 
+    We now turn to the substance of DOE’s engineering anal‐
+ysis. As we have discussed earlier, DOE modeled the effect of 
+different component designs on energy efficiency in order to 
+determine  a  technologically  feasible  energy  consumption 
+level for each class of CRE. NAFEM challenges DOE’s model‐
+ing of one of those components: compressors.  
+   DOE concluded “that two levels of technology were appli‐
+cable  for  the  compressor  design  option:”  “standard  single‐
+speed  hermetic  compressors”  and  “high‐efficiency  single‐
+speed hermetic compressors.” App. R.6, Admin. R.102 at 5‐33. 
+Nos. 14‐2147, 14‐2159, & 14‐2334                              27
+
+DOE  could  obtain  “publicly‐available  performance  data  for 
+standard  single‐speed  hermetic  compressors.”  Id.  However, 
+DOE pointed out, “[a]lthough several compressor manufac‐
+turers  produce  high‐efficiency  compressors,  little  data  are 
+currently available on their performance.” Id. at 5‐34.  
+    Despite this absence of data, DOE initially estimated that 
+high‐efficiency compressors could achieve an efficiency level 
+that was ten percent above the standard level. 79 Fed. Reg. at 
+17,760. According to the technical support document that was 
+provided alongside the notice of proposed rulemaking, “DOE 
+developed this multiplier through its own research, consulta‐
+tion with outside experts, and verification through discussion 
+with  commercial  refrigeration  equipment  manufacturers.” 
+App. R.6, Admin. R.51 at 5‐30; see also App. R.6, Admin. R.62 
+at 71 (“A general market‐vetted, industry‐vetted assumption 
+of a ten percent improvement in compressor EER being feasi‐
+ble across the board at a five percent cost premium was used 
+based on the input that we got from the industry.”). However, 
+subsequent comments from several manufacturers persuaded 
+DOE  to  abandon  its  optimism  and  to  expect  lower  perfor‐
+mance during the compliance period. Several manufacturers 
+suggested there could only be meager product improvement 
+on the basis of present technology, and one manufacturer, the 
+Danfoss group, suggested that only a two percent improve‐
+ment in efficiency was realistic. 79 Fed. Reg. at 17,760. Accord‐
+ingly,  DOE  estimated  that  a  switch  to  high‐efficiency  com‐
+pressors would yield energy savings only two percent above 
+the standard model. Id.  
+    This revision was not an “eyeball guesstimate.” In altering 
+its decision, DOE had the benefit of its earlier research as well 
+28                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+as the commentary of the manufacturers. It therefore was con‐
+fronted with significant warning that the state of the technol‐
+ogy made its earlier estimation unrealistic. In short, the pri‐
+mary purpose of the notice and comment period functioned 
+as it should have, and the agency was apprised of responsible 
+opinions contrary to its own. “[A]n agency’s change of course, 
+so long as  generally consistent with the tenor of its original 
+proposals,  indicates  that  the  agency  treats  the  notice‐and‐
+comment process seriously, and is willing to modify its posi‐
+tion where the public’s reaction persuades the agency that its 
+initial regulatory suggestions were flawed.” Am. Med. Ass’n v. 
+United States, 887 F.2d 760, 767 (7th Cir. 1989).18  
+    We  also  cannot  fault  DOE  for  placing  significant  weight 
+on the view of the Danfoss group that “it would be reasonable 
+to assume either continued use of efficient compressors avail‐
+able  today,  or  alternatively  a  1%  to  2%  efficiency  improve‐
+ment.” App. R.6, Admin. R.61‐A1 at 2; 79 Fed. Reg. at 17,760. 
+The agency had a basis for considering this manufacturer to 
+be a major supplier of CRE and one with significant institu‐
+tional experience.19 Moreover, in its letter, Danfoss stated its 
+
+                                                 
+18 See also Kern Cty. Farm Bureau v. Allen, 450 F.3d 1072, 1076 (9th Cir. 2006). 
+
+19  NAFEM  relatedly  claims  that  DOE  should  have  provided  the  public 
+
+with an opportunity to respond to the Danfoss comment. We cannot ac‐
+cept this argument. “[T]he public gets to comment on the proposed rules, 
+not on the agency’s response to earlier public comments.” Nat. Res. Def. 
+Council v. Jackson, 650 F.3d 662, 666 (7th Cir. 2011). We would only enter‐
+tain such an argument if “the revisions materially change the text, adding 
+features that the commentators could not have anticipated.” Id. Here, DOE 
+initially proposed that some compressors could achieve an efficiency level 
+that  was  ten  percent  higher  than  the  standard  compressor.  The  public 
+clearly  was  on  notice  that  DOE  might  issue  a  rule  which  assumed  that 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                      29
+
+belief  that  the  compressor  technology  available  was  “ma‐
+ture.”  App.  R.6,  Admin.  R.61‐A1  at  2.  DOE  therefore  could 
+conclude that product development on the basis of “existing 
+technologies,” 79 Fed. Reg. at 17,767, could be expected to be 
+very slow during the compliance period. Relying on present 
+technology would yield marginal improvement in compres‐
+sor performance. 
+    NAFEM  nevertheless  submits  that  the  two  percent  in‐
+crease is inconsistent with DOE’s statement in the final rule 
+“that existing technologies should be the basis of its engineer‐
+ing analysis.” Id. We believe that is an uncharitable and unre‐
+alistic  reading  of  the  administrative  record  in  its  entirety. 
+DOE simply concluded that the current state of the technol‐
+ogy, including the increased use of high‐efficiency compres‐
+sors, would yield at least an incremental improvement. Such 
+an incremental improvement “reflect[s] the options available 
+to manufacturers of commercial refrigeration equipment.” Id. 
+at 17,760. DOE’s decision may be questionable in the minds of 
+some,  but  its  decision  is  supported  by  substantial  evidence 
+and was reached through a reasoned decisionmaking process. 
+“[O]ur  role  is  limited;  we  require  only  that  the  agency 
+acknowledge factual uncertainties and identify the consider‐
+ations  it  found persuasive.” Rural  Cellular Assʹn  v. FCC, 588 
+F.3d 1095, 1105 (D.C. Cir. 2009). 
+      3.  Insulation Foam Thickness 
+   The petitioners also submit that DOE acted arbitrarily and 
+capriciously when it modeled another component: insulation. 
+DOE explained that increasing insulation foam thickness by a 
+                                                 
+compressors could achieve an efficiency level that was two percent higher 
+than the standard model.  
+30                             Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+half‐inch was a viable design option for eight primary equip‐
+ment classes of CRE. 79 Fed. Reg. at 17,749; App. R.6, Admin. 
+R.102 at  5‐43 to  5‐67. However, the petitioners  contend that 
+increasing  insulation  is  not  an  available  design  option  be‐
+cause the “footprint” of a refrigerator or freezer is sometimes 
+fixed due to limited floor space. In their view, increasing in‐
+sulation either will decrease a unit’s internal volume (which 
+could  prevent  the  storage  of  industry‐standard  sheets  and 
+pans  at restaurants) or will increase its external dimensions 
+(which could lead to narrower walkways and restrict the abil‐
+ity to move CRE units through doorways). 
+     In promulgating the final rule, however, DOE explained 
+that  it  had  conducted  manufacturer  interviews  during  the 
+rulemaking  period  and  that  the  manufacturers  had  agreed 
+that an extra half‐inch of insulation was feasible. 79 Fed. Reg. 
+at  17,749–50.  DOE  also  noted  that  a  number  of  models  cur‐
+rently on the market were already using this thickness of in‐
+sulation, which suggested that a product with this thickness 
+of insulation was useful and marketable to consumers. Id. at 
+17,750. “DOE believe[d] that this serves as a proof of concept 
+and that the resulting changes … would be of minimal impact 
+to end users.” Id. We must conclude that DOE’s investigation 
+of the situation clearly justifies its conclusion. The determina‐
+tion is supported by substantial evidence and certainly cannot 
+be characterized as arbitrary and capricious.  
+   Moreover, in promulgating the rule, DOE stated explicitly 
+that manufacturers were “free to use different design paths in 
+order  to  attain  the  performance  levels  required  by  today’s 
+rule,” should they decide that increasing the thickness of in‐
+sulation would not be a viable option for some of their con‐
+sumers.  Id.  DOE  noted,  for  example,  that  if  a  manufacturer 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                  31
+
+determines that adding insulation is not a possible or desira‐
+ble  way  to  enhance  energy  performance,  the  manufacturers 
+can instead implement enhanced evaporator coils, high‐effi‐
+ciency reciprocating compressors, and more effective vacuum 
+insulated panels. See App. R.6, Admin. R.102 at 5‐27, 5‐32 to 
+5‐34.  
+    The petitioners point out that these recommended alterna‐
+tives are not viable options for at least one class of CRE. See id. 
+at 5‐51, 10B‐3 (describing the available design options for hor‐
+izontal self‐contained freezers without doors). They also con‐
+tend  that,  for  other  classes,  alternatives  such  as  evaporator 
+coils can result in frost buildup; that high‐efficiency recipro‐
+cating compressors are noisy, expensive, and unreliable; and 
+that  vacuum  insulated  panels  are  prohibitively  expensive. 
+Even if these design options have their faults, however, they 
+are still alternative solutions that manufacturers can choose in 
+order  to  increase  energy  efficiency  for  the  vast  majority  of 
+CRE units. That one energy‐saving solution is not feasible in 
+one  class  of  CRE  does  not  prevent  DOE  from  including  it 
+among the energy‐saving devices that might be employed by 
+the industry as a whole. Similarly, drawbacks in the other en‐
+ergy‐saving  devices  do  not  prevent  DOE  from  concluding 
+that, for units in other classes, the industry may have to settle 
+for  a  less‐than‐optimum  situation  to  achieve  the  necessary 
+conservation goals. In short, DOE was on solid ground in con‐
+cluding that increasing the thickness of insulation was a fea‐
+sible design option. That conclusion is worthy of deference.  
+   AHRI and Zero Zone also contend that DOE acted capri‐
+ciously by failing to address directly a comment submitted by 
+AHRI during the rulemaking process. See App. R.6, Admin. 
+R.75 at 5. The comment noted that the estimated costs related 
+32                                Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+to improving the insulation of CRE were dramatically differ‐
+ent from DOE’s estimated costs of insulation in 2009. Id. We 
+believe  that  DOE’s  response  was  entirely  reasonable.  It  ex‐
+plained in the final rule that it “estimated the conversion costs 
+associated  with  increases  in  foam  thickness  based  on  direct 
+input from the industry in interviews, as well as through anal‐
+ysis of production equipment that is part of the engineering 
+cost model.” 79 Fed. Reg. at 17,775. The analysis, DOE noted, 
+“included capital conversion costs, including … tooling costs 
+and production line upgrades, and product conversion costs, 
+including  redesign  efforts,  testing  costs,  industry  certifica‐
+tions,  and  marketing  changes.”  Id.  DOE’s  conclusions  were 
+based on new data; there was no reason to provide further jus‐
+tification  for  departing  from  the  estimates  it  had  made  in 
+2009. There was a solid basis for DOE’s determination. It was 
+based  on  substantial  evidence  and  can  hardly  be  character‐
+ized as arbitrary or capricious.  
+      4.  Validation 
+    Finally, the petitioners contend broadly that DOE’s engi‐
+neering  analysis  is  not  based  on  real‐world  application  and 
+therefore must be verified by testing actual equipment. This 
+submission  is  governed  by  some  basic  principles.  “That  a 
+model is limited or imperfect is not, in itself, a reason to re‐
+mand agency decisions based upon it.” Appalachian Power Co. 
+v. EPA, 249 F.3d 1032, 1052 (D.C. Cir. 2001); see also In re Polar 
+Bear Endangered Species Act Listing & Section 4(d) Rule Litig.—
+MDL No. 1993, 709 F.3d 1, 13 (D.C. Cir. 2013). Rather, we will 
+remand only if the model  “bears no  rational relationship to 
+the  reality  it  purports  to  represent”  or  if  the  agency  fails  to 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                  33
+
+“provide  a  full  analytical  defense”  when  the  model  is  chal‐
+lenged. Columbia Falls Aluminum Co. v. EPA, 139 F.3d 914, 923 
+(D.C. Cir. 1998) (internal quotation marks omitted). 
+    Our previous discussions go a long way toward answer‐
+ing this broad‐brush assault on DOE’s general manner of pro‐
+ceeding.  As  we  have  demonstrated  throughout  our  earlier 
+discussion,  DOE  provided  a  complete  analytical  defense  to 
+each of the challenges that were raised during the notice and 
+comment  period.  Our  review  of  the  record  gives  us  a  high 
+level of confidence that DOE was fully aware of the inherent 
+difficulties  of  formulating  regulations  for  real‐world  situa‐
+tions  on  the  basis  of  a  model.  DOE  correctly  noted  that 
+“[i]nputs  to  the  model  included  data  from  tangible  sources 
+such  as  manufacturer  literature,  manufacturer  interviews, 
+production facility tours, reverse engineering and teardown 
+of existing products on the market, and tests of commercial 
+refrigeration  equipment  and  components.”  79  Fed.  Reg.  at 
+17,763. DOE explained that its present analytical model was 
+consistent  with  models  used  in  at  least  three  other  final 
+rules—including the 2009 CRE Standards Rule. Id. Indeed, in 
+many respects, this process can be characterized as a continu‐
+ing dialogue with the industry before the backdrop of DOE’s 
+earlier regulations.  
+    The petitioners nevertheless contend that DOE acted arbi‐
+trarily  and  capriciously  by  failing  to  test  its  conclusions 
+against  a  full  range  of  actual  CRE  equipment.  As  an  initial 
+matter, we note that an agency need not “‘justify [its] model 
+on an ad hoc basis for every [unit] to which the model is ap‐
+plied.’” Columbia Falls Aluminum Co., 139 F.3d at 923 (quoting 
+Chemical  Mfrs.  Assʹn  v.  EPA,  28  F.3d  1259,  1265  (D.C.  Cir. 
+34                              Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+1994)). In any event, DOE performed validation testing on a 
+representative sample of units: 
+       In response to the comments … that DOE per‐
+       form validation testing to confirm the veracity 
+       of  its  model,  at  the  final  rule  stage  DOE  pro‐
+       cured  a  number  of  commercial  refrigeration 
+       units  currently  on  the  market,  including  high‐
+       performance units featuring advanced designs. 
+       It gathered physical test data on each unit from 
+       certification directories and, in some cases, from 
+       independent  laboratory  tests  conducted  by 
+       DOE on the units. DOE then performed physi‐
+       cal  teardowns  and  inspection  of  the  units  to 
+       quantify  the  features  and  design  attributes  in‐
+       cluded in each model. Then, DOE used this em‐
+       pirically‐determined data as inputs into its en‐
+       gineering  model,  allowing  the  model  to  simu‐
+       late  these  specific  manufacturer  models  as 
+       closely  as  possible.  The  results  showed  good 
+       alignment between the model outputs and the 
+       physical test results across a range of equipment 
+       classes  and  efficiencies,  validating  the  abilities 
+       of the model.  
+79 Fed. Reg. at 17,763; see also App. R.6, Admin. R.102 at 5‐40 
+to 5‐41 (“The results of the energy consumption model were 
+compared  against  the  performance  data  gathered  through 
+testing or certification, and the two showed sound agreement, 
+with the energy consumption model generally being slightly 
+conservative  (modeling  the  units  as  using  slightly  more  en‐
+ergy than they consumed as tested).”). Further, “DOE utilized 
+information from the ENERGY STAR and California Energy 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                  35
+
+Commission appliance databases as a point of comparison to 
+its engineering analysis results.” 79 Fed. Reg. at 17,763 (foot‐
+notes omitted). Although DOE did not provide data or further 
+details of its validation testing, DOE did publish the web ad‐
+dresses for the appliance databases, which included the “cer‐
+tified  data”  that  “DOE  compared  its  results  against  …  as  a 
+check.” Id. 
+   This is not a close call. We are convinced that DOE’s engi‐
+neering analysis, including its use of an analytical model, was 
+neither arbitrary nor capricious.  
+    
+B.  Economic Analysis 
+     The EPCA requires that efficiency standards be “econom‐
+ically justified.” 42 U.S.C. § 6295(o)(2)(A). In addressing this 
+statutory  mandate,  DOE  established  five  different  “trial 
+standard  levels,”  and  determined  which  “level”  would  be 
+economically and technologically feasible. See 79 Fed. Reg. at 
+17,738, 17,803. It originally proposed that the benefits of the 
+second‐highest level of standards would outweigh the costs. 
+78 Fed. Reg. at 55,948. After receiving public comment, it de‐
+termined that the third‐highest level would be more appro‐
+priate. 79 Fed. Reg. at 17,810. DOE concluded that this level of 
+standards would produce a net benefit to consumers between 
+$4.93 and $11.74 billion and reduce greenhouse gas emissions. 
+Id.  at  17,728–29,  17,780–11.  Conversely,  the  new  standards 
+would cost manufacturers between $93.9 and $165 million. Id. 
+at  17,795–96.  DOE  determined  therefore  that  the  standards 
+were  justified.  Id.  at  17,810–11.  The  petitioners  fault  DOE’s 
+economic analysis in several ways. We now address each of 
+those arguments.  
+36                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+      1.  Elasticity 
+    The  petitioners  first  contend  that  DOE  acted  arbitrarily 
+and  capriciously  when  it  assumed  that  the  new  standards 
+would not result in significant changes in purchasing behav‐
+ior. DOE essentially treated CRE as “price inelastic,” meaning 
+that  an  increase  in  the  price  of  CRE  would  not  impact  the 
+amount of CRE purchased. See 79 Fed. Reg. at 17,770. The pe‐
+titioners  object  to  that  assumption,  noting  that  consumers 
+could refurbish used equipment or switch to cheaper, less‐ef‐
+ficient models of CRE.  
+   Our review of the record convinces us that DOE’s consid‐
+eration of this issue was certainly more balanced and careful 
+than  the  petitioners  suggest.  DOE  explained  in  the  New 
+Standards Rule that it “did not have enough information on 
+CRE customer behavior to explicitly model” the effects of the 
+new  standards  on  demand,  and  therefore  it  had  to  make  a 
+                                                               20
+prediction about the market for CRE. Id.  In its technical sup‐
+port document, DOE reasoned:  
+           In general, when the data are available[,] DOE 
+           incorporates a purchase price elasticity into the 
+           shipments model. This allows for the possibility 
+           that total shipments will fall under a standard, 
+           due to a rise in the first cost of the equipment. 
+           For  commercial  refrigeration  equipment,  DOE 
+
+
+                                                 
+20 DOE made clear, during a public hearing, that more information was 
+
+needed to measure price elasticity, and told industry leaders that “if you 
+can supply that information, then we can incorporate that into our mod‐
+els.” App. R.6, Admin. R.62 at 220–21. That information was never pro‐
+vided. 79 Fed. Reg. at 17,770.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                            37
+
+           did not have access to any data that would al‐
+           low the estimation of purchase price elasticities. 
+           Therefore the  total  shipments in  the  standards 
+           case  scenarios  are  the  same  as  the  total  ship‐
+           ments in the base case scenario. As most users 
+           of  this  equipment  are  subject  to  health  codes 
+           and other regulations, it is not very likely that a 
+           business  owner  would  forego  the  purchase  of 
+           needed equipment even under a price increase. 
+           Price  sensitivity  is  more  likely  to  occur  in  the 
+           form  of  increased  equipment  lifetimes.  How‐
+           ever, equipment lifetimes for food sales and ser‐
+           vice are driven primarily by the remodeling cy‐
+           cle, and so are unlikely to be affected on the av‐
+           erage by a standard. 
+App. R.6, Admin. R.102 at 9‐8 to 9‐9.  
+    DOE’s analysis hardly is arbitrary and capricious. A busi‐
+ness must store food at a proper temperature in order to com‐
+ply  with  health  code  regulations.  Consequently,  in  DOE’s 
+view, restaurants and other businesses will purchase CRE re‐
+gardless  of  its  price.  A  refrigerator  cannot  easily  be  substi‐
+tuted.  DOE  reasonably  concluded  that  CRE  is  a  “necessity” 
+for  restaurants  and  other  businesses,  which  makes  demand 
+                                 21
+relatively inelastic.  That conclusion is worthy of our defer‐
+ence.  
+
+
+                                                 
+21 See Crystal Semiconductor Corp. v. TriTech Microelecs. Int’l, Inc., 246 F.3d 
+
+1336, 1359 (Fed. Cir. 2001) (“[I]f substitution of a product were impossible 
+and the product were a necessity, elasticity of demand would be zero … 
+.”). 
+38                               Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+    The petitioners note that businesses could refurbish used 
+equipment and that this ability to “substitute” proves that the 
+market for CRE is elastic. Indeed, in the New Standards Rule, 
+“DOE acknowledge[d] that increases in price due to amended 
+standards  could  lead  to  more  refurbishing  of  equipment  (or 
+purchase of used equipment).” 79 Fed. Reg. at 17,770 (empha‐
+sis added). DOE simply decided “that the extent of refurbish‐
+ing would not be so significant as to change the ranking of the 
+[trial  standard  levels]  considered  for  today’s  rule.”  Id.  DOE 
+has the authority “to make such a prediction about the market 
+it regulates, and a reasonable prediction deserves our defer‐
+ence notwithstanding that there might also be another reason‐
+able  view.”  Envtl.  Action,  Inc.  v.  FERC,  939  F.2d  1057,  1064 
+(D.C. Cir. 1991); see also White Eagle Coop. Assʹn v. Conner, 553 
+F.3d 467, 475 (7th Cir. 2009). 
+    The petitioners also suggest that businesses could switch 
+to  more  affordable  and  less  efficient  CRE.  The  trend  in  the 
+CRE market has been towards more efficient “closed” equip‐
+ment with transparent doors and away from “open” equip‐
+ment that does not have doors. See 79 Fed. Reg. at 17,770. The 
+petitioners contend that the new standards will reverse that 
+trend, as closed equipment will lose its utility. DOE acknowl‐
+edged this concern in the New Standards Rule. DOE pointed 
+out that at least one manufacturer “had not observed a rever‐
+sal of the trend toward closed units in response to previous 
+efficiency standards.”  Id. DOE also  responded to one  of the 
+stakeholders’  major  concerns  that  the  use  of  triple‐pane 
+coated glass would reduce the visibility of objects in  a  CRE 
+unit and thus decrease the utility of a closed unit. Id. DOE ex‐
+plained  that  the  new  standards  “do  not  require  triple‐pane 
+coated glass.” Id. DOE thus concluded that the new standards 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                        39
+
+would not reverse the consumer trend toward closed equip‐
+ment. Id.  
+    Without evidence that contradicts DOE’s assumptions, we 
+cannot conclude that DOE’s conclusions were “so implausible 
+that  it  could  not  be  ascribed  to  a  difference  in  view  or  the 
+product of agency expertise.” Natʹl Assʹn of Home Builders, 551 
+U.S.  at  658  (internal  quotation  marks  omitted);  see  also  USA 
+Grp. Loan Servs., Inc., v. Riley, 82 F.3d 708, 714 (7th Cir. 1996); 
+W. Fuels‐Ill., Inc., 878 F.2d at 1030. The petitioners have failed 
+to show that DOE acted arbitrarily or capriciously when it de‐
+termined that CRE was price inelastic.  
+      2.  Environmental Benefits 
+    DOE  considered  the  environmental  benefits  of  the 
+amended  standards  when  determining  whether  the  New 
+Standards Rule was “economically justified.” 79 Fed. Reg. at 
+17,738. In particular, DOE employed “an estimate of the mon‐
+etized  damages  associated  with  an  incremental  increase  in 
+carbon emissions in a given year,” known as the Social Cost 
+                                                    22
+of Carbon (“SCC”). Id. at 17,777.  The petitioners contend that 
+the EPCA does not allow DOE to consider environmental fac‐
+tors and that DOE abused its  discretion when it considered 
+them.  In  the  alternative,  the  petitioners  contend  that  DOE’s 
+analysis of the SCC was itself arbitrary and capricious.  
+  We  turn  first  to  DOE’s  statutory  authority  under  the 
+EPCA. An agency decision is arbitrary and capricious when 
+
+
+                                                 
+22 The estimate “include[s] (but is not limited to) changes in net agricul‐
+
+tural productivity, human health, property damages from increased flood 
+risk, and the value of ecosystem services.” 79 Fed. Reg. at 17,777. 
+40                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+the agency “has relied on factors which Congress had not in‐
+tended it to consider.” Natʹl Assʹn of Home Builders, 551 U.S. at 
+658  (internal  quotation  marks  omitted).  Here,  however,  the 
+EPCA specifically requires DOE to consider “the need for na‐
+tional     energy        …       conservation.”     42     U.S.C. 
+§ 6295(o)(2)(B)(i)(VI).  In  the  New  Standards  Rule,  DOE  ex‐
+plained that the “Need of the Nation to Conserve Energy” in‐
+cludes  the  “potential  environmental  benefits”  which  would 
+result. 79 Fed. Reg. at 17,738 (citing the Rule’s subsection on 
+SCC). To determine whether an energy conservation measure 
+is appropriate under a cost‐benefit analysis, the expected re‐
+duction  in  environmental  costs  needs  to  be  taken  into  ac‐
+count.23 We have no doubt that Congress intended that DOE 
+have the authority under the EPCA to consider the reduction 
+             24
+in SCC.  
+    Alternatively,  AHRI  and  Zero  Zone  contend  that  DOE’s 
+calculation  of  SCC  was  irredeemably  flawed.  They  submit 
+that DOE failed to address three concerns about these calcu‐
+lations raised by the Chamber of Commerce in a letter during 
+                                                 
+23 This argument is highlighted by an amicus brief submitted by the Insti‐
+
+tute for Policy Integrity at New York University School of Law. The peti‐
+tioners argue that we should strike the amicus brief from the record. That 
+motion is denied.  
+24 Although we need not reach these questions today, DOE probably also 
+
+had  the  authority  to  consider  environmental  benefits  under  42  U.S.C. 
+§ 6295(o)(2)(B)(i)(I),  which  allows  the  agency  to  consider  “the  economic 
+impact of the standard on the manufacturers and on the consumers of the 
+products subject to such standard.” Environmental benefits have an eco‐
+nomic impact. Further, DOE would have the authority to consider envi‐
+ronmental  benefits  under  42  U.S.C.  §  6295(o)(2)(B)(i)(VII),  which  allows 
+DOE to consider “other factors the Secretary considers relevant.” 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                                     41
+
+the notice and comment period. See App. R.6, Admin. R.79‐
+      25
+A2.  That letter complained that: (1) who exactly worked on 
+the SCC analysis had not been made public, id. at 5–7; (2) the 
+inputs to the models were not peer reviewed, id. at 7–9; and 
+(3) the “damages functions,” or variables based on problems 
+like sea level rise, were determined in an arbitrary manner, id. 
+at 12. DOE  responded to the letter in general, noting that it 
+“acknowledge[d]  the  limitations  in  the  SCC  estimates.”  79 
+Fed. Reg. at 17,779. DOE then referenced letters from multiple 
+parties  that  supported  the  SCC  values,  a  2010  interagency 
+group report on the discount rates used, and the OMB’s Final 
+Information  Quality  Bulletin  for  Peer  Review.  Id.  Although 
+DOE  did  not  respond  to  the  specific  points  laid  out  in  the 
+Chamber of Commerce letter, it did respond to the Chamber 
+of Commerce’s general concerns and made clear that, despite 
+those concerns, the calculation of SCC could be used. See St. 
+James  Hosp.  v.  Heckler,  760  F.2d  1460,  1469  (7th  Cir.  1985). 
+DOE’s determination of SCC was neither arbitrary nor capri‐
+cious.  
+      3.  Cost‐Benefit Analysis  
+   The petitioners raise a series of objections to DOE’s gen‐
+eral  approach  to  weighing  the  costs  and  benefits  of  its  new 
+standards.  In  their  view,  DOE’s  analysis  overestimated  the 
+benefits of the new rule and underestimated its costs.  
+                                                 
+25 AHRI and Zero Zone frame this issue as a violation of the Information 
+
+Quality Act. See 44 U.S.C. § 3516 note (a). However, “almost every court 
+that has addressed an Information Quality Act challenge has held that the 
+statute ‘creates no legal rights in any third parties.’” Miss. Commʹn on En‐
+vtl. Quality v. EPA, 790 F.3d 138, 184 (D.C. Cir. 2015) (quoting Salt Inst. v. 
+Leavitt,  440  F.3d  156,  159  (4th  Cir.  2006)).  That  being  said,  the  APA  still 
+affords the petitioners the right to bring this challenge.  
+42                             Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+   The petitioners first contend that DOE arbitrarily consid‐
+ered indirect benefits like carbon reduction over hundreds of 
+years but ignored indirect costs like the long‐term effects on 
+displaced workers. DOE fully responded to that objection in 
+the New Standards Rule: 
+           AHRI stated that DOE calculates the present 
+      value of the costs of standards to consumers and 
+      manufacturers  over  a  30‐year  period,  but  the 
+      SCC  values  reflect  the  present  value  of  future 
+      climate related impacts well beyond 2100. AHRI 
+      stated that DOE’s comparison of 30 years of cost 
+      to hundreds of years of presumed future bene‐
+      fits is inconsistent and improper. (AHRI, No. 84 
+      at p.12)  
+          For  the  analysis  of  national  impacts  of  the 
+      proposed  standards,  DOE  considered  the  life‐
+      time impacts of equipment shipped in a 30‐year 
+      period. With respect to energy and energy cost 
+      savings, impacts continue past 30 years until all 
+      of the equipment shipped in the 30‐year period 
+      is retired. With respect to the valuation of CO2 
+      emissions reductions, the SCC estimates devel‐
+      oped  by  the  interagency  working  group  are 
+      meant  to  represent  the  full  discounted  value 
+      (using an appropriate range of discount rates) of 
+      emissions reductions occurring in a given year. 
+      DOE  is  thus  comparing  the  costs  of  achieving 
+      the  emissions  reductions  in  each  year  of  the 
+      analysis, with the carbon reduction value of the 
+      emissions reductions in those same years. Nei‐
+Nos. 14‐2147, 14‐2159, & 14‐2334                                           43
+
+           ther  the  costs  nor  the  benefits  of  emissions  re‐
+           ductions outside the analytic time frame are in‐
+           cluded in the analysis. 
+79 Fed. Reg. at 17,779. DOE further explained in the technical 
+support document  that these  standards  “should  lead  to  up‐
+ward  pressure  on  wages  and  a  shift  in  employment  away 
+from  electricity  generation  towards  consumer  goods.  Note 
+that in long‐run equilibrium there is no net effect on total em‐
+ployment  since  wages  adjust  to  bring  the  labor  market  into 
+                                                         26
+equilibrium.” App. R.6, Admin. R.102 at 16‐3.  DOE therefore 
+found  that  the  reduction  of  carbon  over  thirty  years  would 
+have  long‐term  effects  on  the  environment  but  that  the  in‐
+creased costs over thirty years would not have long‐term ef‐
+fects on employment. The petitioners may disagree with the 
+merits of DOE’s conclusion, but DOE’s analysis is neither ar‐
+bitrary nor capricious.  
+    AHRI  and  Zero  Zone  next  contend  that  DOE  arbitrarily 
+considered  the  global  benefits  to  the  environment  but  only 
+considered the national costs. They emphasize that the EPCA 
+only concerns “national energy and water conservation.” 42 
+U.S.C. § 6295(o)(2)(B)(i)(VI). In the New Standards Rule, DOE 
+did not let this submission go unanswered. It explained that 
+climate change “involves a global externality,” meaning that 
+carbon released in the United States affects the climate of the 
+entire world. 79  Fed. Reg. at 17,779. According to  DOE, na‐
+tional energy conservation has global effects, and, therefore, 
+those  global  effects  are  an  appropriate  consideration  when 
+looking at a national policy. Id. Further, AHRI and Zero Zone 
+                                                 
+26 See also 79 Fed. Reg. at 17,780 (referring to this section of the technical 
+
+support document). 
+44                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+point  to  no  global  costs  that  should  have  been  considered 
+alongside  these  benefits.  Therefore,  DOE  acted  reasonably 
+when it compared global benefits to national costs.  
+    Finally, AHRI and Zero Zone criticize DOE’s determina‐
+tion of discount rates for CRE in its cost estimate. DOE used 
+the “Capital Asset Pricing Model” (“CAPM”) to estimate the 
+cost of equity financing. The CAPM assumes that the cost of 
+equity is proportional to the amount of systemic risk of failure 
+associated with a company. The model therefore estimates the 
+overall risks and returns for all of a firm’s capital, rather than 
+the risks and returns associated with one specific asset. The 
+petitioners,  however,  believe  that  DOE  should  have  used  a 
+model specific to the risks and returns of CRE. They contend 
+that DOE did not adequately respond to a comment from the 
+Mercatus  Center  at  George  Mason  University,  which  urged 
+DOE to adopt an analysis of capital costs that was particular 
+to CRE.27 However, DOE addressed the Mercatus comment in 
+the New Standards Rule in sufficient detail: 
+                The cost of capital is commonly used to esti‐
+            mate the present value of cash flows to be de‐
+            rived from a typical company project or invest‐
+            ment, and the CAPM is among the most widely 
+
+
+                                                 
+27  Specifically,  the  Mercatus  comment  urged  that  a  more  particularized 
+
+model  was  appropriate  because  (1)  CRE  has  a  higher  depreciation  rate 
+than other products (meaning it will decrease in value quicker), and (2) 
+CRE has a lower salvage value than other products (meaning that it cannot 
+be resold as easily). App. R.6, Admin. R.72‐A1 at 2–3. If CRE decreases in 
+value at a faster rate than the average product, and if CRE cannot be resold 
+as easily as the average product, then a company may be less willing to 
+purchase CRE at a higher price than other products at a higher price.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                              45
+
+           used  models  to  estimate  the  cost  of  equity  fi‐
+           nancing. The types of risk mentioned by Merca‐
+           tus  may  exist,  but  the  cost  of  equity  financing 
+           tends to be high when a company faces a large 
+           degree of systemic risk, and it tends to be low 
+           when the company faces a small degree of sys‐
+           temic  risk.  DOE’s  approach  estimates  this  risk 
+           for  the  set  of  companies  that  could  purchase 
+           [CRE].  
+Id.  at  17,767.  DOE  considered  the  point  and  concluded  that 
+the  cost  of  equity  financing  is  commonly  determined  at  the 
+firm‐wide  level  rather  than  unit‐by‐unit.  Id.  Therefore,  the 
+CAPM provided an appropriate estimate of the cost of equity 
+financing. DOE’s choice of economic model was neither arbi‐
+                                   28
+trary nor capricious.   
+     4.  Anticompetitive Effects 
+   The petitioners contend that DOE’s consideration of anti‐
+competitive effects was both substantively and procedurally 
+arbitrary  and  capricious.  In  its  cost‐benefit  analysis,  DOE 
+
+                                                 
+28 When discussing the Mercatus comment, AHRI and Zero Zone also con‐
+
+tend that DOE was required to identify a “market failure” that justified 
+the amended efficiency standards. AHRI Br. 30; AHRI Reply Br. 22. The 
+petitioners rely on Schurz Commc’ns, Inc. v. FCC, 982 F.2d 1043 (7th Cir. 
+1992) for this proposition. In Schurz, however, the agency had previously 
+ruled that it could “not intervene in the market except where there is evi‐
+dence of a market failure.” Id. at 1053 (internal quotation marks omitted). 
+The agency therefore was bound by its previous ruling. Id. Here, the EPCA 
+merely requires DOE to promulgate standards which are “technologically 
+feasible  and  economically  justified.”  42  U.S.C.  § 6295(o)(2)(A).  The  peti‐
+tioners point to no statute or agency rule that requires DOE to identify a 
+market failure. Therefore, their argument is without merit.  
+46                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+must consider the anticompetitive effects of its proposed rule 
+“as determined in writing by the Attorney General.” 42 U.S.C. 
+§ 6295(o)(2)(B)(i)(V). Pursuant to this provision, the Assistant 
+Attorney General for the Antitrust Division, acting on behalf 
+of the Attorney General, sent DOE a letter (the “DOJ letter”). 
+The  letter  stated  that  “the  proposed  energy  conservation 
+standards for commercial refrigeration equipment [we]re un‐
+likely to have a significant adverse impact on competition.” 
+80 Fed. Reg. at 44,892. DOE relied on  this letter in the New 
+Standards Rule and considered the Attorney General’s deter‐
+mination  in  its  cost‐benefit  analysis.  79  Fed.  Reg.  at  17,803. 
+The petitioners contend that the DOJ letter does not articulate 
+adequately the reasoning behind the Attorney General’s de‐
+termination. They also contend that both the DOJ letter’s sub‐
+mission  to  DOE  and  its  publication  to  the  Federal  Register 
+were untimely. 
+    As originally enacted, the EPCA instructed the rulemak‐
+ing agency (then the FEA, now DOE) to consider anticompet‐
+itive  effects  in  its  cost‐benefit  analysis.  Pub.  L.  No.  94‐163, 
+                                           29
+§ 325,  89  Stat.  at  924–25.   However,  the  rulemaking  agency 
+
+                                                 
+29 The EPCA originally read: 
+
+           (D)  For  purposes  of  subparagraph  (B),  improvement  of 
+           energy efficiency is economically justified if it is econom‐
+           ically  feasible  the  benefits  of  reduced  energy  consump‐
+           tion,  and  the  savings  in  operating  costs  throughout  the 
+           estimated  average  life  of  the  covered  product,  out‐
+           weigh— 
+                 … 
+                 (iii) any negative effects on competition. 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                                47
+
+was not given the authority to determine anticompetitive ef‐
+fects on its own. Instead, only the Attorney General could de‐
+termine the extent of a regulation’s impact on competition. § 
+625, 89 Stat. at 925. The Attorney General would only make 
+such  a  determination  “on  request  of  the  Administrator,  the 
+Commission, or any person, or on his own motion.” Id. If the 
+Attorney  General decided not  to  submit  a letter  with  his or 
+her  assessment  of  anticompetitive  effects,  then  the  agency 
+could not consider anticompetitive effects at all.  
+   Three  years  after  the  EPCA’s  enactment,  these  clauses 
+were amended to their current form. Pub. L. No. 95‐619, § 422, 
+92 Stat. at 3259–60. Under the EPCA as amended, the Attor‐
+ney General always makes a determination about a proposed 
+                                                    30
+rule’s anticompetitive effects.  That determination is submit‐
+
+
+                                                 
+           (E)  For  purposes  of  subparagraph (D)(iii),  the  Adminis‐
+           trator shall not determine that there are any negative ef‐
+           fects on competition, unless the Attorney General (on re‐
+           quest of the Administrator, the Commission, or any per‐
+           son,  or  on  his  own  motion)  makes  such  determination 
+           and submits it in writing to the Administrator, together 
+           with his analysis of the nature and extent of such negative 
+           effects. The determination of the Attorney General shall 
+           be available for public inspection.  
+Energy  Policy  and  Conservation  Act,  Pub.  L.  No.  94‐163,  §  325,  89  Stat. 
+871, 924–25 (1975).  
+30 According to the EPCA:  
+
+           (i) In determining whether a standard is economically jus‐
+           tified, the Secretary shall, after receiving views and com‐
+           ments furnished with respect to the proposed standard, 
+           determine whether the benefits of the standard exceed its 
+48                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+ted  to  DOE  within  sixty  days  of  the  publication  of  the  pro‐
+posed rule. 42 U.S.C. § 6295(o)(2)(B)(ii). DOE must then con‐
+sider the “lessening of competition, as determined in writing 
+by the Attorney General,” in its overall cost‐benefit analysis. 
+Id. § 6295(o)(2)(B)(i)(V). DOE then publishes the letter in the 
+Federal Register. Id. § 6295(o)(2)(B)(ii). Just like its predeces‐
+sor, the amended EPCA does not grant DOE the authority to 
+alter  DOJ’s  conclusions  or  to  determine  anticompetitive  ef‐
+fects on its own. 
+    The  petitioners  contend  that  the  DOJ  letter  provided  in‐
+sufficient reasoning and that DOE therefore erred in relying 
+on this letter. We cannot accept this argument. DOE’s reliance 
+on  the  DOJ  letter  was  clearly  consistent  with  its  secondary 
+
+                                                 
+            burdens  by,  to  the  greatest  extent  practicable,  consider‐
+            ing— 
+                  … 
+                 (V) the impact of any lessening of competition, as de‐
+                 termined in writing by the Attorney General, that is 
+                 likely to result from the imposition of the standard; 
+                 … 
+           (ii)  For  purposes  of  clause  (i)(V),  the  Attorney  General 
+           shall make a determination of the impact, if any, of any 
+           lessening of competition likely to result from such stand‐
+           ard and shall transmit such determination, not later than 
+           60 days after the publication of a proposed rule prescrib‐
+           ing  or  amending  an  energy  conservation  standard,  in 
+           writing to the Secretary, together with an analysis of the 
+           nature and  extent  of  such  impact.  Any  such  determina‐
+           tion  and  analysis  shall  be published  by  the  Secretary  in 
+           the Federal Register. 
+42 U.S.C. § 6295(o)(2)(B).  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                49
+
+role under this provision of the EPCA. DOE’s statutory duty 
+under the EPCA is to defer to the Attorney General. The New 
+Standards Rule makes clear that DOE acted in complete ac‐
+cordance with the statute:  
+           EPCA directs DOE to consider any lessening 
+       of competition that is likely to result from stand‐
+       ards. It also directs the Attorney General of the 
+       United  States  (Attorney  General)  to  determine 
+       the impact, if any, of any lessening of competi‐
+       tion  likely  to  result  from  a  proposed  standard 
+       and to transmit such determination to the Sec‐
+       retary within 60 days of the publication of a pro‐
+       posed  rule  and  simultaneously  proposed  rule, 
+       together with an analysis of the nature and ex‐
+       tent of the impact. (42 U.S.C. 6295(o)(2)(B)(i)(V) 
+       and  (B)(ii))  To  assist  the  Attorney  General  in 
+       making  a  determination  for  CRE  standards, 
+       DOE provided the Department of Justice (DOJ) 
+       with copies of the [notice of proposed rulemak‐
+       ing]  and  the  [technical  support  document]  for 
+       review.  DOE  received  no  adverse  comments 
+       from DOJ regarding the proposal. 
+79  Fed.  Reg.  at  17,803.  DOE  did  exactly  what  the  EPCA  in‐
+structs. Once it published the notice of proposed rulemaking, 
+it awaited the Attorney General’s assessment of the effect on 
+competition.  In  fact,  DOE  provided  the  Attorney  General 
+with  additional  information—in  a  technical  support  docu‐
+ment—so  that  it  could  receive  a  more  informed  determina‐
+tion. After reviewing this document, the transcript of the pub‐
+lic  meeting,  and  other  “supplementary  information,”  DOJ 
+provided  a  response  that  articulated  enough  information  to 
+50                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+allow DOE to adequately consider anticompetitive effects. See 
+80 Fed. Reg. at 44,892. DOE then considered this “relevant fac‐
+tor[],”  among  the  other  statutory  factors,  in  its  cost‐benefit 
+analysis. Citizens to Preserve Overton Park v. Volpe, 401 U.S. 402, 
+416 (1971); see also 42 U.S.C. § 6295(o)(2)(B)(i)(V). Under the 
+EPCA, DOE could do no more. We are convinced that DOE’s 
+approach was neither arbitrary nor capricious. Motor Vehicle 
+Mfrs. Ass’n, 463 U.S. at 43.  
+    We must also determine whether the submission and pub‐
+lication of the DOJ letter were “without observance of proce‐
+dure required by law.” 5 U.S.C. § 706(2)(D). AHRI and Zero 
+Zone contend that the DOJ letter was submitted to DOE after 
+the  EPCA’s  deadline.  They  also  contend  that  the  DOJ  letter 
+was untimely published in the Federal Register. 
+     Under the EPCA, the Attorney General is required to sub‐
+mit its letter “not later than 60 days after the publication of a 
+proposed rule.” 42 U.S.C. § 6295(o)(2)(B)(ii). However, the As‐
+sistant  Attorney  General  for  Antitrust  did  not  respond  to 
+DOE until 75 days after the notice of proposed rulemaking. 80 
+Fed.  Reg.  at  44,892.  Although  DOJ  erred  when  it  submitted 
+the letter fifteen days late, the error was harmless. “[D]ue ac‐
+count shall be taken of the rule of prejudicial error.” 5 U.S.C. 
+§ 706. “[I]f we are sure that the agency would if we remanded 
+the case reinstate its decision—if in other words the error in 
+its  decision  was  harmless—a  reversal  would  be  futile  …  .” 
+People  of  the  State  of  Ill.  v.  ICC,  722  F.2d  1341,  1348  (7th  Cir. 
+1983); see also Spiva v. Astrue, 628 F.3d 346, 353 (7th Cir. 2010). 
+Further, “[w]e will not invalidate [an agency] decision based 
+on procedural error unless the errors alleged could have af‐
+fected the outcome.” Zevallos v. Obama, 793 F.3d 106, 115 (D.C. 
+Cir.  2015).  The  DOJ  letter  was  submitted  on  November  25, 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                 51
+
+2013. See 80 Fed. Reg. at 44,892. The final rule was not pub‐
+lished until several months later, on March 28, 2014. 79 Fed. 
+Reg. at 17,726. DOE had enough time to consider fully the At‐
+torney General’s determination of anticompetitive effects and 
+to factor that determination into its cost‐benefit analysis. In‐
+deed, DOE fully considered the DOJ letter in its final rule. Id. 
+at 17,803.  
+     The  petitioners  note  that  the  DOJ  letter  was  submitted 
+thirteen days after the period for public comment had closed; 
+the public therefore was denied the opportunity to respond to 
+the  Attorney  General’s  analysis.  However,  this  lack  of  time 
+for  public  comment  does  not  render  the  procedural  error 
+harmful.  Under  the  EPCA,  the  notice  and  comment  period 
+shall last “not less than 60 days” after publication of the notice 
+of  proposed  rulemaking.  42  U.S.C.  §  6295(p)(2)  (emphasis 
+added). However, the DOJ must submit its letter within sixty 
+days of the publication of the notice of proposed rulemaking. 
+Id.  §  6295(o)(2)(B)(ii).  Had  Congress  intended  the  public  to 
+have the opportunity to respond to the DOJ letter, it would 
+have imposed its deadline for submission of the letter before 
+the end of any notice and comment period. Instead, Congress 
+imposed  a  deadline  that  ensured  DOE—but  not  necessarily 
+the  public—had  enough  time  to  consider  the  letter.  We  are 
+convinced  that  this  procedural  error  did  not  impair  DOE’s 
+ability to consider anticompetitive effects and we will not re‐
+verse on this basis. 
+   The EPCA also states that “[a]ny such determination and 
+analysis  shall  be  published  by  the  Secretary  in  the  Federal 
+Register.” Id. Here, DOE did not publish the DOJ letter until 
+July  28,  2015,  which  the  petitioners  contend  was  untimely. 
+52                                Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+However, the EPCA does not impose a deadline for publica‐
+tion. In the absence of any statutory language imposing such 
+a requirement, we cannot hold that the delayed publication of 
+this letter was “without observance of procedure required by 
+law.” 5 U.S.C. § 706(2)(D).  
+       
+C.  Regulatory Flexibility Analysis 
+     The petitioners’ concerns about the New Standards Rule’s 
+anticompetitive effects also were addressed, in part, by DOE’s 
+discussion of the standards’ impact on small businesses. The 
+Regulatory Flexibility Act (“RFA”), 5 U.S.C. § 601 et seq., re‐
+quires agencies to assess the effect of their rules on small en‐
+tities. Under the RFA, “[w]hen an agency promulgates a final 
+rule under section 553 of this title, … the agency shall prepare 
+a final regulatory flexibility analysis.” 5 U.S.C. § 604(a). Ac‐
+cordingly, DOE included such an analysis in its final rule. 79 
+Fed. Reg. at 17,812–14. In that analysis, DOE acknowledged 
+that “[s]mall firms would likely be at a disadvantage,” but it 
+determined that no alternative program would be viable. Id. 
+at 17,814.  
+    The petitioners contend that DOE’s final regulatory flexi‐
+bility  analysis  failed  to  comply  with  the  RFA.  The  RFA  re‐
+quires a final regulatory flexibility analysis to include, in rel‐
+evant part: 
+          [A] description of the steps the agency has taken 
+          to minimize the significant economic impact on 
+          small  entities  consistent  with  the  stated  objec‐
+          tives  of  applicable  statutes,  including  a  state‐
+          ment of the factual, policy, and legal reasons for 
+          selecting  the  alternative  adopted  in  the  final 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                             53
+
+            rule and why each one of the other significant 
+            alternatives to the rule considered by the agency 
+            which affect the impact on small entities was re‐
+            jected.  
+5 U.S.C. § 604(a)(6). At the outset, we note that “the Act does 
+not  require  rules  that  are  less  burdensome  for  small  busi‐
+nesses;” it instead requires that “agencies … explain why any 
+such alternatives were rejected.” Council for Urological Interests 
+v. Burwell, 790 F.3d 212, 226 (D.C. Cir. 2015). When reviewing 
+an  agency’s  compliance  with  the  RFA,  we  ask  whether  the 
+agency’s  analysis  “demonstrat[es]  a  ‘reasonable,  good‐faith 
+effort to carry out [the RFA’s] mandate.’” U.S. Cellular Corp. v. 
+FCC,  254  F.3d  78,  88  (D.C.  Cir.  2001)  (quoting  Alenco 
+                                                                       31
+Commcʹns, Inc. v. FCC, 201 F.3d 608, 625 (5th Cir. 2000).   
+    In its final regulatory flexibility analysis, DOE identified 
+thirty‐two  CRE  manufacturers  that  met  the  definition  of  a 
+small business, and it interviewed four of those manufactur‐
+ers. 79 Fed. Reg. at 17,813. DOE concluded that “small busi‐
+nesses will likely have greater increases in component costs 
+than large businesses,” and “may have greater difficulty ob‐
+taining credit.” Id. After reaching this conclusion, DOE con‐
+sidered  several  different  policy  alternatives,  including:  “(1) 
+[n]o  change  in  the  standard;  (2)  consumer  rebates;  (3)  con‐
+sumer tax credits; (4) manufacturer tax credits; (5) voluntary 
+energy  efficiency  targets;  and  (6)  bulk  government  pur‐
+
+
+                                                 
+31 See also Ranchers Cattlemen Action Legal Fund United Stockgrowers of Am. 
+
+v. U.S. Depʹt of Agric., 415 F.3d 1078, 1101 (9th Cir. 2005); Associated Fisher‐
+ies, Inc. v. Daley, 127 F.3d 104, 114 (1st Cir. 1997). 
+54                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+chases.”  Id.  at  17,814.  Those  policy  alternatives  were  dis‐
+                                                                            32
+cussed  in  detail  in  the  technical  support  document.   After 
+considering  each  alternative,  “DOE  determined  that  the  en‐
+ergy  savings  of  these  alternatives  are  significantly  smaller 
+than those that would be expected to result from adoption of 
+the amended standard levels,” and it opted not to adopt any 
+of the alternatives. Id.  
+    The petitioners nevertheless note that DOE failed to con‐
+sider an exemption for small businesses in its final regulatory 
+flexibility analysis. Under § 604 of the RFA, an agency must 
+discuss “each one of the other significant alternatives” in its 
+final  regulatory  flexibility analysis. 5 U.S.C. §  604. The RFA 
+does  not  require  that  an  agency  “address  every  alternative, 
+but only that it address significant ones.” Associated Fisheries, 
+Inc. v. Daley, 127 F.3d 104, 115 (1st Cir. 1997); see also Ranchers 
+Cattlemen Action Legal Fund United Stockgrowers of Am. v. U.S. 
+Depʹt of Agric., 415 F.3d 1078, 1102 (9th Cir. 2005). In the peti‐
+tioners’ view, a small business exemption constitutes a signif‐
+icant alternative and must be considered. 
+    Section 604 does not define what the RFA considers to be 
+“significant” alternatives. See 5 U.S.C. § 604. However, when 
+describing an agency’s duty to write an initial regulatory flex‐
+ibility analysis, § 603 states that: 
+            Consistent with the stated objectives of applica‐
+            ble statutes, the analysis shall discuss significant 
+            alternatives such as— 
+                  (1) the establishment of differing compliance 
+                  or reporting requirements or timetables that 
+
+                                                 
+32 App. R.6, Admin. R.66 at 17‐1 to 17‐A‐20.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                                   55
+
+                 take into account the resources available to 
+                 small entities; 
+                 (2) the clarification, consolidation, or simpli‐
+                 fication  of  compliance  and  reporting  re‐
+                 quirements under the rule for such small en‐
+                 tities; 
+                  (3) the use of performance rather than design 
+                  standards; and  
+                 (4)  an  exemption  from  coverage  of  the  rule,  or 
+                 any part thereof, for such small entities. 
+Id.  § 603(c)  (emphases  added). According to the  petitioners, 
+agencies must also consider all four of these “significant alter‐
+natives” in their final regulatory flexibility analysis. Therefore, 
+the petitioners contend, by not considering one of the alterna‐
+tives  listed  in  §  603  during  its  final  analysis,  DOE  failed  to 
+                                                                       33
+comply with its obligation under § 604 of the RFA.   
+   Section 603 of the RFA limits the definition of a “signifi‐
+cant alternative” to one which is “[c]onsistent with the stated 
+                                                 
+33 To the extent that the petitioners are raising a specific claim that DOE 
+
+failed  to  comply  with  §  603  of  the  RFA,  we  note  that  their  claim  is  not 
+reviewable:  
+           Section 611(c) of the RFA provides that “[c]ompliance or 
+           noncompliance by an agency with the provisions of this 
+           chapter shall be subject to judicial review only in accord‐
+           ance  with  this  section.”  5  U.S.C.  §  611(c)  (emphasis 
+           added). Section 611(a)(2) grants this court “jurisdiction to 
+           review  any  claims  of  noncompliance  with  sections  601, 
+           604, 605(b), 608(b), and 610.” 5 U.S.C. § 611(a)(2). 
+Natʹl Assʹn of Home Builders v. EPA, 682 F.3d 1032, 1041 (D.C. Cir. 2012); see 
+also Allied Local & Reg’l Mfrs. Caucus v. EPA, 215 F.3d 61, 79 (D.C. Cir. 2000). 
+56                               Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+objectives of applicable statutes.” Id. § 603(c). Therefore, to de‐
+termine  the  merits  of  petitioners’  argument,  we  must  first 
+consider the objectives of the EPCA. One of the EPCA’s stated 
+“purposes” is to “provide Federal energy conservation stand‐
+ards applicable to covered products.” 42 U.S.C. § 6295(a)(1). 
+The EPCA contemplates exemptions for small manufacturers. 
+Id. § 6295(t). However, those exemptions are temporary, last‐
+ing for a “period not longer than the 24‐month period begin‐
+ning on the date such rule becomes effective.”  Id. § 6295(t)(1). 
+In addition, an exemption will only be made “on application 
+of  [the]  manufacturer”  and  only  after  DOE  investigates  the 
+unique  circumstances  of  that  manufacturer.  Id.  Further,  the 
+exemption can only be provided after DOE “makes a finding, 
+after obtaining the written views of the Attorney General, that 
+a failure to allow an exemption … would likely result in a less‐
+ening of competition.” Id. § 6295(t)(2). These provisions make 
+clear  that  the  EPCA’s  objective  is  to  impose  consistent,  na‐
+tional standards for each class of covered product. Exceptions 
+to those standards are only allowed for short periods of time, 
+and  only  after  consultation  with  the  Attorney  General.  A 
+blanket  exemption—made  without  any  temporal  limitation, 
+any applications from manufacturers, or any input from the 
+Attorney General—would be “[inc]onsistent with the stated 
+objectives  of”  the  EPCA.  See  5  U.S.C.  §  603(c).  Therefore,  a 
+blanket exemption for small businesses was not a significant 
+alternative that DOE needed to consider.  
+     DOE made a “good‐faith effort” to describe both the im‐
+pact of its amended standard on small businesses and the sig‐
+nificant alternatives it considered. U.S. Cellular Corp., 254 F.3d 
+at  88.  Therefore,  its final  regulatory  flexibility  analysis  fully 
+complied with the RFA.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                         57
+
+D.  Cumulative Regulatory Burden 
+    The petitioners contend that DOE failed to properly con‐
+sider  the  impact  of  two  other  regulatory  burdens  on  CRE 
+manufacturers:  EPA’s  Significant  New  Alternatives  Policy 
+(“SNAP”) Rule and the ENERGY STAR Program. According 
+to DOE Process Rule 10(g), DOE must consider the cumula‐
+tive  impacts  of  other  federal  regulations.  10  C.F.R.  pt.  430, 
+subpt. C, app. A, at 10(g) (2016). DOE decided that neither the 
+SNAP  rule  nor  the  ENERGY  STAR  Program  warranted  a 
+change in its regulations. 79 Fed. Reg. at 17,754, 17,798. There‐
+fore,  we  must  determine  whether  DOE  has  “articulate[d]  a 
+satisfactory explanation for its action including a rational con‐
+nection between the facts found and the choice made.” Motor 
+Vehicle  Mfrs.  Ass’n,  463  U.S.  at  43  (internal  quotation  marks 
+omitted).  
+      1. EPA Significant New Alternatives Policy Program 
+    We first turn to EPA’s proposed SNAP rulemaking. At the 
+time of DOE’s rulemaking, EPA was reviewing the refriger‐
+ants R404 and R134a and was considering removing those re‐
+frigerants from commercial refrigeration applications. 79 Fed. 
+                         34
+Reg. at 17,754.  Both R404 and R134a were used in DOE’s en‐
+
+
+
+                                                 
+34 EPA published its final rule on refrigerants more than a year after the 
+
+New Standards Rule. See 80 Fed. Reg. 42,870 (July 20, 2015). In the rule, 
+EPA noted that:  
+           We do, however, consider issues such as technical needs 
+           for energy efficiency (e.g., to meet DOE standards) in de‐
+           termining whether alternatives are “available.” EPA rec‐
+           ognizes that the energy efficiency of particular models of 
+58                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+gineering analysis. Id. NAFEM contends that, based on a po‐
+tential  SNAP  rule  that  EPA  was  considering,  DOE  should 
+have considered refrigerants other than R404 and R134a.  
+    Responding to this critique, DOE explained that “there are 
+currently no mandatory initiatives such as refrigerant phase‐
+outs,”  id.,  and  that  “DOE  does  not  include  the  impacts  of 
+pending legislation or unfinalized regulations in its analyses, 
+as  any  impact  would  be  speculative,”  id.  at  17,775.  Indeed, 
+EPA did not even issue a notice of proposed rulemaking re‐
+garding  the  SNAP  program  until  months  after  DOE’s  final 
+rule. See 79 Fed. Reg. 46,126 (Aug. 6, 2014). “In circumstances 
+involving agency predictions of uncertain future events, com‐
+plete factual support in the record for [an agency’s] judgment 
+or prediction is not possible or required since a forecast of the 
+direction  in  which  future  public  interest  lies  necessarily  in‐
+volves  deductions  based  on  the  expert  knowledge  of  the 
+
+
+                                                 
+           equipment  is  a  significant  factor  when  choosing  equip‐
+           ment. We also recognize that the energy efficiency of any 
+           given piece of equipment is in part affected by the choice 
+           of  refrigerant  and  the  particular  thermodynamic  and 
+           thermophysical properties that refrigerant possesses. Alt‐
+           hough  we  cannot  know  what  energy  efficiency  will  be 
+           achieved in future products using a specific acceptable re‐
+           frigerant, we can point to both actual equipment and test‐
+           ing  results  that  show  promise  and  often  better  results 
+           than  the  equipment  using  the  refrigerants  that  we  are 
+           finding unacceptable. 
+Id. at 42,921. After assessing the impact of the New Standards Rule, EPA 
+went on to extend the “change of status” date for certain units. See id. at 
+42,908, 42,916–17.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                                59
+
+agency.” Rural Cellular Assʹn, 588 F.3d at 1105 (internal quota‐
+tion  marks  omitted).  DOE’s  determination  that  the  SNAP 
+rulemaking might not come to fruition is entirely reasonable, 
+and it is certainly within its discretion.35  
+     Further, DOE explained that even if it assumed the SNAP 
+rulemaking would become binding, it did not have adequate 
+“publicly‐available data on the design, construction, and op‐
+eration of equipment featuring alternative refrigerants to fa‐
+cilitate the level of analysis of equipment performance which 
+would be needed.” 79 Fed. Reg. at 17,754. NAFEM finds this 
+rationale inadequate; it contends that DOE should have relied 
+on  data  regarding  the  use  of  alternative  refrigerants  in  Eu‐
+rope. However, NAFEM does not point to any comment that 
+raised this issue before the agency during the notice and com‐
+ment period. Further, DOE notes that the basic design of CRE 
+in Europe differs from CRE in the United States, making that 
+data unreliable. In light of the deference due to DOE, White 
+Eagle Coop. Assʹn, 553 F.3d at 474, DOE’s decision to ignore the 
+EPA SNAP rulemaking was not arbitrary or capricious.36 
+       
+
+                                                 
+35  As  part  of  their  objection  to  DOE’s  consideration  of  carbon  benefits, 
+
+AHRI and Zero Zone criticize DOE’s decision to ignore the impact of the 
+EPA’s proposed power plant rule on greenhouse gas emissions. For the 
+same reasons noted above, DOE was entirely within reason to disregard 
+the impact of this pending regulatory action.  
+36 We observe that DOE provided a remedy for any CRE manufacturers 
+
+that are unduly impacted by the burden of subsequent regulation. In the 
+New  Standards  Rule,  DOE  explained  that  “[i]f  a  manufacturer  believes 
+that its design is subjected to undue hardship by regulations, the manu‐
+facturer may petition” DOE, which “has the authority to grant … relief on 
+a case‐by‐case basis.” 79 Fed. Reg. at 17,754.  
+60                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+      2. ENERGY STAR Program 
+    NAFEM also contends that DOE failed to take account of 
+the  ENERGY  STAR  program.  ENERGY  STAR  is  a  program 
+that  provides  voluntary  certifications  and  ratings  to  energy 
+efficient products as a way to incentivize manufacturers. 79 
+Fed. Reg. at 17,739. DOE noted that the program was “volun‐
+tary for manufacturers. As such, [it is] not part of DOE’s con‐
+sideration  of  cumulative  regulatory  burden.”  Id.  at  17,798. 
+That determination was entirely reasonable. DOE’s decision 
+not to consider ENERGY STAR was neither arbitrary nor ca‐
+pricious.  
+    In  sum,  DOE  satisfied  its  duty  laid  out  in  Process  Rule 
+10(g). 10 C.F.R. pt. 430, subpt. C, app. A. Neither the possibil‐
+ity of a SNAP rulemaking nor the ENERGY STAR program 
+needed to be considered by DOE. 
+       
+E.  2014 Test Procedure Rule 
+    We now consider AHRI’s and Zero Zone’s challenges to 
+the 2014 Test Procedure Rule, a rule published after the New 
+Standards Rule. As discussed above, DOE encountered an in‐
+terpretive  difficulty  when  measuring  the  total  display  area 
+                                          37
+(“TDA”)  of  a  CRE  unit.   Determining  the  TDA  of  a  unit  is 
+essential to calculating the maximum allowable energy con‐
+sumption level for certain CRE units. 79 Fed. Reg. at 22,299. 
+According  to  DOE,  the  2014  Test  Procedure  Rule  clarified 
+how CRE manufacturers should measure a specific aspect of 
+the TDA: “L,” otherwise known as the “Length of Commer‐
+cial Refrigerated Display Merchandiser.” Id. AHRI and Zero 
+                                                 
+37 See supra Part I.C.  
+Nos. 14‐2147, 14‐2159, & 14‐2334                                 61
+
+Zone  now  contend,  however,  that  the  clarified  definition  of 
+“L” is contrary to law, substantively arbitrary and capricious, 
+and was promulgated in an impermissible manner. They fur‐
+ther submit that if the 2014 Test Procedure Rule is ruled inva‐
+lid, the New Standards Rule—which incorporates the defini‐
+tion of “L”—must fall as well.  
+   1.  Conformity to Industry Standards 
+    AHRI and Zero Zone first contend that the 2014 Test Pro‐
+cedure’s definition of “L” is contrary to the EPCA’s definition 
+of “L.” As previously mentioned, “L” is a variable in the func‐
+tion for determining the TDA of a CRE unit. The EPCA states 
+that “‘TDA’ means the total display area (ft2) of the refriger‐
+ated  case,  as  defined  in  AHRI  Standard  1200.”  42  U.S.C. 
+§ 6313(c)(1)(D) (emphasis added). Therefore, the definition of 
+“L” employed by DOE must align with this industry stand‐
+ard. According to AHRI and Zero Zone, however, DOE’s clar‐
+ified  definition  of  “L”  deviated  from  AHRI  Standard  1200. 
+Specifically, AHRI and Zero Zone believe that DOE employed 
+an impermissible “compromise” between the industry stand‐
+ard and DOE’s own definition. See 79 Fed. Reg. at 22,300 (“As 
+a compromise, DOE is adopting … this final rule … .”)  
+    We cannot accept petitioners’ understanding of the “com‐
+promise” DOE made when defining “L.” As DOE explained 
+in its notice of proposed rulemaking for the 2014 Test Proce‐
+dure Rule, AHRI Standard 1200 does not define or illustrate 
+the  meaning  of  “L.”  78  Fed.  Reg.  at  64,309–12.  Because  the 
+promulgation and enforcement of energy standards required 
+a precise definition of the term “L,” DOE undertook to define 
+the term in a manner that, while remaining faithful to the stat‐
+utory language, would provide both the regulator and the in‐
+dustry with a workable metric. DOE proposed a definition of 
+62                               Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+“L”  that  was  consistent  with  AHRI  Standard  1200’s  stated 
+definition  of  the  TDA:  “the  sum  of  the  projected  area(s)  for 
+visible product.” 79 Fed. Reg. at 22,299 (emphasis added). DOE 
+reasoned that if the TDA was defined as only consisting of the 
+visible  area  on  a  CRE  unit,  then  a  variable  of  the  TDA  also 
+must only consist of the visible area on a CRE unit. Id. After 
+considering comments from the industry, however, DOE de‐
+termined  “that  defining  TDA  as  strictly  the  total  length  of 
+transparent area  may be  inconsistent with the method used 
+by  industry  to  calculate  TDA  today.”  Id.  at  22,300.  That 
+method  typically  included  non‐transparent  areas  like  door 
+frames  and  mullions.  DOE  therefore  chose  what  it  termed, 
+somewhat imprudently and improvidently, a “compromise” 
+value. See id. “L” would be defined  
+       as  the  internal  length  of  the  CRE  model,  pro‐
+       vided  no  more  than  10  percent  of  that  length 
+       consists of non‐transparent  material.  For those 
+       cases with greater than 10 percent of non‐trans‐
+       parent  area,  L  shall  be  determined  as  the  pro‐
+       jected  linear  dimension(s)  of  visible  product 
+       plus 10 percent of non‐transparent area.  
+Id. at 22,301. 
+    Contrary to AHRI and Zero Zone’s contention that DOE 
+created  a  “compromise”  between  the  department’s  desired 
+standard  and  the  AHRI  standard,  DOE  actually  crafted  a 
+more  precise  definition  of  “L”—one  not  fully  articulated  in 
+the text of the AHRI Standard but found in the method of im‐
+plementing the AHRI Standard. Id. at 22,299–301. DOE’s def‐
+inition of “L” therefore conforms to AHRI Standard 1200 and 
+complies  with  the  mandate  of  the  EPCA.  See  42  U.S.C. 
+§ 6313(c)(1)(D). 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                  63
+
+   2.  Operation of the Rule 
+    AHRI and Zero Zone next raise  a series of challenges to 
+the  operation  of  the  new  test  procedure.  When  issuing  the 
+2014 Test Procedure Rule, DOE concluded that the clarified 
+definition of “L” will “not change the measured energy con‐
+sumption  of  covered  equipment”  and  therefore  will  not 
+change the expected impact of the amended standards on the 
+CRE  industry.  79  Fed.  Reg.  at  22,301.  AHRI  and  Zero  Zone 
+disagree with this conclusion and contend that DOE’s defini‐
+tion  of  “L”  in  the  2014  Test  Procedure  Rule  will  result  in 
+smaller maximum energy consumption levels for CRE units 
+than  the  previously  enforced  definition.  In  their  view,  DOE 
+acted  arbitrary  and  capriciously  when  it  modeled  the  new 
+standards on a less stringent definition of “L.” More signifi‐
+cantly, they contend that DOE failed to adhere to the EPCA’s 
+requirement that it “determine, in the rulemaking carried out 
+with respect to prescribing such procedure, to what extent, if 
+any, the proposed test procedure would alter the measured 
+energy efficiency [or] measured energy use … of any covered 
+product as determined under the existing test procedure.” 42 
+U.S.C. § 6293(e)(1).  
+    This  contention  has  no  merit.  Our  review  confirms  that 
+DOE did explain why the definition of “L” in the 2014 Test 
+Procedure Rule was consistent with the definition it had pre‐
+viously employed. DOE referred back to its engineering anal‐
+ysis for the New Standards Rule, and it explained that the cal‐
+culation  for  the  length  of  the  relevant  model  of  CRE  was 
+based “upon the continuous length of transparent area of the 
+CRE  model,  which  included  mullions  and  door  frames,  but 
+excluded any additional case wall present on the front face of 
+the  unit.  In  other  words,  DOE  included  the  entire  length  of 
+64                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+the  transparent  doors,  including  minor  non‐transparent  ar‐
+eas.” 79 Fed. Reg. at 22,300; see also App. R.6, Admin. R.102 at 
+5A‐6 (displaying the length of the doors and TDA for the CRE 
+models);  App.  R.13,  Admin.  R.13‐A1  at  2–3  (comment  from 
+Hillphoenix noting that mullion and door frame widths were 
+included in DOE’s calculation). DOE stated that the “10 per‐
+cent of non‐transparent area that may be included in the di‐
+mension L” was consistent with its consideration of the mul‐
+lions  and  door  frames  during  the  engineering  analysis.  79 
+Fed. Reg. at 22,301. DOE adequately explained how it reached 
+the conclusion “that this amendment should not change the 
+measured energy consumption of covered equipment.” Id.  
+    We note that multiple manufacturers—including AHRI—
+believed that an even more stringent definition of “L” would 
+have  been consistent  with prior  practice.  They suggested  in 
+comments that DOE only account for door mullion and door 
+frame widths of five inches or less; any non‐transparent area 
+greater than five inches would be excluded from the calcula‐
+                     38
+tion  of  “L.”   DOE  noted  in  response  that  “the  10  percent 
+threshold [it adopted] is less stringent than the 5‐inch thresh‐
+old recommended by manufacturers. That is, a threshold of 
+10  percent  accommodates  greater  amounts  of  non‐transpar‐
+ent area in the dimension ‘L’ for a majority of CRE models.” 
+Id. None of the petitioners have disputed DOE’s assertion that 
+its  clarified  definition  is  more  favorable  to  manufacturers 
+than their proposal of a five‐inch threshold for non‐transpar‐
+ent area, and we find that assertion entirely reasonable. DOE 
+
+                                                 
+38 App. R.13, Admin. R.11‐A1 at 4 (comment from Hussman); App. R.13, 
+
+Admin. R.13‐A1 at 3–4 (comment from Hillphoenix); App. R.13, Admin. 
+R.15‐A1 at 3 (comment from AHRI). 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                           65
+
+adequately explained that its clarification to the definition of 
+“L” would have no discernable impact on the application of 
+the new standards.  
+      3.  Procedural Challenges 
+   AHRI and Zero Zone also object to the timing of both the 
+proposal and the publication of the 2014 Test Procedure Rule. 
+The  Rule  was  proposed  after  the  New  Standards  Rule  was 
+proposed  and  published  after  the  New  Standards  Rule  was 
+                  39
+published.  The petitioners submit that this timeline violated 
+both the EPCA and DOE’s own Process Rules. 
+     We begin with the challenge under the EPCA. According 
+to  the  EPCA,  “[a]ny  new  or  amended  energy  conservation 
+standard prescribed under this section shall include, where ap‐
+plicable,  test  procedures.”  42  U.S.C.  §  6295(r)  (emphases 
+added). The petitioners contend that DOE therefore was obli‐
+gated under the EPCA to include the 2014 Test Procedures in 
+the  New  Standards  Rule.  DOE  did  not  fulfill  this  statutory 
+mandate,  they  contend,  because  the  2014  Test  Procedures 
+were not published at the time of the publication of the New 
+Standards  Rule.  In  response,  DOE  contends  that  it  satisfied 
+the EPCA by including the 2012 Test Procedures in its New 
+                            40
+Standards Rule.   
+
+                                                 
+39  The  notice  of  proposed  rulemaking  for  the  New  Standards  Rule  was 
+
+issued on September 11, 2013. The notice of proposed rulemaking for the 
+2014 Test Procedure Rule was issued on October 28, 2013. The publication 
+of the New Standards Rule occurred on March 28, 2014. The publication 
+of the 2014 Test Procedure Rule occurred on April 21, 2014.  
+40 The New Standards Rule notes that “[t]he test procedure amendments 
+
+established in the 2012 test procedure final rule are required to be used in 
+66                                                  Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+    We agree with DOE’s interpretation: the inclusion of the 
+2012  Test  Procedures  satisfies  §  6295(r).  The  EPCA  clearly 
+contemplates that DOE will amend and proscribe test proce‐
+dures independent of energy conservation standards. Indeed, 
+the EPCA states that “[i]f [DOE] determines that the amended 
+test procedure will alter the measured efficiency or measured 
+use,  [DOE]  shall  amend  the  applicable  energy  conservation 
+standard  during  the  rulemaking  carried  out  with  respect  to 
+such test procedure.” Id. § 6293(e)(2). It naturally follows that 
+if DOE determines that the amended test procedures will not 
+alter efficiency standards—as DOE did here—DOE does not 
+need to amend the applicable efficiency standards during that 
+                     41
+rulemaking.  Therefore, DOE acted  well within  the  bounds 
+of the EPCA when it included the 2012 Test Procedures in the 
+New Standards Rule and then clarified the meaning of those 
+test procedures in a subsequent rule.  
+   We now turn to the challenges under DOE’s own process 
+rules. DOE  Process Rule 7(b) explains that “[a]ny  necessary 
+modifications [to test procedures] will be proposed before is‐
+suance  of  an  [advance  notice  of  proposed  rulemaking].”  10 
+C.F.R. pt. 430, subpt. C, app. A. DOE Process Rule 7(c) further 
+explains that “[f]inal, modified test procedures will be issued 
+prior  to  the  [notice  of  proposed  rulemaking]  on  proposed 
+standards.” Id. The petitioners submit that DOE violated both 
+                                                 
+conjunction  with  the  amended  standards  promulgated  in  this  …  final 
+rule.” 79 Fed. Reg. at 17,735. 
+41  See  King  v.  Burwell,  135  S.  Ct.  2480,  2489  (2015)  (“[W]hen  deciding 
+
+whether the language is plain, we must read the words ‘in their context 
+and with a view to their place in the overall statutory scheme.’” (quoting 
+FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 133 (2000)). 
+Nos. 14‐2147, 14‐2159, & 14‐2334                                   67
+
+of these Process Rules because the 2014 Test Procedures were 
+not  even  proposed  until  the  notice  of  proposed  rulemaking 
+for the New Standards Rule. DOE responds that the 2014 Test 
+Procedures are merely “clarifying amendments” that are not 
+                                                    42
+covered by either Process Rule.  DOE Process Rule 7(b) refers 
+to “necessary modifications” and DOE Process Rule 7(c) re‐
+fers to a “modified test procedure.” Id. In DOE’s view, clarify‐
+ing the meaning of a procedure is not equivalent to modifying 
+the procedure itself.  
+    DOE created these Process Rules, so we will affirm DOE’s 
+interpretation of those rules “unless plainly erroneous or in‐
+consistent with the regulation.” Auer, 519 U.S. at 461 (internal 
+quotation  marks  omitted);  see  also  Whetsel  v.  Network  Prop. 
+Servs., LLC, 246 F.3d 897, 901 (7th Cir. 2001). Here, DOE’s in‐
+terpretation is worthy of such deference. The Supreme Court 
+has  explained  that  an  “interpretation”  of  a  rule,  which  is 
+meant to ascertain the meaning of text, is not the same as an 
+“amendment” of a rule, which is meant to change the text. Pe‐
+rez  v.  Mortg.  Bankers  Ass’n,  135  S.  Ct.  1199,  1207–08  (2015) 
+(“One would not normally say that a court ‘amends’ a statute 
+when it interprets its text. So too can an agency ‘interpret’ a 
+regulation  without  ‘effectively  amend[ing]’  the  underlying 
+source of law.” (alteration in original)). Similarly, a clarifica‐
+tion of a rule, which is also meant to ascertain the meaning of 
+text, can be distinguished from a modification of a rule, which, 
+according  to  the  Supreme  Court,  “connotes  moderate 
+change.” MCI Telecomms. Corp. v. AT&T Co., 512 U.S. 218, 228 
+(1994). DOE determined that “L,” as defined in its previous 
+
+
+                                                 
+42 DOE Br. at 16. 
+68                             Nos. 14‐2147, 14‐2159, & 14‐2334 
+
+test procedure rules, was ambiguous. By clarifying the mean‐
+ing of “L” in the 2014 Test Procedure Rule, DOE acted within 
+its authority and did not violate any regulatory or statutory 
+provisions. 
+                                    
+                           Conclusion 
+   For  the  foregoing  reasons,  we  deny  the  petitions  for  re‐
+view in their entirety. 
+                                            PETITIONS DENIED 
+           
+       
+       
+       
+

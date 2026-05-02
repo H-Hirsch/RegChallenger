@@ -1,0 +1,1349 @@
+     19-2886-ag(L)
+     XY Planning Network, LLC v. SEC
+
+ 1
+
+ 2                     United States Court of Appeals
+ 3                         for the Second Circuit
+ 4
+ 5                                  August Term, 2019
+ 6
+ 7                (Argued: June 2, 2020           Decided: June 26, 2020)
+ 8
+ 9                     Docket Nos. 19-2886-ag(L), 19-2893-ag(CON)
+10                      _____________________________________
+11
+12     XY PLANNING NETWORK, LLC, FORD FINANCIAL SOLUTIONS, LLC,
+13   STATE OF NEW YORK, STATE OF CALIFORNIA, STATE OF CONNECTICUT,
+14   STATE OF DELAWARE, STATE OF MAINE, DISTRICT OF COLUMBIA, STATE
+15                OF NEW MEXICO AND STATE OF OREGON,
+16                                                      Petitioners,
+17
+18                                           v.
+19
+20    UNITED STATES SECURITIES AND EXCHANGE COMMISSION, WALTER
+21    CLAYTON, IN HIS OFFICIAL CAPACITY AS CHAIRMAN OF THE UNITED
+22           STATES SECURITIES AND EXCHANGE COMMISSION,
+23                                                      Respondents.
+24                      _____________________________________
+25   Before:
+26
+27               SULLIVAN, PARK, AND NARDINI, Circuit Judges.
+28
+29          In 2019, the Securities and Exchange Commission promulgated Regulation
+30   Best Interest, which creates new standards of conduct for broker-dealers providing
+31   investment services to retail customers. Petitioners XY Planning Network, LLC,
+32   Ford Financial Solutions, LLC, and a group of states and the District of Columbia
+33   filed petitions for review under the Administrative Procedure Act, 5 U.S.C.
+34   § 706(2), claiming that Regulation Best Interest is unlawful under the 2010 Dodd-
+35   Frank Wall Street Reform and Consumer Protection Act. We hold that: (1) Ford
+ 1   Financial Solutions has Article III standing to bring its petition for review, (2)
+ 2   Section 913(f) of the Dodd-Frank Act authorizes Regulation Best Interest, and (3)
+ 3   Regulation Best Interest is not arbitrary and capricious. DENIED.
+ 4
+ 5         Judge Sullivan concurs in part and dissents in part in a separate opinion.
+ 6
+ 7                                        DEEPAK GUPTA (Jonathan E. Taylor, Daniel
+ 8                                        Wilf-Townsend, on the brief), Gupta Wessler
+ 9                                        PLLC, Washington, DC, for Petitioners XY
+10                                        Planning Network, LLC and Ford Financial
+11                                        Solutions, LLC.
+12
+13                                        ESTER MURDUKHAYEVA (Attorney General
+14                                        Letitia James, Solicitor General Barbara D.
+15                                        Underwood, Steven C. Wu, Matthew
+16                                        Colangelo, Kevin Wallace, Jeffrey A. Novak,
+17                                        Rita Burghardt McDonough, Jonathan
+18                                        Zweig, on the brief), New York, NY, for
+19                                        Petitioner State of New York.
+20
+21                                        JEFFREY A. BERGER (Robert B. Stebbins,
+22                                        Michael A. Conley, Daniel E. Matro, on the
+23                                        brief), Washington, DC, for Respondents
+24                                        United States Securities and Exchange
+25                                        Commission and Walter Clayton.
+26
+27                                        Attorney General Xavier Becerra, Matthew
+28                                        Rodriguez, Martin Goyette, Amy Winn,
+29                                        Nathaniel R. Spencer-Mork, San Francisco,
+30                                        CA for Petitioner State of California.
+31
+32                                        Attorney General William Tong, Joseph J.
+33                                        Chambers, Hartford, CT, for Petitioner State
+34                                        of Connecticut.
+35
+
+
+
+
+                                             2
+ 1   Attorney General Kathleen Jennings,
+ 2   Marion Quirk, Joseph E. Gibbs-Tabler,
+ 3   Jillian Lazar, Wilmington, DE, for Petitioner
+ 4   State of Delaware.
+ 5
+ 6   Attorney General Aaron M. Frey, Gregg D.
+ 7   Bernstein, Augusta, ME, for Petitioner State of
+ 8   Maine.
+ 9
+10   Attorney General Hector Balderas, Nicholas
+11   M. Sydow, Tania Maestas, Santa Fe, NM, for
+12   Petitioner State of New Mexico.
+13
+14   Attorney General Karl A. Racine, Loren L.
+15   AliKhan, Jacqueline R. Bechara, Graham E.
+16   Phillips, Washington, DC, for Petitioner
+17   District of Columbia.
+18
+19   Attorney General Ellen F. Rosenblum, Brian
+20   A. de Haan, Portland, OR, for Petitioner State
+21   of Oregon.
+22
+23   Todd M. Galante, Piro Zinna Cifelli Paris &
+24   Genitempo, LLC, Nutley, NJ, for Amicus
+25   Curiae Financial Planning Association in
+26   support of Petitioners.
+27
+28   Brianne J. Gorod, Ashwin P. Phatak,
+29   Elizabeth B. Wydra, Clare E. Riva,
+30   Constitutional  Accountability      Center,
+31   Washington, DC, for Amici Curiae Current
+32   and Former Members of Congress in support of
+33   Petitioners.
+34
+35   Dennis M. Kelleher, Better Markets, Inc.,
+36   Washington, DC, for Amici Curiae Better
+
+
+
+       3
+ 1                                         Markets, Inc. and the Consumer Federation of
+ 2                                         America in support of Petitioners.
+ 3
+ 4                                         Adam J. Weinstein, Gana Weinstein LLP,
+ 5                                         New York, NY, for Amicus Curiae The Public
+ 6                                         Investors Arbitration Bar Association in support
+ 7                                         of Petitioners.
+ 8
+ 9                                         Jesse Panuccio, Jordan R. Goldberg, Boies
+10                                         Schiller Flexner LLP, Washington, DC, for
+11                                         Amici Curiae Representatives Ann Wagner,
+12                                         Andy Barr, J. French Hill, Blaine Luetkemeyer,
+13                                         and Senator Tom Cotton in support of
+14                                         Respondents.
+15
+16                                         Kelly P. Dunbar, Wilmer Cutler Pickering
+17                                         Hale and Dorr LLP, Washington, DC, for
+18                                         Amici Curiae the Securities Industry and
+19                                         Financial Markets Association, the Chamber of
+20                                         Commerce of the United States of America, the
+21                                         American Council of Life Insurers, and the
+22                                         Financial Services Institute in support of
+23                                         Respondents.
+24
+25   PARK, Circuit Judge:
+
+26         Investment advisers and broker-dealers both offer financial services to retail
+
+27   customers. Under federal law, investment advisers owe a fiduciary duty to their
+
+28   clients, but broker-dealers do not.    The traditional distinctions between the
+
+29   services offered by the two types of firms have blurred in recent decades, raising
+
+30   questions about this standard-of-care framework.        As a result, in 2019, the
+
+
+
+
+                                              4
+ 1   Securities and Exchange Commission (“SEC”) adopted Regulation Best Interest,
+
+ 2   which imposes a new “best-interest obligation” on broker-dealers.
+
+ 3         Petitioners—an organization of investment advisers, an individual
+
+ 4   investment adviser, seven states, 1 and the District of Columbia—now challenge
+
+ 5   Regulation Best Interest as unlawful under the Administrative Procedure Act
+
+ 6   (“APA”), 5 U.S.C. § 706(2). They argue that the 2010 Dodd-Frank Wall Street
+
+ 7   Reform and Consumer Protection Act (“Dodd-Frank Act”) requires the SEC to
+
+ 8   adopt a rule holding broker-dealers to the same fiduciary standard as investment
+
+ 9   advisers.     But Section 913(f) of the Dodd-Frank Act grants the SEC broad
+
+10   rulemaking authority, and Regulation Best Interest clearly falls within the
+
+11   discretion granted to the SEC by Congress. Although Regulation Best Interest may
+
+12   not be the policy that Petitioners would have preferred, it is what the SEC chose
+
+13   after a reasoned and lawful rulemaking process.
+
+14         We thus hold that: (1) the individual investment-adviser petitioner has
+
+15   Article III standing to bring its petition for review, but the state petitioners do not;
+
+16   (2) Section 913(f) of the Dodd-Frank Act authorizes the SEC to promulgate
+
+
+
+
+           1   California, Connecticut, Delaware, Maine, New Mexico, New York, and Oregon.
+
+
+                                                   5
+ 1   Regulation Best Interest; and (3) Regulation Best Interest is not arbitrary and
+
+ 2   capricious under the APA.
+
+ 3          For these reasons, we deny the petitions for review.
+
+ 4                                   I. BACKGROUND
+
+ 5   A.     Regulatory Background
+
+ 6          Broker-dealers effect securities transactions for customers, for which they
+
+ 7   typically charge a commission or other transaction-based fee.              See 15 U.S.C.
+
+ 8   §§ 78c(a)(4)(A) (defining brokers), 78c(a)(5)(A) (defining dealers). In connection
+
+ 9   with   their   services,   broker-dealers       often   provide   advice    and   make
+
+10   recommendations about securities transactions and investment strategies. When
+
+11   doing so, they are generally subject to a “suitability” standard of care, which arises
+
+12   from the federal securities laws, Financial Industry Regulatory Authority
+
+13   (“FINRA”) rules, and SEC precedent. This standard requires broker-dealers to
+
+14   “have a reasonable basis to believe that a recommended transaction or investment
+
+15   strategy . . . is suitable for the customer.” FINRA Rule 2111(a).
+
+16          Investment advisers, on the other hand, provide advice and other
+
+17   discretionary services on an ongoing basis, for which they typically charge
+
+18   recurring fees based on a percentage of the assets they manage. Investment
+
+
+
+
+                                                 6
+ 1   advisers are regulated under the Investment Advisers Act of 1940 (“IAA”) and
+
+ 2   owe a fiduciary duty to their clients. See 15 U.S.C. § 80b-2(a)(11)(C) (defining
+
+ 3   investment adviser); SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180, 194
+
+ 4   (1963) (describing “an affirmative duty of utmost good faith, and full and fair
+
+ 5   disclosure of all material facts, as well as an affirmative obligation to employ
+
+ 6   reasonable care to avoid misleading . . . clients” (internal quotation marks
+
+ 7   omitted)).    The IAA’s definition of investment adviser has a “broker-dealer
+
+ 8   exemption,” which excludes “any broker or dealer whose performance of such
+
+ 9   services is [1] solely incidental to the conduct of his business as a broker or dealer
+
+10   and [2] who receives no special compensation therefor.”                      15 U.S.C. § 80b-
+
+11   2(a)(11)(C). A business may register as both an investment adviser and a broker-
+
+12   dealer. 2
+
+13   B.     The Dodd-Frank Act
+
+14          In 2010, Congress authorized the SEC to promulgate new standards of
+
+15   conduct for broker-dealers and investment advisers under the Dodd-Frank Act,
+
+
+
+
+            2  Although in theory broker-dealers and investment advisers “play distinct roles,” “in
+     practice, trends in financial services markets since [at least] the early 1990s have blurred the
+     boundaries between these financial professionals.” Brian Scholl et al., SEC Office of the Investor
+     Advocate & RAND Corp., The Retail Market for Investment Advice (“RAND study”) 4 (2018),
+     available at https://www.sec.gov/comments/s7-07-18/s70718-4513005-176009.pdf.
+
+
+                                                     7
+ 1   Pub. L. No. 111-203, § 913, 124 Stat. 1376, 1824–30. Section 913(b) of the Dodd-
+
+ 2   Frank Act directed the SEC to study “the standards of care for brokers, dealers,
+
+ 3   [and] investment advisers.” Id. at 1824–25. Sections 913(f) and (g), the main
+
+ 4   provisions at issue here, concern the SEC’s rulemaking authority.
+
+ 5          Section 913(f) states that the SEC “may commence a rulemaking, as
+
+ 6   necessary or appropriate in the public interest and for the protection of retail
+
+ 7   customers . . . to address the legal or regulatory standards of care for brokers,
+
+ 8   dealers, [and] investment advisers.” Id. at 1827. In doing so, the SEC “shall
+
+ 9   consider the findings[,] conclusions, and recommendations” of the Section 913(b)
+
+10   study. Id. at 1828.
+
+11          Section 913(g)(1) states that the SEC “may promulgate rules to provide that,
+
+12   with respect to [broker-dealers], when providing personalized investment advice
+
+13   about securities to a retail customer[,] . . . the standard of conduct for such [broker-
+
+14   dealers] . . . shall be the same as the standard of conduct applicable to an
+
+15   investment adviser . . . .”    Id.   Section 913(g)(2) provides that the SEC “may
+
+16   promulgate rules to provide that the standard of conduct for all brokers, dealers,
+
+17   and investment advisers, when providing personalized investment advice about
+
+18   securities to retail customers[,] . . . shall be to act in the best interest of the customer
+
+
+
+
+                                                  8
+ 1   without regard to the financial or other interest of the broker, dealer or investment
+
+ 2   adviser providing the advice . . . . [S]uch standard of conduct shall be no less
+
+ 3   stringent than the standard applicable to investment advisers under [the IAA].”
+
+ 4   Id.
+
+ 5          In 2011, SEC staff issued the Section 913(b) study and recommended that the
+
+ 6   SEC adopt a “uniform fiduciary standard . . . regardless of the regulatory label
+
+ 7   (broker-dealer or investment adviser) of the professional providing the advice.”
+
+ 8   App’x at 328.
+
+ 9   C.     Regulation Best Interest
+
+10          In June 2019, the SEC adopted Regulation Best Interest, which establishes a
+
+11   new standard of care for broker-dealers serving retail customers. 3 Regulation Best
+
+12   Interest, 17 C.F.R. § 240.15l-1 (2019). Specifically, Regulation Best Interest imposes
+
+13   a “best-interest obligation” on broker-dealers, requiring them to “act in the best
+
+14   interest of the retail customer at the time the recommendation is made, without
+
+15   placing the financial or other interest of the [broker-dealer] . . . ahead of the interest
+
+16   of the retail customer.” Id. The best-interest obligation has four components: (1)
+
+17   a “disclosure obligation,” requiring broker-dealers to disclose any material facts
+
+
+            3Retail customers are individuals who “receive[] personalized investment advice . . .
+     primarily for personal, family, or household purposes.” 124 Stat. at 1824.
+
+
+                                                  9
+ 1   relating to the scope and terms of the relationship with the customer, as well as all
+
+ 2   material conflicts of interest related to their investment recommendations; (2) a
+
+ 3   “care obligation,” requiring broker-dealers to “[h]ave a reasonable basis to believe
+
+ 4   that the recommendation is in the best interest of” the customer; (3) a “conflict of
+
+ 5   interest obligation,” requiring broker-dealers to identify, mitigate, and disclose
+
+ 6   conflicts of interest and to “[p]revent” conflicts that would cause them to “make
+
+ 7   recommendation[s] that place [their own] interest ahead of the” customers’; and
+
+ 8   (4) a “compliance obligation” requiring broker-dealers to adopt policies and
+
+ 9   practices “reasonably designed to achieve compliance with Regulation Best
+
+10   Interest.” Id.
+
+11         The SEC proposed an initial version of the rule in 2018, and after an
+
+12   extensive notice-and-comment process, it adopted a final version of Regulation
+
+13   Best Interest, along with an interpretive rule clarifying the meaning of “solely
+
+14   incidental” in the broker-dealer exemption to the IAA.           Notice of Proposed
+
+15   Rulemaking, Regulation Best Interest, 83 Fed. Reg. 21,574 (May 9, 2018); Commission
+
+16   Interpretation Regarding the Solely Incidental Prong of the Broker-Dealer Exclusion from
+
+17   the Definition of Investment Adviser (“Solely Incidental Interpretation”), 84 Fed. Reg.
+
+18   33,681 (July 12, 2019). During the comment period, the SEC received “over 6,000
+
+
+
+
+                                               10
+ 1   comment letters” from individual investors, trade groups, and financial firms, and
+
+ 2   held a series of “investor roundtables” to solicit in-person feedback on the
+
+ 3   proposed rule.      Regulation Best Interest: The Broker-Dealer Standard of Conduct
+
+ 4   (“Adopting Release”), 84 Fed. Reg. 33,318, 33,320.
+
+ 5         The SEC responded to these comments in a 173-page Adopting Release
+
+ 6   explaining why it chose the best-interest standard.        Id. at 33,318–33,491.   It
+
+ 7   considered and rejected a uniform fiduciary standard for investment advisers and
+
+ 8   broker-dealers, explaining that “a ‘one size fits all’ approach would risk reducing
+
+ 9   investor choice” and that a uniform fiduciary standard “would [not] provide any
+
+10   greater investor protection (or, in any case, that any benefits would [not] justify
+
+11   the costs imposed on retail investors in terms of reduced access to services . . .).”
+
+12   Id. at 33,322. The Adopting Release also explicitly noted that the SEC was relying
+
+13   on Section 913(f)’s broad grant of rulemaking authority to promulgate Regulation
+
+14   Best Interest. Id. at 33,330.
+
+15   D.    Petitioners
+
+16         Two groups of petitioners brought suit claiming that Regulation Best
+
+17   Interest is unlawful: (1) an investment-adviser interest group, XY Planning
+
+18   Network, LLC, and one of its members, Ford Financial Solutions, LLC (together,
+
+
+
+
+                                              11
+ 1   “XYPN”); and (2) a group of states and the District of Columbia (collectively,
+
+ 2   “State Petitioners”).
+
+ 3         XYPN contends that Regulation Best Interest will injure investment advisers
+
+ 4   by making it more difficult for them to differentiate their standard of care from
+
+ 5   that of broker-dealers in advertising to attract customers. Julie Ford, owner of
+
+ 6   Ford Financial Solutions, LLC (together, “Ford”), attests that Ford “currently
+
+ 7   attract[s] and retain[s] clients by, in part, highlighting [the] firm’s fiduciary duty
+
+ 8   to clients,” in contrast to the less stringent suitability standard governing broker-
+
+ 9   dealers. XYPN Add. at 5. Ford claims that under Regulation Best Interest, broker-
+
+10   dealers will be able to advertise that they must act in their clients’ “best interests”
+
+11   just as Ford does, even though they will face “comparatively fewer regulatory
+
+12   obligations, lower compliance costs, and less legal exposure.” Id.
+
+13         The State Petitioners claim that Regulation Best Interest will diminish their
+
+14   tax revenues from investment income by allowing broker-dealers to provide
+
+15   conflicted investment advice to customers, which would be prohibited under a
+
+16   uniform fiduciary standard. The State Petitioners cite expert evidence claiming
+
+17   that “[t]he loss of retail investment returns due to conflicted financial advice
+
+18   causes harm to states by lowering their tax revenues.” States’ Add. at 6.
+
+
+
+
+                                               12
+ 1                                      III. DISCUSSION
+
+ 2   A.    Article III Standing
+
+ 3         As an initial matter, the SEC argues that Petitioners lack Article III standing
+
+ 4   to challenge Regulation Best Interest. We conclude that Ford has standing to bring
+
+ 5   its petition based on the impairment of its current ability to attract customers by
+
+ 6   touting the fiduciary duties it owes its clients. In other words, by enabling broker-
+
+ 7   dealers to advertise their new best-interest obligation, Regulation Best Interest will
+
+ 8   put Ford and other investment advisers at a competitive disadvantage compared
+
+ 9   to the status quo. The State Petitioners, on the other hand, lack Article III standing
+
+10   because their claim that Regulation Best Interest will cause a decline in state
+
+11   revenue is entirely speculative.
+
+12         To show Article III standing, Petitioners “must have (1) suffered an injury
+
+13   in fact, (2) that is fairly traceable to the challenged conduct of the defendant, and
+
+14   (3) that is likely to be redressed by a favorable judicial decision.” Spokeo, Inc. v.
+
+15   Robins, 136 S. Ct. 1540, 1547 (2016). “The petitioner’s burden of production . . . is
+
+16   . . . the same as that of a plaintiff moving for summary judgment[:] . . . it must
+
+17   support each element of its claim to standing ‘by affidavit or other evidence.’”
+
+
+
+
+                                              13
+ 1   Sierra Club v. EPA, 292 F.3d 895, 899 (D.C. Cir. 2002) (quoting Lujan v. Defenders of
+
+ 2   Wildlife, 504 U.S. 555, 561 (1992)).
+
+ 3          1.     Ford’s Standing
+
+ 4          Ford has established Article III standing under the “well-established
+
+ 5   concept of competitors’ standing.” Schulz v. Williams, 44 F.3d 48, 53 (2d Cir. 1994).
+
+ 6   This doctrine recognizes “that economic actors ‘suffer an injury in fact when
+
+ 7   agencies . . . allow increased competition’ against them.” Sherley v. Sebelius, 610
+
+ 8   F.3d 69, 72 (D.C. Cir. 2010) (cleaned up). Ford meets this standard because its
+
+ 9   principal attests that Regulation Best Interest will impair its ability to differentiate
+
+10   its services from broker-dealers’ based on its higher duty of care. 4
+
+11          A party has standing to sue over a regulation that unlawfully “bestows
+
+12   upon their competitors ‘some competitive advantage.’” Citizens for Responsibility
+
+13   & Ethics in Wash. v. Trump (“CREW”), 953 F.3d 178, 190 (2d Cir. 2019) (quoting
+
+14   Fulani v. League of Women Voters Educ. Fund, 882 F.2d 621, 626 (2d Cir. 1989)). 5 The
+
+15   “basic requirement” of competitor standing is that “the complainant show an
+
+
+
+
+            4 Because Ford has standing, we need not address XYPN’s argument that the organization
+     itself may sue on behalf of its investment-adviser members or that Regulation Best Interest will
+     deter firms from registering as investment advisers and joining XYPN as dues-paying members.
+            5Petitioners also must show “that they personally compete in the same arena as the
+     unlawfully benefited competitor,” which is undisputed here. CREW, 953 F.3d at 190 (cleaned up).
+
+
+                                                   14
+ 1   actual or imminent increase in competition.” Am. Inst. of Certified Pub. Accountants
+
+ 2   v. IRS, 804 F.3d 1193, 1197 (D.C. Cir. 2015) (citation omitted). The party suing need
+
+ 3   not “identify specific customers who switched to [its] competitors” as long as the
+
+ 4   allegedly unlawful regulation “increases competition or aids the plaintiff’s
+
+ 5   competitors.” CREW, 953 F.3d at 190 (quoting Canadian Lumber Trade All. v. United
+
+ 6   States, 517 F.3d 1319, 1332 (Fed. Cir. 2008)). “The form of [this] injury may vary;
+
+ 7   for example, a seller facing increased competition may lose sales to rivals, or be
+
+ 8   forced to lower its price or to expend more resources to achieve the same sales, all
+
+ 9   to the detriment of its bottom line.” Sherley, 610 F.3d at 72.
+
+10         Here, Ford currently attracts customers by “highlighting [the] firm’s
+
+11   fiduciary duty to clients”—one of the firm’s “hallmarks”—in contrast to the lower
+
+12   standard of suitability owed by broker-dealers. XYPN Add. at 4–5. Ford states
+
+13   that Regulation Best Interest will create “a significant risk that clients will not be
+
+14   able to effectively differentiate the fiduciary duty that [Ford] owe[s] them from the
+
+15   lower duty that broker-dealers owe their clients,” which will “harm [Ford’s] ability
+
+16   to attract customers through . . . highlighting the increased standard of loyalty and
+
+17   care” that it owes to its clients. Id. at 5; see also Angela A. Hung et al., RAND Corp.,
+
+18   Investor Testing of Form CRS Relationship Summary 46–48 (2018) (discussing
+
+
+
+
+                                               15
+ 1   evidence of consumer confusion), available at https://www.sec.gov/about/
+
+ 2   offices/investorad/investor-testing-form-crs-relationship-summary.pdf.
+
+ 3          Because Ford has identified an impairment to a specific business practice, it
+
+ 4   has made a “concrete showing that it is in fact likely to suffer financial injury” from
+
+ 5   Regulation Best Interest. KERM, Inc. v. FCC, 353 F.3d 57, 60 (D.C. Cir. 2004). The
+
+ 6   harm to Ford’s “ability to attract customers” by “highlighting [its] fiduciary duty
+
+ 7   to clients,” XYPN Add. at 5, means that it will “be forced to lower its price[s] or to
+
+ 8   expend more resources to achieve the same sales, all to the detriment of its bottom
+
+ 9   line.” 6 Sherley, 610 F.3d at 72. Thus, Ford has shown, based on both “economic
+
+10   logic” and “actual market experience,” that Regulation Best Interest will hurt its
+
+11   business. Canadian Lumber, 517 F.3d at 1333 (citation omitted). This is enough for
+
+12   competitor standing here.
+
+
+
+
+            6  Ford’s claim is distinguishable from cases involving more “speculative” attempts to
+     “challenge a regulation that merely imposes enhanced regulatory burdens on [a] competitor”
+     because Ford has identified a specific harm to its ability to attract customers. See, e.g., State Nat’l
+     Bank of Big Spring v. Lew, 795 F.3d 48, 55 (D.C. Cir. 2015) (holding that a plaintiff could not sue
+     over a regulation that imposed a “greater regulatory burden” on its competitors because the harm
+     identified—the “reputational benefit” conferred on the competitor—was “simply too attenuated
+     and speculative to show the causation necessary to support standing”). To be sure, Ford also
+     states that its broker-dealer competitors will be subject to “comparatively fewer regulatory
+     obligations, lower compliance costs, and less legal exposure,” XYPN Add. at 5, but that is not the
+     basis on which we conclude that Ford has standing.
+
+
+                                                       16
+ 1         2.     State Petitioners’ Standing
+
+ 2         Unlike Ford, the State Petitioners do not have Article III standing because
+
+ 3   they have failed to establish a direct link between Regulation Best Interest and
+
+ 4   their tax revenues. A state has Article III standing to challenge a federal regulation
+
+ 5   if it can show “a direct injury in the form of a loss of specific tax revenues.”
+
+ 6   Wyoming v. Oklahoma, 502 U.S. 437, 448 (1992); accord Wyoming v. U.S. Dep’t of
+
+ 7   Interior, 674 F.3d 1220, 1232 (10th Cir. 2012). A “fairly direct link” is required
+
+ 8   because “the unavoidable economic repercussions of virtually all federal policies
+
+ 9   . . . suggest to us that impairment of state tax revenues should not, in general, be
+
+10   recognized as sufficient injury in fact to support state standing.” Pennsylvania v.
+
+11   Kleppe, 533 F.2d 668, 672 (D.C. Cir. 1976).
+
+12         Here, the State Petitioners have not shown a direct link between Regulation
+
+13   Best Interest and their tax revenues, relying instead on a causal chain that is too
+
+14   attenuated and speculative to support standing.          Even assuming the State
+
+15   Petitioners are correct that Regulation Best Interest will allow for more conflicted
+
+16   advice than a uniform fiduciary standard would, and that such conflicted advice
+
+17   would lead to lower returns on certain investments, the State Petitioners’ theory
+
+18   of injury further depends on even more assumptions to arrive at a “concrete and
+
+
+
+
+                                                17
+ 1   particularized” harm to the State Petitioners’ budgets, as opposed to one that is
+
+ 2   “conjectural or hypothetical.” Spokeo, 136 S. Ct. at 1548 (citation omitted).
+
+ 3          The ultimate annual pool of taxable capital gains in a state is driven by
+
+ 4   countless variables, from the performance of the broader economy to the
+
+ 5   composition of individual investor portfolios in the state. The State Petitioners’
+
+ 6   theory also assumes away the potential downsides of a uniform fiduciary
+
+ 7   standard, such as investor losses due to higher costs and reduced consumer choice
+
+ 8   if broker-dealers are driven from the marketplace for investment advice. As a
+
+ 9   result, we find that the State Petitioners’ theory of injury rests too heavily on
+
+10   “conclusory statements and speculative economic data” concerning the long-term
+
+11   effects of Regulation Best Interest on state budgets, Wyoming, 674 F.3d at 1232–33,
+
+12   and we thus conclude that the State Petitioners lack Article III standing.
+
+13          Nonetheless, because Ford has standing, we have jurisdiction to proceed to
+
+14   the merits of the petitions for review. See Town of Chester v. Laroe Estates, Inc., 137
+
+15   S. Ct. 1645, 1651 (2017) (“At least one plaintiff must have standing to seek each
+
+16   form of relief requested . . . .”).
+
+
+
+
+                                               18
+ 1   B.    Legality under the Dodd-Frank Act
+
+ 2         The Dodd-Frank Act authorizes the SEC to promulgate Regulation Best
+
+ 3   Interest. Congress stated that the SEC “may commence a rulemaking, as necessary
+
+ 4   or appropriate in the public interest and for the protection of retail customers . . .
+
+ 5   to address the legal or regulatory standards of care for” broker-dealers. Dodd-
+
+ 6   Frank Act § 913(f) (emphasis added). This broad grant of permissive rulemaking
+
+ 7   authority encompasses the best-interest rule adopted by the SEC. Contrary to
+
+ 8   Petitioners’ argument, Section 913(g) does not narrow the scope of Section 913(f)
+
+ 9   but rather provides a separate grant of rulemaking authority.
+
+10         The key language in each of the provisions at issue is “may,” which is
+
+11   permissive and reflects Congress’s grant of discretionary rulemaking authority to
+
+12   the SEC. See id. § 913(f) (“The Commission may commence a rulemaking . . .”); id.
+
+13   § 913(g)(1) (“the Commission may promulgate rules . . .”); id. § 913(g)(2) (“The
+
+14   Commission may promulgate rules . . .”). Congress gave the SEC the authority to
+
+15   promulgate rules under any of these sections—or to make no rule at all. With
+
+16   Regulation Best Interest, the SEC chose to proceed under Section 913(f), not
+
+17   Sections 913(g)(1) or (g)(2).
+
+
+
+
+                                              19
+ 1         In addition to the word “may,” the permissive nature of Congress’s grant of
+
+ 2   authority in Section 913(f) is reinforced by discretionary language allowing the
+
+ 3   SEC to act “as necessary or appropriate in the public interest . . . [to] address the legal
+
+ 4   or regulatory standards of care . . . .” Id. § 913(f) (emphases added). Congress
+
+ 5   delegated to the SEC broad, discretionary authority, which the SEC lawfully
+
+ 6   exercised by promulgating Regulation Best Interest.
+
+ 7         Petitioners contend that this reading of Section 913(f) would render the
+
+ 8   narrower authorizations in Section 913(g) superfluous. Although there is some
+
+ 9   “[o]verlap” among the three provisions, Section 913(g) is not superfluous because
+
+10   it clarifies that the SEC could have promulgated a uniform fiduciary standard. See
+
+11   Skilling v. United States, 561 U.S. 358, 413 n.45 (2010) (“Overlap with other federal
+
+12   statutes does not render [a statutory provision] superfluous.”).
+
+13         In 2007, the D.C. Circuit struck down an SEC rule broadening the exemption
+
+14   for broker-dealers under the IAA. Fin. Planning Ass’n v. SEC, 482 F.3d 481, 488
+
+15   (D.C. Cir. 2007).        When Congress was debating the Dodd-Frank Act,
+
+16   commentators expressed concern that the courts might similarly strike down any
+
+17   new SEC regulation that subjected broker-dealers to the same fiduciary standard
+
+
+
+
+                                                 20
+ 1   that is applicable to investment advisers. 7 By including Section 913(g), Congress
+
+ 2   ensured that the SEC had explicit (but discretionary) authorization to create a
+
+ 3   standard of conduct for broker-dealers that is the “same as the standard of conduct
+
+ 4   applicable to an investment adviser” or to require that both broker-dealers and
+
+ 5   investment advisers act in the “best interest of the [retail] customer without regard
+
+ 6   to the financial or other interest of the broker, dealer, or investment adviser.”
+
+ 7   Dodd-Frank Act § 913(g). So even if Section 913(g) provides no additional grant
+
+ 8   of authority beyond Section 913(f), it does “a small amount of additional work” by
+
+ 9   clarifying that the IAA’s broker-dealer exemption did not prevent the SEC from
+
+10   imposing a fiduciary obligation on broker-dealers if it so chose. Scheidler v. Nat’l
+
+11   Org. for Women, Inc., 547 U.S. 9, 22 (2006). 8
+
+
+             7See, e.g., Enhancing Investor Protection and the Regulation of Securities Markets: Hearing Before
+     the S. Comm. on Banking, Housing, and Urban Affairs, 111th Cong. 136 (2009) (statement of Damon
+     A. Silvers, Associate General Counsel, AFL-CIO) (“[P]art of what must be done in this area is to
+     determine whether the proper regulatory approach will require Congressional action in light of
+     the D.C. Circuit opinion.”).
+             8 Although “reliance on legislative history is unnecessary in light of the statute’s
+     unambiguous language,” Mohamad v. Palestinian Auth., 566 U.S. 449, 458 (2012) (citation omitted),
+     the context of the Dodd-Frank Act supports this conclusion. The House and Senate versions of
+     the bill each granted the SEC rulemaking authority over standards of care, but in different ways.
+     See Br. of Amici Curiae Representative Ann Wagner et al. at 21–26 (discussing legislative history).
+     The House bill contained a mandatory version of Section 913(g), requiring that the SEC “shall
+     promulgate rules” making the standard of conduct for broker-dealers and investment advisers
+     “the same.” H.R. 4173, § 7103, 111th Cong. (as passed by the House, Dec. 11, 2009). The Senate
+     bill, however, more closely resembled Section 913(f), stating that if the SEC found regulatory
+
+
+
+
+                                                        21
+ 1          Petitioners propose their own interpretation of Section 913—that Section
+
+ 2   913(f) is a procedural authorization to commence rulemaking only and that Section
+
+ 3   913(g) provides the substantive content for any such rulemaking. But this reading
+
+ 4   is inconsistent with the plain meaning of the text, which specifies that the
+
+ 5   rulemaking should “address the legal or regulatory standards of care for brokers,
+
+ 6   dealers, [and] investment advisers . . . .” Section 913(f). Petitioners’ approach
+
+ 7   would render meaningless the substantive portions of Section 913(f) that follow
+
+ 8   the broad grant of rulemaking authority.
+
+ 9          We thus hold that the SEC lawfully promulgated Regulation Best Interest
+
+10   pursuant to Congress’s permissive grant of rulemaking authority under Section
+
+11   913(f) of the Dodd-Frank Act.
+
+12   C.     Arbitrary and Capricious Review
+
+13          Finally, Petitioners contend that Regulation Best Interest is arbitrary and
+
+14   capricious because (1) it relies on an incorrect interpretation of the broker-dealer
+
+
+
+
+     “gaps or overlap,” it “shall . . . commence a rulemaking, as necessary or appropriate in the public
+     interest and for the protection of retail customers, to address such regulatory gaps and overlap.”
+     S. 3217, § 913(f)(1), 111th Cong. (as amended by the Senate, May 20, 2010). The final bill retained
+     both the House and Senate language as Sections 913(g) and (f), respectively, but substituted the
+     word “may” for the word “shall” to indicate that the SEC had the option, but not the obligation,
+     to make rules under each provision. 124 Stat. at 1827–29. The independent origins of Sections
+     913(f) and (g) thus support the interpretation that they are freestanding grants of rulemaking
+     authority, not interdependent provisions that limit one another.
+
+
+                                                     22
+ 1   exemption to the IAA, and (2) the SEC did not adequately address evidence of
+
+ 2   consumer confusion. We reject both arguments and hold that Regulation Best
+
+ 3   Interest is not arbitrary and capricious.
+
+ 4         “[W]e will set aside the agency’s decision only if it is arbitrary, capricious,
+
+ 5   an abuse of discretion, or otherwise not in accordance with law.” Nat. Res. Def.
+
+ 6   Council, Inc. v. FAA, 564 F.3d 549, 555 (2d Cir. 2009) (internal quotation marks
+
+ 7   omitted). “Under this deferential standard of review, we may not substitute our
+
+ 8   judgment for that of the agency,” and we “must be reluctant to reverse results
+
+ 9   supported by a weight of considered and carefully articulated expert opinion.”
+
+10   Cty. of Westchester v. U.S. Dep’t of Housing & Urban Dev., 802 F.3d 413, 430–31 (2d
+
+11   Cir. 2015) (internal quotation marks omitted).
+
+12         The SEC “crafted Regulation Best Interest to draw on key principles
+
+13   underlying fiduciary obligations . . . while providing specific requirements to
+
+14   address certain aspects of the relationships between broker-dealers and their retail
+
+15   customers.” 84 Fed. Reg. at 33,320. It considered several thousand comments,
+
+16   explicitly rejected proposed alternatives, and concluded that the best-interest
+
+17   obligation “will best achieve the [SEC’s] important goals of enhancing retail
+
+18   investor protection and decision making, while preserving, to the extent possible,
+
+
+
+
+                                                 23
+ 1   retail investor access (in terms of choice and cost) to differing types of investment
+
+ 2   services.” Id. at 33,320–23.
+
+ 3         At bottom, Petitioners’ preference for a uniform fiduciary standard instead
+
+ 4   of a best-interest obligation is a policy quarrel dressed up as an APA claim. The
+
+ 5   SEC carefully considered and rejected a fiduciary rule based on its findings that
+
+ 6   the fiduciary duties owed by investment advisers are “not appropriately tailored
+
+ 7   to the structure and characteristics of the broker-dealer business model (i.e.,
+
+ 8   transaction-specific recommendations and compensation).” 84 Fed. Reg. at 33,322.
+
+ 9   “For example, an investment adviser’s fiduciary duty generally includes a duty to
+
+10   provide ongoing advice and monitoring, while Regulation Best Interest imposes
+
+11   no such duty and instead requires that a broker-dealer act in the retail customer’s
+
+12   best interest at the time a recommendation is made.” Id. at 33,321 (footnote
+
+13   omitted).   We are “reluctant to reverse” such a “considered and carefully
+
+14   articulated” policy decision. Cty. of Westchester, 802 F.3d at 431 (citation omitted).
+
+15         1.     Interpretation of the Broker-Dealer Exemption
+
+16         Petitioners claim that Regulation Best Interest is arbitrary and capricious
+
+17   because it is based on an incorrect interpretation of the “solely incidental” and
+
+18   “special compensation” prongs of the broker-dealer exemption from the IAA. See
+
+
+
+
+                                               24
+ 1   15 U.S.C. § 80b-2(a)(11)(C) (exempting from the definition of investment adviser
+
+ 2   “any broker or dealer whose performance of such services is [1] solely incidental
+
+ 3   to the conduct of his business as a broker or dealer and [2] who receives no special
+
+ 4   compensation therefor”); Prill v. NLRB, 755 F.2d 941, 948 (D.C. Cir. 1985) (“If a
+
+ 5   regulation is based on an incorrect view of applicable law, the regulation cannot
+
+ 6   stand as promulgated.” (citation omitted)).
+
+ 7          We conclude that the SEC’s interpretation of the scope of the broker-dealer
+
+ 8   exemption is not so “fundamental” to Regulation Best Interest as to make the rule
+
+ 9   “arbitrary, capricious, or otherwise not in accordance with law.” Safe Air for
+
+10   Everyone v. EPA, 488 F.3d 1088, 1101 (9th Cir. 2007) (citation omitted). The SEC
+
+11   issued an interpretative rule on the phrase “solely incidental” along with
+
+12   Regulation Best Interest. Solely Incidental Interpretation, 84 Fed. Reg. 33,681. But
+
+13   Petitioners have not challenged that rule, nor do they argue that they are permitted
+
+14   to do so. 9 And the phrase “special compensation” is not even mentioned in
+
+15   Regulation Best Interest or the adopting release. See generally Regulation Best
+
+16   Interest, 84 Fed. Reg. 33,318.        Petitioners thus fail to explain how the SEC’s
+
+
+            9 We reject Petitioners’ contention that Regulation Best Interest fundamentally relies on
+     the Solely Incidental Interpretation. The Adopting Release contains only a few passing references
+     to the Interpretation for the limited purpose of providing regulatory context. See, e.g., 84 Fed.
+     Reg. at 33,321, 33,336 n.166.
+
+
+                                                    25
+ 1   interpretation of the broker-dealer exemption to the IAA could make Regulation
+
+ 2   Best Interest arbitrary and capricious.
+
+ 3          2.      Consideration of Evidence of Consumer Confusion
+
+ 4          Petitioners also argue that Regulation Best Interest is arbitrary and
+
+ 5   capricious because the SEC failed adequately to address the “significant evidence
+
+ 6   that consumers are not meaningfully able to differentiate between the standards
+
+ 7   of conduct owed by broker-dealers and investment advisers even with the
+
+ 8   assistance of disclosure forms.” 10 XYPN Br. at 53 (citing, inter alia, RAND Study at
+
+ 9   13). But the SEC considered evidence of consumer confusion and found that the
+
+10   benefits of decreased costs and consumer choice favored adopting the best-interest
+
+11   obligation. This decision was not arbitrary and capricious.
+
+12          “When a petitioner challenges the procedure by which an agency engaged
+
+13   in rulemaking, . . . we defer to [the] agency’s determinations so long as the agency
+
+14   ‘gives adequate reasons for its decisions,’ in the form of a ‘satisfactory explanation
+
+
+            10 The State Petitioners also assert that the SEC provided inadequate economic analysis,
+     but the cases they cite require the agency to give only a “reasoned explanation” for its decision,
+     not necessarily a quantitative one. See, e.g., City of Brookings Mun. Tel. Co. v. FCC, 822 F.2d 1153,
+     1169 & n.46 (D.C. Cir. 1987); accord Defenders of Wildlife v. Zinke, 856 F.3d 1248, 1263–64 (9th Cir.
+     2017) (rejecting the claim that an agency’s “failure to quantify” some of the effects of its decision
+     made that decision “arbitrary and capricious”); Lindeen v. SEC, 825 F.3d 646, 658 (D.C. Cir. 2016)
+     (“We do not require the [SEC] ‘to measure the immeasurable’ and we do not require it to ‘conduct
+     a rigorous, quantitative economic analysis unless the statute explicitly directs it to do so.’”
+     (citation omitted)).
+
+
+                                                      26
+ 1   for its action including a rational connection between the facts found and the
+
+ 2   choice made.’” Nat. Res. Def. Council, Inc. v. EPA (“NRDC”), 961 F.3d 160, 170 (2d
+
+ 3   Cir. 2020) (cleaned up) (quoting Encino Motorcars, LLC v. Navarro, 136 S. Ct. 2117,
+
+ 4   2125 (2016)). “An agency’s factual findings must be supported by ‘substantial
+
+ 5   evidence,’” meaning “such relevant evidence as a reasonable mind might accept
+
+ 6   as adequate to support a conclusion.” Fund for Animals v. Kempthorne, 538 F.3d 124,
+
+ 7   132 (2d Cir. 2008) (citations omitted).
+
+ 8         In the Adopting Release, the SEC explicitly recognized that a uniform
+
+ 9   standard of care may “reduce retail investor confusion as it would ensure that
+
+10   investors are provided the same standard of care and loyalty regardless of what
+
+11   type of financial professional they engage.” 84 Fed. Reg. at 33,462. But the SEC
+
+12   weighed these benefits against the “significant compliance costs” for broker-
+
+13   dealers that could cause “retail customers [to] experience an increase in the cost of
+
+14   obtaining investment advice” and lead to “the potential exit of broker-dealers from
+
+15   the market.” Id. at 33,462; id. at 33,464 n.1351 (citing Vivek Bhattacharya et al.,
+
+16   Fiduciary Duty and the Market for Financial Advice (Working Paper, Apr. 2019)
+
+17   (discussing possible exit by broker-dealers)); 84 Fed. Reg. at 33,464 n.1354 (citing
+
+18   Diane Del Guercio & Jonathan Reuter, Mutual Fund Performance and the Incentive to
+
+
+
+
+                                               27
+ 1   Generate Alpha, 69 J. Fin. 1673, 1682 (2014) (discussing the lower costs offered by
+
+ 2   broker-dealers)); see also Br. for Amici Curiae SIFMA et al. in support of
+
+ 3   Respondents at 14–20 (surveying evidence in support of the SEC’s analysis).
+
+ 4         Thus, Regulation Best Interest was not arbitrary and capricious because the
+
+ 5   SEC gave “adequate reasons for its decision[]” to prioritize consumer choice and
+
+ 6   affordability over the possibility of reducing consumer confusion, and it
+
+ 7   supported its findings with “substantial evidence.”        NRDC, 961 F.3d at 170
+
+ 8   (citation omitted); Fund for Animals, 538 F.3d at 132 (citation omitted).
+
+ 9                                   IV. CONCLUSION
+
+10         For the reasons set forth above, the petitions for review are denied.
+
+
+
+
+                                              28
+RICHARD J. SULLIVAN, Circuit Judge, concurring in part and dissenting in part:
+
+
+      I agree with the majority that the State Petitioners lack standing to bring
+
+their petition. I also happen to agree with the majority’s analysis of Regulation
+
+Best Interest and its rejection of the investment advisers’ challenge on the merits.
+
+Nevertheless, because I am convinced that XY Planning Network, LLC and Ford
+
+Financial Solutions, LLC (together, the “XYPN Petitioners”) also lack standing to
+
+challenge Regulation Best Interest, I would dismiss the petitions in their entirety,
+
+without reaching the merits of petitioners’ regulatory arguments.
+
+
+      In order to establish Article III standing, petitioners “must have (1) suffered
+
+an injury in fact, (2) that is fairly traceable to the challenged conduct of the
+
+defendant, and (3) that is likely to be redressed by a favorable judicial decision.”
+
+Spokeo, Inc. v. Robins, 136 S. Ct. 1540, 1547 (2016). The XYPN Petitioners offer a
+
+grab bag of standing theories, most of which are easily brushed aside for failing to
+
+establish one or more of the three requirements articulated in Spokeo.
+
+
+      For example, Ford asserts that it has standing to challenge Regulation Best
+
+Interest because the rule will subject Ford’s broker-dealer competitors to
+
+“comparatively fewer regulatory obligations, lower compliance costs, and less
+
+legal exposure, giving them a competitive advantage.” XYPN Br. Add. at 5. But
+Ford cannot establish that Regulation Best Interest is the cause of these alleged
+
+injuries, since the XYPN Petitioners concede that the competitive imbalance
+
+between investment advisers and broker-dealers predated the rule. See XYPN Br.
+
+at 11 (explaining the “reality of the retail market for investment advice, in which
+
+broker-dealers . . . regularly provide personalized financial advice alongside
+
+investment advisers without registering themselves under the Investment
+
+Advisers Act”); id. at 17 (acknowledging that Regulation Best Interest “preserved
+
+the regulatory gap between broker-dealers and investment advisers in the market
+
+for personalized investment advice”). If anything, Regulation Best Interest will
+
+actually lessen the competitive disadvantage faced by investment advisers since it
+
+in fact increases the regulatory obligations, compliance costs, and legal exposure
+
+borne by broker-dealers. So even if Ford is correct in asserting that it remains at a
+
+disadvantage because the SEC did not equalize the duties and obligations of
+
+investment advisers and broker-dealers, that injury “cannot tenably trace” to
+
+Regulation Best Interest. Cal. Ass’n of Physically Handicapped, Inc. v. FCC, 778 F.2d
+
+823, 827 (D.C. Cir. 1985). Moreover, a favorable judicial decision in this action
+
+would not redress the investment advisers’ alleged injuries, since vacatur of the
+
+regulation would restore the status quo, leaving broker-dealers with even fewer
+
+
+
+                                         2
+obligations and a more pronounced competitive advantage over investment
+
+advisers.
+
+
+      For its part, XY Planning contends that it has standing because the rule’s
+
+failure to impose a uniform fiduciary standard on both broker-dealers and
+
+investment advisers “reduces the likelihood that broker-dealers will register as
+
+investment advisers,” thereby “resulting in a loss of business” from broker-dealers
+
+who might otherwise be induced to join XY Planning as dues-paying members.
+
+XYPN Br. at 31. But in addition to being wholly speculative, this theory again fails
+
+to establish a causal relationship between the regulation and the alleged injury. At
+
+bottom, XY Planning does not claim that Regulation Best Interest will cause it to
+
+lose business; it merely complains that the rule does not do more to mitigate a
+
+preexisting competitive injury. But that is not enough to establish injury-in-fact or
+
+causation.   And since the SEC is under no statutory mandate to impose an
+
+equalizing fiduciary standard on broker-dealers, a favorable result in this litigation
+
+– vacatur of Regulation Best Interest – will do nothing to redress that preexisting
+
+harm. To the contrary, vacatur will ensure that broker-dealers continue to enjoy a
+
+more pronounced competitive advantage – and have even less incentive to join XY
+
+
+
+
+                                          3
+Planning as dues-paying members – than would be the case under Regulation Best
+
+Interest.
+
+
+      Notwithstanding the inadequacies of the XYPN Petitioners’ principal
+
+standing arguments, the majority purports to find a winning theory of standing at
+
+the very bottom of the bag. That theory – which might be characterized as “the
+
+client marketing theory” – posits that Ford and similarly situated investment
+
+advisers meet the requirements of Spokeo because “Regulation Best Interest will
+
+impair [Ford’s] ability to differentiate its services from broker-dealers’ based on its
+
+higher duty of care.” Maj. Op. at 14. Accepting at face value the affidavit of Ford’s
+
+principal, the majority concludes that (1) Ford attracts customers by touting its
+
+fiduciary duty to clients, in contrast to the lower suitability standard that broker-
+
+dealers owe to their clients, and (2) Regulation Best Interest poses “a significant
+
+risk that clients will not be able to effectively differentiate the fiduciary duty that
+
+[Ford] owe[s] them from the lower duty that broker-dealers owe their clients.” Id.
+
+at 15 (internal quotation marks omitted). According to the majority, Regulation
+
+Best Interest threatens to impair Ford’s ability to market its higher fiduciary duty
+
+as a way of differentiating itself from broker-dealer competitors. Put another way,
+
+the majority concludes that Ford uses this tactic to attract customers, but will no
+
+
+                                          4
+longer be able to do so if broker-dealers can advertise that they too must act in
+
+their customers’ “best interests” by virtue of the new regulation.
+
+
+      But surely more is required to establish an injury-in-fact for standing
+
+purposes. Under this theory, anyone would be able to challenge a regulation that
+
+imposes duties on third parties simply because the challenger chose to adopt a
+
+marketing strategy that made reference to the existence or non-existence of such
+
+regulations. Consider, for example, a not-far-fetched scenario involving the Food
+
+and Drug Administration’s (“FDA”) food labeling requirements. Under current
+
+regulations, food manufacturers are required to list the ingredients and pertinent
+
+nutritional information on the labels of their products.         However, the FDA
+
+exempts small manufacturers from complying with those requirements so long as
+
+fewer than 100,000 units of a product are sold annually in the United States and
+
+the manufacturer employs fewer than 100 people. 21 C.F.R. § 101.9(j)(18). Imagine
+
+that a major food brand launched an ad campaign designed to increase its market
+
+share at the expense of small food manufacturers by highlighting its obligation to
+
+post ingredients on its labels (“read all about it”) in contrast to the exemptions that
+
+allow gourmet food shops to stay silent (“who knows?”). If the FDA proposed a
+
+regulation change that would lift the labeling exemptions on small manufacturers,
+
+
+                                          5
+would the major food brand have standing to challenge the new regulation merely
+
+because its catchy ad campaign would no longer be relevant?
+
+
+      To my mind, the impairment of a marketing tactic based on a competitor’s
+
+characterization of government regulations simply cannot rise to the level of a
+
+legally cognizable injury-in-fact for standing purposes. As the Supreme Court has
+
+recognized, where a party is not “the object of the [challenged] government
+
+action,” its standing is “substantially more difficult” to establish. Lujan v. Defs. of
+
+Wildlife, 504 U.S. 555, 562 (1992) (internal quotation marks omitted). In those
+
+circumstances, “much more is needed,” id., namely, a “concrete, particularized,
+
+and actual or imminent” injury, Clapper v. Amnesty Int’l USA, 568 U.S. 398, 409
+
+(2013) (internal quotation marks omitted).
+
+
+      Here, Ford’s diminished ability to market its fiduciary duty as a
+
+differentiating factor from its broker-dealer competitors does not satisfy this
+
+requirement. Neither the hypothetical food brand nor the actual petitioners here
+
+have a property interest in characterizing competitors as un- or under-regulated.
+
+And while they may have a limited First Amendment right to make such
+
+statements in the marketplace, they certainly don’t have Article III standing to
+
+
+
+
+                                          6
+challenge a regulation simply because it threatens to alter the regulatory status
+
+quo and render their marketing strategy less compelling.
+
+
+      For all these reasons, I am convinced that the XPYN Petitioners lack
+
+standing to challenge Regulation Best Interest, and that we are compelled to
+
+dismiss their petitions outright without reaching the merits of the challenge.
+
+
+
+
+                                         7
+

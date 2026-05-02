@@ -178,8 +178,5 @@ validation.py
 validation_results.csv
 .env.local
 
-# RegChallenger — data files (too large for git, FJC redistribution restrictions)
-data/opinions/
-data/*.csv
+# RegChallenger — large/raw data not used by the dashboard
 data/*.xlsx
-data/*.txt

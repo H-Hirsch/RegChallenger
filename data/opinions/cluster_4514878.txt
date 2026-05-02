@@ -1,0 +1,872 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 25, 2018                  Decided July 6, 2018
+
+                        No. 16-1302
+
+                      JOHN A. TAYLOR,
+                        PETITIONER
+
+                              v.
+
+           FEDERAL AVIATION ADMINISTRATION,
+                     RESPONDENT
+
+
+            On Petition for Review of an Order
+           of the Federal Aviation Administration
+
+
+        John A. Taylor, pro se, argued the cause and filed the
+briefs for petitioner.
+
+       Abby C. Wright, Attorney, U.S. Department of Justice,
+argued the cause for respondents. With her on the brief were
+Michael S. Raab, Attorney, and Paul M. Geier, Assistant
+General Counsel for Litigation and Enforcement, Federal
+Aviation Administration.
+
+     Before: GARLAND, Chief Judge, and SENTELLE and
+RANDOLPH, Senior Circuit Judges.
+
+       Opinion for the Court filed by Chief Judge GARLAND.
+                                2
+
+     GARLAND, Chief Judge: The Federal Aviation
+Administration (FAA) has issued a rule that regulates certain
+unmanned aircraft, popularly known as “drones.” Petitioner
+John Taylor, a model aircraft hobbyist, seeks review of that rule.
+He contends that the rule exceeds the agency’s statutory
+authority, is arbitrary and capricious, and has miscellaneous
+additional infirmities. For the following reasons, we deny the
+petition for review.
+
+                                I
+
+     In the FAA Modernization and Reform Act of 2012,
+Congress tasked the Secretary of Transportation with developing
+“a comprehensive plan to safely accelerate the integration of
+civil unmanned aircraft systems into the national airspace
+system.” Pub. L. 112-95, § 332(a)(1), 126 Stat. 11, 73 (codified
+at 49 U.S.C. § 40101 note) (hereinafter “Modernization Act”).
+The Act defines an “unmanned aircraft” as “an aircraft that is
+operated without the possibility of direct human intervention
+from within or on the aircraft.” Modernization Act § 331(8). A
+“small unmanned aircraft” is a craft that meets this definition
+and weighs less than 55 pounds. Id. § 331(6). And an
+“unmanned aircraft system” is “an unmanned aircraft and
+associated elements,” such as communication links and
+components that control the unmanned aircraft. Id. § 331(9).
+
+     Section 332 of the Modernization Act instructs the
+Secretary to conduct a rulemaking “to implement the
+recommendations” of the comprehensive plan, and to issue “a
+final rule on small unmanned aircraft systems that will allow for
+civil operation of such systems in the national airspace system.”
+Id. § 332(b). Section 333 of the Act, entitled “Special Rules for
+Certain Unmanned Aircraft Systems,” directs the Secretary to
+determine whether some unmanned aircraft systems may operate
+safely in the national airspace system before completion of the
+                                 3
+
+comprehensive plan and rulemaking required by section 332.
+Id. § 333(a).
+
+     Section 333 is one of two sections of the Modernization Act
+that are most directly relevant to this petition. It directs the
+Secretary to determine “(1) which types of unmanned aircraft
+systems, if any, as a result of their size, weight, speed,
+operational capability, proximity to airports and populated areas,
+and operation within visual line of sight do not create a hazard
+to users of the national airspace system or the public or pose a
+threat to national security; and (2) whether a certificate of
+waiver, certificate of authorization, or airworthiness certification
+under [49 U.S.C. § 44704] is required for the operation of [such]
+unmanned aircraft systems.” Id. § 333(b). If the Secretary
+determines “that certain unmanned aircraft systems may operate
+safely in the national airspace system, the Secretary shall
+establish requirements for the safe operation of such aircraft
+systems in the national airspace system.” Id. § 333(c).
+
+     The other directly relevant section is section 336, which
+creates a statutory “Special Rule for Model Aircraft.” Id. § 336.
+The section defines a “model aircraft” as “an unmanned aircraft
+that is -- (1) capable of sustained flight in the atmosphere;
+(2) flown within visual line of sight of the person operating the
+aircraft; and (3) flown for hobby or recreational purposes.” Id.
+§ 336(c). Section 336 provides that, notwithstanding any other
+provision of law regarding incorporation of unmanned aircraft
+systems into FAA plans and policies, the FAA (a component of
+the Department of Transportation) “may not promulgate any rule
+or regulation regarding a model aircraft” that satisfies the
+following five operational criteria:
+
+         (1) the aircraft is flown strictly for hobby or
+         recreational use;
+                                4
+
+         (2) the aircraft is operated in accordance with a
+         community-based set of safety guidelines and within
+         the programming of a nationwide community-based
+         organization;
+
+         (3) the aircraft is limited to not more than 55
+         pounds . . . ;
+
+         (4) the aircraft is operated in a manner that does not
+         interfere with and gives way to any manned aircraft;
+         and
+
+         (5) when flown within 5 miles of an airport, the
+         operator of the aircraft provides the airport operator
+         and the airport air traffic control tower . . . with prior
+         notice of the operation . . . .
+
+Id. § 336(a).
+
+     Section 336 also provides, however, that nothing in it “shall
+be construed to limit the authority of the [FAA] Administrator
+to pursue enforcement action against persons operating model
+aircraft who endanger the safety of the national airspace
+system.” Id. § 336(b). In short, section 336’s statutory Special
+Rule creates a safe harbor from FAA regulation for those model
+aircraft that meet its five operational criteria. That safe harbor
+itself has an exception for dangerous model aircraft operations.
+
+     For the purposes of this opinion, we will use the phrase
+“section 336 model aircraft” to refer to model aircraft that meet
+the five operational criteria of the statutory Special Rule. We
+will use the term “non-section 336 model aircraft” to refer to
+model aircraft that do not meet one or more of the safe harbor
+requirements.
+                                5
+
+    After Congress passed the Modernization Act, the FAA
+took two related regulatory actions that are relevant as
+background but are not the subject of this case.
+
+     In 2014, the agency issued an Interpretation of the Special
+Rule for Model Aircraft, which interpreted several terms
+contained in the statutory Special Rule. 79 Fed. Reg. 36,172
+(June 25, 2014). The FAA sought public comments on the
+Interpretation and is currently reviewing those comments.
+Status Report, UAS Am. Fund, LLC v. FAA, No. 14-1156 (D.C.
+Cir. June 19, 2018).
+
+     In 2015, the FAA promulgated a rule requiring the
+registration of small unmanned aircraft, including model
+aircraft. Registration and Marking Requirements for Small
+Unmanned Aircraft, 80 Fed. Reg. 78,594 (Dec. 16, 2015).
+Taylor challenged the registration rule, and this circuit held that
+it violated the Modernization Act in certain respects. Taylor v.
+Huerta, 856 F.3d 1089, 1093 (D.C. Cir. 2017). Soon thereafter,
+Congress restored the registration rule to effect. National
+Defense Authorization Act for Fiscal Year 2018, Pub. L. No.
+115-91, § 1092(d), 131 Stat. 1283, 1611 (2017).
+
+    Finally, in 2016, the agency promulgated the rule that is the
+subject of this case, Operation and Certification of Small
+Unmanned Aircraft Systems, 81 Fed. Reg. 42,064 (June 28,
+2016) (hereinafter “Small UAS Rule”). Two provisions of the
+Small UAS Rule are at the heart of Taylor’s petition for review.
+
+     First, the rule adds a new part 107 to the Code of Federal
+Regulations (C.F.R.) to “allow for routine civil operation” of
+small unmanned aircraft systems and “to provide safety rules for
+those operations.” Id. at 42,066. Consistent with the statutory
+definition noted above, the rule defines a small unmanned
+aircraft as one that weighs less than 55 pounds. Id. at 42,085-
+                                   6
+
+86; see 14 C.F.R. § 107.3. To mitigate risk, the rule limits small
+unmanned aircraft systems to “daylight and civil twilight
+operations with appropriate collision lighting, confined areas of
+operation, and visual-line-of-sight operations.” 81 Fed. Reg. at
+42,066; see 14 C.F.R. §§ 107.29, 107.31, 107.43, 107.45. Part
+107 also addresses “airspace restrictions, remote pilot
+certification, visual observer requirements, and operational
+limits.” 81 Fed. Reg. at 42,066; see, e.g., 14 C.F.R. §§ 107.33,
+107.37, 107.41, 107.61.
+
+     Second, the Small UAS Rule adds a new subpart E to part
+101 of the C.F.R., as well as a § 107.1 to part 107. Those
+provisions codify the statutory Special Rule for Model Aircraft
+contained in Modernization Act § 336. Subpart E’s § 101.41
+lists the five operational criteria required to qualify for the
+statutory safe harbor from FAA regulation. 14 C.F.R. § 101.41.
+Subpart E’s § 101.43 provides that the safe harbor does not
+extend to operations that endanger the safety of the national
+airspace system. Id. § 101.43. And § 107.1 completes the
+package by providing that the small unmanned aircraft system
+requirements of part 107 do not apply to any aircraft that falls
+within the safe harbor of § 101.41. Id. § 107.1(b)(2).1 The
+result is that a section 336 model aircraft -- one that meets the
+five criteria in the statutory Special Rule -- is exempt from the
+new part 107 requirements. By contrast, a model aircraft that
+fails to meet one or more of the section 336 criteria is subject to
+the regulations of part 107.
+
+
+
+
+     1
+       Section 107.1 accomplishes this by providing that part 107
+“does not apply to . . . [a]ny aircraft subject to the provisions of part
+101.” Id. § 107.1(b)(2). And § 101.1 states that part 101 “prescribes
+rules governing the operation” of “[a]ny model aircraft that meets the
+conditions specified in § 101.41.” Id. § 101.1(a)(5).
+                                7
+
+                                II
+
+    Taylor has petitioned for review of the Small UAS Rule.
+His challenges fall into four categories, which we address
+below.
+
+                               A
+
+     Taylor contends that the rule violates the Modernization Act
+by regulating the forbidden category of section 336 model
+aircraft. As we noted above, section 336(a) of the Act states that
+the FAA “may not promulgate any rule or regulation regarding
+a model aircraft” if that aircraft meets the five operational
+criteria listed in the statute. Modernization Act § 336(a). Taylor
+argues that the rule violates section 336(a) in two respects: by
+imposing new regulations on section 336 model aircraft, and by
+exposing section 336 model aircraft to pre-existing regulations.
+The FAA did not request Chevron deference for its statutory
+interpretation, see Chevron U.S.A. Inc. v. Nat. Res. Def. Council,
+Inc., 467 U.S. 837 (1984). Because we conclude that the
+petition should be denied on de novo review, we do not address
+the Chevron standard. See Fed. Election Comm’n v. Craig for
+U.S. Senate, 816 F.3d 829, 839 n.6 (D.C. Cir. 2016).
+
+     Taylor’s first argument is that the newly promulgated 14
+C.F.R. § 101.41 is a rule or regulation regarding model aircraft
+and is inconsistent with section 336(a). Taylor’s argument fails
+because § 101.41 does not regulate section 336 model aircraft
+at all. To the contrary, it simply defines the model aircraft that
+fall within section 336(a) and, in so doing, does no more than
+repeat the five criteria that Congress itself listed in section
+336(a).
+                                8
+
+    Section 101.41 states:
+
+         This subpart prescribes rules governing the operation
+         of a model aircraft . . . that meets all of the following
+         conditions as set forth in section 336 of Public Law
+         112–95:
+
+         (a) The aircraft is flown strictly for hobby or
+         recreational use;
+
+         (b) The aircraft is operated in accordance with a
+         community-based set of safety guidelines and within
+         the programming of a nationwide community-based
+         organization;
+
+         (c) The aircraft is limited to not more than 55
+         pounds . . . ;
+
+         (d) The aircraft is operated in a manner that does not
+         interfere with and gives way to any manned aircraft;
+         and
+
+         (e) When flown within 5 miles of an airport, the
+         operator of the aircraft provides the airport operator
+         and the airport air traffic control tower . . . with prior
+         notice of the operation.
+
+14 C.F.R. § 101.41 (emphasis added); compare Modernization
+Act § 336(a). Section 101.43 then subjects model aircraft that
+meet those criteria to only one requirement: the anti-
+endangerment provision expressly permitted by Modernization
+Act § 336. 14 C.F.R. § 101.43; see Modernization Act § 336(b).
+And the new § 107.1(b)(2) then exempts model aircraft that
+satisfy the § 101.41 criteria from the regulations imposed by the
+new part 107. 14 C.F.R. § 107.1(b)(2).
+                                    9
+
+    Accordingly, the Small UAS Rule’s § 101.41 is nothing like
+the Registration Rule that we invalidated in Taylor’s previous
+challenge. See Huerta, 856 F.3d at 1092. The Registration Rule
+“create[d] a new regulatory regime for model aircraft.” Id. at
+1093. It “impose[d] new requirements . . . on people who
+previously had no obligation to . . . the FAA” and “impose[d]
+new penalties . . . on model aircraft owners who [did] not
+comply.” Id. By contrast, § 101.41 simply mirrors the statutory
+category of section 336 model aircraft and imposes no
+requirements on them (except for the anti-endangerment
+requirement permitted by section 336(b)). See Modernization
+Act § 336(b).2
+
+     Taylor’s second claim is that the Small UAS Rule
+unlawfully subjects section 336 model aircraft to pre-existing
+regulations that were previously applicable only to traditional,
+full-size aircraft. According to Taylor, the rule exposes section
+336 model aircraft to the “entire weight of traditional aircraft
+statutes and regulations,” yielding “results that are as legally
+inescapable as they are absurd.” Taylor Br. 24, 25. He claims,
+for example, that all hobbyists must now obtain pilots’ licenses,
+comply with minimum altitude requirements, and service their
+aircraft at licensed aircraft mechanics. Id. at 25-26, 44-47.
+
+     In Taylor’s view, this parade of horribles arises because
+§ 107.1(a) states that, “[e]xcept as provided in paragraph (b) of
+this section, this part applies to . . . civil small unmanned aircraft
+systems.” 14 C.F.R. § 107.1(a). Taylor concludes from this
+language that section 336 model aircraft are to be treated as a
+type of “civil small unmanned aircraft system,” and thus a type
+
+
+     2
+      Of course, a rule that defines the category of aircraft that it does
+not regulate could be described as a rule “regarding” such aircraft.
+But we do not read section 336(a) as barring the FAA from advising
+operators which aircraft are not subject to the Small UAS Rule.
+                                  10
+
+of “aircraft,” for all statutory and regulatory purposes. Taylor
+Br. 24.
+
+     This reads too much into the rule’s reference to “civil small
+unmanned aircraft systems.” As noted above, none of the new
+requirements of part 107 apply to section 336 model aircraft at
+all. That is because the “paragraph (b)” exception referred to in
+the above quotation states that “[t]his part does not apply to . . .
+[a]ny aircraft subject to the provisions of part 101,” 14 C.F.R.
+§ 107.1(b)(2), and § 101.41 mirrors the section 336(a) criteria,
+see id. § 101.41; supra note 1.
+
+     Nor does any other part of the Small UAS Rule subject
+section 336 model aircraft to the pre-existing regulations Taylor
+identifies. To the contrary, in the rule’s preamble, the FAA
+explained that it had not proposed “any changes to its existing
+regulations with regard to section 336 operations” and that such
+changes were beyond the scope of the rulemaking. 81 Fed. Reg.
+at 42,083. The challenged rule itself, therefore, imposes no
+restrictions on section 336 model aircraft apart from the anti-
+endangerment regulation, 14 C.F.R. § 101.43, which Taylor
+does not challenge.3 At oral argument, the FAA agreed with this
+interpretation.4 Accordingly, because Taylor’s petition for
+
+     3
+       Taylor does not challenge the FAA’s authority to promulgate
+the anti-endangerment regulation for good reason. As noted in Part I,
+the statutory Special Rule contains an exception to the section 336(a)
+regulatory bar for this type of FAA regulation. See Modernization Act
+§ 336(b) (“Nothing in this section shall be construed to limit the
+authority of the Administrator to pursue enforcement action against
+persons operating model aircraft who endanger the safety of the
+national airspace system.”).
+     4
+      Oral Arg. Recording at 48:20-48:57 (Court: “Do you regard
+anything that the agency did in the rulemaking that is challenged here
+as imposing any regulations on model aircraft that satisfy the statute’s
+                                   11
+
+review was limited to the Small UAS Rule, see Pet. for Rev.,
+Taylor v. FAA, No. 16-1302 (D.C. Cir. Aug. 29, 2016), he will
+have to file a new petition should he ever wish to challenge an
+attempt by the FAA to apply a pre-existing rule to section 336
+model aircraft.
+
+     Because the challenged rule’s only regulation of section 336
+model aircraft is permitted by the Modernization Act, the FAA
+has honored the statutory safe harbor for these aircraft. We
+therefore reject this challenge.
+
+                                   B
+
+     Taylor’s next contention concerns the FAA’s statutory
+authority to regulate non-section 336 model aircraft. Unlike
+section 336 model aircraft, these recreational aircraft fall outside
+the statutory (and regulatory) safe harbor and are subject to the
+new operating requirements of part 107.5 Taylor argues that the
+FAA lacks statutory authority to regulate non-section 336 model
+aircraft.
+
+     According to Taylor, prior to passage of the Modernization
+Act, “the FAA consistently acknowledged it did not have
+regulatory authority over recreational model aircraft.” Taylor
+Br. 30. Taylor maintains that, at the time the Modernization Act
+
+
+336 requirements?” FAA Counsel: “No.” Court: “No requirements
+of any kind?” Counsel: “No. . . . There is a regulation that prohibits
+reckless operations, but . . . 336(b) expressly permits FAA to prevent
+reckless operation even of model aircraft.”).
+     5
+       Part 107 applies to “civil small unmanned aircraft systems”
+except, as relevant here, to “[a]ny aircraft subject to the provisions of
+part 101.” 14 C.F.R. § 107.1 (a), (b)(2). Because only those model
+aircraft that meet all of the section 336(a) criteria are subject to part
+101, part 107 governs model aircraft that do not meet those criteria.
+                                 12
+
+was passed, the FAA’s interpretation of the pre-existing Federal
+Aviation Act was that only “commercial use small unmanned
+vehicles” were aircraft; recreational model aircraft, by contrast,
+were not “aircraft” at all. Id. Moreover, he continues, the
+Modernization Act “codified” that FAA interpretation. Id. The
+FAA disputes Taylor’s claims about its previous interpretation,
+stating that its previous failure to regulate recreational model
+aircraft was an exercise of enforcement discretion, not statutory
+interpretation. See Operation and Certification of Small
+Unmanned Aircraft Systems, 80 Fed. Reg. 9544, 9550 (proposed
+Feb. 23, 2015); FAA Br. 43-44.
+
+     We do not need to resolve the parties’ dispute about the
+FAA’s previous interpretation of the pre-existing statutory
+provisions, or their dispute about whether those provisions alone
+would have been sufficient to authorize the Small UAS Rule.
+The primary authority upon which the FAA relies for that rule
+is a new statutory section: section 333 of the Modernization
+Act, passed in 2012. See 81 Fed. Reg. at 42,067 n.6. And there
+is no doubt that this section permits the agency to apply the
+regulations of the Small UAS Rule to recreational model aircraft
+that do not fall within the section 336 safe harbor.
+
+      Modernization Act § 333 directs the FAA to determine
+“which types of unmanned aircraft . . . may operate safely in the
+national airspace system,” and then directs the agency to
+“establish requirements for the safe operation of such aircraft.”
+Modernization Act § 333(b), (c). Section 336, in turn, defines
+a “model aircraft” as “an unmanned aircraft that is . . . flown for
+hobby or recreational purposes.”               Modernization Act
+§ 336(c)(3) (emphases added). And it provides that the FAA
+may not promulgate regulations regarding “a model aircraft . . .
+if . . . the aircraft” satisfies the five operational criteria of the
+safe harbor. Id. § 336(a) (emphasis added). Thus, the text
+makes clear that Congress has authorized the FAA to regulate
+                                   13
+
+recreational model aircraft, so long as they are outside the safe
+harbor of section 336(a).6
+
+     There is nothing to support Taylor’s contention that,
+notwithstanding the above, the Modernization Act was intended
+to codify the alleged prior understanding that the FAA could not
+regulate any recreational model aircraft.7 To begin, we note that
+Taylor has cited neither statutory language nor legislative
+history that indicates such an intent. It is true, as Taylor notes,
+that “Congress is presumed to be aware of an administrative . . .
+interpretation of a statute and to adopt that interpretation when
+it re-enacts a statute without change.” Lorillard v. Pons, 434
+U.S. 575, 580 (1978). But even if we were to accept Taylor’s
+claim regarding the FAA’s interpretation of pre-existing
+statutory provisions, Congress did not re-enact a statute without
+change here. To the contrary, it enacted a new statute with
+
+
+
+
+     6
+      The statutory text likewise contradicts Taylor’s contention that
+an aircraft is solely “a tool of manned flight, used, by a person, to
+achieve that person’s flight.” Taylor Br. 31 n.16. At least with respect
+to the Modernization Act, “aircraft” includes “unmanned aircraft.”
+See Modernization Act § 331(8).
+     7
+       In Taylor v. Huerta, we did say that section 336(a) “codified the
+FAA’s longstanding hands-off approach to the regulation of model
+aircraft.” 856 F.3d at 1091. But that codification extended only to
+model aircraft falling within the safe harbor of section 336(a). The
+problem with the Registration Rule at issue in Huerta was that it
+applied to all model aircraft, not just to model aircraft outside the safe
+harbor. See id. at 1092; see also Order, Taylor v. Huerta, No. 15-1495
+(D.C. Cir. Aug. 3, 2017) (denying petitioner’s motion for a contempt
+sanction against the FAA for applying registration requirements to
+non-section 336 model aircraft).
+                                 14
+
+entirely new provisions regarding the regulation of unmanned
+aircraft.8
+
+     Taylor insists that the structure of the Modernization Act
+indicates that Congress “adopted the FAA’s [allegedly]
+consistent interpretation that recreational model aircraft are
+neither ‘civil aircraft’ nor ‘public aircraft’ (the only two types of
+aircraft that exist),” and that, as such, “they are not aircraft at
+all.” Taylor Br. 35 (citing 49 U.S.C. § 40102(a)(16)). He
+argues that the structure so indicates because it “create[s]
+separate regimes for: 1) civil unmanned aircraft, in § 332 and
+§ 333; 2) public unmanned aircraft, in § 334; and 3) recreational
+model aircraft, in § 336.” Id. at 34-35. We disagree.
+
+      First, the suggestion that recreational model aircraft are
+neither “public” nor “civil” aircraft, and hence “not aircraft at
+all,” is at best a counterintuitive interpretation of the pre-existing
+statutory definition.9 In any event, the contention that a model
+aircraft is not an “aircraft” for purposes of the Modernization
+Act is directly contradicted by the Act itself, which, as we have
+just noted, defines “model aircraft” as “an unmanned aircraft
+that is . . . flown for hobby or recreational purposes.”
+Modernization Act § 336(c)(3); see id. § 331(8) (defining
+“unmanned aircraft” as a type of “aircraft”).
+
+
+
+
+    8
+       Nor did it merely “adopt[] a new law incorporating sections of
+a prior law.” Lorillard, 434 U.S. at 581.
+    9
+      Section 40102(a) defines an “aircraft” as “any contrivance . . .
+designed to navigate, or fly in, the air.” 49 U.S.C. § 40102(a)(6). It
+defines a “public aircraft” as a government aircraft.              Id.
+§ 40102(a)(41). And it then defines a “civil aircraft” as “an aircraft
+except a public aircraft.” Id. § 40102(a)(16).
+                                  15
+
+     Second, the Act does not create the three separate regimes
+that Taylor perceives. Section 332 does apply to “civil
+unmanned aircraft,” and section 334 does apply to “public
+unmanned aircraft.” Id. §§ 332, 334. But section 333 (which is
+the directly relevant section here and directs expedited
+rulemaking) simply applies to “certain unmanned aircraft” --
+those the FAA determines may operate safely in the national
+airspace system. Id. § 333.
+
+     Nor does section 336 constitute a statutory bar against any
+regulation of recreational model aircraft. As set forth above,
+that section provides that the FAA may not promulgate
+regulations regarding “a model aircraft . . . if . . . the aircraft”
+satisfies the five operational criteria of the safe harbor. Id.
+§ 336(a) (emphasis added). The expressio unius est exclusio
+alterius canon -- “the expression of one thing implies the
+exclusion of others” -- suggests that the FAA may promulgate
+regulations if an aircraft does not satisfy those criteria.10 And
+while that canon’s “force in particular situations depends
+entirely on context,” In re Sealed Case No. 97-3112, 181 F.3d
+128, 132 (D.C. Cir. 1999) (en banc) (internal quotation marks
+omitted), here the context indicates that Congress expected that
+
+     10
+        Cf. Jennings v. Rodriguez, 138 S. Ct. 830, 844 (2018) (holding
+that a statutory provision authorizing release from detention in certain
+circumstances implies that there are no other circumstances under
+which individuals detained under the provision may be released);
+POM Wonderful LLC v. Coca-Cola Co., 134 S. Ct. 2228, 2238 (2014)
+(“By taking care to mandate express pre-emption of some state laws,
+Congress if anything indicated it did not intend the [statute] to
+preclude requirements arising from other sources.”); In re Sealed Case
+No. 97-3112, 181 F.3d 128, 132 (D.C. Cir. 1999) (en banc) (applying
+the canon to conclude that a Sentencing Guidelines section providing
+“that if the government moves the court may depart [from the
+Guidelines],” means, in context, “that if the government does not
+move the court may not depart”).
+                                   16
+
+a model aircraft would be subject to regulation if it did not come
+within the safe harbor. After all, why would Congress go to the
+trouble of defining (by listing five criteria) a protected
+subcategory of “model aircraft” if it thought the FAA had no
+authority to regulate model aircraft at all?
+
+     Finally, although we hold that the FAA has authority to
+apply the part 107 requirements to recreational model aircraft
+outside the safe harbor (that is, to non-section 336 model
+aircraft), we do not decide whether the agency may apply any
+other regulations to these aircraft. We do not read part 107 -- or
+anything else that the FAA promulgated in the Small UAS Rule
+that is the sole subject of the petition before us -- to make other
+regulatory provisions applicable to these recreational model
+aircraft, except for those provisions expressly cross-referenced
+in the rule. See, e.g., 14 C.F.R. § 107.27 (requiring compliance
+with 14 C.F.R. §§ 91.17 and 91.19). At oral argument, the FAA
+again agreed with this reading.11 If the FAA were to apply
+other, pre-existing regulatory provisions to non-section 336
+model aircraft, that decision may be subject to a separate
+challenge.12
+
+
+     11
+          Oral Arg. Recording at 53:46-54:09 (Court: “In your view, the
+only -- the only requirements that apply to unmanned aircraft that
+don’t meet 336 are those contained in 107, [is] that right?” FAA
+Counsel: “That’s right . . . to be clear, it’s a subset of operations, so
+. . . it has to be during the day, you have to have visual line of sight
+observer, all of those things.”).
+     12
+         Because those pre-existing regulations and the statutory
+provisions upon which they were based (including their definition of
+“aircraft”) are not before us, we do not address Taylor’s complaint
+that, by deferring consideration of how such regulations and
+provisions apply to recreational unmanned aircraft systems, the FAA
+rendered those regulations and provisions arbitrary, capricious, or
+unconstitutionally vague.
+                                17
+
+                                 C
+
+     We turn next to Taylor’s contention that the Small UAS
+Rule is “arbitrary and capricious.” Taylor Br. 40 (citing 5
+U.S.C. § 706(2)(A)). Under the familiar “arbitrary or
+capricious” standard for reviewing agency action, the scope of
+our review is “narrow,” and we will not “substitute [our]
+judgment for that of the agency.” Motor Vehicle Mfrs. Ass’n v.
+State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983). Agency
+action survives such review as long as the agency “examine[d]
+the relevant data and articulate[d] a satisfactory explanation for
+its action including a rational connection between the facts
+found and the choice made.” Id. (internal quotation marks
+omitted). Taylor’s five arguments do not persuade us that the
+FAA acted arbitrarily or capriciously in this matter.
+
+     1. Taylor first asserts that the Small UAS Rule creates
+“absurd and contradictory results [by] applying full-size aircraft
+regulations” to model aircraft. Taylor Br. 41. We reject this
+challenge because the rule does not do so. As explained above,
+the Small UAS Rule does not apply any regulations to section
+336 model aircraft except the anti-endangerment regulation.
+Nor does the rule apply full-size aircraft regulations to non-
+section 336 model aircraft. As also explained above, the only
+regulations the rule applies to such aircraft are those in (and
+referenced in) the new part 107, which was specifically crafted
+for small unmanned aircraft.13
+
+
+    13
+        We do not understand Taylor to be charging that the small
+unmanned aircraft regulations of part 107 are themselves “absurd and
+contradictory” as applied to non-section 336 model aircraft. In any
+event, his briefs do not do so with sufficient specificity for us to
+discern such a charge. The FAA crafted the regulations of part 107
+because it recognized that pre-existing regulations did “not
+differentiate between manned and unmanned aircraft” and hence could
+                                 18
+
+     2. So far as Taylor challenges the FAA’s decision to
+regulate recreational non-section 336 model aircraft at all, rather
+than limiting its regulations solely to commercial (non-
+recreational) craft, the FAA appropriately accounted for that
+choice. The agency explained that, “from a safety point of view,
+there is no difference between the risk posed by recreational
+operations . . . and non-recreational . . . operations.” 81 Fed.
+Reg. at 42,081. In particular, the agency was concerned that an
+unmanned aircraft operator would not have the ability to see and
+avoid other aircraft, and that a loss of positive control of the
+aircraft could pose a risk to persons, property, and other aircraft.
+Id. at 42,068. Because “[t]here is no data indicating that a small
+UAS operation whose operational parameters raise the safety
+risks addressed by part 107 would become safer simply as a
+result of being conducted for recreational or salutary purposes,”
+id. at 42,081, the agency’s decision to regulate recreational non-
+section 336 model aircraft was reasonable.
+
+     3. Taylor also argues that the agency arbitrarily changed its
+position regarding the regulation of recreational model aircraft.
+In Taylor’s view, the agency historically treated such aircraft as
+“toys . . . rather than as a type of ‘aircraft’” subject to the FAA’s
+statutory authority. Taylor Br. 11. He contends that the Small
+UAS “Rule’s application of [p]art 107 . . . to recreational [non-
+section 336] model aircraft” thus marks a “radical change” that
+the agency cannot lawfully ignore. Id. at 43-44; see FCC v. Fox
+Television Stations, Inc., 556 U.S. 502, 515 (2009) (“An agency
+may not . . . depart from a prior policy sub silentio or simply
+disregard rules that are still on the books.”).
+
+
+
+result in an “undue burden” on small unmanned aircraft operations.
+81 Fed. Reg. at 42,069. The part 107 provisions were specifically
+“designed to impose the minimal burden necessary to ensure the safety
+and security of a small UAS operation.” Id. at 42,082.
+                                19
+
+      Once again, it is unnecessary for us to wade into the
+agency’s historical practice because the “primary authority” for
+the rule was a new statute, the Modernization Act. 81 Fed. Reg.
+at 42,067 n.6 (noting that the agency relied primarily on section
+333 of the Act, as well as on other FAA statutory authorities).
+It is true that a new law does not necessarily give an agency a
+blank check to depart from prior policies. See Am. Fed’n of
+Labor & Cong. of Indus. Orgs. v. Brock, 835 F.2d 912, 917-18
+(D.C. Cir. 1987) (rejecting an agency’s assertion that its
+“dramatic shift” in policy reflected a “contemporaneous
+interpretation of new legislation” where the new legislation
+“made absolutely no alteration to the statutory mandate”
+underlying the policy). But as we have discussed, in this case
+the Modernization Act directed the FAA to establish
+requirements for the safe operation of unmanned aircraft
+systems, including recreational model aircraft outside the safe
+harbor. See supra Section II.B. Congress’ directive to integrate
+such aircraft into the national airspace system adequately
+supports any shift in the FAA’s policy toward recreational non-
+section 336 model aircraft that is reflected in the Small UAS
+Rule.
+
+     4. Taylor further contends that the agency acted arbitrarily
+and capriciously by imposing a notice requirement on operators
+of section 336 model aircraft. Specifically, he objects to the
+requirement that model aircraft operators who want an
+exemption from part 107 must “provide[] [an] airport operator
+and the airport air traffic control tower . . . with prior notice of
+the operation” when flying within five miles of the airport. 14
+C.F.R. § 101.41(e). This requirement is arbitrary, he maintains,
+because the agency does not require similar notice by part 107
+operators. Taylor Br. 48 (citing 14 C.F.R. § 107.43).
+
+    We reject Taylor’s argument because it is the statute, not
+the regulation, that imposes the notice requirement. See
+                                20
+
+Modernization Act § 336(a)(5).              As we have said,
+Modernization Act § 336(a) lists five operational criteria,
+including the notice requirement, that model aircraft must satisfy
+to fall within the statutory safe harbor. Section 101.41 faithfully
+tracks those requirements, including the notice requirement.
+Compare 14 C.F.R § 101.41(e), with Modernization Act
+§ 336(a)(5). And we decline to strike down a rule that merely
+implements an unchallenged governing statute. See AT&T
+Corp. v. Iowa Utilities Bd., 525 U.S. 366, 396 (1999) (“[I]t is
+hard to declare the FCC’s rule unlawful when it tracks the
+pertinent statutory language almost exactly.”); see also Purepac
+Pharm. Co. v. Friedman, 162 F.3d 1201, 1205 (D.C. Cir. 1998);
+Metro. Wash. Airports Auth. Prof’l Fire Fighters Ass’n v.
+United States, 959 F.2d 297, 300 (D.C. Cir. 1992).
+
+     5. Fifth, we reject Taylor’s contention that the FAA acted
+unreasonably by declining to define certain terms in the Small
+UAS Rule. Taylor maintains that the FAA should have clarified
+what makes an organization a “nationwide community-based
+organization,” what qualifies as “programming,” and what
+activities “endanger the safety of the national airspace.” See 14
+C.F.R. §§ 101.41(b), 101.43. The first two terms are part of one
+of the criteria for the safe harbor exemption from part 107, id.
+§ 101.41(b); the third is the anti-endangerment provision
+applicable to section 336 model aircraft, id. § 101.43. All three
+precisely mirror the language of section 336 of the
+Modernization Act.
+
+     In the notice accompanying the Small UAS Rule, the FAA
+stated that “issues concerning the specific meaning of section
+336 (such as what makes an organization a nationwide
+community-based organization) are beyond the scope of this
+rule.” 81 Fed. Reg. at 42,082. The agency explained that it was
+“considering the specific meaning of section 336 provisions in
+a separate regulatory action,” and that, “in order to avoid
+                               21
+
+duplication, [it] limited the scope of the model-aircraft
+component of th[e] rulemaking simply to codifying the FAA’s
+enforcement authority over model-aircraft operations that
+endanger the safety” of the national airspace. Id.
+
+     The “separate regulatory action” to which the agency
+referred was the proceeding for issuance of an Interpretation of
+the Special Rule for Model Aircraft. See 79 Fed. Reg. 36,172
+(June 25, 2014); supra Part I. The initial interpretation, issued
+in 2014, did in fact interpret several terms in section 336,
+including several of interest to Taylor. See 79 Fed. Reg. at
+36,174 (identifying Congress’ intended definition of
+“nationwide community-based organization”); id. n.7
+(explaining that “community-based organizations” include
+groups such as the Academy of Model Aeronautics); see also 81
+Fed. Reg. at 42,124 (identifying the Academy of Model
+Aeronautics as a nationwide community-based organization).
+The initial interpretation also discussed the scope of the FAA’s
+enforcement authority against operators who endanger the safety
+of the national airspace system. 79 Fed. Reg. at 36,175-76. As
+we noted in Part I, the FAA sought public comments on the
+initial interpretation and is currently reviewing those comments.
+Petitions for review challenging the initial interpretation, filed
+in this circuit, have been held in abeyance pending issuance of
+a final interpretive rule. See Order, UAS Am. Fund, LLC v. FAA,
+No. 14-1156 (D.C. Cir. Nov. 18, 2014).
+
+     Contrary to Taylor’s complaint, it was not unreasonable (or
+unconstitutional) for the FAA to use the instant rulemaking
+merely to codify section 336 and to consider the specific
+meaning of section 336’s provisions in the separate regulatory
+action that it had already begun. “An agency enjoys broad
+discretion in determining how best to handle related, yet
+discrete, issues in terms of . . . priorities” and “need not solve
+every problem before it in the same proceeding.” Mobil Oil
+                                  22
+
+Expl. & Producing Se. Inc. v. United Distrib. Cos., 498 U.S.
+211, 230-31 (1991).14 In announcing the Small UAS Rule, the
+FAA explained that it had “received over 33,000 public
+comments” on the initial interpretation and was “currently
+considering the issues raised by these commenters and will issue
+a final Interpretive Rule that reflects its consideration.” 81 Fed.
+Reg. at 42,082. Delaying issuance of the Small UAS Rule until
+it finalized the interpretive rule, the FAA said, “would prejudice
+non-model small UAS operations.” Id. at 42,083. In light of
+these considerations -- coupled with the Modernization Act’s
+directive to expedite rulemaking for unmanned aircraft systems
+where possible, see Modernization Act §§ 332(b), 333 -- it was
+reasonable for the agency to place further definition of those
+terms in a holding pattern while it landed the Small UAS Rule.
+
+    We therefore reject all of Taylor’s “arbitrary and
+capricious” challenges to the rule.
+
+                                  D
+
+     Finally, Taylor contends that the FAA violated the
+Paperwork Reduction Act (PRA), 44 U.S.C. §§ 3501 et seq.
+That Act requires agencies to follow specific procedures prior to
+“conduct[ing] or sponsor[ing] the collection of information,”
+including publishing notice in the Federal Register and obtaining
+approval from the Office of Management and Budget (OMB).
+Id. § 3507(a).
+
+
+     14
+       See Am. Bird Conservancy, Inc. v. FCC, 516 F.3d 1027, 1032
+(D.C. Cir. 2008); cf. Charter Commc’ns, Inc. v. FCC, 460 F.3d 31, 43
+(D.C. Cir. 2006) (holding that “[t]he FCC has discretion ‘to defer
+consideration of particular issues to future proceedings when it thinks
+that doing so would be conducive to the efficient dispatch of business
+and the ends of justice’” (quoting U.S. Telecom Ass’n v. FCC, 359
+F.3d 554, 588 (D.C. Cir. 2004))).
+                                23
+
+     According to Taylor, the agency did not follow the required
+procedures before mandating that operators of section 336(a)
+model aircraft provide notice to airports. As we have explained,
+however, that notification provision is one of the five statutory
+criteria required of operators who wish to take advantage of the
+safe harbor provided by section 336(a). See supra Part II.C.4.
+The FAA’s regulation merely repeats that criterion, without any
+elaboration or specification of the form of notice required.
+Hence, the PRA is inapplicable because it was Congress, not the
+agency, that made notification a prerequisite for entry into the
+safe harbor. Compare Saco River Cellular, Inc. v. FCC, 133
+F.3d 25, 32 (D.C. Cir. 1998) (holding that the FCC was required
+to comply with the PRA where “Congress merely authorized,
+[but] did not require” the collection of information).
+
+     Taylor also faults the FAA for failing to follow PRA
+procedures for the B4UFLY smartphone application, an app
+designed to give unmanned aircraft operators real-time
+information about flight restrictions and other requirements.
+Because B4UFLY was not part of the challenged Small UAS
+Rule, it is beyond the scope of the petition for review that is now
+before us. We note, however, the FAA’s representation that
+PRA procedures were in fact followed and that OMB approved
+the collection of information with respect to B4UFLY. FAA Br.
+48. We also note Taylor’s failure to dispute the point in his
+reply brief.
+
+                                III
+
+    The FAA has promulgated a rule that regulates section 336
+model aircraft only to the extent expressly permitted by
+Congress. The rule regulates recreational non-section 336
+model aircraft more broadly, but that regulation is likewise
+consistent with Congressional directives. Because the rule is
+                              24
+
+within the agency’s statutory authority and is neither arbitrary
+nor capricious, the petition for review is
+
+                                                       Denied.
+

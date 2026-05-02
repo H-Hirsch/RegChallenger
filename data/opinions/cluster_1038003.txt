@@ -1,0 +1,3149 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+
+Argued May 3, 2013                 Decided August 20, 2013
+
+                       No. 11-1131
+
+   NATIONAL ASSOCIATION OF CLEAN WATER AGENCIES,
+                    PETITIONER
+
+                            v.
+
+     ENVIRONMENTAL PROTECTION AGENCY AND GINA
+          MCCARTHY, ADMINISTRATOR, EPA,
+                   RESPONDENTS
+
+     MAXWEST ENVIRONMENTAL SYSTEMS, INC., ET AL.,
+                   INTERVENORS
+
+
+
+   Consolidated with 11-1167, 11-1185, 12-1236, 12-1237
+
+
+
+       On Petitions for Review of a Final Rule of the
+      United States Environmental Protection Agency
+
+
+
+        Jeffrey A. Knight argued the cause for
+petitioners/respondents-intervenors National Association of
+Clean Water Agencies, et al. With him on the briefs were
+Peter H. Wyckoff and Steven A. Hann.
+                             2
+
+      James S. Pew argued the cause for petitioner Sierra
+Club. With him on the briefs was Jonathan A. Wiener.
+
+       Lisa Sharp argued the cause for intervenor MaxWest
+Environmental Systems Inc. With her on the briefs was D.
+Cameron Prell.
+
+        Michele L. Walter and Martha C. Mann, Attorneys,
+U.S. Department of Justice, argued the causes and filed the
+brief for respondents.
+
+       Jonathan A. Wiener argued the cause for respondent-
+intervenor Sierra Club. With him on the brief was James S.
+Pew.
+
+       Steven A. Hann, Jeffery A. Knight, and Peter H.
+Wyckoff were on the brief for respondents-intervenors
+National Association of Clean Water Agencies, et al.
+
+       Before: GARLAND, Chief Judge, BROWN, Circuit
+Judge, and SENTELLE, Senior Circuit Judge.
+
+      Opinion for the Court filed by Senior Circuit Judge
+SENTELLE.
+
+     SENTELLE, Senior Circuit Judge: In March 2011, the
+Environmental Protection Agency (“EPA”) issued a final rule
+establishing emission standards for sewage sludge
+incinerators under § 129 of the Clean Air Act, 42 U.S.C. §
+7429. See Standards of Performance for New Stationary
+Sources and Emission Guidelines for Existing Sources:
+Sewage Sludge Incineration Units, 76 Fed. Reg. 15,372 (Mar.
+21, 2011). Determining that sewage sludge incinerators were
+“solid waste incineration unit[s]” as defined in § 129(g)(1),
+                              3
+the EPA promulgated “maximum achievable control
+technology” (“MACT”) standards for two subcategories of
+sewage sludge incinerators.
+
+     The Clean Air Act cabins EPA’s discretion in setting
+MACT standards, requiring EPA to base the standards on the
+emissions achieved by the best-performing existing
+incinerators. See 42 U.S.C. § 7429(a)(2). But acting under
+pressure of a court order to establish the MACT standards by
+a set deadline, EPA took a targeted approach to collecting
+emissions data and used several different methods to estimate
+the emissions levels achieved by existing incinerators. See 76
+Fed. Reg. at 15,386.
+
+     The petitioners challenge several different aspects of the
+rulemaking. Petitioners National Association of Clean Water
+Agencies and Hatfield Township Municipal Authority
+(collectively, “NACWA”) challenge EPA’s authority to
+regulate sewage sludge incinerators under § 129, asserting
+that sewage sludge incinerators do not fall within the scope of
+§ 129(g)(1)’s definition of “solid waste incineration unit.”
+Petitioners NACWA and Sierra Club seek review of the
+sewage sludge incinerator emission standards, challenging
+several aspects of EPA’s methodology for estimating the
+emission levels achieved by the best performing units. In
+addition to these petitioners, MaxWest Environmental
+Systems, developer of a proprietary biosolids management
+process, intervenes to challenge EPA’s treatment of its
+technology in the sewage sludge incinerator rule.
+
+     For the reasons stated below, we deny NACWA’s
+petition for review as to EPA’s authority to regulate sewage
+sludge incinerators under § 129. As to the petitioners’
+challenges to EPA’s methodology in setting emission
+standards, we agree that in some respects EPA has not
+                                 4
+adequately established that its estimations are reasonable, and
+so remand parts of the sewage sludge incinerator rule to EPA
+for further proceedings without vacating the current standards.
+We otherwise deny the petitions for review, and will not
+consider intervenor MaxWest’s arguments as they are not
+within the scope of issues raised by the petitioners.
+
+I.      BACKGROUND
+
+A. Statutory Background
+
+     The Clean Air Act requires EPA to set emission
+standards for polluting sources “to protect and enhance the
+quality of the Nation’s air resources.”          42 U.S.C. §
+7401(b)(1). Section 112 of the Clean Air Act, 42 U.S.C. §
+7412, requires EPA to set emission standards for a list of
+hazardous air pollutants emitted by major sources and area
+sources. Id. § 7412(d). Section 129 is more specific,
+directing EPA to establish emission standards for a list of nine
+pollutants emitted by solid waste incineration units. Id. §
+7429(a). Subject to certain exceptions not relevant to this
+case, § 129 defines a “solid waste incineration unit” as “a
+distinct operating unit of any facility which combusts any
+solid waste material from commercial or industrial
+establishments or the general public (including single and
+multiple residences, hotels, and motels).” Id. § 7429(g)(1).
+
+     Under § 129, the standards established by EPA must
+reflect “the maximum degree of reduction” in the emissions
+of a list of pollutants1 that EPA, “taking into consideration the
+1
+  Specifically, § 129 requires EPA to set numerical emission
+limitations for: “particulate matter (total and fine), opacity (as
+appropriate), sulfur dioxide, hydrogen chloride, oxides of nitrogen,
+carbon monoxide, lead, cadmium, mercury, and dioxins and
+dibenzofurans.” § 129(a)(4).
+                              5
+cost of achieving such emission reduction, and any non-air
+quality health and environmental impacts and energy
+requirements, determines is achievable for new or existing
+units” in each category of sources. Id. § 7429(a)(2). EPA
+refers to these standards as the “maximum achievable control
+technology” standards, abbreviated as the MACT standards.
+Northeast Maryland Waste Disposal Authority v. EPA, 358
+F.3d 936, 939–40 (D.C. Cir. 2004).
+
+     Congress set parameters governing EPA’s establishing of
+the MACT standards, which EPA has implemented through a
+two-step process. First, EPA sets a baseline level of
+stringency for emissions controls known as the MACT floor.
+For new units, the MACT floor is the level of emissions
+control “that is achieved in practice by the best controlled
+similar unit,” as determined by EPA. 42 U.S.C. § 7429(a)(2).
+For existing units, the MACT floor is “the average emissions
+limitation achieved by the best performing 12 percent of
+units” in each category. Id. Second, EPA determines whether
+more stringent “beyond-the-floor” MACT standards are
+achievable, taking into consideration the factors listed in §
+129(a)(2).
+
+     The Clean Air Act makes promulgating MACT standards
+under § 112 and § 129 mutually exclusive. Id. § 7429(h)(2).
+Although the statutory directive on setting MACT standards is
+virtually identical under § 112 and § 129, EPA’s decision to
+regulate a source under one section rather than the other has
+practical consequences. For example, the list of pollutants for
+which EPA must set MACT standards differs between the two
+sections. Compare id. § 7412(b) (list of hazardous air
+pollutants), with id. § 7429(a)(4) (list of nine pollutants for
+which EPA must set MACT standards for solid waste
+incinerators). The stringency of regulation for sources
+covered under these sections can also differ, depending on the
+                              6
+type of source. Under § 129, all solid waste incinerators
+within § 129(g)(1)’s definition of “solid waste incineration
+unit” are subject to the MACT standards that EPA establishes
+for that category of incinerator. See id. § 7429(a). In
+contrast, the MACT standards established under § 112 are
+mandated only for “major sources,” defined as sources that
+have the potential to emit ten tons per year or more of any
+hazardous air pollutants, or twenty-five tons per year or more
+of any combination of hazardous air pollutants. See id. §
+7412(a)(1), (d)(5).
+
+     For sources that are not “major sources”—defined in §
+112(a)(1) as “area sources”—EPA is given the discretion to
+establish standards providing “for the use of generally
+available control technologies or management practices . . . to
+reduce emissions of hazardous air pollutants.”           Id. §
+7412(d)(5). The generally available control technology
+standard is not governed by the same statutory requirements
+as the MACT standard, giving EPA more flexibility in
+regulating area sources. Because EPA determined in 2002
+that no sewage sludge incinerator emitted hazardous air
+pollutants at such a level as to qualify as a major source, the
+generally available control technology standard would apply
+to sewage sludge incinerators if EPA regulated them under §
+112. See National Emission Standards for Hazardous Air
+Pollutants: Revision of Source Category List Under Section
+112 of the Clean Air Act, 67 Fed. Reg. 6,521, 6,523. (Feb.
+12, 2002). Sewage sludge incinerators also would not be
+subject to monitoring and siting review requirements, which
+are mandated by § 129 but not by § 112. See 42 U.S.C. §
+7429(a)(3), (c).
+                                7
+B. Regulatory Background
+
+     Publicly-owned      treatment    works,   owned     by
+municipalities or regional authorities, are responsible for
+managing all sewage that enters into the sanitary sewer
+system. Publicly-owned treatment works first treat the
+wastewater, creating sewage sludge in the process, then use
+various methods to dispose of the sewage sludge. Many
+publicly-owned treatment works use sewage sludge
+incinerators to dispose of sewage sludge. EPA’s inventory of
+sewage sludge incinerators stood at 204 at the time of the
+rulemaking. 76 Fed. Reg. at 15,387.
+
+     EPA proposed emission standards for sewage sludge
+incinerators in October 2010, asserting its authority under §
+129 to regulate “other categories of solid waste incineration
+units.” See 75 Fed Reg. at 63,263; 42 U.S.C. § 7429(a)(1)(E).
+EPA began to develop these standards after the District Court
+for the District of Columbia determined that EPA was failing
+to discharge its non-discretionary duty under provisions of §
+112, and ordered EPA to do so. See 75 Fed. Reg. at 63,264.
+Although the specific § 112 obligations with which EPA had
+failed to comply are not relevant to this petition, the district
+court determined that § 112 required EPA to set emission
+standards for sewage sludge incinerators.2 See Sierra Club v.
+Jackson, 1:01-CV-1537, EFC No. 84 at 23 (D.D.C. filed Aug.
+2, 2006); Sierra Club v. Jackson, 1:01-CV-1537, ECF No.
+150 at 6–8 (D.D.C. filed Jan. 20, 2011). After granting EPA
+multiple motions to extend the deadline for issuing sewage
+2
+  The § 112 obligations were to identify and regulate certain area
+sources that account for 90 percent or more of aggregate air
+emissions of 30 hazardous air pollutants identified by EPA under §
+112(k)(3)(B)(i)–(ii). See Sierra Club v. Jackson, No. 1:01-CV-
+1537, ECF No. 80 (D.D.C. filed Mar. 31, 2006); see also 42 U.S.C.
+§ 7412(c)(3), (k)(3)(B).
+                              8
+sludge regulations, the district court ultimately required EPA
+to promulgate the final rule by February 21, 2011. Id., ECF
+No. 150, at 25.
+
+1. Proposed Rule
+
+     On October 14, 2010, EPA issued a proposed rule
+proposing emission standards for sewage sludge incinerators.
+See Standards of Performance for New Stationary Sources &
+Emission Guidelines for Existing Sources: Sewage Sludge
+Incineration Units, 75 Fed. Reg. 63,260. In the preamble,
+EPA explained that although it had stated in other rules its
+intent to regulate sewage sludge incinerators under § 112, it
+was proposing to regulate sewage sludge incinerators under §
+129 in light of our ruling in Natural Resources Defense
+Council v. EPA, 489 F.3d 1250 (D.C. Cir. 2007). See id. at
+63,263 (citing Standards of Performance for New Stationary
+Sources and Emission Guidelines for Existing Source: Other
+Solid Waste Incineration Units, 70 Fed. Reg. 74,870 (Dec. 16,
+2005)).
+
+     In the proposed rule, EPA established two subcategories
+of sewage sludge incinerators: multiple hearth incinerators
+and fluidized bed incinerators. Id. at 63,268. EPA found that
+these were the only two types of incinerators used to combust
+sewage sludge, and determined subcategorization was
+warranted because the combustion design for these two types
+of incinerators varied significantly. Id.
+
+     In proposing the MACT standards for the subcategories
+of incinerators, EPA extensively discussed the methodology it
+used to derive the MACT floors. See id. at 63,269–75. To
+select which units to survey for emissions data, EPA
+identified units equipped with the control technology that it
+believed would achieve the lowest emissions possible for the
+                              9
+§ 129 pollutants. Id. at 63,270. EPA stated that using control
+technologies to select best-performing units was sufficient
+because municipalities were already required to limit the
+concentration of pollutants in sewage sludge under Clean
+Water Act regulations. Id. (citing 40 C.F.R. pt. 503). These
+preexisting regulations, EPA explained, caused incinerators to
+“burn a relatively homogeneous waste,” thus rendering
+control technologies a suitable proxy for targeting the best-
+performing units from which to collect emissions data. Id.
+
+     For its dataset, EPA surveyed 9 municipalities, and
+supplemented the results of that study with data from State
+environmental agencies’ public databases, yielding emissions
+information from 5 fluidized bed incinerators and 20 multiple
+hearth incinerators, although EPA acknowledged that not
+every test contained information on all nine § 129 pollutants.
+Id. Because 12 percent of the existing incinerator population
+based on EPA’s then-current count of incinerators was 7
+fluidized bed incinerators and 20 multiple hearth incinerators,
+EPA acknowledged that it did “not have actual emissions test
+data for the population of units that represent the best-
+performing 12 percent,” for every pollutant. Because EPA
+interpreted § 129 to require a MACT floor dataset
+representative of the best-performing 12 percent of
+incinerators, EPA concluded it needed to determine whether
+its data from fewer than 12 percent of incinerators could
+represent the best-performing 12 percent. Id.
+
+     EPA addressed this issue by explaining that it could use
+“statistical techniques to determine the minimum number of
+observations needed to accurately characterize the distribution
+of the best performing 12 percent of units in each
+subcategory.” Id.; see Memorandum from Eastern Research
+Group, Inc. to Amy Hambrick, U.S. EPA, at 7–9 (Jan. 2011)
+(“Revised MACT Floor Memo”). Based on this statistical
+                               10
+analysis, EPA concluded that it had collected enough
+observations to conclude that the dataset it used met “the
+minimum size needed to characterize the population of 12
+percent of the best-performing units for all pollutants, when
+late-arriving data are included.” 75 Fed. Reg. at 63,271.
+Nevertheless, EPA requested “that commenters provide
+additional emissions stack test data and supporting
+documentation, as that may enable us to establish a final
+MACT floor based on a more complete data set.” Id. at
+63,270.
+
+     The proposed rule also discussed EPA’s methods for
+addressing variability in the emissions data it collected. EPA
+bases its MACT standards on short-term emissions test data,
+which are not always “representative of the range of operating
+conditions that the best-performing facilities face on a day-to-
+day basis.” Id. at 63,269. Therefore, EPA believed it needed
+to account for variability in emissions performance. Id. EPA
+explained that for two or more tests at a single incinerator
+under what appear to be the same operating conditions,
+“[v]ariations in emissions may be caused by different settings
+for emissions testing equipment, different field teams
+conducting the testing, differences in sample handling or
+different laboratories analyzing the results.” Id. And
+emissions may even vary within a single test, as each test
+comprises at least three separate test runs, and each test run
+captures only a snapshot of an incinerator’s performance. Id.
+
+     To address this variability, EPA proposed using a
+statistical tool it terms the “upper prediction limit.” For future
+observations of emissions from an incinerator, the upper
+prediction limit “is the upper end of a range of values that
+will, with a specified degree of confidence, contain the next
+(or some other pre-specified) randomly selected observation
+from a population.” Id. Thus, a 99 percent confidence-level
+                               11
+upper prediction limit “represents the value which one can
+expect the mean of future 3-run performance tests from the
+best-performing 12 percent of sources to fall below, with 99
+percent confidence, based upon the results of the independent
+sample of observations from the same best-performing
+sources.” Id. at 63,271.
+
+     EPA’s proposed MACT floor methodology also
+addressed “non-detect data,” which are emission testing data
+too low for the testing equipment to accurately detect. Id. at
+63,272. Rather than estimate that non-detect data was at the
+“method detection level,” i.e., “the minimum concentration of
+a pollutant that can be measured with confidence that the level
+is greater than zero,” EPA Br. at 61 n.20, EPA used a
+different test to determine the MACT floor. Id. at 63,273.
+Under the test, EPA multiplied what it termed the
+“representative method detection level” by three, and
+compared that value to the MACT floor that EPA calculated
+using all data, including non-detect data. Id. If three times the
+representative method detection level was less than the
+calculated MACT floor, EPA would conclude that the MACT
+floor calculation adequately addressed measurement
+variability; if not, EPA would use the three-times value “to
+ensure that the MACT floor emission limit accounts for
+measurement variability and imprecision.” Id.
+
+     For new source MACT floors, EPA explained that it
+would base the floors “on the best-performing single source
+for each regulated pollutant, with an appropriate accounting
+for emissions variability.” Id. at 63,274. Thus, EPA
+identified the lowest emitting incinerator with at least three
+test runs, and applied the 99 percent upper prediction limit.
+Id. While EPA proposed a new source MACT floor for
+fluidized bed incinerators, it did not propose a new source
+MACT floor for multiple hearth incinerators. Id. at 63,272.
+                               12
+Instead, it proposed that all new incinerators—including
+multiple hearth incinerators—meet the emission limits for the
+best-performing fluidized bed incinerator, explaining that
+industry information suggested that future units constructed
+would likely be fluidized bed incinerators and that industry
+information demonstrated that new fluidized bed incinerators
+“have more efficient combustion characteristics resulting in
+lower emissions.” Id. at 63,272, 63,274.
+
+     In discussing whether to set “beyond-the-floor” MACT
+standards for existing sources, EPA determined that for most
+of the § 129 pollutants, no additional control technologies
+were available that would cost-effectively reduce emissions.
+Id. at 63,275, 63,277. For mercury, EPA concluded that using
+activated carbon injection with some form of particulate
+matter control for multiple hearth incinerators would be a
+cost-effective option for achieving beyond-the-floor emission
+reductions, noting that these combined control technologies
+would also control for dioxins and dibenzofurans. Id. at
+63,276–77. For fluidized bed incinerators, EPA concluded
+that “[i]n light of the technical feasibility, costs, energy, and
+nonair quality health and environmental impacts” discussed in
+the rule, it was not reasonable to establish beyond-the-floor
+MACT standards for new and existing fluidized bed
+incinerators. Id. at 63,277.
+
+     EPA also proposed monitoring requirements for all new
+and existing sewage sludge incinerators. Id. at 63,277–82. In
+relevant part, EPA proposed initial and annual emissions
+performance tests for most pollutants, with continuous
+monitoring as an alternative, and control device parameter
+monitoring for certain control technologies. Id. at 63,277.
+EPA specifically required continuous emissions monitoring
+for carbon monoxide on new sewage sludge incinerators,
+although continuous emissions monitoring for carbon
+                              13
+monoxide remained optional for existing incinerators, and
+optional for all other pollutants. Id. at 63,278, 63,281.
+
+2. Final Rule
+
+     EPA promulgated the final rule setting emission limits
+for sewage sludge incinerators on March 21, 2011. 76 Fed.
+Reg. 15,372. The final rule remained substantially similar to
+the proposed rule, regulating sewage sludge incinerators
+under § 129 and generally adopting the methodology for
+setting the MACT floors stated in the proposed rule. Id. at
+15,382–92.
+
+     The final rule did contain a few substantive changes.
+While EPA had proposed setting all new incinerator MACT
+floors on the best-performing fluidized bed incinerator, in the
+final rule it decided to set a separate MACT floor for new
+multiple hearth incinerators. Id. at 15,384. EPA explained
+that it had been persuaded by comments pointing out that
+under the proposed regulations, any source that exceeded a
+threshold in modification costs would be considered a new
+unit. See 40 C.F.R. § 60.4775 (defining a new sewage sludge
+incinerator as a unit that “[c]ommenced modification after
+September 21, 2011”); 40 C.F.R. § 60.4930 (defining
+modification as “a change to an existing [sewage sludge
+incinerator] later than September 21, 2011 and that meets one
+of two criteria”). Because it did not want to discourage
+municipalities from modifying multiple hearth incinerators,
+and because there was otherwise no technical reason why
+municipalities could not build new multiple hearth
+incinerators, EPA explained it decided to establish separate
+new incinerator MACT floors. 76 Fed Reg. at 15,384.
+
+     In setting the new multiple hearth incinerator MACT
+floors, EPA’s upper prediction limit analysis on what it
+                              14
+deemed the best-performing multiple hearth incinerators
+yielded MACT floors for two pollutants that were less
+stringent (i.e., a higher emission limit) than what it had
+calculated for existing multiple hearth incinerators. EPA set
+the new multiple hearth incinerator floors for these two
+pollutants—hydrogen chloride and sulfur dioxide—at the
+same level as existing multiple hearth incinerator floors,
+reasoning that new incinerator MACT floors could not be less
+stringent than existing incinerator MACT floors. Id. at
+15,388–89.
+
+     EPA also deviated from the proposed rule by deciding
+not to set beyond-the-floor standards for any pollutants. Id. at
+15,380. In the final rule, EPA explained that the cost of
+requiring the additional contemplated control technology to
+reduce mercury was $80,000 to $100,000 per pound removed,
+and that, based on this cost and other factors, it determined
+that beyond-the-floor standards were no longer appropriate.
+Id. at 15,394.
+
+     EPA also made minor changes to its MACT floor dataset,
+such as reducing its inventory of incinerators to 204, and
+consequently, reducing the numbers of incinerators needed to
+represent 12 percent to 18 multiple hearth incinerators and 8
+fluidized bed incinerators. Id. at 15,387. Although the
+reduction in inventory decreased the number of incinerators
+necessary to represent 12 percent, EPA still did not have
+emissions data from 12 percent of incinerators for certain
+pollutants. While commenters attempted to supplement that
+dataset by submitting emissions stack test data that EPA
+requested in the proposed rule, EPA rejected that data because
+commenters had not substantiated it with emission test
+reports. Id.
+                              15
+     In the final rule, EPA candidly noted that its MACT floor
+methodology—including the emissions testing dataset from
+less than 12 percent of incinerators—was motivated in part by
+the impending court-ordered deadline to establish emission
+standards. EPA explained that “given the court-ordered
+deadline for EPA to issue the final [sewage sludge
+incinerator] rule, it was not possible to undertake the time-
+consuming process of sending an [information collection
+request] to all the affected [sewage sludge incinerators]
+consistent with the requirements of the [Paperwork Reduction
+Act].” Id. at 15,386.
+
+     EPA also responded to comments criticizing EPA for not
+using data available to it to set MACT floors, including data
+about variability in sewage sludge metal concentrations
+collected from the Clean Water Act regulations. EPA
+responded that the upper prediction limit and its survey of
+units from nine different states adequately accounted for
+variability. Id. at 15,391. EPA further stated that it “did not
+have sufficient information at proposal to consider if it were
+appropriate to incorporate variability based on sludge
+content,” explaining that the data commenters submitted was
+not adequately supported and therefore insufficient to clarify
+the effect of sewage sludge variability on emissions. Id.
+
+     Sierra Club and NACWA filed petitions for
+reconsideration of EPA’s final rule. EPA denied both
+petitions. See 77 Fed Reg. 25,087 (Apr. 27, 2012). Sierra
+Club filed a petition for review in this court. NACWA, joined
+by the Hatfield Township Municipal Authority, also filed a
+petition for review. We have consolidated all petitions for
+review.
+                             16
+II.    NACWA’S AND SIERRA CLUB’S PETITIONS
+       FOR REVIEW
+
+A. EPA’S AUTHORITY TO REGULATE SEWAGE SLUDGE
+   INCINERATORS
+
+     We first address NACWA’s contention that EPA violated
+the Clean Air Act by setting emission standards for sewage
+sludge incinerators under § 129 rather than § 112.
+Specifically, NACWA asserts that § 129(g)(1)’s definition of
+“solid waste incineration unit” excludes sewage sludge
+incinerators.
+
+     Section 129(g)(1) defines a solid waste incineration unit
+as “a distinct operating unit of any facility which combusts
+any solid waste material from commercial or industrial
+establishments or the general public (including single and
+multiple residences, hotels, and motels).” 42 U.S.C. §
+7429(g)(1). In interpreting the phrase “solid waste material
+from commercial or industrial establishments or the general
+public,” EPA explained in its final rule that “[s]ewage sludge
+clearly originates from the general public, including
+residential and commercial facilities. Simply because the
+waste is treated at a [publicly-owned treatment work] prior to
+combustion does not change the original source of the sewage
+sludge.” 76 Fed. Reg. at 15,383.
+
+    In contrast to EPA’s interpretation, NACWA argues that
+the words “from . . . the general public” “refer only to the
+proximate source of the solid waste material in question,”
+covering, for example, trash a municipality collects from a
+house and transports to a municipal incinerator, but not a
+waste product that the municipality itself creates. NACWA
+Br. at 21–22. Because the sewage sludge incinerated by a
+publicly-owned treatment work is the product of the treatment
+                              17
+of domestic sewage, NACWA asserts that sewage sludge
+comes from the publicly-owned treatment work, and not
+“from . . . the general public” that produces the domestic
+sewage. Id. at 19
+
+     Because NACWA asks us to review EPA’s construction
+of § 129 as authorizing EPA to regulate sewage sludge
+incinerators under the category of “other . . . solid waste
+incineration units,” see 76 Fed. Reg. at 15,383 (citing 42
+U.S.C. § 7429), we apply Chevron v. NRDC to determine
+whether EPA is entitled to deference in its interpretation. See
+467 U.S. 837, 842 (1984). Under Chevron, we first determine
+whether the statute unambiguously forbids EPA’s
+interpretation. Id. at 842–43. If the statute is silent or
+ambiguous, we then question whether EPA’s interpretation is
+based on a permissible construction of the statute. Id. at 843.
+
+     At first glance, the definition of solid waste incineration
+units in § 129(g)(1) appears ambiguous, a reality even
+NACWA acknowledges. See NACWA Br. at 21 (“Read
+alone, the word ‘from’ does not reveal whether it refers to the
+proximate source of the material or whether it refers instead to
+a distant ‘original’ source of the material.”); see also Oral
+Arg. Tr. at 5:19–23, 7:4–10, 10:5–19 (conceding that, without
+any other context, § 129 “would carry the meaning that EPA
+has ascribed to it”). Among the dictionary definitions of
+“from” is “a function word to indicate the source or original
+or moving force of something: as . . . the place of origin,
+source, or derivation of a material or immaterial thing.”
+WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY 913
+(1981). Thus, W.B. Yeats may proclaim, “All creation is
+[from] conflict,” and not necessarily mean that creation
+springs directly from conflict rather than through intermediate
+consequences of conflict, while one who states that a man
+“took a dime [from] his pocket” could only be understood to
+                              18
+mean that the dime originated from a specific location on a
+specific person. Id. Because the word “from” in § 129(g)(1)
+may be susceptible to either sense of the word, we agree with
+both parties that the phrase “from . . . the general public,”
+standing alone, is textually ambiguous. Cf. Environmental
+Defense Fund v. EPA, 167 F.3d 641, 652 (D.C. Cir. 1999)
+(Williams, J., dissenting) (explaining that the phrase “comes
+from” is ambiguous—for example, “A layabout who says he
+‘comes from a hardworking family’ can be telling the truth
+even if all his relatives are dead.”).
+
+     But textual ambiguity is not the end of the matter, as we
+have held that “a statute may foreclose an agency’s preferred
+interpretation despite such textual ambiguities,” an analysis
+we undertake by “exhaust[ing] the traditional tools of
+statutory construction to determine whether a congressional
+act admits of plain meaning.” Catawba County v. EPA, 571
+F.3d 20, 35 (D.C. Cir. 2009); Arizona Public Service Co. v.
+EPA, 211 F.3d 1280, 1287 (D.C. Cir. 2000). Thus, although
+both NACWA and EPA acknowledge § 129(g)(1)’s apparent
+textual ambiguity, both parties also argue that the statute
+unambiguously resolves in their favor. EPA relies on our
+opinion in NRDC v. EPA, 489 F.3d 1250 (D.C. Cir. 2007), in
+which we interpreted the definition of “solid waste
+incineration unit” to be very broad, while NACWA relies
+primarily on the words surrounding “from” and on the overall
+structure of the Clean Air Act and the Clean Water Act.
+
+     We begin with NACWA’s argument that “from . . . the
+general public” requires a proximate cause interpretation, lest
+the words “general public” become superfluous. NACWA
+asserts that because all waste has its origin in the general
+public at some point, Congress could have simply defined a
+solid waste incinerator as “a unit . . . which combusts any
+solid waste material” without having to add “from
+                               19
+commercial or industrial establishments or the general
+public.” See 42 U.S.C. § 7429(g)(1). But even if we take as
+true NACWA’s assertion that all solid waste “originates”
+from the general public, and NACWA’s assertion that EPA’s
+interpretation of § 129(g)(1) would therefore cover all units
+that incinerate solid waste (except those specifically excluded
+in § 129(g)(1)), the “‘preference for avoiding surplusage
+constructions is not absolute.’” Amoco Products Co. v.
+Watson, 410 F.3d 722, 734 (D.C. Cir. 2005) (quoting Lamie v.
+U.S. Trustee, 540 U.S. 526, 536 (2004)). In some cases,
+redundancy may reflect the broad purpose of a congressional
+statute. See Babbitt v. Sweet Home Chapter of Communities
+for a Greater Oregon, 515 U.S. 687, 698 n.11 (1995).
+
+     Although defining a covered incinerator as one that
+combusts solid waste “from commercial or industrial
+establishments or the general public” suggests some limitation
+on the coverage of § 129(g)(1) based on the source of the
+waste, the extent of that limitation is unclear. Congress may
+have intended to define solid waste incinerators to exclude
+specific categories of incinerators beyond the express
+exceptions listed in § 129(g)(1); for example, incinerators
+combusting waste directly produced by state or local
+government sources. But it also may have intended to give
+the definition of § 129(g)(1) a broad scope, with “the general
+public” functioning as something akin to a catchall. Thus, the
+fact that the three broad categories of sources of solid waste
+listed in § 129(g)(1)—commercial and industrial
+establishments, and the general public—may be surplusage
+under EPA’s original source interpretation does not
+unambiguously mean that Congress intended for the word
+“from” to have NACWA’s proximate source interpretation.
+In any event, if Congress indeed unambiguously intended to
+exclude municipal sewage sludge incinerators from the
+definition of § 129(g)(1), it chose a strange way to go about it.
+                              20
+
+     NACWA also asserts as factually incorrect EPA’s
+statement that “[s]ewage sludge clearly originates from the
+general public, including residential and commercial
+facilities,” arguing that sewage sludge does not “originate”
+until a publicly-owned treatment work treats raw sewage.
+NACWA Br. at 22–24. In support of this argument, NACWA
+cites EPA regulations in which EPA recognized that sewage
+sludge results from wastewater treatment and is distinct from
+domestic sewage, and to a Clean Water Act provision from
+which one may infer that the production of sewage sludge is,
+by statutory definition, part of a publicly-owned treatment
+work. See 33 U.S.C. § 1292(2)(A); 40 C.F.R. §§ 60.4930,
+60.5250; Joint Appendix 986–87.
+
+     NACWA’s argument, however, fails to address how
+EPA’s original source interpretation of “from”—i.e., that the
+general public is a “but-for” cause of sewage sludge—renders
+the treatment facility that creates sewage sludge relevant. For
+example, one could say “bread comes from fields of wheat,”
+and be understood, or say “bread comes from the baker,” and
+also be understood. The fact that several intermediate
+processes had to occur to produce the bread—transporting
+wheat from the field, adding different ingredients to produce
+dough, or heating the dough in an oven—does not negate the
+validity of a sentence that uses “from” to link the bread to the
+source of an important ingredient. As we noted above,
+WEBSTER’S, supra 17, at 913, at least one dictionary defines
+“from” as a function word used to indicate, among other
+meanings, “the place of origin, source or derivation of a
+material or immaterial thing.” (emphasis added). Thus, the
+fact that the sewage sludge may not exist in that form until
+treated at a publicly-owned treatment work does not
+unambiguously       invalidate     EPA’s     original    source
+interpretation that sewage sludge is from the general public,
+                              21
+even if EPA’s interpretation is some steps removed. While it
+is also true that other EPA regulations recognize that sewage
+sludge is distinct from domestic sewage, these regulations are
+not dispositive of EPA’s interpretation of § 129(g)(1). Put
+differently, the fact that EPA determined in other regulations
+that sewage sludge and domestic sewage are distinct does not
+preclude EPA from recognizing that sewage sludge would not
+exist but for domestic sewage, and does not prevent EPA
+from interpreting “from . . . the general public” as meaning
+the original, but-for source of sewage sludge.
+
+     In addition to its textual arguments, NACWA asserts that
+EPA’s interpretation of § 129(g)(1) conflicts with § 112(e)(5),
+which states that EPA “shall promulgate standards pursuant to
+subsection (d) of this section applicable to publicly owned
+treatment works (as defined in title II of the Federal Water
+Pollution Control Act) not later than 5 years after November
+15, 1990.” NACWA argues that when § 112(e)(5) is read in
+conjunction with the Clean Water Act, which NACWA
+claims defines publicly-owned treatment works to include
+sewage sludge incinerators, EPA must establish emission
+standards for the entirety of a publicly-owned treatment work
+pursuant to § 112(d). Because EPA may only establish
+emission standards for a source exclusively under either §
+112(d) or § 129(a), see 42 U.S.C. § 7429(h)(2), NACWA
+maintains that § 112(e)(5) supports its interpretation that
+Congress did not intend for EPA to regulate sewage sludge
+incinerators under §129(g)(1).
+
+     We agree with EPA, however, that § 112(e)(5) is simply
+a timing provision, and does not prevent EPA from regulating
+aspects of a publicly-owned treatment work to which more
+specific provisions apply. See FTC. v. Manager, Retail Credit
+Co., Miami Branch Office, 515 F.2d 988, 993 (D.C. Cir.
+1975) (“The principle that a specific statutory provision
+                               22
+prevails over a more general provision is established beyond
+question.”). If we accept EPA’s interpretation of “from . . .
+the general public,” § 129 would govern sewage sludge
+incinerators, and the exclusivity provision of § 129(h)(2)
+would render § 112 not “applicable to” sewage sludge
+incinerators, leaving no conflict between the texts. Thus, the
+overall structure of the Clean Air Act does not unambiguously
+require NACWA’s interpretation of the word “from.”
+
+     In fact, when EPA issued its rule proposing emission
+standards for publicly-owned treatment works as required by
+§ 112(e)(5), it established standards for certain processes at
+publicly-owned treatment works while deciding to regulate
+sewage sludge incinerators under § 129, a decision that went
+unchallenged at the time. See National Emission Standards
+for Hazardous Air Pollutants: Publicly Owned Treatment
+Works, 63 Fed. Reg. 66,084, 66087 (Dec. 1, 1998) (Proposed
+Rule); 64 Fed. Reg. 57,572 (Oct. 26, 1999) (Final Rule).
+Though EPA’s decision in 1998 to regulate sewage sludge
+incinerators under § 129 does not prove that its interpretation
+is correct in the present, the fact that it established standards
+for other processes within publicly-owned treatment works
+under its § 112 authority demonstrates that sewage sludge
+incinerators are not the only aspect of a publicly-owned
+treatment work to which § 112 may be “applicable.” See 40
+C.F.R. Part 63, Subpart VVV.
+
+     We therefore conclude that the traditional tools of
+statutory construction do not demonstrate that § 129(g)(1)
+unambiguously excludes sewage sludge incinerators. But we
+also disagree with EPA that our opinion in NRDC v. EPA, 489
+F.3d 1250 (D.C. Cir. 2007), unambiguously resolves §
+129(g)(1) in EPA’s favor.
+                              23
+     In NRDC, we heard challenges to an EPA rule that
+defined “commercial or industrial waste” to include solid
+waste combusted at incinerators that did not provide for
+energy recovery or operated without energy recovery. Id. at
+1258 (citing 70 Fed. Reg. at 55,572). Defining “commercial
+or industrial waste” in this way effectively created exceptions
+to the definition of “solid waste incineration unit” beyond
+those written in the statute. Id. We vacated and remanded
+EPA’s rule, rejecting its argument that it was resolving an
+ambiguity created by Congress’s failure to define
+“commercial or industrial waste.” Id. As we explained,
+Congress’s use of the word “any” in the definitional phrase
+“any facility which combusts any solid waste from
+commercial or industrial establishments” rendered the phrase
+clear and unambiguous, and EPA had no authority to create
+exceptions not explicitly listed in the statute through its
+definition of “commercial or industrial waste.” See id. at
+1259–60.
+
+     Because the resolution of the present issue depends on
+the role of the word “from” in this statute, however, our
+discussion about the broad scope of § 129(g)(1)’s definition
+of “solid waste incineration unit” based on the word “any” is
+largely irrelevant. As we noted in NRDC, “The word ‘any’ is
+usually understood to be all inclusive,” 489 F.3d at 1257
+(internal citation omitted), and EPA presented no compelling
+reason “why ‘any’ should not mean ‘any.’” Id. at 1260
+(internal citation omitted). In contrast, “from” is susceptible
+to different meanings and renders § 129(g)(1) ambiguous—
+even when viewed in light of the traditional tools of statutory
+construction—such that either NACWA’s or EPA’s
+interpretation of § 129(g)(1) is plausible.
+
+    Having determined that the phrase “from . . . the general
+public” is ambiguous under Chevron step one, we now apply
+                               24
+Chevron step two to determine whether EPA’s interpretation
+“is based on a permissible construction of the statute.”
+Chevron, 467 U.S. at 843. If EPA’s “choice represents a
+reasonable accommodation of conflicting policies that were
+committed to [EPA]’s care by the statute, we should not
+disturb it unless it appears from the statute or its legislative
+history that the accommodation is not one Congress would
+have sanctioned.” Id. at 845 (internal quotation marks
+omitted).
+
+     NACWA first asserts that EPA’s interpretation of §
+129(g)(1) is unreasonable under Chevron step two because
+EPA advanced a new rationale for its interpretation of §
+129(g)(1) for the first time in its denial of reconsideration to
+NACWA. Specifically, NACWA cites EPA’s reasoning that
+its conclusion on the coverage of § 129(g)(1) “is based on a
+reasonable interpretation of two provisions of the [Clean Air
+Act], so as to give both meaning,” and that “it is reasonable
+for the EPA to consider both provisions and to conclude that
+. . . section 129(g)’s all-encompassing definition of solid
+waste incineration unit requires regulation” under § 129.
+Joint Appendix 1092 (EPA’s letter denying NACWA’s
+petition for reconsideration). NACWA argues that EPA’s
+explanation is irrational not only because EPA allegedly
+raised it for the first time in the denial of reconsideration, but
+also because it amounts to a conclusory statement and
+because it fails to consider the importance of other
+environmental statutes.           We find these arguments
+unconvincing. EPA explained in its final rule that it viewed §
+112(e)(5) as merely a timing provision, and further stated that
+to interpret § 112(e)(5) more broadly “would conflict with
+section 129(g) and with the DC Circuit’s [sic] interpretation
+of section 129(g).” 76 Fed. Reg. at 15,383. EPA’s reasoning
+in denying NACWA’s petition for reconsideration is not only
+consistent with its reasoning in the final rule, but also a
+                              25
+reasonable interpretation of the statute for the reasons we
+have just explained.
+
+     Second, NACWA argues EPA’s construction of §
+129(g)(1) is unreasonable because it ignores legislative
+history and the policies underlying the Clean Water Act’s
+provisions on sewage sludge incineration. NACWA contends
+that the discussion of wastewater treatment facilities in the
+legislative history of § 112, and the absence of any reference
+to sewage sludge or sewage sludge incinerators in § 129,
+demonstrate that Congress intended EPA to regulate all
+aspects of publicly-owned treatment works only under § 112.
+But though the legislative history on § 112 mentions
+wastewater treatment plants—an unsurprising fact in the
+context of a section stating the date by when EPA must issue
+§ 112(d) emission standards applicable to publicly-owned
+treatment works—NACWA has cited no language in the
+legislative history pertaining to sewage sludge incinerators.
+We need not determine whether legislative history can
+generally suffice to render an agency’s interpretation invalid
+at Chevron step two. Nothing in the legislative history cited
+by NACWA suggests that Congress would not have
+sanctioned EPA’s interpretation of § 129(g)(1) as including
+sewage sludge incinerators or EPA’s interpretation of §
+112(e)(5) as being a timing provision.
+
+     NACWA also contends that one of the congressional
+objectives of the Clean Water Act is to “maintain[] local
+flexibility and control over the means for managing sewage
+sludge,” and that adopting EPA’s interpretation of § 129
+would usurp local control. NACWA Br. at 27–28; see 33
+U.S.C. § 1345(e) (“The determination of the manner of
+disposal or use of sludge is a local determination . . . .”). We
+agree with EPA, however, that this argument is largely
+irrelevant to whether it reasonably interpreted § 129.
+                               26
+Establishing MACT standards for sewage sludge incinerators
+does not, as a purely legal matter, remove local control over
+which method of sewage sludge disposal to use. Even if the
+presumably increased costs associated with emission
+standards would affect a municipality’s decision on how to
+dispose of sewage sludge, 33 U.S.C. § 1345(e) is not so
+strongly worded as to completely insulate a municipality’s
+decision-making process from EPA rulemaking.
+
+     To sum, we conclude that the phrase “from . . . the
+general public” is ambiguous. Because EPA’s original source
+interpretation of that phrase is permissible, we give deference
+to its interpretation of the definition of “solid waste
+incineration unit,” and uphold its authority to establish
+emission standards for sewage sludge incinerators under §
+129.
+
+B. CHALLENGES TO THE MACT FLOOR METHODOLOGY
+
+     Petitioners NACWA and Sierra Club both challenge the
+adequacy of EPA’s methodology in determining the MACT
+floors for existing units. Both challenge EPA’s decision to set
+MACT floors on emissions data from less than 12 percent of
+sewage sludge incinerators, albeit on different legal theories.
+See NACWA Br. at 32–37 (asserting that EPA’s failure to
+base MACT floors on less than 12 percent of incinerators
+violates § 129); Sierra Club Br. at 28–30 (asserting that
+EPA’s failure to base MACT floors on less than 12 percent of
+incinerators is arbitrary and capricious).
+
+     Both petitioners also criticize distinct but related aspects
+of EPA’s rulemaking. Sierra Club contends that EPA’s
+method of selecting the best performers based on control
+technology is unlawful and arbitrary, pointing to other factors
+that may influence emission levels. See Sierra Club Br. at
+                              27
+18–23. NACWA argues that EPA failed to demonstrate that
+the data it used to set MACT floors represented the
+performance of the best-performing sewage sludge
+incinerators, contending that EPA failed to consider
+variability in sewage sludge contents and its effect on
+emission levels and that the upper prediction limit does not
+account for that variability. See NACWA Br. at 38–42.
+Sierra Club also challenges EPA’s use of the upper prediction
+limit, arguing that EPA does not demonstrate that the upper
+prediction limit represented the “average emissions limitation
+achieved” and was therefore unlawful and arbitrary. Beyond
+these related arguments, Sierra Club argues that EPA’s
+method for accounting for non-detect data is flawed.
+
+     In promulgating the MACT standards for sewage sludge
+incinerators, EPA took a different approach than it has in
+other MACT standard regulations that have come before us
+on petitions for review. First, EPA collected its MACT floor
+dataset—i.e., the emission levels of “the best performing 12
+percent of units” for the existing incinerator MACT floors—
+by targeting the sewage sludge incinerators it believed to
+employ the best air pollution control technology for emissions
+testing. See 75 Fed. Reg. at 63,269–70. Second, after it had
+collected emissions data for the MACT floor dataset, EPA
+applied a statistical analysis, which it termed the “upper
+prediction limit,” to account for variability. See 75 Fed. Reg.
+at 63,269, 63,271 (explaining that EPA “must exercise its
+judgment, based on an evaluation of the relevant factors and
+available data, to determine the level of emissions control that
+has been achieved by the best performing [sewage sludge
+incinerators] under variable conditions.”).
+
+     Both steps in this approach involved several different
+estimations and assumptions. For example, because EPA
+chose to limit its information collection requests to nine
+                               28
+municipalities, it had to estimate which sewage sludge
+incinerators would have the lowest emissions, which it chose
+to do based on the air pollution control technology the
+incinerators used. See 75 Fed. Reg. at 63,270. And because
+EPA’s limited emission testing did not yield data for 12
+percent of incinerators for every pollutant, it used a statistical
+technique to estimate whether a dataset of fewer than 12
+percent of incinerators could estimate the best-performing 12
+percent of incinerators. Id. Because every test did not
+produce usable data, EPA used an approximation to account
+for emissions test data too low to be accurately measured by
+monitoring equipment. Id. at 63,272. EPA also estimated the
+variability of the sewage sludge incinerators—what they
+would achieve under a range of operating conditions—by
+applying the upper prediction limit. Id. at 63,271.
+
+     We have accorded Chevron deference to EPA’s
+interpretation of § 129 as allowing it to estimate MACT
+floors, noting that the requirement that the existing unit floors
+“not be less stringent than the average emissions limitation
+achieved by the best performing 12 percent of units” does not,
+on its own, dictate “how the performance of the best units is
+to be calculated.” Sierra Club v. EPA, 167 F.3d 658, 661–62
+(D.C. Cir. 1999). Although EPA would ideally set MACT
+floors by surveying all existing incinerators and identifying
+the best-performing 12 percent of units with hard data, we
+have not required EPA to go that far, recognizing that “EPA
+typically has wide latitude in determining the extent of data-
+gathering necessary to solve a problem.” Id. at 662; see also
+id. at 661 (noting that Sierra Club, in arguing that case, had
+“disavowed any interpretation that would require measuring
+the performance of every last unit”); Oral Arg. Tr. at 53:25–
+54:9 (statement from EPA’s attorney stating, “EPA in a
+perfect world would have data from all 204 units”). Instead,
+we explained that the plain meaning of § 129(a)(2) does not
+                               29
+“exclude estimation, either by sampling or by some other
+reliable means.” Sierra Club, 167 F.3d at 662. But we have
+not given EPA free rein in its estimation techniques. EPA
+“must demonstrate with substantial evidence — not mere
+assertions” that its estimation “allows a reasonable inference
+as to the performance of the top 12 percent of units.” Id. at
+663; Northeast Maryland Waste Disposal Authority, 358 F.3d
+at 954 (internal quotation marks omitted).
+
+     Relying on Sierra Club’s holding that EPA may estimate
+“the average emissions limitation achieved by the best
+performing 12 percent” without violating the Clean Air Act,
+we have often held EPA’s attempts to estimate the
+performance of the top 12 percent units to be lawful in theory.
+But we have often held that, in practice, EPA could not
+support the assumptions underlying its estimations with
+substantial evidence. For example, in Sierra Club, EPA based
+existing medical waste incinerator MACT floors on emission
+limits established by state regulations, assuming that “all
+[medical waste incinerators] are . . . achieving their
+[regulatory] limits.” Id. at 663 (second alteration in original).
+Although we held that EPA could, in theory, use regulatory
+data as a proxy, EPA’s use of the data in that case to estimate
+the performance of the top 12 percent was arbitrary and
+capricious because the state emission limits were substantially
+higher than emissions from an uncontrolled incinerator,
+rendering the regulatory data a meaningless proxy for
+emission levels from medical waste incinerators. See id. at
+663–64 (explaining that while the average emission level
+from uncontrolled incinerators was 2,770 parts per million
+volume, the average of the state emission limits appeared to
+be 5,227 parts per million volume); see also Northeast
+Maryland Waste Disposal Authority, 358 F.3d at 953–54
+(rejecting EPA’s use of state emission levels for the same
+reason as in Sierra Club).
+                              30
+
+     In Sierra Club, we also discussed a method EPA used to
+set new incinerator MACT floors, which are required to be
+“no less stringent than the emissions control that is achieved
+in practice by the best controlled similar unit.” See 167 F.3d
+at 664–65; 42 U.S.C. § 7429(a)(2). In setting new incinerator
+MACT floors, EPA had chosen what it believed to be the
+most effective control technology used by an incinerator in
+each category, identified the highest level of emissions (i.e.,
+worst) recorded by any incinerator using that technology, and
+then increased that value by 10 percent. Sierra Club, 167
+F.3d at 665. Selecting the control technology used by sources
+with the lowest emission levels and then setting MACT floors
+at the levels achieved by the worst performing source, which
+we termed the “MACT approach” in later cases, was
+supposed to account for the fact that the best-controlled
+similar unit will not consistently achieve the same emission
+level. See Cement Kiln Recycling Coaliation v. EPA, 255
+F.3d 855, 861 (D.C. Cir. 2001). In other words, as we
+explained in Sierra Club, it is reasonable to expect that the
+incinerator on which the MACT floors are based should be
+able to “achieve” the MACT floor “in practice,” which it
+could not do unless “achieved in practice” meant “achieved
+under the worst foreseeable circumstances.” 167 F.3d at 665.
+But though EPA may account for variability and set MACT
+floors at the emission levels achieved by the best-controlled
+source under the worst foreseeable circumstances, we
+concluded in Sierra Club that EPA had not adequately
+explained why adopting the MACT approach would achieve
+that goal, and remanded the medical waste incinerator MACT
+standards to EPA for further clarification. Id.
+
+    In later cases, we addressed EPA’s attempts to expand its
+MACT approach to developing existing source MACT floors.
+See National Lime Ass’n v. EPA, 233 F.3d 625, 632 (D.C. Cir.
+                              31
+2000); Cement Kiln, 255 F.3d at 859; Sierra Club v. EPA, 479
+F.3d 875, 879–880, 882–83 (D.C. Cir. 2007) (“Brick
+MACT”). For example, in Cement Kiln, EPA identified the
+best-performing 12 percent of sources by emission levels,
+identified the control technology used by sources with
+emission levels equivalent to or lower than the median of that
+12 percent, and then set the MACT floor at the worst emission
+level achieved by any source using that control technology.
+255 F.3d at 859. As in Sierra Club, EPA’s rationale in setting
+the MACT floors on the worst performer using MACT
+technology was to account for variability in the emission
+levels “achieved” by the best-performing 12 percent. See id.
+at 862, 865–66. While we explained this approach could be
+lawful in theory if, for example, control technology was
+completely or significantly determinative of a source’s
+emission levels, we nevertheless concluded that EPA had not
+adequately demonstrated with substantial evidence that its
+estimation was reasonable. Id. at 863–66. Because factors
+apart from air pollution control technology could affect
+emission levels, we concluded that EPA’s assumption that the
+worst-performing unit could represent the best-performing
+units was flawed. Id. at 866; see also Brick MACT, 479 F.3d
+at 882 (“Given Cement Kiln’s holding that EPA may not use
+emission levels of the worst performers . . . without a
+demonstrated relationship between the two, we conclude that
+the emission floors . . . violate the [Clean Air Act].”); id. at
+883 (“EPA’s decision to base floors exclusively on
+technology even though non-technology factors affect
+emission levels violates the [Clean Air Act].”).
+
+     As these cases demonstrate, establishing MACT floors is
+no simple task. Determining the best performing sources is
+not even as straightforward as simply collecting emission test
+data from all incinerators and ranking them, as incinerators
+that have low emission levels one day may have very high
+                              32
+emission levels under the worst foreseeable conditions (for
+example, if an incinerator experiences a spike in sludge
+pollutant concentrations during certain times of the year).
+Recognizing that variability in the performance of sources can
+make identifying the best-performing sources based on short-
+term emissions data a nearly impossible task, we have upheld
+EPA’s estimation of MACT floors in at least one case. In
+Mossville Environmental Action Now v. EPA, 370 F.3d 1232
+(D.C. Cir. 2004), EPA explained that great variability in
+emissions among sources it sought to regulate made
+comparing sources and selecting the best-performing units
+virtually impossible, and so set the MACT standards for the
+pollutant at issue at the level of preexisting EPA emission
+standards. See id. at 1240 (“With comparisons between plants
+impossible, and emission variations not related to
+technological performance, the EPA claims it was unable to
+select the best [performing] sources.”). Because EPA pointed
+out that the source with the overall lowest long-term emission
+of the pollutant at issue barely satisfied the preexisting
+emission standards, we upheld EPA’s estimation that its
+preexisting emission standards for that pollutant reasonably
+represented the average emission levels of that pollutant for
+the best-performing units. Id. at 1242.
+
+     With this background in mind, we turn to the petitioners’
+challenges to the MACT floor methodology EPA used in
+setting emission standards for sewage sludge incinerators. As
+we explained, EPA’s approach to setting MACT floors had
+essentially two steps: (a) determining the best-performing
+sewage sludge incinerators and gathering data; and (b)
+applying the upper prediction limit to the collected dataset to
+account for variability.
+
+   To determine the best-performing incinerators, EPA,
+mindful of our holding in past MACT floor cases, has devised
+                              33
+a different approach than it has in other rulemaking we have
+reviewed. First, EPA identified the incinerators it believed
+would have the lowest emissions based on the type of unit and
+installed air pollution controls. 75 Fed. Reg. at 63,270. EPA
+then conducted emission tests from these incinerators to
+develop its MACT floor dataset, which it supplemented with
+data from state environmental agency public databases. Id.
+Because some test runs yielded emissions data at a level that
+EPA’s testing equipment could not accurately measure, EPA
+developed a method for incorporating this non-detect data.
+Id. at 63,273.
+
+     This method of using technology to set MACT floors
+differs from the “MACT approach” discussed in Cement Kiln
+and Brick MACT. In those cases, EPA had first identified the
+sources with the lowest emissions, then identified the primary
+emission control technology used by those sources, and then
+set the MACT floors based on sources that used that
+technology. See Cement Kiln, 255 F.3d at 859; Brick MACT,
+479 F.3d at 879. In contrast, EPA has, in this rulemaking,
+selected which sewage sludge incinerators to survey based on
+their control technology, without first determining their
+emission levels relative to other sources. See Revised MACT
+Floor Memo at 6 (“To select the surveyed owners, EPA
+reviewed the inventory of [sewage sludge incinerators] for the
+control devices being operated, and identified a subset of units
+expected to have the lowest emissions based on the type of
+unit and the installed air pollution controls.” (emphasis
+added)).
+
+     Even after selectively identifying and collecting data
+from incinerators, EPA did not collect data on every § 129
+pollutant from 12 percent of sources. For example, while EPA
+estimated in the final rule that it would need data on eighteen
+multiple hearth incinerators to meet the 12 percent
+                               34
+requirement, the number of multiple hearth incinerators for
+which it had data (including supplemental reports from state
+environmental agency databases) ranged from nineteen to five
+incinerators depending on the pollutant. See Revised MACT
+Floor Memo at 7. Believing that § 129(a)(2) required it to
+have data representative of at least 12 percent of incinerators,
+EPA devised a method of estimating whether a limited dataset
+could be representative of the best-performing 12 percent of
+units. Specifically, EPA applied a statistical analysis on the
+underrepresented pollutant datasets to estimate whether it had
+enough observations from testing incinerators to represent the
+best-performing 12 percent of incinerators. See 75 Fed. Reg.
+63,270; Revised MACT Floor Memo at 7–8. Applying this
+statistical analysis to its MACT floor dataset yielded an
+estimate of an estimate; in other words, the limited dataset to
+which EPA was applying this statistical analysis was itself
+already the result of EPA’s estimating the best performers
+based on control technology.
+
+     After it had collected its dataset, EPA applied the upper
+prediction limit to estimate variability in sewage sludge
+incinerator emissions, stating its belief that the MACT floors
+had to be set at such a level that the best-performing
+incinerators “can expect to meet ‘every day and under all
+operating conditions.’” 75 Fed. Reg. at 63,269 (quoting
+Mossville Environmental Action Now, 370 F.3d at 1241–42).
+We will address challenges to EPA’s estimations in the
+following order: (1) whether EPA may use control technology
+as a proxy for best-performing incinerators; (2) whether EPA
+did not adequately account for variability in the characteristics
+of sewage sludge fed into the sewage sludge incinerators, and
+whether it may account for variability with the upper
+prediction limit; (3) whether EPA may apply a statistical
+equation to determine whether EPA had a sufficient dataset to
+be representative of the best-performing 12 percent; and (4)
+                             35
+whether EPA may incorporate non-detect data by comparing
+calculated MACT floors to a value that is three times the
+representative detection level.
+
+1. Identifying the best-performing incinerators based on
+   control technology
+
+     We first address Sierra Club’s challenge to EPA’s
+selection of the best-performing units based on the type of
+unit and installed air pollution control technology. In
+addressing Sierra Club’s argument that EPA did not establish
+that non-technology factors do not affect emissions, we admit
+some confusion over whether NACWA is also arguing that
+EPA acted arbitrarily in its selection of best performers by
+failing to account for variability, or whether its argument is
+that EPA failed to account for the variability experienced by
+the best-performing units it selected. See NACWA Br. at 39
+(“Commenters argued that EPA’s targeted selection of nine
+[publicly-owned treatment works] based solely on type of
+pollution control makes it impossible for EPA to assume that
+the data are representative of the best-performing [sewage
+sludge incinerators] across the entire category.”) (citing
+NACWA Comments, Joint Appendix 24–25). But see
+NACWA Br. at 41 (“Because these data show the great
+variability of these pollutants, commenters urged EPA to
+determine the emission rates achieved by the best-performing
+sources under the full range of operating conditions.”). The
+closeness of these two arguments is hardly surprising given
+that variability in incinerator operating conditions may make
+the “best performing 12 percent of units” a moving target,
+particularly when EPA uses emission levels as the metric for
+“best performing.” But while both NACWA’s and Sierra
+Club’s arguments on this point share a similar element—
+EPA’s alleged failure to account for sewage sludge variability
+makes its MACT floor methodology arbitrary and
+                              36
+capricious—Sierra Club focuses on EPA’s assumption about
+control technology installed on the incinerator, while
+NACWA focuses on EPA’s assumptions about the effect of
+sewage sludge characteristics on emission levels. Because
+these contentions are different in kind, we will address them
+separately.
+
+     We begin with Sierra Club’s allegation that EPA’s
+estimate of the best-performing 12 percent of units is
+unlawful and arbitrary. In arguing that this estimate is
+unlawful, Sierra Club relies on Cement Kiln, asserting that
+EPA’s estimation technique can be upheld only if air
+pollution control technologies are “the only factor
+determining emission levels.” Id. (quoting 255 F.3d at 863).
+Because EPA conceded that some non-technology factors
+affected emission levels, even accounting for Clean Water
+Act Part 503 regulations, see 75 Fed. Reg. at 63,270, Sierra
+Club argues that EPA’s method of estimating is per se
+unlawful.
+
+     Sierra Club reads our holding in Cement Kiln too strictly.
+Later in our opinion in Cement Kiln, we explained that “if
+[EPA] can demonstrate with substantial evidence – not mere
+assertions – that MACT technology significantly controls
+emissions, or that factors other than the control have a
+negligible effect, the MACT approach could be a reasonable
+means of satisfying the statute’s requirements.” 255 F.3d at
+866 (emphases added).        Unsurprisingly, EPA cited this
+portion of our opinion when responding to Sierra Club’s
+challenge to using control technology as a proxy for the best-
+performing incinerators. EPA Br. at 55. Sierra Club asserts
+that EPA cannot justify its approach under this softer
+standard, arguing that the significant/negligible standard is
+dicta. See Sierra Club Reply Br. at 3–4.
+                              37
+     While Sierra Club may be correct that this statement is
+dicta, we now elevate it to holding. First, our statement in
+Cement Kiln that the MACT approach would satisfy the
+statute “if pollution control technology were the only factor
+determining emission levels” was a direct quote from our
+opinion in National Lime, where the statement was itself
+dicta. 255 F.3d at 863 (quoting National Lime, 233 F.3d at
+633); see National Lime, 233 F.3d at 633 (summarizing an
+argument made by Sierra Club that we could not consider
+because it was not properly raised). Moreover, in Cement
+Kiln, we did not rely on the presence of any other factor
+influencing emission levels to hold that EPA’s MACT
+approach failed to satisfy the statutory requirements for
+setting MACT floors, instead resting our holding on the bases
+that several non-control factors could influence emission
+levels, and that EPA’s difficulty in quantifying these factors
+was no excuse for failing to demonstrate its estimate was
+reasonable. Cement Kiln, 255 F.3d at 863–65.
+
+     Second, if we are to give any substance to EPA’s ability
+to estimate the best performing units based on control
+technology, we must allow EPA to use air pollution control
+technology as a proxy for emission levels even if the
+correlation between control technology and emission levels is
+imperfect because non-control factors have a negligible effect
+on emissions. This is so because an estimate, by definition,
+will not accurately account for every variable that may affect
+emissions. WEBSTER’S, supra 17, at 778 (defining “estimate”
+as meaning “to judge the value, worth, or significance of: esp:
+to arrive at (a value judgment that is often valid but
+incomplete, approximate, or tentative)”) (emphasis added).
+Were we to adopt the strict standard Sierra Club argues
+applies, we would effectively be prohibiting EPA from using
+this estimation technique, as we find it impossible to imagine
+any situation where there is a perfect correlation between
+                             38
+control technology and emissions. See Cement Kiln, 255 F.3d
+at 871 (“[W]e do not expect the impossible of the [EPA].
+Floors need not be perfect mirrors of the best performers’
+emissions.”). Thus, the fact that air pollution control
+technology is not the only factor affecting emission levels
+does not render EPA’s use of control technologies to identify
+best performers per se unlawful.
+
+     EPA, however, must still demonstrate that its estimate is
+reasonable.    In justifying its approach of “specifically
+[seeking] emissions data from those municipalities that have
+installed and operate more than one of the controls that EPA
+identified as achieving the most reductions possible for the
+Section 129 pollutants,” EPA Br. at 56, EPA points to Clean
+Water Act regulations on sewage sludge disposal as
+accounting for non-control technology factors. See 40 C.F.R.
+Part 503, Subpart E. These regulations include a requirement
+that incinerators comply with Clean Air Act emission
+standards for beryllium and mercury, see 40 C.F.R. §
+503.43(a)–(b), and set limits for the average daily
+concentrations of lead, cadmium, and other metals in the
+sewage sludge that is fed into an incinerator. See 40 C.F.R. §
+503.43(c)–(d). EPA explained in the rulemaking, and now
+before us, that sewage sludge incinerators “receive a more
+homogenous type of waste to burn,” and that because of the
+Part 503 standards sewage sludge incinerators “are already
+incorporating management practices and measures to reduce
+waste and limit the concentration of pollutants in [sewage
+sludge].” See Revised MACT Floor Memo at 6–7; 75 Fed.
+Reg. at 63,270.
+
+     It is true that EPA has pointed to some evidence of
+reduced variability among sewage sludge incinerators, a
+showing EPA failed to make in other MACT floor cases. See,
+e.g., Sierra Club, 167 F.3d at 662–64 (concluding that
+                               39
+assumption that States would set emission limits at a level
+near what incinerators achieved in practice to be unsupported
+and contradicted by the record); Cement Kiln, 255 F.3d at 865
+(determining that EPA did not attempt to support its
+assumption that emission levels were solely dependent on
+control technologies, instead explaining that for some
+pollutants, the “factors other than technology that affect
+emissions . . . are difficult to quantify for the definition of
+MACT”) (internal quotation marks omitted). Nevertheless,
+EPA concedes “that there is some variation of Section 129
+pollutants present in the waste that is burned at individual
+sewage sludge incinerators.” EPA Br. at 58. The question
+thus remains: can EPA demonstrate with substantial evidence
+that some variation in pollutants has a negligible effect on
+sewage sludge incinerators, or that non-technology factors
+aside from sewage sludge content have a negligible effect on
+emissions?
+
+     Sierra Club argues that EPA has not made that
+demonstration, pointing out that EPA’s assumption does not
+account for the fact that incinerator emissions are “affected by
+the fuels they use, the age and design of the individual unit,
+the specific quality and age of control devices at individual
+units, the training and skill of the operators, and the care with
+which they run individual units.” Sierra Club Br. at 18–19
+(internal quotation marks omitted). We found this argument
+persuasive in Cement Kiln, see 255 F.3d at 862–65, and again
+agree with Sierra Club here. The fact that publicly-owned
+treatment works are already required to limit pollutant
+concentrations in sewage sludge before incineration does not
+establish that other variations in the operation of sewage
+sludge incinerators and the air pollution control technology
+they use will have only a negligible effect in emissions.
+Without evidence that air pollution control technology will
+achieve substantially the same performance across
+                              40
+incinerators without regard to the particular incinerator on
+which it is installed, EPA has made only a “mere assertion”
+that its regulations account for non-technology factors and
+that the type of air pollution control technology used by an
+incinerator is significantly determinative of emissions. See 76
+Fed. Reg. at 15,392; Cement Kiln, 255 F.3d at 866.
+
+     Sierra Club also argues that variations in sewage sludge
+pollutant content are a factor affecting emission levels apart
+from the air control technology in use by a sewage sludge
+incinerator. Responding to EPA’s arguments that the Part 503
+regulations already require publicly-owned treatment works to
+“apply[] non-technology measures to reduce emissions” and
+therefore produce a more homogenous waste, Sierra Club
+argues that “[e]ven if correct, these arguments merely show
+that the units EPA selected as best performers have varying
+sludge inputs and that these inputs affect sewage sludge
+incinerators’ emissions less than they affect emissions from
+other categories of incinerators.” Sierra Club Br. at 19.
+Although this is a fair point, it is more relevant to NACWA’s
+argument that EPA failed to account for variability in sewage
+sludge pollutants when collecting its dataset, a point we
+address more comprehensively in the following section.
+
+     Suffice it to say, unless EPA can demonstrate that the
+relatively reduced variations in sewage sludge characteristics
+have a negligible effect on emissions, Sierra Club’s argument
+that non-technology factors affect emissions seems even more
+meritorious. See Cement Kiln, 255 F.3d at 864 (citing, in
+support of its holding, an EPA technical memorandum in
+which EPA observed that the variability in emissions among
+sources using MACT technology “indicate[d] that the air
+pollution control device system type . . . may not be the only
+important consideration affecting [dioxin/furan] control; other
+factors such as combustion quality and waste composition . . .
+                               41
+may also be of importance.”) (emphasis added) (second
+alteration in original). As we will discuss in the next section,
+EPA has alluded to evidence that may demonstrate a low
+correlation between sewage sludge characteristics and
+emissions.      See Joint Appendix 1095 (Letter Denying
+NACWA’s Petition for Reconsideration) (citing data gathered
+during EPA’s information collection request that showed that
+“the contents of . . . pollutants in the sludge itself has little
+relationship to the emissions of the pollutants, because these
+pollutants are removed by the control devices.”). But as we
+will also discuss in the following section, citing this evidence
+for the first time in denying a petition for reconsideration may
+be an insufficient basis upon which to defend EPA’s position
+that its Part 503 regulations account for non-technology
+factors.
+
+     To bolster its argument that non-technology factors have
+a non-negligible effect on emission levels, Sierra Club points
+out that some incinerators EPA did not survey for data
+collection reported superior performance to those EPA did
+survey, undercutting EPA’s assumption that control
+technology is the only factor controlling emission levels. For
+example, Sierra Club cites comments submitted by Palo Alto,
+which reported that its program of reducing mercury inputs
+was effective in reducing mercury emissions to a level far
+below the existing unit MACT floor, and which was not
+included in the best-performing 12 percent. See Joint
+Appendix 628–29.         Sierra Club also notes that the
+supplemental data EPA took from state environmental agency
+public databases showed emission levels lower than those
+EPA decided to survey—a fact EPA candidly acknowledges.
+See 76 Fed. Reg. 15,387 (“For some pollutants, the emissions
+from these supplemental test reports were lower than those
+from the nine [surveyed] sources.”). This is evidence, Sierra
+                              42
+Club argues, that EPA’s estimate of the best performers based
+on control technology is arbitrary and capricious.
+
+     EPA responds that it did not have to consider the Palo
+Alto incinerator’s reported emission level, because Palo Alto
+failed to comply with EPA’s instruction in the proposed rule
+to provide “supporting documentation” when submitting
+additional emissions stack test data in its comments. See 75
+Fed. Reg. at 63,270. Because EPA could not verify the
+accuracy of Palo Alto’s asserted emission levels, EPA
+explains that it was unable to draw any correlation between
+Palo Alto’s sewage sludge management practices and a
+reduction in mercury emissions. In the past, we have upheld
+EPA’s rejection of data it determined deficient, explaining
+that we give substantial deference to an agency’s expert
+scientific judgment. Similarly, when EPA requests that
+commenters substantiate their reported emission test data, and
+they do not comply, EPA “[is] not obligated under its policy”
+to compare its collected results with the unsubstantiated data
+that commenters submit. See Edison Electric Institute v. EPA,
+2 F.3d 438, 448 (D.C. Cir. 1993) Id. at 449. Thus, we agree
+with EPA that it deserves deference for its decision not to
+draw any correlations between Palo Alto’s change in
+management practice and a reduction in mercury emissions
+based on the data submitted.
+
+     EPA, however, does not respond to Sierra Club’s
+argument that the fact that randomly selected incinerators
+from state environmental agency databases had emission
+levels lower than those from the incinerators EPA chose to
+survey based on technology demonstrates that EPA’s use of
+control technology is unreasonable. Instead, it explains that
+the supplemental information from state environmental
+agency databases “included emissions test data from
+facilities/units that met the same criteria EPA used in issuing
+                              43
+information collection requests, i.e., units with more than one
+of the controls that EPA identified as achieving the most
+reductions possible for the Section 129 pollutants.” EPA Br.
+at 56–57; compare Joint Appendix 979 (listing incinerators
+from which EPA collected emissions test data and the control
+technologies they used), with Joint Appendix 1012–1040
+(listing incinerator emission test data collected from state
+environmental agency databases along with control
+technologies used). But EPA did not state this rationale in the
+rulemaking, and we cannot “accept appellate counsel’s post
+hoc rationalizations for agency action.” Motor Vehicles
+Manufacturer’s Ass’n v. State Farm Mutual Auto Insurance
+Co., 463 U.S. 29, 50 (1983). And before this court, EPA does
+not claim that it specifically searched state environmental
+agency databases for data from sewage sludge incinerators
+that use what it considered the best-performing technology,
+explaining only that the supplemental data “included”
+emissions data from facilities that had one or more of the
+controls identified. Even taking as true that the incinerators
+for which EPA had data in supplemental testing used similar
+air pollution controls as the incinerators it selected, the fact
+that similarly-controlled incinerators achieve lower emission
+levels suggests that non-technology factors have a non-
+negligible effect on emission levels.
+
+     Therefore, we agree with Sierra Club that EPA has not
+demonstrated with substantial evidence that non-control
+technology factors apart from sewage sludge content, like
+variations in age, design, or operation of the incinerators
+themselves, would have a negligible effect on incinerator
+emissions. That EPA’s supplemental test reports show
+superior performance to the incinerators EPA chose for
+information collection requests is strong evidence that the
+type of air pollution control technology used itself is not
+significantly determinative of emissions.      Nevertheless,
+                                44
+because EPA may be able to explain why non-control
+technology factors have a negligible effect on emissions and
+why the data it used from supplemental test reports
+outperform the units it identified as best, we remand this
+portion of the rulemaking to EPA for further explanation
+without vacating the MACT floor regulations.
+
+2. Accounting for variability
+
+     We now address NACWA’s and Sierra Club’s challenges
+to EPA’s method of accounting for variability. In the
+proposed rule, EPA explained that it was accounting for intra-
+unit variability using a statistical tool it termed the upper
+prediction limit, and was relying on the Part 503 regulations
+to account for variability in sewage sludge pollutant
+concentration between incinerators. See 75 Fed. Reg. at
+63,270–71. Because the upper prediction limit is not a
+straightforward method of accounting for variability, we first
+review and elaborate on this concept. The 99 percent upper
+prediction limit “represents the value which one can expect
+the mean of future 3-run performance tests from the best-
+performing 12 percent of sources to fall below, with 99
+percent confidence, based upon the results of the independent
+sample of observations from the best-performing sources.”
+75 Fed. Reg. at 63,271. EPA calculated the upper prediction
+limit using the following formula:
+
+          	               	
+                                                    1    1
+                    	 ̅       0.99,   1
+
+
+In this formula, n represents the number of test runs (i.e., the
+sample size), m represents the number of test runs in a
+compliance average, ̅ represents the mean, s represents the
+                              45
+standard deviation (i.e., a value representing how much
+variation exists from the mean within a dataset), and t(0.99,
+n–1) represents a value called the t-statistic, which is a
+number based on the number of test runs and EPA’s desired
+99 percent significance. Id. Because of the role of the
+standard deviation in this formula, greater variation within a
+dataset will produce a higher upper prediction limit. And
+because EPA incorporated the upper prediction limit into its
+analysis by setting the MACT floor at the level of the upper
+prediction limit (unless its methodology for addressing non-
+detect data, which we will discuss below, yielded a higher
+result), a higher upper prediction limit means a higher MACT
+floor.
+
+     For existing incinerators, EPA did not apply the upper
+prediction limit to each 3-run test for each incinerator, but
+instead applied it to the entire dataset it collected for a
+pollutant. See id.; see, e.g., Revised MACT Floor Memo
+Attachment B-8. For example, when setting the MACT floor
+for sulfur dioxide, for which EPA had 63 test runs, EPA
+calculated the upper prediction limit using a sample size of
+63, a mean and standard deviation based on all 63 test runs, a
+desired 3-run compliance average, and a desired confidence
+level of 99 percent. See 75 Fed. Reg. at 63,271; Revised
+MACT Floor Memo Attachment B-8. The resulting value
+calculated by the upper prediction limit appears to represent,
+with 99 percent confidence, the value EPA predicts a 3-run
+average from an imaginary incinerator—representative of the
+mean and variation among the best-performing 12 percent
+incinerators—could achieve. Predicting the value that a “3-
+run average” will fall below appears confusing at first
+glance—but we note that the focus of the upper prediction
+limit is on the average, and not the values of the three runs
+used to derive that future average. Thus if the upper
+prediction limit (i.e., MACT floor) were 5, it would not matter
+                              46
+whether the 3-run test was 5-5-5, or 1-5-9, as both 3-run tests
+average to 5. Designing the upper prediction limit this way
+appears to give incinerators testing for compliance with the
+MACT standards some leeway in variations among emissions
+between test runs. See 75 Fed. Reg. at 63,269.
+
+     During the comment period Sierra Club, but not
+NACWA, challenged EPA’s use of the upper prediction limit.
+See Joint Appendix 608. Although NACWA did not criticize
+the upper prediction limit as a method for addressing
+variability in its comments, it did assert that EPA failed to
+account for variability in sewage sludge characteristics
+resulting from regional and seasonal variability. See id. 670–
+72. NACWA also challenged EPA’s use of the Clean Water
+Act Part 503 regulatory data in its rulemaking, asserting that
+EPA’s assumption that sewage sludge was homogenous was
+demonstrably false based on that data.           For example,
+NACWA pointed out that the monthly average lead
+concentration in sewage sludge in January 2009 was 62.23
+mg/dry kg for southerly incinerators and 97.00 mg/dry kg for
+westerly incinerators, while the monthly average lead
+concentration in July 2009 was 123.14 mg/dry kg for
+southerly incinerators and 218.55 mg/dry kg for westerly
+incinerators. Id. 671. NACWA argued that because EPA
+regulations required publicly-owned treatment works to report
+this data to EPA, see 40 C.F.R. § 503.48, EPA had access to
+the data and should have used it during rulemaking to account
+for variability. Id. 671–72. Moreover, NACWA noted that
+the Part 503 regulations did not even address all § 129
+pollutants. See id. 672.
+
+    In the final rule, EPA defended its use of the upper
+prediction limit against Sierra Club’s criticisms. See 76 Fed.
+Reg. at 15,389. In response to NACWA’s comments, EPA
+explained that it collected emissions data from nine different
+                                47
+facilities in nine different states, claiming that these facilities
+were “located in a mix of northern, southern, eastern, and
+western states,” each with its “own unique sludge
+characteristics from different residential and commercial
+populations.” Id. at 15,391. EPA stated that it felt the dataset
+had “sufficient variation in regions, climates and populations”
+to “adequately incorporate[] variability in wastewater
+treatment systems across the U.S.,” and that it had “also
+incorporated variability using the [upper prediction limit].”
+Id.
+
+     Both petitioners now challenge EPA’s use of the upper
+prediction limit to account for variability among sewage
+sludge incinerators. Sierra Club contends that the upper
+prediction limit is unlawful as applied to existing incinerator
+datasets because it does not represent the “average” emissions
+limitation achieved by the best-performing 12 percent of
+incinerators, a fact inconsistent with EPA’s statements that
+the upper prediction limit is “based on” an average. Sierra
+Club asserts that the upper prediction limit is unlawful as
+applied to new sources as well, stating that “the upper
+prediction limit is not an estimate of what the best unit
+actually ‘achieved in practice.’” Sierra Club Br. at 25.
+
+     Sierra Club also argues that EPA’s use of the upper
+prediction limit is arbitrary and capricious because EPA does
+not provide an explanation of how the upper prediction limit
+represents the emissions level achieved by the best
+performing units under the worst reasonably foreseeable
+conditions. To support its arbitrary and capricious argument,
+Sierra Club points to the fact that, by applying the upper
+prediction limit, EPA calculated a MACT floor for the best-
+controlled unit that was higher than the floor based on the
+average emissions limitations achieved by the top 12 percent
+of units. See 76 Fed. Reg. at 15,388–89. Sierra Club also
+                               48
+alleges that EPA has been inconsistent with its use of the
+upper prediction limit, using the upper prediction limit to set
+the MACT floors but not using it to identify incinerators in
+the first place.
+
+    NACWA does not challenge EPA’s use of the upper
+prediction limit as broadly as Sierra Club, explaining that
+“using the 99 [percent] [upper prediction limit] method to
+account for variability in emission performance is not
+prohibited by statute, nor is it unreasonable, provided EPA
+uses representative data from the congressionally required 12
+[percent] of units.” NACWA Intervenor Br. at 7. Instead,
+NACWA challenges EPA’s justification that the upper
+prediction limit adequately accounts for variability in a
+dataset that itself is not reflective of the variety of conditions
+in which sewage sludge incinerators operate, asserting that
+“the [upper prediction limit] cannot account for variability
+among [sewage sludge incinerators] unless the underlying
+data are representative of the category as a whole.” In other
+words, NACWA argues that because EPA failed to take into
+account regional and seasonal variability in sewage sludge
+pollutant concentrations and failed to use the Part 503 data
+showing variability in sewage sludge characteristics in its
+analysis, EPA produced a limited dataset that was not
+representative of the “emission rates achieved by the best-
+performing sources under the full range of operating
+conditions.” NACWA Br. at 41.
+
+     EPA’s responses to both Sierra Club’s and NACWA’s
+arguments are somewhat conclusory, relying primarily on its
+explanation in the Revised MACT Floor Memo rather than
+addressing the petitioners’ legal arguments. Responding to
+Sierra Club, EPA asserts that it did not “simply ‘pick a
+number’” in setting the upper prediction limit, and explains
+that the reason why some new incinerator MACT floors were
+                              49
+higher than existing incinerator MACT floors was because of
+the smaller datasets with greater variation. EPA Br. at 52.
+EPA argues that NACWA’s criticism of the upper prediction
+limit is “overly simplistic,” explaining that “EPA’s use of the
+[upper prediction limit] to account for variability also
+addressed any emissions variability due to differences in
+sludge content,” and that if NACWA’s approach were
+accepted, “it would account for variability in sludge content
+on top of the variability in emission levels that are already
+accounted for through the [upper prediction limit].” EPA Br.
+at 50–51.
+
+     Before stepping into the morass of arguments on the
+upper prediction limit, we take a moment to revisit the
+statutory source of EPA’s obligation to set MACT floors.
+Section 129(a)(2) requires existing MACT floors to be no less
+stringent than “the average emissions limitation achieved by
+the best performing 12 percent of units.” As we noted in
+Sierra Club, “this phrase on its own says nothing about how
+the performance of the best units is to be calculated.” 167
+F.3d at 661. In the past, we have primarily relied on Sierra
+Club when reviewing MACT standards to state that EPA can
+reasonably estimate the performance of the best units. But
+underlying Sierra Club’s holding is also the proposition that,
+because EPA can interpret ambiguous statutes under Chevron,
+EPA can decide what value the MACT floors are supposed to
+represent, as long as that decision is a reasonable
+interpretation of the statute. See id. at 661–62.
+
+     In this case, EPA has explained that its “long-standing
+interpretation [of section 129] is that the combination of
+section 129(a)(4), requiring numerical standards for each
+enumerated pollutant, and section 129(a)(2), requiring that
+each such standard be at least as stringent as the MACT floor,
+supports that floors be derived for each pollutant based on the
+                              50
+emissions levels achieved for each pollutant.” 75 Fed. Reg. at
+63,269. And in the final rule, EPA clarified that it was “using
+lowest emissions limitation as the measure of best
+performance.” 76 Fed. Reg. at 15,389.
+
+     But even with these explicit interpretations of § 129(a)(2)
+as guidelines, the phrase “average emissions limitation
+achieved by the best performing 12 percent of units” could be
+interpreted several different ways, with several different
+variations of what the MACT floor is supposed to represent.
+For example, and without prejudging the legality of these
+different interpretations, EPA could interpret the “average
+emissions limitation achieved by the best performing 12
+percent of units” to mean the average of the emission levels
+achieved by the best-performing units based on EPA’s short-
+term emission test data, without regard to the range of
+conditions under which the incinerators operate. In that case,
+the MACT floors would simply be an average of the
+emissions data EPA collected from the best-performing units.
+
+     The phrase could also mean the average of the emission
+levels that each best-performing unit achieved under the worst
+foreseeable circumstances. If EPA were to take this
+interpretation, it would seem sensible to determine the
+population of the best-performing units based on which units
+achieve the lowest emission levels under the worst
+foreseeable conditions, and then average those emission
+levels.
+
+     Based on EPA’s method of determining MACT floors in
+this case and its response to Sierra Club’s comments,
+however, it seems EPA has adopted yet another interpretation
+of the phrase “average emissions limitation achieved by the
+best performing 12 percent of units.” In the final rule, EPA
+cited Sierra Club’s comments that § 129(a)(2)
+                              51
+“unambiguously requires EPA to set floors reflecting the
+‘average’ emission level achieved by the best sources” and
+that “although EPA may consider variability in estimating an
+individual source’s actual performance over time, nothing in
+the [Clean Air Act] or the case law even suggests that EPA
+may account for differences in performance between sources
+except as § 129 provides, by averaging the emission levels
+achieved by the sources in the top 12 percent.” 76 Fed. Reg.
+at 15,389. EPA responded that “[b]ecause the [upper
+prediction limit] represents the value which we can expect the
+mean (i.e., average) of three future observations (3-run
+average) to fall below, based upon the results of the
+independent sample size from the same population, the [upper
+prediction limit] reflects average emissions.” Id.
+
+     It is not clear to us, however, that the “average emissions
+limitation achieved by the best performing 12 percent” would
+refer to the future average of a 3-run test that EPA predicts a
+source in the best-performing 12 percent will fall below with
+99 percent confidence. Instead, the word “average” as
+referred to in the standard for existing unit MACT floors
+seems to mean the average emissions limitation that the
+existing population of the best-performing 12 percent of
+incinerators has achieved, not the average of a future 3-run
+test conducted for compliance purposes.
+
+     This is not to say that the upper prediction limit, which
+EPA applied to the average of the emission levels recorded
+while testing the best-performing 12 percent, would violate
+the statutory standard established in § 129. Under its method,
+EPA seems to have effectively modeled an imaginary
+incinerator based on the short-term emissions test data from
+incinerators in what EPA considers the best-performing 12
+percent of units. Using the average, the standard deviation of
+the dataset, and the number of data points, EPA claims its
+                               52
+statistical formula models, with 99 percent confidence, the
+upper limit of what that imaginary incinerator would achieve
+based on the distribution of the dataset. Given that EPA
+believes that it must set MACT floors “that the best
+performing sources can meet ‘every day and under all
+operating conditions,’” it seems plausible to state that this
+predicted emission level represents the “average emissions
+limitation achieved by the best performing 12 percent of
+units.” See 75 Fed. Reg. at 63,269 (quoting Mossville
+Environmental Action Now, 370 F.3d at 1241–42).
+
+     EPA has not interpreted “average emissions limitation
+achieved” this way, however, and because we “may not
+supply a reasoned basis for the agency’s action that the
+agency itself has not given,” we can only adjudge EPA’s
+interpretation based on essentially one sentence from the
+Federal Register. Bowman Transportation, Inc. v. Arkansas-
+Best Freight System, Inc., 419 U.S. 281, 285–86 (1974); see
+76 Fed. Reg. at 15,389. The need for further explanation is
+especially acute when EPA’s approach of using the upper
+prediction limit and its interpretation of “average emissions
+limitation achieved” are both departures from the approaches
+EPA has taken in setting MACT floors in earlier cases. As to
+the interpretation of “average” specifically, EPA has not
+previously interpreted the phrase “average emissions
+limitation achieved” to refer to the average of a future 3-run
+test, but instead the average emissions levels of the best-
+performing 12 percent of sources for which EPA had data (or
+the average of the proxies EPA used to estimate those
+emission levels). See Sierra Club, 167 F.3d at 661 (“[EPA]
+selected the 12 percent of the incinerator population subject to
+the strictest controls and set the floor level for the subcategory
+by averaging the emissions limitations governing those
+incinerators.”); National Lime, 233 F.3d at 630 (“To set
+existing source emission floors, EPA . . . . identified the
+                              53
+technology used by the median plant out of the best twelve
+percent of plants for which it had information and set the
+existing source emission floor at the emission level of the
+worst performing plant in its database using that
+technology.”); Cement Kiln, 255 F.3d at 859 (explaining that
+for existing sources, EPA identified the best-performing 12
+percent of sources, then identified the emission control
+technology used by sources with emission levels equivalent to
+or lower than the median of the best-performing 12 percent,
+and then set the MACT floor at the worst emission level
+achieved by any source using that technology); Northeast
+Maryland Waste Disposal Authority, 358 F.3d at 953 (“For
+each pollutant, EPA calculated the MACT floor by averaging
+the most stringent 12% of state permit limits in each class.”).
+
+     Although EPA may be able to justify its novel
+interpretation that “average” means the average of a future 3-
+run compliance test, one sentence in the Federal Register is
+not enough of a basis to uphold EPA’s new approach to
+incorporating variability against arbitrary and capricious
+review. Accordingly, on remand, we expect EPA to clarify
+how the upper prediction limit represents the “average
+emissions limitation achieved by the best performing 12
+percent.” See Sierra Club, 167 F.3d at 664 (remanding EPA’s
+MACT floor determination, because “[i]t is possible that EPA
+may be able to explain it”).
+
+     We now turn to Sierra Club’s related challenge to the
+upper prediction limit as arbitrary because “EPA provides no
+support for the notion that the upper prediction limit for the
+single best-performing unit reflects that unit’s actual
+performance, even under the ‘worst reasonably foreseeable’
+circumstances.’” Sierra Club Br. at 26. While it is true that
+EPA did not even use the phrase “worse foreseeable
+circumstances” in its rulemaking, it did explain its belief that
+                               54
+it must set MACT floors that the “best performing sources can
+expect to meet ‘every day and under all operating
+conditions.’” 75 Fed. Reg. at 63,269 (quoting Mossville
+Environmental Action Now, 370 F.3d at 1241–42). Not only
+are these standards approximately equivalent, EPA is not
+wedded to our “worse foreseeable circumstances”
+interpretation of “achieved in practice.” See Sierra Club, 167
+F.3d at 665 (explaining that “EPA would be justified in
+setting the floors at a level that is a reasonable estimate of the
+performance of the ‘best controlled similar unit’ under the
+worst reasonably foreseeable circumstances,” adding “we use
+the subjunctive because it is not clear from the record that the
+agency was doing this”). More substantively, EPA’s citation
+to Mossville Environmental Action Now in the same section as
+EPA’s description of the upper prediction limit may be
+enough to reasonably discern EPA’s justification for the upper
+prediction limit, even if EPA has not directly stated how it
+justifies the upper prediction limit as a method for accounting
+for variability in light of the Clean Air Act and our case law.
+See Bowman Transportation, 419 U.S. at 286.
+
+     Although it may be sufficiently clear that EPA’s
+prediction of the best-performing incinerators’ upper limit
+represents standards these incinerators can “meet every day
+and under all operating conditions,” EPA has not clearly
+explained how the upper prediction limit itself operates to
+predict this value with sufficient accuracy. In the Brick
+MACT case, we held that EPA’s use of the MACT approach
+violated the Clean Air Act because “it . . . failed to show that
+the emission levels achieved by the worst performers using a
+given pollution control device actually predict the range of
+emission levels achieved by the best performers using that
+device.” 479 F.3d at 882. Similarly, EPA provides little
+explanation on how the upper prediction limit can actually
+predict the upper limit EPA expects the best-performing unit
+                               55
+or units to achieve. As Sierra Club pointed out, the upper
+prediction limit’s predictive ability does appear somewhat
+doubtful when it produces a higher MACT floor for an
+incinerator with raw test data ranging from 0.31 to 2.26 than
+for a group of incinerators with raw test data ranging from
+0.31 to 40.32 and a mean of 9.38. See Revised MACT Floor
+Memo Attachment B-8 (Sulfur dioxide emissions test data for
+existing multiple hearth incinerator floor); id. Attachment D-8
+(Sulfur dioxide emissions test data for new multiple hearth
+incinerator floor).      As EPA stated in explaining this
+apparently illogical result, a smaller dataset may have greater
+variability, and thus a higher upper prediction limit. But if the
+upper prediction limit can vary so much depending on the size
+of the dataset, EPA should explain on remand why the upper
+prediction limit is a reasonable estimate of what an incinerator
+would achieve under the worst foreseeable conditions for
+incinerators with smaller datasets.         Put differently, if
+collecting more data has such a significant effect on the upper
+prediction limit, presumably producing a more accurate
+estimate of what that incinerator would “achieve in practice,”
+EPA should explain why the upper prediction limit could still
+be considered accurate given a small dataset.
+
+     While it is true that we “owe particular deference to EPA
+when its rulemakings rest upon matters of scientific and
+statistical judgment within the agency’s sphere of special
+competence and statutory jurisdiction,” American Coke &
+Chemicals Institute v. EPA, 452 F.3d 930, 941 (D.C. Cir.
+2006), EPA must still articulate a “rational connection
+between the facts found and the choice made.” Burlington
+Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962).
+Because we are already remanding the upper prediction limit,
+we encourage EPA to elaborate how the statistical formula it
+uses can predict the upper limit of incinerator emissions. We
+are hesitant to rubber-stamp EPA’s invocation of statistics
+                              56
+without some explanation of the underlying principles or
+reasons why its formulas would produce an accurate result,
+particularly when the “facts found”—the MACT floor
+datasets—demonstrate flaws in the formula.
+
+     We now turn to NACWA’s arguments that EPA failed to
+account for variability in sewage sludge characteristics,
+beginning with NACWA’s argument that the upper prediction
+limit cannot account for this sort of variability. See NACWA
+Br. at 39; EPA Br. at 51 (“EPA’s use of the [upper prediction
+limit] to account for variability also addressed any emissions
+variability due to differences in sludge content.”). Before
+discussing NACWA’s challenges to EPA’s method of
+accounting for variability, however, we take a moment to note
+a distinction NACWA appears to draw in its brief, in which it
+argues that its analyses on the Part 503 data “demonstrate that
+there is significant variability in metals concentrations among
+[publicly-owned treatment works] and within a [publicly
+owned treatment work].” NACWA Br. at 42. As we will
+explain below, we agree with NACWA that under the
+rationale EPA expressed during rulemaking regarding
+variability, EPA should have accounted for variability in
+sewage sludge characteristics within a publicly-owned
+treatment work or better explained why that variability was
+irrelevant. It is unclear, however, whether EPA needed to
+account for variability among publicly-owned treatment
+works.
+
+     First, we agree with NACWA that EPA has not
+adequately explained how the upper prediction limit can
+address variability in sewage sludge characteristics,
+particularly given the context in which it described the upper
+prediction limit in the proposed rule and the Revised MACT
+Floor Memo. EPA explained in the proposed rule and in its
+Revised MACT Floor Memo that “[t]he types of variability
+                               57
+that EPA attempts to account for include operational
+distinctions between and within tests at the same unit.” 75
+Fed. Reg. at 63,269; Revised MACT Floor Memo at 4–5. As
+to existing incinerator MACT floors, EPA stated that “[b]y
+including multiple emissions tests from units with a test
+average in the top 12 percent, EPA can evaluate intra-unit
+variability of emissions tests over time, considering variability
+in control device performance, unit operations, and fuels fired
+during the test. . . . [T]he [upper prediction limit] was used for
+the [sewage sludge incinerator] MACT floor variability
+analysis.” 75 Fed. Reg. at 63,271; Revised MACT Floor
+Memo at 11–12. These statements appear to contradict EPA’s
+implied position in the final rule (and express position on
+petition for review) that the upper prediction limit can account
+for more than intra-unit variability. See 76 Fed. Reg. at
+15,391 (explaining, in response to NACWA’s comments that
+EPA failed to account for variability in sewage sludge
+characteristics, that in addition to collecting emissions
+information from facilities in nine different states, “[w]e have
+also incorporated variability using the [upper prediction
+limit].”); EPA Br. at 51.
+
+     Not only is EPA contradictory on whether the upper
+prediction limit accounts for more than intra-unit variability,
+NACWA’s argument that the underlying dataset must already
+be representative of variability in sewage sludge
+characteristics before applying the upper prediction limit is
+persuasive, at least as applied to variability within a publicly-
+owned treatment work. Assuming that NACWA’s summary
+of monthly average sewage sludge pollutant concentrations in
+its comments is accurate, short-term emissions testing done in
+January when the monthly average lead concentration is
+lowest may not be representative of incinerators’ performance
+in July, when the monthly average lead concentration is
+almost double.        See Joint Appendix 671 (NACWA
+                              58
+Comments). If sewage sludge incinerator emissions increase
+based on sewage sludge pollutant concentrations, then it
+would seem to follow that the average emission levels of
+sewage sludge incinerators in July would be higher than the
+average in January. Cf. Sierra Club, 167 F.3d at 666 (“The
+EPA does not deny that the waste stream reductions the Sierra
+Club calls for would reduce pollution. The less mercury in,
+the less mercury out, and the less chlorinated plastic in, the
+less HCl out.”). And assuming that the standard deviation
+does not change from month-to-month, it would also follow
+that the upper prediction limit, and thus the MACT floor,
+would be higher for a dataset based on July emission testing.
+
+     As with the other aspects of the upper prediction limit,
+however, EPA may be able to explain and clarify on remand
+its position on whether the upper prediction limit can account
+for variability in sewage sludge content. EPA may also be
+able to explain why NACWA is incorrect in asserting that
+EPA needs to base its upper prediction limit on a
+representative dataset. Alternatively, EPA could adopt an
+interpretation of “average emissions limitation achieved by
+the best performing 12 percent of units” that does not require
+EPA to determine what the best-performing units achieve
+under the worst foreseeable conditions.
+
+     Having determined that EPA did not make clear whether
+the upper prediction limit accounts only for intra-unit
+variability, we now turn to NACWA’s remaining and related
+arguments on EPA’s variability analysis. We start first with
+NACWA’s argument that EPA failed to demonstrate that its
+MACT floor dataset represented the best-performing 12
+percent of incinerators because it failed to adequately account
+for variability in sewage sludge characteristics. NACWA
+maintains that sewage sludge characteristics can vary not only
+by geographic region, but also by seasons, differences in
+                             59
+wastewater treatment technologies, and the sanitary wastes
+received from the communities served by publicly-owned
+treatment works. See Joint Appendix 671 (summarizing
+month-to-month variability in sewage sludge pollutant
+concentrations based on Part 503 data); id. at 1075
+(summarizing the minimum, maximum, median, and 25th and
+75th percentile sewage sludge pollutant concentration for
+several different publicly-owned treatment works operating
+sewage sludge incinerators). Moreover, NACWA criticizes
+EPA for not factoring sewage sludge variability into its
+MACT floor methodology, noting that EPA has had twenty
+years of data on sewage sludge from the Part 503 regulations,
+which require regulated entities to report information about
+pollutant concentrations to EPA. See 40 C.F.R. § 503.48.
+
+     NACWA argues that this limited testing is problematic,
+implying that if EPA used a limited dataset that is not
+representative of the full range of conditions experienced by
+sewage sludge incinerators, and set MACT floors on that
+dataset without accounting for the significant variation in
+sewage sludge, it could underestimate the emissions limitation
+achieved by the best-performing incinerators. For example, if
+the concentration of a pollutant in sewage sludge is lower in
+the winter but higher in the summer, basing MACT floors
+only on a dataset of emission tests taken during the winter
+would underestimate the emissions limitation achieved under
+the worst foreseeable conditions. Relatedly, if sewage sludge
+pollutant concentrations are naturally higher at a sewage
+sludge incinerator in one region versus another incinerator in
+a different region, NACWA appears to assert that EPA must
+account for these variations in its dataset.
+
+     EPA, in addition to responding that the upper prediction
+limit accounts for variability, asserts that NACWA “fails to
+explain how the alleged variations in the metals content in
+                               60
+sludge affects the emissions performance of the best
+performing units.” Instead, EPA contends, “NACWA simply
+points to data submitted under the [Clean Water Act] Part 503
+regulations without demonstrating whether and how the
+pollutant content of sludge affects emissions.” EPA Br. at 51.
+EPA further explains that “air pollution control devices
+generally used by the best performing sewage sludge
+incinerators result in significant pollutant reductions between
+the incoming sludge feed and outgoing emissions,” and thus
+that “any differences in pollutant concentrations in the sludge
+feed should have minimal impact on emissions because the
+pollutants contained in the sludge feed itself are removed by
+air pollution control devices.” Id.
+
+     EPA did not cite to the record in its brief for these factual
+assertions. Nor are these assertions in the final rule’s section
+responding to NACWA’s comments on this point, in which
+EPA responded not that there was a low correlation between
+emissions and sewage sludge pollutant concentrations, but
+instead that “[w]e requested additional information in the
+[notice of proposed rulemaking], but did not receive adequate
+sampling data from the best-performing sources.” 76 Fed.
+Reg. at 15,391. Upon review of the record, the only place we
+could find support for EPA’s factual assertion was in its letter
+denying NACWA’s petition for reconsideration. There, EPA
+explained that it had collected sludge content data at the same
+time as the emissions tests, and that because it found a “high
+reduction in pollutant levels between incoming sludge and
+emissions due to add-on controls, the variation in the lead
+content in the sludge . . . did not affect the emissions
+performance of those sources.” Joint Appendix 1095 (Letter
+Denying NACWA’s Petition for Reconsideration).
+
+    But even assuming that EPA intended to rely on this
+assertion in defending its rulemaking on the current petition
+                               61
+for review, it is not clear to us that a rationale offered for the
+first time in a petition for reconsideration is sufficient to be a
+ground upon which we can judge the propriety of EPA’s
+action. We could find no case discussing the propriety of
+judging an agency’s action based on a statement made for the
+first time in a denial of a petition for reconsideration, but it
+seems to be a weak basis for upholding agency action. This is
+particularly true when a petitioner has raised an objection
+during the comment period that gave an agency the
+opportunity to respond to the objection before the denial of
+reconsideration. See 76 Fed. Reg. at 15,391 (summarizing
+several statements from commenters, including that
+“emissions from [sewage sludge incinerators] are affected not
+just by control technology but also by other factors including
+the contents of the sludge that a unit is burning,” and that “the
+proposed standards does [sic] not take into account that
+[mercury, cadmium, lead, hydrogen chloride and sulfur
+dioxide] emissions are a function of the sludge content of
+[mercury, cadmium, lead], chlorine, and sulfur”). A purpose
+of notice-and-comment provisions under the APA (and
+presumably of the more elaborate procedural safeguards in §
+307 of the Clean Air Act) is “to ensure that affected parties
+have an opportunity to participate in and influence agency
+decision making at an early stage, when the agency is likely to
+give real consideration to alternative ideas.” New Jersey,
+Department of Environmental Protection v. EPA, 626 F.2d
+1038, 1049 (D.C. Cir. 1980). By waiting until the petition for
+reconsideration to respond to a comment that had been raised
+during the comment period, EPA deprives the affected party
+of the opportunity to respond to EPA’s rationale and influence
+agency action at an earlier stage. Thus, just as we will not
+entertain an argument raised for the first time in a reply brief
+to prevent sandbagging of appellees and respondents, we are
+reluctant to affirm based on a factual assertion raised for the
+first time in an agency’s denial of a petition for
+                             62
+reconsideration when the agency had an opportunity to raise
+that point at an earlier point in the rulemaking process. See
+Mohamad v. Rajoub, 634 F.3d 604, 608 (D.C. Cir. 2011). On
+remand, however, EPA may elaborate upon and explain the
+data that led it to conclude a low correlation between sewage
+sludge concentrations and emissions, using that conclusion to
+support the reasonableness of its estimate if it finds that
+approach appropriate.
+
+     Because EPA did not provide evidence during
+rulemaking that there was a low correlation between sewage
+sludge pollutants and actual emissions, we address EPA’s
+argument that NACWA did not establish a correlation
+between sewage sludge pollutant contents and emissions.
+EPA is mistaken in putting the burden of establishing this
+correlation on NACWA. While EPA could arguably have
+interpreted § 129(a)(2) in a way that does not require it to
+account for variability, in which case NACWA would need to
+argue why EPA’s interpretation is not “based on a permissible
+construction of the statute,” Chevron, 467 U.S. at 843,
+having decided to account for variability, and having decided
+to estimate that variability, EPA bears the burden of
+demonstrating with substantial evidence that its estimate is
+reasonable.     See Northeast Maryland Waste Disposal
+Authority, 358 F.3d at 954. If EPA is arguing its estimated
+MACT floors are reasonable based on the assumption that its
+limited dataset allows it to account for the worst foreseeable
+conditions because sewage sludge variability will have a
+negligible effect on emissions, EPA, and not NACWA, bears
+the burden of demonstrating that this assumption is correct.
+
+    EPA’s related argument that NACWA “failed to
+demonstrate why data from more units across more states
+during different times of the year would have led to a better
+determination of the best performers, why the representative
+                              63
+data that EPA did collect prevented EPA from reasonably
+determining the best performers, or how consideration of
+[Clean Water Act] Part 503 data or stack test data would have
+changed the results” suffers from similar flaws. EPA Br. at
+52. Although EPA did not have to consider emissions stack
+test data that commenters submitted without appropriate
+documentation, see supra at 42, we disagree with EPA that
+NACWA has the burden of showing why more data would
+better determine best performers. It seems self-evident that
+more data from a broader span of time would have helped
+support (or defeat) EPA’s assumptions about the extent to
+which sewage sludge variability affects emission levels, and if
+EPA wanted to justify a limited dataset from a smaller
+timespan as being representative, it, and not NACWA, bears
+the burden of making that demonstration. Moreover, EPA’s
+argument that NACWA did not demonstrate how more data
+would have prevented EPA from reasonably determining the
+best performers is unavailing. The representative data EPA
+collected did not prevent or assist it from determining the best
+performers, as EPA had already determined the best-
+performing incinerators based on control technology with no
+additional input from NACWA required. In fact, calling the
+data “representative” implies that EPA believes it targeted the
+best performers even regardless of what the data actually
+showed.
+
+     While we agree with NACWA that EPA may have been
+unduly dismissive of the fact that there is significant sewage
+sludge variability within a publicly-owned treatment work,
+NACWA’s claim that EPA must account for variability
+among publicly-owned treatment works raises statutory issues
+beyond the scope of the issues NACWA raised in its petition
+for review. Specifically, by asserting that EPA must account
+for variability among publicly-owned treatment works
+because the publicly-owned treatment works have limited
+                               64
+control over the pollutant concentration in their sewage
+sludge, NACWA appears to be urging a different
+interpretation of the “average emissions limitation achieved
+by the best performing 12 percent of units” than the one EPA
+has adopted.
+
+     In this rulemaking EPA explained that it “is using lowest
+emissions limitation as the measure of best performance.” 76
+Fed. Reg. at 15,389. Thus, by arguing that EPA must account
+for variability in sewage sludge content over which a
+publicly-owned treatment work has no control, NACWA is
+essentially requesting that EPA adopt a different
+interpretation of the phrase “average emissions limitation
+achieved by the best performing 12 percent of units.” For
+example, if an incinerator, through bad luck, receives 100
+units of pollutants in its sewage sludge, and manages to emit
+only 50 units of pollutants, it could be said to be a better
+performer than an incinerator that receives, through good
+luck, only 30 units but emits 25 units of pollutants. But under
+EPA’s interpretation of “best performing,” the reduction in
+emissions from uncontrolled conditions to controlled
+conditions is irrelevant—the best-performing incinerators are
+those that emit the lowest levels of pollutants, and so the
+incinerator with an emission level of 25 would be the better
+performer. Where EPA explains that a best performer is
+determined by its emission level, apparently in absolute terms,
+the logical consequence of NACWA’s argument is that the
+“best performing” incinerators must be those that are the most
+effective at removing pollutants from incinerated waste before
+emitting pollutants from the stack. In fact, NACWA
+expressly states its desire for a different interpretation in its
+comments on the proposed rule, explaining that “[w]ithout the
+use of long-term data to support the level of emission
+standards, this variability makes numeric technology-based
+limits impractical and infeasible and should provide EPA
+                               65
+strong motivation to look to other regulatory options.” Joint
+Appendix 671. Relatedly, NACWA’s comments also urged
+EPA to apply a “variability factor,” based on the variability in
+sewage sludge characteristics, to the stack test data.
+
+     While it may be true that a publicly-owned treatment
+work’s obligation to manage all sewage that enters into the
+sanitary sewer system distinguishes it from commercial or
+industrial incinerators that have more control over what waste
+they combust, this fact does not present a unique scenario in
+setting MACT floors. As a concurring opinion noted in the
+Brick MACT case, there seems to be a paradox in § 112’s
+directions on setting MACT standards (which is almost
+identically worded to § 129). See 479 F.3d at 884–85
+(Williams, J., concurring). Specifically, the statute “calls for
+emissions standards that are the most stringent that EPA finds
+to be ‘achievable,’ taking into account a variety of factors
+including cost,” while also requiring that “the standards ‘shall
+not be less stringent’ than the emission control that have been
+‘achieved in practice.’” Id. at 884 (internal citations omitted).
+Thus, implicit in the statute’s requirements is that the standard
+for what is achievable will be more stringent than the floors
+that are based on past achievement. Id. But if meeting the
+floors is prohibitively costly for an incinerator “because of
+conditions specific to those plants,” for example, because “the
+required technology cannot, given local inputs whose use is
+essential, achieve the floor,” then it would seem that what
+some plants have achieved is not achievable for other plants.
+As applied here, where incinerators have limited control over
+sewage sludge that can vary significantly in its pollutant
+concentrations, this criticism of the MACT standards seems
+especially pointed.
+
+     Even if this were true, however, NACWA has not argued
+that § 129 requires EPA to account for variability in sewage
+                              66
+sludge inputs among publicly-owned treatment works, or that
+EPA’s interpretation of the statute as basing “best performers”
+on the “lowest emission levels” is impermissible. Nor has
+NACWA argued that EPA acted arbitrarily or capriciously by
+not basing MACT floors on a more “sewage sludge-diverse”
+dataset or by not applying a variability factor to account for
+variations in sewage sludge characteristics.         Moreover,
+NACWA’s urging that EPA adopt a variability factor may put
+EPA in conflict with its own interpretation of what “best
+performing” means. If EPA applies a variability factor, based
+on the heaviest sewage sludge pollutant concentrations
+experienced by publicly-owned treatment works, to an
+incinerator for which it has already estimated emission levels
+under the worst foreseeable circumstances, the MACT floor
+could no longer be said to reflect what that incinerator
+“achieved.” Instead, applying a variability factor would be
+akin to EPA’s approach in other cases to set MACT floors
+based on the emissions of the worst performer using MACT
+technology, which EPA attempted to justify “by claiming that
+floors must be achievable by all sources using MACT
+technology.” Cement Kiln, 255 F.3d at 861. While we have
+recognized the paradox in requiring all incinerators to comply
+with a floor based on what some incinerators achieved in the
+past but which may be unachievable to other incinerators, we
+have roundly rejected an interpretation of § 129 that would
+require EPA to set the MACT floors at levels achievable by
+all sources. See Brick MACT, 479 F.3d at 880 (“‘EPA may
+not deviate from section 7412(d)(3)’s requirement that floors
+reflect what the best performers actually achieve by claiming
+that floors must be achievable by all sources using MACT
+technology.’”) (quoting Cement Kiln, 255 F.3d at 861).
+
+    But while we conclude that NACWA has not argued a
+legal basis for why EPA should account for variability in
+sewage sludge characteristics among publicly-owned
+                                67
+treatment works, we are somewhat confused by EPA’s
+defense of its variability analysis in the final rule, particularly
+given its statement that it is using the “lowest emissions
+limitation as the measure of best performance.” 76 Fed. Reg.
+at 15,389. In the proposed rule, EPA made no mention of
+deriving a dataset representative of variability among
+publicly-owned treatment works. See 75 Fed. Reg. at 63,269–
+72. But in the final rule, EPA responded to comments that
+EPA did not adequately account for variability by explaining
+that it had “gathered [emissions information] from nine
+different facilities located in nine different states” and that the
+facilities surveyed, when “combined together,” “represent
+sufficient variations in regions, climates and populations that
+adequately incorporates variability in wastewater treatment
+systems across the U.S.”            76 Fed. Reg. at 15,389.
+“[V]ariations in regions, climates and populations,” however,
+seem irrelevant in the hunt for the lowest emitting
+incinerators. See id. If EPA did consider sewage sludge
+incinerators to be a unique type of incinerator and did seek to
+develop a dataset that was geographically and
+demographically diverse, then it should reconcile that goal
+with its statement that the best-performing units are the lowest
+emitting. And if EPA does seek to develop a dataset
+representative of variability among sewage sludge
+incinerators, it needs to address NACWA’s contentions that
+some of its MACT floors are not actually geographically
+representative. See NACWA Br. at 33–34 (demonstrating
+that fluidized bed incinerator MACT floors were based only
+on publicly-owned treatment works in Michigan, Minnesota,
+Pennsylvania, and North Carolina).
+
+     To sum, while we determine that EPA’s use of the upper
+prediction limit may be lawful, we are remanding this portion
+of its rulemaking for further explanation on the issues of how
+the upper prediction limit represents the “average emissions
+                               68
+limitation achieved,” how the upper prediction limit is a
+reasonable method of predicting the upper limit of the best-
+performing incinerators, and how the upper prediction limit
+accounts for variability in incinerator performance when it is
+not based on a dataset representative of the best-performing
+incinerators under the worst-performing conditions.         We
+further conclude that NACWA’s arguments that EPA must
+consider variability in sewage sludge characteristics among
+publicly-owned treatment works are meritless because
+NACWA has not argued any legal basis invoking either the
+statutory language or arbitrary-and-capricious review why
+EPA is compelled to account for that sort of variability. But
+because EPA’s discussion of its efforts to create a
+representative dataset seems in conflict with its assertion that
+the best-performing incinerators are those with the lowest
+emission levels, we also remand for EPA to reconcile this
+point.
+
+3. Adequacy of the MACT floor dataset
+
+     We now address Sierra Club’s and NACWA’s argument
+that EPA unlawfully and arbitrarily set certain MACT floors
+on datasets comprising less than 12 percent of the population
+of sewage sludge incinerators. In its rulemaking, EPA
+candidly admitted its data collection efforts yielded a dataset
+that comprised less than 12 percent of existing incinerators for
+certain pollutants. See 75 Fed. Reg. at 63,270 (“EPA does not
+have actual emissions test data for the population of units that
+represent the best-performing 12 percent . . . .”). EPA
+nevertheless concluded that the lack of data for at least 12
+percent of incinerators did not prevent it from setting MACT
+floors, as it had “conducted a statistical analysis to verify the
+minimum number of observations needed to accurately
+characterize the distribution of the 12 percent of units in each
+category,” and had determined that the data it used “m[et] or
+                              69
+exceed[ed] the number of observations necessary to provide
+an accurate representation of that data.” 76 Fed. Reg. at
+15,387. EPA’s only explanation for why its use of this
+technique was appropriate was that “emission data are
+normally distributed [i.e., on a bell curve], or can be
+transformed to be normally distributed.” Revised MACT
+Floor Memo at 8.
+
+     On petition for review, NACWA argues that EPA’s
+failure to collect sufficient data violates § 129, which, unlike
+§ 112, requires EPA to set the MACT floor on the top 12
+percent of performing units without the qualifier “for which
+the Administrator has emissions information.” Compare 42
+U.S.C. § 7429(a)(2), with id. § 7412(d). Thus, NACWA
+asserts, EPA may not extrapolate information about the “best
+performing units” from less than 12 percent of such units in
+light of Congress’s unqualified directive on setting solid
+waste incinerator MACT floors.
+
+     NACWA is incorrect that EPA’s decision to set MACT
+floors on less than 12 percent of data is per se unlawful. In
+concluding that the law allows EPA to estimate the “average
+emissions limitation achieved by the best performing 12
+percent of units,” we have not determined any requirement
+that EPA have at least a representative sample of 12 percent
+of the population of incinerators. Instead, we have explained
+that the existing incinerator MACT floor standard “does not
+by its plain meaning exclude estimation either by sampling or
+by some other reliable means.” Sierra Club, 167 F.3d at 662
+(emphasis added). Thus, the fact that EPA does not possess
+data directly collected from 12 percent of incinerators does
+not make its estimate inherently unlawful. Cf. Mossville
+Environmental Action Now, 370 F.3d at 1241 (allowing EPA
+to use one data point—EPA’s preexisting emission
+standard—to establish an existing source MACT floor,
+                             70
+because the preexisting standard was “just barely satisfied by
+the plant with the lowest overall long term [emission of the
+pollutant at issue]”).
+
+     While NACWA simply asserts EPA cannot lawfully set
+existing incinerator MACT floors on fewer than 12 percent of
+incinerators, Sierra Club goes further and argues that EPA
+acted arbitrarily and capriciously in setting MACT floors
+representative of the best performing 12 percent on less than
+12 percent of data. Sierra Club contends that EPA fails to
+demonstrate or even claim that “emissions from the units for
+which it has data are representative of emissions from the
+ones for which it lacks data,” repeating its argument that
+incinerators for which EPA lacks data may be achieving
+lower emission levels than those for which it has data. Sierra
+Club. Br. at 29. This appears to be the equivalent of arguing
+that EPA cannot compound its error in estimating the best
+performing 12 percent by assuming that an imperfect dataset
+can represent other potentially superior incinerators that
+should be included in the top 12 percent.
+
+    The point that errors in one estimate will be further
+compounded by another estimate is a fair one. If the MACT
+technology approach to selecting best performing incinerators
+was 75 percent accurate, and EPA’s statistical equation
+represented a larger sample size with 80 percent accuracy,
+each estimate, alone, may be sufficiently reasonable. But if
+EPA combined the two and applied an 80 percent accurate
+formula to a 75 percent accurate estimate of best performers
+based on technology, the underlying result may be too
+imprecise to be considered reasonable. And this does not even
+account for the fact that EPA’s MACT floor methodology
+layers another estimate—the upper prediction limit—to
+account for variability.
+                              71
+     Sierra Club is also correct that EPA has “base[d]
+estimates of the performance of one group of units on the
+performance of a different group without demonstrating that
+this approach yields accurate estimates.” Sierra Club Br. at
+29. EPA did so in this case by using a statistical formula for
+determining the minimum number of observations necessary
+to adequately characterize the population of the best
+performing 12 percent of units, which is as follows:
+
+
+                                 1
+
+Revised MACT Floor Memo at 8. In this formula, n
+represents the minimum number of observations required, N
+represents the population size, Z represents a value associated
+with a specific confidence level, E represents the level of
+precision or error tolerance, p represents the degree of
+variability in observations, and q represents one minus p. We
+note that none of the variables in this formula are fixed or
+based on the dataset, aside from N, the population size,
+leaving EPA to select the value for most variables; in this
+case, a 90% confidence level, a precision level of 20%, and a
+degree of variability of 0.5. Revised Mact Floor Memo at 8–
+9.
+
+     The flexibility in defining variables in this formula is of
+some concern, as the reasonableness of EPA’s statistical
+extrapolation depends on variables for which EPA sets values.
+Our confidence in this statistical methodology is hardly
+heartened by the fact that the minimum number of
+observations EPA calculated (11 for fluidized bed incinerators
+and 14 for multiple hearth incinerators), were both just one
+shy of the number of observations EPA actually collected for
+the pollutant with the least amount of test data (12 for
+fluidized bed incinerators and 15 for multiple hearth
+                                72
+incinerators). Revised MACT Floor Memo at 9. To illustrate
+how much the result can vary, had EPA chosen a precision
+level of 15% instead of 20%, the minimum number of
+observations required for fluidized bed incinerators would
+have increased from 11 to 14. Changing the specific
+confidence level from 90% to 95%3 increases the minimum
+number of observations from 11 to 13.4 To EPA’s credit, it
+chose a value for variability that would maximize the number
+of observations required, and explained it chose that value to
+overestimate the number of minimum observations needed.
+Revised MACT Floor Memo at 8–9. But for the rest of the
+variables, EPA selected values which could have been
+determinative of the validity of its dataset without explaining
+why it selected those numbers. That EPA could have
+determined the statutory sufficiency of its dataset by choosing
+values does not mean that EPA did so, but at a minimum EPA
+must explain why it chose the values it did. “[A]n agency
+may not pluck a number out of thin air when it promulgates
+rules in which percentage terms play a critical role.” WJG
+Telephone Co. v. FCC, 675 F.2d 386, 388–89 (D.C. Cir.
+1982).
+
+
+
+3
+  In entering values into EPA’s statistical equation, we assumed a
+Z-score for a 95% confidence level as 1.960.                    See
+http://people.richland.edu/james/lecture/m170/ch08-int.html
+(noting the 90% confidence level Z-score is 1.645, the same used
+by EPA to calculate the minimum number of observations required
+in its MACT floor analysis); see Revised MACT Floor Memo at 8.
+4
+  As in Sierra Club, we note that “[o]ur observations are based on
+our own analysis of EPA’s data, and we may have omitted some
+crucial step in the process.” 167 F.3d at 664. But as we also noted
+in Sierra Club, and will explain in more detail, this “exercise
+highlights the need for additional explanation even if our
+calculation is wrong.” Id.
+                               73
+      In addition to not explaining why it chose the values it
+did for its statistical equation, EPA has not clarified how this
+statistical method can allow a limited dataset to approximate a
+larger portion of the population. In laying out the equation,
+EPA cited a study titled “Sample Size Requirements for
+Studying Small Populations in Gerontology Research” from
+the journal “Health Services Outcomes Research
+Methodologies.” See Revised MACT Floor Memo at 8, 18.
+But EPA provided no justification for how this equation could
+allow it to extrapolate the best performing 12 percent from an
+insufficient dataset, other than to state, “Because the emission
+data are normally distributed, or can be transformed to
+normally distributed . . . a statistical technique can be
+employed to determine the minimum number of observations
+needed to accurately characterize the distribution of the best
+performing 12 percent of units.” Revised MACT Floor Memo
+at 8. As we explained with the upper prediction limit, while it
+is true that we “owe particular deference to EPA when its
+rulemakings rest upon matters of scientific and statistical
+judgment within the agency’s sphere of special competence
+and statutory jurisdiction,” EPA must still articulate a
+“rational connection between the facts found and the choice
+made.” Burlington Truck Lines, 371 U.S. at 168; American
+Coke & Chemicals Institute, 452 F.3d at 941. If EPA chooses
+to use statistics as a shortcut for meeting the Congressional
+mandate to set MACT floors, it must justify its statistical
+analysis with greater detail than “a statistical technique can be
+employed” when “data [are] normally distributed.” Although
+EPA does not need to fill the Federal Register with treatises
+on statistics, it must specify in greater detail why the equation
+it is using can accomplish the purpose for which EPA is using
+the equation. This is not only required as part of EPA’s
+obligation to demonstrate the reasonableness of its estimates
+with substantial evidence, but also to prevent an agency from
+                              74
+using opaque statistical justification to cover a deficiency in
+its dataset.
+
+     As with the upper prediction limit, EPA’s use of this
+statistical technique is not unlawful as long as EPA can
+demonstrate with substantial evidence why it reasonably
+estimates the performance of incinerators for which it has no
+data. Because this demonstration requires more detail than
+EPA gave here, we remand this portion of the rulemaking for
+further explanation on why EPA can use this formula to
+estimate gaps in its data and an explanation of why EPA
+chose the variables it did.
+
+4. Incorporating non-detect data
+
+     Sierra Club challenges EPA’s method of accounting for
+certain emissions data that was not quality-assured. When
+collecting data on certain pollutants from sewage sludge
+incinerators, EPA encountered “non-detect data”—i.e.,
+emission levels too low to register in an emissions test. See
+Revised MACT Floor Memo at 14–15. In the rulemaking,
+EPA explained that it would use a two-part test based on the
+method detection level, which is the “minimum concentration
+of a pollutant that can be measured with confidence that the
+level is greater than zero.” EPA Br. at 61 n.20; Revised
+MACT Floor Memo at 14–15.
+
+    Because the method detection level varies depending on
+several factors, EPA first established a value it termed the
+“representative method detection level,” which it defined as
+“the highest test-specific method detection level reported in a
+data set that is also equal to or less than the average emission
+calculated for the data set.” Revised MACT Floor Memo at
+14–15. In other words, if a specific emissions test registered a
+non-detect at a value higher than the average emission level,
+                             75
+EPA excluded it as a candidate for the representative method
+detection level to “minimiz[e] the effect of a test[] with an
+inordinately high method detection level.” Id.
+
+     The second step in incorporating non-detect data was to
+multiply the representative method detection level by three
+and compare it to the calculated floor emission limit for that
+pollutant. Id. EPA’s rationale for choosing to multiply the
+representative method detection level by three, rather than
+using the method detection level itself, was to reduce the
+effect of measurement imprecision. EPA explained that at
+values around the method detection level, measurement
+imprecision is around 40 to 50 percent. Id. at 14. As values
+increase above the method detection level, the testing
+becomes more accurate, with around 10 to 15 percent
+measurement imprecision at three times the method detection
+level. Id.
+
+     If the calculated emission limit was greater than the
+representative method detection level times three, EPA
+concluded that its calculation adequately addressed
+measurement variability, and thus would set the calculated
+emission limit as the MACT floor. Id. If the calculated
+emission level was less than the representative method
+detection level, EPA concluded that its calculation did not
+adequately account for measurement variability, and the
+representative method detection level would become the
+MACT floor. Id. EPA used this method to set the four out of
+the forty MACT floors it established for sewage sludge
+incinerators. See Revised MACT Floor Memo at 19.
+
+    Sierra Club argues that EPA’s method of incorporating
+non-detect data is unlawful because it does not reflect what
+the best performers actually achieve, as required by §
+129(a)(2). See Brick MACT, 479 F.3d at 880 (interpreting §
+                              76
+112). Sierra Club also contends that the three times
+representative method detection level value is not a
+reasonable estimate of the emission levels achieved by an
+incinerator when a test produces non-detect data.
+
+     We agree with EPA that its method of incorporating non-
+detect data is reasonable, and not arbitrary or capricious. We
+do not expect EPA to perform the impossible, see Cement
+Kiln, 255 F.3d at 871, and that includes recording emission
+levels that are not accurately detectable with its current
+emissions testing technology. As EPA explains the issue,
+emission levels from zero up to some value above the method
+detection level cannot be stated with accuracy. Because any
+emission level EPA selects at that point will necessarily be an
+estimate, EPA adopted a method to account for measurement
+imprecision that has a rational basis in the correlation between
+increased emission values and increased testing precision.
+
+     Although Sierra Club argued in its comments that EPA
+should have at the very least assumed that non-detect data was
+at the detection limit, it did not offer any evidence that EPA
+was incorrect in explaining why, given the measurement
+imprecision at the method detection level, a non-detect test
+run would always yield emissions data below the method
+detection level. Because we owe significant deference to
+EPA in areas of its technical expertise, we reject Sierra Club’s
+challenge to EPA’s method of addressing non-detect data.
+                                77
+C. SETTING   CERTAIN  NEW   MULTIPLE HEARTH
+   INCINERATOR MACT FLOORS AT EXISTING MULTIPLE
+   HEARTH INCINERATOR MACT FLOOR EMISSION
+   LEVELS
+
+     Although EPA had explained in its proposed rule that it
+was proposing new incinerator MACT floors for all sewage
+sludge incinerators based only on fluidized bed incinerator
+emission data, in the final rule it set separate new incinerator
+MACT floors for both subcategories in response to industry
+commenters. See 76 Fed. Reg. at 15,384. When EPA applied
+the upper prediction limit to the best performing multiple
+hearth incinerator for each pollutant, however, it yielded new
+multiple hearth incinerator MACT floors for hydrogen
+chloride and sulfur dioxide that were higher than than the
+existing multiple hearth incinerator MACT floors. See 76
+Fed. Reg. at 15,388–89. Reasoning that new incinerator
+MACT floors could not be less stringent than existing
+incinerator MACT floors, EPA set the new multiple hearth
+incinerator MACT floors for hydrogen chloride and sulfur
+dioxide at the existing multiple hearth incinerator MACT
+floors. See id.
+
+     Sierra Club challenges this decision, arguing, among
+other things, that this decision does not at all attempt to satisfy
+§ 129(a)(2)’s requirement that the new incinerator MACT
+floor be set at the level the best-controlled units actually
+achieved. But because we are remanding the portions of
+EPA’s rulemaking establishing the upper prediction limit, in
+part to further explain why the upper prediction limit is a
+reasonable estimate given that it can fluctuate so much
+depending on variability, we decline to consider Sierra Club’s
+challenge at this time.
+                              78
+D. BEYOND-THE-FLOOR STANDARDS
+
+     In the final rule, EPA explained that it chose not to adopt
+beyond-the-floor standards for existing incinerators, primarily
+based on its determination that additional control technologies
+would not be cost-effective, and mentioned nothing about
+setting beyond-the-floor standards for new incinerators. 76
+Fed. Reg. at 15,394.         Sierra Club challenges EPA’s
+determination not to set beyond-the-floor standards for
+existing units based on cost-effectiveness considerations.
+Sierra Club also challenges EPA’s decision not to set beyond-
+the-floor standards for new multiple hearth incinerators even
+though it provided no comment on this issue, explaining that
+because EPA did not adopt new multiple hearth incinerators
+MACT floors until the final rule it was impracticable to do so.
+See 75 Fed. Reg. at 63,272 (deciding to set all new sewage
+sludge incinerator MACT floors at the level of the best-
+performing fluidized bed incinerators); 42 U.S.C. §
+7607(d)(7)(B).
+
+1. Deciding not to set beyond-the-floor standards for
+   existing units
+
+     In challenging EPA’s decision not to set beyond-the-floor
+standards for existing units, Sierra Club argues that §
+129(a)(2) “unambiguously requires the ‘maximum’ degree of
+reduction that can be achieved considering cost and other
+statutory factors.” Sierra Club Br. at 36. Allowing EPA to
+determine whether a cost-per-ton reduction is appropriate,
+Sierra Club asserts, would give EPA greater discretion than §
+129 allows, as Congress requires more from EPA in § 129
+than to undertake a cost-benefit analysis. But in arguing that
+EPA abused its discretion in determining the maximum
+degree of reduction in emissions that is achievable for sewage
+sludge incinerators, “taking into consideration the cost of
+                               79
+achieving such emission reduction,” Sierra Club must clear a
+high bar, as we are at our most deferential when an agency is
+“making predictions, within its area of special expertise, at the
+frontiers of science.” See Husqvarna AB v. EPA, 254 F.3d
+195, 199 (D.C. Cir. 2001) (quoting Baltimore Gas & Electric
+Co. v. NRDC, 462 U.S. 87, 103 (1983)).
+
+    EPA argues that § 129(a)(2) does not require it to
+establish a beyond-the-floor standard regardless of costs,
+explaining that we have upheld a similar cost-effectiveness
+analysis in the past based on a similarly-worded statute. See
+Husqvarna, 254 F.3d at 200 (requiring EPA to promulgate
+standards that “shall achieve the greatest degree of emission
+reduction achievable through the application of technology
+which [EPA] determines will be available for the engines or
+vehicles to which such standards apply, giving appropriate
+consideration to the cost of applying such technology within
+the period of time available to manufacturers and to noise,
+energy, and safety factors associated with the application of
+such technology”) (quoting 42 U.S.C. § 7547(a)(3)). We
+agree. In Husqvarna, we explained that because the similarly
+worded statute did not “mandate a specific method of cost
+analysis, we find reasonable the EPA’s choice to consider
+costs on the per ton of emissions removed basis.” Id. (citing
+65 Fed. Reg. 24,300). This applies equally here to EPA’s
+decision to consider costs on the per pound of mercury
+emissions removed basis.
+
+     Sierra Club also asserts that EPA’s cost-effectiveness
+analysis is arbitrary and capricious because EPA only
+considered the cost of proposed beyond-the-floor technology
+options in reductions of mercury, without also considering the
+benefit that these proposed technology options would have in
+reducing other pollutants. But in the proposed rule, EPA
+estimated the emission reductions to both dioxins and
+                              80
+mercury from different control technology options, attributing
+the cost solely to mercury because “99.9 percent of the
+emissions reduction [from applying beyond-the-floor
+technologies] is associated with [mercury].” 75 Fed. Reg. at
+63,277. In the final rule, EPA evaluated adding a fabric filter
+in combination with the beyond-the-floor technologies it
+discussed in its proposed rule, and again attributed reductions
+solely to mercury. 76 Fed. Reg. at 15,393–94. Although EPA
+did not explain in the final rule why it did not consider the
+cost in terms of pounds removed of other pollutants, its failure
+to do so was not arbitrary and capricious, particularly given
+that Congress gave EPA broad discretion in considering
+whether to go beyond-the-floor. See 42 U.S.C. § 7429(a)(2).
+
+     Finally, Sierra Club argues that EPA violated § 129
+because it did not consider “methods and technologies for
+removal or destruction of pollutants before . . . combustion”
+as required by § 129(a)(3). As evidence that pre-combustion
+methods can significantly reduce emission levels, Sierra Club
+again cites Palo Alto’s comments in which the city described
+its source control program.          This program involved
+“assist[ing] in authoring California legislation that eliminated
+mercury in thermometers, certain switches, and novelty
+items”; “requir[ing] amalgam separators at dental facilities”;
+and operating “an ongoing drop-off program for all types of
+mercury-containing equipment.” Joint Appendix 628–29
+(Palo Alto Comments).
+
+    EPA responds that § 129 “does not authorize EPA to
+regulate the sources of sewage sludge under the [Clean Air
+Act], and no commenter cited any authority to the contrary,”
+which was the same position it explained to commenters.
+EPA Br. at 73; see Joint Appendix 1011. Because § 129(a)(3)
+is ambiguous as to the extent of pre-combustion emission
+reduction methods EPA should consider, and because Palo
+                              81
+Alto’s program goes far beyond the scope of activities that
+occur at publicly-owned treatment works and their sewage
+sludge incinerators, we uphold EPA’s decision not to consider
+source control in its beyond-the-floor analysis as a reasonable
+interpretation of § 129.
+
+2. Deciding not to set beyond-the-floor standards for new
+   multiple hearth incinerators
+
+     EPA asserts that Sierra Club has waived the issue of
+beyond-the-floor standards for new multiple hearth
+incinerators by failing to comment on this issue. We agree.
+The Clean Air Act’s judicial review provision limits judicial
+review to objections “raised with reasonable specificity
+during the period for public comment.” 42 U.S.C. §
+7607(d)(7)(B). If it was “impracticable to raise such
+objection within such time” and the “objection is of central
+relevance to the outcome of the rule,” an objecting party may
+petition for reconsideration and we may review a denial of
+that petition. 42 U.S.C. § 7607(d)(7)(B). If a petitioner has
+not satisfied 42 U.S.C. § 7607(d)(7)(B)’s exhaustion
+requirements in raising its objections before EPA, we do not
+have jurisdiction to hear that objection on a petition for
+review. Portland Cement Ass’n v. EPA, 665 F.3d 177, 185
+(D.C. Cir. 2011).
+
+     In promulgating the sewage sludge incinerator rule, EPA
+explained in the proposed rulemaking that while it was
+proposing that all new incinerator MACT floors be based on
+data from the best-performing fluidized bed incinerator, it was
+“aware that owners and operators with modified [multiple
+hearth] units may have concerns regarding meeting the new
+source limits.” 75 Fed. Reg. at 63,272. In light of that, EPA
+“request[ed] comment on th[e] proposed approach,” even
+providing a proposal of potential MACT floor emission limits
+                              82
+“[t]o assist commenters with their evaluation of the proposal.”
+Id.
+
+     EPA’s request for comment and proposed new multiple
+hearth incinerator MACT floors put Sierra Club on notice that
+EPA was seriously considering deviating from its proposed
+new incinerator MACT floors for new multiple hearth
+incinerators. Although the potential MACT standards for new
+multiple hearth incinerators were more stringent than the
+MACT standards EPA ultimately adopted, Sierra Club had
+EPA’s MACT floor dataset, which included raw data from
+emissions test and a list of the control devices used by the
+units EPA considered the best performing. Compare 75 Fed.
+Reg. at 63,272 (tabulating proposed new multiple hearth
+incinerator MACT standards), with 76 Fed. Reg. at 15,388–89
+(tabulating final new multiple hearth incinerator MACT
+standards); see Joint Appendix 607 (Sierra Club comments
+citing EPA’s MACT floor analysis and commenting on EPA’s
+dataset).
+
+     While it is true that “we do not require telepathy,” and
+are reluctant to require advocates for affected groups to
+anticipate every contingency lest we encourage strategic
+vagueness by agencies, we nevertheless “require some degree
+of foresight on the part of commenters.” Portland Cement
+Ass’n, 665 F.3d at 186. Because Sierra Club was on notice
+that EPA was considering setting new multiple hearth
+incinerator MACT floors and because it had access to the
+dataset EPA would use in setting new multiple hearth
+incinerator floors, we conclude that it was practicable for
+Sierra Club to comment on beyond-the-floor standards for
+new multiple hearth incinerator MACT floors. Accordingly,
+we will not consider Sierra Club’s argument regarding new
+multiple hearth incinerator beyond-the-floor standards. See
+42 U.S.C. § 7607(d)(7)(B).
+                              83
+
+E. SUBCATEGORIZING SEWAGE SLUDGE INCINERATORS
+
+     NACWA challenges EPA’s decision to create only two
+subcategories for sewage sludge incinerators. In its
+rulemaking, EPA proposed subcategorizing sewage sludge
+incinerators into multiple hearth and fluidized bed
+incinerators, and proposed no other categories or
+subdivisions. See 75 Fed. Reg. at 63,268. EPA invited
+comment on whether other combustor designs were used at
+sewage sludge incinerators, requesting emissions information
+from stack tests conducted on those designs. Id.
+
+     Commenters responded and requested that EPA further
+subcategorize “based on size of the [sewage sludge
+incinerator], type of sewage sludge incinerated, limited use
+units, and distance over which the [incinerator] would need to
+transport its sludge for disposal.” 76 Fed. Reg. at 15,384. But
+EPA adopted only the two subcategories it proposed,
+explaining that it did “not have data to support distinguishing
+units based on class, type, or size,” and that “[w]ithout such
+information,” it did “not have a basis for concluding that these
+types of units should be based in a different subcategory.” Id.
+
+     NACWA challenges EPA’s decision not to subcategorize
+further, asserting that it had identified “back-up and
+emergency” sewage sludge incinerators, and other unique
+categories, that would have a difficult time meeting the
+sewage sludge incinerator rule’s testing obligations. As its
+legal basis, NACWA asserts that EPA failed to respond
+adequately to its substantive comment, as required under 42
+U.S.C. § 7607(d)(6)(B), and that EPA’s claim that it did not
+have data is arbitrary because commenters had submitted
+information about these special-use sewage sludge
+incinerators.
+                             84
+
+     We agree with EPA that its decision to create
+subcategories only for multiple hearth and fluidized bed
+incinerators was not arbitrary or capricious. We have held
+that EPA has authority to subcategorize within
+Congressionally mandated categories under § 129(a)(2). See
+Northeast Maryland Waste Disposal Authority, 358 F.3d at
+946–47. We have also held that EPA’s subcategorization
+authority under § 112 involves an expert determination,
+placing a heavy burden on a challenger to overcome
+deference to EPA’s “articulated rational connection between
+the facts found and the choice made.” NRDC v. EPA, 489
+F.3d 1364, 1375 (D.C. Cir. 2007).
+
+     EPA’s decision here appears well within its expert
+determination. Perhaps recognizing the deference we owe
+EPA in its decision to subcategorize, NACWA does not
+challenge EPA’s authority to do so, but instead asserts
+procedural challenges. We do not find these challenges
+meritorious. EPA rationally stated its policy to require
+emission information from stack tests on the combustion
+designs that commenters wanted EPA to accommodate into a
+separate subcategory. Although NACWA identified different
+classes of incinerators and discussed differences in sewage
+sludge variability that it felt justified further
+subcategorization, it does not cite any emissions information
+from stack tests it submitted for the special-circumstance
+sewage sludge incinerators for which it desired
+subcategorization. EPA “was not obligated under its policy”
+to create new subcategories or to offer a further response on
+NACWA’s request for further subcategorization, and we will
+uphold its decision not to create additional subcategories
+beyond the multiple hearth and fluidized bed incinerators.
+See Edison Electric Institute, 2 F.3d at 449.
+                               85
+F. MONITORING
+
+     Section 129(c) requires incinerator operators “to monitor
+emissions from the unit at the point at which such emissions
+are emitted into the ambient air . . . and at such other points as
+necessary to protect public health and the environment,” and
+“to monitor such other parameters relating to the operation of
+the unit and its pollution control technology” as EPA deems
+appropriate. In the final rule, EPA required all new and
+existing sewage sludge incinerators to “demonstrate initial
+and annual compliance with the emission limits using EPA-
+approved emission test methods.” 76 Fed. Reg. at 15,377.
+EPA gave existing incinerators the option of continuous
+emissions monitoring in lieu of initial and annual tests, and
+required continuous parameter monitoring. Id. For new
+incinerators, EPA made continuous emissions monitoring
+mandatory for carbon monoxide, and optional for other
+pollutants in lieu of initial and annual emissions testing, and
+required continuous parameter monitoring. Id.
+
+     Sierra Club argues that EPA violates the statute by only
+requiring parameter monitoring and not mandating continuous
+emissions monitoring for all pollutants on all incinerators.
+EPA responds that Congress gave it the discretion to require
+parameter monitoring as appropriate, and that its combination
+of initial and annual emissions testing combined with
+parameter monitoring serves to meet § 129’s monitoring
+requirement. We agree with EPA that § 129(c)(1) does not
+require continuous emissions monitoring and that its
+monitoring requirements in the sewage sludge incinerator rule
+satisfy § 129’s statutory requirement.
+
+    Under 42 U.S.C. § 7661c, EPA “may by rule prescribe
+procedures and methods for determining compliance and for
+monitoring and analysis of pollutants regulated under this
+                              86
+Act, but continuous emissions monitoring need not be
+required if alternative methods are available that provide
+sufficiently reliable and timely information for determining
+compliance.” 42 U.S.C. § 7661c(b). Although this section
+appears to clarify the Clean Air Act’s mandate that EPA’s
+permit programs include monitoring and reporting
+requirements, it is evidence supporting EPA’s interpretation
+of § 129’s monitoring requirement as requiring assurance of
+compliance with emission standards, but not continuous
+emissions monitoring. Sierra Club provides no legal authority
+to the contrary. Determining whether specified testing and
+monitoring requirements assure compliance with EPA’s
+emission standards “requires a high level of technical
+expertise,” and because Sierra Club has not given us any
+reason to doubt that EPA’s requirements will effectively
+assure compliance, “we must defer to the informed
+discretion” of EPA. National Lime, 233 F.3d at 635 (quoting
+Marsh v. Oregon Natural Resources Council, 490 U.S. 360,
+377 (1989)).
+
+III.   MAXWEST’S INTERVENTION
+
+     MaxWest Environmental Systems, the developer of a
+“proprietary biosolids management process that converts
+biosolids into syngas,” used in units MaxWest terms as
+“gasifiers,” challenges EPA’s treatment (or lack thereof) of
+gasifiers in the final rule. See Intervenor MaxWest Br. at 1–2,
+9–21. EPA asserts several grounds why we need not reach
+MaxWest’s arguments, including that MaxWest lacks
+standing and that the issues it raises are outside the scope of
+those raised by the petitioners.
+
+     “[B]ecause Article III standing is a prerequisite to a
+federal court’s exercise of jurisdiction,” we “cannot proceed
+at all in any cause” unless we first determine that a party
+                              87
+seeking to be heard has satisfied the three-part test of Lujan.
+Sinochem International Co. v. Malay International Shipping
+Corp., 549 U.S. 422, 430 (2007); New England Power
+Generators Ass’n v. FERC, 707 F.3d 364, 368 (D.C. Cir.
+2013). But while we cannot assume hypothetical jurisdiction
+to decide the merits of a case, we have leeway “to choose
+among threshold grounds for denying audience to a case on
+the merits” because “jurisdiction is vital only if the court
+proposes to issue a judgment on the merits.” Sinochem, 549
+U.S. at 431 (internal alteration omitted) (quoting Intec USA,
+L.L.C. v. Engle, 467 F.3d 1038, 1041 (7th Cir. 2006)). Thus,
+we need not resolve MaxWest’s standing to intervene if we
+can dispose of its intervention on another threshold ground
+that does not require us to reach the merits of MaxWest’s
+arguments. See id. (explaining that a federal court need not
+determine whether it has jurisdiction when deciding, for
+example, not to exercise supplemental jurisdiction over state
+law claims on discretionary grounds or to abstain under
+Younger v. Harris).
+
+     The alternative threshold ground for rejecting MaxWest’s
+intervention is that MaxWest’s issues are outside the scope of
+those raised by NACWA. None of the six petitioners’ briefs
+filed in this case mention MaxWest’s gasification process.
+When we allowed MaxWest to intervene out of time, we
+warned it that “an intervening party may join issue only on a
+matter that has been brought before the court by another
+party.” NACWA v. EPA, No. 11-1131, Doc. 1344244 at 2
+(D.C. Cir. filed Nov. 28, 2011) (citing Beethoven.com LLC v.
+Librarian of Congress, 394 F.3d 939, 946 (D.C. Cir. 2005)).
+MaxWest has not heeded our warning. Its bare assertion that
+it modeled its statement of issues after NACWA’s does not
+change the fact that its substantive arguments are unrelated to
+the issues raised by NACWA and Sierra Club. See MaxWest
+                               88
+Reply Br. at 8–10.         Therefore, we will not consider
+MaxWest’s arguments.
+
+IV.    CONCLUSION
+
+     For the foregoing reasons, we remand to EPA portions of
+its rule for further explanation without vacating the current
+MACT standards. Specifically, we direct EPA to clarify why
+its Clean Water Act Part 503 regulations control for other
+non-technology factors. We also direct EPA to clarify issues
+related to its upper prediction limit and variability analysis.
+In particular, EPA should explain why the upper prediction
+limit represents the “average emissions limitation achieved by
+the best performing 12 percent of” incinerators; why the
+upper prediction limit reasonably estimates the worst
+foreseeable operating conditions; and why the upper
+prediction limit can account for more than intra-unit
+variability, as EPA claimed it could on petition for review.
+Finally, we direct EPA to elaborate on how it can use a
+statistical method to determine whether a limited dataset is
+representative of incinerators for which it has no data, and to
+explain why it chose the variables it did for that statistical
+analysis.5
+
+     In all other respects, we uphold EPA’s rule against the
+petitioners’ challenges. Because the issues MaxWest raised in
+its intervenor brief are outside the scope raised by the
+petitioners, we do not consider its arguments.
+
+                                                     So ordered.
+
+5
+  We do not, of course, mean to suggest that EPA is bound to reach
+the same conclusion upon reexamination of the record for purposes
+of explanation. Should EPA find itself unable to support its
+conclusions, it is, of course, free to reach different ones.
+

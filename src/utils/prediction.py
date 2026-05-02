@@ -86,7 +86,7 @@ Based on the selected rule and the most similar historical cases provided, asses
 {similar_context}
 
 IMPORTANT CONTEXT:
-- Base rate in the 251-case reference set: 43.0% Upheld, 24.7% Struck Down, 19.9% Mixed, 12.4% Unknown/Dismissed. The plurality outcome is UPHELD — calibrate your rating to this historical record.
+- Base rate in the 395-case reference set: 46.6% Upheld, 24.1% Struck Down, 18.5% Mixed, 10.9% Dismissed/Other. The plurality outcome is UPHELD — calibrate your rating to this historical record.
 - Under Chevron (1984-2024): Courts deferred to agency statutory interpretations if reasonable
 - Under Loper Bright (June 2024-present): Courts interpret statutes de novo — no deference to agency interpretations
 - The doctrine era at time of challenge matters enormously for vulnerability

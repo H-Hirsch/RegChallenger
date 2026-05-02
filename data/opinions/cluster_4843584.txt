@@ -1,0 +1,850 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 15, 2020            Decided December 29, 2020
+
+                         No. 20-5193
+
+         AMERICAN HOSPITAL ASSOCIATION , ET AL.,
+                     APPELLANTS
+
+                              v.
+
+ ALEX M. AZAR, II, IN HIS OFFICIAL CAPACITY AS SECRETARY
+           OF HEALTH AND HUMAN SERVICES,
+                         APPELLEE
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:19-cv-03619)
+
+
+     Lisa S. Blatt argued the cause for appellants. With her on
+the briefs was Whitney D. Hermandorfer.
+
+     Chad I. Golder was on the brief for amici curiae Forty
+State Hospital Associations in support of appellants.
+
+    Benjamin G. Shatz was on the brief for amicus curiae
+Healthcare Financial Management Association in support of
+appellants.
+
+    Daryl L. Joseffer, Tara S. Morrissey, Jeffrey S. Bucholtz,
+and Joel McElvain were on the brief for amicus curiae
+                                2
+Chamber of Commerce of the United States of America in
+support of appellants.
+
+    Courtney L. Dixon, Attorney, U.S. Department of Justice,
+argued the cause for appellee. With her on the brief were Ethan
+P. Davis, Acting Assistant Attorney General, Scott R.
+McIntosh, Attorney, Robert P. Charrow, General Counsel,
+U.S. Department of Health & Human Services, Brenna E.
+Jenny, Deputy General Counsel & Chief Legal Officer-CMS.
+
+    Robert Henneke and Jeffrey M. Harris were on the brief
+for amici curiae Texas Public Policy Foundation, et al. in
+support of appellee.
+
+   Before: TATEL and GARLAND* , Circuit Judges, and
+EDWARDS, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge TATEL.
+
+     TATEL, Circuit Judge: As part of the Affordable Care Act,
+Congress required hospitals to make public “a list” of “standard
+charges” in accordance with guidelines developed by the
+Secretary of Health and Human Services. 42 U.S.C.
+§ 300gg-18(e). By rule, the Secretary defined “standard
+charges” to include prices that hospitals charge insurers. The
+American Hospital Association and others challenge the rule,
+arguing that it violates the statute, the Administrative
+Procedure Act, and the First Amendment. For the reasons set
+forth in this opinion, we affirm the district court’s grant of
+summary judgment to the Secretary.
+
+
+*
+ Judge Garland was a member of the panel at the time this case
+was argued but did not participate in the final disposition of the
+case.
+                               3
+                               I.
+    Understanding the issues before us requires an explanation
+of how hospitals charge for their services. In short, their
+charges look nothing like hotel room rates or car prices. Rather,
+hospitals charge different amounts for the same item or service
+depending on who is paying.
+
+     Three different groups pay hospitals for care: patients,
+insurers, and the federal and state governments (for Medicare
+and Medicaid). The first group, “self-pay” patients, pay
+directly for their care because they have no insurance, receive
+elective or out-of-network care, or believe that paying directly
+is cheaper than relying on insurance. Self-pay patients account
+for fewer than 10 percent of all patients. Price Transparency
+Requirements for Hospitals to Make Standard Charges Public
+(Price Transparency Requirements), 84 Fed. Reg. 65,524,
+65,542 (Nov. 27, 2019). Hospitals generally charge these
+patients rates specified in what is called “chargemasters,”
+which list all items and services provided by each hospital with
+their “gross charges.” Id. at 65,537. Many hospitals offer
+discounts to self-pay patients based on standardized cash
+discounts or individual financial need (or both). As a result,
+chargemaster rates are “virtually never what hospitals
+ultimately receive as payment.” Appellants’ Br. 7. Although
+these gross charges “bear little relationship to market rates
+[and] are usually highly inflated,” Price Transparency
+Requirements, 84 Fed. Reg. at 65,538, they exist for “historical
+and legal reasons,” Appellants’ Br. 7–8. Specifically, Medicare
+requires hospitals’ charges for Medicare and non-Medicare
+patients to be the same for a specific service, and hospitals
+comply with that requirement by listing chargemaster rates as
+if they were applicable to everyone, even though hospitals
+receive different payments depending on the payer’s identity.
+                               4
+      Over ninety percent of patients rely on third-party payers,
+i.e., insurers, Medicaid, and Medicare. Medicaid and Medicare
+pay hospitals based on rates set by the states and the Centers
+for Medicare & Medicaid Services. Those rates are public.
+Price Transparency Requirements, 84 Fed. Reg. at 65,542,
+65,552. Insurance companies have contractual agreements with
+hospitals to pay negotiated rates for their services. Although
+insurers and hospitals often treat chargemaster rates as the
+“starting point” for negotiations, negotiated rates are a product
+of a wide range of methodologies. Appellants’ Br. 8. Insurers
+may pay fixed fees for individual items and services, or they
+may pay for bundled packages based on common procedures,
+per diem rates, or other variable factors, set out in “many
+dozens of pages of text.” Id. at 8 (internal quotation marks
+omitted). They may also pay according to a “diagnosis-related
+group” methodology, under which a rate is established for a
+group of hospital items and services based on the typical care
+provided to a patient with a particular diagnosis. The Medicare
+statute requires diagnosis-related-group classifications for
+inpatient Medicare reimbursements, and some private insurers
+use these classifications to establish rates with hospitals. 42
+U.S.C § 1395ww(d)(4); Price Transparency Requirements, 84
+Fed. Reg. at 65,534. In addition, insurers may pay different
+amounts based on volume discounts, incentive payments for
+meeting quality metrics, and exclusions for certain services.
+
+     With so many different methodologies for setting rates,
+determining what negotiated rate applies to a particular patient
+for a particular item or service is “exceedingly complex.”
+Appellants’ Br. 8. Adding to the complexity, negotiated rates
+are not necessarily what insured patients would pay, as their
+out-of-pocket costs depend on their health insurance plan,
+which has its own rules on copays, deductibles, and coverage
+limits.
+                                5
+    Patients usually learn what a given hospital service cost
+only after the fact, either from a hospital bill or an “Explanation
+of Benefits” form from their insurance company; the latter
+details the insurer’s negotiated rates and the patient’s out-of-
+pocket costs. Patients are “understandably frustrated by their
+inability to easily determine in advance what they may pay
+out-of-pocket for hospital services.” Id. at 6. According to the
+Secretary, this lack of price transparency has contributed to an
+“upward spending trajectory” in healthcare. Price
+Transparency Requirements, 84 Fed. Reg. at 65,525–26.
+
+     Against this backdrop, Congress passed the Affordable
+Care Act of 2010, which added section 2718, entitled
+“Bringing down the cost of health care coverage,” to the Public
+Health Service Act. In language central to this case, subsection
+2718(e) requires “[e]ach hospital operating within the United
+States” to “each year establish (and update) and make public
+(in accordance with guidelines developed by the Secretary) a
+list of the hospital’s standard charges for items and services
+provided by the hospital, including for diagnosis-related
+groups established under [the Medicare reimbursement
+statute].” 42 U.S.C. § 300gg-18(e). The statute nowhere
+defines “standard charges.”
+
+     Following passage of the Affordable Care Act, the
+Secretary allowed hospitals to comply with section 2718(e) by
+making their chargemasters public. Transparency Requirement
+Under the Affordable Care Act, 79 Fed. Reg. 49,854, 50,146
+(Aug. 22, 2014). But in 2018, the Secretary found that
+“challenges continue to exist for patients due to insufficient
+price transparency” because chargemaster data were “not
+helpful to patients for determining what they are likely to pay
+for a particular service or hospital stay.” Requirements for
+Hospitals to Make Public a List of Their Standard Charges via
+the Internet, 83 Fed. Reg. 20,164, 20,549 (May 7, 2018). As a
+                               6
+result, the Secretary required hospitals to make their
+chargemasters available online in a machine-readable format.
+He also sought public comment on how “standard charges”
+should be defined and “what types of information would be
+most beneficial to patients.” Id.
+
+      In June 2019, President Trump issued an Executive Order
+titled “Improving Price and Quality Transparency in American
+Healthcare to Put Patients First.” Exec. Order No. 13,877, 84
+Fed. Reg. 30,849 (June 24, 2019). The Executive Order
+directed the Secretary to “propose a regulation, consistent with
+applicable law, to require hospitals to publicly post standard
+charge information, including charges and information based
+on negotiated rates and for common or shoppable items and
+services.” Id. at 30,850. Two months later, the Secretary issued
+a notice of proposed rulemaking, which explained that despite
+the existing requirements to post their chargemaster rates
+online, “consumers continue to lack the meaningful pricing
+information they need.” Proposed Requirements for Hospitals
+to Make Public a List of Their Standard Charges, 84 Fed. Reg.
+39,398, 39,571, 39,574 (Aug. 9, 2019). The Secretary proposed
+requiring hospitals to disclose not just chargemaster rates, but
+also “payer-specific negotiated charges” for their items, and to
+disclose them in two different ways: a single digital file
+containing charges for all items and services, and a
+“consumer-friendly” list of charges for three hundred
+“shoppable” services, defined as services that can be scheduled
+in advance, id. at 39,402, 39,579–80, 39,589–90, “like a
+colonoscopy,” Appellants’ Br. 56. The notice estimated that
+compliance with the rule would require twelve hours per
+hospital and proposed an effective date of January 1, 2020.
+Proposed Requirements for Hospitals to Make Public a List of
+Their Standard Charges, 84 Fed. Reg. at 39,400, 39,403.
+                               7
+      After receiving nearly four thousand comments, the
+Secretary issued a final rule that defines “standard charge” as
+“the regular rate established by the hospital for an item or
+service provided to a specific group of paying patients.” Price
+Transparency Requirements, 84 Fed. Reg. 65,524, 65,540
+(Nov. 27, 2019). To qualify as a “regular rate,” the rate must
+be formalized in advance—e.g., through hospital contracts or
+fee schedules—and there must be an “identifiable” group of
+patients for whom that rate would usually apply. Id. at 65,546,
+65,539, 65,542. The rule lists five categories of standard
+charges that hospitals must disclose: gross charges from
+chargemasters; payer-specific negotiated charges; standardized
+discounted cash prices offered to self-pay patients before any
+individualized discounts; and maximum and minimum
+third-party negotiated charges for a given item or service,
+without identifying the specific payer (“de-identified minimum
+. . . and maximum negotiated charge[s]”). Id. at 65,540. In
+response to comments, the Secretary waived the three hundred
+shoppable services list requirement for hospitals already
+providing internet-based price estimator tools for patients. Id.
+at 65,577. The Secretary also revised the initial compliance
+burden estimate up to 150 hours per hospital in the first year
+and 46 hours per hospital in subsequent years. Id. at 65,591–94,
+65,596. Finally, persuaded that “some hospitals may find it
+challenging to initially comply with the new requirements . . .
+in a short timeframe,” the Secretary delayed the rule’s effective
+date by one year to January 1, 2021. Id. at 65,585.
+
+     The American Hospital Association, joined by other
+associations, individual hospitals, and hospital systems
+(collectively, the “Association”), filed suit, arguing that the
+rule’s interpretation of “standard charges” violates section
+2718(e), the APA, and the First Amendment. The district court
+granted summary judgment to the Secretary on all three claims.
+American Hospital Ass’n v. Azar, 468 F. Supp. 3d 372 (D.D.C.
+                                8
+2020). Our review is de novo. See St. Luke’s Hospital v.
+Thompson, 355 F.3d 690, 693 (D.C. Cir. 2004).
+
+                               II.
+     The Association argues that the rule rests on an unlawful
+interpretation of section 2718(e) and that no Chevron deference
+applies partly because the President, through his June 2019
+Executive Order, “picked the definition of ‘standard charges’
+that [the Secretary] adopted.” Appellants’ Br. 43. The
+Association even “question[s] the validity of Chevron
+deference,” though it “recognize[s] the doctrine binds this
+Court.” Id. at 41 n.10. The Secretary points out that he adopted
+his interpretation after notice-and-comment rulemaking and
+argues that his interpretation is the best one and at a minimum
+reasonable under Chevron.
+
+     Although we have no reason to doubt Chevron’s
+applicability, we need not decide that question here. Even if
+Chevron were inapplicable, we would “proceed to determine
+the meaning of” section 2718(e) by “decid[ing] for ourselves
+the best reading.” Miller v. Clinton, 687 F.3d 1332, 1342 (D.C.
+Cir. 2012) (internal quotation marks omitted). Employing the
+traditional tools of statutory interpretation—text, structure, and
+purpose—and following the “‘fundamental canon of statutory
+construction that the words of a statute must be read in their
+context and with a view to their place in the overall statutory
+scheme,’” we conclude that the best reading of section 2718(e),
+including the two statutory phrases at issue, i.e., “standard
+charges” and “a list,” permits the Secretary to adopt the
+challenged rule. Roberts v. Sea-Land Services, Inc., 566 U.S.
+93, 101 (2012) (quoting Davis v. Michigan Department of
+Treasury, 489 U.S. 803, 809 (1989)); see In re Sealed Case,
+932 F.3d 915, 928 (D.C. Cir. 2019).
+                               9
+                      Standard Charges
+     The Association focuses primarily on the rule’s inclusion
+of negotiated rates among the “standard charges” that hospitals
+must disclose. Based on the dictionary definition of “standard”
+as usual, common, or model, it argues that the definition is
+“antithe[tical]” to the rule’s inclusion of negotiated rates for
+identifiable patient groups as “standard charges.” Appellants’
+Br. 27. Rather, the Association contends, the “most natural
+way” to interpret the term “standard charges” is to define it as
+the seller’s list price—such as the manufacturer’s suggested
+retail price for cars—or “a jumping-off point,” even if few
+consumers pay the list price. Id. at 27, 32.
+
+     Viewed in its entirety, however, section 2718(e) is best
+interpreted as requiring disclosure of more than list prices. See
+American Coal Co. v. Federal Mine Safety & Health Review
+Commission, 796 F.3d 18, 25–26 (D.C. Cir. 2015) (“General-
+usage dictionaries cannot invariably control our consideration
+of statutory language, especially when the ‘dictionary
+definition of . . . isolated words[] does not account for the
+governing statutory context.’” (alterations in original) (quoting
+Bloate v. United States, 559 U.S. 196, 205 n.9 (2010))). Recall
+that the provision requires hospitals to disclose “a list of the
+hospital’s standard charges for items and services provided by
+the hospital, including for diagnosis-related groups established
+under [the Medicare reimbursement statute].” 42 U.S.C.
+§ 300gg-18(e) (emphasis added). The “including for” clause
+gives an illustrative example of “standard charges.” That is, the
+list must contain standard charges for items and services, as
+well as standard charges for things like “diagnosis-related
+groups” established under the Medicare statute, i.e., charges
+bundled for a given diagnosis as opposed to charges for
+individual items and services. See Puerto Rico Maritime
+Shipping Authority v. Interstate Commerce Commission, 645
+F.2d 1102, 1112 n.26 (D.C. Cir. 1981) (“It is hornbook law that
+                               10
+the use of the word ‘including’ indicates that the specified list
+. . . that follows is illustrative, not exclusive.”); see also
+Include, The Merriam-Webster Collegiate Dictionary 629
+(11th ed. 2011) (“include” means “to take in or comprise as a
+part of a whole or group”). Reading the statute’s “including
+for” clause as illustrative of charges that are bundled together
+and negotiated between hospitals and insurers, as does the
+Secretary, gives effect to “‘every clause and word of [the]
+statute.’” TRW Inc. v. Andrews, 534 U.S. 19, 31 (2001)
+(quoting United States v. Menasche, 348 U.S. 528, 538–39
+(1955)). By contrast, the Association’s interpretation—that the
+clause requires hospitals to disclose nothing more than
+already-public Medicare charges—not only renders it
+redundant of the Medicare statute’s requirement that the
+Secretary make all Medicare charges public, but also conflicts
+with the rest of section 2718(e), which requires disclosure of
+each hospital’s charges, not charges set by the Secretary.
+
+     Context and congressional purpose reinforce this reading.
+As to the former, because hospitals have numerous different
+charges that are formalized in contracts with third-party payers,
+rather than one “standard charge” applicable to all, or even
+most, patients, the dictionary definition of “standard” is
+unhelpful. The Association’s contention that chargemaster
+rates represent “universal default prices irrespective of payer,”
+Appellants’ Reply Br. 3, moreover, is inconsistent with its
+assertion that hospitals have chargemaster rates simply to
+comply with the Medicare requirement that Medicare and
+non-Medicare patients be charged the same. See Appellants’
+Br. 7–8. Chargemaster rates, in other words, are neither
+universal nor default, except for purposes of complying with
+the letter of the Medicare rule. Given this context, the statute
+allows the Secretary to define standard charges more broadly
+as regular rates set in advance for identifiable groups of
+patients.
+                               11
+      As to purpose, Congress enacted section 2718, as its title
+demonstrates, to “[b]ring[] down the cost of health care
+coverage.” See INS v. National Center for Immigrants’ Rights,
+Inc., 502 U.S. 183, 189 (1991) (“[T]he title of a statute or
+section can aid in resolving an ambiguity in the legislation’s
+text.”). The Secretary was concerned that chargemaster rates,
+though previously treated as adequate for complying with
+section 2718(e), in fact failed to sufficiently inform patients of
+their costs. This is because, as the Association concedes,
+patients rarely pay chargemaster rates. Appellants’ Br. 7; Price
+Transparency Requirements, 84 Fed. Reg. at 65,542. Given
+this, and given the Secretary’s finding that requiring disclosure
+of negotiated rates will help more patients select hospitals with
+more affordable rates, the Secretary interpreted the undefined
+term “standard charges” in a way that best effectuates
+congressional intent to lower healthcare costs. The best reading
+of the statute is that it permits such an interpretation. See PDK
+Laboratories, Inc. v. DEA, 362 F.3d 786, 796 (D.C. Cir. 2004)
+(“The words of the statute should be read in context, . . . and
+the problem Congress sought to solve should be taken into
+account.”).
+
+     The Association also challenges the rule’s inclusion of
+discounted cash prices and de-identified maximum and
+minimum negotiated rates as standard charges. Focusing on the
+definition of the word “discounted,” the Association contends
+that “a discount” is “by definition[] a departure from the norm”
+and therefore not “standard.” Appellants’ Br. 31. The rule,
+however, makes clear that the “discounted cash price” category
+refers only to standardized discounts that hospitals give to
+cash-paying patients and excludes individualized discounts
+based on financial circumstances. Price Transparency
+Requirements, 84 Fed. Reg. at 65,553. Defined that way,
+discounted cash price is a formalized rate that applies to a set
+group of patients regardless of individual circumstances, just
+                                12
+like third-party negotiated rates. As for the de-identified
+maximum and minimum negotiated rates, they are simply a
+subset of already-disclosed negotiated rates listed in separate
+columns. As explained above, section 2718(e) permits the
+Secretary to require disclosure of negotiated rates, and
+requiring hospitals to display certain datapoints separately falls
+squarely within the Secretary’s authority to develop guidelines
+for making the list public.
+
+                              A List
+      Turning its attention to a different word in section 2718(e),
+the Association argues that the rule’s requirement of both a
+comprehensive, machine-readable list of charges for all
+services and a separate, consumer-friendly shoppable services
+list runs afoul of section 2718(e)’s requirement that hospitals
+publish “a list” of standard charges. The Secretary, echoing his
+argument with respect to de-identified maximum and minimum
+charges, points out that the charge information in the shoppable
+services list is a subset of the information already made public
+in the comprehensive file. Id. at 65,575. For example, getting a
+colonoscopy may incur charges for anesthesia, a pathology lab
+service, and a facility fee. Id. at 65,566. Individual charges for
+those three components would already appear in the
+comprehensive list; the shoppable services list would group
+them together under the heading “colonoscopy.”
+
+      To be sure, one could argue (as does the Association) that
+this is two lists. But one could also argue (as does the Secretary)
+that this is a single list displayed in two different ways.
+Contrary to the Association’s argument, the best reading of
+section 2718(e), in its entirety, permits the Secretary to require
+hospitals to display the information in multiple ways.
+                               13
+                               III.
+     In support of its APA claim, the Association argues that
+the Secretary failed to adequately address the difficulties that
+hospitals face in compiling the information the rule requires,
+overestimated the rule’s benefits, and changed the
+interpretation of “standard charges” without adequate
+explanation. In considering these arguments, we are “not to
+substitute [our] judgment for that of the agency, but instead to
+assess only whether the decision was based on a consideration
+of the relevant factors and whether there has been a clear error
+of judgment.” DHS v. Regents of the University of California,
+140 S. Ct. 1891, 1905 (2020) (internal quotation marks and
+citation omitted). Moreover, and of special significance to this
+case, “when an agency’s decision is primarily predictive, our
+role is limited; we require only that the agency acknowledge
+factual uncertainties and identify the considerations it found
+persuasive.” Rural Cellular Ass’n v. FCC, 588 F.3d 1095, 1105
+(D.C. Cir. 2009).
+
+             Feasibility and Administrative Burdens
+     The Association advances two slightly different arguments
+under the umbrella of excessive burden. First, many negotiated
+rates are “unknown”—or even “unknowable,” as Association
+counsel insisted at oral argument—so complying with the rule
+is “impracticable, and often impossible.” Appellants’ Reply Br.
+24; Oral Arg. Rec. 8:36–9:10. Second, identifying each patient
+group’s negotiated rate for all items and services would require
+a “herculean effort.” Appellants’ Br. 54. Central to both
+arguments, hospitals often build algorithms based on complex
+contracts to calculate the applicable negotiated rate for a
+particular patient’s care. Id. at 53. Accordingly, the Association
+argues, many negotiated rates are determined only after the
+patient receives care and so cannot be disclosed beforehand.
+Relatedly, the Association argues that hospitals’ complex
+                               14
+pricing systems produce an “unlimited number” of “standard
+charges,” because possible permutations for identifiable patient
+groups are “infinite.” Id. at 27, 30.
+
+     The Association’s arguments miss the mark. Consider two
+examples, one raised at oral argument and one offered by the
+Association in its brief. Patient A may have thought she needed
+only one x-ray, but she actually needed two; and instead of
+paying twice the amount of the first x-ray, the insurer paid only
+1.5 times that amount based on a volume discount. Patient B
+scheduled a hand nerve-repair surgery but ended up receiving
+tendon repair as well to correct a problem discovered during
+surgery; the insurer paid a discounted rate for the tendon repair
+because it occurred at the time of a related procedure. Whether
+and how much Patient A would be charged for the second x-ray
+and Patient B for the tendon repair was, as the Association
+emphasizes, “unknown” until after their treatments. The rule,
+however, does not require hospitals to disclose all possible
+permutations of costs based on hypothetical additional care or
+any other variable factor. It simply requires disclosure of base
+rates for an item or service, not the adjusted or final payment
+that the hospital ultimately receives based on additional
+payment      methodologies.        See   Price     Transparency
+Requirements, 84 Fed. Reg. at 65,550–51. So for Patient A, the
+rule requires disclosure of only the cost of one x-ray, and for
+Patient B, only the cost of a tendon repair procedure without
+any related procedures. Nothing in the rule requires the
+disclosure of discounts that may be applicable based on
+variable factors.
+
+     The same principle applies to rates for diagnosis-related
+groups. Responding to comments, echoed here by the
+Association, that payer-specific charges cannot be identified
+for diagnosis-related groups because rates can change based on
+the patient’s condition or treatment plan, the rule makes clear
+                               15
+that the disclosure requirement applies to “the base rate that is
+negotiated by the hospital with the third party payer, and not
+the adjusted or final payment received by the hospital for a
+packaged service.” Id. at 65,547.
+
+     This distinction between negotiated rates and final
+payments also addresses the Association’s contention that the
+rule fails to grapple with situations where no negotiated rate
+exists for a certain line item because “multiple items and
+services [are folded] into bundled rates for a particular
+procedure.” Appellants’ Reply Br. 25. In response to comments
+raising just this concern, the rule explains that hospitals must
+disclose only base rates that have been negotiated. Price
+Transparency Requirements, 84 Fed. Reg. at 65,551. In other
+words, nothing in the rule requires hospitals to
+“reverse-engineer” what negotiated rate they may have
+hypothetically reached in lieu of a bundled rate. Appellants’ Br.
+54.
+
+    The same complex hospital billing systems and contracts
+drive the Association’s argument that the rule will saddle
+hospitals with “inordinately costly” burdens. Id. at 25.
+According to the Association, hospitals can have “thousands of
+agreements” with individualized subcontracts for each plan,
+with each contract featuring “dozens of pages of complex
+conditions and formulae.” Id. at 53. The rule, the Association
+complains, will require hospitals to “manually cull their
+contracts to identify each variable (location, inpatient versus
+outpatient setting, plan, etc.) and run each permutation,”
+resulting in thousands of different patient groups. Appellants’
+Reply Br. 26, 30. As a result, hospitals expect to spend much
+more time and resources—“orders of magnitude” more—to
+comply with the rule than the Secretary’s estimates.
+Appellants’ Br. 57.
+                               16
+     In considering this argument, our job is to determine
+whether the Secretary “examine[d] the relevant data and
+articulate[d] a satisfactory explanation for [his] action.” Motor
+Vehicle Manufacturers Ass’n of the United States, Inc. v. State
+Farm Mutual Automobile Insurance Co., 463 U.S. 29, 43
+(1983). The Secretary did just that.
+
+     As the Association concedes, the rule acknowledges that
+hospitals use different payment methodologies and house
+information across different systems, making it challenging to
+consolidate the data into one comprehensive list. Appellants’
+Reply Br. 27; Price Transparency Requirements, 84 Fed. Reg.
+at 65,556. The rule also recognizes that due to the number of
+payers per hospital, hospitals may have many payer-specific
+charges to compile, and that they utilize “a variety of payment
+methodologies in their contracts” with insurers. Id. at 65,593.
+In response to commenters’ concerns, the rule clarifies that
+hospitals must disclose only base rates, delays the effective
+date by a year, and increases its burden estimate tenfold. Id. at
+65,550–51, 65,575–76, 65,592–93. The rule thus recognizes
+that hospitals are at “different stages of readiness to offer
+consumers transparent price information” and that “different
+hospitals may face different constraints when estimating their
+burden and resources required.” Id. at 65,593. Indeed, the
+resulting burden estimate for the implementation year—150
+hours per hospital location—is similar to the estimate provided
+by the Healthcare Financial Management Association
+(HFMA), which filed an amicus brief in support of the
+Association. To be sure, as the Association points out, the
+rule’s ultimate estimate is less than HFMA’s because, unlike
+that estimate, it declines after the first year and includes
+clinician time. In our view, however, the Secretary reasonably
+adjusted the estimate downward for subsequent years based on
+a perfectly sensible assumption that compliance costs will
+decline once hospitals start using “the business processes and
+                               17
+system infrastructures or software . . . built or purchased during
+the first year.” Id. at 65,596. That the Secretary arrived at an
+estimate thirty hours lower than an industry association’s
+calculation was hardly unreasonable given the wide range of
+estimates offered by commenters. Id. at 65,593–94, 65,595–96;
+see National Ass’n of Home Builders v. EPA, 682 F.3d 1032,
+1040 (D.C. Cir. 2012) (“[W]e do not review [the agency’s] cost
+figuring de novo, but accord [the agency] discretion to arrive
+at a cost figure within a broad zone of reasonable estimate.”
+(internal quotation marks omitted)). As the district court aptly
+put it, “[i]t can hardly be said hospitals’ concerns about their
+burden fell on deaf ears.” American Hospital Ass’n, 468 F.
+Supp. 3d at 389.
+
+                            Benefits
+     The Association challenges the Secretary’s prediction that
+the disclosure scheme will advance the goal of “providing
+consumers with factual price information to facilitate more
+informed health care decisions.” Price Transparency
+Requirements, 84 Fed. Reg. at 65,544–45. Instead, the
+Association claims, the rule is likely to “misinform[]
+consumers” and “facilitate anticompetitive effects.”
+Appellants’ Br. 59, 62. But again, the Secretary “examine[d]
+the relevant data and articulate[d] a . . . ‘rational connection
+between the facts found and the choice made.’” State Farm,
+463 U.S. at 43 (quoting Burlington Truck Lines v. United
+States, 371 U.S. 156, 168 (1962)).
+
+     As to efficacy, the rule points out that even though
+disclosure of negotiated rates alone will be insufficient to
+provide out-of-pocket cost estimates for many insured
+consumers, such rates are “a critical piece of information
+necessary for patients to determine their potential
+out-of-pocket cost estimates in advance of a service.” Price
+Transparency Requirements, 84 Fed. Reg. at 65,543. It then
+                               18
+explains that the disclosure scheme will provide out-of-pocket
+cost estimates for consumers without insurance and will be
+“highly beneficial for consumers in [high-deductible insurance
+plans] and in plans where the consumer is responsible for a
+percentage (that is, co-insurance) of the negotiated rate.” Id. at
+65,547. For example, a consumer who knows that her copay is
+twenty percent can estimate her out-of-pocket cost as twenty
+percent of the rate negotiated by the insurer. See id. The rule
+compares this outcome to the status quo, i.e., only
+chargemaster rates are publicly available and they apply to
+fewer than ten percent of patients, and concludes that the
+enhanced disclosure scheme will help more consumers. The
+rule also predicts that its disclosure scheme will enable
+researchers, government officials, clinicians, employers, and
+other third parties to “bring more value to healthcare.” Id. at
+65,555–56, 65,599.
+
+     As to consumer confusion, the rule recognizes such a
+possibility but nonetheless concludes that the disclosure
+scheme will benefit the “vast majority” of consumers,
+especially because consumers are already “exceptionally
+frustrated at the lack of publicly available data,” and because
+the availability of the data will lead to more price transparency
+tools developed by third parties. Id. at 65,547. The Association
+criticizes the rule’s reliance on third-party actors, calling it
+“irrationally convoluted.” Appellants’ Br. 60. But anticipating
+that third-party price aggregators and researchers will bring
+more efficiency to an industry as large and important as
+healthcare hardly strikes us as irrational. Indeed, such services
+are ubiquitous in other industries where prices are publicly
+available, such as travel booking websites and used car price
+aggregators.
+
+    Finally, the rule acknowledges commenters’ concerns
+about potential anticompetitive effects but concludes that,
+                               19
+based on available research in the healthcare industry and
+traditional economic analysis, the disclosure scheme is likely
+to lead to lower, not higher, prices. Price Transparency
+Requirements, 84 Fed. Reg. at 65,529, 65,538–39, 65,598–99.
+The Association complains that the rule’s analysis rests on
+inapposite data that came from state-led initiatives that either
+failed to disclose precisely the same information or collected
+the information from different sources. The Secretary,
+however, is not limited to relying only on definitive evidence:
+“even if this dataset was less than perfect, imperfection alone
+does not amount to arbitrary decision-making.” District
+Hospital Partners, L.P. v. Burwell, 786 F.3d 46, 61 (D.C. Cir.
+2015); see also State Farm, 463 U.S. at 52 (“It is not infrequent
+that the available data does not settle a regulatory issue and the
+agency must then exercise its judgment in moving from the
+facts and probabilities on the record to a policy conclusion.”).
+Given the newness of this disclosure scheme, the Secretary
+reasonably relied on studies of similar price transparency
+schemes to inform his policy judgment.
+
+     The rule’s chief purpose, as the Secretary emphasizes, is
+to “shift to hospitals some of the burden that patients currently
+bear” in “navigating a non-transparent hospital-care system.”
+Appellee’s Br. 48; Price Transparency Requirements, 84 Fed.
+Reg. at 65,547. The Secretary weighed the rule’s costs and
+benefits and made a reasonable judgment that the benefits of
+easing the burden for consumers justified the added burdens
+imposed on hospitals. See Ad Hoc Telecommunications Users
+Committee v. FCC, 572 F.3d 903, 908 (D.C. Cir. 2009)
+(explaining that agency decisions implicating “competing
+policy choices . . . and predictive market judgments” warrant
+particular deference).
+                               20
+                      Change in Position
+     The Association accuses the Secretary of “not adequately
+acknowledg[ing] [the agency’s] about-face from its prior
+policy position.” Appellants’ Br. 63. As the Supreme Court has
+explained, an agency may change its policy position but must
+“display awareness that it is changing position” and “show that
+there are good reasons for the new policy.” FCC v. Fox
+Television Stations, Inc., 556 U.S. 502, 515 (2009). Here, the
+Secretary did both. The rule expressly acknowledges the prior
+policy—that hospitals could comply with section 2718(e) by
+publishing chargemaster rates—and explains that disclosing
+only those rates was “[in]sufficient to inform consumers . . .
+what their charges for a hospital item or service will be.” Price
+Transparency Requirements, 84 Fed. Reg. at 65,525, 65,537.
+The rule then gives “good reasons” for requiring more, namely,
+that the disclosure scheme will fill the “information gap” in
+“easily accessible pricing information for consumers.” Id. at
+65,527.
+
+     The Association’s passing mention of reliance interests
+falls short. True, “the APA requires an agency to provide more
+substantial justification . . . when [the agency’s] prior policy
+has engendered serious reliance interests that must be taken
+into account.” Perez v. Mortgage Bankers Ass’n, 575 U.S. 92,
+106 (2015) (internal quotation marks omitted). But the
+Association has identified no reliance interests the rule might
+be upending. Moreover, nothing in the rule renders hospitals’
+prior investments in individual counseling or online price
+transparency tools obsolete. Indeed, hospitals that have already
+developed online price transparency tools are exempted from
+the shoppable services list requirement. See Price
+Transparency Requirements, 84 Fed. Reg. at 65,578.
+                                21
+                               IV.
+     The Association’s argument that the rule violates the First
+Amendment is squarely barred by the Supreme Court’s
+decision in Zauderer v. Office of Disciplinary Counsel of the
+Supreme Court of Ohio, 471 U.S. 626 (1985), and our case law
+applying that decision. In Zauderer, the Court rejected a First
+Amendment challenge to a state disciplinary ruling that
+required an attorney to disclose that clients may be liable for
+significant legal costs even if not liable for legal fees. Critical
+to the Court’s decision, the disciplinary ruling required
+disclosure of only “purely factual and uncontroversial
+information about the terms under which [the attorney’s]
+services will be available,” and the attorney’s countervailing
+interest “in not providing any particular factual information”
+was “minimal.” Zauderer, 471 U.S. at 650–51. The First
+Amendment, the Court held, permits such disclosure schemes
+“as long as [they] are reasonably related to the State’s interest
+in preventing deception of consumers” and “are not unduly
+burdensome . . . by chilling protected commercial speech.” Id.
+at 651–52.
+
+     As in Zauderer, the information the rule requires hospitals
+to disclose—rates negotiated with insurers and formalized in
+their contracts—is “factual and uncontroversial” and directly
+relevant to “the terms under which [hospitals’] services will be
+available” to consumers. Id. at 650–51. Also as in Zauderer,
+the rule requires disclosure of “more information than
+[hospitals] might otherwise be inclined to present,” rather than
+imposing an “outright prohibition[] on speech.” Id.; see also
+Spirit Airlines, Inc. v. DOT, 687 F.3d 403, 414 (D.C. Cir. 2012)
+(sustaining under Zauderer a Department of Transportation
+rule requiring airlines to prominently display final prices on
+their website because “the rule is aimed at providing accurate
+information, not restricting it”).
+                               22
+     The Association does not dispute that the government has
+a legitimate interest in promoting price transparency and
+lowering healthcare costs. Instead, it contends that the rule
+bears no reasonable relationship to those governmental
+interests because the required disclosures “may not be
+immediately or directly useful for many health care
+consumers.” Appellants’ Br. 47–48 (internal quotation marks
+omitted). But as explained in our discussion of the
+Association’s APA claim, the Secretary, relying on complaints
+from consumers, studies of state initiatives, and analysis of
+industry practices, reasonably concluded that the rule’s
+disclosure scheme will help the vast majority of consumers. See
+supra at 17–18. Moreover, Zauderer’s “reasonably related”
+analysis need not involve “evidentiary parsing” where, as here,
+“the government uses a disclosure mandate to achieve a goal of
+informing consumers about a particular product trait.”
+American Meat Institute v. USDA, 760 F.3d 18, 26 (D.C. Cir.
+2014) (en banc). Even in cases that employ more searching
+standards of review, courts have accepted “reference to studies
+and anecdotes,” as well as justifications “based solely on
+history, consensus, and simple common sense.” Lorillard
+Tobacco Co. v. Reilly, 533 U.S. 525, 555 (2001) (internal
+quotation marks omitted).
+
+    The Association argues that the rule fails Zauderer’s
+reasonably related test for another reason, namely, that it will
+“mislead consumers.” Appellants’ Br. 48. But again, the
+Secretary found to the contrary—that the rule is unlikely to
+“cause confusion beyond the confusion and frustration that
+currently exists.” Price Transparency Requirements, 84 Fed.
+Reg. at 65,547. Indeed, it is the current rule (preferred by the
+Association) that is misleading, as it requires disclosure of only
+chargemaster rates, even though they apply to fewer than ten
+percent of consumers.
+                               23
+     Invoking Zauderer’s final requirement that the challenged
+rule not be “‘unduly burdensome’ in a way that ‘chill[s]
+protected commercial speech,’” the Association argues, as it
+did in its APA challenge, that the rule will impose excessive
+financial burdens on hospitals. American Meat Institute, 760
+F.3d at 26 (alteration in original) (quoting Zauderer, 471 U.S.
+at 651). To prevail in a First Amendment challenge, however,
+the Association must demonstrate a burden on speech, and it
+has pointed to no such burden. The rule neither requires
+hospitals to endorse a particular viewpoint nor prevents them
+from adding their own message on the same website or even in
+the same file.
+
+    The Association’s remaining arguments are equally
+without merit.
+
+     The Zauderer standard, the Association insists, is limited
+to restrictions on advertising and point-of-sale labeling. But our
+court has not so limited the standard, applying it, for example,
+to court-mandated disclosures on websites. See United States v.
+Philip Morris, 855 F.3d 321 (D.C. Cir. 2017) (applying
+Zauderer to corrective statements that the district court ordered
+the corporation to display on its website for a RICO violation).
+And in National Ass’n of Manufacturers v. SEC, 800 F.3d 518
+(D.C. Cir. 2015), relied on by the Association, our court
+declined to apply Zauderer because the rule at issue required
+corporations to “express certain views” that their products
+containing conflict minerals were “ethically tainted.” Id. at
+523, 530. No such expressive content is at issue here.
+
+    The Association contends that the Secretary failed to
+consider “many less-speech restrictive alternatives.”
+Appellants’ Br. 25. Zauderer, however, imposes no such
+obligation. And even were we required to apply intermediate
+scrutiny, which does impose a “no broader than necessary”
+                               24
+requirement, the Secretary would not have to demonstrate a
+“perfect means-ends fit,” or “satisfy a court that [he] has
+chosen the best conceivable option”—just that the fit is
+“reasonable.” National Cable & Telecommunications Ass’n v.
+FCC, 555 F.3d 996, 1002 (D.C. Cir. 2009); Board of Trustees
+of State University of New York v. Fox, 492 U.S. 469, 479–80
+(1989). Here, the Secretary carefully considered the
+alternatives suggested by commenters, and the record supports
+his decision to require more fulsome disclosure for all items
+and services. Price Transparency Requirements, 84 Fed. Reg.
+at 65,446, 65,560–62, 65,601; see also National Cable &
+Telecommunications Ass’n, 555 F.3d at 1002 (finding that the
+agency complied with the “no broader than necessary” prong
+under intermediate scrutiny because it “carefully considered
+the differences between [] two regulatory approaches, and the
+evidence supports the [agency]’s decision”).
+
+     Finally, the Association argues that we should subject the
+rule to strict scrutiny. In support, it relies on Barr v. American
+Ass’n of Political Consultants (AAPC), 140 S. Ct. 2335 (2020),
+in which the Court sustained a First Amendment challenge to a
+statute barring political speakers from making robocalls while
+allowing the government to use them for debt collection. But
+unlike the rule at issue here, that law was “directed at certain
+content,” “aimed at particular speakers,” and restricted political
+speech. Id. at 2347 (internal quotation marks omitted).
+Significantly for our purposes, moreover, the AAPC plurality
+made clear that the decision not only “fits comfortably within
+existing First Amendment precedent,” but also is “not intended
+to expand existing First Amendment doctrine or to otherwise
+affect traditional or ordinary economic regulation of
+commercial activity.” Id. Requiring hospitals to disclose prices
+before rendering services undoubtedly qualifies as “traditional
+or ordinary economic regulation of commercial activity.” Id.
+                             25
+                             V.
+    For the foregoing reasons, we affirm the district court’s
+grant of summary judgment to the Secretary.
+                                                So ordered.
+

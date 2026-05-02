@@ -1,0 +1,482 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 10, 2022           Decided February 3, 2023
+
+                        No. 21-5057
+
+                       PAYPAL , INC.,
+                         APPELLEE
+
+                             v.
+
+  CONSUMER FINANCIAL PROTECTION BUREAU AND ROHIT
+CHOPRA, IN HIS OFFICIAL CAPACITY AS DIRECTOR, CONSUMER
+            FINANCIAL PROTECTION BUREAU ,
+                       APPELLANTS
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:19-cv-03700)
+
+
+
+    Christopher Deal, Senior Counsel, Consumer Financial
+Protection Bureau, argued the cause for appellants. With him
+on the briefs were Kristin Bateman, Acting Assistant General
+Counsel, and Julia Szybala, Senior Counsel.
+
+    Kannon K. Shanmugam argued the cause for appellee.
+With him on the brief were Kelly P. Dunbar, William T. Marks,
+and Brian M. Lipshutz.
+
+    Before: SRINIVASAN, Chief Judge, PILLARD and RAO,
+Circuit Judges.
+                               2
+
+    Opinion for the Court filed by Circuit Judge RAO.
+
+     RAO, Circuit Judge: The Bureau of Consumer Financial
+Protection (“the CFPB”) promulgated the Prepaid Rule, which
+regulates digital wallets and other prepaid accounts. As
+relevant here, the Rule requires financial institutions to make
+certain disclosures by using model language or other
+“substantially similar” wording. Challenging the Rule on
+statutory, administrative, and constitutional grounds, PayPal
+sued the CFPB. The district court reached only PayPal’s
+statutory claims, vacating part of the Rule because it mandated
+a “model clause” in violation of the Electronic Fund Transfer
+Act (“EFTA”).
+
+     In this case, PayPal and the CFPB proceed on the
+assumption that EFTA prohibits mandatory model clauses and
+so we consider only whether the Prepaid Rule mandates such a
+clause. Answering that narrow question, we conclude EFTA’s
+reference to “model clause” means specific, copiable
+language—not content and formatting. Because the Prepaid
+Rule does not require PayPal to use specific language, it does
+not mandate a “model clause.” We therefore reverse the district
+court and remand for further consideration of PayPal’s claims.
+
+                               I.
+
+                              A.
+
+     Recognizing the “potential for substantial benefits” from
+electronic systems for transferring money, Congress enacted
+EFTA to clarify and define “the rights and liabilities of
+consumers, financial institutions, and intermediaries in
+electronic fund transfers.” Pub. L. No. 95-630, tit. XX, § 2001,
+92 Stat. 3641, 3728 (codified at 15 U.S.C. § 1693). EFTA
+requires financial institutions to disclose specific “terms and
+                                3
+
+conditions” of electronic fund transfers “at the time the
+consumer contracts for an electronic fund transfer service.” 15
+U.S.C. § 1693c(a); id. § 1693c(a)(1)–(10). Where applicable,
+such disclosures are mandatory and must be made using
+“readily understandable language.” Id. § 1693c(a).
+
+     As part of the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (“Dodd-Frank”), Congress created
+the CFPB and transferred to it the authority to regulate
+disclosures under EFTA. Consumer Financial Protection Act
+of 2010, Pub. L. No. 111-203, tit. X, §§ 1002(5), (15), 1011(a),
+1032(a), 1084, 124 Stat. 1955, 1956, 1957–58, 1964, 2006–07,
+2081–82. In addition, Dodd-Frank permits the CFPB to
+prescribe rules to ensure the terms of consumer financial
+products and services are “fully, accurately, and effectively
+disclosed to consumers.” 12 U.S.C. § 5532(a).
+
+    Both EFTA and Dodd-Frank provide financial institutions
+with a safe harbor from liability in certain circumstances.
+EFTA obligates the CFPB to “issue model clauses” using
+“readily understandable language” to “facilitate compliance
+with the disclosure requirements.” 15 U.S.C. § 1693b(b).
+These model clauses can shield an institution from civil and
+criminal liability for “any failure to make [a] disclosure in [the]
+proper form.” Id. § 1693m(d)(2). Similarly, under Dodd-Frank
+the CFPB may issue “model form[s]” that can provide a safe
+harbor for compliance with disclosure requirements. 12 U.S.C.
+§ 5532(b)(1), (d). An institution’s use of model clauses and
+forms is “optional.” 15 U.S.C. § 1693b(b) (model clauses); 12
+U.S.C. § 5532(b)(1) (model forms).
+
+                                B.
+
+    The CFPB promulgated a regulation addressing consumer
+protections in “prepaid accounts.” Prepaid Accounts Under the
+                                   4
+
+Electronic Fund Transfer Act (Regulation E) and the Truth In
+Lending Act (Regulation Z) (“Prepaid Rule”), 81 Fed. Reg.
+83,934, 83,934 (Nov. 22, 2016) (codified at 12 C.F.R. parts
+1005, 1026). As relevant here, prepaid accounts allow
+consumers to store money in a digital wallet that enables
+financial transactions online or person-to-person. See generally
+Prepaid Rule, 81 Fed. Reg. at 83,934–43; see also 12 C.F.R.
+§ 1005.2(b)(3)(i)(A)–(D) (defining “prepaid account”).
+
+     The Prepaid Rule requires account providers to disclose
+certain information before a consumer acquires an account and
+begins transacting. These disclosures come in two forms: a
+“long form disclosure,” which includes all fees that could be
+imposed in connection with a prepaid account; and a “short
+form disclosure,” which includes only a subset of that
+information. 12 C.F.R. § 1005.18(b)(2), (4).
+
+     PayPal’s challenge concerns only the short form
+disclosures, which must include a prepaid account’s “most
+important fees.” Prepaid Rule, 81 Fed. Reg. at 83,934.
+Providers must disclose these “static fees,” which apply to “all
+prepaid account programs, even if such fees are $0 or if they
+relate to features not offered by a particular program.” Id.;
+accord 12 C.F.R. pt. 1005, supp. I, cmt. 18(b)(2)-1.1 Static fees
+include the periodic fee charged for holding the account,
+transaction fees, ATM withdrawal fees, the fee for reloading
+cash into the account, ATM balance inquiry fees, customer
+
+1
+ The CFPB’s “official interpretation” of the Prepaid Rule says static
+fees must be listed regardless of applicability. See 12 C.F.R. pt. 1005,
+supp. I, cmt. 18(b)(2)-1. The parties do not dispute that all static fees
+must be listed under the Rule, so we do not address PayPal’s
+argument that the CFPB’s interpretation is inconsistent with the
+regulation.
+                               5
+
+service fees, and fees for inactivity. 12 C.F.R.
+§ 1005.18(b)(2)(i)–(ix). If a fee on the short form may
+fluctuate, the Rule requires the highest amount to be listed with
+a symbol, such as an asterisk, linking to a statement explaining
+that a lower fee could apply depending on how the product is
+used. Id. § 1005.18(b)(3)(i).
+
+     The general structure of the disclosure requirements is the
+same. For each static fee, the Prepaid Rule suggests a specific
+word or phrase to describe the fee and directs providers to use
+that language or something “substantially similar.” For
+example, a “Per purchase fee” must be disclosed “using the
+term ‘Per purchase’ or a substantially similar term.”
+Id. § 1005.18(b)(2)(ii). An “Inactivity fee” must be disclosed
+“using the term ‘Inactivity’ or a substantially similar term.”
+Id. § 1005.18(b)(2)(vii).
+
+     The Prepaid Rule also imposes formatting requirements.
+These include how the disclosures must be structured, where
+each fee must appear in relation to the others, and the font size
+and emphasis given to each fee. See, e.g.,
+id. § 1005.18(b)(6)(iii)(A), (7)(i)(A), (7)(ii)(B)(1)–(3). The
+Rule illustrates how the formatting requirements could be
+implemented. Static fees are listed above the bolded line, and
+additional fees are listed below it.
+                                6
+
+
+
+
+12 C.F.R. pt. 1005, app. A-10(d).
+
+                               C.
+
+    PayPal is one of the largest providers of digital wallets.
+PayPal’s digital wallets allow users to store funds for later use,
+a capability that sweeps the wallets into the ambit of the
+Prepaid Rule. PayPal sued the CFPB, challenging the Rule
+under the Administrative Procedure Act (“APA”) and the
+Constitution. PayPal first alleged the Prepaid Rule exceeded
+the CFPB’s statutory authority because the agency effectively
+mandated the adoption of a model clause in contravention of
+EFTA, which authorizes only “optional” clauses. PayPal also
+argued the Prepaid Rule was arbitrary and capricious as applied
+                                 7
+
+to its service, because unlike other financial products, PayPal
+does not generally charge fees for using its financial products
+and only a small percentage of digital wallet transactions use
+stored funds. The Prepaid Rule therefore failed to account for
+the differences between PayPal and other prepaid account
+providers, whose services are closer substitutes for traditional
+checking accounts. Moreover, by requiring PayPal to list even
+irrelevant static fees, as well as the highest value that those fees
+could reach, the Rule “risk[ed] consumer confusion and
+impose[d] substantial cost without a commensurate consumer
+benefit.” PayPal also argued that the Rule’s cost-benefit
+analysis was arbitrary and capricious and that the Rule violated
+PayPal’s First Amendment rights.
+
+     The district court granted summary judgment for PayPal,
+holding the Prepaid Rule’s short form disclosure requirements
+exceeded the CFPB’s statutory authority under EFTA. 2
+PayPal, Inc. v. CFPB, 512 F. Supp. 3d. 1, 9 (D.D.C. 2020). The
+court explained that while EFTA requires the disclosure of
+certain “‘terms and conditions of electronic fund
+transfers,’ … it does not require that providers adhere to a
+specific form for these disclosures.” Id. at 7 (quoting 15 U.S.C.
+§ 1693c(a)(4)). Instead, the CFPB can only “‘issue model
+clauses for optional use by financial institutions’” because “the
+plain text [of EFTA] does not permit the Bureau to issue
+mandatory clauses.” Id. (quoting 15 U.S.C. § 1693b(b)). The
+court considered whether the Prepaid Rule’s short form
+disclosure requirements “exceed[] the Bureau’s statutory
+authority by effectively creating mandatory disclosure
+
+2
+  The district court also concluded the Prepaid Rule exceeded the
+CFPB’s authority under the Truth In Lending Act. PayPal, Inc. v.
+CFPB, 512 F. Supp. 3d. 1, 12 (D.D.C. 2020). The CFPB does not
+appeal that holding.
+                                8
+
+clauses.” Id. at 9. “Undoubtedly so!” the court exclaimed,
+finding the Rule’s requirements mandatory because they
+“provide[] the specific form, structure, and contents of
+disclosures that providers must use.” Id. The court emphasized
+the CFPB lacked authority under either EFTA or Dodd-Frank
+to issue mandatory model clauses. The court vacated the
+Prepaid Rule “to the extent that the short-form disclosure
+requirement provides [for] mandatory disclosure” and declined
+to reach the remainder of PayPal’s claims. Id. at 12. The CFPB
+appealed.
+
+                                II.
+
+     The legal question presented on appeal is a narrow one.
+The CFPB does not dispute, for the purposes of this case, that
+it lacks the statutory authority to issue mandatory model
+clauses. Oral Arg. Tr. 9:3–10. Rather, the CFPB maintains the
+Prepaid Rule does not in fact impose mandatory model clauses.
+In response, PayPal argues the Rule effectively imposes
+mandatory model clauses for which the CFPB has no authority
+under either EFTA or Dodd-Frank.
+
+     In light of the parties’ arguments and the district court’s
+decision, we begin by considering whether the Prepaid Rule
+imposes mandatory model clauses. We first consider the text
+and structure of EFTA, which establishes that the term “model
+clause” means specific, copiable language—not content or
+formatting requirements. Applying this definition, we conclude
+the Prepaid Rule does not impose mandatory model clauses.3
+
+
+3
+  In its briefing before us, PayPal argues only that the CFPB lacks
+statutory authority to impose formatting and content requirements
+because these requirements constitute mandatory model clauses.
+This opinion therefore does not address the district court’s
+                                9
+
+                               A.
+
+     “Model clause” is not defined in EFTA, so we look to the
+meaning of the term in its statutory context. See Robinson v.
+Shell Oil Co., 519 U.S. 337, 341 (1997). In EFTA, “model
+clause” has a particularized legal meaning. Model clauses must
+be designed “to facilitate compliance with the disclosure
+requirements of section 1693c” and “to aid consumers in
+understanding the rights and responsibilities of participants in
+electronic fund transfers.” 15 U.S.C. § 1693b(b). The model
+clauses serve important legal functions—to ensure financial
+institutions are complying with their statutory disclosure
+requirements and to help protect the legal rights of consumers
+who make electronic fund transfers. In addition, a model clause
+provides a safe harbor from liability for financial institutions.
+Id. § 1693m(d)(2). Within EFTA, a “model clause” serves to
+disclose and protect legal rights and therefore the term has a
+distinct legal meaning.
+
+     In legal parlance, “model clause” has a particular meaning.
+A “model” legal instrument usually refers to text that is specific
+enough either to be adopted in full or adapted as needed. For
+example, the “Model Rules of Professional Conduct” are a
+uniform set of “ethical guidelines for lawyers” that can be
+“adopted as law, sometimes with modifications.” Model Rules
+of Professional Conduct, BLACK’ S LAW D ICTIONARY (11th ed.
+2019). The “Model Penal Code” is “[a] criminal code drafted
+and proposed by the American Law Institute” that is “used as
+the basis for criminal-law revision by many states.” Model
+Penal Code, BLACK’S LAW DICTIONARY (11th ed. 2019). And
+a “model act” is a bill that is “proposed as guideline legislation
+for the states to borrow from or adapt to suit their individual
+
+conclusion that the CFPB lacks statutory authority to impose
+mandatory clauses. See PayPal, 512 F. Supp. 3d at 7–9.
+                                 10
+
+needs.” Model Act, BLACK’ S LAW D ICTIONARY (11th ed. 2019).
+Model legal documents refer to specific, copiable language that
+lawyers, legislators, and contracting parties can adopt in full or
+adapt as needed.
+
+     When Congress used the phrase “model clause” in the
+context of EFTA’s legal liabilities, obligations, and
+protections, it adopted the legal understanding of the term. See
+ANTONIN SCALIA & BRYAN A. GARNER, READING LAW 73
+(2012) (“[W]hen the law is the subject, ordinary legal meaning
+is to be expected, which often differs from common
+meaning.”). EFTA provides that financial institutions must
+disclose “terms and conditions … in readily understandable
+language.” 15 U.S.C. § 1693c(a). Mirroring this requirement,
+the CFPB must “issue model clauses … by utilizing readily
+understandable      language.”      Id. § 1693b(b).     Financial
+institutions are protected against liability if they “utilize[] an
+appropriate model clause.” Id. § 1693m(d)(2). Read together,
+these provisions demonstrate that a “model clause” is a
+particular set of words, namely “readily understandable
+language,” that prepaid account providers can adopt to satisfy
+their disclosure obligations and to benefit from the Act’s safe-
+harbor provision.4
+
+
+
+
+4
+  Citing City of Arlington v. FCC, 569 U.S. 290 (2013), the CFPB
+maintains we should defer to its “interpretation of the scope of its
+rulemaking authority” because “Congress has not directly spoken to
+the precise question [of] whether the Bureau may regulate the content
+and formatting of disclosures.” We reject that invitation. The
+meaning of “model clause” is clear from the statutory text and
+context, and “deference does not apply where the statute is clear.”
+Johnson v. Guzman Chavez, 141 S. Ct. 2271, 2291 n.9 (2021).
+                              11
+
+                              B.
+
+    Assuming the CFPB lacks authority to impose mandatory
+model clauses and applying the above understanding of “model
+clause,” we hold the Prepaid Rule did not mandate model
+clauses.
+
+     The Prepaid Rule requires financial providers to disclose
+certain fees by using a suggested phrase “or a substantially
+similar term.” For example, providers “shall provide a
+disclosure” for a “[c]ash reload fee … using the term ‘Cash
+reload’ or a substantially similar term.” 12 C.F.R.
+§ 1005.18(b)(2)(iv). They must also disclose a “periodic
+fee … using the term ‘Monthly fee,’ ‘Annual fee,’ or a
+substantially similar term.” Id. § 1005.18(b)(2)(i). In each
+instance, the Rule suggests the use of a particular word or
+phrase, but also provides an option to use terms that are
+“substantially similar.” The CFPB interprets the Prepaid Rule
+to require the disclosure of certain enumerated fees. See 12
+C.F.R. pt. 1005, supp. I, cmt. 18(b)(2)-1. But the CFPB has not
+mandated that financial providers use specific, copiable
+language to describe those fees. Rather, providers can choose
+to use the CFPB’s model clauses or they can use other language
+that is “substantially similar.” Because the Prepaid Rule does
+not mandate the use of specific language, the CFPB has not
+mandated a “model clause” in contravention of EFTA.
+
+                              C.
+
+     PayPal maintains the Prepaid Rule mandates a “model
+clause,” but its arguments fail to account for EFTA’s text and
+structure. First, PayPal contends the Rule’s allowance for
+“substantially similar language” unduly narrows the field of
+usable language and effectively mandates a model clause. We
+recognize that, as a practical matter, the range of permissible
+                               12
+
+wording available to satisfy a short form disclosure
+requirement may be quite limited. There are, after all, only so
+many ways to describe the fee charged for account inactivity or
+the frequency with which a fee is charged. The limited range of
+permissible wording, however, stems not from the model
+clauses, but from the legally required disclosures. EFTA
+requires financial providers to make certain disclosures of fees
+and terms, disclosures that are further specified in the Rule. As
+PayPal concedes, “the Bureau can require financial institutions
+to disclose certain information.” The specific statutory and
+regulatory disclosure requirements may at times constrain the
+range of disclosure language, but that does not convert optional
+model clauses into mandatory ones.
+
+     Second, although PayPal does not offer a clear definition
+of “model clause,” it assumes that model clauses include some
+combination of specific wording, content, and formatting
+requirements. PayPal also relies on the district court’s
+conclusion that the CFPB’s model clauses are mandatory
+because they “provide[] the specific form, structure, and
+contents of disclosures that providers must use.” PayPal, 512
+F. Supp. 3d at 9. Because the Prepaid Rule imposes certain top-
+line requirements, such as particular content and formatting
+obligations, PayPal maintains the Rule impermissibly
+mandates a model clause.
+
+     In EFTA, however, “model clause” means specific
+copiable language. PayPal’s interpretation of model clause to
+include content and formatting requirements cannot be
+reconciled with the statute. With respect to the content of
+model clauses, specific information “shall be disclosed.” 15
+U.S.C. § 1693c(a). And separately, the CFPB must issue
+“model clauses” suggesting language providers can use to
+satisfy the disclosure requirements. Id. § 1693b(b). The model
+                               13
+
+clauses must be designed to “facilitate compliance” with
+“disclosure requirements.” Id. EFTA makes clear that model
+clauses and disclosure requirements are discrete terms.
+Disclosure requirements regulate content, while model clauses
+suggest the language that may be used for the disclosure. The
+fact the Prepaid Rule requires the disclosure of certain content
+does not, standing alone, mandate a model clause.
+
+     Formatting is similarly not part of a “model clause.” As we
+have already explained, a model clause, in legal parlance, does
+not ordinarily include formatting requirements. For example, a
+judge could copy verbatim the words of a model jury
+instruction, but this ordinarily would not include any particular
+typeface, indentation, or structure. Specific, copiable language
+is the essential element of a model clause. The Prepaid Rule
+mandates certain formatting, but such requirements fall outside
+the ambit of a “model clause.”
+
+     Other statutory provisions underscore the limits of a model
+clause. Congress frequently provides for formatting
+requirements as part of the definition of a “model form.” For
+example, in the private education loan context, the CFPB must
+develop “model forms” to aid regulatory compliance, and those
+forms must, among other things, have “a clear format and
+design” and “use an easily readable type font.”
+Id. § 1638(e)(5). Dodd-Frank defines “model form” to include
+“a clear format and design, such as an easily readable type font”
+and “plain language comprehensible to consumers.” 12 U.S.C.
+§ 5532(b)(2). In some instances, Congress directed the CFPB
+to issue both model clauses and model forms. See
+id. § 4308(b)(1) (providing in the Truth in Savings Act that the
+CFPB “shall publish model forms and clauses”). By contrast,
+in EFTA Congress simply required the CFPB to issue “model
+clauses” and made no reference to “model form[s].”
+                              14
+
+     PayPal maintains the Prepaid Rule mandates model
+clauses because it “dictates the organization of the short-form
+disclosure clauses in painstaking detail, down to the pixel.” In
+Dodd-Frank and other statutes, such formatting requirements
+are often included as part of the definition of a “model form,”
+suggesting that they are not part of a typical model clause.
+Because PayPal’s reading would collapse the distinction
+between model clauses and forms, we decline to adopt it.
+
+                          *    *   *
+
+     Addressing the narrow issue before us, we conclude the
+CFPB’s Prepaid Rule does not mandate a “model clause” in
+contravention of EFTA. That the Rule’s content and formatting
+requirements do not fall within the meaning of “model clause”
+does not necessarily mean the CFPB can impose whatever
+content and formatting requirements it chooses. On remand, the
+district court may consider PayPal’s other challenges to the
+Rule, including the APA and constitutional claims, which
+remain to be addressed.
+
+     For the foregoing reasons, we reverse the judgment of the
+district court and remand for further proceedings consistent
+with this opinion.
+
+                                                   So ordered.
+

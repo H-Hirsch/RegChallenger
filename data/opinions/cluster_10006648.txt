@@ -1,0 +1,2272 @@
+                  FOR PUBLICATION
+
+   UNITED STATES COURT OF APPEALS
+        FOR THE NINTH CIRCUIT
+
+GONZALES & GONZALES BONDS                 No. 22-16552
+& INSURANCE AGENCY, INC.;
+TOPPER BROKERAGE, INC.;                      D.C. No.
+LEXINGTON NATIONAL                        4:20-cv-08897-
+INSURANCE CORPORATION;                        KAW
+AMERICAN SURETY COMPANY;
+ALLEGHENY CASUALTY
+COMPANY,                                    OPINION
+
+               Plaintiffs-Appellees,
+
+ v.
+
+U.S. DEPARTMENT OF
+HOMELAND SECURITY; CHAD F.
+WOLF, Under the title of Acting
+Secretary of Homeland Security;
+UNITED STATES CITIZENSHIP
+AND IMMIGRATION SERVICES;
+KENNETH T. CUCCINELLI, Under
+the title of Senior Official Performing
+the Duties of the Deputy Secretary of
+Homeland Security,
+
+               Defendants-Appellants.
+2 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+         Appeal from the United States District Court
+            for the Northern District of California
+       Kandis A. Westmore, Magistrate Judge, Presiding
+
+           Argued and Submitted October 19, 2023
+                 San Francisco, California
+
+                       Filed July 18, 2024
+
+    Before: Carlos T. Bea, Morgan Christen, and Anthony D.
+                   Johnstone, Circuit Judges.
+
+                   Opinion by Judge Bea;
+               Concurrence by Judge Johnstone;
+                  Dissent by Judge Christen
+
+
+                          SUMMARY *
+
+
+               Federal Vacancies Reform Act
+
+    In an action in which companies that post immigration
+surety bonds challenged a Department of Homeland Security
+(“DHS”) rule on the ground that the Acting Secretary of
+DHS who promulgated the rule was not duly appointed, the
+panel reversed the district court’s summary judgment in
+favor of Plaintiffs and remanded.
+   An immigration bond secures a promise that an alien will
+appear for immigration proceedings. In 2020, Acting
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 3
+
+
+Secretary Chad Wolf promulgated a rule permitting DHS to
+refuse business from certain surety firms (the “Rule”). But,
+as the panel explained, Wolf was not duly appointed under
+the applicable law and thus lacked authority to promulgate
+the Rule. In 2021, Secretary of Homeland Security
+Alejandro Mayorkas, who was duly appointed, ratified the
+Rule.
+    The panel held that the Federal Vacancies Reform Act of
+1998 (“FVRA”) did not bar Mayorkas from ratifying the
+Rule, and that ratification cured any defects in the Rule’s
+promulgation. The panel explained that the Ratification Bar,
+5 U.S.C. § 3348(d)(2), prohibits ratification of certain
+actions taken by a purported officer serving in violation of
+the FVRA. The panel concluded that the Ratification Bar
+applies only to “functions or duties” that are
+“nondelegable.” By the statute’s own definition, the
+Ratification Bar applies only to nondelegable functions or
+duties because only nondelegable functions or duties are
+“required by statute [or regulation] to be performed by the
+applicable officer (and only that officer).” 5 U.S.C.
+§ 3348(a)(2).
+     Judge Johnstone concurred in the lead opinion except for
+its conclusion that the meaning of the phrase “the applicable
+officer (and only that officer)” is plain. Looking to extrinsic
+evidence from the court’s co-equal branches to resolve this
+ambiguity, Judge Johnstone nonetheless concluded that
+“function or duty” includes only the officer’s nondelegable
+duties.
+     Dissenting, Judge Christen wrote that the text, structure,
+and purpose of the FVRA make clear that application of the
+ratification bar does not turn on whether a duty is
+delegable. Rather, the ratification bar applies to all functions
+4 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+and duties that Congress assigns to a single officer (and
+excludes functions and duties that Congress authorizes more
+than one officer to perform). Judge Christen wrote that the
+majority’s decision renders the FVRA a near-dead letter by
+deciding that the FVRA does not apply to the vast majority
+of actions taken by officials serving in violation of the
+FVRA.
+
+
+                       COUNSEL
+
+Joseph C. Gjonola, (argued), Gary A. Nye, and David R.
+Ginsburg, Roxborough Pomerance Nye & Adreani LLP,
+Woodland Hills, California; for Plaintiffs-Appellees.
+Anna O. Mohan (argued) and Melissa N. Patterson,
+Appellate Staff Attorneys; Stephanie Hinds, United States
+Attorney; Brian M. Boynton, Principal Deputy Assistant
+Attorney General; Civil Division, United States Department
+of Justice, Washington, D.C.; James C. Luh, Assistant
+United States Attorney, United States Department of Justice,
+Washington, D.C.; for Defendants-Appellants.
+Brian R. Frazelle (argued), Brianne J. Gorod, and Elizabeth
+B. Wydra, Constitutional Accountability Center,
+Washington, D.C., for Amicus Curiae Constitutional
+Accountability Center.
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 5
+
+
+                         OPINION
+
+BEA, Circuit Judge:
+
+    In certain immigration cases, the Department of
+Homeland Security (“DHS”) requires a bond—similar to a
+bail bond in criminal cases—to avoid detention of the alien
+pending deportation. The bond secures a promise that the
+alien will appear for immigration proceedings, which will
+determine whether the alien can remain in the United States.
+Commercial firms, known as sureties, provide such bonds.
+In 2020, the “Acting Secretary” of the DHS promulgated a
+rule that permitted the agency to refuse business from certain
+surety firms that were serially delinquent in making
+payments for absconding aliens or that had garnered a
+reputation for posting bonds for frequent absconders. See
+Procedures and Standards for Declining Surety Immigration
+Bonds and Administrative Appeal Requirement for
+Breaches, 85 Fed. Reg. 45968, 45968–69 (July 31, 2020)
+(the “Rule”).
+    But some of those sureties that were not too fond of this
+new Rule, which cut into their business, realized that the
+“Acting Secretary” who promulgated the Rule may not have
+been duly appointed. Hence, the Rule might be invalid and
+the sureties might have been improperly banned from doing
+business with the DHS.
+    Unfortunately for the sureties’ pretensions, in 2021
+Secretary of Homeland Security Alejandro Mayorkas, who
+was duly appointed, ratified the Rule. But that leaves the
+question—does the exercise of ratification cure the alleged
+defect in the Rule’s promulgation? We hold that it does.
+Under principles of agency law and Circuit precedent,
+Secretary Mayorkas had the authority to ratify an action
+6 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+taken by an improperly appointed Acting Secretary, who
+would not otherwise have been authorized to take that action.
+See Consumer Fin. Prot. Bureau v. Gordon, 819 F.3d 1179,
+1190–92 (9th Cir. 2016). But there was a possible hurdle to
+the exercise of ratification. Under the so-called “Ratification
+Bar,” Secretary Mayorkas could not ratify promulgation of
+the Rule if such promulgation could be performed only by
+the Secretary of Homeland Security himself. See 5 U.S.C.
+§ 3348(a)(2), (d)(2).
+     We conclude that the Secretary had the authority to
+delegate promulgation of the Rule; it was not a function or
+duty singularly entrusted to the Secretary. See 6 U.S.C.
+§ 112(b)(1). Because the Secretary could have delegated
+promulgation of the Rule, Secretary Mayorkas could ratify
+the 2020 promulgation of the Rule, regardless whether the
+Rule’s promulgation had been actually delegated. Thus,
+ratification of the Rule by Secretary Mayorkas cured any
+defect in the Rule’s promulgation.
+     The question in this case is whether 5 U.S.C.
+§ 3348(d)(2), the Ratification Bar, which prohibits
+ratification of certain actions taken by a purported officer
+serving in violation of the Federal Vacancies Reform Act of
+1998 (“FVRA”), applies only to “functions or duties” that
+are singularly entrusted by statute or regulation to that
+officer, and in other words are “nondelegable.” We hold that
+it does. By the statute’s own definition, 1 § 3348(d)’s
+Ratification Bar applies only to nondelegable functions or
+duties because only nondelegable functions or duties are
+“required by statute [or regulation] to be performed by the
+applicable officer (and only that officer).” 5 U.S.C.
+
+1
+  Judge Johnstone concurs in this opinion, except for its conclusion that
+the meaning of the statute is plain and unambiguous. Con. Op. 33–34.
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 7
+
+
+§ 3348(a)(2). Thus, we hold that the district court erred in
+granting Plaintiffs’ motion for summary judgment because
+the FVRA did not bar Secretary Mayorkas from ratifying the
+Rule, and that ratification cured any defects in the Rule’s
+2020 promulgation.
+  I. BACKGROUND
+    Article II of the Constitution gives the President the
+authority to appoint “Officers of the United States,” but
+requires the President to obtain the “Advice and Consent of
+the Senate” to make those appointments effective. U.S.
+CONST. art. II, § 2, cl. 2. To avoid negative repercussions of
+vacancies in those positions, “Congress has long accounted
+for th[e] reality” of vacancies “by authorizing the President
+to direct certain officials to temporarily carry out the duties
+of a vacant . . . office in an acting capacity, without Senate
+confirmation.” NLRB v. SW Gen., Inc., 580 U.S. 288, 293
+(2017). The current version of that authorization is the
+FVRA, 5 U.S.C. §§ 3345–49e.
+    Under the FVRA, when an Executive agency officer
+“whose appointment to office is required to be made by the
+President, by and with the advice and consent of the Senate,
+dies, resigns, or is otherwise unable to perform the functions
+and duties of the office[,] the first assistant to the office of
+such officer shall perform the functions and duties of the
+office temporarily in an acting capacity,” 5 U.S.C.
+§ 3345(a)(1), unless the President selects either another
+officer who was previously Presidentially appointed and
+Senate-confirmed or an officer or employee of the same
+agency who has served a specified time in that agency, id.
+§ 3345(a)(2)–(3).
+    The FVRA is the “exclusive means for temporarily
+authorizing an acting official to perform the functions and
+8 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+duties of any office of an Executive agency . . . for which
+appointment is required to be made by the President, by and
+with the advice and consent of the Senate, unless a statutory
+provision expressly authorizes the President, a court, or the
+head of an Executive department” to designate the acting
+officer, a statute designates the acting officer, or the
+President makes an appointment during a Senate recess. Id.
+§ 3347(a).
+    In December 2016, President Obama exercised his
+authority under § 3345(a) to establish an order of succession
+for the Office of Secretary of Homeland Security in case of
+an office vacancy. Exec. Order No. 13753, 81 Fed. Reg.
+90667 (Dec. 9, 2016) (“Executive Order 13753”). Later that
+month, Congress amended the Homeland Security Act to
+give the Secretary of Homeland Security independent
+authority to create an order of succession, but did not change
+the order of succession established by President Obama’s
+Executive Order 13753. National Defense Authorization
+Act for Fiscal Year 2017, Pub. L. No. 114-328, § 1903, 130
+Stat. 2000, 2672 (2016) (codified at 6 U.S.C. § 113(g)).
+President Obama signed the Act, and it became law.
+     A. Chad Wolf’s Ascension to “Acting Secretary” of
+        the DHS
+    In April 2019, Kirsjten Nielsen, on her last day of service
+as Secretary of Homeland Security, modified an order titled
+“DHS Orders of Succession and Delegations of Authority
+for Named Positions,” also known as Delegation 00106.
+Delegation 00106, both before and as amended, provided in
+subparts II.A–B:
+
+       A. In case of the Secretary’s death,
+          resignation, or inability to perform the
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 9
+
+
+          functions of the Office, the orderly
+          succession of officials is governed by
+          Executive Order 13753, amended on
+          December 9, 2016.
+       B. I hereby delegate to the officials
+          occupying the identified positions in the
+          order listed (Annex A), my authority to
+          exercise the powers and perform the
+          functions and duties of my office, to the
+          extent not otherwise prohibited by law, in
+          the event I am unavailable to act during a
+          disaster or catastrophic emergency.
+
+(emphasis added). In a document titled “Amending the
+Order of Succession in the Department of Homeland
+Security,” Secretary Nielsen invoked her authority under 6
+U.S.C. § 113(g)(2), and “designate[d] the order of
+succession for the Secretary of Homeland Security as
+follow[ed].” What followed were instructions to strike
+Annex A and replace it with a new list, still titled “Annex A.
+Order for Delegation of Authority by the Secretary of the
+Department of Homeland Security.” Notably, Secretary
+Nielsen did not change the text of Delegation 00106,
+subpart II.A; so, Annex A, both before and after Secretary
+Nielsen’s order, applied only to delegations occurring
+“during a disaster or catastrophic emergency.” As a result,
+absent a delegation during a disaster or catastrophic
+emergency, subpart II.A, “the orderly succession of
+officials” to the Secretary’s office, was still “governed by
+Executive Order 13753.”
+   As of Secretary Nielsen’s last day in office, the list of
+names in Secretary Nielsen’s Annex A and Executive Order
+13753 differed. Annex A listed (1) the Deputy Secretary of
+10 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+Homeland Security, (2) the Under Secretary for
+Management, (3) the Commissioner of Customs and Border
+Protection (“CBP”), and (4) the Administrator of the Federal
+Emergency Management Agency (“FEMA”), in that order.
+In contrast, Executive Order 13753’s order of succession
+began with the same first two positions as Annex A, (1) the
+Deputy Secretary of Homeland Security and (2) the Under
+Secretary for Management, but then it listed (3) the
+Administrator of FEMA (rather than the Commissioner of
+CBP) followed by (4) the Under Secretary for National
+Protection and Programs (“NPP”), renamed the Director of
+the Cybersecurity and Infrastructure Security Agency
+(“CISA”) (rather than the Administrator of FEMA). 2 81
+Fed. Reg. at 90667.
+    When Secretary Nielsen resigned the next day, the
+offices of Deputy Secretary of Homeland Security and
+Under Secretary for Management were both vacant, so the
+Commissioner of CBP, Kevin McAleenan, became “Acting
+Secretary,” apparently relying on Secretary Nielsen’s
+amendments to Annex A. No one disputes that there was no
+applicable “disaster or catastrophic emergency” on that day.
+So, under the operative orders—Delegation 00106, subpart
+II.A, and Executive Order 13753—and because the FEMA
+Administrator office was also vacant, the Director of the
+CISA, Christopher Krebs, should have assumed the role of
+Acting Secretary, rather than McAleenan. However, Krebs
+
+
+
+2
+  The NPP was renamed CISA in November 2018. Cybersecurity and
+Infrastructure Security Agency Act of 2018, Pub. L. No. 115-278,
+§ 2202, 132 Stat. 4168, 4169 (2018) (codified at 6 U.S.C. § 652). The
+position Under Secretary for the NPP refers to the Director of the CISA.
+6 U.S.C. § 652(b)(3).
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 11
+
+
+did not do so; instead, McAleenan assumed the role. Thus,
+McAleenan was not a duly appointed Acting Secretary.
+    Nonetheless, in November 2019, McAleenan amended
+Delegation 00106, changing subpart II.A to reference Annex
+A instead of Executive Order 13753. McAleenan also
+amended Annex A, replacing the fourth position with the
+Under Secretary for Strategy, Policy, and Plans. Soon
+thereafter, McAleenan resigned, and because the first three
+positions of Annex A were vacant, the Under Secretary for
+Strategy, Policy, and Plans—Chad Wolf—became “Acting
+Secretary” pursuant to McAleenan’s purported order of
+succession, rather than the Director of the CISA, Christopher
+Krebs, as would have ensued under Executive Order 13753.
+No one disputes that there was no applicable “disaster or
+catastrophic emergency” on that day either. Hence, Wolf
+was no more duly appointed than had been McAleenan.
+     B. “Acting Secretary” Wolf’s Promulgation of the
+        Rule
+    As noted, the DHS has a policy of releasing aliens from
+custody while removal proceedings are pending if they post
+an immigration bond, a guarantee that the alien will appear
+upon government request for future proceedings or
+otherwise cooperate with Immigration and Customs
+Enforcement (“ICE”) officials. See 85 Fed. Reg. at 45968–
+69. One type of bond is a surety bond, which is guaranteed
+by companies certified by the Department of Treasury to
+underwrite federal bonds. Id. at 45969. If an alien fails to
+appear to removal proceedings, the DHS can determine
+whether the bond has been breached, and if so, require the
+surety to pay the bond amount to the government. Id. at
+45969. But the sureties do not always pay, and the DHS
+12 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+asserts this has deprived the DHS of millions of dollars. See
+id. at 45970.
+    To address this concern, Wolf promulgated the Rule in
+July 2020 while purportedly serving as “Acting Secretary.”
+See id. at 45968. The Rule delegated to ICE the discretion
+to reject surety bonds from companies with outstanding
+balances owed and unpaid to the DHS or with high breach
+rates, and further required administrative exhaustion, filings
+and procedures within DHS by sureties wishing to challenge
+DHS bond-breach decisions, prior to the sureties seeking
+relief by filing actions in court. See id. at 45971–73.
+      C. Procedural History and Ratification of the Rule
+    In December 2020, five companies engaged in the
+business of posting immigration surety bonds with the DHS
+(“Plaintiffs”) sued the DHS, ICE, Wolf, and Kenneth
+Cuccinelli, under the title of Senior Official Performing the
+Duties of the Deputy Secretary of Homeland Security
+(collectively, “the government”) in the United States District
+Court for the Northern District of California, claiming that
+the Rule should be set aside under the Administrative
+Procedure Act (“APA”), 5 U.S.C. §§ 701–06. 3 Plaintiffs
+argued the Rule had not been properly promulgated because
+Wolf was not properly serving as Acting Secretary of DHS
+when he purported to promulgate the Rule.
+     However, in April 2021, Secretary Alejandro Mayorkas,
+who no one disputes was properly appointed by President
+Biden and confirmed by the Senate, ratified the Rule, stating
+that he had “full knowledge” of the Rule and believed
+ratification was “consistent with the Department’s
+
+3
+ The parties consented to the jurisdiction of a United States Magistrate
+Judge pursuant to 28 U.S.C. § 636.
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 13
+
+
+authorities.” In August 2021, Plaintiffs amended their
+complaint to state that Secretary Mayorkas did not have the
+authority to ratify Wolf’s promulgation of the Rule, but the
+government nonetheless moved to dismiss the amended
+complaint under Federal Rule of Civil Procedure 12(b)(6).
+In denying the government’s motion to dismiss the amended
+complaint, the district court held that Wolf had never
+lawfully held the title of “Acting Secretary” and that
+Secretary Mayorkas’s ratification of the Rule was barred by
+“the FVRA’s plain and unambiguous language,” the
+Ratification Bar.
+    In May 2022, Plaintiffs moved for summary judgment
+on the issue whether the “Rule was lawfully promulgated.”
+The district court granted Plaintiffs’ motion predominantly
+for the same reasons it had earlier denied the government’s
+12(b)(6) motion to dismiss the amended complaint. On the
+question whether Wolf was validly appointed as Acting
+Secretary, the district court found that Secretary Nielsen
+failed properly to amend the order of succession, rendering
+McAleenan’s and Wolf’s purported ascension to Acting
+Secretary invalid and their service improper. On the
+question whether Secretary Mayorkas’s ratification cured
+the defect, the district court echoed its previous order and
+held that the FVRA barred ratification of the improperly
+promulgated Rule. The district court granted Plaintiffs’
+motion for summary judgment and vacated the Rule. The
+Plaintiff sureties were back in business. But the government
+timely appealed.
+ II. JURISDICTION & STANDARD OF REVIEW
+    We have jurisdiction over this appeal under 28 U.S.C.
+§ 1291. We review the district court’s grant of summary
+14 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+judgment de novo. Desire, LLC v. Manna Textiles, Inc., 986
+F.3d 1253, 1259 (9th Cir. 2021).
+  III. DISCUSSION
+     A. DHS Order of Succession
+    On Secretary Nielsen’s last day serving as Secretary of
+Homeland Security, she failed to amend Delegation 00106,
+subpart II.A—the order of succession to her office “[i]n case
+of the Secretary’s death, resignation, or inability to perform
+the functions of the Office.” Instead, she amended Annex
+A—the order of delegation in the event she was “unavailable
+to act during a disaster or catastrophic emergency” pursuant
+to Delegation 00106, subpart II.B. Hence, her amended
+order of delegation could be effective only during a “disaster
+or catastrophic emergency.” The parties do not dispute that
+neither McAleenan’s nor Wolf’s succession to the
+secretaryship of DHS occurred during such events. Despite
+the plain language of the order, the government has argued—
+and at least seven times failed to persuade district courts—
+that Secretary Nielsen’s error should be excused. See
+Asylumworks v. Mayorkas, 590 F. Supp. 3d 11, 20–21
+(D.D.C. 2022); Behring Reg’l Ctr. LLC v. Wolf, 544 F. Supp.
+3d 937, 943–44 (N.D. Cal. 2021); Chamber of Com. of U.S.
+v. U.S. Dep’t of Homeland Sec., No. 20-cv-07331-JSW,
+2021 WL 4198518, at *4–5 (N.D. Cal. Sept. 15, 2021);
+Pangea Legal Servs. v. U.S. Dep’t of Homeland Sec., 512 F.
+Supp. 3d 966, 974–75 (N.D. Cal. 2021); La Clínica de la
+Raza v. Trump, No. 19-cv-04980-PJH, 2020 WL 7053313,
+at *6–7 (N.D. Cal. Nov. 25, 2020); Batalla Vidal v. Wolf,
+501 F. Supp. 3d 117, 131–32 (E.D.N.Y. 2020); Casa de Md.,
+Inc. v. Wolf, 486 F. Supp. 3d 928, 957–60 (D. Md. 2020).
+   At this point, the government’s position that Secretary
+Nielsen’s error should be excused seems, at best, untenable,
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 15
+
+
+and at worst, frivolous. And though the government assured
+us at oral argument that the government’s intentions were
+not “nefarious,” Secretary Nielsen’s best intentions did not
+transform the modification of Annex A into a modification
+of Delegation 00106, subpart II.A. As a result, McAleenan
+improperly assumed the role of “Acting Secretary” over
+Christopher Krebs, who was next in line under Executive
+Order 13753. Therefore, McAleenan was without authority
+in November 2019 to amend Delegation 00106, though his
+attempt demonstrated awareness that his predecessor should
+have amended subpart II.A to reference Annex A instead of
+Executive Order 13753. When McAleenan resigned, Wolf
+improperly assumed the role of “Acting Secretary” pursuant
+to McAleenan’s version of Annex A instead of Executive
+Order 13753. Therefore, “Acting Secretary” Wolf lacked
+authority to promulgate the Rule. Undeterred, Wolf went on
+to promulgate the contested Rule.
+     B. Ratification and the FVRA’s Ratification Bar
+   This raises the question whether, despite Wolf’s
+improper service as “Acting Secretary,” any defect in the
+2020 promulgation of the Rule was cured by Secretary
+Mayorkas’s 2021 ratification of the Rule, or whether any
+such ratification was barred by the FVRA.
+       1. Secretary Mayorkas’s authority to ratify the
+          Rule
+    The Supreme Court has instructed that when one officer
+acts without authority, the validity of an “‘after-the-fact’
+authorization” by another officer with authority to take the
+action “is at least presumptively governed by principles of
+agency law, and in particular the doctrine of ratification.”
+FEC v. NRA Pol. Victory Fund, 513 U.S. 88, 98 (1994); see
+Gordon, 819 F.3d at 1191–92 (following this guidance and
+16 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+discussing the Second and Third Restatements of Agency).
+“[T]he party [or principal] ratifying should be able not
+merely to do the act ratified at the time the act was done, but
+also at the time the ratification was made.” Cook v. Tullis,
+85 U.S. 332, 338 (1874); see also RESTATEMENT (SECOND)
+OF AGENCY § 84(1) (AM. L. INST. 1958). If properly ratified,
+then the original act is normally treated as if it had been
+properly performed. See RESTATEMENT (SECOND) OF
+AGENCY § 100 cmt. a.
+    Where an invalidly appointed person takes an action on
+behalf of an agency, a subsequent, valid ratification cures
+any deficiencies in the original appointment. Gordon, 819
+F.3d at 1190–91. In Gordon, the Consumer Financial
+Protection Bureau (“CFPB”) brought a civil enforcement
+action against a lawyer for violations of the Consumer
+Financial Protection Act based on unfair and deceptive
+practices. Id. at 1186. The lawyer challenged the
+prosecution on the grounds that the CFPB brought the action
+while being led by an improperly appointed Director. Id.
+The lawyer claimed the President had unconstitutionally
+appointed the Director. Id. President Obama had initially
+relied on his recess-appointment power to appoint Richard
+Cordray as Director. Id. at 1185. But after the Supreme
+Court rejected other similar appointments in NLRB v. Noel
+Canning, 573 U.S. 513, 518–19 (2014), President Obama
+“renominated” Cordray, and he was later confirmed by the
+Senate. Gordon, 819 F.3d at 1185. Cordray then ratified his
+previous actions, including the enforcement action against
+the lawyer. Id. at 1186. Analyzing the Second and Third
+Restatements of Agency, this Court held that Cordray’s
+proper appointment and his ratification of prior acts cured
+any claimed appointment defects under Article II of the
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 17
+
+
+Constitution. Id. at 1191–92 (citing RESTATEMENT
+(SECOND) OF AGENCY § 93(3)).
+    Here, we similarly find that Secretary Mayorkas, who
+was appointed by President Biden and confirmed by the
+Senate in February 2021, had the authority under agency law
+to ratify the Rule in April 2021. Like in Gordon, Secretary
+Mayorkas ratified Wolf’s promulgation of the Rule. At all
+times relevant here, it is undisputed that the principal—the
+Secretary of Homeland Security—had the authority to
+“establish such regulations; prescribe such forms of bond,
+reports, entries, and other papers; issue such instructions;
+and perform such other acts as he deems necessary for
+carrying out his authority.” 8 U.S.C. § 1103(a)(3); see
+Gordon, 819 F.3d at 1191 (“[I]f the principal (here, CFPB)
+had authority to bring the action in question, then the
+subsequent . . . ratification . . . is sufficient.”). Because the
+Secretary of Homeland Security had the authority to
+promulgate the Rule “at the time the act was done, [and] also
+at the time the ratification was made,” Secretary Mayorkas
+had authority under agency law to ratify the Rule. See
+Gordon, 819 F.3d at 1191 (quoting NRA Pol. Victory Fund,
+513 U.S. at 98) (emphasis removed); see also Kajmowicz v.
+Whitaker, 42 F.4th 138, 147 (3d Cir. 2022) (“If a lawfully
+appointed official ratifies his predecessor’s action and does
+so in accordance with the law, that ratification may ‘remedy
+a defect arising from the decision of an improperly
+appointed’ predecessor.” (quoting Jooce v. FDA, 981 F.3d
+26, 28 (D.C. Cir. 2020))).
+        2. The FVRA’s Ratification Bar
+   But not so fast. The authority to ratify is not unlimited.
+One limit on the ability to ratify the unauthorized actions of
+a purported Acting Secretary is the FVRA’s Ratification
+18 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+Bar—the very crux of this case. See 5 U.S.C. § 3348(d)(2).
+The parties dispute the applicability of the Ratification Bar.
+The subsection that contains the Ratification Bar provides
+that actions “taken by any person who is not acting under”
+the FVRA “in the performance of any function or duty of a
+vacant office . . . shall have no force or effect” and “may not
+be ratified.” Id. § 3348(d) (emphasis added). Unfortunately,
+the district court failed to grapple with § 3348’s definition of
+“function or duty,” thus ignoring a key aspect of the statute
+being interpreted. See id. § 3348(a)(2). Because this Court
+has never interpreted the Ratification Bar provision of the
+FVRA, we do so now and join the other circuit courts in
+holding that the Ratification Bar embodied in § 3348(d)
+applies only to those duties of an officer that are
+nondelegable. See Kajmowicz, 42 F.4th at 148; Arthrex, Inc.
+v. Smith & Nephew, Inc., 35 F.4th 1328, 1336 (Fed. Cir.
+2022), cert. denied, 143 S. Ct. 2493 (2023).
+   We hold that promulgation of the Rule was not a
+nondelegable duty of the Secretary of Homeland Security.
+Since promulgation of the Rule could have been delegated
+by the Secretary to another person, and was not an action
+which only the Secretary could take, the Ratification Bar
+does not invalidate Secretary Mayorkas’s ratification of
+Wolf’s promulgation of the Rule.
+    As always, we “begin by analyzing the statutory
+language, ‘assum[ing] that the ordinary meaning of that
+language accurately expresses the legislative purpose.’”
+Hardt v. Reliance Standard Life Ins. Co., 560 U.S. 242, 251
+(2010) (alteration in original) (quoting Gross v. FBL Fin.
+Servs., Inc., 557 U.S. 167, 175 (2009)). And where statutory
+language is plain and unambiguous, it must be enforced
+“according to its terms.” Id.
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 19
+
+
+  In prescribing the penalties for failure to comply with the
+FVRA, § 3348(d) provides:
+
+   (1) An action taken by any person who is not
+   acting under [the FVRA] in the performance of
+   any function or duty of a vacant office to which
+   [the FVRA applies] shall have no force or effect.
+   (2) An action that has no force or effect under
+   paragraph (1) may not be ratified.
+
+Id. (emphasis added). Notably, “function or duty” is a term
+defined in the same statute:
+
+   (a) In this section--
+   ...
+       (2) the term “function or duty” means any function
+       or duty of the applicable office that--
+       (A) (i) is established by statute; and
+           (ii) is required by statute to be performed by the
+           applicable officer (and only that officer); or
+       (B) (i)(I) is established by regulation; and
+              (II) is required by such regulation to be
+              performed by the applicable officer (and only
+              that officer); and
+           (ii) includes a function or duty to which clause
+           (i)(I) and (II) applies, and the applicable
+           regulation is in effect at any time during the 180-
+           day period preceding the date on which the
+           vacancy occurs.
+
+Id. § 3348(a) (emphasis added).
+   The plain and unambiguous language of § 3348(d)(1),
+and subsection (d)(2)’s Ratification Bar, applies only to “any
+20 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+function or duty of a vacant office.” § 3348(d)(1) (emphasis
+added). As “function or duty” is defined within § 3348 as
+one that is “required by statute to be performed by the
+applicable officer (and only that officer),” the plain language
+of that definition is determinative. See Stenberg v. Carhart,
+530 U.S. 914, 942 (2000) (“When a statute includes an
+explicit definition, we must follow that definition . . . .”).
+Further, it is “a cardinal principle of statutory construction
+that we must ‘“give effect, if possible, to every clause and
+word of a statute.”’” Williams v. Taylor, 529 U.S. 362, 404
+(2000) (quoting United States v. Menasche, 348 U.S. 528,
+538–39 (1955)); see ANTONIN SCALIA & BRYAN A. GARNER,
+READING LAW: THE INTERPRETATION OF LEGAL TEXTS 174–
+79 (2012) (discussing the surplusage canon).
+    Equipped with these guiding principles, the plain and
+unambiguous text and the FVRA’s structure support an
+interpretation of “function or duty” that includes a
+Ratification Bar only to exclusive, or nondelegable, duties of
+the Secretary. We explain below why the promulgation of
+the Rule is not a “function or duty” which a statute or
+regulation requires only the Secretary to perform, but a duty
+which the Secretary can lawfully delegate. Thus, the
+Ratification Bar does not apply here.
+           a. Text
+    A “function or duty” under § 3348 must be exclusive to
+the officer, or nondelegable, based on the plain and
+unambiguous meaning of the parenthetical modifier “and
+only that officer.” 5 U.S.C. § 3348(a)(2). Though Plaintiffs
+correctly note that the word nondelegable “appears nowhere
+in the statute,” to assign the parenthetical modifier any other
+interpretation would strain the plain meaning of the phrase
+“and only that officer.” In 1998, when the FVRA was
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 21
+
+
+passed, the pertinent definition of the adverb “only” meant
+what it means today: “solely, exclusively.” MERRIAM-
+WEBSTER’S COLLEGIATE DICTIONARY 812 (10th ed. 1998).
+The plain meaning of “only that officer” means the “function
+or duty” must be entrusted to and performed exclusively by
+that officer and no one other than that officer. It does not,
+as the dissent suggests, merely “exclude[] instances in which
+Congress has directed more than one officer to perform a
+function or duty,” each by himself or together with another
+officer. Diss. Op. 51–52. If a statute required a duty to be
+performed by “the Secretary and/or anyone of the
+Secretary’s choosing,” despite no other officer being
+assigned that duty, surely that duty would not constitute a
+“function or duty” under § 3348(a)(2), because that duty
+would not be “required by statute” to be performed by “only
+that officer.” See 5 U.S.C. § 3348(a)(2)(A)(ii). The
+dissent’s interpretation would negate the plain meaning of
+the parenthetical “and only that officer.”
+    The plain meaning of the parenthetical “and only that
+officer” is further clarified by the definition’s introductory
+language. The definition of “function or duty” refers to “the
+applicable office” and then “the applicable officer,” but the
+parenthetical “only that officer” refers to the officer, not the
+office. Id. § 3348(a)(2). By “officer” Congress means “an
+individual who is . . . engaged in the performance of a
+Federal function under authority of law or an Executive act.”
+Id. § 2104(a)(2). By “office” Congress means a particular
+set of functions or duties established by law. See id.
+§ 2104(a)(3) (an officer is “subject to the supervision of an
+authority . . . while engaged in the performance of the duties
+of his office”). Functions and duties are established, or
+vested, in an office. See id. § 3348(a)(2)(A)(i). They are
+performed, and with proper authority may be delegated, by
+22 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+an officer. See id. § 3348(a)(2)(A)(ii). Thus, the “only that
+officer” parenthetical applies to who performs or delegates
+the function or duty (the officer) instead of where the
+function or duty is established or vested (the office).
+Congress chose to define “function or duty” in terms of
+which specific officer is required to perform that duty. That
+choice supports an interpretation that incorporates a
+requirement of nondelegation for the Ratification Bar to
+apply.
+    An interpretation of “function or duty” narrower than
+that proposed by the dissent, and in keeping with this
+opinion, has been endorsed by every other circuit to decide
+the issue, and for sound reasons. See Kajmowicz, 42 F.4th
+at 148; Arthrex, 35 F.4th at 1336 (“This statutory language
+[of § 3348] is unambiguous: the FVRA applies only to
+functions and duties that a [Presidentially appointed and
+Senate-confirmed] officer alone is permitted by statute or
+regulation to perform. It does not apply to delegable
+functions and duties.”).
+     In Kajmowicz, the Third Circuit affirmed a district
+court’s dismissal of a suit challenging the promulgation of a
+rule by a purported “Acting Attorney General.” Kajmowicz,
+42 F.4th at 144. The court held that Attorney General
+William Barr’s later ratification of the rule was not barred by
+the FVRA and foreclosed Kajmowicz’s challenge. Id. at
+144, 154. The court wrote that the statutory language was
+unambiguous and that the definition of “function or duty”
+does not include delegable functions and duties. Id. at 148–
+49. The court was unpersuaded by the fact that § 3348 does
+not contain the words “nondelegable” or “exclusive”
+because “Congress need not have included these terms when
+it already included the parenthetical qualifier ‘and only that
+officer.’” Id. at 148 (quoting § 3348(a)(2)(A)(ii)). The court
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 23
+
+
+also explicitly rejected the argument that “if a statute assigns
+a duty to a single office rather than multiple offices, then it
+does so exclusively.” Id. at 149. Referencing the
+presumption that delegation is “permissible absent
+affirmative evidence of a contrary congressional intent,” the
+court gave “effect to Congress’s decision to define a
+‘function or duty’ in terms of what the statute requires, not
+what it permits.” Id. at 149–50 (quoting La. Forestry Ass’n
+v. Sec’y U.S. Dep’t of Lab., 745 F.3d 653, 671 (3d Cir.
+2014)). Applying this interpretation, and acknowledging
+that “most statutes that confer authority will permit
+subdelegation,” and thus permit ratification under the
+FVRA, 4 the court determined that Attorney General Barr’s
+ratification of the promulgated rule was not prohibited by the
+FVRA and cured any defects. Id. at 151–52.
+    Here, applying the plain text of the statute, the relevant
+question is whether promulgation of immigration surety
+bond rules was a “function or duty” “established by statute”
+and “required by statute to be performed by” the Secretary
+of Homeland Security (and only the Secretary of Homeland
+Security). See 5 U.S.C. § 3348(a)(2)(A). Under 8 U.S.C.
+
+4
+   Judge Fisher’s concurring opinion in Kajmowicz articulated an
+additional requirement to conclude an action is not a “function or duty”
+under § 3348: that the authority for that action not just be delegable but
+have been previously delegated. Kajmowicz, 42 F.4th at 154. This idea
+rests on the misconception that if the officer “has not actually delegated
+the authority to undertake a particular action, the statutory authority
+requires the action to be performed by only the [officer].” Id. As the
+majority opinion in Kajmowicz explained, § 3348(a)(2) is framed in
+terms of what a statute requires, not what it permits. Id. at 150. The
+absence of an officer exercising his authority to delegate a duty has no
+effect on whether a duty is “required by statute to be performed by the
+applicable officer (and only that officer).”              See 5 U.S.C.
+§ 3348(a)(2)(A)(ii) (emphasis added).
+24 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+§ 1103(a)(3), the Secretary of Homeland Security “shall
+establish such regulations; prescribe such forms of bond,
+reports, entries, and other papers; issue such instructions;
+and perform such other acts as he deems necessary for
+carrying out his authority.” And under 6 U.S.C. § 112(b)(1),
+the Secretary “except as otherwise provided by this chapter,
+may delegate any of the Secretary’s functions to any officer,
+employee, or organizational unit of the Department.” This
+broad authority to delegate is reinforced by the presumption
+that “as far as delegation to subordinates is concerned,
+‘[e]xpress statutory authority for delegation is not
+required.’” Frankl v. HTH Corp., 650 F.3d 1334, 1350 (9th
+Cir. 2011) (alteration in original) (quoting Loma Linda Univ.
+v. Schweiker, 705 F.2d 1123, 1128 (9th Cir. 1983)). We are
+not aware of any law that limits the Secretary’s ability to
+delegate promulgation of immigration surety bond rules.
+Because no statute required the Secretary, and only the
+Secretary, to promulgate immigration surety bond rules,
+promulgation of the Rule was delegable—and therefore not
+a “function or duty” within the meaning of § 3348. Hence,
+ratification of the Rule Wolf promulgated was not barred by
+the FVRA.
+           b. Structure
+    A textual interpretation of the statute that incorporates
+the “nondelegable” requirement as a necessary element to
+bar ratification is supported by the structure of the FVRA
+and will not, as Plaintiffs insist, “eviscerate the FVRA’s
+remedial scheme.” Nor does a textual reading require us to
+view this provision in isolation or disrupt the statute’s
+structure.
+    To begin, our interpretation of “function or duty” will not
+allow agencies to skirt the FVRA’s requirements. Amicus
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 25
+
+
+Constitutional Accountability Center (“Center”) posits that
+a requirement of nondelegation to invoke the Ratification
+Bar would allow agencies to “rely on their vesting-and-
+delegation authority to circumvent [the FVRA], knowing
+that their unlawful actions could not be held void under
+§ 3348(d)(1) and, if necessary, could be ratified.” Not so.
+First, actions of officers who are exempt from § 3348,5
+including its Ratification Bar, can still be found without legal
+force based on other provisions of the FVRA. See SW Gen.,
+580 U.S. at 298–305, 309 (affirming the lower court’s
+decision to vacate an NLRB order where the officer served
+in violation of § 3345, even though his office was exempt
+from § 3348, including the Ratification Bar). Second, the
+FVRA is not the only limit on agency action, and a court
+could “hold unlawful and set aside agency action” taken by
+someone without authority to act on behalf of the agency as
+“not in accordance with law . . . [or] in excess of
+statutory . . . authority.” See 5 U.S.C. § 706(2). Third,
+subsequent ratification of an action taken by an improperly
+appointed Acting Secretary is not inevitable.               The
+subsequent Secretary would have to exercise his lawful
+authority to ratify the action, an action he could take
+independently in his capacity as Secretary, and only if
+Congress had not made that earlier action nondelegable.
+Thus, agencies hypothetically could rely on their vesting-
+and-delegation authority, even if knowingly violating the
+FVRA, but that would neither make their actions
+immediately lawful nor ensure their ratification.
+
+
+
+5
+  Section 3348(e) provides a list of officers to whom that section,
+including the Ratification Bar, does not apply. The Secretary of
+Homeland Security is not among those officers.
+26 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+    As we have explained, not “every violation of the FVRA
+will result in the invalidation of the challenged agency
+action.” Hooks v. Kitsap Tenant Support Servs., Inc., 816
+F.3d 550, 564 (9th Cir. 2016) (dismissing the NLRB’s
+petition “for lack of proper authorization” by Acting General
+Counsel, even though he was exempt from § 3348). And yet,
+even where functions and duties performed in violation of
+the FVRA fall outside of the scope of § 3348, those actions
+are “voidable, not void.” Id. (quoting SW Gen., Inc. v.
+NLRB, 796 F.3d 67, 79 (D.C. Cir. 2015)). “Voidable” means
+the action may be challenged, but that the agency may raise
+“defenses based on harmless error or the de facto officer
+doctrine . . . to overcome the consequences of particular
+FVRA violations.” Id. Or, as in this case, the agency may
+raise a ratification defense. See Gordon, 819 F.3d at 1191–
+92. Violations of the FVRA that are not void under
+§ 3348(d) remain voidable on other grounds, subject to
+applicable defenses. See, e.g., L.M.-M. v. Cuccinelli, 442 F.
+Supp. 3d 1, 35 (D.D.C. 2020) (rejecting prejudicial error and
+de facto officer defenses to invalidation).           Properly
+construed in this context, our interpretation of § 3348, which
+limits the Ratification Bar’s application to nondelegable
+duties, does not leave the FVRA toothless.
+    Further, interpreting the parenthetical modifier “and only
+that officer” to denote duties exclusive to that officer is
+consistent with a similar use of the same parenthetical
+modifier in § 3345(a). That section provides that “the
+President (and only the President) may direct” eligible
+people to serve as acting officers.           See 5 U.S.C.
+§ 3345(a)(2)–(3). Though § 3345 is framed in terms of what
+the President “may” do, and § 3348 in terms of what a statute
+or regulation “require[s],” in both instances the modifier
+“only” emphasizes the singularity or exclusivity of the action
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 27
+
+
+to the person discussed, be it “only the President” or “only
+that officer.” See Gustafson v. Alloyd Co., 513 U.S. 561, 568
+(1995) (“[W]e adopt the premise that the term should be
+construed, if possible, to give it a consistent meaning
+throughout the Act. That principle follows from our duty to
+construe statutes, not isolated provisions.”); SCALIA &
+GARNER, supra, 170–73 (“The presumption of consistent
+usage applies also when different sections of an act or code
+are at issue.”).
+     Moreover, applying the plain meaning of “only that
+officer,” which narrows the scope of the Ratification Bar,
+will not render subsection (e) of § 3348 superfluous.
+Subsection (e) lists officers who are exempt from § 3348,
+including its Ratification Bar. But Congress’s choice not to
+exempt an officer from § 3348 while also narrowly defining
+which “functions and duties” are unratifiable is not
+irrational, even if Plaintiffs thought the distinction more
+significant. After all, the Ratification Bar is a severe
+restriction. Similarly, whether an action is a “function or
+duty” under § 3348, the only section this definition applies
+to, is a question a court need not address if the officer is listed
+in § 3348(e). An officer’s absence from § 3348(e), however,
+does not mean that any action taken in violation of the FVRA
+is necessarily subject to § 3348(d). The inquiry whether an
+action constitutes a “function or duty” under § 3348 is
+distinct, meaning our interpretation in no way renders
+§ 3348(e) surplusage.
+    Next, interpreting “function or duty” in § 3348 to include
+only nondelegable duties does not alter § 3347(b)’s dictate
+regarding     general     vesting-and-delegation      statutes.
+Subsection 3347(a)(1) provides that the FVRA is the
+exclusive means for appointing Acting officials “unless a
+statutory provision expressly authorizes the President, a
+28 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+court, or the head of an Executive department” to designate
+the acting officer, or a separate statute designates the acting
+officer. Section 3347(b) provides, “Any statutory provision
+providing general authority to the head of an Executive
+agency . . . to delegate duties statutorily vested in that
+agency head to, or to reassign duties among, officers or
+employees of such Executive agency, is not a statutory
+provision to which subsection (a)(1) applies.” Therefore,
+§ 3347(b) clarifies that general vesting-and-delegation
+statutes are not sufficient to authorize the department to
+choose the acting officer under the FVRA, but this does not
+impact the meaning of “function or duty” in § 3348. 6 See
+Arthrex, 35 F.4th at 1338. That a department head cannot
+rely on a general vesting-and-delegation statute to designate
+the acting officer in the event of a vacancy, § 3347(b),
+answers a question wholly distinct from the consequences of
+violations of the FVRA under § 3348. 7 Our interpretation
+
+
+6
+  The distinction between § 3347 and § 3348 is further supported by the
+phrase “In this section,” which introduces the definition of “function or
+duty” in § 3348(a)(2). As we have recognized, “‘[t]hroughout the
+FVRA, the Congress was precise in its use of internal cross-references,’
+using the term ‘subsection’ or ‘paragraph’ when it meant to refer to
+something less than a whole section.” Hooks, 816 F.3d at 559 (alteration
+in original) (quoting SW Gen., 796 F.3d at 74 (D.C. Cir. 2015)). Though
+§ 3347 provides context as to the FVRA’s structure, it is less instructive
+than the dissent posits for interpreting the definition of “function or duty”
+applicable in § 3348, the section to which the definition applies.
+7
+  In fact, § 3347(b) addresses a specific past practice of the executive
+branch. Until Congress enacted the FVRA, the Department of Justice
+maintained that its general “vesting-and-delegation authority . . .
+permit[ted] the Attorney General to reassign the duties of such Senate-
+confirmed positions to other officials of the Department, outside the
+limits of the Vacancies Act.” The Vacancies Act, 22 Op. O.L.C. 44, 45
+(1998). The general delegation exclusion in § 3347(b) addresses this
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 29
+
+
+does not “place[] §§ 3347(b) and 3348(d) at odds.” Diss.
+Op. 55. Rather, it recognizes that who is authorized to act
+and the various consequences of an unauthorized person’s
+actions are not necessarily congruent, and that Congress was
+aware of this when it drafted the FVRA. 8
+     Lastly, the Center incorrectly argues that “[m]any duties
+that are established by regulation are delegations,” so the
+definition of “function or duty” under § 3348(a)(2)(A) must
+include delegable duties. This conclusion is wrong.
+Section 3348(a)(2)(B)       uses     similar    language    as
+§ 3348(a)(2)(A) but defines “function or duty” in terms of
+those “required by . . . regulation to be performed by the
+applicable officer (and only that officer).” 5 U.S.C.
+§ 3348(a)(2)(B)(i)(II) (emphasis added). What logically
+follows from the structure of § 3348(a)(2) is that even if a
+statute does not make a duty nondelegable, an agency can tie
+its own hands by doing so in a regulation. See Stand Up for
+Cal.! v. U.S. Dep’t of the Interior, 994 F.3d 616, 622 (D.C.
+Cir. 2021) (“Appellants do not argue that any statute vests
+exclusive authority with the Secretary or the [Assistant
+Secretary], and we are unaware of any such statute. We must
+
+specific problem of agencies evading the requirements for designating
+acting officers.
+8
+  The dissent tries to have it both ways, at once arguing that we read the
+parenthetical in isolation, but also faulting us for recognizing that our
+interpretation will not frustrate the FVRA’s statutory scheme. Diss. Op.
+52, 57. Though the dissent argues that “[w]hether other statutes [such as
+the APA] may provide means of redress” to enforce the FVRA “says
+nothing about the correct interpretation of the FVRA,” we disagree.
+Diss. Op. 57. First, this case was brought under the APA, so
+consideration of that statute in conjunction with the FVRA is, at a
+minimum, “our task.” Diss. Op. 57. Second, that our interpretation
+accounts for a variety of consequences for violations of the FVRA is both
+supported by the plain text and sensible.
+30 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+therefore determine whether the Department itself has
+cabined this authority.”). The Center reasons that if some
+duties established by regulation are “functions and duties”
+under § 3348, and “many” duties established by regulation
+are delegations, then some “functions and duties” under
+§ 3348(a)(2)(A) must be delegable. But this is a faulty
+syllogism, as an action that is delegable under the statutory
+scheme, and therefore not a “function or duty” under
+§ 3348(a)(2)(A), could be made nondelegable by regulation,
+and satisfy and give independent meaning to
+§ 3348(a)(2)(B). The practice of delegating duties by
+regulation does not justify interpreting “and only that
+officer” out of the statute Congress enacted.
+    If a statute’s provision “has a plain meaning or is
+unambiguous, the statutory interpretation inquiry ends
+there.” CVS Health Corp. v. Vividus, LLC, 878 F.3d 703,
+706 (9th Cir. 2017). Plaintiffs and the Center rely on SW
+General and the Supreme Court’s explanation of the
+FVRA’s development and statutory scheme for the
+proposition that, because Congress passed the FVRA in
+response to a perceived threat to the Senate’s power,
+§ 3348’s enforcement mechanism must have broad
+applicability. See SW Gen., 580 U.S. at 293–96. To be sure,
+the Court in SW General said that “[t]he FVRA ensures
+compliance by providing that, in general, ‘any function or
+duty of a vacant office’ performed by a person not properly
+serving under the statute ‘shall have no force or effect.’” SW
+Gen., 580 U.S. at 296 (quoting § 3348(d)). But the Court did
+not go on to interpret “function or duty” under § 3348
+because the Court’s analysis focused on § 3345 in holding
+that § 3345(b)(1) applies not only to first assistants who
+assume their acting duties under § 3345(a)(1), but to
+“anyone performing acting service under the FVRA.” See
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 31
+
+
+id. at 299–308. Thus, the Court’s explanation of § 3348(d)’s
+enforcement mechanism in general does not require the
+broader interpretation of “function or duty” Plaintiffs seek.
+    Even had the Court in SW General reached the issue of
+interpreting “function or duty” under § 3348, the
+interpretation would not have been determinative because
+the officer at issue was the General Counsel of the NLRB,
+who is exempt from § 3348. See 5 U.S.C. § 3348(e); SW
+Gen., 580 U.S. at 297–98. And the Court’s affirmance of the
+lower court’s decision to vacate an NLRB order because the
+General Counsel served in violation of § 3345(b)(1) further
+illustrates how our interpretation of § 3348 does not leave
+the FVRA without force. 9 See SW Gen., 580 U.S. at 297–
+99, 309.
+    Lastly, even assuming various department heads can
+delegate virtually all of their functions or duties, this does
+not change Congress’s authority under the current statutory
+scheme to alter the scope of those delegations, as it has done
+before. See 6 U.S.C. § 624(c)(2) (“The Secretary may not
+delegate the authority under paragraph (1) [regarding certain
+emergency orders] to any official other than the Director of
+the Cybersecurity and Infrastructure Security Agency.”); 31
+U.S.C. § 1344(d)(3) (“The authority to make
+
+9
+  We recognize the Supreme Court did not reach the issue whether
+§ 3348(e)(1) renders the actions of an improperly serving Acting NLRB
+General Counsel voidable because the NLRB did not seek certiorari on
+that issue. See SW Gen., 580 U.S. at 298 n.2. But the Supreme Court
+affirmed the D.C. Circuit’s decision vacating an NLRB order because
+the acting general counsel of the NLRB violated § 3345(b)(1) by
+continuing to serve in that role after being nominated to fill the position
+in a permanent capacity. Id. at 309. Thus, the Acting General Counsel’s
+order was vacated for violating the FVRA without reliance on § 3348.
+Our interpretation in no way misreads SW General. See Diss. Op. 57.
+32 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+designations . . . and to make determinations pursuant to
+[various subsections] may not be delegated . . . .”); 54
+U.S.C. § 306114 (“The head of the agency may not delegate
+the responsibility to document a decision pursuant to this
+section.”). To be sure, the Secretary’s authority to delegate
+under 6 U.S.C. § 112(b)(1) is broad, and other department
+heads have similarly broad authority to delegate. See L.M.-
+M., 442 F. Supp. 3d at 31 n.11 (listing other cabinet-level
+departments with similar vesting-and-delegation statutes,
+including the Departments of Defense, Education, State,
+Justice, Treasury, Veterans Affairs, Housing and Urban
+Development, Energy, Interior, Transportation, Commerce,
+Labor, Agriculture, and Health and Human Services). But
+concerns regarding the current ability of department heads
+to delegate authority do not sound in statutory interpretation;
+rather, they are concerns of “undesirable policy
+consequences.” Bostock v. Clayton Cnty., 590 U.S. 644, 680
+(2020).     We cannot concern ourselves with policy
+consequences. “The place to make new legislation, or
+address unwanted consequences of old legislation, lies in
+Congress.” Id. at 680–81.
+    Regardless, our interpretation does not leave the FVRA
+without force. Instead, our interpretation complies with the
+text of the statute Congress crafted to limit the scope of one
+of the statute’s most severe restrictions. Because the plain
+text of the FVRA unambiguously requires an interpretation
+of “function or duty” encompassing only nondelegable
+duties, and promulgation of the contested Rule was a task
+delegable by the Secretary, the FVRA did not bar Secretary
+Mayorkas’s ratification of the Rule.
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 33
+
+
+  IV. CONCLUSION
+    For the reasons stated above, we reverse the district
+court’s order, which granted Plaintiffs’ motion for summary
+judgment and which vacated the Rule, and we remand for
+further proceedings.
+   REVERSED AND REMANDED.
+
+
+Johnstone, J., concurring:
+
+    When a purported acting officer serves in violation of the
+Federal Vacancies Reform Act of 1998, an action taken by
+that officer in the performance of “any function or duty” of
+the vacant office may be challenged. 5 U.S.C. § 3348(a)(2).
+Subsection 3348(d)(2) provides one especially potent
+remedy: it voids, and prohibits ratification of, the action. But
+Congress limited the application of this ratification bar to the
+performance of a “function or duty” that “is required . . . to
+be performed by the applicable officer (and only that
+officer).” 5 U.S.C. § 3348(a)(2)(A)(ii), (B)(i)(II).
+    I agree with the lead opinion’s analysis of the FVRA’s
+text and structure. But our analysis cannot stop there
+because, even after considering text and structure, the phrase
+“the applicable officer (and only that officer)” is ambiguous.
+So we must look to extrinsic evidence from our co-equal
+branches to determine its meaning. The best evidence of the
+FVRA’s history and practice resolves this ambiguity: the
+defined “function or duty” includes only the officer’s
+nondelegable duties. Therefore, § 3348(d)(2) did not
+prohibit the Secretary of Homeland Security’s ratification of
+the surety bonds rule. Accordingly, except for its conclusion
+34 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+that the meaning of the statute is plain, I concur in the lead
+opinion.
+I. The FVRA’s definition of “function or duty” is
+   ambiguous.
+    To determine the scope of the ratification bar we must
+ask: what is a function or duty “required by statute to be
+performed by the applicable officer (and only that officer)”?
+5 U.S.C. § 3348(a)(2)(A)(ii). One answer: a function or duty
+“is required . . . to be performed by the applicable officer
+(and only that officer)” when it cannot be delegated to
+anyone else. Few functions and duties of federal offices are
+nondelegable, so this reading gives a narrow scope to the
+actions subject to § 3348(d). The lead opinion concludes that
+the FVRA’s text unambiguously requires this narrower
+interpretation. At least two other courts agree. Kajmowicz v.
+Whitaker, 42 F.4th 138, 148–50 (3d Cir. 2022); Arthrex, Inc.
+v. Smith & Nephew, Inc., 35 F.4th 1328, 1335–38 (Fed. Cir.
+2022).
+    Other courts that find the same language unambiguous,
+however, come up with a different answer: a function or duty
+“is required . . . to be performed by the applicable officer
+(and only that officer)” when only a single officer is vested
+with the function or duty. Asylumworks v. Mayorkas, 590 F.
+Supp. 3d 11, 22–25 (D.D.C. 2022); Behring Reg’l Ctr. v.
+Wolf, 544 F. Supp. 3d 937, 945–47 (N.D. Cal. 2021). Most
+functions and duties of federal offices are vested in single
+officers, so this reading gives a broad scope to the actions
+subject to § 3348(d). The dissent concludes that the FVRA’s
+purpose requires this broader interpretation.
+    Whether this language is ambiguous matters because
+when the text is clear, we do not look to outside evidence to
+interpret it. See NLRB v. SW Gen., Inc., 580 U.S. 288, 305
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 35
+
+
+(2017); United States ex rel. Hartpence v. Kinetic Concepts,
+Inc., 792 F.3d 1121, 1128 (9th Cir. 2015) (en banc). But
+whether a statute is ambiguous can be a difficult question.
+Reasonable people, including judges, often disagree about a
+text’s ambiguity. See Ward Farnsworth et al., Ambiguity
+About Ambiguity: An Empirical Inquiry into Legal
+Interpretation, 2 J. Legal Analysis 257, 276 (2010); see also
+Brett M. Kavanaugh, Fixing Statutory Interpretation, 129
+Harv. L. Rev. 2118, 2134–44 (2016) (reviewing Robert A.
+Katzmann, Judging Statutes (2014)). “[T]here is no errorless
+test for identifying or recognizing ‘plain’ or ‘unambiguous’
+language.” United States v. Turkette, 452 U.S. 576, 580
+(1981).
+    Wherever the line between plain meaning and ambiguity
+lies, in my view the text at issue falls on the side of
+ambiguity. The linguistic meaning of the phrase “and only
+that officer” does not resolve that proposition’s legal
+meaning in the context of the FVRA. Despite the invocation
+of competing definitions by the lead opinion and dissent,
+dictionaries fortify neither interpretation from doubt. Cf.
+Cabell v. Markham, 148 F.2d 737, 739 (2d Cir. 1945) (L.
+Hand, J.) (warning “not to make a fortress out of the
+dictionary”), aff’d, 326 U.S. 404 (1945). And the phrase
+“and only that officer” appears to be unprecedented in
+federal law, so there are no established usages to draw upon
+elsewhere in the United States Code. Cf. Antonin Scalia &
+Brian A. Garner, Reading Law: The Interpretation of Legal
+Texts 167–68 (2012) (explaining the whole-text canon).
+Those terms do not obviously describe nondelegable duties.
+Congress could have simply referred to delegation by name
+in § 3348, but it did not. Elsewhere, Congress used
+delegation only to broaden, not narrow, the FVRA’s reach.
+See 5 U.S.C. § 3347(b). It is no surprise that our fellow
+36 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+federal courts have diverged in their interpretations of this
+statute. So while I agree that the lead opinion’s narrower
+reading of the statute’s text and structure is more likely than
+the alternative, it is not sufficiently clear to dismiss the
+dissent’s broader reading of the FVRA’s purpose.
+II. Legislative history supports the narrower reading.
+     When a statute’s meaning is not plain, we may consider
+its legislative history. See Silvers v. Sony Pictures Ent., Inc.,
+402 F.3d 881, 885–86 (9th Cir. 2005) (en banc); e.g.,
+Delaware v. Pennsylvania, 598 U.S. 115, 138–39 (2023)
+(relying in part on a Senate Report to construe the limiting
+parenthetical “(other than a third party bank check)” in 12
+U.S.C. § 2503). When we use legislative history to
+understand linguistic usage of words in a statute, rather than
+the drafters’ intent or the law’s purpose, it is just as probative
+as any dictionary. See Scalia & Garner, supra, at 388. Thus,
+in our search for a statute’s meaning, legislative history may
+“supply[] a well-informed, contemporaneous account of the
+relevant background to the enactment.” John F. Manning,
+Textualism as a Nondelegation Doctrine, 97 Colum. L. Rev.
+673, 732 (1997). This is because “[c]larity depends on
+context, which legislative history may illuminate,” bearing
+in mind that “the search is not for the contents of the authors’
+heads but for the rules of language they used.” In re Sinclair,
+870 F.2d 1340, 1342 (7th Cir. 1989) (Easterbrook, J.). We
+also must not misuse legislative history to establish
+overriding legislative purposes that were not enacted in
+statutory text. “Extrinsic materials have a role in statutory
+interpretation only to the extent they shed a reliable light on
+the enacting Legislature’s understanding of otherwise
+ambiguous terms.” Exxon Mobil Corp. v. Allapattah Servs.,
+Inc., 545 U.S. 546, 568 (2005).
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 37
+
+
+    The FVRA’s primary legislative history is a Senate
+Report on an earlier version of the bill. See generally S. Rep.
+No. 105-250 (1998) (discussing the materially identical
+FVRA bill later enacted as part of an omnibus appropriations
+act). Committee reports, “which presumably are well
+considered and carefully prepared,” are generally more
+reliable than other Congressional materials that trouble
+skeptics of legislative history. Schwegmann Bros. v. Calvert
+Corp., 341 U.S. 384, 395 (1951) (Jackson, J., concurring)
+(“Resort to legislative history is only justified where the face
+of the Act is inescapably ambiguous, and then I think we
+should not go beyond Committee reports.”). And while
+“legislative history is itself often murky, ambiguous, and
+contradictory,” Exxon Mobil Corp., 545 U.S. at 568, this
+Senate Report speaks clearly and consistently to § 3348 and
+the text at issue.
+    The FVRA’s legislative history is particularly probative
+of its meaning because members of Congress are more than
+the authors of the statute; in the case of the Senate they are
+also a central audience for it. This confluence narrows any
+gap between linguistic conventions of the regulators and the
+regulated, lessening any potential notice concerns. See Amy
+Coney Barrett, Congressional Insiders and Outsiders, 84 U.
+Chi. L. Rev. 2193, 2202 (2017). Especially where the text is
+technical and arises from a lengthy course of dealing
+between the branches, evidence of legislative usage may be
+a more reliable guide to the words Congress chose than
+dueling dictionary definitions. See Abbe R. Gluck & Lisa
+Schultz Bressman, Statutory Interpretation from the
+Inside—An Empirical Study of Congressional Drafting,
+Delegation, and the Canons: Part I, 65 Stan. L. Rev. 901,
+939 (2013) (Congressional drafters “emphasized the utility
+38 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+of legislative history far more than dictionaries in resolving
+statutory ambiguities”).
+    The Senate Report’s discussion of § 3348 maps the
+concept of nondelegable duties onto the phrase “function or
+duty required to be performed by the applicable officer (and
+only that officer),” and therefore supports the narrower
+reading. It shows that the FVRA’s remedy applies only to
+functions and duties the law requires “only that officer” to
+perform, meaning they are nondelegable to other officers.
+While the dissent is correct that the term “nondelegable”
+does not appear in the statute, it appears throughout the
+Senate Report’s discussion of the functions and duties
+defined in § 3348. This statutory definition of “function or
+duty” discussed in the report applies equally to all
+subsections “[i]n this section,” 5 U.S.C. § 3348(a), including
+the ratification bar of § 3348(d)(2).
+     The report summarizes the “function or duty” definition
+at issue “as those functions or duties that . . . are established
+by statute and are required to be performed only by the
+applicable officer.” S. Rep. No. 105-250, at 17. It then
+discusses this definition in the context of the subsection
+providing that only the head of the agency in which the
+vacant office occurs “may perform any function or duty of
+such office.” 5 U.S.C. § 3348(b)(2). The report explains that
+the “function or duty” defined in § 3348(a) refers to “the
+non-delegable functions or duties of the officer . . . .” S. Rep.
+No. 105-250, at 18; see also id. (“Delegable functions of the
+office could still be performed by other officers or
+employees, but the functions and duties to be performed only
+by the [Presidentially appointed, Senate confirmed (“PAS”)]
+officer . . . could be performed solely by the head of the
+executive agency.”). According to the Senate Report,
+therefore, the phrase “functions or duties” of an office means
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 39
+
+
+nondelegable duties of the office, which the drafters then
+described as “required . . . to be performed by the applicable
+officer (and only that officer).” Id. at 27 (text of § 3348(a)).
+    This definition of functions or duties was also
+consistently used by Senators providing additional or
+dissenting views. A group of five Senators worried about “an
+unintended shutdown of the Federal agency within which the
+vacancy exists due to administrative paralysis,” and
+requested that the legislation clarify “that the non-delegable
+duties we intend to have performed only by the agency head
+are only those expressly vested by law or regulation
+exclusively in the vacant position.” Id. at 31 (views of Sens.
+Glenn, Levin, Lieberman, Cleland, & Torricelli). And the
+minority urged: “It is imperative that the bill unequivocally
+ensure that the affected functions and duties of the office are
+only those that are expressly deemed nondelegable by statute
+or regulation.” Id. at 36 (minority views of Sens. Durbin &
+Akaka). 1
+    Taken as evidence of linguistic usage, the legislative
+history of the FVRA shows that the Senators who supported
+the bill used “and only that officer” to express the
+
+
+1
+  The Committee reported the bill by a vote of 9-1, with Senators
+Cleland, Glenn, Levin, and Lieberman joining the majority in voting
+Yea. Senator Durbin was the only member voting Nay. S. Rep. No. 105-
+250, at 11. The Senate failed to invoke cloture on the original version of
+the Act by a vote of 53-38, with Senators Akaka, Cleland, Durbin, Glenn,
+Levin, and Lieberman voting Nay after several of them objected to their
+inability to make amendments unrelated to the nondelegable duty issue.
+105 Cong. Rec. 22526 (1998). A month later a Conference Committee
+reported the Act in an omnibus appropriations bill. H.R. Rep. 108-825,
+at 633–38 (1998). The House agreed to the conference report by a vote
+of 333-95, and the Senate agreed to it by a vote of 65-29. 105 Cong. Rec.
+22347–48, 27483 (1998).
+40 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+nondelegable function or duty meaning that we apply today.
+The Senators who expressed concerns about the FVRA
+agreed, but worried that the text did not express that reading
+unambiguously, an observation the dissent and I share.
+    The plaintiffs and amicus the Center for Constitutional
+Accountability make general claims about the FVRA’s
+purpose, rooted in part in the Senate Report’s summary of
+the bill, to support their broader reading of § 3348. Yet
+assertions that the purpose of the FVRA is to limit the
+President’s power under the Appointments Clause do not
+prove how, exactly, its text does so. Legislative history is
+most reliable to prove what statutory text may mean, not
+what the statute should do. The dissent discerns a similar
+legislative intent in the report’s criticism of Doolin Sec. Sav.
+Bank, F.S.B. v. Office of Thrift Supervision, 139 F.3d 203
+(D.C. Cir. 1998). But we cannot “give[] authoritative weight
+to a single passage of legislative history that is in no way
+anchored in the text of the statute.” Shannon v. United States,
+512 U.S. 573, 583 (1994). Unlike these general discussions
+of the purposes or other provisions of the FVRA, the Senate
+Report’s section-by-section analysis of the § 3348(a)(2)
+definition of “function or duty” specifically refers to it as
+“the non-delegable functions or duties of the officer.” S.
+Rep. No. 105-250, at 18. Nowhere does the Senate Report
+use the definition of “function or duty” to mean what the
+plaintiffs, amicus, and dissent interpret it to say: vested by
+statute in a single officer and not multiple officers.
+III. Legislative and executive practice supports the
+     narrower reading.
+    A quarter-century of practice under the FVRA by both
+Congress and the Administration confirms the narrower
+reading. As James Madison observed: “All new laws, though
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 41
+
+
+penned with the greatest technical skill, and passed on the
+fullest and most mature deliberation, are considered as more
+or less obscure and equivocal, until their meaning be
+liquidated and ascertained by a series of particular
+discussions and adjudications.” The Federalist No. 37, at
+236 (James Madison) (Jacob E. Cooke ed., 1961). Thus, in
+separation of powers disputes generally, and appointments
+disputes specifically, we may look to the “liquidation” of
+ambiguous terms through government practice. See NLRB v.
+Noel Canning, 573 U.S. 513, 525 (2014); see also
+M’Culloch v. Maryland, 17 U.S. 316, 401 (1819) (“[A]
+doubtful question” of separation of powers, “if not put at rest
+by the practice of the government, ought to receive a
+considerable impression from that practice.”); SEC v.
+Jarkesy, 603 U.S. ___, 2024 WL 3187811, at *12 n.2 (June
+27, 2024) (“Practice may be probative when it reflects the
+settled institutional understandings of the branches.”). We
+should not overread post-enactment practice to interpret the
+FVRA when evidence is too sparse to represent the positions
+of the respective branches. SW Gen., 580 U.S. at 308. But as
+to the specific definition of “function or duty” in § 3348,
+both branches have converged on the narrower reading.
+    Congress charged the Comptroller General of the United
+States, the head of the Government Accountability Office in
+the legislative branch, with monitoring executive branch
+compliance with the FVRA. See 5 U.S.C. § 3349; see
+Bowsher v. Synar, 478 U.S. 714, 731–32 (1986) (holding
+that the Comptroller General is an officer of the legislative
+branch). That office is thus uniquely situated to interpret the
+statute. Despite its position in the legislative branch it has
+given § 3348 the narrower reading. In a legal opinion for
+Senators, the General Counsel for the Comptroller General
+explained that the functions and duties set forth in
+42 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+§ 3348(a)(2) “are described as non-delegable.” The
+Honorable Richard J. Durbin et al., B-310780, 2008 U.S.
+Comp. Gen. LEXIS 101, at *7–8 (Comp. Gen. June 13,
+2008). “[T]he Vacancies Act[’s] focus is on specified duties
+and functions which under statutory or regulatory language
+must be performed exclusively by the incumbent of the
+office,” which “requires language that clearly signals duties
+or functions that cannot be delegated.” Id. at *11–12.
+    Perhaps unsurprisingly, the executive branch agrees with
+this narrower reading. Still, it has taken the position
+deliberately and consistently. Shortly after the FVRA’s
+enactment, the Department of Justice issued an opinion
+explaining that “a ‘function or duty’ is defined as any
+function or duty of the PAS office that is required by statute
+or regulation to be performed exclusively by the holder of
+that office.” Guidance on Application of Fed. Vacancies
+Reform Act of 1998, 23 Op. O.L.C. 60, 70–71 (1999) (citing
+5 U.S.C. § 3348(a)(2)). Thus, “the Act permits non-
+exclusive responsibilities to be delegated to other
+appropriate officers and employees in the agency.” Id. at 72.
+The Department has maintained that view. See, e.g., Fed.
+Vacancies Reform Act’s Application to a Vacancy for
+Which Prior Presidents Submitted Multiple Nominations, 46
+Op. O.L.C. __, 2022 WL 16694120, at *6 (O.L.C. Oct. 21,
+2022); Under Sec’y of the Treasury for Enf’t, 26 Op. O.L.C.
+230, 233–34 (2002).
+    We have refused to give formal deference to agency
+interpretations of the FVRA, Hooks v. Kitsap Tenant
+Support Servs., 816 F.3d 550, 564 (9th Cir. 2016), and no
+party suggests a deference canon applies here. Still, the
+legislative and executive branches’ thorough, reasoned, and
+consistent guidance on this question provides additional
+persuasive evidence of the statute’s probable, if not plain,
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 43
+
+
+meaning. See Skidmore v. Swift & Co., 323 U.S. 134, 140
+(1944); Loper Bright Enters. v. Raimondo, 603 U.S. ___,
+2024 WL 3208360, at *13 (June 28, 2024)
+(contemporaneous and consistent executive branch
+interpretations “may be especially useful in determining the
+statute’s meaning”). The FVRA arose from disagreements
+between our co-equal branches about the scope of the
+President’s power to fill vacancies without the Senate’s
+advice and consent. So it is significant that, here, agencies in
+each branch agree upon the same, narrower reading of
+§ 3348. The dissent’s broader reading would unsettle this
+mutual understanding.
+                             ***
+    A leading commentator observes, “[f]or all the detail
+given to permissible types of acting officials, their tenures,
+and the severe consequences of violations, the Vacancies
+Act now appears to provide an easy workaround in many
+cases: delegate the tasks of the vacant office.” Anne Joseph
+O’Connell, Actings, 120 Colum. L. Rev. 613, 633 (2020).
+“[T]hese delegation practices are pervasive.” Id. at 633
+n.105. The dissent is correct that under our reading the
+FVRA’s voidness and ratification provision does not apply
+to “the vast majority of actions taken by officials serving in
+violation of the act.” But it is not our reading of the FVRA
+itself that does that limiting work.
+    We have recognized that Congress can authorize
+delegations implicitly: “as far as delegation to subordinates
+is concerned, ‘[e]xpress statutory authority for delegation is
+not required.’” Frankl v. HTH Corp., 650 F.3d 1334, 1350
+(9th Cir. 2011) (alteration in original) (quoting Loma Linda
+Univ. v. Schweiker, 705 F.2d 1123, 1128 (9th Cir.1983)); see
+also U.S. Telecom Ass’n v. FCC, 359 F.3d 554, 565 (D.C.
+44 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+Cir. 2004) (“When a statute delegates authority to a federal
+officer or agency, subdelegation to a subordinate federal
+officer or agency is presumptively permissible absent
+affirmative evidence of a contrary congressional intent.”); cf.
+Assiniboine & Sioux Tribes v. Bd. of Oil & Gas
+Conservation, 792 F.2d 782, 795 (9th Cir. 1986) (“Without
+express congressional authorization for a subdelegation, we
+must look to the purpose of the statute to set its
+parameters.”). The plaintiffs do not meaningfully challenge
+the delegability of the duties here. See 8 U.S.C. § 1103(a)(3)
+(vesting forms of bond in the Secretary); 6 U.S.C.
+§ 112(b)(1) (authorizing delegation of “any of the
+Secretary’s functions”). Nor do they question the broader
+doctrine of implied delegation. And practically speaking, it
+is this presumption that duties are delegable that narrows the
+scope of the FVRA’s statutory remedy.
+    The cumulative evidence of the text, structure, history,
+and practice of the FVRA establishes that the “function or
+duty” definition of § 3348(a)(2) applies only to the
+nondelegable functions or duties of the applicable office.
+Therefore, § 3348(d)(2) did not prohibit ratification of the
+surety bonds rule.
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 45
+
+
+Christen, J., dissenting:
+
+    This case requires us to decide when consequences result
+for violations of the Federal Vacancies Reform Act of 1998
+(FVRA), the statute that limits the time temporary officials
+may serve in Executive Branch positions that require
+presidential appointment and Senate confirmation.
+    Congress crafted a stiff enforcement mechanism for
+violations of the FVRA: actions taken by officials serving in
+violation of the Act have no force or effect, and the Act bars
+later ratification of those actions.           See 5 U.S.C.
+§ 3348(d)(1)–(2). Unfortunately, today’s decision renders
+the FVRA a near-dead letter because the court decides that
+the FVRA does not apply to the vast majority of actions
+taken by officials serving in violation of the Act. The
+majority reaches this conclusion by reasoning that the
+FVRA’s integrated scheme applies only to those functions
+and duties that Congress expressly forbids an officer from
+delegating to a subordinate. In my view, this conclusion is
+inconsistent with the text, structure, and purpose of the
+FVRA, all of which make clear that the Act applies to
+functions and duties that Congress requires a single officer
+to perform and excludes functions and duties that Congress
+authorizes more than one officer to perform.
+    Turning to the subject appeal, I agree with the majority
+that Chad Wolf was not lawfully serving as Acting Secretary
+of the Department of Homeland Security (DHS) when he
+promulgated the surety bonds rule at the heart of the parties’
+dispute. But I respectfully dissent from the majority’s
+decision to reverse the judgment of the district court because
+I conclude that the FVRA’s ratification bar prevented Wolf’s
+successor from ratifying the rule Wolf adopted.
+46 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+                              I
+    The Constitution vests the President with the power and
+duty to nominate officers of the United States, subject to the
+advice and consent of the Senate. U.S. Const. art. II, § 2, cl.
+2. An officer of the United States is an official who
+“exercis[es] significant authority pursuant to the laws of the
+United States.” Freytag v. Comm’r, 501 U.S. 868, 881
+(1991) (quoting Buckley v. Valeo, 424 U.S. 1, 126 (1976)).
+Vacancies in Executive offices arise frequently, and the
+nomination and confirmation of a successor is rarely a swift
+process. As a practical—and often politically expedient—
+workaround, the Executive Branch frequently turns to the
+use of temporary, or “acting,” officers to fill vacant
+positions. The Legislative Branch has allowed this practice,
+but it has also placed limits on it to ensure that reliance on
+temporary officers does not usurp the Senate’s advice-and-
+consent role. See NLRB v. SW Gen., Inc., 580 U.S. 288, 294–
+95 (2017).
+     The FVRA is Congress’s latest attempt to reign in the
+Executive Branch’s use of acting officers. The FVRA’s
+predecessor, the Vacancies Act, dated to 1868. See Act of
+July 23, 1868, ch. 227, 15 Stat. 168. The Vacancies Act
+initially allowed temporary officers to serve for just 10 days
+in most circumstances, a grace period that was later
+lengthened to 30 days and then 120 days. SW Gen., 580 U.S.
+at 294–95. The Vacancies Act did not impose any
+consequences for the Executive Branch failing to comply
+with these limits, however. See 15 Stat. 168. For more than
+a century, the Vacancies Act was understood to be the sole
+means of temporarily filling vacancies in Executive offices.
+See Morton Rosenberg, Cong. Rsch. Serv., RL 98-892, The
+New Vacancies Act: Congress Acts to Protect the Senate’s
+Confirmation Prerogative 2 (1998) (Rosenberg).
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 47
+
+
+    In 1973, the Department of Justice took the position that
+the Vacancies Act was just one way of filling vacancies. Id.
+at 2–3; see also SW Gen., 580 U.S. at 294. A second way,
+according to DOJ, was for an agency head to delegate all her
+functions and duties to a subordinate officer or agency
+employee before leaving office, pursuant to the agency’s
+vesting-and-delegation statute. Rosenberg at 2–3. Vesting-
+and-delegation statutes are general provisions that vest all
+functions of an agency in the agency head and allow
+delegation of those functions to subordinates. For example,
+DHS’s vesting-and-delegation statute provides that “[a]ll
+functions of all officers, employees, and organizational units
+of the Department are vested in the Secretary” and the
+Secretary “may delegate any of the Secretary’s functions to
+any officer, employee, or organizational unit of the
+Department.” 6 U.S.C. § 112(a)(3), (b)(1). Taken to the
+extreme, DOJ’s position could allow an office subject to
+Senate confirmation to go unfilled indefinitely while a
+subordinate officer or agency employee performs the duties
+of the vacant office.
+    As the Supreme Court explained in SW General, the
+“interbranch conflict . . . over the Vacancies Act” came to a
+head in the late-1990s. 580 U.S. at 294–95. In 1998, about
+20% of Executive offices requiring Senate confirmation
+were filled by acting officials, “most of whom had served
+beyond the 120–day limitation period” in the Vacancies Act.
+Id. at 295 (quoting Rosenberg at 1). “Perceiving a threat to
+the Senate’s advice and consent power, Congress . . .
+replaced the Vacancies Act with the FVRA.” Id. (citing
+Rosenberg at 6).
+   The FVRA spans 5 U.S.C. §§ 3345 to 3349. Section
+3345 identifies who may serve in an acting capacity when a
+Senate-confirmed member of the Executive Branch dies,
+48 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+resigns, or is otherwise unable to perform her duties.
+Pursuant to the Act, the default replacement is the officer’s
+first assistant, who “shall perform the functions and duties of
+the office” in an acting capacity. 5 U.S.C § 3345(a)(1).
+Alternatively, Congress provided that the President may
+direct another Senate-confirmed officer, or an officer or
+employee who has served in their position for at least 90
+days during the year preceding the vacancy and has a rate of
+pay of at least GS-15, to perform the functions and duties of
+the vacant office in an acting capacity. Id. § 3345(a)(2)–(3).
+Section 3346 limits the period an acting officer appointed
+pursuant to § 3345 may serve to 210 days from the date of
+the vacancy. Id. § 3346(a)(1). The 210-day period restarts
+if the Senate rejects a nominee. Id. § 3346(b)(1).
+    Section 3347(a) confirms that §§ 3345 and 3346 “are the
+exclusive means” for the appointment of officers to
+temporarily fill positions that require Senate confirmation,
+unless Congress expressly enacts an alternative order of
+succession for a given office or expressly gives the
+President, a court, or a department head the power to
+designate a different order of succession. Id. § 3347(a)–
+(a)(1). Of critical importance to this appeal, § 3347(b) states
+that the alternative order of succession referred to in
+§ 3347(a)(1) does not include general vesting-and-
+delegation statutes. Id. § 3347(b) (“Any statutory provision
+providing general authority to the head of an Executive
+agency . . . to delegate duties statutorily vested in that agency
+head to, or to reassign duties among, officers or employees
+of such Executive agency, is not a statutory provision to
+which [§ 3347(a)(1)] applies.” (emphasis added)). In other
+words, the FVRA explicitly rejected the workaround
+position DOJ took starting in 1973 that vesting-and-
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 49
+
+
+delegation statutes offer another way for a subordinate to
+perform the duties of an agency head.
+    Unlike the Vacancies Act, § 3348 of the FVRA sets out
+two consequences for the Executive Branch’s failure to
+comply with §§ 3345, 3346, and 3347. When an officer
+serves without valid acting authority, or continues to serve
+beyond the time in which she has valid acting authority,
+§ 3348(d) unequivocally requires that any action taken by
+that officer in the performance of any function or duty of that
+office “shall have no force or effect.” Id. § 3348(d)(1).
+Second, the Act states that an action that has no force or
+effect under § 3348(d)(1) “may not be ratified.” Id.
+§ 3348(d)(2).
+    Section 3348(a) goes on to define the functions and
+duties that are subject to the ratification bar:
+
+         (2) the term “function or duty” means any function
+         or duty of the applicable office that—
+             (A)(i) is established by statute; and
+                 (ii) is required by statute to be performed by
+                 the applicable officer (and only that officer);
+                 ....
+
+Id. § 3348(a). 1 Finally, § 3349 requires the head of each
+Executive agency to report to the Comptroller General and
+to Congress all vacancies, acting officers, and nominees. Id.
+§ 3349(a).
+
+
+1
+  I focus primarily on the ratification bar at § 3348(d)(2) because that is
+the dispositive provision in this case. However, the majority’s
+interpretation of “function or duty” equally limits § 3348(d)(1)’s
+requirement that actions taken in violation of the FVRA have “no force
+or effect,” i.e., they “are void ab initio.” SW Gen., 580 U.S. at 298 n.2.
+50 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+    At issue in this case is a rule regulating immigration
+surety bonds promulgated in 2020 by then-Acting DHS
+Secretary Chad Wolf. In 2021, Wolf’s successor, Senate-
+confirmed DHS Secretary Alejandro Mayorkas, issued a
+directive purporting to ratify the surety bonds rule. I agree
+with the majority that Wolf was not properly appointed as
+Acting DHS Secretary when he issued the surety bonds rule.
+The dispositive question is whether the FVRA’s ratification
+bar rendered Mayorkas’s ratification of the rule ineffective.
+The answer to that question turns on whether issuing rules
+for surety bonds is a “function or duty” of the DHS Secretary
+within the meaning of § 3348(a)(2) of the FVRA.
+    Congress directed the DHS Secretary to promulgate
+bond rules. See 8 U.S.C. § 1103(a)(1), (3) (“The Secretary
+of Homeland Security . . . shall establish such regulations;
+prescribe such forms of bond, reports, entries, and other
+paper; issue such instructions; and perform such other acts
+as he deems necessary for carrying out his authority . . . .”).
+Congress did not direct any other officer to perform this
+duty. Because this duty was one that Congress required only
+the DHS Secretary to perform, the 2020 surety bonds rule
+was without force or effect and could not be ratified. The
+majority nevertheless concludes that Secretary Mayorkas
+successfully ratified the rule, reasoning that the duty to
+promulgate surety bonds rules was not a “function or duty”
+of the DHS Secretary because the Secretary was free to
+delegate virtually all his duties to subordinates.
+                              II
+    My colleagues adopt a definition of “function or duty”
+that turns what the Supreme Court has described as the Act’s
+“general rule” into an exception. SW Gen., 580 U.S. at 298
+n.2. In my view, the majority’s conclusion cannot be
+   GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 51
+
+
+squared with the plainest reading of the statutory text, the
+statutory design, or the Act’s purpose. I would hold that the
+FVRA bars ratification of actions taken by improperly
+serving acting officials in the performance of functions or
+duties that Congress required to be performed by that officer
+and not by more than one officer.
+                              A
+    As a majority of this panel recognizes, the FVRA’s
+definition of “function or duty” is susceptible to at least two
+permissible readings. The statute provides that functions
+and duties of officers requiring Senate confirmation are
+those that are “required by statute to be performed by the
+applicable     officer    (and      only    that      officer).”
+§ 3348(a)(2)(A)(ii). The plainest reading of this text is that
+where Congress directs an officer to perform a duty, and
+does not also direct one or more other officers to perform it,
+Congress has required that officer—and only that officer—
+to perform the duty. See Require, Black’s Law Dictionary
+(6th ed. 1990) (defining “[r]equire” as “[t]o direct, order,
+demand, instruct, command, claim, compel, request, need,
+exact”). Several federal district courts have adopted this
+reading. See, e.g., Behring Reg’l Ctr. LLC v. Wolf, 544 F.
+Supp. 3d 937, 948 (N.D. Cal. 2021); Asylumworks v.
+Mayorkas, 590 F. Supp. 3d 11, 25 (D.D.C. 2022).
+    Under this interpretation of the Act, the parenthetical
+“(and only that officer)” excludes instances in which
+Congress has directed more than one officer to perform a
+function or duty. For example, 18 U.S.C. § 2332(d) provides
+that “[n]o prosecution for [certain crimes against U.S.
+nationals that occur outside the U.S.] shall be undertaken by
+the United States except on written certification of the
+Attorney General or the highest ranking subordinate of the
+52 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+Attorney General with responsibility for criminal
+prosecutions” that the prosecution meets certain
+requirements. Because this statute directs either the
+Attorney General or her highest-ranking subordinate to
+authorize certain prosecutions, this duty is not required to be
+performed by the Attorney General and only the Attorney
+General, and it is therefore not a “function or duty” within
+the meaning of the FVRA.
+    Another plausible reading of the “function or duty”
+provision, at least when the text is considered in isolation, is
+the one adopted by the majority and two of our sister circuits.
+See Arthrex, Inc. v. Smith & Nephew, Inc., 35 F.4th 1328,
+1336–38 (Fed. Cir. 2022); Kajmowicz v. Whitaker, 42 F.4th
+138, 148 (3d Cir. 2022). Under this interpretation, the
+parenthetical “(and only that officer)” implicitly excludes
+statutory functions and duties that an officer is permitted to
+delegate to a subordinate, because if a duty is delegable, the
+statute does not require only that officer to perform it. To
+appreciate the breadth of the hole this interpretation blasts
+through the FVRA, it is important to understand that there
+are several ways for Executive officers to delegate their
+statutory duties to subordinates.
+    First, a specific duty may be made expressly delegable
+by statute. Alternatively, general vesting-and-delegation
+statutes allow agency heads to delegate any of their duties,
+so long as another statutory provision does not forbid them
+from doing so. Finally, we have recognized a “general
+presumption that delegations to subordinates are permissible
+in cases of statutory silence.” Frankl v. HTH Corp., 650
+F.3d 1334, 1350 (9th Cir. 2011). Because there are several
+ways for duties to be delegable, my colleagues’ read of the
+FVRA—as barring ratification of actions taken in the
+performance of functions or duties only where Congress has
+     GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 53
+
+
+expressly forbidden delegation—excludes nearly every
+statutory function or duty in the United States Code. This
+interpretation is strained, but I agree that if we were limited
+to consulting the text of § 3348(a)(2) alone, the statutory
+language could conceivably sustain it. The problem is that
+the structure and purpose of the FVRA confirm that the
+majority’s interpretation is an inferior reading of the text.
+    The author of the majority reads the text of § 3348(a)(2)
+in isolation and concludes that it unambiguously refers to
+functions or duties that are expressly nondelegable. But for
+the reasons explained, the provision is susceptible to more
+than one reading even when divorced from the statutory
+context. 2 The majority author’s conclusion also does not
+account for the bedrock principle that the “plainness or
+ambiguity” of a provision must be “determined by reference
+to the language itself, the specific context in which the
+language is used, and the broader context of the statute as a
+whole.” Robinson v. Shell Oil Co., 519 U.S. 337, 341
+(1997).
+                                    B
+    Because the meaning of “function or duty” is
+“ambiguous, we must turn to the broader structure of the Act
+to determine the [provision’s] meaning.” King v. Burwell,
+576 U.S. 473, 492 (2015). “It is a fundamental canon of
+statutory construction that the words of a statute must be read
+in their context and with a view to their place in the overall
+statutory scheme.” FDA v. Brown & Williamson Tobacco
+Corp., 529 U.S. 120, 133 (2000) (internal quotation marks
+and citation omitted).
+
+
+2
+    The third member of our panel agrees that § 3348(a)(2) is ambiguous.
+54 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+    The FVRA’s provisions work together to restrict the
+Executive Branch’s discretion to allow officials to serve in
+Senate-confirmed positions without actually receiving
+Senate confirmation. The Act allows limited use of acting
+officers, but the consequences Congress imposed for
+violating the FVRA incentivize the nomination of permanent
+officials who are subjected to the Senate confirmation
+process. Three separate aspects of the FVRA’s statutory
+design support the conclusion that “function or duty” of a
+vacant office refers to duties that Congress directs a single
+officer to perform, and excludes duties that Congress directs
+more than one officer to perform. Of the permissible
+readings of “function or duty” in § 3348(a)(2), only this one
+“produces a substantive effect that is compatible with the
+rest of the law.” United Sav. Ass’n of Tex. v. Timbers of
+Inwood Forest Assocs., Ltd., 484 U.S. 365, 371 (1988).
+                             1
+    First, Congress’s inclusion of § 3347(b) strongly favors
+reading § 3348(d)(2)’s ratification bar to apply to all
+functions and duties that Congress has assigned to a single
+officer, without regard to whether a duty is delegable. In
+§ 3347(b), Congress acknowledged general vesting-and-
+delegation statutes and expressly rejected the practice of
+relying on them to bypass the FVRA’s rules of succession.
+Section 3348(d) ensures that there are consequences if the
+rules of succession are not followed. Sections 3347(b) and
+3348(d) therefore work in tandem to cabin the discretion of
+the Executive Branch to use acting officers.
+    My colleagues conclude that § 3347(b) “does not impact
+the meaning of ‘function or duty’ in § 3348.” I disagree.
+Both sections are necessary parts of the exclusive scheme
+Congress adopted for the Executive Branch to temporarily
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 55
+
+
+fill vacancies. In § 3347(b), Congress took the unusual step
+of anticipating that the Executive Branch might invoke
+general delegation authority as a loophole to circumvent the
+Act’s rules of succession, and expressly foreclosed the
+Executive Branch from doing so. The majority nevertheless
+concludes the very same general delegation authority
+enables the Executive Branch to avoid the Act’s
+consequences.      Rather than working in tandem, the
+majority’s interpretation places §§ 3347(b) and 3348(d) at
+odds.
+                              2
+    Context provides a second clue as to which reading of
+“function or duty” is most consistent with the FVRA’s
+statutory design. The majority holds that Congress defined
+“function or duty” to include only those duties that are made
+expressly nondelegable by statute, even though the terms
+“delegate” or “nondelegable” do not appear anywhere in the
+definition of “function or duty.” Such a glaring omission is
+cause enough to second-guess the majority’s conclusion.
+But the significance of the omission of “nondelegable” from
+§ 3348(a)(2) is magnified by the FVRA’s use of the word
+“delegate” in the immediately preceding subsection,
+§ 3347(b), because we must give meaning to the variation in
+word choice between the two provisions. If a statute “has
+used one term in one place, and a materially different term
+in another, the presumption is that the different term denotes
+a different idea.” Sw. Airlines Co. v. Saxon, 596 U.S. 450,
+457–58 (2022) (quoting Antonin Scalia & Bryan A. Garner,
+Reading Law: The Interpretation of Legal Texts 170 (2012)).
+    In § 3347(b), Congress explicitly used the word
+“delegate”; accordingly, we presume that the words in
+§ 3348(a)(2)(A)(ii)—that a function or duty is one “required
+56 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+by statute to be performed by the applicable officer (and only
+that officer)”—do not mean that the functions and duties that
+may not be ratified are limited to those that Congress has
+affirmatively deemed nondelegable. Congress’s use of
+“delegate” in § 3347(b) “shows that when Congress
+intended to” refer to delegable duties, “it knew how to do
+so.” Custis v. United States, 511 U.S. 485, 492 (1994). The
+majority’s failure to account for the variation between
+§§ 3347(b) and 3348(a)(2) further confirms that it adopts a
+strained reading of the statutory text.
+                              3
+    A third rule that counsels against my colleagues’
+interpretation is that we must not adopt a reading that renders
+an ambiguous provision “almost a nullity.” Hernandez v.
+Williams, Zinman & Parham PC, 829 F.3d 1068, 1077 (9th
+Cir. 2016); see also Henderson v. United States, 568 U.S.
+266, 281 (2013) (Scalia, J., dissenting) (“A rudimentary
+principle of textual interpretation . . . is that if one
+interpretation of an ambiguous provision causes it to serve a
+purpose consistent with the entire text, and the other
+interpretation renders it pointless, the former prevails.”).
+The majority recognizes that its conclusion “limit[s] the
+scope” of the ratification bar. But this concession buries the
+lede. The majority actually renders the ratification bar all
+but inoperative by making it applicable only to a
+“vanishingly small” number of functions and duties.
+Arthrex, 35 F.4th at 1337 (citation omitted).
+     Undeterred, the majority insists it “does not leave the
+FVRA toothless” because actions not subject to the
+ratification bar under the majority’s interpretation of
+“function or duty” “can still be found without legal force
+based on other provisions of the FVRA” and “remain
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 57
+
+
+voidable on other grounds.” But the majority fails to identify
+what other statutory basis exists in the FVRA that allows
+courts to find actions “voidable.” The cases the majority
+cites do not support its position because each of them
+expressly states that whether the agency’s action was
+voidable was not at issue. See SW Gen., 580 U.S. at 298 n.2
+(declining to reach whether NLRB action was voidable
+under the FVRA because the NLRB “did not seek certiorari
+on this issue”); SW Gen., Inc. v. NLRB, 796 F.3d 67, 79 (D.C.
+Cir. 2015) (assuming without deciding that NLRB action
+was voidable under the FVRA), aff’d, 580 U.S. 288 (2017);
+Hooks v. Kitsap Tenant Support Servs., Inc., 816 F.3d 550,
+564 (9th Cir. 2016) (deeming NLRB action voidable under
+the FVRA because the NLRB did not contest that remedy). 3
+    My colleagues speculate that their interpretation of
+“function or duty” might not wind up frustrating the FVRA’s
+remedial scheme because, depending on the circumstances,
+the Administrative Procedure Act might invalidate agency
+actions taken by improperly serving officers. This sidesteps
+our task, which is to interpret the statute before us and to
+adopt a permissible reading that allows it to be understood
+as a harmonious whole. Whether other statutes may provide
+means of redress says nothing about the correct
+interpretation of the FVRA.
+    The concurrence relies on legislative history contained
+in a Senate committee report addressing a prior version of
+the bill that became the FVRA, and concludes that the report
+supports the majority’s reading of “function or duty.” See S.
+
+3
+  These courts did not consider the meaning of the ratification bar
+because the General Counsel of the NLRB is one of several offices the
+FVRA exempts from the penalty provisions of § 3348(d). See
+§ 3348(e)(1).
+58 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+Rep. No. 105-250 (1998). Although the Senate report refers
+to nondelegable functions and duties, it does so in reference
+to a different subsection of the bill, § 3348(b), that addresses
+a scenario not raised by the present case. 4 See id. at 17–18.
+    The reference the concurrence calls out demonstrates
+that Congress knew precisely how to refer to nondelegable
+duties, and yet it did not use those words in the text
+§ 3348(a)(2). When the Federal Circuit considered the
+meaning of “function or duty” in the FVRA, it noted the
+same language in the Senate report. See Arthrex, 35 F.4th at
+1336–37. Far from conclusive, the Federal Circuit found
+that the references to nondelegable duties in the Senate
+
+
+
+4
+  Section 3348(b) requires that a Senate-confirmed agency head take on
+all functions and duties of a vacant subordinate office unless an acting
+officer fills the vacant subordinate office pursuant to the FVRA’s
+succession rules. 5 U.S.C. § 3348(b). The Senate report contemplates,
+however, that the functions and duties the agency head must perform are
+limited to “the non-delegable functions or duties of the [subordinate]
+officer.” S. Rep. No. 105-250, at 18. The report reflects the concerns of
+committee members who worried that “administrative paralysis” would
+result if an agency head were forced to perform the numerous delegable
+functions and duties of vacant subordinate offices. S. Rep. No. 105-250,
+at 31. When addressing the duties subject to the ratification bar, the
+Senate report makes clear that the committee was treating the situation
+in the present case—where the agency head lacks valid acting
+authority—differently from a situation where a subordinate officer lacks
+valid acting authority pursuant to § 3348(b). The Senate report states
+that when one who, “not being the agency head” “perform[s]
+nondelegable duties of” a subordinate office—in violation of
+§ 3348(b)—the ratification bar applies. Id. at 19. But it also provides,
+without limitation, that “the successor in the office by virtue of his
+appointment by the President by and with the advice and the consent of
+the Senate may not ratify the actions of a person who filled the office in
+violation of the legislation’s provisions.” Id.
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 59
+
+
+report merely revealed the “competing narratives in the
+legislative history.” Id. at 1337.
+    The concurrence nevertheless sees unequivocal support
+for the majority’s interpretation in the Senate report,
+overlooking that the report leaves no doubt that the Senate
+committee’s unambiguous aim was to avoid the very result
+that the majority urges here. Specifically, the report explains
+that the FVRA was intended “[t]o ensure an effective
+enforcement mechanism and to overturn the recent decision
+of the United States Court of Appeals for the District of
+Columbia Circuit in Doolin Security Savings Bank v. Office
+of Thrift Supervision, 139 F.3d 203 (D.C. Cir. 1998).” S.
+Rep. No. 105-250, at 11. In Doolin, the D.C. Circuit
+addressed a challenge to an order issued by the now-defunct
+Office of Thrift Supervision (OTS). 139 F.3d at 204. An
+acting director of OTS initiated administrative enforcement
+proceedings against a bank and resigned two and a half years
+later, before adopting an administrative law judge’s
+recommended decision. Id. The President invoked the
+Vacancies Act to name a new acting director, and that
+director issued a final opinion and cease and desist order
+against the bank. Id. The bank appealed and argued that the
+cease and desist order was void because the first acting
+director—who initiated the enforcement action—was not
+appointed pursuant to the Vacancies Act and because the
+second acting director—who signed the final order—was
+appointed after the President’s authority under the Vacancies
+Act had expired. Id. at 207, 211. The D.C. Circuit held that
+the second acting director was validly appointed pursuant to
+the Vacancies Act. Id. at 211. The court further held that
+any violation of the Vacancies Act with respect to the first
+acting director was harmless because the second acting
+director ratified his predecessor’s initiation of the
+60 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+enforcement action when he issued the final cease and desist
+order. Id. at 211, 214.
+    The Senate report makes plain the committee’s reaction
+to Doolin’s ratification holding: “if any subsequent acting
+official or anyone else can ratify the actions of a person who
+served beyond the length of time provided by the Vacancies
+Act, then no consequence will derive from an illegal acting
+designation.” S. Rep. No. 105-250, at 8. The Senate report
+explains that the committee included the ratification bar in
+the FVRA because it was “concerned that the ratification
+approach taken by the court in Doolin would render
+enforcement of the [FVRA] a nullity in many instances.” Id.
+at 20. Thus, if the legislative history in the Senate report is
+considered, it does not support the majority’s conclusion that
+the Act permits end runs around the ratification bar. To the
+contrary, because the function at issue in Doolin was one the
+OTS director could have delegated to a subordinate, the
+committee’s intent to overrule Doolin makes clear that it
+could not have intended the ratification bar to be limited to
+only those actions taken in the performance of nondelegable
+duties. 5
+
+
+5
+  OTS’s authorizing statutes vested in the director the “power to enforce”
+the agency’s statutes and regulations, 12 U.S.C. § 1464(d)(1)(A) (1994),
+and to “issue such orders” as necessary, 12 U.S.C. § 1462a(b)(2) (1994).
+Just as with DHS in this case, Congress permitted the OTS director to
+“delegate to any employee, representative, or agent any” of the director’s
+powers. Id. § 1462a(h)(4)(A)(ii). Indeed, the first acting director
+obtained his purported authority when the outgoing director “delegated
+to him ‘all the powers of the Director’” pursuant to § 1462a(h)(4)(A)(ii).
+Doolin, 139 F.3d at 211. Thus, the acting director who initiated the
+enforcement action in Doolin was exercising a delegable function. Yet,
+under the majority’s view, the FVRA’s ratification bar still would not
+prevent ratification of that acting director’s actions.
+  GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 61
+
+
+     Our analysis should be grounded in the Act’s text and
+structure. The permissible reading of “function or duty” that
+allows the FVRA’s provisions to work together is also the
+plainest reading of the words Congress used: when officials
+improperly serve in positions that require presidential
+appointment and Senate confirmation, the FVRA bars
+ratification of actions those officials take in performing any
+function or duty that Congress required a single officer to
+perform.
+                             C
+    This reading of the ratification bar is further confirmed
+by “the context in which [the FVRA] was enacted and the
+purposes it was designed to accomplish.” Jones v. R.R.
+Donnelley & Sons Co., 541 U.S. 369, 377 (2004) (turning to
+context and purpose after deeming statutory text
+ambiguous). As the Supreme Court has explained, the
+FVRA was Congress’s response to the Executive Branch
+allowing acting officers to serve well past the deadlines in
+the Vacancies Act and using vesting-and-delegation statutes
+to entirely circumvent the Vacancies Act’s grace period. See
+SW Gen., 580 U.S. at 294–95; see also Rosenberg at 1–3.
+Indeed, the Vacancies Act lacked any enforcement
+mechanism, see 15 Stat. 168, and the remedial provision in
+§ 3348(d) was the key innovation of the FVRA.
+    With this context, the clear purpose of the FVRA is to
+allow for the limited use of acting officers while
+strengthening protection of the Senate’s advice-and-consent
+role, in part by encouraging the advancement of nominees
+by adding consequences for the Executive Branch’s
+noncompliance. See SW Gen., 580 U.S. at 295–96. To
+further this purpose, the ratification bar must extend to the
+duties Congress grants to a single officer—and not to those
+62 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+functions and duties granted to multiple officers. The
+majority’s limitation of the ratification bar to only those
+duties that Congress expressly deems nondelegable guts the
+FVRA. See N.Y. State Dep’t of Soc. Servs. v. Dublino, 413
+U.S. 405, 419–20 (1973) (“We cannot interpret federal
+statutes to negate their own stated purposes.”).
+    At least some agencies have applied the majority’s
+interpretation of the FVRA to continue operating as if the
+statute had never been enacted. For example, when there
+have been vacancies in both the Director and Deputy
+Director positions in the United States Patent and Trademark
+Office (USPTO), the agency has used the Commissioner of
+Patents to perform the duties of the Director and explained
+that the Commissioner “has not been, and need not be,
+appointed ‘Acting Director’ of the USPTO under the
+[FVRA].” 6 Though Congress required only the Director to
+perform these duties, see, e.g., 35 U.S.C. § 3(a)(2)(A), the
+USPTO asserted that it need not comply with the FVRA
+because compliance with the Act “is only needed” when
+there are duties “that are exclusive to that particular [Senate-
+confirmed] Officer” and “[a]ll of the Director[’s] duties . . .
+are delegable (i.e., non-exclusive) duties.” 7 Other agencies
+have adopted a similar practice. See, e.g., Bullock v. U.S.
+Bureau of Land Mgmt., 489 F. Supp. 3d 1112, 1128–29 (D.
+Mont. 2020) (finding that a deputy director of the Bureau of
+Land Management violated the FVRA when he used general
+
+
+6
+  See Notice of Delegation of Functions and Duties at the USPTO, U.S.
+Pat.       &      Trademark       Off.      (Nov.       22,    2013),
+www.uspto.gov/trademarks/trademark-updates-and-
+announcements/notice-delegation-functions-and-duties-uspto
+[https://perma.cc/77BE-CS8J] (USPTO Notice).
+7
+    See USPTO Notice.
+    GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS 63
+
+
+delegation authority to perform the duties of the vacant
+Director’s office). This is the precise end-run that § 3347(b)
+was enacted to prevent. 8
+    I recognize that the ratification bar is a harsh
+consequence and that the interpretation I advance has the
+potential to imperil many agency actions if an official has
+served in violation of the Act. I also recognize that the
+lengthy confirmation process, and the large number of
+Executive positions requiring Senate confirmation,
+necessitates reliance on acting officers to keep the wheels of
+our federal government turning. But the ratification bar only
+kicks in if an agency does not follow the FVRA’s chain of
+succession or if an acting officer serves for longer than 210
+days. The Act also accounts for the uncertainties of the
+confirmation process: if an initial nominee is rejected or
+returned by the Senate, or withdraws from consideration, the
+210-day limit starts anew. See § 3346(b)(1). Once a second
+nominee is submitted to the Senate, the acting officer may
+continue to serve until the nominee is confirmed or for 210
+days after the second nominee is rejected, returned, or
+withdrawn. § 3346(b)(2). The FVRA’s design thus prevents
+the President from simply failing to nominate a permanent
+officer for the Senate’s consideration. There have been a
+
+8
+  The concurrence notes that Professor Anne Joseph O’Connell has
+written that broad delegations of authority “appear[] to provide an easy
+workaround” to the FVRA. Anne Joseph O’Connell, Actings, 120
+Colum. L. Rev. 613, 633 (2020). But Professor O’Connell explained
+that she only “treats [agencies’ delegation practices] as permissible
+(though not necessarily desirable) under the” FVRA because they “are
+pervasive and have largely been upheld by the limited courts to consider
+them.” Id. at 633 n.105. Professor O’Connell’s careful observation
+about Executive Branch practice and the nascent state of the relevant
+caselaw did not endorse of agencies’ circumvention of the FVRA nor
+analyze the Act’s definition of “function or duty.”
+64 GONZALES & GONZALES BONDS & INS. AGENCY, INC. V. USDHS
+
+
+few notable exceptions, but officials serving in violation of
+the Act have not been common.
+                             D
+     With the meaning of “function or duty” in hand, the
+outcome of this appeal is straightforward. Chad Wolf was
+without authority to issue the surety bonds rule because he
+was not properly acting as DHS Secretary under the FVRA.
+Congress directed only the DHS Secretary to promulgate
+surety bond rules. See 8 U.S.C. § 1103(a)(3). The issuance
+of surety bonds rules is a “function or duty” of the DHS
+Secretary within the meaning of § 3348(a)(2), so it follows
+under § 3348(d) that Wolf’s promulgation of the surety
+bonds rule was without force or effect and could not be
+ratified by Wolf’s successor.
+                            III
+    I would affirm the district court’s order granting
+Plaintiff-Appellees’ motion for summary judgment.
+Accordingly, I respectfully dissent.
+

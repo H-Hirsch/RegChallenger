@@ -1,0 +1,2745 @@
+Case: 19-60896      Document: 00515905664       Page: 1   Date Filed: 06/18/2021
+
+
+
+
+              United States Court of Appeals
+                 for the Fifth Circuit                            United States Court of Appeals
+                                                                           Fifth Circuit
+
+                                                                         FILED
+                                                                     June 18, 2021
+                                 No. 19-60896
+                                                                    Lyle W. Cayce
+                                                                         Clerk
+   Huawei Technologies USA, Incorporated; Huawei
+   Technologies Company, Limited,
+
+                                                                  Petitioners,
+                                    versus
+
+   Federal Communications Commission; United States of
+   America,
+
+                                                                 Respondents.
+
+
+                     On Petition for Review of an Order of the
+                 Federal Communications Commission, No. 19-121
+
+
+   Before Elrod, Duncan, and Wilson, Circuit Judges.
+   Stuart Kyle Duncan, Circuit Judge:
+         An FCC rule bars using government subsidies to buy equipment from
+   companies designated security risks to communications networks. See
+   Protecting Against National Security Threats to the Communications Supply
+   Chain Through FCC Programs, 85 Fed. Reg. 230-01 (Jan. 3, 2020). We
+   consider a challenge to that rule by Huawei Technologies Company and its
+   American affiliate, Huawei Technologies USA.
+Case: 19-60896      Document: 00515905664           Page: 2    Date Filed: 06/18/2021
+
+
+
+
+                                     No. 19-60896
+
+
+                                 Introduction
+          The federal government annually distributes billions of dollars to
+   promote telephone and Internet service across our nation. These subsidies,
+   called “universal service funds,” are administered by the Federal
+   Communications Commission (“FCC”). Last year, that agency issued a rule
+   barring recipients from using the funds to buy equipment or services from
+   companies designated “national security risks” to communications networks
+   and supply chains. Under the rule, the FCC designated Huawei, a Chinese
+   telecom provider, and its American affiliate as national security risks. The
+   companies now level myriad challenges, both statutory and constitutional, to
+   the rule and to their designation.
+          Their most troubling challenge is that the rule illegally arrogates to the
+   FCC the power to make judgments about national security that lie outside
+   the agency’s authority and expertise. That claim gives us pause. The FCC
+   deals with national communications, not foreign relations. It is not the
+   Department of Defense, or the National Security Agency, or the President.
+   If we were convinced that the FCC is here acting as “a sort of junior-varsity
+   [State Department],” Mistretta v. United States, 488 U.S. 361, 427 (1989)
+   (Scalia, J., dissenting), we would set the rule aside.
+          But no such skullduggery is afoot. Assessing security risks to telecom
+   networks falls in the FCC’s wheelhouse. And the agency’s judgments about
+   national security receive robust input from other expert agencies and
+   officials. We are therefore persuaded that, in crafting the rule, the agency
+   reasonably acted within the broad authority Congress gave it to regulate
+   communications. Additionally, having carefully considered the companies’
+   other challenges under the Administrative Procedure Act and the
+   Constitution, we find those unavailing as well.
+          We therefore deny the petition for review.
+
+
+
+
+                                           2
+Case: 19-60896             Document: 00515905664                      Page: 3         Date Filed: 06/18/2021
+
+
+
+
+                                                  No. 19-60896
+
+
+                                       Table of Contents
+   Background .................................................................................................. 4
+   Procedural History...................................................................................... 11
+   Standard of Review ..................................................................................... 12
+   Discussion .................................................................................................. 14
+     I. Ripeness ................................................................................................ 14
+     II. Statutory Authority ............................................................................. 17
+        A. Lack of Express Prohibition in Act ................................................... 17
+        B. Chevron Analysis ............................................................................... 18
+          1. “Public Interest” Provisions ........................................................... 19
+          2. “Quality Services” Provision ........................................................ 25
+        C. Additional Arguments ..................................................................... 30
+          1. Lack of National Security Expertise ............................................... 30
+          2. Conflict with Presidential Authority ............................................... 31
+          3. Secure Networks Act ..................................................................... 32
+     III. Substantive Challenges....................................................................... 37
+        A. Adequacy of Notice .......................................................................... 37
+        B. Arbitrary and Capricious Review ...................................................... 41
+          1. Consideration of Relevant Evidence and Arguments ...................... 41
+          2. Cost-Benefit Analysis .................................................................... 46
+          3. Rejection of Risk-Based Approach .................................................. 51
+        C. Vagueness ........................................................................................ 54
+        D. Due Process ..................................................................................... 58
+     IV. Conclusion ......................................................................................... 61
+
+
+
+
+                                                          3
+Case: 19-60896       Document: 00515905664            Page: 4     Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+                                   Background
+          Huawei Technologies Company (“Huawei”) is a global provider of
+   telecommunications equipment and services established and headquartered
+   in China. It supplies smart device, cloud, and 5G broadband cellular
+   technology to commercial entities and consumers. Huawei-USA launched in
+   2001 and maintains its U.S. headquarters in Plano, Texas.
+          As early as 2011, Huawei began attracting the U.S. government’s
+   attention as a potential security risk to American telecommunications
+   networks.1 In October 2012, the U.S. House Permanent Select Committee
+   on Intelligence (“HPSCI”) published a report finding, “Huawei . . . cannot
+   be trusted to be free of foreign state influence and thus pose[s] a security
+   threat to the United States and to our systems.” HPSCI Report, at vi–vii. The
+   HPSCI admonished U.S. government systems operators and contractors to
+   exclude Huawei equipment and encouraged private entities to reconsider
+   Huawei-associated security risks and “seek other vendors.” Id. at vi.
+          In late 2017, members of Congress expressed apprehension about
+   “Chinese espionage” and “Huawei’s role in [it]” to then-Chairman of the
+   FCC, Ajit Pai.2 Pai’s reply conveyed “share[d] . . . concerns about the
+   security threat that Huawei and other Chinese technology companies pose to
+   our communications networks.”3 He promised “to take proactive steps” to
+
+
+
+          1
+               Mike Rogers & C.A. Dutch Ruppersberger, HPSCI,
+   Investigative Report on the U.S. National Security Issues Posed by
+   Chinese Telecommunications Companies Huawei and ZTE iv (2012),
+   https://tinyurl.com/yyp5muou [hereinafter HPSCI Report].
+          2
+          Letter from Tom Cotton et al., Members, U.S. Congr., to Ajit Pai, Chairman &
+   Commiss’r, FCC (Dec. 20, 2017), https://tinyurl.com/yx6xp217.
+          3
+             Letter from Ajit Pai, Chairman, FCC, to Tom Cotton, Sen., U.S. S. (Mar. 20,
+   2018), https://tinyurl.com/u2verd9.
+
+
+
+
+                                            4
+Case: 19-60896           Document: 00515905664              Page: 5       Date Filed: 06/18/2021
+
+
+
+
+                                            No. 19-60896
+
+
+   “ensure the integrity of the communications supply chain . . . in the near
+   future.” Id.
+           Around this time, Congress passed, and the President signed into law,
+   the National Defense Authorization Act for Fiscal Year 2018 (“2018
+   NDAA”), which barred the Defense Department from procuring
+   telecommunications equipment produced by Huawei.4 The 2019 NDAA
+   went further, prohibiting all executive agencies from obtaining Huawei
+   equipment, contracting with entities that use it, or using loan or grant funds
+   to obtain it.5 Sharing these concerns, then-President Donald Trump issued
+   executive orders addressing the issue in 2019 and 2020.6
+           Against this backdrop, the FCC issued an April 2018 notice of
+   proposed rulemaking (“NPRM”), “In the Matter of Protecting Against
+   National Security Threats to the Communications Supply Chain Through
+   FCC Programs.”7 The notice concerned “universal service funds” (or
+   “USF funds”), a pool of money the FCC dispenses to certain providers to
+   promote “universal service.” See 47 U.S.C. § 254(e); see also Alenco
+   Commc’ns, Inc. v. FCC, 201 F.3d 608, 617 (5th Cir. 2000).8 USF funds foster
+   affordable telephone and internet access in high-cost areas, subsidize rates
+
+
+           4
+               See Pub. L. No. 115-91, § 1656(b)(1), (c)(3)(A), 131 Stat. 1283, 1762 (2017).
+           5
+               See Pub. L. No. 115-232, § 889(a)–(b), (f)(3)(A), 132 Stat. 1636, 1917–18 (2018).
+           6
+             Exec. Order No. 13,873, 84 Fed. Reg. 22,689 (May 15, 2019); Exec. Order No.
+   13913, 85 Fed. Reg. 19,643 (Apr. 4, 2020).
+           7
+             Notice of Proposed Rulemaking in the Matter of Protecting Against National
+   Security Threats to the Communications Supply Chain Through FCC Programs (“Supply
+   Chain Rulemaking”), FCC 18-42, WC Docket No. 18-89, 33 FCC Rcd. 4058 (released Apr.
+   18, 2018).
+           8
+            Universal service is defined as “an evolving level of telecommunications services
+   that the Commission shall establish periodically . . . , taking into account advances in
+   telecommunications and information technologies and services.” § 254(c)(1).
+
+
+
+
+                                                   5
+Case: 19-60896         Document: 00515905664              Page: 6       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   for rural health care facilities, and support services for schools and libraries.9
+   The NPRM sought comment on a proposed rule that would prohibit using
+   USF funds “to purchase equipment or services from any communications
+   equipment or service providers identified as posing a national security risk to
+   communications networks or the communications supply chain.” 33 FCC
+   Rcd. at 4058. The NPRM also solicited comment on “how to identify
+   companies” that pose such threats and proposed several approaches.10 Id. at
+   4064. Comment was also sought on other steps the FCC could take, waivers
+   for USF applicants, costs and benefits, and sources of legal authority for the
+   rule. Id. at 4068–70. The NPRM drew extensive comments, including from
+   Huawei.11
+
+
+
+
+           9
+             See 47 U.S.C. § 254; Tex. Off. of Pub. Util. Couns. v. FCC, 183 F.3d 393, 406, 407–
+   08 (5th Cir. 1999) [hereinafter TOPUC I]. The USF fund’s annual budget is about $8
+   billion. Universal Service Administrative Co., 2020 Annual Report 5
+   (2021),            https://www.usac.org/wp-content/uploads/about/documents/annual-
+   reports/2020/USAC_Annual_Report_2020.pdf. In 2020, about $800 million of those
+   funds were allocated to the FCC’s Lifeline Program, which “supports telecommunications
+   companies that offer discounted phone and broadband services to eligible consumers,”
+   while just over $5 billion were allocated to the High Cost Program, which subsidizes the
+   expansion of broadband networks in rural communities. Id. at 5, 12, 14.
+           10
+              For instance, one suggested approach was to define a covered company as one
+   “from which any agency of the Federal Government has been prohibited by Congress from
+   procuring or obtaining any equipment, system, or service that uses telecommunications
+   equipment or services provided by that company . . . .” 33 FCC Rcd. at 4064–65; see also
+   id. at 4065–66 (suggesting other approaches).
+           11
+            Some commenters argued the proposed prohibition went “too far” by including
+   end-user devices like smartphones. Others commented the rule would “cause substantial
+   harm” to small rural carriers without “corresponding benefits.” Still others advocated the
+   FCC employ “a more targeted approach” than a “blanket prohibition on the use of any
+   equipment provided by a blacklisted vendor.” Huawei argued the proposed rule would
+   exceed the Commission’s statutory authority, would be arbitrary and capricious under the
+   APA, and would violate covered companies’ due process rights.
+
+
+
+
+                                                6
+Case: 19-60896         Document: 00515905664               Page: 7       Date Filed: 06/18/2021
+
+
+
+
+                                           No. 19-60896
+
+
+           Ultimately, the FCC released a final rule (the “USF Rule”) barring
+   use of USF funds to buy equipment or services provided by a company
+   “posing a national security threat to the integrity of communications
+   networks or the communications supply chain.” 47 C.F.R. § 54.9(a). The
+   USF Rule also adopted a process for designating covered companies that
+   involves an initial designation by the Public Safety and Homeland Security
+   Bureau (“Bureau”), a comment period, and a final designation. Id.
+   § 54.9(b).12
+           In the cases of Huawei and ZTE Corporation, another Chinese
+   telecommunications company, the FCC found the rulemaking record, as well
+   as additional classified information, sufficient to initially designate both
+   companies.13 Thus, in the Report and Order (“USF Order”) accompanying
+   the USF Rule, the Commission announced Huawei’s and ZTE’s initial
+   designations and directed the Bureau to “implement the next [designation]
+   steps.” 34 FCC Rcd. at 11440, 11449. The FCC also used the USF Order to
+   explain its legal authority to adopt the rule, describe the designation standard,
+   justify the rule’s scope, provide a cost-benefit analysis, and otherwise
+   respond to commenters.
+
+
+
+           12
+               The Bureau is “the FCC’s primary expert on public safety and homeland
+   security matters.” Public Safety and Homeland Security, FCC, https://www.fcc.gov/public-
+   safety-and-homeland-security (last visited June 17, 2021). When the Bureau determines a
+   company poses “a national security threat,” it issues a notice of initial designation.
+   § 54.9(b)(1). Interested parties may file comments opposing or otherwise responding to the
+   initial designation. § 54.9(b)(2). If opposed, a final designation takes effect only upon the
+   Bureau’s determination the company should be designated. Id. The Bureau may reverse a
+   final designation if it finds the entity no longer poses a threat. § 54.9(b)(3). The Bureau may
+   also revise the designation process or adopt a new one. Id. § 54.9(b)(4).
+           13
+              Report & Order in Supply Chain Rulemaking, FCC 19-121, WC Docket No. 18-
+   89 & PS Docket Nos. 19-351, 19-352, 34 FCC Rcd. 11423, 11439–40 & n.124 (released Nov.
+   26, 2019).
+
+
+
+
+                                                 7
+Case: 19-60896         Document: 00515905664               Page: 8      Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+           First, as to its legal authority, the FCC explained that 47 U.S.C.
+   § 254(e) permits it “to specify what a USF recipient may or must do with
+   [universal service] funds.”14 Id. at 11434 (citation omitted). The FCC drew
+   additional authority from various provisions in Title 47 empowering the
+   agency to use USF funds to promote the public’s interest in quality services
+   and network security. Id. at 11434–37.15
+           The FCC also stated it would consider “all available evidence to
+   determine whether an entity poses a national security threat.” Id. at 11438.
+   Such evidence might include findings by the Commission, Congress, the
+   President, or other executive agencies that an entity “poses a national
+   security threat” or “other available evidence, . . . open source or classified,”
+   supporting such an assessment. Ibid. The FCC said it would “seek to
+   harmonize its determinations” with those of other Executive Branch
+   agencies and Congress “[w]here appropriate.” Id. at 11438–39.
+           Addressing the rule’s scope, the FCC explained the rule applies to
+   “any and all equipment or services, including software, produced or provided
+   by a covered company.” Id. at 11449. This “blanket prohibition” would
+
+
+           14
+              Specifically, section 254(e) provides that a carrier that receives USF funds “shall
+   use that support only for the provision, maintenance, and upgrading of facilities and
+   services for which the support is intended.” 47 U.S.C. § 254(e).
+           15
+              See id. § 254(b)(1) (directing FCC to base universal service policies on six
+   principles including promoting “[q]uality services . . . at just, reasonable, and affordable
+   rates”); id. § 201(b) (Commission “may prescribe such rules and regulations as may be
+   necessary in the public interest to carry out” the Communications Act); id. § 254(c)(1)(A),
+   (D) (FCC and Joint Board must “consider the extent to which such telecommunications
+   services” are “essential to . . . public safety” and “consistent with the public interest,
+   convenience, and necessity”). The agency also cited § 105 of the Communications
+   Assistance for Law Enforcement Act (“CALEA”), 47 U.S.C. § 1004, which permits
+   carriers to authorize “interception of communications or access to call-identifying
+   information effected within its switching premises” pursuant to “a court order or other
+   lawful authorization.” We discuss these provisions in greater detail, infra.
+
+
+
+
+                                                 8
+Case: 19-60896         Document: 00515905664              Page: 9       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   “best promote[] national security, provide[] the most administrable rule, and
+   ease[] compliance for USF recipients.” Ibid. While admitting a broad rule
+   would “impose attendant costs on providers” and rural consumers, the
+   Commission estimated the rule’s benefits, though hard to quantify,16 would
+   “significantly and substantially outweigh” its costs. Id. at 11449–53, 11466.17
+   Finally, the Commission discussed and rejected various constitutional
+   considerations raised during the comment period, some of which Huawei
+   advances here. Id. at 11457–65.18
+           On January 3, 2020, the FCC published a summary of the USF Order
+   in the Federal Register that provided for a thirty-day comment period on the
+
+
+
+           16
+              The agency assumed the rule would prevent economic harm by thwarting attacks
+   on national communications networks. 34 FCC Rcd. at 11465. Given a national GDP of
+   $20.5 trillion in 2018 (and a growth rate of 2.9%), the agency estimated that preventing even
+   a 0.005% disruption to the economy or a 0.162% disruption to annual growth would
+   outweigh estimated costs. Ibid. Similarly, given the digital economy’s $1.35 trillion size,
+   benefits would outweigh costs if the rule foiled a disruption of 0.072% of the digital
+   economy. Id. These benefits were realistic, the FCC suggested, because malicious
+   cyberactivity cost somewhere between $57 and $109 billion in 2016. Ibid. The FCC
+   projected similar benefits from reducing identity theft. Id. at 11465–66. Moreover, the rule
+   would produce additional benefits even harder to quantify, such as preventing threats to
+   the national defense, public safety, homeland security, military readiness, and critical
+   infrastructure. Id. at 11466.
+           17
+              Costs would “not exceed $960 million” and were “likely to be much lower.” 34
+   FCC Rcd. at 11465. The agency took the average cost of replacing Huawei/ZTE equipment
+   (pegged at $40–$45 million based on estimates from seven carriers), multiplied by the
+   number of firms using the equipment that “rely on universal service support,” but reduced
+   to account for carriers’ decisions to use other funding to purchase or maintain the
+   equipment. Id. at 11466–67. Based on a cost-stream estimate over twenty years and product
+   price differential estimates of 10% and 25%, the FCC then estimated the lower and upper
+   cost bounds as $160 million and $960 million, respectively. Id. at 11468–69. We consider
+   the agency’s cost-benefit analysis in greater detail infra.
+           18
+                In brief, the FCC rejected arguments that the USF Rule and its applications
+   would violate the Fifth Amendment’s Due Process Clause, amount to an unconstitutional
+   bill of attainder, and constitute a regulatory taking. 34 FCC Rcd. at 11457–65.
+
+
+
+
+                                                9
+Case: 19-60896      Document: 00515905664             Page: 10    Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+   initial designations of Huawei and ZTE.19 Huawei submitted comments
+   arguing the Bureau should reject its initial designation.20 On June 30, 2020,
+   the Bureau issued a “final designation” of Huawei as a company covered by
+   the USF Rule, which was “effective immediately upon release.”21 Huawei
+   appealed the Bureau’s determination to the full Commission a month later.
+   On December 11, 2020, the FCC affirmed Huawei’s final designation.22
+          Shortly after the USF Rule was published, Congress enacted related
+   legislation, the Secure and Trusted Communications Networks Act of 2019,
+   Pub. L. No. 116-124, 134 Stat. 158 (2020) (codified at 47 U.S.C. § 1601 et seq.)
+   [hereinafter “Secure Networks Act” or “SNA”]. Among other things, the
+   SNA directs the Commission to publish a list of “covered communications
+   equipment or services”—specifically, those posing national security risks as
+   determined by “any executive branch interagency body with appropriate
+   national security expertise,” the Department of Commerce pursuant to
+   Executive Order No. 13873, the 2019 NDAA, and/or “an appropriate
+   national security agency.” § 1601(a), (c). The SNA bars using Commission-
+   administered subsidies to obtain or maintain any covered equipment or
+   service. § 1602(a).
+
+
+
+          19
+            Final Rule in Supply Chain Rulemaking; Huawei Designation; ZTE Designation,
+   85 Fed. Reg. 230-01 (Jan. 3, 2020) (to be codified at 47 C.F.R. pt. 54).
+          20
+             Comments of Huawei Technologies Co., Ltd., and Huawei Technologies USA,
+   Inc. on Supply Chain Rulemaking — Huawei Designation, PS Docket No. 19-351 (Feb. 3,
+   2020).
+          21
+              Designation Order in Supply Chain Rulemaking — Huawei Designation, PS
+   Docket No. 19-351, 35 FCC Rcd. 6604, 2020 WL 3566005, at *23 (released June 30, 2020)
+   [hereinafter Final Designation Order].
+          22
+             FCC Memorandum Opinion and Order in Supply Chain Rulemaking — Huawei
+   Designation, FCC 20-179, PS Docket No. 19-351, 2020 WL 7351129 (released Dec. 11,
+   2020) [hereinafter Designation Affirmance].
+
+
+
+
+                                            10
+Case: 19-60896       Document: 00515905664             Page: 11      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+           A few weeks after Huawei’s final designation, the FCC released a
+   declaratory ruling “integrat[ing] provisions of the . . . [SNA] into [the
+   Commission’s] existing supply chain rulemaking proceeding.”23 The
+   Declaratory Ruling found the USF Order fulfilled the FCC’s duty under
+   SNA § 3 to prohibit using Commission-administered subsidies to obtain
+   covered equipment or services. Id. About six months later, on the same day
+   it affirmed Huawei’s final designation, the FCC released a second report and
+   order further integrating the SNA’s requirements into the supply chain
+   rulemaking that began with the USF Order.24 Congress later amended the
+   SNA via the Consolidated Appropriations Act of 2021 to incorporate the
+   USF Rule’s definition of covered equipment and services for the purpose of
+   reimbursing providers for replacing covered equipment or services.25
+                              Procedural History
+           This case comes before us on Huawei’s petitions for review of the
+   USF Order. See 47 U.S.C. § 402(a); 28 U.S.C. § 2342(1); see also Fed. R.
+   App. P. 15(a); Alenco, 201 F.3d at 614.26 Huawei seeks review on the grounds
+   that the Order (1) exceeded the FCC’s statutory authority; (2) was arbitrary,
+   capricious, and an abuse of discretion under the APA; (3) was adopted in
+
+
+
+           23
+              Declaratory Ruling and Second Further Notice of Proposed Rulemaking in
+   Supply Chain Rulemaking, FCC 20-99, WC Docket No. 18-89, 2020 WL 4046643, at *1
+   (released July 17, 2020).
+           24
+            Second Report and Order in Supply Chain Rulemaking, FCC 20-176, WC
+   Docket No. 18-89, 2020 WL 7351126 (released Dec. 11, 2020).
+           25
+             Pub. L. No. 116-260, 134 Stat. 1182, 2120 (Dec. 27, 2020) (to be codified at 47
+   U.S.C. § 1603).
+           26
+              Both of Huawei’s petitions state they seek review of the entire document
+   released on November 26, 2019, which included a Further Notice of Proposed Rulemaking
+   and an Information Collection Order. But Huawei’s subsequent briefing addresses only the
+   Report and Order (which we refer to collectively as the “USF Order”).
+
+
+
+
+                                              11
+Case: 19-60896      Document: 00515905664             Page: 12    Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+   violation of the notice-and-comment requirements of 5 U.S.C. § 553; (4) was
+   void for vagueness and retroactive in violation of the Constitution and the
+   APA; (5) violated the Constitution’s Appointments Clause and statutory and
+   constitutional due process protections; and (6) was otherwise contrary to
+   law. The parties’ briefing and oral arguments clarified that Huawei’s appeal
+   presents independent challenges to two parts of the USF Order: the USF
+   Rule and Huawei’s initial designation.
+          As noted, the FCC affirmed Huawei’s final designation after oral
+   argument in this case. Designation Affirmance, 2020 WL 7351129. Huawei
+   timely petitioned for review of the final designation order. We granted a stay
+   in that case pending disposition of this one.
+                              Standard of Review
+          “The court of appeals . . . has exclusive jurisdiction to enjoin, set
+   aside, suspend (in whole or in part), or to determine the validity of . . . all final
+   orders of the Federal Communication Commission made reviewable by [47
+   U.S.C. § 402(a)].” 28 U.S.C. § 2342. We review such orders in two ways.
+   See Alenco, 201 F.3d at 614, 619.
+          First, we consider whether the agency’s action exceeded its statutory
+   authority under the Chevron framework. Acosta v. Hensel Phelps Constr. Co.,
+   909 F.3d 723, 730 (5th Cir. 2018); see also Chevron U.S.A., Inc. v. Nat. Res.
+   Def. Council, Inc., 467 U.S. 837, 842–44 (1984). At step one, we ask whether
+   “Congress has directly spoken to the precise question at issue,” in which
+   case we must “give effect to the unambiguously expressed intent of
+   Congress” and reverse an agency’s interpretation that fails to conform to the
+   statutory text. Alenco, 201 F.3d at 619 (quoting Chevron, 467 U.S. at 842–43);
+   see also Sw. Elec. Power Co. v. EPA, 920 F.3d 999, 1024 (5th Cir. 2019) (“The
+   question for the court [at step one] is whether the agency’s construction of
+   the language is within the range of meanings that could be plausibly attributed
+
+
+
+
+                                            12
+Case: 19-60896        Document: 00515905664         Page: 13   Date Filed: 06/18/2021
+
+
+
+
+                                     No. 19-60896
+
+
+   to the relevant statutory language.” (quoting 1 Richard J. Pierce, Jr.,
+   Administrative Law Treatise § 3.6, at 215 (5th ed. 2010))). We rely
+   on “authoritative Supreme Court decisions” and “conventional standards of
+   statutory interpretation,” looking to “text, structure, and the overall
+   statutory scheme.” Chamber of Com. v. U.S. Dep’t of Lab., 885 F.3d 360, 369
+   (5th Cir. 2018).
+          If the statute is silent or ambiguous as to the specific issue, we proceed
+   to step two and ask whether “the agency’s answer is based on a permissible
+   construction of the statute.” Alenco, 201 F.3d at 619 (quoting Chevron, 467
+   U.S. at 843). If the agency’s construction is “arbitrary, capricious, or
+   manifestly contrary to the statute,” we reverse. Id. (quoting Chevron, 467
+   U.S. at 844). But “[i]f a statute is ambiguous, and if the implementing
+   agency’s construction is reasonable,” we defer to the agency’s construction.
+   Acosta, 909 F.3d at 730 (quoting Elgin Nursing & Rehab. Ctr. v. U.S. Dep’t of
+   Health & Hum. Servs., 713 F.3d 488, 492 n.3 (5th Cir. 2013)).
+          Second, we will set aside agency action that is arbitrary and capricious,
+   an abuse of discretion, or otherwise unlawful. 5 U.S.C. § 706(2)(A). Agencies
+   “are required to engage in ‘reasoned decisionmaking.’” Sierra Club v. EPA,
+   939 F.3d 649, 664 (5th Cir. 2019) (quoting Michigan v. EPA, 576 U.S. 743,
+   750 (2015)); see also FCC v. Prometheus Radio Project, 141 S. Ct. 1150, 1158
+   (2021) (“The APA’s arbitrary-and-capricious standard requires that agency
+   action be reasonable and reasonably explained.”). “Not only must an
+   agency’s decreed result be within the scope of its lawful authority, but the
+   process by which it reaches that result must be logical and rational.”
+   Michigan, 576 U.S. at 750 (quoting Allentown Mack Sales & Serv., Inc. v.
+   NLRB, 522 U.S. 359, 374 (1998)). The agency must “articulate a satisfactory
+   explanation for its action including a ‘rational connection between the facts
+   found and the choice made.’” Sierra Club, 939 F.3d at 664 (quoting Motor
+   Vehicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)).
+
+
+
+                                          13
+Case: 19-60896        Document: 00515905664            Page: 14      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   However, we cannot “substitute [our] judgment for that of the agency.” Id.
+   (quoting 10 Ring Precision, Inc. v. Jones, 722 F.3d 711, 723 (5th Cir. 2013)).
+   Our role is to determine whether the agency’s decision “was based on a
+   consideration of the relevant factors and whether there has been a clear error
+   of judgment.’” Id. (quoting State Farm, 463 U.S. at 43).
+           We review constitutional issues de novo. Tex. Off. of Pub. Util. Couns.
+   v. FCC, 183 F.3d 393, 419 n.34 (5th Cir. 1999) [hereinafter TOPUC I]; see also
+   5 U.S.C. § 706.
+                                      Discussion
+                                      I. Ripeness
+           The FCC contests the ripeness of Huawei’s challenges to the USF
+   Rule and to the initial designation.27 The ripeness doctrine “prevent[s] the
+   courts, through avoidance of premature adjudication, from entangling
+   themselves in abstract disagreements over administrative policies.” Abbott
+   Lab’ys v. Gardner, 387 U.S. 136, 148 (1967), overruled on other grounds,
+   Califano v. Sanders, 430 U.S. 99 (1977). It also “protect[s] the agencies from
+   judicial interference until an administrative decision has been formalized and
+   its effects felt in a concrete way by the challenging parties.” Id. at 148–49.
+   We apply a two-part test, balancing “the fitness of the issues for judicial
+   decision” with “the hardship to the parties of withholding court
+   consideration.” Id. at 149; see also Texas v. United States, 497 F.3d 491, 498
+   (5th Cir. 2007).
+           Here, the FCC originally argued that neither Huawei’s challenges to
+   the USF Rule nor its challenges to the initial designation were ripe because
+
+
+
+           27
+             We assess ripeness claim by claim. See John Corp. v. City of Houston, 214 F.3d
+   573, 585–86 (5th Cir. 2000).
+
+
+
+
+                                             14
+Case: 19-60896         Document: 00515905664                Page: 15       Date Filed: 06/18/2021
+
+
+
+
+                                            No. 19-60896
+
+
+   Huawei’s asserted injuries—financial and reputational fallout from the
+   “exclusion of its products from the federal USF program”—“w[ould] not
+   materialize unless the Commission issue[d] a final designation of Huawei.”
+   In other words, the FCC never disputed the rule’s fitness for review but only
+   Huawei’s showing of hardship. Now that Huawei has received a final
+   designation and the full Commission has affirmed it, making the rule
+   conclusively effective against Huawei, the FCC cannot assert its challenges
+   to the USF Rule are unripe.28
+           By contrast, the initial designation is not ripe for review because it is
+   not a final order and thus fails the fitness prong. See Abbott Lab’ys, 387 U.S.
+   at 148–150 (considering finality of agency action in evaluating fitness); Texas,
+   497 F.3d at 498–99 (same). We have authority to review only “final orders”
+   of the FCC under the Hobbs Act, 28 U.S.C. § 2342(1). A Hobbs Act “final
+   order” is analytically identical to “final agency action” under the APA, 5
+   U.S.C. § 704. See US West Commc’ns, Inc. v. Hamilton, 224 F.3d 1049, 1055
+   (9th Cir. 2000); Am. Trucking Ass’n, Inc. v. United States, 755 F.2d 1292, 1296
+   (7th Cir. 1985). Agency action is “final” under § 704 if two conditions are
+   met: (1) “the action must mark the consummation of the agency’s
+
+
+
+           28
+             “[Ripeness] is ‘peculiarly a question of timing.’” Opulent Life Church v. City of
+   Holly Springs, 697 F.3d 279, 286 (5th Cir. 2012) (quoting Reg’l Rail Reorganization Act
+   Cases, 419 U.S. 102, 140 (1974)). Thus, we must evaluate it based on “the situation now
+   rather than the situation” when the claims were first presented. Reg’l Rail Reorganization,
+   419 U.S. at 142–43; see also DM Arbor Ct., Ltd. v. City of Houston, 988 F.3d 215, 219–20 (5th
+   Cir. 2021). Huawei presented undisputed declaration testimony of “huge financial losses”
+   and workforce reductions resulting from the mere threat of designation. The FCC does not
+   dispute that these injuries include permanent loss of business from USF recipients who
+   would have used those funds to purchase Huawei equipment and the loss of future
+   contracts with USF recipients, injuries sufficient to establish hardship. See, e.g., Miss. Valley
+   Gas Co. v. FERC, 659 F.2d 488, 498–99 (5th Cir. 1981) (FERC order ripe where it would
+   have a “direct and immediate impact” by denying petitioner right to charge rates at agreed
+   amount).
+
+
+
+
+                                                  15
+Case: 19-60896       Document: 00515905664              Page: 16       Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   decisionmaking process”; and (2) it “must be one by which rights or
+   obligations have been determined, or from which legal consequences will
+   flow.” Bennett v. Spear, 520 U.S. 154, 177–78 (1997) (quotation marks
+   omitted) (citation omitted).
+           Fatally, Huawei fails to show the initial designation is the
+   “consummation” of the FCC’s decisional process. The rule describes the
+   initial designation as the Bureau’s “proposed” designation that triggers a
+   comment period. 47 C.F.R. § 54.9(b)(1)–(2). An initial designation is, by
+   definition, a tentative step: when opposed, it only takes effect once the
+   Bureau decides to issue a final designation. Id. § 54.9(b)(2).29 That is what
+   happened here: opposed by Huawei, the company’s initial designation took
+   effect only upon the Bureau’s issuing a final designation. See Final
+   Designation Order, 2020 WL 3566005, at *1. Thus, Huawei’s initial
+   designation is not a final order, and we cannot review it. See, e.g., Luminant
+   Generation Co. v. EPA, 757 F.3d 439, 442 (5th Cir. 2014).
+           Huawei contends that the initial designation was not tentative or
+   interlocutory because: the Commission, not the Bureau, initially designated
+   Huawei; it did so based on determinative findings, expressed with
+   confidence; it provided that the initial designation would become final absent
+   objection; and it assumed in its cost-benefit analysis that Huawei would be
+   finally designated. While these assertions suggest the initial designation is a
+
+
+
+
+           29
+             See La. Real Estate Appraisers Bd. v. FTC, 976 F.3d 597, 605 n.7 (5th Cir. 2020)
+   (agency order not final where party’s injury contingent on future agency action); Luminant
+   Generation Co. v. EPA, 757 F.3d 439, 442 (5th Cir. 2014) (EPA notice of violation not final
+   action where it “mark[ed] only the beginning of a process designed to test the accuracy of
+   the agency’s initial conclusions” (quoting Sierra Club v. EPA, 557 F.3d 401, 408 (6th Cir.
+   2009))).
+
+
+
+
+                                               16
+Case: 19-60896       Document: 00515905664              Page: 17       Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   significant step, one supported by initial findings and analysis, they do not
+   transform a proposed determination into a final one.
+           Thus, Huawei cannot satisfy the first prong of the finality test as to
+   the initial designation, and its challenges to that part of the order are unfit for
+   judicial review.30 Accordingly, we must dismiss its claims related to the initial
+   designation for lack of jurisdiction.
+                            II. Statutory Authority
+           We address Huawei’s argument that the FCC lacked statutory
+   authority to adopt the USF Rule.
+                        A. Lack of Express Prohibition in Act
+           As a threshold matter, the FCC claims we must defer to the agency’s
+   construction of § 254 unless the statute explicitly withholds authority to
+   adopt the USF Rule. But our circuit has repeatedly rejected “[t]his nothing-
+   equals-something” argument. Gulf Fishermens Ass’n v. Nat’l Marine Fisheries
+   Serv., 968 F.3d 454, 460–62 (5th Cir. 2020); see also Texas v. United States,
+   809 F.3d 134, 186 (2015) [hereinafter The DAPA Case]. We do not jump to
+   Chevron step two “any time a statute does not expressly negate the existence
+   of a claimed administrative power.” The DAPA Case, 809 F.3d at 186
+   (quoting Ethyl Corp. v. EPA, 51 F.3d 1053, 1060 (D.C. Cir. 1995)). “[O]nly
+   legislative intent to delegate such authority . . . entitles an agency to advance
+   its own statutory construction for review” under Chevron’s “deferential
+   second prong.” Gulf Fishermens, 968 F.3d at 461 (quoting Ethyl Corp., 51 F.3d
+   at 1060).
+
+
+           30
+              We need not consider the second finality prong because agency action must
+   satisfy both prongs to be final. See Nat’l Pork Producers Council v. EPA, 635 F.3d 738, 756
+   (5th Cir. 2001). Nor need we consider whether Huawei can satisfy the burden prong of the
+   ripeness test as to the initial designation. Unsuitability for review is determinative. Id.
+
+
+
+
+                                               17
+Case: 19-60896       Document: 00515905664              Page: 18      Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+           Relatedly, the FCC argues, citing TOPUC I and Alenco, that “so long
+   as the Commission does not violate an express statutory command, it may
+   use the universal-service mechanism to achieve policy objectives contained
+   elsewhere in the Act.” The agency misreads these cases, which teach only
+   that the FCC has “broad discretion” to balance the statutory goals of
+   achieving universal service and promoting local competition. Alenco, 201
+   F.3d at 615; TOPUC I, 183 F.3d at 406.31 Neither case supports the argument
+   that the FCC may deploy the universal-service mechanism to accomplish any
+   non-prohibited purpose in the Act.
+                                   B. Chevron Analysis
+           We therefore proceed to Chevron. At step one, we ask whether
+   Congress has “directly spoken to the precise question at issue.” Alenco, 201
+   F.3d at 619 (quoting Chevron, 467 U.S. at 842). Here, we want to know
+   whether Congress has plainly granted the authority the FCC wields in the
+   rule—authority to designate companies a “national security threat” to
+   telecom networks and to prohibit USF funds from being spent on their
+   equipment. See 47 C.F.R. § 54.9. Huawei does not dispute that the FCC may
+   restrict using USF funds for specific purposes; rather, it contests the FCC’s
+   power to “make national security determinations” in allocating those funds.
+   The FCC responds that the Communications Act provisions it cites—47
+
+
+           31
+              For example, in TOPUC I, we upheld under Chevron step two the agency’s
+   interpretation of the ambiguous term “sufficient” in § 254(e), based on its “reasonable
+   determination” that support would remain sufficient “during the transition period from
+   one [less competitive] universal service system to another [more competitive system].” 183
+   F.3d at 437. The FCC found “little chance” of competition eroding the previous support
+   system during the transition. Id. at 436–37. In other words, we upheld the FCC’s action
+   because it concluded that promoting competition would not undermine its obligation to
+   achieve sufficient service. Similarly, in Alenco, we stated that, although the FCC must
+   promote both universal service and competition in local communications markets, it
+   “cannot . . . sacrifice[ one] in favor of the other.” 201 F.3d at 615.
+
+
+
+
+                                              18
+Case: 19-60896        Document: 00515905664              Page: 19       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   U.S.C. §§ 201(b), 254(c)(1)(D), 254(b)(1), and 254(e)—are ambiguous on
+   this point and that we must therefore proceed to Chevron step two.32 By
+   contrast, Huawei contends the USF Rule fails at Chevron step one because
+   the cited provisions unambiguously withhold the FCC’s claimed authority.
+   We examine in turn each of the statutory provisions on which the FCC relies,
+   first under Chevron step one and then under step two.
+                              1. “Public Interest” Provisions
+           We turn first to 47 U.S.C. §§ 254(c)(1)(D) and 201(b), which we refer
+   to together as the “public interest” provisions. Section 254(c)(1)(D)
+   provides that the FCC, in “defin[ing]” services supported by universal
+   service funds, “shall consider the extent to which such telecommunications
+   services . . . are consistent with the public interest, convenience, and
+   necessity.” Section 201(b) similarly authorizes the Commission to
+   “prescribe such rules and regulations as may be necessary in the public
+   interest to carry out” the Act. The FCC argues these are capacious grants of
+   authority, which—along with the “quality services” provision, see infra—
+   reasonably encompass “considering foreign threats to the integrity of
+   domestic communications networks in distributing federal subsidies.”
+           As the Supreme Court has noted with respect to other sections of the
+   Act, the term “public interest” gives the FCC authority that is “supple” and
+   “comprehensive,” but not “unlimited.” FCC v. Pottsville Broad. Co., 309
+   U.S. 134, 138 (1940) (§ 319); Nat’l Broad. Co. v. United States, 319 U.S. 190,
+   216, 217 (1943) (§ 303).33 The term is both broad and vague. See FCC v.
+
+
+           32
+           The agency also argues the USF Rule “directly implements” § 105 of the
+   CALEA, but as explained below we need not address this point.
+           33
+             The “‘public convenience, interest, or necessity’” was the touchstone for the
+   exercise of the Commission’s authority” under the 1934 Communications Act. Pottsville
+   Broad. Co., 309 U.S. at 137–38. For instance, in §§ 307 and 319 of the original Act, Congress
+
+
+
+
+                                                19
+Case: 19-60896       Document: 00515905664               Page: 20      Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   WNCN Listeners Guild, 450 U.S. 582, 593 (1981) (noting the Act does not
+   define “public interest” in § 303). Consequently, while § 254(c)(1) plainly
+   “authorizes      the     FCC      to    define     ‘periodically’      the    types     of
+   telecommunications services that are encompassed by ‘universal service,’”
+   In re FCC 11-161, 753 F.3d 1015, 1046 (10th Cir. 2014) (quoting § 254(c)(1)),
+   “consistent with the public interest,” § 254(c)(1)(D), how much latitude the
+   agency has in defining the “public interest” is less clear.
+           Neither the term nor its context explicitly limits the FCC’s authority
+   to constrain USF funds based on a “national security” assessment. See 47
+   C.F.R. § 54.9(a); cf. In re FCC 11-161, 753 F.3d at 1046 (concluding “nothing
+   in [§254(c)(1)] expressly or implicitly deprives the FCC of authority to direct
+   that a USF recipient” use USF funding to provide broadband internet access
+   services). Indeed, Congress’s use of such an open-textured term suggests
+   “an express delegation of authority to the agency to elucidate [the] . . .
+   provision.” Chevron, 467 U.S. at 843–44.34 For purposes of Chevron step one,
+   then, we would be hard-pressed to say these provisions unambiguously
+   exclude the authority exercised in the USF Rule.
+           Huawei counters with several related points. It argues that § 201(b) is
+   not an independent source of authority to regulate in the “public interest,”
+
+
+
+   authorized the Commission to grant station licenses and construction permits “if public
+   convenience, interest, or necessity w[ould] be served thereby.” Communications Act of
+   1934, Pub. L. No. 416, §§ 307(a), 319(a), 48 Stat. 1064, 1083, 1089 (codified as amended at
+   47 U.S.C. §§ 307, 319). The Act also provided that the FCC would exercise certain powers
+   “as public convenience, interest, or necessity requires.” § 303, 48 Stat. at 1082 (codified
+   as amended at 47 U.S.C. § 303).
+           34
+            See also Anniston Broad. Co. v. FCC, 668 F.2d 829, 832 (5th Cir. Unit B 1982)
+   (“[T]he Commission’s judgment regarding how the public interest is best served is entitled
+   to   substantial     judicial   deference.”);    Caleb       Nelson,         Statutory
+   Interpretation 78 (2011) (“Vagueness often reflects a deliberate decision by
+   [Congress] to transfer various important decisions to the courts or agencies . . . .”).
+
+
+
+
+                                               20
+Case: 19-60896         Document: 00515905664                 Page: 21        Date Filed: 06/18/2021
+
+
+
+
+                                             No. 19-60896
+
+
+   and that § 254(c)(1)(D) “requires Joint Board participation, which did not
+   occur here.”35 It also argues that § 254(c)(1)(D) uses “public interest” in
+   reference to the “evolving level of telecommunications” service and so does
+   not delegate to the FCC authority to make independent national security
+   judgments. There is force in these arguments. We would be troubled if the
+   FCC were trying to leverage its “public interest” authority over networks
+   into the power to make freewheeling national security judgments. But we are
+   persuaded that Huawei overstates the scope of the national security authority
+   the FCC claims in the USF Rule.
+            The FCC does not ask us to read § 201(b) as a stand-alone font of
+   regulatory authority. Instead, the agency reads it alongside its power in
+   § 254(c)(1)(D) to “defin[e]” and “establish” universal service “consistent
+   with the public interest,” as well its duty in § 254(b)(1) to develop universal
+   service policies in accord with certain principles, including promoting
+   “quality services.” Moreover, as we explain below, the agency has
+   reasonably defined “quality services” to include services that are secure
+   against foreign cyberattack. See infra pp. 25–29. Seen in that light, the FCC
+   does not seek to grasp the expansive and independent national security
+   authority Huawei fears. Instead, the FCC asserts only the authority to
+   consider national security concerns in the narrower sphere of regulating USF
+   “support mechanisms.” See § 254(c)(1).36
+
+
+            35
+               Congress created the Federal-State Joint Board, inter alia, to make
+   recommendations to the FCC “regarding the jurisdictional separation of common carrier
+   property and expenses between interstate and intrastate operations.” 47 U.S.C. § 410; see
+   also § 254(a); TOPUC I, 183 F.3d at 406.
+            36
+              Huawei cites no authority for its argument that the FCC can exercise its §
+   254(c)(1)(D) authority only in coordination with the Joint Board. Section 254(c)(1)(D)
+   states, “[t]he Joint Board in recommending, and the Commission in establishing, the
+   definition of [universal service] services . . . shall consider” certain factors. It does not state
+   the FCC may only define universal services upon a Joint Board recommendation. Indeed,
+
+
+
+
+                                                   21
+Case: 19-60896        Document: 00515905664               Page: 22       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+           In sum, given the breadth of the term “public interest,” we find
+   neither § 201(b) nor § 254(c)(1)(D) unambiguously grants or withholds the
+   FCC authority to adopt the USF Rule.
+           Turning to Chevron step two, we consider whether the FCC
+   permissibly construed the public interest provisions. Alenco, 201 F.3d at 619
+   (citing Chevron, 467 U.S. at 843). The FCC has properly framed the inquiry:
+   we ask whether it reasonably “construed its public interest obligation to
+   encompass considering foreign threats to the integrity of domestic
+   communications networks in distributing federal subsidies.” We conclude it
+   did and therefore defer under Chevron.
+           As noted, the Supreme Court has interpreted the public interest
+   provisions of the Communications Act expansively. See Pottsville Broad. Co.,
+   309 U.S. at 138; WNCN Listeners Guild, 450 U.S. at 593; Nat’l Broad. Co.,
+   319 U.S. at 217–18. Section 201(b)’s similar provision was added just four
+   years after §§ 303 and 319.37 The FCC reasonably presumed the provisions
+   should be interpreted consistently. See Antonin Scalia & Bryan A.
+   Garner, Reading Law 170, 322–24 (2012) (discussing the presumption
+   of consistent usage). Huawei does not argue otherwise.
+
+
+
+   the FCC is required to consult with the Board only under specified circumstances not
+   present here. See id. § 410(c) (stating the Commission “shall refer any proceeding
+   regarding the jurisdictional separation of common carrier property and expenses between
+   interstate and intrastate operations” to the Joint Board) (emphasis added); cf. TOPUC I,
+   183 F.3d at 416–17 (finding agency fulfilled § 410(c)’s “consultation requirement” as to
+   FCC’s adoption of “new jurisdictional separations rules”). The FCC alone is entrusted
+   with “establish[ing the definition of universal service] periodically” under § 254. See id. §
+   254(c)(1); see also USF Order, 34 FCC Rcd. at 11435 (making this argument).
+           37
+             Compare § 201(b), 48 Stat. at 1070, with Communications Act of 1934,
+   Amendment, Pub. L. No. 561, § 201(b), 52 Stat. 588, 588 (May 31, 1938) (codified at 47
+   U.S.C. § 201(b)) (adding “[t]he Commission may prescribe such rules and regulations as
+   may be necessary in the public interest to carry out the provisions of this Act” to § 201(b)).
+
+
+
+
+                                                22
+Case: 19-60896      Document: 00515905664             Page: 23     Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+          Additionally,      §    254(c)(1)(D)        appears    to    borrow      from
+   Communications Act provisions such as § 303, using similar phrasing.
+   Compare § 254(c)(1)(D) (“consistent with the public interest, convenience,
+   and necessity”), with § 303 (the FCC shall undertake its duties “as public
+   convenience, interest, or necessity requires”). We presume Congress was
+   aware of earlier glosses on “public interest,” making reasonable a similarly
+   broad reading of § 254(c)(1)(D). See Scalia & Garner, supra, at 323
+   (“[W]hen a statute uses the very same terminology as an earlier statute—
+   especially in the very same field . . . —it is reasonable to believe that the
+   terminology bears a consistent meaning.”); see also Smith v. City of Jackson,
+   544 U.S. 228, 233 (2005) (similar).
+          Huawei counters that public interest is “not a broad license to
+   promote the general public welfare” but must “take meaning from the
+   purposes of the regulatory legislation.” See NAACP v. Fed. Power Comm’n,
+   425 U.S. 662, 669 (1976). In other words, the FCC cannot conjure national
+   security authority out of thin air. This is true, but as the FCC argues, the
+   Act’s purposes include “mak[ing] [communication] available . . . for the
+   purpose of the national defense” and “promoting safety of life and property
+   through the use of wire and radio communications.” § 151. The agency
+   reasonably read “public interest” in light of these larger goals to encompass
+   secure networks. See NAACP, 452 U.S. at 669; cf. Scalia & Garner,
+   supra, at 218 (“[T]he prologue . . . can shed light on the meaning of the
+   operative provisions that follow.”).
+          Indeed, the FCC’s considering national security under the public
+   interest umbrella is not a new phenomenon.38 See, e.g., Hawaiian Tel. Co. v.
+
+
+          38
+             See Joan M. McGivern, U.S. Int’l Telecomm. & Inf. Policy: Congress Considers
+   Reorganizing Policymaking, 15 L. & Pol’y Int’l Bus. 1297, 1305 (1983) (noting the
+   FCC’s authority to regulate foreign commerce in communications and stating that,
+
+
+
+
+                                            23
+Case: 19-60896        Document: 00515905664              Page: 24       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   FCC, 589 F.2d 647, 657 (D.C. Cir. 1978) (noting FCC review of
+   “considerations of national security” under public interest standard in
+   adopting satellite policy).39 For example, in regulating foreign participation
+   in the U.S. telecom market in the late 1990s, the FCC recommitted to
+   considering “national security” and “foreign policy” concerns when
+   granting licenses under § 310(b)(4) and service certificates under § 214(a),
+   stating it would also continue to “accord deference” to expert Executive
+   Branch views on these issues that would inform its “public interest analysis.”
+   In the Matter of Rules & Policies on Foreign Participation in the U.S.
+   Telecomm. Mkt., 12 FCC Rcd. 23891, 23919–20 (1997).40 The agency
+   continues to consider national security concerns “in the public interest” in
+   applying § 214(a) today. See In the Matter of China Mobile Int’l (USA) Inc.,
+
+
+   “[a]lthough the FCC is not specifically required to consider foreign policy, trade, and
+   national security concerns, these concerns are deemed to be incorporated within its broad
+   ‘public interest’ mandate” (citing Nat’l Telecomm. & Inf. Agency, Long
+   Range Goals in Int’l Telecomm. & Inf.: An Outline for U.S.
+   Pol’y, Printed for the Use of the Senate Comm. on Com., Sci. & Transp., 98th Cong.,
+   1st Sess. 83 (1983) (Sen. Print 98-22)).
+           39
+               See also U.S. Gen. Acct. Off., The FCC’s Int’l Telecomm.
+   Activities Rep. to the Chairman, Subcomm. on Gov’t Info. &
+   Individual Rts., House Comm. on Gov’t Operations, at 10 (1982)
+   (observing that the FCC had “consider[ed] foreign affairs, national security, and U.S. trade
+   policy” in several recent proceedings, including in considering whether AT&T should
+   award a contract to a Japanese firm); In the Matter of Amendment of Subpart H, Part 1 of
+   the Commission’s Rules and Regulations Concerning Ex Parte Communications and
+   Presentations in Commission Proceedings, 2 FCC Rcd. 3011, 3018 (1987) (“recogniz[ing]
+   . . . the Commission’s need to confer with officials from other agencies on communications
+   matters of international import, either because [the agency] share[d] jurisdiction with these
+   other agencies or because consultation with them contribute[d] to the conduct of this
+   country’s foreign affairs policies and practices”).
+           40
+              See also In the Matter of Mkt. Entry & Regul. of Foreign-Affiliated Entities, 11
+   F.C.C. Rcd. 3873, 3888 (1995) (“We believe our public interest analysis [of foreign carrier
+   applications] will benefit from . . . the Executive Branch[’s input on foreign policy and
+   national security].”).
+
+
+
+
+                                                24
+Case: 19-60896       Document: 00515905664              Page: 25      Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   34 FCC Rcd. 3361, 3372, 3376–77, 2019 WL 2098511, at *7–11 (2019)
+   (denying China Mobile § 214 authorization to provide telecom services due
+   to “serious national security and law enforcement risks” identified by
+   Executive Branch agencies).
+           Against this backdrop, the USF Rule accords with the FCC’s previous
+   consideration of national security concerns in the communications realm.
+   Under the rule, the FCC makes initial and final designations based on “all
+   available evidence,” including determinations by Congress, the President,
+   and other executive agencies, as well as classified information, and it “seek[s]
+   to harmonize its determinations” with those of other agencies and Congress.
+   34 FCC Rcd. at 11438–39. Thus, as in granting licenses under § 310(b)(4) and
+   service certificates under § 214(a), the FCC’s designation of an entity as a
+   national security risk consistent with the public interest is informed by the
+   views of expert agencies. We therefore conclude that the agency reasonably
+   interpreted the public interest provisions, especially in light of its coincident
+   authority under § 254(b)(1), to allow it to adopt the rule. See infra p. 29.41
+                            2. “Quality Services” Provision
+           We turn next to 47 U.S.C. § 254(b)(1), which we refer to as the
+   “quality services” provision. It states that “[t]he Joint Board and the
+   Commission shall base policies for the preservation and advancement of
+   universal services on” various “principles,” including that “[q]uality services
+   should be available at just, reasonable, and affordable rates.” 47 U.S.C.
+   § 254(b)(1) (emphasis added). The parties debate the meaning of “quality
+
+
+           41
+               Although the USF Order also invoked § 254(c)(1)(A) in support of its statutory
+   authority to adopt the rule, 34 FCC Rcd. at 11435, and Huawei addresses that argument in
+   its brief, the FCC does not urge that argument on appeal, so we do not address it. We also
+   find it unnecessary to address the FCC’s arguments that § 254(e) or § 105 of the CALEA
+   provide authority to adopt the rule.
+
+
+
+
+                                              25
+Case: 19-60896        Document: 00515905664               Page: 26       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   services.” As Huawei sees it, this is a telecom term of art that refers only to
+   technical specifications such as a service’s accuracy, reliability, and speed,
+   thus excluding the USF Rule’s concern for network security. The FCC
+   counters that “quality services” is not a term of art but an ambiguous phrase
+   that reasonably encompasses network security.
+           It is true, as Huawei points out, that “quality of service” is an industry
+   term that refers to “performance specifications” like call clarity and
+   bandwidth.42 See also 47 U.S.C. § 641(12) (defining “quality of service,” with
+   respect to internet access, as “the download and upload speeds (and, for
+   relevant services, latency) with respect to that service”). So, a telecom
+   insider might say, “Quality of Service is more easy to define in digital circuits,
+   since you can assign specific error conditions and compare them.”
+   Newton’s at 912. Had Congress used this industry term in § 254(b)(1), a
+   court would correctly read it according to its specialized meaning.43
+            But Congress knows how to write “quality of service” in telecom
+   statutes,44 and it did not do so in § 254(b)(1). Instead, it chose a different
+
+
+           42
+              See, e.g., Harry Newton, Newton’s Telecom Dictionary 912 (25th
+   ed. 2009) [hereinafter Newton’s] (explaining “quality of service” or “QoS” is “a
+   measure of the telecommunications . . . quality provided to a subscriber” and includes
+   factors such as call clarity, delay, bandwidth, and latency control); Quality of Service,
+   Alliance for Telecommunications Industry Solutions Telecom Glossary,
+   https://glossary.atis.org/glossary/quality-of-service-qos/ (last visited June 14, 2021) (QoS
+   refers to “[t]he performance specification of a communications channel or system,” or to
+   “[a] subjective rating of telephone communications quality in which listeners judge
+   transmissions by qualifiers, such as excellent, good, fair, poor, or unsatisfactory”).
+           43
+              See, e.g., La. Pub. Serv. Comm’n v. FCC, 476 U.S. 355, 372 (1986) (explaining a
+   term of art “should be interpreted by reference to the trade or industry to which [it]
+   appl[ies]”); Corning Glass Works v. Brennan, 417 U.S. 188, 201 (1974) (“[W]here Congress
+   has used technical words or terms of act, it is proper to explain them by reference to the art
+   or science to which they are appropriate.” (cleaned up)).
+           44
+             See, e.g., 47 U.S.C. § 643 (making it unlawful to submit inaccurate data
+   concerning “the quality of service with respect to broadband internet access service”); id.
+
+
+
+
+                                                26
+Case: 19-60896        Document: 00515905664              Page: 27        Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   term: “quality services.” This makes us doubt that Congress intended the
+   special meaning conveyed by the industry term.45 Moreover, the context of
+   § 254(b)(1) does not compel us to read “quality services” that way. To the
+   contrary, it is awkward to read the provision to say that “[Certain
+   performance specifications] should be available at just, reasonable, and
+   affordable rates,” which would follow from substituting “quality of service”
+   for “quality services.”
+           Congress instead chose a phrase, “quality services,” whose ordinary
+   meaning is broad. See, e.g., Quality, adj., Oxford                             English
+   Dictionary (“of high quality; excellent”); see also Schindler Elevator
+   Corp. v. United States ex rel. Kirk, 563 U.S. 401, 407–08 (2011) (relying on the
+   “ordinary meaning” of statutory terms). Recall also that the phrase appears
+   not in a narrow, technical part of the Act, but in a section laying out broad
+   “principles” guiding formulation of universal service policies.46 This gives
+
+
+
+
+   § 214 (requiring Commission certificates for construction or extension of new lines, but
+   providing exceptions for certain alterations “which will not impair the adequacy or quality
+   of service provided”); id. § 1442(e)(3)(D)(iii) (requirements for obtaining grant funds and
+   spectrum capacity leasing rights include “that the State has . . . comparable security,
+   coverage, and quality of service to that of the nationwide public safety broadband network”
+   (emphases added)).
+           45
+              See Scalia & Garner, supra, at 170 (“[W]here [a] document has used one
+   term in one place, and a materially different term in another, the presumption is that the
+   different term denotes a different idea.”); cf. Gulf Fishermens Ass’n, 968 F.3d at 466
+   (“[W]here Congress includes particular language in one section of a statute but omits it in
+   another, it is presumed that Congress acts intentionally and purposely.” (quoting Russello
+   v. United States, 464 U.S. 16, 23 (1983) (cleaned up)).
+           46
+              See, e.g., Deal v. United States, 508 U.S. 129, 132 (noting “fundamental principle
+   of statutory construction (and, indeed, of language itself) that the meaning of a word cannot
+   be determined in isolation, but must be drawn from the context in which it is used”)
+   (citations omitted); see also Scalia & Garner, supra, at 167 (“The text must be
+   construed as a whole.”).
+
+
+
+
+                                                27
+Case: 19-60896       Document: 00515905664              Page: 28       Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   us further reason to give the phrase a flexible reading, as opposed to a
+   specialized, technical one.
+           We therefore disagree with Huawei that the “quality services”
+   provision unambiguously excludes the authority exercised in the USF Rule,
+   and so we proceed to Chevron step two. See TOPUC I, 183 F.3d at 412.
+           At step two, we consider whether the FCC’s construction of
+   § 254(b)(1) is “reasonable” or is instead “arbitrary, capricious, or manifestly
+   contrary to the statute.” Acosta, 909 F.3d at 730 (citations omitted). The
+   agency has construed the term “quality services” to encompass network
+   security, so that policymaking to promote “quality services” includes
+   ensuring “USF funds [are] spent on secure networks and not . . . on
+   equipment and services from companies that threaten national security.” 34
+   FCC Rcd. at 11434. In other words, as the FCC puts it, “providing a secure
+   service is part of providing a quality service.” Id. We conclude this is a
+   reasonable construction of the Act to which we therefore defer.
+           As the agency points out, the security of communications technology
+   has been a perennial concern. Industry experts routinely listed security as one
+   of “the most important dimensions of quality [for telecommunications]” in
+   the years leading up to the enactment of § 254.47 Thus, the FCC reasonably
+   concluded that Congress intended the agency to promote the availability of
+
+
+
+
+           47
+              See, e.g., Vivian Witkind Davis et al., Telecommunications
+   Service Quality iii, 19–23, 27 (1996) ; see also Eli M. Noam, The Quality of Regulation
+   in Regulating Quality: A Proposal for an Integrated Incentive Approach to Telephone Service
+   Performance,     in    Price      Caps       &     Incentive        Regulation          in
+   Telecommunications 168 (Michael Einhorn ed., 1991).
+
+
+
+
+                                               28
+Case: 19-60896       Document: 00515905664              Page: 29       Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   secure services when it directed the Commission to “base [universal service]
+   policies” on the principle of advancing the availability of “quality services.”48
+           This understanding accords with the FCC’s previous conclusions that
+   network security is a key component of quality service.49 And we give the
+   Commission considerable deference in applying § 254(b)’s “aspirational,”
+   generally-worded goals. See TOPUC I, 183 F.3d at 421; see also id. at 411
+   (“Rather than setting up specific conditions or requirements, § 254(b)
+   reflects a Congressional intent to delegate these difficult policy choices to
+   agency discretion[.]”). Thus, it was reasonable for the agency to conclude
+   that advancing the availability of “quality services” under § 254(b)(1)
+   comprehends promoting the availability of secure services.50
+           We therefore conclude the agency reasonably read the term “quality
+   services” in § 254(b)(1) to support its limited exercise of national security
+   judgment in defining universal service. Accordingly, we defer to the agency’s
+   construction under Chevron step two. See, e.g., TOPUC I, 183 F.3d at 412.51
+
+
+
+           48
+              See Nelson, supra, at 946 (noting “information about the policy preferences
+   that prevailed at the time of enactment may well support reading the statute to establish”
+   a directive consistent with that policy); cf. Antonin Scalia, Judicial Deference to
+   Administrative Interpretations of Law, 1989 Duke L.J. 511, 515 (“Policy evaluation is . . .
+   part of the traditional judicial tool-kit” at Chevron step one “before deferring to agency
+   judgment . . . .”).
+           49
+                See, e.g., 2015 Broadband Progress Report, 30 FCC Rcd. 1375, 1348 (2015)
+   (“[P]rivacy and network security are among the factors that can affect the quality and
+   reliability of broadband services.”); Order in the Matter of Tech. Transitions, 29 FCC Rcd.
+   1433, 1441, 1448 (2014) (requiring participants in service-based experiments in
+   transitioning to new technologies to “maintain[]” “[n]etwork security”).
+           50
+              Cf. TOPUC II, 265 F.3d 313, 322 (5th Cir. 2001) (declining to “arrogate to
+   ourselves [the] policy-making function [under § 254(b)], merely because we (or the
+   Petitioners) believe” the FCC should balance competing goals differently).
+           51
+             Arguing against this construction of “quality services,” Huawei points only to
+   another provision, § 254(b)(3), which articulates the general principle that “low-income
+
+
+
+
+                                               29
+Case: 19-60896        Document: 00515905664               Page: 30       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+                                 C. Additional Arguments
+           Huawei urges several additional reasons to doubt the FCC’s authority
+   to adopt the rule. We consider each in turn.
+                          1. Lack of National Security Expertise
+           Huawei asserts we must reject the FCC’s reading of the pertinent
+   provisions because the FCC lacks the relevant national security expertise to
+   support a presumption of congressional delegation. It contends Congress
+   would not have delegated “such significant authority through modest,
+   general terms like ‘quality services,’ let alone to an inexpert agency.”
+           Once again, Huawei levels powerful arguments against a vision of the
+   agency’s authority that empowers it to make broad, independent national
+   security judgments. Nonetheless, we are persuaded that the agency’s
+   authority under the USF Rule has a narrower scope. As the FCC argues, the
+   rule requires the agency to make a more focused determination based on its
+   “routine[] evaluat[ion of] evidence (including classified intelligence) [related
+   to] foreign access to U.S. Communications networks” and its
+   “participat[ion] in inter-agency working groups” on this topic.52 That is, the
+
+
+
+   consumers and those in rural, insular, and high cost areas” should have access to
+   “telecommunications and information services” that are “reasonably comparable” to
+   those in “urban areas.” But Huawei does not explain, and we do not see, how this access
+   principle in § 254(b)(3) somehow excludes network security from “quality services” in
+   § 254(b)(1).
+           52
+              See also 47 U.S.C. § 310 (providing the Commission may refuse or revoke certain
+   licenses in the “public interest” if a corporation is “directly or indirectly controlled” by a
+   foreign government or a foreign corporation); Information and Communications Technology
+   (ICT) Supply Chain Risk Management (SCRM) Task Force, Cybersec. & Infrastructure Sec.
+   Agency, https://www.cisa.gov/ict-scrm-task-force (last visited Mar. 19, 2021) (listing the
+   FCC as a participant in a task force of national security agencies and others to “identify[]
+   and develop[] consensus strategies that enhance ICT supply chain security” against
+   “foreign” cyberthreats); Exec. Order No. 13913, 85 Fed. Reg. 19643, at § 3(a)–(b)
+
+
+
+
+                                                30
+Case: 19-60896      Document: 00515905664            Page: 31     Date Filed: 06/18/2021
+
+
+
+
+                                      No. 19-60896
+
+
+   FCC’s judgments under the rule are informed by agencies with much more
+   expertise than the FCC on these matters. See 47 C.F.R. § 54.9; USF Order,
+   34 FCC Rcd. at 11438. Thus, as the agency contends, the authority it
+   exercises under the rule closely resembles the kind of national security
+   authority it has exercised for decades—limited, communications-focused
+   judgment informed by expert agencies and deferential to their views. See
+   supra pp. 23–25.
+                       2. Conflict with Presidential Authority
+          Huawei points to other provisions in the Communications Act that
+   vest national security judgments “exclusively in the President.” Specifically,
+   it cites 47 U.S.C. §§ 305(c), 308(a), and 606(c)–(d). Drawing a negative
+   inference from these provisions, Huawei argues the Act therefore did not
+   delegate similar authority to the FCC. We disagree.
+          As the FCC argues, none of these provisions conflicts with Congress’s
+   intent to allow the FCC to exercise limited national security judgment in
+   applying the USF Rule. For instance, § 305(c) empowers the President to
+   authorize foreign governments to operate radio stations near their American
+   embassies if he deems it consistent with “national security.” This accords
+   with the President’s traditional role as the nation’s “sole representative with
+   foreign nations.” United States v. Curtiss-Wright Export Corp., 299 U.S. 304,
+   319 (1936) (quoting John Marshall, Annals, 6th Cong., col. 613 (Mar. 7,
+   1800)). Similarly, § 606(c)–(d) addresses the President’s authority to
+   suspend communications rules during wars or other exigencies, reflecting the
+   President’s authority “in military and national security affairs.” Dep’t of
+   Navy v. Egan, 484 U.S. 518, 530 (1988). These provisions are not at odds with
+
+
+
+   (establishing committee of defense department heads “to assist the FCC in its public
+   interest review of national security . . . concerns”).
+
+
+
+
+                                            31
+Case: 19-60896       Document: 00515905664             Page: 32      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   Congress’s giving the FCC authority to make certain national security
+   decisions concerning communications networks. After all, Congress created
+   the FCC in part “for the purpose of the national defense,” § 151, and
+   assigned the Commission duties requiring it to exercise limited judgment
+   related to that purpose. See, e.g., § 310(b)(4) (empowering FCC to refuse or
+   revoke the license of certain foreign corporations in the “public interest”).53
+                                 3. Secure Networks Act
+           Finally, Huawei points to a statute enacted after the rule—the Secure
+   Networks Act or SNA—which, it argues, confirms that Congress could not
+   have intended to grant the FCC the authority asserted in the rule. See supra
+   pp. 10–11 (discussing the SNA). We disagree.
+           Similar to the USF Rule, the SNA prohibits using FCC-administered
+   subsidies for certain purposes based on an assessment of “unacceptable risk
+   to . . . national security.” 47 U.S.C. § 1601(b)(1). Unlike the rule, however,
+   the SNA delegates responsibility for making that assessment “exclusively”
+   to entities other than the FCC, relegating the FCC to a ministerial role. Id.
+   §§ 1601(a), 1601(b)(1), 1601(c). Moreover, the SNA authorizes prohibitions
+
+
+
+           53
+              For similar reasons, we disagree with Huawei that constitutional avoidance
+   principles require us to reject the FCC’s construction of its authority under the Act.
+   Huawei contends that permitting an independent agency like the FCC to “make
+   independent judgments about national security and foreign affairs” would
+   unconstitutionally prevent the President from carrying out his role as the nation’s “sole
+   organ” in external relations and communication with foreign nations. We disagree that the
+   FCC’s exercise of authority in applying the rule risks the separation-of-powers problem
+   that Huawei fears. As we have explained, in applying the USF Rule, the FCC does not
+   purport to make an entirely “independent judgment[] about national security and foreign
+   affairs.” Rather, the rule permits the agency to consider the expert national security
+   judgments of other Executive Branch agencies and Congress while exercising its own
+   judgment “within the agency[’s] core area[] of expertise.” 47 C.F.R. § 54.9(a)–(b); USF
+   Order, 34 FCC Rcd. at 11438.
+
+
+
+
+                                              32
+Case: 19-60896      Document: 00515905664             Page: 33     Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+   only of particular equipment or services, not entire companies like the rule.
+   § 1601(b). Thus, Huawei argues, the SNA speaks more specifically to the
+   topic and in a way inconsistent with the rule. See FDA v. Brown & Williamson
+   Tobacco Corp., 529 U.S. 120, 133 (2000) (explaining a statute’s meaning “may
+   be affected by other Acts, particularly where Congress has spoken
+   subsequently and more specifically to the topic at hand”). Based on those
+   inconsistencies, Huawei contends we should infer from the SNA’s
+   enactment that the FCC’s construction is unreasonable.54
+          The FCC correctly responds, however, that the USF Rule is not
+   fatally opposed to the SNA. First, the “national security authority”
+   exercised by the FCC in the rule is similar to the agency’s role under the
+   SNA. The SNA directs the FCC to list covered equipment or services based
+   on determinations by (1) interagency bodies with national security expertise,
+   (2) the Commerce Secretary pursuant to Executive Order 13,873, see supra
+   note 6, (3) Congress in the 2019 NDAA, and (4) “an appropriate national
+   security agency.” § 1601(c)(1)–(4). Under the USF Rule, the FCC similarly
+   designates companies based on “all available evidence,” including the kinds
+   of sources listed in the SNA.55 As appropriate, the Commission “will [also]
+   seek to harmonize its determinations” with those of other executive agencies
+   and of Congress. 34 FCC Rcd. at 11438–39. Thus, while the FCC’s judgment
+   is more constrained under the SNA, its assessments under the USF Rule rest
+   on the same kind of sources in the SNA. Contrary to Huawei’s argument,
+
+
+
+          54
+              The FCC contends Huawei waived its SNA argument by raising it for the first
+   time in its reply brief. We need not decide this question because we find the argument
+   unpersuasive regardless.
+          55
+              See 47 C.F.R. § 54.9(a); USF Order, 34 FCC Rcd. at 11438 (providing the
+   Commission may consider determinations by the FCC, Congress, the President, and other
+   executive agencies, as well as classified information).
+
+
+
+
+                                            33
+Case: 19-60896       Document: 00515905664              Page: 34       Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   then, the SNA’s allocation of authority to make national security judgments
+   does not rule out the FCC’s construction of its authority in the rule.
+           Second, the SNA’s coverage only of equipment or services, rather
+   than entire companies, reflects Congress’s policy choice and does not fatally
+   undermine the FCC’s authority in the USF Rule. As noted, the FCC
+   considered and rejected a rule of narrower scope based on its conclusion that
+   a broad rule would “best promote[] national security, provide[] the most
+   administrable rule, and ease[] compliance for USF recipients.” USF Order,
+   34 FCC Rcd. at 11449–50. By contrast, Congress determined that the SNA’s
+   distinct objectives would be better achieved by a narrower prohibition
+   covering only equipment or services. As the FCC argues, although the SNA
+   includes a prohibition provision like the USF Rule, § 1602(a)(1), the SNA
+   goes beyond the scope of the rule in various ways concerning equipment and
+   services.56 Congress’s decision to orient these additional actions around an
+   equipment-based prohibition does not suggest that the FCC lacked the
+   authority under the Act to craft a different design for the rule.
+           Third, the Brown & Williamson principle Huawei invokes—that
+   subsequent laws can affect a statute’s meaning—looks to the entire body of
+   relevant law. In addition to the SNA, that body of law now includes a statute
+   showing Congress’s approval of the FCC’s assertion of authority in the rule.
+   In the 2021 Consolidated Appropriations Act, Congress changed the SNA’s
+   definition of “covered communications equipment or services” for whose
+
+
+
+           56
+              Specifically, the SNA (1) orders the Commission to a create a list of covered
+   equipment and services that it would use in part to determine eligibility for reimbursement
+   funds, (2) instructs the FCC to develop a list of suggested replacement equipment,
+   (3) creates a fund to reimburse carriers who remove covered equipment, (4) directs carriers
+   to report and justify their new purchases and continued use of covered equipment, and
+   (5) provides enforcement mechanisms. §§ 1601(a), 1603(a)–(c), (d), 1604, 1606.
+
+
+
+
+                                               34
+Case: 19-60896       Document: 00515905664              Page: 35       Date Filed: 06/18/2021
+
+
+
+
+                                         No. 19-60896
+
+
+   removal or replacement a USF recipient could be reimbursed.57 While
+   recipients under the original SNA could be reimbursed for removing
+   equipment or services “on the initial list published under § 1601(a),”
+   § 1603(c)(1)(A), recipients under the amended SNA can be reimbursed for
+   removing equipment or services “as defined in” the USF Order or “as
+   determined to be covered” by the USF Order and Huawei/ZTE designation
+   orders, § 901(1)(B), 134 Stat. at 2120. In other words, Congress replaced the
+   original definition based on the “exclusive[] . . . determinations” of certain
+   expert agencies with a definition based on the challenged exercise of
+   authority described in the USF Rule.
+           Huawei counters that these amendments are merely “definition-
+   borrowing” provisions that “neither rel[y] on nor support[] [the USF
+   Rule’s] validity.” It speculates “[t]he appropriations law’s incorporation of
+   the USF rule’s definition likely reflects Congress’ attempt to make whole
+   small carriers who tried to replace all equipment in the wake of the USF
+   rule.” And it contends the specified amendments cannot satisfy the standard
+   for ratification of the USF Rule, pointing to Congress’s failure to amend the
+   SNA’s prohibition or non-revisitation provisions or to use express
+   ratification language.
+           Huawei’s rejoinder loses sight of the key question, which is whether
+   the SNA “shape[s] or focus[es]” the meaning of the relevant
+   Communications Act provisions, rendering the FCC’s constructions
+   unreasonable. In Brown & Williamson, the FDA’s construction of its
+   authority to regulate tobacco “plainly contradict[ed] congressional policy”
+   as revealed in six distinct pieces of legislation over almost four decades. 529
+
+
+
+           57
+             See Pub. L. No. 260, § 901(1)(B), 134 Stat. 1182, 2120 (2020); see also 47 U.S.C.
+   § 1603(c)(1)(A)–(C).
+
+
+
+
+                                               35
+Case: 19-60896        Document: 00515905664              Page: 36       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   U.S. at 126, 137–39, 143–44, 146. Here, by contrast, we have one statute that
+   is not flatly inconsistent with the agency’s assertion of authority, followed by
+   a second statute amending the first statute to make it more consistent.58
+           In sum, contrary to Huawei’s argument, the SNA does not show that
+   the FCC’s asserted authority in the USF Rule was unreasonable. 59
+                                               ***
+           In sum, we conclude that the FCC reasonably interpreted its authority
+   under the Communications Act in formulating the USF Rule. Specifically,
+   we find the agency reasonably interpreted the Act’s “public interest”
+   provisions (§ 254(c)(1)(D), in coordination with § 201(b)), to authorize
+
+
+           58
+              Because we disagree with Huawei’s interpretation of the SNA, we do not address
+   the argument it raises in a Rule 28(j) filing that the “SNA Rule,” 86 Fed. Reg. 2904 (Jan.
+   13, 2021), confirms the USF Rule is inconsistent with the SNA. However, we note that the
+   FCC concluded in its rule implementing the SNA that that rule and the USF Rule “are
+   intended to complement each other,” 86 Fed. Reg. at 2918–19, which is consistent with the
+   interpretation of the SNA the FCC advances here.
+           59
+              Huawei levels two additional challenges to the FCC’s authority that need not
+   long detain us. First, Huawei contends the FCC may make universal service policies only
+   in accord with § 254(b)’s six enumerated principles, none of which involves national
+   security. Our decision in TOPUC I forecloses this argument. See 183 F.3d at 412 (finding
+   FCC could use the universal service mechanism to promote the unlisted goal of
+   competition, provided it also advanced a § 254 command). Second, Huawei argues the rule
+   “undermines” the § 254(b) principles by “denying USF recipients access to . . . cost-
+   effective and high-quality equipment and services.” This argument assumes the agency
+   cannot balance conflicting aspects of quality, which is not so. The language “should” in §
+   254(b) “indicates a recommended course of action, but does not itself imply the obligation
+   associated with ‘shall.’” Qwest Corp. v. FCC, 258 F.3d 1191, 1200 (10th Cir. 2001); see also
+   TOPUC I, 183 F.3d at 421 (describing § 254(b)’s principles as containing “aspirational
+   language” and not “constitut[ing] a series of specific statutory commands”); Alenco, 201
+   F.3d at 621 (describing “predictability” in § 254(b)(5) as “only a principle, not a statutory
+   command”). Thus, the “FCC may exercise its discretion to balance [§ 254(b)’s] principles
+   against one another when they conflict.” Qwest Corp., 258 F.3d at 1200; Alenco, 201 F.3d
+   at 621 (holding “[t]o satisfy a countervailing statutory principle, therefore, the FCC may
+   exercise reasoned discretion to ignore [§ 254(b)(5)’s principle]”).
+
+
+
+
+                                                36
+Case: 19-60896     Document: 00515905664           Page: 37    Date Filed: 06/18/2021
+
+
+
+
+                                    No. 19-60896
+
+
+   allocation of universal service funds based on the agency’s exercise of limited
+   national security judgment. We also hold that it reasonably interpreted the
+   “quality services” provision in § 254(b)(1) to support that exercise. We
+   therefore defer to the agency’s interpretation under Chevron and reject
+   Huawei’s argument that the agency lacked statutory authority for the rule.
+                       III. Substantive Challenges
+          Huawei raises numerous challenges to the lawfulness and
+   constitutionality of the USF Rule, which we treat as follows. Part A considers
+   whether the NPRM provided adequate notice. Part B considers whether, as
+   Huawei claims, the USF Rule was not the result of reasoned decisionmaking
+   because the FCC (1) ignored relevant legal arguments and evidence;
+   (2) engaged in a flawed cost-benefit analysis; and (3) failed to consider a more
+   effective alternate approach for advancing national security. Part C examines
+   Huawei’s argument that the rule violates the APA because it is vague and
+   standardless. Finally, Part D considers whether the rule must be vacated
+   because it fails to provide adequate process before an initial designation.
+                              A. Adequacy of Notice
+          First, we consider Huawei’s argument that the NPRM failed to give
+   adequate notice of the designation process adopted in the USF Rule.
+          Under the APA, an agency must publish notice of the legal authority
+   for a proposed rule and of the rule’s substance or subject matter, 5 U.S.C.
+   § 553(b)(2), (3), and must also provide an opportunity for interested persons
+   to participate in the rulemaking, § 553(c). Notice suffices if it is a “logical
+   outgrowth” of the proposed rule, meaning the notice must “adequately
+   frame the subjects for discussion” such that “the affected party ‘should have
+   anticipated’ the agency’s final course in light of the initial notice.” Nat’l
+   Lifeline Ass’n v. FCC, 921 F.3d 1102, 1115 (D.C. Cir. 2019) (internal citations
+   omitted). If a party “should have anticipated” that course, it “reasonably
+
+
+
+
+                                         37
+Case: 19-60896     Document: 00515905664           Page: 38   Date Filed: 06/18/2021
+
+
+
+
+                                    No. 19-60896
+
+
+   should have filed [its] comments on the subject during the notice-and-
+   comment period.” Tex. Ass’n of Mfrs. v. U.S. Consumer Prod. Safety Comm’n,
+   989 F.3d 368, 381 (5th Cir. 2021) (citing Am. Coke & Coal Chems. Inst. v. EPA,
+   452 F.3d 930, 938-39 (D.C. Cir. 2006)).
+          Huawei identifies five aspects of the designation procedure that, it
+   claims, appeared for the first time in the final rule without “any” notice.
+   These are: (1) an initial designation process without pre-deprivation process;
+   (2) a thirty-day response period for written comments, absent which the
+   initial designation becomes final; (3) delegation to the Bureau of authority
+   “to make both initial and final designations” and “to reverse prior
+   designations”; (4) delegation to the Bureau of authority “to revise th[e]
+   process”; and (5) independent FCC review before judicial review. Huawei
+   argues these procedures were not a “logical outgrowth” of the notice
+   because “[s]omething is not a logical outgrowth of nothing.”
+          We agree that if the FCC had failed to provide any notice of these
+   changes, the NPRM would have violated § 553. See, e.g., Kooritzky v. Reich,
+   17 F.3d 1509, 1514 (D.C. Cir. 1994) (holding agency violated § 553 where
+   proposed rulemaking “contain[ed] nothing, not the merest hint, to suggest”
+   it would amend a regulation). But that is not what happened. As the FCC
+   argues, the notice satisfied the requisite standard by “fairly appris[ing]
+   interested persons of the subjects and issues the agency [was] considering.”
+   Chem. Mfrs. Ass’n v. EPA, 870 F.2d 177, 203 (5th Cir. 1989); see also United
+   Steelworkers of America v. Schuylkill Metals Corp., 828 F.2d 314, 317 (5th Cir.
+   1987) (identifying this as “[t]he proper test” and collecting cases).
+   Specifically, the NPRM sought comment on the ultimate subject of
+   § 54.9(b)—identifying companies posing a national security threat to
+   networks—and apprised interested parties of the related issues under
+   consideration by offering designation proposals and inviting alternatives.
+   NPRM, 33 FCC Rcd. at 4064–66. This was “all the APA demands.” Chem.
+
+
+
+                                         38
+Case: 19-60896       Document: 00515905664             Page: 39      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   Mfrs. Ass’n, 870 F.2d at 203. The agency was not required to “specifically
+   identify ‘every precise proposal which [the agency] m[ight] ultimately
+   adopt,’” and it permissibly implemented changes in the final rule “instigated
+   by . . . comments” during the rulemaking. Chem. Mfrs. Ass’n, 870 F.2d at 203
+   (quoting United Steelworkers of America, 828 F.2d at 317).
+          Consequently, the NPRM should have enabled—and in fact, did
+   enable—Huawei to anticipate those aspects of the final rule it claims were
+   not properly noticed. See Tex. Ass’n of Mfrs., 989 F.3d at 381–82. For
+   example, by proposing to define a covered company as one already subject to
+   agency or congressional prohibitions, see NPRM, 33 FCC Rcd. at 4064, the
+   FCC signaled it was considering designating companies without pre-
+   designation process. Indeed, Huawei objected that the absence of “notice”
+   and “a meaningful individualized hearing” violated due process. The FCC
+   also proposed allocating designation authority to itself, another federal
+   agency (including one that “regularly deals with national security risks”), or
+   the Universal Service Administrative Company (“USAC”) under the
+   FCC’s supervision.60 NPRM, 33 FCC Rcd. at 4065. In response, Huawei
+   commented that the agency could not itself designate companies given its
+   lack of expertise, that assigning the task to another agency “would constitute
+   an unlawful subdelegation,” and that if the agency subdelegated authority at
+   all, it must be to “a subordinate.” Thus, the initial notice and subsequent
+   comments alerted Huawei to the issues it flags here—e.g., whether pre-
+   designation process should be provided, and whether (and to whom) the
+   agency could delegate its designation authority.
+
+
+
+          60
+             The Universal Service Administrative Company is an independent not-for-profit
+   organization designated by the FCC that administers the universal service fund with FCC
+   policy guidance. About USAC, Universal                     Serv.       Admin.       Co.,
+   https://www.usac.org/about/ (last visited Mar. 31, 2021).
+
+
+
+
+                                             39
+Case: 19-60896        Document: 00515905664              Page: 40       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+           Indeed, the new designation processes adopted by the USF Rule
+   responded directly to Huawei’s comments, confirming the rule is a “logical
+   outgrowth” of the rulemaking. See Chem. Mfrs. Ass’n, 870 F.2d at 203 (final
+   rule changes “were instigated by industry comments” and so grew out of
+   comment process). The final rule adopts the kind of process Huawei
+   commented was absent from the proposed rule. See 47 C.F.R. § 54.9(b)(1)–
+   (2) (providing notice of initial designation and a thirty-day comment period);
+   see also supra note 12. A company that opposes its initial designation is finally
+   designated only after receiving, as Huawei advocated, opportunity to
+   “review and respond to the evidence against it” and a “meaningful
+   individualized hearing.” Id. And the rule similarly responds to Huawei’s
+   comments about designation authority by delegating not to the Commission
+   or another agency but to a subordinate entity that “regularly deals with
+   [homeland] security risks,” an expertise closely related to national security.61
+   NPRM, 33 FCC Rcd. at 4065.
+           In sum, while the NPRM did not specify the precise procedures the
+   agency ultimately adopted, the rulemaking fairly acquainted Huawei with the
+   subject and issues delineated in § 54.9(b), which is all § 553 demands. Chem.
+   Mfrs. Ass’n, 870 F.2d at 203; see also Hodge v. Dalton, 107 F.3d 705, 711–12
+   (9th Cir. 1997) (regulation adopted in reaction to comment adequately
+   noticed where “in character with the original proposal” (citation omitted)).
+
+
+
+           61
+               As noted, the Public Safety and Homeland Security Bureau is “the FCC’s
+   primary expert on public safety and homeland security matters.” Public Safety and
+   Homeland Security, FCC, https://www.fcc.gov/public-safety-and-homeland-security (last
+   visited June 17, 2021); see also Cybersecurity & Comm’ns Reliability Div., Public Safety and
+   Homeland       Security     Bureau,      FCC,     https://www.fcc.gov/cybersecurity-and-
+   communications-reliability-division-public-safety-and-homeland-security-bureau          (last
+   visited June 17, 2021) (describing Bureau’s work to “identify and reduce risks” to network
+   reliability).
+
+
+
+
+                                                40
+Case: 19-60896      Document: 00515905664            Page: 41    Date Filed: 06/18/2021
+
+
+
+
+                                      No. 19-60896
+
+
+   And the final rule’s adoption of changes responsive to Huawei’s comments
+   underlines that the rule logically emerged from the rulemaking.
+                       B. Arbitrary and Capricious Review
+          Next, we turn to Huawei’s arguments the FCC acted arbitrarily and
+   capriciously in adopting the USF Rule. We consider in turn: (1) whether the
+   agency ignored relevant evidence and legal arguments, (2) whether its cost-
+   benefit analysis was irrational, and (3) whether it failed to explain its rejection
+   of a narrower approach that would have more effectively advanced its stated
+   objective. In each case, we find the agency “acted within a zone of
+   reasonableness.” Prometheus Radio Project, 141 S. Ct. at 1158.
+              1. Consideration of Relevant Evidence and Arguments
+          First, Huawei contends the FCC failed to consider relevant evidence
+   and legal arguments. See State Farm, 463 U.S. at 43. Although the FCC could
+   have done more, under our “narrow and highly deferential” standard of
+   review, it did enough. Sierra Club, 939 F.3d at 672.
+          Arbitrary-and-capricious review requires that an agency “has
+   reasonably considered the relevant issues and reasonably explained the
+   decision.” Prometheus Radio Project, 141 S. Ct. at 1158; see also Carlson v. Postal
+   Regul. Comm’n, 938 F.3d 337, 344 (D.C. Cir. 2019) (agency violates the
+   arbitrary-and-capricious standard “if it fails to respond to ‘significant points’
+   and consider ‘all relevant factors’ raised by the public comments” (citation
+   omitted)). Comments are “significant,” and thus require response, only if
+   they raise points “which, if true . . . and which, if adopted, would require a
+   change in an agency’s proposed rule.” City of Portland v. EPA, 507 F.3d 706,
+   714–15 (D.C. Cir. 2007) (emphasis removed) (citation omitted).
+          Huawei identifies five categories of evidence-based comments it says
+   the FCC “ignored or largely disregarded without explanation.” First, it
+
+
+
+
+                                           41
+Case: 19-60896       Document: 00515905664             Page: 42      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   argues the FCC failed to meaningfully consider economic reports that the
+   rule would harm rural communities by eliminating a low-cost market
+   competitor, as well as rural carrier declarations that Huawei’s exclusion
+   could produce ruinously higher costs. But as the FCC argues, it did respond
+   to those arguments. The agency acknowledged evidence that the USF Rule
+   could “widen the digital divide” and drive certain rural providers out of
+   business, but it deemed those costs outweighed by the security risk to
+   national networks associated with a partial ban.62 The agency also suggested
+   it viewed rural carrier costs as overstated, explaining that “[n]o provider
+   ha[d] yet offered the detailed financial records” necessary to show an
+   inability to “maintain its existing network without violating [the] rule.” USF
+   Order, 34 FCC Rcd. at 11453. Elsewhere, it noted that the carriers who
+   provided cost estimates represented only 0.15% of mobile carrier end-user
+   revenues and suggested they likely had stronger incentives to comment than
+   similarly situated non-reporting carriers. Id. at 11467. Still, the agency
+   developed a waiver process “to minimize the [rule’s] economic burden . . .
+   on small entities” facing exceptional financial straits. Id. at 11454 n.227,
+   11515. Thus, the FCC “clearly thought about the [commenters’] objections”
+   and offered “reasoned replies—all the APA requires.” City of Portland, 507
+   F.3d at 714.63
+          Huawei next contends the FCC ignored comments from rural carriers
+   arguing the rule would reduce availability of affordable quality services. But
+   again, as the FCC points out, it did address the rule’s “potential impact” on
+
+
+          62
+            USF Order, 34 FCC Rcd. at 11449–50 & n.206, 11453 (citations omitted); see also
+   id. at 11434 (discussing covered companies’ ability to out-compete more secure
+   competitors due to foreign government subsidies).
+          63
+              See also PSSI Global Servs., L.L.C. v. FCC, 983 F.3d 1, 12 (D.C. Cir. 2020)
+   (rejecting argument FCC failed to “reasonably respond to [a] concern” where it
+   “establish[ed] several significant protections against it”).
+
+
+
+
+                                             42
+Case: 19-60896        Document: 00515905664              Page: 43       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   this issue. It pointed to record evidence “demonstrat[ing] that [quality]
+   service [could] be provided” at reasonable rates “without [covered]
+   suppliers,” and it theorized that the rule would “unleash competition”
+   among higher quality suppliers that did not pose similar security risks. USF
+   Order, 34 FCC Rcd. at 11434.64 Huawei replies that the FCC’s first response
+   “ignores actual evidence about excluding Huawei” and that the second
+   “does not explain why eliminating a competitor will ‘unleash competition.’”
+   We disagree. The FCC considered the costs Huawei identified, including
+   arguments the rule would “drive up rates without a proportionate increase in
+   quality,” id. at 11434 & n.85 (citation omitted), but it concluded Huawei’s
+   low-cost equipment came with security—and thus quality—tradeoffs
+   impossible to tolerate, id. at 11434. And with respect to competition, the
+   Commission suggested that the presence of foreign-government-subsidized
+   carriers distorted market costs and that eliminating them would promote
+   competition among “higher-quality suppliers” for the USF subsidies. Id.
+   (emphasis added).65 In other words, as with rural carrier costs, the agency
+
+
+           64
+              The FCC cited the Telecommunications Industry Association (“TIA”)’s Reply
+   Comments, 34 FCC Rcd. at 11434 & n.86, which contested the argument that “eliminating
+   the availability of equipment from two problematic vendors” would violate § 254(b)(1)’s
+   “broad principle” that quality equipment be available at affordable rates “when only a very
+   small number of companies m[ight] be impacted,” Telecomms. Indus. Ass’n, Reply
+   Comments on Protecting Against National Security Threats to the Communications
+   Supply Chain Through FCC Programs, 78 (July 2, 2018) [hereinafter “TIA Reply
+   Comments”]. Rather, it asserted, “hundreds of USF-companies have been able to provide
+   quality services at reasonable and affordable rates using other suppliers.” Ibid.; see also 2
+   Pierce, supra, § 11.6, at 1047 (explaining that courts may consider the “whole record,”
+   which includes comments received in response to an NPRM (quoting 5 U.S.C. § 706(e))).
+           65
+             The FCC cited TIA’s Reply Comments, 34 FCC Rcd. at 11434 & n.87, which
+   discussed the “preferential financial treatment” of Huawei and ZTE by the Chinese
+   government, TIA Reply Comments at 62–65. Contrary to Huawei’s and other
+   commenters’ arguments that Huawei’s presence increased competition, TIA contended
+   that Huawei’s participation in the market created distortions that “‘breed indiscipline and
+   overcapacity’” and argued that, “[i]f anything, Huawei’s presence in the market harms
+
+
+
+
+                                                43
+Case: 19-60896        Document: 00515905664               Page: 44       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   weighed the evidence differently than Huawei and reached contrary but
+   reasonable policy conclusions.
+           Next, Huawei asserts the FCC did not respond directly to arguments
+   that a company-based approach would “ignore global supply-chain risks,”
+   i.e., risks arising from other major suppliers operating in or purchasing
+   materials from China. The FCC counters that it did answer those arguments
+   by explaining that Huawei and ZTE pose a “unique” threat. We agree with
+   Huawei that this response is off-point. Pointing to “unique” threats posed
+   by Huawei and ZTE does not address why a company-based approach might
+   mitigate global supply chain risks, and the FCC does not direct us to any place
+   in the record where it addressed these comments. That flaw is not fatal,
+   however. Huawei fails to show that the agency’s consideration of these
+   comments would have impacted adoption of a company-based prohibition.
+   While the comments speak to the difficulty of improving American supply
+   chain security through a company-based rule—or any other prohibition—
+   given the global nature of the supply chain, they do not show that an
+   equipment-based rule would be more effective. Thus, even if the agency
+   failed to respond to these comments, it was not required to do so because
+   they were “incapable of affecting” the rule the agency ultimately adopted.
+   City of Portland, 507 F.3d at 715.
+           Finally, Huawei argues the FCC failed to consider comments that a
+   company-based approach would improve network security less effectively
+   than a narrower approach, such as prohibiting switching equipment.66 The
+
+
+
+
+   genuine free-market competition and hurts innovation by driving legitimate competitors
+   out of business on the strength of its unfair advantages.” Id. at 65 n.209 (citation omitted).
+           66
+            From these comments, Huawei argues that “excluding all equipment of covered
+   companies . . . does not improve network security.” That overstates the matter. The cited
+
+
+
+
+                                                44
+Case: 19-60896       Document: 00515905664               Page: 45    Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   FCC responds that it did consider such arguments and concluded a company-
+   based approach would be “safer and more administrable.” Huawei counters
+   that the FCC’s only safety-related justification for a broader rule was that
+   malicious actors can build malware and vulnerabilities “directly into
+   communications equipment,” even non-“flagship equipment.” USF Order,
+   34 FCC Rcd. at 11450. Yet, the agency failed to address the argument
+   advanced in comments that the rule could, as Huawei puts it, prohibit “all
+   dangerous equipment (‘flagship’ or otherwise), regardless of supplier,
+   without banning safe products.” The FCC has the better argument, if just
+   barely. The Commission did consider comments warning that prohibiting
+   “every product from a covered company” would not serve any “material
+   security purpose.” Id. at 11449. The FCC also considered exempting
+   products “that cannot route or redirect user data traffic, or which do not
+   provide visibility into user data.” Id. at 11450 n.209. Nonetheless, the agency
+   found that the need to guard against the risk associated with any equipment
+   provided by a covered company outweighed the costs of a broad rule, and it
+   underscored      the    importance      of        preventing   “bad   actors    [from]
+   circumvent[ing its] prohibitions through clever engineering.” Id. at 11450 &
+   n.209. It also concluded that “a blanket prohibition” would promote ease of
+   administration and compliance, a justification amply supported in the record
+   and one that would apply regardless of an equipment-based approach’s
+   relative security virtues. Id. at 11449–50.67 Thus, we conclude the FCC did
+   not fail to offer a “reasonable and reasonably explained” analysis of the
+
+
+
+
+   comments argue only that excluding all equipment will cover equipment that is inherently
+   secure, not that a broad prohibition will fail to reduce security threats.
+          67
+             For example, the FCC cited comments from Vermont Telephone arguing the
+   proposed rule “would eliminate uncertainty and reduce regulatory burdens that fall most
+   heavily on small operators.” USF Order, 34 FCC Rcd. at 11450.
+
+
+
+
+                                                45
+Case: 19-60896     Document: 00515905664            Page: 46   Date Filed: 06/18/2021
+
+
+
+
+                                     No. 19-60896
+
+
+   relative virtues of a company-based, rather than equipment-based rule, which
+   is all the APA requires. Prometheus Radio Project, 141 S. Ct. at 1160.
+          Similarly, we do not find the agency failed to consider any properly-
+   raised legal arguments that Huawei identifies. To the contrary, the
+   Commission discussed—and rejected—arguments that the FCC lacks
+   authority and expertise to make national security judgments, USF Order, 34
+   FCC Rcd. at 11435–36, as well as arguments that U.S.-based subsidiaries of
+   Chinese companies are immune from Chinese government control, id. at
+   11442–43 & nn. 146–47. True, the FCC did not respond to Huawei’s
+   contention that delegating designation authority to the Bureau violates the
+   Appointments Clause of the U.S. Constitution, art. II, § 2, cl. 2. But Huawei
+   does not dispute the FCC’s assertion that the company made this argument
+   in “a single sentence, buried in a list of ‘additional reasons’” in a submission
+   focused on the Commission’s citation of CALEA. And the FCC correctly
+   points out that it “need not sift pleadings and documents to identify
+   arguments that are not stated with clarity by a petitioner.” New England Pub.
+   Commc’ns Council, Inc. v. FCC, 334 F.3d 69, 79 (D.C. Cir. 2003) (citation
+   omitted) (cleaned up).
+          Thus, we cannot say the FCC acted arbitrarily and capriciously by
+   failing to consider any relevant and significant comment.
+                              2. Cost-Benefit Analysis
+          Next, we consider Huawei’s contention that the FCC’s cost-benefit
+   analysis “ignored important aspects of the problem and is irrational.”
+          An agency’s decision to rely on a cost-benefit analysis as part of its
+   rulemaking can “render the rule unreasonable” if the analysis rests on a
+   “serious flaw.” Nat’l Ass’n of Home Builders v. EPA, 682 F.3d 1032, 1040
+   (D.C. Cir. 2012). But courts afford agencies considerable discretion in
+   conducting “the complex . . . economic analysis typical in the regulation
+
+
+
+
+                                         46
+Case: 19-60896       Document: 00515905664             Page: 47      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   promulgation process.” Ibid. (quoting Nat’l Wildlife Fed’n v. EPA, 286 F.3d
+   554, 563 (D.C. Cir. 2002)); see also Charter Commc’ns, Inc. v. FCC, 460 F.3d
+   31, 42 (D.C. Cir. 2006) (“[C]ost-benefit analyses epitomize the types of
+   decisions that are most appropriately entrusted to the expertise of an
+   agency[.]” (citation omitted)). “[C]ourts of review should be mindful of the
+   many problems inherent in [considering costs] and uphold a reasonable effort
+   made by the Agency.” Nat’l Wildlife Fed’n, 286 F.2d at 563 (quoting FMC
+   Corp. v. Train, 539 F.2d 973, 979 (4th Cir. 1976)). Indeed, our job “is not to
+   undertake our own economic study, but to determine whether the [agency]
+   ‘has established in the record a reasonable basis for its decision.’” Chem.
+   Mfrs. Ass’n, 870 F.2d at 251 (quoting Kennecott v. EPA, 780 F.2d 445, 456
+   (4th Cir. 1985)).
+           Huawei argues the agency unreasonably calculated the rule’s costs
+   “on the unstated assumption that the rule applies to Huawei and ZTE alone”
+   and also ignored evidence about the costs of excluding Huawei from the USF
+   program.68 Additionally, Huawei asserts the agency illogically estimated the
+   rule’s benefits by calculating the level of benefits necessary to offset the
+   rule’s $960 million cost and then assuming benefits at that level without
+   substantiation. We disagree that the FCC’s cost-benefit analysis reflects
+   unreasoned decisionmaking.
+           First, as the FCC argues, it was reasonable to calculate the rule’s cost
+   based on Huawei and ZTE alone: Those were the only companies initially
+   designated, and the Commission lacked an evidentiary basis to calculate the
+
+
+           68
+              Specifically, Huawei argues the FCC ignored evidence that: Huawei exerts
+   competitive pressure on prices; replacing or adapting Huawei equipment would result in
+   long-term interoperability problems; Huawei’s exclusion would cause some carriers to go
+   out of business or raise prices; Huawei’s exclusion would result in reduced access to and
+   quality of services in areas where Huawei is the only provider; and Huawei’s exclusion
+   would exacerbate the problem of delayed 5G deployment in rural communities.
+
+
+
+
+                                              47
+Case: 19-60896        Document: 00515905664              Page: 48       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   rule’s costs based on other companies. See Prometheus Radio Project, 141 S.
+   Ct. at 1160 (noting the “APA imposes no general obligation on agencies to
+   conduct or commission their own empirical or statistical studies”). Huawei
+   counters that it submitted “detailed evidence about similarly situated
+   companies” and “extensive economic analysis” the Commission failed to
+   consider. But Huawei does not point us to record evidence about the costs of
+   excluding similarly situated companies from the USF program, which was
+   the relevant data for the FCC’s analysis. Rather, the FCC reasonably relied
+   on “the evidence it had”—extensive data about the costs of excluding
+   Huawei and ZTE from the market. See USF Order, 34 FCC Rcd. at 11467
+   (noting seven carriers provided cost data on replacing Huawei or ZTE
+   equipment);69 see also Prometheus Radio Project, 141 S. Ct. at 1159 (rejecting
+   argument that FCC’s judgment was arbitrary and capricious because it acted
+   on the imperfect data it had).
+           Second, while it is true that the FCC did not consider certain costs
+   identified by commenters,70 Huawei does not identify relevant cost data the
+
+
+           69
+               Each of these carriers reported that Huawei or ZTE equipment made up a
+   significant percentage of their networks and estimated the cost of replacing that equipment.
+           70
+              The Commission’s cost-benefit analysis did not mention arguments about three
+   of the five costs Huawei identifies: (1) the effect of Huawei’s market presence on
+   equipment costs, (2) the likelihood that some carriers could not comply with the rule and
+   stay in business, and (3) the absence of comparable providers in rural areas and thus the
+   probability of reduced access. But as discussed, it considered the second and third costs
+   elsewhere in the Order. 34 FCC Rcd. at 11434, 11453. Additionally, the Commission
+   considered and discounted the fifth cost identified by Huawei, delays in 5G deployment in
+   rural communities. See USF Order, 34 FCC Rcd. at 11470 (noting the “four largest U.S.
+   mobile carriers do not use and [do not plan] to use Huawei (or ZTE) radio access network
+   equipment”). It also considered “interoperability” costs or “capital outlays” beyond
+   replacement costs, such as associated “service and maintenance” costs, incorporating
+   them into its cost stream estimate. Id. at 11466, 11467 nn.308–09, 11468. Huawei does not
+   argue the FCC’s capital cost estimate was unreasonable but rather argues that it failed to
+   consider these costs altogether, which is incorrect.
+
+
+
+
+                                               48
+Case: 19-60896       Document: 00515905664             Page: 49      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   agency ignored. For example, a representative comment identified by
+   Huawei recognized Huawei has “little presence in the U.S. today” but
+   asserted without evidence that a “small sales share does not by itself indicate
+   a firm lacks competitive significance.” Another estimated the competitive
+   effect if Huawei were permitted to enter the market, not its current effect in
+   reducing prices. A third speculated that “[customer] fees might have to be
+   raised” and that it would “be a struggle to [stay] afloat.” The FCC was not
+   required to “conduct or commission [its] own empirical or statistical
+   studies” to confirm or reject the speculative costs identified by comments
+   such as these. See Prometheus Radio Project, 141 S. Ct. at 1160; Pub. Citizen,
+   Inc. v. FAA, 988 F.2d 186, 197 (D.C. Cir. 1993) (an agency “need not respond
+   at all to comments that are ‘purely speculative and do not disclose the factual
+   or policy basis on which they rest’” (citation omitted)). Indeed, as noted, the
+   agency stated elsewhere that “[n]o provider ha[d] yet offered the detailed
+   financial records . . . necessary . . . to determine whether an individual
+   provider actually could not maintain its existing network” and comply with
+   the rule. USF Order, 34 FCC Rcd. at 11453.
+           Rather, as the agency suggests, it reasonably focused on the most
+   significant cost suggested by the record—“the cost of replacing Huawei and
+   ZTE equipment,” USF Order, 34 FCC Rcd. at 11466—and it reasonably
+   explained its methodology.71 For example, in calculating the replacement
+   cost, the FCC explained that it considered estimates from the seven carriers
+   that had reported their replacement costs and based its analysis on the
+
+
+           71
+              See Charter Commc’ns, Inc., 460 F.3d at 41–42 (finding FCC adequately
+   explained “why the costs of [an] integration ban were justified” where agency generally
+   discussed its agreement with some commenters’ initial cost estimates and agreement with
+   others’ long-term estimates); cf. State Farm, 463 U.S. at 52–53 (agency failed to justify
+   rescission of passive seat belt rule where “no direct evidence” showed that passive
+   seatbelts would not substantially increase usage).
+
+
+
+
+                                              49
+Case: 19-60896      Document: 00515905664           Page: 50    Date Filed: 06/18/2021
+
+
+
+
+                                     No. 19-60896
+
+
+   median estimate, discounted by ten to twenty percent, because carriers with
+   “above average costs” were likely to have the strongest incentives to
+   comment and because the reporting carriers represented “only 0.15% of
+   mobile carrier end-user revenues.” Id. at 11467 & n.308. Huawei does not
+   object to specific cost calculations such as these but to the agency’s failure to
+   consider additional, difficult-to-measure costs about which the FCC lacked
+   hard data, such as “the broader economic costs of depriving Americans of
+   access to Huawei’s market-leading technology.” The agency’s decision to
+   base its analysis instead on the replacement cost estimates before it does not
+   render its analysis unreasonable.
+            Similarly, Huawei does not show the FCC’s calculation of benefits
+   renders its analysis unreasonable. Huawei argues the agency provided no
+   hard evidence that the rule’s claimed benefits would accrue. That is true. As
+   the FCC admits in its brief, it merely “opined that the benefits of the rule
+   included avoiding network disruption and surveillance, as well as possible
+   data breaches” and that these benefits were “difficult to quantify” but
+   “likely to be substantial” based on the digital economy’s size and the current
+   estimated cost of such disruption. See USF Order, 34 FCC Rcd. at 11465–66,
+   11481; supra note 16. The agency also explained that the rule would result in
+   additional benefits even harder to quantify, such as preventing detrimental
+   impacts to national defense, public safety, homeland security, military
+   readiness, and critical infrastructure, as well as the resulting loss of life that
+   could occur if national communications networks were disrupted. Id. at
+   11466.
+            But the FCC was not required to support its analysis with hard data
+   where it reasonably relied on difficult-to-quantify, intangible benefits. For
+   example, the D.C. Circuit rejected a similar challenge to a cost-benefit
+   analysis where the FCC identified “benefits likely to flow from a more
+   competitive and open supply market,” including “potential savings to
+
+
+
+                                          50
+Case: 19-60896        Document: 00515905664               Page: 51        Date Filed: 06/18/2021
+
+
+
+
+                                           No. 19-60896
+
+
+   consumers from greater choice among navigation devices,” the “spurring of
+   technological innovations,” and Congress’s view of the commercial
+   availability of navigation devices “as a benefit in and of itself.” Charter
+   Commc’ns, Inc., 460 F.3d at 42. Moreover, the Third Circuit opinion upon
+   which Huawei principally relies was recently reversed by the Supreme Court
+   in a decision underlining the deferential nature of our review in this context.
+   See Prometheus Radio Project v. FCC, 939 F.3d 567 (3d Cir. 2019), rev’d, 141
+   S. Ct. at 1161. Accordingly, we are limited to considering whether “the FCC
+   made a reasonable predictive judgment based on the evidence it had,” and
+   we cannot demand the agency perform its own “empirical or statistical
+   studies,” especially when it relies on unquantifiable benefits. Prometheus
+   Radio Project, 141 S. Ct. at 1160.72
+           In sum, the FCC did not act unreasonably by concluding that hard-to-
+   quantify benefits, such as protecting national defense and public safety and
+   preventing potential loss of life, would exceed the rule’s costs, which it
+   reasonably calculated based on the record evidence. Nor did the FCC
+   unreasonably estimate that excluding insecure equipment or services from
+   even a portion of the nation’s communications networks would reduce the
+   likelihood of a significant disruption to the digital economy and counter the
+   frequency of malicious cyberactivity.
+                           3. Rejection of Risk-Based Approach
+           Finally, we turn to Huawei’s contention that the FCC acted arbitrarily
+   and capriciously by rejecting an alternate approach that would have “served
+
+
+           72
+              See also FCC v. Fox Television Stations, Inc., 556 U.S. 502, 519 (2009)
+   (distinguishing State Farm as “set[ting] aside agency action . . . because of failure to adduce
+   empirical data that can readily be obtained,” as opposed to “propositions for which scant
+   empirical evidence can be marshaled,” such as “the harmful effect of broadcast profanity
+   on children,” and refusing to “insist upon obtaining the unobtainable”).
+
+
+
+
+                                                 51
+Case: 19-60896       Document: 00515905664             Page: 52      Date Filed: 06/18/2021
+
+
+
+
+                                        No. 19-60896
+
+
+   its putative national security objective more effectively and at lower cost.” In
+   Huawei’s view, the agency failed to consider its own expert advisors’
+   recommendations to adopt a risk-based approach,73 rather than a company-
+   based approach, and failed to explain its ultimate decision to focus on
+   companies instead. The agency counters that it did explain that a company-
+   based approach was the “only reliable protection against potential
+   incursions” because equipment beyond the “company’s flagship
+   equipment” might contain vulnerabilities. Additionally, a company-based
+   prohibition would provide “regulatory certainty” and greater ease of
+   implementation and enforcement, reducing compliance costs. But, counters
+   Huawei, the agency failed to show that it even considered a risk-based
+   approach, and regardless, the possibility that flagship equipment might
+   contain vulnerabilities does not support barring safe equipment. The agency
+   has the better argument.
+           First, the FCC did explain why it rejected a risk-based approach.
+   Responding to a comment advocating for a “testing program that would
+   allow impacted carriers to submit for government approval their proposed,
+   but mission-critical, service or maintenance plans,” i.e., a risk-based
+   approach, the FCC stated that “such a framework would do little to address
+   the potential for foreign adversaries to intentionally and maliciously access or
+   exploit equipment within our communications networks.” USF Order, 34
+   FCC Rcd. at 11449 n.204. In other words, the FCC found, as one commenter
+   argued, that a risk-based approach like “product testing” less effectively
+   addressed the “the risk of deliberately compromised products—those that have
+
+
+
+           73
+             Huawei uses “risk-based” to refer to an approach that would “focus[] on design
+   principles and processes.” Huawei cites comments suggesting such an approach might
+   include permitting voluntary compliance with the NIST Cybersecurity Framework or “an
+   equipment testing regime.”
+
+
+
+
+                                             52
+Case: 19-60896      Document: 00515905664             Page: 53      Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+   been intentionally altered by a state-sponsored actor to enable future
+   exploitation—rather than those products that are merely vulnerable to a
+   future attack due to inherent weaknesses in design or implementation.”
+   Telecomms. Indus. Ass’n, Comments on Protecting Against National
+   Security Threats to the Communications Supply Chain Through FCC
+   Programs, 36 (June 1, 2018).
+          Second, as discussed, the FCC offered a reasoned explanation for
+   adopting a company-based approach. USF Order, 34 FCC Rcd. at 11449,
+   11450 n.209, 11453. Even accepting Huawei’s premise that a risk-based
+   approach would have more effectively achieved the FCC’s security
+   objective, we must defer to the agency’s reasoned explanation, supported by
+   comments in the record, that a company-based prohibition would be “easier
+   for providers to implement and for the Commission to enforce” and “thus
+   more cost effective” than alternative approaches. Id. at 11449 & n.204,
+   11450.74 The agency explained that a blanket prohibition would avoid the
+   time-consuming and costly administrative burden of making determinations
+   “on a product-by-product basis.” Id. at 1150. It would also reduce providers’
+   compliance burden by allowing them to certify their subsidiaries and affiliates
+   had not used a covered company’s equipment, rather than certifying
+   compliance “on a product-by-product or even component-by-component
+   basis.” Ibid. By the same token, a company-based certification would simplify
+   and make less costly USAC’s auditing responsibilities. Ibid.
+          Finally, the agency acknowledged that its rule would not “completely
+   address the risks posed by equipment or services produced or provided by
+   covered companies” and reasonably concluded that its “targeted rule”
+
+
+          74
+             See USF Order, 34 FCC Rcd. at 11450 (“We agree with Vermont Telephone . . .
+   that our rule ‘would eliminate uncertainty and reduce regulatory burdens that fall most
+   heavily on small operators[.]’” (citation omitted)).
+
+
+
+
+                                             53
+Case: 19-60896         Document: 00515905664                Page: 54        Date Filed: 06/18/2021
+
+
+
+
+                                            No. 19-60896
+
+
+   would be part of “ongoing and incremental” efforts to secure the supply
+   chain and national communications networks. Id. at 11453. Such efforts could
+   very well include a risk-based approach in future.
+           “Nothing prohibits federal agencies from moving in an incremental
+   manner.” FCC v. Fox Television Stations, Inc., 556 U.S. 502, 522 (2009). And
+   Huawei does not suggest the agency unreasonably found that a broad
+   prohibition would cover insecure equipment, just that it covered more
+   equipment than necessary. Nor does it argue the FCC unreasonably gave
+   significant weight to the compliance and administrative burden associated
+   with an alternative approach. “Mindful” that we cannot “substitute [our]
+   judgment for that of the agency,” we do not find the agency’s action outside
+   the realm of reasonableness. See Sierra Club, 939 F.3d at 664 (quoting 10 Ring
+   Precision, 722 F.3d at 723).
+                                          C. Vagueness
+           We next consider Huawei’s claim that the USF Rule violates the APA
+   because it is vague and standardless.75 As discussed, the rule directs
+   designation of companies “pos[ing] a national security threat to the integrity
+   of communications networks or the communications supply chain.” 47
+   C.F.R. § 54.9; USF Order, 34 FCC Rcd. at 11438. Huawei argues the rule
+   does not give “meaningful guidance” to affected companies, for instance by
+
+
+           75
+               The title of the relevant section of Huawei’s opening brief states the USF Rule
+   also “violates . . . due process,” but the brief itself does not develop this point as a distinct
+   argument. Instead, it states in passing that the APA’s arbitrary-and-capricious standard
+   “comports with the Due Process Clause, which likewise requires regulations to ‘give fair
+   notice’ . . . and to establish intelligible standards.” Further, this section relies entirely on
+   APA cases in applying vagueness principles to the rule, and Huawei’s reply brief
+   exclusively discusses APA arguments. Accordingly, we do not address whether the USF
+   Rule is also vague and standardless in violation of the Fifth Amendment. See Roy v. City of
+   Monroe, 950 F.3d 245, 251 (5th Cir. 2020) (“Failure adequately to brief an issue on appeal
+   constitutes waiver of that argument.” (citation omitted)).
+
+
+
+
+                                                  54
+Case: 19-60896      Document: 00515905664           Page: 55   Date Filed: 06/18/2021
+
+
+
+
+                                     No. 19-60896
+
+
+   failing to define key terms such as “national security threat,” “integrity,”
+   and “communications supply chain.” It also claims the rule provides no
+   “metric” for assessing whether a designation reflects reasoned
+   decisionmaking, instead relying on the “totality of evidence.” See USF
+   Order, 34 FCC Rcd. at 11439. For this argument, Huawei cites a line of D.C.
+   Circuit decisions, beginning with Pearson v. Shalala, 164 F.3d 650 (D.C. Cir.
+   1999), which, according to Huawei, teach that agency action is arbitrary and
+   capricious “if it does not articulate a comprehensible standard.” See also
+   ACA Int’l v. FCC, 885 F.3d 687 (D.C. Cir. 2018); Tripoli Rocketry Ass’n, Inc.
+   v. Bureau of Alcohol, Tobacco, Firearms, & Explosives, 437 F.3d 75 (D.C. Cir.
+   2006).
+            These cases do not support Huawei’s claim. The D.C. Circuit has
+   rejected the argument that “Pearson stands for the proposition that an
+   unarticulated standard does not comport with . . . the APA.” PDK Lab’ys Inc.
+   v. DEA, 438 F.3d 1184, 1194 (D.C. Cir. 2006) (cleaned up). To the contrary,
+   Pearson holds only that “an agency proceeding on a case-by-case basis must
+   pour ‘some definitional content’ into a vague statutory term by ‘defining the
+   criteria it is applying.’” Ibid. (quoting Pearson, 164 F.3d at 660). And a closer
+   examination of this line of cases reveals they are far afield from Huawei’s
+   challenge to the USF Rule.
+            Begin with Pearson itself. Marketers of diet supplements challenged
+   the FDA’s ruling that health claims on their labels were not supported by
+   “significant scientific agreement.” 164 F.3d at 652 (quoting 21 C.F.R.
+   § 101.14(c)). The court sustained the challenge because the agency “never
+   explained” why the claims failed to meet the standard. Id. at 654. But the
+   court did not imply that the standard itself was invalid. To the contrary, it
+   rejected the notion that “the agency was necessarily required to define the
+   term in its initial general regulation” or that it was “obliged to issue a
+   comprehensive definition all at once.” Id. at 661. Instead, the agency could
+
+
+
+                                          55
+Case: 19-60896      Document: 00515905664            Page: 56     Date Filed: 06/18/2021
+
+
+
+
+                                      No. 19-60896
+
+
+   give “definitional content” to the standard on a “case by case” basis. Id. at
+   660, 661; see also id. at 660 n.12 (suggesting APA could be satisfied if agency
+   “provide[s] guidance in implementation” of the general standard).
+          Next, Tripoli Rocketry. Rocket enthusiasts challenged the ATFE’s
+   designating a specific fuel as an “explosive” because it “deflagrates.” 437
+   F.3d at 77–78, 79 (citing 18 U.S.C. § 841(d)). The court remanded for
+   reconsideration because the agency “never reveal[ed] how it determines that
+   a material deflagrates.” Id. at 81. The agency merely stated that deflagration
+   was “much faster” than burning, thus “articulat[ing] no reasoned basis for
+   its decision.” Id. at 81, 83. But, again, the court did not suggest the
+   “deflagration” standard was itself invalid. Rather, it faulted the agency for
+   failing to “offer a coherent explanation” for “designat[ing] a particular
+   material” as deflagrating. Id. at 84; see also id. at 77 (“The problem . . . is that
+   ATFE’s explanation for its determination that APCP deflagrates lacks any
+   coherence.”).
+          Finally, ACA International. Petitioners challenged the FCC’s ruling
+   clarifying the scope of an “automatic telephone dialing system” for purposes
+   of the federal ban on unwanted robocalls. 885 F.3d at 693–94 (citing 47
+   U.S.C. § 227(b)(1)(A)(iii); 30 FCC Rcd. 7961 (2015)).76 The court set the
+   ruling aside as unreasonable because it swept in all “smartphones,” thus
+   giving the federal ban an “eye-popping sweep” Congress never
+   contemplated. Id. at 697. Moreover, interpreting the ruling not to include
+   smartphones would make its standard “[in]comprehensible”: the ban would
+   then have embraced internet browsers but not smartphones, based on
+   “[p]recisely the same logic.” Id. at 700. Thus, the court invalidated the
+
+
+          76
+            See Declaratory Ruling and Order in the Matter of Rules and Reguls.
+   Implementing the TCPA, FCC 15-72, CG Docket No. 02-278, WC Docket No. 07-135, 30
+   FCC Rcd. 7961 (released July 10, 2015).
+
+
+
+
+                                           56
+Case: 19-60896        Document: 00515905664              Page: 57       Date Filed: 06/18/2021
+
+
+
+
+                                          No. 19-60896
+
+
+   agency ruling as either grossly overbroad (by sweeping in all smartphones) or
+   incoherent (by arbitrarily excluding smartphones but not browsers).
+           Huawei’s attack on the USF Rule is quite different from the
+   challenges to agency action in those cases. Huawei does not here challenge
+   the agency’s application of a broad standard to a specific case. Rather, as its
+   reply brief makes perfectly clear, Huawei challenges the putative vagueness
+   of the USF Rule “on its face.”77 But that facial attack finds no support in the
+   cases Huawei relies on. As discussed, those cases involve an agency’s failure
+   to explain how a broad standard applied to a particular case (Pearson and
+   Tripoli Rocketry) or an agency’s ruling that rendered a statutory term
+   incoherent (ACA International). Indeed, those cases support rejecting
+   Huawei’s claim. An agency is “not ‘. . . obliged to issue a comprehensive
+   definition all at once.’” PDK Lab’ys, 438 F.3d at 1194 (quoting Pearson, 164
+   F.3d at 661). Instead, it may “‘proceed case by case’”—as the FCC seeks to
+   do through the initial designation process—“in fleshing out the contours of
+   vague statutory terms.” Ibid. (quoting Pearson, 164 F.3d at 661).78 Based on
+   that standard, the USF Rule falls well within the permissible bounds of
+   agency decisionmaking.
+           True, as Huawei suggests, the FCC’s application of its “totality of the
+   circumstances” test could become “a cloak for agency whim,” but an
+
+
+
+           77
+              To the extent that Huawei purports to challenge the FCC’s application of the
+   rule in the initial designation, we have already explained that its challenge is unripe. See
+   supra pp. 15–17. But nothing we say here precludes Huawei from bringing a similar claim in
+   the context of its challenge to the final designation, which has been held in abeyance
+   pending our decision in this case. See supra p. 12.
+           78
+             See also Chippewa & Flambeau Improvement Co. v. FERC, 325 F.3d 353, 359 (D.C.
+   Cir. 2003) (upholding FERC’s “case-by-case approach to determining whether a reservoir
+   is ‘necessary or appropriate’” where it “adequately explained its application of that
+   approach to the facts of this case”).
+
+
+
+
+                                               57
+Case: 19-60896     Document: 00515905664           Page: 58   Date Filed: 06/18/2021
+
+
+
+
+                                    No. 19-60896
+
+
+   agency’s adopting such a standard is not “necessarily arbitrary and
+   capricious.” PDK Lab’ys, 438 F.3d at 1194 (citation omitted). Rather, the
+   relevant question for examining the rationality of the “national security
+   threat” standard is whether the agency adequately explained why it adopted
+   it. See Prometheus Radio Project, 141 S. Ct. at 1158. We have already
+   exhaustively examined that question and concluded that the FCC did so. See
+   supra pp. 41–54.
+          Accordingly, we reject Huawei’s claim that the rule facially violates
+   the APA because it is vague and standardless.
+                                 D. Due Process
+          Finally, we turn to Huawei’s contention that the rule must be vacated
+   because the initial designation process (1) “rests on an error of law,” namely
+   the assumption the agency could initially designate companies without
+   process, and (2) fails to provide such procedures consistent with the
+   Constitution. Both arguments fail.
+          Agency action shall be set aside if it is unlawful, 5 U.S.C. § 706,
+   “which of course includes unconstitutional action,” Fox Television Stations,
+   556 U.S. at 516; see also SEC v. Chenery Corp., 318 U.S. 80, 94 (1943) (“[A]n
+   order may not stand if the agency has misconceived the law.”). Huawei
+   argues the rule should be vacated because “the FCC failed to recognize that
+   ‘initial designation’ implicates constitutionally protected interests” and,
+   thus, erred legally in determining it need not provide due process of law prior
+   to initially designating a company. See U.S. Const. amend. V.; Mathews v.
+   Eldridge, 424 U.S. 319, 332–35 (1976). Similarly, Huawei contends the rule
+   “requires vacatur on constitutional grounds” because the FCC “must
+   provide adequate pre-deprivation procedural protections.” The FCC
+   responds that Huawei’s due process challenge to the initial designation
+   “makes little sense, because the initial designation is how the agency provides
+
+
+
+
+                                         58
+Case: 19-60896     Document: 00515905664           Page: 59    Date Filed: 06/18/2021
+
+
+
+
+                                    No. 19-60896
+
+
+   process.” Huawei counters that the Commission did not “contest [on
+   appeal] that the USF rule fails to provide pre-deprivation due process,” so
+   the “rule must be vacated for that reason alone.”
+          Huawei’s arguments rest on the erroneous premise that the initial
+   designation is itself a deprivation. Yet, the sole potential deprivation to
+   initially designated companies is a reputational injury. And “[a]llegations of
+   damages to one’s reputation” by a state actor’s statements generally “fail to
+   state a claim of denial of a constitutional right,” unless they are
+   “accompanied by an infringement of some other interest.” Texas v.
+   Thompson, 70 F.3d 390, 392 (5th Cir. 1995). Huawei argues that an initial
+   designation “tangibly alters both designated companies’ ability to compete
+   and their protected goodwill.” But Huawei does not contend the initial
+   designation seeks to put designated companies out of business in the same
+   way the state actors attempted to do in Thompson, where we recognized “a
+   liberty interest in operating a legitimate business.” 70 F.3d at 392; see also
+   Phillips v. Vandygriff, 711 F.2d 1217, 1222 (5th Cir. 1983) (finding liberty
+   interest in ability to pursue specific occupation). Nor can Huawei rely on our
+   precedent in Marrero v. City of Hialeah, applying state law, for the proposition
+   that business goodwill represents a “tangible” interest under federal law. See
+   625 F.2d 499, 514–15 (5th Cir. 1980) (finding Florida could not deprive
+   plaintiffs of business goodwill without due process of law because “that
+   interest [was] a protected property interest under Florida law”). Thus, even
+   if Huawei could establish that an initial designation stigmatizes designated
+   entities, it fails to show that it deprives the company of “some other interest”
+   requiring due process protection. See Texas, 70 F.3d at 392.
+          Moreover, as the FCC argues, the rule affords pre-deprivation due
+   process through the initial designation procedures, which provide “notice of
+   evidence in the record and the Commission’s consideration of that
+   evidence” and “invite[ a company] to be heard on its sufficiency or any
+
+
+
+                                         59
+Case: 19-60896        Document: 00515905664               Page: 60        Date Filed: 06/18/2021
+
+
+
+
+                                           No. 19-60896
+
+
+   countervailing evidence.” Only after receiving this process does an entity
+   face agency action with legal effect, i.e., a final designation. 47 C.F.R.
+   § 54.9(b)(2); see supra p. 16. As the agency rightly contends, “[b]y Huawei’s
+   logic,” if the FCC had provided pre-initial-designation process, “Huawei
+   would have been entitled to object that that notice should have been preceded
+   by an even earlier round of notice and a hearing.” That is not what due
+   process requires. See Goldberg v. Kelly, 397 U.S. 254, 267 n.14 (1970) (“Due
+   process does not, of course, require two hearings.”); see also Riggins v.
+   Goodman, 572 F.3d 1101, 1110 (10th Cir. 2009) (“[D]ue process is required
+   not before the initial decision or recommendation to terminate is made, but
+   instead before the termination actually occurs.”); Crum v. Vincent, 493 F.3d
+   988, 993 (8th Cir. 2007) (finding one “meaningful opportunity to be heard”
+   satisfies due process).
+           In short, Huawei fails to demonstrate the initial designation would
+   stigmatize an initially designated company’s reputation in connection with a
+   “‘more tangible’ interest,” as our precedents require to show a
+   constitutionally protected reputational interest in pre-deprivation process.
+   Marrero, 625 F.2d at 513; see also Orton Motor, Inc. v. HHS, 884 F.3d 1205,
+   1215 (D.C. Cir. 2018) (rejecting petitioner’s argument that “mere issuance
+   of a warning letter, absent further enforcement action,” where injury was to
+   “reputation alone,” required due process).79 Accordingly, we do not find the
+
+
+
+
+           79
+              Huawei’s best authority for finding a tangible injury is an out-of-circuit case
+   holding an airline had a “constitutionally cognizable interest in avoiding the loss of
+   government contracting opportunities based on stigmatizing charges.” Reeve Aleutian
+   Airways, Inc. v. U.S., 982 F.2d 594, 598 (D.C. Cir. 1993). But that case is distinguishable.
+   The agency action challenged there was Reeve’s actual “suspen[sion] . . . from
+   participation in all military airlifts,” id. at 597, which would be analogous to Huawei’s final
+   designation. But Reeve did not claim it was entitled to pre-deprivation process before the
+   notice that the company might be suspended, id. at 596, which would be analogous to
+
+
+
+
+                                                 60
+Case: 19-60896       Document: 00515905664            Page: 61      Date Filed: 06/18/2021
+
+
+
+
+                                       No. 19-60896
+
+
+   rule must be vacated, either because it rests on a mistaken view of the law or
+   because it fails to provide constitutionally required due process.
+                                     Conclusion
+          The petition for review is DENIED.
+
+
+
+
+   Huawei’s initial designation. Reeve, therefore, does not stand for the proposition that
+   Huawei was somehow entitled to process before the initial designation occurred.
+
+
+
+
+                                             61
+

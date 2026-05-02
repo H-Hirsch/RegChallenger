@@ -8,11 +8,11 @@ A Streamlit dashboard ("RegChallenger — Federal Rule Vulnerability Analysis") 
 
 ## Current Status (as of 2026-04-15)
 
-**Pipeline: COMPLETE.** 251 confirmed rulemaking cases (briefing previously said 244; the enriched step3 added 7 more `FOUND` rows) with full FR metadata in `dashboard/data/`.
+**Pipeline: COMPLETE.** 395 confirmed rulemaking cases (drawn from a corpus of 7,773 matched appellate cases) with full FR metadata in `dashboard/data/`.
 
 **Dashboard: FR SEARCH FLOW WORKING END-TO-END.** Live FR API search → results table → row selection → either "previously challenged" historical analysis OR on-the-fly embedding + AI vulnerability prediction. Both AI paths return structured output rendered in styled cards.
 
-**Retrieval: UPGRADED 2026-04-15.** mpnet embeddings + LLM-rerank pipeline now in place. 4,264 opinion texts available locally (synced from EC2). Prediction is stable across reruns (`temperature=0`) and independent of the display slider (`PREDICTION_N=5` fixed).
+**Retrieval: UPGRADED 2026-04-15.** mpnet embeddings + LLM-rerank pipeline now in place. 433 opinion texts in `data/opinions/` (one per FOUND rulemaking row in the rerun pipeline). Prediction is stable across reruns (`temperature=0`) and independent of the display slider (`PREDICTION_N=5` fixed).
 
 ---
 
@@ -102,11 +102,10 @@ dashboard/
 │   ├── fr_api.py                   # Live Federal Register API client (NEW)
 │   └── prediction.py               # Claude prediction + historical explanation
 ├── data/
-│   ├── step1_output.csv            # 10,680 rows
-│   ├── step2_output.csv            # 4,403 rows
-│   ├── step3_output.csv            # 251 rulemaking rows (enriched)
-│   ├── opinions/                   # full pipeline opinions (NEEDS DOWNLOAD from EC2)
-│   └── validation_opinions/        # 77 validation opinion files (current fallback)
+│   ├── step1_output.csv            # 10,690 rows
+│   ├── step2_output.csv            # 6,042 rows
+│   ├── step3_output.csv            # 608 rulemaking rows (enriched)
+│   └── opinions/                   # 433 opinion text files (one per FOUND rulemaking)
 ├── requirements.txt
 ├── .env                            # NOT committed
 ├── .env.example
@@ -156,11 +155,11 @@ Score capped at 1.0. Final = cosine_similarity + categorical_boost.
 
 ## Pipeline Outputs (in dashboard/data/)
 
-**step1_output.csv** (10,680 rows): `cl_cluster_id`, `idb_docket`, `circuit`, `appellant`, `appellee`, `cl_case_name`, `cl_case_name_full`, `cl_opinion_url`, `agency`, `agency_name`, `outcome`, `apptype`, `date_filed`, `confidence`, `administration_case`, `doctrine_era`, `outcome_label`, `judgment_date`, `doctrine_era_judgment`, `administration_judgment`
+**step1_output.csv** (10,690 rows): `cl_cluster_id`, `idb_docket`, `circuit`, `appellant`, `appellee`, `cl_case_name`, `cl_case_name_full`, `cl_opinion_url`, `agency`, `agency_name`, `outcome`, `apptype`, `date_filed`, `confidence`, `administration_case`, `doctrine_era`, `outcome_label`, `judgment_date`, `doctrine_era_judgment`, `administration_judgment`
 
-**step2_output.csv** (4,403 rows): `cl_cluster_id`, `circuit`, `agency`, `agency_name`, `cl_case_name`, `date_filed`, `outcome`, `claude_case_type`, `claude_challenged_fr`, `claude_reasoning`, `claude_confidence`, `has_fr_citations`, `opinion_text_len`
+**step2_output.csv** (6,042 rows): `cl_cluster_id`, `circuit`, `agency`, `agency_name`, `cl_case_name`, `date_filed`, `outcome`, `claude_case_type`, `claude_challenged_fr`, `claude_reasoning`, `claude_confidence`, `has_fr_citations`, `opinion_text_len`
 
-**step3_output.csv** (251 rulemaking rows, enriched): `cl_cluster_id`, `fr_document_number`, `fr_citation_official`, `fr_title`, `fr_publication_date`, `fr_agency_name`, `fr_parent_department`, `fr_sub_agency`, `rin_numbers`, `cfr_references`, `fr_html_url`, `fr_significant`, `fr_lookup_status`, `fr_type`, `fr_action`, `fr_abstract`, `fr_explanation`, `fr_cfr_topics`, `fr_topics`, `fr_page_length`, `fr_president`, `fr_effective_on`
+**step3_output.csv** (608 rulemaking rows, enriched): `cl_cluster_id`, `fr_document_number`, `fr_citation_official`, `fr_title`, `fr_publication_date`, `fr_agency_name`, `fr_parent_department`, `fr_sub_agency`, `rin_numbers`, `cfr_references`, `fr_html_url`, `fr_significant`, `fr_lookup_status`, `fr_type`, `fr_action`, `fr_abstract`, `fr_explanation`, `fr_cfr_topics`, `fr_topics`, `fr_page_length`, `fr_president`, `fr_effective_on`
 
 **CRITICAL: Join key is `cl_cluster_id`** (NOT `validation_id`).
 
@@ -182,10 +181,10 @@ Score capped at 1.0. Final = cosine_similarity + categorical_boost.
 
 **Imports:** `dotenv.load_dotenv` runs first so `ANTHROPIC_API_KEY` is available before `prediction.py` reads it.
 
-**OPINIONS_DIR:** Auto-detects `data/opinions/` (full pipeline) or falls back to `data/validation_opinions/` (current state, only 77 files).
+**OPINIONS_DIR:** `data/opinions/` (full pipeline). Loader still has a `validation_opinions/` fallback for the older `cluster_{id}_CAXX.txt` naming, but that folder is no longer present in the repo.
 
 **Flow:**
-1. Load 251 rulemaking cases + compute embeddings (cached)
+1. Load 395 rulemaking cases + compute embeddings (cached)
 2. Sidebar: search form (keyword w/ typed-effect placeholder, agency multiselect, date range, CFR title/part, doc types, significance, results-per-page) + analysis settings (top_k, show_opinion) + reference-dataset stats
 3. Main:
    - On submit → live FR API call (cached 10 min) → results stored in session_state with pagination
@@ -214,7 +213,7 @@ Score capped at 1.0. Final = cosine_similarity + categorical_boost.
 1. 🔲 **Move dashboard out of iCloud Drive** before demo presentation
 2. 🔲 **Git repo** — README, organize into `src/` folder
 3. 🔲 **Presentation slides**
-4. 🔲 **[Future / post-capstone] Structured doctrinal tagging of opinions** — one-time Claude pass over the 4,264 opinions to extract a per-case JSON profile (challenge type, doctrines cited, holding). Then match query against candidates via embedding + overlap scoring on these tags. Discussed today as the next major retrieval-quality improvement after reranking. Rough cost: ~$5–10, runs once, caches to JSON on disk.
+4. 🔲 **[Future / post-capstone] Structured doctrinal tagging of opinions** — one-time Claude pass over the 433 opinions to extract a per-case JSON profile (challenge type, doctrines cited, holding). Then match query against candidates via embedding + overlap scoring on these tags. Discussed today as the next major retrieval-quality improvement after reranking. Rough cost: ~$5–10, runs once, caches to JSON on disk.
 5. ✅ ~~FR Search interface~~ — DONE
 6. ✅ ~~Opinion-text sync from EC2~~ — DONE (4,264 files in `data/opinions/` as of 2026-04-15)
 

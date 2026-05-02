@@ -12,7 +12,7 @@ Federal rules routinely face court challenges, but agencies, affected industries
  
 RegChallenger is a dashboard that, given any final rule published in the Federal Register, produces a structured vulnerability assessment grounded in historical analogs. The pipeline:
 
-1. **Retrieves** the 15 most similar historical rulemaking challenges from a curated reference set of 251 appellate cases (FY 2008–2026), using hybrid dense-embedding + categorical similarity.
+1. **Retrieves** the 15 most similar historical rulemaking challenges from a curated reference set of 395 challenged rulemakings (FY 2008–2026), using hybrid dense-embedding + categorical similarity.
 2. **Reranks** those candidates with Claude by *legal* relevance — doctrinal fit, reviewing circuit, current doctrine regime, outcome informativeness.
 3. **Predicts** vulnerability (`Highly` / `Moderately` / `Minimally Vulnerable`) with a two-sided assessment: factors exposing the rule and factors favoring its survival, each cited to specific analog cases.
 4. **Explains historical outcomes** when the selected rule has already been challenged — synthesizing the opinion text, doctrinal era, and political moment.
@@ -64,8 +64,9 @@ RegChallenger/
 
 ## Dataset
 
-- **251 rulemaking challenges** — federal rules that went to a published circuit-court opinion, enriched with Federal Register metadata (agency, CFR references, publication date, abstract, topics, significance flag).
-- **Outcome distribution**: 43% Upheld, 24.7% Struck Down, 19.9% Mixed, 12.4% Dismissed/Unknown.
+- **395 rulemaking challenges** — federal rules that went to a published circuit-court opinion, enriched with Federal Register metadata (agency, CFR references, publication date, abstract, topics, significance flag).
+- **7,773 matched appellate cases** in the broader corpus (the rulemaking challenges are the subset Claude classified as RULEMAKING and that successfully matched a Federal Register rule).
+- **Outcome distribution**: 46.6% Upheld, 24.1% Struck Down, 18.5% Mixed, 10.9% Dismissed/Other.
 - **Coverage**: FY 2008–2026, all circuits.
 - Opinion text for each case is in `data/opinions/`.
 

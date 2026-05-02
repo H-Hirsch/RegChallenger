@@ -1,0 +1,1898 @@
+     19-1042 L
+     Labor Council v. EPA
+
+ 1                      UNITED STATES COURT OF APPEALS
+ 2                          FOR THE SECOND CIRCUIT
+ 3
+ 4                                    August Term, 2020
+ 5
+ 6              (Argued: March 4, 2021              Decided: September 1, 2021)
+ 7
+ 8                          Docket Nos. 19-1042(L); 19-1044; 19-2329
+ 9
+10
+11                          _____________________________________
+12
+13   LABOR COUNCIL FOR LATIN AMERICAN ADVANCEMENT; NATURAL
+14    RESOURCES DEFENSE COUNCIL, INC.; VERMONT PUBLIC INTEREST
+15   RESEARCH GROUP; SAFER CHEMICALS HEALTHY FAMILIES; LAUREN
+16       ATKINS; WENDY HARTLEY; and HALOGENATED SOLVENTS
+17                    INDUSTRY ALLIANCE, INC.,
+18
+19                                        Petitioners,
+20
+21                                             v.
+22
+23         UNITED STATES ENVIRONMENTAL PROTECTION AGENCY; and
+24       MICHAEL S. REGAN, * as Administrator of the United States Environmental
+25                               Protection Agency,
+26
+27                                        Respondents.
+28                          _____________________________________
+29
+30   Before:
+31
+32                      LEVAL, CABRANES, and RAGGI, Circuit Judges.
+33
+
+
+     *Pursuant to Federal Rule of Appellate Procedure 43(c)(2), Administrator
+     Michael S. Regan is automatically substituted as Respondent. The Clerk of the
+     Court is respectfully directed to amend the caption as set forth above.
+ 1          Petitioner Halogenated Solvents Industry Alliance, Inc. (“HSIA”)
+ 2   challenges a Final Rule published by the Environmental Protection Agency
+ 3   (“EPA”) restricting access by consumers to methylene chloride, a dangerous
+ 4   chemical used in paint removal products, arguing that (i) the rule’s method of
+ 5   restricting consumer use is arbitrary and capricious because of its incidental
+ 6   impact on commercial uses of methylene chloride and (ii) it is unsupported
+ 7   by substantial evidence because EPA failed to adequately consider the costs
+ 8   of the Proposed Rule. A group of Environmental Petitioners also challenges
+ 9   the rule, contending that the Toxic Substances Control Act, 15 U.S.C. § 2601, et
+10   seq. (“TSCA”) required the EPA to regulate commercial uses of methylene
+11   chloride as well as consumer uses. Held, (a) HSIA’s challenge to the Final
+12   Rule fails because the Final Rule was supported by substantial evidence; (ii)
+13   the Environmental Petitioners’ challenge is prudentially unripe for review at
+14   this time. The petitions for review of the Final Rule are DENIED.
+15
+16                                         JONATHAN KALMUSS-KATZ (Eve C.
+17                                         Gartner, on the brief), Earthjustice, New
+18                                         York, NY, for Petitioner Labor Council for
+19                                         Latin American Advancement.
+20
+21                                         THOMAS ZIMPLEMAN, NATURAL
+22                                         RESOURCES DEFENSE COUNCIL,
+23                                         WASHINGTON, DC, for Petitioner Natural
+24                                         Resources Defense Council.
+25
+26                                         ROBERT M. SUSSMAN, SUSSMAN &
+27                                         ASSOCIATES, WASHINGTON, DC, for
+28                                         Petitioners Vermont Public Interest
+29                                         Research Group, Safer Chemicals Healthy
+30                                         Families, Lauren Atkins, and Wendy
+31                                         Hartley.
+32
+33                                         W. CAFFEY NORMAN, Squire Patton
+34                                         Boggs (US) LLP, Washington, DC;
+35                                         KEITH BRADLEY (Alexander Arensberg,
+36                                         on the brief), Squire Patton Boggs (US)
+37                                         LLP, Denver, CO, for Petitioner
+38                                         Halogenated Solvents Industry Alliance,
+39                                         Inc.
+
+                                            2
+ 1
+ 2                                          DANIEL DEPASQUALE, BETHANY FISHER,
+ 3                                          Office of the General Counsel, United
+ 4                                          States Environmental Protection
+ 5                                          Agency, Washington, DC; JEFFREY
+ 6                                          BOSSERT CLARK, Assistant Attorney
+ 7                                          General; JONATHAN BRIGHTBILL,
+ 8                                          Principal Deputy Assistant Attorney
+ 9                                          General; SARAH A. BUCKLEY, Trial
+10                                          Attorney, United States Department of
+11                                          Justice, Washington, DC, for
+12                                          Respondents.
+13   LEVAL, Circuit Judge:
+
+14         This case involves two petitions for review of a Final Rule of the United
+
+15   States Environmental Protection Agency (“EPA”). The rule restricts consumer
+
+16   uses of methylene chloride, a chemical used in paint removal products, by
+
+17   prohibiting the distribution of products containing methylene chloride to and
+
+18   by retailers. Petitioner Halogenated Solvents Industry Alliance, Inc., (“HSIA”)
+
+19   contends that the Final Rule’s undertaking to prevent consumer use of the
+
+20   chemical by banning retail distribution should be set aside (1) because in
+
+21   addition to consumer uses targeted by the Final Rule, that prohibition on
+
+22   retailers incidentally also restricts commercial uses by small businesses, which
+
+23   frequently purchase methylene chloride from retailers because their needs are
+
+24   for smaller quantities; and (2) because EPA gave inadequate consideration to
+
+
+
+                                             3
+ 1   costs imposed by the rule. Petitioners Labor Council for Latin American
+
+ 2   Advancement; Natural Resources Defense Council, Inc.; Vermont Public
+
+ 3   Interest Research Group; Safer Chemicals Healthy Families; Lauren Atkins;
+
+ 4   and Wendy Hartley (collectively, “Environmental Petitioners”) contend that
+
+ 5   the Toxic Substances Control Act, 15 U.S.C. § 2601, et seq. (“TSCA”) required
+
+ 6   the EPA to regulate commercial uses of methylene chloride as well as consumer
+
+ 7   uses, and that EPA’s failure to do so requires that the Final Rule be expanded
+
+ 8   to encompass commercial uses.
+
+ 9         In response to HSIA, EPA argues that TSCA required it to impose rules
+
+10   that would ensure that the risks posed by consumer uses of methylene
+
+11   chloride are “no longer present[ed],” 15 U.S.C. § 2605(a), and that the
+
+12   consumer use restriction effectuated by prohibiting sales to and by retailers
+
+13   was a reasonable means, supported by substantial evidence, of achieving this
+
+14   end. In response to the Environmental Petitioners’ argument that commercial
+
+15   uses of methylene chloride should also have been restricted, EPA argues that,
+
+16   because it is still considering how to appropriately regulate commercial uses,
+
+17   the agency’s action on this question is not yet final or subject to judicial
+
+18   review.
+
+
+
+                                              4
+ 1         We conclude that EPA’s implementation of a retailer distribution ban
+
+ 2   was a reasonable means to achieve its required goal of ensuring that the risks
+
+ 3   posed by consumer uses of methylene chloride were “no longer present[ed].”
+
+ 4   15 U.S.C. § 2605(a). With respect to Environmental Petitioners’ claim
+
+ 5   regarding regulation of commercial uses, we conclude that it is prudentially
+
+ 6   unripe for judicial review at this time. Accordingly, the petitions for review of
+
+ 7   the challenged Final Rule are DENIED.
+
+ 8                                   BACKGROUND
+
+ 9   I. Methylene Chloride and EPA’s Evaluation of its Risks
+
+10         TSCA imposes a duty on EPA to “conduct risk evaluations . . . to
+
+11   determine whether a chemical substance presents an unreasonable risk of
+
+12   injury to health or the environment, without consideration of costs or other
+
+13   nonrisk factors.” 15 U.S.C. § 2605(b)(4)(A). Under § 2605(a), if the
+
+14   Administrator of EPA determines that a chemical “presents an unreasonable
+
+15   risk of injury to health or the environment, the Administrator shall by rule . . .
+
+16   [impose] requirements to such substance . . . to the extent necessary so that [it]
+
+17   no longer presents such risk.” In this opinion, we refer to rules promulgated
+
+
+
+
+                                             5
+ 1   by EPA under this section, such as the Final Rule that is the subject of the
+
+ 2   Petitioners’ challenge, as “§ 2605(a) rules.”
+
+ 3         Methylene chloride is a chemical used as a solvent with a variety of
+
+ 4   commercial and consumer use applications, including as a component of
+
+ 5   paint removal products. EPA first initiated a “comprehensive regulatory
+
+ 6   investigation” of the risks posed and options to regulate methylene chloride
+
+ 7   in 1985 but took little action with respect to that investigation until 2012. See
+
+ 8   Methylene Chloride; Initiation of Regulatory Investigation, 50 Fed. Reg.
+
+ 9   42,038 (Oct. 17, 1985). In February 2012, the Center for Disease Control and
+
+10   Prevention (“CDC”) issued a report identifying thirteen deaths from the use
+
+11   of methylene chloride paint strippers in commercial bathtub refinishing. That
+
+12   report noted that the widespread availability of such products—many of
+
+13   which consisted of 60-90% methylene chloride—“puts both professional
+
+14   bathtub refinishers and do-it-yourselfers at risk.” Joint App’x 39.
+
+15          In June 2012 (prior to TSCA’s amendment in 2016), EPA included
+
+16   methylene chloride on its TSCA Work Plan, a list of chemicals that EPA
+
+17   planned to assess under TSCA. EPA produced a draft risk assessment of
+
+18   methylene chloride’s paint stripping uses in January 2013 and finalized the
+
+
+
+                                              6
+ 1   risk assessment in August 2014 (hereafter “2014 Risk Assessment”). The 2014
+
+ 2   Risk Assessment identified numerous risks arising from the use of paint
+
+ 3   strippers containing methylene chloride, including risks of acute exposure
+
+ 4   causing “death; neurological impacts such as coma, incapacitation, loss of
+
+ 5   consciousness, and dizziness; and liver effects,” and risks of chronic exposure
+
+ 6   causing “brain cancer, liver cancer, non-Hodgkin lymphoma, and multiple
+
+ 7   myeloma.” Methylene Chloride and N-Methylpyrrolidone; Regulation of
+
+ 8   Certain Uses Under TSCA Section 6(a), 82 Fed. Reg. 7,464, 7,468, 7,471
+
+ 9   (proposed Jan. 19, 2017) (hereafter “Proposed Rule”). The 2014 Risk
+
+10   Assessment, though noting these risks, was, as EPA points out, “a scientific
+
+11   document,” which “[a]t no point . . . purport[ed] to make a policy-based
+
+12   determination that the identified risks were ‘unreasonable risks’ under
+
+13   [Section] 2605(a).” EPA Br. 10; see also Joint App’x 169-70. Still, there was
+
+14   evidence in the 2014 Risk Assessment that persons engaged in bathtub
+
+15   refinishing using products containing less than 85% methylene chloride were
+
+16   exposed to concentrations of methylene chloride at levels characterized as
+
+17   “Immediately Dangerous to Life and Health,” and that 49 deaths had been
+
+
+
+
+                                              7
+ 1   caused by methylene chloride since 1976. EPA took no action to characterize
+
+ 2   these risks as “unreasonable” under § 2605(a) until 2017.
+
+ 3   II. The 2017 Proposed Rule
+
+ 4         In 2017, EPA proposed a § 2605(a) rule regarding commercial and
+
+ 5   consumer uses of methylene chloride in paint and coating removal. See 2017
+
+ 6   Proposed Rule, 82 Fed. Reg. 7,464. The Proposed Rule was an exercise of the
+
+ 7   EPA’s discretionary authority under 15 U.S.C. § 2625(l)(4), which permits
+
+ 8   promulgation of § 2605(a) rules for chemicals, such as methylene chloride, for
+
+ 9   which EPA had “published a completed risk assessment prior to June 22,
+
+10   2016.” 15 U.S.C. § 2625(l)(4). Relying on the 2014 Risk Assessment, EPA
+
+11   proposed to determine that both acute and chronic “methylene chloride
+
+12   exposures during paint and coating removal present unreasonable risks.”
+
+13   2017 Proposed Rule, 82 Fed. Reg. at 7,478. Accordingly, EPA proposed to
+
+14   “prohibit the manufacture (including import), processing, and distribution in
+
+15   commerce of methylene chloride for all consumer and for most types of
+
+16   commercial paint and coating removal uses,” and “to prohibit the use of
+
+17   methylene chloride for commercial paint and coating removal in [several]
+
+18   specified sectors.” Id. at 7,465. EPA did not propose to “regulate the use of
+
+
+
+                                             8
+ 1   methylene chloride in commercial furniture refinishing . . . or refinishing
+
+ 2   conducted by professionals or commercial workers,” but noted that it
+
+ 3   “intend[ed] to issue a separate proposal on methylene chloride in paint and
+
+ 4   coating removal in commercial furniture refinishing” and that it “plan[ned] to
+
+ 5   issue one final rule covering both this proposal and the future proposed rule
+
+ 6   on methylene chloride in paint and coating removal in commercial furniture
+
+ 7   refinishing.” Id. Finally, the EPA proposed to require that any products
+
+ 8   containing methylene chloride intended for paint removal be distributed in
+
+ 9   containers not less than 55 gallons and to require certain downstream
+
+10   notification requirements regarding the prohibition against manufacturing
+
+11   and distribution. Id. These notification requirements would apply only to
+
+12   “manufacturers . . . , processors, and distributors” and not “retailers”; the
+
+13   Proposed Rule defined “retailer” as “a person or business who distributes in
+
+14   commerce a chemical substance, mixture, or article to consumer end users.”
+
+15   Id. at 7,526, 7,529.
+
+16          The Proposed Rule considered several regulatory alternatives to the
+
+17   distribution ban and container-size restrictions:
+
+
+
+
+                                             9
+ 1         First, it considered whether the unreasonable risk could be eliminated
+
+ 2   by warning labels; it concluded that “[p]resenting information about
+
+ 3   methylene chloride on a product label would not adequately address the
+
+ 4   unreasonable risk . . . because the nature of the information the user would
+
+ 5   need to read, understand, and act upon is extremely complex.” Id. at 7,474.
+
+ 6   Though EPA “reason[ed] that revised labeling w[ould] not address the
+
+ 7   unreasonable risk presented by methylene chloride in paint and coating
+
+ 8   removal,” it sought public comments on “enhanced labeling requirements for
+
+ 9   consumer paint and coating removal products containing methylene
+
+10   chloride” based on recommendations from the Small Business Advocacy
+
+11   Review (“SBAR”) Panel. Id.
+
+12         Second, EPA considered regulations requiring the use of respirators,
+
+13   but found that “[a]cute risks of incapacitation, coma, or death in workers
+
+14   exposed to methylene chloride . . . are present even when respiratory
+
+15   protection is used” “[i]n some industries with high exposure scenarios,” id. at
+
+16   7,471, and that “not all workers may be able to wear respirators,” id. at 7,481.
+
+17         Third, EPA considered regulating consumer and commercial uses of
+
+18   methylene chloride separately, but found that products containing methylene
+
+
+
+                                            10
+ 1   chloride “cannot be straightforwardly restricted to a single type of project or
+
+ 2   user.” Id. at 7,479.
+
+ 3          Fourth, EPA conducted a “limited evaluation” of a “training and
+
+ 4   certification program for commercial paint and coating removers” as
+
+ 5   recommended by the SBAR, but found that “effective risk reduction from
+
+ 6   commercial use . . . would require additional regulation of distributors of
+
+ 7   these products” to “ensur[e] that only trained and certified commercial users
+
+ 8   are able to access these paint and coating removal products,” which the EPA
+
+ 9   viewed “as a significant limitation for this approach.” Id. at 7,474. The EPA
+
+10   sought public comment “on the feasibility of such a program.” Id.
+
+11          EPA received tens of thousands of comments in response to the 2017
+
+12   Proposed Rule (many the result of mass-mailing campaigns). A substantial
+
+13   majority of those comments supported the Proposed Rule and determination
+
+14   that the use of methylene chloride in both consumer and commercial paint
+
+15   stripping posed an unreasonable risk of injury to health. EPA also received a
+
+16   comment from the SBAR Panel, which recommended, as an alternative to a
+
+17   distribution ban, a training and certification program for commercial uses of
+
+18   products containing methylene chloride. The SBAR report included
+
+
+
+                                            11
+ 1   comments from Small Entity Representatives (“SERs”) claiming that EPA had
+
+ 2   underestimated the cost of reformulating products containing methylene
+
+ 3   chloride and that increased costs would cause small entities to go out of
+
+ 4   business. The Small Business Administration urged the EPA to “take back the
+
+ 5   rule” or, alternatively, to “reassess the viability and technical feasibility of the
+
+ 6   available alternatives, reevaluate the costs to formulators, and eliminate the
+
+ 7   restriction on the container size for these chemical products.” Joint App’x 720.
+
+ 8   The Department of Defense submitted comments urging EPA to adopt an
+
+ 9   approach that would restrict access to methylene chloride by consumers
+
+10   while still making it available in industrial settings. And in 2018, after the
+
+11   comment period had ended, Petitioner HSIA submitted a white paper to the
+
+12   Small Business Administration recommending that EPA consider a training,
+
+13   certification, and limited access program for commercial uses.
+
+14   III. The Challenged Final Rule
+
+15         On March 27, 2019, EPA promulgated the final rule at issue in this
+
+16   appeal. Methylene Chloride; Regulation of Paint and Coating Removal for
+
+17   Consumer Use Under TSCA Section 6(a), 84 Fed. Reg. 11,420 (Mar. 27, 2019)
+
+18   (hereafter “Final Rule”). The Final Rule set forth a determination by EPA that
+
+
+
+                                              12
+ 1   “the use of methylene chloride in consumer paint and coating removal
+
+ 2   presents an unreasonable risk of injury to health due to acute human
+
+ 3   lethality,” id. at 11,421 (emphasis added); on the other hand, it did not make a
+
+ 4   final determination—as it had proposed to do—that commercial uses posed an
+
+ 5   unreasonable risk. Instead, EPA published, on the same day, an Advanced
+
+ 6   Notice of Proposed Rule Making (“2019 ANPRM”) “on questions related to a
+
+ 7   potential training, certification, and limited access program as an option for
+
+ 8   risk management for all of the commercial uses of methylene chloride in paint
+
+ 9   and coating removal.” Id.; see also Methylene Chloride; Commercial Paint and
+
+10   Coating Removal Training, Certification and Limited Access Program, 84 Fed.
+
+11   Reg. 11,466 (Mar. 27, 2019) (hereafter “2019 ANPRM”).
+
+12         To ensure that consumer uses of products containing methylene
+
+13   chloride would “no longer present[]” the identified unreasonable risk in
+
+14   consumer products, the Final Rule prohibited the “manufacturing, processing
+
+15   and distributing in commerce methylene chloride for consumer paint and
+
+16   coating removal” and prohibited the distribution in commerce of methylene
+
+17   chloride (or products containing it) both to and by “retailers.” 2019 Final Rule,
+
+18   84 Fed. Reg. at 11,435. The Final Rule defined “retailer” as:
+
+
+
+                                            13
+ 1         a person who distributes in commerce or makes available a
+ 2         chemical substance or mixture to consumer end users, including
+ 3         e-commerce internet sales or distribution. Any distributor with at
+ 4         least one consumer end user customer is a considered a retailer.
+ 5         A person who distributes in commerce or makes available a
+ 6         chemical substance or mixture solely to commercial or industrial
+ 7         end users or solely to commercial or industrial businesses is not
+ 8         considered a retailer.
+
+ 9   Id.
+
+10         EPA considered and rejected a restriction on the distribution of
+
+11   methylene chloride paint strippers in containers with a volume less than 55
+
+12   gallons along with downstream notification requirements, which it
+
+13   characterized as the “primary alternative regulatory action.” Id. at 11,427. It
+
+14   determined that the ban on sales to and by retailers was more cost effective
+
+15   than the container-size restriction because it “achieve[d] the necessary risk
+
+16   reduction . . . with estimated lower costs” than the container-size restriction,
+
+17   which would have caused costs to be “higher due to the cost of compliance
+
+18   with the container volume requirements which impact commercial users not
+
+19   targeted by the rule.” Id.
+
+20         As noted above, the Final Rule did not undertake to regulate
+
+21   commercial uses of methylene chloride, nor did it determine that such uses
+
+22   present an unreasonable risk of injury to health or the environment. Instead, it
+
+
+                                            14
+ 1   proposed in the 2019 ANPRM that a training and certification program,
+
+ 2   combined with limited access by commercial users, “could allow access to
+
+ 3   paint and coating removal products containing methylene chloride only to
+
+ 4   commercial users who are certified as properly trained to engage in use
+
+ 5   practices that do not present unreasonable risks.” 2019 ANPRM, 84 Fed. Reg.
+
+ 6   at 11,466. Though the 2017 Proposed Rule had already sought comments on
+
+ 7   such a program, EPA received only one responsive comment, from the
+
+ 8   Environmental Defense Fund, which was sharply critical. Id. at 11,468. But, as
+
+ 9   previously noted, in 2018, following the close of the comment period, HSIA
+
+10   submitted a white paper advocating for such a training and certification
+
+11   program. Id. EPA noted that such a program was similar to one used in the
+
+12   United Kingdom, where access to methylene chloride is restricted to certified
+
+13   commercial end users, while unobtainable by consumer end users. Id. at
+
+14   11,469.
+
+15         On April 18, 2019, Environmental Petitioners filed their petition in this
+
+16   court for review of the Final Rule. On May 24, 2019, HSIA filed its petition for
+
+17   review of the Final Rule in the D.C. Circuit, which granted EPA’s motion to
+
+
+
+
+                                            15
+ 1   transfer the petition to this court. On August 21, 2019, this court consolidated
+
+ 2   the cases into this appeal.
+
+ 3                                    DISCUSSION
+
+ 4   I. The Toxic Substances Control Act (“TSCA”) and its Application to EPA’s
+ 5   Evaluations and Regulations of Methylene Chloride
+
+ 6         TSCA, originally enacted in 1976, was intended “to prevent
+
+ 7   unreasonable risks of injury to health or the environment associated with the
+
+ 8   manufacture, processing, distribution in commerce, use, or disposal of
+
+ 9   chemical substances.” S. Rep. No. 94-698, at 1 (1976), as reprinted in 1976
+
+10   U.S.C.C.A.N. 4491, and to give EPA “adequate authority . . . to regulate
+
+11   chemical substances and mixtures which present an unreasonable risk of
+
+12   injury to health or the environment.” 15 U.S.C. § 2601(b)(2).
+
+13         The nature of EPA’s duties and powers under TSCA has changed over
+
+14   time. Prior to 2016, § 2605 did not prescribe procedures for conducting
+
+15   chemical risk evaluations, the initiation of which was within EPA’s discretion,
+
+16   and the EPA had identified very few chemicals subject to § 2605(a)’s mandate.
+
+17   If chemicals were determined, prior to 2016, to present an unreasonable risk
+
+18   of injury to health or the environment, TSCA required the EPA to regulate
+
+19   them only to the extent necessary “to protect adequately against such risk” and
+
+
+                                             16
+ 1   in so regulating to use “the least burdensome requirements,” § 2605(a) (2012)
+
+ 2   (emphasis added) (amended 2016), which some courts interpreted to require
+
+ 3   the EPA to balance the economic costs of proposed regulatory restrictions
+
+ 4   against the environmental benefits those restrictions would provide, see, e.g.,
+
+ 5   Corrosion Proof Fittings v. EPA, 947 F.2d 1201, 1215 (5th Cir. 1991).
+
+ 6         The 2016 amendments to TSCA substantially increased EPA’s
+
+ 7   obligation to evaluate and regulate dangerous chemicals. Instead of leaving
+
+ 8   the completion of risk evaluations to EPA’s discretion, TSCA now requires
+
+ 9   the EPA to conduct risk assessments for a minimum number of chemicals,
+
+10   subject to statutory deadlines. 15 U.S.C. §§ 2605(b)(2)(A), (b)(1)(B)(i), (b)(4)(D).
+
+11   It also prescribes detailed requirements for these chemical risk evaluations,
+
+12   including that the determination whether a chemical presents an
+
+13   unreasonable risk of injury to health or the environment shall be reached
+
+14   “without consideration of costs or other nonrisk factors.” § 2605(b)(4)(A). And
+
+15   it imposes statutory deadlines for regulation of a chemical found to present
+
+16   an unreasonable risk of injury to health or the environment under any of its
+
+17   conditions of use. For such chemicals, the amended statute requires EPA to
+
+18   propose a risk management rule within one year, and finalize that rule within
+
+
+
+                                             17
+ 1   two years, subject to a possible two-year extension provided certain
+
+ 2   conditions are met. § 2605(c)(1).
+
+ 3         The amended statute also requires more stringent regulation of
+
+ 4   chemicals identified as posing an unreasonable risk, replacing the previous
+
+ 5   mandate “to protect adequately” against identified unreasonable risks with
+
+ 6   an obligation to regulate the substance “to the extent necessary so that [it] no
+
+ 7   longer presents such risk.” Compare § 2605(a) (2012) (amended 2016), with
+
+ 8   § 2605(a) (2018) (current) (emphasis added). And the statute no longer
+
+ 9   requires EPA to adopt the “least burdensome requirements” when regulating
+
+10   chemicals that pose an unreasonable risk to health or the environment.
+
+11         This does not mean that the EPA is free to ignore costs of regulating
+
+12   such chemicals. When promulgating a rule under § 2605(a), as amended, EPA
+
+13   must still “factor in, to the extent practicable,” several considerations,
+
+14   including the “effects of the chemical . . . on the environment,” “the benefits
+
+15   of the chemical . . . for various uses,” and “the reasonably ascertainable
+
+16   economic consequences of the rule.” § 2605(c)(2)(A)-(B). The “factor[ing] in”
+
+17   of reasonably ascertainable economic consequences includes consideration of
+
+18   “the costs and benefits of the proposed and final regulatory actions and of the
+
+
+
+                                             18
+ 1   1 or more primary alternative regulatory actions considered by the
+
+ 2   Administrator.” § 2605(c)(2)(A)(iv). “[I]n deciding whether to prohibit or
+
+ 3   restrict in a manner that substantially prevents a specific condition of use of a
+
+ 4   chemical substance or mixture . . . [EPA] shall consider, to the extent
+
+ 5   practicable, whether technically and economically feasible alternatives that
+
+ 6   benefit health or the environment, compared to the use so proposed to be
+
+ 7   prohibited or restricted, will be reasonably available as a substitute when the
+
+ 8   proposed prohibition or other restriction takes effect.” § 2605(c)(2)(C). EPA’s
+
+ 9   duty to consider costs, as contemplated by these statutory provisions, is
+
+10   subject to the overall mandate to regulate the chemical to the extent that it “no
+
+11   longer presents” the identified unreasonable risk. § 2605(a).
+
+12         Shortly prior to the 2016 amendment, EPA had completed risk
+
+13   evaluations for several chemicals, including methylene chloride. TSCA’s
+
+14   amendment addressed such “chemical substance[s] . . . for which the
+
+15   Administrator has published a completed risk assessment prior to June 22,
+
+16   2016.” § 2625(l)(4). Rather than requiring EPA to re-complete risk assessments
+
+17   for these chemicals, the 2016 amendment provides that “the Administrator
+
+18   may publish proposed and final rules under section 2605(a) of this title that
+
+
+
+                                            19
+ 1   are consistent with the scope of the completed risk assessment for the
+
+ 2   chemical substance and consistent with other applicable requirements of
+
+ 3   section 2605 of this title.” Id.
+
+ 4          Because § 2625(l)(4) provides that EPA “may” publish and propose
+
+ 5   § 2605(a) rules regarding chemicals for which EPA had already completed a
+
+ 6   risk assessment, EPA’s decision, based on the 2014 Risk Assessment,
+
+ 7   regarding whether to determine that consumer and commercial uses of
+
+ 8   methylene chloride pose an unreasonable risk was not subject to the same
+
+ 9   statutory deadlines as the same decision would be if based on a risk
+
+10   evaluation completed after TSCA’s amendment. However, in 2016, EPA
+
+11   designated methylene chloride as one of ten chemicals that would be the
+
+12   subject of its required initial risk evaluation under the 2016 TSCA
+
+13   amendment. After the 2019 Final Rule and ANPRM, EPA published a draft
+
+14   risk evaluation for methylene chloride that included its use in commercial
+
+15   paint and coating removal. That draft risk evaluation proposed to find that
+
+16   such commercial use presents an unreasonable risk of injury to health.
+
+17   Because this new risk evaluation—unlike the 2014 Risk Assessment—was
+
+18   undertaken in compliance with the 2016 Amendment, it is subject to the
+
+
+
+                                           20
+ 1   statutory deadlines requiring the risk evaluation to be finalized by June 2020.
+
+ 2   § 2605(b)(4)(G). On June 24, 2020, consistent with this statutory deadline, EPA
+
+ 3   finalized this risk evaluation, determining that commercial use of methylene
+
+ 4   chloride in paint and coating removal presents an unreasonable risk of injury
+
+ 5   to health. Methylene Chloride (MC); Final Toxic Substances Control Act
+
+ 6   (TSCA) Risk Evaluation; Notice of Availability (“2020 Final Risk Evaluation”),
+
+ 7   85 Fed. Reg. 37,942. Under § 2605(c)(1)(B), EPA must finalize a § 2605(a) risk
+
+ 8   management rule regarding these identified commercial uses within two
+
+ 9   years of the publication of the 2020 Final Risk Evaluation, subject to extension
+
+10   under § 2605(c)(1)(C).
+
+11   II. Standard of Review
+
+12         For judicial review of rules promulgated by EPA under § 2605(a), TSCA
+
+13   provides a standard worded slightly differently from the standard established
+
+14   by § 706 of the Administrative Procedure Act (“APA”). The APA’s standard
+
+15   of review provides that reviewing courts shall set aside agency action that is
+
+16   “unsupported by substantial evidence.” 5 U.S.C. § 706(2)(E). “Substantial
+
+17   evidence” under the APA has been understood to mean “such relevant
+
+18   evidence as a reasonable mind might accept as adequate to support a
+
+
+
+                                            21
+ 1   conclusion.” Universal Camera Corp. v. NLRB, 340 U.S. 474, 477 (1951). Under
+
+ 2   that standard, a court will not set aside an agency’s action so long as it is
+
+ 3   “supported by less than a preponderance but more than a scintilla of
+
+ 4   evidence.” Sprint Spectrum L.P. v. Willoth, 176 F.3d 630, 638 (2d Cir. 1999)
+
+ 5   (internal quotation marks omitted). “Substantial evidence [under the APA]
+
+ 6   requires ‘something less than the weight of the evidence, and the possibility
+
+ 7   of drawing two inconsistent conclusions from the evidence does not prevent
+
+ 8   an administrative agency’s finding from being supported by substantial
+
+ 9   evidence.’” Corrosion Proof, 947 F.2d at 1213 (quoting Consolo v. Federal
+
+10   Maritime Comm’n, 383 U.S. 607, 620 (1966)).
+
+11         In contrast, § 2618(c)(1)(B) of TSCA provides, “[I]n the case of review
+
+12   of . . . a rule under section . . . 2605(a) (including review of the associated
+
+13   determination [of unreasonable risk]), . . . the standard of review prescribed
+
+14   by [APA § 706(2)(E)] shall not apply and the court shall hold unlawful and set
+
+15   aside such rule if the court finds that the rule is not supported by substantial
+
+16   evidence in the rulemaking record taken as a whole.” 15 U.S.C.
+
+17   § 2618(c)(1)(B).
+
+
+
+
+                                              22
+ 1         Upon a straightforward reading of the text of these two provisions, it is
+
+ 2   not clear how the different wordings change the standard. The D.C. Circuit
+
+ 3   has sensibly observed that “Congress apparently contemplated that the TSCA
+
+ 4   standard should be viewed as a distinct standard; otherwise there would
+
+ 5   have been no need to specifically rule out the APA review standard.” Chem.
+
+ 6   Mfrs. Ass’n v. EPA, 859 F.2d 977, 991 (D.C. Cir. 1988). Relying on TSCA’s
+
+ 7   legislative history, that court held that TSCA’s substantial evidence standard
+
+ 8   requires “more searching [review] than the judicial review undertaken in
+
+ 9   most agency cases.” Id. at 992. The Third and Fifth Circuits have reached
+
+10   similar conclusions. See Ausimont U.S.A. Inc. v. EPA, 838 F.2d 93, 96 (3d Cir.
+
+11   1988); Shell Chemical Co. v. EPA, 826 F.2d 295, 297 (5th Cir. 1987). Those courts
+
+12   have asserted that the TSCA “substantial evidence” standard is a
+
+13   “particularly demanding one,” as compared to the arbitrary and capricious
+
+14   standard. Chem. Mfrs., 859 F.2d at 992 (internal quotation marks omitted). We
+
+15   agree with those circuits that TSCA’s “substantial evidence” standard is more
+
+
+
+
+                                            23
+1   demanding on the agency than the standard of review otherwise prescribed
+
+2   by the APA. 1
+
+3         While we agree with the D.C. Circuit that Congress’s emphasis on the
+
+4   fact that the standard of TSCA differs from the APA standard surely means
+
+5   that Congress intended the two standards to be different, we find no need in
+
+6   this case to reach a conclusion on the extent of the difference. Whether EPA’s
+
+7   Final Rule is evaluated under a standard akin to APA’s substantial evidence
+
+8   review or under a “more searching” TSCA substantial evidence standard
+
+
+    1 Environmental Petitioners insist that APA’s “arbitrary and capricious”
+    standard of review survives TSCA’s statutory displacement of APA’s
+    “substantial evidence” standard. EPA, in response, argues that
+    Environmental Petitioners’ argument is “technically incorrect” but that the
+    difference between the arbitrary and capricious standard and the substantial
+    evidence standard is “largely semantic,” relying on Ass’n of Data Processing
+    Serv. Orgs., Inc. v. Bd. of Governors of Fed. Rsrv. Sys., 745 F.2d 677, 683-85 (D.C.
+    Cir. 1984) (“ADPSCO”). We find neither argument persuasive. ADPSCO
+    interpreted APA § 706(2)(E)’s “substantial evidence” standard, not TSCA’s
+    “substantial evidence” standard, and, as noted above, the D.C. Circuit has
+    since concluded that these standards are distinct. Chem. Mfrs., 859 F.2d at
+    991. Courts that have considered the question have rejected the survival of
+    “arbitrary and capricious” review of TSCA rules, concluding instead that
+    TSCA’s substantial evidence standard is “particularly demanding.” See, e.g.,
+    id., 859 F.2d at 991 (“Congress perceived some difference between the
+    standard it chose for TSCA and the APA’s arbitrary-and-capricious
+    standard.”); see also Corrosion Proof, 947 F.2d at 1214 (“Congress put the
+    substantial evidence test in the statute because it wanted the courts to
+    scrutinize the Commission’s actions more closely than an ‘arbitrary and
+    capricious’ standard would allow.” (internal quotation marks omitted)).
+                                             24
+ 1   adopted by other circuits, for the reasons described below, we conclude that
+
+ 2   the Final Rule is adequately supported by substantial evidence in the
+
+ 3   rulemaking record taken as a whole, and should not be set aside.
+
+ 4   III. HSIA’s Challenge to the 2019 Final Rule
+
+ 5         HSIA challenges the 2019 Final Rule on four grounds. It argues: (1) the
+
+ 6   prohibition of sales to and by retailers was inconsistent with the EPA’s intent
+
+ 7   to allow commercial uses, because many commercial users purchase products
+
+ 8   containing methylene chloride products through retailers; (2) EPA provided
+
+ 9   insufficient notice and opportunity to comment on the definition of “retailer”
+
+10   in the final rule; (3) EPA’s assessment of the Final Rule’s impact on methylene
+
+11   chloride product formulators was inadequate; and (4) EPA lacked substantial
+
+12   evidence to support its prohibition on distribution to and by retailers. We
+
+13   reject HSIA’s arguments.
+
+14         1. The prohibition on sales of methylene chloride products to and by retailers is
+15         not inconsistent with EPA’s stated policy.
+
+16         HSIA argues that the incidental effect on commercial users of the Final
+
+17   Rule’s ban on sales to or by retailers is inconsistent with EPA’s stated policy
+
+18   of allowing continued access to methylene chloride products by commercial
+
+19   users. HSIA points out that retail outlets are an important source of supply
+
+
+                                               25
+ 1   for commercial users that use only modest quantities of products containing
+
+ 2   methylene chloride. HSIA further argues that the retailer ban is inconsistent
+
+ 3   with EPA’s reasoning for rejecting the 55-gallon minimum container
+
+ 4   restriction, which EPA based on the restriction’s potential impact on small
+
+ 5   commercial users who typically purchase methylene chloride products in
+
+ 6   smaller quantities.
+
+ 7         The first of these arguments is fundamentally flawed because it rests on
+
+ 8   the mistaken premise that the Final Rule espoused a policy favoring
+
+ 9   continued access to methylene chloride by commercial users. While it is true
+
+10   that commercial uses were not “targeted by the rule,” 84 Fed. Reg. at 11,427,
+
+11   neither did the Final Rule state or imply a policy encouraging, supporting, or
+
+12   even approving the continuation of commercial uses. To the contrary, the
+
+13   promulgation of the Final Rule in 2019 intentionally left open and under
+
+14   consideration the questions whether and how to regulate commercial uses.
+
+15   EPA subsequently reached a determination that commercial uses of
+
+16   methylene chloride products present an unreasonable risk of injury to health,
+
+17   triggering the statutory timeline for finalizing a § 2605(a) rule in the near
+
+18   future. The Final Rule’s incidental effect on commercial users’ ability to access
+
+
+
+                                             26
+ 1   methylene chloride products could not be inconsistent with EPA’s policy of
+
+ 2   allowing such access because the EPA had established no such policy.
+
+ 3         Nor does the Final Rule prevent commercial users from obtaining
+
+ 4   methylene chloride products, although it may cause some commercial users
+
+ 5   to seek different sources from those that they used in the past. EPA
+
+ 6   considered this very possibility, noting that the Final Rule “potentially creates
+
+ 7   a new marketspace for wholesalers and they may now sell these products to
+
+ 8   commercial users who previously purchased from retail stores,” and that,
+
+ 9   although currently “[w]holesalers tend not to sell products in smaller
+
+10   quantities, . . . with the change in the marketspace, [they] may choose to do so
+
+11   if such an action would be profitable.” Joint App’x 1023. EPA’s rejection of the
+
+12   55-gallon minimum container restriction, rather than being inconsistent with
+
+13   its adoption of the retailer ban, supports the possibility of this evolving
+
+14   marketspace by allowing continued wholesale distribution of methylene
+
+15   chloride products in smaller units to replace the sales previously made by
+
+16   retailers to commercial users of smaller quantities.
+
+
+
+
+                                             27
+ 1         2. The definition of retailer in the Final Rule was a “logical outgrowth” of the
+ 2         Proposed Rule, and so gave sufficient notice and opportunity to comment.
+
+ 3         HSIA contends that EPA provided insufficient notice and opportunity
+
+ 4   to comment on the definition of “retailer” in the final rule. EPA was required
+
+ 5   to provide notice of “either the terms or substance of the proposed rule or a
+
+ 6   description of the subjects and issues involved.” 5 U.S.C. § 553(b)(3) (emphasis
+
+ 7   added); see 15 U.S.C. § 2605(c)(3) (noting that 5 U.S.C. § 553 applies to
+
+ 8   § 2605(a) rules). “Courts of Appeals have generally interpreted this to mean
+
+ 9   that the final rule the agency adopts must be a logical outgrowth of the rule
+
+10   proposed.” Long Island Care at Home, Ltd. v. Coke, 551 U.S. 158, 174 (2007)
+
+11   (internal quotation marks omitted); see also Nat’l Black Media Coal v. FCC, 791
+
+12   F.2d 1016, 1022 (2d Cir. 1986). Accordingly, “a final rule need not be an exact
+
+13   replica of the rule proposed in the Notice,” Nat’l Black Media, 791 F.2d at 1022,
+
+14   and the standard is generally satisfied if the notice given by the agency fairly
+
+15   apprises interested persons of the subjects and issues that will be resolved by
+
+16   the adoption of a final rule. See Riverkeeper, Inc. v. EPA, 475 F.3d 83, 113 (2d
+
+17   Cir. 2007), rev’d on other grounds sub nom. Entergy Corp. v. Riverkeeper, Inc., 556
+
+18   U.S. 208 (2009). We have explained that “an agency may modify a rule
+
+19   through the notice-and-comment process so long as the agency’s modification
+
+
+                                               28
+ 1   is rational and ‘the agency’s path may reasonably be discerned.’” Cooling
+
+ 2   Water Intake Structure Coal. v. EPA, 905 F.3d 49, 71 (2d Cir. 2018) (quoting
+
+ 3   Motor Vehicle Mfrs. Ass’n of the U.S., Inc. v. State Farm, 463 U.S. 29, 43 (1983)).
+
+ 4   TSCA additionally requires EPA to “publish a notice of proposed rulemaking
+
+ 5   stating with particularity the reason for the proposed rule.” 15 U.S.C.
+
+ 6   § 2605(c)(3)(A).
+
+ 7         HSIA argues (1) that EPA’s retailer ban is not a “logical outgrowth” of
+
+ 8   the Proposed Rule because the retailer ban is inconsistent with the proposed
+
+ 9   55-gallon restriction, which would have allowed at least some sales to and by
+
+10   retailers, as well as with the Proposed Rule’s carveout for furniture
+
+11   refinishers; and (2) that, given the change in text and purpose of the definition
+
+12   of retailer as between the Proposed Rule and the Final Rule, EPA gave
+
+13   inadequate notice. In support of this argument, HSIA contends that “despite
+
+14   the enormous number of comments in the record, not a single commenter
+
+15   addressed a ban on sales to or by retailers,” though some commenters
+
+16   opposed bans on sales for commercial use.
+
+17         We reject HSIA’s argument. We find that EPA satisfied the “logical
+
+18   outgrowth” standard as we have interpreted it and complied with TSCA’s
+
+
+
+                                              29
+ 1   additional procedural requirements with respect to notice. EPA’s extensive
+
+ 2   descriptions of the health risks posed by methylene chloride, which the Final
+
+ 3   Rule seeks to eliminate in the consumer use context, plainly satisfied the
+
+ 4   requirement that it “state with particularity the reason” for the proposed
+
+ 5   regulation. The Proposed Rule made clear that the EPA was considering
+
+ 6   prohibiting “the manufacture (including import), processing, and distribution
+
+ 7   in commerce of methylene chloride for consumer and most types of
+
+ 8   commercial paint and coating removal.” 82 Fed. Reg. at 7,464. And the
+
+ 9   Proposed Rule described the difficulty of entirely disentangling regulation of
+
+10   consumer uses from regulation of commercial uses, given that “paint and
+
+11   coating removal products containing methylene chloride frequently are
+
+12   available in the same distribution channels to consumers and professional
+
+13   users” and “cannot be straightforwardly restricted to a single type of project
+
+14   or user.” Id. at 7,479, 7,505. In other words, the Final Rule, which restricts
+
+15   distribution of methylene chloride paint removal products only in commercial
+
+16   channels that reach consumers, is considerably less restrictive than the
+
+17   regulation considered by the Proposed Rule, and its incidental impact on
+
+18   commercial users reflects the difficulty of disentangling consumer and
+
+
+
+                                             30
+ 1   commercial uses described by the Proposed Rule. Indeed, commercial users
+
+ 2   have considerably greater access to methylene chloride products under the
+
+ 3   Final Rule than they would have had under the regulation considered by the
+
+ 4   Proposed Rule.
+
+ 5         EPA gave notice that it was contemplating a rule that would drastically
+
+ 6   reduce or even eliminate access to certain products containing methylene
+
+ 7   chloride. The restriction ultimately adopted in the Final Rule was
+
+ 8   considerably less extreme than the contemplated restriction announced in the
+
+ 9   Proposed Rule. Interested parties had an opportunity to comment not only on
+
+10   the more extreme level of restriction that would have resulted from adoption
+
+11   of the Proposed Rule, but also on less extreme restrictions the agency might
+
+12   settle on within the scope of the proposed restrictions announced.
+
+13         Acceptance of HSIA’s concept of the notice and comment obligation
+
+14   would substantially freeze EPA’s consideration of the Final Rule to an “all or
+
+15   nothing” choice of adopting or categorically rejecting exactly what was
+
+16   originally proposed. It would unreasonably encumber and delay agency
+
+17   action, forcing the agency to choose between ignoring commentary
+
+18   suggesting useful modifications of proposed rules, or endlessly delaying
+
+
+
+                                           31
+ 1   action until submitted commentary and further study failed to suggest any
+
+ 2   desirable modification. Such an interpretation of the notice and comment
+
+ 3   requirement would seriously harm the ability of agencies to deal flexibly with
+
+ 4   pressing problems. More importantly, such an interpretation would be
+
+ 5   plainly inconsistent with the statutory standard requiring that the “notice of
+
+ 6   proposed rulemaking . . . include . . . either the terms or substance of the
+
+ 7   proposed rule or a description of the subjects and issues involved.” 5 U.S.C.
+
+ 8   § 553(b)(3).
+
+ 9         We conclude that EPA complied with its notice and comment
+
+10   obligations and that the Final Rule was a logical outgrowth of its originally
+
+11   noticed proposal.
+
+12         3. EPA adequately considered costs to formulators of methylene chloride.
+
+13         HSIA next argues that EPA failed to consider adequately the impact of
+
+14   the Final Rule on formulators of products containing methylene chloride. We
+
+15   disagree.
+
+16         EPA estimated that the cost resulting from the Final Rule to formulators
+
+17   who would have to develop a new line of products not containing methylene
+
+18   chloride would be approximately $27,000 annualized over two decades. This
+
+
+
+                                              32
+ 1   estimate was extrapolated from a survey addressing the manufacturing
+
+ 2   marketspace for similar products in Canada, and an additional survey
+
+ 3   regarding another chemical, trichloroethylene (also known as “TCE”), which
+
+ 4   EPA used to confirm the applicability for a U.S. rulemaking of the first
+
+ 5   survey’s study of a Canadian market. And EPA found that there are
+
+ 6   “technically and economically feasible chemical substitutes or alternative
+
+ 7   methods that are reasonably available to a consumer for almost every
+
+ 8   situation in which methylene chloride is used to remove paints or coatings.”
+
+ 9   2019 Final Rule, 84 Fed. Reg. at 11,427-28.
+
+10         HSIA argues that this evidence was insufficient to support EPA’s
+
+11   determination regarding the costs to formulators resulting from the Final
+
+12   Rule and that it was undermined by three comments submitted in response to
+
+13   the Proposed Rule. First, HSIA claims that the American Chemistry Council
+
+14   informed EPA that the surveys on which it relied were not valid because
+
+15   “replacing methylene chloride is a substantially different undertaking from
+
+16   replacing [TCE].” HSIA Br. 43. But HSIA’s citation in support of its assertion
+
+17   points to a comment of the American Chemistry Council that says nothing of
+
+18   the sort. The comment “recommends that EPA provide fuller discussion that
+
+
+
+                                            33
+ 1   explains why these [surveys] are appropriate to include in the costs
+
+ 2   calculation,” but does not assert that the surveys were inadequate. Joint
+
+ 3   App’x 760. Second, HSIA points to a comment from a small business
+
+ 4   formulator who stated that 40% of its revenue was derived from methylene
+
+ 5   chloride products and that a 55-gallon container restriction could result in the
+
+ 6   loss of its business. But neither of these concerns undermine EPA’s calculation
+
+ 7   of costs; under the Final Rule, the commenter is still able to formulate
+
+ 8   methylene chloride products for distributors that exclusively serve
+
+ 9   commercial users, to develop alternative products, and to continue packaging
+
+10   its products in containers smaller than 55 gallons. Finally, HSIA relies on a
+
+11   comment from the SBA claiming that product lines would “disappear”
+
+12   because “there are no drop-in replacements for methylene chloride.” Joint
+
+13   App’x 718-19. But, again, formulators are not prevented from developing
+
+14   methylene chloride products for distribution to commercial users or for uses
+
+15   other than paint and coating removers, and the EPA found evidence that
+
+16   alternatives are economically and technically feasible, as indicated in part by
+
+17   many retailers that, even prior to being required to do so by the Final Rule,
+
+
+
+
+                                            34
+ 1   announced that they were voluntarily discontinuing the sale of methylene
+
+ 2   chloride products.
+
+ 3         In sum, the comments on which HSIA relies do not demonstrate that
+
+ 4   EPA’s estimation of costs to formulators was inadequate, in large part
+
+ 5   because those comments are based on the faulty premise that formulators can
+
+ 6   no longer manufacture methylene chloride products—the Final Rule does not
+
+ 7   prohibit manufacturing methylene chloride for commercial paint-stripping
+
+ 8   uses or for certain non-paint-stripping uses. Record evidence reasonably
+
+ 9   supports the conclusion that EPA considered the reasonably ascertainable
+
+10   consequences of the Final Rule on formulators, as well as EPA’s quantitative
+
+11   and qualitative conclusions regarding those consequences. In any event,
+
+12   HSIA’s argument seems to assume that EPA is compelled to accept every
+
+13   submitted comment as accurate and reconcile its ultimate rule to every such
+
+14   comment. The requirement to produce a rule that is “supported by
+
+15   substantial evidence in the rulemaking record taken as a whole,” 15 U.S.C.
+
+16   § 2618(c)(1)(B), does not impose an obligation to reconcile the rule with every
+
+17   comment submitted, much less to accept the validity of every such comment.
+
+18   HSIA has failed to demonstrate that EPA’s estimation of the costs to
+
+
+
+                                           35
+ 1   formulators of methylene chloride products is not supported by substantial
+
+ 2   evidence.
+
+ 3         4. EPA adequately considered the costs to retailers and distributors of
+ 4         methylene chloride products.
+
+ 5         Finally, HSIA argues that EPA failed to account adequately for the costs
+
+ 6   to retailers of its prohibition of sales to and by retailers of methylene chloride
+
+ 7   paint stripping products. It is true that costs to retailers were not estimated in
+
+ 8   the EPA’s economic analysis of the Final Rule. EPA explained that this was
+
+ 9   “because the potential cost impact on retailers is uncertain,” and that “costs to
+
+10   retailers were not estimated because of these uncertainties, and this may
+
+11   represent a category of costs that are excluded from the analysis.” Joint App’x
+
+12   957, 1005. HSIA argues that these statements should be deemed a refusal by
+
+13   the EPA to consider the costs to retailers. HSIA further argues that the EPA
+
+14   failed to consider adequately the costs of its retail ban on distributors (who
+
+15   would otherwise sell to retailers) and the cost to small commercial users from
+
+16   the elimination of an important portion of their supply chain. The failure to
+
+17   consider these costs, HSIA argues, was equivalent to EPA estimating the costs
+
+18   to be zero. While HSIA acknowledges that the EPA need only rely on
+
+19   “reasonably available information” and describe the “reasonably
+
+
+                                              36
+ 1   ascertainable economic consequences” of the Final Rule, 15 U.S.C.
+
+ 2   § 2605(c)(2)(A), it argues that EPA nonetheless cannot ignore a cost and that
+
+ 3   EPA’s lack of information with respect to the retail ban’s costs was “its own
+
+ 4   fault,” given the retail ban’s absence from the Proposed Rule, HSIA Br. at 52-
+
+ 5   53. HSIA argues that, in contrast, EPA had extensive evidence of the costs that
+
+ 6   would result from the 55-gallon container size restriction, because adequate
+
+ 7   notice was provided of that restriction, permitting commenters to provide
+
+ 8   such information.
+
+ 9         We disagree that the EPA’s inability to quantify the costs of the Final
+
+10   Rule to retailers, distributors, and small commercial users means that it
+
+11   ignored those costs. The record rather shows that EPA found the costs
+
+12   impossible to estimate because of the likely growth of a new marketspace for
+
+13   commercial-only distribution and sales of alternative products. These
+
+14   possibilities, the EPA reasoned, meant that the cost could potentially be
+
+15   minimal, and that retailers “could be better off under the rule” if profit
+
+16   margins on alternative products were higher. EPA Br. at 90 (collecting record
+
+17   citations). For distributors, as previously discussed, supra 34-35, EPA
+
+18   considered—though it could not quantify—costs to commercial end users; it
+
+
+
+                                            37
+ 1   found that these costs were not likely to be significant because of the
+
+ 2   availability of technically and economically feasible substitutes. See 2019 Final
+
+ 3   Rule, 84 Fed. Reg. at 11,427-28. These available substitutes mean that
+
+ 4   commercial end users who do not want to switch suppliers will have
+
+ 5   substitute products available to them, and, in any event, will likely have
+
+ 6   access to a new marketspace in which wholesalers distribute directly to
+
+ 7   commercial users to meet the demand previously met by retailers.
+
+ 8         These qualitative assessments of the costs to retailers, distributors, and
+
+ 9   commercial end users were reasonable, unrebutted by record evidence, and
+
+10   consistent with the EPA’s obligation to consider “reasonably available
+
+11   information” in estimating such costs. Based on the record before the EPA, it
+
+12   was reasonable to conclude that, to the extent the Final Rule would result in
+
+13   some lost business for these entities, it was also likely to create new business
+
+14   via alternative products and an evolving marketspace. Far from ignoring
+
+15   these potential consequences of the Final Rule, EPA considered them,
+
+16   described them, and concluded that potential for new markets to replace the
+
+17   losses initially caused by the Final Rule supported the rule’s implementation.
+
+18   Reasonable minds might have reached a different conclusion from the
+
+
+
+                                            38
+ 1   evidence available to the EPA, but “the possibility of drawing two
+
+ 2   inconsistent conclusions from the evidence does not prevent an
+
+ 3   administrative agency’s finding from being supported by substantial
+
+ 4   evidence.” Corrosion Proof, 947 F.2d at 1213 (quoting Consolo, 383 U.S. at 620).
+
+ 5                                      *     *      *
+
+ 6         In sum, having considered HSIA’s challenges to the Final Rule, we find
+
+ 7   them unpersuasive. HSIA fails to demonstrate that EPA’s prohibition on sales
+
+ 8   to and by retailers was not a reasonable means, supported by substantial
+
+ 9   evidence, to ensure that the unreasonable risks of methylene chloride paint
+
+10   removal products for consumer uses be “no longer present[ed].” § 2605(a).
+
+11   We therefore deny HSIA’s petition to set aside the Final Rule.
+
+12   IV. Environmental Petitioners’ Challenge to the 2019 Final Rule
+
+13         Environmental Petitioners contend the 2019 Final Rule was defective by
+
+14   reason of (i) EPA’s failure to determine that use of methylene chloride in
+
+15   commercial paint and coating removal (as it determined for consumer uses)
+
+16   “presents an unreasonable risk of injury to health or the environment,”
+
+17   15 U.S.C. § 2605(a), as well as (ii) its failure to impose specific regulations
+
+18   governing commercial use so as to remove the unreasonable risk. They
+
+
+
+                                              39
+ 1   advance a forceful argument that, given years of scientific data revealing
+
+ 2   significant risks of severe adverse health consequences, it was inescapable
+
+ 3   that the chemical poses an unreasonable risk in commercial applications,
+
+ 4   particularly in view of the fact that commercial workers characteristically
+
+ 5   experience far higher degrees of exposure than consumers. Environmental
+
+ 6   Petitioners point to a history of statements by EPA, prior to its adoption of the
+
+ 7   Final Rule in 2019, acknowledging the significant health risks posed by
+
+ 8   commercial uses of methylene chloride and EPA’s corresponding statement of
+
+ 9   its intention in the 2017 Proposed Rule to reach a risk determination as to
+
+10   both consumer and commercial uses. Environmental Petitioners also advance
+
+11   the far more ambitious and less forceful argument that, in adopting the 2019
+
+12   Final Rule, EPA was required by law not only to make a conclusive risk
+
+13   evaluation but also to finalize regulations, either banning or controlling
+
+14   commercial uses so that the risk would be “no longer present[ed],” 15 U.S.C.
+
+15   § 2605(a).
+
+16         EPA, in response, contends it made a reasonable decision to defer
+
+17   reaching a determination for commercial uses pending further study of
+
+18   possibilities of controlling risks in a commercial setting. It also advances
+
+
+
+                                             40
+ 1   several arguments that there should be no judicial review of its deliberations
+
+ 2   on commercial uses until it reaches final determinations. Among those
+
+ 3   arguments, it asserts that its consideration of commercial uses is prudentially
+
+ 4   unripe for judicial review, as judicial review at this time would involve
+
+ 5   “judicial interference [before] an administrative decision has been formalized
+
+ 6   and its effects felt in a concrete way by the challenging parties,” Abbott Labs. v.
+
+ 7   Gardner, 387 U.S. 136, 148-49 (1967), without substantial alleviation of
+
+ 8   hardship to the petitioners. EPA points out that it has not procrastinated, nor
+
+ 9   ignored the significant risks arising from commercial uses of methylene
+
+10   chloride. It rather opted to begin with the easier task of developing a
+
+11   regulatory scheme for consumer uses and then turning to the more complex
+
+12   issue of how best to regulate commercial uses, as evidenced by its issuance of
+
+13   the 2019 AMPRM upon the release of the 2019 Final Rule, and its Final Risk
+
+14   Evaluation in 2020, in which it reached the very conclusion as to risk that
+
+15   Environmental Petitioners contend it was required to reach in the 2019 Final
+
+16   Rule: that commercial uses of methylene chloride in paint and coating
+
+17   removal present an unreasonable risk of injury to health.
+
+
+
+
+                                             41
+ 1         Notwithstanding the considerable force of Environmental Petitioners’
+
+ 2   focus on the dangerousness of methylene chloride, we agree with EPA that its
+
+ 3   consideration of commercial uses is prudentially unripe for judicial review at
+
+ 4   this time. The record supports EPA’s contention that judicial review at this
+
+ 5   time would interfere in its consideration of the issue, would be no more likely
+
+ 6   to advance than to hinder its arrival at a final determination, and, even
+
+ 7   granting the relief Environmental Petitioners seek, would not necessarily
+
+ 8   result in any reduction of harms from commercial use. Environmental
+
+ 9   Petitioners have not shown that denial of the relief they now seek will subject
+
+10   them to significant harms.
+
+11         Under the doctrine of prudential ripeness, courts will decline to review
+
+12   administrative action that would otherwise be reviewable under
+
+13   constitutional and statutory standards because, upon a balancing of the
+
+14   pertinent interests, it is preferable for judicial review to await a more
+
+15   advanced state of administrative consideration. The standards for invocation
+
+16   of the prudential ripeness doctrine are generally described as a two-prong
+
+17   test. The first prong asks whether the issues are “fit” for judicial review,
+
+18   which requires consideration of “whether the court or the agency would
+
+
+
+                                             42
+ 1   benefit from postponing review until the policy in question has sufficiently
+
+ 2   crystallized.” Fla. Power & Light Co. v. EPA, 145 F.3d 1414, 1421 (D.C. Cir.
+
+ 3   1998) (internal quotation marks omitted). The second prong—the “hardship”
+
+ 4   prong—asks “whether and to what extent the parties will endure hardship if
+
+ 5   decision is withheld.” NYCLU v. Grandeau, 528 F.3d 122, 134 (2d Cir. 2008).
+
+ 6   The court must consider whether “the interests of the court and the agency in
+
+ 7   postponing review outweigh the interests of those seeking relief.” Nat’l Ass’n
+
+ 8   of Regul. Util. Comm’rs v. Dep’t of Energy, 851 F.2d 1424, 1428 (D.C. Cir. 1988).
+
+ 9   These broad articulations of judicial discretion are not clearly defined, but
+
+10   what is clear is the need for balancing of competing interests.
+
+11         Considerations that favor invocation of the doctrine to defer judicial
+
+12   review include the desirability of (i) avoiding involving courts in “abstract
+
+13   disagreements over administrative policies,” Abbott Labs., 387 U.S. at 148; (ii)
+
+14   preventing courts from exercising premature, unnecessary interference in
+
+15   matters of governmental policy, see NYCLU v. Grandeau, 528 F.3d at 130-31;
+
+16   and (iii) avoiding pernicious, unnecessary delay and obstruction of
+
+17   administrative progress, particularly where the “possibility that further
+
+
+
+
+                                             43
+ 1   consideration [by the agency] will actually occur . . . is not theoretical, but
+
+ 2   real,” Ohio Forestry Ass’n, Inc. v. Sierra Club, 523 U.S. 726, 735 (1998).
+
+ 3         Considerations that weigh against deferring judicial review include
+
+ 4   that (i) delaying judicial review can result in substantial harm to the interests
+
+ 5   of those seeking review and (ii) judicial review can expedite successful
+
+ 6   completion of the administrative task when an agency has embarked on a
+
+ 7   route that does not comport with an obligatory legal framework.
+
+ 8   Furthermore, the Supreme Court has recently noted “tension” between
+
+ 9   exercise of prudential restraint and the Court’s “recent reaffirmation of the
+
+10   principle that a federal court’s obligation to hear and decide cases within its
+
+11   jurisdiction is virtually unflagging.” Lexmark Intern., Inc. v. Static Control
+
+12   Components, Inc., 572 U.S. 118, 126 (2014) (internal quotation marks omitted). 2
+
+13   In general, the more the matter to be placed before the court involves a pure
+
+14   issue of law, unaffected by factual considerations, the less the concern that
+
+15   judicial review might interfere inappropriately with full, effective
+
+16   administrative consideration or involve the court inappropriately in matters
+
+
+
+
+     2
+      The Supreme Court has not “resolve[d] the continuing vitality of the
+     prudential ripeness doctrine,” Susan B. Anthony List v. Driehaus, 573 U.S. 149,
+     167 (2014).
+                                              44
+ 1   of governmental policy. See NYCLU v. Grandeau, 528 F.3d at 132 (“[I]ssues
+
+ 2   have been deemed [prudentially] ripe when they would not benefit from any
+
+ 3   further factual development and when the court would be in no better
+
+ 4   position to adjudicate the issues in the future than it is now.” (internal
+
+ 5   quotations marks omitted)); see also Gary D. Peake Excavating Inc. v. Town Bd. of
+
+ 6   Hancock, 93 F.3d 68, 72 (2d Cir. 1996) (finding ripe claims that were “purely
+
+ 7   legal and may be decided without further factual development”).
+
+ 8         We conclude that Environmental Petitioners’ challenge to the Final
+
+ 9   Rule—on the ground that it should have also addressed and regulated
+
+10   commercial uses—is prudentially unripe for review at this time. On the day
+
+11   of its promulgation of the Final Rule, on March 27, 2019, EPA published an
+
+12   ANPRM indicating its intent to proceed to the question of how to deal with
+
+13   commercial uses. Then, one year and three months later, in June 2020, it
+
+14   finalized a risk assessment determining that commercial uses posed an
+
+15   unreasonable risk. By making that determination, the agency imposed on
+
+16   itself a statutory deadline to finalize a § 2605(a) rule within two years, (subject
+
+17   to the possibility of a two-year extension if certain conditions are met).
+
+18   § 2605(c)(1). That record does not give substantial support to Environmental
+
+
+
+                                             45
+ 1   Petitioners’ argument that EPA’s failure to include commercial uses in the
+
+ 2   Final Rule was procrastination designed to postpone a resolution indefinitely.
+
+ 3   Environmental Petitioners are undoubtedly correct that the agency’s record
+
+ 4   on this question since it first recognized the adverse health risks of methylene
+
+ 5   chloride is unimpressive. Nonetheless, however disinclined the EPA may
+
+ 6   have been in the past to deal with this difficult issue, its more recent record
+
+ 7   does not support the conclusion that the agency’s deferral of the commercial
+
+ 8   question in 2019 was a device to stall resolution indefinitely. It rather
+
+ 9   supports the conclusion that EPA now recognizes its obligations and is
+
+10   pursuing them.
+
+11         Environmental Petitioners lean heavily on the hardship prong of the
+
+12   test of prudential ripeness, asserting that adverse health consequences will
+
+13   result from continued access to methylene chloride in commercial use. We
+
+14   cannot deny the possibility that delaying regulation of methylene chloride in
+
+15   commercial uses might produce some harm. Indeed, if the delay occasioned
+
+16   by our reliance on prudential ripeness were open-ended, Environmental
+
+17   Petitioners would have a stronger argument against application of that
+
+18   doctrine. The delay, however, is not open ended. In fact, given the steps EPA
+
+
+
+                                             46
+ 1   has already taken, Environmental Petitioners have not successfully shown
+
+ 2   that granting the relief sought would either bring about an earlier final
+
+ 3   regulation or significantly reduce harms. Given that the deadline EPA has
+
+ 4   taken on by finalizing the 2020 Final Risk Evaluation is rapidly approaching,
+
+ 5   the harm resulting from EPA’s postponement of the risk assessment for
+
+ 6   commercial use until after dealing with consumer use is not enormous. Even
+
+ 7   assuming that the risk of harm to commercial users might have been slightly
+
+ 8   reduced had EPA determined that those uses pose an unreasonable health
+
+ 9   risk and regulated them when it passed the Final Rule in 2019, it does not
+
+10   necessarily follow that future harms would be reduced by now granting the
+
+11   relief that petitioners seek. Granting that relief at this time could as easily
+
+12   have the effect of delaying the ultimate resolution and increasing the harms,
+
+13   rather than reducing them. Court-imposed pressure to reach a final scheme of
+
+14   regulation before the agency has adequately collected and studied the needed
+
+15   information could cause the agency to reach an inadequate solution that fails
+
+16   to protect against harms as effectively as EPA might have protected if given
+
+17   sufficient time. Moreover, even if we were to order EPA to revise the
+
+18   challenged Final Rule to adopt regulations restricting commercial uses, EPA
+
+
+
+                                              47
+ 1   would still need to consider a variety of regulatory options, the comparative
+
+ 2   effectiveness of those options in ensuring that unreasonable risks are no
+
+ 3   longer presented, and the reasonably ascertainable economic consequences of
+
+ 4   those potential regulations. As a result, it is unlikely that EPA could comply
+
+ 5   with our order before the expiration of the deadline EPA has already imposed
+
+ 6   on itself by publishing the 2020 Final Risk Evaluation.
+
+ 7         Nor do we think Environmental Petitioners are correct in arguing that
+
+ 8   the issue before the court is a pure question of law, such as disfavors
+
+ 9   application of the doctrine of prudential ripeness. While judicial review
+
+10   inevitably raises questions of law, the questions whether commercial use of
+
+11   methylene chloride presents an unreasonable risk of harm; if so, how that risk
+
+12   of harm should be neutralized; and whether EPA’s decision to delay
+
+13   answering that question until after producing a final rule on consumer uses
+
+14   was arbitrary, unreasonable, or not supported by substantial evidence are
+
+15   very much dependent on factual considerations. It is not as if the issue in
+
+16   dispute simply involved the interpretation of a statutory term or the
+
+17   application of law to undisputed facts.
+
+
+
+
+                                            48
+ 1         The deadline for a final risk management rule regarding commercial
+
+ 2   uses of methylene chloride is rapidly approaching. We conclude that the
+
+ 3   extent to which TSCA requires EPA to regulate commercial uses of methylene
+
+ 4   chloride, and whether the rules EPA promulgates adequately do so, will be a
+
+ 5   better fit for judicial review after that rulemaking process is complete and the
+
+ 6   “policy in question has sufficiently crystallized.” Fla. Power & Light, 145 F.3d
+
+ 7   at 1421 (internal quotation marks omitted). Judicial review at this time, in the
+
+ 8   absence of a record that fully considered regulation of commercial uses, might
+
+ 9   force the court to cope with abstract disagreements and involve itself in
+
+10   matters of administrative policy without the benefit of illuminating
+
+11   information. See Abbott Labs., 387 U.S. at 148-49 (1967).
+
+12         Accordingly, we hold that Environmental Petitioners’ challenges to the
+
+13   2019 Final Rule are prudentially unripe for review at this time. Their petitions
+
+14   for review are DENIED.
+
+15                                   CONCLUSION
+
+16         For the foregoing reasons, the petitions for review of the 2019 Final
+
+17   Rule are DENIED.
+
+
+
+
+                                             49
+

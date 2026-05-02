@@ -1,0 +1,636 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 28, 2020            Decided December 18, 2020
+
+                         No. 20-1142
+
+PSSI GLOBAL SERVICES, L.L.C., A STATE OF NEVADA LIMITED
+                 LIABILITY COMPANY,
+                      APPELLANT
+
+                              v.
+
+          FEDERAL COMMUNICATIONS COMMISSION ,
+                      APPELLEE
+
+                AT&T SERVICES, INC., ET AL.,
+                      INTERVENORS
+
+
+
+  Consolidated with 20-1143, 20-1146, 20-1147, 20-1165,
+                    20-1166, 20-1349
+
+
+   On Appeals from and Petitions for Review of Orders of
+        the Federal Communications Commission
+
+
+    Stephen Diaz Gavin and Christopher J. Wright argued the
+causes for appellants. With them on the joint briefs were Scott
+Blake Harris, V. Shiva Goel, and Daniel Tingley.
+
+   Ashley S. Boizelle, Acting General Counsel, Federal
+Communications Commission, argued the cause for appellee.
+                              2
+With her on the brief were Michael F. Murray, Deputy
+Assistant Attorney General, U.S. Department of Justice, Daniel
+E. Haar and Robert J. Wiggers, Attorneys, Jacob M. Lewis,
+Associate General Counsel, Federal Communications
+Commission, and Scott M. Noveck, Counsel. Richard K.
+Welch, Deputy Associate General Counsel, entered an
+appearance.
+
+    Peter Karanjia argued the cause for Wireless intervenors.
+With him on the brief were James P. Young, Christopher T.
+Shenk, Scott H. Angstreich, and Joseph L. Wenner. William H.
+Johnson entered an appearance.
+
+    Paul A. Werner argued the cause for intervenor SES
+Americom, Inc. With him on the brief were Helgi C. Walker,
+Russell B. Balikian, Max E. Schulman, and Brian D. Weimer.
+
+    Joshua S. Turner, Scott D. Delacourt, and Sara M.
+Baxenberg were on the brief for amicus curiae the Alliance for
+Automotive Innovation.
+
+    Before: WILKINS, KATSAS and WALKER, Circuit Judges.
+
+    Opinion of the Court filed by Circuit Judge KATSAS.
+
+     KATSAS, Circuit Judge: To make room for the emerging
+fifth generation of mobile cellular technology, the Federal
+Communications Commission significantly narrowed a
+frequency band dedicated to fixed satellite transmissions. We
+consider whether this change permissibly modified the existing
+station licenses of three satellite operators and one company
+that broadcasts live events through satellites.
+                               3
+                                I
+
+     To reduce interference among different kinds of
+telecommunication signals, the FCC may “[a]ssign bands of
+frequencies” within the electromagnetic spectrum to specific
+uses, and then license companies to operate within each band.
+47 U.S.C. § 303(c). An FCC station license permits the “use”
+of specific frequency channels for a limited time, “but not the
+ownership thereof.” Id. § 301. The FCC may modify station
+licenses as necessary to “promote the public interest,
+convenience, and necessity.” Id. § 316(a)(1).
+
+     Until recently, the frequency band between 3.7 and 4.2
+gigahertz (GHz)—referred to as the “C-band” or “C-band
+downlink”—was assigned to “fixed satellite service.” 47
+C.F.R. § 2.106 (2019). Bases on the ground called “earth
+stations” transmit signals to satellites at frequencies between
+5.925 GHz and 6.425 GHz, a frequency band referred to as the
+“C-band uplink.” Satellites, also called “space stations,”
+receive these signals, apply a fixed frequency shift of –2.225
+GHz, and transmit the signals back to different earth stations at
+frequencies within the C-band downlink.
+
+     In March 2018, Congress passed the MOBILE NOW Act,
+which sought to make spectrum available for the emerging fifth
+generation of mobile cellular technology (5G). Pub. L. No.
+115-141, § 603(a)(1), 132 Stat. 1097, 1098 (2018). The Act
+identified the C-band as a promising candidate, and it
+instructed the FCC to provide notice and an opportunity for
+comment on “the feasibility of allowing commercial wireless
+services, licensed or unlicensed, to use or share use of the
+frequencies between 3700 megahertz and 4200 megahertz.” Id.
+§ 605(b).
+
+    Four months later, the FCC solicited public comment on
+proposals to convert all or part of the C-band to 5G terrestrial
+                                4
+wireless use. Expanding Flexible Use of the 3.7 to 4.2 GHz
+Band, 83 Fed. Reg. 44,128 (proposed July 12, 2018) (NPRM).
+At that time, eight companies operated satellites authorized to
+transmit signals within the United States over the C-band.
+Seven of them told the FCC that they could, through data
+compression and other technological upgrades, provide all their
+services within 200 megahertz (MHz) of the C-band. The
+eighth declined to participate in the rulemaking.
+
+     On March 3, 2020, the FCC released a final rule that
+reallocated the lower 280 MHz of the C-band (3.7–3.98 GHz)
+to 5G terrestrial wireless use, maintained the upper 200 MHz
+(4.0–4.2 GHz) for fixed satellite service, and designated the
+intervening 20 MHz (3.98–4.0 GHz) as an unusable “guard
+band” to minimize cross-interference. Expanding Flexible Use
+of the 3.7 to 4.2 GHz Band, 85 Fed. Reg. 22,804, 22,804–05
+(April 23, 2020) (Order). The FCC found that the lower
+portion of the C-band is ideal for 5G use “due to its favorable
+propagation and capacity characteristics,” id. at 22,811, and its
+adjacence to spectrum already dedicated to terrestrial wireless
+use, id. at 22,806. The Commission concluded that this
+spectrum reallocation would lead to “substantial economic
+gains,” yet would leave satellite operators “able to maintain the
+same services in the upper 200 megahertz as they [were]
+providing across the full 500 megahertz.” Id. at 22,807.
+
+     To implement the transition, the FCC will auction off
+licenses to provide 5G services within the lower portion of the
+C-band. Order at 22,807. The auction winners, in addition to
+paying the auction price, will be required to reimburse existing
+satellite operators for all reasonable costs of transitioning their
+services to the upper 200 MHz of the C-band. Id. at 22,826.
+The Commission estimated these transition costs will be about
+$3.3 billion to $5.2 billion. Id. at 22,830.
+                               5
+     The FCC required satellite operators to relocate their
+transmissions by December 2025. Order at 22,823. But it also
+incentivized satellite operators to complete the transition more
+quickly, based on a finding that a faster transition would
+increase consumer welfare by about $15 billion per year. Id. at
+22,827. If satellite operators fully transition by December
+2023, the new 5G licensees must pay them an “accelerated
+relocation payment” of $9.7 billion, id. at 22,825, 22,831, to be
+divided among eligible operators under a set schedule, id. at
+22,833–34. The five satellite operators eligible to receive these
+payments have chosen to transition by the accelerated deadline
+and have begun to relocate their services.
+
+                               II
+
+     Three self-described small satellite operators (SSOs) seek
+review of the Order. Each SSO operates one fixed, foreign-
+licensed satellite authorized to transmit into the United States
+by an FCC market access grant. See 47 C.F.R. § 25.137(c).
+The SSOs provide “little to no service” in the United States.
+Order at 22,820. Hispasat S.A. contracted all its capacity to
+foreign service through the end of 2019. ABS Global Ltd.
+provides no United States service, and its satellite can reach
+only the Nation’s eastern edge. Empresa Argentina de
+Soluciones Satelitales S.A. (ARSAT) did not participate in the
+rulemaking and provides no United States service. The FCC
+concluded that these SSOs provided no services requiring
+relocation and thus were ineligible to receive compensation for
+relocation expenses. Id. at 22,829.
+
+    PSSI Global Services, LLC also challenges the Order.
+PSSI operates mobile earth stations that broadcast live events
+by satellite. By modifying the C-band downlink, the FCC has
+arguably modified PSSI’s license to transmit over the C-band
+uplink: Given the fixed frequency shift, PSSI may no longer
+                               6
+transmit signals to satellites at frequencies between 5.925 GHz
+and 6.225 GHz, because the satellites would retransmit the
+signals at frequencies between 3.7 GHz and 4.0 GHz.
+
+     The SSOs and PSSI each filed an appeal under 47 U.S.C.
+§ 402(b) and a petition for review under 47 U.S.C. § 402(a).
+These provisions are “mutually exclusive channels for the
+review of FCC decisions.” Vernal Enters., Inc. v. FCC, 355
+F.3d 650, 655 (D.C. Cir. 2004). Section 402(b) permits appeals
+to this Court from ten categories of FCC orders, including
+appeals by “the holder of any … station license which has been
+modified or revoked.” 47 U.S.C. § 402(b)(5). Section 402(a)
+authorizes petitions for review of FCC orders “except those
+appealable under subsection (b) of this section.” We need not
+decide which of these is the proper vehicle for our review if we
+have jurisdiction “by the one procedural route or the other.”
+Cellco P’ship v. FCC, 700 F.3d 534, 541 (D.C. Cir. 2012).
+There is no dispute that either § 402(b)(5) or § 402(a) permits
+us to hear the SSOs’ claims.
+
+     The FCC contends that we lack jurisdiction over PSSI’s
+claims. Although PSSI timely filed its petition for review
+within 60 days of the Order’s “entry,” see 28 U.S.C. § 2344,
+the Commission argues that PSSI must proceed through a
+§ 402(b)(5) appeal, which the agency says is untimely. Under
+47 U.S.C. § 402(c), such an appeal must be filed within 30 days
+of “public notice” of the decision at issue. The Order was
+released on March 3, 2020 and published in the Federal
+Register on April 23. PSSI filed its appeal on April 28. The
+appeal is thus timely if the § 402(c) deadline runs from the date
+of publication in the Federal Register, but not if it runs from
+the release date.
+
+     An FCC regulation addresses what constitutes “public
+notice” under § 402(c). It equates such notice to “publication
+                                  7
+in the Federal Register” for “documents in notice and comment
+and non-notice and comment rulemaking proceedings required
+by the Administrative Procedure Act.” 47 C.F.R. § 1.4(b)(1).
+In contrast, it equates public notice to the “release date” for
+“non-rulemaking documents.” Id. § 1.4(b)(2). The action at
+issue here—a final rule—plainly falls within the first category.
+The FCC invokes a note in § 1.4(b)(1), which keys public
+notice to the release date for “[l]icensing and other adjudicatory
+decisions with respect to specific parties that may be associated
+with or contained in rulemaking documents.” Yet the Order,
+which modified thousands of earth station licenses at once,
+cannot reasonably be described as a decision “with respect to
+specific parties.” PSSI’s claims thus were timely regardless of
+whether they were properly brought as an appeal under
+§ 402(b)(5) or as a petition for review under § 402(a).1
+
+    After filing their appeals and petitions for review, the
+SSOs and PSSI unsuccessfully asked the FCC to stay its Order.
+The SSOs then sought a stay from this Court, which we denied.
+We nevertheless expedited oral argument to permit review
+before the FCC’s auction of 5G spectrum, which began on
+December 8, 2020. On that date, we issued our judgment.
+
+     On review, we consider whether the Order is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law.” 5 U.S.C. § 706(2). The FCC therefore
+must articulate a “rational connection between the facts found
+and the choice made.” Motor Vehicle Mfrs. Ass’n v. State Farm
+Mut. Ins. Co., 463 U.S. 29, 43 (1983). We review the FCC’s
+legal determinations under Chevron U.S.A. Inc. v. NRDC, 467
+
+     1
+        The satellite operator SES Americom, Inc. also protectively
+filed an appeal and a petition for review. But since SES does not
+challenge any provision of the Order, it is properly before us only as
+an intervenor supporting the FCC. See Deposit Guar. Nat’l Bank v.
+Roper, 445 U.S. 326, 333 (1980).
+                               8
+U.S. 837, 842–43 (1984), and we “accept the Commission’s
+findings of fact so long as they are supported by substantial
+evidence on the record as a whole,” Neustar, Inc. v. FCC, 857
+F.3d 886, 896 (D.C. Cir. 2017) (cleaned up).
+
+                              III
+
+     The principal argument advanced by the SSOs and PSSI is
+that the Order exceeds the FCC’s statutory authority to modify
+existing station licenses. Although the governing statutes by
+their terms speak only of licenses, the FCC gives market access
+grants the same protection that it gives to full Commission
+licenses. Order at 22,820.
+
+                              A
+
+     Section 316(a)(1) of the Communications Act of 1934
+gives the FCC authority to modify station licenses. It provides:
+“Any station license … may be modified by the Commission
+… if in the judgment of the Commission such action will
+promote the public interest, convenience, and necessity.” 47
+U.S.C. § 316(a)(1). This provision enables the FCC to
+“maintain the control of the United States over all the channels
+of radio transmission,” id. § 301, and to manage spectrum
+assignments “as public convenience, interest, or necessity
+requires,” id. § 303. Although broad, the modification power
+has limits. The word modify connotes “moderate” but not
+“fundamental” changes. MCI Telecomms. Corp v. AT&T, 512
+U.S. 218, 227–29 (1994). In MCI, the Supreme Court applied
+that understanding to limit the scope of § 203(b)(2) of the
+Communications Act, which authorizes the FCC to “modify”
+any statutory requirement to file rate schedules. See id. We
+have applied the same understanding to address the scope of
+                                9
+the FCC’s power to modify station licenses. See Cellco, 700
+F.3d at 543.
+
+     One example of a permissible modification is instructive
+here. In Community Television, Inc. v. FCC, 216 F.3d 1133
+(D.C. Cir. 2000), the FCC ordered all television broadcasters
+to migrate their services from analog to digital technology. To
+ease this transition, it allowed broadcasters to use a digital
+channel free of charge for ten years and to retain access to their
+analog channels over that same period. Id. at 1136. We held
+that this order, which required broadcasters to entirely
+transform their operations, permissibly modified their station
+licenses. We reasoned that the licenses were not fundamentally
+changed because broadcasters would “begin and end the
+transition … under very similar terms” and would “provide
+essentially the same services” before, during, and after the
+transition. Id. at 1141.
+
+                                B
+
+     The FCC concluded that reallocating spectrum from
+satellite to 5G use would promote the public interest by
+creating billions of dollars of economic growth. Order at
+22,807. The SSOs do not dispute that determination. Instead,
+they contend that the change to their market access grants was
+too fundamental to qualify as a modification under § 316(a)(1).
+Further, they argue that the FCC arbitrarily restricted their
+future business opportunities and excluded them from
+receiving compensation from the future 5G providers. Finally,
+they claim that the FCC impermissibly sanctioned them
+without prior notice. We disagree with all of this.
+
+     The SSOs argue that reducing their available spectrum by
+sixty percent works a fundamental change in their grants of
+market access. But the FCC found that the remaining spectrum
+“exceeds any reasonable estimate of [the SSOs’] needs,” Order
+                               10
+at 22,820, so “any opportunities [the SSOs] might be losing as
+a result of the Commission’s actions are, on a practical level,
+de minimis,” id. at 22,821. The SSOs object that the FCC
+considered only how much spectrum satellite operators would
+need to continue servicing existing customers. In fact, the FCC
+determined that the remaining spectrum would allow all
+operators—including the SSOs—to serve their likely future
+customers as well. See id. at 22,820–21, 22,829, 22,836.
+
+     Substantial evidence supports this critical finding. In a
+declining market for satellite transmission, Order at 22,821, the
+SSOs currently provide “little to no service” in the C-band
+within the United States, id. at 22,820. Moreover, they have
+made few efforts to develop such services, id. at 22,836, and
+they have failed to show an “ability to lure existing customers
+away from their contracts with other providers or to explain
+how they had planned to obtain new customers,” id. at 22,821.
+During the rulemaking, two SSOs affirmatively supported the
+reallocation. They commented that “300 megahertz of C-band
+spectrum could be made available for 5G … through the use of
+non-proprietary, readily available compression technology”
+without impairing the SSOs’ operations. Id. at 22,824.
+
+     The SSOs cite no persuasive contrary evidence. Hispasat,
+which sold all its transmission capacity to foreign customers
+through the end of 2019, Order at 22,835, offers only a bare
+assertion that it plans to develop future business in the United
+States. ABS, whose satellite can reach only the eastern edge of
+the United States, asserts that it has made reasonable efforts to
+provide service in the United States. But it waited a year and a
+half after launching its satellite to apply for a grant of market
+access, then waited another year to apply for an earth station
+construction permit. Id. at 22,836. And ARSAT, which neither
+responded to the FCC’s request for information nor otherwise
+participated in the rulemaking, can point to no evidence
+                               11
+undermining the FCC’s evaluation of its needs. The SSOs
+claim a unique ability to transmit content into the United States
+from abroad, which they say gives them a competitive
+advantage over domestic satellite providers. But the SSOs
+have not shown that any market for such services exists, much
+less that such a market would be large enough to require 500
+MHz of spectrum.
+
+     The FCC’s finding that 200 MHz will support the SSOs’
+present and likely future transmission needs forecloses any
+claim that the agency exceeded its authority to modify existing
+station licenses. This finding establishes that the SSOs will be
+able to provide essentially the same services after the transition
+as before. They will just be required to do so through different
+means—by utilizing the upper 200 MHz of the C-band rather
+than the entire 500 MHz. In this respect, the SSOs are like the
+broadcasters in Community Television, who could continue
+providing the same service to viewers, but only through new
+digital technology. Unless it harms the services ultimately
+provided, the need to make such technological adjustments
+does not impose any impermissibly fundamental change. See
+Community Television, 216 F.3d at 1141.
+
+     The SSOs briefly invoke three other provisions of the
+Communications Act, but none helps their case. Section 312(a)
+restricts the FCC’s ability to revoke licenses, but a reduction in
+spectrum that leaves licensees with enough capacity to meet
+current and future needs does not remotely constitute a
+revocation. Section 303(y)(2)(C) requires the FCC to ensure
+that its spectrum allocation does not “result in harmful
+interference among users.” But nothing in that provision bars
+the FCC from reducing harmful interference by reconfiguring
+the frequency band assigned to incumbent licensees. Section
+309(j)(8)(G) permits the FCC to hold a reverse auction and
+share a portion of its proceeds with licensees to “encourage a
+                               12
+licensee to relinquish voluntarily some or all of its licensed
+spectrum usage rights.” The SSOs contend that this provision,
+by its negative implication, requires the FCC to provide
+compensation if it takes away any spectrum from existing
+licensees. But § 309(j)(6)(C) forecloses that inference, by
+stating that nothing in § 309(j) shall “diminish the authority of
+the Commission under the other provisions of this chapter to
+regulate or reclaim spectrum licenses.” As explained above,
+§ 316(a)(1) permits the license modifications at issue.
+
+     Our analysis above all but forecloses the SSOs’ related
+contentions that the FCC arbitrarily modified their market
+access grants and denied them compensation. The SSOs
+contend that the FCC unreasonably limited their potential for
+future growth in the United States. But the SSOs hold “no
+vested right to any specific terms” of their market access
+grants. Celtronix Telemetry, Inc. v. FCC, 272 F.3d 585, 589
+(D.C. Cir. 2001). And in any event, the FCC took account of
+their likely future needs as well as their (minimal) current
+domestic business. In sum, it was entirely reasonable for the
+FCC to conclude that C-band spectrum would better serve the
+public interest if actively used by state-of-the-art 5G
+technology than if held in reserve by satellite operators unlikely
+to need it. And the FCC reasonably declined to require
+successful 5G bidders to compensate the SSOs for a reduction
+in spectrum that imposed on them at most “speculative claims
+of future loss.” Order at 22,829.
+
+     Finally, the SSOs object that the FCC declined to provide
+adequate advance notice for adopting what they describe as the
+“sanction” of assessing their spectrum needs by reference to
+existing customers. But as we have shown, the FCC considered
+all satellite operators’ future as well as current needs, which
+was more than enough to protect the SSOs’ interests under
+these circumstances.
+                               13
+                               C
+
+     PSSI claims that its licenses to transmit within the C-band
+uplink have been fundamentally changed. But the FCC
+concluded that earth stations—including PSSI’s mobile ones—
+will be able to “provide the same services” to their customers
+after the license modification. Order at 22,823. That finding
+was supported by substantial evidence.
+
+     PSSI contends that the reduction in spectrum prevents it
+from transmitting from certain major event venues. For
+example, PSSI claims that its stations, when positioned at Hard
+Rock Stadium in Miami, have sufficient “line of sight” to
+transmit only to satellites operating in the lower 300 MHz of
+the C-band. But PSSI did not raise this argument before the
+FCC. There, PSSI argued that the proposed reallocation would
+leave insufficient overall capacity to meet its transmission
+needs. The FCC addressed that concern at length, explaining
+why data compression and other technology—which PSSI may
+install and be reimbursed for—would ensure that the remaining
+spectrum is adequate for satellite operators and their customers.
+PSSI’s line-of-sight concern is distinct; it concerns the
+elimination of specific frequencies, not the reduction of overall
+capacity. Because PSSI gave the FCC no “opportunity to pass”
+on its line-of-sight concern, we may not address it. 47 U.S.C.
+§ 405(a); see FiberTower Spectrum Holdings, LLC v. FCC,
+782 F.3d 692, 697 (D.C. Cir. 2015).
+
+     PSSI further claims that the Order will allow 5G base
+stations to operate at high power levels, which will increase
+interference with its own return reception from the satellites to
+which it is transmitting. But it is unclear whether PSSI’s return
+reception will indeed suffer. PSSI relies primarily on its recent
+experience at an Iowa State football game, where it lost return
+reception because a nearby cell phone tower was operating
+                               14
+within the C-band under an experimental license. But after that
+incident, the FCC adopted many new protections against
+interference. Among other things, it created a 20 MHz guard
+band between satellite and 5G transmissions, Order at 22,811;
+limited the allowable level of spillover transmissions extending
+beyond the edge of the frequency band assigned for 5G use, id.
+at 22,848; and required satellite operators to provide earth
+stations with passband filters, id. at 22,825. Moreover, any
+incidental interference with PSSI’s return reception would not
+cause the kind of fundamental change that might exceed the
+FCC’s modification power. At the Iowa State game, PSSI
+admits that its outgoing transmissions were not affected.
+Although its return reception was disrupted, PSSI fails to
+explain why it must monitor the return signal on-site rather than
+remotely. Finally, PSSI acknowledged before the FCC that
+simply being able to coordinate with nearby 5G base stations
+would substantially reduce any potential disruption. And it
+seems likely that PSSI will be able to locate base station
+operators with help from the hosts of its events or a third-party
+service. Because the potential for new interference reflects at
+most a minor disruption to PSSI’s business, the FCC did not
+impermissibly modify its licenses.
+
+                               IV
+
+    The parties’ other challenges to the Order lack merit.
+
+                               A
+
+     The SSOs contend that the relocation payments to be made
+to the large satellite operators (LSOs) are arbitrarily high and
+inflict a competitive injury on the SSOs. The FCC did not
+contest the SSOs’ constitutional standing to challenge these
+payments to third parties, but we have an independent duty to
+                               15
+consider the issue. See Steel Co. v. Citizens for a Better Env’t,
+523 U.S. 83, 94 (1998).
+
+     We have held that parties may establish standing by
+showing that the challenged agency action “allow[s] increased
+competition against them.” Sherley v. Sebelius, 610 F.3d 69,
+72 (D.C. Cir. 2010) (cleaned up). Examples include orders
+permitting a new entrant into a fixed market, see, e.g., FCC v.
+Sanders Bros. Radio Station, 309 U.S. 470, 477 (1940), or
+allowing a rival to sell a fungible good at a lower price, see,
+e.g., La. Energy & Power Auth. v. FERC, 141 F.3d 364, 367
+(D.C. Cir. 1998). These orders increase competition—and thus
+harm competitors—as a matter of “economic logic.” Sherley,
+610 F.3d at 72 (cleaned up). But a party cannot establish
+competitor standing merely by claiming that a rival’s favorable
+tax treatment has created an “unfair competitive atmosphere.”
+Am. Soc. of Travel Agents, Inc. v. Blumenthal, 566 F.2d 145,
+149 (D.C. Cir. 1977). Nor is it enough to claim that a rival’s
+favorable regulatory treatment has created a “skewed playing
+field.” See Mobile Relay Assocs. v. FCC, 457 F.3d 1, 13 (D.C.
+Cir. 2006). Rather, a party asserting competitor standing must
+“make a concrete showing that it is in fact likely to suffer
+financial injury as a result of the challenged action.” KERM,
+Inc. v. FCC, 353 F.3d 57, 60–61 (D.C. Cir. 2004).
+
+     To make such a showing, the party claiming standing must
+be a “direct and current competitor whose bottom line may be
+adversely affected by the challenged government action.” New
+World Radio, Inc. v. FCC, 294 F.3d 164, 170 (D.C. Cir. 2002).
+If the competitors serve distinct geographic markets, the risk of
+harm is too speculative. Id. at 170–71; see also DEK Energy
+Co. v. FERC, 248 F.3d 1192, 1196 (D.C. Cir. 2001).
+
+     Here, the SSOs do not directly and currently compete with
+the LSOs. As detailed above, the SSOs provide services almost
+                                  16
+exclusively abroad and have taken few steps to develop any
+United States markets. We recognize that it may take time to
+develop new business, but competitor standing requires actual
+participation in the relevant market. See New World Radio, 294
+F.3d at 170. Hispasat’s bare assertion that it plans to compete
+in the United States in the future, and ABS’s single application
+for an earth station construction permit over three years, both
+fall well short. 2
+
+     Moreover, even if the SSOs did directly compete with the
+LSOs, they made no concrete showing that the Order is likely
+to cause them a financial injury. In support of standing, the
+SSOs declare that payments to the LSOs will “make the already
+strongest competitors even stronger,” give them “much more
+flexibility when competing,” and allow them to “corner niche
+markets.” J.A. 759, 773–74. These statements are akin to
+claims that the favorable regulatory treatment of a competitor
+has caused a skewed playing field, which we have rejected as
+insufficient. They do not, as our cases require, identify any
+specific harm to the SSOs that will result as a matter of
+economic logic. To be sure, the SSOs have alleged that they
+will be less attractive investments if the LSOs become more
+profitable. But if that sufficed to establish competitor standing,
+the doctrine would have no limit on the ability of one
+competitor to challenge the good fortunes of another.
+
+
+
+
+     2
+         After repeatedly telling the FCC that all its current capacity
+had been contracted for foreign service, Hispasat belatedly claimed
+to provide service to nine unregistered earth stations in the United
+States. The FCC rejected what it described as “Hispasat’s revisions
+to history,” Order at 22,835–36, and we find no reversible error in
+its treatment of this factual dispute.
+                              17
+                               B
+
+    PSSI’s further claims also lack merit.
+
+     First, PSSI contends that the 5G auction violates the
+ORBIT Act, which prohibits the FCC from using competitive
+bidding to assign “spectrum used for the provision of
+international or global satellite communications services.” 47
+U.S.C. § 765f. PSSI asserts that this provision governs
+auctions for spectrum currently used for international satellite
+communications, rather than auctions for spectrum that will be
+so used after the auction. We have rejected this precise
+argument, in upholding the FCC’s interpretation of § 765f to
+cover only spectrum that “is to be used for the provision” of
+international satellite services. Northpoint Tech., Ltd. v. FCC,
+414 F.3d 61, 73 (D.C. Cir. 2005) (emphasis added) (cleaned
+up). That holding binds us here.
+
+     Second, PSSI argues that the Order was not a logical
+outgrowth of the NPRM. As PSSI notes, the NPRM stated that
+the FCC would evaluate only whether the C-band downlink
+was suitable for 5G use, but might later “address other mid-
+band spectrum bands” such as the C-band uplink. NPRM at
+44,129–30. PSSI frames this statement as a commitment to
+leave the C-band uplink entirely unaffected. In fact, the FCC
+simply announced that the rulemaking would address whether
+the C-band downlink should be reallocated to 5G use, which is
+precisely what the Order did. Nor did it commit to leaving the
+C-band uplink unaltered. To the contrary, the NPRM noted
+that reallocating spectrum within the C-band downlink would
+necessarily impact the C-band uplink. Id. at 44,154. PSSI
+itself understood this point, as confirmed by its active
+participation in the rulemaking. The logical outgrowth
+doctrine—which applies only where a final rule substantially
+                               18
+“differs from a proposed rule,” Allina Health Servs. v. Sebelius,
+746 F.3d 1102, 1107 (D.C. Cir. 2014)—does not apply.
+
+     Finally, PSSI argues that the FCC did not consider the
+potential for 5G base stations to interfere with its nearby mobile
+stations. But as explained above, the FCC did reasonably
+respond to the concern about interference by establishing
+several significant protections against it. PSSI objects that the
+Commission failed to separately address its proposal to order a
+national registry listing the identity, location, and power levels
+of all 5G base stations. But doing so would impose significant
+administrative burdens and would save PSSI only the
+comparably minimal cost of locating nearby base stations on
+its own. The FCC did not act arbitrarily by failing to address a
+proposal that was neither “significant” nor “viable.” City of
+Brookings Mun. Tel. Co. v. FCC, 822 F.2d 1153, 1169 (D.C.
+Cir. 1987).
+
+                               V
+
+    For these reasons, we uphold the Order under review, and
+we dismiss the appeal and petition for review of SES.
+
+                                                     So ordered.
+
