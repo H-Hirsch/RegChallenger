@@ -1083,10 +1083,8 @@ def main():
         or st.session_state.get("assess_for") == chosen_doc
     )
 
-    # ── Layout: rule details in col1, assessment (or CTA) in col2 ────────────
-    col1, col2 = st.columns([3, 2])
-
-    with col1:
+    # ── Layout: rule details full-width on top, assessment full-width below ──
+    with st.container():
         st.markdown('<div class="section-header">Selected Rule</div>',
                     unsafe_allow_html=True)
         render_rule_card(selected)
@@ -1100,11 +1098,11 @@ def main():
             for _, case_row in challenged_rows.iterrows():
                 render_court_case_card(case_row)
 
-    # Both render paths (CTA and assessment) write to col2 with the SAME
-    # structure: a header, then a single empty() slot for body content.
-    # This keeps Streamlit's widget diff stable so the CTA button is
-    # cleanly removed the moment Step 2 begins.
-    with col2:
+    # Both render paths (CTA and assessment) write to the same full-width body
+    # slot: a header, then a single empty() slot for body content. This keeps
+    # Streamlit's widget diff stable so the CTA button is cleanly removed the
+    # moment Step 2 begins.
+    with st.container():
         st.markdown(
             f'<div class="section-header">'
             f'{"Historical Outcome" if is_challenged else "Vulnerability Assessment"}'
