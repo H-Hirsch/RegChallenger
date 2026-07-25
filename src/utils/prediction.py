@@ -5,14 +5,17 @@ Claude API call for outcome prediction based on similar historical cases.
 
 import os
 from datetime import date
-import requests
-from typing import List
+import anthropic
+from typing import List, Tuple
 import pandas as pd
 
 
 API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-sonnet-5"
 MAX_TOKENS = 2000
+
+# Lazily-constructed, reused Anthropic SDK client (see _get_client).
+_CLIENT = None
 
 
 def _today_block() -> str:
@@ -114,31 +117,74 @@ REASONING:
     return prompt
 
 
+def _get_client():
+    """Lazily construct a shared Anthropic client (reused across calls)."""
+    global _CLIENT
+    if _CLIENT is None:
+        _CLIENT = anthropic.Anthropic(api_key=API_KEY, timeout=60)
+    return _CLIENT
+
+
 def call_claude(prompt: str) -> str:
-    """Call Claude API and return response text."""
+    """Call Claude and return the response text, or a human-readable error string.
+
+    Never raises: the Streamlit UI treats the return value as either the analysis
+    or (when it starts with "Error") an unavailable-analysis notice, so the
+    dashboard degrades gracefully instead of crashing. Typed SDK exceptions let us
+    tell a retired model apart from an auth / rate-limit / network failure — the
+    retired-model case is the one that took the app down in mid-2026.
+    """
     if not API_KEY:
         return "Error: ANTHROPIC_API_KEY not set"
 
     try:
-        response = requests.post(
-            "https://api.anthropic.com/v1/messages",
-            headers={
-                "x-api-key": API_KEY,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-            json={
-                "model": MODEL,
-                "max_tokens": MAX_TOKENS,
-                "temperature": 0,
-                "messages": [{"role": "user", "content": prompt}],
-            },
-            timeout=60,
+        message = _get_client().messages.create(
+            model=MODEL,
+            max_tokens=MAX_TOKENS,
+            # Sonnet 5 runs adaptive thinking when `thinking` is omitted, which
+            # would share the max_tokens budget with the structured output and
+            # risk truncating it. Disable to keep the prior no-thinking behavior.
+            # (Sampling params like temperature are rejected on Sonnet 5, so the
+            # former "temperature": 0 has been removed.)
+            thinking={"type": "disabled"},
+            messages=[{"role": "user", "content": prompt}],
         )
-        response.raise_for_status()
-        return response.json()["content"][0]["text"]
+        return next((b.text for b in message.content if b.type == "text"), "")
+    except anthropic.NotFoundError:
+        return (
+            f"Error calling AI API: model '{MODEL}' is unavailable — it may have been "
+            "retired. Update MODEL in src/utils/prediction.py to a current model id."
+        )
+    except anthropic.AuthenticationError:
+        return "Error calling AI API: authentication failed — check ANTHROPIC_API_KEY."
+    except anthropic.RateLimitError:
+        return "Error calling AI API: rate limited — please try again in a moment."
+    except anthropic.APIConnectionError:
+        return "Error calling AI API: could not reach the API (network error)."
+    except anthropic.APIStatusError as e:
+        return f"Error calling AI API: {e.status_code} {e.message}"
     except Exception as e:
         return f"Error calling AI API: {e}"
+
+
+def check_model_available(model: str = MODEL) -> Tuple[bool, str]:
+    """Confirm the configured model is still served by the API.
+
+    Returns (available, detail). The Models API returns 404 for a retired or
+    unknown model id, so this catches a retirement proactively — at startup or in
+    CI — instead of letting it surface as a blank assessment for an end user.
+    Run this file directly (`python src/utils/prediction.py`) to use it as a
+    healthcheck: it exits 0 when the model is available, 1 when it is not.
+    """
+    if not API_KEY:
+        return False, "ANTHROPIC_API_KEY not set"
+    try:
+        info = _get_client().models.retrieve(model)
+        return True, getattr(info, "display_name", model)
+    except anthropic.NotFoundError:
+        return False, f"model '{model}' not found (it may have been retired)"
+    except Exception as e:
+        return False, str(e)
 
 
 def parse_prediction(response_text: str) -> dict:
@@ -510,3 +556,11 @@ def predict_outcome(
         if retry.get('vulnerability') and retry.get('reasoning'):
             result = retry
     return result
+
+
+if __name__ == "__main__":
+    # Model-retirement healthcheck. Wire into CI or run manually to be warned
+    # before a retired model silently takes the dashboard offline.
+    ok, detail = check_model_available()
+    print(f"{'OK' if ok else 'UNAVAILABLE'}: {MODEL} — {detail}")
+    raise SystemExit(0 if ok else 1)
