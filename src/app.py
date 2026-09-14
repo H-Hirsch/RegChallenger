@@ -805,61 +805,7 @@ def render_search_sidebar(rulemakings_count: int, all_cases_count: int) -> dict:
         </script>
         """, height=0)
 
-        # Cycle the keyword placeholder client-side every ~2.5s while the input is empty.
         import streamlit.components.v1 as components
-        import json as _json
-        components.html(f"""
-        <script>
-        (function() {{
-            const examples = {_json.dumps(EXAMPLE_KEYWORDS)};
-            const TYPE_MS = 90, DELETE_MS = 45, HOLD_MS = 1400, GAP_MS = 350;
-            let idx = Math.floor(Math.random() * examples.length);
-            let pos = 0;             // current chars shown
-            let phase = "typing";    // typing | holding | deleting | gap
-            let lastSwitch = Date.now();
-
-            const find = () => {{
-                try {{
-                    return window.parent.document.querySelector(
-                        'section[data-testid="stSidebar"] input[aria-label="Keyword(s)"]'
-                    );
-                }} catch (e) {{ return null; }}
-            }};
-
-            const tick = () => {{
-                const inp = find();
-                if (!inp || inp.value) return;  // pause if user is typing
-                const word = examples[idx % examples.length];
-                const now = Date.now();
-
-                if (phase === "typing") {{
-                    pos++;
-                    inp.setAttribute('placeholder', 'e.g. ' + word.slice(0, pos));
-                    if (pos >= word.length) {{ phase = "holding"; lastSwitch = now; }}
-                }} else if (phase === "holding") {{
-                    if (now - lastSwitch >= HOLD_MS) {{ phase = "deleting"; }}
-                }} else if (phase === "deleting") {{
-                    pos--;
-                    inp.setAttribute('placeholder', 'e.g. ' + word.slice(0, Math.max(0, pos)));
-                    if (pos <= 0) {{ phase = "gap"; lastSwitch = now; idx++; }}
-                }} else if (phase === "gap") {{
-                    if (now - lastSwitch >= GAP_MS) {{ phase = "typing"; pos = 0; }}
-                }}
-            }};
-
-            // Use a fast base interval; each phase decides whether to act.
-            let last = 0;
-            setInterval(() => {{
-                const now = Date.now();
-                const interval = phase === "deleting" ? DELETE_MS : TYPE_MS;
-                if (now - last >= interval || phase === "holding" || phase === "gap") {{
-                    tick();
-                    last = now;
-                }}
-            }}, 30);
-        }})();
-        </script>
-        """, height=0)
 
         st.markdown("---")
         st.markdown('<div class="sidebar-section-header">Reference Dataset</div>',
