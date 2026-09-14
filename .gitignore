@@ -172,7 +172,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 # RegChallenger — app-specific caches and dev artifacts
-data/embeddings_cache.json
+# embeddings_cache.json IS committed on purpose: it lets the deployed
+# (Streamlit Cloud) app skip the 420MB model download + full re-encode on
+# every cold start. Regenerate + recommit whenever the rulemaking corpus changes.
 data/fr_citation_cache.json
 validation.py
 validation_results.csv
