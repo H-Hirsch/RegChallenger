@@ -1,0 +1,970 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued April 17, 2020                 Decided July 17, 2020
+
+                        No. 19-5352
+
+         AMERICAN HOSPITAL ASSOCIATION , ET AL.,
+                     APPELLEES
+
+                             v.
+
+ ALEX M. AZAR, II, IN HIS OFFICIAL CAPACITY AS SECRETARY
+           OF HEALTH AND HUMAN SERVICES,
+                        APPELLANT
+
+
+            Consolidated with 19-5353, 19-5354
+
+
+       Appeals from the United States District Court
+               for the District of Columbia
+                   (No. 1:18-cv-02841)
+                   (No. 1:19-cv-00132)
+                   (No. 1:19-cv-01745)
+
+
+    Alisa B. Klein, Attorney, U.S. Department of Justice,
+argued the cause for appellant. With her on the briefs were
+Mark B. Stern, Attorney, Robert P. Charrow, General Counsel,
+U.S. Department of Health & Human Services, Janice L.
+Hoffman, Associate General Counsel, Susan Maxson Lyons,
+Deputy Associate General Counsel for Litigation, and Robert
+W. Balderston, Attorney.
+                               2
+     Howard R. Rubin and Robert T. Smith were on the brief
+for amici curiae Digestive Health Physicians Association, et al.
+in support of appellant.
+
+     Catherine E. Stetson argued the cause for appellees. With
+her on the brief were Susan M. Cook, Katherine B. Wellington,
+Mark D. Polston, Joel McElvain, Christopher P. Kenny, and
+Michael LaBattaglia. Kyle Druding entered an appearance.
+
+   Before: SRINIVASAN , Chief Judge, GARLAND and
+MILLETT, Circuit Judges.
+
+    Opinion for the Court filed by Chief Judge SRINIVASAN .
+
+     SRINIVASAN, Chief Judge: Many hospitals provide
+outpatient care at off-site facilities known as “off-campus
+provider-based departments,” or PBDs. Certain services
+offered by hospitals at off-campus PBDs, such as routine clinic
+visits, can also be provided by independent physician practices
+unaffiliated with a hospital. Although off-campus PBDs and
+independent physician practices can offer the same service,
+Medicare until recently reimbursed those providers at different
+rates: because off-campus PBDs are considered hospitals for
+regulatory purposes, they were paid a higher rate applicable to
+hospitals instead of a lower rate applicable to physician
+practices. The result was that, for the same outpatient service,
+off-campus PBDs obtained up to twice as much per patient in
+Medicare reimbursements as did physician practices.
+
+     The Department of Health and Human Services
+determined that the payment differential gave rise to an
+economic incentive that induced unnecessary growth in the
+volume of outpatient care provided at off-campus PBDs. HHS
+thus reduced the rate it paid hospitals for the most common off-
+campus PBD service, “patient evaluation and management,” to
+                               3
+equal the rate paid to physician practices for that service. HHS
+justified that reimbursement cut as an exercise of its statutory
+authority to adopt “method[s] for controlling unnecessary
+increases in the volume” of covered outpatient services. 42
+U.S.C. § 1395l(t)(2)(F).
+
+    A group of hospitals brought these consolidated actions,
+claiming that HHS’s rate reduction for off-campus PBDs falls
+outside of the agency’s statutory authority. The district court
+agreed and set aside the regulation implementing the rate
+reduction. Because we conclude that the regulation rests on a
+reasonable interpretation of HHS’s statutory authority to adopt
+volume-control methods, we now reverse.
+
+                               I.
+
+                               A.
+
+     Medicare Part B health insurance covers outpatient
+hospital care, including same-day surgery, preventive and
+screening services, and physician visits. See 42 U.S.C.
+§§ 1395j, 1395k. The Department of Health and Human
+Services (HHS) sets the rates at which Medicare will reimburse
+hospitals for providing such services according to an intricate
+statutory system known as the Outpatient Prospective Payment
+System (OPPS). See 42 U.S.C. § 1395l(t).
+
+     Under the OPPS, hospitals are not reimbursed for the
+actual costs incurred in providing care. Instead, to help control
+Medicare expenditures, the statute calls for HHS to set
+predetermined payment amounts for each covered outpatient
+service. See H.R. Rep. No. 106-436, at 33 (1999). Hospitals
+then receive that amount for every instance in which they
+provide the service. OPPS rates are revised each year via
+notice-and-comment rulemaking and are published before they
+                                 4
+go into effect. See Amgen, Inc. v. Smith, 357 F.3d 103, 106
+(D.C. Cir. 2004).
+
+     HHS generally sets the rates using a complex statutory
+formula. First, each covered outpatient service (or group of
+related services) is assigned an Ambulatory Payment
+Classification (APC). 42 U.S.C. § 1395l(t)(2)(B). HHS then
+establishes “relative payment weights” for each APC based on
+the median cost of providing the relevant services. Id.
+§ 1395l(t)(2)(C). In that relative weighting process, HHS may
+decide, for instance, that given the cost to the hospital, a certain
+service should be reimbursed at twice the rate of a different
+service. Next, each APC’s relative weight is multiplied by a
+number known as the “conversion factor.” Id. § 1395l(t)(3)(D).
+The same conversion factor applies to all APCs. Id.
+Multiplying an APC’s relative payment weight by the
+conversion factor produces a dollar amount, which is the base
+“fee schedule amount” for that APC. Id. § 1395l(t)(4)(A). That
+amount is subject to a variety of possible further adjustments,
+such as adjustments reflecting regional wage differences, id.
+§ 1395l(t)(4)(A), or “outlier adjustments” for hospitals facing
+unusually high operating costs, id. § 1395l(t)(5).
+
+     When setting rates each year, HHS is required to reassess
+its choices: what services or groups of services should make
+up each APC, what an APC’s relative payment weight should
+be, and what statutory adjustments (such as for labor cost
+differences) should be applied. Id. § 1395l(t)(9)(A). Changes
+to any of those inputs will alter the payment rate for a particular
+service. Any change HHS makes in those respects, however,
+must not cause overall projected expenditures for the next year
+to increase or decrease. Id. § 1395l(t)(9)(B). Under this
+“budget-neutrality” requirement, an increase or decrease in
+projected spending must be offset by other changes.
+                                5
+     HHS must also update the conversion factor each year in
+order to keep up with inflation in general health care costs. Id.
+§ 1395l(t)(3)(C)(ii), (t)(3)(C)(iv). Increases to the conversion
+factor, of course, proportionately increase overall OPPS
+outlays. But adjustments to the conversion factor need not be
+implemented in a budget-neutral manner—indeed, it would
+make little sense to do so in light of the objective of keeping
+pace with inflation.
+
+    The OPPS is designed to advance Congress’s goal of
+controlling Medicare Part B costs in two ways. First, the OPPS
+encourages hospital efficiency by setting payment rates
+prospectively and basing the amount on median cost. Second,
+because of the budget-neutrality requirement, overall OPPS
+expenditure growth should closely track annual increases to the
+conversion factor. Those increases are modest and their
+amount is prescribed by statute.
+
+     Although HHS has significant control over the rate it will
+pay hospitals for a specific service under the OPPS system, the
+agency has little control over how frequently hospitals will
+provide that service. Consequently, even if payment rates
+remain constant, an increase in the amount of services provided
+will cause an increase in overall Medicare expenditures.
+
+     Congress addressed that possibility in subparagraph (2)(F)
+of the OPPS statute, the provision centrally in issue in this case.
+Subparagraph (2)(F) directs HHS to “develop a method for
+controlling unnecessary increases in the volume of covered
+[outpatient] services.” Id. § 1395l(t)(2)(F). Relatedly,
+Congress also authorized HHS to reduce the conversion factor,
+thereby shrinking projected overall expenditures, if it
+“determines under methodologies described in [sub]paragraph
+(2)(F) that the volume of services paid for . . . increased beyond
+                               6
+amounts established through those methodologies.”             Id.
+§ 1395l(t)(9)(C).
+
+                               B.
+
+     Some hospitals provide outpatient care at facilities known
+as off-campus provider-based departments (PBDs), which are
+located away from the physical site of the hospital. Off-
+campus PBDs are considered part of the hospital for regulatory
+purposes. See 42 C.F.R. § 413.65. For that reason, services
+provided at off-campus PBDs are reimbursed through the
+OPPS system. HHS thus has generally paid hospitals the same
+amount for outpatient care provided at an off-campus PBD as
+for outpatient care provided in the main hospital.
+
+     At least some services provided at off-campus PBDs can
+also be provided by freestanding physician offices, i.e., medical
+practices unaffiliated with a hospital. Physician offices are
+generally reimbursed at a lower rate for a given service than
+hospitals, because hospitals receive a separate “facility” rate
+inapplicable to freestanding physician practices. See Medicare
+Program: Proposed Changes to Hospital Outpatient
+Prospective Payment and Ambulatory Surgical Center
+Payment Systems and Quality Reporting Programs, 83 Fed.
+Reg. 37,046, 37,142 (July 31, 2018).
+
+     Consider the amounts Medicare paid for a service
+commonly provided by off-campus PBDs: “evaluation and
+management of a patient,” or E&M. In 2017, the E&M
+reimbursement rate for off-campus PBDs under the OPPS was
+$184.44 for new patients and $158.24 for established patients.
+By contrast, the 2017 E&M rate for freestanding physician
+offices—paid under a separate system known as the Physician
+Fee Schedule—was $109.46 for new patients and $73.93 for
+established patients. See id. Hospital-affiliated outpatient
+                              7
+departments thus received between 68% and 114% more in
+reimbursements per patient for the same service.
+
+     According to the Medicare Payment Advisory
+Commission (MedPAC), which was established by Congress
+to advise HHS, see Pub. L. No. 105-33 § 4022, 111 Stat. 251,
+350, hospitals reacted to the incentive created by the payment
+differential between off-campus PBDs and independent
+physician practices. Almost a decade ago, hospitals began
+buying freestanding physician practices and converting them
+into off-campus PBDs, without much change in the facility or
+the patients served. MedPAC, Report to the Congress:
+Medicare Payment Policy 53, 59–61, 75–76 (Mar. 2014),
+https://go.usa.gov/xdCzV. MedPAC documented substantial
+increases in the provision of E&M services at hospital
+outpatient departments and little to no growth in the provision
+of the same services at physician offices. See id. at 42. From
+2011 to 2016, the provision of E&M services at off-campus
+PBDs grew by 43.8%. MedPAC, Report to the Congress:
+Medicare Payment Policy 73 (2018), https://go.usa.gov/xdCzu.
+By comparison, the provision of E&M services at freestanding
+physician practices grew by only 0.4%. Id.
+
+     In 2015, Congress attempted to address the substantial
+growth in services provided at off-campus PBDs by enacting
+section 603 of the Bipartisan Budget Act of 2015, Pub. L. No.
+114-74, 129 Stat. 584, 597–98 (codified at 42 U.S.C.
+§ 1395l(t)(21)).     Section 603 adopted something of a
+compromise approach. On one hand, it did not touch the
+reimbursement rates for existing off-campus PBDs. On the
+other hand, it established that off-campus PBDs coming into
+existence after the statute’s enactment would no longer be paid
+under the OPPS, but instead would be paid under the
+“applicable payment system under this part,” which HHS
+interpreted to be a rate equivalent to the Physician Fee
+                                8
+Schedule. 42 U.S.C. § 1395l(t)(21)(C). That change applied
+to every service—not just E&M services—provided at new off-
+campus PBDs.
+
+     After section 603’s enactment, though, HHS still
+continued to observe steady growth in the volume of hospital
+outpatient services. 83 Fed. Reg. at 37,139. For the years 2016
+through 2018, the volume and intensity of services grew
+annually by 6.5%, 5.8%, and 5.4%, respectively. Id. And in
+its proposed OPPS rule setting rates for 2019, the agency
+projected that, without changes, volume would again increase
+by 5.3% in that year, leading to $75.3 billion in overall OPPS
+expenditures. Id. Outlays had been nearly $20 billion less only
+a few years earlier. Id.
+
+     HHS determined that, despite the 2015 enactment of
+section 603, “the differences in payment for . . . services”
+continued to be “a significant factor in the shift in services from
+the physician’s office to the hospital outpatient department, . . .
+unnecessarily increasing hospital outpatient department
+volume.” Id. at 37,142. HHS believed that the “higher
+payment that is made under the OPPS, as compared to payment
+under the [Physician Fee Schedule], [was] likely to be
+incentivizing providers to furnish care in the hospital outpatient
+setting.” Id. at 37,141. Thus, although section 603 had
+removed the incentive for hospitals to purchase physician
+practices and convert them into off-campus PBDs on a going-
+forward basis, the statute did not remove the incentive to
+provide care in off-campus PBDs already in existence.
+
+     In its rule proposing 2019 OPPS rates, HHS announced
+that it “consider[ed] the shift of services” it had observed to be
+“unnecessary if the beneficiary can safely receive the same
+services in a lower cost setting but is instead receiving services
+in the higher paid setting due to payment incentives.” Id. at
+                               9
+37,142. The agency concluded that E&M services, which are
+routine clinic visits, fit the bill, and thus that “the growth in
+clinic visits paid under the OPPS is unnecessary.” Id.
+
+     Having found an “unnecessary increase[] in the volume of
+covered [outpatient] services,” HHS proposed to exercise its
+subparagraph (2)(F) authority to “develop a method for
+controlling” the increase. 42 U.S.C. § 1395l(t)(2)(F); 83 Fed.
+Reg. at 37,142. Specifically, the agency proposed to cut E&M
+reimbursement rates to off-campus PBDs to the amount HHS
+pays to freestanding physician offices for providing the same
+service. “[C]apping the OPPS payment at the [Physician Fee
+Schedule]-equivalent rate,” the agency explained, “would be
+an effective method to control the volume of these unnecessary
+services because the payment differential that is driving the
+site-of-service decision [would] be removed.” 83 Fed. Reg. at
+37,142.
+
+     Notably, HHS proposed to implement the E&M
+reimbursement cut in a non-budget-neutral manner. In other
+words, the agency would reduce payments without offsetting
+increases in reimbursements for other covered outpatient
+services. Id. at 37,142–43. Although the OPPS statute
+generally requires annual rate adjustments to be budget-neutral,
+see 42 U.S.C. § 1395l(t)(9)(B), the agency did not believe that
+requirement applied to methods for controlling volume under
+subparagraph (2)(F). 83 Fed. Reg. at 37,142–43. HHS chose
+not to apply the reimbursement cut in a budget-neutral manner
+because doing so “would not appropriately reduce the overall
+unnecessary volume of covered [outpatient] services, and
+instead would simply shift the movement of the volume within
+the OPPS system in the aggregate.” Id. at 37,143. HHS
+estimated that the proposed rule would reduce Medicare’s
+expenditures by approximately $610 million in 2019 alone,
+                               10
+with an additional $150 million saved by Medicare
+beneficiaries in the form of reduced coinsurance payments. Id.
+
+    After receiving comments, the agency adopted its proposal
+as a final rule, with the only change that the E&M
+reimbursement cut would be phased in over two years. See
+Medicare Program: Changes to Hospital Outpatient
+Prospective Payment and Ambulatory Surgical Center
+Payment Systems and Quality Reporting Programs, 83 Fed.
+Reg. 58,818, 59,004–15 (Nov. 21, 2018).
+
+                               C.
+
+     The American Hospital Association and various hospitals
+(whom we will refer to collectively as the Hospitals)
+challenged the 2019 rule in these actions, which were
+consolidated in the district court for purposes of addressing the
+parties’ cross-motions for summary judgment. See Am. Hosp.
+Ass’n v. Azar, 410 F. Supp. 3d 142, 146 (D.D.C. 2019). The
+Hospitals first argued that HHS’s reduction in reimbursement
+for E&M services exceeded the agency’s statutory authority
+because the reduction does not qualify as a “method for
+controlling unnecessary increases in . . . volume” under
+subparagraph (2)(F) of the OPPS statute. See id. at 150–51.
+The Hospitals also argued that HHS’s decision to cut
+reimbursement to preexisting off-campus PBDs contravened
+Congress’s decision to leave preexisting facilities unaddressed
+in section 603 of the Bipartisan Budget Act of 2015. See id.
+
+     The district court agreed with the Hospitals’ first
+argument. Id. at 161. The court accordingly vacated as ultra
+vires the part of the challenged rule that reduced E&M
+reimbursement rates. Id. This appeal followed.
+                               11
+                               II.
+
+     We must first consider whether we have jurisdiction to
+review the Hospitals’ claim. Subparagraph (12)(A) of the
+OPPS statute provides that “[t]here shall be no administrative
+or judicial review of” certain specified actions HHS takes in
+implementing the OPPS, including “the establishment of . . .
+methods described in paragraph (2)(F).”           42 U.S.C.
+§ 1395l(t)(12)(A). The government contends that HHS’s cut
+to E&M reimbursement qualifies as such a “method.” Thus,
+the government argues, judicial review of that reimbursement
+cut is precluded by statute, and we should dispose of the case
+on that basis at the threshold without examining HHS’s
+authority to implement the rate reduction.
+
+     We are unpersuaded. Although subparagraph (12)(A)
+forecloses judicial review of the agency’s “establishment of
+methods described in paragraph (2)(F),” the Hospitals’ claim is
+that the payment reduction at issue is not a “method[] described
+in paragraph (2)(F)” within the meaning of the statute. As a
+result, to determine whether the judicial-review bar applies in
+this case, we must decide whether the challenged agency action
+counts as a “method for controlling unnecessary increases in
+the volume of covered [outpatient] services.”                 Id.
+§ 1395l(t)(2)(F). And that latter question is the merits issue
+presented here.
+
+     Subparagraph (12)(A) therefore is a preclusion-of-review
+provision that “merges consideration of the legality of [agency]
+action with consideration of the court’s jurisdiction in cases in
+which the challenge to the [agency’s] action raises the question
+of the [agency’s statutory] authority.” Amgen, 357 F.3d at
+113–14 (quoting COMSAT Corp. v. FCC, 114 F.3d 223, 226–
+27 (D.C. Cir. 1997)). In such cases, if the court “find[s] that
+[the agency] has acted outside the scope of its statutory
+                               12
+mandate, we also find that we have jurisdiction.” COMSAT,
+114 F.3d at 227. Put differently, “the jurisdiction-stripping
+provision does not apply” if the agency’s action fails to qualify
+as the kind of action for which review is barred. Southwest
+Airlines Co. v. TSA, 554 F.3d 1065, 1071 (D.C. Cir. 2009). As
+a practical matter, then, the court can simply skip to the merits
+question in its analysis. See, e.g., id.; Amgen, 357 F.3d at 114;
+COMSAT, 114 F.3d at 227.
+
+     This court has already construed the provision at issue here
+as “merging” the preclusion and merits analysis in that way. In
+Amgen, we stated that subparagraph (12)(A)’s preclusion on
+review of “other adjustments” to rates by HHS “extends no
+further than the Secretary’s statutory authority to make” such
+adjustments. 357 F.3d at 112. Accordingly, we concluded that
+subparagraph (12)(A) “precludes judicial review of any
+adjustment made by the Secretary pursuant to [his statutory]
+authority . . . but not of those for which such authority is
+lacking.” Id. at 113. We then proceeded to the merits question,
+ultimately holding that the challenged adjustment was within
+the agency’s statutory authority and that we thus lacked
+jurisdiction. Id. at 114, 118. The government contends that
+Amgen’s treatment of subparagraph (12)(A) was dicta, but
+regardless, we fully agree with Amgen’s approach, under which
+we analyze the merits to decide whether we have jurisdiction.
+
+     The government attempts to sidestep that result by
+pressing us to analyze the Hospitals’ claim under the ‘ultra
+vires review’ doctrine often attributed to Leedom v. Kyne, 358
+U.S. 184 (1958). That doctrine, which we have likened to a
+“Hail Mary pass,” “permits, in certain limited circumstances,
+judicial review of agency action for alleged statutory violations
+even when a statute precludes review.” Nyunt v. Chairman,
+Broad. Bd. of Governors, 589 F.3d 445, 449 (D.C. Cir. 2009).
+The government submits that the Hospitals’ challenge presents
+                               13
+such a circumstance and thus must satisfy the stringent
+requirements set out in DCH Regional Medical Center v. Azar,
+925 F.3d 503, 509 (D.C. Cir. 2019)—among them, that the
+agency plainly acted in excess of its delegated powers and
+contrary to a specific, clear, and mandatory prohibition in the
+statute. Id.
+
+     The Hospitals’ challenge does not implicate the Kyne
+framework. We are not asked to remedy a “statutory
+violation[] even when a statute precludes review.” Nyunt, 589
+F.3d at 449. Instead, the Hospitals argue that the “same agency
+error . . . simultaneously ma[kes] the jurisdictional bar
+inapplicable and compel[s] setting aside the challenged agency
+action.” DCH Regional, 925 F.3d at 510 (quotation marks
+omitted). Put differently, the Hospitals’ claim is that
+subparagraph (12)(A)’s bar on judicial review does not apply
+if their merits argument is correct, not that their merits
+argument is so obviously correct that we should consider it
+despite an applicable bar on our review. DCH Regional itself
+recognized the distinction between cases involving a “Kyne
+exception” and cases such as this one in which “the relevant
+statutory bar . . . [is] effectively coextensive with the merits.”
+Id. at 509–10.
+
+     In sum, subparagraph (12)(A)’s bar on judicial review is
+inapplicable unless HHS’s challenged action qualifies as a
+“method for controlling unnecessary increases in . . . volume”
+under subparagraph (2)(F). Subparagraph (12)(A) then
+ultimately does not preclude judicial scrutiny of HHS’s action
+for consistency with subparagraph (2)(F). To be sure,
+subparagraph (12)(A) still forecloses inquiry into “whether
+[the] challenged agency decision is arbitrary, capricious, or
+procedurally defective.” Amgen, 357 F.3d at 113. But such
+claims are not before us here. As to the claim the Hospitals do
+raise, the question whether the Hospitals are correct and the
+                               14
+question whether the preclusion provision bars review of their
+claim are one and the same. We thus turn to assessing whether
+HHS had statutory authority to implement the challenged E&M
+reimbursement reduction.
+
+                              III.
+
+                               A.
+
+      We examine that question under the traditional Chevron
+framework, under which we defer to the agency’s reasonable
+interpretation of an ambiguous statute. See Chevron, U.S.A.,
+Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837 (1984). HHS
+is generally entitled to Chevron deference on judicial review of
+its interpretations of the Medicare statute. See Good Samaritan
+Hosp. v. Shalala, 508 U.S. 402, 414 (1993); Baystate Franklin
+Med. Ctr. v. Azar, 950 F.3d 84, 92 (D.C. Cir. 2020). The
+Hospitals urge us not to apply Chevron in this case for several
+reasons, none of which is persuasive.
+
+     First, we disagree that HHS forfeited any right to Chevron
+deference. To the contrary, HHS explained in the district court
+why its interpretation was entitled to Chevron treatment,
+invoked the doctrine twice in its opening brief in our court, and
+argued for it again in its reply brief. And in any event, our
+decisions hold that Chevron deference is not subject to
+forfeiture based on an agency’s litigation conduct if the
+agency’s challenged action “interpret[ed] a statute it is charged
+with administering in a manner (and through a process)
+evincing an exercise of its lawmaking authority.”
+SoundExchange, Inc. v. Copyright Royalty Bd., 904 F.3d 41, 54
+(D.C. Cir. 2018). That is the case here. See 83 Fed. Reg. at
+59,009, 59,011.
+                               15
+     Second, the Hospitals contend that HHS’s interpretation of
+subparagraph (2)(F) in the challenged rule is inconsistent with
+earlier agency pronouncements, such that the rule is arbitrary
+and unworthy of Chevron deference. See Encino Motorcars,
+LLC v. Navarro, 136 S. Ct. 2117, 2126 (2016). But HHS has
+never taken a definitive position on the scope of subparagraph
+(2)(F). The Hospitals point to one sentence in the agency’s first
+OPPS rulemaking cautioning that “[a]dditional study, analysis,
+and possible legislative modification would be necessary
+before [the agency] could consider implementing” a volume-
+control method involving direct changes to reimbursement.
+Medicare Program; Prospective Payment System for Hospital
+Outpatient Services, 63 Fed. Reg. 47,552, 47,586 (Sept. 8,
+1998). Even assuming that statement amounted to an
+announcement of agency policy, which is far from clear, its
+meaning is ambiguous. As the district court concluded in its
+decision, the agency might well have thought that a “possible
+legislative modification would be necessary” because its
+proposed volume-control method would have required
+amending a separate statutory formula pertaining to its
+proposal, not because it believed that direct rate changes could
+never qualify as a “method for controlling” volume under
+(2)(F). See Am. Hosp. Ass’n, 410 F. Supp. 3d at 157 n.8.
+
+    Nor, contrary to the Hospitals’ contention, has HHS long
+viewed subparagraph (2)(F) to require volume-control methods
+to be budget-neutral. It is true that the agency previously
+implemented a volume-control method called “packaging,”
+which bundles related services together into a single payment
+group, in a budget-neutral manner. See Medicare Program:
+Changes to the Hospital Outpatient Prospective Payment
+System and CY 2008 Payment Rates, 72 Fed. Reg. 66,580,
+66,615 (Nov. 27, 2007). That example, though, does not
+establish that HHS viewed (2)(F) as requiring budget-
+neutrality. The agency implemented “packaging” via other
+                               16
+statutory authorities, including its power to alter the
+composition of APC groups and their scaled
+weights. See id.at 66,611, 66,615; 42 U.S.C. § 1395l(t)(2)(B)–
+(C), (t)(9)(A). Those adjustment authorities require budget-
+neutrality. See 42 U.S.C. § 1395l(t)(9)(B). HHS implemented
+packaging in a budget-neutral way not because it was a (2)(F)
+method, but because it involved other statutory adjustments
+that call for budget-neutrality. See 72 Fed. Reg. at 66,615
+(budget-neutrality implicated because of “changes in APC
+weights and codes” and resulting “shifts in median costs” of
+those APCs).
+
+     Finally, we reject the Hospitals’ argument that Chevron
+does not apply when, as here, our consideration of the agency’s
+statutory authority merges with our consideration of the
+applicability of a preclusion provision. See Part II, supra. That
+result would mean that Congress’s decision to enact a
+preclusion provision operated to enhance judicial scrutiny and
+restrict the agency’s leeway. In precluding judicial review of
+certain HHS actions, though, Congress necessarily intended the
+opposite outcome. See Amgen, 357 F.3d at 112 (noting “havoc
+that piecemeal [judicial] review of OPPS payments could bring
+about”).
+
+                               B.
+
+     Having rejected the Hospitals’ arguments against applying
+Chevron, we proceed to review HHS’s interpretation of
+subparagraph 1395l(t)(2)(F) under Chevron’s two-step
+framework. We first ask whether “Congress has directly
+spoken to the precise question at issue.” Chevron, 467 U.S. at
+842. If so, our work is done, for we “must give effect to the
+unambiguously expressed intent of Congress.” Id. at 843. But
+if the statute is “silent or ambiguous with respect to th[at]
+specific issue,” id., we assume “Congress has empowered the
+                               17
+agency to resolve the ambiguity,” and we defer to the agency’s
+interpretation as long as it is reasonable. Util. Air Reg. Grp. v.
+EPA, 573 U.S. 302, 315 (2014).
+
+     The question at issue is whether HHS may reduce the
+OPPS reimbursement for a specific service, and may
+implement that cut in a non-budget-neutral manner, as a
+“method for controlling unnecessary increases in the volume
+of” the service. 42 U.S.C. § 1395l(t)(2)(F). In our view,
+Congress did not “unambiguously forbid” the agency from
+doing so. Barnhart v. Walton, 535 U.S. 212, 218 (2002); Nat’l
+Ass’n of Clean Water Agencies v. EPA, 734 F.3d 1115, 1125
+(D.C. Cir. 2013). We further conclude that the agency
+reasonably read subparagraph (2)(F) to allow a service-
+specific, non-budget-neutral reimbursement cut in the
+circumstances we consider here. We therefore hold that the
+agency acted within its statutory authority.
+
+                               1.
+
+    At step one of Chevron, “the court begins with the text,
+and employs ‘traditional tools of statutory construction’ to
+determine whether Congress has spoken directly to the issue.”
+Prime Time Intern. Co v. Vilsack, 599 F.3d 678, 683 (D.C. Cir.
+2010) (quoting Chevron, 467 U.S. at 842–43 & n.9). Applying
+those tools, we conclude that the OPPS statute does not directly
+foreclose HHS’s challenged rate reduction.
+
+     To begin with, a service-specific, non-budget-neutral rate
+reduction falls comfortably within the plain text of
+subparagraph (2)(F). Reducing the payment rate for a
+particular OPPS service readily qualifies, in common parlance,
+as a “method for controlling unnecessary increases in the
+volume” of that service. The lower the reimbursement rate for
+a service, the less the incentive to provide it, all else being
+                              18
+equal. Reducing the reimbursement rate thus is naturally suited
+to addressing unnecessary increases in the overall volume of a
+service provided by hospitals. As for whether a rate reduction
+under subparagraph (2)(F) can be non-budget-neutral, the
+provision simply says nothing about budget-neutrality. The
+text Congress enacted thus lends considerable support to the
+agency’s reading of the statute at Chevron step one. See Air
+Transp. Ass’n of Am. v. FAA, 169 F.3d 1, 4 (D.C. Cir. 1999)
+(because operative “language d[id] not preclude the [agency’s]
+interpretation,” the contrary “inference petitioner would draw
+as to the statute’s meaning [was] not inevitable”).
+
+     The broader statutory context bolsters the agency’s view
+that subparagraph (2)(F) authorizes service-specific rate cuts.
+Under our decision in Amgen, the agency can alter the
+reimbursement rate for a particular service under its
+subparagraph (2)(E) authority to make “adjustments [it]
+determine[s] to be necessary to ensure equitable payments,” 42
+U.S.C. § 1395l(t)(2)(E); see 357 F.3d at 117 (upholding use of
+equitable-adjustment authority to change “payment amount for
+a single drug”). If the agency can adjust payment rates in
+furtherance of the expansive purpose of achieving equitable
+payments, it stands to reason that the agency can also adjust
+rates to accomplish the more focused goal of controlling
+unnecessary volume growth. Indeed, as the Amgen court saw
+it, HHS’s robust “discretion” to adjust payment rates is a
+central feature of the statutory scheme. 357 F.3d at 114
+(quoting H.R. Rep. No. 105-149, at 1323 (1997) and H.R.
+Conf. Rep. No. 105-217, at 785 (1997)).
+
+     The statutory context also supports construing
+subparagraph (2)(F) to allow non-budget-neutral adjustments.
+If the statute otherwise permits the agency to make a
+discretionary rate reduction as a method of volume control, it
+would be anomalous for the law to require the rate cut to be
+                              19
+implemented budget-neutrally. That would require HHS to
+redistribute the costs traceable to the provision of unnecessary
+services throughout the OPPS, resulting in no net savings to
+Medicare and largely negating the point of reducing
+reimbursement in the first place. See 83 Fed. Reg. at 37,142–
+43.
+
+      The Hospitals warn that, on that reading, nothing
+“prevents [HHS] from engaging in cost-control measures that
+will disproportionately affect only some service providers and
+beneficiaries.” Hospitals Br. 7. But budget-neutrality offers
+little protection against such outcomes. If HHS reduces
+reimbursements for cardiac catheterizations and then
+redistributes the savings across the OPPS, that still hurts
+cardiologists much more than orthopedists even if cardiologists
+would get some money back in the form of slightly elevated
+reimbursements for other services they provide. The agency’s
+ability to advance Congress’s apparent goals in both budget-
+neutrality and subparagraph (2)(F)—namely, keeping growth
+in overall OPPS expenditures modest and predictable year to
+year, see generally supra pp. 5–6—would be undermined, not
+advanced, by requiring the savings from (2)(F) volume-control
+methods to be redistributed across the OPPS.
+
+     The Hospitals also contend that, budget-neutrality aside,
+subparagraph (2)(F) unambiguously does not encompass
+service-specific rate adjustments. The Hospitals argue in that
+regard that subparagraph (2)(F) does no more than enable the
+agency to develop an “analytical mechanism for determining
+whether there is an unnecessary increase in volume.” Hospitals
+Br. 31 (formatting modified). That argument rests on reading
+subparagraph (2)(F) in conjunction with subparagraph (9)(C),
+which provides that:
+                              20
+       If    the    Secretary     determines     under
+       methodologies described in paragraph (2)(F)
+       that the volume of services paid for under this
+       subsection     increased    beyond     amounts
+       established through those methodologies, the
+       Secretary may appropriately adjust the update
+       to the conversion factor otherwise applicable in
+       a subsequent year.
+
+42 U.S.C. § 1395l(t)(9)(C).
+
+     According to the Hospitals, subparagraph (9)(C) is the
+exclusive way for HHS to implement subparagraph (2)(F). On
+that understanding, (2)(F) empowers the agency to “develop a
+method” for diagnosing whether there has been too much
+growth in outpatient service volume, and if the agency decides
+there has, then it can respond by—and only by—using its
+(9)(C) authority to reduce the across-the-board conversion
+factor. (Recall that the conversion factor is the number by
+which relative payment weights for services are translated into
+actual reimbursement amounts.           See supra pp. 4–5.)
+Subparagraph (2)(F), under the Hospitals’ argument, does not
+itself authorize the agency to act on an unnecessary increase in
+volume upon finding that one exists, much less to do so on a
+service-specific basis. Rather, the agency can act only by
+reducing the overall conversion factor under (9)(C).
+
+     That interpretation of subparagraph (2)(F) is difficult to
+square with the provision’s language. Subparagraph (2)(F)
+directs the agency to develop “a method for controlling
+unnecessary increases” in volume, not just a method for
+assessing whether unnecessary increases exist. And we think
+it unlikely that Congress would have confined the agency’s
+volume-control arsenal to the very blunt instrument of reducing
+the across-the-board conversion factor. The Hospitals identify
+                              21
+no reason to suppose that Congress would have been concerned
+only about overall OPPS volume growth, which the conversion
+factor can suitably address, but not about unwarranted growth
+in the volume of a single service, which the conversion factor
+cannot.     Cutting the conversion factor would reduce
+reimbursement equally for every OPPS service, a poorly
+tailored, ineffectual “method” of controlling undesirable
+volume growth in a specific service.
+
+     The Hospitals respond that HHS’s reading of (2)(F)
+renders subparagraph (9)(C) redundant, because cutting the
+conversion factor fits textually as a “method for controlling”
+unnecessary volume. We do not see the redundancy.
+Subparagraph (9)(C) appears to come into play only after the
+agency first attempts to address unnecessary volume increases
+through methodologies implemented under subparagraph
+(2)(F): “If the Secretary determines under methodologies
+described in paragraph (2)(F) that” volume has “increased
+beyond amounts established through those methodologies, the
+Secretary may appropriately adjust the update to the conversion
+factor applicable in a subsequent year.”             42 U.S.C.
+§ 1395l(t)(9)(C) (emphases added). Because the (9)(C)
+authority thus kicks in only after the (2)(F) authority has been
+attempted and found inadequate, the former necessarily is not
+redundant of the latter.
+
+     At any rate, even if subparagraph (9)(C) did amount to
+surplusage under HHS’s reading of (2)(F), that would not
+necessarily compel rejecting the agency’s interpretation of
+(2)(F) at Chevron step one. “[A]t times Congress drafts
+provisions that appear duplicative of others—simply, in
+Macbeth’s words, ‘to make assurance double sure.’” Fla.
+Health Scis. Ctr., Inc. v. Sec’y of Health & Human Servs., 830
+F.3d 515, 520 (D.C. Cir. 2016) (citation omitted)). There may
+have been particular reason for Congress to do so here. In
+                               22
+specifying how HHS is to calculate the conversion factor, the
+statute envisions that the conversion factor will generally be
+“increased” each year, 42 U.S.C. § 1395l(t)(3)(C), (t)(3)(C)(ii).
+In that light, Congress could have thought it desirable to
+confirm the agency’s power to reduce the conversion factor in
+response to volume growth, as subparagraph (9)(C) does.
+
+     Next, the Hospitals argue that subparagraph (2)(F)’s
+silence on budget-neutrality is itself evidence that Congress
+could not have intended the provision to allow direct rate
+adjustments. As noted, subparagraph (2)(F) does not address
+whether volume-control “method[s]” under that provision must
+be implemented in a budget-neutral fashion. Yet the OPPS
+statute nearly always specifies, one way or the other, whether
+a rate-adjustment authority must be exercised budget-neutrally.
+See Am. Hosp. Ass’n, 410 F. Supp. 3d at 159 (citing
+provisions).     To the Hospitals, subparagraph (2)(F)’s
+comparative silence indicates that Congress did not intend the
+provision to authorize changes to payment rates.
+
+     But subparagraph (2)(F) undisputedly authorizes actions
+other than direct rate adjustments, and for at least some of those
+actions, a budget-neutrality requirement would make no sense.
+For example, the Hospitals do not dispute that subparagraph
+(2)(F) would allow HHS, as a volume-control method, to
+require additional paperwork from hospitals seeking
+reimbursement for certain outpatient procedures. That kind of
+volume-control method, of course, is insusceptible to a budget-
+neutrality mandate. Thus, (2)(F)’s silence on budget-neutrality
+tells us little about whether (2)(F) includes the authority to
+reduce a particular OPPS rate.
+
+    Lastly, the Hospitals make a similar argument based on
+paragraph 1395l(t)(4), which sets out how “[t]he amount of
+payment made from the Trust Fund under this part for a
+                               23
+covered [outpatient] service . . . furnished in a year is
+determined.” 42 U.S.C. § 1395l(t)(4). Paragraph (4) makes no
+mention of subparagraph (2)(F). But it expressly allows
+payment amounts to be “adjusted” under other provisions, such
+as subparagraphs (2)(D) and (2)(E), which authorize various
+adjustments including labor-cost adjustments and equitable
+adjustments. That, the Hospitals contend, is strong evidence
+that Congress did not intend direct modification of OPPS
+payment rates via subparagraph (2)(F).
+
+     Text and precedent, however, indicate that not all changes
+to OPPS rates must flow through paragraph (4). A number of
+provisions in the OPPS statute authorize HHS to set or adjust
+reimbursement rates for specific outpatient services but are
+unaddressed by paragraph (4). See 42 U.S.C. § 1395l(t)(14)
+(providing separate formula for calculating “amount of
+payment under this subsection for a specified covered
+outpatient drug”); id. § 1395l(t)(15) (prescribing “amount [to
+be] provided for payment for [an ungrouped] drug or biological
+under this part”); id. § 1395l(t)(16)(D) (requiring payment
+reduction for a certain surgical procedure performed by certain
+hospitals); id. § 1395l(t)(16)(F)(i)–(ii) (requiring payment
+reductions for various imaging services); id. § 1395l(t)(22)
+(authorizing Secretary to make “revisions to payments” “made
+under this subsection for covered [outpatient] services” in order
+to decrease opioid prescriptions). Consequently, paragraph (4)
+is best understood to set out only the general mechanism—not
+the exclusive mechanism—by which specific OPPS rates for
+covered services are “determined.”
+
+    Our decision in Amgen supports that understanding of
+paragraph (4). In that case, HHS used its equitable-adjustment
+authority under subparagraph (2)(E) to reduce a “transitional
+pass-through” payment for a drug to zero dollars. 357 F.3d at
+107. The drug’s manufacturer complained that HHS could not
+                               24
+make that sort of equitable adjustment because paragraph (t)(6)
+lays out a specific formula for determining the “amount of the
+[transitional pass-through] payment.”         See 42 U.S.C.
+§ 1395l(t)(6)(A), 1395l(t)(6)(D).       Amgen rejected that
+argument, holding that (t)(6)’s seemingly “mandatory”
+provisions establish only “default OPPS rate calculations
+subject to later adjustment.” 357 F.3d at 115. Under Amgen,
+then, although (t)(6) specifies in detail how pass-through
+payments must be calculated without mentioning subparagraph
+(2)(E), the agency can nonetheless adjust the results of the
+(t)(6) formula using its (2)(E) authority. The same, we think,
+is true—or at least, not unambiguously untrue—of (t)(4) and
+(2)(F), respectively.
+
+    We thus conclude that the OPPS statute does not
+unambiguously foreclose HHS’s adoption of a service-specific,
+non-budget-neutral rate cut as a “method for controlling
+unnecessary increases in” volume. 42 U.S.C. § 1395l(t)(2)(F).
+The statute is at least ambiguous as to whether that sort of rate
+adjustment lies within the agency’s (2)(F) authority.
+
+                               2.
+
+     At Chevron step two, we ask whether the agency’s
+interpretation “is based on a permissible construction of the
+statute.” Nat’l Ass’n of Clean Water Agencies v. EPA, 734 F.3d
+1115, 1128 (D.C. Cir. 2013) (quoting Chevron, 467 U.S. at
+843). “A ‘reasonable’ explanation of how an agency’s
+interpretation serves the statute’s objectives is the stuff of
+which a ‘permissible’ construction is made.” Northpoint Tech.,
+Ltd. v. FCC, 412 F.3d 145, 151 (D.C. Cir. 2005) (citation
+omitted).
+
+    The challenged rule meets that standard. The agency
+explained that recent growth in the volume of E&M services
+                               25
+provided at off-campus PBDs was “unnecessary because it
+appears to have been incentivized by the difference in payment
+for each setting rather than patient acuity.” 83 Fed. Reg. at
+59,007. The agency further concluded that reducing payments
+in order to eliminate that incentive “would be an effective
+method to control the volume of these unnecessary services
+because the payment differential that is driving the site-of-
+service decision will be removed.” Id. at 59,009.
+
+     That interpretation of subparagraph (2)(F) is both
+“textually defensible” and “fits ‘the design of the statute as a
+whole and . . . its object and policy.’” Good Samaritan Hosp.,
+508 U.S. at 418, 419 (quoting Crandon v. United States, 494
+U.S. 152, 158 (1990)). It is reasonable to think that Congress,
+which cared enough about unnecessary volume to instruct the
+agency to “develop a method for controlling” it, would have
+wanted the agency to avoid causing unnecessary volume
+growth with its own reimbursement practices. We thus defer
+to the agency’s conclusion that (2)(F) allowed it to address that
+problem by reducing a specific rate.
+
+     Sustaining HHS’s challenged reduction in this case would
+not necessarily leave the agency free “to set any payment rate
+for any service, without regard to the fine-grained statutory
+scheme enacted by Congress.” Hospitals Br. 45. It is one thing
+for HHS to use its subparagraph (2)(F) authority to eliminate a
+volume-growth incentive created, in the agency’s view, by a
+differential in its own payment rates. It may be another thing
+for the agency to reduce payment for a service under (2)(F)
+merely because doing so would decrease volume that HHS
+decides is “unnecessary.” We have no occasion to decide
+whether an action of that kind would rest on a reasonable
+interpretation of the OPPS statute. Cf. Nat. Res. Def. Council
+v. EPA., 777 F.3d 456, 469 (D.C. Cir. 2014) (agency’s
+interpretation cannot be “untethered to Congress’s approach”
+                              26
+at Chevron step two); Amgen, 357 F.3d at 117 (equitable
+adjustments may not “work basic and fundamental changes in
+the scheme Congress created in the Medicare Act” (quotation
+omitted)).
+
+     In short, we conclude under Chevron that HHS’s reduction
+in reimbursement for E&M services provided by off-campus
+PBDs qualifies as a “method for controlling unnecessary
+increases in the volume of covered [outpatient] services.” 42
+U.S.C. § 1395l(t)(2)(F). Because the challenged rate cut is thus
+a “method[] described in paragraph (2)(F),” judicial review
+of that action is precluded by the statute.            See id.
+§ 1395l(t)(12)(A). Consequently, neither we nor the district
+court has jurisdiction over the Hospitals’ challenge.
+
+                              IV.
+
+     The Hospitals argue in the alternative that HHS’s decision
+to reduce E&M reimbursement to off-campus PBDs
+contravenes section 603 of the Bipartisan Budget Act of 2015.
+As explained, Congress enacted that provision in response to
+reports that the payment differential between off-campus PBDs
+and freestanding physician practices had induced hospitals to
+purchase those practices. Section 603 established that services
+performed at off-campus PBDs would no longer be paid under
+the OPPS but instead would be paid under a scheme
+approximating the Physician Fee Schedule. See 42 U.S.C.
+§ 1395l(t)(1)(B)(v), 1395l(t)(21)(C). But the law exempted
+“department[s] of a provider . . . that [furnished covered
+outpatient services] prior to November 2, 2015.”             Id.
+§ 1395l(t)(21)(B)(ii). In the Hospitals’ view, Congress’s
+decision to leave the rates paid to preexisting off-campus PBDs
+unaddressed in section 603 means that the statute should be
+read to bar HHS from cutting reimbursement rates for those
+facilities.
+                               27
+
+     Because the Hospitals’ section 603 argument targets
+agency action we have already determined qualifies as a
+“method[] described in paragraph (2)(F),” we are doubtful we
+have jurisdiction to consider it. See id. § 1395l(t)(12)(A). In
+any event, we reject the argument on the merits. (The law of
+our circuit allows a court to assume hypothetical statutory
+jurisdiction even if we cannot assume Article III jurisdiction.
+See Kramer v. Gates, 481 F.3d 788, 791 (D.C. Cir. 2007).)
+Nothing in the text of section 603 indicates that preexisting off-
+campus PBDs are forever exempt from adjustments to their
+reimbursement. Rather, the text of the law exempts those
+providers from the change mandated by section 603 itself,
+leaving the exempted providers subject to all the provisions of
+the OPPS statute, including subparagraph (2)(F). It bears
+noting, moreover, that section 603’s exemption of preexisting
+off-campus PBDs from the reimbursement reductions effected
+by that statute retains practical effect for all OPPS services
+except the one type of service (E&M services) addressed by the
+challenged rule.
+
+     Trying a different approach, the Hospitals contend that
+section 603 demonstrates Congress’s judgment that increases
+in volume at preexisting off-campus PBDs are not
+“unnecessary” in the sense contemplated by subparagraph
+(2)(F). But even assuming that were true for increases in
+volume occurring by 2015, when section 603 was enacted, it
+would not mean that Congress considered acceptable the
+continued volume increases later taking place in 2016, 2017, or
+2018, on which HHS relied in adopting the challenged rule.
+See 83 Fed. Reg. at 37,139; MedPAC, Report to the Congress:
+Medicare       Payment      Policy     73     (Mar.     2018),
+https://go.usa.gov/xdCzu. Section 603 thus does not stand in
+the way of the agency’s challenged rate reduction under (2)(F).
+                             28
+                     *   *    *   *    *
+
+     For the foregoing reasons, we reverse the judgment of the
+district court.
+
+                                                  So ordered.
+

@@ -1,0 +1,463 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 25, 2022                Decided July 15, 2022
+
+                         No. 21-5122
+
+      AMERICAN CLINICAL LABORATORY ASSOCIATION,
+                      APPELLANT
+
+                              v.
+
+XAVIER BECERRA, SECRETARY, UNITED STATES DEPARTMENT
+           OF HEALTH AND HUMAN SERVICES,
+                      APPELLEE
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:17-cv-02645)
+
+
+     Ashley C. Parrish argued the cause for appellant. With her
+on the briefs were Mark D. Polston and Gabriel Krimm.
+
+     McKaye L. Neumeister, Attorney, U.S. Department of
+Justice, argued the cause for appellee. With her on the brief
+were Brian M. Boynton, Acting Assistant Attorney General at
+the time the brief was filed, Abby C. Wright, Attorney, Janice
+L. Hoffman, Associate General Counsel, U.S. Department of
+Health & Human Services, and Susan Maxson Lyons, Deputy
+Associate General Counsel for Litigation.
+                                 2
+    Before: MILLETT, WILKINS, and JACKSON*, Circuit
+Judges.
+
+    Opinion for the Court filed by Circuit Judge WILKINS.
+
+
+     WILKINS, Circuit Judge:         The Protecting Access to
+Medicare Act of 2014 (“PAMA” or “Act”), Pub. L. No. 113-
+93, 128 Stat. 1040, requires “applicable laborator[ies]” to
+report private payor—e.g., an insurance company—rates for
+laboratory tests to the Secretary of Health and Human Services
+(“HHS”). The Medicare program then uses private market
+payment rate data to set new Medicare reimbursement rates for
+laboratory tests. Specifically, PAMA directs the Secretary to
+calculate the “weighted median” of private payor data, which
+informs Medicare payment rates.            42 U.S.C. § 1395m-
+1(b)(1)(A). The Act provides that once Medicare rates are
+calculated, “the payment amounts . . . shall continue to apply
+until the year following the next data collection period.”
+Id. § 1395m-1(b)(4)(A). The Act further states that “[t]he
+payment amounts . . . shall not be subject to any adjustment.”
+Id. § 1395m-1(b)(4)(B).
+
+     In 2016, the Secretary issued a final rule that implemented
+PAMA’s definition of “applicable laboratory.” Medicare
+Program; Medicare Clinical Diagnostic Laboratory Tests
+Payment System, 81 Fed. Reg. 41,036 (June 23, 2016) (“2016
+Rule”). The American Clinical Laboratory Association
+(“ACLA”) filed a lawsuit challenging the 2016 Rule as
+arbitrary and capricious under the Administrative Procedure
+Act (“APA”) on the basis that it depresses Medicare
+reimbursement rates by excluding most hospital laboratories
+
+*
+  Circuit Judge, now Justice, Jackson was a member of the panel at
+the time the case was argued but did not participate in this opinion.
+                               3
+from PAMA’s reporting requirements. Specifically, ACLA
+contends that because hospital laboratories tend to charge
+higher prices than standalone laboratories, their exclusion from
+reporting obligations results in an artificially low weighted
+median.
+
+     This Court assumes familiarity with the procedural,
+regulatory, and factual background of this case, which another
+panel of this Court laid out in a prior opinion. See Am. Clinical
+Lab’y Ass’n v. Azar, 931 F.3d 1195 (D.C. Cir. 2019) (“ACLA
+I”). In ACLA I, we reversed the District Court’s dismissal of
+ACLA’s complaint challenging the 2016 Rule for lack of
+subject matter jurisdiction, see Am. Clinical Lab’y Ass’n v.
+Azar, 334 F. Supp. 3d 301 (D.D.C. 2018) (holding that PAMA
+bars judicial review of the Secretary’s data collection
+practices), and remanded to the District Court to consider in the
+first instance whether the 2016 Rule is consistent with the
+APA. See ACLA I, 931 F.3d at 1198.
+
+     On remand, the parties cross-moved for summary
+judgment. The District Court again declined to reach the merits
+of ACLA’s APA challenge to the 2016 Rule, based on its
+determination that the Secretary had issued a new rule (“2018
+Rule”) that superseded the 2016 Rule and mooted ACLA’s
+lawsuit. Am. Clinical Lab’y Ass’n v. Becerra, No. 17-2645,
+2021 WL 1197729, at *3–6 (D.D.C. Mar. 30, 2021). In
+relevant part, the 2018 Rule provides a more expansive
+definition of “applicable laboratory” and subjects more
+hospital laboratories to PAMA’s reporting requirements.
+Medicare Program; Revisions to Payment Policies Under the
+Physician Fee Schedule and Other Revisions, 83 Fed. Reg.
+59,452 (Nov. 23, 2018) (“2018 Rule”). ACLA appeals the
+District Court’s dismissal for mootness on the grounds that
+ACLA members continue to suffer from “downstream effects”
+                               4
+of the 2016 Rule, notwithstanding the Secretary’s
+promulgation of the 2018 Rule. Appellant Opening Br. at 35.
+
+     We conclude that the case is not moot. Accordingly, we
+reverse the District Court’s dismissal for lack of subject matter
+jurisdiction and reach the merits of ACLA’s APA claim.
+
+                               I.
+
+     Under the Act, an applicable laboratory is “a laboratory
+that, with respect to its revenues under this subchapter, a
+majority of such revenues are from this section, section
+1395l(h) of this title, or section 1395w-4 of this title.”
+42 U.S.C. § 1395m-1(a)(2). This definition refers to a
+laboratory that receives most of its overall Medicare funding
+from the Physician Fee Schedule or the Clinical Laboratory Fee
+Schedule. ACLA I, 931 F.3d at 1199–1200. These fee
+schedules, in turn, typically “pay for laboratory services
+provided by independent laboratories and physician-office
+laboratories.” Id. at 1200. As a general matter, hospital
+laboratories that provide “outreach services”—services for
+people who are neither hospital inpatients or outpatients—fall
+within the ambit of PAMA’s definition of an applicable
+laboratory, so long as they receive most of their Medicare
+revenue from the Physician Fee Schedule or Clinical
+Laboratory Fee Schedule. Id.
+
+    The 2016 Rule implemented PAMA’s definition of
+“applicable laboratory” by identifying laboratories that would
+be subject to reporting requirements by their National Provider
+Identifier (“NPI”) number. (Healthcare providers generally use
+an NPI number to bill Medicare.) But as this Court previously
+observed in ACLA I, “very few hospitals have laboratory-
+specific NPIs, and they generally submit claims under the
+hospital’s NPI.” 931 F.3d at 1202 (alteration accepted)
+                               5
+(internal quotation marks and citation omitted). Therefore,
+because hospital laboratories that provide outreach services do
+not typically have their own NPIs, the 2016 Rule exempts these
+entities from data reporting requirements, even if they meet
+PAMA’s statutory definition of an “applicable laboratory.”
+See 42 U.S.C. § 1395m-1(a)(2). As such, ACLA contends that
+the 2016 Rule excludes “a large swath of the clinical laboratory
+marketplace from the statutory reporting requirements,” which
+“reduces the weighted median of all reported tests, [thereby]
+depressing the Medicare reimbursement rates.” Appellant
+Opening Br. at 2, 14.
+
+     Before this Court issued ACLA I, the Secretary
+promulgated the 2018 Rule, which “requires laboratories
+providing outreach services to report data using the CMS-1450
+14x TOB—a billing form used only by hospital outreach
+laboratories.” ACLA I, 931 F.3d at 1202 (citing 2018 Rule, 83
+Fed. Reg. at 59,673–75). In so doing, the Secretary amended
+the definition of “applicable laboratory” to include hospital
+laboratories that provide outreach services. This presumably
+resolved ACLA’s key grievance with the 2016 Rule.
+Nevertheless, because the 2018 Rule was “not at issue” in
+ACLA I, a panel of this Court ultimately determined that ACLA
+had associational standing to challenge the 2016 Rule and that
+PAMA’s jurisdiction-stripping provisions—with respect to
+judicial review of payment amounts—did not bar judicial
+review of a final rule. ACLA I, 931 F.3d at 1202, 1203–08.
+Accordingly, the Court reversed the District Court’s holding on
+subject matter jurisdiction and remanded to the District Court
+to adjudicate the merits of ACLA’s arbitrary-and-capricious
+challenge to the 2016 Rule. Id. at 1209.
+
+    On remand, the District Court reasoned that because
+ACLA’s lawsuit did not challenge the 2018 Rule, “the only
+remedy that would be available to plaintiff here would be
+                                6
+retrospective relief for any past payments that were calculated
+using the only [sic] 2016 Rule – that is, payments calculated
+for 2018-20 based on data collected data [sic] in early 2017
+using the challenged definition.” Am. Clinical Lab’y Ass’n,
+2021 WL 1197729, at *5 (citation omitted). But PAMA “bars
+judicial review of ‘the establishment of [Medicare] payment
+amounts.’”       Id. (quoting 42 U.S.C. § 1395m-1(h)).
+Accordingly, the District Court held that “even if the Court
+were to rule in plaintiff’s favor on the merits, it could not order
+the agency to revise any payment amounts in the fee schedules
+used to determine 2018-20 payments or any particular
+payments to plaintiff’s members.” Id. at *5 (citation omitted).
+“Further, the Court could not vacate [the 2016 Rule] and order
+the Secretary to bring his regulations into compliance with the
+Medicare statute since the [2016 Rule’s] definition is no longer
+in effect.” Id. at *6. Accordingly, the District Court
+determined that ACLA’s lawsuit was moot and dismissed the
+case for lack of subject matter jurisdiction for a second time.
+Id.
+
+                                II.
+
+     This Court reviews the district court’s dismissal for lack of
+subject matter jurisdiction de novo. Fla. Health Scis. Ctr., Inc.
+v. Sec’y of Health & Hum. Servs., 830 F.3d 515, 518 (D.C. Cir.
+2016); ACLA I, 931 F.3d at 1202–03.
+
+      The “constitutional minimum of standing contains three
+elements”: (1) a concrete and particularized “injury-in-fact”;
+(2) that is fairly traceable to the challenged conduct; and (3) is
+likely to be redressed by a favorable decision. Lujan v. Defs.
+of Wildlife, 504 U.S. 555, 560–61 (1992). To demonstrate
+associational standing, ACLA must show that “at least one of
+[its] members satisfies the three elements” outlined in Lujan.
+                               7
+See Am. Libr. Ass’n v. FCC, 401 F.3d 489, 492 (D.C. Cir. 2005)
+(citing Lujan, 504 U.S. at 560).
+
+     We begin by assuring ourselves, as we must, that ACLA
+had standing at the time it filed its complaint, Friends of the
+Earth, Inc. v. Laidlaw Env’t Servs. (TOC), Inc., 528 U.S. 167,
+180 (2000), and that ACLA presented sufficient evidence of its
+standing in support of the motion for summary judgment under
+review, Lujan, 504 U.S. at 561.
+
+    In ACLA I, we held that ACLA had established
+associational standing at the outset of the litigation. See ACLA
+I, 931 F.3d at 1203–04. ACLA also presented sufficient
+evidence of standing in support of its motion for summary
+judgment. ACLA has maintained associational standing
+through its members, including Aculabs, Inc. (“Aculabs”).
+J.A. 44; see Narragansett Indian Tribal Hist. Pres. Off. v.
+FERC, 949 F.3d 8, 12 (D.C. Cir. 2020). As evidenced by a
+declaration from its president, Aculabs suffered two injuries.
+
+     First, Aculabs has suffered a competitive injury, compared
+to hospital-based laboratories. Pursuant to PAMA, Aculabs
+reports private payor data to the Secretary, J.A. 50–52, but the
+Secretary exempts other market participants—like hospital-
+based laboratories—from PAMA’s reporting requirements,
+which puts Aculabs at a competitive disadvantage. Appellant
+Opening Br. at 34–35; see ACLA I, 931 F.3d at 1203. Second,
+the 2016 Rule’s data collection regime has injured Aculabs by
+skewing the reimbursement rates on the Clinical Laboratory
+Fee Schedule lower. J.A. 50–51; see ACLA I, 931 F.3d at 1203.
+Consequently, Aculabs projects significant financial harm: it
+will not receive enough Medicare reimbursement to cover its
+costs. J.A. 51. In sum, Aculabs’ injuries-in-fact—its
+competitive injury and lower reimbursement rates—are fairly
+traceable to the 2016 Rule, and they were redressable at the
+                               8
+time ACLA filed its complaint. ACLA I, 931 F.3d at 1204; see
+U.S. Gov’t Accountability Off., GAO-19-67, Medicare
+Laboratory Tests: Implementation of New Rates May Lead to
+Billions in Excess Payment 12 (2018); Medicare Payment
+Advisory Comm’n, Report to the Congress: Medicare and the
+Health Care Delivery System 297, 306, 324 (2021). The
+injuries are still redressable today because declaratory relief
+that the 2016 Rule is invalid will prevent its reinstatement in
+the future. See Friends of the Earth, 528 U.S. at 185 (“[A]
+plaintiff must demonstrate standing separately for each form of
+relief sought.”).
+
+     Furthermore, contrary to the District Court’s
+determination, the fact that the Secretary replaced the 2016
+Rule with the 2018 Rule did not moot this case. We conclude
+that HHS—as “the party asserting mootness”—has not met
+“[t]he ‘heavy burden of persua[ding]’ the court that the
+challenged conduct cannot reasonably be expected to start up
+again[.]” Id. at 189 (alteration in original) (citation omitted).
+
+     For example, in the 2018 Rule, the agency reiterated that
+it “continue[d] to believe that the NPI is the most effective
+mechanism for identifying Medicare revenues[.]” 83 Fed. Reg.
+at 59,672. The agency acknowledged that it would “only know
+the impact of the [new] data [collection scheme] on [Clinical
+Laboratory Fee Schedule] rates by collecting data from hospital
+outreach laboratories.” Id. at 59,674. Further, HHS expressly
+left open the possibility of “revisit[ing] the use of the CMS-
+1450 14x TOB through future rulemaking” if “it becomes
+apparent that the data from hospital outreach laboratories do
+not result in a significant change in the weighted median of
+private payor rates,” id., which is what the agency expects to
+happen. See, e.g., Appellee Br. at 41 (“ACLA . . . failed to
+establish that any increase in the number of laboratories
+reporting would have ultimately influenced the fee schedule.”),
+                                 9
+60 (“There is . . . no reason to think that the data set used [under
+the 2016 Rule] was inaccurate. . . .”), 62 (“‘[A]dditional
+reporting may not be likely to change payment rates,
+irrespective of how many additional smaller laboratories are
+required to report.’”) (quoting 2016 Rule, 81 Fed. Reg. at
+41,049). Furthermore, during oral argument, HHS continued
+to defend its policy of relying on NPIs. See Oral Arg. Tr. 13:2–
+14:3. Accordingly, pursuant to the voluntary cessation
+doctrine, the government failed to meet its burden to establish
+that “there is no reasonable expectation that” the agency will
+restore the 2016 Rule. Zukerman v. U.S. Postal Serv., 961 F.3d
+431, 442 (D.C. Cir. 2020) (internal quotation marks and
+citations omitted).
+
+     In other words, the record evidence in this case reflects that
+the agency has only “temporarily alter[ed] [its] questionable
+behavior.” City News & Novelty, Inc. v. City of Waukesha, 531
+U.S. 278, 284 n.1 (2001); see also City of Mesquite v. Aladdin’s
+Castle, Inc., 455 U.S. 283, 289 (1982) (declining to find
+mootness because “[t]here is no certainty that a similar course
+would not be pursued if [the city’s] most recent amendment
+were effective to defeat federal jurisdiction”); Deja Vu of
+Nashville, Inc. v. Metro. Gov’t of Nashville & Davidson Cnty.,
+Tenn., 274 F.3d 377, 387 (6th Cir. 2001) (declining to find
+mootness despite change in city ordinance because the city
+“repeatedly expressed its intention to reenact those portions of
+the Ordinance judged unconstitutional by the district court at
+the earliest opportunity”).
+
+     To be sure, “[c]ourts have noted that structural obstacles
+to reimposing a challenged law—such as a full repeal and the
+need to undertake new lawmaking—generally moot a case.”
+Alaska v. U.S. Dep’t of Agric., 17 F.4th 1224, 1229 n.5 (D.C.
+Cir. 2021). And certainly, the government will more easily
+meet its burden to demonstrate mootness where structural
+                               10
+obstacles are combined with a record “where nothing suggests”
+voluntary cessation. Id. In contrast, in American Bankers
+Association v. National Credit Union Administration, 934 F.3d
+649 (D.C. Cir. 2019), this Court determined that a challenge to
+an agency rule was not moot because the government
+“evince[d]” the “inten[tion] to reinstitute” the challenged
+portion of the rule. Id. at 661. Such is the case here.
+
+     Furthermore, on remand, the District Court ruled that it
+lacked subject matter jurisdiction over ACLA’s lawsuit
+because the Medicare statute requires claim presentment and
+exhaustion, pursuant to 42 U.S.C. § 405(h), but ACLA satisfied
+neither requirement. Am. Clinical Lab’y Ass’n, 2021 WL
+1197729, at *4. Again, we disagree.
+
+     “To obtain judicial review of claims arising under the
+Medicare Act, a plaintiff must first present the claims to the
+Secretary of Health and Human Services.” Am. Hosp. Ass’n v.
+Azar, 895 F.3d 822, 823 (D.C. Cir. 2018). Section 405(h)
+“divests the district courts of federal-question jurisdiction ‘on
+any claim arising under’ Title II of the Social Security Act.”
+Id. at 825 (quoting 42 U.S.C. § 405(h)). Another statute,
+42 U.S.C. § 1395ii, provides that section 405(h) applies to the
+Medicare Act. Am. Hosp. Ass’n, 895 F.3d at 825. We conclude
+that ACLA fulfilled the requirements of presentment and
+exhaustion through its member, BioReference Laboratories
+(“BioReference”), which presented claims to the agency and
+exhausted its administrative remedies. See Appellant Reply Br.
+at 12–13. The government does not dispute the fact that
+BioReference is a member of ACLA.
+
+                              III.
+
+     Because we have jurisdiction over ACLA’s lawsuit, we
+will turn to the merits of ACLA’s APA challenge to the 2016
+                              11
+Rule. In short, ACLA contends that the 2016 Rule’s
+implementation of the term “applicable laboratory”
+contravenes the APA because its reliance on NPIs ultimately
+excludes hospital laboratories that provide outreach services
+from data reporting requirements. Accordingly, the 2016 Rule
+results in inaccurate marketplace data and depresses Medicare
+reimbursement rates.
+
+     Under the familiar standards of the APA, we must “set
+aside agency action” that is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.”
+5 U.S.C. § 706(2)(A). “We will uphold the agency’s action if
+the agency ‘examine[d] the relevant data and articulate[d] a
+satisfactory explanation for its action including a rational
+connection between the facts found and the choice made.’”
+Baystate Franklin Med. Ctr. v. Azar, 950 F.3d 84, 89 (D.C. Cir.
+2020) (quoting Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State
+Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)). Agency
+action is arbitrary and capricious “if the agency has relied on
+factors which Congress has not intended it to consider”;
+“entirely failed to consider an important aspect of the
+problem”; “offered an explanation for its decision that runs
+counter to the evidence before [it]”; or “is so implausible that
+it could not be ascribed to a difference in view or the product
+of agency expertise.” State Farm, 463 U.S. at 43. “The scope
+of review under the ‘arbitrary and capricious’ standard is
+narrow and a court is not to substitute its judgment for that of
+the agency.” Id.
+
+    We hold that the 2016 Rule is arbitrary and capricious
+because the agency “failed to consider an important aspect of
+the problem.” Id. PAMA provides that an applicable
+laboratory “means a laboratory that” receives “a majority” of
+its Medicare revenues from the Physician Fee Schedule or
+Clinical Laboratory Fee Schedule. See 42 U.S.C. § 1395m-
+                               12
+1(a)(2). “Considered as a freestanding entity, a hospital
+laboratory that offered outreach services could fit the statutory
+definition of an applicable laboratory if it received most of its
+Medicare revenue from the [Physician Fee Schedule] and
+[Clinical Laboratory Fee Schedule].” ACLA I, 931 F.3d at
+1200. Thus, hospital laboratories that provide outreach
+services may, in some instances, constitute “applicable
+laboratories” under PAMA. Cf. 2016 Rule, 81 Fed. Reg. at
+41,045 (noting that “[m]ost hospital laboratories will not meet
+the majority of revenues threshold”) (emphasis added).
+
+     The 2016 Rule is arbitrary and capricious because it failed
+to reasonably explain the agency’s use of NPIs to identify
+laboratory revenue. Pursuant to the 2016 Rule’s data-reporting
+requirements, the Secretary decided to identify laboratories by
+their NPIs. ACLA I, 931 F.3d at 1208. The statute does not,
+however, answer the precise question of how to identify “[a
+laboratory’s]     revenues      under     this    subchapter.”
+42 U.S.C. § 1395m-1(a)(2). Depending on how revenue is
+identified, “a hospital laboratory without its own, laboratory-
+specific NPI [does] not qualify as an applicable laboratory”
+under the Secretary’s definition, and thus hospital outreach
+laboratories without NPIs would not be subject to reporting
+requirements. ACLA I, 931 F.3d at 1208. This is problematic,
+given that the agency specifically determined that its rule
+should capture data from hospital outreach laboratories. See
+2016 Rule, 81 Fed. Reg. at 41,045–46; 2018 Rule, 83 Fed. Reg.
+at 59,668, 59,671, 59,674. ACLA even submitted comments
+during the rulemaking process that should have alerted HHS to
+the fact that few hospital laboratories have NPIs, but HHS
+nevertheless failed to address the Rule’s under-inclusive
+nature. See 2016 Rule, 81 Fed. Reg. at 41,046–47.
+
+     Thus, the agency, without adequate explanation, exempted
+a sizable portion of the laboratories covered by the statute from
+                                13
+data reporting requirements. Furthermore, the agency admitted
+at oral argument that it did not even know how many outreach
+laboratories had NPIs, and it has never disputed ACLA’s
+argument that the number is low. See Oral Arg. Tr. 11:22–
+12:11. Indeed, only 21 hospital laboratories—out of a total of
+1,942 reporting laboratories—reported their data, even though
+hospital laboratories accounted for nearly a quarter of Medicare
+payments made under the Clinical Laboratory Fee Schedule in
+2015. J.A. 63, 432. And those 21 hospitals represented only
+“one percent of all reporting entities and less than one half of
+one percent of all hospital labs paid under Medicare Part B for
+lab services in 2015.” J.A. 433. For these reasons, we conclude
+that the agency did not justify its decision to identify applicable
+laboratory revenues by NPIs.
+
+                               IV.
+
+     For the foregoing reasons, the judgment of the District
+Court is reversed and the case is hereby remanded for further
+proceedings consistent with this opinion. The District Court is
+instructed to enter a declaratory judgment in favor of ACLA.
+This relief is prospective and will neither require the Secretary
+to accelerate the data reporting period for laboratories nor
+recalculate past Medicare reimbursement rates, in light of
+PAMA’s provision stripping jurisdiction to review Medicare
+payment amounts, see 42 U.S.C. § 1395m-1(h)(1).
+Furthermore, because HHS has already replaced the 2016 Rule
+with the 2018 Rule—which provides an updated methodology
+for collecting information from laboratories—we deny
+ACLA’s request to vacate the 2016 Rule.
+
+                                                      So ordered.
+

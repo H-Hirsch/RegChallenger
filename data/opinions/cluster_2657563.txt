@@ -1,0 +1,1318 @@
+ United States Court of Appeals
+          FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 17, 2014                Decided March 21, 2014
+
+                         No. 13-5270
+
+  NACS, FORMERLY KNOWN AS NATIONAL ASSOCIATION OF
+            CONVENIENCE STORES, ET AL.,
+                    APPELLEES
+
+                               v.
+
+ BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM,
+                    APPELLANT
+
+
+         Appeal from the United States District Court
+                 for the District of Columbia
+                     (No. 1:11-cv-02075)
+
+
+     Katherine H. Wheatley, Associate General Counsel, Board
+of Governors of the Federal Reserve System, argued the cause
+for appellant. With her on the briefs were Richard M. Ashton,
+Deputy General Counsel, Yvonne F. Mizusawa, Senior Counsel,
+and Joshua P. Chadwick, Counsel.
+
+     Seth P. Waxman argued the cause for amici curiae The
+Clearing House Association, L.L.C., et al. in support of neither
+party. With him on the brief were Albinas Prizgintas, Noah A.
+Levine, and Alan Schoenfeld.
+                               2
+     Shannen W. Coffin argued the cause for appellees. With him
+on the brief was Linda C. Bailey.
+
+    Andrew G. Celli Jr., Ilann M. Maazel, and O. Andrew F.
+Wilson were on the brief for amicus curiae The Retail Litigation
+Center, Inc. in support of appellees.
+
+    Jeffrey I. Shinder was on the brief for amici curiae
+7-Eleven, Inc., et al. in support of appellees.
+
+     David A. Balto was on the brief for amicus curiae United
+States Senator Richard J. Durbin in support of appellees.
+
+   Before: TATEL, Circuit Judge, and EDWARDS and
+WILLIAMS, Senior Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge TATEL.
+
+     TATEL, Circuit Judge: Combining features of credit cards
+and checks, debit cards have become not just the most popular
+noncash payment method in the United States but also a source
+of substantial revenue for banks and companies like Visa and
+MasterCard that own and operate debit card networks. In 2009
+alone, debit card holders used their cards 37.6 billion times,
+completing transactions worth over $1.4 trillion and yielding
+over $20 billion in fees for banks and networks. Concerned that
+these fees were excessive and that merchants, who pay the fees
+directly, and consumers, who pay a portion of the fees indirectly
+in the form of higher prices, lacked any ability to resist them,
+Congress included a provision in the Dodd-Frank financial
+reform act directing the Board of Governors of the Federal
+Reserve System to address this perceived market failure. In
+response, the Board issued regulations imposing a cap on the
+per-transaction fees banks receive and, in an effort to force
+                                3
+networks to compete for merchants’ business, requiring that at
+least two networks owned and operated by different companies
+be able to process transactions on each debit card. Merchant
+groups challenged the regulations, seeking lower fees and even
+more network competition. The district court granted summary
+judgment to the merchants, concluding that the rules violate the
+statute’s plain language. We disagree. Applying traditional tools
+of statutory interpretation, we hold that the Board’s rules
+generally rest on reasonable constructions of the statute, though
+we remand one minor issue—the Board’s treatment of so-called
+transactions-monitoring costs—to the Board for further
+explanation.
+
+                                I.
+     Understanding this case requires looking under the hood—
+or, more accurately, behind the teller’s window—to see what
+really happens when customers use their debit cards. After
+providing some background about debit cards and the debit card
+marketplace, we outline Congress’s effort to solve several
+perceived market failures, the Board’s attempt to put Congress’s
+directives into action, and the district court’s rejection of the
+Board’s approach.
+
+                               A.
+     We start with the basics. For purposes of this case, the term
+“debit card” describes both traditional debit cards, which allow
+cardholders to deduct money directly from their bank accounts,
+and prepaid cards, which come loaded with a certain amount of
+money that cardholders can spend down and, in some cases,
+replenish. Debit card transactions are typically processed using
+what is often called a “four party system.” The four parties are
+the cardholder who makes the purchase, the merchant who
+accepts the debit card payment, the cardholder’s bank (called the
+“issuer” because it issues the debit card to the cardholder), and
+                                4
+the merchant’s bank (called the “acquirer” because it acquires
+funds from the cardholder and deposits those funds in the
+merchant’s account). In addition, each debit transaction is
+processed on a particular debit card “network,” often affiliated
+with MasterCard or Visa. The network transmits information
+between the cardholder/issuer side of the transaction and the
+merchant/acquirer side. Issuers activate certain networks on
+debit cards, and only activated networks can process transactions
+on those cards.
+
+     Virtually all debit card transactions fall into one of two
+categories: personal identification number (PIN) or signature.
+PIN and signature transactions employ different methods of
+“authentication”—a process that establishes that the cardholder,
+and not a thief, has actually initiated the transaction. In PIN
+authentication, the cardholder usually enters her PIN into a
+terminal. In signature authentication, the cardholder usually
+signs a copy of the receipt. Most networks can process either
+PIN transactions or signature transactions, but not both.
+Signature networks employ infrastructure used to process credit
+card payments, while PIN networks employ infrastructure used
+by ATMs. Only about one-quarter of merchants currently accept
+PIN debit. Some merchants have never acquired the terminals
+needed for customers to enter their PINs, while others believe
+that signature debit better suits their business needs. More about
+this later. And merchants who sell online generally refuse to
+accept PIN debit because customers worry about providing PINs
+over the Internet. Merchants who do accept both PIN and
+signature debit often allow customers to select whether to
+process particular transactions on a PIN network or a signature
+network.
+
+    Whether PIN or signature, a debit card transaction is
+processed in three stages: authorization, clearance, and
+                                5
+settlement. Authorization begins when the cardholder swipes her
+debit card, which sends an electronic “authorization request” to
+the acquirer conveying the cardholder’s account information and
+the transaction’s value. The acquirer then forwards that request
+along the network to the issuer. Once the issuer has determined
+whether the cardholder has sufficient funds in her account to
+complete the transaction and whether the transaction appears
+fraudulent, it sends a response to the merchant along the network
+approving or rejecting the transaction. Even if the issuer
+approves the transaction, that transaction still must be cleared
+and settled before any money changes hands.
+
+     Clearance constitutes a formal request for payment sent
+from the merchant on the network to the issuer. PIN transactions
+are authorized and cleared simultaneously: because the
+cardholder generally enters her PIN immediately after swiping
+her card, the authorization request doubles as the clearance
+message. Signature transactions are first authorized and
+subsequently cleared: because the cardholder generally signs
+only after the issuer has approved the transaction, the merchant
+must send a separate clearance message. This difference between
+PIN and signature processing explains why certain businesses,
+including car rental companies, hotels, and sit-down restaurants,
+often refuse to accept PIN debit. Car rental companies authorize
+transactions at pick-up to ensure that customers have enough
+money in their accounts to pay but postpone clearance to allow
+for the possibility that the customer might damage the vehicle or
+return it without a full tank of gas. Hotels authorize transactions
+at check-in but postpone clearance to allow for the possibility
+that the guest might trash the room, order room service, or
+abscond with the towels and robes. And sit-down restaurants
+authorize transactions for the full amount of the meal but
+postpone clearance to give diners an opportunity to add a tip.
+                                6
+     The final debit card payment processing step, settlement,
+involves the actual transfer of funds from the issuer to the
+acquirer. After settlement, the cardholder’s account has been
+debited, the merchant’s account has been credited, and the
+transaction has concluded. Rather than settle transactions one-
+by-one, banks generally employ companies that determine each
+bank’s net debtor/creditor position over a large number of
+transactions and then settle those transactions simultaneously.
+
+     Along the way, and central to this case, the parties charge
+each other various fees. The issuer charges the acquirer an
+“interchange fee,” sometimes called a “swipe fee,” which
+compensates the issuer for its role in processing the transaction.
+The network charges both the issuer and the acquirer “network
+processing fees,” otherwise known as “switch fees,” which
+compensate the network for its role in processing the
+transaction. Finally, the acquirer charges the merchant a
+“merchant discount,” the difference between the transaction’s
+face value and the amount the acquirer actually credits the
+merchant’s account. Because the merchant discount includes the
+full value of the interchange fee, the acquirer’s portion of the
+network processing fee, other acquirer and network costs, and a
+markup, merchants end up paying most of the costs acquirers
+and issuers incur. Merchants in turn pass some of these costs
+along to consumers in the form of higher prices. In contrast to
+credit card fees, which generally represent a set percentage of
+the value of a transaction, debit card fees change little as price
+increases. Thus, a bookstore might pay the same fees to sell a
+$25 hardcover that Mercedes would pay to sell a $75,000 car.
+
+     Before the Board promulgated the rules challenged in this
+case, networks and issuers took advantage of three quirks in the
+debit card market to increase fees without losing much business.
+First, issuers had complete discretion to decide whether to
+                                7
+activate certain networks on their cards. For instance, an issuer
+could limit payment processing to one Visa signature network, a
+Visa signature network and a Visa PIN network, or Visa and
+MasterCard signature and PIN networks. Second, networks had
+complete discretion to set the level of interchange and network
+processing fees. Finally, Visa and MasterCard controlled most of
+the debit card market. According to one study entered into the
+record, in 2009 networks affiliated with Visa or MasterCard
+processed over eighty percent of all debit transactions. Steven C.
+Salop, et al., Economic Analysis of Debit Card Regulation
+Under Section 920, Paper for the Board of Governors of the
+Federal Reserve System 10 (Oct. 27, 2010). Making things
+worse for merchants, these companies imposed “Honor All
+Cards” rules that prohibited merchants from accepting some but
+not all of their credit cards and signature debit cards. Merchants
+were therefore stuck paying whatever fees Visa and MasterCard
+chose to set, unless they refused to accept any Visa and
+MasterCard credit and signature debit cards—hardly a realistic
+option for most merchants given the popularity of plastic.
+
+     Exercising this market power, issuers and networks often
+entered into mutually beneficial agreements under which issuers
+required merchants to route transactions on certain networks that
+generally charged high processing fees so long as those networks
+also set high interchange fees. Many of these agreements were
+exclusive, meaning that issuers agreed to activate only one
+network or only networks affiliated with one company.
+Networks and issuers also negotiated routing priority
+agreements, which forced merchants to process transactions on
+certain activated networks rather than others. By 2009,
+interchange and network processing fees had reached, on
+average, 55.5 cents per transaction, including a 44 cent
+interchange fee, a 6.5 cent network processing fee charged to the
+issuer, and a 5 cent network processing fee charged to the
+                                8
+acquirer. Debit Card Interchange Fees and Routing, Notice of
+Proposed Rulemaking (“NPRM”), 75 Fed. Reg. 81,722, 81,725
+(Dec. 28, 2010).
+
+                                B.
+     Seeking to correct the market defects that were contributing
+to high and escalating fees, Congress passed the Durbin
+Amendment as part of the 2010 Dodd-Frank Wall Street Reform
+and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat.
+1376 (2010). The amendment, which modified the Electronic
+Funds Transfer Act (EFTA), Pub. L. No. 95-630, 92 Stat. 3641
+(1978), contains two key provisions. The first, EFTA section
+920(a), restricts the amount of the interchange fee. Specifically,
+it instructs the Board of Governors of the Federal Reserve
+System to promulgate regulations ensuring that “the amount of
+any interchange transaction fee . . . is reasonable and
+proportional to the cost incurred by the issuer with respect to the
+transaction.” 15 U.S.C. § 1693o-2(a)(3)(A); see also id. §
+1693o-2(a)(6)–(7)(A) (exempting debit cards issued by banks
+that, combined with all affiliates, have assets of less than $10
+billion and debit cards affiliated with certain government
+payment programs from interchange fee regulations). To this
+end, section 920(a)(4)(B), in language the parties hotly debate,
+requires the Board to “distinguish between . . . the incremental
+cost incurred by an issuer for the role of the issuer in the
+authorization, clearance, or settlement of a particular debit
+transaction, which cost shall be considered . . . , [and] other
+costs incurred by an issuer which are not specific to a particular
+electronic debit transaction, which costs shall not be
+considered.” Id. § 1693o-2(a)(4)(B)(i)-(ii). Like the parties, we
+shall refer to the costs of “authorization, clearance, and
+settlement” as “ACS costs.” In addition, section 920(a) “allow[s]
+for an adjustment to the fee amount received or charged by an
+issuer” to compensate for “costs incurred by the issuer in
+                                9
+preventing fraud in relation to electronic debit transactions
+involving that issuer,” so long as the issuer “complies with the
+fraud-related standards established by the Board.” Id. § 1693o-
+2(a)(5)(A).
+
+      The second key provision, EFTA section 920(b), prohibits
+certain exclusivity and routing priority agreements. Specifically,
+it instructs the Board to promulgate regulations preventing any
+“issuer or payment card network” from “restrict[ing] the number
+of payment card networks on which an electronic debit
+transaction may be processed to . . . 1 such network; or . . . 2 or
+more [affiliated networks].” Id. § 1693o-2(b)(1)(A). It also
+directs the Board to prescribe regulations that prohibit issuers
+and networks from “inhibit[ing] the ability of any person who
+accepts debit cards for payments to direct the routing of
+electronic debit transactions for processing over any payment
+card network that may process such transactions.” Id. § 1693o-
+2(b)(1)(B). Congress anticipated that these prohibitions would
+force networks to compete for merchants’ business, thus driving
+down fees.
+
+                                C.
+     In late 2010, the Board proposed rules to implement
+sections 920(a) and (b). As for section 920(a), the Board
+proposed allowing issuers to recover only “incremental” ACS
+costs and interpreted “incremental” ACS costs to mean costs
+that “vary with the number of transactions” an issuer processes
+over the course of a year. NPRM, 75 Fed. Reg. at 81,735. Issuers
+would thus be unable to recover “costs that are common to all
+debit card transactions and could never be attributed to any
+particular transaction (i.e., fixed costs), even if those costs are
+specific to debit card transactions as a whole.” Id. at 81,736. The
+Board “recognize[d]” that this definition would “impose[] a
+burden on issuers by requiring issuers to segregate costs that
+                                10
+vary with the number of transactions from those that are largely
+invariant to the number of transactions” and “that excluding
+fixed costs may prevent issuers from recovering through
+interchange fees some costs associated with debit card
+transactions.” Id. The Board nonetheless determined that other
+definitions of “incremental cost” “do not appropriately reflect
+the incremental cost of a particular transaction to which the
+statute refers.” Id. at 81,735. Limiting the interchange fee to
+average variable ACS costs, the Board proposed allowing
+issuers to recover at most 12 cents per transaction—considerably
+less than the 44 cents issuers had previously received on
+average. Id. at 81,736–39.
+
+     After evaluating thousands of comments, the Board issued a
+Final Rule that almost doubled the proposed cap. The Board
+abandoned its proposal to define “incremental” ACS costs to
+mean average variable ACS costs, deciding instead not to define
+the term “incremental costs” at all. Debit Card Interchange Fees
+and Routing, Final Rule (“Final Rule”), 76 Fed. Reg. 43,394,
+43,426–27 (July 20, 2011). Observing that “the requirement that
+one set of costs be considered and another set of costs be
+excluded suggests that Congress left to the implementing agency
+discretion to consider costs that fall into neither category to the
+extent necessary and appropriate to fulfill the purposes of the
+statute,” the Board allowed issuers to recover all costs “other
+than prohibited costs.” Id. Thus, in addition to average variable
+ACS costs, issuers could recover: (1) what the proposed rule had
+referred to as “fixed” ACS costs; (2) costs issuers incur as a
+result of transactions-monitoring to prevent fraud; (3) fraud
+losses, which are costs issuers incur as a result of settling
+fraudulent transactions; and (4) network processing fees. Id. at
+43,429–31. The Board prohibited issuers from recovering other
+costs, such as corporate overhead and debit card production and
+delivery costs, that the Board determined were not incurred to
+                                11
+process specific transactions. Id. at 43,427–29. Accounting for
+all permissible costs, the Board raised the interchange fee cap to
+21 cents plus an ad valorem component of 5 basis points (.05
+percent of a transaction’s value) to compensate issuers for fraud
+losses. Id. at 43,404.
+
+     In response to section 920(b), the Board’s proposed rule
+outlined two possible approaches. Under “Alternative A,”
+issuers would have to activate at least two unaffiliated networks
+on each debit card regardless of method of authentication.
+NPRM, 75 Fed. Reg. at 81,749. For example, an issuer could
+activate a Visa signature network and a MasterCard PIN
+network. Under “Alternative B,” issuers would have to activate
+at least two unaffiliated networks for each method of
+authentication. Id. at 81,749–50. For example, an issuer could
+activate both Visa and MasterCard signature and PIN networks.
+
+     In the Final Rule the Board chose Alternative A.
+Acknowledging that “Alternative A provides merchants fewer
+routing options,” the Board reasoned that it satisfied statutory
+requirements and advanced Congress’s desire to enhance
+competition among networks without excessively undermining
+the ability of cardholders to route transactions on their preferred
+networks or “potentially limit[ing] the development and
+introduction of new authentication methods.” Final Rule, 76
+Fed. Reg. at 43,448.
+
+                                D.
+     Upset that the Board had nearly doubled the interchange fee
+cap (as compared to the proposed rule) and had selected the less
+restrictive anti-exclusivity option, several merchant groups,
+including NACS, the organization formerly known as the
+National Association of Convenience Stores, filed suit in district
+court. The merchants argued that both rules violate the plain
+                               12
+terms of the Durbin Amendment: the interchange fee cap
+because the statute allows issuers to recover only average
+variable ACS costs, not “fixed” ACS costs, transactions-
+monitoring costs, fraud losses, or network processing fees; and
+the anti-exclusivity rule because the statute requires that all
+merchants—even those who refuse to accept PIN debit—be able
+to route each debit transaction on multiple unaffiliated networks.
+Several financial services industry groups, which during
+rulemaking had urged the Board to set an even higher
+interchange fee cap and adopt an even less restrictive anti-
+exclusivity rule, participated as amici curiae in support of
+neither party.
+
+     The district court granted summary judgment to the
+merchants. The court began by observing that “[a]ccording to
+the Board, [the statute contains] ambiguity that the Board has
+discretion to resolve. How convenient.” NACS v. Board of
+Governors of the Federal Reserve System, 958 F. Supp. 2d 85,
+101 (D.D.C. 2013). Rejecting this view, the district court
+determined that the Durbin Amendment is “clear with regard to
+what costs the Board may consider in setting the interchange fee
+standard: Incremental ACS costs of individual transactions
+incurred by issuers may be considered. That’s it!” Id. at 105. The
+district court thus concluded that the Board had erred in
+allowing issuers to recover “fixed” ACS costs, transactions-
+monitoring costs, fraud losses, and network processing fees. Id.
+at 105–09. The court also agreed with the merchants that section
+920(b) unambiguously requires that all merchants be able to
+route every transaction on at least two unaffiliated networks. Id.
+at 109–14. The Board’s final anti-exclusivity rule, the district
+court held, “not only fails to carry out Congress’s intention; it
+effectively countermands it!” Id. at 112. Concluding that “the
+Board completely misunderstood the Durbin Amendment’s
+statutory directive and interpreted the law in ways that were
+                                13
+clearly foreclosed by Congress,” the district court vacated and
+remanded both the interchange fee rule and the anti-exclusivity
+rule. Id. at 114. But because regulated parties had already “made
+extensive commitments” in reliance on the Board’s rules, the
+district court stayed vacatur to provide the Board a short period
+of time in which to promulgate new rules consistent with the
+statute. Id. at 115. Subsequently, the district court granted a stay
+pending appeal.
+
+     The Board now appeals, arguing that both rules rest on
+reasonable constructions of ambiguous statutory language.
+Financial services amici, urging reversal but still ostensibly
+appearing in support of neither party, filed a brief and
+participated in oral argument—though we have considered only
+those arguments that at least one party has not disavowed. See
+Eldred v. Reno, 239 F.3d 372, 378 (D.C. Cir. 2001) (noting that
+arguments “rejected by the actual parties to this case” are “not
+properly before us”); Eldred v. Ashcroft, 255 F.3d 849, 854
+(D.C. Cir. 2001) (Sentelle, J., dissenting from denial of
+rehearing en banc) (“Under the panel’s holding, it is now the law
+of this circuit that amici are precluded both from raising new
+issues and from raising new arguments.”). In a case like this, “in
+which the District Court reviewed an agency action under the
+[Administrative Procedures Act], we review the administrative
+action directly, according no particular deference to the
+judgment of the District Court.” In re Polar Bear Endangered
+Species Act Listing and Section 4(d) Rule Litigation, 720 F.3d
+354, 358 (D.C. Cir. 2013) (internal quotation marks omitted).
+Because the Board has sole discretion to administer the Durbin
+Amendment, we apply the familiar two-step framework set forth
+in Chevron U.S.A. Inc. v. Natural Resources Defense Council,
+Inc., 467 U.S. 837 (1984). At Chevron’s first step, we consider
+whether, as the district court concluded, Congress has “directly
+spoken to the precise question at issue.” Id. at 842. If not, we
+                                14
+proceed to Chevron’s second step where we determine whether
+the Board’s rules rest on “reasonable” interpretations of the
+Durbin Amendment. Id. at 844.
+
+     Before addressing the parties’ arguments, we think it worth
+emphasizing that Congress put the Board, the district court, and
+us in a real bind. Perhaps unsurprising given that the Durbin
+Amendment was crafted in conference committee at the eleventh
+hour, its language is confusing and its structure convoluted. But
+because neither agencies nor courts have authority to disregard
+the demands of even poorly drafted legislation, we must do our
+best to discern Congress’s intent and to determine whether the
+Board’s regulations are faithful to it.
+
+                                II.
+     We begin with the interchange fee. Recall that section
+920(a)(4)(B)(i) requires the Board to include “incremental
+cost[s] incurred by an issuer for the role of the issuer in the
+authorization, clearance, or settlement of a particular electronic
+debit transaction,” and that section 920(a)(4)(B)(ii) prohibits the
+Board from including “other costs incurred by an issuer which
+are not specific to a particular electronic debit transaction.”
+Echoing the district court, the merchants argue that the two
+sections unambiguously permit issuers to recover only
+“incremental” ACS costs. “The plain language of the Durbin
+Amendment,” the merchants insist, “does not grant the Board
+the discretion it claims to consider costs beyond those delineated
+in Section 920(a)(4)(B).” Appellees’ Br. 26; see also NACS, 958
+F. Supp. 2d at 100 (noting that the district court had “no
+difficulty concluding that the statutory language evidences an
+intent by Congress to bifurcate the entire universe of costs
+associated with interchange fees”). Alternatively, the merchants
+briefly argue that even if section 920(a)(4)(B) is ambiguous, the
+Board’s resolution of that ambiguity was unreasonable—though
+                                15
+they acknowledge that this argument essentially rehashes their
+Chevron step one argument. See Appellees’ Br. 44 (“Many of
+the same arguments discussed above also demonstrate the
+unreasonableness of the interchange fee standard.”). The Board
+also thinks the Durbin Amendment is unambiguous, though it
+argues that the statute clearly establishes a third category of
+costs: those that are not “incremental” ACS costs but are
+specific to a particular transaction. See Final Rule, 76 Fed. Reg.
+at 43,426 (“[T]here exist costs that are not encompassed in
+either the set of costs the Board must consider under Section
+920(a)(4)(B)(i), or the set of costs the Board may not consider
+under Section 920(a)(4)(B)(ii).”). Relying on the requirement
+that the interchange transaction fee be “reasonable and
+proportional to the cost incurred by the issuer with respect to the
+transaction,” 15 U.S.C. § 1693o-2(a)(2), (a)(3)(A), the Board
+concludes that it may but need not allow issuers to recover costs
+falling within this third category, subject of course to other
+statutory constraints. Like the merchants, the Board also offers a
+Chevron step two argument. See Appellant’s Br. 71 (“Even
+assuming for the sake of argument that the district court offered
+a possible reading, the statute does not unambiguously foreclose
+the Board’s construction . . . .”).
+
+    The parties’ competing arguments present us with two
+options. Were we to agree with the merchants that the statute
+allows recovery only of “incremental” ACS costs, we would
+have to invalidate the rule without considering the particular
+categories of costs the merchants challenge given that the Board
+expressly declined to define the ambiguous statutory term
+“incremental,” let alone determine whether those particular types
+of costs qualify as “incremental” ACS costs. See Securities &
+Exchange Commission v. Chenery Corp., 318 U.S. 80, 87 (1943)
+(“The grounds upon which an administrative order must be
+judged are those upon which the record discloses that its action
+                                 16
+was based.”). Were we to determine that the Board’s reading of
+section 920(a)(4)(B) is either compelled by the statute or
+reasonable, we would have to go on to consider whether the
+statute allows recovery of “fixed” ACS costs, transactions-
+monitoring costs, fraud losses, and network processing fees. We
+must therefore first decide whether section 920(a)(4)(B)
+bifurcates the entire universe of costs the Board may consider, or
+whether the statute allows for the existence of a third category of
+costs that falls outside the two categories specifically listed.
+
+                                 A.
+     The Board may well have been able to interpret section
+920(a)(4)(B) as the merchants urge. Such a reading could rely on
+the statutory mandate to “distinguish between” one set of costs
+and “other costs,” and could interpret section 920(a)(4)(B)(i) as
+referring to variable costs and section 920(a)(4)(B)(ii) as
+referring to fixed costs. But contrary to the merchants’ position,
+and consistent with the Board’s Chevron step two argument, we
+certainly see nothing in the statute’s language compelling that
+result. The merchants’ preferred reading requires assuming that
+the phrase “incremental cost incurred by the issuer for the role of
+the issuer in the authorization, clearance, and settlement of a
+particular electronic debit transaction” describes all issuer costs
+“specific to a particular electronic debit transaction.” For several
+reasons, however, we believe that phrase could just as easily, if
+not more easily, be read to qualify the language of section
+920(a)(4)(B)(i) such that it encompasses a subset of costs
+specific to a particular transaction, leaving other costs specific to
+a particular transaction unmentioned.
+
+     To begin with, as the Board pointed out in the Final Rule,
+the phrase “incremental cost” has a several possible definitions,
+including marginal cost, variable cost, “the cost of producing
+some increment of output greater than a single unit but less than
+                                 17
+the entire production run,” and “the difference between the cost
+incurred by a firm if it produces a particular quantity of a good
+and the cost incurred by the firm if it does not produce the good
+at all.” Final Rule, 76 Fed. Reg. at 43,426–27. As a result,
+depending on how these terms are defined, the category of
+“incremental” costs would not necessarily encompass all costs
+that are “specific to a particular electronic debit transaction.” See
+infra at 26 (noting the parties’ agreement that the “specific to a
+particular electronic debit transaction” phrase should not be read
+to limit issuers to recovering only the marginal cost of each
+particular transaction).
+
+     Second, the phrase “incurred by an issuer for the role of the
+issuer in the authorization, clearance, or settlement of a
+particular electronic debit transaction” limits the class of
+“incremental” costs the Board must consider. So even if the
+word “incremental” were read to include all costs specific to a
+particular transaction, Congress left unmentioned incremental
+costs other than incremental ACS costs. See Final Rule, 76 Fed.
+Reg. at 43,426 n.116 (“The reference in Section 920(a)(4)(B)(i)
+requiring consideration of the incremental costs incurred in the
+‘authorization, clearance, or settlement of a particular
+transaction’ and the reference in section 920(a)(4)(B)(ii)
+prohibiting consideration of costs that are ‘not specific to a
+particular electronic debit transaction,’ read together, recognize
+that there may be costs that are specific to a particular electronic
+debit transaction that are not incurred in the authorization,
+clearance, or settlement of that transaction.”). For example, in
+the proposed rule the Board determined that “cardholder rewards
+that are paid by the issuer to the cardholder for each transaction”
+and “costs associated with providing customer service to
+cardholders for particular transactions” are “associated with a
+particular transaction” but “are not incurred by the issuer for its
+role in authorization, clearing, and settlement of that
+                                 18
+transaction.” NPRM, 75 Fed. Reg. at 81,735. Moreover, in the
+Final Rule the Board explained that fraud losses “are specific to
+a particular transaction” because they result from the settlement
+of particular fraudulent transactions, but are not incurred by the
+issuer for the role of the issuer in the authorization, clearance, or
+settlement of particular transactions. Final Rule, 76 Fed. Reg. at
+43,431 (describing fraud losses as “the result of an issuer’s
+authorization, clearance, or settlement of a particular electronic
+debit transaction that the cardholder later identifies as
+fraudulent”); see also Appellant’s Br. 67 (defending the Board’s
+decision to allow issuers to recover some fraud losses on the
+ground that fraud losses fall outside section 920(a)(4)(B)).
+
+     Third, as the Board pointed out, had Congress wanted to
+allow issuers to recover only incremental ACS costs, it could
+have done so directly. See Final Rule, 76 Fed. Reg. at 43,426.
+For instance, in section 920(a)(3)(A) Congress could have
+instructed the Board to “promulgate regulations ensuring that
+interchange fees are reasonable and proportional to the
+incremental costs of authorization, clearance, and settlement that
+an issuer incurs with respect to a particular electronic debit
+transaction.” Instead, in section 920(a)(3)(A) Congress required
+the Board to promulgate regulations ensuring that interchange
+fees are “reasonable and proportional to the cost incurred by the
+issuer with respect to the transaction” and separately instructed
+the Board, when determining issuer costs, to “distinguish
+between” incremental ACS costs, which the Board must
+consider, 15 U.S.C. § 1693o-2(a)(4)(B)(i), and “other costs . . .
+which are not specific to a particular electronic debit
+transaction,” which the Board must not consider, id. § 1693o-
+2(a)(4)(B)(ii).
+
+    The merchants advance several arguments in support of the
+opposite conclusion. They first assert that the “which” clause in
+                                19
+the phrase “other costs incurred by an issuer which are not
+specific to a particular electronic debit transaction” should be
+read descriptively rather than restrictively. As their labels
+suggest, descriptive clauses explain, while restrictive clauses
+define. To illustrate, consider a simple sentence: “the cars which
+are blue have sunroofs.” Read descriptively, the clause “which
+are blue” states a fact about the entire class of cars, which also
+happen to have sunroofs. Read restrictively, the clause defines a
+particular class of cars—blue cars—all of which have sunroofs.
+Although often subtle, the distinction between descriptive and
+restrictive clauses makes all the difference in this case. Here’s
+why.
+
+     We have thus far assumed that section 920(a)(4)(B)(ii)’s
+“which” clause should be read restrictively. On this reading (the
+Board’s), the clause defines the class of “other costs” issuers are
+precluded from recovering. As explained above, based on this
+restrictive reading the Board reasonably concluded that the
+statute establishes three categories of costs. But if the clause
+should instead be read descriptively, then it would describe a
+characteristic of “other costs” without limiting the meaning of
+“other costs.” On this reading (the merchants’), the statute
+bifurcates the entire universe of costs, requiring the Board to
+define the statutory term “incremental cost incurred by an issuer
+for the role of the issuer in the authorization, clearance, or
+settlement of a particular electronic debit transaction” as
+including all costs other than costs “not specific to a particular
+electronic debit transaction.”
+
+     Normally, writers distinguish between descriptive and
+restrictive clauses by setting the former but not the latter aside
+with commas and by introducing the former with “which” and
+the latter with “that.” Here, Congress introduced the clause at
+issue with the word “which” but failed to set it aside with
+                                 20
+commas. Word choice thus suggests a descriptive reading of the
+clause, while punctuation suggests a restrictive reading. In
+support of a descriptive reading, the merchants rely on a ninety-
+year-old Supreme Court case for the proposition that
+“[p]unctuation is a minor, and not a controlling, element in
+interpretation.” Barrett v. Van Pelt, 268 U.S. 86, 91 (1925); see
+also NACS, 958 F. Supp. 2d at 102 (calling Congress’s failure to
+use commas a “red herring”). This decision provides the
+merchants little help. Not only was it written long before the
+development of modern approaches to statutory interpretation,
+see U.S. National Bank of Oregon v. Independent Insurance
+Agents of America, Inc., 508 U.S. 439, 454–55 (1993) (noting
+that although reliance on punctuation must not “distort[] a
+statute’s true meaning,” “[a] statute’s plain meaning must be
+enforced, of course, and the meaning of a statute will typically
+heed the commands of its punctuation”), but it addressed
+statutory language that, unlike here, contained a clearly
+misplaced comma, Barrett, 268 U.S. at 88 (interpreting a statute
+“so inapt and defective that it is difficult to give it a construction
+that is wholly satisfactory” without ignoring its comma).
+
+     The idea that we should entirely ignore punctuation would
+make English teachers cringe. Even if punctuation is sometimes
+a minor element in interpreting the meaning of language,
+punctuation is often crucial—a reader might appropriately gloss
+over a comma mistakenly inserted between a noun and a verb
+yet pay extra attention to a comma or semicolon setting off
+separate items in a list. Following the merchants’ advice and
+stuffing punctuation to the bottom of the interpretive toolbox
+would run the risk of distorting the meaning of statutory
+language. After all, Congress communicates through written
+language, and one component of written language is grammar,
+including punctuation. As Strunk and White puts it, “the best
+writers sometimes disregard the rules of rhetoric. When they do
+                                21
+so, however, the reader will usually find in the sentence some
+compensating merit, attained at the cost of the violation. Unless
+he is certain of doing as well, he will probably do best to follow
+the rules.” WILLIAM STRUNK, JR. & E.B. WHITE, THE ELEMENTS
+OF STYLE xvii–xviii (4th ed. 2000) (internal quotation marks
+omitted). Put another way, “all our thoughts can be rendered
+with absolute clarity if we bother to put the right dots and
+squiggles between the words in the right places.” LYNN TRUSS,
+EATS, SHOOTS & LEAVES 201–02 (2003).
+
+     In this instance, the absence of commas matters far more
+than Congress’s use of the word “which” rather than “that.”
+Widely-respected style guides expressly require that commas set
+off descriptive clauses, but refer to descriptive “which” and
+restrictive “that” as a style preference rather than an ironclad
+grammatical rule. As The Chicago Manual of Style explains:
+    A relative clause that is restrictive—that is, essential to
+    the meaning of the sentence—is neither preceded nor
+    followed by a comma. But a relative clause that could
+    be omitted without essential loss of meaning (a
+    nonrestrictive clause) should be both preceded and (if
+    the sentence continues) followed by a comma.
+    Although which can be used restrictively, many careful
+    writers preserve the distinction between restrictive that
+    (no commas) and descriptive which (commas).
+THE CHICAGO MANUAL OF STYLE 250 (14th ed. 2003). Compare
+STRUNK & WHITE at 3–4 (“Nonrestrictive relative clauses are
+parenthetic. . . . Commas are therefore needed.”), and WILSON
+FOLLETT, MODERN AMERICAN USAGE: A GUIDE 69 (Erik
+Wensberg ed., 1998) (same), with STRUNK & WHITE at 59 (“The
+use of which for that is common in written and spoken language.
+. . . Occasionally which seems preferable to that . . . But it would
+be a convenience to all if these two pronouns were used with
+                                22
+precision.”), and FOLLETT at 293 (“The alert reader will notice
+that quite a few excellent authors decline to use that and which
+in precisely the ways that late-twentieth-century grammar books
+recommend.”).
+
+     In fact, elsewhere in the Durbin Amendment Congress
+demonstrated that it is among those writers who ignore the
+distinction between descriptive “which” and restrictive “that.” In
+section 920(b)(1)(A), for example, Congress instructed the
+Board to prevent networks and issuers from activating on a debit
+card only one network or “2 or more such networks which are
+owned, controlled, or otherwise operated by” the same company.
+15 U.S.C. § 1693o-2(b)(1)(A)(i)-(ii) (emphasis added). Even
+though Congress used the word “which” to introduce this clause,
+the clause is clearly restrictive. A descriptive reading would
+require that the Board prevent issuers and networks from ever
+activating “one network” or “2 or more such networks.” In other
+words, a descriptive reading would prevent the activation of any
+networks at all, rendering debit cards useless chunks of plastic.
+Cf. Barnhart v. Thomas, 540 U.S. 20, 24 (2003) (finding a
+restrictive clause in the statutory phrase “any other kind of
+substantial gainful work which exists in the national economy”).
+By contrast, in the Durbin Amendment Congress set aside every
+clearly descriptive clause with commas. See, e.g., 15 U.S.C. §
+1693o-2(a)(4)(B)(ii) (“other costs incurred by an issuer which
+are not specific to a particular electronic debit transaction, which
+costs shall not be considered under paragraph (2)” (emphasis
+added)).
+
+     The merchants also emphasize Congress’s use of the terms
+“distinguish between,” 15 U.S.C. § 1693o-2(a)(4)(B), and “other
+costs,” id. § 1693o-2(a)(4)(B)(ii). According to the merchants,
+the term “distinguish between” suggests that Congress required
+the Board to “differentiate [between] the two categories of
+                               23
+costs,” and “the very use of the term ‘other costs’—as opposed
+to simply ‘costs’—indicates the entire universe of costs that is
+remaining after consideration of includable costs.” Appellees’
+Br. 28. As noted above, these terms might provide some textual
+support for the merchants’ preferred reading of the statute. But
+given the Board’s reasonable determination that issuers incur
+costs, other than incremental ACS costs, that are “specific to a
+particular transaction,” the terms “distinguish between” and
+“other costs” hardly compel the conclusion that the Board must
+interpret section 920(a)(4)(B) as encompassing all costs that
+issuers incur. Imagine that you make a deal to hand over part of
+your baseball card collection and to distinguish between rookie
+cards, which you must hand over, and other cards less than five
+years old, which you must not. Although it would probably
+make little financial sense, you could certainly hand over a 1960
+Harmon Killebrew Topps card without violating the terms of the
+deal.
+
+     Next, the merchants assert that the Board, by inferring the
+existence of a third category of costs, improperly reads a
+delegation of authority into congressional silence. According to
+the merchants, “Congress would not delineate with specificity
+the characteristics of includable costs (e.g., incremental) if it
+intended, by its silence, to allow the Board to consider and
+include their opposite (e.g., nonincremental).” Appellees’ Br.
+31; accord American Petroleum Institute v. Environmental
+Protection Agency, 198 F.3d 275, 278 (D.C. Cir. 2000) (“[I]f
+Congress makes an explicit provision for apples, oranges and
+bananas, it is most unlikely to have meant grapefruit.”). But
+section 920(a)(3)(A) clearly grants the Board authority to
+promulgate regulations ensuring that interchange fees are
+reasonable and proportional to costs issuers incur. The question
+then is how section 920(a)(4)(B) limits the Board’s discretion to
+define the statutory term “cost incurred by the issuer with
+                                24
+respect to the transaction,” not whether that section affirmatively
+grants the Board authority to allow issuers to recover certain
+costs.
+
+     Finally, in a footnote the merchants point to section
+920(a)(3)(B)’s requirement that the Board disclose certain ACS
+cost information and to section 920(a)(4)(A)’s requirement that
+the Board “consider the functional similarity between electronic
+debit transactions and checking transactions that are required
+within the Federal Reserve bank system to clear at par.” The
+district court relied heavily on these provisions, concluding that
+Congress’s decisions to limit disclosure “to the same costs
+specified in section (a)(4)(B)(i)” and to direct the Board to
+consider similarities, but not differences, between checks and
+debit cards support the merchants’ interpretation of the statute.
+NACS, 958 F. Supp. 2d at 103–04. But even assuming the
+disclosure provision mirrors section 920(a)(4)(B)(i)’s reference
+to incremental ACS costs—the word “incremental” appears
+nowhere in the disclosure provision—the statute also allows the
+Board to collect “such information as may be necessary to carry
+out the provisions of this section,” not just information about
+incremental ACS costs. 15 U.S.C. § 1693o-2(a)(3)(B). Similarly,
+Congress’s instruction to the Board to “consider the functional
+similarity between electronic debit transactions and checking
+transactions” hardly precludes the Board from considering
+differences as well. Doing just that, the Board decided that it
+could allow banks to recover some costs in the debit card
+context that they are unable to recover in the checking context.
+
+     Given the Durbin Amendment’s ambiguity as to the
+existence of a third category of costs, we must defer to the
+Board’s reasonable determination that the statute splits costs into
+three categories: (1) incremental ACS costs, which the Board
+must allow issuers to recover; (2) costs specific to a particular
+                                 25
+transaction, other than incremental ACS costs, which the Board
+may, but need not, allow issuers to recover; and (3) costs not
+specific to a particular transaction, which the Board may not
+allow issuers to recover. See Chevron, 467 U.S. at 843
+(“Sometimes the legislative delegation to an agency on a
+particular question is implicit rather than explicit. In such a case,
+a court may not substitute its own construction of a statutory
+provision for a reasonable interpretation made by the
+administrator of an agency.”).
+
+                                 B.
+     Because the Board reasonably interpreted the Durbin
+Amendment as allowing issuers to recover some costs in
+addition to incremental ACS costs, we must now determine
+whether the Board reasonably concluded that issuers can recover
+the four specific types of costs the merchants challenge: “fixed”
+ACS costs, network processing fees, fraud losses, and
+transactions-monitoring costs. Much like agency ratemaking,
+determining whether issuers or merchants should bear certain
+costs is “far from an exact science and involves policy
+determinations in which the [Board] is acknowledged to have
+expertise.” Time Warner Entertainment Co. v. Federal
+Communications Commission, 56 F.3d 151, 163 (D.C. Cir.
+1995) (internal quotation marks omitted). We afford agencies
+special deference when they make these sorts of determinations.
+See, e.g., BNSF Railway Co. v. Surface Transportation Board,
+526 F.3d 770, 774 (D.C. Cir. 2008) (“In the rate-making area,
+our review is particularly deferential, as the Board is the expert
+body Congress has designated to weigh the many factors at issue
+when assessing whether a rate is just and reasonable.”); Time
+Warner, 56 F.3d at 163. With that caution in mind, we address
+each category of costs.
+                                26
+                       “Fixed” ACS Costs
+
+     Microeconomics textbooks draw a clear distinction between
+“fixed” and “variable” costs: fixed costs are incurred regardless
+of transaction volume, whereas variable costs change as
+transaction volume increases. E.g., N. GREGORY MANKIW,
+PRINCIPLES OF MICROECONOMICS 276–77 (3d ed. 2004). The
+merchants, noting that the statute precludes recovery of costs
+“not specific to a particular . . . transaction,” 15 U.S.C. § 1693o-
+2(a)(4)(B)(ii), argue that the Board’s Final Rule improperly
+allows recovery of fixed costs such as “equipment, hardware and
+software.” Appellees’ Br. 35. “By definition,” the merchants
+declare, “fixed costs are not ‘specific’ to any ‘particular’
+transaction and fall squarely within the statute’s excludable costs
+provision.” Id. at 39. The merchants therefore urge us to require
+the Board to return to something along the lines of its proposed
+rule, under which merchants could only recover average variable
+ACS costs.
+
+     The merchants’ argument certainly has some persuasive
+power. One might think it a stretch if a shoe store claimed that
+the rent it pays its landlord is somehow “specific” to a
+“particular” shoe sale. But the merchants have never argued that
+issuers should be allowed to recover only costs incurred as a
+result of processing individual, isolated transactions. See NPRM,
+75 Fed. Reg. at 81,736 (requesting comment about whether
+“costs should be limited to the marginal cost of a transaction”);
+Final Rule, 76 Fed. Reg. at 43,427 n.118 (noting that “[t]he
+Board did not receive comments regarding the use of marginal
+cost”). Indeed, the Board’s proposed rule, which the merchants
+seem to endorse, would have allowed recovery of costs that are
+variable over the course of a year but could not be traced to any
+one particular transaction.
+                                27
+     We think the Board reasonably declined to read section
+920(a)(4)(B) as preventing issuers from recovering “fixed”
+costs. As the Board pointed out, the distinction the merchants
+urge between what they refer to as non-includable “fixed” costs
+and includable “variable” costs depends entirely on whether, on
+an issuer-by-issuer basis, certain costs happen to vary based on
+transaction volume in a particular year. For example, in any
+given year one issuer might classify labor as an includable cost
+because labor costs happened to vary based on transaction
+volume over that year, while another issuer might classify labor
+as a non-includable cost because such costs happened to remain
+fixed over that year. See Final Rule, 76 Fed. Reg. at 43,427.
+Moreover, the Board pointed out, the distinction between
+variable and fixed ACS costs depends in some instances on
+whether an issuer “performs its transactions processing in-
+house” or “outsource[s] its debit card operations to a third-party
+processor that charge[s] issuers a per-transaction fee based on its
+entire cost.” Id. In any event, the Board concluded, requiring
+issuers to segregate includable “variable” costs from excludable
+“fixed” costs on a year-by-year basis would prove “exceedingly
+difficult for issuers . . . [because] even if a clear line could be
+drawn between an issuer’s costs that are variable and those that
+are fixed, issuers’ cost-accounting systems are not generally set
+up to differentiate between fixed and variable costs.” Id. The
+Board therefore determined that any distinction between fixed
+and variable costs would prove artificial and unworkable.
+
+     Instead, pointing out that the statute requires interchange
+fees to be “reasonable and proportional” to issuer costs, the
+Board interpreted section 920(a)(4)(B) as allowing issuers to
+recover costs they must incur in order to effectuate particular
+electronic debit card transactions but precluding them from
+recovering other costs too remote from the processing of actual
+transactions. “This reading interpret[s] costs that ‘are not
+                                28
+specific to a particular electronic debit transaction,’ and . . .
+cannot be considered by the Board, to mean those costs that are
+not incurred in the course of effecting any electronic debit
+transaction.” Id. at 43,426. In our view, the Board reasonably
+distinguished between costs issuers could recover and those they
+could not recover on the basis of whether those costs are
+“incurred in the course of effecting” transactions. Id. For
+instance, the Board’s rule allows issuers to recover equipment,
+hardware, software, and labor costs since “[e]ach transaction
+uses the equipment, hardware, software and associated labor,
+and no particular transaction can occur without incurring these
+costs.” Id. at 43,430. By contrast, the rule precludes issuers from
+recovering the costs of producing and distributing debit cards
+because “an issuer’s card production and delivery costs . . . are
+incurred without regard to whether, how often, or in what way
+an electronic debit transaction will occur.” Id. at 43,428. Given
+the Board’s expertise, we see no basis for upsetting its
+reasonable line-drawing. See ExxonMobil Gas Marketing Co. v.
+Federal Energy Regulatory Commission, 297 F.3d 1071, 1085
+(D.C. Cir. 2002) (“We are generally unwilling to review line-
+drawing . . . unless a petitioner can demonstrate that lines drawn
+. . . are patently unreasonable, having no relationship to the
+underlying regulatory problem.” (internal quotation marks
+omitted)).
+
+                   Network Processing Fees
+
+     This is easy. Network processing fees, which issuers pay on
+a per-transaction basis, are obviously specific to particular
+transactions. The merchants argue that allowing issuers to
+recover network processing fees through the interchange fee
+would run afoul of section 920(a)(8)(B), which requires the
+Board to ensure that “a network fee is not used to directly or
+indirectly compensate an issuer with respect to an electronic
+                                29
+debit transaction.” Perhaps signaling that even the merchants are
+not entirely confident about this argument, they present it only in
+a footnote. The merchants should have left it out entirely. As the
+Board points out, section 920(a)(8)(B) is designed to prevent
+issuers and networks from circumventing the Board’s
+interchange fee rules, not to prevent issuers from recovering
+reasonable network processing fees through the interchange fee.
+Final Rule, 76 Fed. Reg. at 43,442 (“[Section 920(a)(8)(B)]
+authorizes the Board to prescribe rules to prevent circumvention
+or evasion of the interchange transaction fee standards.”).
+
+                          Fraud Losses
+
+     The merchants nowhere challenge the Board’s conclusion
+that fraud losses, which result from the settlement of particular
+fraudulent transactions, are specific to those transactions. The
+only question is whether a separate provision of the Durbin
+Amendment—section 920(a)(5)’s fraud-prevention adjustment,
+which allows issuers to recover fraud-prevention costs if those
+issuers comply with the Board’s fraud-prevention standards—
+precludes the Board from allowing issuers to recover fraud
+losses as part of section 920(a)(2)’s “reasonable and
+proportional” interchange fee. The merchants claim that it does.
+
+     First, noting that Congress intended the fraud-prevention
+adjustment to be the only “fraud-related adjustment of the
+issuer,” 15 U.S.C. § 1693o-2(a)(5)(A)(ii)(I), the merchants argue
+that the Board should have allowed issuers to recover fraud-
+related costs only through the fraud-prevention adjustment. We
+disagree. The Board determined—reasonably in our view—that
+because fraud losses result from the failure of fraud-prevention,
+they do not themselves qualify as fraud-prevention costs. See
+Final Rule, 76 Fed. Reg. at 43,431 (“An issuer may experience
+losses for fraud that it cannot prevent and cannot charge back to
+the acquirer or recoup from the cardholder.”). And nothing in the
+                               30
+statute suggests that Congress used the word “adjustment” to
+describe the process of determining which costs issuers should
+be allowed to recover directly through the interchange fee.
+Rather, when discussing the fraud-prevention adjustment,
+Congress empowered the Board to “allow for an adjustment to
+the fee amount received or charged by an issuer under paragraph
+(2).” 15 U.S.C. § 1693o-2(a)(5)(A). Paragraph (2), in turn,
+requires that the interchange fee be “reasonable and
+proportional” to costs incurred by issuers. Id. § 1693o-2(a)(2).
+Thus, Congress used the word “adjustment” to describe a bonus
+over and above the “reasonable and proportional” interchange
+fee.
+
+     The merchants next maintain that allowing issuers to
+recover fraud losses through the interchange fee “irrespective of
+any particular bank’s efforts to reduce fraud” would undermine
+Congress’s decision to condition receipt of the fraud-prevention
+adjustment on compliance with the Board’s fraud-prevention
+standards. Appellees’ Br. 43. Even assuming the merchants’
+policy argument has some merit—allowing recovery of fraud
+losses regardless of compliance with fraud-prevention standards
+might well decrease issuers’ incentives to invest in fraud
+prevention—the Board rejected it, reasoning that “[i]ssuers will
+continue to bear the cost of some fraud losses and cardholders
+will continue to demand protection against fraud.” Final Rule,
+76 Fed. Reg. at 43,431. Such policy judgments are the province
+of the Board, not this Court. See Village of Barrington, Illinois
+v. Surface Transportation Board, 636 F.3d 650, 666 (D.C. Cir.
+2011) (“As long as the agency stays within [Congress’s]
+delegation, it is free to make policy choices in interpreting the
+statute, and such interpretations are entitled to deference.”
+(internal quotation marks omitted) (alterations in original)).
+                               31
+                Transactions-Monitoring Costs
+
+     The Board acknowledged in the Final Rule that
+transactions-monitoring costs, unlike fraud losses, are the
+paradigmatic example of fraud-prevention costs. Final Rule, 76
+Fed. Reg. at 43,397 (“The most commonly reported fraud
+prevention activity was transaction monitoring.”). The Board
+then distinguished between “[t]ransactions monitoring systems
+[that] assist in the authorization process by providing
+information to the issuer before the issuer decides to approve or
+decline the transaction,” which the Board placed outside the
+fraud-prevention adjustment, and “fraud-prevention activities . .
+. that prevent fraud with respect to transactions at times other
+than when the issuer is effecting the transaction”—for instance
+the cost of sending “cardholder alerts . . . inquir[ing] about
+suspicious activity”—which the Board determined should be
+“considered in connection with the fraud-prevention
+adjustment.” Id. at 43,430–31. Challenging this distinction, the
+merchants think it “preposterous to suggest that Congress would
+specifically address the costs associated with fraud prevention in
+a separate provision of the statute, condition the recovery of
+those costs on an issuer’s compliance with fraud prevention
+measures, and then . . . permit recovery of those very same
+costs” whether or not an issuer complies with fraud-prevention
+standards. Appellees’ Br. 41.
+
+     As an initial matter, we agree with the Board that
+transactions-monitoring costs can reasonably qualify both as
+costs “specific to a particular . . . transaction” (section
+920(a)(4)(B)) and as fraud-prevention costs (section 920(a)(5)).
+Thus, the Board may have discretion either to allow issuers to
+recover transactions-monitoring costs through the interchange
+fee regardless of compliance with fraud-prevention standards or
+to preclude issuers from recovering transactions-monitoring
+                                32
+costs unless those issuers comply with fraud-prevention
+standards. That said, “an agency must cogently explain why it
+has exercised its discretion in a given manner.” Motor Vehicle
+Manufacturers Association of the United States v. State Farm
+Mutual Automobile Insurance Co., 463 U.S. 29, 48 (1983). We
+agree with the merchants that the Board has fallen short of that
+standard.
+
+     The Board insists that the distinction it drew between fraud-
+prevention costs falling outside the fraud-prevention adjustment
+and fraud-prevention costs falling within it reflects the
+distinction between, on the one hand, section 920(a)(4)(B)’s
+focus on a single transaction and, on the other, section
+920(a)(5)(A)(i)’s focus on “electronic debit transactions
+involving that issuer.” According to the Board, Congress
+“intended the . . . fraud-prevention adjustment to take into
+account an issuer’s fraud prevention costs over a broad spectrum
+of transactions that are not linked to a particular transaction.”
+Appellant’s Br. 66–67. But as noted above, the Board
+interpreted the term “specific to a particular . . . transaction” as
+in fact allowing recovery of many costs not literally “specific” to
+any one “particular” transaction. See supra at 26–28. The costs
+of hardware, software, and labor seem no more “specific” to one
+“particular” transaction than many of the fraud-prevention costs
+the Board determined fall within the fraud prevention
+adjustment. The Board’s own interpretation of the statute thus
+undermines its justification for concluding that Congress
+established a fraud-prevention adjustment, conditioned receipt of
+that adjustment on compliance with fraud-prevention standards,
+yet allowed issuers to recover the paradigmatic example of
+fraud-prevention costs—transactions-monitoring costs—whether
+or not issuers comply with those standards.
+                                33
+     All that said, the Board may well be able to articulate a
+reasonable justification for determining that transactions-
+monitoring costs properly fall outside the fraud-prevention
+adjustment. But the Board has yet to do so. “If the record before
+the agency does not support the agency action, if the agency has
+not considered all relevant factors, or if the reviewing court
+simply cannot evaluate the challenged agency action on the
+basis of the record before it, the proper course, except in rare
+circumstances, is to remand to the agency for additional
+investigation or explanation.” Florida Power & Light Co. v.
+Lorion, 470 U.S. 729, 744 (1985) (emphasis added). We shall do
+so here. Because the interchange fee rule generally rests on a
+reasonable interpretation of the statute, because the Board may
+well be able to articulate a sufficient explanation for its
+treatment of fraud-prevention costs, and because vacatur of the
+rule would be disruptive—the merchants seek an even lower
+interchange fee cap, but vacating the Board’s rule would lead to
+an entirely unregulated market, allowing the average interchange
+fee to once again reach or exceed 44 cents per transaction—we
+see no need to vacate. See Heartland Regional Medical Center
+v. Sebelius, 566 F.3d 193, 198 (D.C. Cir. 2009) (noting that
+remand without vacatur is warranted “[w]hen an agency may be
+able readily to cure a defect in its explanation of a decision” and
+the “disruptive effect of vacatur” is high); see also, e.g.,
+Environmental Defense Fund v. Environmental Protection
+Agency, 898 F.2d 183, 190 (D.C. Cir. 1990) (instructing that
+courts should ordinarily remand without vacatur when vacatur
+would “at least temporarily defeat” the interests of the party
+successfully seeking remand).
+
+                               III.
+     Having resolved the merchants’ challenges to the
+interchange fee rule, we turn to the anti-exclusivity rule. As
+explained above, see supra at 9, section 920(b) requires the
+                               34
+Board to promulgate regulations preventing “an issuer or
+payment card network” from “restrict[ing] the number of
+payment card networks on which an electronic debit transaction
+may be processed” to a single network, or to networks affiliated
+with one another. In the proposed rule, the Board outlined two
+alternatives: require issuers and networks to activate two
+unaffiliated networks or two unaffiliated networks for each
+method of authentication. In the Final Rule, the Board chose the
+former, requiring activation of two unaffiliated networks on each
+debit card regardless of method of authentication.
+
+     The merchants believe that the Durbin Amendment
+unambiguously requires that all merchants have multiple
+unaffiliated network routing options for each debit transaction.
+See NACS, 958 F. Supp. 2d at 109–12 (accepting this argument).
+Arguing that the Board’s rule flunks this requirement, the
+merchants emphasize two undisputed facts. First, given that
+most merchants refuse to accept PIN debit, many transactions
+can currently be processed only on signature debit. Second,
+cardholders, not merchants, often have the ability to select
+whether to process transactions on signature networks or PIN
+networks. As a result, the merchants emphasize, under the
+Board’s rule many merchants will still lack the ability to choose
+between unaffiliated networks when deciding how to process
+particular transactions. Disputing none of this, the Board points
+out that all merchants could accept PIN debit even if some
+choose not to and emphasizes that the statute is silent about
+“restrictions imposed by merchants or consumers that limit
+routing choice.” Appellant’s Br. 22. Given the parties’
+agreement that under the Board’s rule some merchants will lack
+routing choice for particular transactions, we must determine
+whether the statute requires that all merchants—even those who
+voluntarily choose not to accept PIN debit—have the ability to
+decide between unaffiliated networks when routing transactions.
+                                35
+     The merchants have a steep hill to climb. Congress directed
+the Board to issue rules that would accomplish a particular
+objective, leaving it to the Board to decide how best to do so,
+and the Board’s rule seems to comply perfectly with Congress’s
+command. Under the rule, “issuer[s] and payment card
+network[s]” cannot “restrict the number of payment card
+networks on which an electronic debit transaction may be
+processed” to only affiliated networks—exactly what the statute
+requires. 15 U.S.C. § 1693o-2(b)(1)(A).
+
+    Undaunted, the merchants emphasize one largely
+conclusory textual argument and allude to another. First, relying
+on the statutory phrase “electronic debit transaction,” id. §
+1693o-2(b)(1)(A), they maintain that the statute plainly “requires
+the Board to ensure that merchants be afforded a choice of
+networks for each debit transaction.” Appellees’ Br. 45. But
+context matters. Relying on the statute’s reference to “issuer[s]
+and payment card network[s],” the Board reasonably read the
+“electronic debit transactions” phrase to prevent issuers and
+networks, prior to instigation of any particular debit transaction,
+from limiting the number of networks “on which an electronic
+debit transaction may be processed” to only affiliated networks.
+15 U.S.C. § 1693o-2(b)(1)(A) (emphasis added).
+
+     In a footnote, the merchants repeat, though they seem not to
+embrace, a textual argument on which the district court relied.
+Looking to the statutory definitions of “electronic debit
+transaction” (“a transaction in which a person uses a debit card”)
+and of “debit card” (“any card . . . issued or approved for use
+through a payment card network to debit an asset account . . .
+whether authorization is based on signature, PIN, or other
+means”), id. § 1693o-2(c)(2), (c)(5), the district court ruled that
+the statutory term “electronic debit transaction” requires that
+issuers and networks activate multiple unaffiliated networks for
+                               36
+each transaction “whether authorization is based on signature,
+PIN, or other means,” NACS, 958 F. Supp. 2d at 110–11. But we
+think it quite implausible that Congress engaged in a high-stakes
+game of hide-and-seek with the Board, writing a provision that
+seems to require one thing but embedding a substantially
+different and, according to financial services amici, much more
+costly requirement in the statute’s definitions section. Cf.
+Whitman v. American Trucking Association, 531 U.S. 457, 468
+(2001) (“Congress . . . does not . . . hide elephants in
+mouseholes.”).
+
+     The merchants also argue that the Board’s rule runs afoul of
+the Durbin Amendment’s purpose. Pointing out that Congress
+intended network competition to drive down network processing
+fees, the merchants insist that the Board has undermined this
+competitive market because “merchants will be deprived of
+network choice for a substantial segment of debit transactions in
+the marketplace today.” Appellees’ Br. 47. But the Board
+thought differently. As it explained in the Final Rule,
+“merchants that currently accept PIN debit would have routing
+choice with respect to PIN debit transactions in many cases
+where an issuer chooses to participate in multiple PIN debit
+networks.” Final Rule, 76 Fed. Reg. at 43,448. Indeed, the Board
+presents uncontested evidence demonstrating that its rule has, as
+predicted, substantially increased network competition.
+According to the Board, as a result of the rule over 100 million
+debit cards were activated on new networks, and “[Visa], which
+had previously accounted for approximately 50-60% of the [PIN
+debit] market, lost roughly half that share.” Appellant’s Br. 37 &
+n.6 (internal quotation marks omitted).
+
+    Of course, as the Board acknowledges, the merchants’
+preferred rule would result in more competition. But in its Final
+Rule the Board explained the policy considerations that led it to
+                                37
+reject that approach. For one thing, cardholders might prefer to
+route transactions over certain networks, perhaps because they
+believe those networks to have better fraud-prevention policies.
+Final Rule, 76 Fed. Reg. at 43,447–48. Also, the merchants’
+preferred rule “could potentially limit the development and
+introduction of new authentication methods” since issuers would
+be unable to compel merchants to accept new authentication
+techniques. Final Rule, 76 Fed. Reg. at 43,448. The merchants
+ignore these reasonable concerns. Given that the Board’s rule
+advances the Durbin Amendment’s purpose, we decline to
+second-guess its reasoned decision to reject an alternative option
+that might have further advanced that purpose.
+
+     Next, the merchants emphasize the interaction between
+section 920(b)’s two key components: the anti-exclusivity and
+routing priority provisions. According to the merchants, the
+Board’s anti-exclusivity rule renders the routing priority
+provision meaningless, since merchants will often lack the
+ability to choose between multiple unaffiliated routing options.
+But as the Board points out, the merchants misunderstand the
+routing priority provision. Recall that it prohibits issuers and
+networks from requiring merchants to process transactions over
+certain activated networks rather than others. Far from rendering
+the routing priority provision a nullity, the Board’s anti-
+exclusivity provision would be ineffective without it. Absent the
+routing priority provision, issuers and networks could, for
+instance, activate two PIN networks and a signature network
+affiliated with one of the PIN networks and then require
+merchants to route transactions over the PIN network affiliated
+with the signature network rather than over the other PIN
+network.
+
+     Finally, the merchants question the Board’s premise that it
+is they, not issuers and networks, who restrict routing options for
+                               38
+transactions under the Board’s Final Rule. To this end, they
+assert that issuer and network rules arbitrarily prevent merchants
+from processing PIN transactions on signature networks and vice
+versa, suggesting that the Board could comply with the statute
+by eliminating the distinction between PIN and signature debit.
+But even if issuers and networks are responsible for maintaining
+this distinction—a point they strongly dispute—merchants, not
+issuers or networks, limit their own options when they refuse to
+accept PIN debit, and cardholders, not issuers or networks, limit
+merchants’ options when given the ability to choose how to
+process transactions. “The principal fallacy with the Merchants’
+argument,” the Board aptly explains, “is that they selectively
+view transactions only from their own perspective and only after
+the point at which the merchant itself or the consumer may have
+elected to restrict certain routing options,” whereas “section
+920(b) speaks only in terms of issuer and payment card network
+restrictions” imposed prior to initiation of any particular debit
+card transaction. Reply Br. 2–3.
+
+    In sum, far from summiting the steep hill, the merchants
+have barely left basecamp. We therefore defer to the Board’s
+reasonable interpretation of section 920(b) and reject the
+merchants’ challenges to the anti-exclusivity rule.
+
+                               IV.
+     For the foregoing reasons, we reverse the district court’s
+grant of summary judgment to the merchants and remand for
+further proceedings consistent with this opinion.
+
+                                                     So ordered.
+

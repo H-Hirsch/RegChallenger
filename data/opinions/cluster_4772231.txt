@@ -1,0 +1,804 @@
+     Case: 18-10545    Document: 00515510547      Page: 1   Date Filed: 07/31/2020
+
+
+
+
+        IN THE UNITED STATES COURT OF APPEALS
+                 FOR THE FIFTH CIRCUIT  United States Court of Appeals
+                                                 Fifth Circuit
+
+                                                                     FILED
+                                                                   July 31, 2020
+                                  No. 18-10545
+                                                                   Lyle W. Cayce
+                                                                        Clerk
+STATE OF TEXAS; STATE OF KANSAS; STATE OF LOUISIANA; STATE
+OF INDIANA; STATE OF WISCONSIN; STATE OF NEBRASKA,
+
+             Plaintiffs - Appellees Cross-Appellants
+
+v.
+
+CHARLES P. RETTIG, in his Official Capacity as Commissioner of Internal
+Revenue; UNITED STATES OF AMERICA; UNITED STATES
+DEPARTMENT OF HEALTH AND HUMAN SERVICES; UNITED STATES
+INTERNAL REVENUE SERVICE; ALEX M. AZAR, II, SECRETARY, U.S.
+DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+
+             Defendants - Appellants Cross-Appellees
+
+
+
+
+                Appeals from the United States District Court
+                     for the Northern District of Texas
+
+
+Before BARKSDALE, HAYNES, and WILLETT, Circuit Judges.
+HAYNES, Circuit Judge:
+      This case involves constitutional challenges to Section 9010 of the
+Affordable Care Act (the “ACA”) and statutory and constitutional challenges to
+a U.S. Department of Health and Human Services (“HHS”) administrative rule
+(the “Certification Rule”). Texas, Kansas, Louisiana, Indiana, Wisconsin, and
+Nebraska (the “States”) sued the United States and its relevant agencies and
+officials (collectively, the “United States”), claiming that the Certification Rule
+and Section 9010 were unlawful. Both parties moved for summary judgment,
+     Case: 18-10545       Document: 00515510547       Page: 2    Date Filed: 07/31/2020
+
+
+
+                                       No. 18-10545
+and the district court granted both motions in part. The parties then cross-
+appealed. On the jurisdictional claims, we AFFIRM the district court’s ruling
+that the States had standing, but we REVERSE the district court’s ruling that
+the States’ Administrative Procedure Act (“APA”) claims were not time-barred
+and DISMISS those claims for lack of jurisdiction. On the merits, we AFFIRM
+the district court’s judgment on the Section 9010 claims; however, we
+REVERSE the district court’s judgment that the Certification Rule violated
+the nondelegation doctrine and RENDER judgment in favor of the United
+States. Because we hold that neither the Certification Rule nor Section 9010
+are unlawful, we VACATE the district court’s grant of equitable disgorgement
+to the States.
+                                  I.    Background
+A.    Regulatory Background
+      In 1965, the Medicaid Act 1 “established the Medicaid program as a joint
+Federal and State program for providing financial assistance to individuals
+with low incomes to enable them to receive medical care.”                 See Medicaid
+Program; Medicaid Managed Care: New Provisions, 67 Fed. Reg. 40,989,
+40,989 (June 14, 2002) [hereinafter “2002 Final Rule”].                    The federal
+government “provid[es] matching funds to State agencies to pay for a portion
+of the costs of providing health care to Medicaid beneficiaries.” 2 Id.
+      States have two options for providing care to Medicaid beneficiaries: a
+“fee-for-service” model and a managed-care model. Id. Under the fee-for-
+service model, a doctor who treats a Medicaid beneficiary submits a
+reimbursement request to the state Medicaid agency. Id. The state pays the
+
+
+
+      1   42 U.S.C. §§ 1396–1396w-5.
+      2  Medicaid beneficiaries are those “individuals eligible for and receiving Medicaid
+benefits.” 2002 Final Rule, 67 Fed. Reg. at 40,989.
+                                            2
+     Case: 18-10545       Document: 00515510547         Page: 3    Date Filed: 07/31/2020
+
+
+
+                                      No. 18-10545
+bill after confirming the individual’s eligibility and need for service. See id.
+Then the state seeks reimbursement from the federal government for a
+percentage of the cost. See 42 U.S.C. § 1396b(a).
+       Under the more widely used managed-care model, the state pays a third-
+party health insurer (“managed-care organization” or “MCO”) a monthly
+premium (the “capitation rate”) for each Medicaid beneficiary the MCO covers,
+and the MCO provides care to the beneficiary. 2002 Final Rule, 67 Fed. Reg.
+at 40,989. States may receive reimbursement from the federal government for
+some percentage of the capitation rate so long as the underlying MCO contract
+is “actuarially sound.” See 42 U.S.C. § 1396b(m)(2)(A)(iii).
+       As states began moving away from the fee-for-service model, HHS
+recognized that its definition of “actuarial soundness”—based on the cost of
+services under a fee-for-service model—was untenable. See 2002 Final Rule,
+67 Fed. Reg. at 41,000 (stating that “there [was] an increasing number of
+States that lack[ed] recent [fee-for-service] data to use for rate setting”). It
+thus promulgated a final rule redefining “actuarial soundness” in 2002. Id. at
+41,079–80 (redefining “actuarial soundness”). Under this new rule, capitation
+rates must satisfy three requirements to be actuarially sound. First, the rates
+must “[h]ave been developed in accordance with generally accepted actuarial
+principles and practices,” 42 C.F.R. § 438.6(c)(1)(i)(A) (2002), 3 which, as
+explained by the actuarial office within HHS that reviews state-MCO
+contracts, requires accounting for all reasonable, appropriate, and attainable
+costs. Second, the rates must be “appropriate for the populations to be covered,
+
+
+       3 In 2016, HHS recodified the actuarial soundness requirements and the Certification
+Rule in 42 C.F.R. §§ 438.2, 438.4(a). Because the States challenge the 2002 version of the
+Certification Rule, which was in effect in 2015, and because the definitions relevant to the
+States’ claims are unchanged, we follow the district court and the parties in discussing this
+version of the regulation.
+
+
+                                             3
+     Case: 18-10545       Document: 00515510547         Page: 4    Date Filed: 07/31/2020
+
+
+
+                                      No. 18-10545
+and the services to be furnished under the contract.” Id. § 438.6(c)(1)(i)(B).
+Third, the rates must satisfy the Certification Rule; 4 that is, they must “[h]ave
+been certified, as meeting the requirements of this [provision], by actuaries
+who meet the qualification standards established by the American Academy of
+Actuaries and follow the practice standards established by the Actuarial
+Standards Board [(the “Board”)].” Id. § 438.6(c)(1)(i)(C).
+       In 2010, Congress enacted the ACA, comprised by the Patient Protection
+and Affordable Care Act (“PPACA”), Pub. L. No. 111-148, 124 Stat. 119 (2010),
+and the Health Care and Education Reconciliation Act of 2010 (“HCERA”),
+Pub. L. No. 111-152, 124 Stat. 1029 (2010). The ACA made two changes to the
+regulatory scheme requiring states that requested Medicaid reimbursements
+for their MCO contracts to provide actuarially sound capitation rates. First,
+Congress imposed a new cost on certain MCOs: a federal health-insurance
+provider tax (the “Provider Fee”).           See PPACA § 9010, 124 Stat. at 865,
+amended by PPACA § 10905, 124 Stat. at 1017, amended by HCERA § 1406,
+124 Stat. at 1066. 5 This Provider Fee must be paid annually by covered
+entities—“any entity which provides health insurance for any United States
+
+
+
+
+       4   The Certification Rule at issue here is solely 42 C.F.R. § 438.6(c)(1)(i)(C), the
+certification component of the actuarial soundness definition. The States’ operative
+complaint and motion for summary judgment objected to only that subsection. They made
+no mention of the other requirements. Moreover, in a motion for leave to file a second
+amended complaint, the States specified that the Certification Rule defined actuarial
+soundness as meeting the actuarial standards set by a private association of actuaries.
+         We clarify this point because the district court incorrectly determined that the
+Certification Rule at issue encompassed all three requirements. See Texas v. United States
+(Texas I), 300 F. Supp. 3d 810, 822 (N.D. Tex. 2018). On appeal, the States also seem to have
+confused which HHS regulation they were contesting, first referring to only subsection
+(c)(1)(i)(C) but later lumping in subsection (A) as well.
+       5 Section 9010 has not been codified in the United States Code and thus does not exist
+in one consolidated location.
+
+
+                                             4
+     Case: 18-10545       Document: 00515510547         Page: 5    Date Filed: 07/31/2020
+
+
+
+                                      No. 18-10545
+health risk,” excluding governmental entities. 6 Id. § 9010(c)(1), (c)(2)(B), 124
+Stat. at 866. Second, Congress amended the Medicaid Act to expressly require
+that capitation rates included in state-MCO contracts be actuarially sound. Id.
+§ 2501(c)(1)(C), 124 Stat. at 308; 42 U.S.C. § 1396b(m)(2)(A)(xiii) (“[C]apitation
+rates . . . shall be based on actual cost experience related to rebates and subject
+to the Federal regulations requiring actuarially sound rates[.]”).                    What
+remained unchanged was that actuarially sound capitation rates required
+accounting for all reasonable, appropriate, and attainable costs. Thus, when
+the Internal Revenue Service (the “IRS”) began collecting the Provider Fee
+from covered entities in 2014, see PPACA § 9010(a), 124 Stat. at 865, states
+with MCO contracts were required to account for the Provider Fee to meet the
+actuarial soundness requirement of the Medicaid Act, see 42 U.S.C.
+§ 1396b(m)(2)(A)(iii).
+       In 2015, the Board, an independent organization that sets appropriate
+standards for actuarial practices in the United States, published Actuarial
+Standard of Practice 49: Medicaid Managed Care Capitation Rate Development
+and Certification (“ASOP 49”).             ACTUARIAL STANDARDS BD., ACTUARIAL
+STANDARD OF PRACTICE NO. 49: MEDICAID MANAGED CARE CAPITATION RATE
+DEVELOPMENT AND CERTIFICATION (2015) [hereinafter ASOP 49]. ASOP 49
+provides “guidance for actuaries preparing, reviewing, or giving advice on
+capitation rates for Medicaid programs, including those certified in accordance
+with 42 CFR 438.6(c).” Id. at iv. Medicaid capitation rates are actuarially
+sound if they “provide for all reasonable, appropriate, and attainable costs,”
+
+
+
+
+       6There is an exclusion for governmental entities, “except to the extent such an entity
+provides health insurance coverage through the community health insurance option under
+section 1323.” PPACA § 9010(c)(2)(B), 124 Stat. at 866. However, this exception is not
+relevant here.
+                                             5
+      Case: 18-10545      Document: 00515510547    Page: 6   Date Filed: 07/31/2020
+
+
+
+                                    No. 18-10545
+which “include . . . government-mandated assessments, fees, and taxes.” Id. at
+2.
+          In summary, for states to receive federal reimbursement under the
+managed-care model, their MCO contracts must be approved by HHS as
+actuarially      sound.     See   42   U.S.C.   § 1396b(m)(2)(A)(iii);   42   C.F.R.
+§ 438.6(c)(1)(i). To be actuarially sound, the capitation rate must account for
+all costs MCOs bear when providing care to Medicaid beneficiaries. See 2002
+Final Rule, 67 Fed. Reg. at 41,000. When Congress enacted the ACA in 2010,
+the amount of money states paid MCOs as part of their capitation rate
+changed: In contracts with MCOs subject to the Provider Fee, states must
+account for the Provider Fee in their capitation rate to satisfy HHS’s actuarial-
+soundness requirement. ASOP 49 states that the “costs” include government-
+mandated taxes. ASOP 49 at 2.
+     B.     Procedural Background
+          The States sued the United States, claiming that the Certification Rule
+and Section 9010 were unconstitutional and/or unlawful. See Texas v. United
+States (Texas I), 300 F. Supp. 3d 810, 820 (N.D. Tex. 2018). Regarding the
+Certification Rule, they claimed that the rule violated the nondelegation
+doctrine from Article I, section 1, of the U.S. Constitution and that HHS
+violated the APA on multiple grounds. See id. at 826. Regarding Section 9010,
+they claimed that the statute violated the Spending Clause of the U.S.
+Constitution and the doctrine of intergovernmental tax immunity under the
+Tenth Amendment. See id. at 826, 854.
+          Both parties moved for summary judgment. See id. at 826. The United
+States argued that the States lacked Article III standing for their claims, the
+States’ APA claims were time-barred, and the States’ arguments failed on the
+merits. See id. The district court granted both parties’ motions in part. Id. at
+821. It held that the States had standing and that their APA claims were not
+                                          6
+     Case: 18-10545   Document: 00515510547         Page: 7   Date Filed: 07/31/2020
+
+
+
+                                     No. 18-10545
+barred by the six-year statute of limitations. Id. at 834, 840. On the merits of
+the States’ Certification Rule claims, the district court held that the rule
+violated the nondelegation doctrine but otherwise complied with the APA. Id.
+at 848, 850–851. On the merits of the States’ Section 9010 claims, the district
+court held that Congress did not violate the Spending Clause or the Tenth
+Amendment. Id. at 854, 856.
+      The district court thus set aside the Certification Rule. Id. at 856–57. It
+then granted the States equitable disgorgement of their Provider Fee
+payments under the APA, resulting in a final judgment against the United
+States for more than $479 million. See Texas v. United States, 336 F. Supp. 3d
+664, 675 (N.D. Tex. 2018). Both parties timely appealed.
+                        II.    Standard of Review
+      We review a district court’s grant of summary judgment de novo.
+Amerisure Ins. Co. v. Navigators Ins. Co., 611 F.3d 299, 304 (5th Cir. 2010).
+“On cross-motions for summary judgment, we review each party’s motion
+independently, viewing the evidence and inferences in the light most favorable
+to the nonmoving party.” Id. (citation omitted). Summary judgment is proper
+when “there is no genuine dispute as to any material fact and the movant is
+entitled to judgment as a matter of law.” FED. R. CIV. P. 56(a).
+                              III.    Discussion
+      The parties contest the constitutionality and lawfulness of the
+Certification Rule and the constitutionality of Section 9010. We hold that both
+the Certification Rule and Section 9010 are constitutional and lawful; as a
+result, there can be no equitable disgorgement, regardless of whether such a
+remedy would be otherwise appropriate. We address each issue in turn.
+A.    The Certification Rule Claims
+      The States’ challenge to the Certification Rule is based upon a sequence
+of events they allege is impermissible. Through the Certification Rule, HHS
+                                          7
+     Case: 18-10545       Document: 00515510547         Page: 8     Date Filed: 07/31/2020
+
+
+
+                                       No. 18-10545
+gave authority to the Board to promulgate binding rules through Actuarial
+Standards of Practice (“ASOPs”). Before it published ASOP 49 in 2015, the
+Board provided only a nonbinding “practice note” that permitted, but did not
+require, actuaries to consider fourteen separate factors in assessing expected
+MCO revenues and expenses under contracts with state Medicaid agencies,
+including any “state-mandated assessment and taxes.”                      MEDICAID RATE
+CERTIFICATION WORK GROUP, ACTUARIAL STANDARDS BD., ACTUARIAL
+CERTIFICATION OF RATES FOR MEDICAID MANAGED CARE PROGRAMS 8–9 (2005).
+According to the States, ASOP 49 introduced the requirement that actuarially
+sound capitation rates account for government-mandated taxes. 7 The States
+thus contend that the Certification Rule unlawfully delegates to the Board the
+task of formulating, and making binding decisions about the applicability of,
+rules governing States’ access to Medicaid funds. The States further argue
+that HHS’s incorporation of ASOP 49 in the Certification Rule violated the
+APA in two respects: (1) the rule exceeded HHS’s statutory authority, and
+(2) HHS adopted the rule without notice and comment.
+       The United States contends that we lack jurisdiction because the States
+lack standing to challenge the Certification Rule and because their APA claims
+were barred by the statute’s six-year statute of limitations. On the merits, the
+United States argues that the States’ Certification Rule challenges are
+premised on a misunderstanding of Section 9010 and the Certification Rule. It
+claims that the Board did not change the definition of actuarial soundness, but
+instead HHS permissibly chose to incorporate the Board’s guidance on the
+subject.
+
+
+
+
+       7This is an incorrect statement of the facts. HHS’s Office of the Actuary stated that
+actuarially sound capitation rates have consistently required that all reasonable appropriate,
+and attainable costs be covered by rates which includes all taxes, fees, and assessments.
+                                              8
+    Case: 18-10545     Document: 00515510547      Page: 9   Date Filed: 07/31/2020
+
+
+
+                                   No. 18-10545
+      Thus, at issue here are two jurisdictional questions: whether the States
+have standing and, if so, whether their APA claims are time-barred. If we have
+jurisdiction, we must next address the parties’ merits claims: whether the
+Certification Rule violates the nondelegation doctrine, and whether HHS
+violated the APA. We hold that the States have standing for their Certification
+Rule claims but that their APA claims are time-barred which, in this context,
+is a jurisdictional issue. We therefore address the merits of only the States’
+nondelegation argument and hold that the Certification Rule is constitutional.
+      1.    Standing
+      To   satisfy   Article   III’s   standing   requirement,   plaintiffs   must
+demonstrate (1) an injury that is (2) fairly traceable to the defendant’s
+allegedly unlawful conduct and that is (3) likely to be redressed by the
+requested relief. Lujan v. Defs. of Wildlife, 504 U.S. 555, 560–61 (1992). “The
+party invoking federal jurisdiction bears the burden of establishing these
+elements.” Id. at 561 (citations omitted). At the summary judgment stage,
+plaintiffs “must set forth by affidavit or other evidence specific facts, which
+. . . will be taken to be true,” to support each element. Id. (internal quotation
+marks and citation omitted). If one plaintiff has standing for a claim, then
+Article III is satisfied as to all plaintiffs. Rumsfeld v. Forum for Acad. &
+Institutional Rights, Inc., 547 U.S. 47, 52 n.2 (2006) (citations omitted). We
+review standing issues de novo. Nat’l Rifle Ass’n of Am., Inc. v. McCraw, 719
+F.3d 338, 343 (5th Cir. 2013) (citation omitted).
+      Accepting their factual allegations, summarized above, as true, we hold
+that the States satisfy the three requirements for standing. First, the States
+alleged a particular injury in fact: having to pay millions of dollars in Provider
+Fees despite the ACA’s explicit exemption for governmental entities. Second,
+the States’ injury is arguably traceable to the Certification Rule. They contend
+that before the Board published ASOP 49, which is applied to the States via
+                                          9
+   Case: 18-10545    Document: 00515510547      Page: 10   Date Filed: 07/31/2020
+
+
+
+                                 No. 18-10545
+the Certification Rule, actuaries were advised that their capitation rate
+analysis must comport with state and federal law and that before Congress
+enacted the ACA, federal taxes were minor and not separately considered.
+ASOP 49, the States say, required them to pay the Provider Fee as part of their
+actuarially sound capitation rates. Though the facts underlying this argument
+of how the capitation rates worked under the Certification Rule before and
+after ASOP 49 are contested, we assume the States’ view of the facts to be true
+for purposes of standing. See Lujan, 504 U.S. at 561. The attacks on ASOP
+49, which have been applied to the States through the Certification Rule, are
+the core of this argument. Third, the States have alleged that their injury is
+likely to be redressed by invalidating the Certification Rule. They allege that
+before ASOP 49’s adoption and application to the States via the Certification
+Rule, states still had the legal option to exclude the Provider Fee from
+capitation rates in their contracts with MCOs. Thus, they argue that in the
+rule’s absence, states could not lose Medicaid funding for refusing to pay the
+Provider Fee “by virtue of that rule.” See Larson v. Valente, 456 U.S. 228, 242
+(1982) (holding that setting aside an allegedly unlawful statutory provision
+that compels plaintiffs to register and report redresses the plaintiffs’ alleged
+injury of registering and reporting because, even though the plaintiffs could be
+compelled to register and report through another statutory provision, they will
+no longer be compelled to do so under the statutory provision at issue). Were
+we to rule in their favor, the Certification Rule would be invalidated and ASOP
+49’s explicit requirement to pay the Provider Fee would be removed.
+      The United States counters that the States’ injury would not be
+redressed by invalidating the Certification Rule because States are required to
+account for the Provider Fee under 42 U.S.C. § 1396b(m)(2)(A)(iii). Indeed, as
+the United States notes, the States were still required to account for the
+
+
+                                      10
+    Case: 18-10545       Document: 00515510547          Page: 11     Date Filed: 07/31/2020
+
+
+
+                                       No. 18-10545
+Provider Fee under § 1396b after the district court invalidated the
+Certification Rule. Notably, the States don’t challenge § 1396b here. 8
+       However true the United States’s argument may be, the invalidation of
+the Certification Rule (and thereby, the removal of requiring compliance with
+ASOP 49) nonetheless would remove one explicit requirement to pay the
+Provider Fee. To be sure, the States may still be required to pay the Provider
+Fee under § 1396b, but this statutory injury is not complained of here. Barrett
+Comput. Servs., Inc. v. PDA, Inc., 884 F.2d 214, 218 (5th Cir. 1989) (‘[S]tanding
+concerns the right of a party to bring a particular suit.” (emphasis added)).
+Here, the States allege they were directly forced to pay the Provider Fee per
+ASOP 49 and the Certification Rule. Larson, 456 U.S. at 242–43 (finding
+standing when appellants contested a “rule [that] was the sole basis for” the
+“discrete injury” that “gave rise to the present suit”). As such, the States attack
+an injury caused by the Certification Rule. Therefore, though the States may
+still have to pay the Provider Fee under § 1396b, success here will nonetheless
+remove one of two legal barriers to defeating this obligation—in other words,
+the States will no longer “be required to [pay the Provider Fee] by virtue of
+[ASOP 49 and the Certification Rule].” Id. at 242. Taking the States’ factual
+allegations to be true, see Lujan, 504 U.S. at 561, we conclude that the States
+have alleged that the injury complained of in this case is redressable with a
+favorable decision. In sum, we hold that the States have standing to raise their
+Certification Rule claims. (Again, focusing solely on whether, assuming the
+facts in the States’ favor, there is a traceable, redressable injury in fact.)
+
+
+
+
+       8 The States have filed a second lawsuit, this time claiming that § 1396b(m)(2)(A)(iii)
+is being improperly interpreted and seeking to enjoin the IRS from collecting the Provider
+Fee from them. Complaint at 15, Texas v. United States (Texas II), No. 4:18-CV-00779 (N.D.
+Tex. Sept. 20, 2018), ECF No. 1.
+                                             11
+   Case: 18-10545     Document: 00515510547     Page: 12   Date Filed: 07/31/2020
+
+
+
+                                 No. 18-10545
+      2.    Statute of Limitations
+      However, we lack jurisdiction to address the States’ APA claims because
+they are time-barred. APA challenges are governed by 28 U.S.C. § 2401(a),
+which provides that “every civil action commenced against the United States
+shall be barred unless the complaint is filed within six years after the right of
+action first accrues.” The United States enjoys sovereign immunity unless it
+consents to suit, “and the terms of its consent circumscribe our jurisdiction.”
+Dunn-McCampbell Royalty Interest, Inc. v. Nat’l Park Serv., 112 F.3d 1283,
+1287 (5th Cir. 1997) (citation omitted). “The applicable statute of limitations
+is one such term of consent,” so, unlike the ordinary world of statutes of
+limitations, here the failure to sue the United States within the limitations
+period deprives us of jurisdiction. Id.
+      HHS published the Certification Rule in 2002, thirteen years before the
+States filed their complaint. See 2002 Final Rule, 67 Fed. Reg. at 40,989.
+However, a plaintiff may “challenge . . . a regulation after the limitations
+period has expired” if the claim is that the “agency exceeded its constitutional
+or statutory authority. To sustain such a challenge, the claimant must show
+some direct, final agency action involving the particular plaintiff within six
+years of filing suit.” Dunn-McCampbell, 112 F.3d at 1287. An agency’s action
+is direct and final when two criteria are satisfied. “First, the action must mark
+the ‘consummation’ of the agency’s decisionmaking process.” Bennett v. Spear,
+520 U.S. 154, 177–78 (1997) (citation omitted). “[S]econd, the action must be
+one by which rights or obligations have been determined, or from which legal
+consequences will flow.”     Id. at 178 (quotation omitted).      These rights,
+obligations, or legal consequences must be new. Nat’l Pork Producers Council
+v. U.S. E.P.A., 635 F.3d 738, 756 (5th Cir. 2011).
+      The district court concluded that HHS took three “direct, final agency
+actions” in 2015 against the States and that those actions triggered a new six-
+                                          12
+   Case: 18-10545    Document: 00515510547      Page: 13   Date Filed: 07/31/2020
+
+
+
+                                 No. 18-10545
+year statute of limitations period. Texas I, 300 F. Supp. 3d at 839 (citation
+omitted). But, as the United States argues, none of these actions were direct
+and final.
+      First, the district court pointed to a 2015 letter sent by HHS to the Texas
+Medicaid Director approving Texas’s amended MCO contract, which included
+Provider Fees in the capitation rates for additional groups of Medicaid
+beneficiaries. Id. This letter does not show that HHS was issuing a new ruling
+requiring Texas to include Provider Fees in its capitation rates. Further, Texas
+paid costs associated with Provider Fees for the 2013 calendar year even
+though the 2015 letter applied only from May 1, 2015 to August 31, 2015.
+Thus, even before the letter, Texas accounted for the Provider Fee in its
+capitation rates. The letter did not mark a change to Texas’s obligation under
+the Certification Rule.
+      Second, the district court stated that the government’s collection of the
+Provider Fee through the States’ 2015 capitation rate constituted direct, final
+agency action. Id. But, as explained above, the IRS does not collect the
+Provider Fee directly from states. The government’s decision to collect from
+MCOs is not a “direct . . . action involving the [States].” See Dunn-McCampbell,
+112 F.3d at 1287. As such, this argument does not support the district court’s
+conclusion.
+      Third, the district court stated that HHS’s 2015 guidance document “for
+use in setting [capitation] rates . . . for any managed care program subject to
+the actuarial soundness requirements” obligated the States to include the cost
+of the Provider Fee in their capitation rate calculations in 2015. Texas I, 300
+F. Supp. 3d at 839–40 (citation omitted). Once again, the guidance document
+did not create any new obligations or consequences; it restated that for
+capitation rates to be actuarially sound, they had to be consistent with ASOPs,
+including ASOP 49. But this requirement has existed since HHS promulgated
+                                       13
+    Case: 18-10545    Document: 00515510547        Page: 14   Date Filed: 07/31/2020
+
+
+
+                                    No. 18-10545
+the Certification Rule. See 2002 Final Rule, 67 Fed. Reg. at 41,097 (requiring
+that capitation rates be “certified . . . by actuaries who . . . follow the practice
+standards established by the Actuarial Standards Board”). The publication of
+ASOP 49 in 2015 did not create any new obligation or legal consequence either.
+Actuarially sound capitation rates have consistently required that all
+reasonable, appropriate, and attainable costs be covered by rates; this includes
+all taxes, fees, and assessments.
+      We conclude that HHS took no direct, final agency action in 2015 to
+create a new obligation.       The States identified no other such action that
+occurred after 2009 (when the six-year statute of limitations expired). We thus
+reverse the district court’s judgment on the States’ APA claims and dismiss
+those claims as time barred.
+      3.    Nondelegation Doctrine
+      Because we lack jurisdiction over the States’ APA claims, the only claim
+we address on the merits is whether HHS unlawfully delegated authority to
+the Board when it promulgated the Certification Rule. The United States
+argues that the Certification Rule was not an unlawful delegation because
+HHS simply “prescribed the conditions” necessary to receive federal funds. See
+Currin v. Wallace, 306 U.S. 1, 16 (1939) (brackets omitted).            The States
+disagree, arguing that the Certification Rule impermissibly gave the Board
+and its actuaries—private actors—a discretionary veto over HHS’s approval of
+States’ Medicaid contracts, as well as the power to define the content of a
+federal law as it applies to someone else. The district court held that the
+Certification Rule unlawfully vested in the Board and its actuaries the
+legislative power to set rules on actuarial soundness and to veto executive
+action that does not comply with such rules. Texas I, 300 F. Supp. 3d at 843–
+48. We hold that it did not.
+
+
+                                        14
+    Case: 18-10545        Document: 00515510547          Page: 15      Date Filed: 07/31/2020
+
+
+
+                                        No. 18-10545
+       A federal agency may not “abdicate its statutory duties” by delegating
+them to a private entity. See Sierra Club v. Lynn, 502 F.2d 43, 59 (5th Cir.
+1974). However, delegation to private entities is lawful if the entities “function
+subordinately to” the federal agency and the federal agency “has authority and
+surveillance over [their] activities.” Sunshine Anthracite Coal Co. v. Adkins,
+310 U.S. 381, 399 (1940). 9 Thus, the inquiry here is whether HHS retained
+final reviewing authority over state-MCO contracts when it required that the
+contract be certified by an actuary who follows the practice standards
+established by the Board.
+       An agency retains final reviewing authority if it “independently
+perform[s] its reviewing, analytical and judgmental functions.” Lynn, 502 F.2d
+at 59. For example, as the D.C. Circuit held in Tabor v. Joint Board for
+Enrollment of Actuaries, an agency may delegate certain components of
+actuary certification for administering federal pension plans if the agency
+retains the authority to ultimately certify each actuary. 566 F.2d 705, 708 &
+n.5 (D.C. Cir. 1977).        The court held that permitting actuaries to obtain
+certification through a private entity did not unconstitutionally delegate
+authority     to   private     entities    because     the    certification     process     was
+“superintended by the [agency] in every respect,” in that the agency ultimately
+certified each actuary. Id. at 708 n.5.
+       Similarly, in Perot v. FEC, the D.C. Circuit upheld an agency regulation
+that permitted nonprofit organizations to stage political candidacy debates so
+long as they “use[d] pre-established objective criteria to determine which
+
+
+       9 See also R.H. Johnson & Co. v. SEC, 198 F.2d 690, 695 (2d Cir. 1952) (holding that
+an agency did not unconstitutionally delegate powers to a private entity because the agency
+retained power to approve or disapprove rules and to review disciplinary actions); Nat’l Park
+& Conservation Ass’n v. Stanton, 54 F. Supp. 2d 7, 19 (D.D.C. 1999) (“Delegations by federal
+agencies to private parties are, however, valid so long as the federal agency or official retains
+final reviewing authority.” (citations omitted)).
+                                              15
+    Case: 18-10545      Document: 00515510547        Page: 16     Date Filed: 07/31/2020
+
+
+
+                                     No. 18-10545
+candidates may participate in a debate.” 97 F.3d 553, 556, 559–60 (D.C. Cir.
+1996) (per curiam) (quoting 11 C.F.R. § 110.13). The court noted that while
+the agency gave private entities “the latitude to choose their own ‘objective
+criteria,’” such private entities acted at their peril if they did not first secure
+an agency advisory opinion that their criteria were satisfactory. Id. at 560.
+The court thus determined that “[t]he authority to determine what the term
+‘objective criteria’ means rest[ed] with the agency” and held that the agency
+did not unconstitutionally delegate legislative authority. Id.
+      In contrast, total delegation or “rubber stamping” is impermissible. See
+Lynn, 502 F.2d at 59; U.S. Telecom Ass’n v. FCC, 359 F.3d 554, 564–65 (D.C.
+Cir. 2004) (holding unlawful an agency’s subdelegation to third parties, which
+directed them to make determinations on behalf of the agency).
+      Here, HHS’s delegation of certain actuarial soundness requirements to
+the Board did not divest HHS of its final reviewing authority. HHS has the
+ultimate authority to approve a state’s contract with MCOs; certification is a
+small part of the approval process. To obtain HHS approval of its capitation
+rate for reimbursement purposes, a state sends its MCO contract to the
+appropriate HHS Regional Office.                If the state provides all required
+documentation, the Office of the Actuary (“OACT”), an office within HHS, will
+begin its actuarial review. OACT reviews the contract by looking at all of the
+assumptions, data, and methodology in the rate certification to ensure the
+certification is consistent with actuarial principles and methods. If OACT
+determines that the capitation rates are actuarially sound, it will write a memo
+confirming this conclusion and send the contract to HHS’s Center for Medicaid
+and CHIP (Children’s Health Insurance Program) Services 10 for final review.
+
+
+      10 The Center for Medicaid and CHIP Services is the component of HHS that is
+“responsible for the various components of policy development and operations for Medicaid,
+
+                                           16
+     Case: 18-10545     Document: 00515510547         Page: 17    Date Filed: 07/31/2020
+
+
+
+                                     No. 18-10545
+The Center will then review the rate certification and OACT’s memo and
+approve the contract if it finds no issues.
+       The contract approval process is closely “superintended by [HHS] in
+every respect.” See Tabor, 566 F.2d at 708 n.5. We hold that HHS did not
+unlawfully delegate to a third party its authority to approve state-MCO
+contracts.
+B.     Section 9010 Claims 11
+       The States raise two constitutional challenges against Section 9010.
+They claim that it violates the Spending Clause and the Tenth Amendment
+doctrine of intergovernmental tax immunity. We address each claim in turn
+and hold that Section 9010 does not violate either constitutional provision.
+       1.    Spending Clause
+       The parties contest whether the Spending Clause applies to Section 9010
+at all. The United States argues that Section 9010 is instead a constitutional
+tax that Congress imposed under its taxing power, which fully resolves the
+Spending Clause claim. The States argue that the Provider Fee, as applied to
+them, functions as a condition on spending and thus implicates the Spending
+Clause. We hold that the Provider Fee is a constitutional tax that fully resolves
+the States’ Spending Clause claim and does not impose a condition on
+spending.
+
+
+[CHIP], and the Basic Health Program . . . .” See Organization, CTRS. FOR MEDICARE &
+MEDICAID SERVS., http://www.medicaid.gov/about-us/organization/index.html (last visited
+July 17, 2020). In that regard, the Center oversees State-MCO contract approvals.
+       11While the United States does not contest standing on this, we note that the States
+have standing for their Provider Fee claims. See Adarand Constructors, Inc. v. Mineta, 534
+U.S. 103, 110 (2001) (per curiam) (citation omitted) (holding that courts must examine
+standing sua sponte if it has erroneously been assumed below). The States allege that they
+were injured when they were forced to pay the Provider Fee. This injury is traceable to the
+United States’s allegedly unlawful conduct of enforcing Section 9010 after Congress imposed
+the Provider Fee as part of the ACA. See PPACA § 9010(a), 124 Stat. at 865. Invalidating
+the Provider Fee would thus redress the States’ claimed injury.
+                                            17
+    Case: 18-10545      Document: 00515510547         Page: 18    Date Filed: 07/31/2020
+
+
+
+                                     No. 18-10545
+      For a payment requirement to qualify as a tax, it must “produce[] at least
+some revenue for the Government.” Nat’l Fed’n of Indep. Bus. v. Sebelius
+(NFIB), 567 U.S. 519, 564 (2012).            In addition, the Supreme Court has
+identified three factors to be considered in determining whether a payment
+requirement is a tax rather than a penalty: (1) whether the tax is enforced by
+the IRS; (2) whether the tax “impose[s] an exceedingly heavy burden”; and
+(3) whether the tax has a scienter requirement, which is typical of a penalty.
+Id. at 565–66. The Provider Fee produces revenue for the United States and
+satisfies at least two of the three factors. 12 The Provider Fee is enforced by the
+IRS, see 26 C.F.R. § 57.8, and applies to any covered entity regardless of
+scienter, PPACA § 9010(a), 124 Stat. at 865. Indeed, several Supreme Court
+justices have noted that the Provider Fee is a tax. See NFIB, 567 U.S. at 694,
+698 (Scalia, Kennedy, Thomas & Alito, JJ., dissenting) (identifying Section
+9010 as an “excise tax”). So have the parties.
+      Section 9010’s constitutionality as a legitimate tax fully resolves the
+States’ Spending Clause claim. See id. at 561, 563 (holding that even though
+the ACA’s individual mandate was unconstitutional under the Commerce
+Clause, it would uphold the mandate if it were constitutional under the taxing
+clause). Although the States argue that Section 9010 imposes a condition on
+their Medicaid funding, we conclude that it does not. See PPACA § 9010(a),
+124 Stat. at 865. The specific Medicaid funding condition that the States
+contest is in the Medicaid Act. 42 U.S.C. § 1396b(m)(2)(A)(iii) (requiring that
+for states to receive Medicaid reimbursement, their expenditures “for
+
+
+
+      12 The record does not indicate what percentage of a covered entity’s net revenue is
+allocated to paying the Provider Fee. Thus, we cannot evaluate whether the Provider Fee
+“impose[s] an exceedingly heavy burden,” see NFIB, 567 U.S. at 565, but the absence of such
+evidence does not support the States’ argument.
+
+
+                                            18
+    Case: 18-10545         Document: 00515510547       Page: 19    Date Filed: 07/31/2020
+
+
+
+                                       No. 18-10545
+payment . . . under a prepaid capitation basis . . . for services provided by any
+entity . . . [must be] made on an actuarially sound basis”). The States do not
+contest the constitutionality of this section, 13 and they thus do not have a
+Spending Clause claim.            In sum, we hold that the Provider Fee is a
+constitutional tax that does not violate the Spending Clause.
+       2.       Tenth Amendment—Intergovernmental Tax Immunity
+       Although a constitutional tax properly enacted through Congress’s
+taxing power is generally not subject to other constitutional provisions, the
+Tenth Amendment doctrine of intergovernmental tax immunity imposes two
+limitations when the federal government imposes an indirect tax, like Section
+9010, on states. See South Carolina v. Baker, 485 U.S. 505, 523 (1988). 14 First,
+the tax must not discriminate against states or those with whom they deal. Id.
+Second, the “legal incidence” of the tax may not fall on states. United States v.
+Fresno Cty., 429 U.S. 452, 459 (1977). We hold that Section 9010 satisfies both
+requirements.
+                a.     Discrimination Against Entities
+       The Provider Fee is nondiscriminatory because it is imposed on “any
+entity which provides health insurance,” subject to certain non-state-based
+exclusions. PPACA § 9010(c), 124 Stat. at 866. It does not impose the Provider
+Fee on only states, nor on only those MCOs that deal with states. Thus, there
+is no unlawful discrimination, meaning MCOs contracting with states may
+
+
+
+       13   Indeed, they conceded as much at oral argument.
+       14 A tax is imposed directly on states only “when the levy falls on the [states
+themselves], or on an agency or instrumentality so closely connected to” the states that the
+agency or instrumentality cannot be viewed as separate from the states. Baker, 485 U.S. at
+523 (internal quotation marks and citation omitted). MCOs are not so closely connected to
+the states that they cannot be viewed as separate from them. See PPACA § 9010(c)(1), 124
+Stat. at 866 (defining a “covered entity” as “any entity which provides health insurance for
+any United States health risk”).
+                                             19
+   Case: 18-10545     Document: 00515510547       Page: 20   Date Filed: 07/31/2020
+
+
+
+                                 No. 18-10545
+impose “part or all of the financial burden” of the Provider Fee on the States.
+See Baker, 485 U.S. at 521 (citations omitted).
+      The States make two arguments on this point, both of which are
+misplaced. First, the States argue that the Provider Fee discriminates against
+them because states are the only entities that run Medicaid programs and are
+the only government entities that stand to lose their exemption under Section
+9010(c)(2)(B) as a result of the actuarial-soundness requirement. But the
+discrimination inquiry asks who Congress targets, not who ultimately bears
+the economic burden of paying the tax. See id. (stating that the Supreme Court
+has “completely foreclosed any claim that the nondiscriminatory imposition of
+costs on private entities that pass them on to States . . . unconstitutionally
+burdens state . . . functions”); Washington v. United States, 460 U.S. 536, 543–
+44 (1983) (holding that the discrimination analysis does not consider whether
+the tax burden would necessarily shift to state actors).
+      Second, the States argue that the Provider Fee discriminates against
+them because the fee has a disproportionate economic impact on them. They
+claim that because their contracts with MCOs have historically low profit
+margins, the MCOs pass the entire economic burden of the Provider Fee on to
+the states. They thus argue that states shoulder a harsher economic burden
+than other MCOs, which could afford to pay a portion of the Provider Fee.
+      Washington, which the States cite as support, holds that whether an
+unfair economic burden is discriminatory depends on “the whole tax structure
+of the state.” 460 U.S. at 545 (citation omitted). In that case, the Supreme
+Court held that the state’s tax did not single out contractors who worked for
+the United States for discriminatory treatment because the “tax on federal
+contractors [was] part of the same [tax] structure, and imposed at the same
+rate, as the tax on the transactions of private landowners and contractors.” Id.
+Here, the Provider Fee is similarly imposed at the same rate for all entities, so
+                                       20
+   Case: 18-10545     Document: 00515510547     Page: 21   Date Filed: 07/31/2020
+
+
+
+                                 No. 18-10545
+there is no unfair economic burden. See PPACA § 9010(b)(1), 124 Stat. at 865.
+We thus hold that the Provider Fee is nondiscriminatory.
+            b.    Legal Incidence
+      We also hold that the legal incidence of the Provider Fee does not fall on
+states. Legal incidence is determined by the “clear wording of the statute,” not
+“by who is responsible for payment to the state of the exaction.” United States
+v. State Tax Comm’n of Miss., 421 U.S. 599, 607–08 (1975) (cleaned up). For
+example, a state tax statute that directs each vendor in the state to “add to the
+sales price and [to] collect from the purchaser the full amount of the tax
+imposed” is a statute that “imposes the legal incidence of the tax upon the
+purchaser” because the text of the statute indisputably provides that the tax
+“must be passed on to the purchaser.” First Agric. Nat’l Bank of Berkshire Cty.
+v. State Tax Comm’n, 392 U.S. 339, 347 (1968) (citations omitted).
+      Here, as the States concede, Congress did not intend to tax States
+because the statute’s “clear wording” shows that Congress clearly and
+expressly excluded states from the Provider Fee. See PPACA § 9010(c)(2)(B),
+124 Stat. at 866; accord State Tax Comm’n of Miss., 421 U.S. at 607. It is also
+clear and “indisputable” that Section 9010 “by its terms” does not pass on the
+Provider Fee to states. See First Agric. Nat’l Bank, 392 U.S. at 347. Thus, the
+legal incidence of the Provider Fee does not fall on states.
+      The States misunderstand the meaning of legal incidence. They argue
+that the legal incidence falls on them because all of the economic burden of the
+Provider Fee is charged to the States. But, as stated above, the question is not
+who practically bears the responsibility for paying the tax. See State Tax
+Comm’n of Miss., 421 U.S. at 607–08; see also Baker, 485 U.S. at 521 (citations
+omitted) (upholding a nondiscriminatory tax collected from private parties as
+constitutional “even though . . . all of the financial burden f[ell] on the other
+government”). The States also argue that because the legal consequence of not
+                                       21
+    Case: 18-10545        Document: 00515510547       Page: 22     Date Filed: 07/31/2020
+
+
+
+                                       No. 18-10545
+paying the Provider Fee falls on them, so too does its legal incidence; if they do
+not pay the Provider Fee, then they lose Medicaid funding.                      Assuming
+arguendo that the States’ interpretation of healthcare law is correct, the
+Supreme Court explicitly held that legal incidence is not defined as “the legally
+enforceable, unavoidable liability for nonpayment of [a] tax.”                 State Tax
+Comm’n of Miss., 421 U.S. at 607 (citation omitted).
+       In sum, we conclude that the Provider Fee does not discriminate against
+states or those with whom they deal because it is imposed on any entity that
+provides health insurance (with certain exclusions). We also conclude that the
+legal incidence of the Provider Fee does not fall on the states because Congress
+expressly excluded states from paying the fee.              Accordingly, we hold that
+Section     9010   does    not    violate   the   Tenth     Amendment        doctrine    of
+intergovernmental tax immunity.
+                                 IV.    Conclusion
+       For the foregoing reasons, we AFFIRM the district court’s ruling that the
+States had standing. But we REVERSE the district court’s ruling that the
+States’ APA claims were not time-barred and DISMISS the States’ APA claims
+for lack of jurisdiction.        On the merits, we AFFIRM the district court’s
+judgment that Section 9010 does not violate the Spending Clause or the Tenth
+Amendment, but we REVERSE the district court’s judgment that the
+Certification Rule violates the nondelegation doctrine and RENDER judgment
+in favor of the United States. We thus VACATE the district court’s grant of
+equitable disgorgement, 15 as there is nothing to remedy.
+
+
+
+
+       15 Therefore, we do not reach the issues surrounding the validity of such a remedy in
+this context.
+                                            22
+

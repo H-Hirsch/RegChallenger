@@ -1,0 +1,602 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued February 7, 2014                 Decided April 1, 2014
+
+                         No. 13-5011
+
+  ALLINA HEALTH SERVICES, DOING BUSINESS AS ABBOTT
+NORTHWESTERN HOSPITAL, DOING BUSINESS AS CAMBRIDGE
+MEDICAL CENTER, DOING BUSINESS AS OWATONNA HOSPITAL,
+ DOING BUSINESS AS UNITED HOSPITAL, DOING BUSINESS AS
+                UNITY HOSPITAL, ET AL.,
+                      APPELLEES
+
+                              v.
+
+     KATHLEEN SEBELIUS, SECRETARY, UNITED STATES
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+                     APPELLANT
+
+
+                 Consolidated with 13-5015
+
+
+        Appeals from the United States District Court
+                for the District of Columbia
+                    (No. 1:10-cv-01463)
+                    (No. 1:12-cv-00328)
+
+
+
+          Stephanie R. Marcus, Attorney, U.S. Department of
+Justice, argued the cause for appellant. With her on the briefs
+were Stuart F. Delery, Assistant Attorney General, Ronald C.
+                                2
+
+
+
+
+Machen Jr., U.S. Attorney, and Anthony J. Steinmeyer, Attorney.
+
+        Stephanie A. Webster argued the cause for appellees.
+With her on the briefs were Christopher L. Keough, J. Harold
+Richards, Hyland Hunt, and Dennis M. Barry.
+
+    Before: GARLAND, Chief Judge, SRINIVASAN, Circuit
+Judge, and SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed by Senior Circuit Judge
+SILBERMAN.
+
+      SILBERMAN, Senior Circuit Judge: Appellees are a group of
+hospitals that serve a significant number of elderly, very low-
+income patients. Congress assumes that such patients cost more
+to treat than the average Medicare patients, so these hospitals are
+entitled to supplemental payments. These are determined by
+calculating what is called the “disproportionate share
+percentage” – a formula which is a proxy for the percentage of
+low-income patients served.
+
+     In 2004, the Secretary issued a rule that addressed one
+aspect of this calculation. Although ostensibly only a detail, the
+financial impact is apparently substantial, costing the hospitals
+hundreds of millions of dollars. Not surprisingly, the hospitals
+sued in district court challenging the rule. The court, holding
+that the final rule was not a logical outgrowth of the proposed
+rule and that the Secretary had insufficiently explained a change
+in policy, granted judgment to the hospitals and vacated the rule.
+But the court went further, instructing the Secretary to
+recalculate reimbursement percentages using the alternate
+methodology. We affirm in part and reverse in part.
+                                 3
+
+
+
+
+                                 I.
+
+     Medicare, as is surely well known, is the federal program
+providing health insurance for all elderly, as well as the
+disabled. The Medicare statute has three parts relevant in this
+case: Part A provides direct “fee for service” hospital payments;
+Part C is an alternative option providing eligible beneficiaries an
+opportunity to enroll in private health insurance plans; and Part
+E includes the formula for calculation of the disproportionate
+share percentage – the added compensation for the treatment of
+a disproportionate number of low-income patients.1
+
+     The size of this adjustment is determined by adding together
+two fractions. The first fraction, referred to as the Medicare
+fraction, measures the percentage of all Medicare patients
+(regardless of means) who are low income, i.e., entitled to
+supplemental security income benefits. Mathematically, the
+numerator of this fraction is the number of “patient days” for
+patients who were “entitled to benefits under Part A and were
+entitled to supplemental security income benefits.” The
+denominator is the total number of “patient days for such fiscal
+year which were made up of patients who (for such days) were
+entitled to benefits under Part A.” 42 U.S.C. §
+1395ww(d)(5)(F)(iv) (emphasis added).
+
+     The second fraction accounts for the number of Medicaid
+patients – who, by definition, are low income – not entitled to
+Medicare. The numerator is the number of patient days
+attributable to patients who (for such days) were eligible for
+
+    1
+      Part A is codified at 42 U.S.C. §§ 1395c to 1395i–5; Part C at
+§§ 1395w–21 to 1395w–29; and the relevant provision of Part E at 42
+U.S.C. § 1395ww(d)(5)(F)(vi).
+                                4
+
+
+
+
+Medicaid, but “not entitled to benefits under [Medicare] Part A.”
+The denominator is the total number of patient days, regardless
+of whether the patients were enrolled in a federal medical
+benefits program. Id.
+
+     The statutory interpretation question that led to this case is
+whether enrollees in Part C are “entitled to benefits” under Part
+A, such that they should be counted in the Medicare fraction, or
+whether, if not regarded as “entitled to benefits under Part A,”
+they should instead be included in the Medicaid fraction. As it
+turns out, if Part C beneficiaries are included in the Medicaid
+fraction rather than the Medicare fraction, the hospitals receive
+a great deal more compensation.
+
+     As we have previously recognized, the phrase “entitled to
+benefits under Part A” is ambiguous. Northeast Hospital Corp.
+v. Sebelius, 657 F.3d 1, 13 (D.C. Cir. 2011). Because a Part C
+enrollee must, by definition, have been eligible for Part A, it
+could mean one was legally entitled to Part A benefits whether
+or not one chose Part C’s option, or it could mean only those
+who did not choose Part C, and, therefore, remained legally
+entitled to Part A benefits. In other words, someone who chose
+Part C nevertheless could still be “entitled” to Part A within the
+meaning of the statute.
+
+     Prior to 2003, the Secretary treated Part C patients as not
+entitled to benefits under Part A. Id. at 16-17. They then should
+have been included in the Medicaid fraction. But there was,
+apparently, considerable confusion among the hospitals, and
+since the disproportionate share percentage was calculated by
+fiscal intermediaries (insurance companies) using privacy
+protected patient data, the hospitals were unable to confirm that
+reimbursement rates were correct.
+                                5
+
+
+
+
+    The Secretary, recognizing the confusion, issued a notice of
+proposed rulemaking, explaining:
+
+              We have received questions whether patients
+              enrolled in an M+C Plan[2] should be counted in
+              the Medicare fraction or the Medicaid fraction. .
+              . .The question stems from whether the M+C plan
+              enrollees are entitled to benefits under Medicare
+              Part A since M+C plans are administered through
+              Part C.
+
+              We note that, under 422.50, an individual is
+              eligible to elect an M+C plan if he or she is
+              entitled to Medicare Part A. . . .However, once a
+              beneficiary has elected to join an M+C plan, that
+              beneficiary’s benefits are no longer administered
+              under Part A.
+
+              Therefore, we are proposing to clarify that once a
+              beneficiary elects Medicare Part C, those patient
+              days attributable to the beneficiary should not be
+              included in the Medicare fraction of the DSH
+              patient percentage. These patient days should be
+              included in the count of total patient days in the
+              Medicaid fraction (the denominator), and the
+              patient’s days for the M+C beneficiary who is
+              also eligible for Medicaid would be included in
+              the numerator of the Medicaid fraction.
+
+    2
+      “M+C” or “Medicare+Choice” was the previous name of the
+program administered under Part C. The program is now called
+“Medicare Advantage.” For purposes of clarity, we refer throughout
+simply to Part C.
+                                  6
+
+
+
+
+Medicare Program, Proposed Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2004 Rates, 68
+Fed. Reg. 27154, 27208 (May 19, 2003).
+
+    The Secretary further explained, in estimating the financial
+impact of the proposal, that “there should not be a major impact
+associated with this proposed change.” 68 Fed. Reg. at 27416.
+Only a smattering of hospitals even bothered to comment; their
+commentary totaled just 26 pages, and a number of them did not
+understand the proposal.
+
+     The next year the Secretary announced a final rule adopting
+the exact opposite interpretation of the statute. Medicare Part C
+beneficiaries, according to the rule, were to be counted in the
+Medicare fraction because “they are still, in some sense, entitled
+to benefits under Medicare Part A.” Medicare Program: Changes
+to the Hospital Inpatient Prospective Payment Systems and
+Fiscal Year 2005 Rates, 69 Fed. Reg. 48916, 49099 (Aug. 11,
+2004) (emphasis added).3
+
+     The rule change had enormous financial consequences for
+the hospitals. Apparently Part C beneficiaries are rarely entitled
+to SSI payments or eligible for Medicaid. Thus, by including
+Part C beneficiaries in the Medicare fraction, the denominator
+(total patient days for Part A eligible patients) is increased,
+without having a significant impact on the numerator (total
+patient days for Medicare patients who are also receiving SSI
+
+
+     3
+       Although the rule was promulgated in 2004, the Code of Federal
+Regulations was never actually amended, so in 2007 the Secretary
+issued a “technical correction,” conforming the language of the C.F.R.
+to the 2004 rule.
+                                 7
+
+
+
+
+payments). This has the effect of diluting the fraction and
+significantly reducing reimbursement rates. By contrast, if the
+Part C patients are counted in the Medicaid fraction, there is no
+effect on the denominator (total patient days) and a small effect
+on the numerator (Medicare Part A eligible patients who are also
+eligible for Medicaid).
+
+     In Northeast Hospital Corp. v. Sebelius, a number of
+hospitals challenged the Secretary’s rule, arguing that it was an
+impermissible interpretation of the statute and that it could not
+be retroactively applied to the fiscal years 1999 through 2002.
+We held that the Medicare statute did not unambiguously
+foreclose the Secretary’s interpretation of the statute. 657 F.3d
+1, 13 (D.C. Cir. 2011). In other words, the Secretary’s
+interpretation passed Chevron step one.4 We did not reach the
+question whether the Secretary’s interpretation was reasonable
+under step two. We held that, even if the Secretary’s
+interpretation was reasonable, that interpretation could not be
+applied retroactively to the years at issue in the case because,
+prior to issuing the rule, the Secretary had a settled practice of
+not counting the Part C days in the Medicare fraction. Id. at 17.
+Accordingly, after Northeast Hospital, the validity of the
+Secretary’s rule as applied to future years remained an open
+question.
+
+    When the Secretary, in 2009, published reimbursement
+calculations for FY 2007 (one of the future years), the
+
+
+    4
+       Concurring in the judgment, Judge Kavanaugh argued that the
+statute unambiguously foreclosed the Secretary’s interpretation. 657
+F.3d at 18.
+                                8
+
+
+
+
+petitioners learned that their payments would decrease by tens
+of millions of dollars per year. The hospitals challenged these
+calculations before the agency, and ultimately appealed to the
+district court. The court held that the 2004 rule was invalid on
+two grounds: It was not a logical outgrowth of the proposed rule,
+and it did not adequately acknowledge and justify the
+Secretary’s change in policy. The court vacated the rule and
+ordered the Secretary to recalculate the hospitals’
+reimbursements by counting Part C days under the Medicaid
+fraction. This appeal followed.
+
+                                II.
+
+     An agency may promulgate a rule that differs from a
+proposed rule only if the final rule is a “logical outgrowth” of
+the proposed rule. Ass'n of Private Sector Colleges &
+Universities v. Duncan, 681 F.3d 427, 442 (D.C. Cir. 2012). A
+final rule is a logical outgrowth if affected parties should have
+anticipated that the relevant modification was possible. CSX
+Transp., Inc. v. Surface Transp. Bd., 584 F.3d 1076, 1080 (D.C.
+Cir. 2009) (citations omitted).
+
+     The Secretary points out that the 2003 notice proposed to
+codify one of only two possible interpretations of the statute:
+Under the Medicare statute, a Part C beneficiary is either
+entitled to benefits under Part A, or not. Therefore, the Secretary
+argues, the hospitals should have been on notice that the
+Secretary might adopt either interpretation. The hospitals
+counter by arguing that the notice did not actually “propose”
+adopting a rule; rather, the notice proposed merely to “clarify”
+an existing practice. There is nothing in the text of the notice,
+the hospitals argue, to suggest that the Secretary was thinking of
+reconsidering a longstanding practice. Moreover, the notice
+                               9
+
+
+
+
+indicated that “there should not be a major impact associated
+with this change.” 68 Fed. Reg. at 27416. Although the
+government’s argument is not insubstantial, we agree with the
+hospitals in light of the regulatory context that we have just
+described.
+
+     This case is similar to one we decided in 2005. In
+Environmental Integrity Project v. E.P.A., the EPA issued a
+notice in which it “proposed to codify” an interpretation of a
+regulation that the agency had applied in previous adjudications.
+425 F.3d 992, 994 (D.C. Cir. 2005). In its final rule, however,
+the agency adopted an interpretation precisely opposite to the
+one it had proposed codifying. We held that this was unlawful,
+explaining that there was no indication in the notice that the
+agency was open to reconsidering the interpretation that it has
+previously adopted through adjudication. Id. at 998. We said that
+agencies may not “pull a surprise switcheroo on regulated
+entities.” Id. at 996.
+
+     So, too, here. The hospitals should not be held to have
+anticipated that the Secretary’s “proposal to clarify” could have
+meant that the Secretary was open to reconsidering existing
+policy. The word “clarify” does not suggest that a potential
+underlying major issue is open for discussion.
+
+     The government would distinguish Environmental Integrity
+Project by arguing that the Secretary did not previously actually
+include Part C days in the Medicaid fraction, so it cannot be
+thought that she was merely endorsing a prior policy. But this
+argument disregards our holding in Northeast Hospital, where
+we explicitly stated that the Secretary did have a prior practice
+of excluding Part C days from the Medicare fraction. 657 F.3d
+at 17. Granted, we did not say the Secretary counted the Part C
+                                10
+
+
+
+
+days in the Medicaid fraction, but the statute unambiguously
+requires that Part C days be counted in one fraction or the other
+(a Part C-enrolled individual is either eligible for Medicare Part
+A, or not), so the necessary implication of our opinion is
+obvious. Moreover, a party reviewing the Secretary’s notice of
+proposed rulemaking understandably would have assumed that
+the Secretary was proposing to “clarify” a then-existing policy,
+i.e., one of excluding Part C days from the Medicare fraction
+and including them in the Medicaid fraction.
+
+     The Secretary’s estimated financial impact of its proposal
+– that there should not be a major impact associated with this
+proposed change – supports our conclusion. See 68 Fed. Reg. at
+27416. If, as the government contends, the 2003 notice had
+actually suggested a binary choice, between maintaining a
+preexisting policy and reversing that policy, then the potential
+estimated financial impact should have been stated in the
+hundreds of millions of dollars. That would doubtless have
+triggered an avalanche of comments, in contrast to the mere 26
+pages that were actually submitted.
+
+     It should be noted that since the Secretary was disposed to
+codify an interpretation that was favorable to the hospitals, there
+was no reason for the hospitals to fear that another party would
+offer comments opposed to such an interpretation. (There is no
+obvious constituency opposed to greater compensation for
+hospitals.) In that regard, this case differs from, for example,
+environmental regulation cases, where regulated industries can
+usually anticipate fierce opposition from environmental groups,
+and it might be thought prudent to submit comments in support
+of favorable proposed rules.
+                                 11
+
+
+
+
+     We are sympathetic to the view expressed by the Seventh
+Circuit that proposed rules that might seem obscure to the
+average reader should alert members of the regulated class to the
+possible options that an examination of a policy would imply.
+See Alto Dairy v. Veneman, 336 F.3d 560, 570 (7th Cir. 2003);
+but see Natural Res. Def. Council v. U.S. E.P.A., 279 F.3d 1180,
+1188 (9th Cir. 2002). But we ask ourselves, would a reasonable
+member of the regulated class – even a good lawyer – anticipate
+that such a volte-face with enormous financial implications
+would follow the Secretary’s proposed rule. Indeed, such a
+lawyer might well advise a hospital client not to comment
+opposing such a possible change for fear of giving the Secretary
+the very idea.
+
+     In sum, we agree with the district court that the Secretary’s
+final rule was not a logical outgrowth of the proposed rule.
+
+                               ***
+
+     The government argues that even if the 2003 notice is
+inadequate, the hospitals cannot show that they were prejudiced
+by the procedural defect, so we should find any error harmless.
+The Administrative Procedure Act does tell us that reviewing
+courts shall take “due account. . .of the rule of prejudicial error.”
+5 U.S.C. § 706(2)(F). But, as the hospitals point out, the
+Medicare statute has no harmless error exception:
+
+         If the Secretary publishes a final regulation that
+         includes a provision that is not a logical outgrowth of
+         a previously published notice of proposed rulemaking
+         or interim final rule, such provision shall be treated as
+         a proposed regulation and shall not take effect until
+         there is the further opportunity for public comment and
+                              12
+
+
+
+
+         a publication of the provision again as a final
+         regulation.
+
+42 U.S.C. § 1395hh(a)(4).
+
+      The government suggests that we ignore this explicit text,
+citing a few cases in which we have drawn parallels between
+other aspects of the APA and the Medicare statute. For example,
+we once stated that the Medicare statute “places notice and
+comment requirements on the Secretary’s substantive
+rulemaking similar to those created by the APA.” Monmouth
+Med. Ctr. v. Thompson, 257 F.3d 807, 814 (D.C. Cir. 2001)
+(emphasis added); cf. Baptist Health v. Thompson, 458 F.3d 768,
+776 n.8 (8th Cir. 2006) (holding that § 1395hh preserves the
+APA’s distinction between legislative and interpretive rules);
+Warder v. Shalala, 149 F.3d 73, 79 n.4 (1st Cir. 1998) (same).
+But that the Medicare statute is similar to the APA hardly means
+it is identical, and the government has presented no reason to
+depart from the plain meaning of the text.
+
+     We need not decide this question, however, because even if
+the APA applied, we would reject the government’s harmless
+error claim. We have not been hospitable to government claims
+of harmless error in cases in which the government violated §
+553 of the APA by failing to provide notice. The most egregious
+are cases in which a government agency seeks to promulgate a
+rule by another name – evading altogether the notice and
+comment requirements. See Sugar Cane Growers Co-op. of
+Florida v. Veneman, 289 F.3d 96 (D.C. Cir. 2002). That sort of
+case can be analogized to an illegal failure to afford a formal
+hearing under § 554. In that circumstance, we decline to even
+consider whether a petitioner would be successful if it had had
+the benefit of a formal hearing. In rulemaking, the comment
+                                13
+
+
+
+
+period performs an analogous function, and the government’s
+statement of basis and purpose equates to the formal decision in
+an adjudication.
+
+     More difficult are the cases in which an agency has relied
+on data or information that was not disclosed to commenters.
+They are troublesome because, as the Supreme Court
+emphasized in the seminal Vermont Yankee opinion, one of the
+advantages of informal rulemaking is an agency’s ability to rely
+on internal information in its files. Vermont Yankee Nuclear
+Power Corp. v. Natural Res. Def. Council, Inc., 435 U.S. 519,
+556 (1978). Still, we have held for many years that an agency’s
+failure to disclose critical material, on which it relies, deprives
+commenters of a right under § 553 “to participate in
+rulemaking.” See Air Transp. Ass'n of Am. v. F.A.A., 169 F.3d 1,
+7 (D.C. Cir. 1999) (citing Association of Data Processing
+Service Organizations, Inc. v. Board of Governors of the
+Federal Reserve System, 745 F.2d 677, 684–85 (D.C.Cir.1984)).
+Perhaps because of the possible tension between Vermont
+Yankee and our critical material doctrine, we have more
+carefully examined whether a failure to disclose such material
+actually harmed a petitioner. But it is sufficient for a petitioner
+to show that an opportunity to comment regarding an agency’s
+important information created “enough uncertainty” as to its
+possible affect on the agency’s disposition. See Chamber of
+Commerce of U.S. v. S.E.C., 443 F.3d 890, 906 (D.C. Cir. 2006).
+
+     Our case involves a third category: whether the final rule
+violates the notice requirement of § 553 because it is not a
+logical outgrowth of the proposed rule. Even if a final rule were
+regarded objectively as an abrupt departure from a proposed
+rule, if parties directed comments to such a denouement, it might
+well be properly regarded as a harmless error – depending on
+                                 14
+
+
+
+
+how pointed were the comments and by who made. If the
+petitioner itself made such a comment, it would presumably be
+hoist on its own petard. And even if the comment were made by
+others, if it were the same point that petitioner would press, it
+would still presumably be non-prejudicial because all that is
+necessary in such a situation is that the agency had an
+opportunity to consider the relevant views. In other words, the
+concepts of logical outgrowth and harmless error merge if the
+final rule is, in fact, anticipated, whether or not that anticipation
+was objectively foreseeable. In this case, there were a few
+commenters who initially commented in support of the final
+rule, apparently not understanding its implications, and another
+commenter who read the proposed rule as if it were the final
+rule. But the tiny handful of comments mostly revealed hopeless
+confusion, rather than focused opposition to the final rule, so we
+cannot conclude that the agency’s error was harmless.
+
+                               ***
+
+     We turn to the question of remedy. The government argues
+that, under our precedents, vacatur was inappropriate. To be
+sure, although vacatur is the normal remedy, we sometimes
+decline to vacate an agency’s action. See Advocates for Highway
+& Auto Safety v. Fed. Motor Carrier Safety Admin., 429 F.3d
+1136, 1151 (D.C. Cir. 2005). That decision depends on the
+“seriousness of the order's deficiencies” and the likely
+“disruptive consequences” of vacatur. Allied-Signal, Inc. v. U.S.
+Nuclear Regulatory Comm'n, 988 F.2d 146, 150-51 (D.C. Cir.
+1993). Neither factor favors the government.
+
+    First, deficient notice is a “fundamental flaw” that almost
+always requires vacatur. Heartland Reg'l Med. Ctr. v. Sebelius,
+566 F.3d 193, 199 (D.C. Cir. 2009). Second, there is no
+                                     15
+
+
+
+
+indication that vacatur would lead to disruptive consequences.
+This is not a case in which the “egg has been scrambled,” and it
+is too late to reverse course. Sugar Cane Growers Co-op. of
+Florida v. Veneman, 289 F.3d 89, 97 (D.C. Cir. 2002). The
+district court thus correctly concluded that vacatur was
+warranted.5
+
+     The court went further, however; it ordered the Secretary to
+recalculate the hospitals’ reimbursements “without using the
+interpretation set forth in the 2004 Final Rule.” In other words,
+the district court required the Secretary to affirmatively count
+Part C days under the Medicaid fraction for 2007. The
+government complains that, even if the 2004 rule is invalid, the
+Secretary might achieve the same result through adjudication.
+The government is right to object. The question whether the
+Secretary could reach the same result through adjudication was
+not before the district court; therefore the court erred by
+directing the Secretary how to calculate the hospitals’
+reimbursements, rather than just remanding after identifying the
+error. Sec. & Exch. Comm'n v. Chenery Corp., 332 U.S. 194,
+201 (1947) (“After the remand was made, therefore, the
+
+
+
+
+     5
+        The hospitals dispute the government’s interpretation of our
+vacatur precedents, and also raise another argument: that the plain text
+of § 1395hh requires vacatur in cases of inadequate notice. (“If...a
+final regulation...is not a logical outgrowth of...a...notice...[it] shall not
+take effect.”) This argument appears to be correct, and we note that the
+government made no effort to refute it, but because vacatur is clearly
+appropriate even under the APA, we need not reach it.
+                                 16
+
+
+
+
+Commission was bound to deal with the problem afresh,
+performing the function delegated to it by Congress.”).6
+
+     Because the deficient notice is an adequate basis to vacate
+the Secretary’s rule, we do not reach the district court’s alternate
+holding – that the Secretary had failed to adequately explain a
+major change in policy.
+
+                                III.
+
+    We hold that the Secretary did not provide adequate notice
+and opportunity to comment before promulgating its 2004 rule,
+and so affirm the portion of the district court’s opinion vacating
+the rule. We reverse only the portion of the district court’s
+opinion directing the Secretary to recalculate the hospitals’
+reimbursements using the alternate methodology.
+
+                                                        So ordered.
+
+
+
+
+    6
+       Only in rare cases, when the reviewing court is convinced that
+remand would serve no purpose, does the court direct the agency how
+to resolve a problem. See Nat'l Ass'n of Regulatory Util. Comm'rs v.
+U.S. Dep't of Energy, 736 F.3d 517, 520 (D.C. Cir. 2013); Checkosky
+v. SEC, 139 F.3d 221, 227 (D.C. Cir. 1998).
+

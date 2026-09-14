@@ -1,0 +1,875 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued November 8, 2010            Decided January 14, 2011
+
+                       No. 09-5447
+
+               CAPE COD HOSPITAL, ET AL.,
+                     APPELLANTS
+
+                             v.
+
+     KATHLEEN SEBELIUS, SECRETARY, UNITED STATES
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+                     APPELLEE
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:08-cv-01751)
+
+
+
+    Paul D. Clement argued the cause for appellants. With
+him on the briefs were Christopher L. Keough, Stephanie A.
+Webster, Erin E. Murphy, John M. Faust, and John P.
+Elwood.
+
+    Jeffrey Clair, Attorney, U.S. Department of Justice,
+argued the cause for appellee. With him on the brief were
+Ronald Machen, U.S. Attorney, and Michael S. Raab,
+Attorney. R. Craig Lawrence, Assistant U.S. Attorney,
+entered an appearance.
+                              2
+   Before: TATEL, Circuit Judge, and WILLIAMS and
+RANDOLPH, Senior Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge TATEL.
+
+     TATEL, Circuit Judge: Five hospitals contend that the
+Secretary of Health and Human Services improperly
+implemented a statutory provision in a way that over the years
+has progressively reduced Medicare payments for inpatient
+services. In particular, they challenge rules governing
+reimbursements for the 2007 and 2008 fiscal years. Because
+the Secretary failed to provide a reasoned response to the
+hospitals’ comments regarding those rules, we vacate the
+district court’s grant of summary judgment in the Secretary’s
+favor and remand for further proceedings in light of the
+guidance set forth in this opinion.
+
+                              I.
+     Established in 1965, Medicare “provides federally funded
+health insurance for the elderly and disabled.” Methodist
+Hosp. of Sacramento v. Shalala, 38 F.3d 1225, 1226–27 (D.C.
+Cir. 1994). The Secretary administers the program through
+the Centers for Medicare and Medicaid Services (CMS).
+Originally, Medicare reimbursed hospitals based on the
+“ ‘reasonable costs’ ” they incurred in providing services to
+Medicare patients. Id. at 1227 (quoting 42 U.S.C. § 1395f(b)
+(1988)). Concerned that this system created inadequate
+incentives for hospitals to control costs, Congress in 1983
+required the Secretary to implement a prospective payment
+system under which hospitals would receive a fixed payment
+for inpatient services. Id. Since hospitals receive the same
+payment under this system regardless of their actual costs,
+Congress believed that it would encourage efficiency “by
+rewarding cost[-]effective hospital practices.” Id. (quoting H.
+                              3
+Rep. No. 98-25, at 132 (1983), reprinted in 1983
+U.S.C.C.A.N. 219, 351).
+
+     In calculating prospective payment rates, CMS begins
+with a figure called the “standardized amount,” which roughly
+reflects the average cost incurred by hospitals nationwide for
+each patient they treat and then discharge. See 42 U.S.C.
+§ 1395ww(d)(2); Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2007 Rates, 71
+Fed. Reg. 47,870, 48,146 (Aug. 18, 2006) [hereinafter Final
+2007 Rule]. Central to the issue before us, CMS does not
+calculate the standardized amount from scratch each year.
+Instead, following Congress’s directive, it calculated the
+standardized amount for a base year and has since carried that
+figure forward, updating it annually for inflation. See 42
+U.S.C. § 1395ww(b)(3)(B)(i), (d)(2), (d)(3)(A)(iv)(II); 42
+C.F.R. § 412.64(c)–(d); Final 2007 Rule, 71 Fed. Reg. at
+48,146; see also Prospective Payments for Medicare Inpatient
+Hospital Services, 48 Fed. Reg. 39,752, 39,763–64 (Sept. 1,
+1983) (explaining how the Health Care Financing
+Administration, CMS’s predecessor, developed base-year cost
+data at the inception of the inpatient prospective payment
+system).
+
+     To account for the fact that labor costs vary across the
+country, CMS determines the proportion of the standardized
+amount attributable to wages and wage-related costs and then
+multiplies that labor-related proportion by a “wage index” that
+reflects “the relation between the local average of hospital
+wages and the national average of hospital wages.”
+Appellee’s Br. 5; see also 42 U.S.C. § 1395ww(d)(2)(H),
+(d)(3)(E); Se. Ala. Med. Ctr. v. Sebelius, 572 F.3d 912, 914–
+15 (D.C. Cir. 2009). Unlike the standardized amount, wage
+indexes are calculated anew each year instead of being carried
+forward from one year to the next.
+                              4
+
+     The standardized amount is also modified to account for
+the fact that the costs of treating patients vary based on the
+patients’ diagnoses. Medicare patients are classified into
+different groups based on their diagnoses, and each of these
+“diagnosis-related groups” is assigned a particular “weight”
+representing the relationship between the cost of treating
+patients within that group and the average cost of treating all
+Medicare patients. See 42 U.S.C. § 1395ww(d)(4).
+
+     Putting all these components together, CMS determines
+how much a hospital should be paid for treating a Medicare
+patient by performing the following calculation (where SA =
+standardized amount; labor% = the proportion of the
+standardized amount attributable to wages and wage-related
+costs; non-labor% = the proportion of the standardized
+amount not attributable to labor-related costs; WI = wage
+index; and DRG Weight = the weight assigned to a particular
+diagnosis-related group):
+
+ [SA*(non-labor%) + (SA*(labor%)*WI)]*(DRG Weight) =
+                       Payment
+
+     In 1997, Congress determined that “[a]n anomaly that
+exists with the way area wage indexes are applied has resulted
+in some urban hospitals being paid less than the average rural
+hospital in their states.” H.R. Rep. No. 105-149, at 1305
+(1997). To correct this problem, Congress provided in the
+Balanced Budget Act of 1997 (“BBA”) that the wage index
+assigned to a hospital in an urban area must be at least as
+great as the wage index assigned to rural hospitals within the
+same state. Pub. L. No. 105-33, § 4410(a), 111 Stat. 251, 402
+(reprinted at 42 U.S.C. § 1395ww note) (“[T]he area wage
+index applicable under [42 U.S.C. § 1395ww(d)(3)(E)] to any
+hospital which is not located in a rural area . . . may not be
+                               5
+less than the area wage index applicable under such section to
+hospitals located in rural areas in the State in which the
+hospital is located.”). This provision is commonly referred to
+as the “rural floor.”
+
+     Potentially, the rural floor could affect the total amount
+of money Medicare pays hospitals each year. For example, if
+CMS increased the wage indexes of urban hospitals to bring
+them in line with the wage indexes of rural hospitals in the
+same state, payments to those urban hospitals would increase.
+All other things being equal, the aggregate amount of
+Medicare payments would increase as well. But Congress
+required the Secretary to take steps to ensure that all other
+things would not be equal. It mandated that the rural floor be
+“budget neutral.” In other words, it required the Secretary to
+implement the rural floor in a manner that would have no
+effect on the annual total of Medicare payments made to all
+hospitals throughout the country for inpatient services. Cape
+Cod Hosp. v. Sebelius, 677 F. Supp. 2d 18, 22 (D.D.C. 2009).
+Congress accomplished this through BBA section 4410(b),
+which provides: “The Secretary . . . shall adjust the area wage
+index . . . in a manner which assures that . . . aggregate
+payments . . . in a fiscal year for the operating costs of
+inpatient hospital services are not greater or less than those
+which would have been made in the year if [the rural floor]
+did not apply.”
+
+     The five hospitals that are appellants herein challenge
+how the Secretary has implemented this budget-neutrality
+provision. Rather than adjusting area wage indexes to achieve
+budget neutrality, as the hospitals argue the statute requires,
+the Secretary adjusted the standardized amount. Thus, if the
+rural floor threatened to increase aggregate payments in a
+particular year, she applied a downward adjustment to the
+standardized amount to offset the effect of the rural floor. See
+                               6
+Final 2007 Rule, 71 Fed. Reg. at 48,147. The Secretary then
+carried forward the adjusted standardized amount from year to
+year, purportedly making further adjustments only as
+necessary to account for incremental changes in each new
+year. See id. (explaining that CMS would apply the “budget
+neutrality adjustment factor[] . . . to the standardized amount[]
+without removing the effect[] of the [prior year’s] budget
+neutrality adjustment[]”).         The parties contrast this
+“cumulative” approach of carrying forward prior adjustments
+and making incremental annual changes with a
+“noncumulative” approach under which the Secretary would
+calculate the full amount of the requisite adjustment anew
+each year.      Since the cumulative and noncumulative
+approaches are simply different methods of making the same
+arithmetic computation, they should produce identical results
+if performed correctly. The problem, the hospitals contend, is
+that the Secretary botched the math, mixing the cumulative
+and noncumulative methods in a way that gradually decreased
+Medicare payments for inpatient services over time.
+
+    To understand the error the hospitals accuse the Secretary
+of making, consider the following hypothetical taken from the
+hospitals’ briefs. Imagine an employee normally earns $10
+per hour. His employer decides to give him a company car,
+the value of which equates to compensation of $1 per hour.
+To avoid an increase in the employee’s overall
+compensation—i.e., to achieve “budget neutrality”—the
+employer reduces the employee’s wage to $9 per hour. Now
+imagine that next year, the employee receives a nicer car
+worth $2 per hour. To calculate what the employee’s wage
+should then be to keep his overall compensation at $10 per
+hour, the employer could use either a cumulative or
+noncumulative approach. Under the cumulative method, the
+employer would subtract the $1 incremental increase in the
+value of the car from the employee’s current wage of $9 to
+                                7
+arrive at a new, budget-neutral wage of $8. Under the
+noncumulative approach, the employer would simply subtract
+the full value of the car ($2) from the desired total
+compensation ($10) to arrive at the same figure—a wage of
+$8 per hour. But it would make no sense for the employer to
+subtract the full $2 value of the new car from the employee’s
+current $9 wage and thus pay him only $7 per hour. Doing so
+would not be “budget neutral”—it would reduce the
+employee’s total compensation by $1 per hour. Yet this is
+essentially what the hospitals accuse CMS of doing in
+calculating the annual budget-neutrality adjustment to account
+for the rural floor. Specifically, the hospitals argue that CMS
+has duplicated prior adjustments by each year calculating the
+full amount of the adjustment necessary to counteract the
+effect of the rural floor and then applying that adjustment to a
+figure that includes adjustments carried over from previous
+years.
+
+     According to the hospitals, this error first came to light in
+a May 2006 email exchange in which a CMS employee
+informed a consultant working with the hospitals that CMS
+calculated the budget-neutrality factor necessary to account
+for the rural floor by comparing projected aggregate payments
+for the coming fiscal year with the rural floor applied with the
+aggregate payments that would have been made in the current
+fiscal year without the rural floor. CMS then reduced the
+standardized amount to account for the full difference
+between these two figures, “even though the standardized
+amount being carried over already included reductions from
+prior years’ rural floor budget-neutrality adjustments.”
+Appellants’ Opening Br. 12. This email exchange, the
+hospitals argue, indicates that CMS illogically combined the
+cumulative and noncumulative methods for calculating
+budget-neutrality adjustments. Each year, CMS calculated
+“the entire payment effect of the rural floor” but applied the
+                              8
+corresponding adjustment “to a carried-over figure that
+already incorporated previous years’ rural floor budget-
+neutrality adjustments,” thereby duplicating prior adjustments
+in a manner that progressively reduced aggregate payments
+over time. Id. at 12–13.
+
+     When CMS failed to respond to an email pointing out
+this apparent error, the hospital consultant again attempted to
+bring the error to CMS’s attention in a comment letter
+regarding the agency’s proposed 2007 rules for the inpatient
+prospective payment system. CMS’s notice of proposed
+rulemaking (NPRM) required comments to be submitted by
+June 12, 2006. Proposed Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2007 Rates, 71
+Fed. Reg. 23,996, 23,996 (Apr. 25, 2006) [hereinafter
+Proposed 2007 Rule]. Although the notice indicated that
+comments could be hand delivered to CMS’s Baltimore
+office, it also stated, “If you intend to deliver your comments
+to the Baltimore address, please call telephone number (410)
+786-7195 in advance to schedule your arrival with one of our
+staff members.” Id. The consultant hand delivered his
+comment to the Baltimore office without first calling this
+number. In a sworn declaration, the consultant stated that he
+called an individual he knew who worked in CMS’s Division
+of Acute Care, “the part of the agency responsible for
+[inpatient prospective] payment issues.” Giovanis Decl. ¶¶ 3–
+4. The CMS employee met the consultant in the lobby of the
+Baltimore office, accepted the comment letter, and signed a
+delivery receipt confirming that the comment was submitted
+on June 9, 2006, three days before the end of the comment
+period. See id. ¶¶ 2–6. The record contains no evidence of
+what the employee did with the letter after receiving it. But
+what is clear is that CMS failed to respond to the consultant’s
+comment in its final 2007 rule. See Final 2007 Rule, 71 Fed.
+Reg. 47,870.
+                              9
+
+     Following the 2007 rulemaking, CMS “reevaluated [its]
+rural floor adjustment methodology.” Cape Cod Hosp., 677
+F. Supp. 2d at 24. Specifically, in May 2007, it published a
+proposed rule for fiscal year 2008 that would offset the rural
+floor by adjusting area wage indexes rather than by adjusting
+the standardized amount as CMS had done in the past. Id.;
+see also Proposed Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2008 Rates, 72
+Fed Reg. 24,680, 24,792 (May 3, 2007) [hereinafter Proposed
+2008 Rule]. CMS also proposed a special “rural floor
+adjustment” that would slightly increase the standardized
+amount. Proposed 2008 Rule, 72 Fed. Reg. at 24,839.
+Nowhere in the NPRM, however, did it explain the purpose of
+this adjustment.
+
+     After requesting and being denied additional information
+regarding CMS’s proposed rule, the hospitals submitted
+comments that noted, among other things, that the agency’s
+proposals appeared inadequate to reverse the cumulative
+reduction in aggregate payments caused by CMS’s apparent
+errors in calculating rural-floor budget-neutrality adjustments
+for prior years. Many other hospitals and trade associations
+submitted similar comments.
+
+    In its 2008 final rule, CMS adopted its proposal and
+applied the rural-floor budget-neutrality adjustment to area
+wage indexes rather than to the standardized amount. See
+Changes to the Hospital Inpatient Prospective Payment
+Systems and Fiscal Year 2008 Rates, 72 Fed. Reg. 47,130,
+47,329 (Aug. 22, 2007) [hereinafter Final 2008 Rule]. CMS
+pointed out that although its previous adjustments to the
+standardized amount had been cumulative, its adjustment of
+wage indexes would be noncumulative. Id. at 47,330.
+Responding to commenters’ requests for more information
+                              10
+regarding the special “rural floor adjustment” to the
+standardized amount, CMS explained that it was a one-off
+adjustment “meant to address” the “transition from a
+cumulative budget neutrality adjustment . . . to a
+noncumulative adjustment.” Id. at 47,421. The agency made
+clear that the adjustment removed only the effect of the 2007
+rural-floor budget-neutrality adjustment to the standardized
+amount, thus leaving in place all rural-floor budget-neutrality
+adjustments made before 2007.           Id. (“The rural floor
+adjustment removes the effect of the budget neutrality
+adjustment applied in [fiscal year] 2007 to the standardized
+amount for application of the rural floor.”). In response to
+commenters’ concerns that the changes CMS proposed were
+insufficient to remedy the effects of previous miscalculations,
+the agency stated that the “calculation of budget neutrality in
+past fiscal years [was] not within the scope of [its]
+rulemaking.” Id. at 47,330. Without admitting that it made
+computational errors in prior years, CMS declared that even if
+such errors were made, it “would not make an adjustment to
+make up for those errors when setting rates for [fiscal year]
+2008.” Id. “[F]inality,” CMS explained, “is critical to a
+prospective payment system.” Id. As a result, it concluded
+that “the need to establish final prospective rates outweighs
+the greater accuracy [it] might gain if [it] retroactively
+recomputed rates whenever an error is discovered.” Id.
+
+    All five hospitals that are parties to this appeal filed
+timely petitions challenging the 2007 final rule with the
+Department of Health and Human Services’ Provider
+Reimbursement Review Board. See 42 U.S.C. § 1395oo.
+Two hospitals also challenged the 2008 final rule. After the
+Review Board determined it lacked authority to resolve the
+legal questions presented by the hospitals, they filed a
+complaint against the Secretary in the U.S. District Court for
+the District of Columbia. See id. § 1395oo(f)(1) (permitting
+                              11
+medical providers to file suit in federal district court
+following a Review Board determination that it lacks
+authority to decide the legal question presented). The parties
+submitted cross-motions for summary judgment.            The
+Secretary also filed a motion to strike, arguing that the
+consultant’s 2006 email exchange and comment letter, which
+the hospitals had submitted to the district court, were not
+properly part of the 2007 rulemaking record. Without those
+documents, the Secretary asserted, the hospitals were unable
+to overcome her contention that they had waived their
+objection to the 2007 rule by failing to raise it during the
+rulemaking process.
+
+     Although the district court granted the Secretary’s motion
+to strike with respect to the email exchange, it ruled that the
+Secretary had improperly excluded the consultant’s comment
+letter from the 2007 rulemaking record. Cape Cod Hosp., 677
+F. Supp. 2d at 25–29. In particular, the district court
+determined that the CMS employee’s acceptance of the letter
+“indicated that [the consultant’s] submission was acceptable”
+despite the consultant’s failure to call the telephone number
+listed in the NPRM. Id. at 28. On the merits, the district
+court largely rejected the hospitals’ challenges to the 2007
+and 2008 rules and entered summary judgment in the
+Secretary’s favor. According to the court, the Secretary
+reasonably interpreted BBA section 4410(b) as imposing
+upon her no obligation to reconsider rural-floor budget-
+neutrality adjustments calculated in prior years. Id. at 29–32.
+The court also concluded that the Secretary sufficiently
+responded to comments regarding the 2008 proposed rule. Id.
+at 34–35. Although acknowledging that the Secretary failed
+to respond to the hospital consultant’s comment letter
+regarding the 2007 rule, id. at 34, the court determined that by
+making an upward adjustment to the standardized amount in
+2008 to reverse the effect of the 2007 rural-floor budget-
+                              12
+neutrality adjustment, CMS “moot[ed]” the hospitals’
+challenge to the 2007 rule, id. at 35–36. The Secretary does
+not defend this ruling on appeal, and we agree with the
+hospitals that since the 2008 rule in no way compensated for
+any underpayments that might have been made in 2007, a live
+controversy remains regarding the hospitals’ objection to the
+2007 rule.
+
+                              II.
+     The hospitals argue that CMS’s 2007 and 2008 rules
+were arbitrary and capricious and violated BBA section
+4410(b), the rural-floor budget-neutrality provision. See 5
+U.S.C. § 706(2)(A) (requiring a court to “hold unlawful and
+set aside” a final agency action “found to be . . . arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law”). In response, the Secretary contends
+that she acted within the scope of the discretion Congress
+afforded her in achieving budget neutrality. Furthermore, she
+argues, the district court erred in supplementing the 2007
+rulemaking record with the consultant’s June 2006 comment
+letter and should instead have ruled that the hospitals waived
+their objection to the 2007 rule by failing to follow the proper
+procedures in submitting the letter. We review the district
+court’s decision to supplement the 2007 rulemaking record for
+abuse of discretion. See James Madison Ltd., by Hecht v.
+Ludwig, 82 F.3d 1085, 1095 (D.C. Cir. 1996). Our review of
+the hospitals’ contention that CMS’s 2007 and 2008 rules
+were arbitrary and capricious and violated BBA section
+4410(b) is plenary. See Methodist Hosp., 38 F.3d at 1229.
+
+                    The 2007 Rulemaking
+    The hospitals contend that in 2007, as in previous years,
+the Secretary improperly calculated a budget-neutrality
+adjustment that compensated for the full effect of the rural
+                              13
+floor, rather than the incremental annual change, and then
+applied this adjustment to the carried-over adjusted
+standardized amount, which already included similar
+adjustments from prior years. According to the hospitals, this
+“incoherent admixture” of cumulative and noncumulative
+methodologies produced aggregate payments that were less
+than the amount that would have been paid in 2007 if the rural
+floor had not been applied, thus violating section 4410(b)’s
+budget-neutrality requirement. Appellants’ Opening Br. 34.
+
+     For her part, the Secretary argues that the hospitals
+waived their objection to the 2007 rule by failing to “follow
+the Secretary’s clear and express procedures for commenting
+on the proposed rule.” Appellee’s Br. 57–58. In particular,
+the Secretary emphasizes that the consultant failed to abide by
+the NPRM’s request that individuals planning to hand deliver
+their comments to CMS’s Baltimore office first call a
+particular telephone number to schedule the delivery. See
+Proposed 2007 Rule, 71 Fed. Reg. at 23,996. According to
+the Secretary, the consultant’s failure to call this number
+hampered the agency’s ability to ensure that staff members
+responsible for the 2007 rulemaking received the comment in
+a timely manner and had the ability to consider it before
+issuing the final rule. As a result, the Secretary contends, the
+consultant’s letter was properly excluded from the 2007
+rulemaking record, thus depriving the hospitals of a basis for
+pursuing their challenge to the rule.
+
+    Where, as here, an agency has issued a rule under the
+Administrative    Procedure     Act’s   notice-and-comment
+provisions, see 5 U.S.C. § 553, courts ordinarily refuse to
+consider objections not submitted in accordance with agency
+procedures during the rulemaking process. See Appalachian
+Power Co. v. EPA, 251 F.3d 1026, 1036 (D.C. Cir. 2001).
+“[S]imple fairness to those who are engaged in the tasks of
+                               14
+administration . . . requires as a general rule that courts should
+not topple over administrative decisions unless the
+administrative body not only has erred but has erred against
+objection made at the time appropriate under its practice.”
+United States v. L.A. Tucker Truck Lines, Inc., 344 U.S. 33,
+37 (1952). Under the unique circumstances of this case,
+however, barring the hospitals’ challenge to the 2007 rule
+would be patently unfair. Through their consultant, the
+hospitals submitted a comment letter outlining their objection
+to the rule to a CMS employee who worked in the very
+division “responsible for [inpatient prospective] payment
+issues.” Giovanis Decl. ¶ 3; see also Cerne Decl. ¶ 1. True,
+the consultant failed to call the telephone number listed in the
+NPRM before delivering the letter. But the CMS employee
+nonetheless accepted the letter without even hinting that the
+consultant’s submission was in any way improper. Although
+the employee now asserts that she was unaware that the
+document was a comment regarding a proposed rule, see
+Cerne Decl. ¶ 9, she signed a delivery-confirmation receipt
+expressly stating that the document was a “Comment Letter to
+[the] Centers for Medicare and Medicaid Services on the
+Proposed [Fiscal Year] 2007 [Inpatient Prospective Payment
+System] Changes.” Furthermore, since the employee admits
+that she has “some familiarity with the annual . . . rulemaking
+process,” she has no basis for plausibly claiming either that
+she failed to understand what the document she accepted was
+or that she failed to appreciate the importance of ensuring that
+it was forwarded to the staff members responsible for the
+2007 rulemaking. Id. ¶ 4. Given these facts, we agree with
+the district court that the consultant was entitled to presume
+that his “submission was acceptable.” Cape Cod Hosp., 677
+F. Supp. 2d at 28.
+
+    In reaching this conclusion, we in no way suggest that
+agencies lack authority to impose and enforce submission
+                               15
+requirements of the kind at issue here. To the contrary, we
+have little doubt that the CMS employee to whom the hospital
+consultant tendered his comment letter could have refused to
+accept it based on the consultant’s failure to call the
+prescribed telephone number. But since the CMS employee
+accepted the letter without objection, the agency may not now
+complain about the consultant’s failure to call the number
+listed in the NPRM. The district court thus did not abuse its
+discretion in supplementing the 2007 rulemaking record with
+the consultant’s letter. See James Madison, 82 F.3d at 1095
+(noting that courts may supplement the official administrative
+record compiled by an agency when the agency has
+“deliberately or negligently excluded documents that may
+have been adverse to its decision”); see also Kent Cnty., Del.
+Levy Court v. EPA, 963 F.2d 391, 395–96 (D.C. Cir. 1992)
+(supplementing the administrative record with internal EPA
+documents that the agency negligently failed to consider
+during the rulemaking process). And because CMS failed to
+address the consultant’s letter when issuing its 2007 final rule,
+we shall remand for CMS to provide a reasoned response to
+this “relevant and significant public comment[].” Pub.
+Citizen, Inc. v. FAA, 988 F.2d 186, 197 (D.C. Cir. 1993)
+(“The requirement that agency action not be arbitrary or
+capricious includes a requirement that the agency adequately
+explain its result and respond to relevant and significant
+public comments.”) (internal citation and quotation marks
+omitted); see also Fox Television Stations, Inc. v. FCC, 280
+F.3d 1027, 1050–51 (D.C. Cir.), modified on reh’g, 293 F.3d
+537 (D.C. Cir. 2002).
+
+     In so doing, we have no need to decide whether, as the
+hospitals argue, BBA section 4410(b)’s express reference to
+“area wage index[es]” required CMS to offset the effect of the
+rural floor by adjusting area wage indexes rather than the
+standardized amount. Perhaps, as the hospitals contend,
+                             16
+adjusting wage indexes would have averted the computational
+errors alleged in this litigation. But even assuming that
+section 4410(b) requires CMS to achieve budget neutrality
+only through adjustments to wage indexes—an issue, we
+reiterate, we are not deciding—the hospitals concede that
+CMS’s departure from the statutory language “would have
+had no practical effect” had the agency correctly implemented
+its chosen methodology of cumulatively adjusting the
+standardized amount. Appellants’ Opening Br. 32. Because
+courts must overlook “harmless” agency errors, PDK Labs.
+Inc. v. DEA, 362 F.3d 786, 799 (D.C. Cir. 2004); see also 5
+U.S.C. § 706 (requiring courts reviewing agency action to
+take “due account . . . of the rule of prejudicial error”), we
+understand the primary issue with respect to the 2007 rule to
+be whether CMS overly deflated aggregate payments by
+incorrectly    calculating     rural-floor   budget-neutrality
+adjustments to the standardized amount, not whether the
+agency has committed some free floating statutory error that
+may have “no practical effect.”
+
+                    The 2008 Rulemaking
+     As explained above, in 2008 the Secretary switched from
+making cumulative rural-floor budget-neutrality adjustments
+to the standardized amount to making noncumulative
+adjustments to the wage index. In connection with this
+change, the Secretary made a small, one-off adjustment that
+reversed the effect of the 2007 rural-floor budget-neutrality
+adjustment. See Final 2008 Rule, 72 Fed. Reg. at 47,330,
+47,421. The hospitals argue that in transitioning from a
+cumulative to a noncumulative methodology, the Secretary
+should have increased the standardized amount sufficiently to
+reverse the effects of all prior rural-floor budget-neutrality
+adjustments, not just the one made in 2007. The Secretary’s
+failure to do so, the hospitals contend, resulted in aggregate
+payments in 2008 that were “less than those which would
+                              17
+have been made” had the rural floor never been enacted, thus
+violating BBA section 4410(b).
+
+     The Secretary does not contend that the hospitals failed to
+present this argument to CMS during the 2008 rulemaking,
+and for good reason: the rulemaking record is replete with
+requests that the agency increase its one-off upward
+adjustment to the standardized amount to offset the effect of
+rural-floor budget-neutrality adjustments made in years
+preceding 2007. Yet in issuing its 2008 final rule, CMS
+provided little justification for failing to reverse those prior
+adjustments. Observing that it had a “longstanding policy that
+finality is critical to a prospective payment system,” CMS
+merely asserted that the “calculation of budget neutrality in
+past fiscal years [was] not within the scope of th[e] [2008]
+rulemaking.” Id. at 47,330.
+
+     This response to the commenters’ concerns is insufficient
+for two reasons. First, CMS’s interest in the finality of
+prospective payment rates cannot justify failing to correct past
+errors in calculating rural-floor budget-neutrality adjustments
+that affect the aggregate amount of current Medicare
+payments. Second, the agency’s interest in finality fails to
+address the hospitals’ contention that in transitioning from a
+cumulative to a noncumulative system, CMS needed to
+reverse all prior rural-floor budget-neutrality adjustments to
+the standardized amount even if those adjustments had been
+calculated correctly.
+
+    As to the first point, in both her response to comments
+regarding the 2008 rule and her brief on appeal, the Secretary
+has invoked what might be called the “Mark McGwire
+defense,” seeking to avoid the potential consequences of the
+mistakes the hospitals allege CMS has made by repeatedly
+asserting that she is “not here to talk about the past.” See
+                              18
+Anne E. Kornblut, Two Parties in Congress Are at Odds Only
+Against Witnesses, N.Y. Times, Mar. 18, 2005, at D6 (noting
+that in a March 17, 2005, congressional hearing on steroid use
+in baseball, homerun slugger Mark McGwire responded to
+committee members’ questions about his use of performance-
+enhancing substances by repeatedly stating that he was “not
+here to talk about the past”); cf. Final 2008 Rule, 72 Fed. Reg.
+at 47,330 (“With regard to alleged errors in [fiscal years]
+1999 through 2007, our calculation of budget neutrality in
+past fiscal years is not within the scope of th[e] [2008]
+rulemaking.”). This will not do. Having built the past into
+the cumulative methodology it chose for counteracting the
+budgetary impact of the rural floor, CMS may not now ignore
+past errors that have the effect of overly deflating current
+aggregate payments in violation of BBA section 4410(b)’s
+budget-neutrality mandate.
+
+     To the extent the Secretary argues that the Medicare
+statutes authorize or require CMS to carry over from year to
+year erroneously calculated rural-floor budget-neutrality
+adjustments to the standardized amount, her interpretation of
+the statutes is not a “permissible construction” entitled to
+Chevron deference. Chevron, U.S.A., Inc. v. Natural Res.
+Def. Council, Inc., 467 U.S. 837, 843 (1984). Congress has
+required only that the standardized amount be carried over
+annually (with appropriate adjustments for inflation). See 42
+U.S.C. § 1395ww(d)(3)(A)(iv)(II). The Secretary points to no
+statutory provision requiring rural-floor budget-neutrality
+adjustments to the standardized amount to be carried over in
+this manner. Indeed, in promulgating the 2008 final rule,
+which itself reversed the 2007 rural-floor budget-neutrality
+adjustment, CMS seems to have recognized the absence of
+any statutory bar to reversing the effect of prior rural-floor
+budget-neutrality adjustments. If, as the Secretary seems to
+suggest, prior adjustments to the standardized amount are
+                               19
+sacrosanct, it is difficult to understand how CMS could have
+made this small corrective adjustment in 2008.
+
+     Far from requiring CMS to carry over past adjustments
+that improperly deflate aggregate Medicare payments, BBA
+section 4410(b) seems to mandate precisely the opposite.
+That provision compels the Secretary to make appropriate
+adjustments to ensure that aggregate payments “in a fiscal
+year for the operating costs of inpatient hospital services
+[covered by the prospective payment system] are not greater
+or less than those which would have been made in the year if
+[the rural floor] did not apply.” BBA § 4410(b). Under a
+cumulative methodology, past budget-neutrality adjustments
+are incorporated into the current year’s adjustment. Thus, if
+those past adjustments were incorrectly calculated, the
+budget-neutrality adjustment for the current fiscal year will
+almost certainly be erroneous as well, meaning that aggregate
+payments will differ from the amount that would have been
+paid absent the rural floor. As a result, we fail to see how the
+Secretary can plausibly argue that past cumulative
+adjustments to the standardized amount are outside “the
+scope” of a rulemaking focused in part on the question of
+whether the rural floor has been implemented in a budget-
+neutral manner. Final 2008 Rule, 72 Fed. Reg. at 47,330.
+
+     On appeal, the Secretary insists that Congress has ratified
+her position that section 4410(b) permits her to ignore
+mistakes made in calculating rural-floor budget-neutrality
+adjustments for prior years. Although the Supreme Court has
+stated that “Congress is presumed to be aware of an
+administrative or judicial interpretation of a statute and to
+adopt that interpretation when it re-enacts a statute without
+change,” Merrill Lynch, Pierce, Fenner & Smith, Inc. v.
+Curran, 456 U.S. 353, 382 n.66 (1982) (internal quotation
+marks omitted), this canon of statutory interpretation has little
+                              20
+relevance here given that Congress has never reenacted
+section 4410, see Pub. Citizen, Inc. v. Dep’t of Health &
+Human Servs., 332 F.3d 654, 668 (D.C. Cir. 2003). Nor is
+this a case where Congress can be said to have “implicitly
+ratified” a longstanding administrative interpretation of a
+statute by failing to enact legislation to overturn that
+interpretation. Id. at 669–70. Presuming ratification based on
+congressional inaction is inappropriate “absent some evidence
+of (or reason to assume) congressional familiarity with the
+administrative interpretation at issue.” Id. at 669. Since
+CMS’s alleged errors in calculating the rural-floor budget-
+neutrality adjustment came to light only recently, the agency’s
+position that section 4410(b) imposes no obligation on CMS
+to correct those errors even if they affect the aggregate
+amount of current Medicare payments is simply of too recent
+vintage to presume that Congress has tacitly ratified CMS’s
+interpretation by failing to overturn it.
+
+     In rejecting the Secretary’s argument that section 4410(b)
+permits CMS to ignore prior errors in calculating rural-floor
+budget-neutrality adjustments that affect current payments,
+we also necessarily reject the Secretary’s related contention
+that the hospitals are improperly seeking a form of
+“retroactive relief” inconsistent with the prospective nature of
+the payment system used to compensate hospitals for
+providing inpatient Medicare services. Appellee’s Br. 23; see
+also Final 2008 Rule, 72 Fed. Reg. at 47,330 (“Although
+errors in ratesetting are inevitable, we believe the need to
+establish final prospective rates outweighs the greater
+accuracy we might gain if we retroactively recomputed rates
+whenever an error is discovered.”). True, the hospitals did
+seek reimbursement of underpayments for years preceding
+2007 in their comments regarding the 2008 final rule, but they
+have abandoned those claims here and instead focus on their
+challenges to the 2007 and 2008 rules, which were issued
+                              21
+after CMS’s alleged computational errors came to light.
+There was nothing “retroactive” about the hospitals’ requests
+during the 2007 and 2008 rulemakings that Medicare
+payments for those years be calculated in accordance with
+section 4410(b)’s budget-neutrality mandate.
+
+     Since the hospitals are only seeking recalculation of
+payments made in 2007 and 2008, the Secretary’s reliance on
+Methodist Hospital of Sacramento v. Shalala is misplaced.
+There, the Secretary published an area wage index calculated
+based on erroneous data. Methodist Hosp., 38 F.3d at 1228.
+After learning of the error, the Secretary promptly issued a
+corrected wage index but refused to give the correction
+retroactive effect. Id. Although we upheld the Secretary’s
+decision not to apply the correction retroactively, id. at 1229–
+35, we never suggested that even after the error in the data on
+which the Secretary had relied was brought to her attention,
+she could have chosen to continue using the inaccurate wage
+index in calculating future payments. To the contrary, we
+indicated that any such refusal to correct the wage index
+going forward would be impermissible. See id. at 1230
+(“Administrative proceedings and judicial review could still
+provide a meaningful corrective remedy if, for example, the
+Secretary refused to make any revision to an erroneous wage
+index.”).
+
+     Indeed, the Secretary herself has taken the position that
+correcting prior computational errors that affect current
+payments is perfectly permissible when making such changes
+has benefited Medicare. In Regions Hospital v. Shalala, 522
+U.S. 448 (1998), the Supreme Court upheld a regulation
+permitting the Secretary to conduct supplementary audits of
+cost reports that hospitals submitted for the 1984 fiscal year.
+The Secretary issued this regulation because she believed that
+“some ‘questionable’ [graduate medical education] costs had
+                              22
+been ‘erroneously reimbursed’ to providers for their 1984
+fiscal year.” Id. at 454 (quoting Changes in Payment Policy
+for Direct Graduate Medical Education Costs, 53 Fed. Reg.
+36,589, 36,591 (proposed Sept. 21, 1988)). Unless corrected,
+the inflated 1984 reimbursements would have been
+perpetuated under a new reimbursement methodology
+Congress enacted in 1986 that established the costs
+“ ‘recognized as reasonable’ ” for fiscal year 1984 as the
+baseline for calculating payments to hospitals for graduate
+medical education costs. Id. at 453 (quoting 42 U.S.C.
+§ 1395ww(h)(2)(A)).          A hospital subjected to a
+supplementary audit argued that the Secretary’s “reaudit”
+regulation constituted an “impermissible retroactive rule.” Id.
+at 456. Rejecting this contention, the Court emphasized that
+“a prescription is not made retroactive merely because it
+draws upon antecedent facts for its operation.” Id. (internal
+quotation marks omitted). The Court thus agreed with the
+Secretary that the regulation was not “retroactive” because it
+merely “sought to prevent future overpayments and to permit
+recoupment of prior excess reimbursement only for years in
+which the reimbursement determination had not yet become
+final.” Id. at 454. If, as the Secretary argued in Regions
+Hospital, her recalculation of prior reimbursement figures
+used in determining current payments was not retroactive, we
+find it difficult to see how the Secretary can fairly
+characterize the hospitals’ request here—that CMS correct
+prior computational errors so that they no longer affect
+current payments—as a claim for retroactive relief.
+
+     As mentioned above, CMS’s invocation of its interest in
+finality suffers from a second defect: it fails to address the
+hospitals’ contention that CMS needed to reverse all prior
+rural-floor budget-neutrality adjustments—even those that
+were correctly calculated—in transitioning from a cumulative
+to a noncumulative methodology for offsetting the effect of
+                              23
+the rural floor. To understand the hospitals’ argument,
+consider again the hypothetical employer that splits its
+employee’s total compensation of $10 per hour between a
+wage and the value of a company car. Assume that in year
+one, the employee received a wage of $9 per hour and a
+company car worth $1 per hour. Then, in year two, the
+employer upgraded the employee’s car to one worth $2 per
+hour. If the employer was correctly using a cumulative
+approach to calculate the employee’s year-two wage, it would
+subtract the marginal $1 increase in the value of the car from
+the employee’s year-one wage of $9 per hour to calculate the
+employee’s new wage of $8. Now assume that the employer
+decides to switch to a noncumulative approach for calculating
+the employee’s wage in year three and that the car’s value
+remains unchanged at $2 per hour. It would make no sense
+for the employer to use the $8 wage as a baseline, subtract $2
+for the car’s value, and determine the employee’s year-three
+wage should be $6. Instead, the employer should reverse the
+prior adjustments to the employee’s wage, subtract $2 from
+$10, and calculate the correct, unchanged wage of $8 per
+hour. Critical to the issue before us, in switching from the
+cumulative to the noncumulative methodology, the employer
+would need to reverse the adjustments made to the
+employee’s wage in years one and two even if it had
+calculated those adjustments correctly. Thus, no purported
+interest in the “finality” of prior calculations could save the
+employer from the responsibility of reversing previous
+adjustments to the employee’s wage. So too here. CMS’s
+interest in the finality of prospective payment rates cannot
+justify failing to reverse the effects of prior cumulative
+adjustments to the standardized amount that threaten to
+duplicate the agency’s noncumulative wage-index adjustment.
+
+    We of course recognize not only that the Medicare
+program is far more complicated than this simple
+                              24
+hypothetical, but also our obligation to afford great deference
+to the Secretary’s expertise in implementing the “complex and
+highly technical” statutes governing Medicare. Methodist
+Hosp., 38 F.3d at 1229 (internal quotation marks omitted).
+Our deference, however, is not unlimited. We must engage in
+a “searching and careful” review of the record to ensure that
+the Secretary has applied her expertise in a reasoned manner
+and has not acted arbitrarily or capriciously or otherwise
+violated legislative mandates. Citizens to Preserve Overton
+Park, Inc. v. Volpe, 401 U.S. 402, 416 (1971); see also 5
+U.S.C. § 706(2)(A). Here, the hospitals have made a
+compelling argument that regardless of whether CMS made
+computational errors in calculating the rural-floor budget-
+neutrality adjustments for years preceding 2008, it should
+have reversed all of those prior adjustments in transitioning to
+its new system of making noncumulative adjustments to the
+wage index. CMS failed adequately to address this concern in
+issuing its 2008 final rule. Furthermore, the rationale that
+CMS did provide—that its interest in finality justifies its
+refusal to revisit previously calculated rural-floor budget-
+neutrality adjustments—fails on its own terms because BBA
+section 4410(b) does not permit the agency to ignore prior
+errors in calculating rural-floor budget-neutrality adjustments
+when those errors are built into the formula used to calculate
+current Medicare payments. We shall thus remand for CMS
+either to explain why reversing all prior rural-floor budget-
+neutrality adjustments was unnecessary to achieve budget
+neutrality in 2008 or, if it can provide no explanation beyond
+the finality concern we have rejected here, to recalculate the
+payments due the hospitals under a formula that removes the
+effects of the prior rural-floor budget-neutrality adjustments.
+See Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 52 (1983) (concluding that
+the National Highway Traffic Safety Administration’s
+explanation for rescinding passive-restraint requirements was
+                              25
+“not sufficient to enable [the Court] to conclude that the
+rescission was the product of reasoned decisionmaking” and
+thus remanding for the agency to further consider the matter).
+
+                             III.
+     For the foregoing reasons, we vacate the judgment of the
+district court and remand with instructions to (1) vacate those
+portions of the 2007 and 2008 rules challenged in this suit,
+and (2) remand to the Secretary for further proceedings
+consistent with this opinion.
+
+                                                   So ordered.
+

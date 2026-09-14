@@ -1,0 +1,766 @@
+ United States Court of Appeals
+          FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued April 23, 2019                    Decided July 30, 2019
+
+                         No. 18-5312
+
+      AMERICAN CLINICAL LABORATORY ASSOCIATION,
+                      APPELLANT
+
+                               v.
+
+   ALEX MICHAEL AZAR, II, IN HIS OFFICIAL CAPACITY AS
+      SECRETARY OF HEALTH AND HUMAN SERVICES,
+                      APPELLEE
+
+
+         Appeal from the United States District Court
+                 for the District of Columbia
+                     (No. 1:17-cv-02645)
+
+
+    Ashley C. Parrish argued the cause for appellant. With
+him on the briefs were Mark D. Polston, Elizabeth N. Swayne,
+and Amelia G. Yowell.
+
+    R. Scott Caulkins and Jeffrey J. Sherrin were on the brief
+for amicus curiae American Association of Bioanalysts in
+support of plaintiffs-appellant.
+
+    David McAloon was on the brief for amici curiae The
+College of American Pathologists, et al. in support of appellant.
+
+     Dennis Fan, Attorney, U.S. Department of Justice, argued
+the cause for appellee. With him on the brief were Abby C.
+                               2
+Wright, Attorney, Robert P. Charrow, General Counsel, U.S.
+Department of Health & Human Services, Janice L. Hoffman,
+Associate General Counsel, Susan Maxson Lyons, Deputy
+Associate General Counsel, and Debra M. Laboschin,
+Attorney. Alisa B. Klein, Attorney U.S. Department of Justice,
+entered an appearance.
+
+    Before: GRIFFITH, MILLETT and PILLARD, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge PILLARD.
+
+     PILLARD, Circuit Judge: The Protecting Access to
+Medicare Act (PAMA, or the Act) seeks to align Medicare
+reimbursement rates for laboratory tests with rates paid for
+such tests in the private market. To enable the Secretary of
+Health and Human Services (HHS) to ascertain the private
+market’s reimbursement rates, PAMA requires “applicable
+laboratories” to report private payor data to the Secretary that
+the Medicare program then uses to set new, presumably lower,
+Medicare reimbursement rates. The Secretary must implement
+the statute’s definition of “applicable laboratory” before it can
+be used to collect the requisite data. In 2016, the Secretary
+issued a final rule doing so, and plaintiff American Clinical
+Laboratory Association (ACLA) filed suit claiming the rule
+unlawfully excluded most hospital laboratories from the Act’s
+reporting requirements.
+
+     Based on PAMA’s prohibition of judicial review of “the
+establishment of payment amounts,” the district court
+dismissed ACLA’s complaint for lack of subject matter
+jurisdiction. We conclude that the statutory provision stripping
+jurisdiction to review payment amounts does not cover the
+statute’s data-collection provision. We also reject ACLA’s
+claim that the Secretary’s rule was ultra vires. We thus reverse
+                                3
+and remand to the district court to consider in the first instance
+whether the rule comports with the APA.
+
+                        I. Background
+
+     The federal Medicare program, which pays for healthcare
+for elderly and disabled individuals, see 42 U.S.C. § 1395 et
+seq., is the nation’s largest purchaser of clinical laboratory
+services. In 2013, the HHS Office of Inspector General
+concluded that Medicare was paying 18 to 30 percent more
+than private insurance companies for a range of common
+laboratory tests.    Congress responded by enacting the
+Protecting Access to Medicare Act, Pub. L. No. 113-93, 128
+Stat. 1040 (2014). A central goal of the Act is to set Medicare
+reimbursement rates for laboratory tests at approximately the
+price private insurers pay for the same tests. See 42 U.S.C.
+§ 1395m-1(b)(1)(A).
+
+     To inform the Secretary’s rate setting, the statute requires
+“applicable laborator[ies]” within the private sector to report
+“private payor” data—both the price and volume of laboratory
+tests—to HHS every three years. Id. § 1395m-1(a). The statute
+defines the term “private payor” as a “health insurance issuer
+and a group health plan,” a “Medicare Advantage plan,” or a
+“medicaid managed care organization.” Id. § 1395m-1(a)(8).
+It calls on the Secretary to establish parameters for data
+collection through notice and comment rulemaking. Id.
+§ 1395m-1(a)(12). Applicable laboratories that fail to report
+accurate data face monetary penalties of up to $10,000 per day.
+Id. § 1395m-1(a)(9).
+
+     In separate provisions, the statute explains how the
+Secretary is to use private payor data on each laboratory test
+already available in the market to calculate a “weighted
+median” rate, which becomes Medicare’s reimbursement rate
+for that test. Id. § 1395m-1(b). For new tests that do not have
+                                 4
+private payor data, the Secretary is to use a “gapfilling process”
+and consult with an expert advisory panel to establish the new
+test’s Medicare payment rate. Id. §§ 1395m-1(c)-(d), (f).
+Because the market-approximating Medicare rates are likely to
+be lower than existing Medicare rates, the statute allows for a
+multi-year “[p]hase-in” process to transition to the market-
+based rates. Id. § 1395m-1(b)(3). Finally, the statute declares
+that “[t]here shall be no administrative or judicial review . . . of
+the establishment of payment amounts under this section,” id.
+§ 1395m-1(h)(1), thereby barring otherwise available review
+by the Departmental Appeals Board and Provider
+Reimbursement Board as well as the federal courts.
+
+     This appeal is about whether the Secretary’s
+implementation of PAMA’s definition of “applicable
+laboratories” is subject to review in response to a claim that it
+unlawfully excludes hospital laboratories—which tend to
+charge higher prices than standalone laboratories—from the
+dataset used to determine new Medicare rates. See Medicare
+Program; Medicare Clinical Diagnostic Laboratory Tests
+Payment System, 81 Fed. Reg. 41,036 (June 23, 2016).
+Laboratory tests are available to the public through three main
+types of laboratories: physician-office laboratories (which in
+2015 comprised 17 percent of all labs), independent
+laboratories (50 percent of all labs), and hospital laboratories
+(33 percent of all labs). The statute does not expressly discuss
+those distinct types of institutional settings, instead generally
+defining an applicable laboratory as “a laboratory that, with
+respect to its revenues under this subchapter, a majority of such
+revenues are from this section, section 1395l(h) of this title, or
+section 1395w-4 of this title.” 42 U.S.C. § 1395m-1(a)(2). In
+plain terms, that definition refers to a laboratory that receives
+most of its overall Medicare funding from the Physician Fee
+Schedule (PFS) or the Clinical Laboratory Fee Schedule
+(CLFS). Those Medicare fee schedules are typically used to
+                                 5
+pay for laboratory services provided by independent
+laboratories and physician-office laboratories. We refer to this
+part of the statute’s definition of applicable labs as the
+majority-payments test. 1
+
+     Applying the majority-payments test to hospital
+laboratories has proved more complicated than for independent
+laboratories and physician-office laboratories. Medicare
+reimburses laboratory services provided by hospital
+laboratories in a range of different ways, and it is not obvious
+which, if any, are relevant to PAMA. When hospital
+laboratories serve admitted inpatients and registered
+outpatients, Medicare does not use the PFS or CLFS, but pays
+for those services through distinct fee schedules that bundle the
+laboratory testing with other hospital services. See Medicare
+Program; Medicare Clinical Diagnostic Laboratory Tests
+Payment System, 80 Fed. Reg. 59,386, 59,393 (Oct. 1, 2015).
+A hospital laboratory serving only inpatients and outpatients
+accordingly is not an applicable laboratory under PAMA
+because it receives no Medicare reimbursements from the
+applicable fee schedules.
+
+     However, some hospitals also provide “outreach
+services”—that is, laboratory services for people who are
+neither inpatients nor outpatients. Hospitals’ outreach services
+may compete for such business with independent laboratories,
+and Medicare reimburses hospitals for those services under the
+
+1
+  The statute authorizes the Secretary to establish a “low volume or
+low expenditure threshold” to exclude especially small laboratories.
+42 U.S.C. § 1395m-1(a)(2). The Secretary has set the low
+expenditure threshold at $12,500, meaning that labs receiving less
+than $12,500 of Medicare revenue from the CLFS and PFS are
+exempt from reporting requirements. ACLA does not challenge that
+provision, which exempts approximately 95 percent of physician-
+office laboratories.
+                               6
+PFS and CLFS. Considered as a freestanding entity, a hospital
+laboratory that offered outreach services could fit the statutory
+definition of an applicable laboratory if it received most of its
+Medicare revenue from the PFS and CLFS.
+
+     In October 2015, the Secretary proposed a rule to
+implement the data reporting provision of PAMA. See 80 Fed.
+Reg. at 59,386. The Secretary acknowledged that it was
+“important” to “define laboratory broadly enough to
+encompass every laboratory type that is subject to” the
+applicable fee schedules, id. at 59,391, so proposed to include
+any “entity that includes a laboratory” as well as any “entity
+that itself is a laboratory,” id. at 59,392. But to make the
+threshold identification of the relevant entity to be scrutinized
+under the statutory majority-payments test, the proposed rule
+defined “entity” as the institutional unit associated with a
+distinct taxpayer identification number (TIN). Id. at 59,387. A
+TIN is the institutional identifier Medicare service providers
+use to report to the IRS tax-related information about all types
+of Medicare payments. Id. at 59,421.
+
+     The practical effect of applying the majority-payments test
+to an entity defined by its TIN would be that essentially no
+hospital laboratory could qualify as an applicable laboratory.
+See id. at 59,393. An independent laboratory that takes
+Medicare payments has a TIN, but so does an entire hospital
+that takes Medicare payments. Identifying the relevant entity
+at the level of the TIN would mean that, for purposes of the
+majority-payments test, Medicare reimbursements to a hospital
+lab under the PFS and CLFS would be compared to the entire
+hospital’s Medicare revenue rather than to its laboratory’s
+Medicare revenue. Hospitals, in contrast to stand-alone
+laboratories, receive Medicare reimbursements for a wide
+range of services—everything from surgeries to room and
+board—so even if the hospital laboratory received the majority
+                                7
+of its Medicare revenue from the PFS and CLFS, the majority
+of the hospital’s overall Medicare revenues would not come
+from those fee schedules.
+
+     Insofar as hospitals’ Medicare revenue associated with
+those fee schedules is dwarfed by their other types of Medicare
+revenue, reliance on the TIN to define the relevant entity would
+exclude all hospital-based laboratories from the “applicable
+laboratories” reporting requirement at the threshold, without
+subjecting the laboratories as such to the majority-payments
+test. The Secretary anticipated that consequence, explaining:
+“[W]e believe the statute intends to limit reporting primarily to
+independent laboratories and physician offices . . . and not to
+include other entities (such as hospitals, or other health care
+providers) that do not receive the majority of their revenues
+from PFS or CLFS services.” Id. at 59,393.
+
+     Many healthcare entities and other stakeholders opposed
+that part of the proposed rule, arguing that reading the statute’s
+definition of applicable laboratory to generally exclude
+hospital laboratories violated PAMA. See, e.g., 81 Fed. Reg.
+at 41,045. Why did that matter? A major laboratory services
+provider asserted that hospital laboratories receive 1.5 to 4
+times higher private payor reimbursement rates than
+independent laboratories for the same test. (The record does
+not specify whether that estimate isolated reimbursement
+pursuant to the PFS or CLFS schedules, or included laboratory
+tests provided—presumably at greater cost—as part of
+inpatient and outpatient services). The American Hospital
+Association advocated in favor of requiring hospital
+laboratories to report their rate data, believing that would
+“generally increase the weighted median,” and make the new
+Medicare rates “more representative of overall market rates.”
+Joint Appendix (J.A.) 595 (letter to Acting Administrator of
+Centers for Medicare & Medicaid Services).
+                                 8
+    Commenters advocated identifying entities by their
+National Provider Identifier (NPI) numbers rather than their
+TIN. Healthcare providers use NPI numbers to bill Medicare.
+Because more hospital laboratories have NPI numbers distinct
+from those of their associated hospitals, they reasoned,
+identifying the relevant entity at the NPI level would mean
+hospital laboratories with their own NPI numbers would be
+evaluated for whether they, considered separately, meet the
+majority-payments test defining “applicable laboratories.”
+
+     In the final rule issued in June 2016, the Secretary accepted
+that suggestion and defined applicable laboratories at the NPI
+level rather than the TIN level. 2 81 Fed. Reg. at 41,037. The
+final rule reiterated the Secretary’s reading of the statute as
+excluding the majority of hospital laboratories because those
+laboratories receive most of their Medicare revenue from
+bundled payments for inpatients and outpatients rather than
+from the CLFS or PFS. Id. at 41,045. However, the Secretary
+“agree[d] with commenters” that hospital outreach
+laboratories—i.e., “laboratories that furnish laboratory tests for
+patients that are not admitted hospital inpatients or registered
+outpatients of the hospital” and that “are enrolled in Medicare
+separately from the hospital of which they are a part”—“should
+be accounted for” in the new payment rates. Id.
+
+    As it turns out, however, NPIs suffer from virtually the
+same flaw as TINs because “[v]ery few hospitals have
+laboratory-specific NPIs, and they generally submit claims
+under the hospital’s NPI.” J.A. 271 (letter from ACLA to
+Department of Health and Human Services Office of Inspector
+
+2
+  The rule rejected commenters’ alternative suggestion that entities
+be identified by their Clinical Laboratory Improvement Amendments
+(CLIA) certificate, which is used to certify that a laboratory meets
+health and safety regulations, because that certificate is not
+associated with Medicare billing. 81 Fed. Reg. at 41,045-46.
+                               9
+General). In 2016, approximately 2,000 out of 260,000 total
+laboratories nationwide (0.7 percent) reported data to the
+Secretary. Out of the approximately 7,000 hospital laboratories
+in the United States, only 21 (0.3 percent) reported data,
+comprising about one percent of all the reporting labs. Much
+of the data collected by the Secretary came from the country’s
+two largest independent laboratories—Quest and Labcorp—
+which have lower cost structures than other laboratories. See
+J.A. 70-71 (Declaration from Senior Vice President of Quest
+Diagnostics). According to ACLA, that skewed the Medicare
+reimbursement rates low. The government, for its part,
+maintains that the data used to calculate the 2018 rates “was
+sufficient and resulted in accurate weighted medians of private
+payor rates.” See Medicare Program; Revisions to Payment
+Policies Under the Physician Fee Schedule and Other
+Revisions, 83 Fed. Reg. 59,452, 59,672 (Nov. 23, 2018).
+
+     In 2018, the Secretary finalized another rule—not at issue
+here—that amended the implementation of “applicable
+laboratories” in an effort to include more hospital-based
+outreach laboratory services in the next set of data. Id. at
+59,452. As HHS explained, “we are confident that our current
+policy supports our collecting sufficient applicable information
+. . . and that we received sufficient and reliable applicable
+information with which we set [2018 rates],” but “we continue
+to consider refinements to our policies that could lead to
+including even more applicable information for the next data
+reporting period.” Id. at 59,672. The 2018 rule requires
+laboratories providing outreach services to report data using the
+CMS–1450 14x TOB—a billing form used only by hospital
+outreach laboratories. Id. at 59,673-75. The new rule, in effect,
+categorizes as an applicable laboratory that portion of a
+hospital laboratory that provides outreach services—even if
+those services comprise only a minority of the laboratory’s
+overall services. See id. at 59,673 (“[W]e believe that if we
+                               10
+were to utilize such an approach in defining applicable
+laboratory, all hospital outreach laboratories would meet the
+majority of Medicare revenues threshold . . .”). Notably, this
+approach was not encompassed by the relief that ACLA seeks
+here. ACLA is emphatic that the statute requires the Secretary
+to use the hospital laboratory as the denominator in the
+majority-payments test. See Appellant’s Br. 65. The Secretary
+will use the new data about hospital laboratories’ outreach
+services in a revised fee schedule as of January 1, 2021. 80
+Fed. Reg. at 59,667.
+
+     Plaintiff in this case, American Clinical Laboratory
+Association, is a trade association of laboratories. It submitted
+comments to the Secretary both before the 2015 proposed rule
+and before the 2016 final rule. See J.A. 82. ACLA brought
+suit in 2017 to challenge the 2016 rule’s implementation of
+applicable laboratory as contrary to the statute and arbitrary
+and capricious in violation of the APA. The district court
+dismissed for want of jurisdiction. Am. Clinical Lab. Ass’n v.
+Azar, 334 F. Supp. 3d 301, 309 (D.D.C. 2018). This Court
+reviews de novo a district court’s legal determination as to
+subject matter jurisdiction. See Piersall v. Winter, 435 F.3d
+319, 321 (D.C. Cir. 2006).
+
+                         II. Standing
+
+     Although the Secretary scarcely challenges standing on
+appeal, we have an independent obligation to assure ourselves
+that ACLA has standing to challenge the final rule. Steel Co.
+v. Citizens for a Better Env’t, 523 U.S. 83, 94-95 (1998). The
+“constitutional minimum” of standing requires that a plaintiff
+have suffered a concrete and particularized injury that is fairly
+traceable to the challenged conduct and is likely to be redressed
+by a favorable decision. See Lujan v. Defs. of Wildlife, 504
+U.S. 555, 560-61 (1992). In order to have associational
+                              11
+standing, ACLA must demonstrate that “at least one of [its]
+members satisfies” this test. See Am. Library Ass’n v. FCC,
+401 F.3d 489, 492 (D.C. Cir. 2005). At the motion to dismiss
+stage, “general factual allegations of injury resulting from the
+defendant’s conduct may suffice” to establish standing. Lujan,
+504 U.S. at 561. We hold that ACLA meets those familiar
+requirements.
+
+     First, ACLA has established injury in fact. By adopting an
+impermissible definition of “applicable laboratories” that
+excludes virtually all hospital laboratories, ACLA asserts that
+the rule harms its members in various ways. First, it
+disproportionately burdens independent laboratories with the
+cost of data-production obligations not borne by its hospital-
+based competitor laboratories. ACLA submitted a declaration
+from the Senior Vice President of Quest Diagnostics, an ACLA
+member, asserting that “laboratories that reported private payor
+information were significantly disadvantaged as compared to
+other laboratories that, while required to report under PAMA,
+were excused from that obligation by the Secretary.” J.A. 73.
+Second, it artificially depresses the reimbursement rates by
+excluding data from a portion of the market that receives
+higher-than-average Medicare reimbursements for its
+laboratory services. An affidavit from the Chief Executive
+Officer of Joint Venture Hospital Laboratories, LLC, an ACLA
+member, attests that the “elimination of . . . hospital[]
+laboratories from the reporting requirements skews the data”
+that is used to calculate the weighted median of commercial
+payor rates and ultimately set the Medicare reimbursement
+rate. J.A. 61. And, because “hospital laboratories typically
+receive higher commercial rates than other types of
+laboratories,” the Medicare reimbursement rates are lower than
+they would be if the Secretary collected more data from
+hospital laboratories. Id.; see also U.S. Gov’t Accountability
+Office, GAO 19-67, Medicare Laboratory Tests;
+                               12
+Implementation of New Rates May Lead to Billions in Excess
+Payment        12     (2018),      https://www.gao.gov/assets/
+700/695756.pdf (hospital laboratories “typically receive
+relatively higher private-payer rates . . . by leveraging the
+market power of their affiliated hospital when negotiating rates
+with private payers.”). ACLA has adequately shown that at
+least one of its members is reimbursed by Medicare at a rate
+lower than it would be if we were to rule in ACLA’s favor and
+invalidate the challenged limitation in the definition of
+“applicable laboratory.” That establishes injury in fact.
+
+     As for causation and redressability, ACLA has met its
+burden at this stage. See Lujan, 504 U.S. at 561. According to
+the Joint Venture Hospital Laboratories affidavit, excluding
+data from hospital laboratories “significantly depress[es]” the
+weighted median payment rates that are used to generate the
+new Medicare fee schedule. J.A. 62. Another declaration, by
+the President of Aculabs, Inc. (also a member of ACLA),
+attests: “If the Secretary’s failure to implement Congress’s
+directives is not corrected, the impact on Aculabs’ business will
+be severe” because Aculabs “will not receive Medicare-derived
+reimbursement sufficient to cover its costs.” J.A. 49.
+Requiring the Secretary to collect more fully representative
+market data and use it to calculate a new weighted median
+appears sufficiently likely to increase Medicare reimbursement
+rates to establish redressability at this stage.
+
+     The Secretary briefly protests that ACLA cannot claim
+lower repayment rates as an injury for standing purposes
+because the statute expressly prohibits challenging the rates.
+See Appellee’s Br. 25-26. That argument conflates two issues.
+It is true that ACLA cannot challenge the rates themselves
+under the statute’s jurisdiction-stripping provision. See 42
+U.S.C. § 1395m-1(h)(1). But that does mean the rates cannot
+be the source of ACLA’s members’ injury in a challenge to the
+                               13
+data-collection rule. What matters is that ACLA’s challenge
+(here, to the definition of applicable laboratory for purposes of
+data collection) is sufficiently linked to its asserted injury
+(lower reimbursement rates). See Sierra Club v. EPA, 292 F.3d
+895, 899 (D.C. Cir. 2002). We assess in the next section the
+distinct issue whether ACLA’s challenge is an impermissible
+back-door effort to challenge reimbursement rates in
+circumvention of the statutory bar.
+
+                  III. Jurisdiction Stripping
+
+     The primary question on appeal is whether PAMA’s
+provision eliminating administrative and judicial review of the
+“establishment of payment amounts,” 42 U.S.C. § 1395m-
+1(h)(1), bars our review of the rule the Secretary promulgated
+to implement the statute’s data-collection provision, 81 Fed.
+Reg. 41,036. When deciding whether a statute bars judicial
+review, we begin with “the strong presumption that Congress
+intends judicial review of administrative action.” Smith v.
+Berryhill, 139 S. Ct. 1765, 1776 (2019) (quoting Bowen v.
+Mich. Acad. of Family Physicians, 476 U.S. 667, 670 (1986)).
+Even where, as here, a statutory provision expressly prohibits
+judicial review, the presumption applies to dictate that such a
+provision be read narrowly. See Dart v. United States, 848
+F.2d 217, 221 (D.C. Cir. 1988). “When a statute is ‘reasonably
+susceptible to divergent interpretation, we adopt the reading
+that accords with traditional understandings and basic
+principles: that executive determinations generally are subject
+to judicial review.’” Kucana v. Holder, 558 U.S. 233, 251
+(2010) (quoting Gutierrez de Martinez v. Lamagno, 515 U.S.
+417, 434 (1995)). “Whether and to what extent a particular
+statute precludes judicial review is determined not only from
+its express language, but also from the structure of the statutory
+scheme, its objectives, its legislative history, and the nature of
+                               14
+the administrative action involved.” Block v. Cmty. Nutrition
+Inst., 467 U.S. 340, 345 (1984).
+
+     We start with the text: “There shall be no administrative
+or judicial review under section 1395ff of this title, section
+1395oo of this title, or otherwise, of the establishment of
+payment amounts under this section.” 42 U.S.C. § 1395m-
+1(h)(1). The header of subsection (a) of the statute—the part
+that defines the parameters for data collection—cross-
+references payment rates in announcing that it deals with
+“[r]eporting of private sector payment rates for establishment
+of medicare payment rates.” See id. § 1395m-1(a). The district
+court concluded that the language of the jurisdiction-stripping
+provision combined with the header of subsection (a) meant
+that data collection was “part and parcel of ‘the establishment
+of payment amounts under this section,’ which Congress
+shielded from judicial review.” Am. Clinical Lab. Ass’n, 334
+F. Supp. 3d at 307.
+
+     That conclusion is plausible, but the text does not compel
+it. Several features of the statute suggest that Congress meant
+to bar challenges to the “establishment of payment amounts”
+but not to prevent review of the rule delineating the data
+collection practices that precede and inform the setting of those
+amounts. The jurisdiction-stripping provision itself bars
+review “under section 1395ff of this title, section 1395oo of
+this title, or otherwise.” 42 U.S.C. § 1395m-1(h)(1). The two
+cross-referenced sections cover administrative appeals by
+patients or providers who wish to contest a coverage
+determination or reimbursement amount. See 42 U.S.C.
+§§ 1395oo, 1395ff. That suggests Congress intended to
+preclude review of the amounts of money paid in the ultimate
+reimbursement decisions. Additionally, subsection (a)’s
+reference to reporting private sector data for the establishment
+of payment amounts suggests that the two are not one and the
+                               15
+same, but rather that collecting data from the private sector is a
+separate statutory duty preceding the establishment of
+Medicare payment rates. See 42 U.S.C. § 1395m-1(a). Indeed,
+the final rule on data collection is not an “establishment of
+payment amounts,” but a blueprint for which laboratories must
+report private payor data to the Secretary, how they must do so,
+and what consequences they face for noncompliance. 81 Fed.
+Reg. at 41,037.
+
+     The structure of PAMA bespeaks the separation between
+data collection and pricing. In subsections (b), (c), and (d) on
+existing, new, and new advanced diagnostic laboratory
+services, Congress explained that it was directing the Secretary
+henceforth to calculate “weighted median” market-based
+prices for existing services and to “gapfill” and consult an
+expert panel to determine prices for new and new advanced
+services. In a separate provision, Congress detailed the
+framework for data collection. Compare 42 U.S.C. § 1395m-
+1(b)-(d) (establishing processes for determining Medicare
+rates), with id. § 1395m-1(a) (establishing processes for
+collecting private-payor data). Whereas the rate-setting
+provisions affect reimbursements for Medicare services, the
+data-collection part of the statute imposes new obligations on
+private parties (applicable laboratories). The latter requires
+reporting of confidential data about private market rates—data
+not otherwise used in any government program—so that the
+Secretary may analyze it to formulate Medicare rates. Id.
+§ 1395m-1(a). The Secretary is required to “establish through
+notice and comment rulemaking parameters for data collection
+under this subsection.” Id. § 1395m-1(a)(12). An applicable
+lab’s failure to provide the specified information exposes it to
+significant monetary penalties. Id. § 1395m-1(a)(9).
+
+    Textual and structural analysis of jurisdiction-stripping
+provisions in other statutes supports the Secretary’s position
+                               16
+that Congress did not bar review of PAMA’s entire process for
+collecting data on private-payor rates. See Bowen, 476 U.S. at
+675-76 (holding that the provision limiting review of amounts
+of benefit payments under the Medicare program did not bar
+review of the method by which such amounts were computed).
+In Texas Alliance for Home Care Services v. Sebelius, for
+example, we concluded that a provision’s “broad and
+unequivocally preclusive language” barring review of “the
+awarding of contracts” under Medicare also barred review of
+the “applicable financial standards” that medical equipment
+suppliers must meet in order to be eligible for those contracts.
+681 F.3d 402, 409-11 & n.9 (D.C. Cir. 2012). In that case, the
+challenged “applicable financial standards” were listed in the
+statute itself as a “[c]ondition[] for awarding contract[s].” 42
+U.S.C. § 1395w-3(b). In other words, the statutory text made
+clear that the challenged action (defining applicable financial
+standards) was encompassed within the terms of unreviewable
+action (awarding contracts). The same was true in Mercy
+Hospital, Inc. v. Azar, where we held that a statute barring
+judicial review of “prospective payment rates” covered a
+challenge to the formula the Secretary used to calculate those
+rates. 891 F.3d 1062, 1067 (D.C. Cir. 2018). Through internal
+cross-references, the “language of the statute tie[d] together the
+prospective payment rate and the statutory adjustments” used
+to calculate that rate. Id.
+
+     Unlike the provisions at issue in Texas Alliance and Mercy
+Hospital, the statutory text here does not subsume the data
+collection process within the establishment of payment
+amounts. On the contrary, Congress set out the process for data
+collection in a separate and distinct subsection and with its own
+set of rules. Congress also required that the parameters for that
+data collection be established through notice and comment
+rulemaking. See 42 U.S.C. § 1395m-1(a)(12). Neither of the
+statutes at issue in Texas Alliance or Mercy Hospital had
+                                17
+explicit notice and comment requirements. And, as our
+precedent makes clear, part of the purpose of notice and
+comment rulemaking is to ensure the parties develop a record
+for judicial review. See Int’l Union, United Mine Workers of
+Am. v. Mine Safety & Health Admin., 407 F.3d 1250, 1259
+(D.C. Cir. 2005) (“[Rulemaking n]otice requirements are
+designed . . . to give affected parties an opportunity to develop
+evidence in the record to support their objections to the rule and
+thereby enhance the quality of judicial review.”).
+
+     Because the gathering of data under PAMA is not
+“inextricably intertwined” with the establishment of payment
+rates, we lack a basis on which to infer that Congress, in
+eliminating jurisdiction over the latter, clearly meant also to bar
+review of the former. Cf. Florida Health Scis. Ctr., Inc. v.
+Sec’y of Health & Human Servs., 830 F.3d 515, 521 (D.C. Cir.
+2016). We held that we lacked jurisdiction in Florida Health
+for reasons that appear at first blush to apply here. The statute
+at issue in Florida Health required the Secretary to identify as
+Disproportionate Share Hospitals (DSH) entitled to additional
+federal compensation those hospitals serving high proportions
+of poor patients. When the Affordable Care Act directed that
+DSH status be based largely on the percentage of the nation’s
+overall uncompensated care each hospital provides, the
+Secretary chose to estimate that percentage by reference to the
+number of days Medicaid and low-income Medicare patients
+spent in a given hospital as a proportion of the national total of
+such patients’ hospital days. Id. at 517; see 42 U.S.C.
+§ 1395ww(r)(2)(C). In other words, the Secretary used a
+hospital’s national share of Medicaid and low-income
+Medicare patient care as a proxy for its share of uncompensated
+care. See Florida Health, 830 F.3d at 517. The Secretary did
+so because research supported the correlation between a
+hospital’s national shares of uninsured patients and its poor-
+insured, and the proxy data was already readily available and
+                                18
+subject to audit. Id. The statute expressly precluded review of
+the Secretary’s uncompensated care estimates, see id.
+§ 1395ww(r)(3)(A), but plaintiffs sought review of those
+estimates anyway by challenging the accuracy of the Medicaid
+data on which they were based, Florida Health, 830 F.3d at
+518. We held that the statutory bar on the Secretary’s
+“estimate” of how much uncompensated care a hospital
+provided also barred review of the proxy data on which the
+Secretary relied. Id. at 518-19. We “could not review a
+decision that was ‘indispensable’ or ‘integral’ to, or
+‘inextricably intertwined,’ with the unreviewable agency
+action.” Id. at 519 (quoting Texas Alliance, 681 F.3d at 409-
+11).
+
+     Important distinctions between the issues in this case and
+Florida Health show that the data collection process at issue
+here is not “inextricably intertwined” with the unreviewable
+establishment of payment amounts. Most importantly, unlike
+PAMA, the statute in Florida Health did not have a separate
+data-collection provision imposing new obligations on private
+parties nor did it have a notice and comment requirement. It
+simply directed the Secretary to estimate the amount of
+uncompensated services using “appropriate data,” including
+data that the Secretary may “determine[]” serves as an adequate
+proxy for uncompensated care rates.                42 U.S.C.
+§ 1395ww(r)(2)(C). The statute’s text and structure made clear
+that choosing which data to use was part of the Secretary’s
+unreviewable obligation to estimate uncompensated care rates.
+Florida Health, 830 F.3d at 517, 519.
+
+     PAMA’s data collection provision, on the other hand, is
+distinct from its rate-estimation provisions. For data collection,
+the statute obligates clinical laboratories that participate in the
+Medicare program to report distinct reimbursement rates they
+receive from private insurers and requires the Secretary to
+                              19
+establish the rules governing that reporting through notice and
+comment rulemaking. To be sure, the results of that data
+collection process are used to establish Medicare payment
+amounts. But the statute’s bifurcated structure supports
+ACLA’s view that the two provisions and the processes they
+require are distinct. This case differs from DCH Regional
+Medical Center v. Azar, 925 F.3d 503 (D.C. Cir. 2019), for
+similar reasons. We held there that a “methodology” used to
+generate uncompensated care estimates under the same statute
+at issue in Florida Health was itself unreviewable because
+there was “no textual basis for separating estimates from their
+underlying methodology,” id. at 507; the data-collection
+provision of PAMA, in contrast, is separate from the provisions
+establishing payment amounts. That the statutory scheme
+requires private laboratories to report non-Medicare and
+generally confidential business information (private market
+rates) to the government on pain of monetary penalties further
+stands this statutory scheme in sharp contrast to others where
+the challenged action was found to be intertwined with other
+agency actions regarding which Congress had barred judicial
+review.
+
+     The government argues that it would make scant sense for
+Congress to have barred review only of “basic math” while
+“permitting review of every discretionary step that preceded
+that math.” Appellee Br. 33. But establishing payment
+amounts sometimes involves more than rote math. For
+established laboratory services, the Secretary must array
+private payor data from thousands of laboratories and calculate
+a weighted median for each separate laboratory service. 42
+U.S.C. § 1395m-1(b)(2). For new tests, regarding which
+private payor data does not yet exist, the Secretary must
+consider more complicated criteria and consult an expert panel.
+See id. § 1395m-1(c)-(d), (f). That process is a good deal more
+complex and discretionary than rote math.
+                               20
+     In view of PAMA’s text, its structure, and the distinct
+nature of the processes of data collection and establishment of
+payment rates, we cannot conclude that the bar against
+reviewing the “establishment of payment amounts” also
+prevents our review of the rule setting up a new and detailed
+process for collecting data on market rates that private insurers
+pay to laboratories. Because the statute is “reasonably
+susceptible” to this interpretation, we hold that it does not bar
+judicial review of the Secretary’s rule establishing the
+parameters of data collection under 42 U.S.C. § 1395m-1(a).
+Gutierrez de Martinez, 515 U.S. at 434.
+
+                        IV. Ultra Vires
+
+    ACLA also argues that, even if the jurisdictional limitation
+of Section 1395m-1(h) applies, we should nonetheless review
+the Secretary’s final rule because it “exceeds his statutory
+authority and is ultra vires.” Appellant’s Br. 61. Although we
+hold that the statute itself does not bar review, we nonetheless
+consider ACLA’s ultra vires argument because, if valid, it
+would not just open the courthouse door, but invalidate the rule
+and obviate any need to remand to the district court for
+consideration of the arbitrary-and-capricious challenge.
+
+     If an agency exceeds “its statutory bounds, judicial review
+remains available” to curb the rogue action. SAS Inst., Inc. v.
+Iancu, 138 S. Ct. 1348, 1359 (2018). To challenge agency
+action on the ground that it is ultra vires, ACLA must show a
+“patent violation of agency authority.” Indep. Cosmetic Mfrs.
+& Distribs., Inc. v. U.S. Dep’t of Health, Educ. & Welfare, 574
+F.2d 553, 555 (D.C. Cir. 1978). Ultra vires review “is intended
+to be of extremely limited scope,” and it “represents a more
+difficult course . . . than would review under the APA.”
+Trudeau v. Fed. Trade Comm’n, 456 F.3d 178, 190 (D.C. Cir.
+2006) (internal quotations omitted).
+                               21
+     Here, the statute says that applicable laboratory “means a
+laboratory that, with respect to its revenues under this
+subchapter, a majority of such revenues are from” the PFS and
+CLFS. 42 U.S.C. § 1395m-1(a)(2) (emphasis added). ACLA
+argues that choosing to compare a laboratory’s total revenues
+from the PFS and CLFS against the “total Medicare revenues
+of any entity with an NPI (of which the laboratory is often only
+one component),” Appellant’s Br. 64, violates the statute’s
+command that the reporting unit be the laboratory rather than a
+broader entity. Again, the reporting unit matters because
+comparing a hospital laboratory’s reimbursements from PFS
+and CLFS to the entire hospital’s Medicare revenue (as
+opposed to just the hospital laboratory’s Medicare revenue)
+means that a hospital laboratory without its own, laboratory-
+specific NPI will not qualify as an applicable laboratory under
+the statute.
+
+     HHS did not clearly step so far outside the scope of the
+task that Congress gave it as to have acted ultra vires. PAMA
+does not define the term “laboratory,” and the Secretary’s
+charge was to operationalize that important term despite its
+ambiguity. After incorporating industry comments into the
+final rule, the Secretary chose to identify laboratories by their
+NPI numbers. See J.A. 563-64 (Florida Hospital Association
+recommending HHS define applicable laboratory at the NPI
+level rather than the TIN level); compare 80 Fed. Reg. at
+59,387 (proposing use of TIN numbers), with 81 Fed. Reg. at
+41,037 (deciding to use NPI numbers). Appellant’s objection
+to the Secretary’s efforts, even if meritorious, does not
+establish that the Secretary acted ultra vires. We leave to the
+district court on remand to address in the first instance the
+merits of petitioner’s arbitrary-and-capricious challenge.
+                             22
+                         *   *    *
+
+     For the reasons discussed above, we reverse the district
+court’s holding on subject matter jurisdiction and remand for
+further proceedings consistent with this opinion.
+
+                                                 So ordered.
+

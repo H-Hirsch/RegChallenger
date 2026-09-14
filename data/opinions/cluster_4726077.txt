@@ -1,0 +1,570 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+
+Argued October 25, 2019           Decided February 11, 2020
+
+                        No. 18-5264
+
+       BAYSTATE FRANKLIN MEDICAL CENTER, ET AL.,
+                     APPELLANTS
+
+                             v.
+
+      ALEX MICHAEL AZAR, II, AS SECRETARY OF THE
+      DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+                      APPELLEE
+
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:17-cv-00819)
+
+
+
+     Rachel M. Wertheimer argued the cause and filed the
+briefs for appellants.
+
+     Edward Himmelfarb, Attorney, U.S. Department of
+Justice, argued the cause for appellee. With him on the brief
+was Alisa B. Klein, Attorney.
+
+   Before: MILLETT and KATSAS, Circuit Judges, and
+SENTELLE, Senior Circuit Judge.
+                               2
+   Opinion for the Court filed by Senior Circuit Judge
+SENTELLE.
+
+     SENTELLE, Senior Circuit Judge: Appellants, Baystate
+Franklin Medical Center, Baystate Medical Center, Baystate
+Noble Hospital, and Baystate Wing Hospital (collectively,
+“Baystate”), brought suit against the Secretary of the
+Department of Health and Human Services (“HHS”) related to
+his promulgation of a final rule calculating the wage index for
+hospital reimbursements in 2017. Baystate claimed that the
+final rule was unreasonable and arbitrary and capricious
+because the Secretary failed to comply with the statutory
+requirement to calculate a wage index that reflected the actual
+wage levels in Massachusetts, relied on data that he knew to be
+false, and entirely failed to consider an important aspect of the
+problem. Both parties moved for summary judgment. The
+district court held that the final rule reflected a permissible
+construction of the Medicare statute, and the decision was not
+arbitrary and capricious. Accordingly, the district court
+granted summary judgment in favor of the Secretary. Baystate
+filed the present appeal.
+
+     For the following reasons, we affirm the decision of the
+district court.
+
+   I.      BACKGROUND
+
+        A. Statutory and Regulatory Background
+
+    Medicare is a federally funded health insurance program
+available to the elderly and individuals with disabilities. See
+42 U.S.C. § 1395 et seq. Under the current Medicare program,
+the Secretary uses a Prospective Payment System (“PPS”) to
+reimburse certain hospitals for treating Medicare beneficiaries.
+See Medicare Program; Hospital Inpatient Prospective
+                                3
+Payment Systems for Acute Care Hospitals and the Long-Term
+Care Hospital Prospective Payment System and Policy
+Changes and Fiscal Year 2017 Rates, 81 Fed. Reg. 56,762,
+56,776 (Aug. 22, 2016) (“FY2017 PPS Final Rule”). The PPS
+requires the Secretary to reimburse hospitals at a
+“predetermined, specific rate[] for each hospital discharge,”
+id., rather than assessing the actual costs incurred by the
+provider for each patient, see Anna Jacques Hosp. v. Burwell,
+797 F.3d 1155, 1158 (D.C. Cir. 2015).
+
+     The PPS payments are broken down into two components:
+a labor-related share and a nonlabor-related share. See FY2017
+PPS Final Rule, 81 Fed. Reg. at 56,776. The statute requires
+the Secretary to adjust the labor-related share of the payments
+to account for geographic variations in hospital wage expenses.
+See 42 U.S.C. § 1395ww(d)(3)(E)(i); see also Anna Jacques
+Hosp., 797 F.3d at 1158. To do so, the Secretary must calculate
+a “factor . . . reflecting the relative hospital wage level in the
+geographic area of the hospital compared to the national
+average       hospital     wage       level.”       42     U.S.C.
+§ 1395ww(d)(3)(E)(i). This factor is known as the “wage
+index,” and it must be updated annually. Anna Jacques Hosp.,
+797 F.3d at 1158.
+
+     For purposes of calculating the wage index, the geographic
+area of a hospital is determined by reference to the
+“Metropolitan Statistical Area[s]” defined by the Office of
+Management and Budget. 42 U.S.C. § 1395ww(d)(2)(D). Any
+hospital not within a Metropolitan Statistical Area is designated
+as in a “rural area.” Id. The wage index for any given hospital
+in a state cannot be lower than the wage index applicable to the
+rural hospitals in that state. Balanced Budget Act of 1997, Pub.
+L. No. 105-33, § 4410(a), 111 Stat. 251, 402 (42 U.S.C.
+§ 1395ww note). This is referred to as the “rural floor.”
+                               4
+     The Centers for Medicare and Medicaid Services (“CMS”)
+is the component of HHS that is responsible for calculating the
+wage index each year. To start the process, CMS requires
+hospitals to submit cost reports to Medicare administrative
+contractors (“MACs”). 42 C.F.R. § 413.20(b). The MACs and
+the hospitals then review and revise the data through an
+iterative process, which is outlined in a timetable published by
+CMS. App. at 49–53; see also Medicare Program; Hospital
+Inpatient Prospective Payment Systems for Acute Care
+Hospitals and the Long-Term Care Hospital Prospective
+Payment System and Proposed Policy Changes and Fiscal Year
+2017 Rates, 81 Fed. Reg. 24,946, 25,073 (proposed Apr. 27,
+2016) (“FY2017 PPS Proposed Rule”) (“We created the
+processes previously described to resolve all substantive wage
+index data correction disputes before we finalize the wage and
+occupational mix data for the FY 2017 payment rates.”). CMS
+uses this data to calculate an average hourly wage rate for every
+geographic area. Anna Jacques Hosp., 797 F.3d at 1159. Then,
+it calculates the national average hourly wage rate and divides
+each geographic area’s wage rate by the national average wage
+rate to determine each geographic area’s wage index. Id.
+
+     By design, “each hospital’s wage data affects the ultimate
+wage index for all hospitals in the area, and thus data errors or
+omissions by one hospital can [decrease] (or increase) PPS
+rates for other hospitals in its area.” Dignity Health v. Price,
+243 F. Supp. 3d 43, 46 (D.D.C. 2017). Similarly, because CMS
+must calculate a national average wage rate to develop the
+wage index, and because changes in the wage index must be
+budget neutral, 42 U.S.C. § 1395ww(d)(3)(E)(i), “a change in
+any single wage index can affect the reimbursement rate of
+each hospital in the country.” Methodist Hosp. of Sacramento
+v. Shalala, 38 F.3d 1225, 1228 (D.C. Cir. 1994).
+                              5
+     For the 2017 wage index, CMS released its preliminary
+wage data files on May 15, 2015. CMS expected to use the
+data in those files to develop the 2017 wage index. Hospitals
+were required to notify MACs of any “revisions to the wage
+index data as reflected in the preliminary files” by September
+2, 2015. App. at 49. The wage index development process
+provided no opportunity for third-party hospitals to review or
+contest any other hospital’s wage data. Following several
+rounds of review and revision between the hospitals and the
+MACs, the proposed rule was expected to be published for
+notice and comment in April or May 2016. The final rule was
+then expected to be published on August 1, 2016.
+
+       B. Factual and Procedural History
+
+     The Baystate hospitals are located in Massachusetts. The
+only rural hospital in Massachusetts is Nantucket Cottage
+Hospital (“Nantucket”). Nantucket accordingly sets the rural
+floor for all hospitals in the state. The data that Nantucket
+submitted to CMS to calculate the 2017 wage index allegedly
+contained several errors that deflated Nantucket’s hourly wage
+rate. On April 4, 2016, nearly seven months after the deadline
+to request revisions to the preliminary wage data had passed,
+Nantucket notified CMS by letter of the errors and sought to
+correct them. App. at 40–46. The hospital estimated that the
+corrections would “increase [its] average hourly wage from
+$43.78 to $60.50.” App. at 45.
+
+     On April 27, 2016, the Secretary published the proposed
+2017 wage index in the Federal Register before responding to
+Nantucket’s letter. See FY2017 PPS Proposed Rule, 81 Fed.
+Reg. 24,946. The Secretary stated that “[i]f a hospital wished
+to request a change to its data as shown in May 15, 2015 wage
+data files and May 15, 2015 occupational mix data files, the
+hospital was to submit corrections along with complete,
+                                6
+detailed supporting documentation to its MAC by September
+2, 2015.” Id. at 25,072. The Secretary also emphasized that
+“[h]ospitals were notified of this deadline and of all other
+deadlines and requirements, including the requirement to
+review and verify their data as posted in the preliminary wage
+index data files.” Id.
+
+     During the notice-and-comment period, many
+Massachusetts hospitals submitted comments to the Secretary
+urging him to accept Nantucket’s corrected wage data because
+failure to do so would result in a major reduction in
+reimbursements for hospitals across the state. This precise
+problem is acute in Massachusetts because, unlike most states,
+Nantucket’s wage index, which alone sets the rural floor in
+Massachusetts, is typically significantly higher than the wage
+index for other geographic areas in the state. See, e.g., Baystate
+Franklin Med. Ctr. v. Azar, 319 F. Supp. 3d 514, 522 (D.D.C.
+2018). For example, Baystate Health’s public comment
+estimated that “the impact of the data errors alone is a loss of
+$115 million in Medicare inpatient and outpatient
+reimbursement to 39 Massachusetts hospitals in 2017.” App.
+at 99. Conversely, other commenters suggested that if the
+Secretary modified the rule based on Nantucket’s late filing, it
+“would establish a ‘troubling’ precedent by disregarding CMS
+rules and regulations, which provide ample opportunity to
+correct wage data through the agency’s normal review process
+and deadlines.” FY2017 PPS Final Rule, 81 Fed. Reg. at
+56,920.
+
+     Ultimately, the Secretary enforced the deadline and
+refused to accept Nantucket’s proposed revisions in calculating
+the final wage index. Id. The Secretary explained, “It is our
+intent to ensure that the wage index is calculated from the best
+available data, consistent with our wage index policies and
+development timeline.” Id. He emphasized that the deadlines
+                                7
+“play[] an important role in maintaining the integrity and
+fairness of the wage index calculation.” Id. He further noted
+that CMS has “consistently stated in annual [In-Patient] PPS
+rulemaking that hospitals that do not meet the procedural
+deadlines set forth in the [In-Patient] PPS rule will not be
+afforded a later opportunity to submit wage index data
+corrections or to dispute the MAC’s decision with respect to
+requested changes.” Id.; see also FY2017 PPS Proposed Rule,
+81 Fed. Reg. at 25,073 (noting that a hospital cannot later seek
+“to revise another hospital’s data that may be affecting the
+requesting hospital’s wage index”).
+
+     After exhausting the administrative appeals process,
+Baystate filed a complaint in the district court alleging that the
+wage index as calculated would cost Baystate approximately
+$19,907,000 in Medicare reimbursements. Baystate argued
+that relying on flawed data prevented CMS from calculating a
+wage index that actually reflected the wage level for Nantucket,
+contravening the Medicare statute and rendering the action
+arbitrary and capricious. Further, Baystate claimed that the
+final rule was also arbitrary and capricious because the
+Secretary failed to consider an important aspect of the problem:
+one hospital’s erroneous data affected the wage index for every
+other hospital in the state, but those third-party hospitals had
+no opportunity to review or contest the flawed data until after
+the deadline to request revisions had already passed.
+
+     Both parties moved for summary judgment, which the
+district court granted in favor of the Secretary. The district
+court determined that the statute grants the Secretary “broad
+discretion” in administering the PPS program and held that
+“[t]he Secretary’s decision to enforce longstanding PPS
+program deadlines and use Nantucket’s uncorrected data was
+reasonable and based on a permissible reading of the Medicare
+statute.” Baystate Franklin Med. Ctr., 319 F. Supp. 3d at 521.
+                                8
+Additionally, the district court held that the Secretary’s action
+was not arbitrary and capricious. Because Nantucket missed
+the relevant deadline to request revisions, the most reliable
+evidence available to the Secretary was the data that the MACs
+had already reviewed, not the revised data presented in April
+2016. See id. at 523. Accordingly, the Secretary’s decision to
+reject the requested revisions was reasonable. Further, the
+district court held that the Secretary sufficiently considered the
+effect of his decision on third-party hospitals. Id. Baystate
+objects to each of these conclusions on appeal.
+
+   II.     DISCUSSION
+
+     We review the district court’s grant of summary judgment
+de novo. Anna Jacques Hosp., 797 F.3d at 1163. First, we
+address Baystate’s arguments that the Secretary failed to
+calculate a wage index that accurately reflected the wage level
+in Massachusetts and ignored an important aspect of the
+problem when he enforced the deadline against third-party
+hospitals, rendering his action arbitrary and capricious. Then
+we turn to Baystate’s argument that the Secretary’s
+interpretation of his authority to ignore the revised data
+contravened the Medicare statute’s command to calculate a
+wage index that reflects the wage level in Massachusetts.
+Although Baystate does not cite Chevron, U.S.A., Inc. v.
+Natural Resources Defense Council, Inc., 467 U.S. 837 (1984),
+and argues almost entirely in terms of Administrative
+Procedure Act (“APA”) review, the gist of its argument
+challenges the Secretary’s interpretation of his authority under
+the Medicare statute, which, as discussed below, triggers a
+Chevron analysis. We hold that the Secretary’s interpretation
+of his authority under the statute was lawful and his action was
+not arbitrary and capricious. Accordingly, we affirm the
+district court’s grant of summary judgment.
+                                9
+       A. Arbitrary and Capricious Review
+
+     Under the familiar standards of the APA, we must “set
+aside agency action” that is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.” 5 U.S.C.
+§ 706(2)(A). We will uphold the agency’s action if the agency
+“examine[d] the relevant data and articulate[d] a satisfactory
+explanation for its action including a ‘rational connection
+between the facts found and the choice made.’” Motor Vehicle
+Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463
+U.S. 29, 43 (1983) (quoting Burlington Truck Lines v. United
+States, 371 U.S. 156, 168 (1962)). An agency’s action is
+arbitrary and capricious “if the agency has relied on factors
+which Congress has not intended it to consider, entirely failed
+to consider an important aspect of the problem, offered an
+explanation for its decision that runs counter to the evidence
+before [it], or is so implausible that it could not be ascribed to
+a difference in view or the product of agency expertise.” Id.
+“The scope of review under the ‘arbitrary and capricious’
+standard is narrow and a court is not to substitute its judgment
+for that of the agency.” Id.
+
+           i.      Secretary’s Decision to Enforce the
+                   Deadline
+
+     Baystate argues that the Secretary’s decision to enforce the
+deadline and reject Nantucket’s revised data was arbitrary and
+capricious because the Secretary relied on facts that he knew to
+be false when calculating the final wage index. However,
+instead of demonstrating that the Secretary’s decision to reject
+the revised data was an unreasonable one, Baystate offers
+examples of different ways to structure the wage index
+development process to produce a more accurate wage index.
+See Appellants’ Reply Br. at 9–10.
+                                10
+     To start, it is difficult to divine exactly how the Secretary’s
+decision to enforce a deadline that is established well in
+advance through rulemaking is arbitrary and capricious. More
+importantly, however, under the narrow standard of arbitrary
+and capricious review, the court accepts the Secretary’s
+decision as long as he has provided a reasonable explanation.
+State Farm Mut. Auto Ins. Co., 463 U.S. at 43. It would defy
+that standard of review to invalidate the Secretary’s decision
+simply because there are alternate methods by which to
+calculate the wage index, even if those alternatives might
+ultimately produce a more accurate wage index.
+
+     In any event, the Secretary provided an entirely reasonable
+explanation for his decision to reject the revised data. As
+previously noted, the Secretary explained that CMS’s intent is
+to calculate the wage index “from the best available data,
+consistent with [the] wage index policies and development
+timeline.” FY2017 PPS Final Rule, 81 Fed. Reg. at 56,920. He
+emphasized that the deadlines are critical “in maintaining the
+integrity and fairness of the wage index calculation.” Id. That
+was reasonable because the wage index must be computed on
+a nationwide basis that is budget neutral, so that an increase for
+hospitals in one area would necessitate a decrease in the wage
+index for other hospitals in other areas. See Bellevue Hosp.
+Ctr. v. Leavitt, 443 F.3d 163, 169 (2d Cir. 2006) (“These
+adjustments must be cost neutral, so that any increase in one
+hospital’s wage factor must be offset by a decrease in
+another’s.”). He also pointed to prior statements that indicated
+“that hospitals that do not meet the procedural deadlines . . .
+will not be afforded a later opportunity to submit wage index
+data corrections.” FY2017 PPS Final Rule, 81 Fed. Reg. at
+56,920. Accordingly, the Secretary offered a reasonable
+explanation for his decision that is sufficient to survive
+arbitrary and capricious review.
+                              11
+     Moreover, this is not a situation in which the Secretary
+previously granted relief from this deadline and is now
+changing his policy without a reasoned explanation. See, e.g.,
+Children’s Hosp. Ass’n of Tex. v. Azar, 933 F.3d 764, 773
+(D.C. Cir. 2019) (“An ‘unexplained inconsistency’ with an
+earlier position renders a changed policy arbitrary and
+capricious.” (quoting Encino Motorcars, LLC v. Navarro, 136
+S. Ct. 2117, 2126 (2016))); Centra Health, Inc. v. Shalala, 102
+F. Supp. 2d 654, 660 (W.D. Va. 2000) (finding that it was
+arbitrary and capricious for the Secretary to claim that
+excluding data was infeasible because the Secretary had
+excluded that same data in the past and had not “adequately
+explained” the difference in treatment.).
+
+     In fact, Baystate has not pointed to any examples in which
+the Secretary granted relief from a deadline in similar
+situations. At oral argument, Baystate’s counsel pointed to the
+Secretary’s inclusion of “improved data” from eleven hospitals
+in the final rule. FY2017 PPS Final Rule, 81 Fed. Reg. at
+56,915. But that revision did not involve errors that a hospital
+discovered in its preliminary data after the deadline to request
+revisions had passed. Rather, those errors were identified
+during the review conducted by the MACs. Id. (“Since the
+development of the FY 2017 proposed wage index, as a result
+of further review by the MACs and the April and May appeals
+processes, we received improved data for 11 hospitals.”). The
+2017 wage index development timetable anticipated exactly
+that type of revision, unlike the revisions that Baystate now
+seeks. Additionally, Baystate’s counsel suggested that the
+revisions in Methodist Hospital of Sacramento v. Shalala, 38
+F.3d 1225 (D.C. Cir. 1994), were similar to the revisions
+sought in this case. Although Methodist Hospital did involve
+the PPS, the specific errors in that case “occurred prior to the
+creation of the PPS.” Id. at 1228.
+                                12
+     Nor has Baystate shown that the Secretary’s decision was
+otherwise arbitrary and capricious. Baystate cites a concurring
+opinion in this Court to argue that “it would seem to be the very
+definition of arbitrary and capricious for HHS to knowingly use
+false facts when calculating hospital reimbursements.” St.
+Francis Med. Ctr. v. Azar, 894 F.3d 290, 298 (D.C. Cir. 2018)
+(Kavanaugh, J., concurring). The majority in that case,
+however, did not address whether the Secretary’s action was
+arbitrary and capricious. See id. at 297 (majority opinion).
+Moreover, that case involved the Secretary’s refusal to
+consider challenges to statistics from 1981 that the Secretary
+was continuing to use for “ongoing calculations of
+reimbursements for open cost years.” Id. at 298 (Kavanaugh,
+J., concurring). The concurrence suggested that it would have
+been reasonable for the Secretary to decline to “reopen closed
+cost years” given “the agency’s interest in finality,” but argued
+that the finality interests fell away for ongoing calculations. Id.
+The Secretary’s decision to enforce his deadline here is akin to
+declining to reopen a closed cost year to consider new data.
+Baystate’s reliance on the concurrence in Saint Francis
+Medical Center is thus misplaced.
+
+     For similar reasons, we disagree with Baystate’s assertion
+that the Secretary ignored the “most reliable evidence
+available” in the first place. Appellants’ Br. at 15. Because the
+Secretary retained discretion to set and enforce a deadline, the
+availability of evidence is measured from the date of the
+deadline, not the promulgation of the final rule. Nantucket did
+not present new evidence until seven months after the deadline
+had passed. In order to ensure the accuracy of this data, CMS
+would be required to return to the beginning of the wage index
+development process to vet the hospital’s new data. Indeed,
+the Secretary never conceded that Nantucket’s revised data was
+the most reliable data available, emphasizing that the
+information had not yet been vetted by CMS or its contractors.
+                               13
+Accordingly, the most reliable evidence available was the
+evidence that the Secretary used to calculate the final wage
+index, and the Secretary’s decision was not arbitrary and
+capricious.
+
+           ii.     Secretary’s Consideration of Important
+                   Aspects of the Problem
+
+     Baystate further contends that the Secretary’s decision was
+arbitrary and capricious because he failed to consider an
+important aspect of the problem—namely, that other hospitals
+in Massachusetts had no opportunity to review or revise faulty
+data that adversely affected their wage indexes. Again, we
+disagree.
+
+     In summarizing the comments to the proposed rule, the
+Secretary noted that several commenters “believed it would be
+‘sound public policy’ for CMS to use the most accurate data
+available in order to prevent one hospital’s data errors from
+having a negative effect on Medicare payments of other
+hospitals.” FY2017 PPS Final Rule, 81 Fed. Reg. at 56,920.
+He also highlighted that some commenters suggested that “the
+effects of not correcting the data error would be significant for
+hospitals in Massachusetts.” Id. Those summaries reflect the
+Secretary’s awareness that his decision to enforce the deadline
+necessarily affected all hospitals in Massachusetts. Even
+though he did not address the effects to Nantucket and third-
+party hospitals separately, the summary is sufficient to
+illustrate his consideration of that aspect of the problem.
+Therefore, we conclude that the decision to enforce the
+deadline against third-party hospitals was not arbitrary or
+capricious.
+                              14
+       B. Chevron Analysis
+
+     As mentioned above, although Baystate does not cite
+Chevron, U.S.A., Inc. v. Natural Resources Defense Council,
+Inc., 467 U.S. 837 (1984), and frames its arguments in terms of
+APA review, see Appellants’ Br. at ii (“The Secretary’s
+decision to base the FY 2017 Wage Index on data he knew to
+be inaccurate was arbitrary and capricious.”); Appellants’
+Reply Br. at i (“The Secretary’s calculation of the FY 2017
+Wage Index and application of the rural floor were arbitrary
+and capricious.”), much of its argument focuses on the
+Secretary’s statutory authority to enforce the deadline and
+reject the revised data under the Medicare statute.
+
+     Specifically, Baystate argues that “the Secretary ignored
+Congress’s clear mandate to calculate a wage index that
+‘reflect[s] the relative hospital wage level in the geographic
+area of the hospital compared to the national average.’”
+Appellants’      Br.     at    15     (quoting     42     U.S.C.
+§ 1395ww(d)(3)(E)(i)). Further, Baystate asserts that, “[w]hile
+the Secretary undoubtedly has discretion in developing the
+process for calculating the wage index, that discretion does not
+permit him to disregard the requirements of the Wage Index
+Statute.” Id. at 18. Arguments related to an agency’s
+interpretation of its authority to act under a statute are the
+principal concern of Chevron. See Arent v. Shalala, 70 F.3d
+610, 615 (D.C. Cir. 1995). To be sure, “[w]e recognize that, in
+some respects, Chevron review and arbitrary and capricious
+review overlap at the margins.” Id. But it is under Chevron,
+not the APA arbitrary and capricious standard, that a court
+considers “whether the agency’s construction of the statute is
+faithful to its plain meaning, or, if the statute has no plain
+meaning, whether the agency’s interpretation ‘is based on a
+permissible construction of the statute.’” Id. (quoting Chevron,
+467 U.S. at 843).
+                                15
+
+      Under the Chevron two-step framework, we first consider
+“whether Congress has directly spoken to the precise question
+at issue.” Chevron, U.S.A., Inc., 467 U.S. at 842. If Congress’s
+intent is clear, “the court, as well as the agency, must give effect
+to the unambiguously expressed intent of Congress.” Id. at
+842–43. If “Congress has not directly addressed the precise
+question at issue,” however, we proceed to step two and will
+uphold the Secretary’s interpretation if it is “based on a
+permissible construction of the statute.” Id. at 843.
+
+    The Medicare statute requires the Secretary to compute a
+wage index that “reflect[s] the relative hospital wage level in
+the geographic area of the hospital compared to the national
+average     hospital     wage      level.”        42     U.S.C.
+§ 1395ww(d)(3)(E)(i).        We have previously rejected
+constructions of the statute that would require the Secretary to
+calculate the wage index with “scientific exactitude.” Anna
+Jacques Hosp., 797 F.3d at 1165; see Methodist Hosp., 38 F.3d
+at 1230 (allowing the Secretary to make “reasonable
+approximations” based on the “most reliable data available”).
+Those decisions emphasize that the Secretary may balance
+accuracy against “finality and administrative efficiency.”
+Methodist Hosp., 38 F.3d at 1235; see also Anna Jacques
+Hosp., 797 F.3d at 1169.
+
+     Baystate contends that the wage index statute requires the
+Secretary to calculate a wage index that reflects the actual,
+relative wage levels around the country. Likewise, Baystate
+argues that the rural floor statute requires the Secretary “to give
+hospitals like the Appellants the benefit of a wage index
+reflective of the relative wage levels in the state’s rural labor
+market.” Appellants’ Br. at 17. Baystate asserts that, because
+the Secretary relied on faulty data to calculate Nantucket’s
+wage index, it necessarily did not reflect the actual wage level
+                                16
+in rural Massachusetts. Thus, Baystate argues, the Secretary’s
+refusal to accept Nantucket’s untimely request exceeded his
+authority under the Medicare statute, depriving the
+Massachusetts hospitals of the wage index to which they were
+statutorily entitled. Baystate concedes that the Secretary is
+entitled to great discretion in calculating the wage index, and
+we agree. Accordingly, we will uphold the agency’s
+interpretation as long as it is a permissible construction of the
+statute.
+
+     In this case, the Secretary exercised his statutory discretion
+to enforce a deadline and reject new data submitted by a
+hospital seven months after the deadline to request revisions to
+that data passed. As noted previously, had the Secretary
+accepted the revised data to calculate the final wage index, he
+would have been required to return to the beginning of the wage
+index development process to ensure the accuracy of the
+hospital’s data. Allowing the Secretary to enforce the deadline
+for revising data is thus consistent with our decisions
+permitting the Secretary to balance accuracy against finality
+and efficiency. To hold otherwise would effectively render the
+Secretary’s deadline a nullity because he would be required to
+waive compliance with the deadline anytime a hospital
+submitted revised data, even well after the relevant deadline
+passed.
+
+     While we agree with Baystate that the Secretary’s
+discretion must be bound by some outer limits, we conclude
+that, whatever those outer limits may be, the Secretary’s
+interpretation of his authority to enforce a deadline in
+calculating the wage index falls squarely within them.
+Accordingly, we hold that the Secretary’s interpretation was a
+permissible construction of the statute.
+                             17
+   III.   CONCLUSION
+
+    For the foregoing reasons, we affirm the district court’s
+grant of summary judgment in favor of the Secretary.
+
