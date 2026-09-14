@@ -1,0 +1,720 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued May 6, 2013                     Decided June 25, 2013
+
+                        No. 12-5413
+
+    INVESTMENT COMPANY INSTITUTE AND CHAMBER OF
+      COMMERCE OF THE UNITED STATES OF AMERICA,
+                    APPELLANTS
+
+                              v.
+
+       COMMODITY FUTURES TRADING COMMISSION,
+                     APPELLEE
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:12-cv-00612)
+
+
+     Eugene Scalia argued the cause for appellants. On the
+briefs were Robin S. Conrad and Rachel Brand. Daniel T. Davis
+entered an appearance.
+
+     Steven G. Bradbury and Susan Ferris Wyderko were on the
+brief for amici curiae Mutual Fund Directors Forum, et al. in
+support of appellants.
+
+    Jonathan L. Marcus, Deputy General Counsel, U.S.
+Commodity Futures Trading Commission, argued the cause for
+appellee. With him on the brief were Dan M. Berkovitz, General
+Counsel, Robert A. Schwartz, Nancy R. Doyle, and Martin B.
+White, Assistant General Counsel, and Melissa Chiang, Counsel.
+                               2
+
+    John M. Devaney, Martin E. Lybecker, Dennis M. Kelleher,
+and Stephen W. Hall were on the brief for amici curiae The
+National Futures Association, et al. in support of appellee.
+
+   Before: GARLAND, Chief Judge, BROWN, Circuit Judge, and
+SENTELLE, Senior Circuit Judge.
+
+   Opinion for the Court filed by Senior Circuit Judge
+SENTELLE.
+
+     SENTELLE, Senior Circuit Judge: The Investment Company
+Institute and the Chamber of Commerce of the United States
+brought this action against the Commodity Futures Trading
+Commission (CFTC), seeking a declaratory judgment that
+recently adopted regulations of the Commission regarding
+derivatives trading were unlawfully adopted and invalid, and
+seeking to vacate and set aside those regulations and to enjoin
+their enforcement. The district court granted summary judgment
+in favor of the Commission. Because we agree with the district
+court that the Commission did not act unlawfully in
+promulgating the regulations at issue, we affirm.
+
+                     I. BACKGROUND
+
+A. Regulatory History
+
+     The Commodity Exchange Act (CEA), Title 7, United
+States Code, Chapter 1, establishes and defines the jurisdiction
+of the Commodity Futures Trading Commission. Under this
+Act, the Commission has regulatory jurisdiction over a wide
+variety of markets in futures and derivatives, that is, contracts
+deriving their value from underlying assets. See 7 U.S.C. § 2(a).
+In addition to establishing the regulatory authority of the
+Commission, the CEA also directly imposes certain duties on
+regulated entities. As relevant here, the Act requires that
+                               3
+
+Commodity Pool Operators (CPOs) register with CFTC and
+adhere to regulatory requirements related to such issues as
+investor disclosures, recordkeeping, and reporting. 7 U.S.C.
+§§ 6k, 6n; 17 C.F.R. §§ 4.20–4.27. The CEA defines CPOs as
+entities “engaged in a business that is of the nature of a
+commodity pool, investment trust, syndicate, or similar form of
+enterprise” that buy and sell securities “for the purpose of
+trading in commodity interests.” 7 U.S.C. § 1a(11)(A)(i). The
+CEA, however, empowers CFTC to exclude an entity from
+regulation as a CPO if CFTC determines that the exclusion “will
+effectuate the purposes of” the statute. Id. § 1a(11)(B).
+
+     Since 1985, the Commission has exercised its authority to
+exclude “otherwise regulated” entities through § 4.5 of its
+regulations. See Commodity Pool Operators, 50 Fed. Reg.
+15,868 (Apr. 23, 1985) (codified at 17 C.F.R. § 4.5). Under the
+version of § 4.5 that applied before amendments of 2003,
+otherwise regulated entities could claim exclusion by meeting
+certain regulatory conditions. These conditions included that the
+entity:
+
+    (i) Will use commodity futures or commodity options
+    contracts solely for bona fide hedging purposes . . . [;] (ii)
+    Will not enter into commodity futures and commodity
+    options contracts for which the aggregate initial margin and
+    premiums exceed 5 percent of the fair market value of the
+    entity’s assets . . . [;] (iii) Will not be, and has not been,
+    marketing participations to the public as or in a commodity
+    pool or otherwise as or in a vehicle for trading in the
+    commodity futures or commodity options markets; [and,]
+    (iv) Will disclose in writing to each prospective participant
+    the purpose of and the limitations on the scope of the
+    commodity futures and commodity options trading in which
+    the entity intends to engage[.]
+                              4
+
+Id. at 15,883. These conditions were amended slightly in 1993,
+when CFTC promulgated a rule removing the bona fide hedging
+requirement and excluding bona fide hedging from the trading
+threshold. Commodity Pool Operators, 58 Fed. Reg. 6,371,
+6,372 (Jan. 28, 1993). Under these conditions, there was no
+automatic exclusion for registered investment companies, or
+“RICs,” regulated by the Securities and Exchange Commission
+pursuant to the Investment Company Act of 1940, 15 U.S.C.
+§§ 80a-1 to -64. Therefore, a commodity pool operator that was
+also a registered investment company was included within
+CFTC’s regulatory definition of CPOs unless it met all of the
+§ 4.5 requirements for exclusion.
+
+     In 2000, Congress enacted the Commodity Futures
+Modernization Act of 2000, Pub. L. No. 106-554, 114 Stat.
+2763. That statute barred CFTC and SEC from regulating most
+“swaps,” a type of derivative involving the exchange of cash
+flows from financial instruments. See 7 U.S.C. § 2(d).
+Responsive to the statutory change, the Commission amended
+its requirements for exclusion to eliminate the five percent
+ceiling. See Additional Registration and Other Regulatory
+Relief for Commodity Pool Operators and Commodity Trading
+Advisors, 68 Fed. Reg. 47,221, 47,224 (Aug. 8, 2003). These
+2003 amendments “effectively excluded RICs from the CPO
+definition,” freeing registered investment companies from most
+CFTC CPO regulations. Investment Company Institute v. CFTC,
+891 F. Supp. 2d 162, 172 (D.D.C. 2013). CFTC viewed its 2003
+amendments as consistent with the deregulatory spirit of the
+2000 statute. See 68 Fed. Reg. at 47,223.
+
+     In 2010, the Commission began shifting back to a more
+stringent regulatory framework. This shift came in the wake of
+the 2007–2008 financial crisis, which many attributed to poorly
+regulated derivatives markets, when Congress passed the Dodd-
+Frank Wall Street Reform and Consumer Protection Act, Pub.
+                                5
+
+L. No. 111-203, 124 Stat. 1376 (2010) (codified as amended in
+scattered sections of the U.S. Code). As relevant here, Dodd-
+Frank repealed several statutory provisions that had excluded
+certain commodities transactions from CFTC oversight. Id.
+§§ 723, 734. Dodd-Frank also gave CFTC regulatory authority
+over swaps, and amended the statutory definition of commodity
+pool operators to include entities that trade swaps. Id. §§ 721(a),
+722. Dodd-Frank, however, did not affect CFTC’s authority to
+set exclusion requirements for CPOs.
+
+B. Rulemaking Process
+
+     After Congress passed Dodd-Frank, the National Futures
+Association (NFA), to which all CPOs must belong, filed a
+petition of rulemaking with CFTC requesting that CFTC amend
+§ 4.5 to limit the scope of its exclusion for registered investment
+companies. See Petition of the National Futures Association, 75
+Fed. Reg. 56,997 (Sept. 17, 2010). In NFA’s view, mutual
+funds were using the relaxed § 4.5 standards to evade CFTC
+oversight of their derivative operations, reducing transparency
+and potentially harming the public because no other regulator
+had rules equivalent to CFTC’s. See Investment Company
+Institute, 891 F. Supp. 2d at 175–76. Therefore, NFA asked
+CFTC to restore the trading threshold and public marketing
+prohibition requirements to § 4.5 for any registered investment
+company seeking exclusion from CPO status. See 75 Fed. Reg.
+at 56,998. In essence, NFA sought a return to the pre-2003
+regulatory framework, but only for registered investment
+companies.
+
+    On February 11, 2011, CFTC proposed new regulations that
+would amend § 4.5 “to reinstate the pre-2003 operating criteria”
+for all registered investment companies. Commodity Pool
+Operators and Commodity Trading Advisors: Amendments to
+Compliance Obligations, 76 Fed. Reg. 7,976, 7,984 (Feb. 11,
+                               6
+
+2011). One notable difference from the 2003 framework is that
+because of Dodd-Frank’s extension of CFTC authority to swaps,
+the regulations proposed that swaps be included in the trading
+thresholds. See id. at 7,989. The proposed regulations also
+required certified regular reports from CPOs, a requirement that
+would be contained in a new § 4.27. See id. at 7,978. CFTC
+provided four explanations for these proposed regulations: First,
+the regulations would align CFTC’s regulatory framework “with
+the stated purposes of the Dodd-Frank Act.” Id. Second, they
+would “encourage more congruent and consistent regulation of
+similarly situated entities among Federal financial regulatory
+agencies.” Id. Third, they would “improve accountability and
+increase transparency of the activities of CPOs” and commodity
+pools. Id. Fourth, they would make it easier to collect data for
+the Financial Stability Oversight Council (“FSOC”), a new body
+created by Dodd-Frank charged with “identify[ing] risks to the
+financial stability of the United States.” Id.; Dodd-Frank Act
+§ 112 (codified at 12 U.S.C. § 5322).
+
+      After the public comment period expired, CFTC
+promulgated a Final Rule amending § 4.5 and adding § 4.27
+largely as proposed. See Commodity Pool Operators and
+Commodity Trading Advisors: Compliance Obligations, 77 Fed.
+Reg. 11,252 (Feb. 24, 2012), as corrected due to Fed. Reg. errors
+in its original publication, 77 Fed. Reg. 17,328 (Mar. 26, 2012);
+see also 17 C.F.R. §§ 4.5, 4.27. The primary difference between
+the proposed rule and the Final Rule is that, to be eligible for
+exclusion, a RIC’s non-bona fide hedging trading must be less
+than or equal to five percent of the liquidation value of the
+entity’s portfolio, or the aggregate net notional value of such
+trading must be less than or equal to “100 percent of the
+liquidation value of the pool’s portfolio.” 77 Fed. Reg. at
+11,283. As the appellants do not directly challenge the
+aggregate net notional value threshold, we decline to define it
+further and fill the Federal Reporter with irrelevant financial
+                                 7
+
+lingo.
+
+     In its Final Rule, CFTC justified its decision to return to the
+pre-2003 regulatory framework on the basis of “changed
+circumstances [that] warrant revisions to these rules.” Id. at
+11,275. According to CFTC, the 2003 “system of exemptions
+was appropriate because [registered investment companies]
+engaged in relatively little derivatives trading.” Id. Since the
+2003 amendments, however, such companies have engaged in
+“increased derivatives trading activities” and “now offer[]
+services substantially identical to those of registered entities
+[that] are not subject to the same regulatory oversight.” Id.
+Given this changed circumstance, and Dodd-Frank’s “more
+robust mandate to manage systemic risk and to ensure safe
+trading practices by entities involved in the derivatives
+markets,” CFTC considered it necessary to narrow the
+exclusions from its derivatives regulation. Id. Following this
+rule change, RICs that do not satisfy the exclusion requirements
+must register with CFTC per § 4.5.
+
+     In adopting the heightened disclosure requirements, CFTC
+explained that “there currently is no source of reliable
+information regarding the general use of derivatives by
+registered investment companies.” Id. Such information would
+be useful to CFTC and FSOC in performing their statutory
+mandates of regulating commodities trading and identifying
+systemic financial risks. See id. at 11,281.
+
+     Several commenters called the Commission’s attention to
+possible inconsistencies with or redundancies to SEC
+compliance requirements. In response to those commenters, and
+concurrently with the issuance of the Final Rule, CFTC issued
+a notice of proposed rulemaking to harmonize CFTC and SEC’s
+compliance requirements. See Harmonization of Compliance
+Obligations for Registered Investment Companies Required To
+                               8
+
+Register as Commodity Pool Operators, 77 Fed. Reg. 11,345
+(Feb. 24, 2012). In this notice, CFTC stated that it may change
+certain disclosure requirements to harmonize them with SEC
+requirements but, importantly, it does not plan to change the
+new reporting requirements promulgated in the Final Rule and
+contained in 17 C.F.R. § 4.27. See id.; see also Investment
+Company Institute, 891 F. Supp. 2d at 183. The § 4.27 reporting
+requirements, however, are suspended for registered investment
+companies until CFTC and SEC promulgate a Final Rule on
+harmonization. See id. at 183–84.
+
+C. Procedural History
+
+     The Investment Company Institute and the Chamber of
+Commerce filed suit in the district court against CFTC, alleging
+that CFTC violated APA and CEA requirements in
+promulgating the amendments to § 4.5 and § 4.27. Investment
+Company Institute, 891 F. Supp. 2d at 184. The business
+associations moved for summary judgment, and CFTC cross-
+moved for summary judgment and moved to dismiss in part. Id.
+at 167. The district court granted CFTC’s motion to dismiss in
+part, ruling that the associations’ challenge to certain
+compliance obligations (other than those arising under § 4.27)
+was unripe because the Final Rule states that those obligations
+are subject to change during the harmonization process. Id. at
+205. The associations do not appeal that dismissal. The
+associations do, however, appeal the district court’s grant of
+summary judgment in favor of CFTC with regard to the other
+issues raised in the associations’ complaint.
+
+                      II. DISCUSSION
+
+     Federal Rule of Civil Procedure 56(a) provides that
+summary judgment is appropriate “if the movant shows that
+there is no genuine dispute as to any material fact and the
+                                 9
+
+movant is entitled to judgment as a matter of law.” Our review
+of a district court’s grant of summary judgment is de novo.
+Calhoun v. Johnson, 632 F.3d 1259, 1261 (D.C. Cir. 2011).
+There being no genuine dispute as to any material fact, the only
+question before us is whether CFTC is entitled to judgment as a
+matter of law. See Sherley v. Sebelius, 689 F.3d 776, 780 (D.C.
+Cir. 2012). Under the APA, we must “hold unlawful and set
+aside agency action, findings, and conclusions found to be . . .
+arbitrary, capricious, an abuse of discretion, or otherwise not in
+accordance with law.” 5 U.S.C. § 706(2). “Although the ‘scope
+of review under the “arbitrary and capricious” standard is
+narrow and a court is not to substitute its judgment for that of
+the agency,’ we must nonetheless be sure [CFTC] has
+‘examine[d] the relevant data and articulate[d] a satisfactory
+explanation for its action including a rational connection
+between the facts found and the choice made.’” Chamber of
+Commerce v. SEC, 412 F.3d 133, 140 (D.C. Cir. 2005) (quoting
+Motor Vehicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29, 43 (1983)).
+
+      Appellants contend that CFTC violated the APA in its
+rulemaking by: (1) failing to address its own 2003 rationales for
+broadening CPO exemptions; (2) failing to comply with the
+Commodity Exchange Act and offering an inadequate
+evaluation of the rule’s costs and benefits; (3) including swaps
+in the trading threshold, restricting its definition of bona fide
+hedging, and failing to justify the five percent threshold; and, (4)
+failing to provide an adequate opportunity for notice and
+comment. We address each contention in turn.
+
+A. Change in Agency Position
+
+     The appellants first contend that CFTC failed to explain
+why it changed from its more generous exemption requirements
+that had existed since 2003 to the more stringent requirements
+                                10
+
+contained in the Final Rule. Though it is true that the Final Rule
+stated that investment companies are increasing their
+participation in derivatives markets, the 2003 rule was explicitly
+designed to promote liquidity in the commodities markets by
+making it easier for registered investment companies to
+participate in derivatives markets. CFTC, according to the
+appellants, completely failed to address the liquidity issue, and
+therefore its change in position was arbitrary and capricious.
+
+     We disagree. An agency changing course “need not
+demonstrate to a court’s satisfaction that the reasons for the new
+policy are better than the reasons for the old one; it suffices that
+the new policy is permissible under the statute, that there are
+good reasons for it, and that the agency believes it to be better.”
+FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515 (2009).
+Appellants do not argue that the new rule is impermissible under
+CFTC’s statutory framework. Instead, appellants argue that
+CFTC had an obligation to address the rule’s impact on
+liquidity. But the APA imposes no heightened obligation on
+agencies to explain “why the original reasons for adopting the
+displaced rule or policy are no longer dispositive.” Id. at 514
+(internal quotation marks and citation omitted). So long as
+CFTC provided a reasoned explanation for its regulation, and
+the reviewing court can “reasonably . . . discern[]” the agency’s
+path, we must uphold the regulation, even if the agency’s
+decision has “less than ideal clarity.” Bowman Transp., Inc. v.
+Arkansas-Best Freight Sys., Inc., 419 U.S. 281, 286 (1974).
+
+     CFTC’s regulation clears this low bar. CFTC explicitly
+acknowledged that it was changing its position from its 2003
+rulemaking. The Final Rule detailed the changed circumstances
+that prompted CFTC to amend the rule, including increased
+derivatives trading by investment companies (an issue inherently
+tied to liquidity) and a perceived lack of market transparency
+that could lead to a buildup of systemic risk. See 77 Fed. Reg.
+                               11
+
+at 11,275, 11,277. It is clear that the Commission, in adopting
+the changes and the rule, was attempting to respond to those
+changed circumstances by adding registration and reporting
+requirements. As is clear from our discussion of the regulatory
+and statutory history above, the Commission’s requirements
+followed a congressional shift evidenced in the Dodd-Frank
+Act—legislation expressly relied upon by the Commission. See
+id. at 11,252. Such reasoned decisionmaking is an acceptable
+way to change CFTC’s past rules, cf. Fox, 556 U.S. at 517, the
+appellants’ policy disagreements with CFTC notwithstanding.
+The law requires no more.
+
+B. Cost-Benefit Analysis
+
+      Appellants next contend that CFTC failed to adequately
+consider the costs and benefits of the rule. The Commodity
+Exchange Act requires that CFTC “consider the costs and
+benefits” of its actions and “evaluate[]” those costs and benefits
+“in light of” five factors: “(A) considerations of protection of
+market participants and the public; (B) considerations of the
+efficiency, competitiveness, and financial integrity of futures
+markets; (C) considerations of price discovery; (D)
+considerations of sound risk management practices; and (E)
+other public interest considerations.” 7 U.S.C. § 19(a)(2). As
+a reviewing court, “[o]ur role is to determine whether the
+[agency] decision was based on a consideration of the relevant
+factors and whether there has been a clear error of judgment.”
+Center for Auto Safety v. Peck, 751 F.2d 1336, 1342 (D.C. Cir.
+1985) (internal quotation marks omitted) (quoting State Farm,
+463 U.S. at 43).
+
+     First, appellants argue that CFTC ignored existing SEC
+regulations that could provide the necessary information about
+investment companies’ activities in derivatives markets.
+Appellants point to two recent cases in which we vacated SEC
+                                12
+
+regulations because SEC had failed to address existing
+regulatory requirements to determine whether sufficient
+protections were already present. See Business Roundtable v.
+SEC, 647 F.3d 1144, 1154 (D.C. Cir. 2011); American Equity
+Inv. Life Ins. Co. v. SEC, 613 F.3d 166, 179 (D.C. Cir. 2010).
+According to the appellants, CFTC similarly failed to consider
+whether existing regulations made its proposed regulation
+unnecessary.
+
+       We are unconvinced. In its Final Rule, CFTC explicitly
+discussed SEC’s oversight in the derivatives markets: “In its
+recent concept release regarding the use of derivatives by
+registered investment companies, the SEC noted that although
+its staff had addressed issues related to derivatives on a case-by-
+case basis, it had not developed a ‘comprehensive and
+systematic approach to derivatives related issues.’” 77 Fed.
+Reg. at 11,255 (quoting Use of Derivatives by Investment
+Companies Under the Investment Company Act of 1940, 76
+Fed. Reg. 55,237, 55,239 (Sept. 7, 2011)). CFTC surveyed the
+existing regulatory landscape and concluded that it “is in the
+best position to oversee entities engaged in more than a limited
+amount of non-hedging derivatives trading.” Id.; see also id. at
+11,278. CFTC found that its registration and reporting
+requirements could fill gaps in current regulations, explaining
+that only it has the authority “to take punitive and/or remedial
+action against registered entities for violations of the CEA or of
+the Commission’s regulations.” Id. at 11,254. It explained how
+the new § 4.27 forms would collect information from entities
+registered under § 4.5 that would not otherwise be collected by
+SEC. See id. at 11,275. Further, CFTC issued a harmonization
+proposal to ensure that its rules do not duplicate or contradict
+SEC regulations. See 77 Fed. Reg. 11,345.
+
+    These explanations suffice to justify the marginal benefit
+of CFTC regulation of registered investment companies in the
+                                13
+
+derivatives markets, and distinguish this case from Business
+Roundtable and American Equity. In Business Roundtable, we
+vacated an SEC rule because SEC had “failed adequately to
+address whether the regulatory requirements of the [Investment
+Company Act] reduce the need for, and hence the benefit to be
+had from” additional regulations. 647 F.3d at 1154. In
+American Equity, we determined that SEC acted in an arbitrary
+and capricious manner because it completely failed to “assess
+the baseline level of price transparency and information
+disclosure under state law.” 613 F.3d at 178. In fact, SEC had
+stated that it considered state regulatory regimes “not relevant.”
+Id. As the district court rightly held, these cases are “plainly
+distinguishable” from the present case. Investment Company
+Institute, 891 F. Supp. 2d at 219. As the district court noted,
+unlike the SEC in the other two cases, “CFTC did consider
+whether RICs were otherwise regulated, and concluded that
+CFTC regulation was necessary” despite the existing SEC
+regime. Id. at 217. Moreover, CFTC issued a notice of
+proposed rulemaking for a harmonization, the entire purpose of
+which was to synchronize SEC and CFTC regulations, further
+distinguishing this case from American Equity and Business
+Roundtable.
+
+      Appellants next argue that CFTC, by engaging in a multi-
+step rulemaking with some regulations becoming final now and
+other regulations becoming final only after harmonization with
+SEC regulations, made it impossible to determine the costs and
+benefits of its rule. The thrust of the appellants’ argument is that
+CFTC counted benefits that may not materialize and depend on
+the harmonization rule while ignoring costs that may result from
+that rule.
+
+    We again reject the appellants’ argument. In its Final Rule,
+CFTC explicitly listed and analyzed the five statutory factors
+that it must take into account when “consider[ing]” and
+                                  14
+
+“evalulat[ing]” the costs and benefits of a rule. 7 U.S.C. § 19(a);
+see 77 Fed. Reg. at 11,275–83. It had no obligation to consider
+hypothetical costs that may never arise. The statute only
+requires the Commission to address costs and benefits “[b]efore
+promulgating a regulation.” 7 U.S.C. § 19(a)(1). CFTC stated
+that it had not finalized several disclosure requirements (not
+including the requirements in § 4.27) and would not do so until
+after harmonization. See 77 Fed. Reg. 11,345. We see at least
+two good reasons that CFTC need not count costs from these
+potential disclosure requirements. First, the statute does not
+mandate it, and second, it would be quite literally impossible to
+calculate the costs of an unknown regulation. And as the
+Supreme Court has emphasized, “[n]othing prohibits federal
+agencies from moving in an incremental manner.” Fox, 556
+U.S. at 522. CFTC counsel correctly stated at oral argument that
+CFTC must consider and evaluate the costs and benefits of its
+harmonization rulemaking during that rulemaking, and the
+appellants can challenge that rule when it is finalized. See Oral
+Arg. Recording at 33:30–34:30. As the district court opined,
+“The time for any challenge to any new compliance obligations
+is when the final harmonization rule has been released and the
+nature of those obligations is clear.” Investment Company
+Institute, 891 F. Supp. 2d at 205.
+
+      The appellants also assert that the agency improperly
+counted hypothetical benefits, but this assertion is incorrect. It
+was appropriate for CFTC to count the benefits flowing from its
+registration and disclosure requirements in § 4.5 and § 4.27, as
+the specifics of those requirements are finalized and not subject
+to the harmonization rule.1 The appellants further complain that
+
+
+        1
+         Unlike the cost posited by the appellants as unconsidered, the
+benefits upon which the Commission relies are not hypothetical. The
+Commission’s analysis relies upon the benefits as being established in
+the ungarnished application of § 4.5 and § 4.27, not in the
+                                15
+
+CFTC failed to put a precise number on the benefit of data
+collection in preventing future financial crises. But the law does
+not require agencies to measure the immeasurable. CFTC’s
+discussion of unquantifiable benefits fulfills its statutory
+obligation to consider and evaluate potential costs and benefits.
+See Fox, 556 U.S. at 519 (holding that agencies are not required
+to “adduce empirical data that” cannot be obtained). Where
+Congress has required “rigorous, quantitative economic
+analysis,” it has made that requirement clear in the agency’s
+statute, but it imposed no such requirement here. American
+Financial Services Ass’n v. FTC, 767 F.2d 957, 986 (D.C. Cir.
+1985); cf., e.g., 2 U.S.C. § 1532(a) (requiring the agency to
+“prepare a written statement containing . . . a qualitative and
+quantitative assessment of the anticipated costs and benefits”
+that includes, among other things, “estimates by the agency of
+the [rule’s] effect on the national economy”).
+
+     Finally, the appellants argue that CFTC failed to consider
+the relevant costs and benefits of its rule because it had not yet
+adopted a definition of swaps and it did not obtain some market
+data suggested by commenters. But Dodd-Frank includes a
+detailed definition of “swap,” see 7 U.S.C. § 1a(47). Further,
+CFTC stated in a previous proposed rulemaking that “extensive
+further definition of the term[] by rule is not necessary.” Joint
+Proposed Rule, Further Definition of “Swap,” 76 Fed. Reg.
+29,818, 29,821 (May 23, 2011) (internal quotation marks
+omitted). Given that the Commission explained the lack of need
+for significant additions to the definition in Dodd-Frank, it was
+not arbitrary or capricious for it to view any costs resulting from
+the lack of a CFTC regulation defining “swap” as minimal. In
+
+
+harmonization rule. Of course if it should materialize that the
+harmonization in some fashion destroys those benefits, appellants
+would then be free to raise the resulting imbalance of costs and
+benefits in a challenge to the harmonization rule.
+                                16
+
+any event, in light of a final rule defining “swap” in essentially
+the same way as Dodd-Frank, see Further Definition of “Swap,”
+77 Fed. Reg. 48,208 (Aug. 13, 2012), the appellants can show no
+“prejudicial error.” 5 U.S.C. § 706.
+
+     The appellants also fail to show that CFTC’s refusal to
+gather additional market data as suggested by commenters was
+arbitrary or capricious. CFTC acknowledged that its data was
+limited in some respects, see 77 Fed. Reg. at 11,278, but that is
+true in practically any regulatory endeavor. CFTC adequately
+considered the costs and benefits of the rule given this
+uncertainty, explaining that the commenters provided no data
+that “would warrant deviation” from the proposed rule, given the
+rule’s “costs and benefits.” Id. CFTC went on to explain that
+“[t]hese data limitations are one reason why the Commission is
+pursuing additional data collection initiatives under these final
+rules.” Id. at 11,278 n.229. In essence, the appellants are
+challenging the very method for obtaining the data they want on
+the ground that CFTC has not yet obtained the data they want.
+But neither the APA nor the CEA imposes such a catch-22 on
+CFTC. We hold that CFTC’s consideration and evaluation of
+the rule’s costs and benefits was not arbitrary or capricious.
+
+C. The Rule’s Particulars
+
+     The appellants challenge three particular aspects of the
+Final Rule. The first is CFTC’s decision to include swap
+transactions in the registration threshold, which has the effect of
+requiring more investment companies to register pursuant to
+§ 4.5. The appellants claim that this decision was arbitrary and
+capricious because Dodd-Frank implemented a separate
+reporting framework with regard to swaps. Appellants contend
+that one of CFTC’s responses to this claim, that participation in
+swaps would trigger the registration requirement even if CFTC
+                               17
+
+based its threshold only on futures and options, is irrational and
+obviously incorrect.
+
+     Though we agree that this particular response offers “less
+than ideal clarity,” CFTC gave sufficient other explanations for
+including swap trades in the § 4.5 trading threshold that we can
+“reasonably . . . discern[]” its rationale. Bowman, 419 U.S. at
+286. The Final Rule explained that “[t]he Dodd-Frank Act
+amended the statutory definition of the terms ‘commodity pool
+operator’ and ‘commodity pool’ to include those entities that
+trade swaps,” evidencing that swaps were a central concern of
+the statute. 77 Fed. Reg. at 11,258. The rule further explained
+that CFTC would use information obtained “from CPOs
+transacting in swaps” to “help to bring transparency to the swaps
+markets, as well as to the interaction of swaps and futures
+markets, protecting the participants in both markets from
+potentially negative behavior.” Id. at 11,283. Given these
+goals, it was not arbitrary or capricious to include swaps in the
+§ 4.5 trading threshold.
+
+      The second aspect of the rule challenged by the appellants
+is its definition of bona fide hedging transactions, a definition
+that the appellants claim is too narrow and should encompass
+risk management strategies in financial markets. This argument
+amounts to nothing more than another policy disagreement with
+CFTC, so we must reject it. CFTC adequately explained that it
+was rejecting the broader “risk management” definition because
+“bona fide hedging transactions are unlikely to present the same
+level of market risk [as risk management transactions] as they
+are offset by exposure in the physical markets.” Id. at 11,256.
+It also found that the risk management definition would be
+difficult to “properly limit” and make its exclusion “onerous to
+enforce.” Id. Given the deference appropriate to such expert
+determinations, we reject the appellants’ challenge to this aspect
+of the rule. See Rural Cellular Ass’n v. FCC, 588 F.3d 1095,
+                               18
+
+1105 (D.C. Cir. 2009) (“The ‘arbitrary and capricious’ standard
+is particularly deferential in matters implicating predictive
+judgments . . . .”).
+
+     We further reject the appellants’ contention that this aspect
+of the rule must be vacated because the bona fide hedging
+definition was cross-referenced to another rule that was recently
+vacated. See Int’l Swaps & Derivatives Ass’n v. CFTC, 887 F.
+Supp. 2d 259 (D.D.C. 2012). The decision vacating the cross-
+referenced rule had nothing to do with the bona fide exception
+in this rule, and the fact that the definition here was cross-
+referenced instead of reproduced does not make it automatically
+invalid.
+
+     The third and final particular aspect of the rule challenged
+by the appellants is the five percent registration threshold for
+§ 4.5, which the appellants argue is too low. Our cases explain
+the appropriate deference given to these types of agency
+determinations:
+
+     It is true that an agency may not pluck a number out of thin
+     air when it promulgates rules in which percentage terms
+     play a critical role. When a line has to be drawn, however,
+     [CFTC] is authorized to make a rational legislative-type
+     judgment. If the figure selected by the agency reflects its
+     informed discretion, and is neither patently unreasonable
+     nor a dictate of unbridled whim, then the agency’s decision
+     adequately satisfies the standard of review.
+
+WJG Telephone Co. v. FCC, 675 F.2d 386, 388–89 (D.C. Cir.
+1982) (internal quotation marks and citations omitted). CFTC
+offered a reasoned explanation for its choice of five percent,
+finding that “trading exceeding five percent of the liquidation
+value of a portfolio evidences a significant exposure to the
+derivatives markets.” 77 Fed. Reg. at 11,278. According to the
+                               19
+
+Final Rule, the five percent threshold is appropriate because “it
+is possible for a commodity pool to have a portfolio that is
+sizeable enough that even if just five percent of the pool’s
+portfolio were committed to margin for futures, the pool’s
+portfolio could be so significant that the commodity pool would
+constitute a major participant in the futures market.” Id. at
+11,262 (quoting 76 Fed. Reg. at 7,985). We defer to CFTC’s
+judgment and hold that adopting the five percent threshold was
+neither arbitrary nor capricious.
+
+D. Notice and Comment
+
+      Finally, appellants contend that CFTC failed to provide
+adequate opportunity for notice and comment both because the
+proposal’s cost-benefit discussion did not set out the basis for
+the Final Rule’s analysis and because CFTC did not give
+commenters notice of the seven-factor marketing test. We
+disagree. The APA requires “reference to the legal authority
+under which the rule is proposed” and “either the terms or
+substance of the proposed rule or a description of the subjects
+and issues involved.” 5 U.S.C. § 553(b). The proposed rule
+included a separate section entitled “Cost-Benefit Analysis” that
+gave adequate notice of CFTC’s approach to the cost-benefit
+analysis by setting forth the factors that CFTC would consider
+and summarizing expected costs and benefits. See 76 Fed. Reg.
+at 7,988.
+
+     As for the seven-factor marketing test, no notice and
+comment was required. The APA’s notice-and-comment
+provision does not apply to “general statements of policy,” 5
+U.S.C. § 553(b)(3)(A), and the seven factors were included in
+the rule only as guidance. See 77 Fed. Reg. at 11,258–59. The
+rule explicitly states that CFTC “will determine whether a
+violation of the marketing restriction exists on a case by case
+basis through an examination of the relevant facts.” Id. at
+                                20
+
+11,259. Even if these factors were not included as a mere
+statement of policy, the appellants do not even attempt to show
+that any prejudice resulted from this failure to provide notice, as
+they must to succeed on such a claim. See 5 U.S.C. § 706;
+American Coke & Coal Chemicals Institute v. EPA, 452 F.3d
+930, 939 (D.C. Cir. 2006).
+
+                     III. CONCLUSION
+
+     For the foregoing reasons, the decision of the district court
+is
+
+                                                        Affirmed.
+

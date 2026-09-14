@@ -180,3 +180,6 @@ validation_results.csv
 
 # RegChallenger — large/raw data not used by the dashboard
 data/*.xlsx
+
+# Claude local tool settings
+.claude/

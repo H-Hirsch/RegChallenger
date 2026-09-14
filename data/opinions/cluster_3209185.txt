@@ -1,0 +1,758 @@
+`United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+
+Argued February 22, 2016             Decided June 3, 2016
+
+                       No. 14-1210
+
+               STATE OF NEW YORK, ET AL.,
+                      PETITIONERS
+
+                            v.
+
+    U.S. NUCLEAR REGULATORY COMMISSION AND UNITED
+                  STATES OF AMERICA,
+                     RESPONDENTS
+
+       COMMONWEALTH OF MASSACHUSETTS, ET AL.,
+                  INTERVENORS
+
+
+
+       Consolidated with 14-1212, 14-1216, 14-1217
+
+
+
+            On Petitions for Review of an Order
+    of the United States Nuclear Regulatory Commission
+
+
+
+    Andrew W. Amend, Senior Assistant Solicitor General,
+Office of the Attorney General for the State of New York,
+argued the cause for petitioners State of New York, et al.
+With him on the briefs were Eric T. Schneiderman, Attorney
+                             2
+General, John J. Sipos, Kathryn M. DeLuca, Laura E. Heslin,
+Assistant Attorneys General, Barbara D. Underwood,
+Solicitor General, Anisha S. Dasgupta, Deputy Solicitor
+General, Monica Wagner, Deputy Bureau Chief, Maura
+Healy, Attorney General, Office of the Attorney General for
+the Commonwealth of Massachusetts, Seth Schofield,
+Assistant Attorney General, Joseph F. Halloran, George
+Jepsen, Attorney General, Office of the Attorney General for
+the State of Connecticut, Robert D. Snook, Assistant Attorney
+General, William H. Sorrell, Attorney General, Office of the
+Attorney General for the State of Vermont, and Kyle H.
+Landis-Marinello, Assistant Attorney General. Melissa A.
+Hoffer, Assistant Attorney General, Office of the Attorney
+General for the Commonwealth of Massachusetts, entered an
+appearance.
+
+    Kevin W. Bell was on the brief for amicus curiae The
+California State Energy Resources Conservation and
+Development Commission in support of petitioners State of
+New York, et al.
+
+     Geoffrey H. Fettus argued the cause for petitioners
+Natural Resources Defense Council, Inc., et al. With him on
+the briefs were Diane Curran and Mindy Goldstein.
+
+     Wallace L. Taylor was on the brief for amicus curiae
+Sierra Club in support of petitioners.
+
+    Andrew P. Averbach, Solicitor, U.S. Nuclear Regulatory
+Commission, argued the cause for federal respondents. With
+him on the brief were John C. Cruden, Assistant Attorney
+General, U.S. Department of Justice, John E. Arbab,
+Attorney, Robert M. Rader, Senior Attorney, U.S. Nuclear
+Regulatory Commission, and Michelle D. Albert, Attorney.
+Charles E. Mullins, Senior Attorney, entered an appearance.
+                              3
+
+    David A. Repka argued the cause for intervenor-
+respondents. With him on the brief were Ellen C. Ginsberg,
+Jonathan M. Rund, Brad Fagg, Jay E. Silberg, and Kimberly
+A. Harshaw.
+
+   Before: KAVANAUGH, Circuit Judge, and EDWARDS and
+SENTELLE, Senior Circuit Judges.
+
+   Opinion for the Court filed by Senior Circuit Judge
+SENTELLE.
+
+     SENTELLE, Senior Circuit Judge: Several states, a Native
+American community, and numerous environmental
+organizations have filed petitions for review of a rule and
+generic environmental impact statement promulgated by the
+Nuclear Regulatory Commission (the “NRC”), concerning the
+continued, and possibly indefinite, storage of spent fuel from
+nuclear power plants in the United States. The petitioners
+argue that the NRC fails to comply with its obligations under
+the National Environmental Policy Act (“NEPA”), 42 U.S.C.
+§ 4321 et seq. Specifically, the petitioners contend that the
+NRC did not consider alternatives to and mitigation measures
+for the continued storage of spent nuclear fuel, miscalculated
+the impacts of continued storage, and relied on unreasonable
+assumptions in its environmental impact statement. Because
+we hold that the NRC did not engage in arbitrary or
+capricious decision-making, we deny the petitions for review.
+
+I.   BACKGROUND
+
+    The United States has committed to the development of
+nuclear energy, yet to-date it lacks a permanent solution for
+one consequence of that commitment—the generation of
+spent nuclear fuel, which “poses a dangerous, long-term
+                               4
+health and environmental risk.” New York v. NRC (New York
+I), 681 F.3d 471, 474 (D.C. Cir. 2012). This case is not the
+first, nor even the second, time that concerned parties have
+petitioned this Court to address the spent-nuclear-waste
+problem. See, e.g., Minnesota v. NRC, 602 F.2d 412, 413,
+418-19 (D.C. Cir. 1979) (remanding the NRC’s decision to
+expand “on-site capacity for the storage of spent nuclear fuel
+assemblies” in light of “[t]he complex and vexing question of
+the disposal of nuclear wastes”); New York I, 681 F.3d at 483
+(vacating the NRC’s rule governing the temporary storage of
+spent nuclear fuel); see also In re Aiken Cnty., 645 F.3d 428,
+430 (D.C. Cir. 2011) (considering a challenge to the
+Department of Energy’s attempt to withdraw its application
+for a permanent repository for spent nuclear fuel); Ind. Mich.
+Power Co. v. DOE, 88 F.3d 1272, 1277 (D.C. Cir. 1996)
+(requiring the Department of Energy to fulfill its contractual
+obligations to dispose of spent nuclear fuel generated by
+operators of civilian nuclear power plants).
+
+     In light of this extensive history, we provide only an
+overview of the spent-nuclear-fuel issue. The so-called
+“nuclear fuel cycle” consists of three primary phases. See
+Blue Ribbon Commission on America’s Nuclear Future,
+Report to the Secretary of Energy 9-11 (2012) [hereinafter
+BRC Report]. First, “uranium is mined and processed into
+fuel for use in a nuclear reactor.” Id. at 9. Second, nuclear
+plants use the uranium fuel. Id. Third, spent fuel, even if
+reprocessed, ultimately must be sent for disposal. Id. The
+term “nuclear fuel cycle” is therefore somewhat of a
+misnomer; “every foreseeable approach to the nuclear fuel
+cycle still requires a means of disposal that assures the very
+long-term isolation of radioactive wastes from the
+environment.” Id. at 11. And “virtually all spent fuel[]
+remain[s] radioactive for thousands of years . . . .” Id. at 14.
+                                5
+     Congress passed the Nuclear Waste Policy Act of 1982
+for the purpose of “establish[ing] a schedule for the siting,
+construction, and operation of repositories that will provide a
+reasonable assurance that the public and the environment will
+be adequately protected from the hazards posed by high-level
+radioactive waste and . . . spent nuclear fuel . . . .” Pub. L.
+No. 97-425, § 111(b)(1), 96 Stat. 2201, 2207 (codified at 42
+U.S.C. § 10131(b)(1)). In 2008, after nearly two decades of
+regulatory and political discord, the Department of Energy
+sought construction authorization from the NRC to establish a
+repository at Yucca Mountain in Nevada. See In re Aiken
+Cnty., 645 F.3d at 431-32. But a change in the presidential
+administration brought with it a shift in nuclear energy policy,
+and in 2010 the Department of Energy withdrew its
+application. Id. at 432. Our characterization in New York I of
+the nation’s spent-fuel-storage policy still rings true today:
+“[a]t this time, there is not even a prospective site for a
+repository, let alone progress toward the actual construction
+of one.” 681 F.3d at 474.
+
+     Absent a permanent repository, the majority of spent
+nuclear fuel remains stored on-site at reactors. BRC Report,
+supra, at 14; see also New York I, 681 F.3d at 474. After
+removal from a reactor, “spent fuel is transferred to a deep,
+water-filled pool . . . for at least five years” in order to cool.
+BRC Report, supra, at 11. Once the spent nuclear fuel has
+“cooled sufficiently in wet storage [i.e., a pool], it may be
+transferred to dry storage[,]” which “generally consist[s] of a
+fuel storage grid placed within a steel inner container and a
+concrete and steel outer container[,]” also known as a “dry
+cask.” Id. “Most [spent nuclear fuel], however, will remain
+in spent-fuel pools until a permanent disposal solution is
+available.” New York I, 681 F.3d at 474.
+                               6
+     From 1984 until this Court’s decision in New York I, the
+NRC relied on a “Waste Confidence Decision” in order to
+assess the risk of on-site storage of spent nuclear fuel and the
+likelihood that a permanent off-site storage solution will be
+available. Id. at 474-75 (citing Minnesota v. NRC, 602 F.2d at
+418). In New York I, we vacated the 2010 update to the
+NRC’s Waste Confidence Decision and its Temporary
+Storage Rule governing the storage of spent nuclear fuel. Id.
+at 483. In support of the Waste Confidence Decision and the
+Temporary Storage Rule, the NRC prepared an environmental
+assessment (“EA”) with a finding of no significant impact.
+Id. at 476. We held that the NRC’s analysis was deficient
+because: (1) the Waste Confidence Decision “did not examine
+the environmental effects of failing to establish a repository”;
+(2) the NRC “failed to properly examine the risk of [pool]
+leaks in a forward-looking fashion”; and (3) the NRC “failed
+to examine the potential consequences of pool fires” in
+addition to the probabilities that such fires might occur. Id. at
+478-79.
+
+     In response to our New York I decision, the NRC altered
+its approach to the continued storage of spent nuclear fuel.
+Instead of relying on an EA with a finding of no significant
+impact, the NRC prepared a Generic Environmental Impact
+Statement (“GEIS”) and proposed a Continued Storage Rule
+(the “Rule”) to codify its analysis of the effects of continued
+on-site storage of spent nuclear fuel. See 79 Fed. Reg. 56,238
+(2014) (Continued Storage Rule); 79 Fed. Reg. 56,263 (2014)
+(notice of GEIS); J.A. 263-1560 (GEIS). The stated purpose
+of the Rule “is to preserve the efficiency of the NRC’s
+licensing process by adopting into the NRC’s regulations the
+Commission’s generic determinations of the environmental
+impacts of the continued storage of spent nuclear
+fuel . . . beyond the licensed life for operations of a
+reactor . . . .” 79 Fed. Reg. at 56,239. The Rule incorporates
+                               7
+the findings of the GEIS into all future reactor licensing
+proceedings and precludes reconsideration of those findings
+absent a waiver under 10 C.F.R. § 2.335. See 10 C.F.R.
+§ 51.23(b); 79 Fed. Reg. at 56,243.
+
+     The petitioners in this case, a group of states and a Native
+American community (collectively, the “States”) along with a
+group of environmental organizations (collectively, the
+“NRDC”), submitted comments to both the GEIS and the
+Rule. The petitioners now challenge the Rule and the GEIS
+on the basis that the NRC failed to comply with NEPA. Cf.
+42 U.S.C. § 4332(C) (detailing NEPA’s requirements for an
+environmental impact statement). They request that we
+vacate the Rule and the GEIS and remand to the NRC for
+further proceedings.
+
+    Because we hold that the NRC did not engage in arbitrary
+or capricious decision-making, see 5 U.S.C. § 706(2)(A), we
+deny the petitions for review.
+
+II. ANALYSIS
+
+     The States and the NRDC raise a panoply of challenges
+to the NRC’s Rule and the GEIS. First, the petitioners
+contend that the Rule is a major federal action that requires
+consideration of alternatives and mitigation measures to
+reactor licensing. Second, they dispute the NRC’s assessment
+of the environmental impacts of the continued storage of
+spent nuclear fuel, asserting: (a) failure to employ
+conservative     bounding     estimates;      (b)     inadequate
+determination of the probability of failure to site a permanent
+geologic repository; (c) insufficient assessment of the
+cumulative impacts of the continued storage of spent nuclear
+fuel; and (d) unjustified dismissal of the risks of short-term,
+high-volume pool leaks. Relatedly, the petitioners challenge
+                               8
+as “illusory” the NRC’s process for granting a petition for
+waiver of the Rule in site-specific licensing proceedings.
+Finally, the petitioners characterize several of the NRC’s
+underlying assumptions in the GEIS as unreasonable. We
+hold that none of these arguments is persuasive and deny the
+petitions.
+
+       A. THE NRC APPROPRIATELY CHARACTERIZED ITS
+          RULE AND CONSIDERED ALTERNATIVES AND
+          MITIGATION MEASURES
+
+     The parties disagree over the proper characterization of
+the NRC’s Rule. According to the NRC, the Rule “codif[ies]
+its generic determinations regarding the environmental
+impacts of continued storage of spent fuel at-reactor, or away-
+from-reactor sites beyond a reactor’s licensed life for
+operation.” 79 Fed. Reg. at 56,241. The NRC contends that
+“the Rule is not a licensing action . . . .” NRC’s Br. 16. The
+States and the NRDC respond that the federal action at issue
+is reactor licensing. See States’ Br. 44; NRDC’s Br. 20. And
+because licensing is indisputably a “major Federal action[]”
+under NEPA, 42 U.S.C. § 4332(C), the States and the NRDC
+argue that the NRC was required to prepare a complete
+environmental impact statement (“EIS”), including a
+consideration of alternatives and mitigation measures for the
+continued storage of spent fuel. See 42 U.S.C. § 4332(C)
+(“[M]ajor Federal actions significantly affecting the quality of
+the human environment” require an EIS or its equivalent.);
+see also NRDC v. NRC, -- F.3d --, No. 14-1225, 2016 WL
+1639661, at *1 (D.C. Cir. Apr. 26, 2016) (same). We agree
+with the NRC and hold that, while the Rule is a “major
+Federal action” under NEPA, the NRC complied with its
+NEPA obligations by preparing the GEIS. Because the Rule
+is not a licensing action, the NRC need not have considered
+                                9
+the alternatives to licensing in the GEIS. We therefore deny
+the petitions for review on this issue.
+
+     Under NEPA, an agency must consider both the
+environmental impacts of a proposed action and alternatives
+to that action. See 42 U.S.C. § 4332(C). Part of the
+alternatives analysis includes review of measures available to
+mitigate adverse effects. See 40 C.F.R. §§ 1508.25(b),
+1502.14(f). “[W]e review both an agency’s definition of its
+objectives and its selection of alternatives under the ‘rule of
+reason.’ . . . That is, as long as the agency ‘look[s] hard at the
+factors relevant to the definition of purpose,’ we generally
+defer to the agency’s reasonable definition of objectives.”
+Theodore Roosevelt Conservation P’ship v. Salazar
+(Theodore Roosevelt II), 661 F.3d 66, 73 (D.C. Cir. 2011)
+(quoting Citizens Against Burlington, Inc. v. Busey, 938 F.2d
+190, 196 (D.C. Cir. 1991)) (alteration in original).
+Furthermore, “NEPA does not require agencies to discuss any
+particular mitigation plans that they might put in place, nor
+does it require agencies—or third parties—to effect any.”
+Theodore Roosevelt Conservation P’ship v. Salazar
+(Theodore Roosevelt I), 616 F.3d 497, 503 (D.C. Cir. 2010)
+(citation and internal quotation marks omitted).
+
+     Our decision in New York I compels the result that the
+NRC’s Rule is a major federal action requiring the
+preparation of either an environmental assessment with a
+finding of no significant impact or an environmental impact
+statement. See 681 F.3d at 476. Like the NRC’s prior Waste
+Confidence Decision and Temporary Storage Rule, the NRC’s
+Rule in this case “ha[s] a preclusive effect in all future
+licensing decisions . . . .” Id. But unlike in New York I, the
+NRC has done exactly what NEPA requires for major federal
+actions; it prepared an environmental impact statement. See
+id.; 42 U.S.C. § 4332(C); 40 C.F.R. § 1502.3. So long as that
+                              10
+environmental impact statement complies with NEPA, and we
+hold that it does, no more is required.
+
+     The face of the NRC’s Rule also makes it clear that it is
+not a licensing action. To the contrary, the Rule “codif[ies]
+[the NRC’s] generic determinations regarding the
+environmental impacts of continued storage of spent fuel at-
+reactor, or away-from-reactor sites beyond a reactor’s
+licensed life for operation.” 79 Fed. Reg. at 56,241. “[T]he
+rule does not authorize the storage of spent fuel at any site
+[and] . . . reflects only the generic environmental analysis for
+the period of spent fuel storage beyond a reactor’s licensed
+life for operation and before disposal in a repository.” Id. at
+56,243. Because the GEIS is only an input for future site-
+specific reactor licensing and does not itself impose
+regulatory requirements on reactors, the NRC need not have
+considered the alternative of ceasing licensing in the GEIS.
+The NRC instead analyzes that alternative during site-specific
+licensing proceedings. See J.A. 1040 (“The alternative of not
+issuing or not renewing a nuclear power plant license is
+considered during the site-specific review of an individual
+license application.”). The NRC did consider alternatives for
+the only action it took in the Rule—i.e., incorporating the
+GEIS into future licensing proceedings. See J.A. 338-43.
+
+     Furthermore, contrary to the petitioners’ claims, the GEIS
+discusses mitigation measures for pool fires, J.A. 1240-41,
+1284-85, and pool leaks, including short-term, high-volume
+leaks, J.A. 838, 1394-96. It also evaluates measures such as
+the expedited transfer of spent fuel to dry storage casks, J.A.
+973-74, 1454-55, limiting the use of high-burnup fuel, J.A.
+912-19, 1246, 1258, 1339, and implementing hardened on-site
+storage, J.A. 1458. We find nothing in the GEIS to indicate
+that the NRC went astray of NEPA’s rule of reason.
+Regardless, because mitigation is equally relevant during the
+                               11
+life of a licensed reactor as it is during decommissioning, the
+NRC can defer consideration of such measures to site-specific
+review. See Public Utils. Comm’n of Cal. v. FERC, 900 F.2d
+269, 282-83 (D.C. Cir. 1990) (“[T]he Commission’s deferral
+of decision on specific mitigation steps until the start of
+construction, when a more detailed right-of-way would be
+known, was both eminently reasonable and embraced in the
+procedures promulgated under NEPA.”). Regardless, “NEPA
+does not require agencies to discuss any particular mitigation
+plans that they might put in place.” Theodore Roosevelt I,
+616 F.3d at 503 (citation and internal quotation marks
+omitted).
+
+     Our holding with respect to this issue is consistent with
+our decision in New York I. In that case, we held that the
+NRC’s prior Waste Confidence Decision was “a major federal
+action requiring either a [finding of no significant impact] or
+an EIS.” 681 F.3d at 476. Although we described the Waste
+Confidence Decision as “a pre-determined ‘stage’ of each
+licensing decision,” id., nowhere did we conclude that the
+NRC undertook licensing with its waste confidence
+rulemaking. The Rule in this case is likewise a major federal
+action because it has a preclusive effect on future licensing
+proceedings. See 10 C.F.R. § 51.23(b). But the proposition
+that all licensing actions are major federal actions does not
+imply its converse. When the NRC does make a licensing
+decision in partial reliance on the GEIS, it must at that time
+ensure that it has fully complied with NEPA. See 42 U.S.C.
+§ 4332(C); cf. 40 C.F.R. § 1502.14 (delineating the
+requirements for including alternatives in the EIS); Ctr. for
+Sustainable Economy v. Jewell, 779 F.3d 588, 599-600 (D.C.
+Cir. 2015) (noting that the obligation to comply with NEPA
+“do[es] not mature until . . . there [has] been an irreversible
+and irretrievable commitment of resources” by the agency
+(citation and internal quotation marks omitted) (first alteration
+                               12
+in original)). The NRC acknowledges as much. See Oral
+Arg. Rec. 40:43-41:40 (statements by the NRC that the
+decision whether to issue a license is site-specific and that the
+agency will consider mitigation measures and alternatives at
+that time). At this stage, we take the NRC at its word. But
+should the agency fail to consider a necessary aspect of the
+problem during site-specific proceedings, the parties might be
+able to challenge the final licensing decision. See, e.g.,
+Massachusetts v. NRC, 924 F.2d 311, 315 (D.C. Cir. 1991)
+(adjudicating consolidated petitions for review of “the
+[NRC’s] licensing of Seabrook Nuclear Power Station”); York
+Comm. for a Safe Env’t v. NRC, 527 F.2d 812, 813 (D.C. Cir.
+1975) (considering a challenge to “a final decision . . . to
+grant a license . . . for operation of a light-water-cooled
+nuclear reactor to be used for generating electricity”).
+
+    We therefore deny the petitions for review on this issue.
+
+       B. THE GEIS SUFFICIENTLY ANALYZES THE
+          IMPACTS OF CONTINUED STORAGE OF SPENT
+          NUCLEAR FUEL
+
+               1. The GEIS Thoroughly Considers
+                  Essentially Common Risks to Reactor
+                  Sites
+     The States argue that the NRC could not generically
+analyze the impacts of the continued storage of spent nuclear
+fuel because it failed to employ “conservative bounding
+assumptions” in the GEIS, particularly with regard to
+estimating the risks of pool fires and pool leaks. Specifically,
+the States contend that the NRC based its environmental
+impact determinations on data from two reactor sites—one in
+Surry, Virginia, and another near Lake Michigan. According
+to the States, neither plant captures the full range of risks
+across the country because the population density near the
+                              13
+Surry plant is 300 people per square mile, and the density near
+the Lake Michigan plant is 860 people per square mile. See
+J.A. 862-63, 868, 870. Because the GEIS ignores population-
+wide effects and the impacts at atypical sites, the States posit
+that the NRC must consider these impacts on a site-specific
+basis.
+
+     We noted in New York I that “[b]oth the Supreme Court
+and this court have endorsed the [NRC’s] longstanding
+practice of considering environmental issues through general
+rulemaking in appropriate circumstances.” 681 F.3d at 480.
+We also stated that “we see no reason that a comprehensive
+general analysis would be insufficient to examine on-site risks
+that are essentially common to all plants.” Id. Furthermore,
+“whether the analysis is generic or site-by-site, it must be
+thorough and comprehensive,” id. at 481, and we are “most
+deferential” to the “NRC’s technical judgments and
+predictions . . . [,]” Blue Ridge Env’tl Def. League v. NRC,
+716 F.3d 183, 195 (D.C. Cir. 2013) (citation and internal
+quotation marks omitted). While we acknowledged in New
+York I that a generic analysis of impacts is “particularly”
+appropriate when the NRC utilizes “conservative bounding
+assumptions and the opportunity for concerned parties to raise
+site-specific differences at the time of a specific site’s
+licensing,” we did not make those factors essential. 681 F.3d
+at 480. Instead, the cornerstone of our holding was that the
+NRC may generically analyze risks that are “essentially
+common” to all plants so long as that analysis is “thorough
+and comprehensive.”
+
+     In this case, we are convinced that the NRC has met that
+standard. True, the NRC’s analysis is not “bounding” in a
+strict sense. For example, in assessing the risks of pool fires,
+the GEIS relies on seismic data that covers “about 70 percent”
+of reactor sites. J.A. 870. This data therefore does not
+                              14
+“bound” the environmental impacts of spent fuel storage but
+instead approximates the variance in harms. For pool leaks,
+the NRC provides a high-level analysis of spent fuel
+discharges but neglects any estimate of the expected errors for
+its input variables, instead averring to specific “low” values
+for these parameters. See J.A. 849. Furthermore, the GEIS
+attempts to justify its reliance on data from the Surry and
+Lake Michigan plants by noting that the average risks to
+individuals are independent of population density. See J.A.
+868. However, the NRC admits that this data covers only
+“the 90th percentile population density” and that “the accident
+consequences could be greater at higher population sites.”
+J.A. 868; see also J.A. 1367 (conceding that values in the
+GEIS “do not represent worst-case values”).
+
+     Nonetheless, according deference to the NRC’s technical
+decision-making, see Blue Ridge, 716 F.3d at 195, we find
+nothing in the GEIS to undermine the NRC’s conclusion that
+the identified risks are “essentially common” to all reactor
+sites. The GEIS incorporates research demonstrating how the
+risk analysis for pool fires is conservative, see J.A. 1348,
+1366-67, and analyzes the variance in seismic risks, see J.A.
+870.      The NRC also considers “typical hydrologic
+characteristics at nuclear power plant sites” when assessing
+the impacts of pool leaks. J.A. 1054. Furthermore, the GEIS
+“explain[s] qualitatively the factors that may cause the risk to
+be lower or higher than” at the Surry and Lake Michigan
+plants. J.A. 1367. Regardless, the NRC need not provide a
+perfect analysis, only one that is “thorough and
+comprehensive . . . .” New York I, 681 F.3d at 481. We hold
+that the GEIS meets this requirement.
+
+    The States rely on Limerick Ecology Action, Inc. v. NRC,
+869 F.2d 719, 738 (3d Cir. 1989), for the proposition that the
+NRC cannot generically analyze the site-specific
+                             15
+consequences of reactor accidents, and hence, we are told,
+also the impacts of continued storage of spent nuclear fuel.
+However, not only is Limerick non-binding on this Court, but
+we recognized in NRDC v. NRC that the Third Circuit’s dicta
+in Limerick “did not foreclose the possibility that [reactor
+accident mitigation alternatives] could be dealt with
+‘generically’ through a subsequent rulemaking.” 2016 WL
+1639661, at *2; see also id. at *2 n.2.
+
+     Accordingly, we deny the petitions for review on this
+issue.
+
+              2. The NRC Evaluated the Probability of
+                 Failure To Site a Repository
+     The NRDC argues that the NRC fails to quantify the
+probability of failure to site a repository. Because we hold
+that the NRC adequately considered both the probability and
+consequences of failure to site a permanent repository for
+spent nuclear fuel, we deny the petitions on this issue.
+
+     Under its regulations, the NRC need only quantify “the
+various factors” in the GEIS “to the fullest extent
+practicable . . . .” 10 C.F.R. § 51.71(d). However, “[t]o the
+extent that there are important qualitative considerations or
+factors that cannot be quantified, these considerations or
+factors will be discussed in qualitative terms.” Id. The NRC
+complied with these obligations. The agency provided a
+qualitative analysis of the likelihood of failure to site a
+repository, see J.A. 290, 770, and considered the reasonably
+foreseeable impacts of that scenario, see J.A. 458, 461, 469-
+70, 472-73, 476, 480, 487, 496, 501, 509, 511, 517, 521, 523-
+24, 550, 570, 572, 577, 580, 583, 585, 587-89, 591, 593, 596,
+602-03, 605, 607, 610-11, 616, 618, 621. The NRDC
+provides no indication of how the NRC can or should
+otherwise assess the risk of failure to site a repository. Nor
+                             16
+does our decision in New York I require the NRC to do so. Cf.
+681 F.3d at 478-80 (noting only that “an agency must look at
+both the probabilities of potentially harmful events and the
+consequences if those events come to pass”). The NRC’s
+analysis was therefore sufficient to comply with NEPA.
+
+              3. The GEIS Assesses the Cumulative
+                 Impacts of the Continued Storage of
+                 Spent Nuclear Fuel
+     The NRDC argues that the GEIS fails to discuss the
+cumulative impacts of continued storage of spent nuclear fuel
+“when added to other past, present, and reasonably
+foreseeable future actions . . . .” 40 C.F.R. § 1508.7. We
+disagree.
+
+     While it is true that NEPA requires an agency to consider
+“cumulative or synergistic environmental impact[s]” of
+related, concurrently pending proposals, Kleppe v. Sierra
+Club, 427 U.S. 390, 410 (1976), “the purpose of the
+cumulative impact requirement is to prevent agencies from
+dividing one project into multiple individual actions each of
+which has an insignificant environmental impact, but which
+collectively have a substantial impact,” Theodore Roosevelt I,
+616 F.3d at 514 (citation and internal quotation marks
+omitted). In this case, there are no concurrently pending
+proposals before the NRC because the NRC is not licensing
+any reactors. Instead, the NRC has codified the GEIS for use
+in future licensing proceedings. The GEIS also includes a
+detailed discussion of the cumulative impacts of continued
+storage of spent fuel over the lifetime of a licensed reactor.
+See J.A. 628-93. Pursuant to its “tiered” approach to
+assessing environmental impacts, see 40 C.F.R. § 1502.20, the
+NRC also considers the environmental impacts of waste
+disposal through 10 C.F.R. § 51.51, Table S-3, prior to any
+licensing action. See also J.A. 351, 1297. Because there is no
+                              17
+indication that the NRC has improperly segmented its
+environmental impact analysis, we deny the petitions on this
+issue.
+
+               4. The NRC Did Not Ignore Short-Term,
+                  High-Volume Leaks
+    The States argue that the NRC unreasonably “assumed”
+that short-term, high-volume pool leaks have no
+environmental consequences. While styled as a challenge to
+the NRC’s assumptions in the GEIS, the crux of the dispute is
+with the NRC’s assessment of the probability and
+consequences of short-term, high-volume leaks. Because we
+hold that the NRC adequately considered the risks of short-
+term, high-volume leaks, we deny the petitions.
+
+     The GEIS extensively analyzes the impacts of short-term,
+high-volume leaks in addition to historic data on spent fuel
+leakage. See J.A. 839-55. In particular, the NRC notes that
+“[s]pent fuel pool leaks, while unpredictable, seldom occur.”
+J.A. 839. Furthermore, NRC regulations require plant
+licensees to monitor reactor sites, thereby increasing the
+likelihood of high-volume leak detection. See, e.g., 10 C.F.R.
+§§ 20.1501, 50.65; see also J.A. 836-37, 840, 1397-98. We
+therefore find nothing in the record to suggest that the NRC
+arbitrarily or capriciously disregarded the risks of short-term,
+high-volume leaks.
+
+               5. The NRC’s Waiver Process Ensures
+                  Consideration of Site-Specific Impacts
+    Finally, we note that the NRC’s regulations already
+provide a means by which the petitioners can raise site-
+specific    challenges    during    licensing      proceedings.
+Specifically, under 10 C.F.R. § 2.335(b), “[a] participant to an
+adjudicatory proceeding [before the NRC] . . . may petition
+                               18
+that the application of a specified Commission rule or
+regulation or any provision thereof . . . be waived or an
+exception be made for the particular proceeding.” The
+standard by which the NRC will grant such a petition “is that
+special circumstances with respect to the subject matter of the
+particular proceeding are such that the application of the rule
+or regulation (or a provision of it) would not serve the
+purposes for which the rule or regulation was adopted.” Id.
+We hold that the NRC’s waiver provision provides an
+adequate mechanism by which the petitioners can challenge
+the GEIS in site-specific proceedings.
+
+     The petitioners raise two objections to the NRC’s waiver
+provision. First, they argue that the waiver provision shifts
+the burden of NEPA compliance from the NRC to the party
+requesting waiver. Second, the petitioners characterize the
+waiver process as “illusory.” States’ Br. 34. Neither
+argument is persuasive. First, for the reasons stated above,
+see supra Part II.B.1-4, the GEIS fulfills the NRC’s NEPA
+obligation to analyze the impacts of the continued storage of
+spent nuclear fuel. The NRC, in the GEIS, has therefore
+presented sufficient evidence to carry its burden of persuasion
+under NEPA that the impacts of continued storage of spent
+nuclear fuel are generic to all licensed reactors. The burden
+of production therefore necessarily shifts to the parties raising
+objections to provide substantial evidence demonstrating that
+the GEIS neglects those site-specific considerations, thereby
+obstructing the GEIS’s purpose “to preserve the efficiency of
+the NRC’s licensing process . . . .” 79 Fed. Reg. at 56,239.
+Of course, the NRC always retains the burden of persuasion
+under NEPA to consider fully the environmental impacts and
+alternatives for its proposed action. See 42 U.S.C. § 4332(C);
+40 C.F.R. § 1502.1.
+                              19
+     Second, the NRC conceded during oral argument that we
+have jurisdiction to review its decision to deny a waiver
+petition under 10 C.F.R. § 2.335(b). See Oral Arg. Rec.
+48:11-:40; see also NRDC v. NRC, 2016 WL 1639661, at *12
+(considering whether the NRC properly denied a waiver
+petition); cf. Massachusetts v. NRC, 708 F.3d 63, 74 & n.17
+(1st Cir. 2013) (same). Although we have stated that the
+NRC’s decision whether to grant a waiver petition “is entitled
+to deference,” that deference extends only so far as the NRC’s
+decision is not arbitrary or capricious. NRDC v. NRC, 2016
+WL 1639661, at *12. Therefore, we expect that the NRC will
+give due consideration to waiver petitions raising non-
+frivolous site-specific challenges to reactor licensing. Cf. 79
+Fed. Reg. at 56,242 (stating that “concerned parties who meet
+the waiver criteria in 10 C.F.R. § 2.335 will be able to raise
+site-specific issues related to continued storage at the time of
+a specific license application” (emphasis added)).
+Furthermore, the petitioners retain the ability to petition the
+NRC for a rulemaking to amend the GEIS. Cf. NRDC v.
+NRC, 2016 WL 1639661, at *5, *12. “Although rulemaking
+is far from the fastest route, it has transparency, extensive
+public input, and broad application to recommend it.” Id.
+at *12. We believe these protections are sufficient to prevent
+the NRC’s waiver process from becoming “illusory.”
+
+    Accordingly, we deny the petitions for review.
+
+       C. THE NRC’S ASSUMPTIONS ARE NOT ARBITRARY
+          OR CAPRICIOUS
+
+     The States and the NRDC contend that the NRC utilized
+several unreasonable assumptions, including: (1) that spent
+nuclear fuel will be removed from spent-fuel pools within
+sixty years of reactor decommissioning; (2) that after the
+sixty-year period, spent fuel will be stored in dry casks that
+                             20
+are replaced every one hundred years; and (3) that
+institutional controls over spent nuclear fuel will exist into
+perpetuity. We hold that none of these assumptions is so
+unreasonable as to render the NRC’s decision-making
+arbitrary or capricious. We therefore deny the petitions for
+review on this issue.
+
+     An agency does not engage in arbitrary or capricious
+decision-making by making “predictive judgment[s]” or even
+by relying on “[i]ncomplete data.” New York v. EPA, 413
+F.3d 3, 31 (D.C. Cir. 2005). To the contrary, such judgments
+are “entitled to deference,” id., and a challenge to the
+agency’s assumptions must be more than “an effort by [a
+petitioner] to substitute its own analysis” for the agency’s,
+Transmission Access Policy Study Grp. v. FERC, 225 F.3d
+667, 737 (D.C. Cir. 2000). In this case, the NRC’s
+assumptions in the GEIS are ably supported by the record.
+
+     First, NRC regulations already mandate removal of spent
+nuclear fuel within sixty years of the expiration of a reactor
+license. See 10 C.F.R. § 50.82(a)(3). Furthermore, as the
+NRC noted in its responses to comments, “(1) there is no need
+to cool spent fuel in a pool for more than 60 years after a
+reactor stops operating; (2) operational costs associated with
+pool storage exceed dry cask storage costs; and (3) experience
+with decommissioning of nuclear power plants indicates that
+spent fuel pools are decommissioned before the end of the 60-
+year period.” J.A. 1093. According deference to the NRC’s
+predictive judgments, we hold that the agency’s assumption
+regarding the timeframe for the removal of spent nuclear fuel
+is reasonable.
+
+    Second, the NRC’s assumption about the timeframe for
+dry cask storage and replacement is conservative. The NRC
+concluded that “the 100-year replacement period provides a
+                                21
+reasonable timeframe for the routine replacement of dry
+storage systems, and that actual storage facility replacement
+will be needed less frequently than assumed in the GEIS.” Id.
+The agency also noted the “low degradation rates for dry cask
+storage systems.” J.A. 1056. Furthermore, the NRC analyzed
+the costs of dry cask replacement. See J.A. 397-98. This
+assumption in the GEIS is therefore reasonable.
+
+     Third, the record demonstrates that assuming the
+continuation of institutional controls is both reasonable and
+necessary. The NRC acknowledged that the impacts of a
+failure in institutional controls would be “catastrophic.” J.A.
+794, 798-99. Despite that conclusion, the agency also found
+that the probability of institutional controls failing is
+“remote.” J.A. 794; see also J.A. 796 (noting that it is
+unlikely that the government would abandon continued
+storage facilities and that those facilities are “highly visible”).
+Furthermore, this assumption facilitates the assessment of
+foreseeable environmental impacts from the continued storage
+of spent nuclear fuel. See J.A. 794-95; see also J.A. 1094-
+1100.
+
+       We therefore deny the petitions for review on this issue.
+
+III.       CONCLUSION
+
+     We acknowledge the political discord surrounding our
+nation’s evolving nuclear energy policy. But the role of
+Article III courts in this debate is circumscribed. “The scope
+of review under the ‘arbitrary and capricious’ standard is
+narrow and a court is not to substitute its judgment for that of
+the agency.” Motor Vehicle Mfrs. Ass’n v. State Farm Mut.
+Auto. Ins., 463 U.S. 29, 43 (1983). To the extent that the
+petitioners disagree with the NRC’s current policy for the
+                             22
+continued storage of spent nuclear fuel, their concerns should
+be directed to Congress.
+
+     For the reasons stated herein, the Court denies the
+petitions for review.
+
+                                                  So ordered.
+

@@ -1,0 +1,611 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 27, 2023                Decided July 23, 2024
+
+                        No. 22-5249
+
+   BRIDGEPORT HOSPITAL, DOING BUSINESS AS YALE NEW
+               HAVEN HEALTH, ET AL.,
+                     APPELLEES
+
+                              v.
+
+XAVIER BECERRA, SECRETARY, UNITED STATES DEPARTMENT
+           OF HEALTH AND HUMAN SERVICES,
+                     APPELLANT
+
+
+
+                 Consolidated with 22-5269
+
+
+        Appeals from the United States District Court
+                for the District of Columbia
+                    (No. 1:20-cv-01574)
+
+
+
+     David L. Peters, Attorney, U.S. Department of Justice,
+argued the cause for appellant/cross-appellee. With him on the
+briefs were Brian M. Boynton, Principal Deputy Assistant
+Attorney General, Abby C. Wright, Attorney, Samuel R.
+Bagenstos, General Counsel, U.S. Department of Health and
+Human Services, Janice L. Hoffman, Associate General
+                                2
+Counsel, and Susan Maxson Lyons, Deputy Associate General
+Counsel.
+
+    Katrina A. Pagonis argued the cause for appellees/cross-
+appellants. With her on the briefs was Kelly A. Carroll.
+
+   Before: RAO and WALKER, Circuit Judges, and
+RANDOLPH, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge WALKER.
+
+     WALKER, Circuit Judge: Parts of the United States Code
+are notoriously short on details. When should the FCC license
+a radio station? When “public interest, convenience, and
+necessity” require it. 47 U.S.C. § 309(a). What can FERC
+allow companies to charge for electricity transmission? Rates
+that are “just and reasonable.” 16 U.S.C. § 824d(a). What
+primary standards for particle pollution should the EPA set?
+Standards that are “requisite to protect the public health,” while
+allowing for “an adequate margin of safety.” 42 U.S.C.
+§ 7409(b)(1).
+
+     But sometimes Congress speaks precisely. And it did so
+in the section of the Medicare Act at issue in today’s case. See
+id. § 1395ww. With remarkable specificity, this statutory
+section prescribes intricate formulas to reimburse hospitals for
+inpatient care.
+
+     The Department of Health and Human Services does not
+like the result of those formulas. So it categorically inflated
+reimbursements for 25 percent of hospitals — at a cost of $245
+million more than Congress prescribed. Then, to balance the
+budget, HHS reduced reimbursements for all other hospitals.
+                               3
+     The district court held that HHS cannot deviate in that way
+from Congress’s directive. Without vacating HHS’s action, the
+district court remanded the rule with instructions to recalculate
+the reimbursements.
+
+    Like the district court, we hold that HHS exceeded its
+authority. Unlike the district court, we conclude that HHS’s
+unlawful action must be vacated.
+
+                        I. Background
+
+          A. Medicare’s Reimbursement System
+
+    Medicare covers the health care of elderly and disabled
+Americans. Its coverage includes inpatient care. When
+hospitals provide that care, they receive Medicare
+reimbursements. See 42 U.S.C. § 1395d(a); see also Becerra
+v. Empire Health Foundation, 597 U.S. 424, 428-29 (2022).
+
+     The Department of Health and Human Services calculates
+inpatient reimbursements according to formulas chosen by
+Congress. See Empire Health Foundation, 597 U.S. at 428-29.
+The formulas include predetermined fixed rates. The rates
+approximate the amount of money “an efficiently run hospital,
+in the same region, would expend to treat a patient with the
+same diagnosis.” See id. at 429; see also 42 U.S.C.
+§ 1395ww(d).
+
+     To fully understand how all the Medicare formulas work,
+you would have to read the tens of thousands of words in 42
+U.S.C. § 1395ww.         But the basics of the inpatient
+reimbursement system go something like this. Begin with a
+fixed rate for wages — the first component. See Cape Cod
+Hospital v. Sebelius, 630 F.3d 203, 206 (D.C. Cir. 2011). Then,
+add a fixed rate for nonlabor costs — the second component.
+                               4
+See id. Finally, multiply that sum by a fixed rate assigned to
+each patient’s diagnosis — the third component. See id.; see
+also 42 U.S.C. § 1395ww(d)(2), (4).
+
+     Unlike the other components, the wages component
+depends on the hospital’s location. That’s because hospitals in
+different regions pay different wages. See Southeast Alabama
+Medical Center v. Sebelius, 572 F.3d 912, 915 (D.C. Cir.
+2009); Bridgeport Hospital v. Becerra, 589 F. Supp. 3d 1, 4
+(D.D.C. 2022); see also 42 U.S.C. § 1395ww(d)(3)(E)(i).
+
+     To account for those differences, Congress added the
+wage-index provision. See 42 U.S.C. § 1395ww(d)(3)(E)(i). It
+instructs HHS to adjust reimbursement rates according to a set
+wage index. That index compares a region’s average wages to
+the nation’s average wages and assigns each hospital a set value
+reflecting the wage-related expenses of hospitals in its area as
+compared against the national average. Id.; see also Robert
+Wood Johnson University Hospital v. Thompson, 297 F.3d 273,
+276 (3d Cir. 2002).
+
+     The wage index tags the national “wage index value” at
+1.0. See Bridgeport Hospital, 589 F. Supp. 3d at 6; id. at 5 n.3.
+A region with higher-than-average wages is assigned a value
+greater than 1.0 — and a hospital there gets a higher-than-
+average rate. See id. at 5 n.3. Likewise, a low-wage region is
+assigned a value less than 1.0 — and a hospital there gets a
+lower-than-average rate. See id.
+
+    In addition to prescribing all that, Congress passed two
+other provisions relevant to this case. First, it provided that
+annual fluctuations in the wage index must be budget neutral.
+42 U.S.C. § 1395ww(d)(3)(E)(i); see also Baystate Franklin
+Medical Center v. Azar, 950 F.3d 84, 87 (D.C. Cir. 2020). So
+anytime HHS increases reimbursements in one region, it must
+                               5
+decrease reimbursements in other regions. Baystate Franklin
+Medical Center, 950 F.3d at 90. Second, in an adjustments
+provision, Congress said HHS can make “adjustments” to
+inpatient reimbursements. 42 U.S.C. § 1395ww(d)(5)(I)(i).
+
+         B. The Wage-Index Redistribution Policy
+
+     In 2018, HHS decided that wage disparities among
+hospitals were too great. 84 Fed. Reg. 19,158, 19,394 (May 3,
+2019). It reasoned that high reimbursements for high-wage
+hospitals make it easy for them to maintain high wages. See id.
+Meanwhile, low reimbursements for low-wage hospitals
+prevent them from paying higher wages, which keeps them at
+the low end of the wage index. See id.; see also Bridgeport
+Hospital, 589 F. Supp. 3d at 6. HHS calls that a “downward
+spiral.” 84 Fed. Reg. at 19,394.
+
+    In response, HHS in 2019 “proposed inflating the wage
+index value of the hospitals in the lowest quartile.” Bridgeport
+Hospital, 589 F. Supp. 3d at 6; see also 84 Fed. Reg. at 19,394-
+96. To be precise, HHS decided to raise each of these low-
+wage hospitals’ “wage index value” by half the difference
+between (1) their congressionally prescribed value and (2) the
+value of a hospital at the 25th percentile line for wages.
+Bridgeport Hospital, 589 F. Supp. 3d at 6. So if a hospital had
+a congressionally prescribed value of 0.5, and if the 25th
+percentile of all hospitals had a value of 0.8, then HHS would
+now give that hospital a value of 0.65 instead of 0.5. See id.
+
+     To balance the budget, HHS also proposed “applying a
+budget neutrality factor” for all other hospitals. 84 Fed. Reg.
+at 19,672. So while the lowest quartile of hospitals would be
+over-paid by $245 million, all other hospitals will be under-
+paid by $245 million.
+                                 6
+    Later that year, HHS promulgated a final rule adopting its
+wage-index adjustment for fiscal years 2020 to at least 2023.
+See Final Rule, 84 Fed. Reg. 42,044, 42,048 (Aug. 16, 2019).
+A coalition of hospitals administratively challenged the rule.
+See Bridgeport Hospital, 589 F. Supp. 3d at 7. HHS certified
+the Hospitals to bring their challenge in federal court, which
+they did. See 42 C.F.R. § 405.1842(f); cf. Allina Health
+Services v. Price, 863 F.3d 937, 940 (D.C. Cir. 2017).
+
+     The district court held that HHS lacks authority to create
+its redistribution policy and so granted summary judgment to
+the Hospitals. See Bridgeport Hospital, 589 F. Supp. 3d at 10-
+15. But rather than vacating HHS’s rule, the district court
+remanded it to HHS with instructions to recalculate the
+challenged reimbursements. See Bridgeport Hospital v.
+Becerra, 2022 WL 4487114, at *3-4 (D.D.C. July 27, 2022).
+
+     HHS appealed the merits. The Hospitals cross-appealed
+the remedy. 1
+
+    II. The Statute Does Not Authorize HHS’s Wage-Index
+                     Redistribution Policy
+
+   The Department of Health and Human Services lacks the
+power to inflate reimbursement rates beyond the
+
+1
+ Because HHS’s appeal of the district court’s remand order puts the
+order properly before us, see North Carolina Fisheries Association,
+Inc. v. Gutierrez, 550 F.3d 16, 19 (D.C. Cir. 2008) (“a limited
+exception” allows federal agencies to appeal remand orders), “we
+may also consider the Hospitals’ cross-appeal,” County of Los
+Angeles v. Shalala, 192 F.3d 1005, 1012 (D.C. Cir. 1999); see also
+NAACP v. U.S. Sugar Corp., 84 F.3d 1432, 1436 (D.C. Cir. 1996)
+(“what matters for the purposes of our appellate jurisdiction is
+whether the district court’s decision — and not any particular party
+challenging it — is properly before us”).
+                              7
+congressionally prescribed wage-index values for an entire
+quartile of hospitals. The wage-index provision does not
+authorize it. See 42 U.S.C. § 1395ww(d)(3)(E)(i). Neither
+does the adjustments provision. See id. § 1395ww(d)(5)(I)(i).
+
+               A. The Wage-Index Provision
+
+     The wage-index provision does not authorize HHS to
+depart from Congress’s established formula for a favored
+quartile of hospitals simply because HHS wants those favored
+hospitals to be able to pay their employees higher wages in the
+future.
+
+    We begin by examining the text of the wage-index
+provision:
+
+    [T]he Secretary shall adjust the proportion, (as
+    estimated by the Secretary from time to time) of
+    hospitals’ costs which are attributable to wages and
+    wage-related costs, of the [diagnosis-related group]
+    prospective payment rates computed under
+    subparagraph (D) for area differences in hospital wage
+    levels by a factor (established by the Secretary)
+    reflecting the relative hospital wage level in the
+    geographic area of the hospital compared to the
+    national average hospital wage level. Not later than
+    October 1, 1990, and October 1, 1993 (and at least
+    every 12 months thereafter), the Secretary shall update
+    the factor under the preceding sentence on the basis
+    of a survey conducted by the Secretary (and updated
+    as appropriate) of the wages and wage-related costs of
+    subsection (d) hospitals in the United States.
+
+42 U.S.C. § 1395ww(d)(3)(E)(i) (emphases added).
+                               8
+     As we have said before, the wage-index provision “is
+hardly a paragon of clarity.” Southeast Alabama Medical
+Center v. Sebelius, 572 F.3d 912, 915 (D.C. Cir. 2009).
+Nevertheless, the provision includes four textual clues relevant
+to our inquiry. Together, they persuade us that the wage-index
+provision does not authorize HHS’s wage-index redistribution
+policy.
+
+                          1. “shall”
+
+     We begin with the unremarkable observation that
+Congress gave HHS a mandatory duty. It said HHS “shall
+adjust” wage-based reimbursements.                42 U.S.C.
+§ 1395ww(d)(3)(E)(i). While the word “may” is permissive
+and signals discretion, the word “shall” generally signals a
+mandatory duty. Kingdomware Technologies, Inc. v. United
+States, 579 U.S. 162, 171-72 (2016); see also Antonin Scalia
+& Bryan A. Garner, Reading Law: The Interpretation of Legal
+Texts, 112-13 (2012). And where a statute uses “shall” in some
+provisions and “may” in others, as § 1395ww does here,
+Congress likely used “shall” to “impose[ ] a mandatory duty”
+that is “impervious to discretion.” Maine Community Health
+Options v. United States, 590 U.S. 296, 310-11 (2020) (cleaned
+up). In other words, HHS does not possess unlimited and
+directionless discretion.
+
+                       2. “by a factor”
+
+    Congress further restrained HHS by specifying that it must
+make the annual wage-based adjustment “by a factor.” 42
+U.S.C. § 1395ww(d)(3)(E)(i). Consider that Congress could
+have told HHS to adjust reimbursements without specifying
+how to calculate the adjustment. Or Congress could have
+allowed HHS to calculate the adjustment however HHS
+thought “reasonable and necessary” — a phrase used
+                                9
+elsewhere in this statute. See id. § 1395ww(b)(4)(A)(i). Either
+of those options might well have conferred the broad discretion
+HHS claims. But instead, Congress authorized HHS to adjust
+the reimbursement rate only according to a specific, calculated
+“factor.”
+
+                            3. “the”
+
+     That factor must “reflect[ ] the relative hospital wage level
+in the geographic area of the hospital compared to the national
+average hospital wage level.” Id. § 1395ww(d)(3)(E)(i)
+(emphases added). By using the definite article “the” before
+“relative hospital wage level” and “national average hospital
+wage level,” Congress specified that each of these metrics has
+a single, definite, discernable value. Id.; see Nielsen v. Preap,
+586 U.S. 392, 407-08 (2019); United States v. Little, 78 F.4th
+453, 457 (D.C. Cir. 2023). So the wage-index factor must
+“reflect” the calculated difference in two objective, discernable
+numbers.
+
+                      4. “on the basis of”
+
+     In addition, the factor must be updated “on the basis of a
+survey” of each hospital’s “wages and wage-related costs.” 42
+U.S.C. § 1395ww(d)(3)(E)(i). While terms such as “‘based on’
+do not necessarily mean ‘rest solely on,’” they do prohibit a
+governmental actor from taking actions that “abandon” or
+“supplant” the authorized scheme or decisional criteria.
+Nuclear Energy Institute, Inc. v. EPA, 373 F.3d 1251, 1269
+(D.C. Cir. 2004) (cleaned up). So the annual adjustment to the
+wage-index factor must be anchored to the survey of wages,
+and not to other policy factors that would abandon or supplant
+the data-driven metric prescribed by Congress.
+                              10
+        5. Putting the Four Textual Clues Together
+
+     Based on those four textual clues, we conclude that the
+wage-index provision imposes (1) a mandatory duty on HHS
+to make the annual wage adjustment, (2) based on a uniform
+factor (3) comprised of definite, objective data, (4) drawn from
+a survey of each hospital’s wages and reflecting the disparities
+between regional and national wages. And that simply is not
+what HHS has done here. Its proposed policy distorts the
+uniform factor, jettisons the definite, objective data, and
+departs from the actual disparities between regional and
+national wages. And it does so in spite of a mandatory duty to
+follow the formula Congress chose.
+
+     Of course, HHS has some discretion in how it conducts the
+survey or compiles the data for calculation. See Anna Jacques
+Hospital v. Burwell, 797 F.3d 1155, 1164-65 (D.C. Cir. 2015).
+But the wage-index provision requires “that the wage index
+must be uniformly determined and applied.” Atrium Medical
+Center v. HHS, 766 F.3d 560, 569 (6th Cir. 2014). It also must
+“encompass only wages and wage-related costs and must
+reasonably reflect the relative hospital wage level in a given
+area.” Id. (cleaned up); see also Anna Jacques Hospital, 797
+F.3d at 1158; Methodist Hospital of Sacramento v. Shalala, 38
+F.3d 1225, 1230 (D.C. Cir. 1994). Once that uniform
+calculation of the comparative wage rates has been calculated,
+nothing in the wage-index provision permits HHS to change
+those rates simply because it would rather give preferred
+hospitals more money and disfavored hospitals less.
+                                 11
+                B. The Adjustments Provision
+
+    HHS offers a back-up argument. It points to an
+adjustments provision that applies to inpatient reimbursements:
+
+    HHS “shall provide by regulation for such other
+    exceptions and adjustments to such payment
+    amounts under this subsection as the Secretary deems
+    appropriate.”
+
+42 U.S.C. § 1395ww(d)(5)(I)(i) (emphasis added).
+
+    To be sure, this adjustments provision does some real
+work. It allows HHS to “fill[ ] ” the “space that the specific
+provisions do not occupy.” Adirondack Medical Center v.
+Sebelius, 740 F.3d 692, 699 (D.C. Cir. 2014) (interpreting
+“adjustment” in § 1395ww(d)(5)(I)(i)). So, whereas “all else
+equal, silence indicates a lack of authority,” Loper Bright
+Enterprises v. Raimondo, 45 F.4th 359, 374 (D.C. Cir. 2022)
+(Walker, J., dissenting), majority op. rev’d, 144 S. Ct. 2244,
+2273 (2024), the adjustments provision here specifically
+authorizes regulatory “adjustments.” 2
+
+    But the adjustments provision has limits, beginning with
+the limits of the word “adjustments.” We have said that
+“similar limits inhere in the term ‘adjustments’ to those the
+Supreme Court found in the word ‘modify.’” Amgen, Inc. v.
+2
+  Section 1395ww(d)(5)(I)(i) contemplates both an “exceptions”
+authority and an “adjustments” authority. An exception is a special
+case that departs from a generally applicable rule. That, according
+to HHS, is not this case. Here, HHS called its redistribution plan an
+“adjustment” and invoked only its “adjustments” authority. See HHS
+Br. 14-24; see also 84 Fed. Reg. 42,044, 42,048, 42,328 (Aug. 16,
+2019). We therefore analyze the redistribution policy only as an
+“adjustment.”
+                              12
+Smith, 357 F.3d 103, 117 (D.C. Cir. 2004) (emphases added);
+see also Biden v. Nebraska, 143 S. Ct. 2355, 2368-69 (2023)
+(“modify”); MCI Telecommunications Corp. v. AT&T, 512
+U.S. 218, 225 (1994) (“modify”).
+
+     Those cases teach that the terms “modify” and “adjust”
+mean “to change moderately or in minor fashion.” MCI, 512
+U.S. at 225. Each term connotes “increment or limitation.” Id.
+So the adjustments provision in § 1395ww(d)(5)(I)(i) is a
+“subtle device” with “limits,” Nebraska, 143 S. Ct. at 2368,
+2370-71 (cleaned up), that can’t be used for a “severe
+restructuring of the statutory scheme” or a “substantial
+departure from the default amounts,” Amgen, 357 F.3d at 117.
+
+    HHS’s wage-index adjustment exceeds those limits.
+
+     To begin with, the wage-index adjustment does not fill a
+gap left by statutory silence. Far from it. The statute already
+instructs how to account for geographic differences in wages.
+See 42 U.S.C. § 1395ww(d)(3)(E)(i).
+
+    Indeed, the Medicare Act prescribes formulas for inpatient
+reimbursements in excruciating detail. For a flavor of that
+detail, read the 1,300-word formula for extra inpatient
+reimbursements to hospitals with “indirect costs of medical
+education.” Id. at § 1395ww(d)(5)(B). Or the 500-word
+formula for extra inpatient reimbursements to “small rural
+hospital[s].” Id. at § 1395ww(d)(5)(G). Or the 1,900-word
+formula for extra inpatient reimbursements to hospitals with a
+                                 13
+“disproportionate number of low-income patients.”             Id. at
+§ 1395ww(d)(5)(F).
+
+     We could go on and on, because § 1395ww(d) itself goes
+on and on. 3 Our point, however, is not nearly as complicated
+as the statute. It is simply this — in § 1395ww(d), Congress
+did not paint with broad strokes while delegating all the hard
+decisions to an agency. Section 1395ww(d) is instead a regime
+of highly specific formulas. And HHS does not “complement”
+§ 1395ww(d) when it jettisons one of those formulas.
+Adirondack, 740 F.3d at 699. Rather, HHS “supplant[s]” it
+“with a new regime entirely.” Nebraska, 143 S. Ct. at 2369.
+
+     Furthermore, HHS’s use of the adjustments provision
+“does not remotely resemble” any use of that provision held
+valid by this or any other court in a case identified by HHS. Id.
+at 2370. To the contrary, HHS has identified no time when it
+has relied on the adjustments provision to override a statutory
+command as specific as the congressionally required formula
+in the wage-index provision. Cf. Shands Jacksonville Medical
+Center v. Burwell, 139 F. Supp. 3d 240, 260 (D.D.C. 2015) (the
+adjustments “provision does not give the Secretary carte
+blanche to override the rest of the Act”).
+
+    In addition, the redistribution policy is neither low in cost
+nor narrow in scope. Rather, it redistributes $245 million in
+Medicare funding to 25 percent of reimbursed hospitals. And
+so far as we can tell, the supposed need for a redistribution
+might continue as long as there are geographical differences in
+wages — differences that are not going away any time soon.
+Those three factors — expense, scope, and longevity — add up
+
+3
+ So does the rest of the section on inpatient reimbursement formulas.
+At nearly 60,000 words, § 1395ww is longer than many books. See,
+e.g., F. Scott Fitzgerald, The Great Gatsby (1925).
+                               14
+to a “substantial departure from the default amounts” required
+by the (original) wage-index provision. Id.; see also Nebraska,
+143 S. Ct. at 2368-69.
+
+     In HHS’s defense of its (unprecedented, expensive, broad,
+and possibly never-ending) change to congressional policy,
+HHS says this case is like Adirondack Medical Center v.
+Sebelius, 740 F.3d 692 (D.C. Cir. 2014). There, Congress
+expressly authorized a specific adjustment for a group of
+hospitals that operated under what’s called the “federal rate” of
+reimbursements. Id. at 694. We held that HHS could give a
+similar bump in funding to a different group of hospitals, which
+were classified under the “hospital-specific rate” of
+reimbursements. Id. at 695. That’s because HHS could “fill[ ] ”
+the silence in the statute about whether or not to provide an
+adjustment to the “hospital-specific rate” hospitals. Id. at 699.
+So the congressionally ordered adjustment and the HHS-
+created adjustment complemented each other, and the latter
+filled a space that the former did not occupy. See id.
+
+     Here, in contrast, there is no silence. Instead, Congress
+created a detailed reimbursement scheme that reflects actual
+wages in different regions. HHS then swept aside the scheme’s
+congressionally required formula because HHS determined
+that the scheme should serve a different policy goal
+altogether — namely, increasing wages at the lowest-wage
+hospitals. That is not in any sense a reimbursement
+“adjustment,” but an entirely different policy.
+
+    Adirondack did not uphold that kind of change to an
+express congressional policy, nor can we do so today. 4 We
+
+4
+ Also, Adirondack “rest[ed] on Chevron deference.” 740 F.3d at
+696. But even before the Supreme Court overruled Chevron, see
+                                15
+hold instead that the adjustments provision in
+§ 1395ww(d)(5)(I)(i) does not authorize HHS to set aside the
+congressionally required formula in the wage-index provision,
+§ 1395ww(d)(3)(E)(i). See Nebraska, 143 S Ct. at 2368-71;
+see also American Hospital Association v. Becerra, 596 U.S.
+724, 737 (2022) (rejecting HHS’s expansive interpretation of
+its “adjustment authority” because that “interpretation . . .
+would eviscerate such significant aspects of the statutory
+text”).
+
+              III. The Rule Should Be Vacated
+
+     When an agency’s action is unlawful, “vacatur is the
+normal remedy.” Allina Health Services v. Sebelius, 746 F.3d
+1102, 1110 (D.C. Cir. 2014). That’s because Congress directed
+us to “hold unlawful and set aside agency action” that is “not
+in accordance with law[.]” 5 U.S.C. § 706(2)(A). “[T]o ‘set
+aside’ a rule is to vacate it.” Corner Post, Inc. v. Board of
+Governors, No. 22-1008, slip op. at 6 (2024) (Kavanaugh, J.
+concurring); see also id. at 5 (“The APA prescribes the same
+‘set aside’ remedy for all categories of ‘agency action’ . . . .”).
+
+    Nevertheless, our court has sometimes remanded without
+vacating the agency’s action. That is an “exceptional remedy.”
+American Great Lakes Ports Association v. Schultz, 962 F.3d
+510, 519 (D.C. Cir. 2020). And our precedents allow it only if
+an agency’s error is “curable.” U.S. Sugar Corp. v. EPA, 844
+
+Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244, 2273 (2024),
+Chevron would not have applied to this case. Here, HHS has neither
+sought Chevron deference nor identified any ambiguity that it used
+the adjustments provision to fill. Shands Jacksonville Medical
+Center v. Burwell — a district court precedent cited by HHS — is
+distinguishable for the same reason. See 139 F. Supp. 3d 240, 251
+(D.D.C. 2015) (proceeding under “the two-step framework set forth
+in” Chevron).
+                                16
+F.3d 268, 270 (D.C. Cir. 2016); see also Allied-Signal, Inc. v.
+U.S. Nuclear Regulatory Commission, 988 F.2d 146, 151 (D.C.
+Cir. 1993) (allowing the remedy when “there is at least a
+serious possibility that the [agency] will be able to substantiate
+its decision on remand”). 5
+
+    Because an agency can’t “cure” the fact that it lacks
+authority to take a certain action, remand-without-vacatur is
+unavailable here. HHS was powerless to adopt this wage-index
+adjustment, which means HHS will not be able to justify its
+decision on other grounds. Therefore, the district court should
+have vacated the rule rather than ordering remand without
+vacatur. 6
+
+    IV. The Hospitals Should Receive an Award of Interest
+
+     The Medicare statute provides that when hospitals seek
+judicial review of HHS’s decisions, “the amount in controversy
+shall be subject to annual interest,” which is then “to be
+
+5
+  The conflict between 5 U.S.C. § 706(2)(A)’s command and our
+creation of remand without vacatur has been noted in more than one
+separate opinion. See Checkosky v. SEC, 23 F.3d 452, 491 (D.C. Cir.
+1994) (Randolph, J., separate opinion) (“Setting aside means
+vacating; no other meaning is apparent.”); see also Comcast Corp. v.
+FCC, 579 F.3d 1, 10-12 (D.C. Cir. 2009) (Randolph, J., concurring);
+Milk Train, Inc. v. Veneman, 310 F.3d 747, 757-58 (D.C. Cir. 2002)
+(Sentelle, J., dissenting).
+6
+  The Hospitals took a confusing tack when arguing vacatur before
+the district court. They sought vacatur of the budget-neutrality
+adjustment (which reduced their respective reimbursements) without
+seeking vacatur of the wage-index adjustment. See Bridgeport
+Hospital v. Becerra, 2022 WL 4487114, at *3 (D.D.C. July 27,
+2022). But because the budget-neutrality adjustment existed only as
+a subsidiary component of the wage-index redistribution policy, the
+two adjustments are inextricably intertwined.
+                                17
+awarded by the reviewing court in favor of the prevailing
+party.” 42 U.S.C. § 1395oo(f)(2). The Hospitals claim that the
+district court should have ordered an award of interest because
+they were the prevailing parties below.
+
+     For its part, HHS does not dispute that the Hospitals were
+the “prevailing parties.” Instead, it argues that an award of
+interest is premature until the precise back-payments have been
+calculated.
+
+     Because the Medicare statute requires a “reviewing court”
+(not the agency) to “award[]” interest, we agree with the
+Hospitals. Id. § 1395oo(f)(2); see also Tucson Medical Center
+v. Sullivan, 947 F.2d 971, 980-83 (D.C. Cir. 1991). It does not
+matter whether back-payments have been calculated. The
+statute requires a judicial order directing the future award of
+interest whenever such calculations have been finalized. So on
+remand, the district court should add an award of interest to its
+order. 7
+
+                         V. Conclusion
+
+     Because HHS cannot manipulate wage-index rates up and
+down in a way that picks winners and losers by sweeping aside
+the congressionally required formula, HHS’s wage-index
+redistribution policy is unlawful. And because the unlawful
+policy is not curable on remand, HHS’s action must be vacated.
+
+
+
+
+7
+  The order need not calculate the exact interest. It is enough to
+simply state that on the remand to HHS, HHS must pay the prevailing
+parties interest on increased reimbursements in accordance with 42
+U.S.C. § 1395oo(f)(2). See, e.g., Alegent Health-Immanuel Medical
+Center v. Sebelius, 917 F. Supp. 2d 1, 3-4 (D.D.C. 2012).
+                              18
+    We therefore affirm in part, reverse in part, and remand to
+the district court for further proceedings consistent with this
+opinion.
+
+                                                   So ordered.
+

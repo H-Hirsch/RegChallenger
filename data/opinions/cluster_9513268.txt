@@ -1,0 +1,833 @@
+ United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued October 5, 2023                 Decided June 7, 2024
+
+                         No. 23-5067
+
+     MEDICAL IMAGING & TECHNOLOGY ALLIANCE AND
+     ADVANCED MEDICAL TECHNOLOGY ASSOCIATION,
+                     APPELLANTS
+
+                             v.
+
+LIBRARY OF CONGRESS AND CARLA HAYDEN, IN HER OFFICIAL
+         CAPACITY AS LIBRARIAN OF CONGRESS,
+                     APPELLEES
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:22-cv-00499)
+
+
+
+    Michael B. Kimberly argued the cause for appellants. With
+him on the briefs were Peter Tolsdorf and Alex C. Boota.
+
+     Michael Pepson and Ryan P. Mulvey were on the brief for
+amicus curiae Americans for Prosperity Foundation in support
+of appellants.
+
+    Michael A. Tilghman II, Cory L. Andrews, John M.
+Masslon II, David Y. Chung, and Elizabeth B. Dawson were on
+the brief for amici curiae the National Association of
+                               2
+Manufacturers and Washington Legal Foundation in support of
+appellants.
+
+    Laura E. Myron, Attorney, U.S. Department of Justice,
+argued the cause for appellees. With her on the brief were Brian
+M. Boynton, Principal Deputy Assistant Attorney General, and
+Daniel Tenny, Attorney.
+
+    Before: RAO and CHILDS, Circuit Judges, and EDWARDS,
+Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge RAO.
+
+    Dissenting opinion filed by Circuit Judge CHILDS.
+
+     RAO, Circuit Judge: This case raises the question of
+whether copyright rules promulgated under the Digital
+Millennium Copyright Act (“DMCA”) are reviewable under
+the Administrative Procedure Act (“APA”). The DMCA
+prohibits the circumvention of technological barriers that
+restrict access to digital copyrighted works. The Librarian of
+Congress promulgated an exemption to that anti-circumvention
+provision, allowing some access to the software of advanced
+medical devices. Trade associations representing medical
+device manufacturers sued, claiming the exemption violated
+the APA. The district court held the APA claims were barred
+by sovereign immunity because the Library of Congress is part
+of “the Congress” and therefore not an “agency” within the
+meaning of the APA’s judicial review provision.
+
+    Irrespective of whether the Library is an “agency,”
+however, Congress has specified that copyright regulations
+under Title 17 of the U.S. Code are subject to the APA. The
+Copyright Act of 1976 provides that “all actions” of the
+Register of Copyrights under Title 17—which includes rules
+                               3
+that must be approved by the Librarian—are governed by the
+APA. See 17 U.S.C. §§ 701(e), 702. And the DMCA authorizes
+the Register and Librarian to promulgate a new category of
+rules under Title 17. Reading the two statutes together, we
+conclude that DMCA rules are subject to the APA just like
+other copyright rules. The APA therefore provides the
+necessary waiver of sovereign immunity for this suit.
+
+    This interpretation treats Congress’s scheme of copyright
+regulation as a coherent whole and accords with background
+principles for judicial review of administrative action.
+Accordingly, we reverse and remand for the district court to
+assess the APA claims in the first instance.
+
+                               I.
+
+                               A.
+
+     Although best known as the Nation’s library, the Library
+of Congress quietly exercises significant regulatory authority
+over copyrights. The Library houses the U.S. Copyright Office,
+which is headed by the Register of Copyrights. The Copyright
+Act of 1976 conferred broad authority on the Register to make
+copyright rules and reorganized Title 17 of the U.S. Code. See
+Pub. L. No. 94-553, 90 Stat. 2541 (codified at 17 U.S.C. §§ 101
+et seq.). The Act specified that the Register acts under the
+direction and supervision of the Librarian, 17 U.S.C. § 701(a),
+and that “[a]ll regulations established by the Register under
+[Title 17] are subject to the approval of the Librarian of
+Congress,” id. § 702. As we have recognized, the Librarian is
+a “Head of Department” within the Executive Branch.
+Intercollegiate Broad. Sys., Inc. v. Copyright Royalty Bd., 684
+F.3d 1332, 1342 (D.C. Cir. 2012).
+
+    At issue in this case is a rule promulgated under the Digital
+Millennium Copyright Act. See Pub. L. No. 105-304, 112 Stat.
+                               4
+2860 (1998) (codified at 17 U.S.C. §§ 1201 et seq.). The
+DMCA implemented two international treaties by providing
+additional protections for digital copyrighted works. Digital
+media had been eligible for copyright protection before the
+DMCA, but advances in technology and the rise of the internet
+facilitated piracy and unlawful reproduction on an
+unprecedented scale. See Green v. U.S. Dep’t of Just., 54 F.4th
+738, 741 (D.C. Cir. 2022). Although owners of digital
+copyrights could protect their creations through technological
+protective measures like passwords or encryption, these
+barriers could be circumvented by new technologies and
+devices. To address these problems, one of the treaties directed
+signatories to “provide adequate legal protection … against the
+circumvention of effective technological measures that are
+used by authors” to protect their works. World Intellectual
+Property Organization Copyright Treaty art. 11, Dec. 20, 1996,
+2186 U.N.T.S. 121, 155.
+
+     To implement that directive, the DMCA created a private
+right of action against anyone who “circumvent[s] a
+technological measure that effectively controls access to a
+work protected under” federal copyright law. 17 U.S.C.
+§§ 1201(a)(1)(A), 1203(a). Congress also authorized criminal
+penalties for violations of section 1201 done “willfully and for
+purposes of commercial advantage or private financial gain.”
+Id. § 1204. In effect, this anti-circumvention provision backed
+private technological protective measures with the force of
+federal law. Such protective measures, however, can also
+frustrate third parties from making “fair use” of copyrighted
+material, depriving society of innovations and other beneficial
+noninfringing uses. See Green, 54 F.4th at 742. To mitigate the
+potential adverse effects of the anti-circumvention provision,
+Congress authorized the Librarian to identify “class[es] of
+copyrighted works” to which the anti-circumvention provision
+“shall not apply.” 17 U.S.C. § 1201(a)(1)(D). The Librarian
+                               5
+grants these exemptions in a rulemaking proceeding every
+three years. Id. § 1201(a)(1)(C).
+
+     Triennial DMCA rulemaking proceeds as follows. First,
+the Register makes a “recommendation” to the Librarian about
+whether the “users of a copyrighted work are, or are likely to
+be[,] … adversely affected” by the anti-circumvention
+provision “in their ability to make noninfringing uses … of a
+particular class of copyrighted works.” Id. The Register must
+determine whether certain proposed uses “are or are likely to
+be noninfringing” under the Copyright Act and whether “the
+prohibition is causing, or … is likely to cause, an adverse
+impact on those uses.” See Exemption to Prohibition on
+Circumvention of Copyright Protection Systems for Access
+Control Technologies, 86 Fed. Reg. 59627, 59628 (Oct. 28,
+2021). The Register’s adverse impact determination turns on
+five factors: the extent to which the copyrighted works are
+available for use; the availability of the works for certain
+nonprofit purposes; the impact of the anti-circumvention
+provision on paradigmatic fair uses; the effect of circumvention
+on the market for the copyrighted works; and additional
+“appropriate”       considerations.      See       17     U.S.C.
+§ 1201(a)(1)(C)(i)–(v).
+
+     After assessing the Register’s recommendation and the
+requisite statutory factors, the Librarian determines whether the
+anti-circumvention provision should be waived for a specific
+class of copyrighted works. Id. § 1201(a)(1)(C). Although the
+DMCA entrusts the Librarian with the ultimate decision, as a
+practical matter, the Register performs most of the rulemaking
+functions.
+
+                               B.
+
+   This suit was brought by two trade associations: the
+Medical Imaging & Technology Alliance and the Advanced
+                               6
+Medical     Technology    Association.   They     represent
+manufacturers of advanced medical devices such as surgery
+assisting robots, CT scanners, and MRI machines. The
+manufacturers develop custom software for their devices and
+use technological protective measures to shield their
+copyrighted computer programs from unwanted access.
+
+     When the devices break down, however, the technological
+protections may restrict users such as hospitals and health care
+providers from employing their own servicemen to
+troubleshoot and fix the devices. Instead, users must rely on the
+device manufacturers’ technicians for diagnostics, repairs, and
+maintenance. Some manufacturers provide limited software
+access to independent service operators so they can perform
+repairs. But in general, medical device manufacturers have
+resisted allowing third-party servicers to access their software.
+
+     In 2020, two independent service operators petitioned the
+Copyright Office for an exemption from the DMCA’s anti-
+circumvention provision. They claimed the manufacturers’
+technological protections were blocking access to “error logs,
+configuration files, and other unprotected works” in addition to
+the copyrighted software. This prevented the independent
+service operators from performing diagnosis, maintenance, and
+repairs on medical devices, functions that were particularly
+critical during the COVID-19 pandemic. The independent
+operators also alleged that the device manufacturers were using
+their technological protective measures to monopolize the
+maintenance services market and force hospitals to pay more
+for licensed repairmen. The independent operators insisted
+their repair services were “fair use[s]” and that they should be
+able to lawfully access the manufacturers’ software and other
+data files.
+                               7
+     The Register solicited comments on an exemption that
+would allow independent service operators to bypass
+technological protective measures on medical devices for the
+purpose of diagnosis, modification, or repair. Exemptions to
+Permit Circumvention of Access Controls on Copyrighted
+Works, 85 Fed. Reg. 65293, 65307 (Oct. 15, 2020). The trade
+associations opposed the proposed exemption, arguing the
+independent service operators sought access to the device
+manufacturers’ software for purely commercial purposes,
+which were not fair use. Nevertheless, in a report submitted to
+the Librarian, the Register recommended granting the
+exemption. She first concluded the independent service
+operators’ maintenance and repair services were noninfringing
+“fair uses” of the copyrighted software under the relevant
+statutory factors. Next, the Register found the exemption was
+justified because, under the five DMCA factors in 17 U.S.C.
+§ 1201(a)(1)(C), the anti-circumvention provision was causing
+or was likely to cause “an adverse impact on the noninfringing
+diagnosis, repair, and maintenance of medical devices and
+systems.”
+
+    In the final triennial rule, the Librarian incorporated the
+Register’s recommendation and granted the exemption, which
+permits the circumvention of technological protective
+measures on “[c]omputer programs that are contained in and
+control the functioning of a lawfully acquired medical device
+or system, and related data files, when circumvention is a
+necessary step to allow the diagnosis, maintenance, or repair of
+such a device or system.” 37 C.F.R. § 201.40(b)(15).
+
+                              C.
+
+    The trade associations sued the Library and the Librarian,
+seeking declaratory and injunctive relief. They claimed the
+Librarian violated the APA by granting the exemption, the
+                               8
+Librarian acted ultra vires, and the Librarian’s exercise of
+rulemaking power was unconstitutional because it was either a
+legislative decision rendered without bicameralism and
+presentment or an executive rulemaking performed by a
+congressional officer.
+
+     The district court granted the Library’s motion to dismiss,
+rejecting each of the trade associations’ claims. Med. Imaging
+& Tech. All. v. Libr. of Cong., No. CV 22-499, 2023 WL
+2387760, at *8–9 (D.D.C. Mar. 7, 2023). First, the court held
+the APA claims were barred by sovereign immunity. Id. at *9.
+The district court concluded that although the APA waives
+sovereign immunity for non-monetary claims against federal
+agencies, “the Congress” is exempt from the APA’s definition
+of “agency,” and “[t]he Library of Congress is indisputably part
+of Congress.” Id. (cleaned up). The district court relied in part
+on earlier decisions of this court that concluded the Library was
+part of “the Congress” and therefore not subject to APA
+review. Id. at *10 (citing Clark v. Libr. of Cong., 750 F.2d 89,
+102–03 (D.C. Cir. 1984); Ethnic Emps. of Libr. of Cong. v.
+Boorstin, 751 F.2d 1405, 1416 n.15 (D.C. Cir. 1985); Wash.
+Legal Found. v. U.S. Sent’g Comm’n, 17 F.3d 1446, 1449 (D.C.
+Cir. 1994)).
+
+     Second, the district court rejected the trade associations’
+ultra vires claim because the Librarian did not “plainly act[] in
+excess of her delegated powers and contrary to a specific
+prohibition in the statute that is clear and mandatory.” Id. at
+*13 (cleaned up). And finally, the court held the DMCA
+rulemaking did not run afoul of the separation of powers. Id. at
+*14.
+
+     The trade associations abandon their constitutional
+arguments on appeal, but they maintain that DMCA rules are
+reviewable under the APA because the Library is an “agency”
+                               9
+insofar as it engages in executive rulemaking functions. In the
+alternative, the trade associations contend the Librarian acted
+ultra vires. We consider these legal issues and the district
+court’s grant of the motion to dismiss de novo. See Kim v.
+United States, 632 F.3d 713, 715 (D.C. Cir. 2011).
+
+                              II.
+
+     The threshold question is whether the challenged DMCA
+rule is reviewable under the APA. We conclude that it is. The
+APA provides that “[a]gency action made reviewable by
+statute” is “subject to judicial review.” 5 U.S.C. § 704. In the
+Copyright Act of 1976, Congress specified that actions under
+Title 17 are governed by the APA. See 17 U.S.C. § 701(e).
+DMCA rules are promulgated under Title 17. See id.
+§ 1201(a)(1)(C)–(D). It follows that the trade associations may
+challenge the triennial rule because the APA provides the cause
+of action for this suit and the necessary waiver of sovereign
+immunity.
+
+                              A.
+
+     The parties and the district court analyzed the question of
+reviewability by focusing on whether the Library was part of
+Congress. The APA provides a cause of action and a waiver of
+sovereign immunity for non-monetary claims against an
+“agency” or “an officer … thereof,” 5 U.S.C. § 702, but the
+APA carves out “the Congress” from the definition of
+“agency,” id. § 701(b)(1)(A). Because the Library believes it is
+a component of “the Congress,” it maintains it is not an
+“agency,” and thus the APA’s cause of action and waiver of
+sovereign immunity do not apply to this suit.
+
+    This framing, however, fails to account for the fact that
+Congress can provide for APA review of the DMCA
+regulations by statute, regardless of whether the Library is an
+                                  10
+“agency.” The APA provides a general framework for review
+of agency action, but Congress may, and often does, apply this
+framework to other government actions. For instance, the
+Sentencing Reform Act of 1984 explicitly extended provisions
+of the APA to the U.S. Sentencing Commission, even though
+the Commission was arguably not an APA “agency.”1 See
+Wash. Legal Found., 17 F.3d at 1449–50.
+
+     In the Copyright Act, Congress provided that copyright
+regulations are reviewable under the APA. The Act expanded
+the Register’s rulemaking authority and provided that, with one
+exception not relevant here, “all actions taken by the Register
+of Copyrights under [Title 17] are subject to the provisions of
+the Administrative Procedure Act.” 17 U.S.C. § 701(e). We
+have previously reviewed actions of the Register based on this
+provision. See, e.g., Atari Games Corp. v. Oman, 888 F.2d 878,
+879 & n.1 (D.C. Cir. 1989); Universal City Studios LLLP v.
+Peters, 402 F.3d 1238, 1242 (D.C. Cir. 2005). Although section
+701(e) refers to actions of the Register, the Register is
+subordinate to the Librarian and “shall act under the Librarian’s
+… direction and supervision.” 17 U.S.C. § 701(a). More
+specifically, “[a]ll regulations established by the Register under
+[Title 17] are subject to the approval of the Librarian of
+Congress.” Id. § 702. In short, Congress provided that the
+Register may establish copyright regulations, with the approval
+of the Librarian, and that such regulations are subject to the
+APA and are judicially reviewable.
+
+
+
+
+1
+ Similarly, Congress may withdraw agency action from APA review
+that would otherwise be subject to it. See, e.g., Fed. Express Corp. v.
+U.S. Dep’t of Com., 39 F.4th 756, 763 (D.C. Cir. 2022) (recognizing
+Congress had exempted certain functions of the Department of
+Commerce from the APA’s judicial review provisions).
+                                11
+     Congress conferred authority for the triennial rules at issue
+here in the DMCA, which added the following provision to
+Title 17: “[T]he Librarian of Congress, upon the
+recommendation of the Register of Copyrights, … shall make
+the determination in a rulemaking proceeding” whether to
+waive the anti-circumvention provision for certain classes of
+copyrighted works. Id. § 1201(a)(1)(C). In other words, the
+DMCA authorized a new type of copyright regulation that
+would be formulated by the Register and approved by the
+Librarian.
+
+     Reading the two statutes as a comprehensive statutory
+scheme, DMCA rules are also subject to the APA under 17
+U.S.C. § 701(e). The Copyright Act plainly applies the APA to
+“all actions” of the Register under Title 17, including
+rulemaking subject to the approval of the Librarian. See id.
+§§ 701(e), 702. DMCA rules are also actions of the Register
+under Title 17 that, like the Register’s other regulations, require
+the approval of the Librarian.
+
+     Because the DMCA and the Copyright Act address the
+rulemaking authority of the Register and Librarian, the two
+statutes are in pari materia and should be construed “as if they
+were one law.” United States v. Freeman, 44 U.S. (3 How.)
+556, 564 (1845). “[I]t is … the most rudimentary rule of
+statutory construction … that courts do not interpret statutes in
+isolation, but in the context of the corpus juris of which they
+are a part, including later-enacted statutes.” Branch v. Smith,
+538 U.S. 254, 281 (2003) (plurality opinion). The DMCA
+establishes new rulemaking authority within Title 17,
+                                  12
+supplementing the regulatory scheme established by the
+Copyright Act.2
+
+     Although the Copyright Act emphasizes the Register’s
+role in rulemaking and the DMCA focuses on the Librarian’s,
+the assignment of regulatory authority is identical. The DMCA
+gives rulemaking authority to the Librarian, who explicitly acts
+upon the recommendation of the Register. 17 U.S.C.
+§ 1201(a)(1)(C). This parallels the Copyright Act, which
+requires the Librarian to approve all copyright regulations
+developed by the Register. See id. § 702. Both statutes require
+the Register to initiate or propose copyright rules and the
+Librarian to approve them.3 Thus, although the DMCA is silent
+with respect to judicial review, the review provision of the
+Copyright Act, codified at 17 U.S.C. § 701(e), applies with
+equal force to DMCA rules.
+
+     Because triennial DMCA rules are subject to the APA,
+sovereign immunity poses no barrier to the trade associations’
+suit. Waivers of the United States’ sovereign immunity must
+be “unequivocally expressed.” United States v. Nordic Vill.
+
+2
+  The in pari materia canon reflects the basic principle that courts
+should read related bodies of law as a consistent and coherent whole.
+The canon has been invoked in a variety of contexts, including when
+a later statute amends a prior enactment or when different provisions
+of a statutory scheme address a similar topic. See, e.g., United States
+v. Jenkins, 50 F.4th 1185, 1207 (D.C. Cir. 2022) (explaining that an
+act amending a prior statute “should be read in pari materia” with
+the section it amended); Carlsbad Tech., Inc. v. HIF Bio, Inc., 556
+U.S. 635, 638 (2009) (interpreting two subsections within the same
+statutory section in pari materia).
+3
+ As a practical matter, the Library explains the triennial rules are
+developed like other copyright regulations with the Register
+conducting “most aspects of the rulemaking” and the Librarian
+providing the final approval.
+                              13
+Inc., 503 U.S. 30, 33 (1992) (cleaned up). But there is no
+dispute that the APA unambiguously waives sovereign
+immunity for non-monetary claims. 5 U.S.C. § 702. It is true
+that, by its terms, the APA’s waiver of sovereign immunity
+applies to “agenc[ies]” and the “officer[s] … thereof.” Id. But
+regardless of whether the Library is an “agency” under the
+APA, Congress has plainly applied the APA’s waiver of
+sovereign immunity to the actions of the Register and Librarian
+at issue here. Sections 701(e) and 702 of Title 17 expressly
+bring copyright rules promulgated by the Register and
+approved by the Librarian within the ambit of the APA. DMCA
+rules are promulgated by the Register and approved by the
+Librarian, and thus the APA’s waiver of sovereign immunity
+applies to the trade associations’ suit against the Library and
+Librarian.
+
+                              B.
+
+    Recognizing that the APA applies to the triennial rules is
+the most coherent interpretation of the scheme of copyright
+regulation established by Congress in the Copyright Act and
+the DMCA. Moreover, this interpretation comports with
+longstanding background principles of judicial review.
+
+    When Congress authorizes agencies to regulate or to
+administer the law subject to specific legal requirements, such
+executive action is ordinarily subject to judicial review. See
+Abbott Laboratories v. Gardner, 387 U.S. 136, 140 (1967).
+“[T]he power of … agencies is circumscribed by the authority
+granted,” and courts have the responsibility to determine
+whether “individual rights” have been infringed “by the
+exertion of unauthorized administrative power.” Stark v.
+Wickard, 321 U.S. 288, 309–10 (1944). Agencies must operate
+within the legal authority conferred by Congress, and when
+                                14
+those limits are transgressed, an individual may seek recourse
+in the Article III courts.
+
+     This tradition of judicial review follows from the
+Constitution’s structure of separated powers and long predates
+the APA. As Chief Justice Marshall recognized, “[t]he very
+essence of civil liberty … consists in the right of every
+individual to claim the protection of the laws.” Marbury v.
+Madison, 5 U.S. (1 Cranch) 137, 163 (1803). He later wrote
+that “in a government of laws and of principle,” when an
+official takes an action against private rights, the affected
+individual should generally have an “appeal to the laws of his
+country.” United States v. Nourse, 34 U.S. (9 Pet.) 8, 28–29
+(1835). In the words of one leading scholar: “[T]here is in our
+society a profound, tradition-taught reliance on the courts as
+the ultimate guardian and assurance of the limits set upon
+executive power by the constitutions and legislatures.” LOUIS
+L. JAFFE, JUDICIAL CONTROL OF ADMINISTRATIVE ACTION 321
+(1965). After all, “[a]n agency is not an island entire of itself.
+… The very subordination of the agency to judicial jurisdiction
+is intended to proclaim the premise that each agency is to be
+brought into harmony with the totality of the law.” Id. at 327.
+
+     Congress’s “historic practice” of providing for judicial
+review of administrative action reflects the importance of an
+independent check on the exercise of executive power. Bowen
+v. Mich. Acad. of Fam. Physicians, 476 U.S. 667, 670–73
+(1986). Of course, Congress may, subject to constitutional
+limitations, withhold judicial review. Id. at 672–73; cf. Patchak
+v. Zinke, 138 S. Ct. 897, 906 (2018) (recognizing Congress’s
+power to “strip[] federal jurisdiction over a class of cases”). But
+absent such a legislative decision, courts have the power and
+the duty to review agency action for conformity with the law.
+                               15
+     Reading section 701(e) to provide for judicial review of
+triennial DMCA rules aligns with fundamental principles
+regarding the protection of individual rights against unlawful
+government action. To begin with, the Copyright Act and the
+DMCA give the Register and Librarian significant authority to
+“promulgate copyright regulations” and “apply the statute to
+affected parties.” See Intercollegiate Broad., 684 F.3d at 1342.
+As we have recognized, and no party disputes, these powers are
+“generally associated in modern times with executive
+agencies.” Id. When enacting regulations and enforcing the
+law, “the Library is undoubtedly a component of the Executive
+Branch.” Id. (cleaned up). Moreover, the triennial rules directly
+affect valuable property rights, such as a copyright holder’s
+ability to limit access to a digital creation and to prevent
+intellectual property theft. The triennial rules also provide
+exemptions from civil and criminal liability that would
+otherwise attach to individuals who circumvent technological
+protective measures. 17 U.S.C. §§ 1201(a)(1)(B), 1203–04.
+The exemptions are not left solely to the Librarian’s discretion,
+but instead must be determined according to specific statutory
+criteria. Id. § 1201(a)(1)(C). There is no indication in the
+DMCA that Congress, having allocated this substantial
+regulatory power to the Librarian and Register and identified
+the legal criteria they must apply, would leave such power
+unchecked by judicial review.
+
+     These background principles about the role of judicial
+review accord with our interpretation of the Copyright Act and
+the DMCA that the triennial rules, like other copyright
+regulations, are subject to the APA and are judicially
+reviewable.
+                               16
+                               C.
+
+     The Library raises a series of arguments for why judicial
+review is barred, but none addresses the essential connection
+between the Copyright Act and the DMCA. Nor does the
+Library seriously grapple with 17 U.S.C. § 701(e), which
+subjects all actions of the Register, including rules approved by
+the Librarian, to the APA.
+
+     First and foremost, the Library insists it is a component of
+“the Congress” and therefore not an “agency” for purposes of
+the APA’s waiver of sovereign immunity. But the precedents
+on which the Library relies considered only whether the APA
+was applicable by its own terms. See Clark, 750 F.2d at 102;
+Ethnic Emps., 751 F.2d at 1416 n.15; Wash. Legal Found., 17
+F.3d at 1449. None of these cases involved an action of the
+Register or Librarian under Title 17, and so there was no reason
+to consider the application of section 701(e). In Clark, for
+instance, a plaintiff brought constitutional and employment
+discrimination claims against the Library, alleging that the
+Library improperly investigated and refused to hire him
+because of his political beliefs and associations. See 750 F.2d
+at 92. In that context, we explained the APA’s waiver of
+sovereign immunity did not apply to the Library because it was
+not an APA “agency.” Id. at 102. In Ethnic Employees, we
+similarly found that an employee organization could not assert
+an APA claim against the Library because the Library “is not
+an agency under the [APA].” 751 F.2d at 1407, 1416 n.15. And
+Washington Legal Foundation merely summarizes the holding
+of Ethnic Employees in dictum. See 17 F.3d at 1449.
+
+   Even if these cases generally classify the Library as a
+component of “the Congress” under the APA, Congress may
+                                17
+still apply the APA to particular actions of the Librarian and
+Register by statute.4 It did precisely that in 17 U.S.C. § 701(e).5
+
+     Second, the Library relies upon the fact that the Librarian
+has been authorized to “make rules and regulations for the
+government of the Library” for over a century, yet she has
+never followed the APA’s procedures when making such rules.
+Act of Feb. 19, 1897, ch. 265, 29 Stat. 538, 544 (now codified
+at 2 U.S.C. § 136). The cited rulemaking authority, however,
+pertains only to the internal management of the Library, and
+such rules are generally exempt from the APA’s procedural
+requirements for informal rulemaking. See 5 U.S.C.
+§ 553(a)(2). Thus, the Librarian’s alleged disregard of the APA
+for such rules tells us nothing about the applicability of the
+APA to copyright regulations promulgated under Title 17. In
+any event, we conclude only that triennial DMCA rules are
+subject to the APA under section 701(e); we have no occasion
+to consider whether the APA applies to the Librarian’s other
+statutory responsibilities.
+
+     Third, the Library raises a series of statutory arguments for
+why the APA’s waiver of sovereign immunity does not allow
+for a suit challenging the triennial rules. The Library maintains
+that applying the APA to the Library and its officers would
+
+4
+  Furthermore, we have recently recognized the important executive
+power exercised by the Library, suggesting that whatever the
+Library’s historical association with Congress, it is squarely a
+component of the Executive Branch in its role as a copyright
+regulator. Intercollegiate Broad., 684 F.3d at 1341–42.
+5
+ Because we understand section 701(e) to provide for judicial review
+of DMCA rules, we need not address the trade associations’ novel
+theory that the Library is an APA agency and subject to judicial
+review when it takes on an “executive ‘rulemaking’ role” but not an
+APA agency when it does not.
+                              18
+render section 701(e) superfluous. There would have been no
+need for Congress to authorize judicial review in the Copyright
+Act if the APA’s judicial review provisions already applied.
+But in light of our caselaw, we need not, and do not, reach the
+question of whether the Library is an “agency” within the
+meaning of the APA. Instead, we recognize that, regardless of
+whether the Library is an APA “agency,” section 701(e) applies
+the APA to “all actions” of the Register under Title 17,
+including regulations approved by the Librarian.
+
+     The Library and the dissent also contend that triennial
+rules are actions of the Librarian, not the Register, and so
+section 701(e) simply does not apply. Relying on the
+presumption against waivers of sovereign immunity, the
+dissent suggests that section 701(e) cannot authorize suits
+against the Librarian because it mentions only the Register by
+name. Dissenting Op. 1–3. But “the sovereign immunity canon
+is a tool for interpreting the law and … does not displace the
+other traditional tools of statutory construction.” FAA v.
+Cooper, 566 U.S. 284, 291 (2012) (cleaned up). Thus, “we …
+require … that the scope of Congress’ waiver be clearly
+discernable from the statutory text in light of traditional
+interpretive tools.” Id. As we have already explained in detail,
+the statutory text, context, the in pari materia canon, and
+background principles all confirm that—by making copyright
+regulations reviewable—Congress applied the APA’s clear
+waiver of sovereign immunity to both the Register and
+Librarian when they issue such rules.
+
+     Relatedly, the Library stresses that the Register’s
+participation in triennial rulemaking is not reviewable agency
+action because her recommendation is not “final”—it must be
+approved by the Librarian. On the Library’s view, section
+701(e) applies only to actions of the Register that require no
+further approval. But this argument proves too much because
+                                 19
+the Register has no final rulemaking authority. 17 U.S.C.
+§ 702. Under the Library’s rationale, no copyright regulations
+would be judicially reviewable. Such a startling result would
+eviscerate Congress’s clear directives, which subject “all
+actions” of the Register under Title 17 to the APA and require
+the Librarian to approve the Register’s regulations.6
+
+     In sum, none of the Library’s counterarguments
+undermine our conclusion that the text and structure of the
+DMCA and the Copyright Act provide for APA review of
+triennial DMCA rules.
+
+                                ***
+
+     Congress provided that the APA applies to copyright rules
+under Title 17, which includes the triennial DMCA rule
+challenged here. This conclusion accords with the background
+principle favoring judicial review of administrative action and
+harmonizes the scheme of copyright regulation and judicial
+review established by the Copyright Act and the DMCA. We
+interpret the statutes “as a symmetrical and coherent regulatory
+scheme,” “reconciling many laws enacted over time, and
+getting them to ‘make sense’ in combination.” FDA v. Brown
+& Williamson Tobacco Corp., 529 U.S. 120, 133, 143 (2000)
+(cleaned up).
+
+
+
+
+6
+  We similarly reject the Library’s other attempts to fracture the
+legislative scheme for copyright regulation. For instance, the Library
+maintains the Librarian’s finalization should not be subject to the
+APA, but it concedes the APA must apply to those parts of the
+triennial rulemaking conducted by the Register. We are not aware of
+any regulatory scheme adopting such a piecemeal application of the
+APA to the process for promulgating rules of general applicability.
+                                  20
+      The trade associations may challenge the triennial rule
+under the APA.7 We vacate the judgment and remand for the
+district court to consider the merits of the APA claims in the
+first instance.
+
+                                                         So ordered.
+
+
+
+
+7
+  The district court rejected the trade associations’ ultra vires claim
+on the merits. Because we hold that Congress has provided for APA
+review of DMCA rules, the ultra vires claim is no longer available,
+and we need not address it. See Changji Esquel Textile Co. v.
+Raimondo, 40 F.4th 716, 722 (D.C. Cir. 2022) (explaining an ultra
+vires claim can proceed only when a statute impliedly precludes
+judicial review and “no alternative procedure for review of the
+statutory claim” exists) (cleaned up).
+CHILDS, Circuit Judge, dissenting:
+
+    The United States is immune from suit absent express
+consent to be sued. United States v. Sherwood, 312 U.S. 584,
+586 (1941); FAA v. Cooper, 566 U.S. 284, 290 (2012) (“a
+waiver of sovereign immunity must be ‘unequivocally
+expressed’ in statutory text.”). Any ambiguities must be
+“construed in favor of immunity.” FAA, 566 U.S. at 290-91.
+
+     While I agree that under 17 U.S.C. § 701(e), the
+Copyright Act expressly provides that “all actions” of the
+Register of Copyrights under Title 17 are “subject to the
+provisions of the [APA],” I disagree with the majority’s
+conclusion that such language can be expanded to constitute a
+waiver of sovereign immunity for the Library of Congress or
+the Librarian.     Neither the text of the Administrative
+Procedure Act (“APA”), the Copyright Act of 1976, nor the
+Digital Millennium Copyright Act (“DMCA”) meet the
+requisite threshold showing that Congress provided “clear or
+express consent” for either entity to be sued. See Sherwood,
+312 U.S. at 586. I would instead affirm the district court’s
+holding that the trade associations’ claims are barred by
+sovereign immunity and that they failed to plead a proper
+ultra vires claim.
+
+     One might argue that an express waiver is found in the
+APA, which provides for judicial review of final agency
+actions, but such an argument is barred by our Circuit’s
+precedent holding that the Library of Congress is not an
+“agency” under the APA.1 See Clark v. Libr. of Cong., 750
+
+        1
+         See 5 U.S.C. § 551 (“For the purpose of this subchapter —
+(1) ‘agency’ means each authority of the Government of the United
+States, whether or not it is within or subject to review by another
+agency but does not include — (A) the Congress.”). The Library of
+Congress is part of “the Congress” and therefore is not an agency
+within the meaning of the APA.
+                               2
+F.2d 89, 102-03 (D.C. Cir. 1984); Ethnic Emps. of Libr. of
+Cong. v. Boorstin, 751 F.2d 1405, 1416 n.15 (D.C. Cir. 1985);
+Wash. Legal Found. v. U.S. Sent’g Comm’n, 17 F.3d 1446,
+1449 (D.C. Cir. 1994) (noting that Congress clearly subjected
+the Sentencing Commission to the APA’s notice and
+comment provisions in the Sentencing Reform Act of 1984).
+Thus, to exercise judicial review over the Librarian, we must
+rely on another express statutory provision subjecting the
+Librarian to the APA or otherwise waiving sovereign
+immunity over the Librarian’s actions. Congress has at times
+subjected non-agencies, such as the Sentencing Commission,
+to APA review. See supra note 1. But Congress has not
+expressly provided for APA review of the Librarian.
+
+     There is no statutory provision expressly waiving
+sovereign immunity over the Librarian or subjecting the
+Librarian to the APA, and, in my view, the majority’s attempt
+to infer such a waiver by analogy to the Copyright Act
+violates longstanding principles of statutory interpretation that
+a waiver of sovereign immunity “must be construed strictly in
+favor of the sovereign” and “not enlarge[d]…beyond what the
+language requires.” United States v. Nordic Vill., Inc., 503
+U.S. 30, 34 (1992) (internal quotation marks omitted).
+
+     Moreover, even without the strong presumption against
+implied waivers of sovereign immunity, the majority’s in pari
+materia argument is unsupported by “traditional interpretive
+tools,” supra note 19, for two reasons.
+
+     First, the in pari materia canon applies when the Court is
+interpreting ambiguous statutory language—not statutory
+silence. Cf. EEOC v. Abercrombie & Fitch Stores, Inc., 575
+U.S. 768, 774 (2015) (“The problem with this approach is the
+                                3
+one that inheres in most incorrect interpretations of statutes: It
+asks us to add words to the law to produce what is thought to
+be a desirable result. That is Congress’s province. We
+construe [a statute’s] silence as exactly that: silence.”); United
+Shoe Workers of Am., AFL-CIO v. Bedell, 506 F.2d 174, 189
+n.96 (D.C. Cir. 1974) (“A statute is not in pari materia if its
+scope and aim are distinct or where a legislative design to
+depart from the general purpose or policy of previous
+enactments may be apparent”) (cleaned up); 73 Am. Jur. 2d
+Statutes § 87 (“However, the in pari materia rule of statutory
+construction, requiring statutes which relate to the same
+subject matter to be read and applied together, applies only
+when a statute is ambiguous.”). Congress could have
+unequivocally subjected the Librarian to the APA, in the
+DMCA, like it did in the Copyright Act of 1976 for the
+Register of Copyrights. See 17 U.S.C. § 701. The DMCA
+was enacted in 1998, twenty-two years after the Copyright
+Act. The DMCA’s silence with respect to judicial review
+does not create ambiguity.
+
+    Second, even accepting arguendo the majority’s
+argument that the Registrar’s recommendations to the
+Librarian should be subject to judicial review under the
+Copyright Act, that argument still falls short of showing that
+the Court can exercise review over the Librarian—the actual
+defendant in this lawsuit.
+
+     There are good reasons not to treat the Registrar’s
+regulations, subject to the Librarian’s approval, identically to
+mere recommendations that the Register provides to the
+Librarian to assist the Librarian in carrying out its statutory
+obligations to the DMCA. See 17 U.S.C. § 1201. Under the
+DMCA, decision-making authority is vested in the Librarian
+who is directed to consider § 1201’s expressly enumerated
+factors but is also given discretion to consider any factor the
+                               4
+Librarian deems appropriate. Id. The fact that there is little
+statutory information about what the Register must consider
+in its recommendation further supports the position that it is
+unlikely that Congress intended for judicial review of the
+Librarian’s triennial rulemaking.       Under this statutory
+scheme, the recommendations are mere suggestions and one
+of many factors and considerations that the Librarian can
+utilize to make its decision. See § 1201(c). By contrast,
+under 17 U.S.C. § 702, “[a]ll regulations established by the
+Register under this title are subject to the approval of the
+Librarian of Congress.” Id. But the statutory authority to
+promulgate those regulations lies with the Registrar.
+Moreover, while the Librarian has authority to approve (or
+reject) the Registrar’s regulations, the statute is silent as to
+whether the Librarian could substantively rewrite the
+regulations and promulgate the rewritten versions.
+
+    Because the Library of Congress is not an agency within
+the meaning of the APA and Congress has not otherwise
+expressly waived sovereign immunity over suits challenging
+the Librarian’s actions, I would affirm the district court’s
+holding that the trade associations’ claims are barred by
+sovereign immunity.
+

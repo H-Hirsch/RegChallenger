@@ -1,0 +1,760 @@
+United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued January 14, 2009               Decided July 17, 2009
+
+                       No. 08-5156
+
+      SOUTHEAST ALABAMA MEDICAL CENTER, ET AL.,
+                    APPELLANTS
+
+                             v.
+
+                   KATHLEEN SEBELIUS,
+                       APPELLEE
+
+
+        Appeal from the United States District Court
+                for the District of Columbia
+                    (No. 1:04-cv-01143)
+
+
+
+    James F. Segroves argued the cause for appellants. With
+him on the briefs was Malcolm J. Harkins III.
+
+    Henry C. Whitaker, Attorney, U.S. Department of Justice,
+argued the cause for appellee. With him on the brief were
+Gregory G. Katsas, Assistant Attorney General, Jeffrey A.
+Taylor, U.S. Attorney, and Mark B. Stern, Attorney. R. Craig
+Lawrence, Assistant U.S. Attorney, entered an appearance.
+
+    Before:   HENDERSON, TATEL, and GARLAND, Circuit
+Judges.
+
+    Opinion for the Court filed by Circuit Judge GARLAND.
+                               2
+
+     GARLAND, Circuit Judge: Appellants are 113 inpatient
+hospitals located in Alabama, Louisiana, and Mississippi. They
+contend that the Department of Health and Human Services
+(HHS) interpreted the Medicare reimbursement statute in a way
+that improperly deprived them of millions of dollars. The
+district court disagreed and granted summary judgment for the
+Department. We affirm the district court’s judgment in all but
+one respect.
+
+                                I
+
+     In 1983, Congress revised the Medicare reimbursement
+statute to move from a “reasonable cost” method of
+retrospective compensation to the Prospective Payment System
+(PPS). Social Security Amendments of 1983, Pub. L. No. 98-
+21, § 601, 97 Stat. 65, 149; see Transitional Hosps. Corp. of La.
+v. Shalala, 222 F.3d 1019, 1021 (D.C. Cir. 2000); County of Los
+Angeles v. Shalala, 192 F.3d 1005, 1008-09 (D.C. Cir. 1999).
+Under this system, HHS reimburses hospitals that provide
+inpatient care to eligible beneficiaries according to a
+preestablished formula, regardless of the actual costs incurred.
+42 U.S.C. § 1395ww(d). The payment rates are tied to the
+national average cost of treating a patient in a particular
+“diagnosis-related group” (DRG). Id. The statute mandates that
+HHS adjust the standardized payment rates for area differences
+in hospital costs, id. § 1395ww(d)(3)(E), which HHS
+accomplishes through annual notice-and-comment rulemaking.
+This case concerns the methodology that HHS used to make
+these geographic adjustments in fiscal years (FY) 2003 and
+2004.
+
+    During those years, the relevant statutory section, 42 U.S.C.
+§ 1395ww(d)(3)(E), provided in relevant part:
+                                 3
+
+         The Secretary shall adjust the proportion, (as estimated
+         by the Secretary from time to time) of hospitals’ costs
+         which are attributable to wages and wage-related costs,
+         of the DRG prospective payment rates computed under
+         subparagraph (D) for area differences in hospital wage
+         levels by a factor (established by the Secretary)
+         reflecting the relative hospital wage level in the
+         geographic area of the hospital compared to the
+         national average hospital wage level. Not later than
+         October 1, 1990, and October 1, 1993 (and at least
+         every 12 months thereafter), the Secretary shall update
+         the factor under the preceding sentence on the basis of
+         a survey conducted by the Secretary (and updated as
+         appropriate) of the wages and wage-related costs of
+         subsection (d) hospitals in the United States. Not less
+         often than once every 3 years the Secretary (through
+         such survey or otherwise) shall measure the earnings
+         and paid hours of employment by occupational
+         category and shall exclude data with respect to the
+         wages and wage-related costs incurred in furnishing
+         skilled nursing facility services.
+
+42 U.S.C. § 1395ww(d)(3)(E) (2000) (emphases added).1 HHS
+has traditionally referred to the “proportion” described in
+§ 1395ww(d)(3)(E)’s first sentence as the “labor-related share,”
+and has referred to the “factor” described in the first two
+sentences as the “wage index.” Following the district court, we
+will instead refer to these constructs by their statutory names and
+will capitalize “Proportion” and “Factor” for purposes of clarity.
+The measurement of “the earnings and paid hours of
+employment by occupational category” described in the third
+
+
+    1
+     Unless otherwise indicated, citations to 42 U.S.C.
+§ 1395ww(d)(3)(E) will refer to the version in effect during FY 2003
+and 2004, as codified in the 2000 edition of the U.S. Code.
+                                 4
+
+sentence of § 1395ww(d)(3)(E) has traditionally been known as
+the “occupational mix,” a term we will retain.
+
+     Although § 1395ww(d)(3)(E) is hardly a paragon of clarity,
+the bottom line is as follows: The statute first requires HHS to
+determine the Proportion of the DRG reimbursement that is
+attributable to wages and wage-related costs. HHS must then
+adjust that Proportion by a Factor reflecting the relative hospital
+wage level in the hospital’s geographic area as compared to the
+national average hospital wage level; the rest of the
+reimbursement amount -- the share not attributable to wages or
+wage-related costs -- is not adjusted. In addition, HHS must
+adjust the Factor itself for occupational mix. But see infra Part
+II.C (explaining that this last requirement is not applicable to the
+fiscal years at issue on this appeal).
+
+    For FY 2003 and 2004, HHS determined the Proportion to
+be 71.066 percent.2 The Factor varied significantly across
+geographic areas, ranging in FY 2004 from a high of 1.51 in the
+Oakland, California area to a low of 0.42 in northwest Puerto
+Rico.3 As the mathematics worked out, hospitals in geographic
+areas with Factors less than 1 -- i.e., hospitals in low-wage
+regions -- wanted the Proportion to be as low as possible,
+whereas hospitals in areas with Factors greater than 1 wanted the
+Proportion to be as high as possible. In addition, every hospital
+
+    2
+     Medicare Program; Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2004 Rates, 68 Fed.
+Reg. 45,346, 45,468 (2003) [hereinafter FY 2004 Final Rule];
+Medicare Program; Changes to the Hospital Inpatient Prospective
+Payment Systems and Fiscal Year 2003 Rates, 67 Fed. Reg. 49,982,
+50,042 (2002) [hereinafter FY 2003 Final Rule].
+    3
+     Medicare Program; Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2004 Rates; Correction,
+68 Fed. Reg. 57,732, 57,736-43 (2003).
+                                  5
+
+wanted its own area’s Factor to be as high as possible. The
+hospitals bringing this case are all from areas that were assigned
+Factors less than 1.4
+
+    The appellant hospitals challenged HHS’s final rules for FY
+2003 and 2004 before the Department’s Provider
+Reimbursement Review Board, see 42 U.S.C. § 1395oo(b),
+which granted their request for expedited judicial review in the
+United States District Court for the District of Columbia, see 42
+U.S.C. § 1395oo(f)(1). The hospitals raised four main
+arguments before the district court. First, they contended that
+during the fiscal years in question, HHS violated
+§ 1395ww(d)(3)(E) by including in the Proportion hospital
+expenses that were not “attributable to wages and wage-related
+costs” and that did not vary on a local basis. Second, they
+
+
+    4
+      The government provides an example to illustrate how
+reimbursement payments would have been calculated “for treatment
+in a diagnostic category with a payment level of $10,000”:
+
+        The part of that payment attributable to wage-related costs
+        [the Proportion] would be subject to adjustment. For FY
+        2004, the [Proportion] was approximately 71 percent;
+        accordingly, $7,100 was subject to adjustment. That $7,100
+        would be multiplied by the relevant [Factor]. In Oakland,
+        where the FY 2004 [Factor] was 1.51, the [Proportion]-related
+        payment would thus be adjusted upward to $10,721[,] with a
+        total payment of $13,621 [i.e., $10,721 plus the non-wage-
+        related share of $2,900, calculated by subtracting $7,100 from
+        $10,000]. In rural Louisiana, where the wage index was .75,
+        the calculation would result in a total payment of $8,225 [i.e.,
+        ($7,100 x .75) + $2,900] for the same diagnostic category.
+
+HHS Br. 4 n.1. Hence, as a consequence of the Proportion and Factor,
+a hospital in Oakland would be reimbursed $5,396 more than a
+hospital in rural Louisiana for providing the same type of treatment.
+                               6
+
+argued that the Department’s decision to include certain cost
+items in the Proportion but not in the Factor violated the plain
+language of the statute and was arbitrary and capricious. Third,
+they argued that HHS also violated the statute and acted
+arbitrarily and capriciously by failing to adjust the Factor for
+occupational mix. Finally, they maintained that HHS violated
+the statute by failing to account for interstate employment when
+calculating the Factor.
+
+     The district court rejected all of these arguments and
+granted summary judgment for the government. Se. Ala. Med.
+Ctr. v. Leavitt, 539 F. Supp. 2d 352 (D.D.C. 2008). The court
+found that HHS’s interpretation of “wages and wage-related
+costs” in the Proportion was consistent with the words’ ordinary
+meaning, id. at 357-58; that the statute permitted HHS to use
+different cost items in the Proportion as compared to the Factor,
+id. at 359; that there was “no basis on [the] record on which to
+conclude that the Secretary’s choice to not collect [data on
+occupational mix] in time . . . to be applied in [FY 2003 and
+2004] was unambiguously forbidden by the statute” or otherwise
+unreasonable, id.; and that the hospitals’ failure to raise their
+interstate employment argument before the Provider
+Reimbursement Review Board barred them from raising it in
+court, id. at 360.
+
+      The hospitals now appeal, making the same four arguments.
+We address each of them below. We note, however, that
+although resolution of these arguments has financial significance
+for the appellants’ FY 2003 and 2004 claims, the significance of
+the arguments for any subsequent-year claims is extremely
+limited. See Oral Arg. Recording at 7:57-8:05 (acknowledgment
+by counsel for appellants that their primary arguments in this
+case “do not affect [them] for the future”). The import of the
+first two arguments was greatly diminished if not negated by a
+statutory amendment, effective in FY 2005, which directs HHS
+                               7
+
+to “substitute ‘62 percent’ for the [P]roportion” unless doing so
+“would result in lower payments to a hospital than would
+otherwise be made.” Medicare Prescription Drug, Improvement,
+and Modernization Act of 2003, Pub. L. No. 108-173,
+§ 403(a)(1), 117 Stat. 2066, 2265 (codified at 42 U.S.C.
+§ 1395ww(d)(3)(E)(ii)). And as explained in Part II.C below,
+appellants’ third argument was mooted by statutory amendments
+to the provision regarding occupational mix.
+
+                               II
+
+     In reviewing HHS’s actions on appeal from the district
+court, this “court addresses the issue de novo, without deference
+to the decision of the district court.” Methodist Hosp. of
+Sacramento v. Shalala, 38 F.3d 1225, 1229 (D.C. Cir. 1994).
+We review the Department’s interpretation of provisions of the
+Medicare statute under the two-step framework of Chevron
+U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S.
+837 (1984). Under that framework, “[i]f the intent of Congress
+is clear, . . . [a court] must give effect to the unambiguously
+expressed intent of Congress.” Id. at 842-43. But “if the statute
+is silent or ambiguous with respect to the specific issue,” the
+court must uphold the agency’s interpretation as long as it is
+reasonable. Id. at 843. We review other aspects of HHS’s
+actions under the Administrative Procedure Act (APA), pursuant
+to which we will uphold them unless they are “arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law.” 5 U.S.C. § 706(2)(A); see 42 U.S.C.
+§ 1395oo(f)(1).
+
+                               A
+
+     The hospitals’ primary target on appeal is the Proportion --
+that is, “the proportion . . . of hospitals’ costs which are
+attributable to wages and wage-related costs.” 42 U.S.C.
+                                8
+
+§ 1395ww(d)(3)(E). For the fiscal years in question, HHS
+interpreted the phrase “costs which are attributable to wages and
+wage-related costs” to include “wages[,] salaries, [and] fringe
+benefits,” as well as “professional fees, contract labor, postage,
+business services, and labor-intensive services.” FY 2003 Final
+Rule, 67 Fed. Reg. at 50,041; see FY 2004 Final Rule, 68 Fed.
+Reg. at 45,467-68. “Each of these categories,” HHS has said,
+“is classified as labor-related because it consists of direct
+payments to labor inputs by the hospital or hospital payments for
+services that are very labor intensive.” Medicare Program;
+Changes to the Inpatient Hospital Prospective Payment System
+and Fiscal Year 1991 Rates, 55 Fed. Reg. 35,990, 36,046 (1990)
+[hereinafter FY 1991 Final Rule]. The hospitals object to three
+cost items that HHS included in its calculation of the Proportion.
+
+     1. First and foremost, the hospitals maintain that HHS
+should not have included payments made for hospital
+employees’ health insurance, worker’s compensation insurance,
+pension plans, and other fringe benefits because they are not
+“wages” or “wage-related.” But the Medicare statute defines
+neither “wages” nor “wage-related,” and there is nothing
+unreasonable about HHS’s determination that these cost items
+fit within common definitions. As the district court noted, some
+dictionaries define the term “wage,” itself, to include fringe
+benefits. See, e.g., WEBSTER’S THIRD NEW INTERNATIONAL
+DICTIONARY OF THE ENGLISH LANGUAGE UNABRIDGED 2568
+(1976) (defining a “wage” as “a pledge or payment of usually
+monetary remuneration by an employer especially for labor or
+services usually according to contract and on an hourly, daily,
+or piecework basis and often including bonuses, commissions,
+and amounts paid by the employer for insurance, pension,
+hospitalization, and other benefits” (emphases added)
+(abbreviations in original replaced with whole words)). In any
+event, fringe benefits -- which are part of the compensation an
+employee receives for his or her services -- fit comfortably
+                                 9
+
+within the broad meaning of the term “wage-related.” See id. at
+1916 (defining “related” as “having relationship: connected by
+reason of an established or discoverable relation”); see also
+Morales v. Trans World Airlines, Inc., 504 U.S. 374, 383 (1992)
+(“The ordinary meaning of [‘relating to’] is a broad one[,] . . .
+and the words thus express a broad [statutory] purpose.”);
+Moshea v. NTSB, No. 08-1218, --- F.3d ---, --- (D.C. Cir. June
+30, 2009) (“Without getting into a metaphysical discussion of
+the meaning of the phrase ‘related to,’ it suffices here to say that
+the words ‘related to’ are broad.”).
+
+     The hospitals also maintain that HHS wrongly included the
+cost of payments for insurance premiums, pensions, and other
+fringe benefits because such costs do not vary based on local
+labor markets. It is true that the Secretary has found it relevant,
+in determining whether a cost item is wage-related, to examine
+whether the item varies with the local labor market. For
+example, the 2004 final rule stated that “[w]e define the
+[Proportion] to include all costs that are likely related to,
+influenced by, or vary with local labor markets, even if they
+could be purchased in a national market.” FY 2004 Final Rule,
+68 Fed. Reg. at 45,468 (emphasis added). But although HHS’s
+statements on this issue are not crystal clear, we do not read
+them as declaring that only costs that vary with local labor
+markets may be included in the Proportion.
+
+     Nor does the statute itself impose such a requirement. The
+statute provides only that the Secretary must, first, estimate the
+Proportion of hospitals’ costs “which are attributable to wages
+and wage-related costs,” 42 U.S.C. § 1395ww(d)(3)(E), and,
+second, adjust that Proportion “for area differences in hospital
+wage levels by [the] [F]actor,” id. The geographic element
+enters at step two -- in the calculation of the Factor -- and not at
+step one’s calculation of the Proportion. As counsel for HHS
+correctly noted at oral argument, the Proportion and the Factor
+                                10
+
+are “two different moving parts that work together” to
+accomplish the purpose of adjusting PPS payments for area
+wage differences, and the role of the Proportion is to define the
+“universe” of costs that the Factor adjusts on this basis. Oral
+Arg. Recording at 21:01-26.
+
+     Accordingly, while it might have been reasonable for HHS
+to restrict the Proportion to cost items that vary on a local basis,
+it was not unreasonable for the agency to decline to do so. See
+Entergy Corp. v. Riverkeeper, Inc., 129 S. Ct. 1498, 1505 (2009)
+(holding that an agency’s “view governs if it is a reasonable
+interpretation of the statute -- not necessarily the only possible
+interpretation, nor even the interpretation deemed most
+reasonable by the courts”). Even if the hospitals are correct that
+the costs of fringe-benefit items used to calculate the Proportion
+do not vary with local labor markets -- a proposition that is not
+obvious and certainly not proven -- it would not establish a
+violation of the Medicare statute or the APA.
+
+     2. The hospitals also contend that the agency erred by
+including in the Proportion payments to independent contractors
+for certain nonmedical services. These include the services of
+landscapers, accountants, and lawyers. In the district court, the
+hospitals asserted that only amounts “paid directly by the
+hospital to the individual providing the service to the hospital,
+whether that individual is an independent contractor or a
+hospital employee,” were appropriately included. Se. Ala. Med.
+Ctr., 539 F. Supp. 2d at 357. Although this, too, might have
+been a reasonable line to draw, it is not the only reasonable line.
+As the district court found, “[t]he statute does not expressly limit
+the wages and wage-related costs to those paid by the hospital
+directly to an individual, as opposed to some third-party
+employer of individuals providing hospital services.” Id.
+Rather, the statute simply directs HHS to include costs that are
+“attributable to wages and wage-related costs,” 42 U.S.C.
+                                  11
+
+§ 1395ww(d)(3)(E) (emphasis added), and payments to third
+parties to provide workers reasonably fall within that category.
+Indeed, when a hospital hires an outside entity to provide
+individuals to perform services for which it might otherwise
+have used or hired its own employees, the hospital incurs costs
+that it would otherwise have spent directly on wages. See
+Medicare Program; Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2003 Rates, 67
+Fed. Reg. 31,404, 31,447 (2002) [hereinafter FY 2003 Proposed
+Rule] (“By capturing more than just the direct labor costs[,] . . .
+our definition captures the ‘buy-versus-hire’ decisions hospitals
+make in the purchase of their inputs.”).
+
+     On appeal, the hospitals take a somewhat different tack,
+suggesting that the line should be drawn against including fees
+paid for “non-health-care-related” or “nonmedical” services,
+while permitting the inclusion of payments to “non-employee
+independent contractors such as physicians.” Appellants’ Br.
+20; see id. at 22-23, 34-37. Again, this might have been a
+reasonable line to draw. But the statute merely requires the
+inclusion of “costs which are attributable to wages and wage-
+related costs,” 42 U.S.C. § 1395ww(d)(3)(E), and HHS did not
+act unreasonably in interpreting that phrase to include
+nonmedical costs.5
+
+     5
+      The hospitals make three further arguments that also fail to
+persuade. First, they suggest that HHS’s habit of referring to the
+Proportion as the “labor-related share,” rather than the “wage-related
+share,” betrays a lack of fidelity to the statutory text. Yet while the
+term “labor-related share” may be an infelicitous shorthand, it carries
+no legal force. Second, they cite the Internal Revenue Code for a
+more restrictive definition of “wages” than the one used by HHS. The
+tax code, however, is not germane to this unrelated area of law;
+indeed, the Supreme Court has “pointed out that the word ‘wages’ has
+different meanings under different statutes.” United States v. Davis,
+154 F.2d 314, 317 (D.C. Cir. 1946) (citing Williams v. Jacksonville
+                                    12
+
+     3. Finally, the hospitals challenge HHS’s decision to
+include postage costs in calculating the Proportion, and with this
+they strike a heavier blow. HHS initially proposed to exclude
+postage from the Proportion in FY 2003, see FY 2003 Proposed
+Rule, 67 Fed. Reg. at 31,447, but ultimately declined to do so in
+that year and in both of the next two. In its FY 2006
+rulemaking, however, HHS changed its mind, concluding:
+
+          We do not believe that we should continue to include
+          postage costs in the [Proportion] as postage fees are set
+          at nationally uniform rates and are not affected by local
+          purchasing power of hospitals. The cost of postage is
+          primarily influenced by weight of the package and the
+          distance the package is traveling.
+
+Medicare Program; Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 2006 Rates, 70
+Fed. Reg. 47,278, 47,395-96 (2005) (citation omitted). The
+question is whether there was any reasonable ground for
+including postage costs in the fiscal years under challenge here.
+
+     In its FY 2003 and 2004 final rules, HHS gave no reason at
+all for deciding against its initial proposal to revise the
+Proportion by excluding postage.6 HHS’s briefs offer one
+
+
+Terminal Co., 315 U.S. 386 (1942)). Finally, the hospitals claim that
+HHS’s definition of the Proportion is inconsistent with its own cost-
+reporting worksheet. See Addendum to HHS Br. at 56 (reproducing
+the worksheet). The worksheet, however, is not inconsistent with the
+agency’s definition. See, e.g., id. at line 9 (directing hospitals to report
+fees paid to certain independent contractors as “Other Wages &
+Related Costs”).
+     6
+      The HHS brief states that the Secretary “decided not to make
+that and other revisions to the [Proportion] because he was concerned
+that the proposed revisions resulted in a net increase in the
+                                  13
+
+somewhat opaque rationale, citing the Department’s 1990
+statement that it includes “very labor-intensive” services in the
+Proportion. FY 1991 Final Rule, 55 Fed. Reg. at 36,046 (quoted
+in HHS Br. at 26). Yet even assuming that postage (or mail
+delivery) is very labor-intensive, HHS does not argue that
+postage is materially more labor-intensive than other excluded
+services or explain why postage was included while other very
+labor-intensive services were not. Cf. Oral Arg. Recording at
+30:38-59 (acknowledgment by HHS that “we have no position
+on what kind of detailed analysis might support [the
+determination] that postage is or is not labor-intensive”).
+
+     It cannot be the case that every service purchased by a
+hospital that is very labor-intensive is therefore “attributable to”
+the hospital’s “wages and wage-related costs.” 42 U.S.C.
+§ 1395ww(d)(3)(E). Although much labor surely goes into the
+manufacture of ambulances, HHS does not contend that the
+entire purchase price of an ambulance can be counted toward the
+Proportion. HHS must explain why the cost of the stamps on a
+hospital’s letters is wage-related while the cost of the ambulance
+in its garage or the grapes in its cafeteria is not. “Until the
+Secretary provides such an explanation,” this court “cannot
+evaluate whether the Secretary’s interpretation of the statute is
+reasonable within the meaning of Chevron step two.” Kidney
+Ctr. of Hollywood v. Shalala, 133 F.3d 78, 88 (D.C. Cir. 1998).
+
+     In the previous section, we concluded that HHS reasonably
+classified payments to certain independent contractors as “wages
+
+
+[Proportion], which would have harmed rural hospitals like plaintiffs.”
+HHS Br. 25-26 (citing FY 2003 Final Rule, 67 Fed. Reg. at 50,042
+(first emphasis added)). But neither the brief nor the final rules
+suggest that excluding postage alone would have had that harmful
+result (and no doubt it would not have), or that there was any need to
+tie postage to the other proposed revisions.
+                                14
+
+or wage-related” where the contractors provided workers whom
+the hospital might otherwise have hired directly. Such
+payments, the Department reasonably explained, “capture[] the
+‘buy-versus-hire’ decisions hospitals make in the purchase of
+their inputs.” FY 2003 Proposed Rule, 67 Fed. Reg. at 31,447.
+But that rationale cannot justify including postage costs as
+wages or wage-related, as there is no realistic possibility that a
+hospital would hire its own employees to deliver any significant
+fraction of its mail.
+
+     HHS does point out that it has counted postage costs toward
+the Proportion since the PPS system was first established. But
+that is history, not explanation. No matter how consistent its
+past practice, an agency must still explain why that practice
+comports with the governing statute and reasoned
+decisionmaking. Although it does motivate us to give the
+agency another chance to provide an adequate explanation, no
+amount of historical consistency can transmute an unreasoned
+statutory interpretation into a reasoned one. Cf. Smiley v.
+Citibank (S.D.), N.A., 517 U.S. 735, 740 (1996) (“To be sure,
+agency interpretations that are of long standing come before us
+with a certain credential of reasonableness, since it is rare that
+error would long persist.          But neither antiquity nor
+contemporaneity with the statute is a condition of validity.”).
+
+     In sum, although HHS has reasonably explained why two
+of the three cost categories that appellants challenge come
+within the statutory Proportion, it has failed to provide such an
+explanation for postage. We therefore remand this issue for
+HHS to provide an adequate explanation, if it can. See
+Allied-Signal, Inc. v. U.S. Nuclear Regulatory Comm’n, 988
+F.2d 146, 150-51 (D.C. Cir. 1993).7
+
+
+    7
+     At oral argument, HHS contended for the first time that the
+hospitals’ postage argument was waived because they did not raise it
+                                  15
+
+                                  B
+
+      The hospitals’ next contention is that HHS’s decision to
+include certain contract labor cost items in the Proportion, but
+not in the Factor, conflicts with the Medicare statute and the
+APA. The hospitals reject the explanation that HHS provided in
+its rulemaking: although the agency possessed adequate data to
+include nonmedical professional fees and certain other labor-
+intensive services in the Proportion, it lacked adequate data to
+include them in the Factor. See FY 2004 Final Rule, 68 Fed.
+Reg. at 45,399; FY 2003 Final Rule, 67 Fed. Reg. at 50,022-23.
+If the data were not good enough for the Factor, the hospitals
+contend, then they cannot have been good enough for the
+Proportion.
+
+     The hospitals’ argument overlooks the textual and
+functional differences between the Proportion and the Factor.
+Whereas the statute provides that the Proportion shall be
+“estimated by the Secretary,” it states that the Factor shall be
+updated “on the basis of a survey conducted by the Secretary.”
+42 U.S.C. § 1395ww(d)(3)(E). Whereas the Proportion need
+only be estimated “from time to time,” the Factor must be
+updated “at least every 12 months.” Id. And whereas the
+Proportion measures “hospitals’ costs which are attributable to
+
+
+
+with the agency at the appropriate time. This contention is itself
+waived because HHS did not raise it with this court at the appropriate
+time. See Ark Las Vegas Rest. Corp. v. NLRB, 334 F.3d 99, 108 n.4
+(D.C. Cir. 2003) (holding that points raised for the first time at oral
+argument are waived); Belton v. Washington Metro. Area Transit
+Auth., 20 F.3d 1197, 1202 (D.C. Cir. 1994) (holding that a party may
+waive its own waiver argument by not raising it in a timely fashion on
+appeal). In any event, the hospitals did raise the argument before the
+agency. See Appellants’ Additional Excerpts from the Administrative
+Record 269a-70a, 418a.
+                                16
+
+wages and wage-related costs,” Congress intended the Factor to
+“reflect[] the relative hospital wage level in the geographic area
+of the hospital compared to the national average hospital wage
+level.” Id. The statute thus makes clear that the Proportion and
+the Factor are not identical constructs. Accordingly, the
+Secretary has some discretion to construct them in non-identical
+ways.
+
+     A point of particular significance is that an “estimate[]” is
+not the same thing as a determination based on a “survey.” To
+estimate the national total costs of any category of hospital
+expenditure for the Proportion, HHS only had to possess
+sufficiently valid and reliable aggregate data -- from whatever
+source -- on which to base its figures. For this purpose, HHS
+found, statistics developed by outside entities like the
+Department of Commerce were appropriate. By contrast, the
+statute limits the Factor to expenditures that can be measured
+“on the basis of a survey” that reflects relative hospital wage
+levels by geographic area. For that purpose, HHS collected
+wage-and-hour information from hospitals. Those surveys
+asked for data on wages and hours of hospital employees and of
+contractors that provided direct patient-care services. But HHS
+did not believe that hospitals could reliably report the wages and
+hours associated with other contractors that provided services
+that affected patient care indirectly, often at off-site facilities.
+See, e.g., Medicare Program; Changes to the Hospital Inpatient
+Prospective Payment Systems and Fiscal Year 1997 Rates, 61
+Fed. Reg. 46,166, 46,182 (1996).
+
+     The hospitals do not challenge HHS’s assessment of these
+collection difficulties, nor do they explain why the data HHS
+relied upon for the Proportion were deficient for its purpose.
+Even if it would have been preferable for the Department to use
+identical cost items in the Proportion and the Factor, we cannot
+say that the limited deviations it permitted were unreasonable.
+                                17
+
+Cf. Methodist Hosp. of Sacramento, 38 F.3d at 1230 (“The
+statute does not specify how the Secretary should construct the
+[Factor], nor how often she must revise it, although these
+methodological issues both bear significantly on the accuracy of
+the Secretary’s adjustments. Rather, Congress through its
+silence delegated these decisions to the Secretary.”).
+
+                                 C
+
+     The hospitals’ third contention is that HHS violated the
+Medicare statute by failing to adjust the Factor to account for
+occupational mix, notwithstanding “Congress’s unambiguous
+instruction that he do so unless it was not ‘feasible.’”
+Appellants’ Br. 14. This claim fails because the congressional
+instruction cited by the hospitals did not apply to the fiscal years
+at issue in this case.
+
+     For many years, § 1395ww(d)(3)(E) provided that the
+survey on which the Factor is based “shall measure”
+occupational mix “[t]o the extent determined feasible by the
+Secretary.” See, e.g., 42 U.S.C. § 1395ww(d)(3)(E) (1994). It
+is undisputed that, until 2004, HHS had never taken such
+measurements. On December 21, 2000, however, Congress
+repealed this discretionary language and replaced it with the
+following new language: “Not less often than once every three
+years the Secretary (through such survey or otherwise) shall
+measure” data on occupational mix. Medicare, Medicaid, and
+SCHIP Benefits Improvement and Protection Act of 2000, Pub.
+L. No. 106-554 App. F, § 304(c), 114 Stat. 2763A-463, 2763A-
+495 (codified in part at 42 U.S.C. § 1395ww(d)(3)(E)). An
+uncodified provision of that legislation further instructed the
+Secretary to “first complete” the collection and measurement of
+occupational mix data “[b]y not later than September 30, 2003,
+for application beginning October 1, 2004” -- that is, for
+                                    18
+
+application beginning in FY 2005. Id. § 304(c)(3), 114 Stat. at
+2763A-495.
+
+     The consequence of these amendments was that, by the end
+of the 2000 calendar year, § 1395ww(d)(3)(E) no longer
+required the Secretary to measure data on occupational mix if he
+determined it was feasible -- just that he do so in time for
+application in FY 2005. In short, for the fiscal years relevant to
+this case (2003 and 2004), § 1395ww(d)(3)(E) gave the
+Secretary a pass with respect to occupational mix. The
+Medicare statute therefore provides no support for the hospitals’
+claim.
+
+      Recognizing the obstacle that the 2000 amendments pose
+for their argument, the hospitals cite the general savings statute,
+1 U.S.C. § 109,8 for the proposition that Congress’s “subsequent
+. . . imposition of a firm deadline to fix a problem that the
+Secretary had created and continued for years” -- the failure to
+adjust the Factor for occupational mix -- “does not absolve the
+Secretary of liability for his past misconduct.” Appellants’ Br.
+55. The hospitals’ reliance on § 109 is misplaced. Even if
+HHS’s longstanding failure to measure data regarding
+occupational mix constituted a violation of the prior version of
+§ 1395ww(d)(3)(E) -- a point we need not decide -- § 109 would
+
+     8
+       Section 109, entitled “Repeal of statutes as affecting existing
+liabilities,” states in pertinent part:
+
+         The repeal of any statute shall not have the effect to release or
+         extinguish any . . . liability incurred under such statute, unless
+         the repealing Act shall so expressly provide, and such statute
+         shall be treated as still remaining in force for the purpose of
+         sustaining any proper action or prosecution for the
+         enforcement of such . . . liability.
+
+1 U.S.C. § 109.
+                                19
+
+at most suggest that the 2000 amendments did not “release or
+extinguish any . . . liability incurred under” that prior version.
+1 U.S.C. § 109. But the hospitals do not claim that they are
+owed anything on account of liabilities incurred by HHS prior
+to December 2000. Their claim is that HHS violated
+§ 1395ww(d)(3)(E) by failing to adjust the Factor for
+occupational mix in FY 2003 and 2004. And that is a claim as
+to which both the pre-amendment Medicare provision and the
+savings statute are irrelevant.
+
+                                 D
+
+     Finally, the hospitals allege that HHS impermissibly failed
+to account for interstate employment, particularly “nurse
+migration,” in calculating the Factor. The inputs to the Factor,
+they note, “do not take into account the fact that hospitals in
+neighboring . . . areas often compete with each other for the
+same employee pool.” Appellants’ Br. 56. As a consequence,
+HHS “established reimbursement rates that are too low to permit
+hospitals in low-[Factor] states . . . to effectively compete for
+employees with neighboring states that have higher [Factors].”
+Id. This, the hospitals maintain, violates the statutory command
+that the Factor “reflect[] the relative hospital wage level in the
+geographic area of the hospital compared to the national
+average hospital wage level.” 42 U.S.C. § 1395ww(d)(3)(E)
+(emphasis added).
+
+     The government contends that we should not reach this
+claim because the hospitals failed to raise it before the Provider
+Reimbursement Review Board. The hospitals insist that they
+did raise it. Although the record is not entirely clear, it contains
+at least one submission that in our view did raise the nurse
+migration argument specifically with respect to FY 2004. See
+Supp. J.A. 110a.
+                               20
+
+     In any event, the argument fails on its merits. Section
+1395ww(d)(3)(E) provides only that the Factor should “reflect[]
+the relative hospital wage level in the geographic area of the
+hospital compared to the national average hospital wage level.”
+42 U.S.C. § 1395ww(d)(3)(E). As the Second Circuit has found,
+“the statute leaves considerable ambiguity as to the term
+‘geographic area,’ which, based only on the literal language of
+the provision, could be as large as a several-state region or as
+small as a city block.” Bellevue Hosp. Ctr. v. Leavitt, 443 F.3d
+163, 175 (2d Cir. 2006). As that court further found, HHS’s
+longstanding policy of using Metropolitan Statistical Areas
+(MSAs) -- which can be interstate -- to define those “geographic
+areas” is a reasonable response to this ambiguity. Id. at 167,
+175-78. If it was reasonable for HHS to define “geographic
+area” in the Factor by reference to the MSA classifications, it
+was likewise reasonable for the agency to decline to complicate
+matters by layering in a dynamic model of migratory and
+commuting patterns. The statute does not define “geographic
+area,” much less require HHS to take into account the movement
+of workers across such areas.
+
+      The hospitals do not seriously dispute any of this, nor
+suggest any mechanism by which HHS could have measured
+inter-area effects, nor explain why such an effort would have led
+to a sounder result. Whether or not it would have been desirable
+for the Department to adjust the Factor on the basis of inter-area
+employment, it was reasonable for it to decline to do so.
+
+                               III
+
+     For the foregoing reasons, we affirm the judgment of the
+district court in part, reversing solely with respect to HHS’s
+decision to include postage costs in the Proportion. We remand
+the case to the district court with instructions to remand it to
+                              21
+
+HHS for further consideration on that issue consistent with this
+opinion.
+
+                                                    So ordered.
+
