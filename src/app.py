@@ -218,7 +218,7 @@ def get_data():
     return load_dataset(STEP1_PATH, STEP2_PATH, STEP3_PATH)
 
 
-@st.cache_data(show_spinner="Computing embeddings...")
+@st.cache_data(show_spinner="Loading embeddings...")
 def get_embeddings(_rulemakings_df):
     return compute_embeddings(_rulemakings_df)
 
